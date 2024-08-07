@@ -1,7 +1,7 @@
 ---
 title: "Get Your Graphics Up to Speed: Instant GeForce GTX 460 Windows Drivers!"
-date: 2024-08-05 19:33:16
-updated: 2024-08-06 11:57:22
+date: 2024-08-06T09:36:08.948Z
+updated: 2024-08-07T09:36:08.948Z
 tags:
   - win11
   - win10
@@ -23,28 +23,47 @@ thumbnail: https://thmb.techidaily.com/f2d53ebba5315caabb937b6a02076182259db722e
 
 [Way 2. Download GeForce GTX 460 Driver automatically via Driver Easy ( Recommended)](https://www.drivereasy.com/knowledge/geforce-gtx-460-driver-download-windows-easily/#2)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Way 1\. Download GeForce GTX 460 Driver manually
 
  1) Go to [NVIDIA Downloads Center](https://tools.techidaily.com/drivereasy/download/) . Then set following items one by one: Product Type to be **GeForce,**  Product Series to be **GeForce 400 Series,**  Product to be **GeForce GTX 460,**  Operating System to be **(according to your PC)** . **Note:**  See [How to check Windows Operating System Version](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/1-20.png)
 
  Click **SEARCH** . 2) Click **DOWNLOAD** and then install by prompts.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/2-22.png)
 
  Reboot your PC to make change taking effect.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Way 2\. Download GeForce GTX 460 Driver automatically via Driver Easy ( Recommended)
 
  If you want to save time, I highly recommend this nice driver tool for you — [Driver Easy](https://tools.techidaily.com/drivereasy/download/) to update your GeForce GTX 460 Driver automatically. [Driver Easy](https://tools.techidaily.com/drivereasy/download/) can automatically scan your computer, then tell you which drivers are missing or outdated, and update them very quickly. Have a try on [Free Version](https://tools.techidaily.com/drivereasy/download/) , Driver Easy will offer the latest GeForce GTX 460 Driver for you to install. But if you update to [PRO Version](https://tools.techidaily.com/drivereasy/download/) , all you need to do is just click mouse two times.
 
 **Firstly** , click **Scan Now** . It will fast detect all drivers problems of your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/SCAN-2.jpg)
 
 **Secondly** , click **Update All** . It will download and install **ALL** new drivers including your GeForce GTX 460 Driver automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/GTX-460.jpg)
 
  Moreover, no worry to have a try on it as you can enjoy 30-day money back and professional tech support anytime guarantee.

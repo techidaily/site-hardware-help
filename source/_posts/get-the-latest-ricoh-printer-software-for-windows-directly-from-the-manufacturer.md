@@ -1,7 +1,7 @@
 ---
 title: Get the Latest Ricoh Printer Software for Windows Directly From the Manufacturer
-date: 2024-08-05 21:51:12
-updated: 2024-08-07 12:12:21
+date: 2024-08-06T09:35:53.752Z
+updated: 2024-08-07T09:35:53.752Z
 tags:
   - win11
   - win10
@@ -15,10 +15,16 @@ thumbnail: https://thmb.techidaily.com/25348c47fef7e0c5d4c880e473042e01e47d5973d
 
 ## Update Your Windows PC with the Latest Sapphire Graphics Driver Software Today
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/11293_03_RX5700XT_Nitro_Plus_8GBGDDR6_C02_374x265-1.png)
 
  Need to update your Sapphire drivers on Windows? In this article, we’ll walk you through 3 simple ways to get it done in seconds. Read on and choose the way you like to get your driver updated.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3 ways to download the latest Sapphire drivers
 
 [1: Update via Device Manager](https://tools.techidaily.com/drivereasy/download/)
@@ -27,6 +33,9 @@ thumbnail: https://thmb.techidaily.com/25348c47fef7e0c5d4c880e473042e01e47d5973d
 
 [3: Automatic update (Recommended!)](https://www.drivereasy.com/knowledge/sapphire-drivers-download-on-windows/#method3)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1: Update via Device Manager
 
  You can use Device Manager, a Windows tool, to scan for any updates of your graphics driver. Follow these steps:
@@ -42,15 +51,24 @@ thumbnail: https://thmb.techidaily.com/25348c47fef7e0c5d4c880e473042e01e47d5973d
 
 Restart your PC to let the new driver take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2: Manual download from the manufacturer’s website
 
  Manufacturers release updates for their graphics cards quite often. If you’re looking to get the latest driver for your Sapphire graphics card, you can find it on[AMD Support page](https://www.amd.com/en/support) . Search for your product, and make sure to only download the driver that’s**compatible with your Windows Version** . Once you’ve downloaded the driver, you’ll need to install it manually.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 3: Automatic update (Recommended!)
 
  If you don’t have the time, patience, or computer skills to update your Sapphire graphics driver manually, you can, instead, do it automatically with [Driver Easy](https://tools.techidaily.com/drivereasy/download/) . Driver Easy will automatically recognize your system, find the correct driver for your exact video card and your Windows version, then download and install it correctly:
 
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 

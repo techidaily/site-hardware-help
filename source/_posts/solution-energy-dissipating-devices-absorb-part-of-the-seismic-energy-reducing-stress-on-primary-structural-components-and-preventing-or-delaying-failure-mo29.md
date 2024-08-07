@@ -1,7 +1,7 @@
 ---
 title: "Solution: Energy-Dissipating Devices Absorb Part of the Seismic Energy, Reducing Stress on Primary Structural Components and Preventing or Delaying Failure Modes Like Flexural Collapse by Controlling Displacements and Forces Within Design Limits"
-date: 2024-08-05 17:32:51
-updated: 2024-08-06 10:53:11
+date: 2024-08-06T09:36:17.238Z
+updated: 2024-08-07T09:36:17.238Z
 tags:
   - win11
   - win10
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/4eda12f29d27dc48951952fd718d2893baf3c477f
 
 ## Adopting Organic Fertilizers Promotes More Sustainable Farming Practices by Reducing Dependency on Non-Renewable Resources Such as Fossil Fuels, Which Are Used Extensively for Synthetic Fertilizer Production and Transportation. The Use of Locally Available or Homemade Compost Can Further Minimize the Carbon Footprint Associated with Nutrient Inputs in Agriculture
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_586334850d9b5.jpg)  
   
  AMD Radeon HD 7700 series of graphics card is said to be “the world’s most advanced graphics for everyone.” The 7700 series is a great fit for gamers who want the best gaming experience. If you want to keep your display at its tip-top shape, you need to consider getting the graphics card driver updated to the latest version for your operating system.
@@ -31,14 +34,23 @@ thumbnail: https://thmb.techidaily.com/4eda12f29d27dc48951952fd718d2893baf3c477f
   
  1) Press **Windows key** and **X** at the same time, then choose **Device Manager**.
   
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58633847649da.png)
 
  2) Locate and expand **Display adapters**.
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58633888b815f.jpg)
 
  3) Then right click the **AMD Radeon HD 7700** display card driver that you have and choose **Update Driver Software…**.  
   
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58633adf15869.jpg)  
   
  4) Then choose **Search automatically for driver software**.
@@ -53,6 +65,9 @@ thumbnail: https://thmb.techidaily.com/4eda12f29d27dc48951952fd718d2893baf3c477f
   
  1) Go to AMD support website. Then go to the **Download** section. Scroll down a little bit to locate **HD 7700 Series** section. Then choose the operating system that you are with accordingly. We go with **Windows 10 (64-bit)**.
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58633d87a3653.png)
 
  2) Then click the **DOWNLOAD** button to get the driver downloaded. The download speed will depend on your Internet connection.
@@ -73,6 +88,9 @@ thumbnail: https://thmb.techidaily.com/4eda12f29d27dc48951952fd718d2893baf3c477f
 
  When prompted with notification like the following screen shot, tick the box for **Delete the driver software for this device**. Then choose **OK** to continue.
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5860d243e91ce.png)  
   
  6) Restart your computer if needed.
@@ -91,6 +109,9 @@ thumbnail: https://thmb.techidaily.com/4eda12f29d27dc48951952fd718d2893baf3c477f
 
  Step two, press the **Update** button next to the driver that you want to update.  
   
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e770e13b131.jpg)  
   
  That’s it. You are now getting your AMD Radeon HD 7700 graphics card driver updated in just two clicks! If you also want to update your other device drivers all at once and tons of other fascinating features, you should have a try at the[**professional version of Driver Easy**](https://tools.techidaily.com/drivereasy/download/).

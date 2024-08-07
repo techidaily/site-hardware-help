@@ -1,7 +1,7 @@
 ---
 title: Up-to-Date AMD RX 5700 XT Graphics Card Driver Downloads Supporting Windows 11/10/8/7 Platforms
-date: 2024-08-06 10:39:29
-updated: 2024-08-07 10:25:41
+date: 2024-08-06T09:36:08.168Z
+updated: 2024-08-07T09:36:08.168Z
 tags:
   - win11
   - win10
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/fa466aca4e0117af9ede098ff5beff07b4b780680
 
 ## Latest ThinBook T420s Windows 10 Support Drivers Available for Download Now
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/lenovo-thinkpad-t420s.jpg)
 
  **Lenovo ThinkPad T420s** is a rather old model of computer. You will see the notification telling you that it is “**no longer available for purchase on lenovo.com** ” even if you want to purchase it now.  
@@ -29,6 +32,9 @@ thumbnail: https://thmb.techidaily.com/fa466aca4e0117af9ede098ff5beff07b4b780680
   
  1) Follow the path:**Start** button**\> Control Panel** (View by**Small icon** )**\> Device Manager** .
   
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/start-button-control-panel-view-by-small-icon-device-manager-600x433.jpg)
 
  2) Click the**Scan for hardware changes** button on the top bar. This will allow Windows to help you scan for possible faulty device drivers.
@@ -37,10 +43,16 @@ thumbnail: https://thmb.techidaily.com/fa466aca4e0117af9ede098ff5beff07b4b780680
 
  3) If you see any device driver with certain mark next to it, such as a yellow exclamation mark, a question mark, etc., right click it and choose**Update Driver Software…** .We are updating **Base System Device** , yours could be different.
   
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583d26d86670e.jpg)
   
  If you don’t see a device driver with the unusual mark, and you just want to update certain device driver, that’s okay, just right click the device driver that you want to update and choose**Update Driver Software…** .
   
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583e933a476f5.jpg)
 
  4) Then choose**Search automatically for updated driver software** .
@@ -49,6 +61,9 @@ thumbnail: https://thmb.techidaily.com/fa466aca4e0117af9ede098ff5beff07b4b780680
 
  5) As we mentioned above, this model of computer is rather old, so there is a big chance that you are not getting the latest version of the device drivers in this way, and you will be very likely to see the following notification:
   
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583d2800916a1.png)
   
  When you see this, it means that Windows currently cannot find you the latest version for your computer, and you might need to read along to get your device drivers downloaded and updated.
@@ -57,6 +72,9 @@ thumbnail: https://thmb.techidaily.com/fa466aca4e0117af9ede098ff5beff07b4b780680
   
  1) Go to the support website of Lenovo. Then in the middle part of the page, type the model type of your computer into the search box, or you can choose**Detect my product** option for the support website to detect your computer model.
   
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58451b8ec244b-600x181.png)
   
  2) Then you will be lead to a webpage where you can download the needed drivers for your operating system. Click the arrow icon as shown on the screen shot and then choose accordingly the OS that you are having now. You can choose**Windows 8.1 (64-bit)** or**Windows 8.1 (32-bit)** from the list of choice. Then select **Drivers & Software** option.
@@ -73,6 +91,9 @@ thumbnail: https://thmb.techidaily.com/fa466aca4e0117af9ede098ff5beff07b4b780680
 
  4) Open[**Device Manager**](https://tools.techidaily.com/drivereasy/download/) . Then locate the device that you want to update, right click it and choose**Uninstall** .
   
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58453032d36ec.jpg)
 
  If prompted with the following notification, tick the box for **Delete the driver software for this device** , and then choose**OK** to continue.
@@ -85,6 +106,9 @@ thumbnail: https://thmb.techidaily.com/fa466aca4e0117af9ede098ff5beff07b4b780680
   
  6) In the Properties window, go to**Compatibility** tab, then tick the box for**Run this program in compatibility mode for:** and then choose Windows 8 from the list of choice. Hit**Apply** and**OK** to save and continue.
   
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58453296945bb.jpg)
 
  7) Then double click the the set up file to run the install as instructed. Please remember to restart your computer when the install finishes, and make the change take effect.

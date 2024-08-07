@@ -1,7 +1,7 @@
 ---
 title: "Free Download: Official Toshiba Bluetooth Drivers"
-date: 2024-08-04 10:45:14
-updated: 2024-08-07 12:57:38
+date: 2024-08-06T09:36:00.241Z
+updated: 2024-08-07T09:36:00.241Z
 tags:
   - win11
   - win10
@@ -19,23 +19,43 @@ If you find your CSR dongle doesn’t work on your computer, then you may need t
 
  In this post, we’ll show you two ways to download the correct CSR Bluetooth driver.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## **Option 1 –** **Download and install the driver manually**
 
  You can update your CSR Bluetooth driver via Device Manager where you can view and manage hardware devices and software drivers in your computer. Here’s what you need to do:
 
 1. On your keyboard, press the **Windows logo key** \+ **R** at the same time to invoke the **Run** box.
 2. Type **devmgmt.msc** and click **OK** .  
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/device-manager-2.jpg)
 3. Double click **Bluetooth** to expand the category.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be13adaeb501.jpg)
 4. Right-click on your **CSR Bluetooth driver** (it may be displayed as **Unknown device** ), and click **Update** **driver** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be13c8c01780.jpg)
 5. Choose **Search automatically for updated driver software** .  
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be13cd36976a.jpg)
 6. Then follow the on-screen instructions to finish.
 
  This requires time and computer skills. If this method doesn’t work for you, don’t worry. There’s something else to try.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## **Option 2 – Automatically update CSR Bluetooth driver**
 
  If you don’t have time or patience, you can update driver for CSR8510 A10 Bluetooth dongle automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -44,6 +64,9 @@ If you find your CSR dongle doesn’t work on your computer, then you may need t
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Open Driver Easy and click **Scan Now** . Driver Easy will then scan the problem drivers in your computer.  
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/11.jpg)
 3. Click the **Update** button next to the flagged CSR8510 A10 device to automatically download the correct version of their driver (you can do this with the **FREE** version). Then install it on your computer.  
 

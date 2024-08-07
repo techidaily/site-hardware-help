@@ -1,7 +1,7 @@
 ---
 title: How to Install or Update Your Ricoh Printer's Driver on a Windows Computer
-date: 2024-08-04 10:27:29
-updated: 2024-08-07 11:50:26
+date: 2024-08-06T09:36:00.337Z
+updated: 2024-08-07T09:36:00.337Z
 tags:
   - win11
   - win10
@@ -15,10 +15,22 @@ thumbnail: https://thmb.techidaily.com/5003aae1e7f947a598bd55077396c6a7704237963
 
 ## Up-to-Date HP Scanjet Printer Drivers - Download and Install on Your Windows PC
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-06_11-21-24-2.jpg)
 
  Can’t get your new**HP Scanjet** working? Or maybe you’d like to improve the performance of your HP Scanjet? If yes, then you should check or update the driver for your scanner.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why you need to update your driver
 
  Drivers are essential to the computer. They function as a bridge between your devices and the computer. Without them, there’s a high chance your devices won’t work as expected.
@@ -38,6 +50,9 @@ Here’re 2 ways you can download and update your HP Scanjet driver:
 
  1) Visit the[official HP website](https://support.hp.com/us-en/document/c04635830) , and scroll down until you see your model. Here we take**HP ScanJet Pro 3500 f1** as an example:
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-06_12-23-46-1-1200x727.jpg)
 
  2) In the row containing your model, click the**rightmost link** to enter the download page.
@@ -52,10 +67,16 @@ Here’re 2 ways you can download and update your HP Scanjet driver:
 
  4) Once you’ve downloaded the driver,**double-click** to open the file and follow the on-screen instruction to install.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-06_12-32-40-1.jpg)
 
  When you complete the installation process, connect your HP Scanjet to the computer and see if it’s running.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Option 2: Download and update the HP Scanjet driver automatically (Recommended)
 
  1)**Connect** HP Scanjet to your computer.
@@ -70,6 +91,9 @@ Here’re 2 ways you can download and update your HP Scanjet driver:
   
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-04_18-45-37-2.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  

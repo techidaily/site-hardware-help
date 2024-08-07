@@ -1,7 +1,7 @@
 ---
 title: "Quick & Simple Guide: How To Update Your PC's Battery Drivers On Windows"
-date: 2024-08-06 16:47:15
-updated: 2024-08-07 10:45:52
+date: 2024-08-06T09:36:01.877Z
+updated: 2024-08-07T09:36:01.877Z
 tags:
   - win11
   - win10
@@ -19,12 +19,18 @@ Searching all over the Internet for your **Asus VG248QE** driver so that your mo
 
  Check out this guide and you’ll be enjoying the life-like viewing experience as promised in no time! 😉
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## About **Asus VG248QE driver**
 
  In fact, ASUS’s official website doesn’t provide a monitor driver for our **Asus VG248QE** gaming monitor simply because it doesn’t need one. Like most typical monitors, our **Asus VG248QE** gaming monitor is perfectly compatible with our computer and doesn’t need a separate monitor driver to have the designated viewing effects.
 
  But if you are running into problems like   **Asus VG248QE showing as generic PnP monitor**  and**no 144hz** , as many users have reported, it’s highly recommended you**update your graphics driver** for the best performance of your monitor.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ## How to update your graphics driver
 
  Both methods below work in**Windows 10** ,**8.1** and**7** . You don’t have to try both, just browse through the list and take your pick:
@@ -32,6 +38,9 @@ Searching all over the Internet for your **Asus VG248QE** driver so that your mo
 1. **[Update your graphics driver automatically (Recommended)](https://www.drivereasy.com/knowledge/asus-vg248qe-driver-free-download-update-easily/#M1)**
 2. **[Update your graphics driver manually](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1: Update your graphics driver automatically (Recommended)
 
  If you’re not confident playing around with drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -42,8 +51,14 @@ Searching all over the Internet for your **Asus VG248QE** driver so that your mo
 
 1. [Download](https://tools.techidaily.com/drivereasy/download/)  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b472685de9c9.jpg)
 3. Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b472528c2b06.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer for the changes to take effect.
@@ -57,6 +72,10 @@ Searching all over the Internet for your **Asus VG248QE** driver so that your mo
 Here’re we go:
 
 1. On your keyboard, press **the Windows logo key** and **R**  at the same time, then copy & paste **devmgmt.msc** into the box and click **OK** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 2. Locate and double-click on **Display adapters** (aka. **Graphics card** , **Video card** ) and you can see your**brand and model of graphics card** right below.  
  (**Intel(R) HD Graphics 4000** in my case).  

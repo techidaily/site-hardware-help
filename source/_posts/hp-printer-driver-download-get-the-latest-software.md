@@ -1,7 +1,7 @@
 ---
 title: "HP Printer Driver Download: Get the Latest Software"
-date: 2024-08-03 15:57:58
-updated: 2024-08-06 12:14:34
+date: 2024-08-06T09:36:12.900Z
+updated: 2024-08-07T09:36:12.900Z
 tags:
   - win11
   - win10
@@ -25,14 +25,23 @@ Just purchased the HP LaserJet Pro M404n printer? Then you need to download the 
 
  2) Click**Driver-Product Installation Software** to expand the list.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/HP-smart.png)
 
  3) Click**Install** to download and install HP Smart. Then follow the instructions on screen to finish the download and installation.  
   
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to download and install HP Smart](https://images.drivereasy.com/wp-content/uploads/2021/04/install.png)
 
  HP Smart is what HP recommends to install when you’re trying to set up your printer. It’s a useful application that makes setting up a printer or troubleshooting printer issues become easier. But if you just need that driver for your LaserJet Pro M404n printer, you can download it in the**Basic Drivers** section.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Update your printer driver
 
  When you’re not able to print a document or some of the features are not working as expected, you need to check if your printer driver is out of date or corrupt. While driver updates come with bug fixes and performance improvements. To get the most out of your printer, you’re supposed to update your printer driver.
@@ -47,6 +56,9 @@ Just purchased the HP LaserJet Pro M404n printer? Then you need to download the 
 
  2) Type**devmgmt.msc** and press Enter.  
   
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to open the Device Manager](https://images.drivereasy.com/wp-content/uploads/2021/04/open-the-Device-Manager.png)
 
  3) Double-click**Printers** to show the list. Then right-click**HP LaserJet Pro M404n** and select**Update driver** .
@@ -59,6 +71,9 @@ Just purchased the HP LaserJet Pro M404n printer? Then you need to download the 
 
  However, you may be told that your driver is already up to date. It’s possible that it still takes time for Microsoft to test and sign the new drivers that just have been submitted. If that’s your case, you can use the driver updater tools such as Driver Easy to automatically update your drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Option 2: Automatically update your printer driver (recommended)
 
  If attempting to update drivers via the Device Manager didn’t give you the best results, or if you don’t have the time, patience or computer skills to update your drivers manually, you can instead do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -69,6 +84,9 @@ Just purchased the HP LaserJet Pro M404n printer? Then you need to download the 
 
  2) Click **Scan Now** . Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![update drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
 
  3) Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  

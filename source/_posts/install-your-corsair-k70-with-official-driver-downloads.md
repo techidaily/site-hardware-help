@@ -1,7 +1,7 @@
 ---
 title: Install Your Corsair K70 with Official Driver Downloads
-date: 2024-08-06 10:49:58
-updated: 2024-08-07 10:10:38
+date: 2024-08-06T09:36:15.855Z
+updated: 2024-08-07T09:36:15.855Z
 tags:
   - win11
   - win10
@@ -22,15 +22,28 @@ Your Asus DVD drive is not working well after upgrading to Windows 10? It’s pr
 **[STEP 1 – Confirm it’s a driver problem](https://tools.techidaily.com/drivereasy/download/)**
 **[STEP 2 – Update your audio drivers](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ## STEP 1 – Confirm it’s a driver problem
 
  To confirm if your DVD drive problem is caused by driver issue, you need to check for the driver status in Device Manager:
 
 1. On your keyboard, press the**Windows logo key**  and **R** at the same time to invoke a **Run** command.
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 2. Type**devmgmt.msc** and click **OK** . This will start the Device Manager.![](https://images.drivereasy.com/wp-content/uploads/2019/06/dvd1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3. In Device Manager, click**View** and then select**Show hidden devices** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/dvd.jpg)
 4. Expand**DVD/CD-ROM drives** , if you see a yellow mark next to the device name (usually an exclamation or a question mark), there’s a problem with the driver, and you need to update it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## STEP 2 – Update your dvd drivers
 
 There are three ways you can update your audio drivers:
@@ -49,6 +62,18 @@ To do so, follow these steps:
 
 1. On your keyboard, press the**Windows logo key**  and **R** at the same time to invoke a **Run** command.
 2. Type**devmgmt.msc** and click **OK** . This will start the Windows 10 Device Manager.  
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/dvd1.jpg)
 3. Expand**DVD/CD-ROM drives** , right-click the device and select**Uninstall** .
 4. Restart your computer and open Device Manager.
@@ -59,6 +84,9 @@ To do so, follow these steps:
 
  You can download ASUS DVD drivers utility from ASUS official website. Go to the[ASUS download center](https://www.asus.com/support/Download-Center/) , find the program that corresponds with your operating system and downloads it manually.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/asus-1024x706.jpg)
 
  Once you’ve downloaded the utility, double-click on the downloaded file and follow the on-screen instructions to install it. Then run this program to manage your ASUS DVD driver.

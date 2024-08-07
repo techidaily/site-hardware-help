@@ -1,7 +1,7 @@
 ---
 title: Brother HL2280DW Driver Downloads for Windows 11/10/8/7 – Install Now
-date: 2024-08-04 17:31:58
-updated: 2024-08-07 11:49:20
+date: 2024-08-06T09:35:56.235Z
+updated: 2024-08-07T09:35:56.235Z
 tags:
   - win11
   - win10
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/dc229e7dd5dce04caabe58bbbc326bcfc746011c8
 
 ## Brother HL2280DW Driver Downloads for Windows 11/10/8/7 – Install Now
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![brother hl 2280dw driver](https://images.drivereasy.com/wp-content/uploads/2020/07/featured-image.jpg)
 
  Most of us will feel overwhelmed when facing some printing issues such as printer not working, or printer responding too slowly. This sort of problem usually occurs when your printer driver is out-of-date, incompatible, or damaged. Luckily, they are easy to solve.
@@ -27,6 +30,9 @@ thumbnail: https://thmb.techidaily.com/dc229e7dd5dce04caabe58bbbc326bcfc746011c8
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## Fix 1 – Re-enable the Brother HL 2280DW driver
 
  If your printer isn’t working properly, you could disable and re-enable its driver first, and see if the printer returns to normal.
@@ -37,10 +43,16 @@ thumbnail: https://thmb.techidaily.com/dc229e7dd5dce04caabe58bbbc326bcfc746011c8
 
 **2)** Double-click**Printers** to expand the category.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/2.jpg)
 
 **3)** Right-click**Brother HL 2280DW** , and select**Disable device** .
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/3-1.jpg)
 
 **4)** Click**Yes** when you’re prompted.
@@ -74,12 +86,18 @@ thumbnail: https://thmb.techidaily.com/dc229e7dd5dce04caabe58bbbc326bcfc746011c8
 
 **2)** Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de.jpg)
 
 **3)** Click the**Update** button next to the flagged Brother HL-2280DW driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/10.jpg)
 
  You can do it for free if you like, but it’s partly manual.
@@ -93,6 +111,9 @@ thumbnail: https://thmb.techidaily.com/dc229e7dd5dce04caabe58bbbc326bcfc746011c8
 
 **1)** Go to the[**Brother support website**](https://support.brother.com/g/b/productsearch.aspx?c=us%5Fot&lang=en&content=dl) . Type**Brother HL 2280DW** in the search box, and click**Search** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/6.jpg)
 
 **2)** Select your operating system and the right version. Then, click**OK** .

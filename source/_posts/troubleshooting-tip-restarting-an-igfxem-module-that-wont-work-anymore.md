@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tip: Restarting an igfxEM Module that Won't Work Anymore"
-date: 2024-08-06 16:46:29
-updated: 2024-08-07 12:38:10
+date: 2024-08-06T09:36:05.638Z
+updated: 2024-08-07T09:36:05.638Z
 tags:
   - win11
   - win10
@@ -26,6 +26,9 @@ If you’re looking to **update your Windows 7 network adapter driver** ,  you�
 1. [**Update network adapter driver automatically (Recommended)**](https://www.drivereasy.com/knowledge/network-adapter-driver-download-in-windows-7/#M1)
 2. **[Update network adapter driver manually](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ### Method 1: Update network adapter driver automatically (Recommended)
 
  If you don’t have the time, patience or computer skills to update the driver for your network adapter manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -48,10 +51,16 @@ If you’re looking to **update your Windows 7 network adapter driver** ,  you�
 
  5) Click **Browse…** , then choose a destination folder in your computer to save the offline scan file. After that, click **Offline Scan** .
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-176.png)
 
  6) A window will pop up telling you that the offline scan file has been saved. Click **OK**  to confirm.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-177.png)
 
  7) Open the folder where you’ve saved the offline scan file. Then **save** the file in a USB flash drive and transfer it to another computer with Internet connection.
@@ -60,6 +69,9 @@ If you’re looking to **update your Windows 7 network adapter driver** ,  you�
 
  9) Run Driver Easy and click **Tools** in the left pane.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-174.png)
 
  10) Click **Offline Scan** . Then select **Upload Offline Scan File (on the computer with Internet access)** and click **Continue** .
@@ -68,6 +80,9 @@ If you’re looking to **update your Windows 7 network adapter driver** ,  you�
 
  11) Click **Browse…**  to locate the offline scan file. Then click **Continue** .
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-179.png)
 
  12) Click the **Download** button next to your network adapter driver.
@@ -82,6 +97,9 @@ If you’re looking to **update your Windows 7 network adapter driver** ,  you�
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 2: Update network adapter driver manually
 
 **Warning** : Downloading the wrong driver or installing it incorrectly can compromise our PC’s stability and even cause the whole system to crash. So please proceed at your own peril.

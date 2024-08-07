@@ -1,7 +1,7 @@
 ---
 title: "Easy Install: Software for Your New Gigabyte GC-WB867D-I Video Card - Download Here"
-date: 2024-08-04 16:33:29
-updated: 2024-08-06 10:58:47
+date: 2024-08-06T09:36:15.181Z
+updated: 2024-08-07T09:36:15.181Z
 tags:
   - win11
   - win10
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de
 
  Can’t get your new**HP Scanjet** working? Or maybe you’d like to improve the performance of your HP Scanjet? If yes, then you should check or update the driver for your scanner.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why you need to update your driver
 
  Drivers are essential to the computer. They function as a bridge between your devices and the computer. Without them, there’s a high chance your devices won’t work as expected.
@@ -32,12 +35,20 @@ Here’re 2 ways you can download and update your HP Scanjet driver:
 1. **[Download the HP Scanjet driver manually](https://tools.techidaily.com/drivereasy/download/)**
 2. **[Download and update the HP Scanjet driver automatically (Recommended)](https://www.drivereasy.com/knowledge/hp-scanjet-drivers-download-and-update-on-windows/#option2)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Option 1: Download the HP Scanjet driver manually
 
  Manufacturers always release the drivers for their product on the**official website** . So, to manually install/update the driver for HP Scanjet, follow these steps:
 
  1) Visit the[official HP website](https://support.hp.com/us-en/document/c04635830) , and scroll down until you see your model. Here we take**HP ScanJet Pro 3500 f1** as an example:
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-06_12-23-46-1-1200x727.jpg)
 
  2) In the row containing your model, click the**rightmost link** to enter the download page.
@@ -48,10 +59,16 @@ Here’re 2 ways you can download and update your HP Scanjet driver:
 
  We recommend downloading**HP ScanJet Pro 3000 s3 Full Feature Software and Driver** , just so you’ll enable all the features of your scanner.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-06_12-25-10-1200x752.jpg)
 
  4) Once you’ve downloaded the driver,**double-click** to open the file and follow the on-screen instruction to install.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-06_12-32-40-1.jpg)
 
  When you complete the installation process, connect your HP Scanjet to the computer and see if it’s running.
@@ -64,6 +81,9 @@ Here’re 2 ways you can download and update your HP Scanjet driver:
 
  3) Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-04_17-40-32-1.jpg)
 
  4) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the**Pro version** of Driver Easy to do this, so you’ll be prompted to upgrade. Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  

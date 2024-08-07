@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Updating Your Motherboard Drivers in Windows"
-date: 2024-08-06 14:42:59
-updated: 2024-08-07 12:52:11
+date: 2024-08-06T09:35:46.143Z
+updated: 2024-08-07T09:35:46.143Z
 tags:
   - win11
   - win10
@@ -27,6 +27,9 @@ thumbnail: https://thmb.techidaily.com/53fe0eda386b7492486b516c7c80e84033132f711
 
 [**Method 2** **– Automatically (Recommended):**](https://www.drivereasy.com/knowledge/amd-vega-64-drivers-download-update-solved/#b)  This option is **much quicker and easier** .   **All**  you need to do is   **just a couple of mouse clicks** !
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### **Method 1: Download and install your AMD Radeon RX Vega 64 Graphics driver manually**
 
  You can download the updated driver file for your AMD Radeon RX Vega 64 Graphics from the official website of [**AMD**](https://www.amd.com/en) . You can follow the steps below:
@@ -35,15 +38,25 @@ thumbnail: https://thmb.techidaily.com/53fe0eda386b7492486b516c7c80e84033132f711
 
 1. Click **[here](https://www.amd.com/en)**  to visit the official website of AMD.
 2. Click**DRIVERS & SUPPORT** on the top of the web page to visit AMD Drivers and Support page.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000079.png)
 3. Click**search all products** . Then select**Radeon RX Vega 64** in the list. If Radeon RX Vega 64 doesn’t appear in the list, you can type **Vega 64** in the search bar first. Then click**SUBMIT** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000086.png)
 4. Select your version of Windows to continue.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000081.png)
 5. Click**Download** to download the driver file to your PC.  
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000082.png)
 6. **Double-click** the downloaded file and follow the on-screen instructions to install the driver on your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### **Method 2: Update your AMD Radeon RX Vega 64 Graphics driver automatically**
 
  If you don’t have the time, patience or computer skills to update your AMD Radeon RX Vega 64 Graphics driver manually, you can, instead, do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .  You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all** .
@@ -52,8 +65,14 @@ thumbnail: https://thmb.techidaily.com/53fe0eda386b7492486b516c7c80e84033132f711
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)** and install **Driver Easy** .
 2. Run **Driver Easy**  and click the **Scan Now**  button. **Driver Easy**  will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000027-3.png)
 3. Click **Update**  next to your**AMD Radeon RX Vega 64** Graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee  ).  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000083.png)  
  You can do it for free if you like, but it’s partly manual.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .

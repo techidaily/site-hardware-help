@@ -1,7 +1,7 @@
 ---
 title: Xbox Gamepad Drivers Not Working? Solutions for Users of Windows 10, 8 & 7!
-date: 2024-08-05 23:56:15
-updated: 2024-08-06 11:54:43
+date: 2024-08-06T09:35:47.705Z
+updated: 2024-08-07T09:35:47.705Z
 tags:
   - win11
   - win10
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/286866a306a63ee3881a3e82bbbdfd6a5621a0735
 
  Have you ever run into an**XBOX ACC** issue? When you see this weird item, chances are that your Windows system fails to recognize the Xbox device, or to install the corresponding driver for it properly. In this case, you should try to update the Xbox adapter driver by yourself instead of relying on Windows to do it for you. Don’t panic if you are not sure how to update the so-called XBOX ACC driver (actually it’s just the driver for your Xbox device) – this post will get you out of trouble.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to download and install the XBOX ACC driver
 
  Generally there are two ways you can update your XBOX ACC adapter drivers:
@@ -41,6 +44,9 @@ thumbnail: https://thmb.techidaily.com/286866a306a63ee3881a3e82bbbdfd6a5621a0735
 
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-277.png)
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your Xbox adapter driver for now, simply click the**Update** button next to it.
@@ -53,6 +59,10 @@ thumbnail: https://thmb.techidaily.com/286866a306a63ee3881a3e82bbbdfd6a5621a0735
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### Option 2 – Update your XBOX ACC driver manually
 
  To update your XBOX ACC driver manually, please complete the following procedure:
@@ -61,6 +71,9 @@ thumbnail: https://thmb.techidaily.com/286866a306a63ee3881a3e82bbbdfd6a5621a0735
 
  2) In the search box located in the upper right corner of the site, type**Xbox wireless** and click **Search** .
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-280.png)
 
  3) On the next page, you’ll be presented with a list of Xbox wireless adapter drivers. Scroll through the list until you find the one compatible with your Windows version. Then click the**Download**  button next to it.
@@ -73,12 +86,18 @@ thumbnail: https://thmb.techidaily.com/286866a306a63ee3881a3e82bbbdfd6a5621a0735
 
  6) Make sure you connect your Xbox device to the computer. Then, on your keyboard, Press the **Windows Logo Key** and **R** at the same time to invoke the Run dialog box. Type **devmgmt.msc**  and click **OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-255.png)
 
  7) Here pops up your**Device Manager** . Double-click on the **Other devices** node to open its drop-down list. Then right-click on**XBOX ACC** and select**Update driver** .
 
 ![This image has an empty alt attribute; its file name is image-301.png](https://images.drivereasy.com/wp-content/uploads/2019/06/image-301.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-298.png)
 
  8) In the next window, select**Browse my computer for driver software** .

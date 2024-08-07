@@ -1,7 +1,7 @@
 ---
 title: Get the Most Recent Graphics Card Software - Download Drivers for Your GTX 1650 SUPER on Windows Platforms
-date: 2024-08-04 11:21:13
-updated: 2024-08-06 11:58:36
+date: 2024-08-06T09:36:13.573Z
+updated: 2024-08-07T09:36:13.573Z
 tags:
   - win11
   - win10
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/5f1d20c9cdc38cb1d77f47c43dee5a5d477e2ff17
 
 ## Get the Newest Driver Software for Your Lenovo ThinkPad T420s on Windows 11 - FREE Download
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/lenovo-thinkpad-t420s.jpg)
 
  **Lenovo ThinkPad T420s** is a rather old model of computer. You will see the notification telling you that it is “**no longer available for purchase on lenovo.com** ” even if you want to purchase it now.  
@@ -33,6 +36,9 @@ thumbnail: https://thmb.techidaily.com/5f1d20c9cdc38cb1d77f47c43dee5a5d477e2ff17
 
  2) Click the**Scan for hardware changes** button on the top bar. This will allow Windows to help you scan for possible faulty device drivers.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
  ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583d25f77a789.jpg)
 
  3) If you see any device driver with certain mark next to it, such as a yellow exclamation mark, a question mark, etc., right click it and choose**Update Driver Software…** .We are updating **Base System Device** , yours could be different.
@@ -45,6 +51,9 @@ thumbnail: https://thmb.techidaily.com/5f1d20c9cdc38cb1d77f47c43dee5a5d477e2ff17
 
  4) Then choose**Search automatically for updated driver software** .
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583d275459f1b-600x437.jpg)
 
  5) As we mentioned above, this model of computer is rather old, so there is a big chance that you are not getting the latest version of the device drivers in this way, and you will be very likely to see the following notification:
@@ -57,6 +66,9 @@ thumbnail: https://thmb.techidaily.com/5f1d20c9cdc38cb1d77f47c43dee5a5d477e2ff17
   
  1) Go to the support website of Lenovo. Then in the middle part of the page, type the model type of your computer into the search box, or you can choose**Detect my product** option for the support website to detect your computer model.
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58451b8ec244b-600x181.png)
   
  2) Then you will be lead to a webpage where you can download the needed drivers for your operating system. Click the arrow icon as shown on the screen shot and then choose accordingly the OS that you are having now. You can choose**Windows 8.1 (64-bit)** or**Windows 8.1 (32-bit)** from the list of choice. Then select **Drivers & Software** option.
@@ -69,18 +81,30 @@ thumbnail: https://thmb.techidaily.com/5f1d20c9cdc38cb1d77f47c43dee5a5d477e2ff17
 
  If you know what device drivers that you are looking for, you can straightly type the device name into the**keyword** search box and hit**Enter** to get the result you need.
   
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58452fa664cc3-1024x193.png)
 
  4) Open[**Device Manager**](https://tools.techidaily.com/drivereasy/download/) . Then locate the device that you want to update, right click it and choose**Uninstall** .
   
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58453032d36ec.jpg)
 
  If prompted with the following notification, tick the box for **Delete the driver software for this device** , and then choose**OK** to continue.
   
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584531253c0bf.png)
 
  5) Go to the folder where you store the downloaded device driver file, right click the setup file and choose**Properties** .
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584531b30c61b.png)
   
  6) In the Properties window, go to**Compatibility** tab, then tick the box for**Run this program in compatibility mode for:** and then choose Windows 8 from the list of choice. Hit**Apply** and**OK** to save and continue.

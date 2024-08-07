@@ -1,7 +1,7 @@
 ---
 title: Canon MG2520 Windows Drivers - Free Downloads and Updates Available!
-date: 2024-08-04 21:25:25
-updated: 2024-08-07 10:13:25
+date: 2024-08-06T09:36:02.775Z
+updated: 2024-08-07T09:36:02.775Z
 tags:
   - win11
   - win10
@@ -29,6 +29,9 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
   
  1) Follow the path:**Start** button**\> Control Panel** (View by**Small icon** )**\> Device Manager** .
   
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/start-button-control-panel-view-by-small-icon-device-manager-600x433.jpg)
 
  2) Click the**Scan for hardware changes** button on the top bar. This will allow Windows to help you scan for possible faulty device drivers.
@@ -49,6 +52,9 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 
  5) As we mentioned above, this model of computer is rather old, so there is a big chance that you are not getting the latest version of the device drivers in this way, and you will be very likely to see the following notification:
   
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583d2800916a1.png)
   
  When you see this, it means that Windows currently cannot find you the latest version for your computer, and you might need to read along to get your device drivers downloaded and updated.
@@ -61,14 +67,29 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
   
  2) Then you will be lead to a webpage where you can download the needed drivers for your operating system. Click the arrow icon as shown on the screen shot and then choose accordingly the OS that you are having now. You can choose**Windows 8.1 (64-bit)** or**Windows 8.1 (32-bit)** from the list of choice. Then select **Drivers & Software** option.
   
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58452eb9a31d0.jpg)
 
  3) Scroll down a little bit, you will be seeing a list of device drivers, choose the ones that you need and click the**down arrow icon** on the right side to get them downloaded.
   
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58452f19c617b-1024x227.jpg)
 
  If you know what device drivers that you are looking for, you can straightly type the device name into the**keyword** search box and hit**Enter** to get the result you need.
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58452fa664cc3-1024x193.png)
 
  4) Open[**Device Manager**](https://tools.techidaily.com/drivereasy/download/) . Then locate the device that you want to update, right click it and choose**Uninstall** .
@@ -77,14 +98,23 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 
  If prompted with the following notification, tick the box for **Delete the driver software for this device** , and then choose**OK** to continue.
   
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584531253c0bf.png)
 
  5) Go to the folder where you store the downloaded device driver file, right click the setup file and choose**Properties** .
   
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584531b30c61b.png)
   
  6) In the Properties window, go to**Compatibility** tab, then tick the box for**Run this program in compatibility mode for:** and then choose Windows 8 from the list of choice. Hit**Apply** and**OK** to save and continue.
   
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58453296945bb.jpg)
 
  7) Then double click the the set up file to run the install as instructed. Please remember to restart your computer when the install finishes, and make the change take effect.

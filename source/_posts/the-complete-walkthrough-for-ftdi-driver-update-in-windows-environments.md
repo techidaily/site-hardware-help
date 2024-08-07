@@ -1,7 +1,7 @@
 ---
 title: The Complete Walkthrough for FTDI Driver Update in Windows Environments
-date: 2024-08-05 19:19:54
-updated: 2024-08-06 12:20:39
+date: 2024-08-06T09:35:52.308Z
+updated: 2024-08-07T09:35:52.308Z
 tags:
   - win11
   - win10
@@ -19,18 +19,36 @@ thumbnail: https://thmb.techidaily.com/cf1ae4b3cdb5debdafe3b02949517a45048f6142d
 
  Keeping your Canon printer drivers up to date can fix some connection issues and make sure your printer is always running in a good condition. In this post, you’ll learn every possible way of updating your Canon MF743CDW driver.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3 Ways to Update your Canon MF743CDW driver
 
 1. [Update your Canon printer driver via Device Manager](https://tools.techidaily.com/drivereasy/download/)
 2. [Download the driver from Canon official](https://tools.techidaily.com/drivereasy/download/)
 3. [Update the driver automatically](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ### Option 1\. Update your Canon printer driver via Device Manager
 
  Although Windows Update doesn’t always deliver the latest driver ([**Learn Why…**](https://tools.techidaily.com/drivereasy/download/) ), you can try updating your Canon MF743CDW driver easily using this method:
 
 1) Right-click the Start menu bar and select Device Manager.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-1.jpg)
 
  2) Double-click the Printers group to expand this category. Then right-click your Canon MF743CDW printer and select**Update driver** .
@@ -41,6 +59,9 @@ thumbnail: https://thmb.techidaily.com/cf1ae4b3cdb5debdafe3b02949517a45048f6142d
 
  4) Windows will try finding the “latest” driver for your printer. But if it shows no available updates, you may need to try the next method below or choose to update the driver automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  (the **[Pro Version](https://tools.techidaily.com/drivereasy/download/)**  comes with a 30-day free trial).
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Option 2\. Download the driver from Canon official
 
  If the Windows Update doesn’t give you the latest version of the Canon MF743CDW driver, you can always find a new driver on the product information page.
@@ -49,6 +70,9 @@ thumbnail: https://thmb.techidaily.com/cf1ae4b3cdb5debdafe3b02949517a45048f6142d
 
  2) In the top right corner, you can click the**PRODUCT INFORMATION** drop-down menu, and select**Drivers & Downloads** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-2.jpg)
 
  3) Scroll down the page and select the correct driver for your operating system.
@@ -75,6 +99,9 @@ thumbnail: https://thmb.techidaily.com/cf1ae4b3cdb5debdafe3b02949517a45048f6142d
 
  3) Click the **Update** button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/cdw.jpg)
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)

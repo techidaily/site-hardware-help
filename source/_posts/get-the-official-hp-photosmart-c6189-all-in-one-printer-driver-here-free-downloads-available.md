@@ -1,7 +1,7 @@
 ---
 title: Get the Official HP Photosmart C6189 All-in-One Printer Driver Here – Free Downloads Available
-date: 2024-08-06 10:38:47
-updated: 2024-08-07 11:44:29
+date: 2024-08-06T09:35:44.420Z
+updated: 2024-08-07T09:35:44.420Z
 tags:
   - win11
   - win10
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/f8f9fe2851c5ca0456a920a74a79a49663a6a1270
 
 ## Get the Latest HP Officejet Pro ˈ8600 Drivers for Your Windows PC – Free Downloads Available
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c02926047.png)
 
  This post will show you how to update printer driver for your**HP Officejet Pro 8600 All-in-One series** of printers.
@@ -35,12 +38,21 @@ thumbnail: https://thmb.techidaily.com/f8f9fe2851c5ca0456a920a74a79a49663a6a1270
 
  1) Press**Windows key** and**R** at the same time, then type in**devmgmt.msc** and hit**Enter** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_5907fef252f36.png)
  2) Locate and click to expand category**Print queues** .
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_590802e3114a1.jpg)
  3) Right click the**HP Officejet Pro 8600 printer** that you see here. Then choose**Update driver** option from the list.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59080a9f4559f.png)
 
  4) Then choose**Search automatically for updated driver software** .
@@ -49,6 +61,9 @@ thumbnail: https://thmb.techidaily.com/f8f9fe2851c5ca0456a920a74a79a49663a6a1270
 
  5) Then Windows will start to help you with the search of the new driver. If you see the notification as below, which indicates that Windows cannot help you with the driver update, then you need to look for an alternative. Please move on.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59082342e5590.jpg)
 
  **Option 2: Update Printer Driver Manually**
@@ -73,6 +88,9 @@ thumbnail: https://thmb.techidaily.com/f8f9fe2851c5ca0456a920a74a79a49663a6a1270
 
  2) Run Driver Easy and click**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59082b9478bec.png)
 
  3) Click the**Update** button next to the flagged printer driver to automatically download and install the correct version of this driver (you can do this with the FREE version).

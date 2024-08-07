@@ -1,7 +1,7 @@
 ---
 title: Guide to Installing Latest Drivers for Intel HD Graphics 5500
-date: 2024-08-05 12:25:36
-updated: 2024-08-07 10:18:36
+date: 2024-08-06T09:35:45.407Z
+updated: 2024-08-07T09:35:45.407Z
 tags:
   - win11
   - win10
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/845fcd5e3eadfdeed515b58ea51b6008ffc3adda0
 
 ## Easy-to-Install Drivers for Intel Iris Plus Graphics - Latest Version Now Available
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-712.png)
 
  Looking to update your Intel Iris Plus Graphics 640 driver but not sure where to get the latest download? If yes, then you’ve come to the right place. In this post, you’ll have two ways to download and install the driver efficiently.
@@ -35,6 +38,9 @@ OR
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Option 1 – Automatically update the driver
 
  If you don’t have the time, patience or computer skills to update your Intel Iris Plus Graphics 640 driver manually,**you can do it automatically with** **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -44,7 +50,13 @@ OR
  You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee):
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-19_18-00-07-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 3. Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update Intel Iris Plus Graphics 640 driver, simply click the**Update**  button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-24_12-24-30.jpg)
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -53,11 +65,26 @@ OR
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Option 2 – Update the driver manually
 
 If you opt for updating the driver manually, here’s the procedure:
 
 1. Click **[here](https://downloadcenter.intel.com/product/98911/Intel-Iris-Plus-Graphics-640)**  to visit the download page of Intel Iris Plus Graphics 640 driver.
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 2. Click**Intel® Graphics – Windows® 10 DCH Drivers** .![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-24_12-31-07.jpg)
 3. Pay attention to the left section and click the**download** button below the**EXE** file available for download. (You can otherwise download the ZIP file. Note that it’s compressed so you’ll need to extract it before installing the driver on PC.)  
  Also, if you want to download a certain version of drivers, you can click the desired one beneath**Other Versions** .![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-24_12-33-59.jpg)

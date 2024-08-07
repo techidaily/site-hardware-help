@@ -1,7 +1,7 @@
 ---
 title: Download Newest TP-Link Network Adapter Software for Windows 11/8/7 Users
-date: 2024-08-05 16:15:27
-updated: 2024-08-07 10:14:28
+date: 2024-08-06T09:35:54.238Z
+updated: 2024-08-07T09:35:54.238Z
 tags:
   - win11
   - win10
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/214adb491c46e660f7414c50c0b43fa707653a1bb
 
 ## Get the Newest Driver Software for Your Lenovo ThinkPad T420s on Windows 11 - FREE Download
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/lenovo-thinkpad-t420s.jpg)
 
  **Lenovo ThinkPad T420s** is a rather old model of computer. You will see the notification telling you that it is “**no longer available for purchase on lenovo.com** ” even if you want to purchase it now.  
@@ -29,6 +32,9 @@ thumbnail: https://thmb.techidaily.com/214adb491c46e660f7414c50c0b43fa707653a1bb
   
  1) Follow the path:**Start** button**\> Control Panel** (View by**Small icon** )**\> Device Manager** .
   
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/start-button-control-panel-view-by-small-icon-device-manager-600x433.jpg)
 
  2) Click the**Scan for hardware changes** button on the top bar. This will allow Windows to help you scan for possible faulty device drivers.
@@ -37,10 +43,16 @@ thumbnail: https://thmb.techidaily.com/214adb491c46e660f7414c50c0b43fa707653a1bb
 
  3) If you see any device driver with certain mark next to it, such as a yellow exclamation mark, a question mark, etc., right click it and choose**Update Driver Software…** .We are updating **Base System Device** , yours could be different.
   
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583d26d86670e.jpg)
   
  If you don’t see a device driver with the unusual mark, and you just want to update certain device driver, that’s okay, just right click the device driver that you want to update and choose**Update Driver Software…** .
   
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583e933a476f5.jpg)
 
  4) Then choose**Search automatically for updated driver software** .
@@ -57,10 +69,16 @@ thumbnail: https://thmb.techidaily.com/214adb491c46e660f7414c50c0b43fa707653a1bb
   
  1) Go to the support website of Lenovo. Then in the middle part of the page, type the model type of your computer into the search box, or you can choose**Detect my product** option for the support website to detect your computer model.
   
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58451b8ec244b-600x181.png)
   
  2) Then you will be lead to a webpage where you can download the needed drivers for your operating system. Click the arrow icon as shown on the screen shot and then choose accordingly the OS that you are having now. You can choose**Windows 8.1 (64-bit)** or**Windows 8.1 (32-bit)** from the list of choice. Then select **Drivers & Software** option.
   
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58452eb9a31d0.jpg)
 
  3) Scroll down a little bit, you will be seeing a list of device drivers, choose the ones that you need and click the**down arrow icon** on the right side to get them downloaded.
@@ -77,6 +95,9 @@ thumbnail: https://thmb.techidaily.com/214adb491c46e660f7414c50c0b43fa707653a1bb
 
  If prompted with the following notification, tick the box for **Delete the driver software for this device** , and then choose**OK** to continue.
   
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584531253c0bf.png)
 
  5) Go to the folder where you store the downloaded device driver file, right click the setup file and choose**Properties** .
@@ -85,6 +106,9 @@ thumbnail: https://thmb.techidaily.com/214adb491c46e660f7414c50c0b43fa707653a1bb
   
  6) In the Properties window, go to**Compatibility** tab, then tick the box for**Run this program in compatibility mode for:** and then choose Windows 8 from the list of choice. Hit**Apply** and**OK** to save and continue.
   
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58453296945bb.jpg)
 
  7) Then double click the the set up file to run the install as instructed. Please remember to restart your computer when the install finishes, and make the change take effect.

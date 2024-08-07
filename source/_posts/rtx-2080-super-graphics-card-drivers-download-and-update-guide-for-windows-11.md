@@ -1,7 +1,7 @@
 ---
 title: RTX 2080 Super Graphics Card Drivers Download & Update Guide for Windows 11
-date: 2024-08-06 11:30:42
-updated: 2024-08-07 12:22:27
+date: 2024-08-06T09:35:51.617Z
+updated: 2024-08-07T09:35:51.617Z
 tags:
   - win11
   - win10
@@ -19,12 +19,18 @@ Searching all over the Internet for your **Asus VG248QE** driver so that your mo
 
  Check out this guide and you’ll be enjoying the life-like viewing experience as promised in no time! 😉
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## About **Asus VG248QE driver**
 
  In fact, ASUS’s official website doesn’t provide a monitor driver for our **Asus VG248QE** gaming monitor simply because it doesn’t need one. Like most typical monitors, our **Asus VG248QE** gaming monitor is perfectly compatible with our computer and doesn’t need a separate monitor driver to have the designated viewing effects.
 
  But if you are running into problems like   **Asus VG248QE showing as generic PnP monitor**  and**no 144hz** , as many users have reported, it’s highly recommended you**update your graphics driver** for the best performance of your monitor.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to update your graphics driver
 
  Both methods below work in**Windows 10** ,**8.1** and**7** . You don’t have to try both, just browse through the list and take your pick:
@@ -32,6 +38,10 @@ Searching all over the Internet for your **Asus VG248QE** driver so that your mo
 1. **[Update your graphics driver automatically (Recommended)](https://www.drivereasy.com/knowledge/asus-vg248qe-driver-free-download-update-easily/#M1)**
 2. **[Update your graphics driver manually](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 1: Update your graphics driver automatically (Recommended)
 
  If you’re not confident playing around with drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -50,6 +60,9 @@ Searching all over the Internet for your **Asus VG248QE** driver so that your mo
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 2: Update your graphics driver manually
 
 **Warning** : Downloading the wrong driver or installing it incorrectly can compromise our PC’s stability and even cause the whole system to crash. So please proceed at your own peril.
@@ -57,9 +70,15 @@ Searching all over the Internet for your **Asus VG248QE** driver so that your mo
 Here’re we go:
 
 1. On your keyboard, press **the Windows logo key** and **R**  at the same time, then copy & paste **devmgmt.msc** into the box and click **OK** .  
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 2. Locate and double-click on **Display adapters** (aka. **Graphics card** , **Video card** ) and you can see your**brand and model of graphics card** right below.  
  (**Intel(R) HD Graphics 4000** in my case).  
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b47105a562f6.jpg)
 3. Go to the official website and check out the **Support** section for **driver downloads** .
 4. Enter your model type of the graphics card, find out and click the right download link for **your variant of Windows operating system** . Usually a few download options will be listed but you might want to click **the first** result for the latest driver version.

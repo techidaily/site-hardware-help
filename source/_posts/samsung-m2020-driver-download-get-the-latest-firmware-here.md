@@ -1,7 +1,7 @@
 ---
 title: "Samsung M2020 Driver Download: Get the Latest Firmware Here!"
-date: 2024-08-03 17:58:54
-updated: 2024-08-06 10:20:46
+date: 2024-08-06T09:35:55.331Z
+updated: 2024-08-07T09:35:55.331Z
 tags:
   - win11
   - win10
@@ -29,10 +29,25 @@ Just purchased the HP LaserJet Pro M404n printer? Then you need to download the 
 
  3) Click**Install** to download and install HP Smart. Then follow the instructions on screen to finish the download and installation.  
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![how to download and install HP Smart](https://images.drivereasy.com/wp-content/uploads/2021/04/install.png)
 
  HP Smart is what HP recommends to install when you’re trying to set up your printer. It’s a useful application that makes setting up a printer or troubleshooting printer issues become easier. But if you just need that driver for your LaserJet Pro M404n printer, you can download it in the**Basic Drivers** section.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Update your printer driver
 
  When you’re not able to print a document or some of the features are not working as expected, you need to check if your printer driver is out of date or corrupt. While driver updates come with bug fixes and performance improvements. To get the most out of your printer, you’re supposed to update your printer driver.
@@ -47,6 +62,9 @@ Just purchased the HP LaserJet Pro M404n printer? Then you need to download the 
 
  2) Type**devmgmt.msc** and press Enter.  
   
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to open the Device Manager](https://images.drivereasy.com/wp-content/uploads/2021/04/open-the-Device-Manager.png)
 
  3) Double-click**Printers** to show the list. Then right-click**HP LaserJet Pro M404n** and select**Update driver** .
@@ -59,6 +77,9 @@ Just purchased the HP LaserJet Pro M404n printer? Then you need to download the 
 
  However, you may be told that your driver is already up to date. It’s possible that it still takes time for Microsoft to test and sign the new drivers that just have been submitted. If that’s your case, you can use the driver updater tools such as Driver Easy to automatically update your drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Option 2: Automatically update your printer driver (recommended)
 
  If attempting to update drivers via the Device Manager didn’t give you the best results, or if you don’t have the time, patience or computer skills to update your drivers manually, you can instead do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -69,11 +90,17 @@ Just purchased the HP LaserJet Pro M404n printer? Then you need to download the 
 
  2) Click **Scan Now** . Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![update drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
 
  3) Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-with-Driver-Easy-1-1200x900.png)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**

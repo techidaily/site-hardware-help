@@ -1,7 +1,7 @@
 ---
 title: Install Updated Graphics and System Drivers for Lenovo Legion 5 Pro Laptop
-date: 2024-08-06 12:39:16
-updated: 2024-08-07 11:56:31
+date: 2024-08-06T09:35:57.124Z
+updated: 2024-08-07T09:35:57.124Z
 tags:
   - win11
   - win10
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/6d57556d89630e3677077d1d2a307e5e9447f310d
 
 ## Update and Install AMD Vega Graphics Card Drivers: Streamlined Guide for Gaming Enthusiasts
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c10d0ce016e9.jpg)
 
  It’s always important to **update your graphics driver to its latest version**   so as to get the most out of the graphics card (like improving screen resolution, reducing lag, preventing system crashes etc.).
@@ -43,13 +46,23 @@ thumbnail: https://thmb.techidaily.com/6d57556d89630e3677077d1d2a307e5e9447f310d
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c10cbda0024a.jpg)
 3. You can upgrade to the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click Update All to automatically download and install the correct version of **ALL** the drivers that are missing or out of date on your system.  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c10cc911df20.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. **Restart**   your computer for the changes to take effect.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ### Option 2: Update your AMD Vega **drivers**  manually
 
  AMD keeps updating drivers. To get them, you need to go to AMD’s official website, find the drivers corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.
@@ -57,8 +70,14 @@ thumbnail: https://thmb.techidaily.com/6d57556d89630e3677077d1d2a307e5e9447f310d
 **Warning** : Downloading the wrong driver or installing it incorrectly will compromise your PC’s stability and even cause the whole system to crash. So please proceed at your own peril.
 
 1. Go to **[AMD’s official website](https://www.amd.com/en)**  and click the**DRIVERS & SUPPORT** section.  
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c10cdb049159.jpg)
 2. Under the**or select your product from the list** section, click**Graphics** ,**Radeon™ RX Vega Series** , and**Radeon™ RX Vega Series** . Then select**your model** from the Vega series family and click**SUBMIT** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c10cf88229fe.jpg)
 3. Select**your OS** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c10cff3a9435.jpg)

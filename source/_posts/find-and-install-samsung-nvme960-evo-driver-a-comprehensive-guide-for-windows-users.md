@@ -1,7 +1,7 @@
 ---
 title: Find and Install Samsung Nvme960 EVO Driver - A Comprehensive Guide for Windows Users
-date: 2024-08-03 23:13:43
-updated: 2024-08-06 12:32:18
+date: 2024-08-06T09:36:14.354Z
+updated: 2024-08-07T09:36:14.354Z
 tags:
   - win11
   - win10
@@ -17,10 +17,16 @@ thumbnail: https://thmb.techidaily.com/b5066dad0b601fca3256158753d40238cd5a1c775
 
 Whether at the office or at home, we all want to have jobs done smoothly. Yet if the printer stops working while we are ready to have a productive day, that could be really annoying. One effective trick to avoid is to**have your printer driver updated to the latest version.**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## Why should you update your Epson ET-3760 driver
 
  A wrong or outdated printer driver could cause problems such as**print jobs getting stuck in a queue** ,**error notifications** **randomly popping up and printers being accidently offline** . To keep your printer in good performance, you should always keep your Epson ET-3760 driver up-to-date. Below is the guide of how to update the driver.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Here are the two methods to try
 
  You may not need to try both. Just pick one to try depending on whether you want to do it manually or automatically.
@@ -28,6 +34,13 @@ Whether at the office or at home, we all want to have jobs done smoothly. Yet if
 1. [**Manually update your Epson ET-3760 driver**](https://tools.techidaily.com/drivereasy/download/)
 2. **[Automaticallyupdate the driver with Driver Easy (recommended)](https://www.drivereasy.com/knowledge/epson-et-3760-driver-update-and-download/#method-2)**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ### Method 1: Manually update your Epson ET-3760 driver
 
  You’ll need some computer skills and patience to update your driver this way because you need to head to the Epson official website first, download it and install it step by step.
@@ -36,6 +49,9 @@ Whether at the office or at home, we all want to have jobs done smoothly. Yet if
 2. After confirming the**Operating System** detected by the website matches yours, click**Drivers** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Epson-3760-download-page-1.jpg)
 3. In the list expanding below, click the**Download** in the**Printer Driver v2.68.02** option.  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Epson-3760-click-download.jpg)
 4. Double-click on the downloaded file and follow the on-screen instructions to install your printer driver.
 5. Restart your computer for the changes to take effect.
@@ -48,10 +64,16 @@ Whether at the office or at home, we all want to have jobs done smoothly. Yet if
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/DE-scan.jpg)
 3. Click the **Update** button next to a flagged **Epson ET-3760** driver to automatically download and install the correct version of this driver (you can do this with the FREE version).  
 
  Or click **Update All** to automatically download and install the correct version of _All_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ).  
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/DE-et-3760.jpg)
 4. Restart your computer for the changes to take effect.
 

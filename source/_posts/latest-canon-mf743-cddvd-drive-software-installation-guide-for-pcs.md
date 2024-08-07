@@ -1,7 +1,7 @@
 ---
 title: Latest Canon MF743 CD/DVD Drive Software Installation Guide for PCs
-date: 2024-08-06 12:33:16
-updated: 2024-08-07 10:25:59
+date: 2024-08-06T09:36:08.294Z
+updated: 2024-08-07T09:36:08.294Z
 tags:
   - win11
   - win10
@@ -31,22 +31,34 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
 
  1) Open[**Device Manager**](https://tools.techidaily.com/drivereasy/download/) . Then locate and expand category**Display adapters** .
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5858d55828138.jpg)
 
  2) If you are seeing a display driver named**AMD Radeon RX 470** or something similar, right click it and choose**Update Driver Software…** .
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5858d5aeb143e.jpg)
 
  If you cannot see the AMD display card driver option, it could be that your computer fails to see the display card as it is for now. Right click the option you have and choose**Update Driver Software…** .
 
  3) Then choose**Search automatically for updated driver software** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5858d6783a2cd-600x443.jpg)
 
  4) Wait for a while for Windows to search for the latest version of display driver that it could find.
 
  5) If you see the following notification:
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5858db741a96a.png)
 
  That means Windows is incapable of finding you the latest version of the display driver for you from its driver database. You might want to search for an alternative.
@@ -55,10 +67,16 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
 
  1) Go to**AMD support website** . Scroll down a little bit, then under**Radeon RX 400 Series** category, choose from the list your operation system. (We choose**Windows 10 (64-bit)** option.)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5858dde7dc981.png)
 
  2) Then you will be lead to the download page. Choose the correct driver that you would like update and hit**DOWNLOAD** .
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5858df55b7e20.jpg)
 
  3) Then open Device Manager again. Locate and  expand category**Display adapters** .

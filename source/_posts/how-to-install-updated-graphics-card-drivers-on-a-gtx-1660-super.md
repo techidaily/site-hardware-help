@@ -1,7 +1,7 @@
 ---
 title: How to Install Updated Graphics Card Drivers on a GTX 1660 Super
-date: 2024-08-05 11:35:32
-updated: 2024-08-07 12:23:41
+date: 2024-08-06T09:35:47.712Z
+updated: 2024-08-07T09:35:47.712Z
 tags:
   - win11
   - win10
@@ -15,10 +15,16 @@ thumbnail: https://thmb.techidaily.com/744014ffd50adb1d07a7a2940727b9c6e249d35c9
 
 ## Download & Update AMD Vega 64 Graphics Card Drivers on Windows - Solved
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000078-300x267.png)
 
  Want to enjoy the best gaming performance with your**AMD Radeon RX Vega 64 Graphics card** ? Or do you want to keep it in good condition? If your answer is YES, try updating AMD Radeon RX Vega 64 Graphics driver to the latest version now. By doing it, you can also avoid many unexpected gaming issues.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ## **There are two methods to update your AMD Radeon RX Vega 64 Graphics driver:**
 
 [**Method 1** **– Manually:**](https://tools.techidaily.com/drivereasy/download/)  You can update your your AMD Radeon RX Vega 64 Graphics driver on your own. This requires some time, patience, and sometimes even computer skills.
@@ -27,6 +33,9 @@ thumbnail: https://thmb.techidaily.com/744014ffd50adb1d07a7a2940727b9c6e249d35c9
 
 [**Method 2** **– Automatically (Recommended):**](https://www.drivereasy.com/knowledge/amd-vega-64-drivers-download-update-solved/#b)  This option is **much quicker and easier** .   **All**  you need to do is   **just a couple of mouse clicks** !
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Method 1: Download and install your AMD Radeon RX Vega 64 Graphics driver manually**
 
  You can download the updated driver file for your AMD Radeon RX Vega 64 Graphics from the official website of [**AMD**](https://www.amd.com/en) . You can follow the steps below:
@@ -35,12 +44,21 @@ thumbnail: https://thmb.techidaily.com/744014ffd50adb1d07a7a2940727b9c6e249d35c9
 
 1. Click **[here](https://www.amd.com/en)**  to visit the official website of AMD.
 2. Click**DRIVERS & SUPPORT** on the top of the web page to visit AMD Drivers and Support page.  
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000079.png)
 3. Click**search all products** . Then select**Radeon RX Vega 64** in the list. If Radeon RX Vega 64 doesn’t appear in the list, you can type **Vega 64** in the search bar first. Then click**SUBMIT** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000086.png)
 4. Select your version of Windows to continue.  
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000081.png)
 5. Click**Download** to download the driver file to your PC.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000082.png)
 6. **Double-click** the downloaded file and follow the on-screen instructions to install the driver on your PC.
 

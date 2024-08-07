@@ -1,7 +1,7 @@
 ---
 title: "Installation Guide: Downloading and Setting Up Canon MP280 Printer Drivers on Windows 11, 8 or 7"
-date: 2024-08-05 16:48:54
-updated: 2024-08-07 10:53:16
+date: 2024-08-06T09:36:15.589Z
+updated: 2024-08-07T09:36:15.589Z
 tags:
   - win11
   - win10
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/06a98345ca9fe3e1a93c5ec4e7a6ce9ab8cdccc3c
 
 ## Get the Latest AMD Radeon RX Groovy to Download and Install Drivers on Your Windows 11, 10, 8 or 7 PC
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![amd rx 6800 driver](https://images.drivereasy.com/wp-content/uploads/2020/12/feature-image-1.jpg)
 
  Got a shiny new AMD RX 6800 graphics card and expect an ultimate gaming experience and flawless graphics display? If so, you need to keep your GPU driver up-to-date at all times. In this tutorial, you’ll explore two safe ways to update the AMD RX 6800 driver easily:
@@ -29,6 +32,9 @@ OR
 
  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 1 – Download and install the driver manually
 
  To check for any updates of the AMD Radeon RX 6800 driver, you can head towards the download page of AMD, where new drivers are regularly rolled out for general improvement and bug fixes.
@@ -39,12 +45,18 @@ If you have no idea how to do this, simply follow the steps below.
 2. Scroll down to the search section, and choose**Graphics** \>**AMD Radeon 6000 Series** \>**AMD Radeon 6800 Series** \>**AMD Radeon 6800** . Then, click**Submit** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/a.jpg)
 3. Select the correct operating system and click the**Download** button next to the driver or software.  
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/b.jpg)
 4. Double-click the downloaded file and follow the on-screen instructions to install the driver.
 5. Reboot your computer for the changes to take effect.
 
  If the process of manual driver update is too complex for you, there is an easier option below.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ### Method 2 – Download and install the driver automatically (Recommended)
 
  If you don’t have the time, patience or computer skills to update your AMD RX 6800 driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -55,10 +67,16 @@ If you have no idea how to do this, simply follow the steps below.
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![amd 6800xt driver driver easy](https://images.drivereasy.com/wp-content/uploads/2020/12/de-1.jpg)
 3. Click the **Update**  button next to the flagged AMD Radeon RX 6800 driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-6800-de-2.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  

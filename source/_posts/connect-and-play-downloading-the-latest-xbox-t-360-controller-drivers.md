@@ -1,7 +1,7 @@
 ---
 title: "Connect & Play: Downloading the Latest Xbox T 360 Controller Drivers"
-date: 2024-08-06 13:46:19
-updated: 2024-08-07 10:42:22
+date: 2024-08-06T09:36:04.701Z
+updated: 2024-08-07T09:36:04.701Z
 tags:
   - win11
   - win10
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/06e60fe3d947d58be6e231820ad1f116434db798e
 
  If you are experiencing**driver issues** related to your**Xbox wireless adapter** such as Windows not recognizing the device, this article is definitely written for you. Rest assured that you are not alone – many people have reported a similar problem to yours. Now you just need to follow this tutorial and find out whether it does the trick or not.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to download and install your Xbox wireless adapter drivers
 
  Generally there are two ways you can update your Xbox wireless adapter drivers:
@@ -39,6 +42,9 @@ thumbnail: https://thmb.techidaily.com/06e60fe3d947d58be6e231820ad1f116434db798e
 
 1. **[Downloa](https://tools.techidaily.com/drivereasy/download/) [d](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-277.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro versio](https://tools.techidaily.com/drivereasy/download/) [n](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your Xbox wireless adapter driver for now, simply click the**Update** button next to it. ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-273.png)
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -47,18 +53,31 @@ thumbnail: https://thmb.techidaily.com/06e60fe3d947d58be6e231820ad1f116434db798e
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Option 2 – Update your Xbox wireless adapter driver manually
 
  To update your Xbox wireless adapter driver manually, please complete the following procedure:
 
 1. Go to **[Microsoft Update Catalog](https://www.catalog.update.microsoft.com/Home.aspx)**  .
 2. In the search box located in the upper right corner of the site, type**Xbox wireless** and click**Search** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-280.png)
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 3. On the next page, you’ll be presented with a list of Xbox wireless adapter drivers. Scroll through the list until you find the one compatible with your Windows version. Then click the**Download** button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-282.png)
 4. After the driver has been downloaded, open that destination folder where you’ve saved the driver file. Usually the file should be a compressed one.
 5. Extract the downloaded driver file.
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 6. Plug in the wireless receiver of your Xbox adapter. Then, on your keyboard, Press the**Windows Logo Key** and **R** at the same time to invoke the Run dialog box. Type**devmgmt.msc**  and click **OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-255.png)
 7. Here pops up your**Device Manager** . Double-click on the**Other devices** node and you’ll find the faulty device there, usually appearing as an unknown device named “XBOX ACC”.
 8. Right-click on**XBOX ACC** and select**Update driver** from its context menu.![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-298.png)
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 9. In the next window, select**Browse my computer for driver software** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-299.png)
 10. Click**Browse…** to select the folder where you’ve extracted the driver file. Then click**Next** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-300.png)
 11. Now Windows will search for the driver and install it automatically. When everything’s done, click**Finish** . Then **restart** your computer for the changes to take effect even if you’re not asked to.

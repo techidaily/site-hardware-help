@@ -1,7 +1,7 @@
 ---
 title: Fix Your Stalled iGFXem Module Now
-date: 2024-08-05 22:35:56
-updated: 2024-08-07 10:46:27
+date: 2024-08-06T09:35:51.459Z
+updated: 2024-08-07T09:35:51.459Z
 tags:
   - win11
   - win10
@@ -15,10 +15,16 @@ thumbnail: https://thmb.techidaily.com/6d778735b7f740e653b201094c23e32c3c4849964
 
 ## How We Fixed the Malfunctioning IgfxEM Module - Now Running Smoothly
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b20a2e499be9.jpg)
 
  The **igfxEM Module has stopped working** error is often caused by the corrupt or incompatible Intel graphics driver on your computer. So you should**update your Intel graphics driver** to resolved the problem.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## To solve the **igfxEM Module has stopped working issue**
 
 1. [**Update your Intel graphics card driver automatically (Recommended)**](https://www.drivereasy.com/knowledge/igfxem-module-has-stopped-working-solved/#M1)
@@ -26,6 +32,9 @@ thumbnail: https://thmb.techidaily.com/6d778735b7f740e653b201094c23e32c3c4849964
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1: Update your Intel graphics card driver automatically (Recommended)
 
  If you’re not confident playing around with drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/) .**
@@ -50,13 +59,22 @@ thumbnail: https://thmb.techidaily.com/6d778735b7f740e653b201094c23e32c3c4849964
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 2: Update your Intel graphics card driver manually
 
 **Warning** : Downloading the wrong driver or installing it incorrectly will compromise your PC’s stability and even cause the whole system to crash. So please proceed at your own peril.
 
 1. On your keyboard, press **the Windows logo key** and **R**  at the same time, then copy & paste **devmgmt.msc** into the box and click **OK** .  
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 2. Locate and double-click on**Display adapters** (aka.**Graphics card** , **Video card** ).  
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b20944f17aad.jpg)
 3. Right-click on **your flavor** of**Intel graphics card driver** (**Intel(R) HD Graphics 4000** , in my case) and click**Update driver** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2095e8d1edc.jpg)

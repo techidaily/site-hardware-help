@@ -1,7 +1,7 @@
 ---
 title: Get Your ThinkPad T420s Running Smoothly on Windows N with Updated Drivers!
-date: 2024-08-03 12:30:48
-updated: 2024-08-06 10:20:54
+date: 2024-08-06T09:36:14.822Z
+updated: 2024-08-07T09:36:14.822Z
 tags:
   - win11
   - win10
@@ -25,6 +25,9 @@ OR
 
 [**Option 2: Automatically (Recommended)**](https://www.drivereasy.com/knowledge/download-techkey-bluetooth-adapter-driver-for-windows/#option2) – This might be the quickest and easiest way to get all the latest drivers for your computer. All you need is a few clicks.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Option 1: Install the Techkey Bluetooth driver manually
 
  If you’re a tech-savvy user, you can try to install the driver for your Techkey Bluetooth adapter manually. To do so, follow these steps:
@@ -32,13 +35,25 @@ OR
  The screenshots below are from Windows 10, and the method applies to Windows 8 and 7 as well.
 
 1. On your keyboard, press**Win+R** (the Windows logo key and the r key) to invoke the Run dialog. Type or paste**devmgmt.msc** and click**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/devmgmt-msc-ok.jpg)
 2. Double click**Bluetooth** to expand the category, then right-click your Bluetooth adapter and select**Update driver** .  
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/techkey-manually-1.jpg)
 3. Click**Search automatically for drivers** . Windows will then try to search and download the Bluetooth driver.  
  Windows usually_can’t_ find the latest driver for niche products. You might need to search for it in the manufacturer’s website, or use[Drive Easy](https://tools.techidaily.com/drivereasy/download/) to download it automatically.  
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/techkey-manually-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## Option 2: Install the Techkey Bluetooth driver automatically (Recommended)
 
  If you don’t have the time, patience or computer skills to update your Bluetooth driver manually, you can, instead, do it automatically with**Driver Easy** . It will automatically recognize your system and find the correct drivers for your exact Bluetooth adapter, and your Windows version, and it will download and install them correctly.
@@ -47,6 +62,9 @@ OR
 
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/de-scan-6.1.png)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 

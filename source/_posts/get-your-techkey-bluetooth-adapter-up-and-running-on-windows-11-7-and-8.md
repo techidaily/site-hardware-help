@@ -1,7 +1,7 @@
 ---
 title: Get Your Techkey Bluetooth Adapter Up and Running on Windows 11, 7 & 8
-date: 2024-08-06 18:43:43
-updated: 2024-08-07 11:54:34
+date: 2024-08-06T09:36:16.503Z
+updated: 2024-08-07T09:36:16.503Z
 tags:
   - win11
   - win10
@@ -29,14 +29,23 @@ thumbnail: https://thmb.techidaily.com/7198dc888f65174fbf2046c2c24c70817b0458c73
   
  1) Follow the path:**Start** button**\> Control Panel** (View by**Small icon** )**\> Device Manager** .
   
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/start-button-control-panel-view-by-small-icon-device-manager-600x433.jpg)
 
  2) Click the**Scan for hardware changes** button on the top bar. This will allow Windows to help you scan for possible faulty device drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
  ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583d25f77a789.jpg)
 
  3) If you see any device driver with certain mark next to it, such as a yellow exclamation mark, a question mark, etc., right click it and choose**Update Driver Software…** .We are updating **Base System Device** , yours could be different.
   
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583d26d86670e.jpg)
   
  If you don’t see a device driver with the unusual mark, and you just want to update certain device driver, that’s okay, just right click the device driver that you want to update and choose**Update Driver Software…** .
@@ -57,14 +66,23 @@ thumbnail: https://thmb.techidaily.com/7198dc888f65174fbf2046c2c24c70817b0458c73
   
  1) Go to the support website of Lenovo. Then in the middle part of the page, type the model type of your computer into the search box, or you can choose**Detect my product** option for the support website to detect your computer model.
   
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58451b8ec244b-600x181.png)
   
  2) Then you will be lead to a webpage where you can download the needed drivers for your operating system. Click the arrow icon as shown on the screen shot and then choose accordingly the OS that you are having now. You can choose**Windows 8.1 (64-bit)** or**Windows 8.1 (32-bit)** from the list of choice. Then select **Drivers & Software** option.
   
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58452eb9a31d0.jpg)
 
  3) Scroll down a little bit, you will be seeing a list of device drivers, choose the ones that you need and click the**down arrow icon** on the right side to get them downloaded.
   
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58452f19c617b-1024x227.jpg)
 
  If you know what device drivers that you are looking for, you can straightly type the device name into the**keyword** search box and hit**Enter** to get the result you need.
@@ -77,6 +95,9 @@ thumbnail: https://thmb.techidaily.com/7198dc888f65174fbf2046c2c24c70817b0458c73
 
  If prompted with the following notification, tick the box for **Delete the driver software for this device** , and then choose**OK** to continue.
   
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584531253c0bf.png)
 
  5) Go to the folder where you store the downloaded device driver file, right click the setup file and choose**Properties** .
@@ -85,6 +106,9 @@ thumbnail: https://thmb.techidaily.com/7198dc888f65174fbf2046c2c24c70817b0458c73
   
  6) In the Properties window, go to**Compatibility** tab, then tick the box for**Run this program in compatibility mode for:** and then choose Windows 8 from the list of choice. Hit**Apply** and**OK** to save and continue.
   
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58453296945bb.jpg)
 
  7) Then double click the the set up file to run the install as instructed. Please remember to restart your computer when the install finishes, and make the change take effect.

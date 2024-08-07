@@ -1,7 +1,7 @@
 ---
 title: How to Successfully Refresh Lenovo's Docking Station with Newest Drivers
-date: 2024-08-05 13:45:15
-updated: 2024-08-06 12:53:33
+date: 2024-08-06T09:36:17.280Z
+updated: 2024-08-07T09:36:17.280Z
 tags:
   - win11
   - win10
@@ -29,20 +29,32 @@ OR
 
 **[Option 2 – Automatically (recommended):](https://www.drivereasy.com/knowledge/canon-pixma-pro-100-driver-download-and-update-in-windows-10-7-and-8-1/#option2)**  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even you’re a computer newbie.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ## Option 1 – Download and install the driver manually
 
  As a printer manufacturer, Canon provides printer drivers for their products on the website. To get the Canon PIXMA Pro 100 driver:
 
  1) Go to the **[Canon Support center](https://www.usa.canon.com/internet/portal/us/home)**  , and click**Support** \>**Drivers & Downloads** .
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-108.png)
 
  2) Type your printer model in the search box and click**Go** . In my case I type PIXMA PRO 100, and click**Go** .
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-109.png)
 
  3) On the product page, click the**Drivers & Downloads** tab.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-110.png)
 
  4) On the same page, under the**Drivers & Downloads** section, make sure the detected**Operating System** and**Language** are correct. Then click the**Drivers** tab, click**Select** \>**Download** to download the driver.
@@ -51,6 +63,9 @@ OR
 
  5) After downloading, double click the downloaded file to run and follow the on-screen instructions to install the driver.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Option 2 – Automatically update the driver
 
  If you don’t have the time, patience, or computer skills to update the Canon PIXMA Pro 100 driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -67,6 +82,9 @@ OR
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-113.png)
 
 Note: you can do it for free if you like, but it’s partly manual.

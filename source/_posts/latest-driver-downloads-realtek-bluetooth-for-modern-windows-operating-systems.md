@@ -1,7 +1,7 @@
 ---
 title: Latest Driver Downloads - Realtek Bluetooth for Modern Windows Operating Systems
-date: 2024-08-04 10:45:11
-updated: 2024-08-07 12:31:32
+date: 2024-08-06T09:36:03.823Z
+updated: 2024-08-07T09:36:03.823Z
 tags:
   - win11
   - win10
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/356d504c4e521db72b45b5ec62fa587016c69e83d
 
 ## Latest & Updated Brother MFC-L^&WD Printer Drivers for Smooth Operation with Windows OS - Free Download Now
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90c859caf18.jpg)
 
  This post will show you how to download and update**Brother MFC-L2740DW printer drivers** in Windows 10, Windows 8, Windows 7, Windows XP and Windows Vista.  If your printer is not working properly, such as printer not printing, you can try updating the brother printer driver to fix the issue. In addition, keeping your driver up to date can bring you the best experience.
@@ -27,14 +30,23 @@ thumbnail: https://thmb.techidaily.com/356d504c4e521db72b45b5ec62fa587016c69e83d
 
  Note: the screenshots below come from Windows 10, and the fixes apply to Windows 8 and Windows 7.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ###  Method 1: Download MFC-L2740DW driver manually
 
  You can manually download MFC-L2740DW driver from the Brother website, and install it in your computer.  Before getting started, you should know clearly the operating system running in your computer.  You can Run_**msinfo32.exe**_ and check the_**OS name**_ .
 
 1. Go to the **[Brother Support page](http://support.brother.com/g/b/downloadlist.aspx?c=eu%5Fot&lang=en&prod=mfcl2740dw%5Fus%5Feu%5Fas&os=7)**  .
 2. Select the**operating system** in your computer (in my case I select Windows 10 64 bit), and select the**language** you need.  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90c713bda5e.jpg)
 3. Click the**driver** in the**Drivers** section to download.  
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90c73e819aa.jpg)
 4. Run the downloaded file and install it in your computer.
  This method requires time and computer skills. If it doesn’t work for you, don’t worry. We have other solutions.
@@ -47,6 +59,9 @@ thumbnail: https://thmb.techidaily.com/356d504c4e521db72b45b5ec62fa587016c69e83d
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90c8e219bb9.jpg)
 3. Click the**Update** button next to the flagged printer to automatically download the correct version of the driver (you can do this with the**FREE** version). Then install the driver in your computer.  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90cee2c1202.jpg)
 4. Restart your computer to take effect.
 
@@ -61,6 +76,9 @@ You can also directly update the  MFC-L2740DW driver via Device Manager, where y
 1. On your keyboard, press the **Windows logo key![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  
  and **R**  at the same time to invoke the Run box.
 2. Type**devmgmt.msc** and click**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90cabe00ddb.png)
 3. Find your printer device (it may display as**Unknown device** ), and right click on it then select**Update driver** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90ce12a7cab.png)

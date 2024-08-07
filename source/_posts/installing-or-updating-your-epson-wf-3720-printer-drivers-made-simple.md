@@ -1,7 +1,7 @@
 ---
 title: Installing or Updating Your Epson WF-3720 Printer Drivers Made Simple.
-date: 2024-08-05 14:14:58
-updated: 2024-08-06 10:25:53
+date: 2024-08-06T09:36:07.282Z
+updated: 2024-08-07T09:36:07.282Z
 tags:
   - win11
   - win10
@@ -21,6 +21,9 @@ Whether at the office or at home, we all want to have jobs done smoothly. Yet if
 
  A wrong or outdated printer driver could cause problems such as**print jobs getting stuck in a queue** ,**error notifications** **randomly popping up and printers being accidently offline** . To keep your printer in good performance, you should always keep your Epson ET-3760 driver up-to-date. Below is the guide of how to update the driver.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ## Here are the two methods to try
 
  You may not need to try both. Just pick one to try depending on whether you want to do it manually or automatically.
@@ -34,12 +37,21 @@ Whether at the office or at home, we all want to have jobs done smoothly. Yet if
 
 1. Go to the **[Epson ET-3760 download page](https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3760/s/SPT%5FC11CG20203)**  .
 2. After confirming the**Operating System** detected by the website matches yours, click**Drivers** .  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Epson-3760-download-page-1.jpg)
 3. In the list expanding below, click the**Download** in the**Printer Driver v2.68.02** option.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Epson-3760-click-download.jpg)
 4. Double-click on the downloaded file and follow the on-screen instructions to install your printer driver.
 5. Restart your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 2: Automatically update the driver with Driver Easy
 
  If you’re not confident playing around with drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -48,10 +60,16 @@ Whether at the office or at home, we all want to have jobs done smoothly. Yet if
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/DE-scan.jpg)
 3. Click the **Update** button next to a flagged **Epson ET-3760** driver to automatically download and install the correct version of this driver (you can do this with the FREE version).  
 
  Or click **Update All** to automatically download and install the correct version of _All_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ).  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/DE-et-3760.jpg)
 4. Restart your computer for the changes to take effect.
 

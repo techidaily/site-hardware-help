@@ -1,7 +1,7 @@
 ---
 title: Update Your HP LaserJet P3ˈ225 Printer Software on Windows PCs - Here's How
-date: 2024-08-04 17:15:25
-updated: 2024-08-07 11:21:41
+date: 2024-08-06T09:36:04.310Z
+updated: 2024-08-07T09:36:04.310Z
 tags:
   - win11
   - win10
@@ -25,12 +25,18 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
 [**Option Two: Download and update driver manually**](https://tools.techidaily.com/drivereasy/download/)
 [**Option Three: Update driver automatically (Recommended)**](https://www.drivereasy.com/knowledge/creative-sound-blaster-drivers-download-update-for-windows-10/#3)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f3b958879d.jpg)
   
  **Option One: Reinstall Creative Sound Blast driver**
   
  1) Press**Windows key** and**X** at the same time, then choose**Device Manager** .
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586b799d15ed0.png)
   
  2) Then locate category**Sound, video and game controllers** . You should be able to see your**Creative Sound Blast** device driver here. Double click the Creative SB driver you see.
@@ -39,10 +45,16 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
 
  3) You will be lead into the Properties window. Go to**Driver** tab, then choose**Uninstall** .
   
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f3d3ce11af.jpg)
 
  When prompted with the following notification, hit**OK** to continue.
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f3d698df27.png)
 
  4) When the uninstall finishes, restart your computer.
@@ -51,6 +63,9 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
   
  Still, go back to**Device Manager** . This time, click the icon for **Scan for hardware changes** . Windows will help you detect the change and then install the new driver for you.
   
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f3de6dd960.jpg)
 
 **Note** : There is no guarantee that Windows will find you the latest version of driver for your Creative SB device, it is just the easiest way to get a new driver and you should always see it as your first go-to option when thinking about updating drivers.
@@ -69,14 +84,24 @@ thumbnail: https://thmb.techidaily.com/cd0147204ccaf08069deddb70dcee7e4ad07fbd61
 
  3) Press**Windows key** and**X** at the same time, then choose**Device Manager** .
   
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586b799d15ed0.png)
   
  4) Then locate category**Sound, video and game controllers** . You should be able to see your**Creative Sound Blast** device driver here. Double click the Creative SB driver you see.
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f3c7f8d191.jpg)
 
  5) You will be lead into the Properties window. Go to**Driver** tab, then choose**Uninstall** .
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f3d3ce11af.jpg)
 
  When prompted with the following notification, hit**OK** to continue.

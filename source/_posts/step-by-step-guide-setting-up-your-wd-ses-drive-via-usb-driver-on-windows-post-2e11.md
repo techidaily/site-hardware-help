@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Setting Up Your WD SES Drive via USB Driver on Windows (Post-2e11)"
-date: 2024-08-05 11:29:33
-updated: 2024-08-07 10:10:52
+date: 2024-08-06T09:36:15.737Z
+updated: 2024-08-07T09:36:15.737Z
 tags:
   - win11
   - win10
@@ -40,6 +40,9 @@ If you’re looking to **update your Windows 7 network adapter driver** ,  you�
 
  3) Run Driver Easy and click Tools in the left pane.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-174.png)
 
  4) Click **Offline Scan** . Then select **Offline Scan (on the computer without Internet access)** and click **Continue** .
@@ -48,10 +51,16 @@ If you’re looking to **update your Windows 7 network adapter driver** ,  you�
 
  5) Click **Browse…** , then choose a destination folder in your computer to save the offline scan file. After that, click **Offline Scan** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-176.png)
 
  6) A window will pop up telling you that the offline scan file has been saved. Click **OK**  to confirm.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-177.png)
 
  7) Open the folder where you’ve saved the offline scan file. Then **save** the file in a USB flash drive and transfer it to another computer with Internet connection.
@@ -68,6 +77,9 @@ If you’re looking to **update your Windows 7 network adapter driver** ,  you�
 
  11) Click **Browse…**  to locate the offline scan file. Then click **Continue** .
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-179.png)
 
  12) Click the **Download** button next to your network adapter driver.
@@ -82,6 +94,9 @@ If you’re looking to **update your Windows 7 network adapter driver** ,  you�
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ### Method 2: Update network adapter driver manually
 
 **Warning** : Downloading the wrong driver or installing it incorrectly can compromise our PC’s stability and even cause the whole system to crash. So please proceed at your own peril.
@@ -89,6 +104,9 @@ If you’re looking to **update your Windows 7 network adapter driver** ,  you�
 **Important** : If you can’t access the Internet, you might have to download the driver on an network-equipped computer first and then transfer the file to the target computer to install.
 
 1. On the keyboard of the target computer, press  **the Windows logo key**  and   **R** at the same time, then copy & paste **devmgmt.msc**  into the box and click  **OK**  .  
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b50135d9ffd2.jpg)
 2. Locate and double-click on **Network adapters** to retrieve**the brand** and**model** of your network adapter.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b501322334d1.jpg)

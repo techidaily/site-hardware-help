@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Tips for Successful Intel Platform and Thermal Driver Setup
-date: 2024-08-06 20:24:18
-updated: 2024-08-07 10:53:32
+date: 2024-08-06T09:36:16.299Z
+updated: 2024-08-07T09:36:16.299Z
 tags:
   - win11
   - win10
@@ -24,9 +24,15 @@ thumbnail: https://thmb.techidaily.com/c8dbce1c74281f36fde9f94890a2f512f0b16b026
  To download the motherboard SATA Controller drivers, you should first find out what your motherboard model is. If you’ve already known the exact model, simple skip this section and head to the next one; otherwise please follow the steps below to look for relevant information.
 
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog box. Then, type in**msinfo32** and click**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-69.png)
 2. Here pops up the**System Information** window. On the**System Summary** tab, in the details pane, look for**System Manufacturer** and**System Model** , then take note of their**Value** – that’s precisely the make and model of your motherboard.  
  For example, as shown below, the motherboard manufacturer should be Dell and the device model should be Vostro 270.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-70.png)
 3. Close the window when you finish noting down the information.
 
@@ -46,6 +52,9 @@ OR
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Option 1 – Download and install the driver manually
 
  Motherboard manufacturers such as Intel keep updating their motherboard SSD Controller drivers. To get them, you need to go to their official websites, find the driver corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.  
@@ -56,6 +65,9 @@ OR
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ## Option 2 – Automatically update the SATA Controller driver
 
  If you don’t have the time, patience or computer skills to download and install your SATA Controller driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -66,10 +78,16 @@ OR
 
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/de-scan-6.1.png)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/Intel-SATA-AHCI-Controller.png)
 4. Restart your computer for the change to take effect.
 

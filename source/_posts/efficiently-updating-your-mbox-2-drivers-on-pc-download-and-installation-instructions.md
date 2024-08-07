@@ -1,7 +1,7 @@
 ---
 title: "Efficiently Updating Your MBox 2 Drivers on PC: Download & Installation Instructions"
-date: 2024-08-06 18:13:50
-updated: 2024-08-07 10:22:41
+date: 2024-08-06T09:36:03.616Z
+updated: 2024-08-07T09:36:03.616Z
 tags:
   - win11
   - win10
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/0bb4c495dd7731927ccaea9b5575b62f707a96030
 
 ## Step-by-Step Instructions: Downloading & Installing SteelSeries Arctis 5 Audio Drivers Today
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-n-e1626924832289-1200x491.png)
 
  This surround sound RGB gaming headset Arctis 5 provides an immersive gaming experience, but sometimes it can bump into issues. And when they do, you can follow[**this troubleshooting guide**](https://tools.techidaily.com/drivereasy/download/) to fix your mic issues, or you can update the Arctis 5 drivers directly.
@@ -33,6 +36,9 @@ thumbnail: https://thmb.techidaily.com/0bb4c495dd7731927ccaea9b5575b62f707a96030
 
  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Option 1: Manually update the sound driver
 
 1. On your keyboard, press the**Windows logo** key and**R** at the same time to open the Run box.  
@@ -45,6 +51,9 @@ thumbnail: https://thmb.techidaily.com/0bb4c495dd7731927ccaea9b5575b62f707a96030
 
  If Windows Device Manager fails to find a new driver for you, you need to source the driver directly from the device manufacturer or use a tool like ours, called **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  , to do it automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Option 2: Automatically update all your device drivers
 
  One of the most common causes of sound issues is an outdated or faulty sound driver. Your SteelSeries Artis 5 is no exception.
@@ -53,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/0bb4c495dd7731927ccaea9b5575b62f707a96030
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the**Update** button next to your sound device or your Arctis 5 to download the latest and correct driver for it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/audio-drivers.jpg)  
@@ -66,10 +79,22 @@ thumbnail: https://thmb.techidaily.com/0bb4c495dd7731927ccaea9b5575b62f707a96030
 
  In rare cases, updating your drivers won’t get your problem solved. If unfortunately, updating the SteelSeries Actis 5 drivers didn’t help, you can try the following troubleshooting steps:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ### Set your Arctis 5 as the default
 
  Make sure you have set your SteelSeries Arctis 5 as the default output/input device. Also, select**Set as Default Communications** **Device** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ### Make sure you’ve set it up correctly
 
  Follow[**SteelSeries Actis 5 setup guide**](https://support.steelseries.com/hc/en-us/articles/115000022031-Setup-Arctis-5) to make sure you’ve done it right. Using the rear ports directly on your motherboard instead of any HUB ports or external hubs will ensure your drivers load correctly, and that the device receives adequate power.

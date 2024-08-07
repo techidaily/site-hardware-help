@@ -1,7 +1,7 @@
 ---
 title: The Minimum Width of Scaffold Platforms Should Be at Least 18 Inches as per OSHA Standards.
-date: 2024-08-04 19:28:31
-updated: 2024-08-06 12:57:55
+date: 2024-08-06T09:35:57.842Z
+updated: 2024-08-07T09:35:57.842Z
 tags:
   - win11
   - win10
@@ -35,6 +35,9 @@ thumbnail: https://thmb.techidaily.com/2ee7691e7273eb11818d41a9cf81a37cef10bbda5
 
  2) If you are seeing a display driver named**AMD Radeon RX 470** or something similar, right click it and choose**Update Driver Software…** .
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5858d5aeb143e.jpg)
 
  If you cannot see the AMD display card driver option, it could be that your computer fails to see the display card as it is for now. Right click the option you have and choose**Update Driver Software…** .
@@ -55,6 +58,18 @@ thumbnail: https://thmb.techidaily.com/2ee7691e7273eb11818d41a9cf81a37cef10bbda5
 
  1) Go to**AMD support website** . Scroll down a little bit, then under**Radeon RX 400 Series** category, choose from the list your operation system. (We choose**Windows 10 (64-bit)** option.)
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5858dde7dc981.png)
 
  2) Then you will be lead to the download page. Choose the correct driver that you would like update and hit**DOWNLOAD** .
@@ -63,14 +78,23 @@ thumbnail: https://thmb.techidaily.com/2ee7691e7273eb11818d41a9cf81a37cef10bbda5
 
  3) Then open Device Manager again. Locate and  expand category**Display adapters** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5858d55828138.jpg)
 
  4) Right click the current display driver that you are having now and choose**Uninstall** .
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5858e0c59c41d.jpg)
 
  When prompted with the following notification, tick the box for**Delete the driver software for this device** and hit**OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5858e1c787eca.png)
 
 Then restart your computer if you want.
@@ -83,6 +107,9 @@ Then restart your computer if you want.
 
  If the above two options are too hard to follow for you, you can always choose to go with the alternative option:[**Driver Easy** .](https://tools.techidaily.com/drivereasy/download/) It helps you automatically detect, download and update the missing and outdated device drivers on your computer. With a driver database having over 8 million drivers,[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) is definitely going to help you scan out the missing and outdated device drivers on your computer with the correct result. Moreover, all these features are free to use!
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e618eac55a6.jpg)
 
  If you want to update your device drivers at a much faster speed and enjoy more other features such as driver backup and driver restore, plus the professional tech support waiting to solve your driver problem, feel free to have a try at the[**professional version**](https://tools.techidaily.com/drivereasy/download/) of Driver Easy. Should you find it any unpleasant, just ask for a refund thirty days within the purchase, and you will surely get your money back.

@@ -1,7 +1,7 @@
 ---
 title: "Visit the Official NVIDIA Drivers Page (<https://www.nvidia.com/en-us/drivers/>)"
-date: 2024-08-04 10:19:11
-updated: 2024-08-07 12:53:49
+date: 2024-08-06T09:35:56.325Z
+updated: 2024-08-07T09:35:56.325Z
 tags:
   - win11
   - win10
@@ -23,14 +23,23 @@ If you’re using Geforce GTX 1050 graphics card, and found your resolution is p
   
  2) Click**Drivers** then select**GeForce Drivers** from the drop-down menu.  
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58abe0ead6b51.jpg)
 
  3) In Manual Driver Search section, select the product series (**GeForce 10 Series** ), the Product name (**Geforce GTX 1050** ), and the operating system version. Then click **START SEARCH** .  
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58abe13ac103e.jpg)
   
  4) You’ll see the driver list dislayed. Just download the version released lately. (You can identify it according to the**Release Date** .)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58abe38e49e3d.jpg)
   
  5) Follow the on-screen instructions to download the driver.
@@ -49,12 +58,18 @@ If you’re using Geforce GTX 1050 graphics card, and found your resolution is p
 
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b179631653c3.jpg)
 
  3) Click the **Update**   button next to a flagged GTX 1050 driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click **Update All**   to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/)   – you’ll be prompted to upgrade when you click Update All).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17964fa325c.jpg)
 
  4) After updating the driver, check to see if the issue you have resolves.
