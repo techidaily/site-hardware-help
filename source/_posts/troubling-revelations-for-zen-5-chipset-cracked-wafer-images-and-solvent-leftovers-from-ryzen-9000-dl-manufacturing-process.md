@@ -1,0 +1,126 @@
+---
+title: "Troubling Revelations for Zen 5 Chipset: Cracked Wafer Images and Solvent Leftovers From Ryzen 9000 DL Manufacturing Process"
+date: 2024-08-13T12:56:04.778Z
+updated: 2024-08-14T12:56:04.778Z
+tags:
+  - cpu
+categories:
+  - hardware
+thumbnail: https://thmb.techidaily.com/925e71f91fee67d832ccee7c6f17e9bb429f4160ded041f221da6fa3c4abad49.jpg
+---
+
+## AMD's Cutting-Edge Ryzen 7 7800X3D: Zen 5 Architecture Leaves Zen 4 Gaming Flagship Behind with a Staggering 23% Performance Boost
+
+Third-party reviews of the Ryzen 9 9900X have begun to crop up, giving us our first authentic look at the actual performance of AMD's new[Zen 5](https://www.tomshardware.com/pc-components/cpus/amd-deep-dives-zen-5-ryzen-9000-and-strix-point-cpu-rdna-35-gpu-and-xdna-2-architectures) architecture. A Ryzen 9 9900X review by SaddyTech on YouTube has revealed that the 12-core Ryzen 9 9900X beast doesn't have the chops to outperform AMD's current[Ryzen 7 7800X3D](https://www.tomshardware.com/reviews/amd-ryzen-7-7800x3d-cpu-review) , one of the[best CPUs](https://www.tomshardware.com/reviews/best-cpus,3986.html) around. The Zen 4 chip with 3D V-Cache outperformed the Ryzen 9 9900X in gaming at 1080p and 1440p resolutions by up to 23%.
+
+ SaddyTech tested_Alan Wake 2_ ,_Total War Warhammer_ ,_City Skylines 2_ ,_Call of Duty: Warzone 2_ ,_CS: GO 2_ ,_Cyberpunk 2077_ ,_Fortnite_ ,_Hogwarts Legac_ y,_Starfield_ , and_The Last of Us: Part 1_ .
+
+ Virtually all titles showed favor toward the Ryzen 7 7800X3D. At 1080p,_City Skylines 2_ demonstrated the highest performance lead, boasting a 23% lead in favor of the older 7800X3D._Cyberpunk 2077_ ,_The Last of Us: Part 1_ ,_Fortnite_ , and_Hogwarts Legacy_ showed very similar behavior as well, with Ryzen 7 7800X3D boasting anywhere between a 13% and 18% higher performance.
+
+ Swipe to scroll horizontally
+
+| Game - 1080p           | Performance Lead             | Frame Rate - Ryzen 9 9900X | Frame Rate - Ryzen 7 7800X3D |
+| ---------------------- | ---------------------------- | -------------------------- | ---------------------------- |
+| City Skylines          | Ryzen 7 7800X3D - 23% Faster | 70.3                       | 86.9                         |
+| Cyberpunk 2077         | Ryzen 7 7800X3D - 15% Faster | 165.2                      | 191.1                        |
+| Starfield              | Ryzen 7 7800X3D - 2% Faster  | 125.3                      | 127.4                        |
+| Alan Wake 2            | Ryzen 9 9900X - 1% Faster    | 176.9                      | 175.2                        |
+| Hogwarts Legacy        | Ryzen 7 7800X3D - 13% Faster | 145.6                      | 164.8                        |
+| The Last of Us Part 1  | Ryzen 7 7800X3D - 18% Faster | 201.1                      | 238.1                        |
+| CS: GO 2               | Ryzen 7 7800X3D - 8% Faster  | 346.8                      | 376.1                        |
+| Total War: Warhammer 3 | Ryzen 7 7800X3D - 1% Faster  | 272.7                      | 277.9                        |
+| COD: Warzone 2         | Equal                        | 249.1                      | 249.7                        |
+| Fortnite               | Ryzen 7 7800X3D - 15% Faster | 320.3                      | 371.4                        |
+
+ The only games that favored the Ryzen 9 9900X were_Starfield_ ,_Alan Wake 2_ ,_Total War: Warhammer 3_ , and_Call of Duty: Warzone 2_ ._Alan Wake 2_ was the only game where the Ryzen 9 9900X gained a tiny advantage over the Ryzen 7 7800X3D, outperforming the Zen 4 chip by just 1%._Call of Duty: Warzone 2_ showed identical performance between the two chips, each featuring frame rates of 249 FPS. Meanwhile,_CS: GO 2_ and_Total War: Warhammer 3_ were between 1% and 8% faster on the Ryzen 7 7800X3D.
+
+ LATEST VIDEOS FROM tomshardware Tom's Hardware
+
+ At 1440p, the same behavior from all the games was present but at lower margins, which is inevitable given the higher resolution. 4K squeezed margins down even further to the point where both chips were performing virtually identically in most titles, except for_City Skylines 2_ , which is known to be a very CPU-intensive game. The higher resolutions put more work on the GPU and less strain on the CPU.
+
+ RYZEN 9 9900X - LA RECENSIONE "GAMING" - YouTube ![RYZEN 9 9900X - LA RECENSIONE ](https://img.youtube.com/vi/AZgLHglPCKE/maxresdefault.jpg)
+
+[Watch On](https://youtu.be/AZgLHglPCKE)
+
+ SaddyTech's gaming[benchmarks](https://www.tomshardware.com/tag/benchmark) confirm AMD's previous statements about Ryzen 9000 not beating the Ryzen 7000 X3D processors in gaming. This is not a surprise and a trend that started with the Ryzen 7 5800X3D. For instance, the Ryzen 7 5800X3D, despite being a generation old, was still able to outperform the Ryzen 9 7950X flagship by 8% in our testing.
+
+ 3D V-Cache continues to be AMD's magic pill for incredibly efficient gaming performance, providing a generational improvement in performance for chips that take advantage of it. We must wait until the Ryzen 9000 X3D launches before Zen 5 officially dethrones Zen 4 with 3D V-Cache in gaming.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
+## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
+
+ Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
+
+ Contact me with news and offers from other Future brands  Receive email from us on behalf of our trusted partners or sponsors
+
+ By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-high-ranking-nintendo-switch-brawlers-index-max-156/"><u>[Updated] 2024 Approved  High-Ranking Nintendo Switch Brawlers Index (Max 156)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-logitech-webcam-basics-video-recording-made-easy-for-2024/"><u>[Updated] Logitech Webcam Basics  Video Recording Made Easy for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-top-5-reviews-of-zooms-powerful-affordable-transcription-software/"><u>[Updated] Top 5 Reviews of Zoom's Powerful, Affordable Transcription Software</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-imageslice-cutter/"><u>2024 Approved  ImageSlice Cutter</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-users-heres-how-to-download-and-setup-blockchain-drivers-on-windows-systems/"><u>AMD Users! Here's How to Download and Setup Blockchain Drivers on Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722963182604-download-and-update-asus-vg248qe-graphics-card-drivers-on-windows-simplified-steps/"><u>Download & Update Asus VG248QE Graphics Card Drivers on Windows - Simplified Steps</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-canon-pixma-mx490-printer-drivers-on-windows/"><u>Download & Update Canon PIXMA MX490 Printer Drivers on Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-master-your-audio-workspace-setting-up-the-focusrite-scarlett-2i4-on-a-windows-machine/"><u>Download and Master Your Audio Workspace: Setting up the Focusrite Scarlett 2I4 on a Windows Machine</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/elevate-your-wi-fi-experience-with-the-netgear-ac1200-ex6200-range-extender-a-detailed-review/"><u>Elevate Your Wi-Fi Experience with the Netgear AC1200 (EX6200) Range Extender - A Detailed Review</u></a></li>
+<li><a href="https://fox-that.techidaily.com/essential-troubleshooting-steps-when-your-iphone-wont-progress-past-the-logo-sequence/"><u>Essential Troubleshooting Steps When Your iPhone Won't Progress Past the Logo Sequence</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fast-and-easy-ft232r-usb-to-serial-converter-drivers-get-them-now/"><u>Fast & Easy FT232R USB to Serial Converter Drivers - Get Them Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-of-latest-amd-radeon-r5-drivers-compatible-with-windows-111087/"><u>Free Download of Latest AMD Radeon R5 Drivers Compatible with Windows 11/10/8/7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-compatible-nvidia-geforce-gtx-1080-graphics-drivers-tailored-for-windows-7-computers/"><u>Get Compatible Nvidia GeForce GTX 1080 Graphics Drivers Tailored for Windows 7 Computers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-hp-thunderbolt-g2-dock-drivers-free-download-120w-and-230w-support-software/"><u>Get the Latest HP Thunderbolt G2 Dock Drivers Free - Download 120W and 230W Support Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975442884-get-your-bcm20702a0-drivers-on-windows-in-a-flash/"><u>Get Your BCM20702A0 Drivers on Windows in a Flash</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-canon-dr-c225-driver-for-windows-11108-free-download-guide/"><u>Get Your Canon DR-C225 Driver for Windows 11/10/8 - Free Download Guide</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/how-to-edit-mp4-video-in-macwindows-windows-8-included-for-2024/"><u>How to Edit MP4 Video in Mac/Windows (Windows 8 Included) for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-speedy-and-smooth-wacom-intuos-tablet-driver-configuration-steps/"><u>How To: Speedy and Smooth Wacom Intuos Tablet Driver Configuration Steps</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-oneplus-nord-ce-3-lite-5g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass OnePlus Nord CE 3 Lite 5G FRP?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-vivo-t2-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Vivo T2 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-ai-names-for-podcasts-the-ultimate-guide/"><u>In 2024, Innovative AI Names for Podcasts – The Ultimate Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-smooth-decline-techniques-for-controlled-audio-reduction/"><u>In 2024, Smooth Decline Techniques for Controlled Audio Reduction</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-new-version-of-intels-wi-fi-6-ax200-drivers-for-windows-1011-systems/"><u>Install New Version of Intel's Wi-Fi 6 (AX200) Drivers for Windows 10/11 Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-samsung-m2020-drivers-easily-direct-links-for-download/"><u>Install Samsung M2020 Drivers Easily - Direct Links for Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-the-official-driver-for-your-insignia-vgausb-adapter-a-step-by-step-guide/"><u>Installing the Official Driver for Your Insignia VGA/USB Adapter: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-compatibility-fixing-hydro-series-h100i-v2-drivers-for-windows-machines/"><u>Mastering Compatibility: Fixing Hydro Series H100i v2 Drivers for Windows Machines</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/overcoming-the-challenges-of-intel-hd-graphics-630-on-windows-a-step-by-step-solution/"><u>Overcoming the Challenges of Intel HD Graphics 630 on Windows: A Step-by-Step Solution</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-compatibility-with-newly-released-surface-dock-drivers-update-now/"><u>Seamless Compatibility with Newly Released Surface Dock Drivers - Update Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/simplify-your-pc-maintennance-with-this-essential-tutorial-updatedownload-sata-drivers-for-windows/"><u>Simplify Your PC Maintennance with This Essential Tutorial: Update/Download SATA Drivers for Windows</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/strategic-approaches-broadcasting-live-sports-with-precision-for-2024/"><u>Strategic Approaches  Broadcasting Live Sports with Precision for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/streamline-your-creative-workflow-instant-wacom-intuos-tablet-driver-configuration/"><u>Streamline Your Creative Workflow: Instant Wacom Intuos Tablet Driver Configuration</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-an-iphone-that-cant-backup-to-icloud-effective-strategies-and-tips/"><u>Troubleshooting an iPhone That Can't Backup to iCloud: Effective Strategies and Tips</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unveiling-the-new-wave-of-video-editing-with-powerdirector-24/"><u>Unveiling the New Wave of Video Editing with PowerDirector '24</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Tecno Phantom V Fold? | Dr.fone</u></a></li>
+</ul></div>
