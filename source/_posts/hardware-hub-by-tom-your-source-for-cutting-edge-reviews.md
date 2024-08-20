@@ -1,7 +1,7 @@
 ---
 title: "Hardware Hub by Tom: Your Source for Cutting-Edge Reviews"
-date: 2024-08-16 11:57:18
-updated: 2024-08-17 11:53:10
+date: 2024-08-19T10:28:55.347Z
+updated: 2024-08-20T10:28:55.347Z
 tags:
   - motherboards
 categories:
@@ -107,20 +107,33 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 
 ![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
 ![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
 ![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
  This little motherboard sits on a server-grade 8-layer matte black PCB. The sole design element comes from the actively cooled, heatpipe-connected VRM heatsinks and M.2 heatsinks. The heatsinks have lines that meander their way around the metal bits. On the left, you see the Phantom Gaming branding as well. If you’re interested in RGB lighting in your chassis, you’ll have to add your own to the onboard headers, as the board does not include any natively. The all-black appearance looks good and, in my opinion, better than the more expensive PG-ITX/TB4.
 
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/97M3RfrDnnVcKkV4n7VkU8-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
  Starting in the left corner, we spy a single 8-pin EPS connector just above the heatpipe connecting the heatsinks. The VRMs have plenty of mass and surface area to keep the powerful VRMs below running cool. There’s also a small fan attached to the heatsink tucked in between the rear IO plate and the VRM for additional cooling. The default fan curve sounds improved from the PG-ITX/TB4\. While it was still audible, we could hear it only during stress testing. Of course, you can adjust it if needed. Also by the EPS connector is the 2-pin temperature sensor header to use with the included thermistor.
@@ -135,12 +148,18 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/Yoyr47AhNxUyUnTePWM7kF-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Power delivery on the Z790I Lightning has 16 phases, with 14 dedicated to Vcore. Power heads from the 8-pin EPS connector onto a Renesas RAA229131 PWM controller. From there, it heads to the 14 110A Renesas RAA2209004 SPS MOSFETs. The 1,540A available is the most I recall seeing on an ITX board and will surely handle Intel’s flagship-class processors, even when overclocking with sub-ambient cooling.
 
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/38vzBpWcpKHzwQLj5js8d8-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
  We’ll continue our counterclockwise journey at the bottom of the board. Here, we see the only expansion slot: a full-length PCIe 5.0 x16 slot. The slot also supports PCIe riser cards to extend one x16 slot to two x8 slots if needed. Above that, under the heatsink, is the first M.2 socket (you’ll find the other on the back of the board). Each M.2 socket runs at PCIe 4.0 x4 (64 Gbps) speeds and supports up to 80mm modules. None of the sockets support SATA-based devices, but they support RAID0/1/10 modes, as do the SATA ports. Thankfully, There’s no lane / bandwidth sharing, and you can run all storage simultaneously without a performance penalty.
@@ -175,3 +194,49 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-channel-your-creativity-crafting-youtube-trailers-in-filmora/"><u>[New] 2024 Approved  Channel Your Creativity  Crafting YouTube Trailers in Filmora</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-essential-tips-for-enhancing-images-on-snapchat/"><u>[New] 2024 Approved  Essential Tips for Enhancing Images on Snapchat</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-earning-in-the-e-commerce-arena-via-engaging-reviews-for-2024/"><u>[New] Earning in the E-Commerce Arena via Engaging Reviews for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-maximizing-video-clarity-in-twitter-feed/"><u>[New] In 2024, Maximizing Video Clarity in Twitter Feed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gain-insight-into-your-contents-success-via-youtube-rankers/"><u>[Updated] 2024 Approved  Gain Insight Into Your Content's Success via YouTube Rankers</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-new-era-of-content-creation-and-profitability-for-2024/"><u>[Updated] The New Era of Content Creation and Profitability for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-how-to-delete-facebook-story/"><u>2024 Approved  How to Delete Facebook Story?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-secure-your-preference-with-these-9-leading-websites-offering-3d-typography/"><u>2024 Approved  Secure Your Preference With These 9 Leading Websites Offering 3D Typography</u></a></li>
+<li><a href="https://article-tips.techidaily.com/auditory-adaptability-for-ace-gamers-for-2024/"><u>Auditory Adaptability for Ace Gamers for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-dell-sound-card-drivers-with-simple-steps/"><u>Download & Update Dell Sound Card Drivers with Simple Steps</u></a></li>
+<li><a href="https://win-answers.techidaily.com/driver-easy-on-the-move-harnessing-car-diagnostics-with-the-handy-app/"><u>Driver Easy On-the-Move: Harnessing Car Diagnostics with the Handy App</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-installation-with-lexar-drive-usb-drivers-now-available/"><u>Effortless Installation with Lexar Drive USB Drivers - Now Available</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722960635330-get-your-intel-centrino-ah73ah74-wireless-networking-card-drivers-here/"><u>Get Your Intel Centrino AH73/AH74 Wireless Networking Card Drivers Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-oculus-device-up-to-date-with-free-driver-downloads-windows-111087/"><u>Get Your Oculus Device Up-to-Date with Free Driver Downloads (Windows 11/10/8/7)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hassle-free-downloading-and-update-of-epson-printer-drivers-on-your-windows-machine/"><u>Hassle-Free Downloading and Update of Epson Printer Drivers on Your Windows Machine</u></a></li>
+<li><a href="https://techidaily.com/how-to-install-the-latest-iosipados-beta-version-on-apple-iphone-12-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS/iPadOS Beta Version on Apple iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-lost-or-stolen-iphone-13-in-easy-steps-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Data From Lost or Stolen iPhone 13 In Easy Steps | Stellar</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-amd-drivers-on-windows-10-11-and-7/"><u>How to Update AMD Drivers on Windows 10, 11 & 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-envy-t5055-driver-software-easy-and-speedy-download-options/"><u>HP Envy T5055 Driver Software: Easy and Speedy Download Options</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-officejet-4650-driver-download-for-windows/"><u>HP OfficeJet 4650 Driver Download for Windows</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-htc-u23-pro-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For HTC U23 Pro by Name | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-bridging-moments-a-kinemaster-guide-to-transitions/"><u>In 2024, Bridging Moments  A Kinemaster Guide to Transitions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-iphone-6s-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On iPhone 6s</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-samsung-galaxy-a15-4g-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Samsung Galaxy A15 4G Is Unlocked</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Lava Yuva 3? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-realtek-card-reader-software-on-windows-11-secure-your-files-now/"><u>Install RealTek Card Reader Software on Windows 11 - Secure Your Files Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-the-newest-drivers-for-brother-hl-l2360dw-multifunction-printer/"><u>Install the Newest Drivers for Brother HL-L2360DW Multifunction Printer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-your-corsair-k70-with-official-driver-downloads/"><u>Install Your Corsair K70 with Official Driver Downloads</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installation-guide-downloading-and-updating-logitech-g203-drivers-for-multiple-windows-os/"><u>Installation Guide: Downloading and Updating Logitech G203 Drivers for Multiple Windows OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-the-hp-laserjet-printer-driver-mfp-m42nfw-on-windows-7-10-and-11-step-by-step/"><u>Installing the HP LaserJet Printer Driver (MFP M42nfw) on Windows 7, 10 & 11: Step-by-Step</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/lenovo-t430-driver-installation-made-simple-compatible-with-windows-11-8-and-7-download-guide/"><u>Lenovo T430 Driver Installation Made Simple: Compatible with Windows 11, 8 & 7 - Download Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-the-update-process-how-to-optimize-motherboard-drivers-in-windows/"><u>Mastering the Update Process: How to Optimize Motherboard Drivers in Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-download-realtek-asio-windows-10-drivers-fast-and-simple-installation/"><u>Quick Download: RealTek Asió Windows 10 Drivers - Fast & Simple Installation</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722967623247-resolved-free-downloads-of-updated-wireless-card-drivers/"><u>Resolved! Free Downloads of Updated Wireless Card Drivers.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revolutionize-your-gaming-with-the-latest-release-for-logitech-extreme-3d-pro-drivers/"><u>Revolutionize Your Gaming with the Latest Release for Logitech Extreme 3D Pro Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/simple-update-guide-how-to-change-your-standard-sata-ahci-controller-drivers/"><u>Simple Update Guide: How to Change Your Standard SATA AHCI Controller Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/speedy-improvements-for-your-device-how-to-effortlessly-update-synaptics-touchpad-software/"><u>Speedy Improvements for Your Device: How to Effortlessly Update Synaptics Touchpad Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-setting-up-and-customizing-corsair-mouse-software/"><u>Step by Step Guide: Setting Up and Customizing Corsair Mouse Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-setting-up-your-wd-ses-drive-via-usb-driver-on-windows-post-2e11/"><u>Step-by-Step Guide: Setting Up Your WD SES Drive via USB Driver on Windows (Post-2e11)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-how-to-get-new-devices-running-on-windows-without-network-access/"><u>Step-by-Step: How to Get New Devices Running on Windows without Network Access</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/successful-installation-mbox2-driver-updates-and-downloads-for-windows-no-more-issues/"><u>Successful Installation: MBox2 Driver Updates & Downloads for Windows - No More Issues</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-create-stunning-composites-fcp-x-chroma-keying-guide-for-2024/"><u>Updated Create Stunning Composites FCP X Chroma Keying Guide for 2024</u></a></li>
+</ul></div>

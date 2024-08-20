@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Reviews: The Ultimate Guide to Computer Components"
-date: 2024-08-17 19:37:35
-updated: 2024-08-18 11:15:21
+date: 2024-08-19T10:23:50.773Z
+updated: 2024-08-20T10:23:50.773Z
 tags:
   - build
 categories:
@@ -31,12 +31,18 @@ thumbnail: https://thmb.techidaily.com/377e38553991337f1398bdbfe5a8f44bdc61d9fc3
 4. [System Value Compared](https://tools.techidaily.com)
 5. $912 AMD LAN Box PC
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## $912 AMD LAN Box PC
 
  Even though my Intel-based revision of this quarter vindicates my assessments last quarter, a number of readers are still convinced that a properly cooled and overclocked 860K is the gateway to budget gaming goodness. After experiencing the limitations and frustrations last quarter, I still have my reservations. However, the SBM is a perfect place to empirically test this and give AMD's budget quad-core every chance to prove itself.
 
 ![](https://cdn.mos.cms.futurecdn.net/vaZRhuXWqcyB98KdTMVaK3-320-80.jpg)
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
  For your bonus build pleasure, here's the conclusion to the Munchkin Saga, Episode III: Revenge of 860K.
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
@@ -86,10 +92,16 @@ Deepcool Gamer Storm Gabriel
 
  Every component is identical to the Intel build earlier this week except the CPU, cooler and motherboard.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Definition of Insanity
 
  Some of you out there might be groaning and asking, "What, this again?" Hold on a minute. Those asking for a better 860K overclock have a valid argument. The 860K was handicapped last quarter with insufficient cooling to get any kind of meaningful overclock. You can't argue with that. This time around the CPU gets better treatment in the form of an aftermarket cooler and a larger case. So no, we're not trying the exact same thing and expecting different results. Do I expect the 860K to outperform the i3-4170? No, I don't. However, in order for me to prove that one way or the other, I need hard numbers and data. I'm curious to see if it can close the gap, if not overcome it.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Alternate Component Selection
 
  I don't need to spend time explaining the same parts from[two days ago](https://tools.techidaily.com) . To save space and time, I'll only address the three new components.
@@ -130,6 +142,9 @@ Deepcool Gamer Storm Gabriel
 
 ![](https://cdn.mos.cms.futurecdn.net/EkXfRYe3XW8vhT2PuH7XkJ-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
  The rest of the assembly went just peachy. The slightly different port layout of the motherboard necessitated different cable routing, but that's it. Everything else is the exact same as the Intel build from a few days ago.
 
 ![](https://cdn.mos.cms.futurecdn.net/kiyNGE2ogxSRTZjnNEBoST-320-80.jpg)
@@ -148,6 +163,9 @@ Deepcool Gamer Storm Gabriel
 
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  The RAM caused me no end of heartburn and frustration. I kept running into seemingly random crashes, regardless of RAM timings. I worried the RAM was somehow bad, but it worked flawlessly in the Intel build. After a quick appeal for help to Thomas, I found the motherboard simply required at least 1.64V to run the RAM, even at stock speeds. Again, the Intel build had no problem with 1.5V. I've never seen a motherboard that's more stable overclocked than at stock speeds, until now.
@@ -170,3 +188,45 @@ Deepcool Gamer Storm Gabriel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-proven-steps-for-effortless-creation-of-youtube-shorts-credits/"><u>[New] 2024 Approved  Proven Steps for Effortless Creation of YouTube Shorts Credits</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-from-sketchpad-to-screen-a-guide-to-starting-live-on-tiktok-from-desktop/"><u>[New] In 2024, From Sketchpad to Screen – A Guide to Starting LIVE on TikTok From Desktop</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-mp3s-galore-10-no-cost-online-tools-for-2024/"><u>[Updated] Free Mp3s Galore  10 No-Cost Online Tools for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-how-to-enhance-tv-audiences-with-fb-live-content/"><u>[Updated] How to Enhance TV Audiences with FB Live Content</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-conquer-the-shadows-5-ways-to-fix-black-screen-with-obs/"><u>[Updated] In 2024, Conquer the Shadows  5 Ways to Fix Black Screen with OBS</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-mastering-visual-storytelling-live-broadcasts-of-360-videos-on-facebook-for-2024/"><u>[Updated] Mastering Visual Storytelling  Live Broadcasts of 360 Videos on Facebook for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-must-get-external-hard-drives-for-xbox-enthusiasts/"><u>[Updated] Must-Get External Hard Drives for Xbox Enthusiasts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-rx-6900-xt-drivers-fast-download-optimized-for-windows-operating-systems-11-10-8-and-7/"><u>AMD RX 6900 XT Drivers [Fast Download] – Optimized for Windows Operating Systems: 11, 10, 8 & 7</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-how-these-10-cutting-edge-ai-chatbots-can-elevate-your-communication-game/"><u>Discover How These 10 Cutting-Edge AI Chatbots Can Elevate Your Communication Game</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-intel-integrated-hd-graphics-driver-for-windows-1011/"><u>Download & Install Intel Integrated HD Graphics Driver for Windows 10/11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-update-instructions-bring-your-computer-to-peak-performance-with-the-latest-intel-wireless-ac-3160-driver/"><u>Easy Update Instructions: Bring Your Computer to Peak Performance with the Latest Intel Wireless-AC 3160 Driver</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-installation-finding-the-best-latitude-e6420-driver-downloads-today/"><u>Effortless Installation: Finding the Best Latitude E6420 Driver Downloads Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-installation-windows-insignia-driver-downloads-at-lightning-speed/"><u>Effortless Installation: Windows Insignia Driver Downloads at Lightning Speed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/epson-workforce-ds-30-driver-download-for-windows-1087/"><u>Epson WorkForce DS 30 Driver Download for Windows 10/8/7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722960036309-externalities-are-costs-or-benefits-incurred-by-third-parties-who-did-not-choose-to-be-affected/"><u>Externalities Are Costs or Benefits Incurred by Third Parties Who Did Not Choose to Be Affected</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-gigabyte-sound-card-drivers-for-optimal-performance/"><u>Free Download: Gigabyte Sound Card Drivers for Optimal Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722959824766-get-the-latest-logitech-g203-drivers-compatible-with-windows-7-10-and-11/"><u>Get the Latest Logitech G203 Drivers - Compatible with Windows 7, 10 & 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-updated-epson-xp-330-print-device-driver-here/"><u>Get the Updated Epson XP-330 Print Device Driver Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-hp-officejet-3830-ready-to-print-on-any-windows-device/"><u>Get Your HP OfficeJet 3830 Ready to Print on Any Windows Device</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/getting-your-canon-mg3000-ready-driver-downloads-and-updates/"><u>Getting Your Canon MG3000 Ready: Driver Downloads & Updates</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/guide-to-seamlessly-integrating-your-wacom-intuos-pro-with-windows-10-system/"><u>Guide to Seamlessly Integrating Your Wacom Intuos Pro with Windows 10 System</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-refresh-your-pcs-audio-hardware-drivers-for-windows-versions-11-10-and-7/"><u>How to Refresh Your PC's Audio Hardware Drivers for Windows Versions 11, 10 & 7</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-honor-play-7t-easily-by-drfone-android/"><u>How To Unlock a Honor Play 7T Easily?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-vivo-v27-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Vivo V27 Phone? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/investigating-other-stickers-in-augmented-reality-for-2024/"><u>Investigating Other Stickers in Augmented Reality for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-hp-laptop-hardware-drivers-installation-guide-for-windows-users/"><u>Latest HP Laptop Hardware Drivers: Installation Guide for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-rtl81-cu-network-adapter-driver-for-windows-xpvista710-free-update-now/"><u>Latest RTL81 Cu Network Adapter Driver for Windows [XP/Vista/7/10] - Free Update Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/lenovo-x1-carbon-driver-downloads-compatible-with-both-windows-10-and-7-systems-quick-setup-instructions/"><u>Lenovo X1 Carbon Driver Downloads: Compatible with Both Windows 10 and 7 Systems - Quick Setup Instructions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/magicard-rio-pro-driver-software-updated-downloads-for-modern-operating-systems-including-windows-7plus/"><u>Magicard Rio Pro Driver Software: Updated Downloads for Modern Operating Systems Including Windows 7+</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/perfect-compatibility-for-logitech-g13-keyboards-essential-driver-download-tips/"><u>Perfect Compatibility for Logitech G13 Keyboards: Essential Driver Download Tips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-simple-steps-to-download-and-upgrade-your-canon-device-drivers-in-windows/"><u>Quick and Simple Steps to Download & Upgrade Your Canon Device Drivers in Windows!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-fix-how-to-update-synaptics-ps2-touchpad-drivers-instantly/"><u>Quick Fix: How to Update Synaptics PS/2 Touchpad Drivers Instantly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722965895379-resolve-your-hp-envy-7640-driver-issues-instantly-expert-tips-inside/"><u>Resolve Your HP ENVY 7640 Driver Issues Instantly – Expert Tips Inside</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/simplify-your-system-smooth-and-fast-windows-updates/"><u>Simplify Your System: Smooth and Fast Windows Updates</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/smooth-gaming-experience-with-the-newest-sapphire-gpu-drivers-free-downloads-and-setup-for-windows-machines/"><u>Smooth Gaming Experience with the Newest Sapphire GPU Drivers - Free Downloads and Setup for Windows Machines</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-solution-to-correct-arduino-uno-driver-malfunctions-in-windows/"><u>Step-by-Step Solution to Correct Arduino Uno Driver Malfunctions in Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/targus-displaylink-driver-updates-for-windows-users-a-step-by-step-guide/"><u>Targus DisplayLink Driver Updates for Windows Users: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-hdmi-connection-free-usb-to-hdmi-driver-software/"><u>Update Your HDMI Connection: Free USB to HDMI Driver Software</u></a></li>
+</ul></div>

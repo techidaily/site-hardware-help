@@ -1,7 +1,7 @@
 ---
 title: "The Fusion of Premium Style & Advanced Chips: Discover Asus' New ZenBook S and TUF A14 with Top-Tier Processors"
-date: 2024-08-15 10:13:47
-updated: 2024-08-17 12:59:35
+date: 2024-08-19T10:44:05.393Z
+updated: 2024-08-20T10:44:05.393Z
 tags:
   - laptop
 categories:
@@ -92,6 +92,9 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -172,34 +175,62 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/ecmzqwkBMqHc5j2cTa5SPS-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Once you're in, there are two parts you could replace. The first is the battery, which takes up most of the room inside the system. The other is the SSD. Despite the size of the laptop, there isn't a secondary M.2 slot, so you'll have to replace the drive if you want more storage space. The wireless module and RAM are soldered to the motherboard.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## Battery Life on the Asus Zenbook S16
 
  While the Zenbook S16 will likely last you an entire workday, the new Asus device didn't last as long on a charge as competitors based on Arm platforms.
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/qUjejmtkRBhxMYbsPzPwHT-320-80.png)
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The AMD-based Zenbook ran for 11 hours and 35 minutes on our battery test, which involves web browsing, OpenGL tests, and video streaming over Wi-Fi with the screen set to 150 nits. Only the Spectre x360, with Intel Core Ultra, did worse at 11:01 (and that's not far behind, especially considering that laptop has a smaller battery than the Zenbook).
 
  But the MacBook Air M3 (15:03), HP OmniBook X on a Snapdragon X Elite (16:18), and the 16-inch MacBook Pro lasted an incredible 17:11.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ## Heat on the Asus Zenbook S16
 
  During our ten runs of Cinebench 2024, we took skin temperature measurements to see how the Zenbook performs under an intense workload.
 
  The keyboard hit a warm (but not uncomfortable) 99.5 degrees Fahrenheit, while the touchpad stayed cool at 87.4 F. The hottest point on the top on the grille at 110 F, but that's not usually a place you put your hands. On the bottom, the hottest touchpoint, near the ventilation, was at 116.2 F.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ## Webcam on the Asus Zenbook S16
 
  There's a 1080p webcam on the Zenbook S16's top bezel. While it's color-accurate, catching the exact shade of green in my shirt and the blue in my mesh office chair, some details, like my hair, came across a bit fuzzy.
 
  The camera supports infrared to log in with Windows Hello for facial recognition. It's the sole biometric option on the device.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Software and Warranty on the Asus Zenbook S16
 
  Asus includes four pieces of software on the Zenbook S16\. The first is MyAsus, which allows you to manage your warranty, and also shows system settings and lets you check for updates. This app now prompts you for an account, which it didn't use to do (and in my opinion, shouldn't need to). Despite its appearance, you can skip this prompt.  
@@ -212,12 +243,18 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
  Asus sells the Zenbook S16 with a one-year warranty. A card included in the box offers one free year of accidental damage protection in exchange for registering the laptop.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Asus Zenbook S16 Configurations
 
  We tested the Asus Zenbook S16 with an AMD Ryzen AI 9 HX 370, 32GB of RAM, and a 1TB SSD, which goes for $1,699.99.
 
  A cheaper version[sold at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fshop-links.co%2Flink%3Fpublisher%255Fslug%3Dfuture%26exclusive%3D1%26u1%3Dtomshardware-us-4910217774050973812%26url%3Dhttps%253A%252F%252Fwww.bestbuy.com%252Fsite%252Fasus-zenbook-s-16-16-3k-oled-touch-screen-laptop-amd-ryzen-ai-9-365-24gb-memory-1tb-ssd-scandinavian-white%252F6584435.p%26article%255Fname%3DAsus%2520Zenbook%2520S16%2520review%253A%2520AMD%2520Ryzen%2520AI%25209%2520HX%2520370%2520tested%2520%257C%2520Tom%27s%2520Hardware%26article%255Furl%3Dhttps%253A%252F%252Fwww.tomshardware.com%252Flaptops%252Fgaming-laptops%252Fasus-zenbook-s16-amd-ryzen-ai-9-hx-370-review) is $1,399.99 with a Ryzen AI 9 HX 365 and 24GB of memory, as well as a white chassis.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Bottom Line
 
  The Asus Zenbook S16 is a solid showcase for AMD's new AI-focused processors, even if AI applications themselves aren't quite ready to excite most people.
@@ -226,6 +263,9 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/6o6YfV44dwdxPyvuRks6XS-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  It's hard to say that 11 and a half hours of battery life is a downside, but it does show that x86 laptops are lagging a bit in that department behind the likes of Apple and Qualcomm, both using Arm-based designs. Over 11 hours is great; over 15 hours is better. Additionally, while the OLED display is extremely colorful, it's not as bright as some competitors.
@@ -252,3 +292,46 @@ There isn't much to upgrade or repair on the Zenbook S16.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-navigating-youtubes-subtitle-system-download-with-ease-using-3-methods/"><u>[New] 2024 Approved  Navigating YouTube's Subtitle System  Download with Ease Using 3 Methods</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-elevating-earnings-a-comprerancial-approach-to-video-monetization/"><u>[New] In 2024, Elevating Earnings  A Comprerancial Approach to Video Monetization</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-snapchat-chronicles-unveiled-an-array-of-more-than-a-hundred-inspiring-title-concepts-for-2024/"><u>[New] Snapchat Chronicles Unveiled  An Array of More Than a Hundred Inspiring Title Concepts for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-scansnap-s1100-driver-quickly-and-easily/"><u>[UPDATE] Scansnap S1100 Driver | Quickly & Easily</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-navigating-to-groups-shared-content-in-messenger/"><u>[Updated] 2024 Approved  Navigating to Group's Shared Content in Messenger</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-screen-capture-showdown-is-obs-superior-to-twitch-studio/"><u>[Updated] 2024 Approved  Screen Capture Showdown  Is OBS Superior to Twitch Studio?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-access-youtube-tracks-without-spending-a-dime-25plus-no-cost-audio-extractors-for-2024/"><u>[Updated] Access YouTube Tracks Without Spending a Dime  25+ No-Cost Audio Extractors for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-professional-choice-high-quality-laptops-for-media-workers/"><u>[Updated] Professional Choice  High-Quality Laptops for Media Workers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-maximizing-engagement-with-dual-screen-broadcasting-techniques-in-facebook/"><u>2024 Approved  Maximizing Engagement with Dual-Screen Broadcasting Techniques in Facebook</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-meme-making-tools-discover-your-favorites/"><u>2024 Approved  Top Meme-Making Tools  Discover Your Favorites</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-video-editor-battle-is-inshot-reigning-supreme/"><u>2024 Approved  Top Video Editor Battle  Is InShot Reigning Supreme?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/a-detailed-walkthrough-for-enhancing-your-computer-with-updated-intel-centrino-advanced-n-e-6235-wireless-network-driver-updates/"><u>A Detailed Walkthrough for Enhancing Your Computer with Updated Intel Centrino Advanced-N E 6235 Wireless Network Driver Updates</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-and-conversational-agents-how-chatbots-replicate-speaking-to-people/"><u>AI and Conversational Agents: How Chatbots Replicate Speaking to People</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722968737223-download-and-install-hp-officejet-5255-printer-drivers-latest-version/"><u>Download & Install HP OfficeJet 5255 Printer Drivers - Latest Version</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-steps-to-obtain-the-newest-hp-laserjet-printer-drivers-for-model-m404/"><u>Easy Steps to Obtain the Newest HP LaserJet Printer Drivers for Model M404#</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/explore-the-best-free-online-video-capture-platforms/"><u>Explore the Best Free Online Video Capture Platforms</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-windows-amigos-7-dell-router-driver-here/"><u>Get Your Windows Amigos 7 Dell Router Driver Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hassle-free-intel-chip-support-get-the-latest-drivers-now/"><u>Hassle-Free Intel Chip Support - Get the Latest Drivers Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722957763555-how-to-get-the-new-microsoft-bluetooth-driver-for-your-pc-windows-101187-supported/"><u>How to Get the New Microsoft Bluetooth Driver for Your PC - Windows 10/11/8/7 Supported!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-on-apple-iphone-8-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account On Apple iPhone 8?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-chuckle-chest-selecting-15-hilarious-video-treasures-for-your-viewing-pleasure/"><u>In 2024, Chuckle Chest  Selecting 15 Hilarious Video Treasures for Your Viewing Pleasure</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-sparkle-with-style-personalize-brands-using-pre-set-graphics/"><u>In 2024, Sparkle with Style  Personalize Brands Using Pre-Set Graphics</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/inside-look-confidential-intel-papers-indicate-ongoing-cpu-instability-not-just-from-elevated-voltages/"><u>Inside Look: Confidential Intel Papers Indicate Ongoing CPU Instability Not Just From Elevated Voltages</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-or-update-your-epson-tm-t88v-drivers-on-windows-computers-easily/"><u>Install or Update Your EPSON TM-T88V Drivers on Windows Computers Easily</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/keep-your-printer-running-smoothly-hp-laserjet-pro-mfp-m428fdw-drivers-for-microsoft-windows-11-10-and-7/"><u>Keep Your Printer Running Smoothly: HP LaserJet Pro MFP M428fdw Drivers for Microsoft Windows 11, 10 & 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-release-of-magiccards-rio-pro-driver-for-windows-systems-secure-your-copy-today/"><u>Latest Release of Magiccard's Rio Pro Driver for Windows Systems: Secure Your Copy Today!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/microsoft-battery-driver-error-resolved-for-enhanced-acpi-standards-support/"><u>Microsoft Battery Driver Error Resolved for Enhanced ACPI Standards Support</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/monitoring-and-early-detection/"><u>Monitoring and Early Detection</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-photo-to-video-magic-add-music-and-tell-a-story-for-2024/"><u>New Photo to Video Magic Add Music and Tell a Story for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/optimize-acer-predator-helios-300-for-maximum-fps-the-latest-driver-update-guide/"><u>Optimize Acer Predator Helios 300 For Maximum FPS - The Latest Driver Update Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-guide-to-downloading-and-installing-amd-ryzen-5-2400g-drivers/"><u>Quick Guide to Downloading and Installing AMD Ryzen 5 2400G Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/secure-and-speedy-x230-lenovo-driver-downloads-enhance-your-device-effortlessly/"><u>Secure and Speedy X230 Lenovo Driver Downloads - Enhance Your Device Effortlessly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-refreshing-your-microsoft-mouse-software-in-windows/"><u>Step-by-Step Guide to Refreshing Your Microsoft Mouse Software in Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-solutions-for-a-broken-samsung-blu-ray-media-center/"><u>Step-by-Step Solutions for a Broken Samsung Blu-Ray Media Center</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/targus-dock-solutions-swift-setup-and-installation-instructions-for-busy-users/"><u>Targus Dock Solutions - Swift Setup & Installation Instructions for Busy Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-workplace-revolution-identifying-jobs-vulnerable-to-automation-by-chatgpt-and-similar-ais/"><u>The Workplace Revolution: Identifying Jobs Vulnerable to Automation by ChatGPT and Similar AIs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-support-for-your-legion-5-pro-latest-laptop-driver-downloads-and-setup/"><u>Ultimate Support for Your Legion 5 Pro - Latest Laptop Driver Downloads and Setup</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-performance-secrets-in-pcs-and-peripherals-at-toms-hardware-hub/"><u>Unveiling Performance Secrets in PCs and Peripherals at Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722960308108-update-your-sound-experience-with-nahimic-fast-and-simple-setup/"><u>Update Your Sound Experience with Nahimic – Fast and Simple Setup</u></a></li>
+</ul></div>

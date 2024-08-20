@@ -1,7 +1,7 @@
 ---
 title: 0 SSD Controller Launched at FMS 2024
-date: 2024-08-14 10:55:22
-updated: 2024-08-17 10:15:39
+date: 2024-08-19T10:25:56.476Z
+updated: 2024-08-20T10:25:56.476Z
 tags:
   - ssd
 categories:
@@ -42,6 +42,9 @@ Best SSD and Hard Drive Deals
 * **PCIe 3, 4 or 5:** If you're buying an NVMe SSD, you can choose among PCIe 3, 4 or 5 interfaces with speeds increasing from a maximum of around 3,500 MBps sequential reads and writes to 8,000 MBps and 14,000 MBps. At this point, PCIe 4 drives are mainstream and offer the best value. PCIe 5 drives are extraordinarily expensive, require a newer-gen platform that supports them, and also generate a fair amount of heat. We're seeing the best SSD deals on PCIe 4 drives which is the best standard for most people.
 * **Capacity:** 2TB seems to be the sweet spot for price and performance, with decent 2TB, PCIe 4 NVMe drives going for around $80 or less and high-performance ones in the sub $130 range. If you can splurge, go for a 4TB drive, which could cost anywhere from $150 for a low-end drive, up to $250 for a high-end one. If you really need to save money, a decent 1TB drive can cost $50 or less. However, the top SSD deals this year are definitely on 2 and 4TB capacities.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Best SSD Deals
 
 [Samsung 990 Pro (2TB) SSD:&nbsp;now $169 at Best Buy](https://cdn.mos.cms.futurecdn.net/yWYHwGzYhVYxLM38ZxYDwk-200-100.jpg "Samsung 990 Pro (2TB) SSD:&nbsp;now $169 at Best Buy") ](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fshop-links.co%2Flink%3FskuId%3D6523595%26publisher%255Fslug%3Dfuture%26exclusive%3D1%26u1%3Dtomshardware-us-1244705598733577618%26url%3Dhttps%253A%252F%252Fwww.bestbuy.com%252Fsite%252Fsamsung-990-pro-2tb-internal-ssd-pcle-gen-4x4-nvme%252F6523595.p%253FskuId%253D6523595%26article%255Fname%3DBest%2520SSD%2520and%2520Hard%2520Drive%2520Deals%25202024%2520%257C%2520Tom%27s%2520Hardware%26article%255Furl%3Dhttps%253A%252F%252Fwww.tomshardware.com%252Ffeatures%252Fbest-deals-on-ssds)
@@ -230,6 +233,14 @@ Best SSD and Hard Drive Deals
 
 * [Back to top ^](https://tools.techidaily.com)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ### Best External SSD / HDD / NAS Deals
 
 [Western Digital 8TB WD Red Pro NAS Internal Hard Drive HDD:&nbsp;now $199 at Amazon](https://cdn.mos.cms.futurecdn.net/R763rGe5wzXgjQeGDhHEzW-200-100.jpg "Western Digital 8TB WD Red Pro NAS Internal Hard Drive HDD:&nbsp;now $199 at Amazon") ](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FWestern-Digital-Internal-Hard-Drive%2Fdp%2FB0D1V2K4LJ%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-7312074856993712567-20)
@@ -287,6 +298,9 @@ Best SSD and Hard Drive Deals
 
 [View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FSAMSUNG-Portable-SSD-1TB-MU-PC1T0T%2Fdp%2FB0874XN4D8%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-5810562302926172923-20)
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ## More Tech Deals
 
 * [Best deals on tech & PC Hardware](https://tools.techidaily.com)
@@ -312,3 +326,66 @@ Best SSD and Hard Drive Deals
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-leading-edge-servers-for-maximum-efficiency/"><u>[New] 2024 Approved  Leading Edge Servers for Maximum Efficiency</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-photobooth-hiccups-resolving-frozen-playback-issues/"><u>[New] Photobooth Hiccups  Resolving Frozen Playback Issues</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/uick-steps-to-record-iphoneipad-screens-for-online-videos/"><u>[New] Quick Steps to Record iPhone/iPad Screens for Online Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-audience-augmentation-made-simple-5-solutions-available/"><u>[Updated] 2024 Approved  Audience Augmentation Made Simple - $5 Solutions Available</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-make-the-most-of-your-youtube-watches-gif-magic-for-devices-for-2024/"><u>[Updated] How to Make the Most of Your YouTube Watches  GIF Magic for Devices for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-redesigning-the-perception-of-sony-s3700-review/"><u>[Updated] Redesigning the Perception of Sony S3700 Review</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-streamlining-creation-youtube-video-editor-insights/"><u>[Updated] Streamlining Creation  YouTube Video Editor Insights</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-major-modifications-in-windows-movie-maker/"><u>[Updated] Unveiling Major Modifications in Windows Movie Maker</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-wisdom-waves-prime-ed-channels-online/"><u>[Updated] Wisdom Waves  Prime Ed Channels Online</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-9-techniques-for-attractive-and-engaging-unboxings-on-instagram/"><u>2024 Approved  9 Techniques for Attractive and Engaging Unboxings on Instagram</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-broadcast-repeat-looping-youtube-video-magic-for-your-setup/"><u>2024 Approved  Broadcast Repeat  Looping YouTube Video Magic for Your Setup</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-optimizing-tiktok-video-batch-downloads/"><u>2024 Approved  Optimizing TikTok Video Batch Downloads</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/access-the-most-recent-nvidia-geforce-940mx-driver-version-here-for-free/"><u>Access the Most Recent NVIDIA GeForce 940MX Driver Version Here for Free</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ace-your-offline-windows-updates-how-to-get-and-install-drivers-without-a-network-connection/"><u>Ace Your Offline Windows Updates: How to Get and Install Drivers Without a Network Connection</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/acer-predator-helios-300-update-your-gpu-drivers-for-peak-performance/"><u>Acer Predator Helios 300 - Update Your GPU Drivers for Peak Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/analysis-of-hahron-spices-market-share-in-the-chemical-industry/"><u>Analysis of HAHRON SPICE's Market Share in the Chemical Industry</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ning-a-memorable-youtube-sign-off-for-2024/"><u>Designing a Memorable YouTube Sign-Off for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/direct-download-of-updated-rtx-2070-super-drivers-enhancing-performance-on-your-windows-11-system/"><u>Direct Download of Updated RTX 2070 Super Drivers: Enhancing Performance on Your Windows 11 System</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-microsoft-surface-pro-4-drivers-for-windows/"><u>Download and Install Microsoft Surface Pro 4 Drivers for Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-latest-hp-officejet-pro-er-driver-software-for-windows-operating-systems-win11108/"><u>Download Latest HP OfficeJet Pro Er Driver Software for Windows Operating Systems [Win11/10/8]</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-newly-released-hp-officejet-3670-software-drivers-2024-version/"><u>Download the Newly Released HP OfficeJet 3670 Software Drivers (2024 Version)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-updated-drivers-for-your-netgear-wi-fi-adapter-now/"><u>Download Updated Drivers for Your NETGEAR Wi-Fi Adapter Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-install-automatically-detected-download-of-amd-drivers/"><u>Easy Install: Automatically Detected Download of AMD Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722976132622-easy-installation-of-new-wifi-drivers-for-windos-7/"><u>Easy Installation of New WiFi Drivers for WinDos 7!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-instructions-to-acquire-and-setup-new-wifi-drivers-for-your-asus-device/"><u>Easy Instructions to Acquire and Setup New WiFi Drivers for Your ASUS Device</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-tips-and-tricks-how-to-refresh-motherboard-software-for-windows-users/"><u>Easy Tips & Tricks: How to Refresh Motherboard Software for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-and-fast-downloads-of-dells-latitude-e6420-peripheral-drivers-for-enhanced-performance/"><u>Effortless and Fast Downloads of Dell's Latitude E6420 Peripheral Drivers for Enhanced Performance</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/filmora-coupon-hunters-guide-2024-find-the-best-deals-and-discounts/"><u>Filmora Coupon Hunters Guide 2024 Find the Best Deals and Discounts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-hp-deskjet-ink-advantage-3520-drivers-downloads-quick-start-guide/"><u>Free HP Deskjet Ink Advantage 3520 Drivers Downloads – Quick Start Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-brother-hl-l2380dw-drivers-for-windows-direct-download-link/"><u>Get the Latest Brother HL-L2380DW Drivers for Windows - Direct Download Link</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722972922297-get-the-latest-brother-mfc-7360n-drivers-and-easy-compatibility-with-windows-1087/"><u>Get the Latest Brother MFC-7360N Drivers & Easy Compatibility with Windows 10/8/7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-canon-pixma-ts3322-printer-driver-download-now/"><u>Get the Latest Canon PIXMA TS3322 Printer Driver - Download Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-lenovo-x260-thinkpad-driver-updates-for-windows-10-free-downloads-available-now/"><u>Get the Latest Lenovo X260 (ThinkPad) Driver Updates for Windows 10 - Free Downloads Available Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-download-and-install-toshiba-copier-software-on-windows-computers/"><u>How to Download & Install Toshiba Copier Software on Windows Computers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-easily-get-the-latest-drivers-for-your-brother-mfc-7/"><u>How to Easily Get the Latest Drivers for Your Brother MFC-7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-find-and-install-the-latest-audio-drivers-for-your-windows-7-pc/"><u>How to Find and Install the Latest Audio Drivers for Your Windows 7 PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-install-the-latest-windows-10-april-2020-update-with-conexant-drivers/"><u>How to Install the Latest Windows 10 April 2020 Update with Conexant Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-or-install-sound-cards-in-windows-free-driver-packages-available/"><u>How to Update or Install Sound Cards in Windows - Free Driver Packages Available</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-upgrade-your-ethernet-adapter-driver-to-the-newest-version-for-windows-users/"><u>How to Upgrade Your Ethernet Adapter Driver to the Newest Version for Windows Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hp-notebook-volume-issues-solutions-within-windows-11-ecosystem/"><u>HP Notebook Volume Issues: Solutions Within Windows 11 Ecosystem</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722977410305-improve-sound-clarity-instantly-free-m-audio-fast-track-ultra-driver-downloads-here/"><u>Improve Sound Clarity Instantly! FREE M-Audio Fast Track Ultra Driver Downloads Here</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-keeping-your-audience-engaged-in-a-revised-social-lands-ward/"><u>In 2024, Keeping Your Audience Engaged in a Revised Social Lands Ward</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-vivo-y56-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Vivo Y56 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-new-and-reliable-canon-mf743cdw-drivers-on-your-windows-device/"><u>Install New and Reliable Canon MF743CDW Drivers on Your Windows Device</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722954765490-instant-access-free-qualcomm-atheros-ar938x-drivers-available/"><u>Instant Access: Free Qualcomm Atheros AR938X Drivers Available!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-driver-downloads-for-canon-mg3n-series-enhance-your-printing-experience-with-updates/"><u>Latest Driver Downloads for Canon MG3n Series: Enhance Your Printing Experience with Updates</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-epson-wf-3520-software-fresh-driver-downloads-and-compatibility-with-windows-os/"><u>Latest Epson WF-3520 Software: Fresh Driver Downloads and Compatibility with Windows OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-bluetooth-connectivity-on-windows-10-top-solutions-and-advice/"><u>Mastering Bluetooth Connectivity on Windows 10 - Top Solutions & Advice</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/official-canon-mp280-printer-drivers-for-win-1087-get-your-download-here-free/"><u>Official Canon MP280 Printer Drivers for Win 10/8/7 - Get Your Download Here FREE</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/perfect-your-pictures-the-ultimate-guide-to-photo-text-editing-for-2024/"><u>Perfect Your Pictures  The Ultimate Guide to Photo Text Editing for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-installation-get-the-latest-amd-radeon-rx-6800-xt-drivers-now/"><u>Seamless Installation: Get the Latest AMD Radeon RX 6800 XT Drivers Now</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/seamless-srt-to-video-leading-10-free-online-conversion-tools/"><u>Seamless SRT to Video - Leading 10 Free Online Conversion Tools</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/secure-your-gaming-experience-download-nvidia-rtx-3080-drivers-windows-1087/"><u>Secure Your Gaming Experience: Download NVIDIA RTX 3080 Drivers (Windows 10/8/7)</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/tp-link-re505x-ax1500-wi-fi-extender-review/"><u>TP-Link RE505X AX1500 Wi-Fi Extender Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-or-install-secure-the-newest-amd-smbus-drivers-in-a-flash/"><u>Update or Install? Secure the Newest AMD SMBus Drivers in a Flash!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-epson-l3150-printer-driver-on-windows-version-compatibility-with-11-8-and-7/"><u>Update Your Epson L3150 Printer Driver on Windows - Version Compatibility with 11, 8 and 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-hp-laserjet-p3225-printer-software-on-windows-pcs-heres-how/"><u>Update Your HP LaserJet P3ˈ225 Printer Software on Windows PCs - Here's How</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/updating-to-new-epson-wf-3520-driver-step-by-step-guide-for-windows-users/"><u>Updating to New Epson WF 3520 Driver: Step-by-Step Guide for Windows Users</u></a></li>
+</ul></div>

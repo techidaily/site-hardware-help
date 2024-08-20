@@ -1,7 +1,7 @@
 ---
 title: Expert Tips on Creating the Perfect PC Setup for Advanced Video Editing Tasks
-date: 2024-08-17 12:56:30
-updated: 2024-08-18 12:22:39
+date: 2024-08-19T10:24:19.068Z
+updated: 2024-08-20T10:24:19.068Z
 tags:
   - build
 categories:
@@ -31,12 +31,19 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/SViktBfatSoXLPDaG2aTzb-320-80.jpg
 4. [System Value Compared](https://tools.techidaily.com)
 5. $912 AMD LAN Box PC
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ## $912 AMD LAN Box PC
 
  Even though my Intel-based revision of this quarter vindicates my assessments last quarter, a number of readers are still convinced that a properly cooled and overclocked 860K is the gateway to budget gaming goodness. After experiencing the limitations and frustrations last quarter, I still have my reservations. However, the SBM is a perfect place to empirically test this and give AMD's budget quad-core every chance to prove itself.
 
 ![](https://cdn.mos.cms.futurecdn.net/vaZRhuXWqcyB98KdTMVaK3-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
  For your bonus build pleasure, here's the conclusion to the Munchkin Saga, Episode III: Revenge of 860K.
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
@@ -90,6 +97,9 @@ Deepcool Gamer Storm Gabriel
 
  Some of you out there might be groaning and asking, "What, this again?" Hold on a minute. Those asking for a better 860K overclock have a valid argument. The 860K was handicapped last quarter with insufficient cooling to get any kind of meaningful overclock. You can't argue with that. This time around the CPU gets better treatment in the form of an aftermarket cooler and a larger case. So no, we're not trying the exact same thing and expecting different results. Do I expect the 860K to outperform the i3-4170? No, I don't. However, in order for me to prove that one way or the other, I need hard numbers and data. I'm curious to see if it can close the gap, if not overcome it.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Alternate Component Selection
 
  I don't need to spend time explaining the same parts from[two days ago](https://tools.techidaily.com) . To save space and time, I'll only address the three new components.
@@ -130,10 +140,17 @@ Deepcool Gamer Storm Gabriel
 
 ![](https://cdn.mos.cms.futurecdn.net/EkXfRYe3XW8vhT2PuH7XkJ-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
  The rest of the assembly went just peachy. The slightly different port layout of the motherboard necessitated different cable routing, but that's it. Everything else is the exact same as the Intel build from a few days ago.
 
 ![](https://cdn.mos.cms.futurecdn.net/kiyNGE2ogxSRTZjnNEBoST-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Overclocking
 
  I did a little more digging on 860K overclocking after last quarter. Most FM2+ motherboards are very liberal with CPU voltage at stock levels. This means it's usually possible to overclock the CPU while undervolting it. This held true for my particular 860K. Stock voltage was set at 1.45V, but I was able to get it to run at 4.0GHz on only 1.35V. Lowering the voltage helped temperatures, but the CPU still has a pretty hard thermal ceiling that won't let it be pushed as much as it could. Regardless of cooling solution or voltage, the CPU cuts back to 3.5 to 3.7GHz when it hits 65 degrees C (total, not over ambient). Even with the cooler at full speed, I was occasionally hitting that ceiling under the most demanding workloads.
@@ -148,6 +165,9 @@ Deepcool Gamer Storm Gabriel
 
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  The RAM caused me no end of heartburn and frustration. I kept running into seemingly random crashes, regardless of RAM timings. I worried the RAM was somehow bad, but it worked flawlessly in the Intel build. After a quick appeal for help to Thomas, I found the motherboard simply required at least 1.64V to run the RAM, even at stock speeds. Again, the Intel build had no problem with 1.5V. I've never seen a motherboard that's more stable overclocked than at stock speeds, until now.
@@ -170,3 +190,68 @@ Deepcool Gamer Storm Gabriel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-effortless-mp4-creation-from-facebook-feed/"><u>[New] 2024 Approved  Effortless MP4 Creation From Facebook Feed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-picks-for-drone-pilots-vr-eyewear/"><u>[New] Expert Picks for Drone Pilots’ VR Eyewear</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-expertly-design-your-3d-openers-best-picks-for-2024/"><u>[New] Expertly Design Your 3D Openers  Best Picks for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-perfecting-your-makeup-mastery/"><u>[New] Perfecting Your Makeup Mastery</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-unlock-video-communication-using-whatsapp-browser-on-your-notebook-pc/"><u>[New] Unlock Video Communication  Using WhatsApp Browser on Your Notebook PC</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-the-ultimate-guide-to-fb-video-calls-best-practices/"><u>[Updated] 2024 Approved  The Ultimate Guide to FB Video Calls  Best Practices</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-easyscreen-videotaker-analysis-plus-other-apps/"><u>[Updated] EasyScreen Videotaker Analysis + Other Apps</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-zoom-mastery-creating-seamless-virtual-sessions-for-2024/"><u>[Updated] Zoom Mastery  Creating Seamless Virtual Sessions for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-cutting-edge-chrome-vocal-transforming-apps-top-5-choices/"><u>2024 Approved  Cutting-Edge Chrome Vocal Transforming Apps  Top 5 Choices</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-essential-list-of-high-quality-recorders-for-mac-users/"><u>2024 Approved  Essential List of High-Quality Recorders for Mac Users</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-one-click-iphone-screen-capture/"><u>2024 Approved  One-Click Iphone Screen Capture</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/a-comprehensive-walkthrough-of-adding-text-to-instagram-clips/"><u>A Comprehensive Walkthrough of Adding Text to Instagram Clips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/compatible-canon-printer-drivers-for-windows-11-and-older-versions-windows-8-7-get-downloaded-now/"><u>Compatible Canon Printer Drivers for Windows 11 and Older Versions (Windows 8, 7) - Get Downloaded Now!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/direct-links-to-nvidias-latest-rtx-2070-super-drivers-compatible-with-windows-11/"><u>Direct Links to NVIDIA's Latest RTX 2070 Super Drivers - Compatible with Windows 11</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-update-process-for-microsoft-mouse-drivers-on-pc-with-windows-os/"><u>Easy Update Process for Microsoft Mouse Drivers on PC with Windows OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effective-steps-to-download-and-keep-your-epson-ds-510-printer-software-updated/"><u>Effective Steps to Download and Keep Your Epson DS-510 Printer Software Updated</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-guide-to-downloading-your-logitech-driver-on-windows-pc/"><u>Effortless Guide to Downloading Your Logitech Driver on Windows PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/epson-wf-2630-driver-download-for-windows-71081/"><u>Epson WF 2630 Driver Download for Windows 7/10/8.1</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/frame-by-frame-mastering-video-freeze-frames-for-2024/"><u>Frame by Frame Mastering Video Freeze Frames for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-video-card-driver-updates-free-download/"><u>Get the Latest Video Card Driver Updates – Free Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/guide-to-update-and-repair-hp-monitor-drivers-in-windows-1087/"><u>Guide to Update and Repair HP Monitor Drivers in Windows 10/8/7</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-easily-obtain-and-install-updated-drivers-for-your-epson-xp-440-printer/"><u>How to Easily Obtain and Install Updated Drivers for Your Epson XP-440 Printer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-ensure-your-acer-nitro-5-runs-smoothly-with-updated-driver-packages/"><u>How to Ensure Your Acer Nitro 5 Runs Smoothly with Updated Driver Packages</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-fix-and-update-your-hp-monitors-drivers-in-windows-11-8-and-7-efficiently/"><u>How to Fix and Update Your HP Monitor's Drivers in Windows 11, 8 & 7 Efficiently</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-fix-ralink-rt3290-driver-issues-in-various-versions-of-windows/"><u>How to Fix Ralink RT3290 Driver Issues in Various Versions of Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-your-brother-mfc-j480dw-printer-on-a-windows-computer-with-latest-drivers/"><u>How to Update Your Brother MFC-J480DW Printer on a Windows Computer with Latest Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-laserjet-p1606dn-update-to-the-latest-printer-software-and-drivers-on-your-windows-machine/"><u>HP LaserJet P1606dn - Update to the Latest Printer Software and Drivers on Your Windows Machine</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-infinix-note-30i-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Infinix Note 30i to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-broadcasting-your-favorite-fb-videos-on-big-screen/"><u>In 2024, Broadcasting Your Favorite FB Videos on Big Screen</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-mac-for-apple-iphone-se-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock on Mac For Apple iPhone SE?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-quadcopter-showdown-dji-pro-and-hero-4-black/"><u>In 2024, Quadcopter Showdown  DJI Pro and Hero 4 Black</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-analysis-of-electronics-with-toms-device-digest/"><u>In-Depth Analysis of Electronics with Tom’s Device Digest</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/instagrams-guide-to-real-photo-verification/"><u>Instagram's Guide to Real Photo Verification</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/instant-solution-for-outdated-synaptics-ps2-port-touchpad-drivers/"><u>Instant Solution for Outdated Synaptics PS/2 Port Touchpad Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/keep-your-gaming-experience-fresh-with-the-latest-rtx-2060-super-drivers-for-windows-11-download-now/"><u>Keep Your Gaming Experience Fresh with the Latest RTX 2060 Super Drivers for Windows 11 - Download Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-version-of-corsair-icue-available-for-free-download-windows-compatibility-and-tutorials/"><u>Latest Version of Corsair iCUE Available for Free Download: Windows Compatibility & Tutorials</u></a></li>
+<li><a href="https://extra-information.techidaily.com/maximize-your-youtube-srt-a-three-pronged-plan/"><u>Maximize Your Youtube SRT  A Three-Pronged Plan</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-how-to-remove-audio-from-mp4-video-for-2024/"><u>New How to Remove Audio From MP4 Video for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/overcoming-common-issues-with-bluetooth-on-the-latest-windows-11-update/"><u>Overcoming Common Issues with Bluetooth on the Latest Windows 11 Update</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-oppo-reno-10-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Oppo Reno 10 5G to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722972456695-quick-and-easy-install-of-corsair-void-pro-drives-on-windows-systems-your-step-by-step-guide/"><u>Quick and Easy Install of Corsair Void Pro Drives on Windows Systems – Your Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-simple-installation-guide-usb-camera-drivers-download/"><u>Quick and Simple Installation Guide: USB Camera Drivers Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/resolving-startech-drivers-troubles-on-windows-11-8-and-7-complete-guide/"><u>Resolving StarTech Drivers Troubles on Windows 11, 8 & 7 - Complete Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722960556838-seamless-pairing-find-the-eveo-bluetooth-driver-you-need/"><u>Seamless Pairing - Find the EVEO Bluetooth Driver You Need!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-update-processes-for-windows-find-download-and-implement-the-best-sata-drivers-today/"><u>Seamless Update Processes for Windows: Find, Download, and Implement the Best SATA Drivers Today!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/secure-and-save-periscope-videos-with-these-tips/"><u>Secure & Save Periscope Videos with These Tips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-fixes-to-common-windows-10-bluetooth-driver-compatibility-concerns/"><u>Step-by-Step Fixes to Common Windows 10 Bluetooth Driver Compatibility Concerns</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722960977663-step-by-step-guide-to-update-or-download-amd-vega-gpu-drivers-made-easy/"><u>Step-by-Step Guide to Update or Download AMD Vega GPU Drivers Made Easy!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-successfully-installing-the-dell-mouse-software/"><u>Step-by-Step Guide: Successfully Installing the Dell Mouse Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-solution-for-hp-officejet-pro-6970-printer-driver-errors/"><u>Step-by-Step Solution for HP OfficeJet Pro 6970 Printer Driver Errors</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-on-updating-your-hp-laserjet-m506-driver-software/"><u>Step-by-Step Tutorial on Updating Your HP LaserJet M506 Driver Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/successful-guide-on-installing-the-dell-mouse-software-and-driver/"><u>Successful Guide on Installing the Dell Mouse Software & Driver</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722964985553-successful-huion-tablet-installation-find-download-and-keep-your-windows-drivers-updated-today/"><u>Successful Huion Tablet Installation: Find, Download, and Keep Your Windows Drivers Updated Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/tech-prowess-at-its-finest-discover-top-gear-tips-from-toms-hardware/"><u>Tech Prowess at Its Finest: Discover Top Gear Tips From Tom's Hardware</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/thank-you-access-comprehensive-paidfree-templates/"><u>Thank You! Access  Comprehensive Paid/Free Templates</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-most-effective-ways-to-bypass-iphone-11-activation-lock-by-drfone-ios/"><u>The Most Effective Ways to Bypass iPhone 11 Activation Lock</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-the-art-of-podcast-rss-mastery-for-2024/"><u>Unveiling the Art of Podcast RSS Mastery for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/windows-11-compatible-how-to-download-and-update-your-amd-radeon-hd-7870-graphics-card-drivers/"><u>Windows 11 Compatible - How to Download & Update Your AMD Radeon HD 7870 Graphics Card Drivers</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Unprecedented Deal Alert: Crucial's 4TB T70amoled by PCIe Gen 5, Now at Record Low 9 Cents Per Gigabyte"
-date: 2024-08-16 21:54:42
-updated: 2024-08-17 12:47:32
+date: 2024-08-19T10:26:29.455Z
+updated: 2024-08-20T10:26:29.455Z
 tags:
   - ssd
 categories:
@@ -50,20 +50,32 @@ AGI is a memory technology brand we’ve heard of but never tested... until toda
 
  AGI does not appear to offer any direct software downloads on its site, but there are free alternatives. We recommend CrystalDiskInfo for basic drive information including SMART health status. For imaging and cloning,[Clonezilla](https://tools.techidaily.com) should do the trick.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## AGI AI818 — A Closer Look
 
  Image 1 of 3
 
 ![AGI AI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![AGI AI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![AGI AGI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  It's not the worst label we’ve ever seen. The drive is at least single-sided, which means it could work with a wider range of[laptops](https://tools.techidaily.com) . It should also be fine in the PS5\. However, we suspect a heatsink might be desirable, which makes it less palatable for a laptop. The label is supposedly graphene-based, which may help keep it from overheating in airy desktops at least.
@@ -72,10 +84,16 @@ AGI is a memory technology brand we’ve heard of but never tested... until toda
 
 ![AGI AI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![AGI AI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  We weren’t too sure what flash to expect on this drive as it launched with YMTC’s 128-Layer TLC (X2-9060), at least at some capacities. There are two 1TB SKUs and one of them uses QLC instead. The drive launched with the Maxio MAP1602 controller, down-bussed to 1,600 MT/s to match that particular TLC flash. It’s possible this drive will have other variations in hardware but we’re looking at what is being delivered today, which certainly is an interesting combination.  
@@ -154,3 +172,51 @@ powered by
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-crafting-compelling-game-replays-a-detailed-guide-for-sony-playstation-4/"><u>[New] In 2024, Crafting Compelling Game Replays  A Detailed Guide for Sony PlayStation 4</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-enter-the-world-of-online-promotion-exclusive-free-youtube-banner-access/"><u>[Updated] 2024 Approved  Enter the World of Online Promotion  Exclusive Free YouTube Banner Access</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-sky-magnificence-in-focus-leading-websites-uncovered/"><u>[Updated] Sky Magnificence in Focus  Leading Websites Uncovered</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-the-ultimate-deck-to-deck-users-manual-for-durecorder/"><u>[Updated] The Ultimate Deck-to-Deck User's Manual for DuRecorder</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-quick-gain-techniques-to-expand-your-channels-audience/"><u>2024 Approved  Quick-Gain Techniques to Expand Your Channel's Audience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-kinemaster-editors-roadmap-for-flawless-transitions-for-2024/"><u>A Kinemaster Editor's Roadmap for Flawless Transitions for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/a-pair-of-pre-update-tips-to-seamlessly-transition-into-windows-11-creators-version/"><u>A Pair of Pre-Update Tips to Seamlessly Transition Into Windows 11 Creators Version</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-ati-radeon-hd-3450-driver-download-quick-and-effortless-update-process/"><u>AMD ATI Radeon HD 3450 Driver Download: Quick & Effortless Update Process</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asus-usb-bt500-bluetooth-drivers-download-compatible-with-win-11108/"><u>Asus USB-BT500 Bluetooth Drivers: Download Compatible with Win 11/10/8</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/bypassing-instagrams-video-roadblocks-effortlessly-for-2024/"><u>Bypassing Instagram's Video Roadblocks Effortlessly for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-guide-to-downloading-latest-lenovo-x1-carbon-drivers-supporting-windows-11-and-7-operating-systems/"><u>Complete Guide to Downloading Latest Lenovo X1 Carbon Drivers: Supporting Windows 11 & 7 Operating Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-setup-guide-canon-dr-c225-drivers-for-windows-10-8-and-latest-version/"><u>Download & Setup Guide: Canon DR-C225 Drivers for Windows 10, 8 & Latest Version</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-asus-vg248qe-monitor-drivers-for-windows-simple-steps/"><u>Download & Update Asus VG248QE Monitor Drivers for Windows - Simple Steps</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-canon-pixma-mg7810-series-drivers-on-windows/"><u>Download Canon PIXMA MG7810 Series Drivers on Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-for-free-gigabytes-high-quality-sound-driver/"><u>Download for Free: Gigabyte's High-Quality Sound Driver</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975108421-eveo-wireless-adapter-driver-update-secure-it-now-for-free/"><u>EVEO Wireless Adapter Driver Update - Secure It Now for Free</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-mpow-bluetooth-software-installer-and-updates-compatible-with-windows-1187/"><u>Free MPOW Bluetooth Software Installer and Updates Compatible with Windows 11/8/7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fresh-download-updated-geforce-rtx-twentytwenty-driver-pack-for-windows-versions-1087/"><u>Fresh Download: Updated GeForce RTX ˈ(t)wentytwenty Driver Pack for Windows Versions 10/8/7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-driver-updates-for-tp-links-80211ac-wireless-network-adaptors-on-windows-7-8-and-11/"><u>Get the Latest Driver Updates for TP-Link's 802.11Ac Wireless Network Adaptors on Windows 7, 8 & 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-hp-officejet-3830-driver-update-on-windows-pcs/"><u>Get the Latest HP OfficeJet 3830 Driver Update on Windows PCs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-windows-1087-epson-workforce-wf-ds30-printer-drivers-safe-and-secure-download-options-available/"><u>Get the Latest Windows 10/8/7 Epson WorkForce WF-DS30 Printer Drivers - Safe & Secure Download Options Available</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-drivers-and-updates-for-your-surface-book-2-hassle-free-guide/"><u>Get the Newest Drivers and Updates for Your Surface Book 2 - Hassle-Free Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-zexmte-bluetooth-device-up-and-running-on-windows-1178-with-our-latest-driver-update/"><u>Get Your Zexmte Bluetooth Device Up and Running on Windows 11/7/8 with Our Latest Driver Update</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/gigabyte-z370p-motherboard-ultimate-driver-download/"><u>Gigabyte Z370P Motherboard Ultimate Driver Download</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-oneplus-ace-2v-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of OnePlus Ace 2V? Try These Fixes</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-vivo-v27-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Vivo V27 Device</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-newest-targus-displayporthdmi-drivers-for-windows-os-version-11-8-and-7/"><u>Installing Newest Targus DisplayPort/HDMI Drivers for Windows OS - Version 11, 8 & 7</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/integrating-advanced-zoom-features-on-tiktok-for-2024/"><u>Integrating Advanced Zoom Features on TikTok for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722978341206-latest-geforce-gaming-drivers-for-windows-11-and-10-secure-download-today/"><u>Latest GeForce Gaming Drivers for Windows 11 and 10 - Secure Download Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-version-of-nvidia-drivers-for-rtx-2060-on-windows-operating-systems-11-10-8-and-7/"><u>Latest Version of NVIDIA Drivers for RTX 2060 on Windows Operating Systems: 11, 10, 8 and 7</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/mastery-of-mesh-wi-fi-with-tp-link-deco-p9-an-in-depth-analysis-and-review/"><u>Mastery of Mesh Wi-Fi with TP-Link Deco P9: An In-Depth Analysis and Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/optimize-your-windows-11-experience-intel-iris-xe-driver-downloads-available-now/"><u>Optimize Your Windows 11 Experience: Intel Iris Xe Driver Downloads Available Now</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/perfect-your-mobile-photography-with-targeted-blurs-for-2024/"><u>Perfect Your Mobile Photography with Targeted Blurs for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-easy-guide-downloading-the-latest-scansnap-drivers-for-your-pc/"><u>Quick & Easy Guide: Downloading the Latest ScanSnap Drivers for Your PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-fixes-for-non-operational-audio-services/"><u>Resolved: Fixes for Non-Operational Audio Services</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/solving-your-lg-devices-usb-connection-problem-on-windows-10-11-and-8/"><u>Solving Your LG Device's USB Connection Problem on Windows 10, 11 & 8</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/step-by-step-guide-to-smooth-facetime-calls-on-mobile-for-2024/"><u>Step-by-Step Guide to Smooth FaceTime Calls on Mobile for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-complete-walkthrough-to-downloading-and-updating-your-windows-usb-ethernet-driver-rndis/"><u>The Complete Walkthrough to Downloading and Updating Your Windows USB Ethernet Driver (RNDIS)</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/transforming-ultrabook-standards-with-our-detailed-review-of-the-cutting-edge-razer-blade-stealth-13/"><u>Transforming Ultrabook Standards with Our Detailed Review of the Cutting-Edge Razer Blade Stealth 13</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/turning-viewers-into-vendors-mastery-of-youtube-income-streams/"><u>Turning Viewers Into Vendors  Mastery of YouTube Income Streams</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-driver-and-setup-tutorial-for-logitech-c27e-webcam-in-windows-11/"><u>Ultimate Driver & Setup Tutorial for Logitech C27e Webcam in Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-installing-logitech-rx250-driver-for-multiple-windows-versions-7-8-and-10/"><u>Ultimate Guide: Installing Logitech RX250 Driver for Multiple Windows Versions (7, 8 & 10)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-graphics-card-with-our-fresh-usbhdmi-driver-bundle/"><u>Update Your Graphics Card with Our Fresh USB/HDMI Driver Bundle</u></a></li>
+</ul></div>

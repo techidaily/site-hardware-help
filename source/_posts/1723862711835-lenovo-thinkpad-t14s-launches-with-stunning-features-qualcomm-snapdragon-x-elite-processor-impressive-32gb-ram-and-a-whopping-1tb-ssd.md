@@ -1,7 +1,7 @@
 ---
 title: "Lenovo ThinkPad T14s Launches with Stunning Features: Qualcomm Snapdragon X Elite Processor, Impressive 32GB RAM & a Whopping 1TB SSD!"
-date: 2024-08-14 22:54:21
-updated: 2024-08-17 12:53:47
+date: 2024-08-19T10:39:33.355Z
+updated: 2024-08-20T10:39:33.355Z
 tags:
   - laptop
 categories:
@@ -59,6 +59,9 @@ Acer Swift 14 AI  (Image credit: Qualcomm)
 
  On the connectivity front, there are two USB-C, two USB-A ports, and HDMI 1.4\. For your wireless needs, you'll find Wi-Fi 7 and Bluetooth 5.4\. Power comes from a 73 WHr battery, rated for up to 12 hours.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -71,6 +74,9 @@ Acer Swift 14 AI  (Image credit: Qualcomm)
 
  Acer intends to launch the Swift 14 AI in the United States this June, with prices starting at $1,099.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Lenovo Yoga Slim 7x 14 Gen 9 and ThinkPad 14s Gen 6
 
  Next, we have the Yoga Slim 7x 14 Gen 9 from the Lenovo camp. Manufacturers often talk about "all-day" battery life with their thin and light[notebooks](https://tools.techidaily.com) , but Lenovo claims that the Yoga Slim 7x extends that to "multi-day battery life." The efficient Snapdragon X Elite processor is paired with up to 32GB of LPDDR5x and includes a 70 WHr battery to enable this long endurance.
@@ -137,6 +143,9 @@ Dell XPS 13  (Image credit: Qualcomm)
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/5STqZSSuR2Yb9mkF7rrCLN-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Dell Inspiron 14 Plus  (Image credit: Qualcomm)
 
  The Inspiron 14 Plus comes exclusively with the Snapdragon X Plus, 16GB LPDDR5x memory, and 512GB/1TB SSD options. You get just one display option: a 14-inch 2560 x 1600 IPS panel with touch and an anti-glare coating. You also get two USB-C ports, one USB-A port, a microSD card reader, a headphone jack, quad speakers, a 1080p IR webcam with privacy shutter, Wi-Fi 7, Bluetooth 5.4, a power button with integrated fingerprint reader, and a 54 WHr battery.
@@ -145,6 +154,9 @@ The 3.17-pound Inspiron 14 Plus measures 12.36 x 8.80 x 0.66 inches.
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/ejCrV57dyrk8JZeZLG66eN-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 Dell Latitude 7455  (Image credit: Qualcomm)
 
  Rounding out Dell's Snapdragon X assault is the Latitude 7455, aimed at business users (Snapdragon X Elite or Snapdragon X Plus with up to 32GB of LPDDR5x). This 14-inch laptop is only available with a 2560 x 1600 IPS display and anti-glare coating.
@@ -153,12 +165,18 @@ Dell Latitude 7455  (Image credit: Qualcomm)
 
  The XPS 13 and Inspiron 14 Plus are scheduled to launch "later this year," priced from $1,299 and $1,099, respectively. Pricing and availability aren't yet known for the Latitude 7455.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Hewlett-Packard OmniBook X and EliteBook Ultra
 
  The[HP](https://tools.techidaily.com) OmniBook X and HP EliteBook Ultra share the same aluminum chassis design, weighing 2.97 pounds, and they measure 12.32 x 8.8 x 0.57 inches. The primary difference is that the latter features a blue finish with a Physical Vapor Deposition (PVD) coating to help resist fingerprints.
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/kkJgrFcMsp5e7XQRtHVKxM-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 HP OmniBook X and EliteBook Ultra  (Image credit: Qualcomm)
 
  The two laptops each have a Snapdragon X Elite chip, a 14-inch 2240 x 1400 IPS display, support for Wi-Fi 6E/Bluetooth 5.3 or Wi-Fi 7/Bluetooth 5.4, a 1080p webcam with IR, a 59 WHr battery, two USB-C ports, and one USB-A port. The OmniBook X is available with 16GB or 32GB of LPDDR5x and 512GB, 1TB, or 2TB SSD options. The EliteBook Ultra is only available with 16GB of LPDDR5x and a 512GB or 1TB SSD.
@@ -190,3 +208,43 @@ HP OmniBook X and EliteBook Ultra  (Image credit: Qualcomm)
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-audio-enhancement-for-online-video-creators/"><u>[New] Audio Enhancement for Online Video Creators</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-exploring-the-boundaries-with-syma-x8c-flight/"><u>[New] Exploring the Boundaries with Syma X8C Flight</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-how-to-add-chapters-to-youtube-videos/"><u>[New] How to Add Chapters to YouTube Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-boosting-collaboration-essential-zoom-video-alterations/"><u>[New] In 2024, Boosting Collaboration  Essential Zoom Video Alterations</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-learn-how-to-optimize-your-screen-record-with-screencastify/"><u>[New] Learn How to Optimize Your Screen Record with Screencastify</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-premium-panels-picked-the-top-10-4k-list/"><u>[New] Premium Panels Picked  The #Top 10 4K List</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-remedy-non-playing-youtube-tweet-clips-for-2024/"><u>[New] Remedy  Non-Playing YouTube Tweet Clips for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-prime-fb-video-converters-secure-mp4-downloads/"><u>[Updated] 2024 Approved  Prime FB Video Converters  Secure MP4 Downloads</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-premium-virtual-playstation-simulators-for-modern-computers/"><u>[Updated] Premium Virtual PlayStation Simulators for Modern Computers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-premier-picks-the-ultimate-8-tripods-for-4k-photography/"><u>2024 Approved  Premier Picks  The Ultimate 8 Tripods for 4K Photography</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-the-secret-sauce-for-stellar-telegram-campaigns/"><u>2024 Approved  The Secret Sauce for Stellar Telegram Campaigns</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-unleash-popularity-essential-hashes-for-viral-short-form-content/"><u>2024 Approved  Unleash Popularity  Essential Hashes for Viral Short Form Content</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722861150302-boosting-ps5-performance-for-ultra-smooth-visuals-at-120-frames-per-second/"><u>Boosting PS5 Performance for Ultra-Smooth Visuals at 120 Frames Per Second.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/could-ai-chatbots-like-chatgpt-become-the-new-challenge-for-search-engine-dominance/"><u>Could AI Chatbots Like ChatGPT Become the New Challenge for Search Engine Dominance?</u></a></li>
+<li><a href="https://games-able.techidaily.com/creating-a-unique-tv-watch-experience-with-xboxs-variable-refresh-tech/"><u>Creating a Unique TV Watch Experience with Xbox's Variable Refresh Tech</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-logitech-mk710-keyboard-drivers-latest-version/"><u>Download and Install Logitech MK710 Keyboard Drivers - Latest Version</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-epson-artisan-1430-printer-drivers-compatible-with-windows-11-10-and-8/"><u>Download the Epson Artisan 1430 Printer Drivers: Compatible with Windows 11, 10 & 8</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easily-install-targus-docking-station-software-now/"><u>Easily Install Targus Docking Station Software Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-guide-to-downloading-and-updating-your-epson-wf-3620-printer-driver-for-win-11-8-and-7/"><u>Easy Guide to Downloading and Updating Your Epson WF- 3620 Printer Driver for Win 11, 8 & 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-how-to-setting-up-your-pc-with-the-keyspan-19hs-device-driver-in-minutes/"><u>Easy How-To: Setting Up Your PC with the Keyspan 19HS Device Driver in Minutes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhancements-made-to-microsofts-acpi-standard-battery-controllers-fixed-issues-now/"><u>Enhancements Made to Microsoft's ACPI Standard Battery Controllers - Fixed Issues Now</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-laptop-audio-issues-a-comprehensive-guide-to-restoring-internal-speaker-functionality/"><u>Fixing Laptop Audio Issues: A Comprehensive Guide to Restoring Internal Speaker Functionality</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fresh-release-latest-graphics-driver-for-nvidias-rtx-2060-on-windows-systems-windows-111087/"><u>Fresh Release: Latest Graphics Driver for Nvidia's RTX 2060 on Windows Systems (Windows 11/10/8/7)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-started-fast-brother-mfc-9130cw-printer-driver-software-and-utilities/"><u>Get Started Fast: Brother MFC-9130CW Printer Driver Software & Utilities</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-killer-routers-firmware-v1535-installed-free-drivers-available/"><u>Get Your Killer Router's Firmware v1535 Installed - Free Drivers Available</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hassle-free-driver-integration-for-smooth-windows-updating-experience/"><u>Hassle-Free Driver Integration for Smooth Windows Updating Experience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-resolve-dts-unavailable-on-your-audio-device-error-message/"><u>How to Resolve DTS Unavailable on Your Audio Device Error Message</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722965672972-latest-msi-x470-gamingplus-chipset-and-graphics-drivers-get-them-here/"><u>Latest MSI X470 Gaming+ Chipset & Graphics Drivers - Get Them Here!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722976771393-quick-download-guide-samsung-m2070fw-drivers-instant-access/"><u>Quick Download Guide: Samsung M2070FW Drivers - Instant Access!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-how-to-swiftly-acquire-dell-latitude-e6420-drivers/"><u>Step by Step: How to Swiftly Acquire Dell Latitude E6420 Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-download-and-update-logitech-mk710-keyboard-driver/"><u>Step-by-Step Guide to Download & Update Logitech MK710 Keyboard Driver</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-downloading-the-corsair-k70-optical-mouse-software/"><u>Step-by-Step Guide to Downloading the Corsair K70 Optical Mouse Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-process-installing-new-drivers-on-your-dell-d3100-graphics-card/"><u>Step-by-Step Process: Installing New Drivers on Your DELL D3100 Graphics Card</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-10-indoor-alternatives-for-sports-fans/"><u>Top 10 Indoor Alternatives for Sports Fans</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-or-fresh-install-of-nvidia-graphics-card-drivers-made-easy/"><u>Update or Fresh Install of NVIDIA Graphics Card Drivers Made Easy</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/windows-users-rejoice-how-to-get-the-latest-hp-scanner-driver-installed/"><u>Windows Users Rejoice: How to Get the Latest HP Scanner Driver Installed!</u></a></li>
+</ul></div>

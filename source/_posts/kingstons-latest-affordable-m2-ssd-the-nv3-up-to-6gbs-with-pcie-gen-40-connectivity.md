@@ -1,7 +1,7 @@
 ---
 title: "Kingston's Latest Affordable M.2 SSD: The NV3 - Up to 6GB/S with PCIe Gen 4.0 Connectivity"
-date: 2024-08-17 16:24:36
-updated: 2024-08-18 11:15:45
+date: 2024-08-19T10:21:43.505Z
+updated: 2024-08-20T10:21:43.505Z
 tags:
   - components
 categories:
@@ -52,6 +52,9 @@ Enjoy what's left of the summer as you prepare to head back to school or maybe t
 
 ![Audeze Maxwell](https://cdn.mos.cms.futurecdn.net/PSTGdDtzE75XGJYehdsD6g-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: Audeze)
 
  If you're more of an audiophile and insist on having the clearest sound profiles beamed straight into your ears then the Audeze Maxwell is one headset that you certainly want to consider putting on your shopping list. We've had the chance to try out and[review the Audeze Maxwell](https://tools.techidaily.com) and it ranks as one of our favorite gaming headsets.
@@ -72,6 +75,9 @@ Enjoy what's left of the summer as you prepare to head back to school or maybe t
 
 ![Spotify Logo](https://cdn.mos.cms.futurecdn.net/KDia7SawcTN93wuYZwQnuc-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Spotify)
 
  Spotify is one of the most well-known premium music services, with a very large music catalog available, and is a fantastic resource for playing your favorite tunes and even discovering new artists. With a Premium subscription, you're able to listen to ad-free music, download tracks to your computer, phone, or wearables, have access to high-quality 320 kbps compressed audio, and even listen to music with friends in real-time.
@@ -84,6 +90,9 @@ Enjoy what's left of the summer as you prepare to head back to school or maybe t
 
 [View Deal](https://www.spotify.com/us/premium/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Entertainment
 
  When you need a break from your studies, to unwind and relax, either by yourself or with a couple of friends, there's always a use for a little entertainment to provide some much needed stimuli.
@@ -94,6 +103,9 @@ Enjoy what's left of the summer as you prepare to head back to school or maybe t
 
 ![Xbox Series X Games Console](https://cdn.mos.cms.futurecdn.net/FWrpbr8EsWYxBQwnUV8PdE-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Microsoft)
 
  Microsoft's latest generation games console the Xbox Series X gives you access to not only the suite of games made for the Xbox console but also Microsoft's Game Pass subscription service which opens up a multitude of games for a monthly subscription. If you opt for the Ultimate pass, then you can access games on both your console and PC which is superb value for money and a great option if you want access to a lot of entertainment. With Xbox also offering day-one games on Games Pass - such as the new Call of Duty - it's one of the best-value ways to consume video games.
@@ -150,6 +162,9 @@ Enjoy what's left of the summer as you prepare to head back to school or maybe t
 
 ![Crucial X9 1TB External SSD](https://cdn.mos.cms.futurecdn.net/PbcVJWyXHTmfgbaMWrHXpi-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Crucial)
 
  Compact and tiny, the the Crucial X9 is a portable SSD that fits snuggly in the palm of your hand. For some reason I always thought these drives were bigger and similar in size to the 2.5" external HDD drives - but they're not.
@@ -168,10 +183,16 @@ Enjoy what's left of the summer as you prepare to head back to school or maybe t
 
 [View Deal](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fshop-links.co%2Flink%3Fpublisher%255Fslug%3Dfuture%26exclusive%3D1%26u1%3Dtomshardware-us-6461667939973165955%26url%3Dhttps%253A%252F%252Fwww.bestbuy.com%252Fsite%252Fcrucial-x9-1tb-external-usb-c-ssd-black%252F6557871.p%26article%255Fname%3DBack%2520To%2520School%2520Tech%2520Deals%25202024%253A%2520Save%2520on%2520essential%2520tech%2520for%2520the%2520new%2520term%2520%257C%2520Tom%27s%2520Hardware%26article%255Furl%3Dhttps%253A%252F%252Fwww.tomshardware.com%252Fpc-components%252Fback-to-school-tech-deals-2024-save-on-essential-tech-for-the-new-term)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Crucial X10 Portable SSD
 
 ![Crucial X10 Pro 1TB External SSD](https://cdn.mos.cms.futurecdn.net/kpEAYHfyHPHNxwmQPeCSF4-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
  (Image credit: Crucial)
 
  Crucial's X10 Pro external SSD is the same size as the previously mentioned X9, but has a few improvements - namely it's twice as fast - with a Gen-2 2x2 USB 3.2 Type-C connection capable of 20Gb/s with sequential read and write speeds 2100/2000MB/s.
@@ -198,6 +219,10 @@ Enjoy what's left of the summer as you prepare to head back to school or maybe t
 
 ![Satechi 4 in 1 USB-C Hub and 2.5GHz Network Adapter](https://cdn.mos.cms.futurecdn.net/SRJF5S6CDsCotPErsTc4RF-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
  (Image credit: Satechi)
 
  This useful little hub packs in a 2.5GHz Ethernet adapter and 3 x 10Gb/s USB-C hubs into an attractively designed compact aluminum enclosure with smooth chamfered edges and a durable braided cable. This hub is constructed to last and be easily transported around campus or stored in a drawer or laptop bag for later use.
@@ -216,10 +241,21 @@ Enjoy what's left of the summer as you prepare to head back to school or maybe t
 
  You're more than likely going to be using a computer a lot in your new year at school or college and whether it's a laptop or desktop, you want to have the best experience possible when using them. Something to seriously consider is what you're using the computer for, and the ergonomics of your setup. Adding a new mouse, keyboard, or even a wrist rest is a great way of improving your computer setup and can potentially even reduce the risks of any repetitive strain injuries you could incur from excessive computer use.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Logitech MX Keys S
 
 ![Logitech MX Keys S](https://cdn.mos.cms.futurecdn.net/RKag62xcWzrPgVBsAKm6MA-320-80.png)
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Logitech)
 
  With its light and dark gray graphite styling (also available in Black and Pale Gray), the MX Keys S is an attractive keyboard that will look great on any desk. The MX Keys doesn’t boast per-key RGB like most modern day gaming keyboards, but instead has white backlighting, which it uses a proximity sensor located on the keyboard’s bottom edge which measures the magnetic field around the peripheral. The MX Keys S notices when your hands are touching the keyboard and lights up the keys without you having to press a button which is pretty cool.
@@ -240,6 +276,9 @@ Enjoy what's left of the summer as you prepare to head back to school or maybe t
 
 ![Logitech MX Master 3S Wireless Mouse](https://cdn.mos.cms.futurecdn.net/u664eJMBpQNnX76znUeXSV-320-80.png)
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Logitech)
 
  There are more considerations than you might think when choosing the mouse that's right for you. What type of grip you have and your hand size are just a few of the things that you should consider.
@@ -264,6 +303,9 @@ Enjoy what's left of the summer as you prepare to head back to school or maybe t
 
 ![HyperX Wrist Rest](https://cdn.mos.cms.futurecdn.net/Qp6sX9i4RfCgboeQFo9Pi3-320-80.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: HyperX)
 
  Something as simple as a wrist rest can make all the difference to your workstation setup. For instance, the HyperX wrist rest is a firm favorite amongst some of our Tom's Hardware editors including our Editor-in-Chief Avram Piltch who swears by the comfort of his longstanding HyperX wrist rest.
@@ -286,6 +328,9 @@ Enjoy what's left of the summer as you prepare to head back to school or maybe t
 
  If you want something just for work, to maybe hook up to a laptop for a bigger screen, you might want to look for something with a DisplayPort over USB-C, if you have a desktop then anything with an HDMI or DisplayPort should do the trick. Then it's just a case of budget and the type of screen and resolution you'd like to go for.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ## MSI Optix G274RW
 
  This superbly priced Monitor from MSI not only has a 170Hz refresh rate that's good for a little bit of esports-like gaming, but will also do well being connected to a docking station, or for watching a movie on. it's not got the highest resolution at only FHD (1080p), but at a snip just over $100 it's got a lot going for it.
@@ -316,3 +361,44 @@ Enjoy what's left of the summer as you prepare to head back to school or maybe t
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-streaming-success-live-tiktok-broadcasts-on-computers/"><u>[New] 2024 Approved  Streaming Success  Live TikTok Broadcasts on Computers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-boosting-visuals-mastering-youtubes-video-enhancement-tools-for-2024/"><u>[New] Boosting Visuals  Mastering YouTube's Video Enhancement Tools for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-youtube-comment-finder-you-should-try/"><u>[New] In 2024, YouTube Comment Finder You Should Try</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-mental-marathons-in-elite-escapade-venues/"><u>[New] Mental Marathons in Elite Escapade Venues</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-enhancing-media-top-5-streamlining-gadgets/"><u>[Updated] 2024 Approved  Enhancing Media  Top 5 Streamlining Gadgets</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-core-ideas-behind-mixed-reality/"><u>2024 Approved  The Core Ideas Behind Mixed Reality</u></a></li>
+<li><a href="https://fox-http.techidaily.com/a-comparative-look-at-rgb-and-srgb-for-designers/"><u>A Comparative Look at Rgb and Srgb for Designers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722965021040-approach-combine-knowledge-of-arc-blow-causes-with-mitigation-strategies-discussed-earlier/"><u>Approach: Combine Knowledge of Arc Blow Causes with Mitigation Strategies Discussed Earlier.</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-tecno-spark-10-4g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Tecno Spark 10 4G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/create-jaw-dropping-glitches-with-these-free-online-generators/"><u>Create Jaw-Dropping Glitches with These Free Online Generators</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-canon-mx492-printer-drivers-the-ultimate-guide-for-windows-users/"><u>Download & Install Canon MX492 Printer Drivers: The Ultimate Guide for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-sony-vaio-system-drivers-seamless-compatibility-with-windows/"><u>Download & Install Sony VAIO System Drivers – Seamless Compatibility with Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-the-latest-epson-wf-3620-printer-drivers-on-windows-10-8-and-7-free/"><u>Download & Install the Latest Epson WF-3620 Printer Drivers on Windows 10, 8 & 7 - FREE</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-latest-sound-card-software-and-drivers-for-pc/"><u>Download Latest Sound Card Software & Drivers for PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-install-guide-latest-eveo-bluetooth-connection-software/"><u>Easy Install Guide: Latest Eveo Bluetooth Connection Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-installation-of-sades-headset-drivers-for-windows-ensuring-100-security/"><u>Easy Installation of Sades Headset Drivers for Windows - Ensuring 100%% Security</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/explore-your-options-top-premiere-rush-alternatives-for-video-creators-for-2024/"><u>Explore Your Options Top Premiere Rush Alternatives for Video Creators for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-an-application-not-installed-via-microsofts-store/"><u>Fixing an Application Not Installed via Microsoft's Store</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722977237685-get-latest-drivers-for-your-msi-gs65-on-windows-download-now/"><u>Get Latest Drivers for Your MSI GS65 on Windows - Download Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-creative-webcam-drivers-for-your-windows-computer-download-and-installation-guide/"><u>Get the Latest Creative Webcam Drivers for Your Windows Computer – Download & Installation Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-intel-iris-xe-graphics-driver-for-windows-1011-fast/"><u>Get the Latest Intel Iris Xe Graphics Driver for Windows 10/11 - Fast!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-official-hp-deskjet-2755e-drivers-for-your-windows-pc-direct-download-links/"><u>Get the Official HP DeskJet 2755E Drivers for Your Windows PC: Direct Download Links</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-microsoft-wireless-mouse-amouse-5000-driver-fast-effortless-installation-guide/"><u>Get Your Microsoft Wireless Mouse Amouse 5000 Driver Fast - Effortless Installation Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722965231080-guide-to-instant-upgrades-freshest-epson-drivers-for-your-window-os/"><u>Guide to Instant Upgrades: Freshest Epson Drivers for Your Window OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-download-and-install-realtek-memory-card-reader-software-on-windows-pcs/"><u>How to Download & Install RealTek Memory Card Reader Software on Windows PCs</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-12-screen-lock-without-password-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock iPhone 12 screen lock without password?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-k70e-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Xiaomi Redmi K70E Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-realme-note-50-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Realme Note 50 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722976459519-instantly-upgrade-sound-performance-free-gigabyte-audio-drivers-available-today/"><u>Instantly Upgrade Sound Performance: Free Gigabyte Audio Drivers Available Today!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-version-of-logitech-k350-drivers-download-now/"><u>Latest Version of Logitech K350 Drivers - Download Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-setup-for-linksys-ae2500-driver-downloads-at-lightning-speed/"><u>Quick Setup for Linksys AE2500 - Driver Downloads at Lightning Speed</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/revive-iphone-hdr-video-on-premiere-pro-with-5-tips/"><u>Revive iPhone HDR Video on Premiere Pro with 5 Tips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/smooth-nahimic-driver-upgrade-for-speed-and-ease/"><u>Smooth Nahimic Driver Upgrade for Speed & Ease</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlocking-iphone-x-secrets-restoring-face-id-functionality/"><u>Unlocking iPhone X Secrets  Restoring Face ID Functionality</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-intel-uhd-graphics-driver-now-compatible-with-windows-10-and-11/"><u>Update Your Intel UHD Graphics Driver Now - Compatible with Windows 10 and 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-visual-experience-with-geforce-gtx-1660-super-driver-downloads/"><u>Update Your Visual Experience with GeForce GTX 1660 Super Driver Downloads</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/windows-7-network-troubleshooting-dealing-with-driver-complications-fixed/"><u>Windows 7 Network Troubleshooting: Dealing with Driver Complications [FIXED]</u></a></li>
+</ul></div>

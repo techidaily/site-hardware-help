@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Review and Testing Results for Corsair's CX5nF High-Wattage RGB PSU
-date: 2024-08-15 19:24:34
-updated: 2024-08-18 11:30:55
+date: 2024-08-19T10:19:31.196Z
+updated: 2024-08-20T10:19:31.196Z
 tags:
   - power-supply
 categories:
@@ -66,14 +66,24 @@ See more of Friday's Real Deals below.
 
 [View Deal](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-2513991122203814191%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fgigabyte-b650m-aorus-elite-ax%252Fp%252FN82E16813145413)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ## Looking for more deals?
 
 Category
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/chevron-left.svg "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Back to Everything
 
 Brand
@@ -92,6 +102,13 @@ Colour
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
  Black
 
  White
@@ -100,6 +117,9 @@ Price
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 Any Price
 
  Showing 10 of 40 deals
@@ -108,6 +128,9 @@ Any Price
 
 SORT BY Price (low to high)  Price (high to low) Product Name (A to Z)  Product Name (Z to A)  Retailer name (A to Z)  Retailer name (Z to A) ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 [GIGABYTE B650M AORUS Elite AX](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F5057986138&subId1=techidaily-us-5322157473801276840&sharedId=techidaily-us)
 
 1
@@ -274,3 +297,45 @@ Our Review
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-conquer-the-world-of-video-downloads-software-or-freely-whats-best-for-you/"><u>[New] 2024 Approved  Conquer the World of Video Downloads  Software or Freely, What's Best for You?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-expertly-curated-audio-experience-on-android/"><u>[New] In 2024, Expertly Curated Audio Experience on Android</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-boost-your-channel-top-14-gaming-vids-for-youtube-success/"><u>[Updated] Boost Your Channel  Top 14 Gaming Vids for YouTube Success</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-transform-videos-for-free-leading-enhancement-pages/"><u>[Updated] In 2024, Transform Videos for Free  Leading Enhancement Pages</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-seamless-live-broadcasting-on-facebook-a-simple-guide/"><u>[Updated] Seamless Live Broadcasting on Facebook  A Simple Guide</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-unlock-creative-expression-adding-descriptive-texts-to-your-tiktok-videos/"><u>[Updated] Unlock Creative Expression  Adding Descriptive Texts to Your TikTok Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-picture-perfection-ranking-of-photo-grid-tools/"><u>2024 Approved  Picture Perfection  Ranking of Photo Grid Tools</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-the-ultimate-guide-to-chromes-picture-in-picture-feature/"><u>2024 Approved  The Ultimate Guide to Chrome's Picture In Picture Feature</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-11-pro-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 11 Pro in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-your-webcam-drivers-on-windows-easily-and-efficiently-w7-guide/"><u>Download and Update Your Webcam Drivers on Windows Easily & Efficiently | W7 Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-amd-vega-graphics-card-driver-downloads-and-updates-enhancing-your-gaming-experience/"><u>Easy AMD Vega Graphics Card Driver Downloads & Updates: Enhancing Your Gaming Experience!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-instructions-installing-the-newest-canon-pixma-mg5120mg5122-driver-on-windows-devices/"><u>Easy Instructions: Installing the Newest Canon PIXMA MG5120/MG5122 Driver on Windows Devices</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-alternative-edits-skip-youtube-not-just-content-for-2024/"><u>Elite Alternative Edits  Skip Youtube, Not Just Content for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/enabling-end-task-feature-for-optimized-window-management-in-windows-11-ui/"><u>Enabling End Task Feature for Optimized Window Management in Windows 11 UI</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-corsair-k70-mouse-driver-and-setup-software/"><u>Free Corsair K70 Mouse Driver and Setup Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-wacom-intuos-pro-desktop-tablet-drivers-latest-version/"><u>Free Download: Wacom Intuos Pro Desktop Tablet Drivers Latest Version</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-installation-files-for-asus-realtek-audio-solutions/"><u>Free Installation Files for ASUS RealTek Audio Solutions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/geforce-rtx-3080-ti-driver-update-for-win-10-8-and-7-latest-version-download/"><u>GeForce RTX 3080 Ti Driver Update for Win 10, 8 and 7 - Latest Version Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-logitech-wireless-mouse-drivers-compatible-with-windows/"><u>Get the Latest Logitech Wireless Mouse Drivers Compatible with Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-samsung-850-evo-drive-up-and-running-with-new-drivers-free/"><u>Get Your Samsung 850 EVO Drive Up and Running with New Drivers [Free]</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-download-and-update-amd-video-drivers-easily/"><u>How to Download and Update AMD Video Drivers Easily</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-network-driver-download-for-windows-1078/"><u>HP Network Driver Download for Windows 10/7/8</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-google-pixel-7a-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Google Pixel 7a to Roku | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-compre-written-in-the-stars-how-to-choose-an-ideal-podcast-title/"><u>In 2024, A Compre Written in the Stars  How to Choose an Ideal Podcast Title</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-analysis-of-latest-tech-trends-by-toms-hardware-professionals/"><u>In-Depth Analysis of Latest Tech Trends by Tom's Hardware Professionals</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-the-essential-hp-scanner-drivers-for-windows-systems/"><u>Installing the Essential HP Scanner Drivers for Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intel-wi-fi-6e-gigplus-driver-install-guide-version-updates-included/"><u>Intel Wi-Fi 6E (Gig+) Driver Install Guide - Version Updates Included</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intels-resilient-duo-core-310-cpu-scoring-high-in-geekbench-reveals-market-potential/"><u>Intel's Resilient Duo-Core 310 CPU Scoring High in Geekbench Reveals Market Potential</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-hp-pagewide-pro-477dw-driver-version-for-windows-11108-free-download/"><u>Latest HP PageWide Pro 477DW Driver Version for Windows 11/10/8 - Free Download</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/linking-your-favorite-tiktoks-seamlessly-to-facebook/"><u>Linking Your Favorite TikToks Seamlessly to Facebook</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigate-2024s-budget-friendly-cpu-market-top-deals-for-any-computer-processor/"><u>Navigate 2024'S Budget-Friendly CPU Market: Top Deals for Any Computer Processor</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-the-world-of-pc-upgrades-with-toms-gear-insights/"><u>Navigating the World of PC Upgrades with Tom's Gear Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/overcoming-lg-usb-driver-challenges-for-a-smooth-experience-on-windows-operating-systems-1087/"><u>Overcoming LG USB Driver Challenges for a Smooth Experience on Windows Operating Systems (10/8/7)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/samsung-ssd-850-evo-disk-drive-software-download/"><u>Samsung SSD 850 EVO Disk Drive Software Download</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-gionee-f3-pro-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unreal-engine-oversight-leads-to-dramatic-drop-in-defects-at-modelfarm-transitioning-from-intel-to-amds-powerful-ryzen-9-lineup/"><u>Unreal Engine Oversight Leads to Dramatic Drop in Defects at ModelFarm: Transitioning From Intel to AMD's Powerful Ryzen 9 Lineup</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/windows-11-game-recording-5-methods-for-2024/"><u>Windows 11 Game Recording [5 Methods] for 2024</u></a></li>
+</ul></div>

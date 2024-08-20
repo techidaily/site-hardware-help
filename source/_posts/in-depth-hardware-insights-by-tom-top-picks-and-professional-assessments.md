@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Hardware Insights by Tom: Top Picks & Professional Assessments"
-date: 2024-08-15 21:50:12
-updated: 2024-08-18 10:10:17
+date: 2024-08-19T10:24:33.129Z
+updated: 2024-08-20T10:24:33.129Z
 tags:
   - build
 categories:
@@ -37,6 +37,14 @@ thumbnail: https://thmb.techidaily.com/fea6185edc685da72ba963a46eed57a3a71d46169
 
 ![](https://cdn.mos.cms.futurecdn.net/vaZRhuXWqcyB98KdTMVaK3-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  For your bonus build pleasure, here's the conclusion to the Munchkin Saga, Episode III: Revenge of 860K.
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
@@ -86,6 +94,9 @@ Deepcool Gamer Storm Gabriel
 
  Every component is identical to the Intel build earlier this week except the CPU, cooler and motherboard.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Definition of Insanity
 
  Some of you out there might be groaning and asking, "What, this again?" Hold on a minute. Those asking for a better 860K overclock have a valid argument. The 860K was handicapped last quarter with insufficient cooling to get any kind of meaningful overclock. You can't argue with that. This time around the CPU gets better treatment in the form of an aftermarket cooler and a larger case. So no, we're not trying the exact same thing and expecting different results. Do I expect the 860K to outperform the i3-4170? No, I don't. However, in order for me to prove that one way or the other, I need hard numbers and data. I'm curious to see if it can close the gap, if not overcome it.
@@ -126,6 +137,9 @@ Deepcool Gamer Storm Gabriel
 
 ![](https://cdn.mos.cms.futurecdn.net/nKfSxuUzQNwqBkyJ4996bk-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If the fins were a little thinner or my RAM didn't have a heat spreader, this would be a non-issue. It's still not technically a problem. It doesn't keep the RAM from being installed, it doesn't even put flex on the RAM stick. It's just annoying that a cooler marketed as designed specifically for ITX cooling seems to be borderline incompatible with every current AMD ITX motherboard (every model on Newegg right now has the CPU socket oriented the same way). Perhaps some of them have RAM slots a little farther from the CPU socket, which would solve this, but if Deepcool wanted to be universally compatible, shaving a few millimeters off the fins would have accomplished this without impacting thermal performance.
 
 ![](https://cdn.mos.cms.futurecdn.net/EkXfRYe3XW8vhT2PuH7XkJ-320-80.jpg)
@@ -134,6 +148,12 @@ Deepcool Gamer Storm Gabriel
 
 ![](https://cdn.mos.cms.futurecdn.net/kiyNGE2ogxSRTZjnNEBoST-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Overclocking
 
  I did a little more digging on 860K overclocking after last quarter. Most FM2+ motherboards are very liberal with CPU voltage at stock levels. This means it's usually possible to overclock the CPU while undervolting it. This held true for my particular 860K. Stock voltage was set at 1.45V, but I was able to get it to run at 4.0GHz on only 1.35V. Lowering the voltage helped temperatures, but the CPU still has a pretty hard thermal ceiling that won't let it be pushed as much as it could. Regardless of cooling solution or voltage, the CPU cuts back to 3.5 to 3.7GHz when it hits 65 degrees C (total, not over ambient). Even with the cooler at full speed, I was occasionally hitting that ceiling under the most demanding workloads.
@@ -150,6 +170,9 @@ Deepcool Gamer Storm Gabriel
 
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
  The RAM caused me no end of heartburn and frustration. I kept running into seemingly random crashes, regardless of RAM timings. I worried the RAM was somehow bad, but it worked flawlessly in the Intel build. After a quick appeal for help to Thomas, I found the motherboard simply required at least 1.64V to run the RAM, even at stock speeds. Again, the Intel build had no problem with 1.5V. I've never seen a motherboard that's more stable overclocked than at stock speeds, until now.
 
  My system this time around was only capable of reaching DDR3-2133, a bit shy of the 2400 speeds I got last quarter. I did get respectable timings of 10-11-10-31, but that was the limit. Along with the RAM, I upped the northbridge from 1800 to 2000MHz with only a slight bump in voltage to 1.1625V. I wasn't trying to match the frequency of last quarter, I simply couldn't boot the machine at anything past 2000MHz.
@@ -170,3 +193,39 @@ Deepcool Gamer Storm Gabriel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-photos-with-a-musical-edge-online/"><u>[New] Photos with a Musical Edge Online</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-scansnap-s1100-driver-quickly-and-easily/"><u>[UPDATE] Scansnap S1100 Driver | Quickly & Easily</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-maximizing-viewership-techniques-for-selecting-featured-channels/"><u>2024 Approved  Maximizing Viewership  Techniques for Selecting Featured Channels</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/a-detailed-walkthrough-for-enhancing-your-computer-with-updated-intel-centrino-advanced-n-e-6235-wireless-network-driver-updates/"><u>A Detailed Walkthrough for Enhancing Your Computer with Updated Intel Centrino Advanced-N E 6235 Wireless Network Driver Updates</u></a></li>
+<li><a href="https://article-helps.techidaily.com/crafting-memes-with-ease-on-9gag-platform/"><u>Crafting Memes with Ease on 9GAG Platform</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722968737223-download-and-install-hp-officejet-5255-printer-drivers-latest-version/"><u>Download & Install HP OfficeJet 5255 Printer Drivers - Latest Version</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-steps-to-obtain-the-newest-hp-laserjet-printer-drivers-for-model-m404/"><u>Easy Steps to Obtain the Newest HP LaserJet Printer Drivers for Model M404#</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-windows-amigos-7-dell-router-driver-here/"><u>Get Your Windows Amigos 7 Dell Router Driver Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hassle-free-intel-chip-support-get-the-latest-drivers-now/"><u>Hassle-Free Intel Chip Support - Get the Latest Drivers Now</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/hilarious-tricks-and-jokes-to-play-with-your-friends-iphones-and-ipads/"><u>Hilarious Tricks & Jokes to Play with Your Friends' IPhones & iPads</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722957763555-how-to-get-the-new-microsoft-bluetooth-driver-for-your-pc-windows-101187-supported/"><u>How to Get the New Microsoft Bluetooth Driver for Your PC - Windows 10/11/8/7 Supported!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-best-4k-tvs-top-ten-selection/"><u>In 2024, Best 4K TVs  Top Ten Selection</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 with a Mask On</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/inside-look-confidential-intel-papers-indicate-ongoing-cpu-instability-not-just-from-elevated-voltages/"><u>Inside Look: Confidential Intel Papers Indicate Ongoing CPU Instability Not Just From Elevated Voltages</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/keep-your-printer-running-smoothly-hp-laserjet-pro-mfp-m428fdw-drivers-for-microsoft-windows-11-10-and-7/"><u>Keep Your Printer Running Smoothly: HP LaserJet Pro MFP M428fdw Drivers for Microsoft Windows 11, 10 & 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-release-of-magiccards-rio-pro-driver-for-windows-systems-secure-your-copy-today/"><u>Latest Release of Magiccard's Rio Pro Driver for Windows Systems: Secure Your Copy Today!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/microsoft-battery-driver-error-resolved-for-enhanced-acpi-standards-support/"><u>Microsoft Battery Driver Error Resolved for Enhanced ACPI Standards Support</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/monitoring-and-early-detection/"><u>Monitoring and Early Detection</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/optimize-acer-predator-helios-300-for-maximum-fps-the-latest-driver-update-guide/"><u>Optimize Acer Predator Helios 300 For Maximum FPS - The Latest Driver Update Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-gaming-woes-no-more-fixing-continuous-crashes-in-minecraft-dungeons/"><u>PC Gaming Woes No More - Fixing Continuous Crashes in Minecraft Dungeons</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-guide-to-downloading-and-installing-amd-ryzen-5-2400g-drivers/"><u>Quick Guide to Downloading and Installing AMD Ryzen 5 2400G Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/secure-and-speedy-x230-lenovo-driver-downloads-enhance-your-device-effortlessly/"><u>Secure and Speedy X230 Lenovo Driver Downloads - Enhance Your Device Effortlessly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-refreshing-your-microsoft-mouse-software-in-windows/"><u>Step-by-Step Guide to Refreshing Your Microsoft Mouse Software in Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-solutions-for-a-broken-samsung-blu-ray-media-center/"><u>Step-by-Step Solutions for a Broken Samsung Blu-Ray Media Center</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/targus-dock-solutions-swift-setup-and-installation-instructions-for-busy-users/"><u>Targus Dock Solutions - Swift Setup & Installation Instructions for Busy Users</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-on-apple-iphone-7-plus-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue On Apple iPhone 7 Plus</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/top-fifa-players-visualized-data-infographics-for-2024/"><u>Top FIFA Players  Visualized Data Infographics for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-support-for-your-legion-5-pro-latest-laptop-driver-downloads-and-setup/"><u>Ultimate Support for Your Legion 5 Pro - Latest Laptop Driver Downloads and Setup</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-performance-secrets-in-pcs-and-peripherals-at-toms-hardware-hub/"><u>Unveiling Performance Secrets in PCs and Peripherals at Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722960308108-update-your-sound-experience-with-nahimic-fast-and-simple-setup/"><u>Update Your Sound Experience with Nahimic – Fast and Simple Setup</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/virtual-meeting-mastery-how-to-navigate-effortlessly-through-zoom-sessions/"><u>Virtual Meeting Mastery  How to Navigate Effortlessly Through Zoom Sessions</u></a></li>
+</ul></div>

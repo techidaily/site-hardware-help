@@ -1,7 +1,7 @@
 ---
 title: Reliability and Warranty
-date: 2024-08-15 18:12:10
-updated: 2024-08-18 10:58:47
+date: 2024-08-19T10:19:37.551Z
+updated: 2024-08-20T10:19:37.551Z
 tags:
   - power-supply
 categories:
@@ -63,6 +63,9 @@ See more Real Deals below.
 
 [View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB07S98YLHM%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-8780951100740110730-20)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Looking for more deals?
 
 Category
@@ -71,12 +74,18 @@ Category
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/chevron-left.svg "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
  Back to Hubs & Switches
 
 Brand
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Intel
 
  Netgear
@@ -87,6 +96,9 @@ Colour
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
  Black
 
  Copper
@@ -103,6 +115,9 @@ Price
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 Any Price
 
  Showing 10 of 52 deals
@@ -111,6 +126,18 @@ Any Price
 
 SORT BY Price (low to high)  Price (high to low) Product Name (A to Z)  Product Name (Z to A)  Retailer name (A to Z)  Retailer name (Z to A) ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Netgear GS305E](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07PJ7XZ7X%2Fref%3Dasc%5Fdf%5FB07PJ7XZ7X1723888800000%3Ftag%3Dhawk-future-20%26creative%3D395261%26creativeASIN%3DB07PJ7XZ7X%26linkCode%3Dasn%26ascsubtag%3Dtomshardware-us-1310836781021125979-20)
 
 1
@@ -277,3 +304,38 @@ Our Review
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-excellence-on-screen-the-years-best-camcorders-reviewed/"><u>[New] Excellence on Screen  The Year's Best Camcorders Reviewed</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-economical-hardware-peak-performance-via-obs/"><u>[New] In 2024, Economical Hardware - Peak Performance via OBS</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-the-complete-archive-of-high-quality-online-workshops/"><u>[New] In 2024, The Complete Archive of High-Quality Online Workshops</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-instant-integration-syncing-iphone-media-with-computer-for-2024/"><u>[New] Instant Integration  Syncing iPhone Media with Computer for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-skycleanser-exceptional-bg-erasing-software/"><u>[New] SkyCleanser  Exceptional BG Erasing Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-generate-10-official-travel-ready-passport-images-no-money-down/"><u>[Updated] Generate 10 Official Travel-Ready Passport Images, No Money Down</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-top-8-facebook-planners-for-enhanced-team-productivity-for-2024/"><u>[Updated] Top 8 Facebook Planners for Enhanced Team Productivity for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/a-comprehensive-guide-correcting-issues-with-amd-rx-560-graphics-card-drivers-in-windows-111087/"><u>A Comprehensive Guide: Correcting Issues with AMD RX 560 Graphics Card Drivers in Windows 11/10/8/7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722978005664-achieve-perfect-compatibility-easy-download-and-setup-of-hp-driver-software/"><u>Achieve Perfect Compatibility: Easy Download and Setup of HP Driver Software</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/avoiding-shaky-drone-imagery-with-top-tier-gimbals-for-2024/"><u>Avoiding Shaky Drone Imagery with Top-Tier Gimbals for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/beginners-walkthrough-downloading-and-using-corsair-icue-on-microsofts-latest-operating-systems/"><u>Beginner's Walkthrough – Downloading & Using Corsair iCUE on Microsoft’s Latest Operating Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-intel-raid-controller-drivers-for-latest-windows-systems/"><u>Download and Install Intel RAID Controller Drivers for Latest Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-hp-driver-downloads-and-setup-get-started-today/"><u>Effortless HP Driver Downloads and Setup - Get Started Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/find-and-download-the-latest-sound-blaster-z-drivers-compatible-with-windows-11-today/"><u>Find and Download the Latest Sound Blaster Z Drivers Compatible with Windows 11 Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-lenovo-monitor-driver-downloads-for-optimal-performance/"><u>Get the Newest Lenovo Monitor Driver Downloads for Optimal Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-gigabyte-audio-software-for-free-today/"><u>Get Your Gigabyte Audio Software for Free Today!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/guide-to-getting-your-hands-on-sound-blaster-z-drivers-compatible-with-windows-10/"><u>Guide to Getting Your Hands-On Sound Blaster Z Drivers Compatible with Windows 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-refresh-the-software-of-your-logitech-m310-mouse-with-updated-drivers/"><u>How to Refresh the Software of Your Logitech M310 Mouse with Updated Drivers</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Tecno Camon 30 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-infinix-smart-7-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Infinix Smart 7 Phone? Unlock It Now</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-unveiling-the-full-potential-of-video-storage-in-modern-hardware-64128gb/"><u>In 2024, Unveiling the Full Potential of Video Storage in Modern Hardware (64/128GB)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-fresh-amd-ryzen-3-2200g-graphics-card-drivers-today/"><u>Install Fresh AMD Ryzen 3 2200G Graphics Card Drivers Today!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intels-i9-and-i7-processors-experience-significant-warframe-performance-issues-developer-insights/"><u>Intel's I9 and I7 Processors Experience Significant Warframe Performance Issues: Developer Insights</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/investigating-magix-audio-mixer-mastery/"><u>Investigating MAGIX Audio Mixer Mastery</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-canon-eos-d530-software-updates-and-downloads/"><u>Latest Canon EOS D530 Software Updates and Downloads</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/leak-uncovers-deeper-challenges-for-intels-processor-reliability-beyond-overvoltage-concerns/"><u>Leak Uncovers Deeper Challenges for Intel's Processor Reliability, Beyond Overvoltage Concerns</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/netgear-wifi-adapter-software-update-and-download-step-by-step-instructions/"><u>NETGEAR WiFi Adapter Software Update & Download - Step by Step Instructions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-installation-of-samsung-m2070fw-driver-software-begin-today/"><u>Seamless Installation of Samsung M2070FW Driver Software - Begin Today!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-mediatek-vcom-driver-integration-download-options-inside/"><u>Seamless MediaTek VCOM Driver Integration: Download Options Inside!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-installation-of-corsair-icue-on-windows-11-and-windows-10-systems/"><u>Step-by-Step Installation of Corsair iCUE on Windows 11 and Windows 10 Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-computing-world-in-depth-electronics-analysis/"><u>Tom's Computing World: In-Depth Electronics Analysis</u></a></li>
+</ul></div>

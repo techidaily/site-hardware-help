@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Review: Expert Insights on the Latest Hardware"
-date: 2024-08-16 12:19:48
-updated: 2024-08-18 12:35:45
+date: 2024-08-19T10:20:23.431Z
+updated: 2024-08-20T10:20:23.431Z
 tags:
   - peripherals
 categories:
@@ -120,6 +120,9 @@ Today's best Keychron Q1 deals
 
  We check over 250 million products every day for the best prices
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Typing and Gaming Experience on the Q1 HE
 
  The prebuilt Q1 HE comes with Gateron 2.0 Nebula switches, which are linear magnetic switches with a starting force of 40g and a bottom-out force of 60g. This is the only prebuilt switch option, but Keychron also sells two other compatible switches separately — Gateron 2.0 Dawn (linear, 30g starting force, 50g bottom-out) and Gateron 2.0 Aurora (linear, 50g starting force, 70g bottom-out).
@@ -128,6 +131,9 @@ Today's best Keychron Q1 deals
 
 ![Keychron Q1 HE](https://cdn.mos.cms.futurecdn.net/VRGcGtLcEcSgw9EymrUKoR-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The Q1 HE's switches are pre-lubed and have a dual-rail structure designed to reduce stem wobble. This works well; the switches are smooth and stable — there's still some stem wobble but it's not bad. The board features a double gasket mount design that makes for a comfortable typing experience, and the case is lined with sound-dampening foam and an acoustic pad to reduce ping. It's a nice-sounding keyboard out of the box, though there's some noticeable stabilizer rattle (especially in the space bar) and bottoming out sounds slightly dull. The Q1 HE's sound is not too far from that of the Boog75 — but I did have a (mild, but definitive) preference for the latter.
@@ -142,6 +148,9 @@ Today's best Keychron Q1 deals
 
 ![Keychron Q1 HE](https://cdn.mos.cms.futurecdn.net/SrPBCHxjsKZtaKMaebeZKM-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  You can customize the Q1 HE with Keychron Launcher, Keychron's new web-based tool that supports all of its keyboards. It's Keychron's in-house answer to VIA and it's very similar — it only works in WebHID-enabled browsers and you'll need to connect the keyboard via USB-C to use it. It has several sections: HE Mode, keymapping, lighting, macros, firmware updates, key testing, and bug reports. In the HE Mode tab, you can set switch actuation, turn on and customize Rapid Trigger, program multiple inputs on individual keys, and set up gamepad emulation. It's not the most polished software I've used (updating the board's firmware was a little messy) but it wasn't too difficult to figure out.
@@ -162,14 +171,23 @@ Today's best Keychron Q1 deals
 
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  You can also change the keyboard's lighting effects in Keychron Launcher, though you are limited to preset effects — most of which only offer customization in the way of speed and/or color. The lighting is bright — thanks to the keyboard's south-facing PCB — and vibrant enough that it looks good behind the Q1 HE's solid, non-shine-through keycaps.
@@ -182,6 +200,9 @@ Today's best Keychron Q1 deals
 
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -216,3 +237,55 @@ Today's best Keychron Q1 deals
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-deciding-on-a-screen-projectors-and-tvs-at-the-forefront-of-4k-technology/"><u>[New] 2024 Approved  Deciding on a Screen  Projectors & TVs at the Forefront of 4K Technology</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-smart-shopping-for-data-stores-the-lowdown-on-price/"><u>[New] 2024 Approved  Smart Shopping for Data Stores  The Lowdown on Price</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-accelerated-conversion-guide-from-complex-srt-to-txt-2023/"><u>[New] Accelerated Conversion Guide  From Complex SRT to TXT 2023</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-from-basics-to-advanced-crafting-powerful-instagram-hashtags-for-2024/"><u>[New] From Basics to Advanced  Crafting Powerful Instagram Hashtags for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-chart-a-course-to-6-figure-growth-with-powerful-tags/"><u>[New] In 2024, Chart a Course to 6-Figure Growth with Powerful #Tags</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-editors-assistant-top-5-portable-devices-for-vfx-artists/"><u>[New] In 2024, Editor's Assistant  Top 5 Portable Devices for VFX Artists</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-seamless-video-editing-on-windows-11-platform-for-2024/"><u>[New] Seamless Video Editing on Windows 11 Platform for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-mics-and-more-discovering-the-audio-essential-that-matches-your-yt-vision/"><u>[Updated] 2024 Approved  Mics & More  Discovering the Audio Essential That Matches Your YT Vision</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-ultimate-guide-to-gameplay-in-simulated-liquids/"><u>[Updated] 2024 Approved  Ultimate Guide to Gameplay in Simulated Liquids</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-essential-techniques-recording-live-tv-online/"><u>[Updated] In 2024, Essential Techniques  Recording Live TV Online</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-leading-the-way-in-efficient-meeting-recording-zooms-finest-tools-reviewed/"><u>[Updated] Leading the Way in Efficient Meeting Recording  Zoom’s Finest Tools Reviewed</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-proficient-use-of-obs-studio-on-your-android-phone-for-2024/"><u>[Updated] Proficient Use of OBS Studio on Your Android Phone for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-ditching-samsungs-gear-360-here-are-your-new-camera-options/"><u>2024 Approved  Ditching Samsung's Gear 360? Here Are Your New Camera Options</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-masterful-dissection-the-complete-guide-to-bublcams-vision/"><u>2024 Approved  Masterful Dissection  The Complete Guide to Bublcam's Vision</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-plunge-into-the-magic-9-premium-full-length-christmas-movies-for-free/"><u>2024 Approved  Plunge Into the Magic  9 Premium Full-Length Christmas Movies for Free</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-atheros-network-adapter-drivers-on-your-pc/"><u>Download & Install Atheros Network Adapter Drivers on Your PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-compatible-drivers-for-epson-v50-printerscanner-model/"><u>Download Compatible Drivers for Epson V50^ Printer/Scanner Model</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-latest-epson-ds-530-printer-drivers-for-windows-10-64-bit/"><u>Download the Latest Epson DS-530 Printer Drivers for Windows 10 (64-Bit)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-guide-to-updating-and-downloading-hp-officejet-pro-8610-drivers-on-various-windows-versions/"><u>Easy Guide to Updating and Downloading HP Officejet Pro 8610 Drivers on Various Windows Versions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effective-strategies-for-utilizing-your-seagate-backup-plus-drive-a-guide/"><u>Effective Strategies for Utilizing Your Seagate Backup Plus Drive: A Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/elan-smbus-driver-the-ultimate-download-and-update-solution-for-your-windows-device/"><u>ELAN SMBus Driver - The Ultimate Download & Update Solution for Your Windows Device!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fast-track-your-acer-device-free-wi-fi-driver-download-now/"><u>Fast Track Your Acer Device - Free Wi-Fi Driver Download Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722971696186-find-and-download-sound-blaster-z-drivers-made-for-windows-11-simple-instructions-inside/"><u>Find & Download Sound Blaster Z Drivers Made For Windows 11 – Simple Instructions Inside</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/frontiers-in-virtuality-industry-analysis-for-2024/"><u>Frontiers in Virtuality  Industry Analysis for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-new-hp-universal-printing-software-for-windows-installed-today/"><u>Get the New HP Universal Printing Software for Windows Installed Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-official-epson-wf-2540-drivers-now-supported-by-windows-operating-systems/"><u>Get the Official Epson WF-2540 Drivers Now – Supported by Windows Operating Systems!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722977293713-grab-your-gigabyte-auditory-drivers-now-no-cost/"><u>Grab Your Gigabyte Auditory Drivers Now - No Cost!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hitbox-vs-twitch-which-is-better-for-2024/"><u>Hitbox Vs Twitch  Which Is Better for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-amds-typing-error-could-delay-the-release-and-affect-availability-of-ryzen-5-9600x/"><u>How AMD's Typing Error Could Delay the Release and Affect Availability of Ryzen 5 9600X</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-correctly-update-the-software-controlling-your-dell-webcam/"><u>How to Correctly Update the Software Controlling Your Dell Webcam</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-spectre-x360-complete-driver-download-pack-for-windows-users/"><u>HP Spectre X360 Complete Driver Download Pack for Windows Users</u></a></li>
+<li><a href="https://techidaily.com/is-your-samsung-galaxy-s24plus-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Samsung Galaxy S24+ working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-your-device-with-a-complete-list-of-ipados-versions-explained/"><u>Mastering Your Device with a Complete List of iPadOS Versions Explained</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-iphone-memory-challenges-with-roblox-essential-solutions/"><u>Overcoming iPhone Memory Challenges with Roblox - Essential Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/phasmophobia-fix-guide-resolving-the-stubborn-90-loading-barrier-of-2024/"><u>Phasmophobia Fix Guide: Resolving the Stubborn 90%% Loading Barrier of 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/resolved-lack-of-default-printer-and-scanner-drivers-on-windows-10/"><u>Resolved: Lack of Default Printer & Scanner Drivers on Windows 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/rtl8188cu-driver-download-compatible-with-windows-10-and-7/"><u>RTL8188CU Driver Download: Compatible with Windows 10 and 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/snapdragon-xs-elite-graphics-processor-not-activated-in-latest-linux-fixes-impact-of-optional-oem-key-signature-implementation/"><u>Snapdragon X's Elite Graphics Processor Not Activated in Latest Linux Fixes: Impact of Optional OEM Key Signature Implementation</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-on-downloading-your-dell-mouses-software-needs/"><u>Step-by-Step Guide on Downloading Your Dell Mouse's Software Needs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-instructions-for-downloading-broadcom-bluetooth-driver-for-windows-users/"><u>Step-by-Step Instructions for Downloading Broadcom Bluetooth Driver for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/system-builders-analysis-puget-demonstrates-superior-endurance-of-intel-cpus-over-ryzen-counterparts-in-new-failure-report/"><u>System Builders' Analysis: Puget Demonstrates Superior Endurance of Intel CPUs Over Ryzen Counterparts in New Failure Report</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/tough-market-conditions-lead-to-intels-16-billion-setback-in-cpu-and-foundry-business-sectors/"><u>Tough Market Conditions Lead to Intel's $1.6 Billion Setback in CPU and Foundry Business Sectors</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-and-fixing-asus-pce-ac56-drivers-on-windows-11-8-and-7-a-comprehensive-guide/"><u>Troubleshooting and Fixing ASUS PCE-AC56 Drivers on Windows 11, 8 & 7: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-download-pack-for-nexiq-usb-link-2-drivers-beginner-friendly/"><u>Ultimate Download Pack for Nexiq USB-Link 2 Drivers - Beginner Friendly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-downloading-and-updating-the-brother-mfc-7860dw-printer-driver/"><u>Ultimate Guide: Downloading and Updating the Brother MFC-7860DW Printer Driver</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-how-to-guide-on-lenovo-power-controller-and-hardware-drivers-update/"><u>Ultimate How-To Guide on Lenovo Power Controller & Hardware Drivers Update</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unfreeze-your-iphone-effective-methods-to-revive-it-quickly/"><u>Unfreeze Your iPhone: Effective Methods to Revive It Quickly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/windows-compatible-logitech-g602-speaker-driver-download-guide/"><u>Windows Compatible Logitech G602 Speaker Driver Download Guide</u></a></li>
+</ul></div>

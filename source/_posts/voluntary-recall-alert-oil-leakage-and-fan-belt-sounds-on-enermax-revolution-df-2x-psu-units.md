@@ -1,7 +1,7 @@
 ---
 title: "Voluntary Recall Alert: Oil Leakage & Fan Belt Sounds on Enermax Revolution D.F. 2/X PSU Units"
-date: 2024-08-16 10:58:29
-updated: 2024-08-18 12:22:58
+date: 2024-08-19T10:20:06.499Z
+updated: 2024-08-20T10:20:06.499Z
 tags:
   - power-supply
 categories:
@@ -63,6 +63,9 @@ See more Real Deals below.
 
 [View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB07S98YLHM%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-8780951100740110730-20)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Looking for more deals?
 
 Category
@@ -77,6 +80,9 @@ Brand
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Intel
 
  Netgear
@@ -87,6 +93,9 @@ Colour
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
  Black
 
  Copper
@@ -95,6 +104,9 @@ Condition
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
  New
 
  Refurbished
@@ -103,6 +115,9 @@ Price
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Any Price
 
  Showing 10 of 52 deals
@@ -111,6 +126,9 @@ Any Price
 
 SORT BY Price (low to high)  Price (high to low) Product Name (A to Z)  Product Name (Z to A)  Retailer name (A to Z)  Retailer name (Z to A) ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Netgear GS305E](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07PJ7XZ7X%2Fref%3Dasc%5Fdf%5FB07PJ7XZ7X1723888800000%3Ftag%3Dhawk-future-20%26creative%3D395261%26creativeASIN%3DB07PJ7XZ7X%26linkCode%3Dasn%26ascsubtag%3Dtomshardware-us-1310836781021125979-20)
 
 1
@@ -277,3 +295,52 @@ Our Review
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-creative-camerawork-innovative-techniques-for-video-savvy-youtubers/"><u>[Updated] 2024 Approved  Creative Camerawork  Innovative Techniques for Video-Savvy YouTubers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-simplified-social-media-sharing-youtube-to-facebook/"><u>[Updated] 2024 Approved  Simplified Social Media Sharing  YouTube to Facebook</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-anon-fb-live-watchers-group/"><u>[Updated] In 2024, Anon FB Live Watchers Group</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-unlocking-the-secrets-of-high-quality-twitch-broadcasts-for-2024/"><u>[Updated] Unlocking the Secrets of High-Quality Twitch Broadcasts for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-yuneec-typhoon-h-review/"><u>2024 Approved  Yuneec Typhoon H Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-step-by-step-guide-to-downloading-and-installing-aoc-driver-software-on-windows-81011-computers/"><u>Complete Step-by-Step Guide to Downloading & Installing AOC Driver Software on Windows 8/10/11 Computers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-your-webcam-drivers-on-windows-easily-and-efficiently-w7-guide/"><u>Download and Update Your Webcam Drivers on Windows Easily & Efficiently | W7 Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722976904734-dtis-ability-to-visualize-white-matter-tract-integrity-aids-in-diagnosing-demyelinating-diseases-and-assessing-the-extent-of-traumatic-brain-injuries/"><u>DTI's Ability to Visualize White Matter Tract Integrity Aids in Diagnosing Demyelinating Diseases and Assessing the Extent of Traumatic Brain Injuries</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-amd-vega-graphics-card-driver-downloads-and-updates-enhancing-your-gaming-experience/"><u>Easy AMD Vega Graphics Card Driver Downloads & Updates: Enhancing Your Gaming Experience!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-steps-for-installing-the-latest-driver-version-for-audio-technica-devices/"><u>Easy Steps for Installing the Latest Driver Version for Audio Technica Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/efficient-downloads-of-hp-stream-hardware-drivers/"><u>Efficient Downloads of HP Stream Hardware Drivers</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/te-your-short-form-content-top-10-edits-for-iosandroid/"><u>Elevate Your Short-Form Content  Top 10 Edits for iOS/Android</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/energy-efficient-performance-leader-ryzen-9-9860h-triumphs-over-core-i9-14900k-delivering-up-to-18-faster-speeds-at-250w-capacity/"><u>Energy Efficient Performance Leader: Ryzen 9 9860H Triumphs Over Core I9-14900K, Delivering Up to 18%% Faster Speeds at 250W Capacity</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-corsair-k70-mouse-driver-and-setup-software/"><u>Free Corsair K70 Mouse Driver and Setup Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-wacom-intuos-pro-desktop-tablet-drivers-latest-version/"><u>Free Download: Wacom Intuos Pro Desktop Tablet Drivers Latest Version</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-installation-files-for-asus-realtek-audio-solutions/"><u>Free Installation Files for ASUS RealTek Audio Solutions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/geforce-rtx-3080-ti-driver-update-for-win-10-8-and-7-latest-version-download/"><u>GeForce RTX 3080 Ti Driver Update for Win 10, 8 and 7 - Latest Version Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-logitech-wireless-mouse-drivers-compatible-with-windows/"><u>Get the Latest Logitech Wireless Mouse Drivers Compatible with Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-asus-disc-drive-drivers-for-a-smooth-experience/"><u>Get the Newest ASUS Disc Drive Drivers for a Smooth Experience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-ultimate-gaming-experience-download-and-setup-instructions-for-logitechs-driving-force-racing-wheels-on-windows-7810/"><u>Get the Ultimate Gaming Experience: Download & Setup Instructions for Logitech's Driving Force Racing Wheels on Windows 7/8/10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-samsung-850-evo-drive-up-and-running-with-new-drivers-free/"><u>Get Your Samsung 850 EVO Drive Up and Running with New Drivers [Free]</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-download-and-update-amd-video-drivers-easily/"><u>How to Download and Update AMD Video Drivers Easily</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-easily-connect-and-use-the-logitech-mx-masters-advanced-features/"><u>How To Easily Connect and Use the Logitech MX Master's Advanced Features</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-quickly-update-your-windows-laptops-battery-drivers-a-step-by-step-guide/"><u>How to Quickly Update Your Windows Laptop's Battery Drivers - A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-network-driver-download-for-windows-1078/"><u>HP Network Driver Download for Windows 10/7/8</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-mastering-voice-over-recording-for-videos/"><u>In 2024, Mastering Voice-Over Recording for Videos</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-analysis-of-latest-tech-trends-by-toms-hardware-professionals/"><u>In-Depth Analysis of Latest Tech Trends by Tom's Hardware Professionals</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/innovative-computing-insights-from-toms-comprehensive-hardware-guide/"><u>Innovative Computing Insights From Tom's Comprehensive Hardware Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-the-essential-hp-scanner-drivers-for-windows-systems/"><u>Installing the Essential HP Scanner Drivers for Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intel-wi-fi-6e-gigplus-driver-install-guide-version-updates-included/"><u>Intel Wi-Fi 6E (Gig+) Driver Install Guide - Version Updates Included</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intels-resilient-duo-core-310-cpu-scoring-high-in-geekbench-reveals-market-potential/"><u>Intel's Resilient Duo-Core 310 CPU Scoring High in Geekbench Reveals Market Potential</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-evga-graphics-card-drivers-quick-install-steps-for-windows-users/"><u>Latest EVGA Graphics Card Drivers: Quick Install Steps for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-hp-pagewide-pro-477dw-driver-version-for-windows-11108-free-download/"><u>Latest HP PageWide Pro 477DW Driver Version for Windows 11/10/8 - Free Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigate-2024s-budget-friendly-cpu-market-top-deals-for-any-computer-processor/"><u>Navigate 2024'S Budget-Friendly CPU Market: Top Deals for Any Computer Processor</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-the-world-of-pc-upgrades-with-toms-gear-insights/"><u>Navigating the World of PC Upgrades with Tom's Gear Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/overcoming-lg-usb-driver-challenges-for-a-smooth-experience-on-windows-operating-systems-1087/"><u>Overcoming LG USB Driver Challenges for a Smooth Experience on Windows Operating Systems (10/8/7)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/samsung-ssd-850-evo-disk-drive-software-download/"><u>Samsung SSD 850 EVO Disk Drive Software Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamlessly-connect-with-speed-download-linksys-ae2500-device-driver-software-today/"><u>Seamlessly Connect with Speed: [DOWNLOAD] Linksys AE2500 Device Driver Software Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/successfully-connect-your-epson-wf-amc320dwdc4ja-printer-with-windows-os-driver-download-and-installation-tips/"><u>Successfully Connect Your Epson WF-Amc320DW/DC4JA Printer with Windows OS: Driver Download and Installation Tips</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/televising-streamed-social-media-vids-in-households/"><u>Televising Streamed Social Media Vids in Households</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/ultimate-list-of-youtube-entrance-software-for-2024/"><u>Ultimate List of YouTube Entrance Software for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-brother-mfc-l2690dw-printer-drivers-today/"><u>Update Your Brother MFC-L2690DW Printer Drivers Today!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-brother-scanner-latest-drivers-compatible-with-windows-released/"><u>Update Your Brother Scanner: Latest Drivers Compatible with Windows Released</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrading-the-acer-predator-helios-300-driver-installation-guide-for-gamers/"><u>Upgrading The Acer Predator Helios 300: Driver Installation Guide For Gamers</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Smarter, Longer-Lasting Computing: Qualcomm’s Snapdragon Chips Double Dell XPS 13 Plus Laptop Battery Efficiency While Halving Costs Over Intel Counterparts"
-date: 2024-08-14 21:47:43
-updated: 2024-08-17 12:15:46
+date: 2024-08-19T10:40:49.533Z
+updated: 2024-08-20T10:40:49.533Z
 tags:
   - laptop
 categories:
@@ -59,6 +59,10 @@ Acer Swift 14 AI  (Image credit: Qualcomm)
 
  On the connectivity front, there are two USB-C, two USB-A ports, and HDMI 1.4\. For your wireless needs, you'll find Wi-Fi 7 and Bluetooth 5.4\. Power comes from a 73 WHr battery, rated for up to 12 hours.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -71,12 +75,18 @@ Acer Swift 14 AI  (Image credit: Qualcomm)
 
  Acer intends to launch the Swift 14 AI in the United States this June, with prices starting at $1,099.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ## Lenovo Yoga Slim 7x 14 Gen 9 and ThinkPad 14s Gen 6
 
  Next, we have the Yoga Slim 7x 14 Gen 9 from the Lenovo camp. Manufacturers often talk about "all-day" battery life with their thin and light[notebooks](https://tools.techidaily.com) , but Lenovo claims that the Yoga Slim 7x extends that to "multi-day battery life." The efficient Snapdragon X Elite processor is paired with up to 32GB of LPDDR5x and includes a 70 WHr battery to enable this long endurance.
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/6ajDJXDRMCTNS5JfXuENyN-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Lenovo Yoga Slim 7x 14 Gen 9  (Image credit: Qualcomm)
 
  Your "window" into the computing world is through a 14.5-inch PureSight OLED panel with a 90Hz refresh rate and a 2944 x 1840 resolution. Lenovo says you'll get 100% coverage of sRGB and the P3 color gamuts. Other features include a 1080p webcam with IR support for Windows Hello and a four-speaker[audio](https://tools.techidaily.com) system.
@@ -100,6 +110,9 @@ Lenovo Yoga Slim 7x 14 Gen 9  (Image credit: Qualcomm)
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/QXLgUBPHQLuoQKnKFXBYAN-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Lenovo ThinkPad T14s Gen 6  (Image credit: Qualcomm)
 
  Lenovo provides three display options with the ThinkPad T14s Gen 6: the first two are 14-inch 400-nit IPS panels with a 1920 x 1200 resolution, but one supports touch, and the other doesn't. The third option is a 2.8K OLED panel with 100% coverage of DCI-P3 and VESA HDR True Black 500 compliance.
@@ -116,6 +129,9 @@ Lenovo ThinkPad T14s Gen 6  (Image credit: Qualcomm)
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/cXqoxKsRoc29VARWi2JunN-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Dell XPS 13  (Image credit: Qualcomm)
 
  Dell makes the Snapdragon X Elite or the Snapdragon X Plus available, although the latter is only coming to the Chinese market (at least for now). Customers can choose from 16GB, 32GB, or 64GB of dual-channel LPDDR5x memory and 512GB, 1TB, 2TB, or 4TB (later availability) SSDs.
@@ -153,6 +169,9 @@ Dell Latitude 7455  (Image credit: Qualcomm)
 
  The XPS 13 and Inspiron 14 Plus are scheduled to launch "later this year," priced from $1,299 and $1,099, respectively. Pricing and availability aren't yet known for the Latitude 7455.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Hewlett-Packard OmniBook X and EliteBook Ultra
 
  The[HP](https://tools.techidaily.com) OmniBook X and HP EliteBook Ultra share the same aluminum chassis design, weighing 2.97 pounds, and they measure 12.32 x 8.8 x 0.57 inches. The primary difference is that the latter features a blue finish with a Physical Vapor Deposition (PVD) coating to help resist fingerprints.
@@ -190,3 +209,50 @@ HP OmniBook X and EliteBook Ultra  (Image credit: Qualcomm)
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ndroid-centric-top-downloads-for-youtube-videos-explored/"><u>[New] Android-Centric  Top Downloads for YouTube Videos Explored</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-securing-elite-photos-online-with-no-expense-incurred-for-2024/"><u>[New] Securing Elite Photos Online With No Expense Incurred for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-elevating-your-instagram-experience-through-smart-archiving/"><u>[Updated] 2024 Approved  Elevating Your Instagram Experience Through Smart Archiving</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-best-sources-for-pixel-ringtone-downloads-for-2024/"><u>[Updated] Best Sources for Pixel Ringtone Downloads for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-mastering-the-art-of-twilight-portraits-for-2024/"><u>[Updated] Mastering the Art of Twilight Portraits for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-elevate-edits-complimentary-image-enhancer-app/"><u>2024 Approved  Elevate Edits - Complimentary Image Enhancer App</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-full-facetune-review-the-pathway-to-picture-perfection/"><u>2024 Approved  Full Facetune Review  The Pathway to Picture Perfection</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-superior-webcam-gear-for-podcasters/"><u>2024 Approved  Superior Webcam Gear for Podcasters</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-handheld-tech-to-eliminate-shaky-screenshot-videos/"><u>2024 Approved  Top Handheld Tech to Eliminate Shaky Screenshot Videos</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-rx-590-driver-installation-and-update-tutorial-for-windows-users/"><u>AMD RX 590 Driver Installation and Update Tutorial for Windows Users</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/book-lovers-portable-companion-in-depth-analysis-of-the-newly-launched-kobo-clara-hd/"><u>Book Lovers' Portable Companion: In-Depth Analysis of the Newly Launched Kobo Clara HD</u></a></li>
+<li><a href="https://games-able.techidaily.com/brightening-up-tech-life-with-tecnos-new-colors/"><u>Brightening Up Tech Life with Tecno's New Colors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-walkthrough-to-fix-stop-code-0x0000005c-hal-cant-initialize/"><u>Complete Walkthrough to Fix Stop Code 0X0000005C: HAL Can't Initialize</u></a></li>
+<li><a href="https://driver-install.techidaily.com/discover-cutting-edge-tech-exploring-toms-in-depth-hardware-analysis/"><u>Discover Cutting-Edge Tech: Exploring Tom's In-Depth Hardware Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-logitech-camera-drivers-at-no-cost-for-your-pcwindows-system/"><u>Download Logitech Camera Drivers at No Cost for Your PC/Windows System</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-premium-behringer-audio-drives-at-no-cost-elevate-your-music-production-today/"><u>Download Premium Behringer Audio Drives at No Cost - Elevate Your Music Production Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-access-to-nvidia-drivers-download-options-for-windows-1078-users/"><u>Easy Access to Nvidia Drivers: Download Options for Windows 10/7/8 Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-guide-installing-canon-printerscanner-drivers-on-windows-systems/"><u>Easy Guide: Installing Canon Printer/Scanner Drivers on Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-free-driver-downloads-for-netgear-a6210-compatible-with-windows-87-users/"><u>Effortless Free Driver Downloads for Netgear A6210: Compatible with Windows 8/7 Users</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/expert-tips-streaming-youtube-and-fb-videos-seamlessly-with-apple-tv/"><u>Expert Tips  Streaming YouTube & FB Videos Seamlessly with Apple TV</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/find-and-install-samsung-nvme960-evo-driver-a-comprehensive-guide-for-windows-users/"><u>Find and Install Samsung Nvme960 EVO Driver - A Comprehensive Guide for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fixing-hp-sound-issues-on-windows-solutions-for-beats-audio-drivers-woes/"><u>Fixing HP Sound Issues on Windows: Solutions for Beats Audio Drivers Woes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-logitech-headset-software-instantly-for-optimal-performance/"><u>Get the Newest Logitech Headset Software Instantly for Optimal Performance</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-laserjet-p1006-driver-and-utility-downloads-for-smooth-printing-experience/"><u>HP LaserJet P1006 Driver and Utility Downloads for Smooth Printing Experience</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-oppo-a38-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Oppo A38 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-premium-aerial-imagery-crews-the-10-drones/"><u>In 2024, Premium Aerial Imagery Crews  The #10 Drones</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-7-best-waterproof-video-recorders/"><u>In 2024, The Ultimate Guide  7 Best Waterproof Video Recorders</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-epson-wf-2940-drivers-a-step-by-cstep-guide-for-windows-users/"><u>Installing Epson WF-2940 Drivers: A Step-by-CStep Guide for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/keep-your-pc-connected-download-updated-msi-bluetooth-drivers-for-windows-1110-today/"><u>Keep Your PC Connected: Download Updated MSI Bluetooth Drivers for Windows 11/10 Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/keeping-your-connectivity-smooth-how-to-install-latest-wireless-drivers-on-microsoft-oses/"><u>Keeping Your Connectivity Smooth: How to Install Latest Wireless Drivers on Microsoft OSes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/knock-sensor-function-the-knock-sensor-detects-pre-ignition-or-detonation-knock-allowing-the-ecu-to-retard-ignition-timing-and-prevent-engine-damage-while-m132/"><u>Knock Sensor Function: The Knock Sensor Detects Pre-Ignition or Detonation (Knock), Allowing the ECU to Retard Ignition Timing and Prevent Engine Damage While Maintaining Performance.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-simple-download-of-hp-envy-5660-driver-start-your-printing-journey/"><u>Quick & Simple Download of HP Envy 5660 Driver - Start Your Printing Journey!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-effective-methods-for-keeping-your-gtx-1660-drivers-current/"><u>Quick and Effective Methods for Keeping Your GTX 1660 Drivers Current</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-setup-for-hp-officejet-n5740-download-compatible-drivers-here/"><u>Quick Setup for HP OfficeJet N5740: Download Compatible Drivers Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revitalize-your-dell-computer-step-by-step-instructions-for-downloading-and-updating-the-wireless-network-adapter-driver/"><u>Revitalize Your Dell Computer: Step-by-Step Instructions for Downloading and Updating the Wireless Network Adapter Driver</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/rndis-driver-troubleshooting-for-windows-download-and-upgrade-solutions/"><u>RNDIS Driver Troubleshooting for Windows: Download & Upgrade Solutions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/roccat-mousedriver-setup-how-to-download-and-install-effortlessly/"><u>Roccat MouseDriver Setup - How To Download and Install Effortlessly</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-the-windows-system-file-check-utility-sfc-malfunction/"><u>Solve the Windows System File Check Utility (SFC) Malfunction</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722965354778-speedy-solution-obtain-your-brother-hl-3170cdw-drivers-today/"><u>Speedy Solution: Obtain Your Brother HL-3170CDW Drivers Today!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-and-solving-dell-optiplex-790-driver-woes-in-windows/"><u>Troubleshooting and Solving Dell OptiPlex 790 Driver Woes in Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-tips-how-to-fix-your-logitech-g433-microphone-issues/"><u>Troubleshooting Tips: How to Fix Your Logitech G433 Microphone Issues</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-the-best-text-voice-generators-for-all-platforms/"><u>Updated 2024 Approved The Best Text Voice Generators for All Platforms</u></a></li>
+</ul></div>

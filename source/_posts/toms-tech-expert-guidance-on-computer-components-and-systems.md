@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech: Expert Guidance on Computer Components and Systems"
-date: 2024-08-17 12:40:46
-updated: 2024-08-18 10:55:51
+date: 2024-08-19T10:21:09.599Z
+updated: 2024-08-20T10:21:09.599Z
 tags:
   - peripherals
 categories:
@@ -128,6 +128,9 @@ Today's best Keychron Q1 deals
 
 ![Keychron Q1 HE](https://cdn.mos.cms.futurecdn.net/VRGcGtLcEcSgw9EymrUKoR-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The Q1 HE's switches are pre-lubed and have a dual-rail structure designed to reduce stem wobble. This works well; the switches are smooth and stable — there's still some stem wobble but it's not bad. The board features a double gasket mount design that makes for a comfortable typing experience, and the case is lined with sound-dampening foam and an acoustic pad to reduce ping. It's a nice-sounding keyboard out of the box, though there's some noticeable stabilizer rattle (especially in the space bar) and bottoming out sounds slightly dull. The Q1 HE's sound is not too far from that of the Boog75 — but I did have a (mild, but definitive) preference for the latter.
@@ -158,14 +161,23 @@ Today's best Keychron Q1 deals
 
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -178,10 +190,16 @@ Today's best Keychron Q1 deals
 
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -190,6 +208,9 @@ Today's best Keychron Q1 deals
 
  The Q1 HE has a 4,000 mAh battery that Keychron says will last "up to 100 hours" with the backlighting turned off. That's not terribly impressive given the keyboard's weight, but it also seems like plenty... given the keyboard's weight. I expect this nearly-four-pound keyboard will spend most of its time on desks.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Bottom Line
 
  The Keychron Q1 HE QMK Wireless Custom keyboard is pretty impressive — even though every custom keyboard company seems to have a nearly identical offer._Nearly_ being the key word — the Q1 HE has the solid build and nice typing experience of the[Meletrix Boog75](https://tools.techidaily.com) , the tri-mode connectivity of the[Akko MOD007B-HE PC](https://tools.techidaily.com) , and the larger layout we wanted from the[Arbiter Studio Polar 65](https://tools.techidaily.com) .
@@ -216,3 +237,55 @@ Today's best Keychron Q1 deals
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-help.techidaily.com/acer-support-ultimate-guide-to-downloading-and-installing-touchpad-drivers-on-windows-11/"><u>[Acer Support] Ultimate Guide to Downloading and Installing Touchpad Drivers on Windows 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-10-secret-photoshop-photo-editing-tips-for-beginners/"><u>[New] 10 Secret Photoshop Photo Editing Tips for Beginners</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-efficient-edits-free-mac-apps-for-improved-tiktok-videos-for-2024/"><u>[New] Efficient Edits  Free Mac Apps for Improved TikTok Videos for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-from-novice-to-pro-your-roadmap-to-crafting-engaging-fb-stories/"><u>[New] From Novice to Pro  Your Roadmap to Crafting Engaging FB Stories</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-select-a-premium-360-camera-today/"><u>[New] How to Select a Premium 360 Camera Today</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-hasty-instruction-saving-your-photos-as-youtube-channel-thumbnails/"><u>[New] In 2024, Hasty Instruction  Saving Your Photos as YouTube Channel Thumbnails</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-pioneering-affordable-switch-emulators/"><u>[New] In 2024, Pioneering Affordable Switch Emulators</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-methods-for-amending-silent-obs-recordings-for-2024/"><u>[New] Methods for Amending Silent OBS Recordings for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-synergy-between-youtube-and-creative-commons-licensinas/"><u>[New] The Synergy Between YouTube and Creative Commons Licensinas</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-unlocking-igtv-potential-converting-and-curating-horizontal-videos-for-2024/"><u>[Updated] Unlocking IGTV Potential  Converting and Curating Horizontal Videos for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-elevate-your-content-visibility-discover-6-thumbnail-designers-best-tools/"><u>2024 Approved  Elevate Your Content Visibility - Discover 6 Thumbnail Designers' Best Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-heroic-footage-face-off-black-vs-silver-in-the-gopro-wars/"><u>2024 Approved  HEROic Footage Face-Off  Black vs Silver in the GoPro Wars</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-visual-harmony-on-screen-mastering-zooms-edge-magic/"><u>2024 Approved  Visual Harmony on Screen  Mastering Zoom's Edge Magic</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/composite-behavior-analysis-is-necessary-to-understand-the-interactions-between-different-materials-within-a-scaffold-system/"><u>Composite Behavior Analysis Is Necessary to Understand the Interactions Between Different Materials Within a Scaffold System.</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ing-cost-effective-youtube-closure-elements-for-2024/"><u>Creating Cost-Effective YouTube Closure Elements for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/cutting-edge-computing-reviewed-the-essential-guide-from-tomamoor/"><u>Cutting-Edge Computing Reviewed: The Essential Guide From Tom'amoor</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-samsung-c460-drivers-easily-step-by-step/"><u>Download & Install Samsung C460 Drivers Easily – Step-by-Step</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/eager-collector-secures-first-batch-of-new-ryzen-7-9700x-processors-warehouses-prep-stockpile-amds-latest-zen-5-cpus-for-upcoming-retail-launch/"><u>Eager Collector Secures First Batch of New Ryzen 7 9700X Processors — Warehouses Prep Stockpile AMD's Latest Zen 5 CPUs for Upcoming Retail Launch</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-update-instructions-freshest-targus-displaylink-drivers-compatible-with-windows-11-8-and-7/"><u>Easy Update Instructions: Freshest Targus DisplayLink Drivers Compatible with Windows 11, 8 & 7</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/extracting-eroded-exchanges-from-gpt/"><u>Extracting Eroded Exchanges From GPT</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/find-and-download-updated-amd-vega-56-drivers-for-optimal-performance-on-pcs-with-windows-os/"><u>Find & Download Updated AMD Vega 56 Drivers for Optimal Performance on PCs with Windows OS</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/from-ground-to-greatness-photos-on-a-stretch/"><u>From Ground to Greatness  Photos on a Stretch</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/gaining-unauthorized-control-through-ghostwrite-bug-in-the-design-of-risc-v-cpus/"><u>Gaining Unauthorized Control Through GhostWrite Bug in the Design of RISC-V CPUs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-samsung-850-evo-drive-software-here/"><u>Get the Newest Samsung 850 EVO Drive Software Here!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-epson-stylus-nx420-up-and-running-driver-downloads-for-win-7810/"><u>Get Your Epson Stylus NX420 Up and Running: Driver Downloads for Win 7/8/10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hassle-free-setup-download-and-update-your-scansnap-driver-for-windows-now/"><u>Hassle-Free Setup: Download & Update Your ScanSnap Driver for Windows Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-fetch-the-latest-epson-wf-3520-driver-software-for-windows-devices/"><u>How to Fetch the Latest Epson WF-3520 Driver Software for Windows Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-install-the-latest-epson-wf-7720-drivers-for-windows-computers/"><u>How to Install the Latest Epson WF- 7720 Drivers for Windows Computers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-properly-download-and-set-up-a-mouse-driver-for-your-windows-7-system/"><u>How to Properly Download and Set Up a Mouse Driver for Your Windows 7 System</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-oneplus-11r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-pro-max-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Pro Max to other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-your-logitech-g6-2-mouse-driver-on-windows-systems/"><u>How to Update Your Logitech G6지 2 Mouse Driver on Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-deskjet-3700-update-to-the-latest-driver-version-and-download-options-explained/"><u>HP DeskJet 3700: Update to the Latest Driver Version & Download Options Explained</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-apple-iphone-7-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your Apple iPhone 7 When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-product-evaluations-and-advice-by-toms-hardware-experts/"><u>In-Depth Product Evaluations and Advice by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-or-updating-intel-rapid-storage-technology-guide-for-windows-vista781011-users/"><u>Installing or Updating Intel Rapid Storage Technology: Guide for Windows Vista/7/8/10/11 Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/interactive-entertainment-evolution-mobile-fortnite-via-streaming/"><u>Interactive Entertainment Evolution: Mobile Fortnite via Streaming</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastered-the-fix-working-with-xbox-gaming-controllers-across-windows-11-8-and-nix-os/"><u>Mastered the Fix: Working with XBOX Gaming Controllers Across Windows 11, 8 & Nix OS</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/navigating-through-modern-cameras-complex-shooting-modes/"><u>Navigating Through Modern Camera's Complex Shooting Modes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/new-fixes-available-how-to-install-printer-and-scanner-drivers-on-windows-11/"><u>New Fixes Available: How to Install Printer and Scanner Drivers on Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-download-of-amd-ryzen-n5-2400g-graphics-card-drivers/"><u>Quick Download of AMD Ryzen N5 2400G Graphics Card Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/realtek-rtl8188ee-wifi-adapter-compatible-devices-and-installation-guide/"><u>Realtek RTL8188EE WiFi Adapter: Compatible Devices & Installation Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-to-update-your-acer-predator-helios-300s-drivers-for-enhanced-gaming/"><u>Step-by-Step Tutorial to Update Your Acer Predator Helios 300'S Drivers for Enhanced Gaming</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722968635485-streamline-your-surface-books-experience-with-quick-driver-downloads-and-updates/"><u>Streamline Your Surface Book's Experience with Quick Driver Downloads and Updates</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tips-and-tricks-for-disabling-the-suggestions-section-on-instagram-profiles/"><u>Tips & Tricks for Disabling the 'Suggestions' Section on Instagram Profiles</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-advanced-computer-components-guide/"><u>Tom's Tech Insights: Advanced Computer Components Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/transforming-mundane-interviews-into-memorable-experienrances/"><u>Transforming Mundane Interviews Into Memorable Experienrances</u></a></li>
+</ul></div>

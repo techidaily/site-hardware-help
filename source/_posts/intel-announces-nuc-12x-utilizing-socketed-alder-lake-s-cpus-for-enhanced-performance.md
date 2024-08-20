@@ -1,7 +1,7 @@
 ---
 title: "Intel Announces NUC 12X: Utilizing Socketed Alder Lake-S CPUs for Enhanced Performance"
-date: 2024-08-17 16:17:12
-updated: 2024-08-18 11:13:50
+date: 2024-08-19T10:24:21.258Z
+updated: 2024-08-20T10:24:21.258Z
 tags:
   - build
 categories:
@@ -31,6 +31,9 @@ thumbnail: https://thmb.techidaily.com/8b3d2d47a5002bc66759eafaa4c246c7aaef6efd4
 4. [System Value Compared](https://tools.techidaily.com)
 5. $912 AMD LAN Box PC
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## $912 AMD LAN Box PC
 
  Even though my Intel-based revision of this quarter vindicates my assessments last quarter, a number of readers are still convinced that a properly cooled and overclocked 860K is the gateway to budget gaming goodness. After experiencing the limitations and frustrations last quarter, I still have my reservations. However, the SBM is a perfect place to empirically test this and give AMD's budget quad-core every chance to prove itself.
@@ -86,6 +89,9 @@ Deepcool Gamer Storm Gabriel
 
  Every component is identical to the Intel build earlier this week except the CPU, cooler and motherboard.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## The Definition of Insanity
 
  Some of you out there might be groaning and asking, "What, this again?" Hold on a minute. Those asking for a better 860K overclock have a valid argument. The 860K was handicapped last quarter with insufficient cooling to get any kind of meaningful overclock. You can't argue with that. This time around the CPU gets better treatment in the form of an aftermarket cooler and a larger case. So no, we're not trying the exact same thing and expecting different results. Do I expect the 860K to outperform the i3-4170? No, I don't. However, in order for me to prove that one way or the other, I need hard numbers and data. I'm curious to see if it can close the gap, if not overcome it.
@@ -126,6 +132,9 @@ Deepcool Gamer Storm Gabriel
 
 ![](https://cdn.mos.cms.futurecdn.net/nKfSxuUzQNwqBkyJ4996bk-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
  If the fins were a little thinner or my RAM didn't have a heat spreader, this would be a non-issue. It's still not technically a problem. It doesn't keep the RAM from being installed, it doesn't even put flex on the RAM stick. It's just annoying that a cooler marketed as designed specifically for ITX cooling seems to be borderline incompatible with every current AMD ITX motherboard (every model on Newegg right now has the CPU socket oriented the same way). Perhaps some of them have RAM slots a little farther from the CPU socket, which would solve this, but if Deepcool wanted to be universally compatible, shaving a few millimeters off the fins would have accomplished this without impacting thermal performance.
 
 ![](https://cdn.mos.cms.futurecdn.net/EkXfRYe3XW8vhT2PuH7XkJ-320-80.jpg)
@@ -134,6 +143,12 @@ Deepcool Gamer Storm Gabriel
 
 ![](https://cdn.mos.cms.futurecdn.net/kiyNGE2ogxSRTZjnNEBoST-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Overclocking
 
  I did a little more digging on 860K overclocking after last quarter. Most FM2+ motherboards are very liberal with CPU voltage at stock levels. This means it's usually possible to overclock the CPU while undervolting it. This held true for my particular 860K. Stock voltage was set at 1.45V, but I was able to get it to run at 4.0GHz on only 1.35V. Lowering the voltage helped temperatures, but the CPU still has a pretty hard thermal ceiling that won't let it be pushed as much as it could. Regardless of cooling solution or voltage, the CPU cuts back to 3.5 to 3.7GHz when it hits 65 degrees C (total, not over ambient). Even with the cooler at full speed, I was occasionally hitting that ceiling under the most demanding workloads.
@@ -146,6 +161,9 @@ Deepcool Gamer Storm Gabriel
 
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -170,3 +188,38 @@ Deepcool Gamer Storm Gabriel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/iscover-variety-50-complimentary-youtube-banners-available/"><u>[New] Discover Variety – 50 Complimentary YouTube Banners Available!</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-visual-vault-saving-windows-imagery/"><u>[New] In 2024, Visual Vault  Saving Windows Imagery</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-completely-erase-your-connection-with-youtube-shorts-for-2024/"><u>[Updated] Completely Erase Your Connection with YouTube Shorts for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-tailored-ending-scenes-get-em-for-free/"><u>2024 Approved  Tailored Ending Scenes - Get 'Em for Free</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-playbook-of-youtubes-innovative-approach-to-video-shorts/"><u>2024 Approved  The Playbook of YouTube’s Innovative Approach to Video Shorts</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-the-ultimate-guide-to-rl-live-capture/"><u>2024 Approved  The Ultimate Guide to RL Live Capture</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-step-by-step-guide-to-downloading-and-installing-aoc-driver-software-on-windows-81011-computers/"><u>Complete Step-by-Step Guide to Downloading & Installing AOC Driver Software on Windows 8/10/11 Computers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-your-webcam-drivers-on-windows-easily-and-efficiently-w7-guide/"><u>Download and Update Your Webcam Drivers on Windows Easily & Efficiently | W7 Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722976904734-dtis-ability-to-visualize-white-matter-tract-integrity-aids-in-diagnosing-demyelinating-diseases-and-assessing-the-extent-of-traumatic-brain-injuries/"><u>DTI's Ability to Visualize White Matter Tract Integrity Aids in Diagnosing Demyelinating Diseases and Assessing the Extent of Traumatic Brain Injuries</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-installation-files-for-asus-realtek-audio-solutions/"><u>Free Installation Files for ASUS RealTek Audio Solutions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/geforce-rtx-3080-ti-driver-update-for-win-10-8-and-7-latest-version-download/"><u>GeForce RTX 3080 Ti Driver Update for Win 10, 8 and 7 - Latest Version Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-logitech-wireless-mouse-drivers-compatible-with-windows/"><u>Get the Latest Logitech Wireless Mouse Drivers Compatible with Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-ultimate-gaming-experience-download-and-setup-instructions-for-logitechs-driving-force-racing-wheels-on-windows-7810/"><u>Get the Ultimate Gaming Experience: Download & Setup Instructions for Logitech's Driving Force Racing Wheels on Windows 7/8/10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-download-and-update-amd-video-drivers-easily/"><u>How to Download and Update AMD Video Drivers Easily</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-quickly-update-your-windows-laptops-battery-drivers-a-step-by-step-guide/"><u>How to Quickly Update Your Windows Laptop's Battery Drivers - A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-network-driver-download-for-windows-1078/"><u>HP Network Driver Download for Windows 10/7/8</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-fb-song-savers-entry-level-access/"><u>In 2024, FB Song Savers  Entry Level Access</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-vivo-v29e-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Vivo V29e Phone?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-tips-for-constructing-inspirational-day-to-day-visual-narratives/"><u>In 2024, Tips for Constructing Inspirational Day-to-Day Visual Narratives</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/innovative-computing-insights-from-toms-comprehensive-hardware-guide/"><u>Innovative Computing Insights From Tom's Comprehensive Hardware Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intels-resilient-duo-core-310-cpu-scoring-high-in-geekbench-reveals-market-potential/"><u>Intel's Resilient Duo-Core 310 CPU Scoring High in Geekbench Reveals Market Potential</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-evga-graphics-card-drivers-quick-install-steps-for-windows-users/"><u>Latest EVGA Graphics Card Drivers: Quick Install Steps for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-the-world-of-pc-upgrades-with-toms-gear-insights/"><u>Navigating the World of PC Upgrades with Tom's Gear Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/samsung-ssd-850-evo-disk-drive-software-download/"><u>Samsung SSD 850 EVO Disk Drive Software Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamlessly-connect-with-speed-download-linksys-ae2500-device-driver-software-today/"><u>Seamlessly Connect with Speed: [DOWNLOAD] Linksys AE2500 Device Driver Software Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/successfully-connect-your-epson-wf-amc320dwdc4ja-printer-with-windows-os-driver-download-and-installation-tips/"><u>Successfully Connect Your Epson WF-Amc320DW/DC4JA Printer with Windows OS: Driver Download and Installation Tips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlocking-the-full-potential-of-youtube-video-interactions/"><u>Unlocking the Full Potential of YouTube Video Interactions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-brother-mfc-l2690dw-printer-drivers-today/"><u>Update Your Brother MFC-L2690DW Printer Drivers Today!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-brother-scanner-latest-drivers-compatible-with-windows-released/"><u>Update Your Brother Scanner: Latest Drivers Compatible with Windows Released</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrading-the-acer-predator-helios-300-driver-installation-guide-for-gamers/"><u>Upgrading The Acer Predator Helios 300: Driver Installation Guide For Gamers</u></a></li>
+</ul></div>

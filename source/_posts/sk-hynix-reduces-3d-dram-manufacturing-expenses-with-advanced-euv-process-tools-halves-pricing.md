@@ -1,7 +1,7 @@
 ---
 title: SK Hynix Reduces 3D DRAM Manufacturing Expenses with Advanced EUV Process Tools, Halves Pricing
-date: 2024-08-16 22:52:40
-updated: 2024-08-18 11:42:18
+date: 2024-08-19T10:22:16.255Z
+updated: 2024-08-20T10:22:16.255Z
 tags:
   - components
 categories:
@@ -38,6 +38,9 @@ Best Graphics Card Deals
 
  We've highlighted our favorite deals below, but if you're trying to find the lowest price on a particular GPU right now, we've got tables below for all the major Nvidia and AMD cards. Each card's performance is listed, using the combined (geometric mean) of the 1080p and 1440p fps from our[GPU benchmarks hierarchy](https://tools.techidaily.com) .
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Best Nvidia Graphics Card Prices
 
  Swipe to scroll horizontally
@@ -57,6 +60,9 @@ Best Graphics Card Deals
 
  Nvidia's graphics cards — both the new RTX 4090/4080 and the previous generation RTX 30-series — often tend to be overpriced. We've axed the 30-series, as those cards have been displaced by the newer, better, and often cheaper 40-series parts. The[RTX 4070](https://tools.techidaily.com) for instance trades blows with the RTX 3080 10GB, costs at least $100 less, and uses 30% less power; it also supports DLSS 3 Frame Generation and some other new features. Similar arguments can be made for the RTX 4060 Ti against the RTX 3060 Ti, RTX 4070 Ti against the RTX 3090, or the RTX 4080 and 4090 against any previous generation part.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### Best AMD Graphics Card Prices
 
  Swipe to scroll horizontally
@@ -73,6 +79,9 @@ Best Graphics Card Deals
 
  AMD often offers more value for your money, and it has some excellent deals in the budget to midrange bracket. All of AMD's GPUs are selling below their original MSRPs these days, which they should be considering some of the GPUs have been out for a while now. Of course, some of those MSRPs were inflated thanks to the price rises from the GPU shortages of the past.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Best Intel Graphics Card Prices
 
  Swipe to scroll horizontally
@@ -89,6 +98,9 @@ Best Graphics Card Deals
   
  Performance from Arc GPUs continues to improve, with the A750 and A770 generally beating Nvidia's RTX 3060\. They cost less than the Nvidia card as well, and (usually) deliver superior ray tracing performance compared to AMD's GPUs. But with rasterization performance roughly matching the RX 6650 XT, the Arc 700-series at best looks like a tie with the 6000-series generation AMD competition.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Best Graphics Card Deals
 
 [Gigabyte Nvidia RTX 4090 Windforce V2: now $1,699 at Newegg](https://cdn.mos.cms.futurecdn.net/7sMqa4qSM2JZewLFi9rYpJ-200-100.png "Gigabyte Nvidia RTX 4090 Windforce V2: now $1,699 at Newegg") ](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-9687795623086258038%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fgigabyte-geforce-rtx-4090-gv-n4090wf3v2-24gd%252Fp%252FN82E16814932625)
@@ -134,6 +146,9 @@ _**Cores/Stream Processors:**_ _3456_
 
 [View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB0CHK2345D%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-2187404422149171234-20)
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ### What to Look for in a Graphics Card Deal
 
 When shopping for a graphics card, consider the following.
@@ -160,3 +175,70 @@ When shopping for a graphics card, consider the following.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/inpointing-youtubes-favorite-remarks/"><u>[New] Pinpointing YouTube's Favorite Remarks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-addressing-the-lack-of-novelty-in-virtual-reality/"><u>[Updated] Addressing the Lack of Novelty in Virtual Reality</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-beyond-simplicity-exploring-the-intricacies-of-youtubes-view-count-algorithm/"><u>[Updated] Beyond Simplicity  Exploring the Intricacies of YouTube’s View Count Algorithm</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-leveraging-visual-storytelling-in-podcast-trailer-production/"><u>2024 Approved  Leveraging Visual Storytelling in Podcast Trailer Production</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-share-wide-enhancing-instagram-stories-with-youtube-content/"><u>2024 Approved  Share Wide  Enhancing Instagram Stories With YouTube Content</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-unveiling-the-most-effective-internet-tools-for-caption-perfection/"><u>2024 Approved  Unveiling the Most Effective Internet Tools for Caption Perfection</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/6-most-useful-adobe-premiere-tips-for-better-video-editing/"><u>6 Most Useful Adobe Premiere Tips for Better Video Editing</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/achieve-ultimate-performance-in-games-by-installing-the-latest-nvidia-geforce-rtx-2080-ti-drivers/"><u>Achieve Ultimate Performance in Games by Installing the Latest NVIDIA GeForce RTX 2080 Ti Drivers</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/capture-without-capsule-the-no-limit-story-saving-app/"><u>Capture Without Capsule  The No-Limit Story Saving App</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-guide-to-finding-and-installing-iphone-drivers-for-windows-10-users/"><u>Complete Guide to Finding & Installing iPhone Drivers for Windows 10 Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-guide-installing-acer-touchpad-software-for-windows-10/"><u>Complete Guide: Installing Acer Touchpad Software for Windows 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-guide-to-revitalize-your-serial-usb-adapters-core-driver/"><u>Comprehensive Guide to Revitalize Your Serial-USB Adapter's Core Driver</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-walkthrough-for-latest-audio-technica-driver-installation/"><u>Comprehensive Walkthrough for Latest Audio-Technica Driver Installation</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-now-the-official-hp-deskjet-3050a-drivers-for-windows-systems-no-cost/"><u>Download & Update Now! The Official HP DeskJet 3050A Drivers for Windows Systems - No Cost</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-sades-headset-software-secure-installation-guide-for-windows-users/"><u>Download Sades Headset Software - Secure Installation Guide for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-fixes-to-get-your-samsung-multi-function-printer-working-on-a-pc-with-windows/"><u>Easy Fixes to Get Your Samsung Multi-Function Printer Working on a PC with Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-driver-upgrade-get-the-latest-versions-for-dell-laptop-model-d31easy/"><u>Effortless Driver Upgrade: Get the Latest Versions for DELL Laptop Model D31easy</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/expert-insights-into-attaining-stock-artwork/"><u>Expert Insights Into Attaining Stock Artwork</u></a></li>
+<li><a href="https://win11.techidaily.com/finding-lost-windows-proven-strategies-for-win11-users/"><u>Finding Lost Windows: Proven Strategies for Win11 Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-brother-hl-2270dw-printer-drivers-latest-updates-and-downloads-for-windows/"><u>Free Brother HL-2270DW Printer Drivers: Latest Updates and Downloads for Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-roccat-mouse-software-controller/"><u>Free Download: Roccat Mouse Software Controller</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722960597481-get-the-latest-drivers-for-your-insignia-usb-to-vga-converter-now/"><u>Get the Latest Drivers for Your Insignia USB-to-VGA Converter Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-lenovo-thinkpad-drivers-with-ease-100-safe-download-and-update-process/"><u>Get the Latest Lenovo ThinkPad Drivers with Ease – 100%% Safe Download and Update Process</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-lenovo-x1-carbon-driver-software-for-windows-107-users-quick-and-easy-guide/"><u>Get the Latest Lenovo X1 Carbon Driver Software for Windows 10/7 Users: Quick & Easy Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-amd-ati-radeon-hd-3450-up-to-date-quick-and-easy-drivers-download/"><u>Get Your AMD ATI Radeon HD 3450 Up to Date: Quick & Easy Drivers Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-dell-wi-fi-card-working-fresh-drivers-here/"><u>Get Your Dell Wi-Fi Card Working – Fresh Drivers Here!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-ricoh-mp-c3n003-driver-files-here-for-hassle-free-printing/"><u>Get Your Ricoh MP C3n003 Driver Files Here for Hassle-Free Printing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-lava-yuva-3-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Lava Yuva 3.</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-it-vivo-s17-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Vivo S17 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-obtain-the-latest-drivers-for-your-canon-mf4800-printer/"><u>How to Obtain the Latest Drivers for Your Canon MF4800 Printer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-overcome-compatibility-challenges-with-xbox-accessories-on-older-windows-systems/"><u>How to Overcome Compatibility Challenges with Xbox Accessories on Older Windows Systems</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-honor-100-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Honor 100 to iPad | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nubia-z50-ultra-phone-without-pin-by-drfone-android/"><u>How to Unlock Nubia Z50 Ultra Phone without PIN</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-deskjet-3050a-driver-free-download-and-update-for-windows/"><u>HP Deskjet 3050A Driver - Free Download & Update for Windows</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-buy-subscribers-wisely-watch-your-numbers-soar/"><u>In 2024, Buy Subscribers Wisely, Watch Your Numbers Soar!</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-efficient-iphoneandroid-guide-for-tweets-as-visuals/"><u>In 2024, Efficient iPhone/Android Guide for Tweets as Visuals</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-embrace-xps-film-editor-installation-guide/"><u>In 2024, Embrace XP's Film Editor  Installation Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-quick-youtube-snippets-explained-simply/"><u>In 2024, Quick YouTube Snippets Explained Simply</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-updated-nvidia-quadro-drivers-on-windows-10-compatible-with-latest-os-version/"><u>Install Updated Nvidia Quadro Drivers on Windows 10 - Compatible with Latest OS Version</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-your-brother-hl-l2380dw-best-driver-downloads-and-setup-tips-for-windows-users/"><u>Installing Your Brother HL-L2380DW - Best Driver Downloads and Setup Tips for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-windows-update-enhanced-usb-30-ethernet-driver/"><u>Latest Windows Update: Enhanced USB 3.0 Ethernet Driver</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/learn-how-to-rewind-video-ordering-on-android/"><u>Learn How to Rewind Video Ordering on Android</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-unveiling-the-aural-treasures-within-videos-techniques-auditory-extraction/"><u>New Unveiling the Aural Treasures Within Videos Techniques Auditory Extraction</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/oculus-quest-2-review/"><u>Oculus Quest 2 Review</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pro-audio-recording-the-ultimate-audacity-course-for-2024/"><u>Pro Audio Recording  The Ultimate Audacity Course for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-simple-guide-how-to-update-your-pcs-battery-drivers-on-windows/"><u>Quick & Simple Guide: How To Update Your PC's Battery Drivers On Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-download-and-install-essential-drivers-for-winodws-bcm-20702a0/"><u>Quick Download & Install: Essential Drivers for Winodws - BCM 20702A0</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-download-of-razer-mamba-drivers-simple-and-fast/"><u>Quick Download of Razer Mamba Drivers - Simple and Fast</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-synaptics-touchpad-driver-upgrade-process-explained/"><u>Seamless Synaptics Touchpad Driver Upgrade Process Explained</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-wi-fi-connectivity-downloading-realtek-rtl8188cu-driver-for-win11-and-win7/"><u>Seamless Wi-Fi Connectivity: Downloading Realtek RTL8188CU Driver for Win11 and Win7</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/seeking-speed-identifying-the-top-5-racer-games-for-2024/"><u>Seeking Speed  Identifying the Top 5 Racer Games for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/simple-guide-updating-your-lenovos-power-control-drivers-without-hitch/"><u>Simple Guide: Updating Your Lenovo's Power Control Drivers Without Hitch</u></a></li>
+<li><a href="https://extra-support.techidaily.com/snapchat-spotlight-unveiled-usage-explained-for-2024/"><u>Snapchat Spotlight Unveiled  Usage Explained for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-easy-driver-upgrade-for-your-intel-ac-3160-wireless-network-card/"><u>Step by Step - Easy Driver Upgrade for Your Intel AC 3160 Wireless Network Card</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-solving-compatibility-issues-between-hp-displays-and-various-windows-versions/"><u>Step-by-Step Guide: Solving Compatibility Issues Between HP Displays and Various Windows Versions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-picks-for-instagram-soundtracks-and-how-to-design-a-stellar-chime-for-2024/"><u>Top Picks for Instagram Soundtracks & How to Design a Stellar Chime for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-your-windows-11-devices-bluetooth-connection-fixed/"><u>Troubleshooting Your Windows 11 Device's Bluetooth Connection - Fixed!</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-vivo-x90s-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Vivo X90S</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-drivers-brother-mfc-j480dw-inkjet-printer-compatibility-with-windows/"><u>Update Drivers: Brother MFC-J480DW Inkjet Printer Compatibility with Windows</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-replace-sony-vegas-with-these-top-windows-alternatives/"><u>Updated In 2024, Replace Sony Vegas with These Top Windows Alternatives</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrade-to-hyperlink-xg-1000-drivers-for-seamless-ethernet-interface-and-network-reliability/"><u>Upgrade to HyperLink XG-1000 Drivers for Seamless Ethernet Interface and Network Reliability</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrade-to-the-latest-nvidia-rtx-3080-ti-drivers-on-windows-download-now/"><u>Upgrade to the Latest NVIDIA RTX 3080 Ti Drivers on Windows - Download Now!</u></a></li>
+</ul></div>

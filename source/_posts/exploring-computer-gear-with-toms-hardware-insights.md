@@ -1,7 +1,7 @@
 ---
 title: Exploring Computer Gear with Tom's Hardware Insights
-date: 2024-08-16 21:51:24
-updated: 2024-08-17 12:42:53
+date: 2024-08-19T10:30:10.039Z
+updated: 2024-08-20T10:30:10.039Z
 tags:
   - motherboards
 categories:
@@ -101,12 +101,18 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 
  Inside the retail packaging, below the motherboard, ASRock includes a few accessories to get you started. You get two SATA cables, a Wi-Fi antenna, screws for M.2 sockets, and a thermistor cable. There isn’t much here, which isn’t surprising at this price point, but it’s enough to cover the basics.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## Design of the Lightning Wi-Fi
 
  Image 1 of 3
 
 ![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
 ![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -115,12 +121,18 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 
 ![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
  This little motherboard sits on a server-grade 8-layer matte black PCB. The sole design element comes from the actively cooled, heatpipe-connected VRM heatsinks and M.2 heatsinks. The heatsinks have lines that meander their way around the metal bits. On the left, you see the Phantom Gaming branding as well. If you’re interested in RGB lighting in your chassis, you’ll have to add your own to the onboard headers, as the board does not include any natively. The all-black appearance looks good and, in my opinion, better than the more expensive PG-ITX/TB4.
 
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/97M3RfrDnnVcKkV4n7VkU8-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
  Starting in the left corner, we spy a single 8-pin EPS connector just above the heatpipe connecting the heatsinks. The VRMs have plenty of mass and surface area to keep the powerful VRMs below running cool. There’s also a small fan attached to the heatsink tucked in between the rear IO plate and the VRM for additional cooling. The default fan curve sounds improved from the PG-ITX/TB4\. While it was still audible, we could hear it only during stress testing. Of course, you can adjust it if needed. Also by the EPS connector is the 2-pin temperature sensor header to use with the included thermistor.
@@ -135,6 +147,9 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/Yoyr47AhNxUyUnTePWM7kF-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Power delivery on the Z790I Lightning has 16 phases, with 14 dedicated to Vcore. Power heads from the 8-pin EPS connector onto a Renesas RAA229131 PWM controller. From there, it heads to the 14 110A Renesas RAA2209004 SPS MOSFETs. The 1,540A available is the most I recall seeing on an ITX board and will surely handle Intel’s flagship-class processors, even when overclocking with sub-ambient cooling.
@@ -149,6 +164,10 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/Ax7PUWX76BhvWC7HhxEAn8-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
  The rear IO plate on the Z790I Lightning comes preinstalled on the motherboard. It has a black and gray background, the Phantom Gaming branding in the corner, and plenty of venting for the hidden VRM fan. In total, there are five USB Type-A ports (four are USB 3.2 Gen 1) while the other below the Realtek 2.5 GbE port is faster at USB 3.2 Gen 2 (10 Gbps) speeds. Additionally, you get a USB Type-C port with USB 3.2 Gen 2 (10 Gbps) speeds. There are DisplayPort and HDMI ports for video, while the Wi-Fi 6E antenna connections sit just above that. Last but not least, on the far right, is the audio stack with two 3.5mm jacks (mic in and line out) and the SPDIF output.
@@ -175,3 +194,42 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-help.techidaily.com/free-download-updated-drivers-for-enhanced-performance-of-amd-radeon-rx-skte-on-windows-platforms/"><u>[Free Download] Updated Drivers for Enhanced Performance of AMD Radeon RX ˈsɪktə on Windows Platforms</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-streamline-your-playtime-with-nvidia/"><u>[New] 2024 Approved  Streamline Your Playtime with NVIDIA</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlock-the-secrets-of-youtube-description-upgrades/"><u>[New] Unlock the Secrets of YouTube Description Upgrades</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-laptop-editing-avoiding-inshot-dependence/"><u>[Updated] Laptop Editing  Avoiding Inshot Dependence</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-precision-plays-premieres-audio-switching/"><u>2024 Approved  Precision Plays  Premiere’s Audio Switching</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/access-your-printing-power-download-the-hp-envy-7520-printer-drivers-now/"><u>Access Your Printing Power - Download the HP Envy 7520 Printer Drivers Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-radeon-rx-6900-xt-graphics-drivers-download-now-for-windows-11-10-8-and-7/"><u>AMD Radeon RX 6900 XT Graphics Drivers: Download Now for Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/but-investors-are-still-buying-stocks-because-they-expect-strong-corporate-profits5-and-rising-economic-growtheconomic-growth6-over-the-next-six-months-to-d107/"><u>But Investors Are Still Buying Stocks because They Expect Strong Corporate Profits[^5] and Rising Economic Growth[economic Growth[^6]] over the Next Six Months to Drive Further Gains.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-instructions-for-magic-mouse-driver-acquisition-and-installation-on-windows/"><u>Complete Instructions for Magic Mouse Driver Acquisition & Installation on Windows</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/compre-written-guide-on-incorporating-markup-features-in-youtube-for-2024/"><u>Compre Written Guide on Incorporating Markup Features in YouTube for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/curated-list-of-top-picks-lesbian-gay-bisexual-and-transgender-movies-on-netflix-july-2024/"><u>Curated List of Top Picks: Lesbian, Gay, Bisexual & Transgender Movies on Netflix (July 2024)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-the-latest-epson-wf-3520-printer-drivers-on-windows/"><u>Download and Install the Latest Epson WF-3520 Printer Drivers on Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-newly-updated-hp-officejet-njw-4500-printer-driver-software-for-optimal-performance/"><u>Download the Newly Updated HP OfficeJet Njw 4500 Printer Driver Software for Optimal Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easily-upgrade-to-newest-amd-radeon-r9-200-series-driver-on-windows-os/"><u>Easily Upgrade to Newest AMD Radeon R9 200 Series Driver on Windows OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-guide-to-installing-and-updating-hp-laserjet-1320-printer-drivers-on-your-windows-pc/"><u>Easy Guide to Installing and Updating HP LaserJet 1320 Printer Drivers on Your Windows PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-solution-finding-and-upgrading-to-the-current-elan-smbus-driver-on-windows-machines/"><u>Easy Solution: Finding & Upgrading to the Current ELAN SMBus Driver on Windows Machines</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-to-follow-guide-downloading-and-installing-hp-officejet-3830-drivers-for-windows/"><u>Easy-to-Follow Guide: Downloading and Installing HP OfficeJet 3830 Drivers for Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ensure-smooth-networking-downloading-and-updating-netgear-wi-fi-card-drivers/"><u>Ensure Smooth Networking: Downloading & Updating NETGEAR Wi-Fi Card Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/find-and-install-up-to-date-zebra-printer-drivers-on-a-windows-machine/"><u>Find and Install Up-to-Date Zebra Printer Drivers on a Windows Machine</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-downloads-brother-hl-l2340dw-driver-and-software-for-windows-pcs/"><u>Free Downloads: Brother HL-L2340DW Driver & Software for Windows PCs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722976628485-get-the-latest-asus-pce-ac68-device-driver-software-here/"><u>Get the Latest ASUS PCE-AC68 Device Driver Software Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722976940966-get-the-latest-windows-7-wi-fi-driver-software-free-now/"><u>Get the Latest Windows 7 Wi-Fi Driver Software Free Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-thunderbolt-drivers-windows-11-8-7-free-download-and-updates/"><u>Get the Newest Thunderbolt #Drivers (Windows 11, 8, 7) - Free Download and Updates</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-new-intel-iris-xe-driver-installed-on-windows-10-11-today/"><u>Get Your New Intel Iris Xe Driver Installed on Windows 10, 11 Today!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-lenovo-ideapad-100-device-drivers-on-windows-10-step-by-step-guide/"><u>How to Update Lenovo IdeaPad 100 Device Drivers on Windows 10 - Step-by-Step Guide</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-xiaomi-redmi-note-12t-pro-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Xiaomi Redmi Note 12T Pro to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-from-business-idea-to-boardroom-on-instagram/"><u>In 2024, From Business Idea to Boardroom on Instagram</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-learn-to-cropping-and-composition-the-audio-visual-balance-in-canvas/"><u>In 2024, Learn to Cropping & Composition  The Audio-Visual Balance in Canvas</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/introducing-affordability-to-premium-pet-surveillance/"><u>Introducing Affordability to Premium Pet Surveillance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-the-update-process-a-comprehensive-guide-to-motherboard-driver-maintenance-on-windows-systems/"><u>Mastering the Update Process: A Comprehensive Guide to Motherboard Driver Maintenance on Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/nvidia-quadro-graphics-drivers-for-win10-direct-download-from-official-site/"><u>Nvidia Quadro Graphics Drivers for Win10 - Direct Download From Official Site</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722961391291-ultimate-fix-for-hp-laserjet-p2035-printer-driver-errors-on-windows-now-solved/"><u>Ultimate Fix for HP LaserJet P2035 Printer Driver Errors on Windows - Now Solved</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-updating-your-razer-blackwidow-drivers-step-by-step/"><u>Ultimate Guide: Updating Your Razer BlackWidow Drivers – Step-by-Step</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-brother-mfc-copier-7860dw-free-driver-software-for-windows-users/"><u>Update Your Brother MFC-Copier-7860DW: Free Driver Software for Windows Users</u></a></li>
+</ul></div>

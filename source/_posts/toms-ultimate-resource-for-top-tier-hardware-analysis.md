@@ -1,7 +1,7 @@
 ---
 title: Tom's Ultimate Resource for Top-Tier Hardware Analysis
-date: 2024-08-16 14:44:42
-updated: 2024-08-17 12:42:59
+date: 2024-08-19T10:30:00.354Z
+updated: 2024-08-20T10:30:00.354Z
 tags:
   - motherboards
 categories:
@@ -101,12 +101,18 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 
  Inside the retail packaging, below the motherboard, ASRock includes a few accessories to get you started. You get two SATA cables, a Wi-Fi antenna, screws for M.2 sockets, and a thermistor cable. There isn’t much here, which isn’t surprising at this price point, but it’s enough to cover the basics.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Design of the Lightning Wi-Fi
 
  Image 1 of 3
 
 ![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
 ![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -115,6 +121,9 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 
 ![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
  This little motherboard sits on a server-grade 8-layer matte black PCB. The sole design element comes from the actively cooled, heatpipe-connected VRM heatsinks and M.2 heatsinks. The heatsinks have lines that meander their way around the metal bits. On the left, you see the Phantom Gaming branding as well. If you’re interested in RGB lighting in your chassis, you’ll have to add your own to the onboard headers, as the board does not include any natively. The all-black appearance looks good and, in my opinion, better than the more expensive PG-ITX/TB4.
@@ -135,12 +144,18 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/Yoyr47AhNxUyUnTePWM7kF-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Power delivery on the Z790I Lightning has 16 phases, with 14 dedicated to Vcore. Power heads from the 8-pin EPS connector onto a Renesas RAA229131 PWM controller. From there, it heads to the 14 110A Renesas RAA2209004 SPS MOSFETs. The 1,540A available is the most I recall seeing on an ITX board and will surely handle Intel’s flagship-class processors, even when overclocking with sub-ambient cooling.
 
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/38vzBpWcpKHzwQLj5js8d8-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
  We’ll continue our counterclockwise journey at the bottom of the board. Here, we see the only expansion slot: a full-length PCIe 5.0 x16 slot. The slot also supports PCIe riser cards to extend one x16 slot to two x8 slots if needed. Above that, under the heatsink, is the first M.2 socket (you’ll find the other on the back of the board). Each M.2 socket runs at PCIe 4.0 x4 (64 Gbps) speeds and supports up to 80mm modules. None of the sockets support SATA-based devices, but they support RAID0/1/10 modes, as do the SATA ports. Thankfully, There’s no lane / bandwidth sharing, and you can run all storage simultaneously without a performance penalty.
@@ -149,6 +164,9 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/Ax7PUWX76BhvWC7HhxEAn8-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
  The rear IO plate on the Z790I Lightning comes preinstalled on the motherboard. It has a black and gray background, the Phantom Gaming branding in the corner, and plenty of venting for the hidden VRM fan. In total, there are five USB Type-A ports (four are USB 3.2 Gen 1) while the other below the Realtek 2.5 GbE port is faster at USB 3.2 Gen 2 (10 Gbps) speeds. Additionally, you get a USB Type-C port with USB 3.2 Gen 2 (10 Gbps) speeds. There are DisplayPort and HDMI ports for video, while the Wi-Fi 6E antenna connections sit just above that. Last but not least, on the far right, is the audio stack with two 3.5mm jacks (mic in and line out) and the SPDIF output.
@@ -175,3 +193,63 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-mastering-the-art-of-digital-recording-for-gotomeet-sessions/"><u>[New] 2024 Approved  Mastering the Art of Digital Recording for GoToMeet Sessions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-explore-best-slo-mo-camera-apps-on-iosandroid-platforms/"><u>[New] Explore Best Slo-Mo Camera Apps on iOS/Android Platforms</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/egal-tactics-to-skyrocket-your-videos-visibility-for-2024/"><u>[New] Legal Tactics to Skyrocket Your Video's Visibility for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/tep-by-step-to-craft-flawless-yt-thumbnails-for-2024/"><u>[New] Step-by-Step to Craft Flawless YT Thumbnails for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-tweetvid-puller-iphone-app-for-easy-video-extraction/"><u>[Updated] TweetVid Puller  IPhone App for Easy Video Extraction</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-professionals-choice-best-drone-gimbals/"><u>2024 Approved  Professional's Choice  Best Drone Gimbals</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-studio-masterclass-journey-extended-xvideoexplore/"><u>2024 Approved  Studio Masterclass Journey  Extended XVideoExplore</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-rx-580-driver-update-made-easy-your-pathway-to-faster-graphics-performance/"><u>AMD RX 580 Driver Update Made Easy – Your Pathway to Faster Graphics Performance</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-honor-x50i-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Honor X50i Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/canon-mg2520-windows-drivers-free-downloads-and-updates-available/"><u>Canon MG2520 Windows Drivers - Free Downloads and Updates Available!</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/club-vibes-best-dj-template-video-selections-for-2024/"><u>Club Vibes  Best DJ Template Video Selections for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-driver-setup-for-epson-v700-on-windows-download-now-windows-71081/"><u>Complete Driver Setup for Epson V700 on Windows - Download Now [Windows 7/10/8.1]</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-guide-to-correcting-asus-pce-ac56-drivers-issues-on-windows-os-versions-10-8-and-n/"><u>Complete Guide to Correcting ASUS PCE-AC56 Drivers Issues on Windows OS Versions (10, 8 & N)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-samsung-ssd-960-evo-drivers-on-windows-step-by-step-guide/"><u>Download & Update Samsung SSD 960 EVO Drivers on Windows: Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-fast-ultimate-steps-for-linksys-ae120er-firmware-installation/"><u>Download Fast: Ultimate Steps for Linksys AE120er Firmware Installation</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-logitech-m525-mouse-drivers-and-installation-software/"><u>Download Logitech M525 Mouse Drivers & Installation Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-nvidia-1080-graphics-card-drivers-on-windows-11-quick-and-simple-steps/"><u>Download NVIDIA 1080 Graphics Card Drivers on Windows 11: Quick & Simple Steps</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-install-comprehensive-guide-and-downloads-for-amd-gpio-interface/"><u>Easy Install: Comprehensive Guide & Downloads for AMD GPIO Interface</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722969763572-easy-installation-of-latest-drivers-for-amd-radeon-rx-470-graphics-card-find-out-how/"><u>Easy Installation of Latest Drivers for AMD Radeon RX 470 Graphics Card - Find Out How</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-way-to-update-your-logitech-c920-webcam-drivers-for-new-and-old-windows-versions/"><u>Easy Way to Update Your Logitech C920 Webcam Drivers for New and Old Windows Versions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhance-system-speed-optimize-and-revitalize-windows-7/"><u>Enhance System Speed: Optimize and Revitalize Windows 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ensure-seamless-gaming-the-recent-update-of-nvidias-geforce-210-drivers-on-windows-11-platforms/"><u>Ensure Seamless Gaming: The Recent Update of Nvidia's GeForce 210 Drivers on Windows 11 Platforms</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/essential-drives-compatible-with-seagate-backup-plus-top-recommendations-and-insights/"><u>Essential Drives Compatible with Seagate Backup Plus: Top Recommendations and Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-of-brother-hl-2280dw-printer-driver-compatible-with-windows-11-10-8-and-7/"><u>Free Download of Brother HL-2280DW Printer Driver Compatible with Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-killer-network-driver-updates-for-windows-10-8-and-7-download-now/"><u>Free Killer Network Driver Updates for Windows 10, 8 & 7 – Download Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-speedy-driver-updates-for-hp-envy-5055-a-step-by-step-guide/"><u>Get Speedy Driver Updates for HP ENVY 5055 – A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-amd-radeon-hd-graphics-drivers-for-windows-systems/"><u>Get the Latest AMD Radeon HD Graphics Drivers for Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722968162491-get-the-latest-insignia-wireless-networking-dongle-for-xbox-free-driver/"><u>Get the Latest Insignia Wireless Networking Dongle for Xbox - FREE Driver</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-canon-mx492-printer-software-installation-guide-and-downloads/"><u>Get the Newest Canon MX49^2 Printer Software: Installation Guide & Downloads</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-dynawatch-drivers-for-your-windows-computer-free-download/"><u>Get the Newest Dynawatch Drivers for Your Windows Computer – Free Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hassle-free-guide-to-rejuvenate-your-asus-pcs-usb-driver-support/"><u>Hassle-Free Guide to Rejuvenate Your ASUS PC's USB Driver Support</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975523617-hassle-free-printer-configuration-secure-your-samsung-m2070fw-drivers-today/"><u>Hassle-Free Printer Configuration: Secure Your Samsung M2070FW Drivers Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-address-and-solve-csr8510-a10-drivers-compatibility-with-windows-a-comprehensive-guide/"><u>How To Address and Solve CSR8510 A10 Drivers Compatibility with Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Vivo Y100i Power 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-logitech-k350-driver-for-free-step-by-step-guide/"><u>How To Get Logitech K350 Driver For Free - Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-install-updated-drivers-for-your-canon-pixma-mg2522-printer/"><u>How to Install Updated Drivers for Your Canon PIXMA MG2522 Printer</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-realme-c53-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fade-techniques-in-audio-production-with-adobe-tools/"><u>In 2024, Fade Techniques in Audio Production with Adobe Tools</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-premier-5-web-video-capture-tech/"><u>In 2024, Premier 5 Web Video Capture Tech</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intels-new-driver-pack-optimize-your-pc-with-iris-xe-windows-1011-support/"><u>Intel's New Driver Pack: Optimize Your PC with Iris Xe Windows 10/11 Support</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-amd-rx-6800-xt-driver-downloads-compatible-with-windows-111087-get-them-now/"><u>Latest AMD RX 6800 XT Driver Downloads Compatible with Windows 11/10/8/7 - Get Them Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-canon-dr-c225-printer-driver-software-download-and-compatibility-with-windows-11-10-and-n/"><u>Latest Canon DR-C225 Printer Driver Software: Download & Compatibility with Windows 11, 10, and N</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-geforce-rtx-770-driver-downloads-compatible-with-windows-pcs/"><u>Latest GeForce RTX 770 Driver Downloads Compatible with Windows PCs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-mpow-bluetooth-driver-updates-for-windows-11-8-and-7-free-download/"><u>Latest MPOW Bluetooth Driver Updates for Windows 11, 8 & 7 - Free Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/masterful-motherboard-tweaks-quickly-updating-asus-maximus-x-hero-drivers/"><u>Masterful Motherboard Tweaks: Quickly Updating ASUS Maximus X Hero Drivers</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h-265-on-xiaomi-redmi-note-12r-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Xiaomi Redmi Note 12R, is it possible?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-installation-guide-for-amd-ryzen-5-2400g-driver-software/"><u>Quick Installation Guide for AMD Ryzen 5 2400G Driver Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/simple-guide-updating-lenovo-ideapad-100s-driver-software/"><u>Simple Guide: Updating Lenovo IdeaPad 100S Driver Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-solving-arduino-uno-compatibility-issues-in-windows/"><u>Step-by-Step Guide: Solving Arduino Uno Compatibility Issues in Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-installation-of-updated-drivers-for-windows-maximizing-performance-with-amd-vega-56/"><u>Step-by-Step Installation of Updated Drivers for Windows: Maximizing Performance with AMD Vega 56</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/streamlined-installation-guide-fresh-epson-printer-drivers-for-your-pc/"><u>Streamlined Installation Guide: Fresh Epson Printer Drivers for Your PC</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-complete-sdr-to-hdr-upgrade-blueprint/"><u>The Complete SDR to HDR Upgrade Blueprint</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-layout-and-distribution-of-system-components-like-nozzles-or-sprinkler-heads-are-optimized-using-computational-modeling-for-effective-agent-delivery/"><u>The Layout and Distribution of System Components, Like Nozzles or Sprinkler Heads, Are Optimized Using Computational Modeling for Effective Agent Delivery.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-smooth-path-to-seamless-compatibility-obtain-your-lexar-usb-driver-today/"><u>The Smooth Path to Seamless Compatibility - Obtain Your Lexar USB Driver Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-solution-for-realtek-display-adapter-driver-issues/"><u>The Ultimate Solution for Realtek Display Adapter Driver Issues</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/transformative-techniques-to-mute-background-noise/"><u>Transformative Techniques to Mute Background Noise</u></a></li>
+</ul></div>

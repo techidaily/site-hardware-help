@@ -1,7 +1,7 @@
 ---
 title: Experience Next-Level Gaming at a Fraction of the Cost - Save Big on Alienware's RTX 4090-Powered M18 R2
-date: 2024-08-16 11:49:41
-updated: 2024-08-17 11:36:17
+date: 2024-08-19T10:41:07.036Z
+updated: 2024-08-20T10:41:07.036Z
 tags:
   - laptop
 categories:
@@ -39,6 +39,9 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
  The Vivobook S15 (S5507) features two USB 4 ports, two USB 3.2 Type-A ports, a microSD card reader, an HDMI 2.1 port, and a 3.5mm headphone jack. It starts at $1,299.99 on the [Asus website](https://clk.tradedoubler.com/click?p=332082&a=2384895&epi=tomshardware-us-1448347873480858520&url=https%3A%2F%2Fshop.asus.com%2Fus%2F90nb14q2-m000w0-asus-vivobook-s-15-s5507.html) , but is out of stock at the time of writing.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,6 +54,18 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
 ![Dell XPS 13](https://cdn.mos.cms.futurecdn.net/QAyqoqgfXVyMCzhuYHvvaS-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 (Image credit: Dell)
 
  The XPS 13 is one of the most popular Windows laptops around, and it’s one of the first[Dell](https://tools.techidaily.com) machines to get the Copilot+ PC brand. The XPS 13 is only available with Snapdragon X Elite X1E-80-100 chip, but you can spec it with 16GB, 32GB, or 64GB of LPDDR5X RAM. You can even get it with a 512GB, 1TB, or 2TB M.2 PCIe NVMe SSD.
@@ -61,6 +76,9 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
 ![Dell Inspiron 14 Plus Laptop](https://cdn.mos.cms.futurecdn.net/RxhbpuMwEyZwzgdfQ5xe7T-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 (Image credit: Dell)
 
  If you don’t have the budget for a premium laptop, but still trust Dell’s quality, you can pick the Inspiron 14 Plus to get on the Copilot+ PC bandwagon. This laptop uses the less potent (but still powerful) Snapdragon X Plus X1P-64-100 chip with 16GB of RAM and a 512GB SSD.
@@ -71,16 +89,25 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
 ![HP EliteBook Ultra 14](https://cdn.mos.cms.futurecdn.net/ss4CedHQoAQaDKDSg4AVsh-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 (Image credit: HP)
 
  The EliteBook Ultra 14 is[HP](https://tools.techidaily.com) ’s premium Copilot+ PC offering, with a 12-core Snapdragon X Elite X1E-78-100 chip, 16GB of RAM, and a 512GB SSD. It also has a 14-inch 2.2K display and has the following ports: two USB-C ports, a USB-A port, and a 3.5mm combo jack.
 
  The laptop is priced at $1,699.00, making it one of the more expensive 14-inch options, and is available for[Pre-Order on the HP page](https://www.anrdoezrs.net/click-8900246-15852945?sid=tomshardware-us-1282290516643013755&url=https://www.hp.com/us-en/shop/pdp/hp-elitebook-ultra-14-inch-g1q-notebook-ai-pc) at the time of writing.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## HP OmniBook X 14
 
 ![HP OmniBook X 14](https://cdn.mos.cms.futurecdn.net/gu94E6KZHnHWC6swaVeuab-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 (Image credit: HP)
 
  This laptop is the budget Copilot+ PC from HP, but it doesn’t mean that you’re losing out on features. The OmniBook X 14 still uses the same chip as the EliteBook Ultra 14 with 16GB of RAM. It also has a 512GB SSD, which you can upgrade to 1TB for $100 extra. It also has a 14-inch 2.2K display, but this one is multi-touch enabled.
@@ -111,6 +138,9 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
 ![Microsoft Surface Laptop](https://cdn.mos.cms.futurecdn.net/C6DJ6XaHjf2BKnT2gskUhk-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Microsoft)
 
  Of course,[Microsoft](https://tools.techidaily.com) will not lag behind the competition when it comes to Copilot+ PCs. It is offering the most affordable Snapdragon X option, with the Surface Laptop, which starts at $999.99\. This model has a Snapdragon X Plus processor and a 13.8-inch display. It also comes with 16GB of RAM and a 512GB SSD.
@@ -121,12 +151,18 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
 ![Microsoft Surface Pro](https://cdn.mos.cms.futurecdn.net/FDVeU5mue9SMrJ7zU7yjHB-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
  (Image credit: Microsoft)
 
  If you prefer the tablet form factor, you can still get a Copilot+ PC with the Microsoft Surface Pro. This 2-in-1 starts at $999.99 for the Snapdragon X Plus version with a 13-inch LCD display, 16GB of RAM, and a 256GB SSD for the Platinum colorway. The three other colors — Sapphire, Dune, and Black — start at $1,199.99 with a larger 512GB SSD.
 
  The Snapdragon X Elite model gets a 13-inch OLED screen and 16GB of RAM, but you now also have a choice between a 512GB or a 1TB SSD. The Snapdragon X Elite Surface Pro starts at $1,499.99 but jumps to $1,699.99 for the larger storage version. You can also spec this chip with 32GB of RAM and 1TB SSD, but you’ll have to shell out $2,099.99 for this model. You can get it now from[Microsoft](https://www.microsoft.com/en-us/store/configure/surface-pro-11th-edition/8n9t09p96cmj) if you want a new Windows 11 tablet.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Samsung Galaxy Book4 Edge
 
 ![Samsung Galaxy Book4 Edge](https://cdn.mos.cms.futurecdn.net/92Lc3j6TS3cq5HjHkBqebH-320-80.jpg)
@@ -153,3 +189,45 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-ultimate-fb-media-downloader-plus-firefox-enhancements/"><u>[New] 2024 Approved  Ultimate FB Media Downloader + Firefox Enhancements</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-cinemas-best-hope-fueled-film-selections/"><u>[New] Cinema's Best  Hope-Fueled Film Selections</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/xpert-insights-where-to-invest-in-youtube-creator-revenue-for-2024/"><u>[New] Expert Insights  Where to Invest in YouTube Creator Revenue for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/rom-couch-to-camera-earning-through-personal-vlogging-for-2024/"><u>[New] From Couch-to-Camera  Earning Through Personal Vlogging for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-google-ar-stickers-explained-with-comparative-alternatives/"><u>[New] In 2024, Google AR Stickers Explained with Comparative Alternatives</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-video-platforms-clash-a-youtube-vs-dailymention-comparison/"><u>[New] Video Platforms Clash  A YouTube Vs. DailyMention Comparison</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-youtube-video-shooting-equipment-choosing-guide/"><u>[Updated] 2024 Approved  YouTube Video Shooting Equipment Choosing Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-ultimate-screeners-guide-to-8-choices/"><u>[Updated] Ultimate Screener's Guide to 8 Choices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/addressing-unrecognized-external-drives-a-fix-for-windows-11-users/"><u>Addressing Unrecognized External Drives: A Fix for Windows 11 Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/banish-your-pc-troubles-fixing-realtek-hd-display-driver-glitches/"><u>Banish Your PC Troubles: Fixing Realtek HD Display Driver Glitches</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/be-ruthless-with-what-to-keep-or-throw-away/"><u>Be Ruthless With What To Keep Or Throw Away</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/calculating-youtubes-income-potential-with-cpm-rates/"><u>Calculating YouTube's Income Potential with CPM Rates</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/capturing-the-moment-leading-recorder-analysis/"><u>Capturing the Moment  Leading Recorder Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-installation-updated-amd-radeon-hd-grove-7870-drivers-compatible-with-windows-10/"><u>Download & Installation: Updated AMD Radeon HD Grove 7870 Drivers Compatible with Windows 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-upgrade-hp-officejet-pro-8610-printer-drivers-compatible-with-windows-1087xpvista/"><u>Download & Upgrade HP OfficeJet Pro 8610 Printer Drivers: Compatible with Windows 10/8/7/XP/Vista</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-gameplay-the-ultimate-guide-to-updating-dell-g3-graphics-drivers/"><u>Enhance Your Gameplay: The Ultimate Guide to Updating Dell G3 Graphics Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-essential-sound-card-drivers-for-your-windows-7-pc/"><u>Free Download: Essential Sound Card Drivers for Your Windows 7 PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-sm-bus-controller-software-for-pcs-windows-11-10-8-and-7/"><u>Free SM Bus Controller Software for PCs (Windows 11, 10, 8, and 7)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-samsung-galaxy-a15-5g-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Samsung Galaxy A15 5G</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-itel-p40plus-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Itel P40+ to iPod | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-officejet-pro-9015-driver-update-free-download-for-enhanced-performance/"><u>HP OfficeJet Pro 9015 Driver Update - Free Download for Enhanced Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/improve-visual-experience-on-windows-pcs-asus-driver-downloads-available-now/"><u>Improve Visual Experience on Windows PCs - ASUS Driver Downloads Available Now!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-google-pixel-fold-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Google Pixel Fold Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-shutter-wisdom-tips-for-astounding-image-finishes/"><u>In 2024, Shutter Wisdom  Tips for Astounding Image Finishes</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-samsung-galaxy-a05s-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Samsung Galaxy A05s Phones</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installation-guide-epson-xp-410-printer-drivers-for-windows-complete-instructions/"><u>Installation Guide: Epson XP-410 Printer Drivers for Windows - Complete Instructions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-canon-mf8200c-driver-version-available-supported-by-windows-7-81-and-10/"><u>Latest Canon MF8200C Driver Version Available: Supported by Windows 7, 8.1 & 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-logitech-brio-camera-driver-downloads-windows-10-8-and-7-supported/"><u>Latest Logitech Brio Camera Driver Downloads: Windows 10, 8 and 7 Supported</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722964280657-latest-update-for-tp-links-80211ac-adapter-software-on-windows-pcs/"><u>Latest Update for TP-Link's 802.11Ac Adapter Software on Windows PCs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/lenovo-usb-drivers-effortless-solutions-to-common-issues-and-errors/"><u>Lenovo USB Drivers: Effortless Solutions to Common Issues and Errors</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719172710145-maximize-arcade-fun-embrace-big-box-framing/"><u>Maximize Arcade Fun: Embrace Big Box Framing!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/overcoming-bluetooth-challenges-in-windows-10-your-step-by-step-manual/"><u>Overcoming Bluetooth Challenges in Windows 10 - Your Step-by-Step Manual</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/overcoming-shyness-in-the-spotlight-top-video-blogger-fears/"><u>Overcoming Shyness in the Spotlight  Top Video Blogger Fears</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/reiteration-of-commitment-to-quality-innovation-and-sustainable-practices/"><u>Reiteration of Commitment to Quality, Innovation, and Sustainable Practices.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/successful-guide-mbox-2-driver-installation-and-updates-on-windows/"><u>Successful Guide: MBox 2 Driver Installation and Updates on Windows</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-oppo-a2-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Oppo A2 to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-rtx-2080-to-the-latest-windows-drivers-supported-on-windows-11-7-and-8/"><u>Update Your RTX 2080 to the Latest Windows Drivers: Supported on Windows 11, 7 & 8</u></a></li>
+<li><a href="https://driver-error.techidaily.com/winserial-fix-broken-usb-to-serial-links/"><u>Winserial: Fix Broken USB to Serial Links</u></a></li>
+</ul></div>

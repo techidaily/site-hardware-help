@@ -1,7 +1,7 @@
 ---
 title: Million-Dollar Marketing Boosts Qualcomm's Copilot+ Sales with Improved Battery Performance Over AI
-date: 2024-08-16 12:11:59
-updated: 2024-08-17 12:26:32
+date: 2024-08-19T10:42:10.348Z
+updated: 2024-08-20T10:42:10.348Z
 tags:
   - laptop
 categories:
@@ -59,6 +59,9 @@ Acer Swift 14 AI  (Image credit: Qualcomm)
 
  On the connectivity front, there are two USB-C, two USB-A ports, and HDMI 1.4\. For your wireless needs, you'll find Wi-Fi 7 and Bluetooth 5.4\. Power comes from a 73 WHr battery, rated for up to 12 hours.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -71,6 +74,10 @@ Acer Swift 14 AI  (Image credit: Qualcomm)
 
  Acer intends to launch the Swift 14 AI in the United States this June, with prices starting at $1,099.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ## Lenovo Yoga Slim 7x 14 Gen 9 and ThinkPad 14s Gen 6
 
  Next, we have the Yoga Slim 7x 14 Gen 9 from the Lenovo camp. Manufacturers often talk about "all-day" battery life with their thin and light[notebooks](https://tools.techidaily.com) , but Lenovo claims that the Yoga Slim 7x extends that to "multi-day battery life." The efficient Snapdragon X Elite processor is paired with up to 32GB of LPDDR5x and includes a 70 WHr battery to enable this long endurance.
@@ -100,6 +107,9 @@ Lenovo Yoga Slim 7x 14 Gen 9  (Image credit: Qualcomm)
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/QXLgUBPHQLuoQKnKFXBYAN-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 Lenovo ThinkPad T14s Gen 6  (Image credit: Qualcomm)
 
  Lenovo provides three display options with the ThinkPad T14s Gen 6: the first two are 14-inch 400-nit IPS panels with a 1920 x 1200 resolution, but one supports touch, and the other doesn't. The third option is a 2.8K OLED panel with 100% coverage of DCI-P3 and VESA HDR True Black 500 compliance.
@@ -110,6 +120,9 @@ Lenovo ThinkPad T14s Gen 6  (Image credit: Qualcomm)
 
  According to Lenovo, the Yoga Slim 7x and ThinkPad T14s Gen 6 will debut next month, priced from $1,199 and $1,699, respectively.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Dell XPS 13, Inspiron 14 Plus, and Latitude 7455
 
  Dell’s lineup of Snapdragon X laptops[leaked early last week](https://tools.techidaily.com) , so things here should look somewhat familiar. The XPS 13 has a striking design, with a keyboard that goes nearly to the left and right edge of the CNC-machined aluminum chassis (available in Platinum or Graphite). You'll also find the controversial capacitive touch function row above the keyboard, which we discussed in our[reviews of the XPS 14 and XPS 16](https://tools.techidaily.com) . The haptic touchpad is also seamlessly integrated into the keyboard deck, which is covered in Gorilla Glass 3.
@@ -153,12 +166,18 @@ Dell Latitude 7455  (Image credit: Qualcomm)
 
  The XPS 13 and Inspiron 14 Plus are scheduled to launch "later this year," priced from $1,299 and $1,099, respectively. Pricing and availability aren't yet known for the Latitude 7455.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Hewlett-Packard OmniBook X and EliteBook Ultra
 
  The[HP](https://tools.techidaily.com) OmniBook X and HP EliteBook Ultra share the same aluminum chassis design, weighing 2.97 pounds, and they measure 12.32 x 8.8 x 0.57 inches. The primary difference is that the latter features a blue finish with a Physical Vapor Deposition (PVD) coating to help resist fingerprints.
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/kkJgrFcMsp5e7XQRtHVKxM-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 HP OmniBook X and EliteBook Ultra  (Image credit: Qualcomm)
 
  The two laptops each have a Snapdragon X Elite chip, a 14-inch 2240 x 1400 IPS display, support for Wi-Fi 6E/Bluetooth 5.3 or Wi-Fi 7/Bluetooth 5.4, a 1080p webcam with IR, a 59 WHr battery, two USB-C ports, and one USB-A port. The OmniBook X is available with 16GB or 32GB of LPDDR5x and 512GB, 1TB, or 2TB SSD options. The EliteBook Ultra is only available with 16GB of LPDDR5x and a 512GB or 1TB SSD.
@@ -190,3 +209,37 @@ HP OmniBook X and EliteBook Ultra  (Image credit: Qualcomm)
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-from-stream-to-file-vimeo-hd-to-mp4-methods/"><u>[New] 2024 Approved  From Stream to File  Vimeo HD to MP4 Methods</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-video-embedding-techniques-for-online-articles-for-2024/"><u>[New] Free Video Embedding Techniques for Online Articles for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-step-by-step-recording-google-voice-conversations/"><u>[Updated] 2024 Approved  Step-by-Step  Recording Google Voice Conversations</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1717717673306-updated-how-to-make-collab-videos-and-grow-your-channel-for-2024/"><u>[Updated] How to Make Collab Videos And Grow Your Channel for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-your-go-to-list-for-effortless-downloads-of-fb-stories/"><u>[Updated] In 2024, Your Go-To List for Effortless Downloads of FB Stories</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722971631570-brother-hl2280dw-driver-downloads-for-windows-111087-install-now/"><u>Brother HL2280DW Driver Downloads for Windows 11/10/8/7 – Install Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/compatible-epson-ds-30-printing-software-downloads-for-windows-platform-versions-8-and-107/"><u>Compatible Epson DS-30 Printing Software Downloads for Windows Platform Versions 8 and 10/7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-your-epson-perfection-v39-drivers-to-work-with-windows-7-8-or-10-operating-systems/"><u>Download and Update Your Epson Perfection V39 Drivers to Work with Windows 7, 8 or 10 Operating Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fixes-for-non-functional-samsung-blu-ray-players-a-comprehensive-guide/"><u>Fixes for Non-Functional Samsung Blu-Ray Players: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-ultimate-guide-to-installing-killer-e2500-gige-network-card-drivers/"><u>Free Download: Ultimate Guide to Installing Killer E2500 GigE Network Card Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-best-performing-intel-network-driver-compatible-with-windows-11-10-and-7/"><u>Get the Best Performing Intel Network Driver Compatible with Windows 11, 10 & 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-drivers-for-your-hp-officejet-pro-cu8720-free-downloads-for-windows-users/"><u>Get the Latest Drivers for Your HP OfficeJet Pro Cu8720: Free Downloads for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-amd-radeon-pro-w5700-driver-for-win11107-systems-today/"><u>Get the Newest AMD Radeon Pro W5700 Driver for Win11/10/7 Systems Today!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-hp-laserjet-1320-driver-update-for-your-windows-device/"><u>Get the Newest HP Laserjet 1320 Driver Update for Your Windows Device</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-fetch-latest-updates-for-your-dell-d3100-graphics-device-driver/"><u>How to Fetch Latest Updates for Your DELL D3100 Graphics Device Driver</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-and-set-up-nvme-drives-on-windows-systems/"><u>How To Get And Set Up NVMe Drives On Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-the-newest-microsoft-bluetooth-driver-compatible-with-win-111087-download-and-setup-guide/"><u>How to Get the Newest Microsoft Bluetooth Driver Compatible with Win 11/10/8/7: Download and Setup Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-tecno-spark-10c-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Tecno Spark 10C to New Android? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-infinix-smart-7-hd-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Infinix Smart 7 HD Activity | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/lenovo-legion-5-pro-16ach6h-official-graphics-driver-download/"><u>Lenovo Legion 5 Pro (16ACH6H) - Official Graphics Driver Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722956723692-lenovo-x23ebk-secure-driver-downloads-at-lightning-speed/"><u>Lenovo X23ebk: Secure Driver Downloads at Lightning Speed!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/lenovos-official-bluetooth-driver-software-secure-download-and-upgrade-to-the-latest-version-for-windows-710-operating-systems/"><u>Lenovo's Official Bluetooth Driver Software: Secure Download and Upgrade to the Latest Version for Windows 7/10 Operating Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-fix-for-acer-speaker-issues-mastering-the-driver-update-tutorial/"><u>Quick Fix for Acer Speaker Issues? Mastering the Driver Update Tutorial!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-tips-getting-the-hp-laserjet-pro-m402n-driver-up-and-running-on-windows-machines/"><u>Quick Tips: Getting the HP LaserJet Pro M402n Driver Up and Running on Windows Machines</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722966230555-seamless-setup-fetch-the-latest-hp-stream-printing-drivers-instantly/"><u>Seamless Setup: Fetch the Latest HP Stream Printing Drivers Instantly!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/securely-update-your-corsair-keyboard-to-the-latest-version-on-windows-free-driver-downloads-available-now/"><u>Securely Update Your Corsair Keyboard to the Latest Version on Windows – FREE Driver Downloads Available Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-fresh-vga-driver-downloads-for-enhanced-display-performance/"><u>Step-by-Step Guide: Fresh VGA Driver Downloads for Enhanced Display Performance</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/storytellers-supreme-curated-yt-channels-for-2024/"><u>Storytellers Supreme  Curated YT Channels for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/up-to-date-hp-laserjet-m506-drivers-free-downloads-and-installation-guide/"><u>Up-to-Date HP LaserJet M506 Drivers: Free Downloads & Installation Guide</u></a></li>
+</ul></div>

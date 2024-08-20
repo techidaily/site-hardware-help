@@ -1,7 +1,7 @@
 ---
 title: "Unboxing the ASRock Z790I Lightning Wi-Fi Motherboard Review: Mini Marvel, Maximum Performance"
-date: 2024-08-15 18:59:38
-updated: 2024-08-17 10:42:25
+date: 2024-08-19T10:27:50.012Z
+updated: 2024-08-20T10:27:50.012Z
 tags:
   - motherboards
 categories:
@@ -107,6 +107,9 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 
 ![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
 ![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -115,12 +118,19 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 
 ![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
  This little motherboard sits on a server-grade 8-layer matte black PCB. The sole design element comes from the actively cooled, heatpipe-connected VRM heatsinks and M.2 heatsinks. The heatsinks have lines that meander their way around the metal bits. On the left, you see the Phantom Gaming branding as well. If you’re interested in RGB lighting in your chassis, you’ll have to add your own to the onboard headers, as the board does not include any natively. The all-black appearance looks good and, in my opinion, better than the more expensive PG-ITX/TB4.
 
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/97M3RfrDnnVcKkV4n7VkU8-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
  Starting in the left corner, we spy a single 8-pin EPS connector just above the heatpipe connecting the heatsinks. The VRMs have plenty of mass and surface area to keep the powerful VRMs below running cool. There’s also a small fan attached to the heatsink tucked in between the rear IO plate and the VRM for additional cooling. The default fan curve sounds improved from the PG-ITX/TB4\. While it was still audible, we could hear it only during stress testing. Of course, you can adjust it if needed. Also by the EPS connector is the 2-pin temperature sensor header to use with the included thermistor.
@@ -135,12 +145,18 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/Yoyr47AhNxUyUnTePWM7kF-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Power delivery on the Z790I Lightning has 16 phases, with 14 dedicated to Vcore. Power heads from the 8-pin EPS connector onto a Renesas RAA229131 PWM controller. From there, it heads to the 14 110A Renesas RAA2209004 SPS MOSFETs. The 1,540A available is the most I recall seeing on an ITX board and will surely handle Intel’s flagship-class processors, even when overclocking with sub-ambient cooling.
 
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/38vzBpWcpKHzwQLj5js8d8-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
  We’ll continue our counterclockwise journey at the bottom of the board. Here, we see the only expansion slot: a full-length PCIe 5.0 x16 slot. The slot also supports PCIe riser cards to extend one x16 slot to two x8 slots if needed. Above that, under the heatsink, is the first M.2 socket (you’ll find the other on the back of the board). Each M.2 socket runs at PCIe 4.0 x4 (64 Gbps) speeds and supports up to 80mm modules. None of the sockets support SATA-based devices, but they support RAID0/1/10 modes, as do the SATA ports. Thankfully, There’s no lane / bandwidth sharing, and you can run all storage simultaneously without a performance penalty.
@@ -149,6 +165,9 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/Ax7PUWX76BhvWC7HhxEAn8-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
  The rear IO plate on the Z790I Lightning comes preinstalled on the motherboard. It has a black and gray background, the Phantom Gaming branding in the corner, and plenty of venting for the hidden VRM fan. In total, there are five USB Type-A ports (four are USB 3.2 Gen 1) while the other below the Realtek 2.5 GbE port is faster at USB 3.2 Gen 2 (10 Gbps) speeds. Additionally, you get a USB Type-C port with USB 3.2 Gen 2 (10 Gbps) speeds. There are DisplayPort and HDMI ports for video, while the Wi-Fi 6E antenna connections sit just above that. Last but not least, on the far right, is the audio stack with two 3.5mm jacks (mic in and line out) and the SPDIF output.
@@ -175,3 +194,62 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-vocal-variation-at-your-fingertips-free-software-to-transform-your-voice/"><u>[New] 2024 Approved  Vocal Variation at Your Fingertips  Free Software to Transform Your Voice</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-premium-designers-stellar-instagram-hlv-page-builders/"><u>[New] In 2024, Premium Designers  Stellar Instagram HLV Page Builders</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/robing-into-prominent-user-speeches/"><u>[New] Probing Into Prominent User Speeches</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-professionalism-with-a-pixel-instagram-photo-watermarking-101/"><u>[New] Professionalism with a Pixel  Instagram Photo Watermarking 101</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-photo-pinnacle-insta-coverage-excellence-on-ios-and-android/"><u>[Updated] 2024 Approved  Photo Pinnacle  Insta Coverage Excellence on iOS & Android</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-comprehensive-directory-of-pixel-tones-websites/"><u>[Updated] Comprehensive Directory of Pixel Tones Websites</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-integrating-tiktok-and-facebook-with-minimal-fuss/"><u>[Updated] In 2024, Integrating TikTok & Facebook with Minimal Fuss</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-interactive-visual-exchange-android-iphone/"><u>[Updated] Interactive Visual Exchange  Android-iPhone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-revive-mobile-playback-quick-fixes-for-facebook-videos/"><u>[Updated] Revive Mobile Playback - Quick Fixes for Facebook Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-complete-look-at-dji-inspire-1-explored/"><u>2024 Approved  Complete Look at DJI Inspire 1 Explored</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-leveraging-advanced-techniques-in-360-video-on-fb-live/"><u>2024 Approved  Leveraging Advanced Techniques in 360 Video on FB Live</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-itel-p40plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-tecno-spark-10-pro-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Tecno Spark 10 Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-missing-dll-issue-in-windows-810/"><u>Addressing Missing DLL Issue in Windows 8/10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asus-motherboard-firmware-update-made-easy-a-step-by-step-process/"><u>ASUS Motherboard Firmware Update Made Easy: A Step-by-Step Process</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/broadcom-gige-controller-drivers-fresh-installation-and-update-processes-for-windows-11-users/"><u>Broadcom GigE Controller Drivers: Fresh Installation & Update Processes for Windows 11 Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-troubleshooting-steps-for-startech-drivers-on-windows-operating-systems-win11-win8-and-win7/"><u>Complete Troubleshooting Steps for StarTech Drivers on Windows Operating Systems (Win11, Win8 & Win7)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-steelseries-arctis-5-sound-driver-step-by-step-guide/"><u>Download and Install SteelSeries Arctis 5 Sound Driver - Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-the-latest-canon-mg3000-printer-software/"><u>Download and Install the Latest Canon MG3000 Printer Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-your-microsoft-ergonomic-keyboard-4000-faster-setup-with-updated-drivers/"><u>Download Your Microsoft Ergonomic Keyboard #4000 – Faster Setup with Updated Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ensure-optimal-performance-free-driver-downloads-for-gigabytes-z370p-platform/"><u>Ensure Optimal Performance: Free Driver Downloads for Gigabyte's Z370P Platform</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722964851320-eveo-bluetooth-receiver-get-the-latest-driver-here/"><u>EVEO Bluetooth Receiver - Get the Latest Driver Here!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-latest-nvidia-geforce-rtx-3070-ti-graphics-card-driver-for-windows-version-1187/"><u>Get Latest NVIDIA GeForce RTX 3070 Ti Graphics Card Driver for Windows (Version 11/8/7)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-latest-nvidia-rtx-2060-super-drivers-for-windows-11-secure-your-system-now/"><u>Get Latest NVIDIA RTX 2060 Super Drivers for Windows 11 – Secure Your System Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-sades-headset-drivers-guaranteed-safe-for-your-windows-system/"><u>Get the Latest Sades Headset Drivers - Guaranteed Safe for Your Windows System</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975329887-get-your-latest-intel-network-drivers-compatible-with-windows-11-10-and-7-free-download/"><u>Get Your Latest Intel Network Drivers Compatible with Windows 11, 10 & 7 – Free Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-obtain-and-install-updated-software-for-your-hp-laserjet-m-series-printers/"><u>How to Obtain and Install Updated Software for Your HP LaserJet M Series Printers</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-motorola-moto-e13-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Motorola Moto E13 Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-google-pixel-7a-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Google Pixel 7a</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-officejet-3830-driver-download-for-windows-step-by-step-tutorial-included/"><u>HP Officejet 3830 Driver Download for Windows - Step-by-Step Tutorial Included!</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Honor 90 Pro? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-vivo-t2-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Vivo T2 5G Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-perfect-thumbnail-size-for-click-through-rates/"><u>In 2024, Perfect Thumbnail Size for Click-Through Rates</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/killer-e2500-1gb-network-card-driver-download-now/"><u>Killer E2500 1GB Network Card Driver - Download Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-fingerprint-software-upgrade-free-download-for-windows/"><u>Latest Fingerprint Software Upgrade - Free Download for Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-geforce-gtx-1050-graphics-card-drivers-quick-and-easy-download-guide/"><u>Latest GeForce GTX 1050 Graphics Card Drivers: Quick & Easy Download Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-intel-network-card-drivers-compatible-with-windows-11107-download/"><u>Latest Intel Network Card Drivers - Compatible with Windows 11/10/7 (Download)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975166463-latest-logitech-g29-steering-wheel-driver-download-for-windows-11107-users-enhance-your-racing-experience/"><u>Latest Logitech G29 Steering Wheel Driver Download for Windows 11/10/7 Users: Enhance Your Racing Experience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-samsung-printer-drivers-available-for-free-compatible-with-all-windows-versions/"><u>Latest Samsung Printer Drivers Available for Free - Compatible With All Windows Versions!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-windows-11-x64-compatible-drivers-for-your-epson-ds-530-printer/"><u>Latest Windows 11 X64 Compatible Drivers for Your Epson DS-530 Printer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722967497590-nvidias-newest-geforce-graphics-driver-compatible-with-windows-11-and-10-secure-your-copy-today/"><u>NVIDIA's Newest GeForce Graphics Driver: Compatible with Windows 11 & 10 - Secure Your Copy Today!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-vivo-v30-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo V30 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/simplified-steps-for-easy-installation-of-updated-intel-irisplus-graphics-card-driver-v640/"><u>Simplified Steps for Easy Installation of Updated Intel Iris+ Graphics Card Driver V640</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/speedy-spread-of-youtube-playlists-techniques-for-2024/"><u>Speedy Spread of Youtube Playlists Techniques for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-download-and-update-of-synaptics-drivers-on-windows-hassle-free/"><u>Step-by-Step Download & Update of Synaptics Drivers on Windows - Hassle-Free</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-how-to-install-soundmax-drivers-in-windows-effortlessly/"><u>Step-by-Step Tutorial: How to Install SoundMAX Drivers in Windows Effortlessly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/structural-control-systems-like-base-isolators-and-dampers-are-designed-to-reduce-or-alter-seismic-force-transmission-improving-building-performance-during-222/"><u>Structural Control Systems Like Base Isolators and Dampers Are Designed to Reduce or Alter Seismic Force Transmission, Improving Building Performance During Earthquakes</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722979030752-surface-finish-microstructure-and-environmental-conditions-significantly-affect-fatigue-life/"><u>Surface Finish, Microstructure, and Environmental Conditions Significantly Affect Fatigue Life</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/swift-access-latest-keyboard-drivers-specially-designed-for-windows-7-downloads/"><u>Swift Access: Latest Keyboard Drivers Specially Designed for Windows 7 Downloads</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/top-3-strategies-for-capturing-real-time-sports-events-online-for-2024/"><u>Top 3 Strategies for Capturing Real-Time Sports Events Online for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722977668261-update-your-amd-smbus-driver-instantly-free-downloads-available/"><u>Update Your AMD SMBus Driver Instantly – Free Downloads Available!</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-stop-motion-mastery-top-software-picks-for-mac-and-pc-users/"><u>Updated In 2024, Stop Motion Mastery Top Software Picks for Mac and PC Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrading-performance-driver-downloads-and-updates-for-geforce-gtx-1660-super/"><u>Upgrading Performance: Driver Downloads & Updates for GeForce GTX 1660 SUPER</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-honor-magic5-ultimate-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Honor Magic5 Ultimate Device</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Poco M6 Pro 4G | Dr.fone</u></a></li>
+</ul></div>

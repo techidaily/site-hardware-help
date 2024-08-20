@@ -1,7 +1,7 @@
 ---
 title: "Up to 1300-Watt Performance: Exploring Cooler Master's High Capacity V Series and Its X Silent Fanless PSUs"
-date: 2024-08-16 15:54:51
-updated: 2024-08-18 11:42:42
+date: 2024-08-19T10:19:50.113Z
+updated: 2024-08-20T10:19:50.113Z
 tags:
   - power-supply
 categories:
@@ -63,6 +63,9 @@ See more Real Deals below.
 
 [View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB07S98YLHM%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-8780951100740110730-20)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Looking for more deals?
 
 Category
@@ -71,12 +74,18 @@ Category
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/chevron-left.svg "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
  Back to Hubs & Switches
 
 Brand
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Intel
 
  Netgear
@@ -87,6 +96,9 @@ Colour
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
  Black
 
  Copper
@@ -103,6 +115,9 @@ Price
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
 Any Price
 
  Showing 10 of 52 deals
@@ -111,6 +126,9 @@ Any Price
 
 SORT BY Price (low to high)  Price (high to low) Product Name (A to Z)  Product Name (Z to A)  Retailer name (A to Z)  Retailer name (Z to A) ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 [Netgear GS305E](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07PJ7XZ7X%2Fref%3Dasc%5Fdf%5FB07PJ7XZ7X1723888800000%3Ftag%3Dhawk-future-20%26creative%3D395261%26creativeASIN%3DB07PJ7XZ7X%26linkCode%3Dasn%26ascsubtag%3Dtomshardware-us-1310836781021125979-20)
 
 1
@@ -277,3 +295,48 @@ Our Review
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/updated-engage-audiences-with-substance-mastering-the-art-of-tiktok-captions-top-5-for-2024/"><u>[Updated] Engage Audiences with Substance  Mastering the Art of TikTok Captions (Top 5) for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-hosting-regular-online-gatherings/"><u>[Updated] In 2024, The Ultimate Guide to Hosting Regular Online Gatherings</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-picture-in-picture-mode-with-ease-in-microsoft-edge/"><u>2024 Approved  Navigating Picture-In-Picture Mode with Ease in Microsoft Edge</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-5-underwater-gopro-accessories/"><u>2024 Approved  Top 5 Underwater Gopro Accessories</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-oppo-a58-4g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Oppo A58 4G FRP</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/advanced-role-management-techniques-in-discord/"><u>Advanced Role Management Techniques in Discord</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/brother-hl-l2300d-update-or-install-new-printer-driver-today/"><u>Brother HL-L2300D: Update or Install New Printer Driver Today</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-guide-to-updating-and-downloading-hp-officejet-pro-8610-drivers-on-various-windows-versions/"><u>Easy Guide to Updating and Downloading HP Officejet Pro 8610 Drivers on Various Windows Versions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-installation-and-troubleshooting-tips-for-hp-laserjet-pro-p3015-drivers-on-windows-systems/"><u>Easy Installation and Troubleshooting Tips for HP LaserJet Pro P3015 Drivers on Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-installation-guide-get-your-brother-hl-l2340dw-printer-running-on-windows-with-latest-driver-downloads/"><u>Easy Installation Guide - Get Your Brother HL-L2340DW Printer Running on Windows with Latest Driver Downloads</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effective-strategies-for-utilizing-your-seagate-backup-plus-drive-a-guide/"><u>Effective Strategies for Utilizing Your Seagate Backup Plus Drive: A Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-new-gadgets-with-tom-a-comprehensive-guide/"><u>Exploring New Gadgets with Tom - A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-the-top-ranked-computing-giants-shaping-2024-technology-scene/"><u>Exploring the Top-Ranked Computing Giants Shaping 2024 Technology Scene</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722971696186-find-and-download-sound-blaster-z-drivers-made-for-windows-11-simple-instructions-inside/"><u>Find & Download Sound Blaster Z Drivers Made For Windows 11 – Simple Instructions Inside</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-dolby-audio-drivers-now-compatible-with-windows-111081/"><u>Get the Latest Dolby Audio Drivers Now - Compatible with Windows 11/10/8.1!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-epson-ds-n-series-driver-for-windows-10-64-bit/"><u>Get the Latest Epson DS-N Series Driver for Windows 10 (64-Bit)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722955983849-get-the-latest-epson-wf-2750-drivers-installed-in-minutes/"><u>Get the Latest Epson WF-2750 Drivers Installed in Minutes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-new-hp-universal-printing-software-for-windows-installed-today/"><u>Get the New HP Universal Printing Software for Windows Installed Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722977293713-grab-your-gigabyte-auditory-drivers-now-no-cost/"><u>Grab Your Gigabyte Auditory Drivers Now - No Cost!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-amds-typing-error-could-delay-the-release-and-affect-availability-of-ryzen-5-9600x/"><u>How AMD's Typing Error Could Delay the Release and Affect Availability of Ryzen 5 9600X</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-correctly-update-the-software-controlling-your-dell-webcam/"><u>How to Correctly Update the Software Controlling Your Dell Webcam</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-realme-12-pro-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Realme 12 Pro 5G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-10t-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Realme 10T 5G PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-spectre-x360-complete-driver-download-pack-for-windows-users/"><u>HP Spectre X360 Complete Driver Download Pack for Windows Users</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/iphone-lens-hacks-capturing-perfect-reflections/"><u>IPhone Lens Hacks  Capturing Perfect Reflections</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-arduino-usb-drivers-compatible-with-windows-operating-systems/"><u>Latest Arduino USB Drivers Compatible with Windows Operating Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/new-gaming-performance-highlighted-as-amds-zen-4-flagship-surpasses-zen-5-benchmarks-ryzen-7-7800x3d-outpaces-the-previous-generation-with-a-23-speed-lead-o9/"><u>New Gaming Performance Highlighted as AMD's Zen 4 Flagship Surpasses Zen 5 Benchmarks: Ryzen 7 7800X3D Outpaces the Previous Generation with a 23%% Speed Lead over Ryzen 9 9900X</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-fix-for-thunderbolt-connection-intels-user-friendly-driver-download/"><u>Quick Fix for Thunderbolt Connection - Intel's User-Friendly Driver Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/resolved-lack-of-default-printer-and-scanner-drivers-on-windows-10/"><u>Resolved: Lack of Default Printer & Scanner Drivers on Windows 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/resolved-lack-of-fundamental-printer-and-scanner-software-on-windows-11/"><u>Resolved: Lack of Fundamental Printer & Scanner Software on Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/rtl8188cu-driver-download-compatible-with-windows-10-and-7/"><u>RTL8188CU Driver Download: Compatible with Windows 10 and 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-updating-your-windows-11-webcam-drivers/"><u>Step-by-Step Guide to Updating Your Windows 11 Webcam Drivers</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-mitigate-winerror-0x80780119/"><u>Strategies to Mitigate WinError 0X80780119</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/system-builders-analysis-puget-demonstrates-superior-endurance-of-intel-cpus-over-ryzen-counterparts-in-new-failure-report/"><u>System Builders' Analysis: Puget Demonstrates Superior Endurance of Intel CPUs Over Ryzen Counterparts in New Failure Report</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-computer-chronicles-in-depth-analysis-of-modern-tech-marvels/"><u>Tom's Computer Chronicles: In-Depth Analysis of Modern Tech Marvels</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-vivo-s18-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Vivo S18 Phone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-downloading-and-updating-the-brother-mfc-7860dw-printer-driver/"><u>Ultimate Guide: Downloading and Updating the Brother MFC-7860DW Printer Driver</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-how-to-guide-on-lenovo-power-controller-and-hardware-drivers-update/"><u>Ultimate How-To Guide on Lenovo Power Controller & Hardware Drivers Update</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrade-your-netgear-wna3100-with-the-newest-drivers-fast-and-simple/"><u>Upgrade Your Netgear WNA3100 with the Newest Drivers – Fast and Simple</u></a></li>
+</ul></div>

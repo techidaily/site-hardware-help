@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Reviews: Expert Insights on Computer Components"
-date: 2024-08-15 10:46:38
-updated: 2024-08-18 10:36:55
+date: 2024-08-19T10:23:24.245Z
+updated: 2024-08-20T10:23:24.245Z
 tags:
   - cases
 categories:
@@ -67,6 +67,9 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 
  While I didn't have the time to put together a full review before heading off to Computex, Fractal did send the case ahead of the launch date and, space constraints aside, there's a lot I like about it. It's surprisingly easy to build in for such a small chassis.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -79,16 +82,25 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 
 ![Fractal Design Terra](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Fractal Design Terra](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  As you've probably noticed in the photos, the side panels flip up gull-wing style, and the rear of the frame is spring-mounted, so if you push back on the hinges, you can remove the side doors completely. Similarly, the top panel pulls back (via a stylish and handy faux-leather tab) and lifts off, giving you full access to three sides of the case for the build process.
 
 ![Fractal Design Terra](https://cdn.mos.cms.futurecdn.net/GGZ7h2GYJ9xDyuCYcbGRUQ-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Mini-ITX motherboard installation is dead simple. You'll want to install your cooler, RAM and any M.2 drives on the board first, then flip the case on its side and the motherboard drops right in, to be anchored via four screws on the pre-installed standoffs. Again, CPU cooler space is extremely limited. I installed a[Thermalright AXP90-X47](http://www.thermalright.com/product/axp90-x47/) cooler for my Ryzen 5 5600 CPU, but the smaller AMD Wraith or Intel stock coolers should fit here just fine (again, depending on how much GPU space you need on the other side, so be sure to double-check those numbers).
@@ -113,6 +125,9 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 
 ![Fractal Design Terra](https://cdn.mos.cms.futurecdn.net/cy4rnk357zphPGMR6K8oaQ-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  There's no[audio](https://tools.techidaily.com) jack here, which may bother some. But as this is a tiny case that's clearly designed to sit on your desk, the audio jacks on the motherboard aren't much more than a foot away at the back of the case. Part of me wants to see more USB ports up front, but again, those are within fairly easy reach around the back.  
@@ -121,6 +136,9 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 
 ![Fractal Design Terra](https://cdn.mos.cms.futurecdn.net/PiQcTyM4XVJgWtYgom3aGQ-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  All in all, the Fractal Terra is a striking and mostly well-thought-out Mini-ITX case. I doubt it will have as wide an appeal as its larger North cousin since component and airflow options are far more limiting here. But if you don't need to pack in the absolute most powerful components (particularly on the CPU side) and you don't need more than a few storage drives, Fractal has once again delivered one of the prettiest cases available – especially if you want a respite from the RGB and aggressive designs that dominate the gaming side of the PC realm.
@@ -143,3 +161,59 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-premium-mac-recorder-for-crystal-clear-audio-and-hd-video/"><u>[New] 2024 Approved  Premium Mac Recorder for Crystal Clear Audio & HD Video</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-dissecting-youtubes-activities-post-uploading-videos/"><u>[New] Dissecting YouTube's Activities Post-Uploading Videos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-simplifying-igtv-access-on-computers-top-download-methods-unveiled/"><u>[New] Simplifying IGTV Access on Computers  Top Download Methods Unveiled</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-smooth-streaming-starts-with-these-cutting-edge-41-apps-for-android-devices/"><u>[New] Smooth Streaming Starts with These Cutting Edge 41 Apps for Android Devices</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-digital-duel-how-jake-paul-triumphed-on-youtube/"><u>[New] The Digital Duel  How Jake Paul Triumphed on YouTube</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-unveiling-hottest-fifa-football-content-on-youtube/"><u>[Updated] 2024 Approved  Unveiling Hottest FIFA Football Content on YouTube</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-innovative-shots-with-purpose-top-20-ideas-for-inspiration/"><u>[Updated] Innovative Shots with Purpose  Top 20 Ideas for Inspiration</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-boosting-color-with-adobes-top-10-luts/"><u>2024 Approved  Boosting Color with Adobe’s Top 10 LUTs</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-essential-guide-to-audio-effects-starting-with-auditions-fade-in/"><u>2024 Approved  Essential Guide to Audio Effects  Starting with Audition’s Fade In</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-rx-580-driver-upgrade-speedy-solutions-for-seamless-gaming-performance/"><u>AMD RX 580 Driver Upgrade: Speedy Solutions for Seamless Gaming Performance!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-analysis-of-acers-r-11-chromebook-sleek-design-ultraportable/"><u>Comprehensive Analysis of Acer's R 11 Chromebook - Sleek Design, Ultraportable</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/deciphering-and-solving-window-specific-neat-scanner-driver-issues-a-comprehensive-solution/"><u>Deciphering and Solving Window-Specific Neat Scanner Driver Issues: A Comprehensive Solution</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/direct-links-to-download-high-performance-amd-ryzen-motherboard-drivers/"><u>Direct Links to Download High-Performance AMD Ryzen Motherboard Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-latest-drivers-for-radeon-rx-470-gpus-simplified-process/"><u>Download & Update: Latest Drivers for Radeon RX 470 GPUs - Simplified Process</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-amd-driver-with-auto-detect/"><u>Download AMD Driver with Auto-Detect</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-corsair-keyboard-device-driver-windows-at-no-cost-safely-now/"><u>Download Corsair Keyboard Device Driver (Windows) at No Cost - Safely Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722957883872-download-updated-nvidia-rtx-3070-graphics-driver-for-windows-1110-get-the-best-performance-now/"><u>Download Updated NVIDIA RTX 3070 Graphics Driver for Windows 11/10 - Get the Best Performance Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-installation-of-new-acer-audio-drivers-step-by-step-tips/"><u>Effortless Installation of New Acer Audio Drivers - Step-by-Step Tips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-graphics-and-fps-with-the-latest-geforce-rtx-2080-ti-driver-updates/"><u>Enhance Graphics & FPS with the Latest GeForce RTX 2080 Ti Driver Updates</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-gaming-experience-on-windows-7-with-updated-nvidia-geforce-gtx-1080-drivers/"><u>Enhance Your Gaming Experience on Windows 7 with Updated NVIDIA GeForce GTX 1080 Drivers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-my-picks-8-exceptional-free-html-coding-platforms-for-windows/"><u>Explore My Picks: 8 Exceptional Free HTML Coding Platforms for Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/geforce-rtx-3070-driver-download-and-update-windows-1110/"><u>GeForce RTX 3070 Driver Download & Update - Windows 11/10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722977973199-get-the-latest-hp-spectre-x360-drivers-compatible-with-windows-full-set/"><u>Get the Latest HP Spectre X360 Drivers Compatible with Windows - Full Set</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-nvidia-geforce-rtx-2060-super-drivers-compatible-with-win10-and-win11/"><u>Get the Latest NVIDIA GeForce RTX 2060 Super Drivers - Compatible with Win10 & Win11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-driver-upgrades-for-your-brother-mfc-n7860dw-on-windows-pcs/"><u>Get the Newest Driver Upgrades for Your Brother MFC-N7860DW on Windows PCs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-msi-bluetooth-drivers-here-perfect-fit-for-windows-11-and-10/"><u>Get Your MSI Bluetooth Drivers Here - Perfect Fit for Windows 11 and 10</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-realme-v30-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Realme V30 in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-add-an-insignia-adapter-from-usb-to-vga-guide-for-drivers-and-setup/"><u>How to Add an Insignia Adapter From USB to VGA: Guide for Drivers and Setup</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-vivo-y77t-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Vivo Y77t Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-the-latest-canon-mf8500c-printer-software-for-windows-operating-systems/"><u>How to Get the Latest Canon MF8500C Printer Software for Windows Operating Systems</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-elite-multiplatform-recorder-for-pcs/"><u>In 2024, Elite Multiplatform Recorder for PCs</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-apple-iphone-se-drfone-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-amd-chipset-drivers-on-your-pc-compatible-with-various-windows-versions-windows-107881/"><u>Install AMD Chipset Drivers on Your PC - Compatible with Various Windows Versions (Windows 10/7/8/8.1)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-driver-downloads-for-the-canon-mp280-printer-compatible-with-windows-systems/"><u>Latest Driver Downloads for the Canon MP280 Printer Compatible with Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/new-release-comprehensive-wi-fi-driver-update-for-windows-7-10-and-above/"><u>New Release: Comprehensive Wi-Fi Driver Update for Windows 7, 10 & Above</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/new-release-downloading-the-latest-nvidia-quadro-rtx-8000-drivers-compatible-with-windows-11-10-and-7/"><u>New Release: Downloading the Latest NVIDIA Quadro RTX 8000 Drivers Compatible with Windows 11, 10, and 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/official-geforce-rtx-3080-ti-drivers-latest-release-available-for-win-11win-8win-7-users/"><u>Official GeForce RTX 3080 Ti Drivers: Latest Release Available for Win 11/Win 8/Win 7 Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/optimize-your-game-update-gtx-1660-ti-graphics-driver-for-enhanced-play/"><u>Optimize Your Game: Update GTX 1660 Ti Graphics Driver for Enhanced Play</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/overcoming-windows-11s-bluetooth-driver-hurdles-a-step-by-step-success-story/"><u>Overcoming Windows 11'S Bluetooth Driver Hurdles – A Step-by-Step Success Story</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-fixes-updating-your-windows-rndis-network-adapter-drivers-made-easy/"><u>Quick Fixes: Updating Your Windows RNDIS Network Adapter Drivers Made Easy</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-guide-to-downloading-and-setting-up-intel-thunderbolt-drivers/"><u>Quick Guide to Downloading and Setting up Intel Thunderbolt Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-setup-guide-downloading-and-updating-netgear-wna31-wifi-router-drivers-for-seamless-connectivity/"><u>Quick Setup Guide: Downloading & Updating Netgear WNA31# WiFi Router Drivers for Seamless Connectivity</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-driver-installation-for-your-hp-officejet-5740-start-now/"><u>Seamless Driver Installation for Your HP OfficeJet 5740 - Start Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/simplified-guide-to-upgrading-logitech-g502-game-combo-mouse-drivers/"><u>Simplified Guide to Upgrading Logitech G502 Game Combo Mouse Drivers</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-repair-a-malfunctioning-laptop-touchpad/"><u>Step-by-Step Guide to Repair a Malfunctioning Laptop Touchpad</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/top-ranked-youtube-extractors-pc-mobile-and-more-tips-for-2024/"><u>Top-Ranked YouTube Extractors - PC, Mobile, and More Tips for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-success-resolved-windows-wont-see-your-tp-link-tl-wn722n/"><u>Troubleshooting Success: [Resolved] Windows Won't See Your TP-Link TL-WN722N</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-guide-setting-up-two-screens-with-windows-10/"><u>Ultimate Guide: Setting Up Two Screens with Windows 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-to-the-newest-nvidia-rtx-2070-driver-version-compatible-with-windows-11-8-and-7-today/"><u>Update to the Newest NVIDIA RTX 2070 Driver Version - Compatible with Windows 11, 8 & 7 Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-zebra-printer-software-for-optimal-windows-compatibility/"><u>Update Your Zebra Printer Software for Optimal Windows Compatibility</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/whats-new-the-latest-release-of-hid-compatible-mouse-drivers-for-optimal-usage/"><u>What's New: The Latest Release of HID Compatible Mouse Drivers for Optimal Usage</u></a></li>
+</ul></div>

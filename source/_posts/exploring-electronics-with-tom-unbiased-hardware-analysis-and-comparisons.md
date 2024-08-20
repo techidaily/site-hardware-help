@@ -1,7 +1,7 @@
 ---
 title: "Exploring Electronics with Tom: Unbiased Hardware Analysis & Comparisons"
-date: 2024-08-15 11:15:21
-updated: 2024-08-18 11:27:47
+date: 2024-08-19T10:24:32.074Z
+updated: 2024-08-20T10:24:32.074Z
 tags:
   - build
 categories:
@@ -86,10 +86,16 @@ Deepcool Gamer Storm Gabriel
 
  Every component is identical to the Intel build earlier this week except the CPU, cooler and motherboard.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ## The Definition of Insanity
 
  Some of you out there might be groaning and asking, "What, this again?" Hold on a minute. Those asking for a better 860K overclock have a valid argument. The 860K was handicapped last quarter with insufficient cooling to get any kind of meaningful overclock. You can't argue with that. This time around the CPU gets better treatment in the form of an aftermarket cooler and a larger case. So no, we're not trying the exact same thing and expecting different results. Do I expect the 860K to outperform the i3-4170? No, I don't. However, in order for me to prove that one way or the other, I need hard numbers and data. I'm curious to see if it can close the gap, if not overcome it.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Alternate Component Selection
 
  I don't need to spend time explaining the same parts from[two days ago](https://tools.techidaily.com) . To save space and time, I'll only address the three new components.
@@ -130,10 +136,19 @@ Deepcool Gamer Storm Gabriel
 
 ![](https://cdn.mos.cms.futurecdn.net/EkXfRYe3XW8vhT2PuH7XkJ-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The rest of the assembly went just peachy. The slightly different port layout of the motherboard necessitated different cable routing, but that's it. Everything else is the exact same as the Intel build from a few days ago.
 
 ![](https://cdn.mos.cms.futurecdn.net/kiyNGE2ogxSRTZjnNEBoST-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ## Overclocking
 
  I did a little more digging on 860K overclocking after last quarter. Most FM2+ motherboards are very liberal with CPU voltage at stock levels. This means it's usually possible to overclock the CPU while undervolting it. This held true for my particular 860K. Stock voltage was set at 1.45V, but I was able to get it to run at 4.0GHz on only 1.35V. Lowering the voltage helped temperatures, but the CPU still has a pretty hard thermal ceiling that won't let it be pushed as much as it could. Regardless of cooling solution or voltage, the CPU cuts back to 3.5 to 3.7GHz when it hits 65 degrees C (total, not over ambient). Even with the cooler at full speed, I was occasionally hitting that ceiling under the most demanding workloads.
@@ -148,6 +163,9 @@ Deepcool Gamer Storm Gabriel
 
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  The RAM caused me no end of heartburn and frustration. I kept running into seemingly random crashes, regardless of RAM timings. I worried the RAM was somehow bad, but it worked flawlessly in the Intel build. After a quick appeal for help to Thomas, I found the motherboard simply required at least 1.64V to run the RAM, even at stock speeds. Again, the Intel build had no problem with 1.5V. I've never seen a motherboard that's more stable overclocked than at stock speeds, until now.
@@ -170,3 +188,67 @@ Deepcool Gamer Storm Gabriel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-help.techidaily.com/free-elevate-your-gameplay-with-official-corsair-mouse-software-install-now/"><u>[Free] Elevate Your Gameplay with Official Corsair Mouse Software - Install Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-version-install-new-video-graphics-array-vga-drivers-now/"><u>[Get the Latest Version] Install New Video Graphics Array (VGA) Drivers Now</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-conquering-social-media-with-ig-videos-planning-an-optimal-strategy-for-2024/"><u>[New] Conquering Social Media with IG Videos  Planning an Optimal Strategy for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-facebook-verification-how-to-verify-facebook-page-easily/"><u>[New] Facebook Verification  How to Verify Facebook Page Easily</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-full-featured-insight-mac-meets-screenflow-v4/"><u>[New] Full-Featured Insight  Mac Meets ScreenFlow V4</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-perfect-date-trackers-for-your-wedding-ios-and-android-edition/"><u>[New] Perfect Date Trackers for Your Wedding, iOS and Android Edition</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/tep-by-step-strategy-for-unearthing-secret-youtube-videos/"><u>[New] Step-by-Step Strategy for Unearthing Secret YouTube Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-understanding-income-dynamics-from-trending-youtube-shorts/"><u>[New] Understanding Income Dynamics From Trending YouTube Shorts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fifa-highlights-and-trends-charting-on-youtube-for-2024/"><u>[Updated] FIFA Highlights & Trends  Charting on YouTube for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-2023s-approach-tweeting-from-tiktok/"><u>[Updated] In 2024, 2023'S Approach  Tweeting From TikTok</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-revel-in-these-14-enthralling-text-based-movements/"><u>[Updated] In 2024, Revel in These 14 Enthralling Text-Based Movements</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-sightcast-peer-review-system/"><u>[Updated] In 2024, SightCast Peer Review System</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-instagram-longer-content-strategies-explained-for-2024/"><u>[Updated] Instagram Longer Content Strategies Explained for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-list-top-10-live-streaming-networks-ranked/"><u>2024 Approved  Exclusive List  Top 10 Live Streaming Networks Ranked</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-streamline-webcam-use-on-modern-devices/"><u>2024 Approved  Streamline Webcam Use on Modern Devices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-complete-handbook-to-securing-product-sponsorships-on-youtube/"><u>2024 Approved  The Complete Handbook to Securing Product Sponsorships on Youtube</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-the-quintessential-fb-video-list-for-you/"><u>2024 Approved  The Quintessential FB Video List for You</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-photoshops-image-curve-secrets/"><u>2024 Approved  Unveiling Photoshop's Image Curve Secrets</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-iphone-6s-plus-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock iPhone 6s Plus to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amds-ryzen-9-9950x-shatters-records-in-cinebench-r23-testing-at-an-unprecedented-65ghz-threshold/"><u>AMD's Ryzen 9 9950X Shatters Records in Cinebench R23 Testing at an Unprecedented 6.5GHz Threshold</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comparing-processor-performance-aws-gravitn4-outperforms-intel-and-amd-cpus-in-speed-and-cost-efficiency/"><u>Comparing Processor Performance: AWS Gravitn4 Outperforms Intel & AMD CPUs in Speed & Cost Efficiency</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-gigabyte-z370p-d3-driver-package-quick-and-easy-access-for-pc-enthusiasts/"><u>Complete Gigabyte Z370P D3 Driver Package - Quick and Easy Access for PC Enthusiasts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/corsair-h115i-and-windows-updates-overcoming-driver-errors-in-latest-oses/"><u>Corsair H115i and Windows Updates: Overcoming Driver Errors in Latest OSes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/corsair-h80-v2-aio-cooling-system-driver-update-for-enhanced-pc-performance/"><u>Corsair H80-V2 AIO Cooling System Driver Update for Enhanced PC Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-the-latest-epson-wf-3520-printer-driver-for-windows/"><u>Download & Install the Latest Epson WF-3520 Printer Driver for Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-intel-iris-xe-gpgpu-655-drivers-compatible-with-windows-11/"><u>Download Intel Iris Xe GPGPU 655 Drivers Compatible with Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-download-intels-management-engine-drivers-for-windows-users/"><u>Easy Download: Intel's Management Engine Drivers for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ensure-optimal-functionality-downloading-and-updating-brother-mfc-7860dw-drivers-in-windows-1011/"><u>Ensure Optimal Functionality: Downloading & Updating Brother MFC-7860DW Drivers in Windows 10/11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/french-vendor-reveals-amd-ryzen-9000-series-costs-euro-zones-ryzen-9-9900x-hits-680/"><u>French Vendor Reveals AMD Ryzen 9000 Series Costs: Euro Zone's Ryzen 9 9900X Hits €680</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-lenovo-monitor-drivers-free-tutorial-here/"><u>Get the Latest Lenovo Monitor Drivers - Free Tutorial Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-new-driver-software-for-lenovo-legion-5-pros-high-performance-gpu-by-amd/"><u>Get the New Driver Software for Lenovo Legion 5 Pro's High-Performance GPU by AMD</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-qualcomm-atheros-ar3011-bluetooth-30-driver-here/"><u>Get Your Qualcomm Atheros AR3011 Bluetooth 3.0 Driver Here!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hassle-free-driver-upgrades-on-your-windows-pc-instantly-now/"><u>Hassle-Free Driver Upgrades on Your Windows PC, Instantly Now!</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/improve-your-video-quality-with-the-latest-logitech-c920-webcam-driver-updates-for-windows-users/"><u>Improve Your Video Quality with the Latest Logitech C920 Webcam Driver Updates for Windows Users</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-from-iphone-se-2020-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out From iPhone SE (2020) How to Bypass?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-lava-agni-2-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Lava Agni 2 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-master-viral-wonders-secrets-to-exceptional-tiktok-photo-tricks/"><u>In 2024, Master Viral Wonders  Secrets to Exceptional TikTok Photo Tricks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-full-facetune-experience-from-novice-to-expert-photographer/"><u>In 2024, The Full Facetune Experience  From Novice to Expert Photographer</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-samsung-galaxy-a14-4g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Samsung Galaxy A14 4G Location | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-or-update-your-epson-tm-t88v-drivers-on-windows-computers-easily/"><u>Install or Update Your EPSON TM-T88V Drivers on Windows Computers Easily</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/instant-access-to-linksys-ae1200-drivers-download-seamlessly-and-boost-performance-now/"><u>Instant Access to Linksys AE1200 Drivers - Download Seamlessly and Boost Performance Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intel-processor-drivers-fast-and-simple-download-guide/"><u>Intel Processor Drivers: Fast & Simple Download Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intels-profits-plunge-by-16b-amidst-challenges-in-the-data-center-cpu-and-foundry-segments/"><u>Intel's Profits Plunge by $1.6B Amidst Challenges in the Data Center CPU & Foundry Segments</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-dell-wifi-driver-version-get-it-here-now/"><u>Latest Dell WiFi Driver Version - Get It Here Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-logitech-g2e-steering-wheel-drivers-for-win11-win10-and-win7-free-download/"><u>Latest Logitech G2e Steering Wheel Drivers for Win11, Win10 & Win7 – Free Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-nvidia-drivers-for-geforce-rtx-3080-ti-win-1187-compatibility-and-download-info/"><u>Latest NVIDIA Drivers for GeForce RTX 3080 Ti: Win 11/8/7 Compatibility and Download Info</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-gadgets-with-toms-computer-insights/"><u>Mastering Gadgets with Tom's Computer Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/microsoft-windows-compatible-bluetooth-drivers-latest-updates-and-downloads/"><u>Microsoft Windows Compatible Bluetooth Drivers: Latest Updates and Downloads</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/navigating-video-upload-procedures-on-chrome-devices/"><u>Navigating Video Upload Procedures on Chrome Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/purchase-guide-amds-latest-processors-ryzen-7-970nx-and-ryzen-5-9600x/"><u>Purchase Guide: AMD's Latest Processors, Ryzen 7 970nX & Ryzen 5 9600X</u></a></li>
+<li><a href="https://facebook.techidaily.com/revelations-of-a-digital-watchmaker-facebooks-undisclosed-device/"><u>Revelations of a Digital Watchmaker: Facebook's Undisclosed Device</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/scarcity-of-real-world-testing-revealed-by-top-benchmark-author-on-qualcomms-copilotplus-pc-just-56-windows-arm-devices-assessed-recently/"><u>Scarcity of Real-World Testing Revealed by Top Benchmark Author on Qualcomm's Copilot+ PC – Just 56 Windows-Arm Devices Assessed Recently</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-the-issue-of-armored-core-vi-game-failure-to-load-correctly/"><u>Solving the Issue of Armored Core VI Game Failure to Load Correctly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-upgrading-to-new-huion-tablet-drivers-for-windows-users/"><u>Step-by-Step Tutorial: Upgrading to New Huion Tablet Drivers for Windows Users</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-insiders-guide-to-authentic-instagram-imagery/"><u>The Insider’s Guide to Authentic Instagram Imagery</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-guide-installing-and-updating-your-xbox-360-controller-driver/"><u>Troubleshooting Guide: Installing and Updating Your Xbox 360 Controller Driver</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-top-5th-fastest-processor-in-global-rankings-time-spy-extreme-benchmark-reveals-ryzen-9-9950xs-speed-propelled-by-water-cooling-technology/"><u>Unveiling the Top 5Th Fastest Processor in Global Rankings: Time Spy Extreme Benchmark Reveals Ryzen 9 9950X's Speed Propelled By Water Cooling Technology</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-msi-graphics-card-driver-on-windows-11-and-7-easily/"><u>Update MSI Graphics Card Driver on Windows 11 & 7. Easily</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Nubia Z50 Ultra? | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Review: The Ultimate Guide to Computer Components"
-date: 2024-08-14 16:23:30
-updated: 2024-08-17 10:41:59
+date: 2024-08-19T10:46:53.040Z
+updated: 2024-08-20T10:46:53.040Z
 tags:
   - laptop
 categories:
@@ -82,6 +82,9 @@ It's rare that my lasting impression about a laptop is all about style, but here
 | **Weight**                | 3.31 pounds (1.5 kg)                                                                         |
 | **Price (as configured)** | $1,699.99                                                                                    |
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Productivity Performance on the Asus Zenbook S16
 
  This review happens to be our first look at AMD's new Ryzen AI 9 HX 370, one of the company's very lengthily-named processors in its "Strix Point" lineup. This chip has four Zen 5 cores and eight Zen 5c cores (for a total of 12 cores). It has a base clock of 2 GHz and a max boost of up to 5.1 GHz. As chip companies attempt to one-up each other on AI, AMD is packing 50 TOPS in its NPU, surpassing the 45 TOPS in the Qualcomm Snapdragon X Elite and X Plus (the chip as a whole goes up to 80 TOPS).
@@ -120,6 +123,9 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/kyTb4Yk4LUiQN83wEJXLtQ-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  In a reviewer's guide sent to the press, AMD suggested a number of applications to try that make use of local AI. Chief among them was a beta of Amuse 2.0, which includes image generation with Stable Diffusion, as well as paint-to-image features that are very similar to image creator in Paint on Copilot Plus PCs (though that uses DALL-E). In a way, this app, made to work well with AMD's hardware, can fill in the blanks until[Microsoft](https://tools.techidaily.com) adds Copilot Plus features to Ryzen AI laptops.
@@ -160,10 +166,16 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
  Asus also includes its Asus Pen 2.0 — a stylus with 4,096 degrees of pressure sensitivity — in the box with the laptop. It's a nice add-on, I suppose. But it’s an odd fit for this clamshell laptop, particularly considering the display doesn't fold flat.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ## Audio on the Asus Zenbook S16
 
  The Zenbook S16 trades volume for detail. Don't get me wrong, it's loud enough, especially if you're sitting right in front of it, but it didn't quite fill an entire meeting room with sound. But when I was listening to Charli XCX's "Von dutch," I was surprised to hear a bit of bass. The speakers, tuned with Dolby Atmos, sounded great when I switched from "balanced" to "detailed," with clear vocals, pounding drums and whirring synths.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Upgradeability of the Asus Zenbook S16
 
 There isn't much to upgrade or repair on the Zenbook S16.
@@ -172,10 +184,16 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/ecmzqwkBMqHc5j2cTa5SPS-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Once you're in, there are two parts you could replace. The first is the battery, which takes up most of the room inside the system. The other is the SSD. Despite the size of the laptop, there isn't a secondary M.2 slot, so you'll have to replace the drive if you want more storage space. The wireless module and RAM are soldered to the motherboard.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ## Battery Life on the Asus Zenbook S16
 
  While the Zenbook S16 will likely last you an entire workday, the new Asus device didn't last as long on a charge as competitors based on Arm platforms.
@@ -188,6 +206,9 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
  But the MacBook Air M3 (15:03), HP OmniBook X on a Snapdragon X Elite (16:18), and the 16-inch MacBook Pro lasted an incredible 17:11.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Heat on the Asus Zenbook S16
 
  During our ten runs of Cinebench 2024, we took skin temperature measurements to see how the Zenbook performs under an intense workload.
@@ -200,6 +221,9 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
  The camera supports infrared to log in with Windows Hello for facial recognition. It's the sole biometric option on the device.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Software and Warranty on the Asus Zenbook S16
 
  Asus includes four pieces of software on the Zenbook S16\. The first is MyAsus, which allows you to manage your warranty, and also shows system settings and lets you check for updates. This app now prompts you for an account, which it didn't use to do (and in my opinion, shouldn't need to). Despite its appearance, you can skip this prompt.  
@@ -212,12 +236,27 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
  Asus sells the Zenbook S16 with a one-year warranty. A card included in the box offers one free year of accidental damage protection in exchange for registering the laptop.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Asus Zenbook S16 Configurations
 
  We tested the Asus Zenbook S16 with an AMD Ryzen AI 9 HX 370, 32GB of RAM, and a 1TB SSD, which goes for $1,699.99.
 
  A cheaper version[sold at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fshop-links.co%2Flink%3Fpublisher%255Fslug%3Dfuture%26exclusive%3D1%26u1%3Dtomshardware-us-4910217774050973812%26url%3Dhttps%253A%252F%252Fwww.bestbuy.com%252Fsite%252Fasus-zenbook-s-16-16-3k-oled-touch-screen-laptop-amd-ryzen-ai-9-365-24gb-memory-1tb-ssd-scandinavian-white%252F6584435.p%26article%255Fname%3DAsus%2520Zenbook%2520S16%2520review%253A%2520AMD%2520Ryzen%2520AI%25209%2520HX%2520370%2520tested%2520%257C%2520Tom%27s%2520Hardware%26article%255Furl%3Dhttps%253A%252F%252Fwww.tomshardware.com%252Flaptops%252Fgaming-laptops%252Fasus-zenbook-s16-amd-ryzen-ai-9-hx-370-review) is $1,399.99 with a Ryzen AI 9 HX 365 and 24GB of memory, as well as a white chassis.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Bottom Line
 
  The Asus Zenbook S16 is a solid showcase for AMD's new AI-focused processors, even if AI applications themselves aren't quite ready to excite most people.
@@ -252,3 +291,59 @@ There isn't much to upgrade or repair on the Zenbook S16.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-game-on-excavating-elite-escape-chamber-quests/"><u>[New] In 2024, Game On  Excavating Elite Escape Chamber Quests</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-epicurean-lens-techniques-for-delicious-content/"><u>[New] The Epicurean Lens  Techniques for Delicious Content</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-the-ultimate-guide-to-yis-4k-hero-series-for-2024/"><u>[New] The Ultimate Guide to Yi's 4K HERO Series for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-turn-any-surface-into-a-broadcasting-space-with-vlcs-webcam-feature/"><u>[New] Turn Any Surface Into a Broadcasting Space with VLC’s Webcam Feature</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-broadcast-strategies-combining-facebook-and-tv/"><u>[Updated] 2024 Approved  Broadcast Strategies  Combining Facebook and TV</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-a-practical-guide-to-applying-creative-commons-rights/"><u>[Updated] A Practical Guide To Applying Creative Commons Rights</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-cost-effective-subscriber-growth-hundreds-at-a-bargain-price/"><u>[Updated] Cost-Effective Subscriber Growth - Hundreds at a Bargain Price</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-mastering-live-online-broadcasts-recording-techniques/"><u>[Updated] In 2024, Mastering Live Online Broadcasts  Recording Techniques</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-x-sonic-recorder-desktop-format/"><u>[Updated] In 2024, X-Sonic Recorder  Desktop Format</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-live-link-lifters-annual-archive-access-for-2024/"><u>[Updated] Live Link Lifters - Annual Archive Access for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-journey-through-hdr-with-asuss-top-4k-professional-monitor/"><u>2024 Approved  Journey Through HDR with ASUS's Top 4K Professional Monitor</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-the-ultimate-list-of-firefox-plugins-for-easy-facebook-video-retrieval-2023-edition/"><u>2024 Approved  The Ultimate List of Firefox Plugins for Easy Facebook Video Retrieval, 2023 Edition</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-your-handy-hint-downloading-youtube-videos-to-your-apple-device/"><u>2024 Approved  Your Handy Hint  Downloading YouTube Videos to Your Apple Device</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>5 Best Route Generator Apps You Should Try On Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/discovering-social-medias-top-5-innovations-in-fb/"><u>Discovering Social Media’s Top 5 Innovations in FB</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-netgear-a6100-drivers-for-windows-systems/"><u>Download & Update: Netgear A6100 Drivers for Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722969021490-download-official-canon-imageclass-mf4800-drivers-here/"><u>Download Official Canon ImageCLASS MF4800 Drivers Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-access-to-newest-amd-radeon-rx-480-graphic-driver-releases/"><u>Easy Access to Newest AMD Radeon RX 480 Graphic Driver Releases</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-guide-to-download-and-install-the-epson-gt-s50-driver-on-windows-7810-step-by-step-tutorials-available/"><u>Easy Guide to Download and Install the Epson GT S50 Driver on Windows 7/8/10 - Step by Step Tutorials Available</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-installation-get-your-latest-amd-ati-radeon-hd-graphics-card-drivers-installed-today/"><u>Effortless Installation: Get Your Latest AMD ATI Radeon HD Graphics Card Drivers Installed Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-tips-to-overcome-h100i-v2-driver-challenges-in-windows-systems/"><u>Expert Tips to Overcome H100i V2 Driver Challenges in Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fixing-your-hp-speaker-glitches-with-simple-steps-on-windows-1087/"><u>Fixing Your HP Speaker Glitches with Simple Steps on Windows 10/8/7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-logitech-g29-racing-controller-setup-for-windows-7-8-and-10-users/"><u>Free Download: Logitech G29 Racing Controller Setup for Windows 7, 8 & 10 Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-windows-7-sound-card-driver-download-updated-guide/"><u>Free Windows 7 Sound Card Driver Download: Updated Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-hands-on-the-latest-sound-blaster-audigy-fx-drivers-free-downloads-available/"><u>Get Your Hands on the Latest Sound Blaster Audigy FX Drivers - Free Downloads Available!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-hp-officejet-pro-8740-drivers-download-now-for-windows-11-10-and-8-systems/"><u>Get Your HP Officejet Pro #8740 Drivers - Download Now for Windows 11, 10 & 8 Systems</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-oneplus-ace-2v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-obtain-and-install-dell-network-adapter-software-on-windows-n7/"><u>How to Obtain and Install Dell Network Adapter Software on Windows N7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-seamlessly-upgrade-your-scansnap-ix50n-devices-drivers-on-pc-systems/"><u>How to Seamlessly Upgrade Your ScanSnap iX50n Device's Drivers on PC Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-envy-5660-seamless-driver-setup-in-a-few-simple-steps/"><u>HP Envy 5660: Seamless Driver Setup in a Few Simple Steps!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-samsung-galaxy-s23-tactical-edition-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Samsung Galaxy S23 Tactical Edition Phones? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Samsung Galaxy M34 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-epson-xp-430-printer-drivers-a-step-by-step-guide-for-windows/"><u>Install Epson XP-430 Printer Drivers: A Step-by-Step Guide for Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-focusrite-scarlett-18i20-drivers-on-windows-download-now/"><u>Install Focusrite Scarlett 18I20 Drivers on Windows – Download Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-guide-compatible-logitech-driving-force-gt-controller-on-windows-operating-systems-7-11/"><u>Install Guide: Compatible Logitech Driving Force GT Controller on Windows Operating Systems (7-11)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intel-iris-xe-drivers-for-windows-11-fast-download-and-installation-guide/"><u>Intel Iris Xe Drivers for Windows 11: Fast Download and Installation Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-dolby-audio-driver-download-and-update-for-windows-11-10-81/"><u>Latest Dolby Audio Driver Download & Update for Windows 11 / 10 / 8.1</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/nvidia-geforce-rtx-2070-super-graphics-card-driver-updates-and-download-instructions-for-windows/"><u>Nvidia GeForce RTX 2070 Super Graphics Card Driver Updates and Download Instructions for Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/official-canon-printer-drivers-for-windows-1087-easy-installation-steps/"><u>Official Canon Printer Drivers for Windows 10/8/7: Easy Installation Steps</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-res-scale-problems-in-win10/"><u>Resolving Res Scale Problems in Win10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-installation-how-to-get-the-latest-synaptics-touchpad-software-on-windows/"><u>Seamless Installation: How to Get the Latest Synaptics Touchpad Software on Windows!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-setup-for-qualcomm-atheros-ar938x-network-cards-free-drivers-available-now/"><u>Seamless Setup for Qualcomm Atheros AR938X Network Cards – Free Drivers Available Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/speedy-installation-guide-for-microsoft-wireless-mouse-5000-drivers-hassle-free-download/"><u>Speedy Installation Guide for Microsoft Wireless Mouse 5000 Drivers | Hassle-Free Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-to-downloading-the-latest-broadcom-gigabit-driver-on-windows-10-fixed/"><u>Step-by-Step Tutorial to Downloading the Latest Broadcom Gigabit Driver on Windows 10 [FIXED]</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722973206358-the-final-art-piece-must-have-an-interactive-element-that-allows-viewers-to-change-lighting-conditions-representing-fluctuating-energy-input/"><u>The Final Art Piece Must Have an Interactive Element that Allows Viewers to Change Lighting Conditions, Representing Fluctuating Energy Input.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/tp-links-new-network-driver-update-compatible-with-windows-10-8-and-7-get-instant-download/"><u>TP-Link's New Network Driver Update | Compatible with Windows 10, 8, and 7 - Get Instant Download!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/transform-your-digital-adventures-the-essential-guide-to-geforce-rtx-2080-ti-driver-upgrades/"><u>Transform Your Digital Adventures: The Essential Guide to GeForce RTX 2080 Ti Driver Upgrades</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-and-fixing-realtek-lan-driver-issues-on-various-windows-platforms/"><u>Troubleshooting and Fixing Realtek LAN Driver Issues on Various Windows Platforms</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-made-easy-updating-standard-sata-and-ahci-controllers/"><u>Troubleshooting Made Easy: Updating Standard SATA and AHCI Controllers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-solution-seamless-downloading-and-updating-of-d-link-drivers-on-your-pc-with-windows/"><u>Ultimate Solution: Seamless Downloading and Updating of D-Link Drivers on Your PC with Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-amd-rx-480-gpu-drivers-with-these-simple-steps/"><u>Update Your AMD RX 480 GPU Drivers with These Simple Steps</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-full-guide-on-making-a-big-budget-cinematic-look-video-with-final-cut-pro-x-for-2024/"><u>Updated Full Guide on Making a Big-Budget Cinematic Look Video with Final Cut Pro X for 2024</u></a></li>
+</ul></div>

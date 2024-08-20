@@ -1,7 +1,7 @@
 ---
 title: "Inside the Circuitry: Unveiling Tech Secrets at Tom's Gadget Corner"
-date: 2024-08-16 19:39:53
-updated: 2024-08-17 12:49:23
+date: 2024-08-19T10:30:16.458Z
+updated: 2024-08-20T10:30:16.458Z
 tags:
   - motherboards
 categories:
@@ -47,10 +47,16 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
 
  The modules might help enable new form factors, too. At Computex,[Adata showed off its Nia handheld](https://tools.techidaily.com) , which uses LPCAMM2 using LPDDR5X.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How much memory fits on a CAMM2 module?
 
 Between 8GB and 128GB of memory fits on a single module.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Is LPCAMM2 faster than existing SO-DIMMs and DIMMs?
 
  Yes. As of this writing,[Crucial is listing](https://www.crucial.com/memory/ddr5/ct64g75c2lp5xg) 32GB and 64GB LPDDR5X-7200 LPCAMM2 modules. At Computex, TeamGroup said its 16GB, 32GB, and 64GB memory will go up to 9600 MT/s. Samsung's[page on LPCAMM2](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fgo.redirectingat.com%2F%3Fid%3D92X1584492%26xcust%3Dtomshardware%255Fus%255F4400621493195954499%26xs%3D1%26url%3Dhttps%253A%252F%252Fsemiconductor.samsung.com%252Femea%252Fdram%252Fmodule%252Flpcamm2%252F%26sref%3Dhttps%253A%252F%252Fwww.tomshardware.com%252Fpc-components%252Fmotherboards%252Fwhat-is-camm2) lists an "extraordinary data transfer rate of 8,533Mbps," the same number memory company[Geil showed at Computex](https://www.techpowerup.com/323173/geil-presents-a-wide-range-of-memories-at-computex-camm2-lpcamm2-alongside-many-ddr5s) .
@@ -59,6 +65,9 @@ Between 8GB and 128GB of memory fits on a single module.
 
  We haven't seen any DDR5 CAMM2 products on the market just yet, so we don't know if those speeds will go even higher.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What are alternatives to CAMM2?
 
  In theory, there's nothing stopping vendors from using standard DIMMs or SO-DIMMs, or continuing to solder memory to the motherboard. Staying with the status quo is an alternative, at least for now.
@@ -81,3 +90,38 @@ Between 8GB and 128GB of memory fits on a single module.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-the-ultimate-guide-to-the-best-ps3-gaming-on-pc/"><u>[New] The Ultimate Guide to the Best PS3 Gaming on PC</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-comprehensible-guide-to-documenting-live-sports-events/"><u>[Updated] Comprehensible Guide to Documenting Live Sports Events</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-optimal-energy-solutions-official-and-third-party-hero5-batteries/"><u>[Updated] Optimal Energy Solutions - Official & Third-Party Hero5 Batteries</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-leverage-slug-lines-in-articles/"><u>2024 Approved  How to Leverage Slug Lines in Articles</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unveiling-the-secrets-of-successful-youtube-live-games/"><u>2024 Approved  Unveiling the Secrets of Successful YouTube Live Games</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722977729272-amd-radeon-pro-w5700-driver-fast-download-available-for-windows-users/"><u>AMD Radeon Pro W5700 Driver: Fast Download Available for Windows Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/c-span-broadcasts-unlocked-tips-for-fee-free-download/"><u>C-Span Broadcasts Unlocked  Tips for Fee-Free Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-instructions-to-download-and-update-your-hp-officejet-pro-8620-drivers-on-windows-pcs/"><u>Complete Instructions to Download and Update Your HP OfficeJet Pro 8620 Drivers on Windows PCs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/corporate-structure-and-governance/"><u>Corporate Structure and Governance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-guide-brother-mfc-7860dw-printer-driver-for-windows-os/"><u>Download and Update Guide: Brother MFC-7860DW Printer Driver for Windows OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722958234075-download-m-audio-fast-track-drivers-compatible-with-windows-10-7-8-and-81/"><u>Download M-Audio Fast Track Drivers: Compatible with Windows 10, 7, 8 & 8.1</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-guide-how-to-get-the-latest-realtek-asus-sound-card-drivers-on-windows-11/"><u>Easy Guide: How to Get the Latest Realtek Asus Sound Card Drivers on Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-installation-acer-predator-xb271h-video-drivers-at-your-fingerts/"><u>Effortless Installation: Acer Predator XB271H Video Drivers at Your Fingerts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-setup-for-latest-intel-iris-540-gpu-drivers-enhanced-performance-guaranteed/"><u>Effortless Setup for Latest Intel Iris 540 GPU Drivers - Enhanced Performance Guaranteed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722971115993-effortlessly-update-lenovo-device-power-management-software-here/"><u>Effortlessly Update Lenovo Device Power Management Software Here!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722970155490-fast-track-to-your-ft232r-uart-driver-download-speedy-setup-tips/"><u>Fast Track to Your FT232R UART Driver Download – Speedy Setup Tips!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-hp-universal-printer-drivers-installed-on-windows-today/"><u>Get Your HP Universal Printer Drivers Installed on Windows Today!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-oppo-a58-4gmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Oppo A58 4GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-enhance-communication-update-pl2303-usb-to-serial-driver-for-windows-computers/"><u>How to Enhance Communication: Update PL2303 USB-to-Serial Driver for Windows Computers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-fast-and-hassle-free-install-the-latest-gtx-1660-video-card-drivers/"><u>How to Fast & Hassle-Free Install the Latest GTX 1660 Video Card Drivers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-crafting-perfect-ringtones-from-popular-tiktok-audio-tracks/"><u>In 2024, Crafting Perfect Ringtones From Popular TikTok Audio Tracks</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-vivo-y27-4g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Vivo Y27 4G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-realme-c33-2023-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Realme C33 2023 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intel-hd-graphics-4400-secure-download-and-easy-update-of-latest-drivers/"><u>Intel HD Graphics 4400: Secure Download and Easy Update of Latest Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intel-iris-xe-graphics-drivers-update-install-fast-and-effortless/"><u>Intel Iris Xe Graphics Drivers Update: Install Fast and Effortless</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-intel-usb-30-support-software-for-windows-11-free-download/"><u>Latest Intel USB 3.0 Support Software for Windows 11 - Free Download</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>Life360 Learn How Everything Works On Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/official-lenovo-bluetooth-driver-version-for-windows-710-users-secure-download-and-setup-process/"><u>Official Lenovo Bluetooth Driver Version for Windows 7/10 Users: Secure Download & Setup Process</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-driver-downloads-and-setup-instructions-for-the-lenovo-x1-carbon-on-windows-107-systems/"><u>Step-by-Step Driver Downloads and Setup Instructions for the Lenovo X1 Carbon on Windows 10/7 Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-system-installing-the-latest-asus-motherboard-software-on-windows-devices/"><u>Update Your System: Installing the Latest ASUS Motherboard Software on Windows Devices</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/vidpatch-correcting-defective-files/"><u>VidPatch: Correcting Defective Files</u></a></li>
+</ul></div>

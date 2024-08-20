@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Testing of the Updated Corsair MP700 Pro SE Solid State Drive
-date: 2024-08-16 18:49:53
-updated: 2024-08-17 10:44:11
+date: 2024-08-19T10:26:02.012Z
+updated: 2024-08-20T10:26:02.012Z
 tags:
   - ssd
 categories:
@@ -42,6 +42,9 @@ Best SSD and Hard Drive Deals
 * **PCIe 3, 4 or 5:** If you're buying an NVMe SSD, you can choose among PCIe 3, 4 or 5 interfaces with speeds increasing from a maximum of around 3,500 MBps sequential reads and writes to 8,000 MBps and 14,000 MBps. At this point, PCIe 4 drives are mainstream and offer the best value. PCIe 5 drives are extraordinarily expensive, require a newer-gen platform that supports them, and also generate a fair amount of heat. We're seeing the best SSD deals on PCIe 4 drives which is the best standard for most people.
 * **Capacity:** 2TB seems to be the sweet spot for price and performance, with decent 2TB, PCIe 4 NVMe drives going for around $80 or less and high-performance ones in the sub $130 range. If you can splurge, go for a 4TB drive, which could cost anywhere from $150 for a low-end drive, up to $250 for a high-end one. If you really need to save money, a decent 1TB drive can cost $50 or less. However, the top SSD deals this year are definitely on 2 and 4TB capacities.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Best SSD Deals
 
 [Samsung 990 Pro (2TB) SSD:&nbsp;now $169 at Best Buy](https://cdn.mos.cms.futurecdn.net/yWYHwGzYhVYxLM38ZxYDwk-200-100.jpg "Samsung 990 Pro (2TB) SSD:&nbsp;now $169 at Best Buy") ](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fshop-links.co%2Flink%3FskuId%3D6523595%26publisher%255Fslug%3Dfuture%26exclusive%3D1%26u1%3Dtomshardware-us-1244705598733577618%26url%3Dhttps%253A%252F%252Fwww.bestbuy.com%252Fsite%252Fsamsung-990-pro-2tb-internal-ssd-pcle-gen-4x4-nvme%252F6523595.p%253FskuId%253D6523595%26article%255Fname%3DBest%2520SSD%2520and%2520Hard%2520Drive%2520Deals%25202024%2520%257C%2520Tom%27s%2520Hardware%26article%255Furl%3Dhttps%253A%252F%252Fwww.tomshardware.com%252Ffeatures%252Fbest-deals-on-ssds)
@@ -230,6 +233,10 @@ Best SSD and Hard Drive Deals
 
 * [Back to top ^](https://tools.techidaily.com)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ### Best External SSD / HDD / NAS Deals
 
 [Western Digital 8TB WD Red Pro NAS Internal Hard Drive HDD:&nbsp;now $199 at Amazon](https://cdn.mos.cms.futurecdn.net/R763rGe5wzXgjQeGDhHEzW-200-100.jpg "Western Digital 8TB WD Red Pro NAS Internal Hard Drive HDD:&nbsp;now $199 at Amazon") ](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FWestern-Digital-Internal-Hard-Drive%2Fdp%2FB0D1V2K4LJ%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-7312074856993712567-20)
@@ -287,6 +294,9 @@ Best SSD and Hard Drive Deals
 
 [View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FSAMSUNG-Portable-SSD-1TB-MU-PC1T0T%2Fdp%2FB0874XN4D8%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-5810562302926172923-20)
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## More Tech Deals
 
 * [Best deals on tech & PC Hardware](https://tools.techidaily.com)
@@ -312,3 +322,79 @@ Best SSD and Hard Drive Deals
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-easy-steps-to-archive-vimeo-video-recordings/"><u>[New] 2024 Approved  Easy Steps to Archive Vimeo Video Recordings</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-discovering-the-benefits-of-personalized-asmr-sounds/"><u>[New] Discovering the Benefits of Personalized ASMR Sounds</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-gecata-watchers-complete-appraisal/"><u>[New] In 2024, GECATA Watcher's Complete Appraisal</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-channel-aspirations-reach-and-secure-10k-views-for-youtube-partner-perks/"><u>[Updated] 2024 Approved  Channel Aspirations – Reach and Secure 10K Views for YouTube Partner Perks</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-how-to-download-gif-images-from-twitter/"><u>[Updated] 2024 Approved  How to Download GIF Images From Twitter</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-aerial-capture-face-off-dji-mavic-2-vs-hero6-black/"><u>[Updated] Aerial Capture Face-Off  DJi Mavic 2 vs Hero6 Black</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-secure-a-library-of-premium-free-graphic-designs/"><u>[Updated] How to Secure a Library of Premium, Free Graphic Designs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-8-superb-tablet-titans-to-take-your-photo-editing-skills-further/"><u>[Updated] In 2024, 8 Superb Tablet Titans to Take Your Photo Editing Skills Further</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-nine-game-streaming-haven-explored/"><u>[Updated] Top Nine Game Streaming Haven Explored</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-first-steps-in-camera-shopping-for-newcomers-to-film/"><u>2024 Approved  First Steps in Camera Shopping – For Newcomers to Film</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-plot-puns-on-pop-culture/"><u>2024 Approved  Plot Puns on Pop Culture</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-shaping-snapshots-transitioning-from-auto-to-smart-hdr-shooting/"><u>2024 Approved  Shaping Snapshots  Transitioning From Auto to Smart HDR Shooting</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-top-ae-titles-for-striking-visual-impact/"><u>2024 Approved  Top AE Titles for Striking Visual Impact</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-14-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/assessing-battery-longevity-in-evs-against-traditional-gas-powered-car-durability/"><u>Assessing Battery Longevity in EVs Against Traditional Gas-Powered Car Durability</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/audio-technica-driver-update-procedure-a-user-friendly-walkthrough/"><u>Audio Technica Driver Update Procedure: A User-Friendly Walkthrough</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/best-source-to-download-the-newest-intel-hd-graphics-4400-drivers-today/"><u>Best Source to Download the Newest Intel HD Graphics 4400 Drivers Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/boost-your-pcs-visual-capabilities-with-an-instant-nvidia-gtx-1660-driver-refresh/"><u>Boost Your PC's Visual Capabilities with an Instant NVIDIA GTX 1660 Driver Refresh</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bootstrapping-disk-backups-on-your-own/"><u>Bootstrapping Disk Backups on Your Own</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/brother-hl2280dw-driver-software-download-supports-win11-win10-win8-and-win7/"><u>Brother HL2280DW Driver Software Download - Supports Win11, Win10, Win8 & Win7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/canoscan-lide-1230-scanner-software-downloads-and-updates/"><u>CanoScan LiDE 1230 Scanner Software Downloads and Updates</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-guide-addressing-and-repairing-errors-in-hp-officejet-pro-6978-printer-drivers/"><u>Comprehensive Guide: Addressing and Repairing Errors in HP OfficeJet Pro 6978 Printer Drivers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cooling-industry-controversy-cooler-masters-legal-challenge-to-protect-pump-radiator-invention/"><u>Cooling Industry Controversy: Cooler Master's Legal Challenge to Protect Pump Radiator Invention</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/differences-between-ps5-slim-and-original-ps5-an-in-depth-review/"><u>Differences Between PS5 Slim and Original PS5: An In-Depth Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discovering-affordability-and-intuitiveness-in-z-edges-z3-plus-dashcam/"><u>Discovering Affordability and Intuitiveness in Z-Edge's Z3 Plus Dashcam</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-compatible-hp-printer-drivers-for-seamless-printing/"><u>Download & Install Compatible HP Printer Drivers for Seamless Printing</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-updated-drivers-for-hp-officejet-4500-to-enhance-your-printer-performance/"><u>Download Updated Drivers for HP Officejet 4500 to Enhance Your Printer Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-updated-hp-scanjet-drivers-compatible-with-windows-11-8-and-7/"><u>Download Updated HP Scanjet Drivers Compatible with Windows 11, 8 and 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722974078070-easy-access-to-up-to-date-kodak-printer-drivers-download-now/"><u>Easy Access to Up-to-Date Kodak Printer Drivers – Download Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722976077682-efficient-printing-with-the-new-hp-laserjet-p1006-driver-software-free-download-available-now/"><u>Efficient Printing with the New HP LaserJet P1006 Driver Software - Free Download Available Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-updates-for-your-hp-deskjet-ink-advantage-prise-2540-secure-driver-downloads-here/"><u>Effortless Updates for Your HP Deskjet Ink Advantage Prise 2540 - Secure Driver Downloads Here!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/essential-techniques-for-quick-and-reliable-recording-of-online-classes-for-2024/"><u>Essential Techniques for Quick and Reliable Recording of Online Classes for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-tips-for-diagnosing-and-mending-driver-errors-on-your-hp-monitor-across-multiple-windows-editions/"><u>Expert Tips for Diagnosing and Mending Driver Errors on Your HP Monitor Across Multiple Windows Editions</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/facebooks-aplus-covers-ranking-the-best-photo-making-websites/"><u>Facebook's A+ Covers  Ranking the Best Photo Making Websites</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/views-to-valuables-the-ultimate-video-income-play-for-2024/"><u>From Views to Valuables  The Ultimate Video Income Play for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-hp-scanjet-drivers-now-fully-supported-on-windows-11-8-and-7/"><u>Get the Latest HP Scanjet Drivers Now! Fully Supported on Windows 11, 8 & 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-up-and-running-with-pioneer-dj-ddj-sx2-streamlined-driver-download-process/"><u>Get Up & Running with Pioneer DJ DDJ-SX2: Streamlined Driver Download Process</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-ricoh-mp-c3003-printing-solutions-driver-downloads-available-now/"><u>Get Your Ricoh MP C3003 Printing Solutions - Driver Downloads Available Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722976268154-get-your-steelseries-game-controllers-upgraded-windows-10-compatible-driver-pack-available-now/"><u>Get Your SteelSeries Game Controllers Upgraded: Windows 10 Compatible Driver Pack Available Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/guide-updating-the-driver-for-your-computers-usb-serial-connection-interface/"><u>Guide: Updating the Driver for Your Computer's USB Serial Connection Interface</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-effortlessly-download-the-official-driver-for-your-intel-dual-band-ac-7260-card/"><u>How To Effortlessly Download The Official Driver For Your Intel Dual Band AC 7260 Card</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-the-latest-amd-radeon-hd-graphics-card-drivers-for-windows-seven-users/"><u>How to Get the Latest AMD Radeon HD Graphics Card Drivers for Windows Seven Users</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-on-apple-iphone-6s-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock on Apple iPhone 6s</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-xiaomi-redmi-note-12-pro-4g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Xiaomi Redmi Note 12 Pro 4G Phones with/without a PC</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-merge-mov-files-for-free-5-best-options/"><u>In 2024, Merge MOV Files for Free 5 Best Options</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-rising-tides-of-streamers-a-guide-to-building-a-successful-chatter/"><u>In 2024, Rising Tides of Streamers  A Guide to Building a Successful Chatter</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-guide-to-7-superior-vids-on-mac/"><u>In 2024, Ultimate Guide to 7 Superior Vids on Mac</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-updated-gigabyte-z370-precise-motherboard-drivers-for-optimal-performance/"><u>Install Updated Gigabyte Z370 Precise Motherboard Drivers for Optimal Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intel-ax200-wi-fi-6-card-updated-drivers-available-for-download-on-win11win10/"><u>Intel AX200 Wi-Fi 6 Card: Updated Drivers Available for Download on Win11/Win10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/keep-your-canon-mx490-running-smoothly-with-the-newest-windows-compatible-drivers-heres-how/"><u>Keep Your Canon MX490 Running Smoothly with the Newest Windows-Compatible Drivers - Here's How!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/logitech-driver-update-made-simple-fast-downloads-and-compatible-with-windows-os/"><u>Logitech Driver Update Made Simple - Fast Downloads & Compatible with Windows OS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/master-the-insights-the-complete-openai-overview/"><u>Master the Insights: The Complete OpenAI Overview</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/olympic-ice-sprints-the-best-of-short-track-skating-for-2024/"><u>Olympic Ice Sprints  The Best of Short-Track Skating for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/perfect-your-game-with-these-top-7-stardew-valley-modifications/"><u>Perfect Your Game with These Top 7 Stardew Valley Modifications</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-captivating-content-learn-with-our-youtube-shorts-guide/"><u>Quick, Captivating Content? Learn with Our YouTube Shorts Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/rtx-2060-super-graphics-card-drivers-for-windows-11-free-download/"><u>RTX 2060 Super Graphics Card Drivers for Windows 11 – Free Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/simple-steps-for-installing-easycap-drivers-begin-now/"><u>Simple Steps for Installing EasyCap Drivers - Begin Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/simple-steps-install-and-update-your-asus-bluetooth-drivers-with-our-guide/"><u>Simple Steps: Install and Update Your ASUS Bluetooth Drivers with Our Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/solution-steps-for-when-windows-fails-to-identify-your-tl-wn7221-n-wifi-adapter/"><u>Solution Steps for When Windows Fails to Identify Your TL-WN722^1 N WiFi Adapter</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/solution-the-first-step-is-to-obtain-cultures-from-the-infected-site-and-send-them-for-antibiotic-sensitivity-testing-before-initiating-treatment-this-will-288/"><u>Solution: The First Step Is to Obtain Cultures From the Infected Site and Send Them for Antibiotic Sensitivity Testing Before Initiating Treatment. This Will Guide Targeted Therapy Based on the Specific Resistance Patterns of the Bacteria Present</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/steal-the-show-top-steelseries-drivers-and-settings-for-windows-11-get-it-here/"><u>Steal the Show: Top SteelSeries Drivers & Settings for Windows 11 - Get It Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-fix-dealing-with-realtek-wifi-driver-issues-on-windows-operating-systems/"><u>Step-by-Step Fix: Dealing with RealTek WiFi Driver Issues on Windows Operating Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/steps-to-install-toshiba-printing-software-on-windows-pc/"><u>Steps to Install Toshiba Printing Software on Windows PC</u></a></li>
+<li><a href="https://driver-install.techidaily.com/system-conflict-diagnostics/"><u>System Conflict Diagnostics</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-13-true-crime-podcasts-that-will-keep-you-hooked-all-day-long/"><u>Top 13 True Crime Podcasts That Will Keep You Hooked All Day Long</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-6-strategies-for-leveraging-chatgpt-in-your-freelance-endeavors/"><u>Top 6 Strategies for Leveraging ChatGPT in Your Freelance Endeavors</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshoot-and-update-printing-devices-on-windows-11-missing-driver-solutions/"><u>Troubleshoot & Update Printing Devices on Windows 11 – Missing Driver Solutions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-hp-screen-driver-errors-for-windows-operating-systems-win-11-win-8-win-7/"><u>Troubleshooting HP Screen Driver Errors for Windows Operating Systems (Win 11 / Win 8 / Win 7)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlock-professional-sound-with-free-behringer-driver-software/"><u>Unlock Professional Sound with Free Behringer Driver Software!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-epson-xp-420-printer-with-new-drivers-heres-how/"><u>Update Your Epson XP 420 Printer with New Drivers – Here's How!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrade-to-the-most-recent-tp-link-80211ac-wifi-driver-compatible-with-windows-versions-1187/"><u>Upgrade to the Most Recent TP-Link 802.11Ac WiFi Driver - Compatible with Windows Versions 11/8/7</u></a></li>
+<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-tecno-phantom-v-flip-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Tecno Phantom V Flip</u></a></li>
+</ul></div>
