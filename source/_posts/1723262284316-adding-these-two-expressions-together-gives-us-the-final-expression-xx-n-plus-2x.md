@@ -1,0 +1,95 @@
+---
+title: "Adding These Two Expressions Together Gives Us the Final Expression: \\( X(x - N) + 2X \\)"
+date: 2024-08-26T08:03:18.081Z
+updated: 2024-08-27T08:03:18.082Z
+tags:
+  - cpu
+categories:
+  - hardware
+thumbnail: https://thmb.techidaily.com/05fdbf7e0ba6723060a8e38727f66904571eb715bf9889d14555bc1e8e657248.jpg
+---
+
+## Chinese Innovation Shines with the Release of Cixin P1 Chip - Arm-Powered, 6Nm Design and Impressive Ebytes/Sec Performance
+
+With AI PC hype at a fever pitch, chip vendors Intel, AMD, and Qualcomm are engaged in a fierce dogfight. Meanwhile, relative newcomer Cixin Technology hopes to offer China a domestic alternative for AI performance with the Cixin P1, a brand-new SoC for[AI PCs](https://www.tomshardware.com/laptops/what-is-an-ai-pc) .
+
+ The Cixin P1, announced yesterday in a press conference, is an Arm processor built on the 6nm process, with a 12-core CPU at 3.2 GHz, 10-core integrated graphics, and an NPU capable of 30 TOPS — which pushes the entire package to a total of 45 TOPS. The CPU is built on the[Armv9.2-A architecture](https://www.arm.com/architecture/cpu/a-profile) and runs a configuration of 8 performance cores and 4 efficiency cores. Little info about the chip has made it out of China, so we're relying heavily on coverage from the[Electronic Engineering Times China](https://www.eet-china.com/news/202407318414.html) .
+
+ Cixin declined to share specifics on the CPU, GPU, or NPU used in the P1 SOC. Based on the specs it did share, and ARM's presence as a guest at the launch event, it is highly likely that Cixin is licensing Arm's CPU and GPU designs. The Cortex-A or Cortex-X series are RISC processors designed by Arm; the onboard CPU is likely a new variant of these.
+
+ The GPU is an[Arm Immortalis GPU](https://www.tomshardware.com/news/arm-immortalis-gpu-features-hardware-ray-tracing) . Speculation suggests that the specific GPU used is the Immortalis-G720 — Arm's 5th-gen mobile GPU, designed for mobile gaming and AI performance. The NPU likely comes from a partner other than Arm, since Arm's largest licensable NPU only scales up to 10 TOPS.
+
+ LATEST VIDEOS FROM tomshardware Tom's Hardware
+
+ The Cixin P1 has a modern slate of features, including support for LPDDR5-6400 memory and 16x PCIe 4.0 expansion for dedicated GPUs/AI accelerators, and it can output at up to 4K 120FPS. The P1 was built to be a chameleon of a processor, developed under a strategy of "one chip for many uses". This applies to its firmware, which is uniquely compatible with Windows, Android, Kirin, Tongxin, and a host of other operating systems, foreign and domestic.
+
+ "One chip for many uses" was also the guiding light in determining Cixin P1's use cases. "[Notebooks](https://www.tomshardware.com/tag/notebooks) , mini PCs, all-in-one computers, desktops, home entertainment consoles,[enterprise](https://www.tomshardware.com/tag/enterprise) edge hosts, etc.," were cited as potential uses for the P1, and launch attendees saw the processor power notebooks and desktops. They also saw the many uses in person, as the company had[benchmarks](https://www.tomshardware.com/tag/benchmark) like 3DMark06 and the popular video game Genshin Impact running on the floor, along with other productivity and AI LLM demos. No numbers, such as benchmark results or Genshin's frames per second, were shown — though reporters qualitatively describe demos as running smoothly.
+
+ The Cixin P1 is a very unique processor. While it does not fulfill Beijing's goals of being a fully home-grown processor because it uses Arm CPU and GPU designs, the chip is specifically designed for the needs of the Chinese market and stands ready to enjoy some level of success. It also sadly does not meet[Microsoft](https://www.tomshardware.com/tag/microsoft) 's arbitrary "AI PC" requirements. The P1's NPU on its own is only 30 TOPS — shy of the 40 TOPS target — though it's likely that Cixin could not care less about Windows Copilot+ certification.
+
+## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
+
+ Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
+
+ Contact me with news and offers from other Future brands  Receive email from us on behalf of our trusted partners or sponsors
+
+ By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
+
+ Cixin is a very young company, first established in 2021, that has been growing thanks to investments from 15-20 public and private investment partners listed on its website. This freshness to the Chinese tech scene may limit widespread adoption early on, so we'll have to wait and see if Cixin manages to succeed in the huge, hungry tech market seeking[separation from U.S. interference](https://www.tomshardware.com/tech-industry/manufacturing/china-commerce-minister-frustrated-by-us-interfering-in-international-lithography-exports-via-third-countries) .
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-prime-approaches-to-chronicle-lol-clashes/"><u>[New] In 2024, Prime Approaches to Chronicle LOL Clashes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-vlogging-techniques-for-stellar-gopro-content/"><u>[New] Top Vlogging Techniques for Stellar GoPro Content</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-windows-11-gamers-guide-to-stunning-game-recordings-for-2024/"><u>[Updated] Windows 11 Gamers' Guide to Stunning Game Recordings for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/computex-2024-leak-reveals-asus-rog-ally-and-qualcomm-equipped-notebooks-new-graphics-cards-missing-from-the-list/"><u>Computex 2024 Leak Reveals ASUS ROG Ally and Qualcomm-Equipped Notebooks — New Graphics Cards Missing From the List</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/crafting-efficiency-uncover-the-secrets-behind-lenovo-yoga-pro-9is-sleek-keyboard-and-design/"><u>Crafting Efficiency: Uncover the Secrets Behind Lenovo Yoga Pro 9I's Sleek Keyboard and Design</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-analysis-on-gadgets-by-toms-electronics-hub/"><u>Expert Analysis on Gadgets by Tom's Electronics Hub</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-hardware-critiques-with-tom-navigating-todays-technology-landscape/"><u>Expert Hardware Critiques with Tom: Navigating Today's Technology Landscape</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-insights-from-toms-electronics-hub-the-authority-on-modern-devices/"><u>Expert Insights From Tom's Electronics Hub: The Authority on Modern Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-insights-on-new-hardware-from-toms-computing-hub/"><u>Expert Insights on New Hardware From Tom's Computing Hub</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-gadgets-with-tom-in-depth-technology-analysis/"><u>Exploring Gadgets with Tom: In-Depth Technology Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-the-latest-in-computer-components-with-toms-tech-reviews/"><u>Exploring the Latest in Computer Components with Tom's Tech Reviews</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-toms-hardware-top-tech-reviews-and-insights/"><u>Exploring Tom's Hardware: Top Tech Reviews & Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-hands-on-the-high-end-dell-g16-gaming-laptop-for-only-949-limited-time-offer/"><u>Get Your Hands on the High-End Dell G16 Gaming Laptop for Only $949 - Limited Time Offer!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hardwarehub-highlights-cutting-edge-devices-analyzed-for-your-tech-needs/"><u>HardwareHub Highlights: Cutting-Edge Devices Analyzed for Your Tech Needs</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-motorola-edge-2023withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Motorola Edge 2023with/without a PC</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-exclusive-the-leading-five-fb-videos/"><u>In 2024, Exclusive  The Leading Five FB Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-use-picture-in-picture-mode-on-youtube-ios/"><u>In 2024, How to Use Picture-In-Picture Mode on YouTube (iOS)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-vehicular-vitality-ranking-10-top-turbo-mods-for-os-x-and-windows/"><u>In 2024, Vehicular Vitality  Ranking 10 Top Turbo Mods for OS X and Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-analysis-of-the-lenovo-yoga-pro-9is-ergonomic-design-and-keyboard-comfort/"><u>In-Depth Analysis of the Lenovo Yoga Pro 9I's Ergonomic Design & Keyboard Comfort</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-analysis-alienware-m18-r2-gaming-laptop-the-ultimate-battle-station/"><u>In-Depth Analysis: Alienware M18 R2 Gaming Laptop - The Ultimate Battle Station</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-evaluations-of-tech-ware-unbiased-insight-from-toms-engineering-experience/"><u>In-Depth Evaluations of Tech Ware: Unbiased Insight From Tom's Engineering Experience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/introducing-lenovos-trailblazing-thinkpad-p1-gen-7-the-ultimate-innovation-with-cutting-edge-lpcmam2-memory-for-enhanced-efficiency/"><u>Introducing Lenovo's Trailblazing ThinkPad P1 Gen 7: The Ultimate Innovation with Cutting-Edge Lpcmam2 Memory for Enhanced Efficiency</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/investigating-competitors-to-manycam-better-choices-in-2024/"><u>Investigating Competitors to ManyCam  Better Choices, In 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-11-pro-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 11 Pro</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-gadgets-and-components-a-journey-through-toms-hardware/"><u>Mastering Gadgets & Components - A Journey Through Tom's Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-hardware-choices-with-toms-authoritative-reviews/"><u>Mastering Hardware Choices with Tom's Authoritative Reviews</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/meet-the-gaming-champion-tuxedo-sirius-16-gen2-with-amd-and-linux-ultimate-gaming-laptop-featuring-a-crystal-clear-ips-panel-from-just-1699/"><u>Meet the Gaming Champion: Tuxedo Sirius 16 Gen2 with AMD & Linux – Ultimate Gaming Laptop Featuring a Crystal-Clear IPS Panel From Just €1699</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/microsofts-ai-revolution-with-copilotplus-makes-traditional-ai-pcs-obsolete-what-to-know-if-you-bought-a-2024-laptop/"><u>Microsoft's AI Revolution with Copilot+ Makes Traditional AI PCs Obsolete - What to Know if You Bought a 2024 Laptop</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigate-the-world-of-gadgets-and-pc-parts-with-toms-advice/"><u>Navigate the World of Gadgets and PC Parts with Tom’s Advice</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigate-the-world-of-pcs-with-authoritative-guides-by-toms-hardware/"><u>Navigate the World of PCs with Authoritative Guides by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-the-market-with-toms-hardware-advice/"><u>Navigating the Market with Tom's Hardware Advice</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-comprehensive-guides-and-reviews/"><u>Tom's Tech Insights: Comprehensive Guides and Reviews</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-uses-for-tailored-chatgpt-guidance/"><u>Top 5 Uses for Tailored ChatGPT Guidance</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
