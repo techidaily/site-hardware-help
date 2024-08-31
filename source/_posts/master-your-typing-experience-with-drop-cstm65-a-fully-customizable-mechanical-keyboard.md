@@ -1,7 +1,7 @@
 ---
 title: Master Your Typing Experience with Drop CSTM65 - A Fully Customizable Mechanical Keyboard
-date: 2024-08-28 18:21:21
-updated: 2024-08-29 10:26:51
+date: 2024-08-30T15:45:15.086Z
+updated: 2024-08-31T15:45:15.086Z
 tags:
   - hardware
 categories:
@@ -111,10 +111,16 @@ Jerome Thomas / How-To Geek
 
  I don't mind that Drop etched the key legends into the front edges of the keycaps, instead of the tops. That might throw you for a session or two, but it shouldn't be a big deal in the long term.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ##  Customization: Swap Away
 
 ![Side view of the drop CSTM65 keyboard with a custom cover attached](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/side-view-of-the-drop-cstm65-keyboard-with-a-custom-cover-attachedjpg_53518383577_o-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The CSTM65's claim to fame is that it has loads of customization options. Among those, the swappable top case is one of the more interesting ones. All it takes is unplugging the cable from the CSTM65 and lifting the top case off. The built-in magnets mean no fuss. Popping a new plate on is just as easy.
@@ -125,6 +131,9 @@ Jerome Thomas / How-To Geek
 
  I like that you can choose your own weight and that it's visible when you flip the keyboard over. Yes, most people will never see your shiny keyboard weight, but I think it's a nice touch on a board like the CSTM65\. It ships with a 3.9oz weight, which is heavy enough to keep the keyboard in place under normal circumstances. If you tend to get a little aggressive while gaming and want to make sure the CSTM65 isn't going anywhere, you can choose from CNC-machined brass (12.97oz) and stainless steel (11.96oz) weights. When it comes to the steel weights, you have a few color options, including a slick chroma color weight.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Software: Customization for Keys, Not Lighting
 
 ![CSTM65 backlit with front-key markings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-keyboard-backlit-showing-front-facing-key-markingsjpg_53519440588_o-1.jpg) 
@@ -141,6 +150,9 @@ Jerome Thomas / How-To Geek
 
 ![Drop CSTM65 with keycaps removed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-drop-cstm65-with-keycaps-removedjpg_53519273826_o-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The [Drop CSTM65](https://drop.com/buy/drop-cstm65-mechanical-keyboard?defaultSelectionIds=983765) mechanical keyboard is a solid choice, regardless of whether you want to customize it. If you are creating a particular color scheme in your office, there's a lot to like about the keyboard's customization options. The barebones CSTM65 starts at $79 and the website lets you "build" it with the colors and parts you prefer. If you want the complete keyboard, you're looking at $129.
@@ -149,8 +161,14 @@ Jerome Thomas / How-To Geek
 
 ![Drop keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/cleanshot-2024-04-22-at-09-27-17-2x.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 #####  Drop CSTM65 Mechanical Keyboard
 
 8/ 10 
@@ -173,3 +191,53 @@ The CSTM65 is a compact enthusiast desktop centerpiece made for game-changing cu
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-amplifying-instagram-video-reach-and-traffic/"><u>[New] 2024 Approved  Amplifying Instagram Video Reach & Traffic</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-weaving-digital-tapestries-with-loom/"><u>[New] 2024 Approved  Weaving Digital Tapestries with Loom</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-a-journey-from-prose-to-picture-play/"><u>[New] A Journey From Prose to Picture Play</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-from-stream-to-file-vimeo-hd-to-mp4-methods/"><u>[New] From Stream to File  Vimeo HD to MP4 Methods</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-how-to-fade-in-and-fade-out-video-clips/"><u>[New] How to Fade-In and Fade-Out Video Clips</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-seeking-freedom-with-videos-which-plays-better-vlc-or-mpc/"><u>[New] Seeking Freedom with Videos  Which Plays Better, VLC or MPC?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-final-cut-pro-demystified-a-complete-primer/"><u>[Updated] 2024 Approved  Final Cut Pro Demystified  A Complete Primer</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-decode-instagram-visibility-whos-glancing-at-yours/"><u>[Updated] Decode Instagram Visibility  Who's Glancing at Yours?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-selecting-holy-songs-for-ringtone-amplification/"><u>[Updated] Selecting Holy Songs for Ringtone Amplification</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-ultimate-audio-capture-on-screen/"><u>[Updated] Ultimate Audio Capture on Screen</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-selective-sights-best-macos-sierra-video-editors/"><u>2024 Approved  Selective Sights  Best macOS Sierra Video Editors</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comparative-analysis-aws-graviton4-surpasses-intel-and-amd-in-benchmarks-high-speed-computing-meets-cost-efficiency/"><u>Comparative Analysis: AWS Graviton4 Surpasses Intel & AMD in Benchmarks – High-Speed Computing Meets Cost Efficiency</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-silent-scenes-audio-fade-techniques-in-adobe-premiere-pro-for-2024/"><u>Crafting Silent Scenes  Audio Fade Techniques in Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-top-tier-pc-components-with-guidance-from-toms-hardware-experts/"><u>Discover Top-Tier PC Components with Guidance From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-amd-ryzen-5-2600-gpu-drivers-fastest-way-forward/"><u>Download AMD Ryzen 5 2600 GPU Drivers - Fastest Way Forward</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-bcm20702a0-windows-drivers-in-minutes-easy-steps-inside/"><u>Download and Install BCM20702A0 Windows Drivers in Minutes - Easy Steps Inside</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-focusrites-scarlett-solo-driver-on-windows-without-spending-a-penny/"><u>Download Focusrite's Scarlett Solo Driver on Windows Without Spending a Penny</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-hp-deskjet-ink-advantage-3830-printer-drivers-for-windows-11-10-8-and-7/"><u>Download HP Deskjet Ink Advantage 3830 Printer Drivers for Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-latest-epson-wf-3720-printer-drivers-and-updates/"><u>Download the Latest Epson WF-3720 Printer Drivers and Updates</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/epyc-9755-turin-amds-record-breaking-128-core-processor-dominates-multi-threaded-benchmarks-with-over-108k-cpu-z-score/"><u>Epyc 9755 Turin: AMD's Record-Breaking 128-Core Processor Dominates Multi-Threaded Benchmarks with Over 108K CPU-Z Score</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-steelseries-mouse-software-free-download/"><u>Get the Latest SteelSeries Mouse Software - Free Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/guide-to-set-up-your-logitech-g29-wheel-driver-software-for-microsoft-os-windows-7810/"><u>Guide To Set Up Your Logitech G29 Wheel: Driver Software For Microsoft OS (Windows 7/8/10)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-elitebook-8460p-driver-download-and-update-for-windows-solved/"><u>HP Elitebook 8460P Driver Download & Update for Windows [SOLVED]</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-best-practices-for-saving-screen-and-webcam-chats/"><u>In 2024, Best Practices for Saving Screen and Webcam Chats</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-connect-through-the-cosmos-posting-panoramic-pictures-via-mobile-apps/"><u>In 2024, Connect Through the Cosmos  Posting Panoramic Pictures via Mobile Apps</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-infographic-guide-effective-video-promotion-tools/"><u>In 2024, Infographic Guide  Effective Video Promotion Tools</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-steering-clear-of-the-8-most-frequent-pitfalls-for-first-time-youtubers/"><u>In 2024, Steering Clear of the 8 Most Frequent Pitfalls for First-Time YouTubers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-top-10-journeys-from-around-the-world-on-youtube/"><u>In 2024, Top 10 Journeys From Around the World, on Youtube</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/insider-information-exposes-continued-stability-struggles-in-intel-processors-more-than-just-elevated-voltage-risks/"><u>Insider Information Exposes Continued Stability Struggles in Intel Processors — More than Just Elevated Voltage Risks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/joyful-sign-uplogout-flowchart-for-2024/"><u>Joyful Sign-Up/Logout Flowchart for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-compatible-dell-networking-drivers-for-windows-7-users/"><u>Latest Compatible Dell Networking Drivers for Windows 7 Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-hp-printer-software-and-firmware-for-windows-operating-systems-10-and-11/"><u>Latest HP Printer Software and Firmware for Windows Operating Systems (10 & 11)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-intel-usb-30-drivers-for-windows-10-quick-download-guide-and-installation-steps/"><u>Latest Intel USB 3.0 Drivers for Windows 10: Quick Download Guide & Installation Steps</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-steelseries-controller-driver-update-how-to-get-started-with-windows-devices/"><u>Latest SteelSeries Controller Driver Update: How to Get Started with Windows Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/maroon-5-their-modern-pop-rock-sound-has-many-feel-good-songs-such-as-sunday-morning-and-the-classic-this-love/"><u>Maroon 5 – Their Modern Pop-Rock Sound Has Many Feel-Good Songs Such as Sunday Morning and the Classic This Love.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-technology-the-toms-hardware-guidebook/"><u>Mastering Technology: The Tom's Hardware Guidebook</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-the-latest-in-computing-with-toms-technology-hub/"><u>Navigating the Latest in Computing with Tom's Technology Hub</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/progress-in-semiconductor-technology-intels-panther-lake-and-clearwater-forests-reach-boot-stage-as-next-gen-lithography-approaches/"><u>Progress in Semiconductor Technology: Intel's Panther Lake & Clearwater Forests Reach Boot Stage as Next-Gen Lithography Approaches</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-tecno-camon-20-premier-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Tecno Camon 20 Premier 5G Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/seagate-backup-plus-mastery-essential-tips-and-tricks-to-enhance-usage/"><u>Seagate Backup Plus Mastery: Essential Tips & Tricks to Enhance Usage</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/streamlined-setup-getting-started-with-your-acer-predator-xb27u-drivers/"><u>Streamlined Setup: Getting Started with Your Acer Predator XB27U Drivers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-role-of-look-up-tables-in-cinematic-coloring-for-2024/"><u>The Role of Look-Up Tables in Cinematic Coloring for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/transform-your-computing-experience-geekoms-mini-pc-ax8-arrives-with-support-for-intels-latest-and-amdcu-ryzen-processor-range/"><u>Transform Your Computing Experience: GeekOm's Mini PC AX8 Arrives with Support for Intel's Latest and AMD'cu Ryzen Processor Range</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-intels-new-chip-battlemage-eco-friendly-power-consumption-at-100w-less-than-ice-lake-generation-and-robust-overclocking-in-light-of-latest-raptor-43/"><u>Unveiling Intel's New Chip - Battlemage, Eco-Friendly Power Consumption at 100W Less Than Ice Lake Generation and Robust Overclocking in Light of Latest Raptor Lake Updates</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/updated-software-compatible-with-canon-pixma-mx922-on-your-window-machine/"><u>Updated Software: Compatible with Canon PIXMA MX922 on Your Window Machine</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrade-to-the-newest-human-interface-device-mouse-firmware/"><u>Upgrade to the Newest Human Interface Device Mouse Firmware</u></a></li>
+</ul></div>

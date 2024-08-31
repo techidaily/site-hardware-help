@@ -1,7 +1,7 @@
 ---
 title: "Enduring Legacy of the 90S: The Classic Techs We Still Rely On Today"
-date: 2024-08-28 17:50:22
-updated: 2024-08-29 11:36:45
+date: 2024-08-30T15:43:15.348Z
+updated: 2024-08-31T15:43:15.348Z
 tags:
   - hardware
 categories:
@@ -34,6 +34,18 @@ thumbnail: https://thmb.techidaily.com/7d102d0691badd35a594ab43f1d9c5d7fc8e7e61f
 
  Nearly 30 years later, Google Search is the [most-visited website](https://en.wikipedia.org/wiki/List%5Fof%5Fmost-visited%5Fwebsites) in the entire world, and Google has a huge library of apps, services, and devices.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Photoshop
 
 ![First PhotoShop home screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/photoshop-source-code-screen-main.jpg) 
@@ -50,6 +62,9 @@ thumbnail: https://thmb.techidaily.com/7d102d0691badd35a594ab43f1d9c5d7fc8e7e61f
 
 ![The back of a DVD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/53105419298_fa3a77cbd4_c.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek  
   
  I know what you're thinking—we don't still use DVDs in 2024, do we? [Oh yes, yes, we do](https://extra-lessons.techidaily.com/instantaneous-infiltration-of-lost-reddit-threads/). In fact, DVD sales have been steadily climbing over the last few years, and DVDs absolutely crush Blu-ray sales. It all started in the '90s.
@@ -58,6 +73,9 @@ Hannah Stryker / How-To Geek
 
  DVDs remain massively popular today due to their low cost and the fact that the picture quality is still "good enough" for many people. [In 2018](https://www.reddit.com/r/4kbluray/comments/pu6o6e/this%5Fabsolutely%5Fbaffling%5Fsales%5Fchart%5Fcredit%5Fto/), DVDs made up around 52% of sales, while Blu-ray accounted for around 47%. Fast-forward three years, and DVDs shot up to 72%, pushing Blu-ray down to 29%. This 90s tech seems to be here to stay.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Text Messaging
 
 ![Android phone with text messages on screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Android-Text-Messages.jpg) 
@@ -70,6 +88,9 @@ Justin Duino / How-To Geek
 
  Nowadays, the popularity of SMS varies greatly by region, but text-based messaging is popular everywhere. In the U.S., most people are using iMessage or SMS, while many other countries rely on WhatsApp, WeChat, and Telegram.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Sony Playstation
 
 ![Original PlayStation and controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/shutterstock_2062560902.jpg) 
@@ -84,12 +105,18 @@ Justin Duino / How-To Geek
 
 ![The Bluetooth logo on a blue background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/bluetooth_hero_5.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Wireless technology is something most people use on a daily basis without thinking twice about it. Bluetooth is one of the most commonly used, and it was invented in 1994.
 
 [Bluetooth technology was invented in 1994](https://article-posts.techidaily.com/2024-approved-insta-to-tik-integration-masterclass/) by a team of engineers at Ericsson, led by Dr. Jaap Haartsen. The invention was driven by the need for a wireless communication protocol that could connect mobile phones with computers, headsets, and other accessories over short distances without the constraints of wired connections.
 
  Nowadays, Bluetooth is baked into more devices than you can imagine. Smartphones, smartwatches, headphones, light bulbs, plugs, switches, coffee makers, thermometers, thermostats, door locks, and more, and more, and more. Needless to say, it's been a hit.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ##  Smartphones
 
 ![IBM Simon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/ibm-simon.png) 
@@ -106,6 +133,9 @@ Justin Duino / How-To Geek
 
 ![2018-08-06_14h28_57](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/2018-08-06_14h28_57.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
  MP3 Players have come and gone, but [MP3 files](https://instagram-video-recordings.techidaily.com/updated-in-2024-turning-insta-vids-into-music-your-complete-guide/) have stood the test of time. If you're dealing with an audio file on your computer or mobile device, there's a good chance it's an MP3\. The MP3 format was first released in 1991.
 
  The development of MP3 was crucial for the distribution of music over the internet during the mid-to-late 90s, when bandwidth and storage were still at a premium. The format’s ability to compress audio files without a significant loss in quality led to its widespread adoption (and controversies surrounding music piracy, thanks to how easy it is to share MP3 files over the internet).
@@ -130,3 +160,45 @@ Justin Duino / How-To Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-capture-kings-warzone/"><u>[New] 2024 Approved  Capture Kings Warzone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-5-masterful-fluid-interaction-titles/"><u>[New] 5 Masterful Fluid Interaction Titles</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-premier-plugins-for-dynamic-type-design-in-ae/"><u>[New] Premier Plugins for Dynamic Type Design in AE</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-excellent-replacements-to-top-rated-fbx-recorder-apps-for-2024/"><u>[Updated] Excellent Replacements to Top-Rated FBX Recorder Apps for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-quick-methods-saving-your-google-voice-dialogues/"><u>[Updated] Quick Methods  Saving Your Google Voice Dialogues</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-zte-blade-a73-5g-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On ZTE Blade A73 5G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/abbyy-seminar-navigating-post-pandemic-success-after-business-automation-amidst-covid-19/"><u>ABBYY Seminar: Navigating Post-Pandemic Success After Business Automation Amidst COVID-19</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-ryzen-9-cpu-family-face-off-on-cinebench-benchmark-analyzing-claimed-scores-for-9900x-9700x-and-9600x-models/"><u>AMD Ryzen 9 CPU Family Face-Off on Cinebench Benchmark: Analyzing Claimed Scores for 9900X, 9700X & 9600X Models</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-gathering-titles-top-16-seated-players-games-on-xbox/"><u>Best Gathering Titles: Top 16 Seated Players' Games on Xbox</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975255841-compatible-driving-force-racing-wheels-driver-software-for-windows-operating-systems-windows-7810-download-here/"><u>Compatible Driving Force Racing Wheels Driver Software for Windows Operating Systems (Windows 7/8/10) - Download Here!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-driver-update-instructions-for-the-lenovo-legion-5-pro-with-high-end-graphics/"><u>Complete Driver Update Instructions for the Lenovo Legion 5 Pro with High-End Graphics</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/detailed-description-of-the-chemical-products-offered-by-hahron-spice-including-spices-with-unique-chemical-properties-used-for-industrial-applications/"><u>Detailed Description of the Chemical Products Offered by HAHRON SPICE, Including Spices with Unique Chemical Properties Used for Industrial Applications</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-equipped-essential-drivers-for-epson-wf-7710-printers-on-various-windows-platforms-download-now/"><u>Get Equipped: Essential Drivers for Epson WF-7710 Printers on Various Windows Platforms (Download Now)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-corsair-void-pro-driver-software-simple-download-and-install-tutorial-for-windows-machines/"><u>Get the Corsair Void Pro Driver Software: Simple Download & Install Tutorial for Windows Machines</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-insignia-bluetooth-device-drivers-for-pcs-with-windows-os/"><u>Get the Latest Insignia Bluetooth Device Drivers for PCs with Windows OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722977529016-get-the-latest-windows-drivers-for-your-hp-spectre-x360-laptop-here/"><u>Get the Latest Windows Drivers for Your HP Spectre X360 Laptop Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-most-from-your-steelseries-arctis-5-with-official-drivers-free-downloads-inside/"><u>Get the Most From Your SteelSeries Arctis 5 with Official Drivers - Free Downloads Inside</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-lava-blaze-pro-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Lava Blaze Pro 5G Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-the-latest-asus-wireless-driver-for-your-laptop-or-desktop/"><u>How To Get the Latest ASUS Wireless Driver for Your Laptop or Desktop</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-the-newest-intel-graphics-drivers-compatible-with-windows-11/"><u>How to Get the Newest Intel Graphics Drivers Compatible with Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-successfully-download-the-latest-amd-vega-amodrive-support-software-for-your-windows-pc/"><u>How to Successfully Download the Latest AMD Vega amoDrive Support Software for Your Windows PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-securely-download-and-install-the-driver-for-your-hp-laserjet-pro-m402n-on-windows-1087/"><u>How To: Securely Download & Install the Driver for Your HP LaserJet Pro M402n on Windows 10/8/7</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-brisk-broadcasts-adjusting-keynote-film-rates/"><u>In 2024, Brisk Broadcasts  Adjusting Keynote Film Rates</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-elite-motion-effect-bundles/"><u>In 2024, Elite Motion Effect Bundles</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-perfected-framing-for-fb-videos-implement-letterbox-and-dark-frame/"><u>In 2024, Perfected Framing for FB Videos  Implement Letterbox & Dark Frame</u></a></li>
+<li><a href="https://driver-error.techidaily.com/inactive-backlight-on-asus-notebook/"><u>Inactive Backlight on Asus Notebook</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/insta-photo-carousel-magic/"><u>Insta-Photo Carousel Magic</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-official-dell-wi-fi-card-drivers-free-download/"><u>Install Official Dell Wi-Fi Card Drivers - Free Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intel-faces-legal-challenge-as-consumers-initiate-class-action-for-cpu-failures-and-instability/"><u>Intel Faces Legal Challenge as Consumers Initiate Class Action for CPU Failures and Instability</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-top-rated-mp4-video-property-editors/"><u>New In 2024, Top-Rated MP4 Video Property Editors</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/newly-released-windows-compatible-arduino-usb-device-drivers/"><u>Newly Released Windows-Compatible Arduino USB Device Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-easy-download-canons-official-windows-scanning-software-today-free/"><u>Quick and Easy: Download Canon's Official Windows Scanning Software Today, FREE!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-simple-guide-asus-touchpad-drivers-for-windows-11/"><u>Quick and Simple Guide: ASUS Touchpad Drivers for Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/snag-the-amd-ryzen-9000-for-less-unbeatable-offers-now-on-best-buy-compared-to-ryzen-n7000s-launch-costs/"><u>Snag the AMD Ryzen 9000 for Less: Unbeatable Offers Now on Best Buy Compared to Ryzen N7000's Launch Costs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-for-updating-your-wacom-intuos-driver-seamlessly/"><u>Step-by-Step Tutorial for Updating Your Wacom Intuos Driver Seamlessly</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/earners-guide-to-best-rated-history-yt-channels-1-10-for-2024/"><u>The Learner's Guide to Best-Rated History YT Channels #1-10 for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/the-professional-path-to-broadcasting-full-dome-content-on-fb-for-2024/"><u>The Professional Path to Broadcasting Full-Dome Content on FB for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-bypassing-icloud-activation-lock-on-iphone-se-2022-by-drfone-ios/"><u>The Ultimate Guide to Bypassing iCloud Activation Lock on iPhone SE (2022)</u></a></li>
+</ul></div>

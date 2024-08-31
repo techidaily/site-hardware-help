@@ -1,7 +1,7 @@
 ---
 title: "Ditch Frustration: Discover Open-Source Solutions - Streaming Seamlessly with Moonlight & Sunshine"
-date: 2024-08-27 14:26:57
-updated: 2024-08-29 11:12:20
+date: 2024-08-30T15:46:01.616Z
+updated: 2024-08-31T15:46:01.616Z
 tags:
   - hardware
 categories:
@@ -25,6 +25,9 @@ thumbnail: https://thmb.techidaily.com/c79523d5da758dd05891e015a6284b16ba6ad6e3e
 
  The two originally offered an open-source alternative to [NVIDIA’s GameStream](https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-c51-pin-codepattern-lockpassword-by-drfone-android/) streaming protocol. But since NVIDIA abandoned GameStream some time ago, the combo is now the best alternative to [Steam Remote Play](https://techno-recovery.techidaily.com/reviving-your-lenovo-laptop-the-compreh/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How Moonlight and Sunshine Are Better Than Steam Link
 
  Together, Moonlight and Sunshine excel at overall performance and customization. Not only is the open-source combo more stable than Steam Link and Steam Remote Play, but it also allows gamers to freely adjust streaming options such as resolution, frame rate, video quality, and more.
@@ -61,30 +64,48 @@ thumbnail: https://thmb.techidaily.com/c79523d5da758dd05891e015a6284b16ba6ad6e3e
 
 ![After you access Sunshine UI, go to the Configuration tab, find the Sunshine Name option and pick a name for the Sunshine process that will show in Moonlight](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/how-to-stream-to-your-steam-deck-19.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Visit the [Moonlight website](https://moonlight-stream.org/), scroll down until you reach the download section, and download the appropriate version.
 
  Next, install and launch Moonlight. You should be greeted by a locked PC icon bearing the name you’ve given to your PC in the Sunshine web UI. You will of course need to be on the same wireless network for this to work.
 
 ![Once you open Moonlight you should see a PC icon with a lock over it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/how-to-stream-to-your-steam-deck-09.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
  Click the locked PC icon, and Moonlight will provide you with the PIN you have to enter into the Sunshine web UI.
 
 ![After you click the locked PC icon in Moonlight, the app should serve you with a four-digit PIN](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/how-to-stream-to-your-steam-deck-10.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Open the Sunshine web UI, click the “PIN” tab, and enter the provided PIN. That’s it!
 
 ![After you acquire the four-digit PIN from Moonlight, open Sunshine web UI, go to the PIN tab, enter the PIN in the apropriate dialog box and then click the send button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/how-to-stream-to-your-steam-deck-20.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
  Now, you can add game and app shortcuts to Sunshine. The shortcuts you add will be shown in Moonlight once you click the PC icon.
 
  To add an app or game shortcut, visit the “Applications” tab in the Sunshine web UI and click the “Add New” button.
 
 ![Sunshine web UI Applications tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/sunshine-and-moonlight-03.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
  Make sure to name the app and enter the full path to the executable file of the app you want to add. Below is a screenshot showing the path to my Steam executable as an example.
 
 ![Sunshine web UI showing a full path to an application, Steam in this case.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/sunshine-and-moonlight-04.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Tips for Best Results
 
  The next step I recommend is visiting the [Sunshine Tutorials](https://www.youtube.com/playlist?list=PLMYr5%5FxSeuXAbhxYHz86hA1eCDugoxXY0) YouTube playlist. It has a ton of videos that explain how to tweak various settings and get the best possible streaming experience.
@@ -125,3 +146,72 @@ thumbnail: https://thmb.techidaily.com/c79523d5da758dd05891e015a6284b16ba6ad6e3e
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-from-phone-footage-to-channel-fame-a-seamless-setup-for-your-businesspersonal-brand/"><u>[New] 2024 Approved  From Phone Footage to Channel Fame  A Seamless Setup for Your Business/Personal Brand</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hero5-black-vs-yis-new-tech-action-cam-showdown-update/"><u>[New] Hero5 Black Vs. Yi's New Tech  Action Cam Showdown Update</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-ultimate-framework-perfecting-live-broadcasts-via-obs-and-zoom-for-2024/"><u>[New] The Ultimate Framework  Perfecting Live Broadcasts via OBS & Zoom for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-banner-bonanza-unlimited-50-free-youtube-designs-for-2024/"><u>[Updated] Banner Bonanza  Unlimited 50 FREE YouTube Designs for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-smart-video-tactics-for-small-enterprises-for-2024/"><u>[Updated] SMART Video Tactics for Small Enterprises for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pinnacle-wearable-cameras-in-adrenaline-world/"><u>2024 Approved  Pinnacle Wearable Cameras in Adrenaline World</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-unveiling-instagrams-videography-timeframe/"><u>2024 Approved  Unveiling Instagram's Videography Timeframe</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/2024-approved-top-12-best-meme-makers-online-for-free/"><u>2024 Approved Top 12 Best Meme Makers Online for FREE</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/a-comprehensive-guide-to-using-your-blink-outdoor-multi-wireless-cameras-effectively/"><u>A Comprehensive Guide to Using Your Blink Outdoor Multi-Wireless Cameras Effectively</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/acer-predator-helios-300-optimize-your-system-with-latest-graphics-driver-updates/"><u>Acer Predator Helios 300 - Optimize Your System With Latest Graphics Driver Updates</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/acer-ryzen-graphics-driver-download-free-and-latest-version/"><u>Acer Ryzen Graphics Driver Download - Free & Latest Version</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/advanced-technology-explained-trustworthy-reviews-from-toms-domain/"><u>Advanced Technology Explained: Trustworthy Reviews From Tom's Domain</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-ryzen-9000-discounted-shop-at-best-buy-for-lower-than-ryzen-70/"><u>AMD Ryzen 9000 Discounted: Shop at Best Buy for Lower-than-Ryzen 70</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/benchmark-dev-highlights-snapdragon-x-processor-success-holds-65-of-geekbench-6-outcomes-this-month/"><u>Benchmark Dev Highlights Snapdragon X Processor Success: Holds 6.5%% of Geekbench 6 Outcomes This Month</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/budget-conscious-buyers-bounty-seal-the-best-deals-for-todays-processors/"><u>Budget-Conscious Buyer's Bounty: Seal the Best Deals for Today's Processors</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/build-and-optimize-lessons-in-hardware-selection-from-toms-circuitry/"><u>Build and Optimize: Lessons in Hardware Selection From Tom's Circuitry</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-guide-how-to-get-and-install-epson-es-400-scanner-driver-on-windows-os/"><u>Complete Guide: How to Get and Install Epson ES-400 Scanner Driver on Windows OS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cookiebot-the-secret-ingredient-behind-advanced-analytics-and-personalization/"><u>Cookiebot: The Secret Ingredient Behind Advanced Analytics and Personalization</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/demystifying-how-on-device-ai-works-a-comprehensive-guide/"><u>Demystifying How On-Device AI Works: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/diy-lenovo-energy-management-driver-updates-quick-and-easy-methods/"><u>DIY Lenovo Energy Management Driver Updates - Quick and Easy Methods</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-updates-for-canon-lips-color-laser-printer-drivers-in-windows/"><u>Download and Install Updates for Canon LiPS Color Laser Printer Drivers in Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-your-canon-mp560-printer-drivers-fast-simple-steps/"><u>Download and Update Your Canon MP560 Printer Drivers - Fast, Simple Steps</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722974280358-download-update-logitech-m325-driver-easily/"><u>Download Update Logitech M325 Driver. Easily</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722962986888-downloading-the-latest-version-of-magicard-rio-pro-driver-now-supports-win10-8-and-7/"><u>Downloading the Latest Version of Magicard Rio Pro Driver – Now Supports Win10, 8 & 7!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-steps-to-successfully-download-and-setup-your-epson-xp-400-printer-driver/"><u>Easy Steps to Successfully Download and Setup Your Epson XP-400 Printer Driver</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ensure-smooth-printing-with-the-latest-epson-wf-swft-wnderz-epson-wf-7710-printer-drivers-for-all-windows-users/"><u>Ensure Smooth Printing with the Latest Epson WF-ˈswɪft Wʌndərz Epson WF-7710 Printer Drivers for All Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/essential-nvidia-quadro-driver-update-for-enhanced-windows-10-performance/"><u>Essential NVIDIA Quadro Driver Update for Enhanced Windows 10 Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-innovations-with-toms-gadget-reviews/"><u>Exploring Innovations with Tom's Gadget Reviews</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-pc-gear-with-toms-hardware-experts-your-guide-through-technology/"><u>Exploring PC Gear with Tom's Hardware Experts - Your Guide Through Technology</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722968598062-fast-fix-update-dell-g7-drivers-in-a-snap/"><u>Fast Fix: Update Dell G7 Drivers in a Snap!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-gigabyte-network-adapter-drivers-download-now/"><u>Free Gigabyte Network Adapter Drivers - Download Now</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-honor-70-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-nvidia-graphics-drivers-for-windows-11-simple-download-process/"><u>Get the Latest NVIDIA Graphics Drivers for Windows 11 - Simple Download Process!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-most-recent-driver-for-your-generic-bluetooth-adapter-on-windows-pcs-free-downloads/"><u>Get the Most Recent Driver for Your Generic Bluetooth Adapter on Windows PCs | Free Downloads</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-to-recover-your-data-after-the-ios-17-upgrade-immediate-solutions/"><u>How to Recover Your Data After the iOS 17 Upgrade: Immediate Solutions</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-infinix-note-30-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Infinix Note 30 to New Phone | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-m404n-laserjet-drivers-fresh-download-and-update-options/"><u>HP M404n LaserJet Drivers: Fresh Download & Update Options</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-itel-p55-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Itel P55</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Realme C67 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-asus-rog-phone-8-prowithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Asus ROG Phone 8 Prowith/without a PC</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-asus-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Asus Phone? Unlock It Now</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-popularitys-palette-ig-story-filter-guide/"><u>In 2024, Popularity's Palette  IG Story Filter Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-revolutionizing-your-digital-presence-through-strategic-social-media-mastery/"><u>In 2024, Revolutionizing Your Digital Presence Through Strategic Social Media Mastery</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Oppo Reno 9A? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722970672290-insignia-gaming-consoles-ultimate-toolkit-hdmi-to-lan-adapter-driver-for-xbox-available-now/"><u>Insignia Gaming Console's Ultimate Toolkit: HDMI to LAN Adapter Driver for Xbox - Available Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722961309247-install-up-to-date-pl2303-driver-software-on-your-pc-free-download/"><u>Install Up-to-Date PL2303 Driver Software on Your PC - Free Download!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intels-strategy-unveiled-triple-threat-panther-lake-processors-set-to-power-new-laptops-after-retiring-the-lunar-series/"><u>Intel’s Strategy Unveiled: Triple-Threat Panther Lake Processors Set to Power New Laptops After Retiring the Lunar Series</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/interacting-with-a-blended-world-the-essence-of-mixed-reality/"><u>Interacting with a Blended World  The Essence of Mixed Reality</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-geforce-rtx-2070-driver-download-for-windows-10-8-7/"><u>Latest Geforce RTX 2070 Driver Download for Windows 10, 8, 7</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722887814103-migrating-to-android-heres-how-you-can-still-access-imessage/"><u>Migrating to Android? Here's How You Can Still Access iMessage</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/migrating-your-memories-a-step-by-step-guide-to-moving-google-photos-to-icloud/"><u>Migrating Your Memories: A Step-by-Step Guide to Moving Google Photos to iCloud</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/non-state-actors-pose-a-unique-challenge-to-global-nuclear-security-governance-due-to-their-potential-to-acquire-illicit-nuclear-materials/"><u>Non-State Actors Pose a Unique Challenge to Global Nuclear Security Governance Due to Their Potential to Acquire Illicit Nuclear Materials</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/photoshops-secret-weapon-advanced-techniques-for-3d-lut-mastery-for-2024/"><u>Photoshop's Secret Weapon  Advanced Techniques for 3D Lut Mastery for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-guide-finding-and-updating-your-dell-speakers-driver-software/"><u>Quick Guide: Finding and Updating Your Dell Speakers' Driver Software</u></a></li>
+<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-poco-m6-pro-5g-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Poco M6 Pro 5G</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-kodis-directory-access-issue-steps-for-restoring-connections/"><u>Solving Kodi's Directory Access Issue: Steps for Restoring Connections</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-updating-and-downloading-latest-epson-printer-drivers-on-windows-11/"><u>Step-by-Step Guide: Updating and Downloading Latest Epson Printer Drivers on Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-updating-epson-xp-640-software-for-windows-users/"><u>Step-by-Step Guide: Updating Epson XP-640 Software for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722978589529-streamline-your-sounds-nahimics-latest-drivers-installed-in-a-flash/"><u>Streamline Your Sounds: Nahimic's Latest Drivers Installed in a Flash!</u></a></li>
+<li><a href="https://windows11.techidaily.com/swipe-to-learn-comparing-windows-10-ui-with-windows-11/"><u>Swipe to Learn: Comparing Windows 10 UI with Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-review-expert-insights-on-the-latest-gadgets/"><u>Tom's Tech Review: Expert Insights on the Latest Gadgets</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1722995655947-user-experience-insights-on-the-microsoft-sculpt-keyboard-an-incredible-deal/"><u>User Experience Insights on the Microsoft Sculpt Keyboard - An Incredible Deal!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/winning-the-battle-against-unrecognized-usb-gadgets-in-windows-10-practical-solutions-explored/"><u>Winning the Battle Against Unrecognized USB Gadgets in Windows 10: Practical Solutions Explored</u></a></li>
+</ul></div>

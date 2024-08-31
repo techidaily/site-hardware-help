@@ -1,7 +1,7 @@
 ---
 title: "1. Grab Prime Day Offers: Set Up Your Own Plex Media Streamer"
-date: 2024-08-28 18:48:55
-updated: 2024-08-29 12:16:17
+date: 2024-08-30T15:44:03.718Z
+updated: 2024-08-31T15:44:03.718Z
 tags:
   - hardware
 categories:
@@ -54,10 +54,16 @@ The TERRAMASTER F2-424 two-bay NAS can store a maximum 22TB of data Its N95 Quad
 
 [$380 at Amazon](https://amazon.com/dp/B0CXPBM2DF?tag=htgprimedaysite-20) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  The Best Server-Ready Hard Drive Deals
 
 ![A mechanical hard drive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/52974816639_7b4544fc8a_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Jordan Gloor / How-To Geek  
   
  A Plex media server requires a large amount of storage for movies and shows. Don't bother with overpriced SSDs, as their increased transfer rate is of no benefit in this particular circumstance. A simple 3.5-inch HDD is your best and most cost-effective option.
@@ -76,6 +82,9 @@ Jordan Gloor / How-To Geek
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/41r29akgr7l-_sl500_-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 #####  Seagate IronWolf 8TB NAS HDD
 
 $170 $179 Save $9 
@@ -84,10 +93,16 @@ Seagate's IronWolf HDD offers a durable, server-ready construction and includes 
 
 [$170 at Amazon](https://amazon.com/dp/B084ZV4DXB?tag=htgprimedaysite-20) [See at adorama](https://www.adorama.com/set8000vn004.html) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Deals on Useful Accessories
 
 ![A Netgear 5-port Network Switch with an Ethernet cable attached.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/c17243d1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 _Corbin Davenport / Review Geek_
 
  You probably won't _need_ any of these accessories when building a Plex media server. But they're useful, so I figured that they were worth highlighting.
@@ -102,6 +117,9 @@ _Corbin Davenport / Review Geek_
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/tp-link-switch-thumbnail.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  TP-Link TL-SG105 5-Port Gigabit Ethernet Switch
 
 Spread the speed of wired internet to more devices with this 5-port unmanaged Ethernet switch.
@@ -122,3 +140,52 @@ Spread the speed of wired internet to more devices with this 5-port unmanaged Et
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-convert-with-precision-10-leading-tools-from-flv-to-youtube-platforms/"><u>[New] 2024 Approved  Convert with Precision  10 Leading Tools From Flv to YouTube Platforms</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-explore-the-world-of-video-calls-hangouts-for-android-for-2024/"><u>[New] Explore the World of Video Calls  Hangouts for Android for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-prime-concepts-to-transform-vhs-imagery-on-computers/"><u>[New] In 2024, Prime Concepts to Transform VHS Imagery on Computers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-vidcache-101-step-by-step-on-saving-tweets-videos/"><u>[Updated] 2024 Approved  VidCache 101  Step-by-Step on Saving Tweets' Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-elite-edition-analysis-parrot-ar-drone-20/"><u>[Updated] Elite Edition Analysis - Parrot AR Drone 2.0</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expressive-faces-with-motion-blur-in-picsart/"><u>[Updated] Expressive Faces with Motion Blur in Picsart</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-snapquarter-testimony/"><u>[Updated] In 2024, SnapQuarter Testimony</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-no-glue-methods-for-spotless-video-creations-on-tiktok/"><u>[Updated] No-Glue Methods for Spotless Video Creations on TikTok</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-pinnacle-of-3d-entertainment-premium-blu-ray-decks-for-2024/"><u>[Updated] Pinnacle of 3D Entertainment  Premium Blu-Ray Decks for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-precision-and-playfulness-building-high-quality-gifs/"><u>[Updated] Precision and Playfulness  Building High-Quality GIFs</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-streamline-screen-capturing-in-todays-remote-meetings/"><u>[Updated] Streamline Screen Capturing in Today’s Remote Meetings</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-unleashing-your-contents-potential-on-tiktok-through-hashtags-for-2024/"><u>[Updated] Unleashing Your Content's Potential on TikTok Through Hashtags for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-enhancing-tiktok-video-viewership-through-zoom/"><u>2024 Approved  Enhancing TikTok Video Viewership Through Zoom</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975147778-complete-set-of-hp-laserjet-1018-printing-drivers-free-download/"><u>Complete Set of HP LaserJet 1018 Printing Drivers - Free Download!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722977450864-download-drivers-and-install-logitech-g402-gaming-mouse-software-now/"><u>Download Drivers & Install Logitech G402 Gaming Mouse Software Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-setup-instructions-for-downloading-hp-84-the-g3-driver-software/"><u>Easy Setup Instructions for Downloading HP 84 the G3 Driver Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-installation-of-mbox-2-driver-software-for-windows-solutions-and-tips/"><u>Effortless Installation of MBox 2 Driver Software for Windows: Solutions and Tips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ensure-smooth-operations-of-your-lenovo-x1-carbon-with-new-driver-downloads-for-windows-11-and-windows-7/"><u>Ensure Smooth Operations of Your Lenovo X1 Carbon with New Driver Downloads for Windows 11 and Windows 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-unparalleled-performance-amds-zen-5-chip-delivers-desktop-potential-in-a-mobile-design-discover-the-next-level-ryzen-strix-halo-boasting-16-cores63/"><u>Experience Unparalleled Performance: AMD's Zen 5 Chip Delivers Desktop Potential in a Mobile Design - Discover the Next Level Ryzen Strix Halo, Boasting 16 Cores and Powerful RDNA 3.5 iGPU Technology</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-to-overcome-recurring-shutdown-problems-with-the-finals-software-on-desktops/"><u>Expert Tips to Overcome Recurring Shutdown Problems with 'The Finals' Software on Desktops</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-honor-100-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-realtek-rtl8188cu-wifi-drivers-for-windows-10-and-7-compatible-and-updated-software/"><u>Free Download: Realtek RTL8188CU WiFi Drivers for Windows 10 & 7 - Compatible and Updated Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722957729594-get-the-most-recent-drivers-for-your-amd-radeon-rx-480-step-by-step-guide/"><u>Get the Most Recent Drivers for Your AMD Radeon RX 480 - Step-by-Step Guide!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-ricoh-printer-up-and-running-in-windows-with-these-free-drivers/"><u>Get Your Ricoh Printer Up & Running in Windows with These Free Drivers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-apple-iphone-se-2022-for-mobile-legends-drfone-by-drfone-virtual-ios/"><u>How To Fake GPS On Apple iPhone SE (2022) For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722976626850-how-to-install-or-update-your-epson-et-3760-printer-drivers-in-windows-complete-guide/"><u>How to Install or Update Your Epson ET-3760 Printer Drivers in Windows - Complete Guide!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-upgrade-to-the-newest-magiccard-rio-pro-driver-on-windows-10-81-and-7/"><u>How to Upgrade to the Newest Magiccard Rio Pro Driver on Windows 10, 8.1 & 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-canon-dr-c22ec225-drivers-on-modern-windows-systems-tutorial/"><u>Installing Canon DR-C22e/C225 Drivers on Modern Windows Systems: Tutorial</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intel-driver-download-made-easy-step-by-step-tutorial/"><u>Intel Driver Download Made Easy – Step-by-Step Tutorial</u></a></li>
+<li><a href="https://fox-links.techidaily.com/mastering-the-art-of-design-10-secrets-for-podcast-imagery-for-2024/"><u>Mastering the Art of Design  10 Secrets for Podcast Imagery for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-the-huion-penpad-step-by-step-guide-to-downloading-and-updating-drivers-on-windows/"><u>Mastering the Huion PenPad: Step-by-Step Guide to Downloading and Updating Drivers on Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722977570793-msi-b350-thomahawk-chipset-drivers-for-windows-117-get-them-now/"><u>MSI B350 THOMAHAWK Chipset Drivers for Windows 11/7 - Get Them Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigate-the-world-of-computers-with-toms-hardware-mastery/"><u>Navigate the World of Computers with Tom's Hardware Mastery</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/official-dell-network-card-software-for-windows-7-quick-and-safe-download-options/"><u>Official Dell Network Card Software for Windows 7 – Quick and Safe Download Options</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722956511852-quick-setup-professional-pioneer-dj-ddj-sx2-controller-driver-download-now/"><u>Quick Setup: Professional Pioneer DJ DDJ-SX2 Controller Driver Download Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/resolving-asus-pce-ac56-wifi-card-compatibility-with-windows-11-8-and-7-solutions-inside/"><u>Resolving ASUS PCE-AC56 WiFi Card Compatibility with Windows 11, 8 & 7: Solutions Inside</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/secure-your-data-download-the-latest-samsung-850-evo-ssd-drivers/"><u>Secure Your Data: Download the Latest Samsung 850 EVO SSD Drivers</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/skyline-your-contents-search-trajectory-key-youtube-seo-tips-1-11/"><u>Skyline Your Content's Search Trajectory  Key YouTube SEO Tips (1-11)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/surface-book-drivers-download-and-update-easily/"><u>Surface Book Drivers Download & Update EASILY!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-latest-brother-hl-2240-driver-for-your-windows-computer/"><u>The Latest Brother HL-2240 Driver for Your Windows Computer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-the-ultimate-guide-by-toms-hardware/"><u>Tom's Tech Insights: The Ultimate Guide by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-reviews-in-depth-gadget-analysis/"><u>Tom's Tech Reviews: In-Depth Gadget Analysis</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/unseen-glimpse-of-fb-stories/"><u>Unseen Glimpse of FB Stories</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/unveiling-instagrams-videography-timeframe-for-2024/"><u>Unveiling Instagram's Videography Timeframe for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/warframe-game-crashes-linked-to-intel-overclockable-core-i9-and-i7-cpus-dev-reveals-80-failure-rate/"><u>Warframe Game Crashes Linked to Intel Overclockable Core I9 & I7 CPUs, Dev Reveals 80%% Failure Rate</u></a></li>
+</ul></div>

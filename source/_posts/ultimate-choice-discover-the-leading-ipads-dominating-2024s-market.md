@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Choice: Discover the Leading iPads Dominating 2024'S Market"
-date: 2024-08-28 20:33:20
-updated: 2024-08-29 10:22:27
+date: 2024-08-30T15:43:52.419Z
+updated: 2024-08-31T15:43:52.419Z
 tags:
   - hardware
 categories:
@@ -114,6 +114,9 @@ Apple
 
 ![Apple ipad 10th-generation](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ipad-10th-generation-link.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 Best Budget iPad
@@ -126,10 +129,16 @@ The 10th-generation iPad may be the most affordable tablet in Apple’s lineup, 
 
 [Buy on Amazon](https://www.amazon.com/dp/B0BJLT98Q7/?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2003454&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-ipads%2F&asc%5Fcampaign=Commerce) [See at Apple](https://www.bing.com/aclk?ld=e8P%5Fkfozlto1KVvD9a19eJoTVUCUwPL0m7B7zBl2JR8h4GbKnr2qn5XWa4QJe9Tzj7h5DzYr0Tr8Fa8bjn3hq99z6EB8qagcp4a9PNtAOGKnbqeZtKVCzOsqzfND-SJ9RTJk9Ob65OxcGkzozxNWESVLaCRymDv91wc%5FL0yOJjbTMGdea4uqTEzOCePZbQA9nKOCtpATvlEIfuESY30JgcxMXnm2cxnIGHKn6AsPn-F6XR5BThFRvl3PwYeh9o6aW9gtc-aUnxQ09meZf8eyWBpY3u-D-DrgrlvzR2omdduHlf83q8&u=aHR0cHMlM2ElMmYlMmZ3d3cuYXBwbGUuY29tJTJmdXMlMmZzaG9wJTJmZ28lMmZpcGFkXzEwXzklM2YlMjZtbmlkJTNkZlB1TTNuVkUtZGNfbXRpZF8xODcwNzY1ZTM4NDgyX3BjcmlkXzc3NjUzMjE3NjQ1OTIwX3BncmlkXzEyNDI0NDg3Nzg4MjU2MTZfcG50d2tfb19wY2hhbl9fcGV4aWRfXyUyNmNpZCUzZGFvcy11cy1rd2JpLWlwYWQtLXNsaWQtLS1wcm9kdWN0LSUyNm10aWQlM2QxODcwNzY1ZTM4NDgyJTI2YW9zaWQlM2RwMjM4&rlid=16393ec34ae91692bb815bb026e75bbd&ntb=1) [See at Best Buy](https://www.bing.com/search?q=ipad+10th+gen) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ##  Best iPad for Drawing: [13-inch iPad Pro (M4)](https://www.amazon.com/dp/B0D3J98W75/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003454&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-ipads%2F&asc%5Fcampaign=Commerce) 
 
 ![apple ipad pro 13-inch 2024](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-ipad-pro-13-inch-2024.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Apple
 
 | Pros                               | Cons      |
@@ -150,8 +159,15 @@ Apple
 
 ![apple ipad pro 13-inch m4](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-ipad-pro-13-inch-m4.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 Best iPad for Drawing
 
 #####  Apple iPad Pro 13 (2024)
@@ -202,6 +218,9 @@ The iPad Mini’s compact design and excellent display make it a great tablet fo
 
 ![Lock screen of the 10th Generation iPad](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/52567719864_6c30e58a6e_o-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
 | Pros                   | Cons                                  |
@@ -222,8 +241,14 @@ Hannah Stryker / How-To Geek
 
 ![Apple ipad 10th-generation](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ipad-10th-generation-link.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Best iPad for School
 
 #####  Apple iPad (10th generation)
@@ -234,6 +259,9 @@ The regular iPad is an excellent companion device for school-going kids. It’s 
 
 [Buy on Amazon](https://www.amazon.com/dp/B0BJLT98Q7/?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2003454&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-ipads%2F&asc%5Fcampaign=Commerce) [See at Best Buy](https://www.bing.com/search?q=ipad+10th+gen) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Best iPad for College Students: [11-inch iPad Air (M2)](https://www.amazon.com/dp/B0D3J5VFYQ/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003454&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-ipads%2F&asc%5Fcampaign=Commerce) 
 
 ![apple ipad air-11-inch m2 in all colors](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-ipad-air-11-inch-m2-1.jpg) 
@@ -258,6 +286,9 @@ Apple
 
 ![apple-ipad-air-m2-11-inch](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-ipad-air-m2-11-inch.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 Best iPad for College Students
@@ -278,6 +309,9 @@ The 11-inch iPad Air’s powerful hardware and fantastic display are perfect for
 
  If you have a second-generation or newer Apple Pencil, simply attach it to the magnetic connector on the side of the iPad. You’ll receive a pairing request. Accept it, and the Apple Pencil will connect.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ### How do I take a screenshot on my iPad?
 
  You can take [a screenshot on any modern iPad](https://youtube-data.techidaily.com/ed-in-2024-crafting-a-revenue-generating-online-presence/) with the home button by pressing the top button and either volume button simultaneously. If your iPad has a home button, press the home and top buttons simultaneously to capture a screenshot.
@@ -286,6 +320,9 @@ The 11-inch iPad Air’s powerful hardware and fantastic display are perfect for
 
  Sure, [you can use the iPad as a laptop replacement](https://win-dash.techidaily.com/1722972482843-corsair-void-pro-windows-driver-download-and-installation-made-simple/) by connecting a keyboard and trackpad accessory. Most iPads feature incredibly powerful processors that can run professional-grade applications. But remember, as it uses the iPadOS, you’ll face some software and multitasking limitations.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### What are the current iPad generations?
 
  As of June 2024, Apple offers four different iPad models. The base iPad, or the regular iPad, is currently in its [10th generation](https://www.amazon.com/dp/B0BJLT98Q7/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003454&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-ipads%2F&asc%5Fcampaign=Commerce), which was released in 2022\. The iPad Mini hasn’t been updated since 2021, when the [sixth-generation model](https://www.amazon.com/dp/B09G91LXFP/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003454&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-ipads%2F&asc%5Fcampaign=Commerce) was released. The [11-inch](https://www.amazon.com/dp/B0D3J6L2ZC/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003454&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-ipads%2F&asc%5Fcampaign=Commerce) and [13-inch](https://www.amazon.com/dp/B0D3J98W75/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003454&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-ipads%2F&asc%5Fcampaign=Commerce) models of the iPad Air and the iPad Pro are the newest iPads in the company’s portfolio and were introduced in 2024.
@@ -306,3 +343,50 @@ The 11-inch iPad Air’s powerful hardware and fantastic display are perfect for
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-secrets-to-saving-switch-gameplay-on-video/"><u>[Updated] In 2024, Secrets to Saving Switch Gameplay on Video</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-in-depth-360-eye-viewing-experience/"><u>[Updated] In-Depth 360° Eye Viewing Experience</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-leading-10-covert-media-collection-tools/"><u>2024 Approved  Leading 10 Covert Media Collection Tools</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-precise-speech-to-text-the-google-standard/"><u>2024 Approved  Precise Speech to Text  The Google Standard</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-sustaining-wellbeing-in-virtual-reality/"><u>2024 Approved  Sustaining Wellbeing in Virtual Reality</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/canon-pixma-ts3322-driver-update-free-download-options-and-easy-setup-processes-for-optimal-print-performance/"><u>Canon PIXMA TS3322 Driver Update: Free Download Options and Easy Setup Processes for Optimal Print Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/canon-pro-100-printer-drivers-for-windows-easy-installation-guide/"><u>Canon Pro 100 Printer Drivers for Windows: Easy Installation Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975255841-compatible-driving-force-racing-wheels-driver-software-for-windows-operating-systems-windows-7810-download-here/"><u>Compatible Driving Force Racing Wheels Driver Software for Windows Operating Systems (Windows 7/8/10) - Download Here!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-logitech-wheel-compatible-with-windows-7-8-and-10/"><u>Download Logitech Wheel: Compatible with Windows 7, 8 & 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-latest-geforce-rtx-amoji-3090-driver-compatible-with-windows-11-8-and-7/"><u>Download the Latest GeForce RTX Amoji 3090 Driver - Compatible with Windows 11, 8 & 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ensure-peak-system-efficiency-with-new-intel-hd-graphics-4400-driver-download-options/"><u>Ensure Peak System Efficiency with New Intel HD Graphics 4400 Driver Download Options</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-advice-downloading-and-installing-asus-touchpad-drivers-on-windows-11-made-effortlessly/"><u>Expert Advice: Downloading and Installing ASUS Touchpad Drivers on Windows 11 Made Effortlessly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-compatible-drivers-for-oculus-on-windows-11-10-8-and-7/"><u>Free Download: Compatible Drivers for Oculus on Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-hp-p1006-drivers-and-utilities-for-windows-users/"><u>Free HP P1006 Drivers and Utilities for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-hp-universal-printer-software-installer-for-windows-download-now/"><u>Free HP Universal Printer Software Installer for Windows - Download Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-equipped-essential-drivers-for-epson-wf-7710-printers-on-various-windows-platforms-download-now/"><u>Get Equipped: Essential Drivers for Epson WF-7710 Printers on Various Windows Platforms (Download Now)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-insignia-bluetooth-device-drivers-for-pcs-with-windows-os/"><u>Get the Latest Insignia Bluetooth Device Drivers for PCs with Windows OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-most-from-your-steelseries-arctis-5-with-official-drivers-free-downloads-inside/"><u>Get the Most From Your SteelSeries Arctis 5 with Official Drivers - Free Downloads Inside</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-most-recent-tp-link-network-driver-downloads-optimized-for-windows-7810/"><u>Get the Most Recent TP-Link Network Driver Downloads: Optimized for Windows 7/8/10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-bluetooth-usb-driver-for-windows-quick-reliable-guide-to-downloading-and-updating/"><u>Get the Newest Bluetooth USB Driver for Windows - Quick, Reliable Guide to Downloading & Updating</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-usb-to-hdmi-software-patch-free-download/"><u>Get the Newest USB to HDMI Software Patch - Free Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-updated-realtek-device-drivers-for-windows-11-free-software/"><u>Get Updated Realtek Device Drivers for Windows 11 – Free Software</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-samsung-galaxy-s23-fe-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Samsung Galaxy S23 FE?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-the-newest-intel-graphics-drivers-compatible-with-windows-11/"><u>How to Get the Newest Intel Graphics Drivers Compatible with Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-overcome-common-challenges-with-realtek-universal-video-drivers/"><u>How to Overcome Common Challenges With Realtek Universal Video Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-successfully-download-the-latest-amd-vega-amodrive-support-software-for-your-windows-pc/"><u>How to Successfully Download the Latest AMD Vega amoDrive Support Software for Your Windows PC</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-go-joystick-on-realme-c53-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Realme C53? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-securely-download-and-install-the-driver-for-your-hp-laserjet-pro-m402n-on-windows-1087/"><u>How To: Securely Download & Install the Driver for Your HP LaserJet Pro M402n on Windows 10/8/7</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-the-dji-fpv-revolution-a-review-of-eyewear-innovation/"><u>In 2024, The DJI FPV Revolution  A Review of Eyewear Innovation</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-updated-drivers-for-your-hp-deskjet-ink-advantage-2540-printer-made-easy/"><u>Installing Updated Drivers for Your HP Deskjet Ink Advantage 2540 Printer Made Easy</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-linux-update-snapdragon-xs-elite-gpu-off-by-default-potential-issues-with-unavailable-oem-key-signatures/"><u>Latest Linux Update: Snapdragon X's Elite GPU Off by Default - Potential Issues with Unavailable OEM Key Signatures</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-nvidia-graphics-drivers-for-windows-10-7-and-8-free-downloads/"><u>Latest Nvidia Graphics Drivers for Windows 10, 7 & 8 - Free Downloads</u></a></li>
+<li><a href="https://win-blog.techidaily.com/navigating-through-stormy-seas-understanding-startups-akin-to-an-atomic-heart/"><u>Navigating Through Stormy Seas: Understanding Startups Akin to an 'Atomic Heart'</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/newly-released-windows-compatible-arduino-usb-device-drivers/"><u>Newly Released Windows-Compatible Arduino USB Device Drivers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/optimal-zoom-settings-for-microsoft-teams-communication/"><u>Optimal Zoom Settings for Microsoft Teams Communication</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/premier-mp4-broadcast-converter/"><u>Premier MP4 Broadcast Converter</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-simple-setup-tutorial-for-wacom-intuos-pro-on-windows-11/"><u>Quick & Simple Setup Tutorial for Wacom Intuos Pro on Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722979143388-quick-setup-get-your-samsung-c460-drivers-installed-in-a-flash/"><u>Quick Setup: Get Your Samsung C460 Drivers Installed in a Flash</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tiktok-unboxing-hacks-spin-your-video-into-a-viral-hit-for-2024/"><u>TikTok Unboxing Hacks  Spin Your Video Into a Viral Hit for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-vivo-y100a-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlocking-hardware-secrets-tips-from-toms-digital-workshop/"><u>Unlocking Hardware Secrets - Tips From Tom's Digital Workshop</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unmatched-upticks-celebrating-top-10-reddit-discussions-for-2024/"><u>Unmatched Upticks  Celebrating Top 10 Reddit Discussions for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-logitech-mk710-with-this-easy-driver-downloader-guide/"><u>Update Your Logitech MK710 with This Easy Driver Downloader Guide</u></a></li>
+</ul></div>

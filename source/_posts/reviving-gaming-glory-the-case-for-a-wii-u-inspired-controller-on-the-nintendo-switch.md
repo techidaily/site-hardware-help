@@ -1,7 +1,7 @@
 ---
 title: "Reviving Gaming Glory: The Case for a Wii U-Inspired Controller on the Nintendo Switch"
-date: 2024-08-26 18:57:10
-updated: 2024-08-29 10:46:14
+date: 2024-08-30T15:44:32.461Z
+updated: 2024-08-31T15:44:32.461Z
 tags:
   - hardware
 categories:
@@ -37,6 +37,9 @@ Nintendo
 
  Having a second screen would allow the Switch 2 to host plenty of new dual-screen titles, as well as ports of games from both the Wii U library (complete with their original GamePad features) and re-releases of DS and 3DS titles. If the Switch 2 combined these features with backward compatibility support for original Switch games, it could easily result in the most creative and varied library of games on any Nintendo console.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ##  How Would a GamePad Work on the Switch 2?
 
  Although the GamePad could be a positive addition to the Switch 2, it needs to support games in both docked and undocked mode. Being able to play any game on the go was the main appeal of the original Switch, so the new GamePad should support dual-screen games without compromising the Switch 2's portability.
@@ -47,6 +50,9 @@ Nintendo
 
  As long as the Switch 2 doesn't force the GamePad into every title, this would only be a problem for games that require the dual-screen setup. However, without a carrying case that holds both the GamePad and the undocked Switch 2, there's no getting around the fact that you will have to carry two tablets just to play these games. For this reason, the GamePad could probably use a smaller, more portable redesign for the Switch 2.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Avoiding the Wii U's Mistakes
 
  Even with these minor inconveniences, the Switch 2 could certainly benefit from reviving the GamePad. However, it also needs to avoid repeating the mistakes that caused the Wii U and its controller to fail in the first place. Unfortunately, these mistakes stem from the GamePad itself.
@@ -57,6 +63,9 @@ Nintendo
 
 ![A Wii U GamePad with The Legend of Zelda: Wind Waker HD playing.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/gamepad1.JPG) 
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Maximilian Padilla-Rodriguez / How-To Geek
 
  To make matters worse, the GamePad was never sold at retailers or even Nintendo's online store. If you ever needed to repair or replace your GamePad, your only options were to contact Nintendo's customer service (which has since discontinued support for the Wii U) or buy one from a third-party seller.
@@ -71,6 +80,9 @@ Maximilian Padilla-Rodriguez / How-To Geek
 
  This isn't to say that the Switch 2 should rely exclusively on the GamePad or force it into every game. Although the GamePad has its uses, many titles are best enjoyed with [a more conventional controller](https://screen-activity-recording.techidaily.com/new-capturing-creativity-premium-screen-recorder-software-on-pc-and-mac-for-2024/). But providing the option for developers to make use of a second screen can help the Switch 2 set itself apart from its predecessors and allow for games to utilize the GamePad for features that wouldn't be possible on any other console.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The GamePad Deserves Another Chance
 
  Just as the Switch refined the Wii U's concept of a console that works on both televisions and a handheld screen, the Switch 2 could do the same for the GamePad. It might be a tough sell for those who were left disappointed by the Wii U. But with an improved design and games that showcase the advantages of a second screen, the GamePad could help the Switch 2 become Nintendo's next success story.
@@ -91,3 +103,54 @@ Maximilian Padilla-Rodriguez / How-To Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-content-creation-conundrums-understanding-the-differences-between-igtv-and-youtube/"><u>[New] 2024 Approved  Content Creation Conundrums  Understanding the Differences Between IGTV and YouTube</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-easy-cross-platform-posting-tiktok-stories-on-facebook/"><u>[New] In 2024, Easy Cross-Platform Posting  TikTok Stories on Facebook</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-master-the-art-of-steadiness-in-imaging/"><u>[New] Master the Art of Steadiness in Imaging</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ro-grade-streaming-tools-best-software-and-hardware-reviewed-for-2024/"><u>[New] Pro-Grade Streaming Tools  Best Software & Hardware Reviewed for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fast-techniques-for-reordering-youtube-video-queues/"><u>[Updated] 2024 Approved  Fast Techniques for Reordering YouTube Video Queues</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-5-best-mid-range-gaming-keyboards-for-enthusiasts/"><u>[Updated] 5 Best Mid-Range Gaming Keyboards for Enthusiasts</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-snap-into-fb-shorts-saga/"><u>[Updated] In 2024, Snap Into FB Shorts Saga</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-top-5-concealed-story-viewers-apps-for-2024/"><u>[Updated] The Top 5 Concealed Story Viewers' Apps for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-4k-uxga-gaming-the-asus-mg28uq-explained/"><u>2024 Approved  4K UXGA Gaming - The ASUS MG28UQ Explained</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-in-depth-analysis-complete-revamp-of-facetune-app/"><u>2024 Approved  In-Depth Analysis  Complete Revamp of Facetune App</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-radeon-rx-6800-xt-graphics-card-drivers-download-and-compatibility-with-windows-11-10-8-and-7/"><u>AMD Radeon RX 6800 XT Graphics Card Drivers: Download & Compatibility with Windows 11, 10, 8, and 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-ryzen-9-cpu-family-face-off-on-cinebench-benchmark-analyzing-claimed-scores-for-9900x-9700x-and-9600x-models/"><u>AMD Ryzen 9 CPU Family Face-Off on Cinebench Benchmark: Analyzing Claimed Scores for 9900X, 9700X & 9600X Models</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/canon-pixus-mf8500c-find-and-download-the-correct-printer-drivers-for-various-windows-versions-7-81-10/"><u>Canon PIXUS MF8500C: Find and Download the Correct Printer Drivers for Various Windows Versions (7, 8.1, 10)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-driver-update-instructions-for-the-lenovo-legion-5-pro-with-high-end-graphics/"><u>Complete Driver Update Instructions for the Lenovo Legion 5 Pro with High-End Graphics</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975652287-download-brother-l2690dw-printer-software-latest-drivers-and-updates/"><u>Download Brother L2690DW Printer Software - Latest Drivers and Updates</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-optimal-performance-nvidia-geforce-rtx-1080-graphics-driver-for-win-7-pcs/"><u>Download Optimal Performance: NVIDIA GeForce RTX 1080 Graphics Driver for Win 7 PCs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-guide-installing-the-newest-netgear-a6100-wireless-network-adaptor-software-on-windows/"><u>Easy Guide: Installing the Newest Netgear A6100 Wireless Network Adaptor Software on Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortlessly-obtain-your-elgato-drivers-with-these-steps/"><u>Effortlessly Obtain Your Elgato Drivers with These Steps</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ensure-seamless-printing-on-all-oses-latest-hp-officejet-pro-8610-drivers-for-win-11-8-7-xp-and-vista/"><u>Ensure Seamless Printing on All OSes - Latest HP Officejet Pro 8610 Drivers for Win 11, 8, 7, XP & Vista</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-corsair-void-pro-driver-software-simple-download-and-install-tutorial-for-windows-machines/"><u>Get the Corsair Void Pro Driver Software: Simple Download & Install Tutorial for Windows Machines</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722977529016-get-the-latest-windows-drivers-for-your-hp-spectre-x360-laptop-here/"><u>Get the Latest Windows Drivers for Your HP Spectre X360 Laptop Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-update-for-creative-webcam-drivers-now-compatible-with-windows-systems/"><u>Get the Newest Update for Creative Webcam Drivers Now! Compatible with Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722967786249-hassle-free-download-and-improvement-of-dell-display-drivers-get-started-now/"><u>Hassle-Free Download & Improvement of Dell Display Drivers - Get Started Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-the-latest-asus-wireless-driver-for-your-laptop-or-desktop/"><u>How To Get the Latest ASUS Wireless Driver for Your Laptop or Desktop</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-crafting-a-distinctive-image-with-creative-personal-frames-on-tiktok/"><u>In 2024, Crafting a Distinctive Image with Creative Personal Frames on TikTok</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-samsung-galaxy-f15-5g-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Samsung Galaxy F15 5G Without PUK Codes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-sync-soundscapes-from-downloads-to-personalized-phone-alerts/"><u>In 2024, Sync Soundscapes  From Downloads to Personalized Phone Alerts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/inside-insights-on-electronics-toms-devices-explored/"><u>Inside Insights on Electronics - Tom's Devices Explored</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-official-dell-wi-fi-card-drivers-free-download/"><u>Install Official Dell Wi-Fi Card Drivers - Free Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installupdate-rtx-2080-video-drivers-on-your-pc-running-windows-11-secure-download-links/"><u>Install/Update RTX 2080 Video Drivers on Your PC Running Windows 11 – Secure Download Links</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intel-faces-legal-challenge-as-consumers-initiate-class-action-for-cpu-failures-and-instability/"><u>Intel Faces Legal Challenge as Consumers Initiate Class Action for CPU Failures and Instability</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/logitech-k350-universal-wired-mouse-setup-and-driver-downloads/"><u>Logitech K350 Universal Wired Mouse Setup & Driver Downloads</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-driver-updates-a-user-friendly-approach-for-microsoft-software-on-various-windows-versions/"><u>Mastering Driver Updates: A User-Friendly Approach for Microsoft Software on Various Windows Versions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-your-setup-tips-from-toms-hardware-wisdom/"><u>Mastering Your Setup - Tips From Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-through-tech-world-a-deep-dive-by-toms-hardware-experts/"><u>Navigating Through Tech World: A Deep Dive by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-easy-download-canons-official-windows-scanning-software-today-free/"><u>Quick and Easy: Download Canon's Official Windows Scanning Software Today, FREE!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-simple-guide-asus-touchpad-drivers-for-windows-11/"><u>Quick and Simple Guide: ASUS Touchpad Drivers for Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ryzen-cpu-enthusiasts-rejoice-amds-latest-addition-the-powerful-ryzen-ai-9-hx-375-makes-its-debut/"><u>Ryzen CPU Enthusiasts Rejoice: AMD's Latest Addition, the Powerful Ryzen AI 9 HX 375 Makes Its Debut!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-secure-your-wacom-intuos-pro-driver-for-optimal-windows-10-performance/"><u>Step by Step: Secure Your Wacom Intuos Pro Driver for Optimal Windows 10 Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-offline-driver-installation-for-windows-systems/"><u>Step-by-Step Guide: Offline Driver Installation for Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-successfully-downloading-and-installing-the-arduino-nano-board-drivers-on-a-windows-pc/"><u>Step-by-Step Guide: Successfully Downloading & Installing the Arduino Nano Board Drivers on a Windows PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-for-updating-your-wacom-intuos-driver-seamlessly/"><u>Step-by-Step Tutorial for Updating Your Wacom Intuos Driver Seamlessly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-fix-for-slow-computers-easy-driver-refreshes-via-windows-update/"><u>The Ultimate Fix for Slow Computers: Easy Driver Refreshes via Windows Update</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-convert-mts-for-galaxy-s21-fe-5g-2023-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Galaxy S21 FE 5G (2023)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-the-compatibility-of-arduino-uno-with-windows-os/"><u>Troubleshooting the Compatibility of Arduino Uno with Windows OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-fixes-for-startech-drivers-on-windows-10-8-and-7-a-complete-guide/"><u>Ultimate Fixes for StarTech Drivers on Windows 10, 8 & 7: A Complete Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-desk-icons-clashing-find-harmony/"><u>Windows Desk Icons Clashing - Find Harmony!</u></a></li>
+</ul></div>

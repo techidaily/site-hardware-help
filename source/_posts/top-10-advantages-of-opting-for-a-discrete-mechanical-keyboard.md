@@ -1,7 +1,7 @@
 ---
 title: Top 10 Advantages of Opting for a Discrete Mechanical Keyboard
-date: 2024-08-27 17:17:10
-updated: 2024-08-29 10:59:11
+date: 2024-08-30T15:43:46.526Z
+updated: 2024-08-31T15:43:46.526Z
 tags:
   - hardware
 categories:
@@ -33,6 +33,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
  For quite some time, there were just a handful of low-profile mechanical keyboards on the market. Nowadays, you can pick between a ton of different models in every price bracket. Here’s why low-profile mechanical keyboards are great, and why you ought to get one.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  They’re Brilliant for Typing
 
  Despite being a writer, I’m a pretty slow typist. On my [Keychron K2](https://www.amazon.com/Keychron-Bluetooth-Wireless-Mechanical-Tenkeyless-Keyboard/dp/B07QBPDWLS?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003073&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F10-reasons-you-need-a-low-profile-mechanical-keyboard%2F&asc%5Fcampaign=Evergreen) with Cherry profile keycaps, I can manage about 70WPM—words per minute—on [Monkeytype](https://monkeytype.com/). Replacing Cherry keycaps with an SA keycap set improves my score to about 75WPM. But when I type on my [Vissles LP85](https://ios-unlock.techidaily.com/iphone-13-mini-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/), I regularly go over 80WPM, usually scoring higher than 85WPM.
@@ -47,14 +50,24 @@ _Goran Damnjanovic/How-To Geek_
 
  This applies to most low-profile keyboards. Despite a number of models with inwardly sloped keycaps, the slope is much less pronounced than on regular mech boards. Even in keycaps with a more pronounced slope, the size of the topside surface is less affected because of the short length of every low-profile keycap profile.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  They Have a Smaller Footprint Than Regular Mechanical Boards
 
 ![A Normal and a low profile mecnanical keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/a-normal-and-a-low-profile-mecnanical-keyboard.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 _Keychron_
 
  A low-profile keyboard is thinner, lighter, and has a noticeably smaller footprint than a regular mechanical keyboard. This not only makes them perfect for travel but also makes your desk setup look much cooler and cleaner looking.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ##  Low-Profile Mechanical Keyboards are Available in All Form Factors, From 60% to Full Size
 
 ![Lofree Flow on a deck with a mouse.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/lofree-flow.jpg) 
@@ -67,6 +80,10 @@ _Sergio Rodriguez / How-To Geek_
 
 ![Keychron K11 Max Low profile mechanical keyboard with Alice layout on a desk.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/keychron-k11-max-low-profile-mechanical-keyboard-with-alice-layout-on-a-desk.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 _Keychron_
 
  No matter which keyboard form factor you prefer, you can find multiple low-profile mechanical keyboard models featuring it, which is great to see.
@@ -83,6 +100,9 @@ _NuPhy_
 
  Gone are the days when low-profile mechanical keyboards sounded lifeless. Manufacturers have started to include sound-dampening foam and plate [Poron foam](https://www.rogerscorp.com/elastomeric-material-solutions/poron-industrial-polyurethanes), as well as design their low-profile mech keyboards in a way that improves the structure-borne sound.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ##  Most Low-Profile Mechanical Keyboards Support Custom Keycap Sets
 
 ![Multiple low profile keycap sets.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/multiple-low-profile-keycap-sets.png) 
@@ -107,6 +127,9 @@ _Gateron/Keychron_
 
 ![A hot swappable low profile mechanical keyboard PCB.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/a-hot-swappable-low-profile-mechanical-keyboard-pcb.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 _NuPhy_
 
  Not only can you [swap default keycaps](https://facebook-video-footage.techidaily.com/updated-experts-choice-top-8-proven-video-marketing-actions/) for any custom set on more and more low-profile mech boards, but nowadays, many models are also [hot-swappable](https://facebook-record-videos.techidaily.com/streamlining-visual-storytelling-with-youtube-videos-for-2024/), allowing you to try out different switches.
@@ -115,14 +138,23 @@ _NuPhy_
 
  The focus on improving customization has also led to the release of a couple of gasket-mounted low-profile mechanical keyboard models, finally ending the rule of plate-mounted low-profile mechanical keyboards.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  There are More and More Models With QMK and VIA Support
 
  The focus on customization has also led many brands to offer [QMK and VIA](https://some-skills.techidaily.com/in-2024-ultimate-chuckles-and-pixels-suite/) support. QMK and VIA are software tools that allow owners to customize their keyboard’s firmware, which means full freedom in remapping keys, adding macros and multiple layers, changing light effects, and more.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Virtually Every Low-Profile Mechanical Keyboard Supports Wireless Connectivity
 
 ![Keychron mechanical keyboard with wireless connectivity](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/keychron-mechanical-keyboard-with-wireless-connectivity.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 _Jerome Thomas / How-To Geek_
 
  Due to their low-profile nature and small footprint, which makes them super portable, you’ll be hard-pressed to find a low-profile keyboard without some form of wireless connectivity. Be it Bluetooth or 2.4GHz, almost every low-profile mech keyboard can connect to your devices wirelessly.
@@ -141,6 +173,9 @@ _Jerome Thomas / How-To Geek_
 
  Despite the massive strides mechanical keyboard manufacturers have been making in the low-profile market, regular mech keyboards still do a number of things better.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ###  Level of Customization
 
  Regular mech boards feature a substantially higher level of customization. This most likely won’t change in the future because the low-profile form factor has inherent limitations concerning its design, stemming from the limited space inside the case.
@@ -153,6 +188,10 @@ _Jerome Thomas / How-To Geek_
 
  While we’re getting more and more low-profile switches, the insane abundance of regular mechanical switches will never be matched. You have hundreds, if not thousands, of different mechanical switch designs. Unless low-profile mechanical keyboards surpass regular ones in popularity, low-profile switches will never come close to that number.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ###  Hall Effect Mechanical Keyboards Are a Better Option for Gaming
 
 ![Wooting 60HE against a light grey background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/wooting-60he-01.png) 
@@ -185,3 +224,40 @@ Wooting
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-decoding-how-to-effectively-swap-photo-genders-online-a-comprehensive-approach/"><u>[New] 2024 Approved  Decoding How to Effectively Swap Photo Genders Online  A Comprehensive Approach</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-how-to-make-highlights-on-instagram/"><u>[New] In 2024, How to Make Highlights on Instagram</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-dare-to-differentiate-using-square-videos-for-social-media-standout-for-2024/"><u>[Updated] Dare to Differentiate  Using Square Videos for Social Media Standout for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-harmonizing-hit-hits-building-the-perfect-youtube-soundtrack/"><u>[Updated] Harmonizing Hit Hits  Building the Perfect YouTube Soundtrack</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-streaming-success-choose-the-right-stabilizer-brand/"><u>2024 Approved  Streaming Success  Choose the Right Stabilizer Brand</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/aoc-monitor-support-software-free-downloads-and-step-by-step-setup-on-windows-win-11108/"><u>AOC Monitor Support Software: Free Downloads & Step-by-Step Setup on Windows (Win 11/10/8)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/avoiding-common-vr-accidents-my-guide-on-safety-measures/"><u>Avoiding Common VR Accidents: My Guide on Safety Measures</u></a></li>
+<li><a href="https://fox-access.techidaily.com/bring-order-to-your-digital-memories-ios-album-structure-and-icloud-backup-synergy/"><u>Bring Order to Your Digital Memories  IOS Album Structure & iCloud Backup Synergy</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/delving-into-computer-components-a-journey-with-toms-hardware-experts/"><u>Delving Into Computer Components: A Journey with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-updated-drivers-for-your-corsair-h80i-v2-all-in-one-liquid-cooler/"><u>Download Updated Drivers for Your Corsair H80i v2 All-in-One Liquid Cooler</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-rankings-the-best-computing-units-for-serious-gamers/"><u>Expert Rankings: The Best Computing Units for Serious Gamers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fixes-and-solutions-realtek-wifi-driver-problems-on-windows-11-10-and-7/"><u>Fixes & Solutions: RealTek WiFi Driver Problems on Windows 11, 10 & 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/getting-started-with-magic-mouse-free-driver-download-for-windows-users/"><u>Getting Started with Magic Mouse: Free Driver Download for Windows Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723007543889-high-cpu-use-by-chrome-heres-the-solution/"><u>High CPU Use by Chrome? Here's the Solution</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-find-and-update-lenovo-x260-laptop-drivers-on-microsofts-newest-os-windows-11/"><u>How to Find and Update Lenovo X260 Laptop Drivers on Microsoft's Newest OS: Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-oppo-a1x-5g-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from Oppo A1x 5G.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-seamlessly-update-your-usb-30-driver-for-windows-11-7-and-8-devices/"><u>How to Seamlessly Update Your USB 3.0 Driver for Windows 11, 7 & 8 Devices</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-vivo-s17e-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Vivo S17e FRP In 3 Different Ways</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-insights-from-toms-computer-world/"><u>In-Depth Insights From Tom's Computer World</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-the-connexent-driver-update-for-windows-10-version-2004-a-comprehensive-guide/"><u>Installing the Connexent Driver Update for Windows 10 Version 2004: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-tech-with-toms-hardware-essentials/"><u>Mastering Tech with Tom's Hardware Essentials</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-divx-video-trimming-tools-top-picks/"><u>New Free Divx Video Trimming Tools Top Picks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/no-charge-free-nvidia-3d-vision-driver-update-for-windows-users/"><u>No Charge: Free Nvidia 3D Vision Driver Update for Windows Users!</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/rapid-accessibility-of-instagram-videos-and-stories-for-2024/"><u>Rapid Accessibility of Instagram Videos and Stories for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ryzen-9000-dl-catastrophe-exposed-zen-5-manufacturing-defects-with-damaged-wafers-and-solder-leftovers/"><u>Ryzen 9000 DL Catastrophe: Exposed Zen 5 Manufacturing Defects with Damaged Wafers and Solder Leftovers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/smooth-compatibility-achieved-latest-brothers-hl-2240-driver-software-update-perfectly-integrated-with-windows-platform/"><u>Smooth Compatibility Achieved: Latest Brother's HL-2240 Driver Software Update Perfectly Integrated with Windows Platform</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/speedy-setup-how-to-get-the-right-driver-software-for-your-keyboard-on-windows-7/"><u>Speedy Setup: How to Get the Right Driver Software for Your Keyboard on Windows 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-updating-your-pcs-sound-device-drivers-across-windows-versions/"><u>Step-by-Step Guide: Updating Your PC's Sound Device Drivers Across Windows Versions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-for-atheros-driver-download-and-windows-configuration/"><u>Step-by-Step Tutorial for Atheros Driver Download and Windows Configuration</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/successfully-update-lenovo-ideapad-100-drivers-comprehensive-guide-for-windows-10-device-optimization/"><u>Successfully Update Lenovo IdeaPad 100 Drivers: Comprehensive Guide for Windows 10 Device Optimization</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unreal-engine-and-intel-chips-transform-modelfarms-game-creation-now-switching-to-amd-ryzen-for-peak-performance/"><u>Unreal Engine and Intel Chips Transform ModelFarm's Game Creation - Now Switching to AMD Ryzen for Peak Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-or-fresh-install-of-insignia-bluetooth-adapter-driver-for-pcs/"><u>Update or Fresh Install of Insignia Bluetooth Adapter Driver for PCs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-or-install-new-drivers-on-epson-scanners-with-these-direct-downloads/"><u>Update or Install New Drivers on Epson Scanners with These Direct Downloads</u></a></li>
+</ul></div>
