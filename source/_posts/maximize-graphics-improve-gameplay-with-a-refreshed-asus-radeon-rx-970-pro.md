@@ -1,7 +1,7 @@
 ---
 title: "Maximize Graphics: Improve Gameplay with a Refreshed Asus Radeon RX 970 PRO"
-date: 2024-08-30T15:55:58.868Z
-updated: 2024-08-31T15:55:58.868Z
+date: 2024-09-04T02:12:54.830Z
+updated: 2024-09-05T02:12:54.830Z
 tags:
   - win11
   - win10
@@ -38,7 +38,16 @@ If Device Manager fails to get you the latest driver available, you can always g
 4) Go to [**Device Manager**](https://tools.techidaily.com/drivereasy/download/) again. Locate and expand **Display adapters** . Double-click **AMD Radeon RX 480** . ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584f6ee252477.jpg)5) Go to the **Driver**tab, and click **Uninstall**. ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584f742f54e25.jpg)Click **OK**to continue. ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584f7452e10b3.png)6) Double-click the downloaded**AMD Radeon RX 480**driver, and run the installation manually. 7) Restart your computer for the changes to take effect after the installation.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **3: Update Radeon RX 480 Graphics Card Driver Automatically (Recommended)**
 
@@ -47,7 +56,10 @@ If you’re not confident playing around with drivers manually, you can do it au
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e5f628aad8e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 * [graphics](https://tools.techidaily.com/drivereasy/download/)
 

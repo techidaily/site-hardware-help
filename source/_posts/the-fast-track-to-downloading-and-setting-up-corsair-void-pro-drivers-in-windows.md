@@ -1,7 +1,7 @@
 ---
 title: The Fast Track to Downloading and Setting Up Corsair Void Pro Drivers in Windows
-date: 2024-08-30T15:56:39.461Z
-updated: 2024-08-31T15:56:39.461Z
+date: 2024-09-04T02:12:54.340Z
+updated: 2024-09-05T02:12:54.340Z
 tags:
   - win11
   - win10
@@ -42,7 +42,10 @@ It’s essential to **update the driver for your Corsair Void headset**   for th
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Option 2: Update your Corsair Void Pro driver manually
 

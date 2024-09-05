@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Powerhouse Inside the Stunning Design - An In-Depth Review of the Dell XPS 16 (9640)
-date: 2024-08-27 23:53:36
-updated: 2024-08-29 10:31:24
+date: 2024-09-04T02:10:14.756Z
+updated: 2024-09-05T02:10:14.756Z
 tags:
   - hardware
 categories:
@@ -121,10 +121,22 @@ Bring your most intensive projects to life with our most powerful XPS laptop, en
 
 Expand 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Elegant Design with Some Flaws
 
 ![Outside lid of the Dell XPS 16](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/the-dell-xps-16-9640-sitting-on-a-table_53633594046_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The Dell XPS 16 is undoubtedly a looker. Its platinum or graphite aluminum chassis is sleek and minimalist, reminiscent of a MacBook, while the prominent speaker grilles flanking the keyboard add a touch of visual interest. The 4K OLED is the star of the show, delivering stunning visuals with vibrant colors, deep blacks, and excellent viewing angles. Whether you're editing photos, watching movies, or just browsing the web, the display is a pleasure to look at.
@@ -133,10 +145,28 @@ Jerome Thomas / How-To Geek
 
 ![Top view of the Dell XPS 16 keybaord and trackpad](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/the-keyboard-on-the-dell-xps-16-9640_53634038250_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The touchpad is perhaps the most divisive design choice. It's a smooth, unmarked surface that relies on LED lights to indicate its boundaries. While this looks modern and minimalist, it can be unintuitive in practice. The lack of a physical edge or indentation makes it easy to overshoot or miss the touchpad altogether, especially in well-lit environments where the LEDs are less visible. While these design choices are subjective, they are noticeable enough to impact the overall user experience. For a laptop with such a premium price tag, the cramped keyboard, finicky touchpad, and lack of tactile feedback on the function keys are areas where this laptop could use improvement.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Display, Audio, and Camera
 
  The 16.3-inch 4K OLED is a standout feature, ideal for content creation, gaming, and media consumption. Audio quality is equally impressive, with the speakers delivering rich, loud sound with ample bass. In fact, it's one of the best laptop speaker systems I've encountered. However, their placement on either side of the keyboard is an unusual design choice.
@@ -155,16 +185,34 @@ Jerome Thomas / How-To Geek
 
  The 32GB of RAM proved more than sufficient for my multitasking needs, allowing me to juggle numerous applications and browser tabs without any noticeable impact on performance. While the base configuration comes with 16GB of RAM, which should be adequate for most users, the extra memory in my review unit provided a noticeable boost for more demanding workloads. Overall, the Dell XPS 16 is a well-rounded laptop that offers excellent performance for both work and play.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030385/7443" target="_top" id="2030385">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030385" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030385/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Gaming Performance
 
 ![The Dell XPS 16 has an RTX 4070.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/the-dell-xps-16-9640-has-a-rtx-4070_53633933529_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek  
 
  The Dell XPS 16 is a powerful laptop that certainly doesn't shy away from demanding games. The RTX 4070 GPU in my test unit handled a variety of games, from "Destiny 2: The Final Shape" to "Minecraft and Cities: Skylines," without any noticeable performance issues. I even pushed it further with graphically intensive titles like "Baldur's Gate 3" and "Cyberpunk 2077," and it continued to impress with smooth gameplay. It even managed to outperform my desktop's Ryzen 5600x at times, thanks to the 16-core Intel Core Ultra 7 processor.
 
  However, it's important to note that this level of performance comes with trade-offs. As with many high-performance laptops, the XPS 16 can get quite hot during intense gaming sessions. Additionally, the lack of upgradability, especially the inability to swap out the GPU, might be a concern for some users. Overall, the XPS 16 is a capable machine that offers desktop-level gaming performance in a portable form factor. Whether it's the right choice for you depends on your priorities. If you value portability and raw power over upgradability and cooler temperatures, the XPS 16 is worth considering.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Gaming Benchmarks
 
  The Dell XPS 16 I tested comes with an RTX 4070 8 GB laptop GPU, not a full desktop version, so performance reflects that difference. In 3DMark's "Steel Nomad Light" benchmark, it averaged 65 FPS with a score of 8,827—good, but slightly below average for this GPU. Still, it's plenty powerful for demanding games.
@@ -195,10 +243,28 @@ Jerome Thomas / How-To Geek
 
  Overall, while the XPS 16's battery life isn't the full 28 hours advertised by Dell, it's still superb for a laptop packing this much power. By manually selecting the appropriate GPU for your tasks and utilizing the power management settings, you can optimize the XPS 16 for both extended battery life and high performance.
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Additional AI Features Are Available
 
 ![The file explorer on the dell XPS 16](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/the-file-explorer-on-the-dell-xps-16-9640_53633807303_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The Dell XPS 16 is one of the first laptops to sport the new "Copilot" button, integrating Microsoft's AI-powered Bing Chat assistant directly into the hardware. While the Copilot icon is accessible from the Windows 11 taskbar, the dedicated keyboard button offers a more convenient way to summon the AI companion. With Copilot, you can ask questions, get creative suggestions, summarize information, and more, making it a handy tool for both work and personal use.
@@ -211,6 +277,12 @@ Jerome Thomas / How-To Geek
 
 ![Dell XPS 16 with its cables and charge on a table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/the-dell-xps-16-9640-with-charging-cable-and-muliport-adapter_53634038265_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The [Dell XPS 16 (9640)](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Flinks%2F3607085%2Ftype%2Fdlg%2Fsid%2FUUhtgUeUpU2003759%2Fhttps%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Flaptops%2F16-new%2Fspd%2Fxps-16-9640-laptop) is a powerful, versatile laptop with excellent performance, a stunning display, and advanced features. However, its design flaws and variable battery life may be drawbacks for some users. If you prioritize performance and display quality over portability and battery life, the XPS 16 is a worthy consideration.
@@ -241,3 +313,45 @@ Bring your most intensive projects to life with our most powerful XPS laptop, en
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-best-apps-allow-you-to-transcribe-speech-to-text-offline/"><u>[New] Best Apps Allow You to Transcribe Speech to Text Offline</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-unlock-your-lost-iphone-xs-potentials-with-these-tricks/"><u>2024 Approved  Unlock Your Lost iPhone X's Potentials with These Tricks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/3-cpu-series/"><u>3 CPU Series</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-motorola-g24-power-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Motorola G24 Power? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/affordable-entry-into-twitch-broadcasting-possibly-utilizing-your-existing-gear/"><u>Affordable Entry Into Twitch Broadcasting - Possibly Utilizing Your Existing Gear!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/budget-friendly-beats-solo-in-ear-headphones-balancing-cost-and-quality/"><u>Budget-Friendly Beats Solo In-Ear Headphones: Balancing Cost and Quality</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comparing-fingerprint-sensor-technologies-ultrasonic-vs-optical-which-is-superior/"><u>Comparing Fingerprint Sensor Technologies: Ultrasonic Vs. Optical – Which Is Superior?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/dells-fresh-approach-elevating-the-experience-with-innovative-keyboard-and-mouse-design/"><u>Dell's Fresh Approach: Elevating the Experience with Innovative Keyboard & Mouse Design</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/determining-the-optimal-timeframe-for-upgrading-your-workplace-computer-systems/"><u>Determining the Optimal Timeframe for Upgrading Your Workplace Computer Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-latest-snapdragon-powered-laptops-lenovos-all-new-thinkpad-t14s-and-yoga-slim/"><u>Discover the Latest Snapdragon-Powered Laptops: Lenovo's All-New ThinkPad T14s & Yoga Slim</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/distinguishing-wi-fi-from-the-internet-uncovering-essential-variations-and-their-importance/"><u>Distinguishing Wi-Fi From the Internet: Uncovering Essential Variations and Their Importance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/diy-pc-maintenance-essential-toolkit-of-7-must-have-items/"><u>DIY PC Maintenance: Essential Toolkit of 7 Must-Have Items</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-multi-pc-management-with-intels-new-thunderbolt-sharing-technology/"><u>Effortless Multi-PC Management with Intel's New Thunderbolt Sharing Technology</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortless-techniques-for-posting-expanded-images-on-the-instagram-network/"><u>Effortless Techniques for Posting Expanded Images on the Instagram Network</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/elevating-your-play-experience-why-switching-to-advanced-handheld-systems-after-mastering-mobile-gaming-is-beneficial/"><u>Elevating Your Play Experience: Why Switching to Advanced Handheld Systems After Mastering Mobile Gaming Is Beneficial</u></a></li>
+<li><a href="https://facebook.techidaily.com/fixing-the-failure-of-fb-notifications-to-load/"><u>Fixing the Failure of FB Notifications to Load</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-realme-gt-5-pro-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Realme GT 5 Pro?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-selection-of-2024s-most-innovative-ereaders-on-the-market/"><u>The Ultimate Selection of 2024'S Most Innovative eReaders on the Market</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/tivo-television-sets-set-to-hit-american-markets-in-upcoming-spring-season/"><u>TiVO Television Sets Set to Hit American Markets in Upcoming Spring Season</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-lava-yuva-3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-hd-cameras-for-wildlife-enthusiasts/"><u>Top HD Cameras For Wildlife Enthusiasts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-camera-lighting-equipment-for-professional-photoshoots/"><u>Top Rated Camera Lighting Equipment for Professional Photoshoots</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-boomboxes-a-comprehensive-list/"><u>Top-Rated Boomboxes : A Comprehensive List</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-heat-conductive-pastes-a-buyers-guide/"><u>Top-Rated Heat Conductive Pastes : A Buyer's Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/transforming-e-waste-into-riches-the-story-of-a-uk-coin-producer/"><u>Transforming E-Waste Into Riches: The Story of a UK Coin Producer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-choosing-the-leading-bluetooth-converters-for-this-year/"><u>Ultimate Guide to Choosing the Leading Bluetooth Converters for This Year</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-picking-your-ideal-aio-gpucpu-cooling-solution/"><u>Ultimate Guide to Picking Your Ideal AIO GPU/CPU Cooling Solution</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/understanding-intels-explanation-behind-frequent-desktop-cpu-failures/"><u>Understanding Intel's Explanation Behind Frequent Desktop CPU Failures</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/understanding-the-hesitation-my-main-issues-with-going-for-an-oled-screen-today/"><u>Understanding the Hesitation: My Main Issues with Going for an OLED Screen Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/understanding-the-six-factors-that-lead-to-excessive-gpu-budgets/"><u>Understanding the Six Factors That Lead to Excessive GPU Budgets</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/understanding-your-televisions-hdmi-arc-a-detailed-guide/"><u>Understanding Your Television's HDMI-ARC: A Detailed Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unleash-immersive-game-sounds-in-depth-analysis-of-sony-wireless-earbuds-for-gamers-featuring-superior-latency-performance/"><u>Unleash Immersive Game Sounds – In-Depth Analysis of Sony Wireless Earbuds for Gamers, Featuring Superior Latency Performance</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unlock-the-secrets-of-culinary-excellence-with-these-6-essential-tips/"><u>Unlock the Secrets of Culinary Excellence with These 6 Essential Tips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlocking-apps-enabling-google-play-store-on-an-amazon-fire-tablet-a-comprehensive-tutorial/"><u>Unlocking Apps: Enabling Google Play Store on an Amazon Fire Tablet - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-cooler-masters-latest-power-supply-units-a-leap-to-an-impressive-2000-watt-capacity/"><u>Unveiling Cooler Master's Latest Power Supply Units: A Leap to an Impressive 2000 Watt Capacity</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/why-everyone-desired-a-rear-projection-television-despite-their-notorious-shortcomings/"><u>Why Everyone Desired a Rear-Projection Television Despite Their Notorious Shortcomings</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/will-shifting-xbox-processor-to-arm-technology-boost-performance-and-future-proof-console-gaming/"><u>Will Shifting Xbox Processor to ARM Technology Boost Performance and Future-Proof Console Gaming?</u></a></li>
+</ul></div>

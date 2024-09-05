@@ -1,7 +1,7 @@
 ---
 title: "Amping It Up: Ryzen 7 7780X0 Outperforms Intel's Core I9-14900K by Nearly a Quarter While Keeping Wattage Low"
-date: 2024-08-30T15:52:41.933Z
-updated: 2024-08-31T15:52:41.933Z
+date: 2024-09-04T02:12:57.236Z
+updated: 2024-09-05T02:12:57.236Z
 tags:
   - cpu
 categories:
@@ -48,7 +48,10 @@ Intel has[announced that it has found the root](https://community.intel.com/t5/P
  _"Intel is committed to making this right with our customers, and we continue asking any customers currently experiencing instability issues on their Intel Core 13th/14th Gen desktop processors reach out to Intel Customer Support for further assistance."_
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Intel statement on via oxidation
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: How to Get Your ASUS Touchpad Running on Windows 11"
-date: 2024-08-30T15:59:05.148Z
-updated: 2024-08-31T15:59:05.148Z
+date: 2024-09-04T02:12:52.694Z
+updated: 2024-09-05T02:12:52.694Z
 tags:
   - win11
   - win10
@@ -42,7 +42,10 @@ It’s essential to **update the driver for your Corsair Void headset**   for th
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Option 2: Update your Corsair Void Pro driver manually
 

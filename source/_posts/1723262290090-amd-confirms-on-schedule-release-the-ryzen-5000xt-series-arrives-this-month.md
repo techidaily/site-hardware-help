@@ -1,7 +1,7 @@
 ---
 title: "AMD Confirms On-Schedule Release: The Ryzen 5000XT Series Arrives This Month!"
-date: 2024-08-30T15:53:58.627Z
-updated: 2024-08-31T15:53:58.627Z
+date: 2024-09-04T02:12:56.294Z
+updated: 2024-09-05T02:12:56.294Z
 tags:
   - cpu
 categories:
@@ -117,5 +117,8 @@ The launch of AMD’s highly anticipated[Ryzen 9000](https://www.tomshardware.co
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

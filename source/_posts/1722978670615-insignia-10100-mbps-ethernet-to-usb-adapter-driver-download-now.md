@@ -1,7 +1,7 @@
 ---
 title: Insignia 10/100 Mbps Ethernet to USB Adapter Driver - Download Now
-date: 2024-08-30T15:59:39.129Z
-updated: 2024-08-31T15:59:39.129Z
+date: 2024-09-04T02:12:52.291Z
+updated: 2024-09-05T02:12:52.291Z
 tags:
   - win11
   - win10
@@ -134,5 +134,8 @@ OR
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

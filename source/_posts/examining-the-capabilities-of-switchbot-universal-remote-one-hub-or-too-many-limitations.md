@@ -1,7 +1,7 @@
 ---
 title: Examining the Capabilities of SwitchBot Universal Remote – One Hub or Too Many Limitations?
-date: 2024-08-28 23:20:40
-updated: 2024-08-29 11:29:11
+date: 2024-09-04T02:09:31.623Z
+updated: 2024-09-05T02:09:31.623Z
 tags:
   - hardware
 categories:
@@ -70,6 +70,12 @@ Universal Remote can control Infrared appliances such as air conditioners, TVs, 
 
 ![SwitchBot Universal Remote on a couch](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/switchbot-universal-remote-on-a-couch.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  I was primed to love the Universal Remote from SwitchBot because I desperately want more ways to control the smart lights, blinds, and other connected devices in my house. That’s not sarcastic either. Yelling out for Siri is handy, but not always convenient. Neither is constantly needing to pull out my phone and open an app.
@@ -88,6 +94,12 @@ Tyler Hayes / How-To Geek
 
 ![hand holding showing Matter buttons](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/hand-holding-showing-matter-buttons.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  What do you get if you actually successfully set up the remote? Well, you can use it to control an Apple TV box or Fire TV device. That means it could easily live in your living room and has an excuse to be out and readily accessible.
@@ -116,12 +128,30 @@ Tyler Hayes / How-To Geek
 
  Despite being a device for the entire home, it’s not a controller that begs to be carried around. The Universal Remote looks like a TV remote and probably best serves its purpose by being left in front of a TV—while still being able to manipulate devices across the home. If you do manage to misplace the large device there's a feature in SwitchBot's app to have the remote make a sound.
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Future of This Device Could Be Amazing (But Wait for It)
 
  Even though the Universal Remote isn’t as full-featured as some people might hope for now, there’s at least a chance updates will improve it in the future. The company has stated that support for Roku, NVIDIA Shield, and Android TV is coming in the future.
 
  Similarly, Alexa and Google Home support are said to be coming in the future as well. The remote is continuing to get software updates to rid it of bugs too. This is all great and encouraging, but don’t buy the Universal Remote now if you plan on using it with one of those devices. Wait until the features are released.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Battery Is a Highlight
 
 ![SwitchBot Universal Remote lying upside down](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/switchbot-universal-remote-lying-upside-down.jpg) 
@@ -132,10 +162,22 @@ Tyler Hayes / How-To Geek
 
  SwitchBot advertises a 150-day battery life and even though I haven’t used the remote for half a year, that number doesn’t shock me. When I did test recharging the remote, the USB-C port at the bottom powered it up quickly.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Should You Buy the SwitchBot Universal Remote?
 
 ![hand holding SwitchBot Universal Remote showing buttons](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/hand-holding-switchbot-universal-remote-showing-buttons.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  Unless you have a very specific need that you’re sure the [SwitchBot Universal Remote](https://www.amazon.com/SwitchBot-Multi-Use-Universal-Customized-Compatible/dp/B0CWQPX2XF?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2004706&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fswitchbot-universal-remote-control-review%2F&asc%5Fcampaign=Authority) can address currently, I would avoid it—for now. The biggest reason is that connecting the remote through Apple’s Home app to reach Matter devices is just too complicated to be worth the hassle. It can be a bit confusing to adjust Matter controls after the initial setup, too.
@@ -168,3 +210,39 @@ Universal Remote can control Infrared appliances such as air conditioners, TVs, 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/updated-achieve-more-with-costless-timer-software/"><u>[Updated] Achieve More with Costless Timer Software</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-easy-steps-to-capturing-films-on-various-operating-systems-for-2024/"><u>[Updated] Easy Steps to Capturing Films on Various Operating Systems for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-mac-enthusiasts-selection-of-premier-editing-suites/"><u>[Updated] In 2024, Mac Enthusiasts' Selection of Premier Editing Suites</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-spotlight-on-8-mirrorless-cameras-dominating-the-vlogging-scene/"><u>[Updated] Spotlight on 8 Mirrorless Cameras Dominating the Vlogging Scene</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-video-content-battle-who-wins-with-vimeo-youtube-or-dailymotion/"><u>2024 Approved  Video Content Battle  Who Wins with Vimeo, YouTube, or DailyMotion?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-lenovo-thinkpad-x1-carbon-drivers-compatible-with-windows-11-and-7/"><u>Download Lenovo ThinkPad X1 Carbon Drivers: Compatible with Windows 11 and 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-updated-geforce-rtx-2070-driver-for-multiple-winsrs-10-8-and-7-systems-supported/"><u>Download Updated Geforce RTX 2070 Driver for Multiple WinSrs: 10, 8, and 7 Systems Supported!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-installation-of-intels-advanced-thunderbolt-controllers-ready-to-go/"><u>Effortless Installation of Intel's Advanced Thunderbolt Controllers – Ready to Go?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722955305014-elgato-hd60-driver-glitches-fast-and-straightforward-repair-methods-inside/"><u>Elgato HD60 Driver Glitches? Fast and Straightforward Repair Methods Inside!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/essential-z370p-d3-motherboard-drivers-secure-and-fast-download-options/"><u>Essential Z370P D3 Motherboard Drivers – Secure & Fast Download Options</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-high-performance-gadgets-with-toms-hardware-experts/"><u>Exploring High-Performance Gadgets with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-edge-with-newly-listed-ryzen-5-9600x-in-amazons-canada-store-for-cad472-is-it-worth-your-money/"><u>Get the Edge with Newly Listed Ryzen 5 9600X in Amazon's Canada Store for CAD$472 – Is It Worth Your Money?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-download-and-update-your-creative-sound-blasters-drivers-on-windows-11/"><u>How to Download & Update Your Creative Sound Blaster's Drivers on Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-install-updated-drivers-for-your-insignia-bluetooth-device-in-windows/"><u>How to Install Updated Drivers for Your Insignia Bluetooth Device in Windows</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-xr-online-here-are-6-easy-ways-by-drfone-ios/"><u>How to Unlock iPhone XR Online? Here are 6 Easy Ways</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-poco-x5-pro-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722963963389-install-official-iphone-support-software-on-your-windows-11-pc-now/"><u>Install Official iPhone Support Software on Your Windows 11 PC Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-the-latest-ch3ebusch-g-chip-driver-version-on-windows-11-pcs/"><u>Installing the Latest CH3ebusch G Chip Driver Version on Windows 11 PCs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-intel-wireless-network-driver-download-for-wi-fi-6-ax200-on-windows-11-and-10/"><u>Latest Intel Wireless Network Driver Download for Wi-Fi 6 AX200 on Windows 11 and 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-samsung-phone-connections-how-to-update-your-usb-driver-seamlessly/"><u>Mastering Samsung Phone Connections: How to Update Your USB Driver Seamlessly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-the-world-of-computing-with-toms-guidance/"><u>Navigating the World of Computing with Tom's Guidance</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pazera-free-extractor-analysis-the-ultimate-guide-to-2024-sound-freedom/"><u>Pazera Free Extractor Analysis  The Ultimate Guide to 2024 Sound Freedom</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-installation-of-insignias-usb-vga-adapter-drivers-included/"><u>Quick Installation of Insignia's USB VGA Adapter: Drivers Included</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-steps-to-get-the-newest-driver-for-your-wacom-cintiq-install-now/"><u>Quick Steps to Get the Newest Driver for Your Wacom Cintiq: Install Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-troubleshoot-and-fix-realtek-alc887-sound-card-drivers-on-your-pc/"><u>Step-by-Step Guide to Troubleshoot and Fix Realtek ALC887 Sound Card Drivers on Your PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-resolution-for-realtek-alc887-audio-driver-glitches-on-pc/"><u>Step-by-Step Resolution for Realtek ALC887 Audio Driver Glitches on PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-gadget-hub-navigating-through-top-notch-hardware-by-tom/"><u>The Ultimate Gadget Hub: Navigating Through Top-Notch Hardware by Tom</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-gadgets-toms-expert-analysis/"><u>The Ultimate Guide to Gadgets - Tom's Expert Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-corner-exploring-the-latest-in-computer-components/"><u>Tom's Tech Corner: Exploring the Latest in Computer Components</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-vivo-y36-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Vivo Y36 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrade-your-surface-book-drives-easy-downloads-included/"><u>Upgrade Your Surface Book Drives Easy - Downloads Included!</u></a></li>
+</ul></div>

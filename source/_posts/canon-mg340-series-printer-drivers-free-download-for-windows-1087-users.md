@@ -1,7 +1,7 @@
 ---
 title: Canon MG340 Series Printer Drivers - Free Download for Windows 10/8/7 Users
-date: 2024-08-30T15:50:31.515Z
-updated: 2024-08-31T15:50:31.515Z
+date: 2024-09-04T02:12:58.787Z
+updated: 2024-09-05T02:12:58.787Z
 tags:
   - win11
   - win10
@@ -109,5 +109,8 @@ thumbnail: https://thmb.techidaily.com/0c4fe2df3501ab3d12aff4159eef3a635fdab9589
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

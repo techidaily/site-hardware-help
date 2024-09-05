@@ -1,7 +1,7 @@
 ---
 title: "Onyx Boox Tab Ultra Examined: Unveiling Strengths and Weaknesses of the Top E-Reader Device on the Market"
-date: 2024-08-27 15:11:59
-updated: 2024-08-29 10:12:50
+date: 2024-09-04T02:12:26.023Z
+updated: 2024-09-05T02:12:26.023Z
 tags:
   - android
 categories:
@@ -82,6 +82,12 @@ Expand
 
 [See at Amazon](https://www.amazon.com/BOOX-Tab-Ultra-ePaper-Digital/dp/B0BDRF66D2/?tag=hotoge-20&ascsubtag=UUhtgUeUpU905155&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F138095%2Fonyx-boox-tab-ultra-review%2F&asc%5Fcampaign=Affiliate) [See at Boox](https://shop.boox.com/products/tab) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Form Factor and Screen** 
 
 ![Tab Ultra showing YouTube website](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/721bc89c.jpg) 
@@ -100,6 +106,12 @@ _Tyler Hayes / Reviews Geek_
 
  Interestingly, I found the black-and-white display to be a challenge when using certain kinds of apps. Launching [Apple Music](https://apps.apple.com/us/app/apple-music/id1108187390) was eye-opening. It's hard not to expect bright, colorful album artwork rather than grey blobs. The same was true of browsing the web on this device. It worked, of course, but it was less pleasant than you might imagine. The lack of color wears on your eyes as your mind spends unnecessary time trying to visualize what it's used to seeing.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Tablet Usage and Daily Computing** 
 
 ![Tab Ultra showing a screen in the kindle store](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/b4b9dfa9.jpg) 
@@ -120,6 +132,12 @@ _Tyler Hayes / Reviews Geek_
 
 ![Tab Ultra showing the camera used for scanning documents](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/76b46fd8.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Using the camera with a monochrome screen was harder than expected. - _Tyler Hayes / Reviews Geek_
 
  Inside the Onyx Boox Tab Ultra is a [Qualcomm Octa-core chip](https://www.qualcomm.com/products/application/smartphones/snapdragon-6-series-mobile-platforms/snapdragon-662-mobile-platform) for powering through tasks. The tablet runs [Android 11](https://some-techniques.techidaily.com/in-2024-how-to-generate-stellar-podcast-title-ideas/) and comes with the Google Play Store right on the home screen. There was no problem downloading all the apps I wanted on it. Of course, Android apps used on larger screens still leave a lot to be desired. A lot of times you'll get big phone apps instead of finely crafted tablet ones.
@@ -130,6 +148,12 @@ Using the camera with a monochrome screen was harder than expected. - _Tyler Hay
 
  The tablet has 4GB of [RAM](https://youtube-web.techidaily.com/ed-2024-approved-unlocking-youtube-success-top-video-strategies-to-explode-views/) and 128GB of storage. You can add more space with the device's available microSD card slot, though I have a hard time imagining needing more storage space than what's built-in. To top it off there's a fingerprint sensor in the power button for increased security, speakers that get plenty loud, and a [USB-C port](https://screen-activity-recording.techidaily.com/navigating-lenovo-screen-capture-tools-effortlessly/) for charging. (There's no front-facing camera for video calls, but that might be a line too far for a lot of people.)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Keyboard Cover** 
 
  The keyboard cover from Boox had the ability to completely ruin the Tab Ultra's experience. Without it, the product is just a fancy, expensive, e-reader instead of the more computer or tablet-like device it is with a keyboard attached. (In fact, at the time of writing, the Tab Ultra was only being sold with the keyboard cover bundled on the company's website.)
@@ -140,6 +164,18 @@ Using the camera with a monochrome screen was harder than expected. - _Tyler Hay
 
  I had to turn off the floating predictive text on the screen when using the physical keyboard. Not only was it distracting because it covered up the words I was typing, but it interfered when trying to use certain characters like using the apostrophe. Hitting that key would cause double and triple words to appear on the screen each time. Typing on my lap with the keyboard case was doable. It wasn't anything remarkable or desirable, but it was certainly usable when needed.
 
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Should You Buy the Onyx Boox Tab Ultra?** 
 
 ![Tab Ultra with the notes app open](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/1414ea7e.jpg) 
@@ -154,6 +190,12 @@ _Tyler Hayes / Reviews Geek_
 
 ![eef8f087](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/eef8f087.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  Onyx Boox Tab Ultra
 
 6/ 10 
@@ -174,3 +216,39 @@ _Tyler Hayes / Reviews Geek_
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-skyrocket-views-with-these-proven-youtube-optimization-strategies/"><u>[Updated] Skyrocket Views with These Proven YouTube Optimization Strategies</u></a></li>
+<li><a href="https://driver-install.techidaily.com/accelerate-win-driver-updates-guide/"><u>Accelerate Win Driver Updates Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-the-perfect-tone-accessible-software-for-effortless-vocal-transformation-for-2024/"><u>Crafting the Perfect Tone  Accessible Software for Effortless Vocal Transformation for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/huge-savings-alert-get-the-ideal-ultrawide-monitor-at-a-stunning-600-off-in-samsungs-exclusive-sale-event/"><u>Huge Savings Alert: Get the Ideal Ultrawide Monitor at a Stunning $600 Off in Samsung's Exclusive Sale Event</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-oneplus-12r-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked OnePlus 12R Phone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-oneplus-12r-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From OnePlus 12R To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-vivo-v30-pro-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Vivo V30 Pro Without PUK Codes</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-apple-iphone-xs-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud On your Apple iPhone XS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-razer-aether-monitor-light-bar-analysis-beyond-the-game-night-illumination/"><u>In-Depth Razer Aether Monitor Light Bar Analysis - Beyond the Game Night Illumination</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-review-of-the-ecoflow-delta-pro-3-the-ultimate-battery-solution-for-uninterrupted-homesteads/"><u>In-Depth Review of the EcoFlow Delta Pro 3: The Ultimate Battery Solution for Uninterrupted Homesteads</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/introducing-asus-revolutionary-nuc-tiny-pc-lineup-featuring-advanced-rtx-4000-gpu-technology/"><u>Introducing ASUS' Revolutionary NUC Tiny PC Lineup Featuring Advanced RTX 4000 GPU Technology</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/laptop-vs-chromebook-uncovering-key-distinctions/"><u>Laptop Vs. Chromebook: Uncovering Key Distinctions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-the-art-of-interpretation-key-insights-into-gpu-test-scores/"><u>Mastering the Art of Interpretation: Key Insights Into GPU Test Scores</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-rotate-your-3gp-videos-without-spending-a-dime-top-5-free-tools-for-2024/"><u>New Rotate Your 3GP Videos Without Spending a Dime Top 5 Free Tools for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/on-the-go-security-excellence-with-expressvpn-aircove-go-an-in-depth-analysis/"><u>On-the-Go Security Excellence with ExpressVPN Aircove Go: An In-Depth Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/overcoming-the-urge-understanding-why-you-keep-buying-new-headsets/"><u>Overcoming the Urge: Understanding Why You Keep Buying New Headsets</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/record-continuous-three-minute-clips-with-the-latest-ray-ban-meta-the-ultimate-smart-sunglasses-upgrade/"><u>Record Continuous Three-Minute Clips with the Latest Ray-Ban Meta: The Ultimate Smart Sunglasses Upgrade</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revamp-your-car-stereo-on-a-budget-four-key-strategies-to-elevate-audio-quality-without-replacing-speakers/"><u>Revamp Your Car Stereo on a Budget: Four Key Strategies to Elevate Audio Quality Without Replacing Speakers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/review-of-corsairs-tc500-luxe-stylish-and-comfortable-but-some-issues-persist/"><u>Review of Corsair's TC500 Luxe - Stylish & Comfortable, But Some Issues Persist</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-the-mystery-of-lagging-and-frame-drops-in-modern-games-a-comprehensive-guide/"><u>Solving the Mystery of Lagging and Frame Drops in Modern Games: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/souffle/"><u>Soufflé</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/sunday-summary-atandt-cyber-incident-analysis-and-samsungs-cutting-edge-phone-launches-revealed/"><u>Sunday Summary: AT&T Cyber Incident Analysis & Samsung's Cutting-Edge Phone Launches Revealed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/tarte-tatin/"><u>Tarte Tatin</u></a></li>
+<li><a href="https://media-tips.techidaily.com/the-smart-move-protecting-yourself-by-suspending-listening-records-on-apple-music-platforms/"><u>The Smart Move: Protecting Yourself by Suspending Listening Records on Apple Music Platforms</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-gopro-gear-and-add-ons-ultimate-selection/"><u>Top GoPro Gear and Add-Ons : Ultimate Selection</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-reasons-to-skip-amazon-when-purchasing-sd-memory-cards/"><u>Top Reasons to Skip Amazon When Purchasing SD Memory Cards</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-ranking-ipad-models-a-comprehensive-guide/"><u>Top-Ranking iPad Models : A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-ipad-pro-gadgets-and-enhancements-for-2e-2024-edition/"><u>Top-Rated iPad Pro Gadgets and Enhancements for 2E - 2024 Edition</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/transform-cleaning-routines-this-prime-day-unveiling-narwals-advanced-robotic-vacuums-and-automatic-mops-at-irresistible-prices/"><u>Transform Cleaning Routines This Prime Day – Unveiling Narwal's Advanced Robotic Vacuums and Automatic Mops at Irresistible Prices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/transform-your-rooms-mood-with-the-govee-rgbif-pro-floor-lamp-an-in-depth-review-of-aesthetics-and-sound-capabilities/"><u>Transform Your Room's Mood with the Govee RGBIF Pro Floor Lamp - An In-Depth Review of Aesthetics and Sound Capabilities</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-gamers-guide-to-the-msi-optimum-vision-revel-in-qd-oled-brilliance-reviewed/"><u>Ultimate Gamer's Guide to the MSI Optimum Vision: Revel in QD-OLED Brilliance Reviewed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-locating-lost-or-concealed-airtags-and-bluetooth-tracker-devices/"><u>Ultimate Guide to Locating Lost or Concealed AirTags and Bluetooth Tracker Devices</u></a></li>
+</ul></div>

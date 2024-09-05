@@ -1,7 +1,7 @@
 ---
 title: AMD Graphics Card Users! Download & Install the Official RX 590 Drivers Now
-date: 2024-08-30T15:59:49.932Z
-updated: 2024-08-31T15:59:49.932Z
+date: 2024-09-04T02:12:52.176Z
+updated: 2024-09-05T02:12:52.176Z
 tags:
   - win11
   - win10
@@ -126,5 +126,8 @@ or
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

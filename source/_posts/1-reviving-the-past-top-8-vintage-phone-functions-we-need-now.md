@@ -1,7 +1,7 @@
 ---
 title: "1. Reviving the Past: Top 8 Vintage Phone Functions We Need Now"
-date: 2024-08-27 21:17:16
-updated: 2024-08-29 10:48:42
+date: 2024-09-04T02:11:51.556Z
+updated: 2024-09-05T02:11:51.556Z
 tags:
   - android
 categories:
@@ -56,6 +56,12 @@ Justin Duino / How-To Geek
 
  Manufacturers have ditched front-facing speakers in favor of larger edge-to-edge displays, but I'm not sure if it was a sacrifice worth making. Thankfully, gaming smartphones decided to bring back front-facing speakers. The best example is the [ASUS ROG Phone 6D](https://www.amazon.com/ASUS-Phone-256GB-Factory-Unlocked/dp/B0BPDS5MM9?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001436&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fold-smartphone-features-that-should-be-brought-back%2F&asc%5Fcampaign=Evergreen), which packs impressively loud stereo front-facing speakers in a slim package.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Notification LED
 
  A notification LED is a small LED on the front or back of your phone that lets you know you have a notification. Most phones with notification LEDs allowed you to select different colors based on the app or notification type. You could have green for missed calls, blue for messages, purple for Instagram, and so on.
@@ -64,10 +70,22 @@ Justin Duino / How-To Geek
 
  You could argue that notification LEDs are making a bit of a comeback as well. The aforementioned Nothing Phone (2) has the Glyph system on the back that can notify you of missed messages. If you find that too distracting, the [Poco F4 GT](https://www.amazon.com/Factory-Unlocked-Verizon-Cricket-Charger/dp/B09W2WXG3F?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001436&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fold-smartphone-features-that-should-be-brought-back%2F&asc%5Fcampaign=Evergreen) integrates a subtle notification LED around the back camera.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Headphone Jack
 
 ![Pixel 4a 5G rear camera module.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/52263d17.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
  The universal headphone (3.5mm) jack is a feature audiophiles miss the most. Android phones started removing the headphone jack largely after Apple ditched it in 2016 with the release of the iPhone 7\. They did it to free up space in their phones for internal components and better water resistance. Many users opposed this change for several reasons.
@@ -80,10 +98,28 @@ Justin Duino / How-To Geek
 
  IR blasters are a rare smartphone feature nowadays. This is likely because few people used them, and we now have smart TVs that can be controlled through proprietary apps and voice commands. Still, IR blasters are a convenient and dearly missed feature, especially for frequent travelers who like watching TV in their hotel rooms.
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  More Physical Buttons
 
 ![Pixel phone power and volume buttons.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/pixel-power-volume-buttons.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
 [Smartphones need more customizable physical buttons](https://facebook-record-videos.techidaily.com/updated-in-2024-beam-your-content-upward-perfecting-youtube-seo-techniques/), period. Physical home buttons, various action buttons, notification sliders, and squeezable sides (like on the [Pixel 2](https://some-approaches.techidaily.com/the-secrets-of-writing-impressive-podcast-summaries-for-2024/)) were phased out in favor of sleeker designs.
@@ -92,6 +128,18 @@ Justin Duino / How-To Geek
 
  The notification slider is a particularly sore loss. It was an easy way to switch off your notifications or set them to [Do Not Disturb (DND) mode](https://instagram-video-recordings.techidaily.com/updated-how-to-edit-vertical-videos-for-instagram-in-final-cut-pro-x-in-2024/), making it much easier to turn off all sounds before an important meeting.
 
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  MicroSD Card Slot
 
  Expandable storage in the form of MicroSD cards still exists on some phones, but it's becoming increasingly rare. While MicroSDs are finicky and slower than integrated storage, they offer a cheap solution to add more storage.
@@ -116,3 +164,42 @@ Justin Duino / How-To Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-next-gen-game-viewing-top-5-hdmi-21-infinity-refresh-rates/"><u>[Updated] 2024 Approved  Next-Gen Game Viewing  Top 5 HDMI 2.1 Infinity Refresh Rates</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-use-free-text-animations-online-and-offline-solutions/"><u>[Updated] How to Use Free Text Animations [Online and Offline Solutions]</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-choosing-wedding-timers-on-google-play-and-apple-store/"><u>[Updated] The Ultimate Guide to Choosing Wedding Timers on Google Play and Apple Store</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-top-10-innovative-ai-based-podcast-name-generators-for-2024/"><u>[Updated] Top 10 Innovative AI-Based Podcast Name Generators for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/2024-cpu-cost-guide-discover-the-lowest-prices-available-now/"><u>2024 CPU Cost Guide: Discover the Lowest Prices Available Now</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-ways-to-extract-data-from-corrupt-excel-2000-file-by-stellar-guide/"><u>4 Ways to extract data from corrupt Excel 2000 file</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-vivo-v29-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asus-dvd-drive-software-get-your-downloads-here/"><u>ASUS DVD Drive Software - Get Your Downloads Here</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-honor-x9a-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Honor X9a</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-corsair-h80i-v2-driver/"><u>Download Corsair H80i v2 Driver</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-latest-logitech-t630-software-for-windows-operating-systems-7810/"><u>Download the Latest Logitech T630 Software for Windows Operating Systems (7/8/10)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722969656267-easy-steps-to-update-your-nvidia-gpu-drivers-get-the-newest-version-now/"><u>Easy Steps to Update Your Nvidia GPU Drivers - Get the Newest Version Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-electronics-with-tom-a-deep-dive-into-hardware-reviews/"><u>Exploring Electronics with Tom: A Deep Dive Into Hardware Reviews</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/frame-perfect-our-top-10-photo-lenses-list/"><u>Frame Perfect  Our Top 10 Photo Lenses List</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fresh-release-install-magicard-rio-pro-driver-for-your-pc-windows-support/"><u>Fresh Release: Install Magicard Rio Pro Driver for Your PC (Windows Support)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-drivers-for-your-brother-l2740dw-printer-on-windows-systems/"><u>Get the Newest Drivers for Your Brother L2740DW Printer on Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-correctly-update-or-repair-hp-monitor-drivers-across-windows-operating-systems/"><u>How to Correctly Update or Repair HP Monitor Drivers Across Windows Operating Systems</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-realme-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/hybrid-marketing-strategy-combining-facebook-linkedin-and-youtube-for-business-growth/"><u>Hybrid Marketing Strategy: Combining Facebook, LinkedIn, and YouTube for Business Growth</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Oppo F23 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-moto-g-stylus-assessment-outstanding-functionality-adequate-battery-duration-and-handwriting-tool/"><u>In-Depth Moto G Stylus Assessment: Outstanding Functionality, Adequate Battery Duration & Handwriting Tool</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/instant-update-find-and-install-the-right-amd-drivers-for-you/"><u>Instant Update: Find & Install the Right AMD Drivers for You</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/maximize-wifi-speed-easy-installation-of-the-new-intel-ac-3160-dual-band-network-card/"><u>Maximize WiFi Speed: Easy Installation of the New Intel AC 3160 Dual Band Network Card</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/modernize-your-digital-art-tools-freshly-released-cintiq-tablet-driver-for-quick-install/"><u>Modernize Your Digital Art Tools – Freshly Released Cintiq Tablet Driver for Quick Install!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/perfecting-your-audio-file-for-apples-review-boards/"><u>Perfecting Your Audio File for Apple’s Review Boards</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/samsung-usb-debugging-fast-and-easy-adb-driver-downloads-available-now/"><u>Samsung USB Debugging: Fast and Easy ADB Driver Downloads Available Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/solution-steps-for-a-non-functional-logitech-g433-mic-a-comprehensive-guide/"><u>Solution Steps for a Non-Functional Logitech G433 Mic - A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/speed-up-your-printing-direct-link-to-download-samsung-m2070fw-drivers/"><u>Speed Up Your Printing: Direct Link to Download Samsung M2070FW Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-updating-arduino-usb-drivers-in-windows/"><u>Step-by-Step Guide: Updating Arduino USB Drivers in Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-gadgets-by-tom-top-picks-and-advice/"><u>The Ultimate Guide to Gadgets by Tom - Top Picks & Advice</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-hp-printer-software-compatible-with-windows-10-and-11/"><u>Update Your HP Printer Software: Compatible with Windows 10 and 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrade-your-graphics-experience-amd-rx-6800-xt-driver-downloads-for-multiple-windows-versions-11-10-8-and-7/"><u>Upgrade Your Graphics Experience - AMD RX 6800 XT Driver Downloads for Multiple Windows Versions (11, 10, 8, and 7)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722977896278-webcam-troubles-tune-up-your-windows-7-drivers-in-no-time-here/"><u>Webcam Troubles? Tune-Up Your Windows 7 Drivers in No Time Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/zen-5-cpu-revelation-the-new-ryzen-ai-eat-intels-and-apples-chips-for-breakfast-sets-high-passmark-records/"><u>Zen 5 CPU Revelation: The New Ryzen AI Eat Intel's and Apple's Chips for Breakfast, Sets High PassMark Records</u></a></li>
+</ul></div>

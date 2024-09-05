@@ -1,7 +1,7 @@
 ---
 title: "Witnessing Sonic Speed: An Unassuming Can of Compressed Air Soars to Hypersonic Velocities - Shock Diamonds Exposed by Skilled Observer"
-date: 2024-08-30T15:53:18.148Z
-updated: 2024-08-31T15:53:18.148Z
+date: 2024-09-04T02:12:56.790Z
+updated: 2024-09-05T02:12:56.790Z
 tags:
   - desktop
 categories:
@@ -110,5 +110,8 @@ These are the specifications of the two Asus ROG NUC models:
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

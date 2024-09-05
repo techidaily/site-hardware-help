@@ -1,7 +1,7 @@
 ---
 title: "Download Lenovo ThinkPad X1 Carbon Drivers: Compatible with Windows 11 and 7"
-date: 2024-08-30T15:51:18.441Z
-updated: 2024-08-31T15:51:18.441Z
+date: 2024-09-04T02:12:58.247Z
+updated: 2024-09-05T02:12:58.247Z
 tags:
   - win11
   - win10
@@ -151,5 +151,8 @@ OR
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

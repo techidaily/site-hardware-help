@@ -1,7 +1,7 @@
 ---
 title: "China's Innovative Homegrown AI Chip, the P1 Series: Delivering 45 TOPS and Industry-Compliant Performance – Now Manufacturing Begins"
-date: 2024-08-30T15:58:37.903Z
-updated: 2024-08-31T15:58:37.903Z
+date: 2024-09-04T02:12:53.006Z
+updated: 2024-09-05T02:12:53.006Z
 tags:
   - cpu
 categories:
@@ -128,5 +128,8 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

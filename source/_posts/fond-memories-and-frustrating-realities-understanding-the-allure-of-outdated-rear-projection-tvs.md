@@ -1,7 +1,7 @@
 ---
 title: "Fond Memories and Frustrating Realities: Understanding the Allure of Outdated Rear-Projection TVs"
-date: 2024-08-28 16:55:49
-updated: 2024-08-29 12:25:52
+date: 2024-09-04T02:07:34.823Z
+updated: 2024-09-05T02:07:34.823Z
 tags:
   - hardware
 categories:
@@ -25,24 +25,54 @@ thumbnail: https://thmb.techidaily.com/e3f7f8209eab3a8810779d3b9fd5af99ac53d2f64
 
  In _Friends_Chandler and Joey prize their big-screen TV and leather recliners. In one episode of _Seinfeld,_ Jerry and friends want to buy a big-screen TV for "the Drake" as an engagement present, which they try to get back when the engagement is called off. No matter which way you slice it, a big TV was an idea with plenty of cultural cache.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  CRT Size Limits Were Harsh
 
  The first TV we ever had in my house growing up was a 9-inch color Blaupunkt, and by the end of our CRT era, our biggest TV had been a mere 29-inches in size. While CRT TVs would top out at around 40-inches. The biggest ever CRT I could find was the insanely-heavy 440-pound [Sony PVM-4300](https://archive.org/details/sony%5FPVM-4300%5FOperating%5FInstructions.PDF/page/n27/mode/2up), which offers around 43-inches of screen real estate.
 
 ![Huge Sony PVM CRT wth specifcations.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/huge-sony-pvm-crt-wth-specifcations.png) 
 
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Sony
 
  The problem is that CRTs scale poorly, since the electron beam gun has to be a set relative distance from the screen for all the geometry and math to work out. That means the amount of glass in the vacuum tube increases quickly, and before you know it, you need a forklift to move your new TV around. Contrast that with modern flat panels, where you have a pretty linear scale when it comes to weight.
 
  Rear projection TVs allowed for massive screens, by taking a CRT image (later models used a digital projector) and projecting it using mirrors and lenses onto the back of a screen. If you wanted a true big-screen TV, it was rear-projection or nothing.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Early Rear Projection TVs Seemed Like the Future
 
  Rear projection TVs actually date all the way back to the mid 1930s, when maximum CRT tube sizes were even more constrained. These early sets weren't really reliable, but they set the general template for this approach for getting a bigger image. It wouldn't be until the 1970s that RPTVs would become truly ready for the public. At least those with deep pockets. By the mid 80s, these big-screen TVs were [going strong](https://www.chicagotribune.com/1985/05/03/despite-drawbacks-projection-tv-sales-up/), but [by 2012 rear-projection was dead](https://www.cnet.com/tech/home-entertainment/rip-rear-projection-tv/).
 
  For all those decades between, it really was the only good option for large format-displays in a television-style cabinet. Sure, you could get some sort of home projection system, including a CRT projector that was basically the same thing you'd find inside an RPTV, but with regular front projection. However, as you can imagine, that was even less practical than something you could slot in where your current CRT was standing.
 
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Experience Did Not Match Expectations
 
  The first time I saw a rear-projection TV in person was a sad day. We had a few family friends who could spring for this sort of luxury, which sometimes meant visiting and watching movies or sport on their large sets. These were still CRT projection TVs as far as I can remember, it being a little too early for the first DLP RPTVs.
@@ -51,10 +81,22 @@ Sony
 
  No matter which way you slice it, a CRT TV has a sharper, brighter, and overall superior picture than an RPTV. Heck, CRTs look better than most flat panels do today, they're just much smaller image-wise.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Your Friends Would Still Be Jealous
 
  That said, if I had the money in the late 90s or early 2000s, I would likely have sunk my funds into one of these behemoths as well. In the end, it's still closer to a home cinema experience than anything barring a front-projector could achieve. I know my friends would have been around our place way more if my parents had lost their minds and bought a big-screen TV like this when I was a boy. I would watch cartoons 100% on one of these behemoths.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030395/7443" target="_top" id="2030395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Rear Projection Was Almost Great at the End
 
  My Editor-in-Chief here at How-To Geek thinks I'm a little too hard on how disappointing rear-projection was in practice, but then he owned a DLP model, representing the peak of the technology towards the end. While it still didn't match locking your eyeballs directly on a CRT, it was a big improvement overall. That said, these TVs had shortcomings besides image quality, and were only marginally more practical than the enormous and heavy big screen tube models.
@@ -77,3 +119,45 @@ Sony
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-making-sense-of-mukbangs-crafting-foodie-streams/"><u>[New] 2024 Approved  Making Sense of Mukbangs  Crafting Foodie Streams</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-classic-calls-a-curated-list-of-tone-downloading-sites/"><u>[New] Classic Calls  A Curated List of Tone Downloading Sites</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-the-art-of-making-popular-tiktok-sounds-your-ringtone/"><u>[New] Mastering the Art of Making Popular TikTok Sounds Your Ringtone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-premium-android-photography-alterations/"><u>[Updated] 2024 Approved  Premium Android Photography Alterations</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/4-things-you-must-know-about-apple-iphone-7-activation-lock-by-drfone-ios/"><u>4 Things You Must Know About Apple iPhone 7 Activation Lock</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/advanced-playback-techniques-to-streamline-media-workflows/"><u>Advanced Playback Techniques to Streamline Media Workflows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ai-ryzen-hits-new-heights-with-incredible-single-core-performance-leaving-intel-behind-zen-chip-bests-both-the-core-ultra-7-268v-and-ryzen-9-7945hx3d/"><u>AI Ryzen Hits New Heights with Incredible Single-Core Performance, Leaving Intel Behind: Zen Chip Bests Both the Core Ultra 7 268V & Ryzen 9 7945HX3D</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/beat-making-brilliance-music-for-your-instareals/"><u>Beat-Making Brilliance  Music for Your InstaReals</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-guide-hp-officejet-pro-8610-driver-downloads-and-updates-for-windows-7-xp-vista-8-and-10/"><u>Comprehensive Guide: HP Officejet Pro 8610 Driver Downloads & Updates for Windows 7, XP, Vista, 8 & 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-secrets-of-your-android-device-unveiling-cpu-power-and-performance-metrics/"><u>Discover the Secrets of Your Android Device: Unveiling CPU Power & Performance Metrics</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-dell-dell-d3100-graphics-driver-simple-steps/"><u>Download and Update DELL Dell D3100 Graphics Driver - Simple Steps</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-logitech-c930e-hd-pro-webcam-drivers-windows-10-and-11-support/"><u>Download Logitech C930e HD Pro Webcam Drivers - Windows 10 & 11 Support</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-downloads-and-setup-canon-imageclass-mf48n-printer-drivers-available-now/"><u>Easy Downloads & Setup - Canon ImageCLASS MF48n Printer Drivers Available Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722963138984-effortless-setup-secure-your-microsoft-wireless-mouse-5000-driver-here/"><u>Effortless Setup: Secure Your Microsoft Wireless Mouse 5000 Driver Here!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-printing-experience-with-the-latest-epson-wf-3620-driver-upgrades-for-windows-1087/"><u>Enhance Your Printing Experience with the Latest Epson WF-3620 Driver Upgrades for Windows 10/8/7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-insights-on-the-onyx-boox-poke-5-solid-for-your-studies/"><u>Expert Insights on the Onyx Boox Poke 5 - Solid for Your Studies</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expertise-in-visuals-enhancing-pictures-with-words-for-2024/"><u>Expertise in Visuals  Enhancing Pictures with Words for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/find-and-install-the-latest-amd-radeon-r9-360-drivers-on-windows-11-free-downloads-inside/"><u>Find & Install the Latest AMD Radeon R9 360 Drivers on Windows 11: Free Downloads Inside!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/find-and-download-the-right-logitech-brio-webcam-drivers-for-windows-10-8-or-7/"><u>Find and Download the Right Logitech Brio Webcam Drivers for Windows (10, 8, or 7)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fixing-compatibility-a-guide-to-updating-intel-hd-graphics-win-solutions/"><u>Fixing Compatibility: A Guide to Updating Intel HD Graphics ([Win-Solutions)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-optimized-performance-rtx-2060-super-drivers-for-windows-11/"><u>Get Optimized Performance: RTX 2060 Super Drivers for Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-nexiq-usb-connection-up-and-running-with-the-latest-drivers/"><u>Get Your Nexiq USB Connection Up and Running with the Latest Drivers!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unwanted-no-more-top-7-android-apps-to-eliminate-ads/"><u>In 2024, Unwanted No More! Top 7 Android Apps to Eliminate Ads</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/instant-accessibility-how-textgrabber-revolutionizes-androids-on-the-fly-text-interaction/"><u>Instant Accessibility: How TextGrabber Revolutionizes Android's On-The-Fly Text Interaction</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigate-through-easily-the-logitech-m510-mouse-drivers-update-process-with-our-step-by-step-guide/"><u>Navigate Through Easily the Logitech M510 Mouse Drivers Update Process with Our Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-the-world-of-hardware-with-toms-guides/"><u>Navigating the World of Hardware with Tom's Guides</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/next-gen-chip-technology-revealed-amds-zen-5-features-an-8315bplus-transistor-count-boosting-density-by-28/"><u>Next-Gen Chip Technology Revealed: AMD's Zen 5 Features an 8.315B+ Transistor Count, Boosting Density by 28%%</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/overcoming-usb-detection-challenges-a-users-guide-to-fixing-windows-10-compatibility-issues/"><u>Overcoming USB Detection Challenges: A User's Guide to Fixing Windows 10 Compatibility Issues</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/simplifying-smartphone-browsing-discover-how-to-use-gestures-for-google-image-and-visual-searches/"><u>Simplifying Smartphone Browsing: Discover How to Use Gestures for Google Image and Visual Searches</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-activating-your-android-devices-voice-mail-feature/"><u>Step-by-Step Guide: Activating Your Android Device's Voice Mail Feature</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-oppo-a18-by-fonelab-android-recover-music/"><u>The way to get back lost music from Oppo A18</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-tips-to-maximize-performance-of-seagate-backup-plus-hard-drive-insights/"><u>Top Tips to Maximize Performance of Seagate Backup Plus Hard Drive - Insights</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/king-youtubes-potential-a-detailed-guide-on-tracking-earnings-and-audiences/"><u>Unlocking YouTube's Potential  A Detailed Guide on Tracking Earnings and Audiences</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unpacking-the-cpu-clash-amds-latest-ryzen-ai-9-hx-370-triumphs-over-apples-m3-max-in-processor-speed-tests/"><u>Unpacking the CPU Clash: AMD's Latest Ryzen AI 9 HX 370 Triumphs Over Apple's M3 Max in Processor Speed Tests</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722974910264-update-your-epson-l3150-software-compatible-with-win10-win8-and-win7-get-it-here/"><u>Update Your Epson L3150 Software: Compatible with Win10, Win8 & Win7 – Get It Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/updating-and-downloading-latest-epson-printer-drivers-for-windows-10-a-comprehensive-guide/"><u>Updating and Downloading Latest Epson Printer Drivers for Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Infinix Hot 40 Pro | Dr.fone</u></a></li>
+</ul></div>

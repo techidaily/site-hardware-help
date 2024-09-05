@@ -1,7 +1,7 @@
 ---
 title: Introducing the Cixin P1 – Arm-Based, Industry Standard 6Nm Chip From China Achieving 45 TOPS in Performance
-date: 2024-08-30T15:57:57.453Z
-updated: 2024-08-31T15:57:57.453Z
+date: 2024-09-04T02:12:53.474Z
+updated: 2024-09-05T02:12:53.474Z
 tags:
   - cpu
 categories:
@@ -111,6 +111,8 @@ With AI PC hype at a fever pitch, chip vendors Intel, AMD, and Qualcomm are enga
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2030381/7443" target="_top" id="2030381">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030381" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030381/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

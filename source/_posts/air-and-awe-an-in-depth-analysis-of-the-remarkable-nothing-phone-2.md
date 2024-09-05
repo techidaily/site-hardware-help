@@ -1,7 +1,7 @@
 ---
 title: "Air & Awe: An In-Depth Analysis of the Remarkable Nothing Phone 2"
-date: 2024-08-27 13:19:36
-updated: 2024-08-29 12:36:39
+date: 2024-09-04T02:10:29.505Z
+updated: 2024-09-05T02:10:29.505Z
 tags:
   - android
 categories:
@@ -116,6 +116,12 @@ Expand
 
 [$599 at Nothing](https://us.nothing.tech/pages/phone-2?variant=42721597685912/) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Design and Display: Something to See
 
 ![Front of the Nothing Phone 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/the-time-displayed-on-the-nothing-phone-2-lock-screenjpg_53041301166_o-2.jpg) 
@@ -128,6 +134,12 @@ Hannah Stryker / How-To Geek
 
 ![Changing volume on the Nothing Phone 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/changing-the-volume-on-the-nothing-phone-2jpg_53041779838_o-2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  The most eye-catching feature is the Glyph system, which consists of several LED strips placed around the back of the phone. These lights can display different patterns depending on what’s happening. For example, they can show your battery level when charging, custom patterns for notifications, display the volume level, act as a flash for your camera, and be used as a flashlight. Nothing’s Glyph Composer app allows you to create your own unique light patterns as well.
@@ -136,6 +148,12 @@ Hannah Stryker / How-To Geek
 
 ![Port and speakers on Nothing Phone 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/charging-port-speaker-and-sim-card-tray-on-the-bottom-of-the-nothing-phone-2jpg_53041300461_o-2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  Thanks to the glass and aluminum construction, the Nothing Phone (2) has a very nice feel for a $599 phone. There’s not the plastic-y, lightweight feeling that you might find in some mid-range devices. Sadly, the Nothing Phone (2) only has an IP54 rating for [splash and dust resistance](https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-tecno-pop-8-drfone-by-drfone-virtual-android/)—it can get a little wet but shouldn’t be submerged in water. The other knock on the hardware is the haptic feedback motor—it feels very cheap.
@@ -156,16 +174,34 @@ Hannah Stryker / How-To Geek
 
 ![Nothing Phone 2 charging cable](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/accessories-provided-with-the-nothing-phone-2jpg_53041480359_o-2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  On the battery front, the Nothing Phone (2) has a 4700mAh battery. I had no issues getting through a full day with juice to spare. For the times when you need a quick top-off, it supports fast charging at up to 45W with the included charger, which can give you a full charge in about an hour. It also supports wireless charging at up to 15W, and reverse wireless charging at up to 5W.
 
  While battery life is generally not something you have to worry about on mid-range phones—that’s certainly the case here—performance can be a mixed bag. The good news is the Nothing Phone (2) offers an experience that punches well above its weight class.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Cameras: Above Average
 
 ![Nothing Phone 2 rear cameras](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/rear-camera-on-the-nothing-phone-2-1jpg_53041479929_o-2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  The Nothing Phone (2) has a dual camera setup on the back, consisting of a 50MP main camera and a 50MP wide-angle camera. The main camera takes excellent photos in good lighting conditions, with plenty of detail and not overly saturated colors. Shutter speed has been improved this time around, and it does appear to actually work. I didn’t get many blurry photos of fast-moving kids or pets.
@@ -174,6 +210,12 @@ Hannah Stryker / How-To Geek
 
 ![Front camera and camera app on Nothing Phone 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/the-front-camera-on-the-nothing-phone-2jpg_53041684530_o-2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  The 32MP front camera takes decent selfies but has an annoying problem. Even with the “Retouching” feature disabled, it does quite a bit of smoothing and post-processing. Photos appear as if a light version of the Portrait Mode effect is being applied. That shouldn’t happen with “Retouching” turned off.
@@ -200,6 +242,18 @@ Hannah Stryker / How-To Geek
 
  I generally like the vibe of Nothing OS, but it also feels like a third-party theme that’s trying too hard at times. However, this was my first experience with Nothing OS, and it’s quickly become one of my favorite Android skins. I always appreciate it when an OEM doesn’t stray too far from the “stock Android” look.
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Should You Buy the Nothing Phone (2)?
 
 ![Person making a call on Nothing Phone 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/person-making-a-call-on-the-nothing-phone-2jpg_53041685000_o-2.jpg) 
@@ -222,6 +276,18 @@ Hannah Stryker / How-To Geek
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-ec_final.png) 
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  Nothing Phone 2
 
 8/ 10 
@@ -244,3 +310,55 @@ The Nothing Phone (2) offers unique features and a bold aesthetic in both hardwa
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-step-by-step-harnessing-instagram-filters/"><u>[New] Step-by-Step  Harnessing Instagram Filters</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-top-educational-science-channels-for-knowledge-boost/"><u>[Updated] 2024 Approved  Top Educational Science Channels for Knowledge Boost</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/dvd-winx-dvd-ripper-platinum-n/"><u>【独占】DVDの完全コピーソフト WinX DVD Ripper Platinumを無料で入手! 開発中の最新機能が追加さn.</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/ai-portrait-generator-getting-closer-to-the-artistic-marvels-for-2024/"><u>AI Portrait Generator Getting Closer to the Artistic Marvels for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comprehensive-fixes-for-unresponsive-moments-during-a-session-of-fall-guys-on-desktop/"><u>Comprehensive Fixes for Unresponsive Moments During a Session of Fall Guys on Desktop</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-motorola-edge-40-pro-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Motorola Edge 40 Pro Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-surprising-insights-can-your-children-identify-these-top-10-obsolete-devices/"><u>Discover Surprising Insights: Can Your Children Identify These Top 10 Obsolete Devices?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-update-procedure-for-corsair-sound-card-software-on-windows-systems/"><u>Easy Update Procedure for Corsair Sound Card Software on Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/endless-desire-to-purchase-earphones-is-it-my-fault-or-a-habit/"><u>Endless Desire to Purchase Earphones - Is It My Fault or a Habit?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-netflix-flicks-for-the-young-generation/"><u>Essential Netflix Flicks for the Young Generation</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-itel-p55t-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-15-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 15 to an Older iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6-plus-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock iPhone 6 Plus Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-optimal-mac-screen-capturing-unveiling-the-top-5-strategies/"><u>In 2024, Optimal Mac Screen Capturing  Unveiling The Top 5 Strategies</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/is-intel-headed-towards-a-fate-similar-to-nokias-decline/"><u>Is Intel Headed Towards a Fate Similar to Nokia's Decline?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/master-your-tech-setup-essential-guides-and-reviews-by-toms-hardware/"><u>Master Your Tech Setup: Essential Guides and Reviews by Tom's Hardware</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-inside-clubhouse-dissecting-its-core-ethos-features-and-significance-in-the-modern-era/"><u>New In 2024, Inside Clubhouse Dissecting Its Core Ethos, Features, and Significance in the Modern Era</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/overcoming-poor-television-sound-quality-effective-alternatives-and-techniques-available-now/"><u>Overcoming Poor Television Sound Quality: Effective Alternatives and Techniques Available Now</u></a></li>
+<li><a href="https://solve-help.techidaily.com/overcoming-setbacks-strategies-for-success-after-failure/"><u>Overcoming Setbacks: Strategies for Success After Failure</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/pixel-9-pro-launched-ahead-of-schedule-by-google/"><u>Pixel 9 Pro Launched Ahead of Schedule by Google</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/pre-order-now-ryzen-5-9600x-in-canada-availability-and-pricing-update/"><u>Pre-Order Now: Ryzen 5 9600X in Canada - Availability & Pricing Update</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/section-2a-understanding-pituitamo-secreting-tumors/"><u>Section 2A: Understanding Pituitamo-Secreting Tumors</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/section-understanding-hormone-related-tumors/"><u>Section 지막: Understanding Hormone-Related Tumors</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-dell-g15-gpu-drivers-downloading-and-installing-on-windows-machines/"><u>Step-by-Step Guide: Dell G15 GPU Drivers Downloading & Installing on Windows Machines</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-performing-a-hard-reset-on-your-non-bootable-chromebook/"><u>Step-by-Step Guide: Performing a Hard Reset on Your Non-Bootable Chromebook</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-updating-your-cpu-drivers-on-windows-pcs/"><u>Step-by-Step Guide: Updating Your CPU Drivers on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-correctly-installing-an-ms-store-app/"><u>Steps for Correctly Installing an MS Store App</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-enhanced-display-of-the-latest-pixel-watch-series/"><u>The Enhanced Display of the Latest Pixel Watch Series</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-impact-of-curved-ultrawide-screens-on-my-gaming-world/"><u>The Impact of Curved Ultrawide Screens on My Gaming World</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722965407730-they-must-account-for-complex-dynamics-such-as-boilingcondensation-and-temperature-glideeby/"><u>They Must Account for Complex Dynamics Such as Boiling/Condensation and Temperature glide.eby</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-9-essential-benefits-of-using-a-laptop-docking-station/"><u>Top 9 Essential Benefits of Using a Laptop Docking Station</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-pick-reliable-solar-lantern-your-ideal-companion-for-camping-trips-and-unexpected-blackouts/"><u>Top Pick: Reliable Solar Lantern - Your Ideal Companion for Camping Trips and Unexpected Blackouts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-ranked-gaming-laptop-picks-for-2-2024/"><u>Top-Ranked Gaming Laptop Picks for 2지날로 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/transform-your-space-with-sophistication-using-govees-enhanced-floor-lamps-2-and-professional-editions/"><u>Transform Your Space with Sophistication Using Govee's Enhanced Floor Lamps - 2 and Professional Editions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/transitioning-from-mobile-games-top-6-indicators-its-time-for-a-cutting-edge-portable-console/"><u>Transitioning From Mobile Games: Top 6 Indicators It's Time for a Cutting-Edge Portable Console</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-tips-restoring-chromebook-functionality-via-factory-reset-even-when-it-fails-to-start/"><u>Troubleshooting Tips: Restoring Chromebook Functionality via Factory Reset, Even When It Fails to Start</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-ecovacs-deebot-t30s-combo-the-all-in-one-robovac-with-stair-climbing-ability/"><u>Ultimate Guide to Ecovacs Deebot T30S Combo: The All-in-One RoboVac with Stair Climbing Ability</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-the-ugreen-qi2-portable-and-foldable-charger-the-perfect-compact-power-solution-for-professionals/"><u>Ultimate Guide to the Ugreen Qi2 Portable and Foldable Charger - The Perfect Compact Power Solution for Professionals</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-review-how-the-logitech-g502-became-the-top-choice-for-gamers/"><u>Ultimate Review: How the Logitech G502 Became the Top Choice for Gamers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/understanding-display-clarity-comparing-1080p-144-monitor-showdown-the-clear-distinctions-between-1080p-1440p-and-4k-screens/"><u>Understanding Display Clarity: Comparing 1080P, 144 Monitor Showdown: The Clear Distinctions Between 1080P, 1440P & 4K Screens</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-allure-of-apples-latest-creation-the-high-end-ipad-pro-m4/"><u>Unveiling the Allure of Apple's Latest Creation: The High-End iPad Pro (M4)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-excellence-of-bose-soundlink-max-an-in-depth-review-of-a-superior-bluetooth-speaker/"><u>Unveiling the Excellence of Bose SoundLink Max: An In-Depth Review of a Superior Bluetooth Speaker</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-sonos-roam-2-a-fresh-look-inside-and-initial-thoughts/"><u>Unveiling the Sonos Roam 2: A Fresh Look Inside and Initial Thoughts</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-itel-p55-5g-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Itel P55 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/why-modern-businesses-cant-resist-our-advanced-thermal-label-printers-a-match-made-for-productivity/"><u>Why Modern Businesses Can't Resist Our Advanced Thermal Label Printers: A Match Made for Productivity</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/why-the-asus-gn50lx-has-become-my-ultimate-companion-for-traveling/"><u>Why the Asus GN50LX Has Become My Ultimate Companion for Traveling</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/why-you-shouldnt-write-off-camcorders-just-yet-essential-reasons-for-purchasing/"><u>Why You Shouldn't Write Off Camcorders Just Yet - Essential Reasons for Purchasing</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/your-first-step-to-a-profitable-youtube-experience-for-2024/"><u>Your First Step to a Profitable Youtube Experience for 2024</u></a></li>
+</ul></div>

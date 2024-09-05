@@ -1,7 +1,7 @@
 ---
 title: Is It Overkill? Considerations Before Choosing Liquid Cooling for AMD CPUs
-date: 2024-08-26 17:59:22
-updated: 2024-08-29 10:36:31
+date: 2024-09-04T02:07:40.073Z
+updated: 2024-09-05T02:07:40.073Z
 tags:
   - hardware
 categories:
@@ -35,10 +35,34 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  This means that you can spend $35 on the [Thermalright Phantom Spirit 120SE](https://www.amazon.com/Thermalright-PS120-SE-CPU-Cooler/dp/B0BNDTJVPL?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2002796&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fdont-bother-liquid-cooling-your-amd-cpu%2F&asc%5Fcampaign=Evergreen)—my recommendation if you're looking for a powerful air cooler that doesn't break the bank—and have almost $200 left for an upgrade. $200 is the price difference between the RTX 4070 Super and the RTX 4070 Ti Super, which packs 4GB more memory and is faster than the 4070 Super by about 20 percent on average. That's a nice GPU upgrade if you ask me and will make a much, much bigger performance difference overall for the same money.
 
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  What About Intel CPUs?
 
 ![The Intel Core i5-14600K CPU on a table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/intel-core-i5-14600k-2.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  When it comes to Intel CPUs, things get complicated. If you plan to buy an Intel CPU, including options like the Core i7-14700K, Core i9-14900K, or their 13th gen counterparts, and use it exclusively for gaming, you can get away with a solid air cooler.
@@ -47,6 +71,12 @@ Hannah Stryker / How-To Geek
 
  On the other hand, if you want to buy a Core i7-14700K or Core i9-14900K and use it without power limits for heavy all-core workloads, it’s worth spending extra for a performant 360mm or 420mm AIO. While even a beastly AIO won’t stand a chance against an unleashed high-end Intel CPU, the best AIOs [will allow it](http://tpucdn.com/review/thermalright-phantom-spirit-120-evo-argb-cpu-air-cooler/images/maximum-heat-intel.png) to use more than 350W of power before [t](https://screen-capture.techidaily.com/sundae-screening-comprehensive-tutorial-on-frozen-camera-app/)[hermal throttling](https://buynow-help.techidaily.com/leading-titles-to-unlock-on-google-play-pass-a-ranking-of-the-8-greatest-games/), compared to air coolers that top out at about 320W.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  If You’re Set on Buying an AIO, Buy It for the Right Reasons
 
  All of the above doesn’t mean I’m completely against the idea of pairing a Ryzen CPU with an AIO liquid cooler. What I’ve been trying to do is explain to prospective buyers that they shouldn’t get an expensive AIO for their AMD or Intel CPU solely because they believe it will deliver better performance and lower thermals compared to air coolers.
@@ -71,3 +101,52 @@ Hannah Stryker / How-To Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/vercoming-youtube-disqualification/"><u>[New] Overcoming YouTube Disqualification</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-speedy-shots-for-immersive-narratives/"><u>[New] Speedy Shots for Immersive Narratives</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-unveiling-the-premier-android-emulators-for-ps2-games-for-2024/"><u>[Updated] Unveiling the Premier Android Emulators for PS2 Games for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1-discover-how-to-retrieve-your-contact-details-from-iphone-and-android-devices/"><u>1. Discover How to Retrieve Your Contact Details From iPhone and Android Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1-kid-friendly-photography-transforming-old-cellphones-into-fun-cameras/"><u>1. Kid-Friendly Photography: Transforming Old Cellphones Into Fun Cameras</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-professional-grade-8-filters-for-live-feeds/"><u>2024 Approved  Professional-Grade 8 Filters for Live Feeds</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-proiphone-photo-techniques-for-beginners/"><u>2024 Approved  Proiphone Photo Techniques for Beginners</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-spiral-fabricator-package/"><u>2024 Approved  Spiral Fabricator Package</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/a-fresh-take-on-mobile-tech-why-the-google-pixel-tablet-is-sparking-excitement-among-android-lovers/"><u>A Fresh Take on Mobile Tech: Why the Google Pixel Tablet Is Sparking Excitement Among Android Lovers!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/advanced-tactics-to-modify-playback-speed-in-spotify-for-2024/"><u>Advanced Tactics to Modify Playback Speed in Spotify for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/android-enthusiasts-rejoice-the-new-google-pixel-tablet-impresses-in-first-hands-on-review/"><u>Android Enthusiasts Rejoice: The New Google Pixel Tablet Impresses in First Hands-On Review!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/android-security-breach-facilitates-hacker-initiated-software-downloads-and-setups/"><u>Android Security Breach Facilitates Hacker-Initiated Software Downloads and Setups</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/android-users-manual-how-to-stop-unwanted-automatic-application-updates/"><u>Android Users' Manual: How to Stop Unwanted Automatic Application Updates</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/are-foldable-phones-good-enough-to-replace-traditional-android-tablets-today/"><u>Are Foldable Phones Good Enough to Replace Traditional Android Tablets Today?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/british-numismatist-transforms-obsolete-technology-into-precious-treasure/"><u>British Numismatist Transforms Obsolete Technology Into Precious Treasure</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/busting-major-android-legends-the-five-greatest-fallacies-revealed/"><u>Busting Major Android Legends: The Five Greatest Fallacies Revealed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/can-i-use-any-stylus-pen-on-my-gadgets-exploring-cross-device-functionality/"><u>Can I Use Any Stylus Pen on My Gadgets? Exploring Cross-Device Functionality</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/can-you-substitute-your-android-tablet-with-a-foldable-smartphone-an-in-depth-comparison/"><u>Can You Substitute Your Android Tablet with a Foldable Smartphone: An In-Depth Comparison</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comparing-pixel-wearables-to-galaxy-smartwatches-is-google-on-par-with-samsungs-innovation-in-timepieces/"><u>Comparing Pixel Wearables to Galaxy Smartwatches: Is Google on Par with Samsung's Innovation in Timepieces?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/continuing-darksky-app-functionality-on-android-devices-a-comprehensive-guide/"><u>Continuing DarkSky App Functionality on Android Devices - A Comprehensive Guide</u></a></li>
+<li><a href="https://article-tips.techidaily.com/crafting-and-downloading-personalized-insta-ringtones/"><u>Crafting & Downloading Personalized Insta Ringtones</u></a></li>
+<li><a href="https://discover-community.techidaily.com/digiarty-software-i-migliori-soluzioni-italiane-per-convertire-i-dvd-e-i-video/"><u>Digiarty Software: I Migliori Soluzioni Italiane Per Convertire I DVD E I Video</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/harness-the-power-of-cookiebot-for-enhanced-web-insights/"><u>Harness the Power of Cookiebot for Enhanced Web Insights</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-a56s-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo A56s 5G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hp-print-driver-missing-in-windows-1110/"><u>HP Print Driver Missing in Windows 11/10</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-fledgling-to-front-runner-flourishing-in-follower-count/"><u>In 2024, From Fledgling to Front-Runner  Flourishing in Follower Count</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-nubia-z50-ultra-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Nubia Z50 Ultra to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-12plus-5g-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Realme 12+ 5G Phone Without Password?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-to-do-if-your-iphone-se-2022-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>In 2024, What to do if your iPhone SE (2022) has bad ESN or blacklisted IMEI?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-excel-spreadsheets-into-your-slides-a-step-by-step-guide/"><u>Integrating Excel Spreadsheets Into Your Slides: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-microsoft-bluetooth-driver-updates-for-windows-operating-systems-win-10-11-8-and-7-supported/"><u>Latest Microsoft Bluetooth Driver Updates for Windows Operating Systems: Win 10, 11, 8, and 7 Supported</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-5-galaxy-phone-characteristics-the-pixel-series-must-emulate/"><u>Top 5 Galaxy Phone Characteristics the Pixel Series Must Emulate</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-8-insights-gained-from-transforming-smartphone-into-a-laptop-alternative/"><u>Top 8 Insights Gained From Transforming Smartphone Into a Laptop Alternative</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fix-issues-when-back-4-blood-wont-start-on-pcs-win11-win10-win7/"><u>Troubleshooting Guide: Fix Issues When 'Back 4 Blood' Won't Start on PCs (Win11, Win10, Win7)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-stopping-unwanted-calls-by-blocking-numbers-on-your-android-device/"><u>Ultimate Guide: Stopping Unwanted Calls by Blocking Numbers on Your Android Device</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-trick-how-to-easily-enable-flashlight-functionality-on-android-phones/"><u>Ultimate Trick: How to Easily Enable Flashlight Functionality on Android Phones</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-tutorial-how-to-edit-and-cut-video-footage-using-an-android-smartphone-or-tablet/"><u>Ultimate Tutorial: How to Edit and Cut Video Footage Using an Android Smartphone or Tablet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/understanding-the-absence-of-wps-buttons-on-modern-android-devices-what-you-need-to-know/"><u>Understanding the Absence of WPS Buttons on Modern Android Devices: What You Need to Know</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleashing-the-power-of-light-advanced-hdr-in-ps-for-2024/"><u>Unleashing the Power of Light  Advanced HDR in PS for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlocking-enhanced-reading-experience-on-your-android-device-the-ultimate-walkthrough-and-insights/"><u>Unlocking Enhanced Reading Experience on Your Android Device: The Ultimate Walkthrough and Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-latest-iphone-rival-a-new-contender-emerges-with-a-unique-twist-on-apples-dynamic-island/"><u>Unveiling the Latest iPhone Rival: A New Contender Emerges with a Unique Twist on Apple’s Dynamic Island</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrade-dilemma-is-it-wise-to-invest-in-recent-mid-tier-smartphones-or-opt-for-last-years-premium-models/"><u>Upgrade Dilemma: Is It Wise to Invest in Recent Mid-Tier Smartphones or Opt for Last Year's Premium Models?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/why-foldable-displays-are-better-suited-for-laptops-than-mobile-devices/"><u>Why Foldable Displays Are Better Suited for Laptops than Mobile Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/why-you-need-to-keep-an-eye-on-the-elusive-oneplus-nord-4-the-exceptional-choice-for-budget-conscious-tech-aficionados/"><u>Why You Need to Keep an Eye on the Elusive OnePlus Nord 4 - The Exceptional Choice for Budget-Conscious Tech Aficionados</u></a></li>
+</ul></div>

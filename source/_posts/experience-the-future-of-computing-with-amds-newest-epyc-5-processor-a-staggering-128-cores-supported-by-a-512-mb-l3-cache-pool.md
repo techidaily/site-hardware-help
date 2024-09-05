@@ -1,7 +1,7 @@
 ---
 title: "Experience the Future of Computing with AMD's Newest EPYC 5 Processor: A Staggering 128 Cores Supported by a 512 MB L3 Cache Pool"
-date: 2024-08-30T15:59:37.709Z
-updated: 2024-08-31T15:59:37.709Z
+date: 2024-09-04T02:12:52.303Z
+updated: 2024-09-05T02:12:52.303Z
 tags:
   - cpu
 categories:
@@ -100,5 +100,8 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2030391/7443" target="_top" id="2030391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

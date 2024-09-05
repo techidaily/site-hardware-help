@@ -1,7 +1,7 @@
 ---
 title: "Score a Deal with AMD’s New Gaming Offer: Up to Two Game Titles Complimentary on Ryzen 7000 & Radeon RX 700N - Ryzen 9000 Series Not Covered"
-date: 2024-08-30T15:58:15.997Z
-updated: 2024-08-31T15:58:15.997Z
+date: 2024-09-04T02:12:53.265Z
+updated: 2024-09-05T02:12:53.265Z
 tags:
   - cpu
 categories:
@@ -111,5 +111,8 @@ The launch of AMD’s highly anticipated[Ryzen 9000](https://www.tomshardware.co
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

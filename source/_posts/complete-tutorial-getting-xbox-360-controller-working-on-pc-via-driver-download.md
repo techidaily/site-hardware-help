@@ -1,7 +1,7 @@
 ---
 title: "Complete Tutorial: Getting Xbox 360 Controller Working on PC via Driver Download"
-date: 2024-08-30T15:56:30.279Z
-updated: 2024-08-31T15:56:30.279Z
+date: 2024-09-04T02:12:54.446Z
+updated: 2024-09-05T02:12:54.446Z
 tags:
   - win11
   - win10
@@ -100,5 +100,8 @@ thumbnail: https://thmb.techidaily.com/2d6e3d004fe41d35820dae54c2391ec61920df6e0
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
