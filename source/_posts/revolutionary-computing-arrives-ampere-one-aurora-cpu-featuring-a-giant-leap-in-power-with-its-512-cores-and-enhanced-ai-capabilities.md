@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary Computing Arrives: Ampere One Aurora CPU - Featuring a Giant Leap in Power with Its 512 Cores & Enhanced AI Capabilities"
-date: 2024-09-04T02:34:26.006Z
-updated: 2024-09-05T02:34:26.006Z
+date: 2024-09-09T16:16:19.324Z
+updated: 2024-09-10T16:16:19.324Z
 tags:
   - cpu
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/f5c71e67a7e48026b76caae61fa224d5139bed7177e712ed911926c5fc53a785.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The New Intel Kingpin: Core I7-14700K Shines with a 7% Single-Core Supremacy over Competitor Core Ultra 7 - Arrow Lake Chip Dominates Benchmarks
 
 Another upcoming Arrow Lake chip, which will compete against the[best CPUs](https://www.tomshardware.com/reviews/best-cpus,3986.html) , has appeared for the first time in the Geekbench browser. This time, it pertains to the iGPUless Core Ultra 7 265KF. Discovered by[Benchleaks on X](https://x.com/BenchLeaks/status/1817097462177235414) , the chip was benchmarked in Geekbench 5.5.1 (the source of the results has now been pulled). It boasts good single-core performance but falters in multi-core performance, lagging behind the last-generation[Core i7-14700K](https://www.tomshardware.com/news/intel-core-i9-14900k-cpu-review) .
@@ -32,6 +38,12 @@ Another upcoming Arrow Lake chip, which will compete against the[best CPUs](http
 
  As always, take these results with a pinch of salt. The conditions in which the Core Ultra 7 was running are unknown. However, we won't see what Arrow Lake is capable of until in a few months, as Intel's next-generation chips have been rumored to launch in October, while AMD's Ryzen 9000 lineup is just right around the corner.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -112,16 +124,3 @@ Another upcoming Arrow Lake chip, which will compete against the[best CPUs](http
 <li><a href="https://hardware-help.techidaily.com/why-the-hmd-skyline-stands-out-unparalleled-ease-in-phone-repairs/"><u>Why the HMD Skyline Stands Out: Unparalleled Ease in Phone Repairs</u></a></li>
 <li><a href="https://extra-tips.techidaily.com/xplits-competitors-for-seamless-streaming/"><u>Xplit's Competitors for Seamless Streaming</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

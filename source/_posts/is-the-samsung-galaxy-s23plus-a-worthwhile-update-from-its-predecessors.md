@@ -1,7 +1,7 @@
 ---
 title: Is the Samsung Galaxy S23+ a Worthwhile Update From Its Predecessors?
-date: 2024-08-27 13:38:54
-updated: 2024-08-29 12:40:31
+date: 2024-09-09T16:15:53.784Z
+updated: 2024-09-10T16:15:53.784Z
 tags:
   - android
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/32facac0.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Is the Samsung Galaxy S23+ a Worthwhile Update From Its Predecessors?
 
 ### Quick Links
@@ -29,8 +35,26 @@ Related: [Samsung Galaxy S23 Ultra Review: The Total Package...Again](https://ww
 
 ![32facac0](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/32facac0.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-ec_final.png) 
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  Samsung Galaxy S23+
 
 8/ 10 
@@ -115,10 +139,22 @@ Justin Duino / Review Geek
 
  Oh, and a quick side note; the Galaxy S23+ [doesn't fit in S22+ cases](https://screen-mirror.techidaily.com/in-2024-how-to-mirror-vivo-x100-pro-to-mac-drfone-by-drfone-android/). This is due to a very small difference in size---a difference of less than half a millimeter. Did Samsung make this change to sell more phone cases? Either way, it's frustrating to see such casual wastefulness from a company that talks about environmentalism every time it debuts a new product.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Cameras: Excellent, but Similar to Last Year's Model
 
 ![Camera app on the Samsung Galaxy S23+](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/0e7a2690.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Justin Duino / Review Geek
 
  Predictably, the Samsung Galaxy S23+ offers industry-leading camera quality. Photos from this device are bright, colorful, and crisp, even in unfavorable lighting. That said, Samsung's camera software can be a bit heavy-handed, so some photos come out looking over-sharpened or over-saturated.
@@ -133,6 +169,12 @@ Close
 
  As for video, the Galaxy S23+ supports HDR10+ and can hit a maximum video resolution of 8K at 30FPS. But most people will shoot in a lower resolution, such as 4K (at 60FPS) and 1080p (also 60 FPS, though the frame rate goes a lot higher for slow-mo video). I have no complaints or notes about Samsung's video quality---it looks great and it's stable, just as you'd expect.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Performance: Fast and Warm
 
 ![Rear camera lenses on the back of the Samsung Galaxy S23+](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/675ed859.jpg) 
@@ -155,6 +197,12 @@ Related: [The Best Cases for the Samsung Galaxy S23 and S23+](https://www.review
 
 ![Edge panel open on the Samsung Galaxy S23+](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/0e162938.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Justin Duino / Review Geek
 
  Samsung is finally learning to compete with Apple's support cycle. The Galaxy S23+ comes with four years of guaranteed OS updates, plus five years of security updates. That means you can reliably use this phone until 2028! But there's one part of Samsung's software strategy that leaves me frustrated---don't kill me, but I think One UI is getting a little out of hand.
@@ -169,6 +217,18 @@ Related: [When Is It Time to Upgrade Your Smartphone?](https://www.reviewgeek.co
 
  If you're a huge fan of Samsung's UI, the S23+ shouldn't be a big adjustment. But if you're coming from another phone, especially a device that sticks with the stock Android experience, get ready to spend a lot of time in Settings.
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Gist: A Great Phone, but an Incremental Upgrade
 
 ![Quick settings on the Samsung Galaxy S23+](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/9977c6fd.jpg) 
@@ -205,3 +265,56 @@ Justin Duino / Review Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-exclusive-tips-for-dominating-the-instagram-story-space/"><u>[New] 2024 Approved Exclusive Tips for Dominating the Instagram Story Space</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-how-to-repost-photos-and-video-on-instagram/"><u>[New] 2024 Approved How to Repost Photos and Video on Instagram</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-discovering-the-best-portable-audio-recording-tech-for-macs/"><u>[New] In 2024, Discovering the Best Portable Audio Recording Tech for Macs</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-premier-9-social-media-screen-grabs/"><u>[New] In 2024, Premier 9 Social-Media Screen Grabs</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-silent-symphony-a-compendium-of-top-speech-to-text-tools/"><u>[New] Silent Symphony A Compendium of Top Speech-to-Text Tools</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-affordable-setups-tailored-obs-for-budget-computers/"><u>2024 Approved Affordable Setups Tailored OBS for Budget Computers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-peeking-behind-the-screen-instagram-audience-explorer/"><u>2024 Approved Peeking Behind the Screen Instagram Audience Explorer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/advanced-device-rundown-the-toms-hardware-selection/"><u>Advanced Device Rundown: The Tom's Hardware Selection</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amds-cutting-edge-ryzen-9-9950x-smashes-speed-barriers-at-6-ghz-with-ln2-overclocking/"><u>AMD's Cutting-Edge Ryzen 9 9950X Smashes Speed Barriers at 6.^ GHz with LN2 Overclocking</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amds-ryzen-9000-release-postponement-linked-to-labeling-error-unveiling-of-misidentified-ryzen-7-processor/"><u>AMD's Ryzen 9000 Release Postponement Linked to Labeling Error: Unveiling of Misidentified Ryzen 7 Processor</u></a></li>
+<li><a href="https://blog-min.techidaily.com/comparing-ai-travel-assistants-inside-the-story-of-my-trip-with-perplexity-vs-chatgpt/"><u>Comparing AI Travel Assistants: Inside the Story of My Trip with Perplexity Vs. ChatGPT</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-setup-of-hp-officejet-pro-8600-printer-on-your-pc-windows-compatible-driver-downloads/"><u>Complete Setup of HP Officejet Pro 8600 Printer on Your PC: Windows-Compatible Driver Downloads</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-toshiba-device-drivers-for-windows/"><u>Download & Install Toshiba Device Drivers for Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-configure-the-wacom-intuos-pro-driver-for-optimal-performance-on-windows-nt/"><u>Download and Configure the Wacom Intuos Pro Driver for Optimal Performance on Windows nT</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-sapphire-graphics-drivers-on-your-pc-windows-compatible/"><u>Download and Install Sapphire Graphics Drivers on Your PC - Windows Compatible</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-the-latest-version-of-epson-xp-440-printer-software/"><u>Download and Install the Latest Version of Epson XP-440 Printer Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-solutions-to-overcome-logitech-c615-audio-driver-problems-get-back-on-track-now/"><u>Effortless Solutions to Overcome Logitech C615 Audio Driver Problems – Get Back on Track Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-internet-experience-with-updated-wi-fi-drivers-for-windows-7/"><u>Enhance Your Internet Experience with Updated Wi-Fi Drivers for Windows 7!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ensure-peak-performance-msi-gs65-driver-downloads-tailored-for-windows-computers/"><u>Ensure Peak Performance: MSi GS65 Driver Downloads Tailored for Windows Computers</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-oppo-reno-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722971185075-free-and-easy-guide-to-installing-intel-82579v-drivers-start-today/"><u>Free & Easy Guide to Installing Intel 82579V Drivers – Start Today!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722976269864-get-the-latest-corsair-mouse-driver-here-free-download-available/"><u>Get the Latest Corsair Mouse Driver Here - Free Download Available</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-update-amd-radeon-r5-graphics-driver-for-windows-111087-download-links/"><u>Get the Latest Update: AMD Radeon R5 Graphics Driver for Windows 11/10/8/7 Download Links</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-on-iphone-6-plus-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even On iPhone 6 Plus If Youve Tried Everything</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-obtain-drivers-for-brother-hl-l2360dw-printer-download-now/"><u>How to Obtain Drivers for Brother HL-L2360DW Printer - Download Now</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-best-practice-mp4-director-to-fb/"><u>In 2024, Best Practice MP4 Director to FB</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-apple-iphone-14-pro-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track WhatsApp Messages on Apple iPhone 14 Pro Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722973308667-keep-your-gaming-at-peak-performance-update-your-razer-blackwidow-driver-here/"><u>Keep Your Gaming at Peak Performance: Update Your Razer BlackWidow Driver Here!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-compatible-brother-hl-2240-printer-driver-update-for-windows-machines-now-installed/"><u>Latest Compatible Brother HL-2240 Printer Driver Update for Windows Machines Now Installed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-intel-integrated-graphics-drivers-for-windows-11-installation-guide/"><u>Latest Intel Integrated Graphics Drivers for Windows 11: Installation Guide</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/launching-mondlys-comprehensive-faq-hub/"><u>Launching Mondly's Comprehensive FAQ Hub</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/nvme-driver-setup-in-windows-easy-download-and-installation-process/"><u>NVMe Driver Setup in Windows: Easy Download and Installation Process</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-easy-fresh-nvidia-graphics-card-drivers-for-your-geforce-gtx-460-on-microsofts-os/"><u>Quick and Easy: Fresh Nvidia Graphics Card Drivers for Your GeForce GTX # 460 on Microsoft's OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-guide-installing-brother-mfc-7360n-printer-drivers-on-windows-11-8-and-7/"><u>Quick Guide: Installing Brother MFC-7360N Printer Drivers on Windows 11, 8 & 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-resolution-freshly-downloading-and-refreshing-your-mbox-2-drives-in-windows-environment/"><u>Quick Resolution: Freshly Downloading & Refreshing Your MBox 2 Drives in Windows Environment</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/simple-guide-microsoft-drivers-installation-and-updates-for-windows-10-8-and-7/"><u>Simple Guide: Microsoft Drivers Installation & Updates for Windows 10, 8, and 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/snapdragon-xs-elite-graphics-card-disabled-by-default-understanding-the-impact-of-linux-patch-and-missing-oem-keys/"><u>Snapdragon X's Elite Graphics Card Disabled by Default: Understanding the Impact of Linux Patch and Missing OEM Keys</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-asus-rog-phone-7-ultimate-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Asus ROG Phone 7 Ultimate with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722976830309-speedy-dell-latitude-e6420-driver-acquisition-made-simple/"><u>Speedy Dell Latitude E6420 Driver Acquisition Made Simple.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/stay-ahead-in-tech-top-picks-from-toms-detailed-hardware-reviews/"><u>Stay Ahead in Tech: Top Picks From Tom's Detailed Hardware Reviews</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/stay-ahead-in-technology-explore-reviews-at-toms-hardware/"><u>Stay Ahead in Technology - Explore Reviews at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-instructions-for-installingupdating-epson-printers-in-windows/"><u>Step-by-Step Instructions for Installing/Updating Epson Printers in Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-walkthrough-for-downloading-and-configuring-epson-xp-430-printer-drivers-on-windows-computers/"><u>Step-by-Step Walkthrough for Downloading and Configuring Epson XP-430 Printer Drivers on Windows Computers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-downloading-and-updating-brother-mfc-7n-drivers-for-windows-operating-systems-win1187/"><u>Step-by-Step: Downloading & Updating Brother MFC-7n Drivers for Windows Operating Systems (Win11/8/7)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/successful-installation-of-logitech-c920-webcam-drivers-for-windows-11-10-and-8-tutorial/"><u>Successful Installation of Logitech C920 Webcam Drivers for Windows 11, 10 & 8 - Tutorial</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-vivo-v30-pro-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Vivo V30 Pro</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshoot-your-connection-latest-wireless-driver-fixes-and-downloads/"><u>Troubleshoot Your Connection: Latest Wireless Driver Fixes & Downloads.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-and-resolving-compatibility-issues-with-startech-devices-in-older-windows-versions/"><u>Troubleshooting and Resolving Compatibility Issues with StarTech Devices in Older Windows Versions</u></a></li>
+</ul></div>

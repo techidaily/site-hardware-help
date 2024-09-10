@@ -1,7 +1,7 @@
 ---
 title: "Cixin P1: China Unveils High-Performance, 45 TeraOps AI Chip Meeting Industry Standards – Begins Rollout"
-date: 2024-09-04T02:26:04.544Z
-updated: 2024-09-05T02:26:04.544Z
+date: 2024-09-09T16:16:24.840Z
+updated: 2024-09-10T16:16:24.840Z
 tags:
   - cpu
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/ee736977879e7c042699ccb0ba782ae72fcd626a8089f287da01eef91c5139c9.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## This Title Highlights the Exceptional Performance of the EPYC 9755 Turin Chip, Emphasizing Its Success and Dominance on Multi-Threading Tasks
 
 AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd-announces-3nm-epyc-turin-launching-with-192-cores-and-384-threads-in-second-half-of-2024-54x-faster-than-intel-xeon-in-ai-workload) (Turin) processor with 128 Zen 5 cores has set a new benchmark record. According to hardware leaker [YuuKi_AnS](https://x.com/yuuki%5Fans/status/1816185684753015066) , the EPYC 9755 scored 108,093 points in the CPU-Z multi-thread test, making it the fastest multi-threaded processor on the CPU-Z benchmark on the planet.
@@ -34,6 +40,12 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  Speaking of substantial performance advantages of AMD's Zen 5, we cannot omit the single-thread performance of AMD's Ryzen 9000-series processors with 16 cores. Based on leaked CPU-Z benchmark results we have seen so far, the Ryzen 9 9950X is about 15% faster in single-thread workloads. It is about 9% faster in multi-thread workloads than the Ryzen 9 7950X, which is generally in line with performance advantage estimates demonstrated by AMD.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -100,10 +112,3 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 <li><a href="https://hardware-help.techidaily.com/update-your-tp-link-adapter-drivers-now-seamless-connectivity-on-windows-10-8-and-7/"><u>Update Your TP-Link Adapter Drivers Now! Seamless Connectivity on Windows 10, 8 & 7</u></a></li>
 <li><a href="https://hardware-help.techidaily.com/your-guide-to-updating-atheros-network-card-drivers-free-download-and-installation-process-for-windows/"><u>Your Guide to Updating Atheros Network Card Drivers: Free Download & Installation Process for Windows</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

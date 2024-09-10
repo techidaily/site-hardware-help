@@ -1,7 +1,7 @@
 ---
 title: Environmental Conditions Such as Temperature, Humidity, and UV Exposure Affect the Performance of Self-Healing Mechanisms in Concrete
-date: 2024-09-04T02:32:35.872Z
-updated: 2024-09-05T02:32:35.872Z
+date: 2024-09-09T16:16:20.536Z
+updated: 2024-09-10T16:16:20.536Z
 tags:
   - win11
   - win10
@@ -13,6 +13,12 @@ excerpt: This Article Describes Environmental Conditions Such as Temperature, Hu
 thumbnail: https://thmb.techidaily.com/c1f2394a481b4500340195e3c4792344b150afff1dec50e97267f5b7542797ed.jpeg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Environmental Conditions Such as Temperature, Humidity, and UV Exposure Affect the Performance of Self-Healing Mechanisms in Concrete
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/GeForce_GTX_460_low_3qtr.png)
@@ -23,18 +29,48 @@ thumbnail: https://thmb.techidaily.com/c1f2394a481b4500340195e3c4792344b150afff1
 
 [Way 2. Download GeForce GTX 460 Driver automatically via Driver Easy ( Recommended)](https://www.drivereasy.com/knowledge/geforce-gtx-460-driver-download-windows-easily/#2)
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Way 1\. Download GeForce GTX 460 Driver manually
 
  1) Go to [NVIDIA Downloads Center](https://tools.techidaily.com/drivereasy/download/) . Then set following items one by one: Product Type to be **GeForce,**  Product Series to be **GeForce 400 Series,**  Product to be **GeForce GTX 460,**  Operating System to be **(according to your PC)** . **Note:**  See [How to check Windows Operating System Version](https://tools.techidaily.com/drivereasy/download/) .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/1-20.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Click **SEARCH** . 2) Click **DOWNLOAD** and then install by prompts.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/2-22.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Reboot your PC to make change taking effect.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Way 2\. Download GeForce GTX 460 Driver automatically via Driver Easy ( Recommended)
 
  If you want to save time, I highly recommend this nice driver tool for you — [Driver Easy](https://tools.techidaily.com/drivereasy/download/) to update your GeForce GTX 460 Driver automatically. [Driver Easy](https://tools.techidaily.com/drivereasy/download/) can automatically scan your computer, then tell you which drivers are missing or outdated, and update them very quickly. Have a try on [Free Version](https://tools.techidaily.com/drivereasy/download/) , Driver Easy will offer the latest GeForce GTX 460 Driver for you to install. But if you update to [PRO Version](https://tools.techidaily.com/drivereasy/download/) , all you need to do is just click mouse two times.
@@ -43,6 +79,12 @@ thumbnail: https://thmb.techidaily.com/c1f2394a481b4500340195e3c4792344b150afff1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/SCAN-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Secondly** , click **Update All** . It will download and install **ALL** new drivers including your GeForce GTX 460 Driver automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/GTX-460.jpg)
@@ -106,10 +148,3 @@ thumbnail: https://thmb.techidaily.com/c1f2394a481b4500340195e3c4792344b150afff1
 <li><a href="https://technical-tips.techidaily.com/unlock-endless-entertainment-the-ultimate-instruction-manual-to-installing-netflix-on-kodi/"><u>Unlock Endless Entertainment: The Ultimate Instruction Manual to Installing Netflix on Kodi</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/updated-avs-mac-video-editor-unleash-your-creativity-for-2024/"><u>Updated AVS Mac Video Editor Unleash Your Creativity for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

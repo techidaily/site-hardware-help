@@ -1,7 +1,7 @@
 ---
 title: Exploring the World of Electronics - Tips From Tom's Hardware
-date: 2024-09-04T02:27:23.941Z
-updated: 2024-09-05T02:27:23.941Z
+date: 2024-09-09T16:16:23.961Z
+updated: 2024-09-10T16:16:23.961Z
 tags:
   - cpu
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/UdLqeSxzsPucb6GRFDjLm6-320-80.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Navigate the World of Gadgets: Find Reliable Tips and Specs Today
 
 AMD has listed the new Ryzen 5 9600X for pre-order on its[Canadian Amazon store](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Ftarget.georiot.com%2FProxy.ashx%3Ftsid%3D45723%26GR%255FURL%3Dhttps%253A%252F%252Famazon.ca%252Fdp%252FB0D6NN6TM7%253Ftag%253Dhawk-future-ca-20%2526ascsubtag%253Dtomshardware-us-8983708545272344516-20) . Officially releasing with the rest of the Ryzen 9000-series on July 31st, the 9600X currently shows up at $472.45 CAD.  
@@ -23,6 +29,12 @@ AMD has listed the new Ryzen 5 9600X for pre-order on its[Canadian Amazon store]
   
  AMD showed the Ryzen 5 9600X crushing Intel's Core i5-14600K by 22% in productivity[benchmarks](https://www.tomshardware.com/tag/benchmark) and 11% in gaming at its Zen 5 Tech Day, with an 88W peak power draw versus Intel's 181W. A lead of this margin for almost half of the power shows strong performance for the bottom of AMD's Zen 5 desktop CPU slate, though as always we need to take manufacturer benchmarks with a spoonful of salt. If AMD prices Ryzen 5 9600X below $300 (which we suspect it will, eventually), it becomes a shoo-in for[our best value CPU](https://www.tomshardware.com/reviews/best-cpus,3986.html#section-value-best-cpu-for-gaming-200-to-250) , a spot currently held by the Ryzen 5 7600X.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -92,10 +104,3 @@ AMD has listed the new Ryzen 5 9600X for pre-order on its[Canadian Amazon store]
 <li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-choosing-hardware-insights-from-toms-tech-expertise/"><u>The Ultimate Guide to Choosing Hardware - Insights From Tom's Tech Expertise</u></a></li>
 <li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-choosing-hardware-with-toms-tech-advice/"><u>The Ultimate Guide to Choosing Hardware with Tom's Tech Advice</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

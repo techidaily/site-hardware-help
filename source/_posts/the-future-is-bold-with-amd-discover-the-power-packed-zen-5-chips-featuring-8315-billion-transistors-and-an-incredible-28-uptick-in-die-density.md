@@ -1,7 +1,7 @@
 ---
 title: "The Future Is Bold with AMD: Discover the Power-Packed Zen 5 Chips Featuring 8.315 Billion Transistors and an Incredible 28%% Uptick in Die Density"
-date: 2024-09-04T02:28:11.610Z
-updated: 2024-09-05T02:28:11.610Z
+date: 2024-09-09T16:16:23.472Z
+updated: 2024-09-10T16:16:23.472Z
 tags:
   - cpu
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/d885990175ebfd301b45bcb64f4157ae788a5f9cafe52f432572d6e312400466.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## AMD's Cutting-Edge Ryzen 7 7800X3D: Zen 5 Architecture Leaves Zen 4 Gaming Flagship Behind with a Staggering 23% Performance Boost
 
 Third-party reviews of the Ryzen 9 9900X have begun to crop up, giving us our first authentic look at the actual performance of AMD's new[Zen 5](https://www.tomshardware.com/pc-components/cpus/amd-deep-dives-zen-5-ryzen-9000-and-strix-point-cpu-rdna-35-gpu-and-xdna-2-architectures) architecture. A Ryzen 9 9900X review by SaddyTech on YouTube has revealed that the 12-core Ryzen 9 9900X beast doesn't have the chops to outperform AMD's current[Ryzen 7 7800X3D](https://www.tomshardware.com/reviews/amd-ryzen-7-7800x3d-cpu-review) , one of the[best CPUs](https://www.tomshardware.com/reviews/best-cpus,3986.html) around. The Zen 4 chip with 3D V-Cache outperformed the Ryzen 9 9900X in gaming at 1080p and 1440p resolutions by up to 23%.
@@ -40,12 +46,24 @@ Third-party reviews of the Ryzen 9 9900X have begun to crop up, giving us our fi
 
  RYZEN 9 9900X - LA RECENSIONE "GAMING" - YouTube ![RYZEN 9 9900X - LA RECENSIONE ](https://img.youtube.com/vi/AZgLHglPCKE/maxresdefault.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Watch On](https://youtu.be/AZgLHglPCKE)
 
  SaddyTech's gaming[benchmarks](https://www.tomshardware.com/tag/benchmark) confirm AMD's previous statements about Ryzen 9000 not beating the Ryzen 7000 X3D processors in gaming. This is not a surprise and a trend that started with the Ryzen 7 5800X3D. For instance, the Ryzen 7 5800X3D, despite being a generation old, was still able to outperform the Ryzen 9 7950X flagship by 8% in our testing.
 
  3D V-Cache continues to be AMD's magic pill for incredibly efficient gaming performance, providing a generational improvement in performance for chips that take advantage of it. We must wait until the Ryzen 9000 X3D launches before Zen 5 officially dethrones Zen 4 with 3D V-Cache in gaming.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -122,10 +140,3 @@ Third-party reviews of the Ryzen 9 9900X have begun to crop up, giving us our fi
 <li><a href="https://hardware-help.techidaily.com/toms-tech-review-in-depth-computer-and-hardware-analysis/"><u>Tom's Tech Review: In-Depth Computer & Hardware Analysis</u></a></li>
 <li><a href="https://hardware-help.techidaily.com/toms-ultimate-resource-for-top-tier-hardware-analysis/"><u>Tom's Ultimate Resource for Top-Tier Hardware Analysis</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

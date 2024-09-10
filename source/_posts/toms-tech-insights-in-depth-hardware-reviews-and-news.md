@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Insights: In-Depth Hardware Reviews and News"
-date: 2024-09-04T02:32:40.078Z
-updated: 2024-09-05T02:32:40.078Z
+date: 2024-09-09T16:16:20.491Z
+updated: 2024-09-10T16:16:20.491Z
 tags:
   - cpu
 categories:
@@ -9,6 +9,18 @@ categories:
 thumbnail: https://thmb.techidaily.com/36f771b0e455ffd27a9b597a4a43e9338a94fa4efcb33fd8811a101c2c676422.png
 ---
 
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## No Turning Back: Intel’s Non-K Processor Crash Woes Extend to 65W and Up, Recall Missing
 
 Intel has now divulged that the crashing issue affecting 13th and 14th-gen processors impacts all 65W and higher CPUs, meaning even more mainstream un-overclockable models are impacted.[Intel announced Monday](https://www.tomshardware.com/pc-components/cpus/intel-finally-announces-a-solution-for-cpu-crashing-errors-claims-elevated-voltages-are-the-root-cause-fix-coming-by-mid-august) that, even though it still continues to investigate, it had finally gotten to the bottom of crashing issues plaguing its chips. As we reported on Monday, the microcode update is coming in mid-August, but if the bug has already damaged your CPU, you’re out of luck — the damage is irreversible, and the chip will need to be replaced. Intel has no plans to do a recall, but it is replacing impacted processors.
@@ -27,6 +39,18 @@ Intel has now divulged that the crashing issue affecting 13th and 14th-gen proce
 
  What’s troubling is that Intel has not and will not issue a recall for the affected CPUs. It also hasn’t halted processor sales pending the updated microcode rolling out.
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -95,10 +119,3 @@ Intel has now divulged that the crashing issue affecting 13th and 14th-gen proce
 <li><a href="https://hardware-help.techidaily.com/type-effortlessly-on-the-go-discover-sanwa-supplys-new-usb-foot-pedals-for-hands-free-typing/"><u>Type Effortlessly on the Go: Discover Sanwa Supply's New USB Foot Pedals for Hands-Free Typing</u></a></li>
 <li><a href="https://hardware-help.techidaily.com/unlocking-the-potential-of-your-pc-toms-comprehensive-hardware-insights/"><u>Unlocking the Potential of Your PC: Tom's Comprehensive Hardware Insights</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

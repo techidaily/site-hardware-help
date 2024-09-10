@@ -1,7 +1,7 @@
 ---
 title: Alderon Games Alleges 100%% Failure Rate for Intel's 13Th & 14Th Generation Processors
-date: 2024-09-04T02:27:15.171Z
-updated: 2024-09-05T02:27:15.171Z
+date: 2024-09-09T16:16:24.059Z
+updated: 2024-09-10T16:16:24.059Z
 tags:
   - cpu
 categories:
@@ -9,6 +9,18 @@ categories:
 thumbnail: https://thmb.techidaily.com/c563864243d3f7e3fd56bac1818e569ba605d41e0c030694805518fde8726b0b.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Are Dual-Core CPUs Over? Not with Intel's Latest 310 Leading Two P-Cores on Geekbench
 
 Intel is continuing the trend of replacing its entry-level processors with the generic "Intel Processor" nomenclature. A new[Geekbench](https://x.com/BenchLeaks/status/1811274720567853442) listing discovered by BenchLeaks on X reveals a new entry-level chip, dubbed the Intel Processor 310\. It will feature two performance cores and four threads, similar to Intel's Celeron and Pentium processors of old.
@@ -38,6 +50,12 @@ Intel is continuing the trend of replacing its entry-level processors with the g
 
  The 310's power rating is unknown, however based on the Intel Processor 300's base power of 46W, we suspect the 310 will be the same. If so, power consumption will also be a big differentiation between the two chips, with the i3-13100 able to suck down 60W at a minimum and up to 110W through Intel's modern PL1/PL2 system.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -116,16 +134,3 @@ Intel is continuing the trend of replacing its entry-level processors with the g
 <li><a href="https://hardware-help.techidaily.com/update-your-brother-mfc-l2690dw-printer-firmware-free-downloads-available/"><u>Update Your Brother MFC-L2690DW Printer Firmware – Free Downloads Available!</u></a></li>
 <li><a href="https://hardware-help.techidaily.com/upgrade-your-logitech-g510-experience-free-driver-downloads-for-windows-operating-systems-7-8-and-10/"><u>Upgrade Your Logitech G510 Experience: Free Driver Downloads for Windows Operating Systems 7, 8 & 10</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

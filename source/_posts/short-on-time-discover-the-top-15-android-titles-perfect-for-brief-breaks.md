@@ -1,7 +1,7 @@
 ---
 title: Short on Time? Discover the Top 15 Android Titles Perfect for Brief Breaks
-date: 2024-08-26 17:49:44
-updated: 2024-08-29 10:40:38
+date: 2024-09-09T16:11:02.449Z
+updated: 2024-09-10T16:11:02.449Z
 tags:
   - android
 categories:
@@ -9,6 +9,18 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/man-playing-a-game-on-his-phone-while-sitting-on-the-beach.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Short on Time? Discover the Top 15 Android Titles Perfect for Brief Breaks
 
 ### Quick Links
@@ -43,6 +55,12 @@ _QS Monkey Land: King of Fruits_ is essentially a [Suika](https://suikagame.com/
 
  Unlike _Ski Safari_, where you're trying to escape an avalanche, in Alto's Adventure, you lose when you fall. This means that most runs are short. You progress by doing fun mini-challenges to level up.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3 [Horizon Chase – Arcade Racing](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003357/https://play.google.com/store/apps/details?id=com.aquiris.horizonchase&cjevent=2129e7a91cde11ef80580d370a82b832) 
 
 _Horizon Chase_ pays homage to old-school Nintendo and Sega arcade racers like [_Lotus_](https://en.wikipedia.org/wiki/Lotus%5F%28video%5Fgame%5Fseries%29) and _[Top Gear](https://en.wikipedia.org/wiki/Top%5FGear%5F%28video%5Fgame%29)_. This modernized retro racer has you blazing through tracks at neckbreak speeds, so most races are incredibly short. Although the cars aren't licensed, they look just like the real deal.
@@ -53,14 +71,38 @@ _Horizon Chase_ pays homage to old-school Nintendo and Sega arcade racers like [
 
  If you've watched the Fallout TV series recently and can't get enough of the Fallout universe, now is the perfect time to jump into Fallout Shelter because they recently added characters and locations from the show.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5 [Egg, Inc.](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003357/https://play.google.com/store/apps/details?id=com.auxbrain.egginc) 
 
  If Fallout Shelter sounds too involved, _Egg, Inc._ is the perfect alternative. It's an adorable idle clicker where you click a big red button to spawn chickens, which lay money-making eggs. As you progress, you get more money to upgrade your base to earn more money, and the cycle repeats. The most efficient way to play it is to open the app a few times per day to upgrade your base, so it's ideal for two-minute sessions.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6 [Crossy Road](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003357/https://play.google.com/store/apps/details?id=com.yodo1.crossyroad) 
 
  Why did the chicken cross the road? To unlock new characters, of course. _Crossy Roads_ is a fun little arcade platformer where your goal is to get as far across the road as possible without dying. Just like _Floppy Bird_, individual sessions are incredibly short and entirely depend on how good you are. My favorite part is unlocking new characters. Some of them even change the environment, which is pretty cool.
 
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7 [Mars: Mars](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003357/https://play.google.com/store/apps/details?id=com.pomelogames.MarsGame) 
 
 _Mars: Mars_ is an endless platformer that involves jumping between platforms, but instead of starting from the beginning, when you fail, you go back to the previous platform. Just like in Crossy Roads, you can unlock new characters that completely change the environment. Many of them are based on historical figures, like Marilyn Monroe and Jimi Hendrix.
@@ -73,10 +115,22 @@ _Don't Touch the Spikes_ is a dead simple game. You tap on the screen to make a 
 
 _Bike Race_ is all about completing bite-sized levels to earn one to three stars, depending on how fast you finish the track. It's more of a platformer than a racing game, though. There's also a healthy level of competition against other players in the form of leaderboards.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 10 [Minesweeper](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003357/https://play.google.com/store/apps/details?id=Draziw.Button.Mines&hl=en&gl=US) 
 
  Do you remember that one [old-school Windows game](https://phone-solutions.techidaily.com/bypass-iphone-6s-plus-activation-lock-without-previous-owner-by-drfone-ios-unlock-ios-unlock/) that nobody knew how to play? _Minesweeper_ is a logic puzzle game that requires you to think. Your goal is to uncover all squares without tripping any mines that hide under the squares. The numbers tell you how many mines are adjacent to that square in a 3x3 pattern. You can find a few tricks online to get better at the game, but even without any "game knowledge," it's a lot of fun, and you'll hardly spend more than five minutes per session.
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 11 [I Love Hue](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003357/https://play.google.com/store/apps/details?id=com.zutgames.ilovehue) 
 
 _I Love Hue_ is a beautiful visual puzzle game that involves arranging colored tiles in gradients. The game gets progressively harder as you go. You could argue that it sharpens your visual perception, but I just like it because it's quick and relaxing.
@@ -89,10 +143,34 @@ _I Love Hue_ is a beautiful visual puzzle game that involves arranging colored t
 
 ![General Knowledge Quiz](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![General Knowledge Quiz](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/t-dknpzp6lihqqtyyi2ik0j1myzz5inb.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![General Knowledge Quiz](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot-1.png) 
 
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Close 
 
 _General Knowledge Quiz_ is my favorite random trivia game, and I genuinely learned a thing or two from it. There are thousands of questions that get harder or easier, depending on how well you do thanks to the [Elo rating system](https://en.wikipedia.org/wiki/Elo%5Frating%5Fsystem). I love how I can just whip out my phone and answer a few interesting questions in less than a minute.
@@ -123,3 +201,45 @@ _Puzzly Words_ is a unique word puzzle game where you're given letters and have 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-indicator-of-a-block-no-snapshots-received-for-2024/"><u>[New] The Indicator of a Block No Snapshots Received for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transform-your-flip-to-flash-with-android/"><u>[New] Transform Your Flip to Flash with Android</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-launching-professional-instagram-starting-an-enterprise-account/"><u>[Updated] Launching Professional Instagram Starting an Enterprise Account</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-announces-the-launch-of-its-latest-contender-the-ryzen-ai-9-hx-375-sitting-just-above-its-ancestor-strix-point-ryzen-cpus/"><u>AMD Announces the Launch of Its Latest Contender - The Ryzen AI 9 HX 375, Sitting Just Above Its Ancestor: Strix Point Ryzen CPU's</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/compatible-realtek-driver-suite-for-various-windows-versions-win11win10win7-free-downloads-available/"><u>Compatible Realtek Driver Suite for Various Windows Versions (Win11/Win10/Win7) – Free Downloads Available!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/compatible-windows-based-sound-device-drivers-download-here/"><u>Compatible Windows-Based Sound Device Drivers: Download Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/diagnosis-and-remedies-why-is-my-logitech-g433-mic-malfunctioning/"><u>Diagnosis and Remedies: Why Is My Logitech G433 Mic Malfunctioning?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-mbox-2-drives-on-windows-comprehensive-guide-issue-resolved/"><u>Download & Update MBox 2 Drives on Windows: Comprehensive Guide - Issue Resolved</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-intel-iris-xe-graphics-g7-driver-version-latest-for-windows-11/"><u>Download Intel Iris Xe Graphics G7 Driver Version [Latest] for Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-install-epson-perfection-v39-driver-compatible-with-windows-7810/"><u>Easy Install: Epson Perfection V39 Driver Compatible with Windows 7/8/10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/elite-igpu-in-new-snapdragon-x-release-disabled-due-to-initialized-oem-key-signing-latest-patch-insights/"><u>Elite iGPU in New Snapdragon X Release Disabled Due to Initialized OEM Key Signing - Latest Patch Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/epson-gt-s50-software-downloads-updated-drivers-for-windows-7810-users/"><u>Epson GT-S50 Software Downloads – Updated Drivers for Windows 7/8/10 Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-dell-network-driver-downloads-for-windows-7-systems/"><u>Free Dell Network Driver Downloads for Windows 7 Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-downloads-broadcoms-compatible-bluetooth-drivers-for-windows-11-8-and-7/"><u>Free Downloads: Broadcom's Compatible Bluetooth Drivers for Windows 11, 8 & 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-hp-printer-driver-software-free-download/"><u>Get the Latest HP Printer Driver Software Free Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-logitech-driving-force-gt-controller-on-windows-supports-win-7-to-win-11/"><u>Get Your Logitech Driving Force GT Controller on Windows – Supports Win 7 to Win 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-v30-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted V30 Contacts An Easy Method Explained.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-securely-download-and-implement-usb-e-30-drivers-on-windows-os/"><u>How to Securely Download and Implement USB E 3.0 Drivers on Windows OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-thunderbolt-docking-station-g2-driver-download-compatible-with-120w230w-models/"><u>HP Thunderbolt Docking Station G2 Driver Download: Compatible with 120W/230W Models</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-z440-motherboard-and-graphics-cards-find-update-or-download-all-necessary-drivers/"><u>HP Z440 Motherboard & Graphics Cards: Find, Update or Download All Necessary Drivers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-first-steps-for-joining-online-video-chats-google-meet/"><u>In 2024, First Steps for Joining Online Video Chats (Google Meet)</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-15-pro-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone 15 Pro Properly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-logitechs-rx250-mouse-drivers-seamless-functionality-across-windows-os-7810/"><u>Install Logitech's RX250 Mouse Drivers: Seamless Functionality Across Windows OS (7/8/10)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intel-customer-upset-over-return-process-demands-verification-for-newly-bought-i9-14900k-chips/"><u>Intel Customer Upset Over Return Process, Demands Verification for Newly Bought I9-14900K Chips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intel-vs-amd-puget-systems-reports-lower-intel-cpu-breakdown-rates-than-ryzen-latest-data-insights-from-system-builder/"><u>Intel vs AMD: Puget Systems Reports Lower Intel CPU Breakdown Rates Than Ryzen – Latest Data Insights From System Builder</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-update-for-corsair-k70-access-software-and-drivers-here/"><u>Latest Update for Corsair K70 - Access Software & Drivers Here!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-the-world-of-tech-insights-and-reviews-at-toms-hardware/"><u>Navigating the World of Tech: Insights and Reviews at Tom's Hardware</u></a></li>
+<li><a href="https://facebook.techidaily.com/1719153399725-no-media-all-eyes-on-you-go-insta-live/"><u>No Media, All Eyes On You: Go Insta-Live!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-samsung-galaxy-s23-ultra-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Samsung Galaxy S23 Ultra? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-simple-guide-microsoft-drivers-downloading-and-updating-on-windows-11-8-and-7/"><u>Quick and Simple Guide: Microsoft Drivers Downloading and Updating on Windows 11, 8 & 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-guide-downloading-and-updating-your-scansnap-s1300i/"><u>Quick Guide: Downloading and Updating Your ScanSnap S1300i</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/revealing-the-top-notch-free-srt-translators-for-your-needs/"><u>Revealing the Top-Notch FREE SRT Translators for Your Needs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/secure-download-of-advanced-pci-sound-card-drivers-for-latest-and-legacy-windows-operating-systems/"><u>Secure Download of Advanced PCI Sound Card Drivers for Latest and Legacy Windows Operating Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-easy-installation-of-pioneer-dj-ddj-sx2-control-surface-software/"><u>Step by Step: Easy Installation of Pioneer DJ DDJ-SX2 Control Surface Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-to-newest-amd-radeon-rx-6900-xt-drivers-supported-by-windows-11-10-8-and-7-start-your-free-download/"><u>Update to Newest AMD Radeon RX 6900 XT Drivers – Supported by Windows 11, 10, 8 & 7: Start Your Free Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/updated-nvidia-rtx-2080-graphics-card-drivers-download-now-for-windows-10-7-or-8-users/"><u>Updated NVIDIA RTX 2080 Graphics Card Drivers - Download Now for Windows 10, 7 or 8 Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/winx-dvd-ripper-premium-edition-ultimate-speed-and-protection-for-copying-drm-secured-dvds-on-windows-10/"><u>WinX DVD Ripper Premium Edition - Ultimate Speed & Protection for Copying DRM-Secured DVDs on Windows 10</u></a></li>
+</ul></div>

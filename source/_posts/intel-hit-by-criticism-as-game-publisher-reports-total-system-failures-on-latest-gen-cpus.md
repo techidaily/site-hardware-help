@@ -1,7 +1,7 @@
 ---
 title: Intel Hit by Criticism as Game Publisher Reports Total System Failures on Latest-Gen CPUs
-date: 2024-09-04T02:26:32.811Z
-updated: 2024-09-05T02:26:32.811Z
+date: 2024-09-09T16:16:24.533Z
+updated: 2024-09-10T16:16:24.533Z
 tags:
   - cpu
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/StJQAUjdfbrguLmZvf2qnJ-320-80.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Intel CPU Owners, Take Note! Game Dev Offers Solutions to Mitigate Crashes on 13Th & 14Th Gen Models – Click for Guide
 
 Alderon Games was one of the first publishers to share the extensive frustration Intel's Raptor Lake instability has caused. Game crashes were so bad that it forced the game development studio to announce it would be putting in-game notifications in its title, _Path of Titans_ , to warn its customers about the problem. A post by [HXL on X](https://x.com/9550pro/status/1816660855196647577) has revealed this is the case._Path of Titans_ now notifies users about Raptor Lake instability when the game crashes on a Raptor Lake or Raptor Lake Refresh machine.
@@ -23,6 +29,12 @@ _Path of Titans_ now clearly reveals to gamers the exact problems with Raptor La
 
  Intel is closer than ever to finally knocking out this instability problem for good. The chipmaker announced a few days ago that it discovered the[root cause](https://www.tomshardware.com/pc-components/cpus/intel-finally-announces-a-solution-for-cpu-crashing-errors-claims-elevated-voltages-are-the-root-cause-fix-coming-by-mid-august) of the crashing issues surrounding elevated voltages that can cause irreversible degradation to Raptor Lake and Raptor Lake Refresh processors. Intel will provide a new microcode update by mid-August to fix this voltage problem and prevent undamaged parts from degrading beyond repair. Intel has officially said this, but there are contrasting[reports](https://www.tomshardware.com/pc-components/cpus/leaked-internal-reports-allegedly-reveal-intels-instability-problems-are-not-over-elevated-voltages-could-be-only-one-of-the-causes-of-cpu-crashing) that elevated voltages are just one root cause affecting the instability phenomena.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -84,10 +96,3 @@ _Path of Titans_ now clearly reveals to gamers the exact problems with Raptor La
 <li><a href="https://hardware-help.techidaily.com/why-everyone-desired-a-rear-projection-television-despite-their-notorious-shortcomings/"><u>Why Everyone Desired a Rear-Projection Television Despite Their Notorious Shortcomings</u></a></li>
 <li><a href="https://hardware-help.techidaily.com/will-shifting-xbox-processor-to-arm-technology-boost-performance-and-future-proof-console-gaming/"><u>Will Shifting Xbox Processor to ARM Technology Boost Performance and Future-Proof Console Gaming?</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

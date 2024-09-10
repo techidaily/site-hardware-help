@@ -1,7 +1,7 @@
 ---
 title: "Steadily Evolving: The Journey of Intel's 18A CPUs and the Path Towards Next-Gen Lithography Processes"
-date: 2024-09-04T02:27:05.589Z
-updated: 2024-09-05T02:27:05.589Z
+date: 2024-09-09T16:16:24.166Z
+updated: 2024-09-10T16:16:24.166Z
 tags:
   - cpu
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/febc5e8eb723097c959ee0c4369a98c541397c828606f3e607457279dcc62863.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Beyond Repair: Intel's Mainline Non-K Core Processors Suffer Crashing Fiasco, No Recall in the Works
 
 Intel has now divulged that the crashing issue affecting 13th and 14th-gen processors impacts all 65W and higher CPUs, meaning even more mainstream un-overclockable models are impacted.[Intel announced Monday](https://www.tomshardware.com/pc-components/cpus/intel-finally-announces-a-solution-for-cpu-crashing-errors-claims-elevated-voltages-are-the-root-cause-fix-coming-by-mid-august) that, even though it still continues to investigate, it had finally gotten to the bottom of crashing issues plaguing its chips. As we reported on Monday, the microcode update is coming in mid-August, but if the bug has already damaged your CPU, you’re out of luck — the damage is irreversible, and the chip will need to be replaced. Intel has no plans to do a recall, but it is replacing impacted processors.
@@ -27,6 +33,12 @@ Intel has now divulged that the crashing issue affecting 13th and 14th-gen proce
 
  What’s troubling is that Intel has not and will not issue a recall for the affected CPUs. It also hasn’t halted processor sales pending the updated microcode rolling out.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -92,10 +104,3 @@ Intel has now divulged that the crashing issue affecting 13th and 14th-gen proce
 <li><a href="https://hardware-help.techidaily.com/update-your-hp-printer-software-compatible-with-windows-10-and-11/"><u>Update Your HP Printer Software: Compatible with Windows 10 and 11</u></a></li>
 <li><a href="https://hardware-help.techidaily.com/zen-5-cpu-revelation-the-new-ryzen-ai-eat-intels-and-apples-chips-for-breakfast-sets-high-passmark-records/"><u>Zen 5 CPU Revelation: The New Ryzen AI Eat Intel's and Apple's Chips for Breakfast, Sets High PassMark Records</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

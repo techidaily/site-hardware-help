@@ -1,7 +1,7 @@
 ---
 title: Angry Buyer Contests Intel's RMA Procedure - Insists on Authenticity of Core I9-14900K CPUs From Retailers
-date: 2024-09-04T02:25:57.154Z
-updated: 2024-09-05T02:25:57.154Z
+date: 2024-09-09T16:16:24.940Z
+updated: 2024-09-10T16:16:24.940Z
 tags:
   - cpu
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/uMTez3vnCZ98dmKqtMseZU-320-80.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Next Generation of Intel CPUs Could Face Hotter Running Challenges, Says Industry Insider – Arrow Lake Series Concerned
 
 Intel has reportedly increased the maximum thermal junction (TJMax) temperature for its upcoming codenamed[Arrow Lake](https://www.tomshardware.com/pc-components/cpus/intels-next-gen-desktop-cpus-have-leaked-arrow-lake-core-ultra-200-series-share-similar-core-counts-with-raptor-lake-refresh) and[Panther Lake](https://www.tomshardware.com/pc-components/cpus/intel-makes-a-big-ai-push-with-future-cpus-panther-lake-in-2025-will-double-the-ai-performance-over-arrow-lake-and-lunar-lake) processors to 105 degrees Celsius, according to a leak by [Jaykihn](https://x.com/jaykihn0/status/1812913340865474946) . Jaykihn is a blogger who seems to have access to samples of Intel's upcoming processors and not-yet-released documents.
@@ -19,6 +25,12 @@ Intel has reportedly increased the maximum thermal junction (TJMax) temperature 
 
 ![Intel Panther Lake](https://cdn.mos.cms.futurecdn.net/BVbkSY2rYn2A9QhgANpAsd-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: jaykihn0/Twitter)
 
  System builders should design systems to keep the processor below this threshold during heavy workloads to maximize performance, so increased TJMax is good.[Notebooks](https://www.tomshardware.com/tag/notebooks) based on Meteor Lake, Arrow Lake, and Panther Lake CPUs will sustain their maximum performance for extended periods, even under high loads (which is helpful for thin machines).
@@ -31,6 +43,18 @@ Intel has reportedly increased the maximum thermal junction (TJMax) temperature 
 
  Panther Lake-U CPUs will purportedly sport up to four high-performance cores, four ultra-low-power cores, four Xe GPU clusters, and a PBP of 15W. In contrast, the more powerful Panther Lake-U processor will seemingly pack up to four high-performance cores, eight energy-efficient cores, four ultra-low-power cores, and 12 Xe graphics clusters. However, these CPUs will dissipate up to 25W. Because the image does not come from Intel, consider its contents with a grain of salt.
 
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -114,10 +138,3 @@ Intel has reportedly increased the maximum thermal junction (TJMax) temperature 
 <li><a href="https://win-amazing.techidaily.com/walkthrough-for-enhancing-performance-intel-centrino-wireless-n-1030-card-software-update/"><u>Walkthrough for Enhancing Performance: Intel Centrino Wireless N 1030 Card Software Update</u></a></li>
 <li><a href="https://facebook-video-footage.techidaily.com/wealthy-web-showrunners-for-2024/"><u>Wealthy Web Showrunners for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Tech Gear by Tom's Computing Experts
-date: 2024-09-04T02:25:15.642Z
-updated: 2024-09-05T02:25:15.642Z
+date: 2024-09-09T16:16:25.385Z
+updated: 2024-09-10T16:16:25.385Z
 tags:
   - cpu
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/JHeXfkUtGq9irev5csBqFK-320-80.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Elevate Your AMD Ryzen 9 - The Ultimate Overclock Guide: Skyrocket Performance by +250MHz & Dominate with 27% Better Scores on Geekbench
 
 It looks like those who received their AMD[Ryzen 9000](https://www.tomshardware.com/pc-components/cpus/amd-announces-zen-5-ryzen-9000-processors-launches-in-july-four-new-ryzen-9-7-and-5-processors-with-a-16-ipc-improvement) samples early are continuing to test them, as an interesting new benchmark result has been shared online. Twitter’s [HXL,](https://x.com/9550pro/status/1816306680227062157) an Asus system packing an AMD Ryzen 9 9950X engineering sample (ES), was checked in Geekbench 6\. Moreover, this Zen 5 16C/32T consumer flagship was overclocked to 5.95 GHz. That’s a modest 300 MHz faster than the stock maximum clock.
@@ -36,12 +42,24 @@ It looks like those who received their AMD[Ryzen 9000](https://www.tomshardware.
 
 ![Geekbench result for 9950X](https://cdn.mos.cms.futurecdn.net/tNUgRFEtXhcXGXaaJ92WwB-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Future)
 
  Another enlightening view of the AMD Ryzen 9 9950X came from an official source, the firm’s in-house Extreme Overclocking team. They cooled the upcoming Zen 5 flagship with LN2 to demonstrate impressive performance in popular benchmarks like Cinebench R23 and R15\. The team broke records along the way, thanks to the Zen 5 architecture IPC benefits and lashings of LN2 enabling[clock speeds up to 6.75 GHz](https://www.tomshardware.com/pc-components/cpus/ryzen-9-9950x-overclocked-to-67-ghz-with-ln2-liquid-nitrogen-helps-amds-newest-flagship-break-previous-world-records) .
 
  Sadly, we will have to wait a little longer than expected to get chips like the AMD Ryzen 9 9950X in Tom’s Hardware labs. Yesterday the news broke that these Zen 5 desktop chips would start to[roll out in August](https://www.tomshardware.com/pc-components/cpus/amd-delays-its-ryzen-9000-launch-due-to-unspecified-quality-issue-new-launch-in-august-chipmaker-pulls-back-all-units-shipped-globally-for-quality-checks) due to unspecified quality issue(s).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -113,16 +131,3 @@ It looks like those who received their AMD[Ryzen 9000](https://www.tomshardware.
 <li><a href="https://hardware-help.techidaily.com/1722978662616-update-your-nvidia-quadro-rtx-n-to-latest-version-with-these-easy-steps-driver-downloads-included/"><u>Update Your NVIDIA Quadro RTX N to Latest Version with These Easy Steps - Driver Downloads Included</u></a></li>
 <li><a href="https://win-solutions.techidaily.com/upgraded-vision-correcting-the-haziness-in-your-outriders-gameplay/"><u>Upgraded Vision: Correcting the Haziness in Your Outriders Gameplay</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

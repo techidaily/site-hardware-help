@@ -1,7 +1,7 @@
 ---
 title: How Much Is the Eurozone Worth? French Distributor Sets Price for AMD Ryzen 9 9900X at Close to €680.
-date: 2024-09-04T02:26:57.834Z
-updated: 2024-09-05T02:26:57.834Z
+date: 2024-09-09T16:16:24.256Z
+updated: 2024-09-10T16:16:24.256Z
 tags:
   - cpu
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/Qa4xhafrciX4Fo6UwsVQkB-320-80.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## AMD Ryzen Nine-9950X Surprises with Top Five Performance, Trails Behind Xeon and Threadripper in Watercooled Benchmark Trials
 
 AMD's upcoming Ryzen 9 9950X Zen 5 flagship, which will compete against the[best CPUs](https://www.tomshardware.com/reviews/best-cpus,3986.html) , is already breaking some world records with conventional liquid cooling. First discovered by[HXL on X](https://x.com/9550pro/status/1818987621689000000?t=lxpe4iE%5Fhxjl%5FoCGhGJr4w&s=31) , a Ryzen 9 9950X owner has already submitted several benchmark runs to HWBot, featuring some potent results, including a top-five placement in the Time Spy Extreme CPU benchmark.
@@ -19,6 +25,18 @@ AMD's upcoming Ryzen 9 9950X Zen 5 flagship, which will compete against the[best
 
 ![HWBot Ryzen 9 9950X 5th place score](https://cdn.mos.cms.futurecdn.net/7Bfw4CBh7fsfLC6gWq66nW-320-80.png)
 
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 (Image credit: HWBot)
 
  The Zen 5 flagship also secured a 10th-place position in HWBot's 3DMark CPU Profile 1 Thread: Hall of Fame. The Ryzen 9 9950X achieved 1,393 marks flanked by unlocked 14th Gen, 13th Gen, 12th Gen, and 11th Gen parts, with all of these Intel chips running well over 6 GHz.
@@ -31,6 +49,12 @@ AMD's upcoming Ryzen 9 9950X Zen 5 flagship, which will compete against the[best
 
  The Ryzen 9 9950X's performance is impressive. The CPU leveraged AMD's PBO and Curve Optimizer technologies with speedy RAM. The system utilizes a custom loop to remain cool during the[benchmarks](https://www.tomshardware.com/tag/benchmark) . Extreme overclockers can break world records with this chip once they put it under liquid nitrogen.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -115,10 +139,3 @@ AMD's upcoming Ryzen 9 9950X Zen 5 flagship, which will compete against the[best
 <li><a href="https://win-forum.techidaily.com/upgrade-to-seamless-file-deletion-with-the-latest-revo-uninstaller-pro-5/"><u>Upgrade To Seamless File Deletion With The Latest Revo Uninstaller Pro 5</u></a></li>
 <li><a href="https://hardware-help.techidaily.com/upgrade-your-surface-book-drives-easy-downloads-included/"><u>Upgrade Your Surface Book Drives Easy - Downloads Included!</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

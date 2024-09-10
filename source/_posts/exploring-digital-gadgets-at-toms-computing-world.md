@@ -1,7 +1,7 @@
 ---
 title: Exploring Digital Gadgets at Tom's Computing World
-date: 2024-09-04T02:25:58.517Z
-updated: 2024-09-05T02:25:58.517Z
+date: 2024-09-09T16:16:24.925Z
+updated: 2024-09-10T16:16:24.925Z
 tags:
   - cpu
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/Qa4xhafrciX4Fo6UwsVQkB-320-80.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Leak Alert: Intel Releases Core Ultra Series CPU and Supporting Z890 Chip Set—New Era of Desktop Computing Awaits
 
 The official name for Intel's next-generation desktop platform and flagship chipset has been under wraps since Intel gave us a sneak peek at the platform (i.e., the LGA1851 motherboards) in[Computex](https://www.tomshardware.com/tag/computex) . A leak from [HXL on X](https://x.com/9550pro/status/1815326634129686549) (Twitter) has confirmed that Intel's flagship series will take on the Core Ultra moniker similar to its Meteor Lake counterparts and confirmed the name of Intel's flagship chipset, Z890.
@@ -27,6 +33,12 @@ The official name for Intel's next-generation desktop platform and flagship chip
 
 [Previous leaks claim](https://www.tomshardware.com/pc-components/cpus/leaked-intel-arrow-lake-chipset-diagram-show-more-pcie-lanes-no-support-for-ddr4-new-chipset-boasts-two-m2-ssd-ports-connected-directly-to-cpu) that Z890 will be a noteworthy upgrade over Z790, providing integrated Thunderbolt 4 support, thanks to Thunderbolt 4 controller integration from Arrow Lake CPUs. Z890 is also rumored to come with four additional lanes of PCIe 5 storage for dedicated M.2 SSDs and a secondary PCIe 4.0 x 4 interface for a second M.2 drive. Rumors also stated that Intel will adopt the ["200" moniker](https://www.tomshardware.com/pc-components/cpus/intels-next-gen-desktop-cpus-have-leaked-arrow-lake-core-ultra-200-series-share-similar-core-counts-with-raptor-lake-refresh) for Arrow Lake-S, featuring a triple-digit numbering scheme rather than the five we have today. The flagship Arrow Lake-S part is cited as being called the Core Ultra 9 285K.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -99,10 +111,3 @@ The official name for Intel's next-generation desktop platform and flagship chip
 <li><a href="https://hardware-help.techidaily.com/update-your-brother-scanners-new-drivers-for-windows-users/"><u>Update Your Brother Scanners: New Drivers for Windows Users</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-honor-magic-5-lite-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Honor Magic 5 Lite Device</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: Crashing Woes Continue for Intel Notebook CPUs, Reports Indicate Troubling Pattern of Failures During Tests
-date: 2024-09-04T02:33:31.764Z
-updated: 2024-09-05T02:33:31.764Z
+date: 2024-09-09T16:16:19.929Z
+updated: 2024-09-10T16:16:19.929Z
 tags:
   - cpu
 categories:
@@ -9,6 +9,18 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/qSQx4UwL6FGTdmcKjrWLmP-320-80.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Consumer Challenges Intel's RMA Protocol, Accuses Retailers of Selling Fake Core I9-14900K Processors
 
 Reddit user[jerubedo](https://www.reddit.com/r/hardware/comments/1ei1zvm/intel%5Fhas%5Fdenied%5Ftwo%5Fof%5Fmy%5F14900k%5Frmas/) took to the r/hardware subreddit to share a story on an Intel RMA nightmare. The individual said the company claimed that the two[Core i9-14900K](https://www.tomshardware.com/news/intel-core-i9-14900k-cpu-review) processors suffering from the [instability issues](https://www.tomshardware.com/pc-components/intel-raptor-lake-instability-troubles-everything-you-need-to-know) plaguing 13th- and 14th-generation Intel chips were fraudulent. The company reportedly said in its response, “Intel reserves the rights to retain the product and/or destroy such product as appropriate.”
@@ -25,6 +37,12 @@ Reddit user[jerubedo](https://www.reddit.com/r/hardware/comments/1ei1zvm/intel%5
 
 ![Intel Core i9-14900K RMA retail box](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: jerubedo)
 
 ![Intel Core i9-14900K serial number](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -37,14 +55,32 @@ Reddit user[jerubedo](https://www.reddit.com/r/hardware/comments/1ei1zvm/intel%5
 
 ![Intel warranty](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: jerubedo)
 
 ![Intel email](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: jerubedo)
 
 ![Intel email](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: jerubedo)
 
 ![Intel threat](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -61,6 +97,18 @@ Reddit user[jerubedo](https://www.reddit.com/r/hardware/comments/1ei1zvm/intel%5
 
 ![Intel Core i9-14900K RMA](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: jerubedo)
 
 ![Intel retail box](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -73,6 +121,12 @@ Reddit user[jerubedo](https://www.reddit.com/r/hardware/comments/1ei1zvm/intel%5
 
 ![Intel receipt](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: jerubedo)
 
 ![Intel email](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -178,10 +232,3 @@ Reddit user[jerubedo](https://www.reddit.com/r/hardware/comments/1ei1zvm/intel%5
 <li><a href="https://hardware-help.techidaily.com/update-your-windows-computer-with-amd-radeon-r9-200-series-graphics-card-drivers-now/"><u>Update Your Windows Computer with AMD Radeon R9 200 Series Graphics Card Drivers Now!</u></a></li>
 <li><a href="https://hardware-help.techidaily.com/usb-30-driver-software-get-latest-version-for-windows-10-free/"><u>USB 3.0 Driver Software: Get Latest Version for Windows 10 Free</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

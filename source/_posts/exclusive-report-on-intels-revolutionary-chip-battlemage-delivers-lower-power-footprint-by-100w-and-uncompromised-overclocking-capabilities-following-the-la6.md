@@ -1,7 +1,7 @@
 ---
 title: Exclusive Report on Intel's Revolutionary Chip - Battlemage Delivers Lower Power Footprint by 100W and Uncompromised Overclocking Capabilities Following the Latest Raptor Lake Updates
-date: 2024-09-04T02:29:00.622Z
-updated: 2024-09-05T02:29:00.622Z
+date: 2024-09-09T16:16:22.948Z
+updated: 2024-09-10T16:16:22.948Z
 tags:
   - cpu
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/R8dv5XnYfxw482AzETrsCC-320-80.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The New Intel Kingpin: Core I7-14700K Shines with a 7% Single-Core Supremacy over Competitor Core Ultra 7 - Arrow Lake Chip Dominates Benchmarks
 
 Another upcoming Arrow Lake chip, which will compete against the[best CPUs](https://www.tomshardware.com/reviews/best-cpus,3986.html) , has appeared for the first time in the Geekbench browser. This time, it pertains to the iGPUless Core Ultra 7 265KF. Discovered by[Benchleaks on X](https://x.com/BenchLeaks/status/1817097462177235414) , the chip was benchmarked in Geekbench 5.5.1 (the source of the results has now been pulled). It boasts good single-core performance but falters in multi-core performance, lagging behind the last-generation[Core i7-14700K](https://www.tomshardware.com/news/intel-core-i9-14900k-cpu-review) .
@@ -32,6 +38,12 @@ Another upcoming Arrow Lake chip, which will compete against the[best CPUs](http
 
  As always, take these results with a pinch of salt. The conditions in which the Core Ultra 7 was running are unknown. However, we won't see what Arrow Lake is capable of until in a few months, as Intel's next-generation chips have been rumored to launch in October, while AMD's Ryzen 9000 lineup is just right around the corner.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -104,10 +116,3 @@ Another upcoming Arrow Lake chip, which will compete against the[best CPUs](http
 <li><a href="https://hardware-updates.techidaily.com/your-trusted-source-for-in-depth-tech-analysis-toms-hardware/"><u>Your Trusted Source for In-Depth Tech Analysis - Tom's Hardware</u></a></li>
 <li><a href="https://hardware-help.techidaily.com/zen-5-flagship-ryzen-9-9950x-claims-5th-place-in-global-cpu-performance-race-against-core-loaded-xeon-and-threadripper-chips/"><u>Zen 5 Flagship Ryzen 지킨 9 9950X Claims 5Th Place in Global CPU Performance Race Against Core-Loaded Xeon and Threadripper Chips</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

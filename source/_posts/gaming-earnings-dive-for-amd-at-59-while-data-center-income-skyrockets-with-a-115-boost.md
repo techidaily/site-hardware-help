@@ -1,7 +1,7 @@
 ---
 title: Gaming Earnings Dive for AMD at -59%%, While Data Center Income Skyrockets with a 115%% Boost
-date: 2024-09-04T02:28:30.734Z
-updated: 2024-09-05T02:28:30.734Z
+date: 2024-09-09T16:16:23.281Z
+updated: 2024-09-10T16:16:23.281Z
 tags:
   - cpu
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c46706aa01bde874e33ab2b8.jpeg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The New Intel Kingpin: Core I7-14700K Shines with a 7% Single-Core Supremacy over Competitor Core Ultra 7 - Arrow Lake Chip Dominates Benchmarks
 
 Another upcoming Arrow Lake chip, which will compete against the[best CPUs](https://www.tomshardware.com/reviews/best-cpus,3986.html) , has appeared for the first time in the Geekbench browser. This time, it pertains to the iGPUless Core Ultra 7 265KF. Discovered by[Benchleaks on X](https://x.com/BenchLeaks/status/1817097462177235414) , the chip was benchmarked in Geekbench 5.5.1 (the source of the results has now been pulled). It boasts good single-core performance but falters in multi-core performance, lagging behind the last-generation[Core i7-14700K](https://www.tomshardware.com/news/intel-core-i9-14900k-cpu-review) .
@@ -32,6 +38,12 @@ Another upcoming Arrow Lake chip, which will compete against the[best CPUs](http
 
  As always, take these results with a pinch of salt. The conditions in which the Core Ultra 7 was running are unknown. However, we won't see what Arrow Lake is capable of until in a few months, as Intel's next-generation chips have been rumored to launch in October, while AMD's Ryzen 9000 lineup is just right around the corner.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -120,10 +132,3 @@ Another upcoming Arrow Lake chip, which will compete against the[best CPUs](http
 <li><a href="https://hardware-help.techidaily.com/unveiling-the-latest-in-computing-with-toms-hardware-insights-t17239718720818/"><u>Unveiling the Latest in Computing with Tom's Hardware Insights</u></a></li>
 <li><a href="https://extra-lessons.techidaily.com/what-exactly-is-periscope-free-access-and-registration-details/"><u>What Exactly Is Periscope? Free Access & Registration Details</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

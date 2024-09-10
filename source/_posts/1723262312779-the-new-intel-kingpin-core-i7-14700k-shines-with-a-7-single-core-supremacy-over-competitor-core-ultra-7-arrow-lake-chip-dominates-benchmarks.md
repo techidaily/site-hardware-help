@@ -1,7 +1,7 @@
 ---
 title: "The New Intel Kingpin: Core I7-14700K Shines with a 7%% Single-Core Supremacy over Competitor Core Ultra 7 - Arrow Lake Chip Dominates Benchmarks"
-date: 2024-09-04T02:26:30.258Z
-updated: 2024-09-05T02:26:30.258Z
+date: 2024-09-09T16:16:24.561Z
+updated: 2024-09-10T16:16:24.561Z
 tags:
   - cpu
 categories:
@@ -9,6 +9,18 @@ categories:
 thumbnail: https://thmb.techidaily.com/06ef633964d4aeb8c1c54f31a301e011025d7ea7f99ce0f0956fe9988aefd04b.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The New Intel Kingpin: Core I7-14700K Shines with a 7% Single-Core Supremacy over Competitor Core Ultra 7 - Arrow Lake Chip Dominates Benchmarks
 
 Another upcoming Arrow Lake chip, which will compete against the[best CPUs](https://www.tomshardware.com/reviews/best-cpus,3986.html) , has appeared for the first time in the Geekbench browser. This time, it pertains to the iGPUless Core Ultra 7 265KF. Discovered by[Benchleaks on X](https://x.com/BenchLeaks/status/1817097462177235414) , the chip was benchmarked in Geekbench 5.5.1 (the source of the results has now been pulled). It boasts good single-core performance but falters in multi-core performance, lagging behind the last-generation[Core i7-14700K](https://www.tomshardware.com/news/intel-core-i9-14900k-cpu-review) .
@@ -32,6 +44,18 @@ Another upcoming Arrow Lake chip, which will compete against the[best CPUs](http
 
  As always, take these results with a pinch of salt. The conditions in which the Core Ultra 7 was running are unknown. However, we won't see what Arrow Lake is capable of until in a few months, as Intel's next-generation chips have been rumored to launch in October, while AMD's Ryzen 9000 lineup is just right around the corner.
 
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -113,10 +137,3 @@ Another upcoming Arrow Lake chip, which will compete against the[best CPUs](http
 <li><a href="https://hardware-help.techidaily.com/why-having-just-one-charger-isnt-enough-discover-the-advantages-of-extra-power-banks-now/"><u>Why Having Just One Charger Isn't Enough - Discover the Advantages of Extra Power Banks Now!</u></a></li>
 <li><a href="https://tech-revival.techidaily.com/winxvideo-ai-il-metodo-per-ottenere-una-superior-quality-in-tutti-i-tuoi-video-consigli-seo-esclusivi/"><u>WinXVideo AI: Il Metodo Per Ottenere Una Superior Quality in Tutti I Tuoi Video - Consigli SEO Esclusivi</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Silence Your Tap-Tapping Keys: Universal Methods to Mute Keyboard Noises"
-date: 2024-08-28 17:17:48
-updated: 2024-08-29 10:22:34
+date: 2024-09-09T16:16:07.858Z
+updated: 2024-09-10T16:16:07.858Z
 tags:
   - android
 categories:
@@ -11,6 +11,12 @@ thumbnail: https://thmb.techidaily.com/24d9ad97cc4d2914a6f62f8ac9d6325300e284842
 
 ## Silence Your Tap-Tapping Keys: Universal Methods to Mute Keyboard Noises
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Turn Off the Keyboard Sound on iPhone and iPad](https://techidaily.com/complete-guide-to-hard-reset-your-motorola-edge-40-neo-drfone-by-drfone-reset-android-reset-android/)
@@ -19,12 +25,24 @@ thumbnail: https://thmb.techidaily.com/24d9ad97cc4d2914a6f62f8ac9d6325300e284842
 * [Turn Off the Touch Keyboard Sound on Windows 11](https://win11-tips.techidaily.com/improving-windows-11-taskbar-stability/)
 * [Turn Off the On-Screen Keyboard Sound on Windows 10 and 11](https://facebook-video-content.techidaily.com/updated-from-shoots-to-screens-dslr-setup-for-youtubefacebook-live/)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
  On iPhone or iPad, head to Settings > Sounds & Haptics > Keyboard Feedback and disable "Sound." On Android, disable sounds in your keyboard options. On Windows 10, go to Settings > Devices > Typing. Disable "Play key sounds as I type." On Windows 11, head to Settings > Time & Language > Typing > Touch Keyboard.
 
  Does the sound you hear when you press a key on your screen's keyboard sound like nails on a chalkboard to you? If so, you can turn the keyboard sound off on your iPhone and iPad, as well as your Windows and Android devices. We'll show you how.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Turn Off the Keyboard Sound on iPhone and iPad
 
  On an iPhone and iPad, Apple makes it easy to turn your keyboard's sound off.
@@ -49,16 +67,40 @@ Related: [How to Swipe Type on an iPhone or iPad](https://android-location-track
 
  On Android, the way you disable the keyboard sound varies by your phone model and your keyboard app. If you [use Google's Gboard or Samsung Keyboard](https://extra-hints.techidaily.com/2024-approved-construct-humor-memes-via-adobe/), you'll find the instructions to turn off the keypress sound for those keyboards here.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Disable Gboard's Keypress Sound on Android
 
  To make Gboard silent, launch the Settings app on your Android phone. Then, select System > Languages & Input > Virtual Keyboard > Gboard.
 
 ![Select "Gboard."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/8-android-gboard-settings.png) 
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In "Settings," tap "Preferences."
 
 ![Select "Preferences."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/9-android-gboard-preferences.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  On the "Preferences" screen, in the "Key Press" section, turn off "Sound on Keypress."
 
 ![Turn off "Sound on Keypress."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/10-android-disable-gboard-sound.png) 
@@ -67,6 +109,12 @@ Related: [How to Swipe Type on an iPhone or iPad](https://android-location-track
 
 Related: [How to Adjust Gboard's Height on Android](https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-from-apple-iphone-11-pro-by-drfone-ios/) 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Turn Off Samsung Keyboard's Sound on Android
 
 [To make Samsung Keyboard](https://extra-skills.techidaily.com/new-inside-facetunes-magic-an-in-depth-analysis-for-perfect-photos/) silent on your Samsung phone, first, launch the Settings app on your phone.
@@ -101,6 +149,12 @@ _[StockerTui/Shutterstock.com](https://www.shutterstock.com/image-photo/business
 
 ![Select "Time & Language" on the left.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/2-windows-11-time-language-settings.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  On the right pane, choose "Typing."
 
 ![Choose "Typing" on the right.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/3-windows-11-typing-settings.png) 
@@ -111,6 +165,12 @@ _[StockerTui/Shutterstock.com](https://www.shutterstock.com/image-photo/business
 
 Related: [How to Quiet Your Mechanical Keyboard with Switch Dampeners](https://win11.techidaily.com/a-step-by-step-guide-to-rectify-a-wrongly-setup-temp-folder-in-win11/) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Turn Off the On-Screen Keyboard Sound on Windows 10 and 11
 
  If you've [used Windows 10 or 11's on-screen keyboard](https://screen-capture.techidaily.com/updated-2024-approved-how-to-record-your-desktop-screen-on-windows-for-free-3-methods/), you've noticed that each keypress makes a sound. Luckily, you can turn those sounds off too.
@@ -119,6 +179,12 @@ Related: [How to Quiet Your Mechanical Keyboard with Switch Dampeners](https://w
 
 ![Choose "Options."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/4-windows-on-screen-keyboard-options.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You'll see an "Options" window. Here, at the top, disable the "Use Click Sound" option. Then, click "OK" at the bottom.
 
 ![Finger pressing the enter key on a keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/Keyboard-Sound.jpg) 
@@ -147,3 +213,55 @@ Related: [How To "Silence" Your Noisy Mechanical Keyboard](https://ai-live-strea
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-anime-magic-at-your-fingertips-how-to-use-filters-on-snapchat/"><u>[New] 2024 Approved Anime Magic at Your Fingertips How to Use Filters on Snapchat</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-mastering-the-art-of-extracting-fb-gifs-for-all-platforms/"><u>[New] 2024 Approved Mastering the Art of Extracting FB GIFs for All Platforms</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-bring-back-sharpness-the-ultimate-choice-for-restoring-images/"><u>[New] Bring Back Sharpness The Ultimate Choice for Restoring Images</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-making-an-impact-professional-thumbnail-design-for-youtube/"><u>[New] In 2024, Making an Impact Professional Thumbnail Design for YouTube</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-luminous-leadership-elevating-content-through-insta-hits/"><u>[Updated] 2024 Approved Luminous Leadership Elevating Content Through Insta Hits</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-lava-blaze-pro-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Lava Blaze Pro 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-soothing-stories-in-video-form-insights-and-critiques/"><u>2024 Approved Soothing Stories in Video Form Insights and Critiques</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/affordable-chip-solutions-the-ultimate-price-index-guide-to-pc-processors/"><u>Affordable Chip Solutions: The Ultimate Price Index Guide to PC Processors</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asus-motherboard-compatibility-updating-and-installing-drivers-in-windows/"><u>ASUS Motherboard Compatibility: Updating and Installing Drivers in Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asus-touchpad-driver-setup-made-easy-for-windows-11-users/"><u>ASUS Touchpad Driver Setup Made Easy for Windows 11 Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-tutorial-on-asus-mainboard-software-setup-for-windows-users/"><u>Comprehensive Tutorial on ASUS Mainboard Software Setup for Windows Users</u></a></li>
+<li><a href="https://extra-information.techidaily.com/craft-professional-soundscapes-for-podcasts-in-garageband-for-2024/"><u>Craft Professional Soundscapes for Podcasts in GarageBand for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/decoding-social-media-analyzing-tiktok-and-snapchat/"><u>Decoding Social Media Analyzing TikTok & Snapchat</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-cutting-edge-technology-through-tomn-hardware-lens/"><u>Discover Cutting-Edge Technology Through Tom'n Hardware Lens</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-epson-wf-2630-printer-drivers-compatible-with-windows-7-81-and-10/"><u>Download Epson WF-2630 Printer Drivers Compatible with Windows 7, 8.1 & 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-logitech-rx250-drivers-now-supports-windows-7-to-10/"><u>Download Logitech RX250 Drivers Now - Supports Windows 7 to 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-latest-creative-sound-blaster-recon3d-drivers-step-by-step-guide/"><u>Download the Latest Creative Sound Blaster Recon3D Drivers: Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-updated-epson-perfection-v39-driver-for-win7810-secure-your-print-jobs/"><u>Download Updated Epson Perfection V39 Driver for Win7/8/10 - Secure Your Print Jobs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/downloadhp-envy-5055-driverseasily-and-quickly/"><u>Download|HP ENVY 5055 Drivers|Easily & Quickly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/driver-and-printer-software-compatible-with-macos-windows/"><u>Driver & Printer Software Compatible with MacOS, Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-install-guidelines-for-logitech-g29-racing-controller-on-windows-10-8-and-7/"><u>Easy Install Guidelines for Logitech G29 Racing Controller on Windows 10, 8, and 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-steps-to-download-updated-targus-displaylink-drivers-for-your-windows-system/"><u>Easy Steps to Download Updated Targus DisplayLink Drivers for Your Windows System</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-installation-packs-for-amd-radeon-hd-on-windows-8-start-here/"><u>Free Installation Packs for AMD Radeon HD on Windows 8 - Start Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-amd-rx-hem-6800-xt-drivers-compatible-with-multiple-windows-oss-free/"><u>Get the Latest AMD RX Hem 6800 XT Drivers Compatible with Multiple Windows OSs [Free]</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-amd-gpus-ready-for-ethereum-mining-with-the-latest-windows-drivers/"><u>Get Your AMD GPUs Ready for Ethereum Mining with the Latest Windows Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722972336720-get-your-targus-adapter-setup-ready-download-drivers-with-a-click/"><u>Get Your Targus Adapter Setup Ready - Download Drivers with a Click</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/guide-to-acquiring-and-setting-up-toshiba-printing-software-on-windows-machines/"><u>Guide to Acquiring and Setting up Toshiba Printing Software on Windows Machines</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-much-for-ryzen-5-9600x-on-amazonca-unpacking-the-472-cad-steep-price-tag/"><u>How Much for Ryzen 5 9600X on Amazon.ca? Unpacking the $472 CAD Steep Price Tag</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-and-install-the-newest-webcam-drivers-for-creative-devices-on-pcs/"><u>How to Get and Install the Newest Webcam Drivers for Creative Devices on PCs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-install-broadcom-bluetooth-adapter-driver-on-windows-11-8-or-7/"><u>How to Install Broadcom Bluetooth Adapter Driver on Windows 11, 8 or 7</u></a></li>
+<li><a href="https://extra-information.techidaily.com/imovie-soundtracks-made-easy-and-effective/"><u>IMovie Soundtracks Made Easy & Effective</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-vivo-y36i-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Vivo Y36i</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/increased-risk-for-sepsis/"><u>Increased Risk for Sepsis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/inside-toms-computer-world-exploring-new-hardware-innovations/"><u>Inside Tom's Computer World - Exploring New Hardware Innovations</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-the-most-recent-amd-radeon-pro-w57/"><u>Install the Most Recent AMD Radeon Pro W57지도릴리우제이프니터 업데이트가 가능한 웹스토어</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-msi-b350-tomahawk-drivers-for-optimal-performance-on-windows-11windows-7-systems/"><u>Latest MSI B350 Tomahawk Drivers for Optimal Performance on Windows 11/Windows 7 Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722955436210-latest-software-secure-the-new-nvidia-quadro-rtx-8000-driver-for-your-win-11-8-or-7-pc-today/"><u>Latest Software: Secure the New Nvidia Quadro RTX #8000 Driver for Your Win 11, 8 or 7 PC Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/lg-monitor-troubleshooting-guide-updating-and-fixing-drivers-for-windows-os-versions-10781/"><u>LG Monitor Troubleshooting Guide: Updating & Fixing Drivers for Windows OS Versions (10/7/8.1)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-access-download-the-latest-version-of-easycap-device-drivers/"><u>Quick Access: Download the Latest Version of EasyCAP Device Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723262326169-ryzen-cpu-enthusiasts-rejoice-amds-latest-addition-the-powerful-ryzen-ai-9-hx-375-makes-its-debut/"><u>Ryzen CPU Enthusiasts Rejoice: AMD's Latest Addition, the Powerful Ryzen AI 9 HX 375 Makes Its Debut</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-updating-atheros-wireless-drivers-in-windows/"><u>Step-by-Step Guide: Updating Atheros Wireless Drivers in Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-employment-consequence-of-adopting-chatgpt-in-businesses/"><u>The Employment Consequence of Adopting ChatGPT in Businesses</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-tech-gear-by-toms-computing-experts/"><u>The Ultimate Guide to Tech Gear by Tom's Computing Experts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-source-for-authentic-lenovo-thinkpad-driver-updates-and-download-100-safe/"><u>The Ultimate Source for Authentic Lenovo ThinkPad Driver Updates & Download [100% Safe]</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-guide-to-cutting-edge-computer-components-and-gadgets/"><u>Tom's Guide to Cutting-Edge Computer Components and Gadgets</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-hub-comprehensive-reviews-and-buying-guides/"><u>Tom's Tech Hub: Comprehensive Reviews and Buying Guides</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-latest-in-technology-toms-hardware-wisdom/"><u>Unveiling the Latest in Technology: Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-to-the-current-brother-hl-l2350dw-printer-software-here/"><u>Update to the Current Brother HL-L2350DW Printer Software Here!</u></a></li>
+</ul></div>

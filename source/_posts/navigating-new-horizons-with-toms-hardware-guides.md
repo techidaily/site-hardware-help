@@ -1,7 +1,7 @@
 ---
 title: Navigating New Horizons with Tom's Hardware Guides
-date: 2024-09-04T02:29:46.876Z
-updated: 2024-09-05T02:29:46.876Z
+date: 2024-09-09T16:16:22.440Z
+updated: 2024-09-10T16:16:22.440Z
 tags:
   - cpu
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/YZUxMoqeHqUXbr6XtRFKCa-320-80.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## AMD Takes the Lead with Fastest New Mobile Chip Against Apple's M3 Max - Multi-Core War Commences
 
 AMD’s next-generation mobile and desktop chips are expected to launch in July, and we’ve seen some benchmark results for the top-end [Ryzen AI 9 HX 370](https://www.tomshardware.com/pc-components/cpus/ryzen-ai-9-hx-370-delivers-intel-beating-single-core-performance) gradually appearing online. Hardware detective [HXL](https://twitter.com/9550pro/status/1813896531352953040) shared a photograph of a Cinebench R23 test showing AMD’s latest processor running Windows 10\. As with all leaks, treat the results with a pinch of salt. The Ryzen AI 9 HX 370 reportedly achieved a single-core score of 2,010 points, while its multi-core performance hit 23,302.
@@ -32,6 +38,18 @@ AMD’s next-generation mobile and desktop chips are expected to launch in July,
 
  With the launch just a few weeks away, many AMD fans would be excited to get their hands on its latest processors. But we recommend holding off on your purchases until tech reviewers get their hands on these laptops and run them through their paces. That way, you know which options to look at and can get your money’s worth on the new computer you’ll buy.
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -125,10 +143,3 @@ AMD’s next-generation mobile and desktop chips are expected to launch in July,
 <li><a href="https://hardware-help.techidaily.com/windows-compatible-drivers-for-hp-officejet-4650-free-download/"><u>Windows Compatible Drivers for HP OfficeJet 4650 - Free Download</u></a></li>
 <li><a href="https://buynow-info.techidaily.com/your-ultimate-guide-to-using-and-maximizing-your-new-lenovo-9-inch-nook-tablet/"><u>Your Ultimate Guide to Using and Maximizing Your New Lenovo 9-Inch Nook Tablet</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

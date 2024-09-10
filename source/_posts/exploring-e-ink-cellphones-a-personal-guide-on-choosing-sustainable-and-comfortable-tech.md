@@ -1,7 +1,7 @@
 ---
 title: "Exploring E-Ink Cellphones: A Personal Guide on Choosing Sustainable & Comfortable Tech"
-date: 2024-08-26 11:39:36
-updated: 2024-08-29 10:58:28
+date: 2024-09-09T16:12:29.070Z
+updated: 2024-09-10T16:12:29.070Z
 tags:
   - android
 categories:
@@ -19,6 +19,12 @@ thumbnail: https://thmb.techidaily.com/dadc574a72620fb10d26a05d18b7bc541d4008da3
 
  E-readers have shown us the appeal of e-ink screens. The Light Phone 2 crammed this eye-friendly display technology into a phone. I want to see this technology come to smartphones. Let me tell you why.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  ​Easier on the Eyes
 
  I have carried around a [Light Phone 2](https://www.thelightphone.com/) for years. I loved the look of that tiny, credit-card sized phone with its minimal e-ink display. After a while, I returned to using a smartphone, but I wish that choice didn't mean having to give up e-ink.
@@ -31,6 +37,12 @@ thumbnail: https://thmb.techidaily.com/dadc574a72620fb10d26a05d18b7bc541d4008da3
 
  I know, not using your device in the dark sounds downright primitive at this point. That's why e-ink devices come with front-lighting. This makes the screen glow, but the light comes from the sides of the screen rather than behind. It shines down onto the text you're reading, rather than out toward your face.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  E-Ink Helps Form Healthier Habits
 
  Front-lighting gets the job done, but I find it off-putting and consider this reason to wait for the sun to come back up to read instead.
@@ -45,6 +57,12 @@ thumbnail: https://thmb.techidaily.com/dadc574a72620fb10d26a05d18b7bc541d4008da3
 
  This might sound like an e-ink phone would be unusable, but rather it just means you would have to use it differently.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Less Streaming, More Reading
 
 ![reading on the onyx boox palma](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/reading-on-the-onyx-boox-palma_53279899430_o.jpg) 
@@ -61,6 +79,12 @@ Sergio Rodriguez / How-To Geek
 
 ![Boox Tab Ultra C being held in a hand showing its home screen icons.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/C183E45A-A48E-4841-968E-DF39B15CD066.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  \- _Tyler Hayes / HowToGeek_
 
  It's not only the animations that take a hit. E-ink screens give icon designers more restrictions, limiting their ability to make their designs jump out at us as we swipe through our app drawers. This puts more control back in our hands, helping us resist the efforts of many of the world's best designers attempting to make us click on their team's app over doing something else.
@@ -69,10 +93,22 @@ Sergio Rodriguez / How-To Geek
 
  E-ink screens do better with simple layouts than they do with gradients and animations. This makes the devices less eye-catching. It's hard to get excited about a presentation showing off the new home screen on a [Nook GlowLight](https://instagram-video-recordings.techidaily.com/turning-horizons-into-heights-uploading-videos-to-igtv/), yet enough of us have come to the conclusion that that's a good thing. Give us something straightforward that helps us do the task at hand and then encourage us to put the phone back down when we're done.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  ​It's Like Writing on Paper
 
 ![Boox Tab Ultra C Pro with annotations on the screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/boox-tab-ultra-c-pro.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  Want to know why people buy the [reMarkable tablet](https://www.amazon.com/reMarkable-Essentials-Bundle-Marker-Leather/dp/B0BJNFJY8Y/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003688&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fwhy-i-want-an-e-ink-phone%2F&asc%5Fcampaign=Evergreen)? Just like e-ink better simulates the experience of reading a physical book, this type of panel also helps replicate what it's like to write on paper.
@@ -105,3 +141,66 @@ Jerome Thomas / How-To Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-fb-messenger-call-history-management-made-easy-for-2024/"><u>[New] FB Messenger Call History Management Made Easy for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-step-by-step-guide-to-download-and-store-twitter-videos-on-phone-for-2024/"><u>[New] Step-by-Step Guide to Download and Store Twitter Videos on Phone for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-art-of-blending-audio-with-video-in-premiere-pro/"><u>[New] The Art of Blending Audio with Video in Premiere Pro</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-uncover-collective-media-on-messenger-networks-for-2024/"><u>[New] Uncover Collective Media on Messenger Networks for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-tackling-iphone-lens-blur-steps-for-improved-focus/"><u>[Updated] Tackling iPhone Lens Blur Steps for Improved Focus</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-transforming-film-frames-on-insta-with-easy-steps/"><u>[Updated] Transforming Film Frames on Insta with Easy Steps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/100-working-method-for-adding-link-to-tiktok-bio/"><u>100% Working Method for Adding Link to TikTok Bio</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-enhance-your-medias-impact-with-precise-aspect-ratios/"><u>2024 Approved Enhance Your Media's Impact with Precise Aspect Ratios</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-how-to-make-your-profile-cover-video-more-attractive/"><u>2024 Approved How to Make Your Profile Cover Video More Attractive</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-lava-blaze-curve-5g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Lava Blaze Curve 5G PC | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-vega-56-graphics-card-driver-installation-updates-and-downloads-for-windows/"><u>AMD Vega 56 Graphics Card Driver Installation: Updates and Downloads for Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723262294871-combat-your-intel-processors-instability-get-the-new-patch-from-msi-and-asrock-available-on-asus-rog-motherboards-too/"><u>Combat Your Intel Processor's Instability: Get the New Patch From MSI and ASRock, Available on Asus ROG Motherboards Too</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/decoding-hardware-with-tom-your-guide-to-next-gen-devices/"><u>Decoding Hardware with Tom: Your Guide to Next-Gen Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/diagnosing-and-solving-forgotten-hdd/"><u>Diagnosing and Solving Forgotten HDD</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/direct-links-to-download-updated-pci-device-software-for-various-windows-editions/"><u>Direct Links to Download Updated PCI Device Software for Various Windows Editions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723262409149-dive-into-tech-with-toms-hardware-the-ultimate-guide-for-enthusiasts/"><u>Dive Into Tech with Tom's Hardware - The Ultimate Guide for Enthusiasts!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-acer-predator-xb271hu-drivers-quickly-and-easily/"><u>Download Acer Predator XB271HU Drivers | Quickly & Easily</u></a></li>
+<li><a href="https://facebook.techidaily.com/download-private-fb-memories-without-breaking-rules/"><u>Download Private FB Memories Without Breaking Rules</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-latest-driets-software-for-your-epson-scan-machine/"><u>Download the Latest Driets Software for Your Epson Scan Machine</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-installation-of-epson-workforce-ds30-driver-for-users-on-windows-11-8-or-7-systems/"><u>Easy Installation of Epson WorkForce DS30 Driver for Users on Windows 11, 8 or 7 Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975485021-easy-installation-of-lenovo-thinkpad-t430-drivers-on-windows-operating-systems/"><u>Easy Installation of Lenovo ThinkPad T430 Drivers on Windows Operating Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-installation-of-logitech-g402-game-controller-softwaredriver-package/"><u>Easy Installation of Logitech G402 Game Controller Software/Driver Package</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-iphone-driver-setup-for-windows-10-download-and-install-instructions/"><u>Easy iPhone Driver Setup for Windows 10 - Download & Install Instructions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-steps-get-your-corsair-void-pro-graphics-card-up-and-running-on-windows/"><u>Easy Steps: Get Your Corsair Void Pro Graphics Card Up & Running on Windows!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-updates-and-downloads-of-canon-printer-drivers-made-easy-on-windows-systems/"><u>Effortless Updates and Downloads of Canon Printer Drivers Made Easy on Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-pc-with-fresh-amd-drivers-compatible-with-win10-11-and-7/"><u>Enhance Your PC with Fresh AMD Drivers: Compatible with Win10, 11 & 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-hardware-with-toms-gear-guides-in-depth-analysis-and-reviews/"><u>Exploring Hardware with Tom's Gear Guides - In-Depth Analysis and Reviews</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/find-and-install-epson-wf-3540-drivers-for-optimal-performance-with-windows/"><u>Find and Install Epson WF-3540 Drivers for Optimal Performance with Windows</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/framelight-connect-xd-review-spectacular-photos-with-a-high-price-tag/"><u>Framelight Connect XD Review: Spectacular Photos with a High Price Tag</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-canoscan-lide-120-software-installation-guide-latest-updates-available/"><u>Free CanoScan LiDE 120 Software Installation Guide: Latest Updates Available</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-instant-update-ultimate-guide-to-installing-targus-docking-station-software/"><u>Free Download: [INSTANT UPDATE] - Ultimate Guide to Installing Targus Docking Station Software</u></a></li>
+<li><a href="https://win-answers.techidaily.com/get-acronis-true-image-at-a-steal-save-20-with-exclusive-promo-code/"><u>Get Acronis True Image at a Steal: Save 20% with Exclusive Promo Code!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-steelseries-mouse-driver-downloads-here/"><u>Get the Latest SteelSeries Mouse Driver Downloads Here!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722974944384-get-your-free-intel-network-adapters-drivers-now-for-windows-11107-supported-systems/"><u>Get Your Free Intel Network Adapters Drivers Now for Windows 11/10/7 Supported Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-free-qualcomm-atheros-ar938x-driver-instantly-here/"><u>Get Your Free Qualcomm Atheros AR938X Driver Instantly Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/gigabyte-ethernet-card-drivers-get-them-now/"><u>Gigabyte Ethernet Card Drivers – Get Them Now!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Nokia G42 5G? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Samsung Galaxy S24? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-official-method-to-unlock-your-apple-iphone-6s-by-drfone-ios/"><u>How To Unlock Apple iPhone 6s Official Method to Unlock Your Apple iPhone 6s</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-your-logitech-g35-audio-drivers-on-pcs-with-windows-7810/"><u>How to Update Your Logitech G35 Audio Drivers on PCs with Windows 7/8/10</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-interactions-in-virtuosity-the-top-30-quotes/"><u>In 2024, Innovative Interactions in Virtuosity The Top 30 Quotes</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-photographic-journey-to-cinematic-expression-using-pixizs-tools/"><u>In 2024, Photographic Journey to Cinematic Expression Using Pixiz's Tools</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722973175285-m-audio-fast-track-driver-supported-on-multiple-os-platforms-windows-11-7-8-and-81-download-options/"><u>M-Audio Fast Track Driver Supported on Multiple OS Platforms: Windows 11, 7, 8, and 8.1 Download Options</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/master-the-digital-realm-a-deep-dive-into-toms-computer-hardware-expertise/"><u>Master the Digital Realm: A Deep Dive Into Tom's Computer Hardware Expertise</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/mastering-obs-recording-setup-and-usage-tips-for-mac-users-for-2024/"><u>Mastering OBS Recording Setup & Usage Tips for Mac Users for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/next-months-fix-for-faulty-cpus-intel-confirms-high-voltage-is-the-culprit-promises-update-soon/"><u>Next Month's Fix for Faulty CPUs - Intel Confirms High Voltage Is the Culprit, Promises Update Soon</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-interruptions-a-pro-guide-on-fixing-gears-of-war-5-frequent-crashes/"><u>No More Interruptions - A Pro Guide on Fixing 'Gears of War 5' Frequent Crashes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/official-oculus-driver-download-for-all-windows-versions-11-10-8-7/"><u>Official Oculus Driver Download for All Windows Versions (11, 10, 8, 7)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/overcoming-connectivity-hurdles-the-ultimate-fix-for-windows-7-network-adapters/"><u>Overcoming Connectivity Hurdles: The Ultimate Fix for Windows 7 Network Adapters</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/realtek-rtl8188cu-wi-fi-drivers-compatible-with-windows-10-and-nativet-to-windows-7-download-now/"><u>Realtek RTL8188CU Wi-Fi Drivers: Compatible with Windows 10 & Nativet to Windows 7 - Download Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/resolving-common-samsung-universal-print-driver-troubles-with-windows-expert-guide/"><u>Resolving Common Samsung Universal Print Driver Troubles with Windows – Expert Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revolutionary-computing-arrives-ampere-one-aurora-cpu-featuring-a-giant-leap-in-power-with-its-512-cores-and-enhanced-ai-capabilities/"><u>Revolutionary Computing Arrives: Ampere One Aurora CPU - Featuring a Giant Leap in Power with Its 512 Cores & Enhanced AI Capabilities</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/simple-steps-to-enhance-your-typing-experience-with-the-latest-driver-for-microsoft-sculpt-keyboard/"><u>Simple Steps to Enhance Your Typing Experience with the Latest Driver for Microsoft Sculpt Keyboard</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/sony-vaio-driver-software-for-windows-complete-downloading-and-installation-instructions/"><u>Sony Vaio Driver Software for Windows - Complete Downloading & Installation Instructions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-updating-your-razer-blackwidow-controller-drivers/"><u>Step-by-Step Guide: Updating Your Razer BlackWidow Controller Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-updating-your-webcam-driver-on-windows-11/"><u>Step-by-Step Guide: Updating Your Webcam Driver on Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/tackling-hp-monitor-driver-complications-across-windows-platforms-including-windows-11-8-and-7/"><u>Tackling HP Monitor Driver Complications Across Windows Platforms, Including Windows 11, 8 & 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722957707630-temperature-ranges-during-different-growth-stages-from-spore-germination-to-fruiting-bodies-emergence/"><u>Temperature Ranges During Different Growth Stages From Spore Germination to Fruiting Bodies Emergence.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-expert-insights-on-performance-and-innovation/"><u>Tom's Tech Review: Expert Insights on Performance and Innovation</u></a></li>
+</ul></div>
