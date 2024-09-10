@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"hardware-help.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">12096</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">12144</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">12096</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">12144</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,28 +750,28 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/ready-to-launch-gigabytes-beta-bios-prepares-amd-ryzen-9000-series-and-zen-5-chipsets-for-500-series-mobos/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/3f74865abe3cde83f5178213b8f2028e6688a23ca37959ec467d0c79369ad79b.jpg" alt="Ready to Launch: Gigabyte&#39;s Beta BIOS Prepares AMD Ryzen 9000 Series &amp; Zen 5 Chipsets for 500-Series Mobos" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/asrocks-compact-am5-itx-motherboard-the-ideal-choice-for-stylish-htpc-projects/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/d560ca9c3c8262a76b0a5ec32a0dcb8921bf59ea8dc0a109a4155207c8bbc9f8.jpg" alt="ASRock&#39;s Compact AM5 ITX Motherboard: The Ideal Choice for Stylish HTPC Projects" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/ready-to-launch-gigabytes-beta-bios-prepares-amd-ryzen-9000-series-and-zen-5-chipsets-for-500-series-mobos/">
-                            Ready to Launch: Gigabyte&#39;s Beta BIOS Prepares AMD Ryzen 9000 Series &amp; Zen 5 Chipsets for 500-Series Mobos
+                        <a href="/asrocks-compact-am5-itx-motherboard-the-ideal-choice-for-stylish-htpc-projects/">
+                            ASRock&#39;s Compact AM5 ITX Motherboard: The Ideal Choice for Stylish HTPC Projects
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            Maxsun Unveils Intel and AMD’s Latest Gear: An Extensive Selection of 31 High-Performance Chipsets - Meet the FutureMaxSun, o...
+                            Discover China’s Longsheng CPU Technology: Exclusive Motherboards &amp; Systems Now Available to American Consumers at Unbeat...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 10:27:47 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 10:28:39 GMT+0800">
                 
                     2024-08-19
                 
@@ -752,7 +809,7 @@
         
     </div>
 
-    <a href="/ready-to-launch-gigabytes-beta-bios-prepares-amd-ryzen-9000-series-and-zen-5-chipsets-for-500-series-mobos/">Read more<span class="seo-reader-text">Ready to Launch: Gigabyte&#39;s Beta BIOS Prepares AMD Ryzen 9000 Series &amp; Zen 5 Chipsets for 500-Series Mobos</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/asrocks-compact-am5-itx-motherboard-the-ideal-choice-for-stylish-htpc-projects/">Read more<span class="seo-reader-text">ASRock&#39;s Compact AM5 ITX Motherboard: The Ideal Choice for Stylish HTPC Projects</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -768,615 +825,15 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/pro-gear-checkup-by-tom-comprehensive-pc-and-tech-reviews/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://cdn.mos.cms.futurecdn.net/Sj8ydefVtxWHyDAsxmCFwN-320-80.jpg" alt="Pro Gear Checkup by Tom - Comprehensive PC &amp; Tech Reviews" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/amds-next-gen-ryzen-9000-and-zen-5-cpus-unveiled-by-gigabyte-coming-beta-bios-support-for-x500-chipset-boards/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/d497f73b0e9d6d12401c69e51bc9e28d9e854d9544c785f05ee2bfe996e9dcfe.jpg" alt="AMD&#39;s Next-Gen Ryzen 9000 and Zen 5 CPUs Unveiled by Gigabyte: Coming Beta BIOS Support for X500 Chipset Boards" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/pro-gear-checkup-by-tom-comprehensive-pc-and-tech-reviews/">
-                            Pro Gear Checkup by Tom - Comprehensive PC &amp; Tech Reviews
-                        </a>
-                    </h3>
-
-                    <div class="home-article-content markdown-body">
-                        
-                            Elevate Your Gaming Experience with Longsheng CPUs - US Shipping Begins Now! Entry-Level Motherboards and Systems From Just $...
-                        
-                    </div>
-
-                    <div class="home-article-meta-info-container">
-    <div class="home-article-meta-info">
-        <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 10:27:46 GMT+0800">
-                
-                    2024-08-19
-                
-            </span>
-        </span>
-        
-            <span class="home-article-category">
-                <i class="fa-solid fa-folders"></i>&nbsp;
-            <ul>
-                
-                
-                    
-                        
-                        <li>
-                            <a href="/categories/hardware/">hardware</a>&nbsp;
-                        </li>
-                    
-                    
-                
-            </ul>
-        </span>
-        
-        
-            <span class="home-article-tag">
-                <i class="fa-solid fa-tags"></i>&nbsp;
-                <ul>
-                    
-                        <li>
-                            
-                            <a href="/tags/motherboards/">motherboards</a>&nbsp;
-                        </li>
-                    
-                </ul>
-            </span>
-        
-    </div>
-
-    <a href="/pro-gear-checkup-by-tom-comprehensive-pc-and-tech-reviews/">Read more<span class="seo-reader-text">Pro Gear Checkup by Tom - Comprehensive PC &amp; Tech Reviews</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
-</div>
-
-                </div>
-            </li>
-        
-            <li class="home-article-item flex flex-row">
-
-                
-
-                
-                    
-                
-
-                
-                    <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/navigating-through-the-latest-in-toms-electronics-gear/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://cdn.mos.cms.futurecdn.net/NnjKkuqZkoFvWoGg9AU8pS-320-80.jpg" alt="Navigating Through the Latest in Tom&#39;s Electronics Gear" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
-                        </a>
-                    </div>
-                
-                <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
-                    <h3 class="home-article-title">
-                        <a href="/navigating-through-the-latest-in-toms-electronics-gear/">
-                            Navigating Through the Latest in Tom&#39;s Electronics Gear
-                        </a>
-                    </h3>
-
-                    <div class="home-article-content markdown-body">
-                        
-                            Affordable, Powerful Motherboards Featuring Longsun CPUs Now Delivering to America - Starting at Only $383Two new motherboard...
-                        
-                    </div>
-
-                    <div class="home-article-meta-info-container">
-    <div class="home-article-meta-info">
-        <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 10:27:45 GMT+0800">
-                
-                    2024-08-19
-                
-            </span>
-        </span>
-        
-            <span class="home-article-category">
-                <i class="fa-solid fa-folders"></i>&nbsp;
-            <ul>
-                
-                
-                    
-                        
-                        <li>
-                            <a href="/categories/hardware/">hardware</a>&nbsp;
-                        </li>
-                    
-                    
-                
-            </ul>
-        </span>
-        
-        
-            <span class="home-article-tag">
-                <i class="fa-solid fa-tags"></i>&nbsp;
-                <ul>
-                    
-                        <li>
-                            
-                            <a href="/tags/motherboards/">motherboards</a>&nbsp;
-                        </li>
-                    
-                </ul>
-            </span>
-        
-    </div>
-
-    <a href="/navigating-through-the-latest-in-toms-electronics-gear/">Read more<span class="seo-reader-text">Navigating Through the Latest in Tom&#39;s Electronics Gear</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
-</div>
-
-                </div>
-            </li>
-        
-            <li class="home-article-item flex flex-row">
-
-                
-
-                
-                    
-                
-
-                
-                    <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/navigating-through-cutting-edge-devices-the-ultimate-review-by-toms-gadget-zone/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/0d60a13e95bd2f19c3825589ac3dc780b265ba27c26a5a1444fa33e9bf405f0f.jpg" alt="Navigating Through Cutting-Edge Devices: The Ultimate Review by Tom&#39;s Gadget Zone" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
-                        </a>
-                    </div>
-                
-                <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
-                    <h3 class="home-article-title">
-                        <a href="/navigating-through-cutting-edge-devices-the-ultimate-review-by-toms-gadget-zone/">
-                            Navigating Through Cutting-Edge Devices: The Ultimate Review by Tom&#39;s Gadget Zone
-                        </a>
-                    </h3>
-
-                    <div class="home-article-content markdown-body">
-                        
-                            Ultimate Connectivity with the New ASRock Z890 Taichi: Ten USB C Ports, Including Two ThunderboltASRock showcased its next-ge...
-                        
-                    </div>
-
-                    <div class="home-article-meta-info-container">
-    <div class="home-article-meta-info">
-        <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 10:27:44 GMT+0800">
-                
-                    2024-08-19
-                
-            </span>
-        </span>
-        
-            <span class="home-article-category">
-                <i class="fa-solid fa-folders"></i>&nbsp;
-            <ul>
-                
-                
-                    
-                        
-                        <li>
-                            <a href="/categories/hardware/">hardware</a>&nbsp;
-                        </li>
-                    
-                    
-                
-            </ul>
-        </span>
-        
-        
-            <span class="home-article-tag">
-                <i class="fa-solid fa-tags"></i>&nbsp;
-                <ul>
-                    
-                        <li>
-                            
-                            <a href="/tags/motherboards/">motherboards</a>&nbsp;
-                        </li>
-                    
-                </ul>
-            </span>
-        
-    </div>
-
-    <a href="/navigating-through-cutting-edge-devices-the-ultimate-review-by-toms-gadget-zone/">Read more<span class="seo-reader-text">Navigating Through Cutting-Edge Devices: The Ultimate Review by Tom&#39;s Gadget Zone</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
-</div>
-
-                </div>
-            </li>
-        
-            <li class="home-article-item flex flex-row">
-
-                
-
-                
-                    
-                
-
-                
-                    <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/navigating-technology-with-precision-the-toms-hardware-experience/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/0b2657385f18cc859d59520b24816f771e8e749f151532892ba053a97dc454cb.jpg" alt="Navigating Technology with Precision: The Tom&#39;s Hardware Experience" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
-                        </a>
-                    </div>
-                
-                <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
-                    <h3 class="home-article-title">
-                        <a href="/navigating-technology-with-precision-the-toms-hardware-experience/">
-                            Navigating Technology with Precision: The Tom&#39;s Hardware Experience
-                        </a>
-                    </h3>
-
-                    <div class="home-article-content markdown-body">
-                        
-                            Experiencing Chilly Performance on Gigabyte’s Pricey, But High-Quality B65t Aorus Elite AX Ice Mobo: USB Galore IncludedIf yo...
-                        
-                    </div>
-
-                    <div class="home-article-meta-info-container">
-    <div class="home-article-meta-info">
-        <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 10:27:43 GMT+0800">
-                
-                    2024-08-19
-                
-            </span>
-        </span>
-        
-            <span class="home-article-category">
-                <i class="fa-solid fa-folders"></i>&nbsp;
-            <ul>
-                
-                
-                    
-                        
-                        <li>
-                            <a href="/categories/hardware/">hardware</a>&nbsp;
-                        </li>
-                    
-                    
-                
-            </ul>
-        </span>
-        
-        
-            <span class="home-article-tag">
-                <i class="fa-solid fa-tags"></i>&nbsp;
-                <ul>
-                    
-                        <li>
-                            
-                            <a href="/tags/motherboards/">motherboards</a>&nbsp;
-                        </li>
-                    
-                </ul>
-            </span>
-        
-    </div>
-
-    <a href="/navigating-technology-with-precision-the-toms-hardware-experience/">Read more<span class="seo-reader-text">Navigating Technology with Precision: The Tom&#39;s Hardware Experience</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
-</div>
-
-                </div>
-            </li>
-        
-            <li class="home-article-item flex flex-row">
-
-                
-
-                
-                    
-                
-
-                
-                    <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/navigating-gadgets-and-gizmos-at-toms-hardware-hub/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://cdn.mos.cms.futurecdn.net/NnjKkuqZkoFvWoGg9AU8pS-320-80.jpg" alt="Navigating Gadgets and Gizmos at Tom&#39;s Hardware Hub" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
-                        </a>
-                    </div>
-                
-                <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
-                    <h3 class="home-article-title">
-                        <a href="/navigating-gadgets-and-gizmos-at-toms-hardware-hub/">
-                            Navigating Gadgets and Gizmos at Tom&#39;s Hardware Hub
-                        </a>
-                    </h3>
-
-                    <div class="home-article-content markdown-body">
-                        
-                            MSI Unveils Top-Tier Z890 and B8n60 Boards for Intel Arc S, Certified Before the Excitement of Computex 2024 BeginsMSI  ‘s in...
-                        
-                    </div>
-
-                    <div class="home-article-meta-info-container">
-    <div class="home-article-meta-info">
-        <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 10:27:42 GMT+0800">
-                
-                    2024-08-19
-                
-            </span>
-        </span>
-        
-            <span class="home-article-category">
-                <i class="fa-solid fa-folders"></i>&nbsp;
-            <ul>
-                
-                
-                    
-                        
-                        <li>
-                            <a href="/categories/hardware/">hardware</a>&nbsp;
-                        </li>
-                    
-                    
-                
-            </ul>
-        </span>
-        
-        
-            <span class="home-article-tag">
-                <i class="fa-solid fa-tags"></i>&nbsp;
-                <ul>
-                    
-                        <li>
-                            
-                            <a href="/tags/motherboards/">motherboards</a>&nbsp;
-                        </li>
-                    
-                </ul>
-            </span>
-        
-    </div>
-
-    <a href="/navigating-gadgets-and-gizmos-at-toms-hardware-hub/">Read more<span class="seo-reader-text">Navigating Gadgets and Gizmos at Tom&#39;s Hardware Hub</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
-</div>
-
-                </div>
-            </li>
-        
-            <li class="home-article-item flex flex-row">
-
-                
-
-                
-                    
-                
-
-                
-                    <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/mastering-performance-dive-into-the-latest-innovations-of-gigabytes-aorus-xtreme-and-xtreme-ice-motherboards-unveiled-at-computex-for-gamers/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/1621022f15bae9f90515e95f15edd431dd0fad0e7e4a31a614efb85ef8dac6ad.JPG" alt="Mastering Performance: Dive Into the Latest Innovations of Gigabyte&#39;s Aorus Xtreme &amp; Xtreme Ice Motherboards Unveiled at Computex for Gamers" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
-                        </a>
-                    </div>
-                
-                <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
-                    <h3 class="home-article-title">
-                        <a href="/mastering-performance-dive-into-the-latest-innovations-of-gigabytes-aorus-xtreme-and-xtreme-ice-motherboards-unveiled-at-computex-for-gamers/">
-                            Mastering Performance: Dive Into the Latest Innovations of Gigabyte&#39;s Aorus Xtreme &amp; Xtreme Ice Motherboards Unveiled at Computex for Gamers
-                        </a>
-                    </h3>
-
-                    <div class="home-article-content markdown-body">
-                        
-                            Educate Yourself: Learn About the Signs of Drug and Alcohol Use, as Well as the Types of Substances that Might Be Accessible ...
-                        
-                    </div>
-
-                    <div class="home-article-meta-info-container">
-    <div class="home-article-meta-info">
-        <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 10:27:41 GMT+0800">
-                
-                    2024-08-19
-                
-            </span>
-        </span>
-        
-            <span class="home-article-category">
-                <i class="fa-solid fa-folders"></i>&nbsp;
-            <ul>
-                
-                
-                    
-                        
-                        <li>
-                            <a href="/categories/hardware/">hardware</a>&nbsp;
-                        </li>
-                    
-                    
-                
-            </ul>
-        </span>
-        
-        
-            <span class="home-article-tag">
-                <i class="fa-solid fa-tags"></i>&nbsp;
-                <ul>
-                    
-                        <li>
-                            
-                            <a href="/tags/motherboards/">motherboards</a>&nbsp;
-                        </li>
-                    
-                </ul>
-            </span>
-        
-    </div>
-
-    <a href="/mastering-performance-dive-into-the-latest-innovations-of-gigabytes-aorus-xtreme-and-xtreme-ice-motherboards-unveiled-at-computex-for-gamers/">Read more<span class="seo-reader-text">Mastering Performance: Dive Into the Latest Innovations of Gigabyte&#39;s Aorus Xtreme &amp; Xtreme Ice Motherboards Unveiled at Computex for Gamers</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
-</div>
-
-                </div>
-            </li>
-        
-            <li class="home-article-item flex flex-row">
-
-                
-
-                
-                    
-                
-
-                
-                    <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/limited-time-offer-asus-prime-x67n-wifi-am5-motherboard-for-a-low-price-of-135/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/5afe86849bf590d409853d04b8a99e11d10b3e991d982afab53fab4cf94688c5.jpg" alt="Limited Time Offer: ASUS Prime X67n Wifi AM5 Motherboard for a Low Price of 135$" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
-                        </a>
-                    </div>
-                
-                <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
-                    <h3 class="home-article-title">
-                        <a href="/limited-time-offer-asus-prime-x67n-wifi-am5-motherboard-for-a-low-price-of-135/">
-                            Limited Time Offer: ASUS Prime X67n Wifi AM5 Motherboard for a Low Price of 135$
-                        </a>
-                    </h3>
-
-                    <div class="home-article-content markdown-body">
-                        
-                            ASUS Prime X670-P WiFi AM5 Motherboard - Get Yours for a Steal at Only $135If you like putting together and building your own...
-                        
-                    </div>
-
-                    <div class="home-article-meta-info-container">
-    <div class="home-article-meta-info">
-        <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 10:27:40 GMT+0800">
-                
-                    2024-08-19
-                
-            </span>
-        </span>
-        
-            <span class="home-article-category">
-                <i class="fa-solid fa-folders"></i>&nbsp;
-            <ul>
-                
-                
-                    
-                        
-                        <li>
-                            <a href="/categories/hardware/">hardware</a>&nbsp;
-                        </li>
-                    
-                    
-                
-            </ul>
-        </span>
-        
-        
-            <span class="home-article-tag">
-                <i class="fa-solid fa-tags"></i>&nbsp;
-                <ul>
-                    
-                        <li>
-                            
-                            <a href="/tags/motherboards/">motherboards</a>&nbsp;
-                        </li>
-                    
-                </ul>
-            </span>
-        
-    </div>
-
-    <a href="/limited-time-offer-asus-prime-x67n-wifi-am5-motherboard-for-a-low-price-of-135/">Read more<span class="seo-reader-text">Limited Time Offer: ASUS Prime X67n Wifi AM5 Motherboard for a Low Price of 135$</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
-</div>
-
-                </div>
-            </li>
-        
-            <li class="home-article-item flex flex-row">
-
-                
-
-                
-                    
-                
-
-                
-                    <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/faulty-chip-cooling-system-admitted-by-msi-on-z7n-series-motherboards-immediate-recall-and-fix-underway/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://cdn.mos.cms.futurecdn.net/cMUyr2h6n5uzGsA4akEfi-320-80.jpg" alt="Faulty Chip Cooling System Admitted by MSI on Z7n Series Motherboards, Immediate Recall and Fix Underway" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
-                        </a>
-                    </div>
-                
-                <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
-                    <h3 class="home-article-title">
-                        <a href="/faulty-chip-cooling-system-admitted-by-msi-on-z7n-series-motherboards-immediate-recall-and-fix-underway/">
-                            Faulty Chip Cooling System Admitted by MSI on Z7n Series Motherboards, Immediate Recall and Fix Underway
-                        </a>
-                    </h3>
-
-                    <div class="home-article-content markdown-body">
-                        
-                            US Launch: Affordable Longsheng (Loongson) CPU-Based Motherboards &amp; Systems Starting at Just $373 - Get the Ultimate Valu...
-                        
-                    </div>
-
-                    <div class="home-article-meta-info-container">
-    <div class="home-article-meta-info">
-        <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 10:27:39 GMT+0800">
-                
-                    2024-08-19
-                
-            </span>
-        </span>
-        
-            <span class="home-article-category">
-                <i class="fa-solid fa-folders"></i>&nbsp;
-            <ul>
-                
-                
-                    
-                        
-                        <li>
-                            <a href="/categories/hardware/">hardware</a>&nbsp;
-                        </li>
-                    
-                    
-                
-            </ul>
-        </span>
-        
-        
-            <span class="home-article-tag">
-                <i class="fa-solid fa-tags"></i>&nbsp;
-                <ul>
-                    
-                        <li>
-                            
-                            <a href="/tags/motherboards/">motherboards</a>&nbsp;
-                        </li>
-                    
-                </ul>
-            </span>
-        
-    </div>
-
-    <a href="/faulty-chip-cooling-system-admitted-by-msi-on-z7n-series-motherboards-immediate-recall-and-fix-underway/">Read more<span class="seo-reader-text">Faulty Chip Cooling System Admitted by MSI on Z7n Series Motherboards, Immediate Recall and Fix Underway</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
-</div>
-
-                </div>
-            </li>
-        
-            <li class="home-article-item flex flex-row">
-
-                
-
-                
-                    
-                
-
-                
-                    <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/expert-reviews-by-toms-gadgets-your-source-for-top-notch-hardware-choices/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/f35affd0446f81f879a70f50fd131f599003c290d87b21cce9966af54d527118.jpg" alt="Expert Reviews by Tom&#39;s Gadgets: Your Source for Top-Notch Hardware Choices" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
-                        </a>
-                    </div>
-                
-                <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
-                    <h3 class="home-article-title">
-                        <a href="/expert-reviews-by-toms-gadgets-your-source-for-top-notch-hardware-choices/">
-                            Expert Reviews by Tom&#39;s Gadgets: Your Source for Top-Notch Hardware Choices
+                        <a href="/amds-next-gen-ryzen-9000-and-zen-5-cpus-unveiled-by-gigabyte-coming-beta-bios-support-for-x500-chipset-boards/">
+                            AMD&#39;s Next-Gen Ryzen 9000 and Zen 5 CPUs Unveiled by Gigabyte: Coming Beta BIOS Support for X500 Chipset Boards
                         </a>
                     </h3>
 
@@ -1389,7 +846,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Aug 19 2024 10:27:38 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 10:28:38 GMT+0800">
                 
                     2024-08-19
                 
@@ -1427,7 +884,607 @@
         
     </div>
 
-    <a href="/expert-reviews-by-toms-gadgets-your-source-for-top-notch-hardware-choices/">Read more<span class="seo-reader-text">Expert Reviews by Tom&#39;s Gadgets: Your Source for Top-Notch Hardware Choices</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/amds-next-gen-ryzen-9000-and-zen-5-cpus-unveiled-by-gigabyte-coming-beta-bios-support-for-x500-chipset-boards/">Read more<span class="seo-reader-text">AMD&#39;s Next-Gen Ryzen 9000 and Zen 5 CPUs Unveiled by Gigabyte: Coming Beta BIOS Support for X500 Chipset Boards</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+</div>
+
+                </div>
+            </li>
+        
+            <li class="home-article-item flex flex-row">
+
+                
+
+                
+                    
+                
+
+                
+                    <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
+                        <a href="/amd-raises-the-bar-with-new-800-series-motherboard-chipsets-engineered-for-next-gen-ryzen-9000-cpus-the-ultimate-competition-with-intel/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://cdn.mos.cms.futurecdn.net/QC2SMeRFAoizG2euBpyfMf-320-80.jpg" alt="AMD Raises the Bar with New 800 Series Motherboard Chipsets, Engineered for Next-Gen Ryzen 9000 CPUs – The Ultimate Competition With Intel" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        </a>
+                    </div>
+                
+                <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
+                    <h3 class="home-article-title">
+                        <a href="/amd-raises-the-bar-with-new-800-series-motherboard-chipsets-engineered-for-next-gen-ryzen-9000-cpus-the-ultimate-competition-with-intel/">
+                            AMD Raises the Bar with New 800 Series Motherboard Chipsets, Engineered for Next-Gen Ryzen 9000 CPUs – The Ultimate Competition With Intel
+                        </a>
+                    </h3>
+
+                    <div class="home-article-content markdown-body">
+                        
+                            Ultimate Connectivity with the New ASRock Z890 Taichi: Ten USB C Ports, Including Two ThunderboltASRock showcased its next-ge...
+                        
+                    </div>
+
+                    <div class="home-article-meta-info-container">
+    <div class="home-article-meta-info">
+        <span><i class="fa-solid fa-calendars"></i>&nbsp;
+            <span class="home-article-date" data-date="Mon Aug 19 2024 10:28:37 GMT+0800">
+                
+                    2024-08-19
+                
+            </span>
+        </span>
+        
+            <span class="home-article-category">
+                <i class="fa-solid fa-folders"></i>&nbsp;
+            <ul>
+                
+                
+                    
+                        
+                        <li>
+                            <a href="/categories/hardware/">hardware</a>&nbsp;
+                        </li>
+                    
+                    
+                
+            </ul>
+        </span>
+        
+        
+            <span class="home-article-tag">
+                <i class="fa-solid fa-tags"></i>&nbsp;
+                <ul>
+                    
+                        <li>
+                            
+                            <a href="/tags/motherboards/">motherboards</a>&nbsp;
+                        </li>
+                    
+                </ul>
+            </span>
+        
+    </div>
+
+    <a href="/amd-raises-the-bar-with-new-800-series-motherboard-chipsets-engineered-for-next-gen-ryzen-9000-cpus-the-ultimate-competition-with-intel/">Read more<span class="seo-reader-text">AMD Raises the Bar with New 800 Series Motherboard Chipsets, Engineered for Next-Gen Ryzen 9000 CPUs – The Ultimate Competition With Intel</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+</div>
+
+                </div>
+            </li>
+        
+            <li class="home-article-item flex flex-row">
+
+                
+
+                
+                    
+                
+
+                
+                    <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
+                        <a href="/update-on-msi-z790-motherboards-cracked-pch-chip-issue-and-potential-manufacturing-defect-impacting-some-units/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/4c1a39277ea3313859b9362ca2031ca0eab790234cc40f347849f915f7ea8138.jpg" alt="Update on MSI Z790 Motherboards: Cracked PCH Chip Issue &amp; Potential Manufacturing Defect Impacting Some Units" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        </a>
+                    </div>
+                
+                <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
+                    <h3 class="home-article-title">
+                        <a href="/update-on-msi-z790-motherboards-cracked-pch-chip-issue-and-potential-manufacturing-defect-impacting-some-units/">
+                            Update on MSI Z790 Motherboards: Cracked PCH Chip Issue &amp; Potential Manufacturing Defect Impacting Some Units
+                        </a>
+                    </h3>
+
+                    <div class="home-article-content markdown-body">
+                        
+                            US Launch: Affordable Longsheng (Loongson) CPU-Based Motherboards &amp; Systems Starting at Just $373 - Get the Ultimate Valu...
+                        
+                    </div>
+
+                    <div class="home-article-meta-info-container">
+    <div class="home-article-meta-info">
+        <span><i class="fa-solid fa-calendars"></i>&nbsp;
+            <span class="home-article-date" data-date="Mon Aug 19 2024 10:28:36 GMT+0800">
+                
+                    2024-08-19
+                
+            </span>
+        </span>
+        
+            <span class="home-article-category">
+                <i class="fa-solid fa-folders"></i>&nbsp;
+            <ul>
+                
+                
+                    
+                        
+                        <li>
+                            <a href="/categories/hardware/">hardware</a>&nbsp;
+                        </li>
+                    
+                    
+                
+            </ul>
+        </span>
+        
+        
+            <span class="home-article-tag">
+                <i class="fa-solid fa-tags"></i>&nbsp;
+                <ul>
+                    
+                        <li>
+                            
+                            <a href="/tags/motherboards/">motherboards</a>&nbsp;
+                        </li>
+                    
+                </ul>
+            </span>
+        
+    </div>
+
+    <a href="/update-on-msi-z790-motherboards-cracked-pch-chip-issue-and-potential-manufacturing-defect-impacting-some-units/">Read more<span class="seo-reader-text">Update on MSI Z790 Motherboards: Cracked PCH Chip Issue &amp; Potential Manufacturing Defect Impacting Some Units</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+</div>
+
+                </div>
+            </li>
+        
+            <li class="home-article-item flex flex-row">
+
+                
+
+                
+                    
+                
+
+                
+                    <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
+                        <a href="/unveiling-top-tier-hardware-innovations-with-toms-technology-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://cdn.mos.cms.futurecdn.net/bUC34nrtdTKE2t5oWbsDP-320-80.jpg" alt="Unveiling Top-Tier Hardware Innovations with Tom&#39;s Technology Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        </a>
+                    </div>
+                
+                <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
+                    <h3 class="home-article-title">
+                        <a href="/unveiling-top-tier-hardware-innovations-with-toms-technology-guide/">
+                            Unveiling Top-Tier Hardware Innovations with Tom&#39;s Technology Guide
+                        </a>
+                    </h3>
+
+                    <div class="home-article-content markdown-body">
+                        
+                            Revealed: The Ultimate Guide to the Newly Unveiled EVGA Classified X67t AMD Board - Demanding Over $1,300Hardware enthusiastJ...
+                        
+                    </div>
+
+                    <div class="home-article-meta-info-container">
+    <div class="home-article-meta-info">
+        <span><i class="fa-solid fa-calendars"></i>&nbsp;
+            <span class="home-article-date" data-date="Mon Aug 19 2024 10:28:35 GMT+0800">
+                
+                    2024-08-19
+                
+            </span>
+        </span>
+        
+            <span class="home-article-category">
+                <i class="fa-solid fa-folders"></i>&nbsp;
+            <ul>
+                
+                
+                    
+                        
+                        <li>
+                            <a href="/categories/hardware/">hardware</a>&nbsp;
+                        </li>
+                    
+                    
+                
+            </ul>
+        </span>
+        
+        
+            <span class="home-article-tag">
+                <i class="fa-solid fa-tags"></i>&nbsp;
+                <ul>
+                    
+                        <li>
+                            
+                            <a href="/tags/motherboards/">motherboards</a>&nbsp;
+                        </li>
+                    
+                </ul>
+            </span>
+        
+    </div>
+
+    <a href="/unveiling-top-tier-hardware-innovations-with-toms-technology-guide/">Read more<span class="seo-reader-text">Unveiling Top-Tier Hardware Innovations with Tom&#39;s Technology Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+</div>
+
+                </div>
+            </li>
+        
+            <li class="home-article-item flex flex-row">
+
+                
+
+                
+                    
+                
+
+                
+                    <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
+                        <a href="/unveiling-tech-secrets-reliable-insights-and-ratings-by-toms-hardware/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/fa0f0d9aa480a84d4958b92625d7efd743147dd9e7afea427f137746eefc2011.png" alt="Unveiling Tech Secrets: Reliable Insights &amp; Ratings by Tom&#39;s Hardware" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        </a>
+                    </div>
+                
+                <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
+                    <h3 class="home-article-title">
+                        <a href="/unveiling-tech-secrets-reliable-insights-and-ratings-by-toms-hardware/">
+                            Unveiling Tech Secrets: Reliable Insights &amp; Ratings by Tom&#39;s Hardware
+                        </a>
+                    </h3>
+
+                    <div class="home-article-content markdown-body">
+                        
+                            US Customers Rejoice: Premium Loongson Processor-Integrated Boards and PC Units Start As Low as $3Er Thousand, Starting Your ...
+                        
+                    </div>
+
+                    <div class="home-article-meta-info-container">
+    <div class="home-article-meta-info">
+        <span><i class="fa-solid fa-calendars"></i>&nbsp;
+            <span class="home-article-date" data-date="Mon Aug 19 2024 10:28:34 GMT+0800">
+                
+                    2024-08-19
+                
+            </span>
+        </span>
+        
+            <span class="home-article-category">
+                <i class="fa-solid fa-folders"></i>&nbsp;
+            <ul>
+                
+                
+                    
+                        
+                        <li>
+                            <a href="/categories/hardware/">hardware</a>&nbsp;
+                        </li>
+                    
+                    
+                
+            </ul>
+        </span>
+        
+        
+            <span class="home-article-tag">
+                <i class="fa-solid fa-tags"></i>&nbsp;
+                <ul>
+                    
+                        <li>
+                            
+                            <a href="/tags/motherboards/">motherboards</a>&nbsp;
+                        </li>
+                    
+                </ul>
+            </span>
+        
+    </div>
+
+    <a href="/unveiling-tech-secrets-reliable-insights-and-ratings-by-toms-hardware/">Read more<span class="seo-reader-text">Unveiling Tech Secrets: Reliable Insights &amp; Ratings by Tom&#39;s Hardware</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+</div>
+
+                </div>
+            </li>
+        
+            <li class="home-article-item flex flex-row">
+
+                
+
+                
+                    
+                
+
+                
+                    <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
+                        <a href="/unveiling-new-gadgets-with-toms-hardware-guides/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://cdn.mos.cms.futurecdn.net/4scRUdFp46Yj3zLCygwqEA-320-80.jpg" alt="Unveiling New Gadgets with Tom&#39;s Hardware Guides" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        </a>
+                    </div>
+                
+                <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
+                    <h3 class="home-article-title">
+                        <a href="/unveiling-new-gadgets-with-toms-hardware-guides/">
+                            Unveiling New Gadgets with Tom&#39;s Hardware Guides
+                        </a>
+                    </h3>
+
+                    <div class="home-article-content markdown-body">
+                        
+                            MaxSun Debuts Backside GPU Placement on Their Latest Mini-ITX Motherboard: A Game ChangerMaxsun brought many unique motherboa...
+                        
+                    </div>
+
+                    <div class="home-article-meta-info-container">
+    <div class="home-article-meta-info">
+        <span><i class="fa-solid fa-calendars"></i>&nbsp;
+            <span class="home-article-date" data-date="Mon Aug 19 2024 10:28:33 GMT+0800">
+                
+                    2024-08-19
+                
+            </span>
+        </span>
+        
+            <span class="home-article-category">
+                <i class="fa-solid fa-folders"></i>&nbsp;
+            <ul>
+                
+                
+                    
+                        
+                        <li>
+                            <a href="/categories/hardware/">hardware</a>&nbsp;
+                        </li>
+                    
+                    
+                
+            </ul>
+        </span>
+        
+        
+            <span class="home-article-tag">
+                <i class="fa-solid fa-tags"></i>&nbsp;
+                <ul>
+                    
+                        <li>
+                            
+                            <a href="/tags/motherboards/">motherboards</a>&nbsp;
+                        </li>
+                    
+                </ul>
+            </span>
+        
+    </div>
+
+    <a href="/unveiling-new-gadgets-with-toms-hardware-guides/">Read more<span class="seo-reader-text">Unveiling New Gadgets with Tom&#39;s Hardware Guides</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+</div>
+
+                </div>
+            </li>
+        
+            <li class="home-article-item flex flex-row">
+
+                
+
+                
+                    
+                
+
+                
+                    <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
+                        <a href="/unraveling-computer-secrets-with-toms-hardware-experts/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://cdn.mos.cms.futurecdn.net/cMUyr2h6n5uzGsA4akEfi-320-80.jpg" alt="Unraveling Computer Secrets with Tom&#39;s Hardware Experts" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        </a>
+                    </div>
+                
+                <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
+                    <h3 class="home-article-title">
+                        <a href="/unraveling-computer-secrets-with-toms-hardware-experts/">
+                            Unraveling Computer Secrets with Tom&#39;s Hardware Experts
+                        </a>
+                    </h3>
+
+                    <div class="home-article-content markdown-body">
+                        
+                            Introducing the iCraft B760M Motherboard – Where Intel Meets Anime Aesthetics in a Pastel PackageChinese motherboard maker Ma...
+                        
+                    </div>
+
+                    <div class="home-article-meta-info-container">
+    <div class="home-article-meta-info">
+        <span><i class="fa-solid fa-calendars"></i>&nbsp;
+            <span class="home-article-date" data-date="Mon Aug 19 2024 10:28:32 GMT+0800">
+                
+                    2024-08-19
+                
+            </span>
+        </span>
+        
+            <span class="home-article-category">
+                <i class="fa-solid fa-folders"></i>&nbsp;
+            <ul>
+                
+                
+                    
+                        
+                        <li>
+                            <a href="/categories/hardware/">hardware</a>&nbsp;
+                        </li>
+                    
+                    
+                
+            </ul>
+        </span>
+        
+        
+            <span class="home-article-tag">
+                <i class="fa-solid fa-tags"></i>&nbsp;
+                <ul>
+                    
+                        <li>
+                            
+                            <a href="/tags/motherboards/">motherboards</a>&nbsp;
+                        </li>
+                    
+                </ul>
+            </span>
+        
+    </div>
+
+    <a href="/unraveling-computer-secrets-with-toms-hardware-experts/">Read more<span class="seo-reader-text">Unraveling Computer Secrets with Tom&#39;s Hardware Experts</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+</div>
+
+                </div>
+            </li>
+        
+            <li class="home-article-item flex flex-row">
+
+                
+
+                
+                    
+                
+
+                
+                    <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
+                        <a href="/unique-asus-frankenboard-series-the-maximus-thirteen-era-showcasing-so-dimm-slots-and-exclusive-kingston-furies-branded-editions/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://cdn.mos.cms.futurecdn.net/bUC34nrtdTKE2t5oWbsDP-320-80.jpg" alt="Unique ASUS Frankenboard Series - The Maximus Thirteen Era Showcasing SO-DIMM Slots &amp; Exclusive Kingston Furies Branded Editions" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        </a>
+                    </div>
+                
+                <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
+                    <h3 class="home-article-title">
+                        <a href="/unique-asus-frankenboard-series-the-maximus-thirteen-era-showcasing-so-dimm-slots-and-exclusive-kingston-furies-branded-editions/">
+                            Unique ASUS Frankenboard Series - The Maximus Thirteen Era Showcasing SO-DIMM Slots &amp; Exclusive Kingston Furies Branded Editions
+                        </a>
+                    </h3>
+
+                    <div class="home-article-content markdown-body">
+                        
+                            Discover China’s Longsun Processor Motherboards and Complete Systems for U.S Market, Priced at a Low of Just $373Two new moth...
+                        
+                    </div>
+
+                    <div class="home-article-meta-info-container">
+    <div class="home-article-meta-info">
+        <span><i class="fa-solid fa-calendars"></i>&nbsp;
+            <span class="home-article-date" data-date="Mon Aug 19 2024 10:28:30 GMT+0800">
+                
+                    2024-08-19
+                
+            </span>
+        </span>
+        
+            <span class="home-article-category">
+                <i class="fa-solid fa-folders"></i>&nbsp;
+            <ul>
+                
+                
+                    
+                        
+                        <li>
+                            <a href="/categories/hardware/">hardware</a>&nbsp;
+                        </li>
+                    
+                    
+                
+            </ul>
+        </span>
+        
+        
+            <span class="home-article-tag">
+                <i class="fa-solid fa-tags"></i>&nbsp;
+                <ul>
+                    
+                        <li>
+                            
+                            <a href="/tags/motherboards/">motherboards</a>&nbsp;
+                        </li>
+                    
+                </ul>
+            </span>
+        
+    </div>
+
+    <a href="/unique-asus-frankenboard-series-the-maximus-thirteen-era-showcasing-so-dimm-slots-and-exclusive-kingston-furies-branded-editions/">Read more<span class="seo-reader-text">Unique ASUS Frankenboard Series - The Maximus Thirteen Era Showcasing SO-DIMM Slots &amp; Exclusive Kingston Furies Branded Editions</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+</div>
+
+                </div>
+            </li>
+        
+            <li class="home-article-item flex flex-row">
+
+                
+
+                
+                    
+                
+
+                
+                    <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
+                        <a href="/troubling-discovery-msis-z790-motherboards-suffer-from-cracked-pch-chip-problem-potential-impact-on-hundreds-of-devices/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/6b564cfcc68d7fa9fa2ebcc8ac34b00c6e2d610d2ee82b6185002beb469144e3.jpg" alt="Troubling Discovery: MSI&#39;s Z790 Motherboards Suffer From Cracked PCH Chip Problem – Potential Impact on Hundreds of Devices" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        </a>
+                    </div>
+                
+                <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
+                    <h3 class="home-article-title">
+                        <a href="/troubling-discovery-msis-z790-motherboards-suffer-from-cracked-pch-chip-problem-potential-impact-on-hundreds-of-devices/">
+                            Troubling Discovery: MSI&#39;s Z790 Motherboards Suffer From Cracked PCH Chip Problem – Potential Impact on Hundreds of Devices
+                        </a>
+                    </h3>
+
+                    <div class="home-article-content markdown-body">
+                        
+                            Building Computers Made Easy with DIY-Compatible Motherboards - No Expertise NeededWhen you’re building a computer, it’s easy...
+                        
+                    </div>
+
+                    <div class="home-article-meta-info-container">
+    <div class="home-article-meta-info">
+        <span><i class="fa-solid fa-calendars"></i>&nbsp;
+            <span class="home-article-date" data-date="Mon Aug 19 2024 10:28:29 GMT+0800">
+                
+                    2024-08-19
+                
+            </span>
+        </span>
+        
+            <span class="home-article-category">
+                <i class="fa-solid fa-folders"></i>&nbsp;
+            <ul>
+                
+                
+                    
+                        
+                        <li>
+                            <a href="/categories/hardware/">hardware</a>&nbsp;
+                        </li>
+                    
+                    
+                
+            </ul>
+        </span>
+        
+        
+            <span class="home-article-tag">
+                <i class="fa-solid fa-tags"></i>&nbsp;
+                <ul>
+                    
+                        <li>
+                            
+                            <a href="/tags/motherboards/">motherboards</a>&nbsp;
+                        </li>
+                    
+                </ul>
+            </span>
+        
+    </div>
+
+    <a href="/troubling-discovery-msis-z790-motherboards-suffer-from-cracked-pch-chip-problem-potential-impact-on-hundreds-of-devices/">Read more<span class="seo-reader-text">Troubling Discovery: MSI&#39;s Z790 Motherboards Suffer From Cracked PCH Chip Problem – Potential Impact on Hundreds of Devices</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1437,7 +1494,7 @@
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/1021/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/1020/">1020</a><a class="page-number" href="/page/1021/">1021</a><span class="page-number current">1022</span><a class="page-number" href="/page/1023/">1023</a><a class="page-number" href="/page/1024/">1024</a><span class="space">&hellip;</span><a class="page-number" href="/page/1210/">1210</a><a class="extend next" rel="next" href="/page/1023/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/1021/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/1020/">1020</a><a class="page-number" href="/page/1021/">1021</a><span class="page-number current">1022</span><a class="page-number" href="/page/1023/">1023</a><a class="page-number" href="/page/1024/">1024</a><span class="space">&hellip;</span><a class="page-number" href="/page/1215/">1215</a><a class="extend next" rel="next" href="/page/1023/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>

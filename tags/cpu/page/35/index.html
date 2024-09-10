@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -248,7 +305,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"hardware-help.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -591,7 +648,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">12096</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">12144</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -632,71 +689,71 @@
                     <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='08-26'>
                 
                     
-                        <a href="/build-and-optimize-lessons-in-hardware-selection-from-toms-circuitry/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Build and Optimize: Lessons in Hardware Selection From Tom&#39;s Circuitry</span>
+                        <a href="/amds-financial-report-gaming-industry-decline-at-59-while-data-centers-experience-a-skyrocketing-boost-of-115/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">AMD&#39;s Financial Report: Gaming Industry Decline at 59%, While Data Centers Experience a Skyrocketing Boost of 115%</span>
                         </a>
                     
               
                 
                     
-                        <a href="/budget-conscious-buyers-bounty-seal-the-best-deals-for-todays-processors/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Budget-Conscious Buyer&#39;s Bounty: Seal the Best Deals for Today&#39;s Processors</span>
+                        <a href="/navigating-the-world-of-gadgets-with-tom-a-hardware-specialist/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Navigating the World of Gadgets with Tom - A Hardware Specialist</span>
                         </a>
                     
               
                 
                     
-                        <a href="/the-evolution-continues-intel-18a-cpus-and-the-move-toward-next-generation-lithography-tech/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">The Evolution Continues: Intel 18A CPUs and the Move Toward Next Generation Lithography Tech</span>
+                        <a href="/differing-approaches-by-computer-companies-in-fulfilling-intels-extended-cpu-warranty-during-hardware-malfunctions/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Differing Approaches by Computer Companies in Fulfilling Intel&#39;s Extended CPU Warranty During Hardware Malfunctions</span>
                         </a>
                     
               
                 
                     
-                        <a href="/protect-your-gaming-experience-developer-introduces-in-game-alert-system-for-intels-latest-processor-generations/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Protect Your Gaming Experience: Developer Introduces In-Game Alert System for Intel&#39;s Latest Processor Generations</span>
+                        <a href="/unleash-maximum-power-in-your-gameplay-with-the-ideal-gaming-cpus/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Unleash Maximum Power in Your Gameplay with the Ideal Gaming CPUs</span>
                         </a>
                     
               
                 
                     
-                        <a href="/discover-cutting-edge-tech-tips-from-toms-hardware-insights/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Discover Cutting-Edge Tech Tips From Tom&#39;s Hardware Insights</span>
+                        <a href="/the-ultimate-resource-for-your-tech-needs-at-toms-electronics-review/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">The Ultimate Resource for Your Tech Needs at Tom&#39;s Electronics Review</span>
                         </a>
                     
               
                 
                     
-                        <a href="/mastering-modern-computing-a-guide-from-the-experts-at-toms-hardware/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Mastering Modern Computing - A Guide From the Experts at Tom&#39;s Hardware</span>
+                        <a href="/toms-tech-review-expert-insights-on-computer-components-and-gadgets/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Tom&#39;s Tech Review: Expert Insights on Computer Components and Gadgets</span>
                         </a>
                     
               
                 
                     
-                        <a href="/snapdragon-x-chipsets-excel-capturing-65-of-last-months-geekbench-6-results/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Snapdragon X Chipsets Excel: Capturing 6.5%% of Last Month&#39;s Geekbench 6 Results</span>
+                        <a href="/benchmark-dev-highlights-snapdragon-x-processor-success-holds-65-of-geekbench-6-outcomes-this-month/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Benchmark Dev Highlights Snapdragon X Processor Success: Holds 6.5% of Geekbench 6 Outcomes This Month</span>
                         </a>
                     
               
                 
                     
-                        <a href="/production-error-leads-to-possible-delay-in-launching-the-new-amd-ryzen-9000-processors-mistakenly-marked-ryzen-7-chip-appears-consequences-for-ryzen-5-960025/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Production Error Leads to Possible Delay in Launching the New AMD Ryzen 9000 Processors: Mistakenly Marked Ryzen 7 Chip Appears; Consequences for Ryzen 5 9600X Still Under Evaluation</span>
+                        <a href="/toms-tech-review-expert-insights-on-the-latest-gadgets/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Tom&#39;s Tech Review: Expert Insights on the Latest Gadgets</span>
                         </a>
                     
               
                 
                     
-                        <a href="/discover-amds-newest-tech-the-french-release-of-ryzen-9-cpus-with-the-ryzen-9-9900x-at-649/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Discover AMD&#39;s Newest Tech: The French Release of Ryzen 9 CPUs, with the Ryzen 9 9900X at €649</span>
+                        <a href="/exploring-innovations-with-toms-gadget-reviews/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Exploring Innovations with Tom&#39;s Gadget Reviews</span>
                         </a>
                     
               
                 
                     
-                        <a href="/avoid-gaming-crashes-on-intel-13th-and-14th-gen-cpus-with-new-in-game-warning-comprehebate-your-system-now/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Avoid Gaming Crashes on Intel 13Th and 14Th Gen CPUs with New In-Game Warning – Comprehebate Your System Now!</span>
+                        <a href="/amd-ryzen-9000-discounted-shop-at-best-buy-for-lower-than-ryzen-70/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">AMD Ryzen 9000 Discounted: Shop at Best Buy for Lower-than-Ryzen 70</span>
                         </a>
                     
               
@@ -710,7 +767,7 @@
 
 <div class="tag-paginator">
 	<div class="paginator">
-    <a class="extend prev" rel="prev" href="/tags/cpu/page/34/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/tags/cpu/">1</a><span class="space">&hellip;</span><a class="page-number" href="/tags/cpu/page/33/">33</a><a class="page-number" href="/tags/cpu/page/34/">34</a><span class="page-number current">35</span><a class="page-number" href="/tags/cpu/page/36/">36</a><a class="page-number" href="/tags/cpu/page/37/">37</a><span class="space">&hellip;</span><a class="page-number" href="/tags/cpu/page/83/">83</a><a class="extend next" rel="next" href="/tags/cpu/page/36/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/tags/cpu/page/34/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/tags/cpu/">1</a><span class="space">&hellip;</span><a class="page-number" href="/tags/cpu/page/33/">33</a><a class="page-number" href="/tags/cpu/page/34/">34</a><span class="page-number current">35</span><a class="page-number" href="/tags/cpu/page/36/">36</a><a class="page-number" href="/tags/cpu/page/37/">37</a><span class="space">&hellip;</span><a class="page-number" href="/tags/cpu/page/84/">84</a><a class="extend next" rel="next" href="/tags/cpu/page/36/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
 </div>

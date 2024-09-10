@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -248,7 +305,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"hardware-help.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -591,7 +648,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">12096</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">12144</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -632,71 +689,71 @@
                     <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='08-19'>
                 
                     
-                        <a href="/exploring-the-latest-in-computer-components-with-toms-hardware/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Exploring the Latest in Computer Components with Tom&#39;s Hardware</span>
+                        <a href="/samsungs-upcoming-breakthrough-in-solid-state-drives-introducing-290-layer-v-nand-technology/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Samsung&#39;s Upcoming Breakthrough in Solid State Drives: Introducing 290-Layer V-NAND Technology</span>
                         </a>
                     
               
                 
                     
-                        <a href="/exploring-the-depth-of-computing-with-toms-gear-insights/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Exploring the Depth of Computing with Tom&#39;s Gear Insights</span>
+                        <a href="/samsung-unveils-new-6144tb-ssd-insights-into-the-upcoming-12288tb-version/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Samsung Unveils New 61.44TB SSD: Insights Into the Upcoming 122.88TB Version</span>
                         </a>
                     
               
                 
                     
-                        <a href="/exploring-technology-with-tom-in-depth-hardware-insights/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Exploring Technology with Tom - In-Depth Hardware Insights</span>
+                        <a href="/rising-prices-of-solid-state-drives-as-nand-supply-tightens-boost-revenue-by-quarter-for-chipmakers/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Rising Prices of Solid-State Drives as NAND Supply Tightens Boost Revenue by Quarter for Chipmakers</span>
                         </a>
                     
               
                 
                     
-                        <a href="/exploring-samsungs-latest-6144tb-storage-solution-and-future-plans-for-a-12288tb-model/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Exploring Samsung&#39;s Latest 61.44TB Storage Solution and Future Plans for a 122.88TB Model</span>
+                        <a href="/new-generation-of-solid-state-storage-how-wds-qlc-drives-surpass-last-years-tlc-by-over-16-sn5000s-vs-sn740/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">New Generation of Solid-State Storage: How WD&#39;s QLC Drives Surpass Last Year&#39;s TLC by Over 16% (SN5000S Vs. SN740)</span>
                         </a>
                     
               
                 
                     
-                        <a href="/exploring-microsofts-enigmatic-z1000-ssd-insights-into-an-expanding-lineup-of-high-performance-storage-solutions/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Exploring Microsoft&#39;s Enigmatic Z1000 SSD: Insights Into an Expanding Lineup of High-Performance Storage Solutions</span>
+                        <a href="/navigating-the-world-of-hardware-with-expert-insights-from-tom-your-go-to-resource-for-gadget-comparisons-and-buying-advice/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Navigating the World of Hardware with Expert Insights From Tom - Your Go-To Resource for Gadget Comparisons and Buying Advice</span>
                         </a>
                     
               
                 
                     
-                        <a href="/exploring-lexars-ultimate-performance-a-comparative-review-of-the-versatile-sl500-and-pro-sl600-revealed-pushing-limits-at-20-gigabit-speeds/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Exploring Lexar’s Ultimate Performance: A Comparative Review of the Versatile SL500 and Pro SL60^0 Revealed, Pushing Limits at 20 Gigabit Speeds</span>
+                        <a href="/navigating-technology-through-toms-lens/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Navigating Technology Through Tom&#39;s Lens</span>
                         </a>
                     
               
                 
                     
-                        <a href="/expert-insights-on-hardware-with-tom-comprehensive-technology-analysis/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Expert Insights on Hardware with Tom - Comprehensive Technology Analysis</span>
+                        <a href="/navigating-computer-world-the-comprehensive-guide-by-tom/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Navigating Computer World: The Comprehensive Guide by Tom</span>
                         </a>
                     
               
                 
                     
-                        <a href="/expert-analysis-of-sabrent-rocket-nano-2242-1tb-ssd-the-essential-guide-to-the-perfect-m2-2242-storage-solution/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Expert Analysis of Sabrent Rocket Nano 2242 1TB SSD: The Essential Guide to the Perfect M.2 2242 Storage Solution</span>
+                        <a href="/meet-kioxias-game-changing-solid-state-drives-harnessing-the-power-of-light-for-superior-performance-and-extended-reach-to-processors-over-40m/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Meet Kioxia&#39;s Game-Changing Solid State Drives: Harnessing the Power of Light for Superior Performance and Extended Reach to Processors over 40M</span>
                         </a>
                     
               
                 
                     
-                        <a href="/end-of-production-intels-200-series-optane-memory-dimms-set-to-cease-shipments-by-late-2nd-26/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">End of Production: Intel&#39;s 200-Series Optane Memory DIMMs Set to Cease Shipments by Late 2nD 26</span>
+                        <a href="/maxio-unveils-high-speed-china-made-ssd-controllers-up-to-148gbs-with-pcie-5-technology/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Maxio Unveils High-Speed China-Made SSD Controllers, Up to 14.8GB/S with PCIe 5 Technology</span>
                         </a>
                     
               
                 
                     
-                        <a href="/discover-top-tier-gadgets-with-toms-equipment-guide/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Discover Top-Tier Gadgets with Tom&#39;s Equipment Guide</span>
+                        <a href="/mastering-modern-computers-with-expertise-from-toms-hardware-review/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Mastering Modern Computers with Expertise From Tom&#39;s Hardware Review</span>
                         </a>
                     
               
@@ -709,7 +766,7 @@
 </div>
 <div class="category-paginator">
     <div class="paginator">
-    <a class="extend prev" rel="prev" href="/categories/hardware/page/185/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/categories/hardware/">1</a><span class="space">&hellip;</span><a class="page-number" href="/categories/hardware/page/184/">184</a><a class="page-number" href="/categories/hardware/page/185/">185</a><span class="page-number current">186</span><a class="page-number" href="/categories/hardware/page/187/">187</a><a class="page-number" href="/categories/hardware/page/188/">188</a><span class="space">&hellip;</span><a class="page-number" href="/categories/hardware/page/258/">258</a><a class="extend next" rel="next" href="/categories/hardware/page/187/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/categories/hardware/page/185/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/categories/hardware/">1</a><span class="space">&hellip;</span><a class="page-number" href="/categories/hardware/page/184/">184</a><a class="page-number" href="/categories/hardware/page/185/">185</a><span class="page-number current">186</span><a class="page-number" href="/categories/hardware/page/187/">187</a><a class="page-number" href="/categories/hardware/page/188/">188</a><span class="space">&hellip;</span><a class="page-number" href="/categories/hardware/page/259/">259</a><a class="extend next" rel="next" href="/categories/hardware/page/187/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
 </div>

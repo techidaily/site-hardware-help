@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -248,7 +305,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"hardware-help.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -591,7 +648,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">12096</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">12144</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -632,71 +689,71 @@
                     <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='08-19'>
                 
                     
-                        <a href="/comprehensive-asus-pro-b760m-ct-csm-motherboard-assessment-unleashing-the-power-of-csm/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Comprehensive Asus Pro B760M-CT CSM Motherboard Assessment - Unleashing the Power of CSM</span>
+                        <a href="/msi-releases-information-on-z790-board-failures-due-to-flawed-pch-chips-manufacturing-glitch-affects-select-units-latest-news/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">MSI Releases Information on Z790 Board Failures Due to Flawed PCH Chips - Manufacturing Glitch Affects Select Units (Latest News)</span>
                         </a>
                     
               
                 
                     
-                        <a href="/can-gigabytes-reinforced-slots-withstand-128lb-graphics-cards-the-struggle-againnst-pcb-crack-continues/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Can Gigabyte&#39;s Reinforced Slots Withstand 128Lb Graphics Cards? The Struggle Againnst PCB Crack Continues</span>
+                        <a href="/msi-implements-intel-recommended-power-specifications-for-i9-processors-aiming-to-resolve-stability-issues-during-continuous-investigation-by-intel/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">MSI Implements Intel Recommended Power Specifications for I9 Processors, Aiming to Resolve Stability Issues During Continuous Investigation by Intel</span>
                         </a>
                     
               
                 
                     
-                        <a href="/building-computers-simplified-top-user-friendly-motherboards-reviewed/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Building Computers Simplified: Top User-Friendly Motherboards Reviewed</span>
+                        <a href="/mastering-tech-trends-with-guidance-from-toms-hardware/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Mastering Tech Trends with Guidance From Tom&#39;s Hardware</span>
                         </a>
                     
               
                 
                     
-                        <a href="/asrocks-latest-release-cutting-edge-amd-ryzen-9000-boards/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">ASRock&#39;s Latest Release: Cutting-Edge AMD Ryzen 9000 Boards</span>
+                        <a href="/masterclass-on-motherboards-dissecting-the-asus-rog-maximus-z790-with-hybrid-cooling-innovations-and-high-performance-components/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Masterclass on Motherboards: Dissecting the Asus ROG Maximus Z790 with Hybrid Cooling Innovations &amp; High Performance Components</span>
                         </a>
                     
               
                 
                     
-                        <a href="/asrock-z790i-lightning-wireless-lan-review-harnessing-the-storm-with-miniaturized-power/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">ASRock Z790I Lightning Wireless LAN Review – Harnessing the Storm with Miniaturized Power</span>
+                        <a href="/high-performance-meets-efficient-heat-dissipation-review-of-asuss-rog-maximus-z790-formula-motherboard/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">High Performance Meets Efficient Heat Dissipation: Review of Asus&#39;s ROG Maximus Z790 Formula Motherboard</span>
                         </a>
                     
               
                 
                     
-                        <a href="/amds-logofail-bug-tackled-with-latest-bios-revisions-from-affiliated-manufacturers/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">AMD&#39;s LogoFAIL Bug Tackled with Latest BIOS Revisions From Affiliated Manufacturers</span>
+                        <a href="/exploring-the-latest-in-computing-with-toms-hardware-insights/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Exploring the Latest in Computing with Tom&#39;s Hardware Insights</span>
                         </a>
                     
               
                 
                     
-                        <a href="/1723862867782-maxsun-unveils-intel-and-amds-latest-gear-an-extensive-selection-of-31-high-performance-chipsets-meet-the-future/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Maxsun Unveils Intel and AMD&#39;s Latest Gear: An Extensive Selection of 31 High-Performance Chipsets - Meet the Future!</span>
+                        <a href="/exploring-the-entry-level-beast-3-monitor-compatible-gigabyte-b760m-ds3h-micro-atx-review/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Exploring the Entry-Level Beast: 3-Monitor Compatible Gigabyte B760M DS3H Micro ATX Review</span>
                         </a>
                     
               
                 
                     
-                        <a href="/ultimate-guide-to-choosing-best-gaming-motherboards-in-2e3-sockets-and-chipsets-explained/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Ultimate Guide to Choosing Best Gaming Motherboards in 2E3 - Sockets and Chipsets Explained</span>
+                        <a href="/expert-analysis-on-the-chilly-and-expensive-gigabyt-b650-aorus-elite-ax-board-with-extra-usb-ports/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Expert Analysis on the Chilly and Expensive Gigabyt B650 Aorus Elite AX Board with Extra USB Ports</span>
                         </a>
                     
               
                 
                     
-                        <a href="/triple-display-mastery-on-a-miniature-scale-the-intricacies-of-the-gigabyte-b760m-motherboard-revealed/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Triple Display Mastery on a Miniature Scale: The Intricacies of the Gigabyte B760M Motherboard Revealed</span>
+                        <a href="/expert-analysis-from-toms-gadget-hub/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Expert Analysis From Tom&#39;s Gadget Hub</span>
                         </a>
                     
               
                 
                     
-                        <a href="/toms-technology-chronicles-unveiling-top-hardware-picks/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Tom&#39;s Technology Chronicles: Unveiling Top Hardware Picks</span>
+                        <a href="/experiencing-chilly-performance-on-gigabytes-pricey-but-high-quality-b65t-aorus-elite-ax-ice-mobo-usb-galore-included/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Experiencing Chilly Performance on Gigabyte&#39;s Pricey, But High-Quality B65t Aorus Elite AX Ice Mobo: USB Galore Included!</span>
                         </a>
                     
               
@@ -709,7 +766,7 @@
 </div>
 <div class="category-paginator">
     <div class="paginator">
-    <a class="extend prev" rel="prev" href="/categories/hardware/page/163/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/categories/hardware/">1</a><span class="space">&hellip;</span><a class="page-number" href="/categories/hardware/page/162/">162</a><a class="page-number" href="/categories/hardware/page/163/">163</a><span class="page-number current">164</span><a class="page-number" href="/categories/hardware/page/165/">165</a><a class="page-number" href="/categories/hardware/page/166/">166</a><span class="space">&hellip;</span><a class="page-number" href="/categories/hardware/page/258/">258</a><a class="extend next" rel="next" href="/categories/hardware/page/165/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/categories/hardware/page/163/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/categories/hardware/">1</a><span class="space">&hellip;</span><a class="page-number" href="/categories/hardware/page/162/">162</a><a class="page-number" href="/categories/hardware/page/163/">163</a><span class="page-number current">164</span><a class="page-number" href="/categories/hardware/page/165/">165</a><a class="page-number" href="/categories/hardware/page/166/">166</a><span class="space">&hellip;</span><a class="page-number" href="/categories/hardware/page/259/">259</a><a class="extend next" rel="next" href="/categories/hardware/page/165/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
 </div>

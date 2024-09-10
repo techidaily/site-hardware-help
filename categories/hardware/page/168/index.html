@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -248,7 +305,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"hardware-help.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -591,7 +648,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">12096</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">12144</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -632,71 +689,71 @@
                     <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='08-19'>
                 
                     
-                        <a href="/dive-into-hardware-mastery-with-toms-expert-reviews/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Dive Into Hardware Mastery with Tom&#39;s Expert Reviews</span>
+                        <a href="/motherboard-sales-surge-to-39-million-units-as-shipments-bounce-back-to-pre-pandemic-figures/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Motherboard Sales Surge to 39 Million Units as Shipments Bounce Back to Pre-Pandemic Figures</span>
                         </a>
                     
               
                 
                     
-                        <a href="/budget-conscious-gaming-with-asrocks-b760m-pro-rs-robust-m2-capabilities-included/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Budget-Conscious Gaming with ASRock&#39;s B760M Pro RS - Robust M.2 Capabilities Included</span>
+                        <a href="/mastering-the-digital-world-insights-from-toms-hardware-experts/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Mastering the Digital World: Insights From Tom&#39;s Hardware Experts</span>
                         </a>
                     
               
                 
                     
-                        <a href="/asrocks-latest-masterpiece-the-z89-taichi-aqua-motherboard-10x-usb-type-c-and-dual-thunderbolt-functionality-explored/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">ASRock&#39;s Latest Masterpiece: The Z89# Taichi Aqua Motherboard - 10X USB Type-C &amp; Dual Thunderbolt Functionality Explored</span>
+                        <a href="/introducing-sapphires-budget-friendly-am5-mini-itx-motherboard-enhanced-connectivity-via-pcie-gen-4-at-lower-prices-in-china/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Introducing Sapphire&#39;s Budget-Friendly AM5 Mini ITX Motherboard: Enhanced Connectivity via PCIe Gen 4 at Lower Prices in China</span>
                         </a>
                     
               
                 
                     
-                        <a href="/asrock-launches-latest-lineup-of-arrow-lake-supported-mini-itx-and-atx-boards-featuring-the-revamped-taichi-model-with-camm2-ram/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">ASROCK Launches Latest Lineup of Arrow Lake Supported Mini-ITX &amp; ATX Boards Featuring the Revamped Taichi Model With CAMM2 RAM</span>
+                        <a href="/inside-the-circuitry-unveiling-tech-secrets-at-toms-gadget-corner/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Inside the Circuitry: Unveiling Tech Secrets at Tom&#39;s Gadget Corner</span>
                         </a>
                     
               
                 
                     
-                        <a href="/amd-gears-up-to-release-compatible-800-series-chipsets-tailored-for-ryzen-cpus-numbered-system-echoes-intels-approach/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">AMD Gears Up to Release Compatible 800 Series Chipsets Tailored For Ryzen CPUs - Numbered System Echoes Intel&#39;s Approach</span>
+                        <a href="/in-depth-gigabyte-b65t-aorus-elite-ax-ice-mobo-review-top-notch-features-justify-the-hefty-price-tag-and-abundant-usb-ports/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">In-Depth Gigabyte B65t Aorus Elite AX Ice Mobo Review: Top-Notch Features Justify the Hefty Price Tag &amp; Abundant USB Ports</span>
                         </a>
                     
               
                 
                     
-                        <a href="/toms-ultimate-resource-for-top-tier-hardware-analysis/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Tom&#39;s Ultimate Resource for Top-Tier Hardware Analysis</span>
+                        <a href="/exploring-the-latest-in-computing-gear-with-tom-a-comprehensive-guide/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Exploring the Latest in Computing Gear with Tom - A Comprehensive Guide</span>
                         </a>
                     
               
                 
                     
-                        <a href="/toms-tech-review-in-depth-computer-and-hardware-analysis/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Tom&#39;s Tech Review: In-Depth Computer &amp; Hardware Analysis</span>
+                        <a href="/exploring-the-future-of-pc-building-with-asrocks-new-ryzen-9000-chipset-boards/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Exploring the Future of PC Building with ASRock&#39;s New Ryzen 9000 Chipset Boards</span>
                         </a>
                     
               
                 
                     
-                        <a href="/toms-tech-review-a-comprehensive-guide/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Tom&#39;s Tech Review: A Comprehensive Guide</span>
+                        <a href="/exploring-technology-with-tom-comprehensive-hardware-evaluations/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Exploring Technology with Tom: Comprehensive Hardware Evaluations</span>
                         </a>
                     
               
                 
                     
-                        <a href="/toms-tech-hub-unlocking-the-secrets-of-high-performance-pc-components/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Tom&#39;s Tech Hub: Unlocking the Secrets of High-Performance PC Components</span>
+                        <a href="/exploring-cutting-edge-technology-with-toms-hardware-guides/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Exploring Cutting-Edge Technology with Tom&#39;s Hardware Guides</span>
                         </a>
                     
               
                 
                     
-                        <a href="/toms-computer-equipment-insights-find-the-perfect-tech-setup/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Tom&#39;s Computer Equipment Insights: Find the Perfect Tech Setup</span>
+                        <a href="/exploring-computer-gear-with-toms-hardware-insights/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Exploring Computer Gear with Tom&#39;s Hardware Insights</span>
                         </a>
                     
               
@@ -709,7 +766,7 @@
 </div>
 <div class="category-paginator">
     <div class="paginator">
-    <a class="extend prev" rel="prev" href="/categories/hardware/page/167/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/categories/hardware/">1</a><span class="space">&hellip;</span><a class="page-number" href="/categories/hardware/page/166/">166</a><a class="page-number" href="/categories/hardware/page/167/">167</a><span class="page-number current">168</span><a class="page-number" href="/categories/hardware/page/169/">169</a><a class="page-number" href="/categories/hardware/page/170/">170</a><span class="space">&hellip;</span><a class="page-number" href="/categories/hardware/page/258/">258</a><a class="extend next" rel="next" href="/categories/hardware/page/169/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/categories/hardware/page/167/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/categories/hardware/">1</a><span class="space">&hellip;</span><a class="page-number" href="/categories/hardware/page/166/">166</a><a class="page-number" href="/categories/hardware/page/167/">167</a><span class="page-number current">168</span><a class="page-number" href="/categories/hardware/page/169/">169</a><a class="page-number" href="/categories/hardware/page/170/">170</a><span class="space">&hellip;</span><a class="page-number" href="/categories/hardware/page/259/">259</a><a class="extend next" rel="next" href="/categories/hardware/page/169/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
 </div>

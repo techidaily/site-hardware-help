@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -248,7 +305,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"hardware-help.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -591,7 +648,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">12096</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">12144</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -632,71 +689,71 @@
                     <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='08-19'>
                 
                     
-                        <a href="/ace-gamers-deal-the-ultimate-combo-of-power-and-savings-msi-bravo-laptop-with-rtx-4060-under-1k/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Ace Gamers’ Deal: The Ultimate Combo of Power and Savings - MSI Bravo Laptop with RTX 4060 Under $1K!</span>
+                        <a href="/intel-and-snapdragon-showdown-who-wins-when-it-comes-to-elite-battery-life-for-laptops/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Intel and Snapdragon Showdown: Who Wins When It Comes to Elite Battery Life for Laptops?</span>
                         </a>
                     
               
                 
                     
-                        <a href="/1723862721549-get-your-hands-on-the-high-end-dell-g16-gaming-laptop-for-only-949-limited-time-offer/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Get Your Hands on the High-End Dell G16 Gaming Laptop for Only $949 - Limited Time Offer</span>
+                        <a href="/in-depth-analysis-of-the-updated-dell-xps-13-9345-timeless-aesthetics-meets-enhanced-performance/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">In-Depth Analysis of the Updated Dell XPS 13 (9345): Timeless Aesthetics Meets Enhanced Performance</span>
                         </a>
                     
               
                 
                     
-                        <a href="/1723862719671-take-on-any-challenge-discover-gaming-excellence-with-the-affordable-and-powerful-lenovo-legion-slim-5-899-packed-with-a-cutting-edge-rtx-4060-gpu/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Take On Any Challenge: Discover Gaming Excellence with the Affordable and Powerful Lenovo Legion Slim 5 ($899) - Packed With a Cutting-Edge RTX 4060 GPU!</span>
+                        <a href="/high-tier-gaming-laptops-that-wont-break-your-bank-price-under-1000/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">High-Tier Gaming Laptops That Won&#39;t Break Your Bank (Price Under $1,000)</span>
                         </a>
                     
               
                 
                     
-                        <a href="/1723862718948-revolutionize-your-tech-setup-new-frameworks-latest-innovation-with-deepcomputings-starfive-soc-board-features-advanced-risc-v-technology-for-laptops/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Revolutionize Your Tech Setup: New Framework&#39;s Latest Innovation with DeepComputing&#39;s StarFive SoC Board Features Advanced RISC-V Technology for Laptops.</span>
+                        <a href="/hands-on-evaluation-of-alienware-m18-r2s-premium-keyboard-and-performance-features/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Hands-On Evaluation of Alienware M18 R2&#39;s Premium Keyboard &amp; Performance Features</span>
                         </a>
                     
               
                 
                     
-                        <a href="/1723862686840-get-the-asus-2024-rog-zephyrus-g14-with-oled-display-and-nvidias-rtx-4060-at-a-discounted-price-save-300-now/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Get the Asus 2024 ROG Zephyrus G14 with OLED Display and NVIDIA&#39;s RTX 4060 at a Discounted Price - Save $300 Now</span>
+                        <a href="/get-your-hands-on-the-latest-razer-blade-15-at-a-record-breaking-1000-discount-this-year/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Get Your Hands on the Latest Razer Blade 15 at a Record-Breaking $1,000 Discount This Year</span>
                         </a>
                     
               
                 
                     
-                        <a href="/1149-off-shop-the-newly-discounted-m3-macbook-air-laptop-16gb-memory-and-13-inch-screen/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">$1,149 OFF! Shop the Newly Discounted M3 MacBook Air Laptop - 16GB Memory &amp; 13-Inch Screen</span>
+                        <a href="/exploring-computer-hardware-with-toms-picks/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Exploring Computer Hardware with Tom&#39;s Picks</span>
                         </a>
                     
               
                 
                     
-                        <a href="/upgrade-your-game-today-avail-of-the-incredible-deal-on-dells-16-inch-g16-laptop-for-only-949/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Upgrade Your Game Today: Avail of the Incredible Deal on Dell&#39;s 16-Inch G16 Laptop for Only $949</span>
+                        <a href="/expert-insights-into-computing-discover-more-with-toms-hardware/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Expert Insights Into Computing - Discover More with Tom&#39;s Hardware</span>
                         </a>
                     
               
                 
                     
-                        <a href="/unveiling-the-latest-in-computing-tips-from-toms-hardware-experts/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Unveiling the Latest in Computing - Tips From Tom&#39;s Hardware Experts</span>
+                        <a href="/experience-high-performance-with-intelamd-fusion-explore-asus-latest-marvels-the-zenbook-s-and-the-tuf-a14/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Experience High Performance with Intel/AMD Fusion - Explore Asus&#39; Latest Marvels: The ZenBook S and the TUF A14</span>
                         </a>
                     
               
                 
                     
-                        <a href="/unveiling-the-beauty-and-performance-an-in-depth-review-of-dell-xps-13-9345-with-its-signature-design-and-advanced-snapdragon-x-elite-processor/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Unveiling the Beauty &amp; Performance: An In-Depth Review of Dell XPS 13 (9345) with Its Signature Design and Advanced Snapdragon X Elite Processor</span>
+                        <a href="/experience-enhanced-multitasking-the-intel-core-driven-acemagix-x1-laptop-featuring-dual-full-hd-screens-starting-at-just-899/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Experience Enhanced Multitasking: The Intel Core-Driven AceMagix X1 Laptop Featuring Dual Full HD Screens, Starting at Just $899</span>
                         </a>
                     
               
                 
                     
-                        <a href="/uncovering-hidden-gems-in-technology-a-deep-dive-by-toms-hardware-hub/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Uncovering Hidden Gems in Technology - A Deep Dive by Tom&#39;s Hardware Hub</span>
+                        <a href="/essential-hardware-know-how-for-enthusiasts-curated-by-tom/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Essential Hardware Know-How for Enthusiasts, Curated by Tom</span>
                         </a>
                     
               
@@ -709,7 +766,7 @@
 </div>
 <div class="category-paginator">
     <div class="paginator">
-    <a class="extend prev" rel="prev" href="/categories/hardware/page/78/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/categories/hardware/">1</a><span class="space">&hellip;</span><a class="page-number" href="/categories/hardware/page/77/">77</a><a class="page-number" href="/categories/hardware/page/78/">78</a><span class="page-number current">79</span><a class="page-number" href="/categories/hardware/page/80/">80</a><a class="page-number" href="/categories/hardware/page/81/">81</a><span class="space">&hellip;</span><a class="page-number" href="/categories/hardware/page/258/">258</a><a class="extend next" rel="next" href="/categories/hardware/page/80/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/categories/hardware/page/78/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/categories/hardware/">1</a><span class="space">&hellip;</span><a class="page-number" href="/categories/hardware/page/77/">77</a><a class="page-number" href="/categories/hardware/page/78/">78</a><span class="page-number current">79</span><a class="page-number" href="/categories/hardware/page/80/">80</a><a class="page-number" href="/categories/hardware/page/81/">81</a><span class="space">&hellip;</span><a class="page-number" href="/categories/hardware/page/259/">259</a><a class="extend next" rel="next" href="/categories/hardware/page/80/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
 </div>

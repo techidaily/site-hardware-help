@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -248,7 +305,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"hardware-help.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -591,7 +648,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">12096</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">12144</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -629,74 +686,74 @@
               
                 
                     
-                    <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='08-30'>
+                    <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='09-04'>
                 
                     
-                        <a href="/upgrade-with-a-high-performance-gpu-choose-models-above-8gb-vram/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Upgrade with a High-Performance GPU: Choose Models Above 8GB VRAM</span>
+                        <a href="/prolong-your-smartphones-charge-cycle-with-innovative-adaptive-battery-technology-for-android-devices/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Prolong Your Smartphone&#39;s Charge Cycle with Innovative Adaptive Battery Technology for Android Devices</span>
                         </a>
                     
               
                 
                     
-                        <a href="/unveiling-the-dji-power-1000-an-in-depth-analysis-of-a-mighty-drone-with-some-performance-gaps/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Unveiling the DJI Power 1000 - An In-Depth Analysis of a Mighty Drone with Some Performance Gaps</span>
+                        <a href="/pixel-8a-vs-pixel-7a-showdown-evaluating-the-value-of-advanced-features/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Pixel 8a vs Pixel 7a Showdown: Evaluating the Value of Advanced Features</span>
                         </a>
                     
               
                 
                     
-                        <a href="/unleashing-powerful-gaming-rigs-discover-the-new-cooler-master-pc-creations/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Unleashing Powerful Gaming Rigs: Discover the New Cooler Master PC Creations</span>
+                        <a href="/onyx-boox-tab-ultra-examined-unveiling-strengths-and-weaknesses-of-the-top-e-reader-device-on-the-market/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Onyx Boox Tab Ultra Examined: Unveiling Strengths and Weaknesses of the Top E-Reader Device on the Market</span>
                         </a>
                     
               
                 
                     
-                        <a href="/ultimate-list-value-packed-bluetooth-audio-devices-for-e24-enthusiasts/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Ultimate List: Value Packed Bluetooth Audio Devices for E24 Enthusiasts</span>
+                        <a href="/maximum-usage-duration-how-many-years-will-your-android-device-last/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Maximum Usage Duration: How Many Years Will Your Android Device Last?</span>
                         </a>
                     
               
                 
                     
-                        <a href="/treatment-options-for-secreting-tumors-are-tailored-based-on-hormone-type-tumor-characteristics-and-patient-health/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Treatment Options for Secreting Tumors Are Tailored Based on Hormone Type, Tumor Characteristics, and Patient Health.</span>
+                        <a href="/introducing-the-new-oneplus-tab-2-advanced-snapdragon-processor-meets-stunning-3k-resolution-screen/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Introducing the New OnePlus Tab 2 - Advanced Snapdragon Processor Meets Stunning 3K Resolution Screen</span>
                         </a>
                     
               
                 
                     
-                        <a href="/top-rated-fire-tv-stick-models-a-comprehensive-guide/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Top Rated Fire TV Stick Models : A Comprehensive Guide</span>
+                        <a href="/introducing-the-new-oneplus-11-a-rocky-launch-amidst-high-expectations/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Introducing the New OnePlus 11: A Rocky Launch Amidst High Expectations</span>
                         </a>
                     
               
                 
                     
-                        <a href="/top-5-essential-devices-you-need-for-unexpected-power-losses/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Top 5 Essential Devices You Need for Unexpected Power Losses</span>
+                        <a href="/introducing-the-advanced-features-of-samsungs-new-galaxy-watch-6-equipped-with-improved-chipset-and-running-on-wear-os-4/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Introducing the Advanced Features of Samsung&#39;s New Galaxy Watch 6 - Equipped with Improved Chipset &amp; Running on Wear OS 4</span>
                         </a>
                     
               
                 
                     
-                        <a href="/the-weeks-insights-on-ios-upgrades-and-tech-recall-highlights-for-iphones/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">The Week&#39;s Insights on iOS Upgrades &amp; Tech Recall Highlights for iPhones</span>
+                        <a href="/guide-to-updating-a-google-pixel-device-via-sideload-no-ota-required/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Guide to Updating a Google Pixel Device via Sideload - No OTA Required</span>
                         </a>
                     
               
                 
                     
-                        <a href="/the-ultimate-guide-to-using-your-tv-remote-for-console-gaming-and-smart-devices-like-amazon-fire-stick-or-appletv/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">The Ultimate Guide to Using Your TV Remote for Console Gaming &amp; Smart Devices Like Amazon Fire Stick or AppleTV</span>
+                        <a href="/guide-switching-from-tabs-to-separate-windows-on-google-chrome-for-android-devices/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Guide: Switching From Tabs to Separate Windows on Google Chrome for Android Devices</span>
                         </a>
                     
               
                 
                     
-                        <a href="/the-evolution-of-gaming-mice-how-keychron-q1-he-leads-the-way-with-its-innovative-magnetic-switches/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">The Evolution of Gaming Mice: How Keychron Q1 HE Leads the Way with Its Innovative Magnetic Switches</span>
+                        <a href="/guide-disabling-consent-requests-for-deleting-images-in-google-photos/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Guide: Disabling Consent Requests for Deleting Images in Google Photos</span>
                         </a>
                     
               

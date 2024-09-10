@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -248,7 +305,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"hardware-help.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -591,7 +648,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">12096</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">12144</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -629,74 +686,74 @@
               
                 
                     
-                    <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='08-28'>
+                    <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='09-09'>
                 
                     
-                        <a href="/step-by-step-guide-syncing-text-messages-with-your-gmail-easy-backup-solution/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Step-by-Step Guide: Syncing Text Messages with Your Gmail - Easy Backup Solution</span>
+                        <a href="/1-simplify-mobile-security-integrate-google-smart-lock-into-your-android-devices-home-screen/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">1. Simplify Mobile Security: Integrate Google Smart Lock Into Your Android Device&#39;s Home Screen</span>
                         </a>
                     
               
                 
                     
-                        <a href="/mastering-the-art-of-circle-and-tap-a-step-by-step-guide-to-voice-and-image-search/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Mastering the Art of Circle and Tap: A Step-by-Step Guide to Voice &amp; Image Search</span>
+                        <a href="/1-preserving-conversations-a-guide-to-archiving-voice-messages-on-android-devices/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">1. Preserving Conversations: A Guide to Archiving Voice Messages on Android Devices</span>
                         </a>
                     
               
                 
                     
-                        <a href="/step-by-step-guide-switching-your-androids-primary-web-browser/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Step-by-Step Guide: Switching Your Android&#39;s Primary Web Browser</span>
+                        <a href="/1-managing-screen-time-a-step-by-step-guide-to-setting-daily-app-restrictions-on-your-android-device/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">1. Managing Screen Time: A Step-by-Step Guide to Setting Daily App Restrictions on Your Android Device</span>
                         </a>
                     
               
                 
                     
-                        <a href="/the-ultimate-guide-to-securing-excellent-offers-when-buying-a-brand-new-mobile-device/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">The Ultimate Guide to Securing Excellent Offers When Buying a Brand New Mobile Device</span>
+                        <a href="/guide-discovering-files-saved-through-download-manager-on-android-phones-and-tablets/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Guide: Discovering Files Saved Through Download Manager on Android Phones &amp; Tablets</span>
                         </a>
                     
               
                 
                     
-                        <a href="/debunking-the-top-5-common-misconceptions-about-android/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Debunking the Top 5 Common Misconceptions About Android</span>
+                        <a href="/why-choosing-samsung-dex-over-a-desktop-makes-perfect-sense-uncover-the-top-10-benefits/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Why Choosing Samsung DeX Over a Desktop Makes Perfect Sense: Uncover the Top 10 Benefits!</span>
                         </a>
                     
               
                 
                     
-                        <a href="/preserve-battery-longevity-on-android-with-personalized-recharge-reminders/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Preserve Battery Longevity on Android with Personalized Recharge Reminders</span>
+                        <a href="/why-and-how-to-duplicate-mobile-apps-on-your-android-device-the-complete-walkthrough/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Why and How to Duplicate Mobile Apps on Your Android Device – The Complete Walkthrough</span>
                         </a>
                     
               
                 
                     
-                        <a href="/step-by-step-tutorial-how-to-restore-lost-photographs-on-android-smartphones/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Step-by-Step Tutorial: How to Restore Lost Photographs on Android Smartphones</span>
+                        <a href="/value-comparison-samsung-galaxy-tab-s9-fe-vs-apples-ipad-10gen-who-wins-the-middle-market/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Value Comparison: Samsung Galaxy Tab S9 FE Vs. Apple&#39;s iPad 10Gen - Who Wins the Middle Market?</span>
                         </a>
                     
               
                 
                     
-                        <a href="/understanding-the-absence-of-wps-buttons-on-modern-android-devices-what-you-need-to-know/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Understanding the Absence of WPS Buttons on Modern Android Devices: What You Need to Know</span>
+                        <a href="/usb-c-speed-comparison-how-fast-is-usb-c-gen-31-compared-to-usb-c-gen-20-for-android-devices/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">USB-C Speed Comparison: How Fast Is USB-C Gen 3.1 Compared to USB-C Gen 2.0 for Android Devices?</span>
                         </a>
                     
               
                 
                     
-                        <a href="/essential-android-widgets-every-user-must-have-for-optimal-phone-functionality/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Essential Android Widgets Every User Must Have for Optimal Phone Functionality</span>
+                        <a href="/upcycling-electronics-how-a-discarded-tablet-can-benefit-animal-companions/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Upcycling Electronics: How a Discarded Tablet Can Benefit Animal Companions</span>
                         </a>
                     
               
                 
                     
-                        <a href="/the-end-of-an-era-how-googles-new-ai-revolutionizes-the-role-of-the-original-google-assistant/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">The End of an Era: How Google&#39;s New AI Revolutionizes the Role of the Original &#39;Google Assistant&#39;</span>
+                        <a href="/unveiling-the-worlds-five-most-eyesore-mobile-phones-an-exploration-into-design-failures-throughout-history/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Unveiling the World&#39;s Five Most Eyesore Mobile Phones: An Exploration Into Design Failures Throughout History</span>
                         </a>
                     
               

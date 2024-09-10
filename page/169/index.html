@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"hardware-help.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">12096</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">12144</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">12096</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">12144</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,21 +750,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/1722966679949-steelseries-gaming-mouse-drivers-free-download-now/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/4db798dc8e85e2daadf391573bc5ef81d7d7a8b53e675ec2733be93146fbbb0f.jpg" alt="SteelSeries Gaming Mouse Drivers - Free Download Now" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/download-updated-drivers-for-your-hp-network-device-works-with-win11win7win8-systems/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/c0c3ff7158c5ed074bf14161f2b9dd7e6d6a38364c8a3f7d8b03f364961bda60.jpg" alt="Download Updated Drivers for Your HP Network Device – Works with Win11/Win7/Win8 Systems" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/1722966679949-steelseries-gaming-mouse-drivers-free-download-now/">
-                            SteelSeries Gaming Mouse Drivers - Free Download Now
+                        <a href="/download-updated-drivers-for-your-hp-network-device-works-with-win11win7win8-systems/">
+                            Download Updated Drivers for Your HP Network Device – Works with Win11/Win7/Win8 Systems
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes SteelSeries Gaming Mouse Drivers - Free Download Now</p>
+                            <p>This Article Describes Download Updated Drivers for Your HP Network Device – Works with Win11&#x2F;Win7&#x2F;Win8 Systems</p>
 
                         
                     </div>
@@ -715,9 +772,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 30 2024 15:49:58 GMT+0800">
+            <span class="home-article-date" data-date="Wed Sep 04 2024 02:12:52 GMT+0800">
                 
-                    2024-08-30
+                    2024-09-04
                 
             </span>
         </span>
@@ -763,7 +820,7 @@
         
     </div>
 
-    <a href="/1722966679949-steelseries-gaming-mouse-drivers-free-download-now/">Read more<span class="seo-reader-text">SteelSeries Gaming Mouse Drivers - Free Download Now</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/download-updated-drivers-for-your-hp-network-device-works-with-win11win7win8-systems/">Read more<span class="seo-reader-text">Download Updated Drivers for Your HP Network Device – Works with Win11/Win7/Win8 Systems</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -779,21 +836,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/install-official-xerox-drivers-for-your-windows-pc-free-downloads/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/c4e970c61c745a22a93f179d1f650cdbb34448ec2a9158efa033c2403816542e.jpg" alt="Install Official Xerox Drivers for Your Windows PC – Free Downloads!" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/complete-guide-installing-epson-xp-410-printer-drivers-on-your-pc/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/047a2ad015e13f7c67c91065d1e02decc0d409c4804539d81be6e1c6e540ee06.png" alt="Complete Guide: Installing Epson XP-410 Printer Drivers on Your PC" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/install-official-xerox-drivers-for-your-windows-pc-free-downloads/">
-                            Install Official Xerox Drivers for Your Windows PC – Free Downloads!
+                        <a href="/complete-guide-installing-epson-xp-410-printer-drivers-on-your-pc/">
+                            Complete Guide: Installing Epson XP-410 Printer Drivers on Your PC
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Install Official Xerox Drivers for Your Windows PC – Free Downloads!</p>
+                            <p>This Article Describes Complete Guide: Installing Epson XP-410 Printer Drivers on Your PC</p>
 
                         
                     </div>
@@ -801,9 +858,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 30 2024 15:49:56 GMT+0800">
+            <span class="home-article-date" data-date="Wed Sep 04 2024 02:12:52 GMT+0800">
                 
-                    2024-08-30
+                    2024-09-04
                 
             </span>
         </span>
@@ -849,7 +906,7 @@
         
     </div>
 
-    <a href="/install-official-xerox-drivers-for-your-windows-pc-free-downloads/">Read more<span class="seo-reader-text">Install Official Xerox Drivers for Your Windows PC – Free Downloads!</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/complete-guide-installing-epson-xp-410-printer-drivers-on-your-pc/">Read more<span class="seo-reader-text">Complete Guide: Installing Epson XP-410 Printer Drivers on Your PC</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -865,21 +922,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/comprehensive-instructions-on-refreshing-your-serial-port-adapters-drivers/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/142f97e5dde3eaa8c469e7fcae52ffd9c48a3f3c6447b480a9b0d3148ed090af.jpeg" alt="Comprehensive Instructions on Refreshing Your Serial Port Adapter&#39;s Drivers" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/1722968127738-get-the-latest-canon-pixma-ts3322-printer-driver-download-now/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/4d7617bc6e515df66cf877ac9aa76e35a27d5b140b89f27b65013967fb63481d.jpg" alt="Get the Latest Canon PIXMA TS3322 Printer Driver - Download Now" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/comprehensive-instructions-on-refreshing-your-serial-port-adapters-drivers/">
-                            Comprehensive Instructions on Refreshing Your Serial Port Adapter&#39;s Drivers
+                        <a href="/1722968127738-get-the-latest-canon-pixma-ts3322-printer-driver-download-now/">
+                            Get the Latest Canon PIXMA TS3322 Printer Driver - Download Now
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Comprehensive Instructions on Refreshing Your Serial Port Adapter’s Drivers</p>
+                            <p>This Article Describes Get the Latest Canon PIXMA TS3322 Printer Driver - Download Now</p>
 
                         
                     </div>
@@ -887,9 +944,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 30 2024 15:49:55 GMT+0800">
+            <span class="home-article-date" data-date="Wed Sep 04 2024 02:12:52 GMT+0800">
                 
-                    2024-08-30
+                    2024-09-04
                 
             </span>
         </span>
@@ -935,7 +992,7 @@
         
     </div>
 
-    <a href="/comprehensive-instructions-on-refreshing-your-serial-port-adapters-drivers/">Read more<span class="seo-reader-text">Comprehensive Instructions on Refreshing Your Serial Port Adapter&#39;s Drivers</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/1722968127738-get-the-latest-canon-pixma-ts3322-printer-driver-download-now/">Read more<span class="seo-reader-text">Get the Latest Canon PIXMA TS3322 Printer Driver - Download Now</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -951,21 +1008,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/1722971657700-get-your-intel-centrino-advanced-n-6205-wifi-drivers-here-fast-and-easy-downloads/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/2fbc3e6f44db715797c33edc684fdec869f92d47c4dc2f3157ebd6066028a057.png" alt="Get Your Intel Centrino Advanced-N 6205 WiFi Drivers Here - Fast &amp; Easy Downloads" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/get-instant-access-to-updated-samsung-m2070fw-drivers-fast-and-simple-download/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/cb9e2ddf28e5428496f53b353379d173f81be07c333aa30876bace061b3bea41.jpg" alt="Get Instant Access to Updated Samsung M2070FW Drivers - Fast &amp; Simple Download" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/1722971657700-get-your-intel-centrino-advanced-n-6205-wifi-drivers-here-fast-and-easy-downloads/">
-                            Get Your Intel Centrino Advanced-N 6205 WiFi Drivers Here - Fast &amp; Easy Downloads
+                        <a href="/get-instant-access-to-updated-samsung-m2070fw-drivers-fast-and-simple-download/">
+                            Get Instant Access to Updated Samsung M2070FW Drivers - Fast &amp; Simple Download
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Get Your Intel Centrino Advanced-N 6205 WiFi Drivers Here - Fast &amp; Easy Downloads</p>
+                            <p>This Article Describes Get Instant Access to Updated Samsung M2070FW Drivers - Fast &amp; Simple Download</p>
 
                         
                     </div>
@@ -973,9 +1030,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 30 2024 15:49:53 GMT+0800">
+            <span class="home-article-date" data-date="Wed Sep 04 2024 02:12:52 GMT+0800">
                 
-                    2024-08-30
+                    2024-09-04
                 
             </span>
         </span>
@@ -1021,7 +1078,7 @@
         
     </div>
 
-    <a href="/1722971657700-get-your-intel-centrino-advanced-n-6205-wifi-drivers-here-fast-and-easy-downloads/">Read more<span class="seo-reader-text">Get Your Intel Centrino Advanced-N 6205 WiFi Drivers Here - Fast &amp; Easy Downloads</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/get-instant-access-to-updated-samsung-m2070fw-drivers-fast-and-simple-download/">Read more<span class="seo-reader-text">Get Instant Access to Updated Samsung M2070FW Drivers - Fast &amp; Simple Download</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1037,21 +1094,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/essential-nvidia-quadro-rtx-8000-graphics-card-drivers-free-download-guide-for-windows-users/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/e85743b34dfe1708fd7baeaabbf4be530a9d0acc972c34955c94cad23467f1e0.jpg" alt="Essential NVIDIA Quadro RTX 8000 Graphics Card Drivers: Free Download Guide for Windows Users" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/1722968390836-quick-fix-for-your-printers-download-the-compatible-zebra-gk4n0d-pcb-drivers-now/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/e82cf746d7129d54494e27c7a2ced91643ff65f2f3b23f8677650a8fb00dc7f5.png" alt="Quick-Fix for Your Printers: Download the Compatible Zebra GK4n0D PCB Drivers Now" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/essential-nvidia-quadro-rtx-8000-graphics-card-drivers-free-download-guide-for-windows-users/">
-                            Essential NVIDIA Quadro RTX 8000 Graphics Card Drivers: Free Download Guide for Windows Users
+                        <a href="/1722968390836-quick-fix-for-your-printers-download-the-compatible-zebra-gk4n0d-pcb-drivers-now/">
+                            Quick-Fix for Your Printers: Download the Compatible Zebra GK4n0D PCB Drivers Now
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Essential NVIDIA Quadro RTX 8000 Graphics Card Drivers: Free Download Guide for Windows Users</p>
+                            <p>This Article Describes Quick-Fix for Your Printers: Download the Compatible Zebra GK4n0D PCB Drivers Now</p>
 
                         
                     </div>
@@ -1059,9 +1116,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 30 2024 15:49:52 GMT+0800">
+            <span class="home-article-date" data-date="Wed Sep 04 2024 02:12:52 GMT+0800">
                 
-                    2024-08-30
+                    2024-09-04
                 
             </span>
         </span>
@@ -1107,7 +1164,7 @@
         
     </div>
 
-    <a href="/essential-nvidia-quadro-rtx-8000-graphics-card-drivers-free-download-guide-for-windows-users/">Read more<span class="seo-reader-text">Essential NVIDIA Quadro RTX 8000 Graphics Card Drivers: Free Download Guide for Windows Users</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/1722968390836-quick-fix-for-your-printers-download-the-compatible-zebra-gk4n0d-pcb-drivers-now/">Read more<span class="seo-reader-text">Quick-Fix for Your Printers: Download the Compatible Zebra GK4n0D PCB Drivers Now</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1123,21 +1180,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/download-and-update-guide-latest-dell-thunderbolt-dock-tb16-drivers/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/6d193ed35f1214a7fd553c445c38b6b7633741c0bda3a9fe486dfd62eae70d54.jpg" alt="Download and Update Guide: Latest Dell Thunderbolt Dock (TB16) Drivers" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/enhance-your-listening-professional-steps-to-update-audio-technicas-driver-software/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/cb7e01d77e11396989975642eff6b3a0f5621896796311364cd34b031c122e69.jpg" alt="Enhance Your Listening: Professional Steps to Update Audio Technica&#39;s Driver Software" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/download-and-update-guide-latest-dell-thunderbolt-dock-tb16-drivers/">
-                            Download and Update Guide: Latest Dell Thunderbolt Dock (TB16) Drivers
+                        <a href="/enhance-your-listening-professional-steps-to-update-audio-technicas-driver-software/">
+                            Enhance Your Listening: Professional Steps to Update Audio Technica&#39;s Driver Software
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Download and Update Guide: Latest Dell Thunderbolt Dock (TB16) Drivers</p>
+                            <p>This Article Describes Enhance Your Listening: Professional Steps to Update Audio Technica’s Driver Software</p>
 
                         
                     </div>
@@ -1145,9 +1202,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 30 2024 15:49:50 GMT+0800">
+            <span class="home-article-date" data-date="Wed Sep 04 2024 02:12:52 GMT+0800">
                 
-                    2024-08-30
+                    2024-09-04
                 
             </span>
         </span>
@@ -1193,7 +1250,7 @@
         
     </div>
 
-    <a href="/download-and-update-guide-latest-dell-thunderbolt-dock-tb16-drivers/">Read more<span class="seo-reader-text">Download and Update Guide: Latest Dell Thunderbolt Dock (TB16) Drivers</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/enhance-your-listening-professional-steps-to-update-audio-technicas-driver-software/">Read more<span class="seo-reader-text">Enhance Your Listening: Professional Steps to Update Audio Technica&#39;s Driver Software</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1209,21 +1266,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/install-new-intel-wireless-ac-nacuate-driver-enhance-your-devices-wi-fi-capabilities-today/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/605743c45d46920946cf620896ea214cdef6126e457144d63179eeaf5994b016.jpg" alt="Install New Intel Wireless AC nAcuate Driver: Enhance Your Device&#39;s Wi-Fi Capabilities Today!" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/1722967220265-amd-graphics-card-users-download-and-install-the-official-rx-590-drivers-now/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/0994f11e3b98aa050445b83a923c27f3f286a1f5302c7ff78d5008912b4d02f9.jpg" alt="AMD Graphics Card Users! Download &amp; Install the Official RX 590 Drivers Now" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/install-new-intel-wireless-ac-nacuate-driver-enhance-your-devices-wi-fi-capabilities-today/">
-                            Install New Intel Wireless AC nAcuate Driver: Enhance Your Device&#39;s Wi-Fi Capabilities Today!
+                        <a href="/1722967220265-amd-graphics-card-users-download-and-install-the-official-rx-590-drivers-now/">
+                            AMD Graphics Card Users! Download &amp; Install the Official RX 590 Drivers Now
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Install New Intel Wireless AC nAcuate Driver: Enhance Your Device’s Wi-Fi Capabilities Today!</p>
+                            <p>This Article Describes AMD Graphics Card Users! Download &amp; Install the Official RX 590 Drivers Now</p>
 
                         
                     </div>
@@ -1231,9 +1288,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 30 2024 15:49:49 GMT+0800">
+            <span class="home-article-date" data-date="Wed Sep 04 2024 02:12:52 GMT+0800">
                 
-                    2024-08-30
+                    2024-09-04
                 
             </span>
         </span>
@@ -1279,7 +1336,7 @@
         
     </div>
 
-    <a href="/install-new-intel-wireless-ac-nacuate-driver-enhance-your-devices-wi-fi-capabilities-today/">Read more<span class="seo-reader-text">Install New Intel Wireless AC nAcuate Driver: Enhance Your Device&#39;s Wi-Fi Capabilities Today!</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/1722967220265-amd-graphics-card-users-download-and-install-the-official-rx-590-drivers-now/">Read more<span class="seo-reader-text">AMD Graphics Card Users! Download &amp; Install the Official RX 590 Drivers Now</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1295,21 +1352,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/immediate-access-free-download-of-hp-deskjet-2755e-drivers-optimized-for-windows-systems/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/d777118ee07b1ed845aaf5d08e4c5e0d9e2577a0d16959440201a2f851a46ee8.jpg" alt="[Immediate Access] Free Download of HP DeskJet 2755E Drivers: Optimized for Windows Systems" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/download-the-latest-free-realtek-fe-series-controller-software-for-win10-users/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/de1e2dcf5aeceec6efa479819bb7032cddf48c94924e3a65a00624e5b7030be4.jpg" alt="Download the Latest Free Realtek FE Series Controller Software for Win10 Users" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/immediate-access-free-download-of-hp-deskjet-2755e-drivers-optimized-for-windows-systems/">
-                            [Immediate Access] Free Download of HP DeskJet 2755E Drivers: Optimized for Windows Systems
+                        <a href="/download-the-latest-free-realtek-fe-series-controller-software-for-win10-users/">
+                            Download the Latest Free Realtek FE Series Controller Software for Win10 Users
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes [Immediate Access] Free Download of HP DeskJet 2755E Drivers: Optimized for Windows Systems</p>
+                            <p>This Article Describes Download the Latest Free Realtek FE Series Controller Software for Win10 Users</p>
 
                         
                     </div>
@@ -1317,9 +1374,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 30 2024 15:49:48 GMT+0800">
+            <span class="home-article-date" data-date="Wed Sep 04 2024 02:12:52 GMT+0800">
                 
-                    2024-08-30
+                    2024-09-04
                 
             </span>
         </span>
@@ -1365,7 +1422,7 @@
         
     </div>
 
-    <a href="/immediate-access-free-download-of-hp-deskjet-2755e-drivers-optimized-for-windows-systems/">Read more<span class="seo-reader-text">[Immediate Access] Free Download of HP DeskJet 2755E Drivers: Optimized for Windows Systems</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/download-the-latest-free-realtek-fe-series-controller-software-for-win10-users/">Read more<span class="seo-reader-text">Download the Latest Free Realtek FE Series Controller Software for Win10 Users</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1381,21 +1438,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/ultrasound-examinations/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/f353031385ec13b27002aeb25b2433c7b7f2839e202aee43a31b71787185171a.jpg" alt="Ultrasound Examinations" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/find-and-download-the-right-logitech-brio-webcam-drivers-for-windows-10-8-or-7/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/849f56ab1426764bff20d4db63fa0a5cb770114051bf7d548d3853a87e8edbdb.jpg" alt="Find and Download the Right Logitech Brio Webcam Drivers for Windows (10, 8, or 7)" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/ultrasound-examinations/">
-                            Ultrasound Examinations
+                        <a href="/find-and-download-the-right-logitech-brio-webcam-drivers-for-windows-10-8-or-7/">
+                            Find and Download the Right Logitech Brio Webcam Drivers for Windows (10, 8, or 7)
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Ultrasound Examinations</p>
+                            <p>This Article Describes Find and Download the Right Logitech Brio Webcam Drivers for Windows (10, 8, or 7)</p>
 
                         
                     </div>
@@ -1403,9 +1460,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 30 2024 15:49:46 GMT+0800">
+            <span class="home-article-date" data-date="Wed Sep 04 2024 02:12:52 GMT+0800">
                 
-                    2024-08-30
+                    2024-09-04
                 
             </span>
         </span>
@@ -1451,7 +1508,7 @@
         
     </div>
 
-    <a href="/ultrasound-examinations/">Read more<span class="seo-reader-text">Ultrasound Examinations</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/find-and-download-the-right-logitech-brio-webcam-drivers-for-windows-10-8-or-7/">Read more<span class="seo-reader-text">Find and Download the Right Logitech Brio Webcam Drivers for Windows (10, 8, or 7)</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1467,21 +1524,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/get-your-hp-printer-running-smoothly-download-official-drivers-now/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/a9744aafdac80a7e4f169749236f6a9a3444533f48662a5ae5f051ec41bdae27.jpg" alt="Get Your HP Printer Running Smoothly - Download Official Drivers Now" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/top-tips-to-maximize-performance-of-seagate-backup-plus-hard-drive-insights/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/1eb9ced51df0b5377c33b33676973c39490da0549a761ceba775a1dae7d61065.jpg" alt="Top Tips to Maximize Performance of Seagate Backup Plus Hard Drive - Insights" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/get-your-hp-printer-running-smoothly-download-official-drivers-now/">
-                            Get Your HP Printer Running Smoothly - Download Official Drivers Now
+                        <a href="/top-tips-to-maximize-performance-of-seagate-backup-plus-hard-drive-insights/">
+                            Top Tips to Maximize Performance of Seagate Backup Plus Hard Drive - Insights
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Get Your HP Printer Running Smoothly - Download Official Drivers Now</p>
+                            <p>This Article Describes Top Tips to Maximize Performance of Seagate Backup Plus Hard Drive - Insights</p>
 
                         
                     </div>
@@ -1489,9 +1546,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 30 2024 15:49:45 GMT+0800">
+            <span class="home-article-date" data-date="Wed Sep 04 2024 02:12:52 GMT+0800">
                 
-                    2024-08-30
+                    2024-09-04
                 
             </span>
         </span>
@@ -1537,7 +1594,7 @@
         
     </div>
 
-    <a href="/get-your-hp-printer-running-smoothly-download-official-drivers-now/">Read more<span class="seo-reader-text">Get Your HP Printer Running Smoothly - Download Official Drivers Now</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/top-tips-to-maximize-performance-of-seagate-backup-plus-hard-drive-insights/">Read more<span class="seo-reader-text">Top Tips to Maximize Performance of Seagate Backup Plus Hard Drive - Insights</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1547,7 +1604,7 @@
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/168/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/167/">167</a><a class="page-number" href="/page/168/">168</a><span class="page-number current">169</span><a class="page-number" href="/page/170/">170</a><a class="page-number" href="/page/171/">171</a><span class="space">&hellip;</span><a class="page-number" href="/page/1210/">1210</a><a class="extend next" rel="next" href="/page/170/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/168/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/167/">167</a><a class="page-number" href="/page/168/">168</a><span class="page-number current">169</span><a class="page-number" href="/page/170/">170</a><a class="page-number" href="/page/171/">171</a><span class="space">&hellip;</span><a class="page-number" href="/page/1215/">1215</a><a class="extend next" rel="next" href="/page/170/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>

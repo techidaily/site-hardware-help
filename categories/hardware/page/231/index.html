@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -248,7 +305,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"hardware-help.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -591,7 +648,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">12096</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">12144</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -632,71 +689,71 @@
                     <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='08-19'>
                 
                     
-                        <a href="/top-raspberry-pi-hat-selection-of-2e-the-ultimate-guide-to-picking-the-right-add-on-board/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Top Raspberry Pi HAT Selection of 2E - The Ultimate Guide to Picking the Right Add-On Board</span>
+                        <a href="/how-to-create-an-affordable-tribute-emulating-a-vintage-7-macintosh-128k-on-the-miniature-raspberry-pi-pico-board/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">How to Create an Affordable Tribute: Emulating a Vintage $7 Macintosh 128K on the Miniature Raspberry Pi Pico Board</span>
                         </a>
                     
               
                 
                     
-                        <a href="/top-accessories-for-enhancing-your-raspberry-pi-pico/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Top Accessories for Enhancing Your Raspberry Pi Pico</span>
+                        <a href="/high-performance-raspberry-pi-expansion-card-for-m2-drive-cost-efficient-reviewed/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">High-Performance Raspberry Pi Expansion Card for M.2 Drive - Cost-Efficient Reviewed</span>
                         </a>
                     
               
                 
                     
-                        <a href="/toms-tech-insights-expert-gadget-reviews/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Tom&#39;s Tech Insights: Expert Gadget Reviews</span>
+                        <a href="/enable-voice-integration-in-your-raspberry-pi-initiatives-through-textymcspeechy-software/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Enable Voice Integration in Your Raspberry Pi Initiatives Through TextyMcSpeechy Software</span>
                         </a>
                     
               
                 
                     
-                        <a href="/toms-tech-insights-a-comprehensive-guide-by-toms-hardware/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Tom&#39;s Tech Insights: A Comprehensive Guide by Tom’s Hardware</span>
+                        <a href="/unleash-unparalleled-potential-in-your-circuits-with-breadboardos-the-ultimate-choice-for-raspberry-pi-pico-enthusiasts/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Unleash Unparalleled Potential in Your Circuits with BreadboardOS - The Ultimate Choice for Raspberry Pi Pico Enthusiasts</span>
                         </a>
                     
               
                 
                     
-                        <a href="/innovative-cyberdore-2064-experience-next-gen-tech-with-enhanced-scroll-wheel-and-raspberry-pi-zero-integration/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Innovative Cyberdore 2064: Experience Next-Gen Tech with Enhanced Scroll Wheel &amp; Raspberry Pi Zero Integration</span>
+                        <a href="/understanding-negatives-a-step-by-step-guide-with-raspberry-pi-zero-and-monitor-combo/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Understanding Negatives: A Step-by-Step Guide with Raspberry Pi Zero &amp; Monitor Combo</span>
                         </a>
                     
               
                 
                     
-                        <a href="/fast-and-pricey-how-the-lattepanda-outpaces-raspberry-pis-performance-while-carrying-a-heavier-tag/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Fast &amp; Pricey: How the LattePanda Outpaces Raspberry Pi&#39;s Performance While Carrying a Heavier Tag</span>
+                        <a href="/top-rated-raspberry-pi-protection-enclosures-the-ultimate-guide/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Top-Rated Raspberry Pi Protection Enclosures: The Ultimate Guide</span>
                         </a>
                     
               
                 
                     
-                        <a href="/discover-toms-gadget-guide-a-deep-dive-into-advanced-technology-products/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Discover Tom&#39;s Gadget Guide: A Deep Dive Into Advanced Technology Products</span>
+                        <a href="/toms-tech-reviews-comprehensive-guides-on-hardware-t17239718757212/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Tom&#39;s Tech Reviews: Comprehensive Guides on Hardware</span>
                         </a>
                     
               
                 
                     
-                        <a href="/1723964507915-2024s-premier-selection-of-raspberry-pi-housing-solutions-find-your-perfect-fit-today/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">2024&#39;S Premier Selection of Raspberry Pi Housing Solutions - Find Your Perfect Fit Today</span>
+                        <a href="/toms-tech-review-in-depth-analysis-of-latest-hardware-t17239718757233/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Tom&#39;s Tech Review: In-Depth Analysis of Latest Hardware</span>
                         </a>
                     
               
                 
                     
-                        <a href="/toms-tech-insights-advanced-guides-and-reviews/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Tom&#39;s Tech Insights: Advanced Guides &amp; Reviews</span>
+                        <a href="/toms-tech-review-comprehensive-guide-to-the-latest-hardware/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Tom&#39;s Tech Review: Comprehensive Guide to the Latest Hardware</span>
                         </a>
                     
               
                 
                     
-                        <a href="/toms-tech-gear-your-guide-to-the-latest-in-computer-components/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Tom&#39;s Tech Gear: Your Guide to the Latest in Computer Components</span>
+                        <a href="/toms-tech-insights-your-guide-to-the-latest-in-computing-and-hardware/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Tom&#39;s Tech Insights: Your Guide to the Latest in Computing and Hardware</span>
                         </a>
                     
               
@@ -709,7 +766,7 @@
 </div>
 <div class="category-paginator">
     <div class="paginator">
-    <a class="extend prev" rel="prev" href="/categories/hardware/page/230/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/categories/hardware/">1</a><span class="space">&hellip;</span><a class="page-number" href="/categories/hardware/page/229/">229</a><a class="page-number" href="/categories/hardware/page/230/">230</a><span class="page-number current">231</span><a class="page-number" href="/categories/hardware/page/232/">232</a><a class="page-number" href="/categories/hardware/page/233/">233</a><span class="space">&hellip;</span><a class="page-number" href="/categories/hardware/page/258/">258</a><a class="extend next" rel="next" href="/categories/hardware/page/232/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/categories/hardware/page/230/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/categories/hardware/">1</a><span class="space">&hellip;</span><a class="page-number" href="/categories/hardware/page/229/">229</a><a class="page-number" href="/categories/hardware/page/230/">230</a><span class="page-number current">231</span><a class="page-number" href="/categories/hardware/page/232/">232</a><a class="page-number" href="/categories/hardware/page/233/">233</a><span class="space">&hellip;</span><a class="page-number" href="/categories/hardware/page/259/">259</a><a class="extend next" rel="next" href="/categories/hardware/page/232/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
 </div>

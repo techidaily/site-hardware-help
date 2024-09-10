@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -248,7 +305,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"hardware-help.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -591,7 +648,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">12096</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">12144</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -632,71 +689,71 @@
                     <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='08-19'>
                 
                     
-                        <a href="/experience-unparalleled-performance-the-latest-msi-spatium-m580-frozr-arrives-a-cutting-edge-pcie-50-ssd-boasting-remarkable-speeds-of-up-to-146gbs-read-and1/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Experience Unparalleled Performance - The Latest MSI Spatium M580 Frozr Arrives: A Cutting-Edge PCIe 5.0 SSD Boasting Remarkable Speeds of Up to 14.6GB/S Read &amp; 12.7GB/S Write</span>
+                        <a href="/toms-tech-insights-the-ultimate-guide-to-computer-components-and-gadgets/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Tom&#39;s Tech Insights: The Ultimate Guide to Computer Components and Gadgets</span>
                         </a>
                     
               
                 
                     
-                        <a href="/experience-top-notch-performance-samsungs-990-evo-2tb-ssd-at-just-129-unbeatable-discounted-price/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Experience Top-Notch Performance: Samsung&#39;s 990 EVO 2TB SSD at Just $129 - Unbeatable Discounted Price</span>
+                        <a href="/toms-computer-insights-comprehensive-guides-on-modern-electronics/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Tom&#39;s Computer Insights: Comprehensive Guides on Modern Electronics</span>
                         </a>
                     
               
                 
                     
-                        <a href="/discover-unmatched-storage-and-speed-nextorage-releases-ultimate-8tb-ssd-at-just-849-for-gaming-enthusiasts/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Discover Unmatched Storage and Speed: Nextorage Releases Ultimate 8TB SSD at Just $849 for Gaming Enthusiasts!</span>
+                        <a href="/the-ultimate-guide-to-consumer-electronics-by-toms-hardware-specialists/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">The Ultimate Guide to Consumer Electronics by Tom&#39;s Hardware Specialists</span>
                         </a>
                     
               
                 
                     
-                        <a href="/comprehensive-testing-of-the-updated-corsair-mp700-pro-se-solid-state-drive/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Comprehensive Testing of the Updated Corsair MP700 Pro SE Solid State Drive</span>
+                        <a href="/take-your-mobile-games-to-the-next-level-with-nextorages-new-pcie-40-ssd-2230-form-factor-at-7400-mbs/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Take Your Mobile Games to the Next Level With Nextorage&#39;s New PCIe 4.0 SSD - 2230 Form Factor at 7,400 MB/S</span>
                         </a>
                     
               
                 
                     
-                        <a href="/comprehensive-pny-rp6-usb-c-ssd-assessment-adequate-performance-with-room-for-improvement/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Comprehensive PNY RP6# USB-C SSD Assessment - Adequate Performance with Room for Improvement</span>
+                        <a href="/navigating-the-world-of-computing-with-tom-a-hardware-guide/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Navigating the World of Computing with Tom - A Hardware Guide</span>
                         </a>
                     
               
                 
                     
-                        <a href="/comprehensive-evaluation-of-the-patriot-viper-vp4300-lite-ssd-with-4tb-capacity/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Comprehensive Evaluation of the Patriot Viper VP4300 Lite SSD with 4TB Capacity</span>
+                        <a href="/introducing-sabrents-groundbreaking-single-sided-rocket-nvme-gen5-4tb-and-8tb-the-latest-dram-free-ssd-innovation-for-laptops-gaming-pcs-and-next-gen-consol4/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Introducing Sabrent&#39;s Groundbreaking Single-Sided Rocket NVMe Gen5 4TB &amp; 8TB: The Latest DRAM-Free SSD Innovation for Laptops, Gaming PCs, and Next-Gen Consoles</span>
                         </a>
                     
               
                 
                     
-                        <a href="/comprehensive-analysis-and-evaluation-of-wd-sn740-oem-class-m2-2280-nvme-ssd-now-with-a-capacity-upgrade-to-2tb/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Comprehensive Analysis &amp; Evaluation of WD SN740 OEM-Class M.2 2280 NVMe SSD, Now with a Capacity Upgrade to 2TB</span>
+                        <a href="/in-depth-analysis-of-the-pny-cs3150-the-1tb-rgb-led-enhanced-ssd-with-advanced-cooling-system/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">In-Depth Analysis of the PNY CS3150 - The 1TB RGB LED Enhanced SSD with Advanced Cooling System</span>
                         </a>
                     
               
                 
                     
-                        <a href="/best-price-premium-4tb-samsung-980-pro-nvme-m2-ssd-at-just-007gb-top-rated-for-pcie-gen4/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Best Price: Premium 4TB Samsung 980 PRO NVMe M.2 SSD at Just $0.07/GB - Top-Rated for PCIe Gen4</span>
+                        <a href="/go-the-extra-mile-kioxia-unveils-light-speed-communicating-ssd-capable-of-surpassing-40-metre-distance-limits/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Go the Extra Mile: Kioxia Unveils Light-Speed Communicating SSD Capable of Surpassing 40 Metre Distance Limits</span>
                         </a>
                     
               
                 
                     
-                        <a href="/0-ssd-controller-launched-at-fms-2024/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">0 SSD Controller Launched at FMS 2024</span>
+                        <a href="/exploring-the-world-of-pc-components-with-tom-in-depth-hardware-insights/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Exploring the World of PC Components with Tom - In-Depth Hardware Insights</span>
                         </a>
                     
               
                 
                     
-                        <a href="/0-ssd-controller-at-fms-2024-showcase/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">0 SSD Controller at FMS 2024 Showcase</span>
+                        <a href="/exploring-the-latest-in-technology-with-toms-hardware-guides/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Exploring the Latest in Technology with Tom&#39;s Hardware Guides</span>
                         </a>
                     
               
@@ -709,7 +766,7 @@
 </div>
 <div class="category-paginator">
     <div class="paginator">
-    <a class="extend prev" rel="prev" href="/categories/hardware/page/189/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/categories/hardware/">1</a><span class="space">&hellip;</span><a class="page-number" href="/categories/hardware/page/188/">188</a><a class="page-number" href="/categories/hardware/page/189/">189</a><span class="page-number current">190</span><a class="page-number" href="/categories/hardware/page/191/">191</a><a class="page-number" href="/categories/hardware/page/192/">192</a><span class="space">&hellip;</span><a class="page-number" href="/categories/hardware/page/258/">258</a><a class="extend next" rel="next" href="/categories/hardware/page/191/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/categories/hardware/page/189/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/categories/hardware/">1</a><span class="space">&hellip;</span><a class="page-number" href="/categories/hardware/page/188/">188</a><a class="page-number" href="/categories/hardware/page/189/">189</a><span class="page-number current">190</span><a class="page-number" href="/categories/hardware/page/191/">191</a><a class="page-number" href="/categories/hardware/page/192/">192</a><span class="space">&hellip;</span><a class="page-number" href="/categories/hardware/page/259/">259</a><a class="extend next" rel="next" href="/categories/hardware/page/191/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
 </div>
