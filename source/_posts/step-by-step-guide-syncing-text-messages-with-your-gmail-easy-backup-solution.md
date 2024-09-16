@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Syncing Text Messages with Your Gmail - Easy Backup Solution"
-date: 2024-08-28 17:14:38
-updated: 2024-08-29 11:53:29
+date: 2024-09-11T23:00:31.198Z
+updated: 2024-09-16T00:00:53.075Z
 tags:
   - android
 categories:
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/fba56e471126861872d44702a4719c3712dd082c4
 
 ## ![Click "Enable IMAP."](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2012/05/649x158x2012-05-01_145126.jpg.pagespeed.gp+jp+jw+pj+js+rj+rp+rw+ri+cp+md.ic.5R2u2ddr9D.jpg "2012-05-01_145126") 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  SMS Backup+ requires IMAP access to your Gmail account to function. Let's take a moment and hop over to the Gmail account we're planning on using with the application and check the status.
 
  Log in to your Gmail account and navigate to Settings > [Forwarding and POP/IMAP](https://mail.google.com/mail/u/0/#settings/fwdandpop). Check "Enable IMAP." Scroll down and click "Save Changes."
@@ -74,6 +81,19 @@ thumbnail: https://thmb.techidaily.com/fba56e471126861872d44702a4719c3712dd082c4
 
 ![Click "Advanced Settings."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/09/click-Advanced-Settings.png) 
 
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Next, tap "Custom IMAP Server."
 
 ![Tap "Custom IMAP Server."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/09/click-Custom-IMAP-Server.png) 
@@ -82,9 +102,29 @@ thumbnail: https://thmb.techidaily.com/fba56e471126861872d44702a4719c3712dd082c4
 
 ![Select "Plain Text."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/09/select-Plain-text.png) 
 
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Tap "Server Address," set the IMAP server address to "imap.gmail.com:933" and click "OK."
 
 ![Type the server address into the text field, then click "OK."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/09/set-the-server-address-then-tap-OK.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then go through the rest of the options --- enter your email, the password you just generated, and make sure the "Security" is set to TLS. You don't have to tick "Trust All Certificates," so leave it unticked.
 
@@ -95,6 +135,13 @@ thumbnail: https://thmb.techidaily.com/fba56e471126861872d44702a4719c3712dd082c4
  The backup process will start, and depending on how many messages you have, will take anywhere from a minute to a half hour (or longer!) to complete. It chugs along at a few messages per second.
 
 ![SMS Syncing to Gmail.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/09/syncing-sms.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You don't even have to wait until the process is finished to jump over to the Gmail account and check the progress. Log in to your Gmail account from a web browser. You'll see a new label in the sidebar: "SMS". Click on it.
 
@@ -132,11 +179,29 @@ thumbnail: https://thmb.techidaily.com/fba56e471126861872d44702a4719c3712dd082c4
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-vintage-visionary-old-iphone-xx-portraiture/"><u>[New] 2024 Approved Vintage Visionary Old iPhone Xx Portraiture</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-the-social-narrative-this-years-twittale-highlights/"><u>[Updated] 2024 Approved The Social Narrative This Year's TwitTale Highlights</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-end-screen-essentials-for-social-media-success-on-youtube/"><u>[Updated] In 2024, End-Screen Essentials for Social Media Success on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-top-7-video-streaming-innovations-excel-on-youtube-with-iphonesandroid-os/"><u>[Updated] Top 7 Video Streaming Innovations Excel on YouTube with iPhones/Android OS</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-ultimate-costless-live-camera-capturer-for-2024/"><u>[Updated] Ultimate Costless Live Camera Capturer for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-rapid-revamp-top-8-video-speed-enhancers-for-android/"><u>2024 Approved Rapid Revamp Top 8 Video Speed Enhancers for Android</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-installation-updated-amd-vega-drivers-tailored-for-enhanced-gaming-performance/"><u>Easy Installation: Updated AMD Vega Drivers Tailored for Enhanced Gaming Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/guide-to-fixing-realtek-wireless-network-driver-problems-in-windows-11107/"><u>Guide to Fixing Realtek Wireless Network Driver Problems in Windows 11/10/7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-officejet-5740-drivers-fast-download-and-installation-guide/"><u>HP OfficeJet 5740 Drivers: Fast Download and Installation Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/postnatal-care-often-involves-a-team-of-specialists-due-to-the-complexity-and-variety-of-potential-sequelae-from-congenital-infections/"><u>Postnatal Care Often Involves a Team of Specialists Due to the Complexity and Variety of Potential Sequelae From Congenital Infections.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-asus-touchpad-compatibility-on-windows-11-download-the-newest-drivers-here/"><u>Seamless ASUS Touchpad Compatibility on Windows 11 - Download the Newest Drivers Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-downloading-and-installing-acer-aspire-device-drivers-on-windows/"><u>Step-by-Step Guide: Downloading and Installing Acer Aspire Device Drivers on Windows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-path-of-peacefulness-how-to-gently-dim-music-tracks-for-2024/"><u>The Path of Peacefulness How To Gently Dim Music Tracks for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-computer-gear-with-tom-comprehensive-hardware-insights/"><u>Unveiling Computer Gear with Tom: Comprehensive Hardware Insights</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-secrets-behind-gpt-4-alls-operating-system/"><u>Unveiling The Secrets Behind GPT-4 All's Operating System</u></a></li>
+</ul></div>
+

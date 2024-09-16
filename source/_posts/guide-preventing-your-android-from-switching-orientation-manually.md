@@ -1,7 +1,7 @@
 ---
 title: "Guide: Preventing Your Android From Switching Orientation Manually"
-date: 2024-08-28 15:23:47
-updated: 2024-08-29 10:35:26
+date: 2024-09-09T18:52:58.724Z
+updated: 2024-09-15T18:48:37.655Z
 tags:
   - android
 categories:
@@ -41,9 +41,23 @@ thumbnail: https://thmb.techidaily.com/0060c15904d9e0bf84f2ef3cdb5bee4a455f24656
 
 ![Swipe down twice from the top of the screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2014/11/2023-02-28_15-56-19.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Next, locate the "Auto-Rotate" tile and tap it. You may need to swipe horizontally through the tiles to find it.
 
 ![Tap the "Auto-Rotate" tile.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2014/11/2023-02-28_16-02-03.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When "Auto-Rotate" is "Off," the display is locked in portrait mode. When "Auto-Rotate" is "On," it can switch between portrait and landscape. Simply tap the tile to toggle between the two.
 
@@ -61,6 +75,13 @@ thumbnail: https://thmb.techidaily.com/0060c15904d9e0bf84f2ef3cdb5bee4a455f24656
 
 ![Auto rotate modes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2014/11/2023-02-28_16-13-04.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  That's all there is to it! Tap the button again to unlock the rotation.
 
 ---
@@ -73,11 +94,23 @@ thumbnail: https://thmb.techidaily.com/0060c15904d9e0bf84f2ef3cdb5bee4a455f24656
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-help.techidaily.com/decoding-tech-trends-a-look-into-toms-gadget-analysis/"><u>Decoding Tech Trends: A Look Into Tom's Gadget Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-fixes-for-your-elgato-hd60-driver-troubles-step-by-step-solutions/"><u>Easy Fixes for Your Elgato HD60 Driver Troubles - Step-by-Step Solutions</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-y17s-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Vivo Y17s to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/innovative-approaches-for-effective-use-of-streamlabs-obs-for-2024/"><u>Innovative Approaches for Effective Use of Streamlabs OBS for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-computer-components-a-deep-dive-by-toms-electronics-guru/"><u>Mastering Computer Components - A Deep Dive by Tom's Electronics Guru</u></a></li>
+<li><a href="https://games-able.techidaily.com/pre-purchase-pc-ensemble-keeping-components-in-sync/"><u>Pre-Purchase PC Ensemble - Keeping Components in Sync</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-tutorial-get-your-canon-ip110-running-on-windows-111087-with-latest-drivers/"><u>Step-by-Step Tutorial: Get Your Canon iP110 Running on Windows 11/10/8/7 with Latest Drivers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tips-and-tricks-for-windows-hdr-video-workflows-for-2024/"><u>Tips and Tricks for Windows HDR Video Workflows for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/unveil-the-leading-10-hidden-story-viewers-for-2024/"><u>Unveil the Leading 10 Hidden Story Viewers for 2024</u></a></li>
+</ul></div>
+

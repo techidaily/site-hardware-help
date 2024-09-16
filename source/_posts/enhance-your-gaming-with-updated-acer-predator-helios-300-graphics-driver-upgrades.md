@@ -1,7 +1,7 @@
 ---
 title: Enhance Your Gaming with Updated Acer Predator Helios 300 Graphics Driver Upgrades
-date: 2024-09-09T16:16:19.960Z
-updated: 2024-09-10T16:16:19.960Z
+date: 2024-09-14T21:20:05.467Z
+updated: 2024-09-15T18:14:28.012Z
 tags:
   - win11
   - win10
@@ -47,12 +47,6 @@ There are mainly two ways you can update the driver :
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-19_18-00-07-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the GTX 1660 driver for now, simply click on the**Update** button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-584.png)
@@ -63,12 +57,6 @@ There are mainly two ways you can update the driver :
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 2: Update your driver manually
 
  If you’d like to update the GTX 1660 driver manually, here’s the guide for you.
@@ -79,48 +67,18 @@ There are mainly two ways you can update the driver :
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-205.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Then you’ll be presented with a list of drivers available for download.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-577.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Click the driver you’re interested in. On the next page, you’re able to see the detailed information about that driver. If you want to download it, simply click the**DOWNLOAD** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-189.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Open the folder in which you’ve just downloaded the driver. There you’ll see an**exe** file, as illustrated below (the version of your driver may be different). Double-click on it, then follow the on-screen instructions to install the driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-192.png)
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  6) Wait till the installation is completed. After that, reboot your PC for the changes to take effect.
 
 ---
@@ -136,8 +94,6 @@ There are mainly two ways you can update the driver :
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,49 +103,24 @@ There are mainly two ways you can update the driver :
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-leading-edge-top-5-modern-video-capture-solutions/"><u>[New] In 2024, Leading Edge  Top 5 Modern Video Capture Solutions</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-pickup-vs-competitors-an-incisive-review-of-androids-top-editor/"><u>[New] PickUp Vs. Competitors  An Incisive Review of Android's Top Editor</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-to-product-revelation-best-15-unboxing-channels/"><u>[New] The Ultimate Guide to Product Revelation  Best 15 Unboxing Channels</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-create-engaging-visual-hooks-a-guide-to-video-thumbnail-making/"><u>[Updated] How to Create Engaging Visual Hooks  A Guide to Video Thumbnail Making</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-the-complete-users-manual-on-durecorder/"><u>[Updated] The Complete User’s Manual on DuRecorder</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-oculus-rift-htc-vive-and-ps-vr-which-is-the-best-for-gaming/"><u>2024 Approved  Oculus Rift, HTC Vive, and PS VR  Which Is the Best for Gaming?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/canon-scanner-driver-downloads-for-window-users-free-easy-to-install-options-available-now/"><u>Canon Scanner Driver Downloads for Window Users: Free, Easy-to-Install Options Available Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/comprehensive-tutorial-for-updating-windows-10-version-2004-with-compatible-conexant-drivers/"><u>Comprehensive Tutorial for Updating Windows 10 (Version 2004) with Compatible Conexant Drivers</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/cutting-edge-screen-capturing-with-the-latest-camstudio-release-for-2024/"><u>Cutting-Edge Screen Capturing with the Latest CamStudio Release for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/direct-download-the-ultimate-behringer-usb-audio-controller-drivers/"><u>Direct Download – The Ultimate Behringer USB Audio Controller Drivers</u></a></li>
-<li><a href="https://facebook.techidaily.com/discovering-recent-facebook-watches/"><u>Discovering Recent Facebook Watches</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722978613267-download-and-install-microsoft-surface-pro-4-drivers-on-your-pc-step-by-step-guide/"><u>Download and Install Microsoft Surface Pro 4 Drivers on Your PC: Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-asus-bluetooth-drivers-with-simple-updates-streamlined-compatibility/"><u>Download ASUS Bluetooth Drivers with Simple Updates: Streamlined Compatibility</u></a></li>
-<li><a href="https://win-forum.techidaily.com/essential-social-networking-sites-explore-facebook-twitter-instagram-and-youtube/"><u>Essential Social Networking Sites - Explore Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/expert-advice-on-repairing-a-nonfunctional-logitech-g433-headset-mic/"><u>Expert Advice on Repairing a Nonfunctional Logitech G433 Headset Mic</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-download-gigabyte-sound-card-software/"><u>Free Download: Gigabyte Sound Card Software</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-latest-drivers-for-your-brother-mfc-l2-wide-format-laser-easy-step-by-step-install-guide-on-windows/"><u>Get the Latest Drivers for Your Brother MFC-L2지오즈 Wide Format Laser: Easy Step-by-Step Install Guide on Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-system-updated-nvidia-driver-download-for-modern-windows-systems/"><u>Get Your System Updated: NVIDIA Driver Download for Modern Windows Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/gtx-1650-super-graphics-card-drivers-free-download-and-compatibility-with-windows-11/"><u>GTX 1650 Super Graphics Card Drivers: Free Download & Compatibility with Windows 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/guide-installing-the-official-canon-dr-c225-printer-drivers-for-windows-11108-systems/"><u>Guide: Installing the Official Canon DR-C225 Printer Drivers for Windows 11/10/8 Systems</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Itel P55+? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-successfully-update-and-solve-amd-fx-8350-drivers-in-windows-environments/"><u>How to Successfully Update and Solve AMD FX 8350 Drivers in Windows Environments</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/identifying-causes-of-pdhdll-not-detected-and-how-to-resolve-them/"><u>Identifying Causes of 'pdh.dll Not Detected' And How to Resolve Them</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-cinematic-masterpiece-dialogues/"><u>In 2024, Cinematic Masterpiece Dialogues</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-tecno-spark-10-pro-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Tecno Spark 10 Pro Face Lock?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-gionee-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Gionee Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/insignia-printer-drivers-update-optimized-support-for-windows-7-10-and-11-download-now/"><u>Insignia Printer Drivers Update: Optimized Support for Windows 7, 10 & 11 – Download Now!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-the-most-recent-hp-deskjet-3755-all-in-one-printer-driver-compatible-with-windows-11108and-7-systems/"><u>Install the Most Recent HP DeskJet 3755 All-In-One Printer Driver Compatible with Windows 11/10/8/^and 7 Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-logitech-t630-driver-software-for-windows-7-8-or-10-users/"><u>Latest Logitech T630 Driver Software for Windows 7, 8, or 10 Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-the-setup-a-guide-to-downloading-and-installing-arduino-nano-drivers-on-your-windows-computer/"><u>Mastering the Setup: A Guide to Downloading and Installing Arduino Nano Drivers on Your Windows Computer</u></a></li>
-<li><a href="https://win-forum.techidaily.com/maximize-connections-streamlined-menu-for-linkedin-facebook-and-youtube-instant-page-navigation-to-top/"><u>Maximize Connections: Streamlined Menu for LinkedIn, Facebook, and YouTube | Instant Page Navigation to Top</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Vivo Y27s | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/premium-sporting-cameras-for-adventure/"><u>Premium Sporting Cameras for Adventure</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-download-the-latest-brother-mfc-7360n-printer-drivers-for-windows-systems/"><u>Quick Download: The Latest Brother MFC-7360N Printer Drivers for Windows Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-install-ultimate-guide-to-downloading-the-latest-arduino-mega-2560-board-drivers/"><u>Quick Install: Ultimate Guide to Downloading the Latest Arduino Mega 2560 Board Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/sades-headset-drivers-download-for-windows-100-safe/"><u>Sades Headset Drivers Download for Windows [100%% Safe]</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/the-ultimate-list-of-3d-animation-and-modelling-programs-for-2024/"><u>The Ultimate List of 3D Animation and Modelling Programs for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-troubleshooting-find-download-and-upgrade-dell-latitude-e6430-driver-pack-for-windows-os-resolved/"><u>Ultimate Troubleshooting: Find, Download & Upgrade Dell Latitude E6430 Driver Pack for Windows OS [RESOLVED]</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unleash-the-experience-top-9-streams/"><u>Unleash the Experience  Top 9 Streams</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/upcoming-amd-zen-5-fire-series-cpus-maintain-fl1-chip-design-implications-for-next-gen-rtx-40-graphics-in-refreshed-laptops/"><u>Upcoming AMD Zen 5 Fire Series CPUs Maintain FL1 Chip Design: Implications for Next-Gen RTX 40 Graphics in Refreshed Laptops</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-now-canon-pixma-ts3322-printing-software-and-drivers-available-for-download/"><u>Update Now: Canon PIXMA TS3322 Printing Software & Drivers Available for Download</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-your-canoscan-lide-220-scanner-step-by-step-guide-to-latest-software/"><u>Update Your CanoScan LiDE 220 Scanner - Step-By-Step Guide To Latest Software</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-suspend-voice-recording-features-and-embed-original-tunes-using-windows-movie-maker-for-2024/"><u>Updated Suspend Voice Recording Features & Embed Original Tunes Using Windows Movie Maker for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-tech-tip-validate-audiovideo-before-participating/"><u>Windows Tech Tip: Validate Audio/Video Before Participating</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/zen-5-watercooled-ryzen-9-995cu-the-5th-swiftest-cpu-worldwide-outperformed-only-by-xeons-core-dominance-and-threadripper/"><u>Zen 5 Watercooled Ryzen 9 995Cu: The 5Th Swiftest CPU Worldwide - Outperformed Only by Xeon's Core Dominance & Threadripper</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/1-how-to-copy-dvd-content-onto-a-network-attached-storage-nas-device-for-streaming-on-pc-or-mac/"><u>1. How To Copy DVD Content Onto a Network Attached Storage (NAS) Device For Streaming on PC or Mac</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-journey-through-ingenious-android-collage-creations/"><u>2024 Approved Journey Through Ingenious Android Collage Creations</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/byb-e430-swing-arm-led-overview-top-tier-illumination-evaluation-for-modern-spaces/"><u>BYB E430 Swing Arm LED Overview: Top-Tier Illumination Evaluation for Modern Spaces</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/catalan-in-bite-size-learn-each-day/"><u>Catalan in Bite-Size: Learn Each Day</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/disable-mouse-scroll-speed-boosting-techniques-on-your-apple-computer/"><u>Disable Mouse Scroll Speed Boosting Techniques on Your Apple Computer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722973213673-effortless-installation-with-lexar-drive-usb-drivers-now-available/"><u>Effortless Installation with Lexar Drive USB Drivers - Now Available!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-drivers-for-nvidia-quadro-rtx-4000-quick-download-guide/"><u>Get the Newest Drivers for NVIDIA Quadro RTX 4000 - Quick Download Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On HTC U23 Pro? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722976383884-quick-and-easy-guide-to-asus-vg248qe-drivers-download-and-update-for-pcs-with-windows/"><u>Quick & Easy Guide to Asus VG248QE Drivers Download and Update for PCs with Windows!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-gadget-guide-expert-analysis-and-reviews-of-new-hardware/"><u>Tom's Gadget Guide: Expert Analysis and Reviews of New Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/tp-link-ub400-usb-bluetooth-dongle-free-downloads-and-latest-firmware-updates/"><u>TP-Link UB400 USB Bluetooth Dongle: Free Downloads & Latest Firmware Updates</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Poco M6 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

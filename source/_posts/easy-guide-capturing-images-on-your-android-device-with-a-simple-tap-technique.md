@@ -1,7 +1,7 @@
 ---
 title: "Easy Guide: Capturing Images on Your Android Device with a Simple Tap Technique"
-date: 2024-08-27 17:32:54
-updated: 2024-08-29 12:27:10
+date: 2024-09-09T22:06:41.127Z
+updated: 2024-09-16T01:01:35.808Z
 tags:
   - android
 categories:
@@ -61,6 +61,13 @@ thumbnail: https://thmb.techidaily.com/008f2e3ae8f25fe31431bd0f9eb00771fb7464648
 
 ![RegiStar module.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230911_111606_good-lock.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In RegiStar, select "Back-Tap Action."
 
 ![Select "Back-Tap Action."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230911_111616_registar.jpg) 
@@ -81,6 +88,19 @@ thumbnail: https://thmb.techidaily.com/008f2e3ae8f25fe31431bd0f9eb00771fb7464648
 
 ![Set up "Gates" and sensitivity.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/2023-09-11_13-51-53.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You're all set! Just tap the back of the phone the number of times you chose and a screenshot will be taken.
 
 ##  "Tap, Tap" App
@@ -93,6 +113,19 @@ thumbnail: https://thmb.techidaily.com/008f2e3ae8f25fe31431bd0f9eb00771fb7464648
 
 ![Toggle on Tap, Tap.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230911_130424_tap-tap.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You'll also want to tap "Disable Battery Optimization" to make sure it's always running in the background.
 
 ![DIsable battery optimization.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230911_130255_tap-tap.jpg) 
@@ -101,6 +134,13 @@ thumbnail: https://thmb.techidaily.com/008f2e3ae8f25fe31431bd0f9eb00771fb7464648
 
 ![Select Double Tap or Triple Tap actions.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230911_130424_tap-tapa.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Tap the "Add Action" button and select the "Screenshot" action.
 
 ![Tap "Add Action."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230911_130403_tap-tapb.jpg) 
@@ -108,6 +148,19 @@ thumbnail: https://thmb.techidaily.com/008f2e3ae8f25fe31431bd0f9eb00771fb7464648
  Note that the screenshot action requires you to enable the Accessibility Service to run. You can do this by following the instructions in the notification.
 
 ![Enable the accessibility service.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230911_130551_settings.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Actions can also have "Requirements" added to them. This simply means certain conditions must be met in order for the action to trigger.
 
@@ -125,11 +178,26 @@ thumbnail: https://thmb.techidaily.com/008f2e3ae8f25fe31431bd0f9eb00771fb7464648
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-asmr-video-knowledge-for-beginners/"><u>[New] 2024 Approved ASMR Video Knowledge for Beginners</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-essential-guide-pick-from-8-great-free-android-mp3-clients/"><u>[New] 2024 Approved Essential Guide Pick From 8 Great Free Android MP3 Clients</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/delving-into-history-how-far-does-the-timeline-of-artificial-intelligence-go-back/"><u>Delving Into History: How Far Does the Timeline of Artificial Intelligence Go Back?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/double-error-debugged-resolving-two-pc-collisions-successfully/"><u>Double Error Debugged: Resolving Two PC Collisions Successfully</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-strategies-to-overcome-geforce-software-malfunctioning-and-ensuring-seamless-performance/"><u>Effective Strategies to Overcome GeForce Software Malfunctioning and Ensuring Seamless Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-device-drivers-manually-in-windows-without-an-internet-connection/"><u>Installing Device Drivers Manually in Windows Without an Internet Connection</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/leveraging-zoom-for-superior-skype-interactions-and-communication-for-2024/"><u>Leveraging Zoom for Superior Skype Interactions & Communication for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-computer-components-a-deep-dive-by-toms-electronics-guru/"><u>Mastering Computer Components - A Deep Dive by Tom's Electronics Guru</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/qualcomm-ceo-confirms-rollout-of-high-end-snapdragon-x-equipped-computers-priced-at-700-usd-for-next-year/"><u>Qualcomm CEO Confirms Rollout of High-End, Snapdragon X Equipped Computers Priced at 700 USD for Next Year</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722973787272-simple-steps-activate-and-configure-your-windows-updates-with-ease/"><u>Simple Steps: Activate & Configure Your Windows Updates with Ease!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-walkthrough-getting-your-epson-xp-430-up-and-running-on-windows-systems/"><u>Step by Step Walkthrough: Getting Your Epson XP-430 Up and Running on Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/water-cooling-unleashes-power-the-ryzen-9-9950x-secures-5th-fastest-cpu-title-behind-xeon-and-threadripper-in-extreme-benchmarks/"><u>Water Cooling Unleashes Power: The Ryzen 9 9950X Secures 5Th Fastest CPU Title, Behind Xeon and Threadripper in Extreme Benchmarks</u></a></li>
+</ul></div>
+

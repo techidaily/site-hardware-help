@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Stopping Unwanted Calls by Blocking Numbers on Your Android Device"
-date: 2024-08-27 12:28:11
-updated: 2024-08-29 12:32:15
+date: 2024-09-09T16:54:54.244Z
+updated: 2024-09-15T21:13:28.428Z
 tags:
   - android
 categories:
@@ -66,9 +66,23 @@ Close
 
 ![Select Caller ID and Spam Protection.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/12_2023-03-15_14-15-24.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Turn it on at the top of the screen, then toggle on "Block Spam and Scam Calls."
 
 ![Toggle on Block Spam and Scam Calls.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/13_2023-03-15_14-16-04.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After you toggle on the former, you'll be able to choose from "Block All Spam and Scam Calls" or "Only Block High-Risk Scam Calls."
 
@@ -94,6 +108,13 @@ Close
 
 ![Block unknown callers with the toggle.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/16_2021-05-28_17-03-42.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When entering a number manually, tap the + button to add it.
 
 ![Tap the plus icon to add the number.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/17_2021-05-28_16-59-02.jpg) 
@@ -101,6 +122,13 @@ Close
  Selecting from "Recents" or "Contacts" will immediately add them to the list, which can be seen on this screen as well.
 
 ![List of blocked numbers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/18_2021-05-28_17-00-03.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  That's all there is to it! You can simply tap the red minus icon to stop blocking a number.
 
@@ -140,6 +168,13 @@ Close
 
 ![Block text messages on Galaxy phone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/22_2023-03-15_14-51-52.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  For more detailed instructions, check out our full guide on [blocking text messages on Android](https://techtrends.techidaily.com/guide-ensuring-your-email-address-securely-listed-online/).
 
 ---
@@ -152,11 +187,25 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-prime-racing-thrills-quintet-of-choice/"><u>[New] Prime Racing Thrills Quintet of Choice</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-thrifty-pilots-preferred-picks-under-500-drone-list-for-2024/"><u>[New] Thrifty Pilots' Preferred Picks Under $500 Drone List for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/corsair-k55-keyboard-fresh-driver-update-steps-to-enhance-performance/"><u>Corsair K55 Keyboard - Fresh Driver Update Steps to Enhance Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-asus-drivers-the-ultimate-guide-for-windows-systems/"><u>Download & Update Asus Drivers: The Ultimate Guide for Windows Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/framework-os-exposes-pc-industrys-misguided-emphasis-on-ai/"><u>Framework OS Exposes PC Industry's Misguided Emphasis on 'AI'</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-honor-play-40c-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Honor Play 40C FRP Locks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-pro-max-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 Pro Max to an Older iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-version-of-samsung-android-debug-bridge-adb-fast-download/"><u>Latest Version of Samsung Android Debug Bridge (ADB) - Fast Download</u></a></li>
+<li><a href="https://win-dash.techidaily.com/lenovo-ideapad-100-driver-download-and-updates-guide-how-to-ensure-compatibility-with-windows-11/"><u>Lenovo IdeaPad 100 Driver Download & Updates Guide - How to Ensure Compatibility with Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/loongson-unveils-16-core-3c6000-processor-a-direct-challenge-to-intel-ice-lake-and-xeon-silver/"><u>Loongson Unveils 16-Core 3C6000 Processor: A Direct Challenge to Intel Ice Lake and Xeon Silver</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-tutorial-on-how-to-unlink-gadgets-from-your-google-nest-hub/"><u>The Ultimate Tutorial on How to Unlink Gadgets From Your Google Nest Hub</u></a></li>
+</ul></div>
+

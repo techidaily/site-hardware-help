@@ -1,7 +1,7 @@
 ---
 title: The Ultimate List of Indispensable Devices for Fixing Your Cell Phones
-date: 2024-08-27 11:31:30
-updated: 2024-08-29 12:17:32
+date: 2024-09-10T18:17:34.685Z
+updated: 2024-09-15T22:34:56.139Z
 tags:
   - android
 categories:
@@ -48,6 +48,13 @@ Marcus Mears III / How-To Geek
 
  Repair shops often have heat guns with fine temperature control, but at home, a [hair dryer](https://amazon.com/dp/B001LQY1X4?tag=hotoge-20&ascsubtag=UUhtgUeUpU215488&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F350714%2F7-must-have-tools-for-mobile-phone-repair%2F&asc%5Fcampaign=Short-Term) does the job for occasional repairs. You can also use a [microwaveable heat bag](https://www.amazon.com/microwave-heat-bag/s?k=microwave+heat+bag&tag=hotoge-20&ascsubtag=UUhtgUeUpU215488&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F350714%2F7-must-have-tools-for-mobile-phone-repair%2F&asc%5Fcampaign=Short-Term)—do NOT put your phone in the microwave.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Prying and Opening Tools
 
 ![Person changing Fairphone components at IFA 2023](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/53161645939_8636d406a3_o.jpg) 
@@ -78,9 +85,29 @@ _Marcus Mears III / How-To Geek_
 
  Some people consider this one a must-have since static is very dangerous to electronics. However, there are ways to discharge your static before the repair, like tapping a metal object that's touching the ground. Do that before starting, but also every few minutes during the procedure. An [anti-static wrist strap](https://amazon.com/dp/B08CXQN86W?tag=hotoge-20&ascsubtag=UUhtgUeUpU215488&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F350714%2F7-must-have-tools-for-mobile-phone-repair%2F&asc%5Fcampaign=Short-Term) is more practical if you're doing repairs often—say, you decided on fixing your electronics at home for the foreseeable future.
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Desk Lamp or Headlight
 
  A well-lit environment is required to do any repair. If you want some focused lighting as well, a [desk lamp](https://amazon.com/dp/B08SK4DMHR?tag=hotoge-20&ascsubtag=UUhtgUeUpU215488&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F350714%2F7-must-have-tools-for-mobile-phone-repair%2F&asc%5Fcampaign=Short-Term) ([or a headlight](https://amazon.com/dp/B014JUMTXM?tag=hotoge-20&ascsubtag=UUhtgUeUpU215488&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F350714%2F7-must-have-tools-for-mobile-phone-repair%2F&asc%5Fcampaign=Short-Term)) might be a good investment. Both types allow for better adjustments of focus and position—without losing a free hand like you would with a regular flashlight. Desk lamps and headlights help even more with bigger devices, like tablets or laptops, but phone repairs benefit from this as well.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Magnifying Glass
 
@@ -91,6 +118,13 @@ _Marcus Mears III / How-To Geek_
  Larger screws, like the ones used for furniture, can be removed with homemade solutions if stripped. You can't do that with smartphone screws. They're so small that, if stripped, you'll need to drill through them. This risks damaging other parts if the drill goes too deep or isn't steady. So be sure you're using the right screwdriver and you're not forcing it.
 
 ![A wood board with two screws in it, the left screw is stripped and the right screw is intact.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/08/b176974b.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Josh Hendrickson / Review Geek
 
@@ -116,6 +150,19 @@ Josh Hendrickson / Review Geek
 
 ![Pixel 8 and Pixel 8 Pro under water droplets](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/is-my-pixel-waterproof.png) 
 
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Justin Duino / How-To Geek
 
  No. Big no. Water damage—or any moisture damage—is something serious, and the repair should be done strictly by qualified professionals.
@@ -130,11 +177,28 @@ Justin Duino / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-a-comprehensive-review-of-vidmas-screen-recorder-for-2024/"><u>[New] A Comprehensive Review of Vidma's Screen Recorder for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-quieting-beats-step-by-step/"><u>[Updated] 2024 Approved Quieting Beats Step-by-Step</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-elevate-edits-with-pixlr-ultimate-tips-list/"><u>[Updated] Elevate Edits with Pixlr Ultimate Tips List</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-discover-top-10-cost-free-image-format-change-software/"><u>2024 Approved Discover Top 10 Cost-Free Image Format Change Software</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/adding-apple-music-to-video-for-2024/"><u>Adding Apple Music to Video for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hardware-assisted-virtualization-and-isolation/"><u>Hardware-Assisted Virtualization and Isolation</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-captivating-viewers-with-visuals-picture-upload-tips/"><u>In 2024, Captivating Viewers with Visuals Picture Upload Tips</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-samsung-galaxy-f15-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Samsung Galaxy F15 5G FRP Bypass</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/simple-steps-update-your-windows-devices-battery-drivers-with-ease/"><u>Simple Steps: Update Your Windows Device's Battery Drivers with Ease</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-review-expert-insights-into-computer-hardware/"><u>Tom's Tech Review: Expert Insights Into Computer Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/tp-link-ub400-bluetooth-dongle-find-download-and-update-software-today/"><u>TP-Link UB400 Bluetooth Dongle: Find, Download & Update Software Today!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlocking-the-secrets-of-high-performance-gadgets-with-toms-tech-advice/"><u>Unlocking the Secrets of High-Performance Gadgets with Tom's Tech Advice</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-stop-looking-for-filmora-coupon-code-on-reddit-weve-got-it-here/"><u>Updated 2024 Approved Stop Looking for Filmora Coupon Code on Reddit - Weve Got It Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/water-cooling-unleashes-power-the-ryzen-9-9950x-secures-5th-fastest-cpu-title-behind-xeon-and-threadripper-in-extreme-benchmarks/"><u>Water Cooling Unleashes Power: The Ryzen 9 9950X Secures 5Th Fastest CPU Title, Behind Xeon and Threadripper in Extreme Benchmarks</u></a></li>
+</ul></div>
+

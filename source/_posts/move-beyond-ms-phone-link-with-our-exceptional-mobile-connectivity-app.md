@@ -1,7 +1,7 @@
 ---
 title: Move Beyond MS Phone Link with Our Exceptional Mobile Connectivity App
-date: 2024-08-26 10:12:10
-updated: 2024-08-29 11:24:18
+date: 2024-09-09T00:02:40.233Z
+updated: 2024-09-15T23:38:37.086Z
 tags:
   - android
 categories:
@@ -53,6 +53,13 @@ Close
 
 ![Permissions required for KDE Plugins to Funciton Properly](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/permissions-required-for-kde-plugins-to-funciton-properly.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  KDE Connect doesn’t send your data to the cloud and works over your local Wi-Fi without using the internet. This means your data transferred via the app isn’t stored on any server. What’s more, all data is TLS-encrypted. Check out its [privacy policy page](https://community.kde.org/KDEConnect/PrivacyPolicy) for more information on its security measures.
 
  Here’s a comprehensive look at the various features available with KDE Connect.
@@ -80,6 +87,13 @@ Close
  Another feature I love is getting notified of incoming calls on my desktop**.** When you get a call on your phone, you’ll see the caller's name and the option to mute the call. Unfortunately, the option to receive calls right from your PC is missing.
 
 ![Incoming Phone call notification on PC via KDE Connect](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/incoming-phone-call-notification-on-pc-via-kde-connect-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  That said, you do get the handy option to automatically pause any media playback on your PC or reduce the volume when you get a call. To enable this, go to Plugin Settings on the KDE Connect PC app and check the "Pause media during calls" option.
 
@@ -109,6 +123,19 @@ Dibakar Ghosh | How-To Geek
 
 Close 
 
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Send Two-Way Inputs Between Phone and Desktop
 
  Arguably, one of the best features of KDE Connect is the ability to remotely control your PC from your phone and vice versa. For instance, open the KDE Connect app on your phone and click the "Remote Input" option. Now, you can use the phone screen as a trackpad to control the desktop cursor. Also, click on the Keyboard Icon at the top and use your phone’s keyboard to type on your computer.
@@ -119,6 +146,13 @@ Close
 
 Close 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Create Desktop Commands and Execute Them From Your Phone
 
  This is a super handy KDE Connect feature for remotely opening apps and controlling your PC with your phone. All you need to do is open the KDE Connect app on your desktop, select the connected device, go to "Plugin Settings," scroll down and check the "Run Commands" option.
@@ -128,6 +162,13 @@ Close
 Close 
 
  To test, tap on "Lock Screen," and your PC's screen will lock. Likewise, tap on "File Explorer" to open File Explorer. You’re only restricted by your imagination at this point.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What Happened to Screen Mirroring Though?
 
@@ -143,11 +184,24 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-explore-the-best-dvd-players-for-your-portable-laptop/"><u>[New] Explore the Best DVD Players for Your Portable Laptop</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-how-to-change-voice-on-snapchat-with-2-easy-methods-for-2024/"><u>[New] How to Change Voice on Snapchat with 2 Easy Methods for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-quick-route-to-celebrity-status-on-insta-top-15-strategies-for-rapid-follower-growth/"><u>[New] The Quick Route to Celebrity Status on Insta Top 15 Strategies For Rapid Follower Growth</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/analysis-of-fb-video-proportions/"><u>Analysis of FB Video Proportions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/corsair-k55-keyboard-fresh-driver-update-steps-to-enhance-performance/"><u>Corsair K55 Keyboard - Fresh Driver Update Steps to Enhance Performance</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-winhttpdll-errors-effective-solutions-for-windows-users/"><u>Fixing ‘Winhttp.dll’ Errors – Effective Solutions for Windows Users</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-realme-note-50-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Realme Note 50? Try These Fixes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-version-of-samsung-android-debug-bridge-adb-fast-download/"><u>Latest Version of Samsung Android Debug Bridge (ADB) - Fast Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/loongson-unveils-16-core-3c6000-processor-a-direct-challenge-to-intel-ice-lake-and-xeon-silver/"><u>Loongson Unveils 16-Core 3C6000 Processor: A Direct Challenge to Intel Ice Lake and Xeon Silver</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/seamlessly-switch-from-gif-to-video-with-top-5-online-tools/"><u>Seamlessly Switch From GIF to Video with Top 5 Online Tools</u></a></li>
+</ul></div>
+

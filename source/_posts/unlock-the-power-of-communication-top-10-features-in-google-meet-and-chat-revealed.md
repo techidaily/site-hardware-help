@@ -1,7 +1,7 @@
 ---
 title: "Unlock the Power of Communication: Top 10 Features in Google Meet and Chat Revealed"
-date: 2024-08-27 20:45:59
-updated: 2024-08-29 10:24:48
+date: 2024-09-08T17:55:05.203Z
+updated: 2024-09-15T21:17:01.639Z
 tags:
   - android
 categories:
@@ -46,6 +46,19 @@ thumbnail: https://thmb.techidaily.com/fe07e4a07925d03fd4feb686ae505e57245e98882
 
 ![Scheduling options for Google Messages.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/screenshot_2023-10-27-13-38-32-02_0ce57feeccaa51fb7deed04b4dbda235.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Forgetting to wish someone a happy birthday or to tell them something important at a specific time is a great way to get egg on your face. Thankfully, the Messages app can help with that. You can simply write a text message at your convenience and then [schedule it to be sent at the desired time](https://video-ai-editor.techidaily.com/updated-in-2024-after-effects-vs-premiere-pro-understanding-their-unique-strengths-and-weaknesses/).
 
  The feature is super easy to use, but you have to know where to find it. Type out a text message like you normally would, but instead of sending it, _tap and hold_ the send button. This will bring up a menu with options for when to send the message.
@@ -66,13 +79,34 @@ thumbnail: https://thmb.techidaily.com/fe07e4a07925d03fd4feb686ae505e57245e98882
 
  The feature is simple but quite useful. Similar to Gmail, you can "star" any text message, and it gets saved to the "Starred" category. To find starred messages, tap the search button at the top of the app and select "Starred." People do not get notified if you star a message.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Pin Conversations to the Top
 
 ![The pin icon in the top bar of Google Messages.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/screenshot_2023-10-27-14-01-30-66_0ce57feeccaa51fb7deed04b4dbda235.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  It's easy for the conversation list to get messy if you chat with a lot of people. Wouldn't it be nice if you could keep some conversations permanently at the top? You can do that very thing by pinning conversations.
 
  The Messages app allows you to [pin up to five conversations to the top of the list](https://smart-video-editing.techidaily.com/updated-movie-mastery-unlocked-easy-tips-and-tricks-for-filmmakers-for-2024/). All you have to do is long-press a conversation and tap the pin icon in the top bar. To unpin, do the same thing and tap the pin icon again. Now your favs are always up top.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Hear Text Messages Read Out Loud
 
@@ -94,6 +128,13 @@ thumbnail: https://thmb.techidaily.com/fe07e4a07925d03fd4feb686ae505e57245e98882
 
 ![Reporting a text message as spam or blocking.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/screenshot_2023-10-27-14-29-51-75_0ce57feeccaa51fb7deed04b4dbda235.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Whether it's spam or unwanted messages from someone you know, we all get annoying text messages ([SMS](https://network-issues.techidaily.com/nvidia-patch-rtx210-win11-driver-update/)) from time to time. The good news is it's extremely simple to [block text messages with the Messages app](https://techtrends.techidaily.com/guide-ensuring-your-email-address-securely-listed-online/).
 
  Open the conversation with the phone number you'd like to block and go to "Details" from the menu. From here, you can choose "Block & Report Spam," and then block the number and opt to also report it as spam if that applies.
@@ -114,11 +155,30 @@ thumbnail: https://thmb.techidaily.com/fe07e4a07925d03fd4feb686ae505e57245e98882
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-avoidance-of-windows-10-photos-application-hang-ups-for-2024/"><u>[New] Avoidance of Windows 10 Photos Application Hang-Ups for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-effortless-approach-sharing-visuals-between-apple-phones/"><u>[Updated] 2024 Approved Effortless Approach Sharing Visuals Between Apple Phones</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-enhancing-your-snapchat-experience-mobile-recordings/"><u>[Updated] 2024 Approved Enhancing Your Snapchat Experience Mobile Recordings</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-crafting-captivating-livestreams-with-zoom-for-youtube-audiences/"><u>[Updated] Crafting Captivating Livestreams with Zoom for YouTube Audiences</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-how-to-record-mov-files-on-windows-11/"><u>2024 Approved How to Record MOV Files on Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-ryzen-9000-series-unveiled-in-depth-benchmarks-of-the-9900x-vs-9700x-vs-amoledcryptic-cinebench-showdown-decoding-scores-for-amds-newest-titans-ryzen-9976/"><u>AMD Ryzen 9000 Series Unveiled: In-Depth Benchmarks of the 9900X vs 9700X vs Amoled_cryptic: Cinebench Showdown: Decoding Scores for AMD's Newest Titans – Ryzen 9900X, 9700X & 9600X</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-installation-updated-amd-vega-drivers-tailored-for-enhanced-gaming-performance/"><u>Easy Installation: Updated AMD Vega Drivers Tailored for Enhanced Gaming Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/guide-to-fixing-realtek-wireless-network-driver-problems-in-windows-11107/"><u>Guide to Fixing Realtek Wireless Network Driver Problems in Windows 11/10/7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-the-latest-intel-rapid-storage-tech-software-for-faster-pc-performance/"><u>How to Get the Latest Intel Rapid Storage Tech Software for Faster PC Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-officejet-5740-drivers-fast-download-and-installation-guide/"><u>HP OfficeJet 5740 Drivers: Fast Download and Installation Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-activating-browser-cookies-for-an-enhanced-web-experience/"><u>Step-by-Step Guide: Activating Browser Cookies for an Enhanced Web Experience</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-components-a-complete-guide/"><u>Tom's Computer Components - A Complete Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-review-detailed-guide-on-computer-components/"><u>Tom's Tech Review: Detailed Guide on Computer Components</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-asus-rog-phone-7-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Asus ROG Phone 7 FRP Bypass</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-computer-gear-with-tom-comprehensive-hardware-insights/"><u>Unveiling Computer Gear with Tom: Comprehensive Hardware Insights</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/why-is-ipogo-not-working-on-poco-f5-5g-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Poco F5 5G? Fixed | Dr.fone</u></a></li>
+</ul></div>
+
