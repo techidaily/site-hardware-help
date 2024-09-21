@@ -1,7 +1,7 @@
 ---
 title: Environmental Conditions Such as Temperature, Humidity, and UV Exposure Affect the Performance of Self-Healing Mechanisms in Concrete
-date: 2024-09-11T20:35:16.448Z
-updated: 2024-09-15T23:18:22.407Z
+date: 2024-09-14T19:15:51.289Z
+updated: 2024-09-20T17:48:27.007Z
 tags:
   - win11
   - win10
@@ -68,26 +68,28 @@ thumbnail: https://thmb.techidaily.com/c1f2394a481b4500340195e3c4792344b150afff1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-facebook-favorites-top-8-androidiphone-apps-for-social-popularity/"><u>[New] 2024 Approved Facebook Favorites Top 8 Android/iPhone Apps for Social Popularity</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-pixel-playground-discovering-the-art-of-picture-distortion/"><u>[New] Pixel Playground Discovering the Art of Picture Distortion</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-stop-losses-maintaining-seamless-obs-recording/"><u>[Updated] 2024 Approved Stop Losses Maintaining Seamless OBS Recording</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-bandicam-reconnaissance-a-comprehensive-review-of-its-features-for-2024/"><u>[Updated] Bandicam Reconnaissance A Comprehensive Review of Its Features for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-the-6-best-digital-canvases-ideal-nft-services-for-artists/"><u>[Updated] In 2024, The 6 Best Digital Canvases Ideal NFT Services For Artists</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/canon-dr-c225-driver-download-for-windows-operating-systems-windows-11-10-and-8/"><u>Canon DR-C225 Driver Download for Windows Operating Systems - Windows 11, 10 & 8</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/complete-tutorial-for-reinstalling-intel-centrino-apro-wireless-n-4905agn-drivers-on-your-pc/"><u>Complete Tutorial for Reinstalling Intel Centrino A/Pro Wireless - N 4905AGN Drivers on Your PC</u></a></li>
-<li><a href="https://article-tips.techidaily.com/converging-zoom-and-fb-live-for-professional-broadcasts-for-2024/"><u>Converging ZOOM and FB Live for Professional Broadcasts for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-acer-display-software-get-your-latest-drivers-here/"><u>Free Acer Display Software - Get Your Latest Drivers Here</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Nokia C12 Plus? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-samsung-galaxy-s24mirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Samsung Galaxy S24Mirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/installation-guide-and-software-downloads-for-brother-hl-l2380dw-on-pc/"><u>Installation Guide & Software Downloads for Brother HL-L2380DW on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-discord-overlay-issues-in-windows-environment/"><u>Resolving Discord Overlay Issues in Windows Environment</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722969224757-simple-guide-installing-corsair-drivers-on-your-pc-without-hitches/"><u>Simple Guide: Installing Corsair Drivers on Your PC Without Hitches!</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-restoring-rightful-representation-amidst-misguided-chatter/"><u>[New] 2024 Approved Restoring Rightful Representation Amidst Misguided Chatter</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-leading-the-virtual-conversation-with-social-media/"><u>[Updated] In 2024, Leading the Virtual Conversation with Social Media</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-leaping-from-low-quality-to-hdri-mastery-your-ultimate-guide/"><u>2024 Approved Leaping From Low Quality to HDRI Mastery - Your Ultimate Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-30-metaverse-meme-creation-tips-and-trends/"><u>2024 Approved Top 30 Metaverse Meme Creation Tips & Trends</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-4-the-vanguard-of-verified-social-networking/"><u>ChatGPT 4: The Vanguard of Verified Social Networking</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/focusrite-scarlett-solo-exclusive-pc-compatible-audio-interface-download-offer/"><u>Focusrite Scarlett Solo - Exclusive PC-Compatible Audio Interface Download Offer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-logitech-hd-c270-webcam-software-for-pcs-running-windows-1011-easy-driver-download-and-installation/"><u>Get the Latest Logitech HD C270 Webcam Software for PCs Running Windows 10/11 | Easy Driver Download and Installation</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-new-intel-xe-graphics-driver-for-windows-11-today-free-download/"><u>Get Your New Intel Xe Graphics Driver for Windows 11 Today - [Free Download]</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-vivo-t2x-5g-by-drfone-android/"><u>How to Bypass FRP on Vivo T2x 5G?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-seamlessly-upgrade-your-microsoft-sculpt-ergonomic-keyboards-software/"><u>How To Seamlessly Upgrade Your Microsoft Sculpt Ergonomic Keyboard's Software</u></a></li>
+<li><a href="https://solve-info.techidaily.com/1726027651761-hp/"><u>HPラップトップマシンで効率的な動画編集テクニック</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722978258490-quick-access-to-behringer-audio-drivers-download-without-delays/"><u>Quick Access to Behringer Audio Drivers: Download Without Delays</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/recent-improvements-to-the-logitech-extreme-3d-pro-mouse-firmware/"><u>Recent Improvements to the Logitech Extreme 3D Pro Mouse Firmware</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/revive-corrupted-photo-8-files-discover-the-power-of-stellar-restoration-for-windows/"><u>Revive Corrupted Photo 8 Files: Discover the Power of Stellar Restoration for Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-complete-how-to-guide-for-installing-latest-ati-graphics-drivers-on-pcs-with-windows/"><u>The Complete How-To Guide for Installing Latest ATI Graphics Drivers on PCs with Windows</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-realme-11-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Realme 11 5G Location By Mobile Number | Dr.fone</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Free CanoScan LiDE 120 Software Installation Guide: Latest Updates Available"
-date: 2024-09-14T22:15:27.693Z
-updated: 2024-09-15T16:53:52.326Z
+date: 2024-09-16T20:41:55.600Z
+updated: 2024-09-21T02:38:44.950Z
 tags:
   - win11
   - win10
@@ -58,10 +58,16 @@ thumbnail: https://thmb.techidaily.com/509fff23b0ac771700c9cc9f462572328b6f939b9
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Option 3 – Update your driver automatically (Recommended)**
@@ -77,10 +83,10 @@ thumbnail: https://thmb.techidaily.com/509fff23b0ac771700c9cc9f462572328b6f939b9
 3. Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your Validity fingerprint sensor driver for now, simply click the**Update** button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-29_18-36-48-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -111,21 +117,14 @@ thumbnail: https://thmb.techidaily.com/509fff23b0ac771700c9cc9f462572328b6f939b9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/updated-clear-cinematic-vision-top-camera-stabilizers-reviewed/"><u>[Updated] Clear Cinematic Vision - Top Camera Stabilizers Reviewed</u></a></li>
-<li><a href="https://windows11.techidaily.com/cherishing-the-slumber-of-your-computer/"><u>Cherishing the Slumber of Your Computer</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-updated-epson-perfection-v39-driver-for-win7810-secure-your-print-jobs/"><u>Download Updated Epson Perfection V39 Driver for Win7/8/10 - Secure Your Print Jobs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enabling-and-disabling-network-discovery-on-your-windows-10-pc-a-step-by-step-guide/"><u>Enabling and Disabling Network Discovery on Your Windows 10 PC: A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-installation-packs-for-amd-radeon-hd-on-windows-8-start-here/"><u>Free Installation Packs for AMD Radeon HD on Windows 8 - Start Here</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722972336720-get-your-targus-adapter-setup-ready-download-drivers-with-a-click/"><u>Get Your Targus Adapter Setup Ready - Download Drivers with a Click</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Itel P40 | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-advanced-composition-strategies-with-blend-modes/"><u>In 2024, Advanced Composition Strategies with Blend Modes</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-x100-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Vivo X100 Phone Without Password?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-nokia-g42-5g-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Nokia G42 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/increased-risk-for-sepsis/"><u>Increased Risk for Sepsis</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722955436210-latest-software-secure-the-new-nvidia-quadro-rtx-8000-driver-for-your-win-11-8-or-7-pc-today/"><u>Latest Software: Secure the New Nvidia Quadro RTX #8000 Driver for Your Win 11, 8 or 7 PC Today</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/lg-monitor-troubleshooting-guide-updating-and-fixing-drivers-for-windows-os-versions-10781/"><u>LG Monitor Troubleshooting Guide: Updating & Fixing Drivers for Windows OS Versions (10/7/8.1)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-hub-comprehensive-reviews-and-buying-guides/"><u>Tom's Tech Hub: Comprehensive Reviews and Buying Guides</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/triumph-over-troubled-tech-strategies-to-correctly-address-0x00000078-blue-screen-issue/"><u>Triumph Over Troubled Tech: Strategies to Correctly Address 0X00000078 Blue Screen Issue</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-light-and-shadow-masterful-edits-that-transform-images/"><u>[New] Light & Shadow Masterful Edits That Transform Images</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/comparing-the-best-editors-for-professionals-filmora-vs-democreator/"><u>Comparing the Best Editors for Professionals Filmora Vs. Democreator</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-latest-asus-xonar-dgx-audio-driver-step-by-step-guide/"><u>Download the Latest ASUS Xonar DGX Audio Driver: Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-ways-to-update-your-ati-radeon-video-drivers-in-microsoft-windows-os/"><u>Easy Ways to Update Your ATI Radeon Video Drivers in Microsoft Windows OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-update-techniques-for-your-intel-graphics-card-drivers/"><u>Effortless Update Techniques for Your Intel Graphics Card Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-upgrade-your-amd-video-driver-for-enhanced-cryptocurrency-mining-in-windows/"><u>How to Upgrade Your AMD Video Driver for Enhanced Cryptocurrency Mining in Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-hp-laserjet-amoji-1320-software-fully-updated-driver-package-for-windows-users/"><u>Latest HP LaserJet Amoji 1320 Software, Fully Updated Driver Package for Windows Users</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/mastering-kodi-addons-with-the-ultimate-setup-assistant-hassle-free-configuration/"><u>Mastering Kodi Addons with the Ultimate Setup Assistant - Hassle-Free Configuration</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-comprehensive-insights-on-cutting-edge-hardware/"><u>Tom's Tech Review: Comprehensive Insights on Cutting-Edge Hardware</u></a></li>
 </ul></div>
 

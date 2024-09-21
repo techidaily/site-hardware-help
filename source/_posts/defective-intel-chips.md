@@ -1,7 +1,7 @@
 ---
 title: Defective Intel Chips
-date: 2024-09-09T16:16:22.580Z
-updated: 2024-09-10T16:16:22.580Z
+date: 2024-09-16T02:27:47.854Z
+updated: 2024-09-20T21:50:53.486Z
 tags:
   - cpu
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/StJQAUjdfbrguLmZvf2qnJ-320-80.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Navigate the World of Gadgets: Find Reliable Tips and Specs Today
 
 AMD has listed the new Ryzen 5 9600X for pre-order on its[Canadian Amazon store](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Ftarget.georiot.com%2FProxy.ashx%3Ftsid%3D45723%26GR%255FURL%3Dhttps%253A%252F%252Famazon.ca%252Fdp%252FB0D6NN6TM7%253Ftag%253Dhawk-future-ca-20%2526ascsubtag%253Dtomshardware-us-8983708545272344516-20) . Officially releasing with the rest of the Ryzen 9000-series on July 31st, the 9600X currently shows up at $472.45 CAD.  
@@ -29,12 +23,6 @@ AMD has listed the new Ryzen 5 9600X for pre-order on its[Canadian Amazon store]
   
  AMD showed the Ryzen 5 9600X crushing Intel's Core i5-14600K by 22% in productivity[benchmarks](https://www.tomshardware.com/tag/benchmark) and 11% in gaming at its Zen 5 Tech Day, with an 88W peak power draw versus Intel's 181W. A lead of this margin for almost half of the power shows strong performance for the bottom of AMD's Zen 5 desktop CPU slate, though as always we need to take manufacturer benchmarks with a spoonful of salt. If AMD prices Ryzen 5 9600X below $300 (which we suspect it will, eventually), it becomes a shoo-in for[our best value CPU](https://www.tomshardware.com/reviews/best-cpus,3986.html#section-value-best-cpu-for-gaming-200-to-250) , a spot currently held by the Ryzen 5 7600X.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,8 +37,6 @@ AMD has listed the new Ryzen 5 9600X for pre-order on its[Canadian Amazon store]
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,43 +46,29 @@ AMD has listed the new Ryzen 5 9600X for pre-order on its[Canadian Amazon store]
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-10-innovative-platforms-revolutionizing-online-education-for-2024/"><u>[New] 10 Innovative Platforms Revolutionizing Online Education for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ffortless-earnings-channel-size-no-longer-a-challenge-for-2024/"><u>[New] Effortless Earnings  Channel Size No Longer a Challenge for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-transform-your-archive-with-instagrams-filters-an-easy-guide/"><u>[New] In 2024, Transform Your Archive with Instagram’s Filters – An Easy Guide</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-retrieving-secret-snaps-tips-for-snapchats-private-photos/"><u>[Updated] 2024 Approved  Retrieving Secret Snaps  Tips for Snapchat's Private Photos</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-deep-dives-closer-scans-and-enhanced-gameplay-on-roblox/"><u>[Updated] Deep Dives  Closer Scans and Enhanced Gameplay on Roblox</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-channel-upgrade-made-simple-embrace-tubebuddy-techniques/"><u>[Updated] In 2024, Channel Upgrade Made Simple - Embrace TubeBuddy Techniques</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-exploring-the-dynamics-of-profit-distribution-in-video-shorts/"><u>[Updated] In 2024, Exploring the Dynamics of Profit Distribution in Video Shorts</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-in-overwatch-streamlining-the-recording-process/"><u>[Updated] In 2024, In Overwatch  Streamlining the Recording Process</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-seamless-broadcasting-gamers-secrets-from-obs/"><u>[Updated] In 2024, Seamless Broadcasting  Gamers' Secrets From OBS</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-striking-14-text-animation-illustrations/"><u>[Updated] Striking 14 Text Animation Illustrations</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-leading-edge-top-15-on-the-go-video-gear/"><u>2024 Approved  Leading Edge  Top 15 On-the-Go Video Gear</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/alarming-increase-in-returns-for-intels-13th-generation-cpus-retailers-report-fourfold-rise-compared-to-previous-gen/"><u>Alarming Increase in Returns for Intel's 13Th Generation CPUs - Retailers Report Fourfold Rise Compared to Previous Gen</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/boost-your-computers-functionality-windows-1update-and-integrate-conexant-drivers-today/"><u>Boost Your Computer's Functionality: Windows 1^Update and Integrate Conexant Drivers Today</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-setup-of-soundmax-driver-software-on-your-windows-device-direct-download-link/"><u>Easy Setup of SoundMAX Driver Software on Your Windows Device - Direct Download Link</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-steps-to-update-your-logitech-m310-mouses-compatibility-and-performance-via-new-drivers/"><u>Easy Steps to Update Your Logitech M310 Mouse's Compatibility and Performance via New Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-driver-setup-for-your-microsoft-comfort-keyboard-model-n4000-start-downloading-today/"><u>Effortless Driver Setup for Your Microsoft Comfort Keyboard Model N4000 - Start Downloading Today</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/elevating-memes-to-cultural-phenomenon/"><u>Elevating Memes to Cultural Phenomenon</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enabling-display-settings-on-nvidia-gpu/"><u>Enabling Display Settings on NVIDIA GPU</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-microsoft-bluetooth-driver-software-updates-for-various-windows-versions/"><u>Get the Latest Microsoft Bluetooth Driver Software Updates for Various Windows Versions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-arduino-usb-drivers-installed-on-windows-easy-tutorial-included/"><u>Get the Newest Arduino USB Drivers Installed on Windows - Easy Tutorial Included</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-geforce-rtx-3080-driver-now-compatible-with-windows-1187-systems/"><u>Get the Newest GeForce RTX 3080 Driver Now! Compatible with Windows 11/8/7 Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-hp-printer-drivers-installed-download-supports-windows-10-8-and-7/"><u>Get Your HP Printer Drivers Installed: Download Supports Windows 10, 8 & 7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-zebra-gk420d-driver-now-fast-and-simple-download/"><u>Get Your ZEBRA GK420D Driver Now - Fast & Simple Download</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/inside-the-speed-gap-investigating-the-reasons-behind-chatgpt-4s-slower-response-time-compared-to-35/"><u>Inside The Speed Gap: Investigating The Reasons Behind ChatGPT-4's Slower Response Time Compared to 3.5</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/instant-enhancement-how-the-latest-nahimic-audio-driver-revamps-your-audio-quality/"><u>Instant Enhancement: How the Latest Nahimic Audio Driver Revamps Your Audio Quality</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/joke-jigsaw-puzzles-build-with-kapwingenasian-memes-for-2024/"><u>Joke Jigsaw Puzzles  Build with Kapwing’enasian Memes for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-htc-u23-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass HTC U23 FRP Without Computer</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/lenovos-ultimate-guide-to-updating-and-securing-your-windows-710-bluetooth-drivers-trustworthy-download-options/"><u>Lenovo's Ultimate Guide to Updating and Securing Your Windows 7/10 Bluetooth Drivers - Trustworthy Download Options</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/llvm-compiler-abandons-3dnow-instruction-set-marking-a-technological-shift-for-amd/"><u>LLVM Compiler Abandons 3DNow! Instruction Set, Marking a Technological Shift for AMD</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/mastering-youtube-traffic-for-new-content-creators/"><u>Mastering YouTube Traffic for New Content Creators</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/premium-free-mobile-photography-tools-for-slow-movement-effect/"><u>Premium Free Mobile Photography Tools for Slow Movement Effect</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/retaining-fl1-chip-style-in-new-zen-vee-cpus-future-refreshes-to-feature-advanced-rtx-graphics/"><u>Retaining FL1 Chip Style in New Zen Vee CPUs – Future Refreshes to Feature Advanced RTX Graphics?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-fixes-overcoming-usb-communication-challenges-between-lg-gadgets-and-windows-systems/"><u>Step-by-Step Fixes: Overcoming USB Communication Challenges Between LG Gadgets and Windows Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-keeping-your-lenovo-t420-drivers-up-to-date-in-windows/"><u>Step-by-Step Guide: Keeping Your Lenovo T420 Drivers Up to Date in Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/successfully-overcoming-the-intel-dptf-driver-installation-hurdle/"><u>Successfully Overcoming the Intel DPTF Driver Installation Hurdle</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/swift-installation-of-hp-speaker-drivers-free-version-available/"><u>Swift Installation of HP Speaker Drivers - FREE Version Available</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-modern-hardware-by-toms-experts/"><u>The Ultimate Guide to Modern Hardware by Tom's Experts</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/top-grossing-youtube-titans-for-2024/"><u>Top-Grossing YouTube Titans for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/world-record-breakdown-the-amd-ryzen-9-9950x-dominates-the-cinebench-r23-benchmark-at-a-staggering-65-ghz/"><u>World Record Breakdown: The AMD Ryzen 9 9950X Dominates the Cinebench R23 Benchmark at a Staggering 6.5 GHz</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-audiovisual-alchemy-transforming-powerpoint-into-engagement/"><u>2024 Approved Audiovisual Alchemy Transforming PowerPoint Into Engagement</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-ryzen-9000-series-unveiled-in-depth-benchmarks-of-the-9900x-vs-9700x-vs-amoledcryptic-cinebench-showdown-decoding-scores-for-amds-newest-titans-ryzen-9976/"><u>AMD Ryzen 9000 Series Unveiled: In-Depth Benchmarks of the 9900X vs 9700X vs Amoled_cryptic: Cinebench Showdown: Decoding Scores for AMD's Newest Titans – Ryzen 9900X, 9700X & 9600X</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-infinix-note-30-pro-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on Infinix Note 30 Pro</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-tips-for-applying-apple-music-to-your-videos-for-2024/"><u>Expert Tips for Applying Apple Music to Your Videos for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-the-latest-intel-rapid-storage-tech-software-for-faster-pc-performance/"><u>How to Get the Latest Intel Rapid Storage Tech Software for Faster PC Performance</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-nokia-c22-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Nokia C22 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-review-detailed-guide-on-computer-components/"><u>Tom's Tech Review: Detailed Guide on Computer Components</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/top-3g-networks-and-plans-for-gamers-on-a-budget-for-2024/"><u>Top 3G Networks & Plans for Gamers on a Budget for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-computer-gear-with-tom-comprehensive-hardware-insights/"><u>Unveiling Computer Gear with Tom: Comprehensive Hardware Insights</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/iphoneandroid/"><u>スマホアップグレード後もスマプラムービーを楽しみ続けるための新iPhone・Androidデバイスへの移行手順</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
