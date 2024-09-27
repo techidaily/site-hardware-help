@@ -1,7 +1,7 @@
 ---
 title: "Experience Iconic Elegance and Savings: Explore How This Evergreen Samsung Television Became a Legend at Historic Low Costs | GadgetGuru Insights"
-date: 2024-09-20T04:49:21.441Z
-updated: 2024-09-20T23:02:44.285Z
+date: 2024-09-23T03:36:41.777Z
+updated: 2024-09-26T18:35:07.207Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Jason Hiner/ZDNET
 ### What's the deal?
 
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
 
@@ -59,6 +66,13 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When will this deal expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on this deal, but don't fret -- we're constantly finding new chances to score savings and sharing them with you at [ZDNET.com](https://www.zdnet.com/).
@@ -76,12 +90,26 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-the-social-media-gurus-guide-to-exceptional-facebook-broadcasts/"><u>[New] 2024 Approved The Social Media Guru's Guide to Exceptional Facebook Broadcasts</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-nokia-xr21-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Nokia XR21 Activity | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-beginners-tutorial-adobe-capture-screen-sharing-techniques/"><u>2024 Approved Beginner's Tutorial Adobe Capture Screen Sharing Techniques</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-top-choices-for-next-gen-vr-accessories-unveiled/"><u>2024 Approved Top Choices for Next-Gen VR Accessories Unveiled</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/boost-graphics-performance-a-comprehensive-guide-for-ati-driver-updates/"><u>Boost Graphics Performance: A Comprehensive Guide for ATI Driver Updates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/decoding-windows-10-update-issue-effective-fixes-for-error-code-0xc1900208/"><u>Decoding Windows 10 Update Issue: Effective Fixes for Error Code 0Xc1900208</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-latest-asus-mousepad-software-compatible-with-windows/"><u>Download the Latest ASUS Mousepad Software Compatible with Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/elevate-pc-performance-with-corsairs-icue-software-free-download-for-windows-users/"><u>Elevate PC Performance with Corsair's iCUE Software – Free Download for Windows Users!</u></a></li>
+<li><a href="https://tools.techidaily.com/encryptomatic/products/"><u>Encryptomatic's Products</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-gaming-acquire-logiteche-g402s-latest-driver-and-game-controller-software/"><u>Enhance Your Gaming: Acquire Logiteche G402's Latest Driver and Game Controller Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-geforce-rtx-3070-ti-windows-drivers-for-optimal-performance-on-your-pc/"><u>Get the Latest GeForce RTX 3070 Ti Windows Drivers for Optimal Performance on Your PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-most-recent-version-of-your-hp-laserjet-p1007-driver-start-with-these-tips/"><u>Get the Most Recent Version of Your HP LaserJet P1007 Driver - Start with These Tips</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-motorola-edge-40-pro-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Motorola Edge 40 Pro Phone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-motorola-defy-2-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Motorola Defy 2 for Free? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-safeguarding-sound-quality-while-speeding-up-tracks/"><u>In 2024, Safeguarding Sound Quality While Speeding Up Tracks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-canon-mx340-windows-drivers-install-guides-for-win10win8win7/"><u>Latest Canon MX340 Windows Drivers: Install Guides for Win10/Win8/Win7</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/online-support-center-winx-dvd-ripper-and-video-conversion-software/"><u>Online Support Center: WinX DVD Ripper & Video Conversion Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722970818344-speed-up-your-usb-cam-connectivity-secure-reliable-drivers-available-now/"><u>Speed-Up Your USB Cam Connectivity – Secure, Reliable Drivers Available Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-steering-control-free-download-for-logitech-g29-software-on-windows-operating-systems/"><u>Ultimate Steering Control: Free Download for Logitech G29 Software on Windows Operating Systems</u></a></li>
+</ul></div>
 

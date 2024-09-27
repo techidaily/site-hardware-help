@@ -1,7 +1,7 @@
 ---
 title: Discover Cutting-Edge Technology Through Tom'n Hardware Lens
-date: 2024-09-09T16:16:25.282Z
-updated: 2024-09-10T16:16:25.282Z
+date: 2024-09-20T23:29:27.588Z
+updated: 2024-09-26T22:19:46.694Z
 tags:
   - cpu
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/cGkBCLcFhS3WLTgwC4YBc-320-80.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Sticking to Plans: The Much-Awaited Ryzen 5000XT Series Drops This Month, as Promised by AMD
 
 Despite media reports that AMD has delayed its Ryzen 5000XT processors, AMD told_Tom's Hardware_ that the Ryzen 9 5900XT and the Ryzen 7 5800XT will launch as scheduled. The chipmaker had previously slated the[5000XT launch for July](https://www.tomshardware.com/pc-components/cpus/amd-announces-zen-5-ryzen-9000-processors-launches-in-july-four-new-ryzen-9-7-and-5-processors-with-a-16-ipc-improvement) , meaning the chips should be available at retail tomorrow.
@@ -33,18 +27,6 @@ _"There has been no change to the sales embargo of the 5000XT,"_ an AMD represen
 
  The Ryzen 9 5900XT, on the other hand, should provide a significant upgrade over the current[Ryzen 9 5900X](https://www.tomshardware.com/reviews/amd-ryzen-9-5950x-5900x-zen-3-review) . Weirdly, AMD chose that model name since the Ryzen 9 5900XT is closer to the[Ryzen 9 5950X](https://www.tomshardware.com/reviews/amd-ryzen-9-5950x-5900x-zen-3-review) than the Ryzen 9 5900X. The Ryzen 9 5900XT wields the same 16 Zen 3 cores as the former in addition to the 64MB L3 cache and 105W TDP. The Ryzen 9 5900XT has a 100 MHz lower base and boost clock than the Ryzen 9 5950X.
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -55,14 +37,11 @@ _"There has been no change to the sales embargo of the 5000XT,"_ an AMD represen
 
  AMD has kept the pricing under wraps for the Ryzen 9 5900XT and the Ryzen 7 5800XT. However, we should know tomorrow how much the new refreshed chips cost. Don't forget to double back for our review of the two processors and two new 5000XT SKUs.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -71,4 +50,25 @@ _"There has been no change to the sales embargo of the 5000XT,"_ an AMD represen
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-crafting-a-jujutsu-kaisen-tiktok-challenge/"><u>[New] In 2024, Crafting a Jujutsu Kaisen TikTok Challenge</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-learn-quickly-flipping-video-sequence-android-style/"><u>[New] Learn Quickly Flipping Video Sequence Android-Style</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-hp-drivers-in-no-time-with-our-user-friendly-guide/"><u>Download & Install HP Drivers in No Time with Our User-Friendly Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-compatible-drivers-for-cs-range-changeable-bluetooth-devices/"><u>Download Compatible Drivers for CS Range-Changeable Bluetooth Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-latest-asus-mouse-pad-compatibility-drivers-for-windows/"><u>Download the Latest ASUS Mouse Pad Compatibility Drivers for Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ensuring-seamless-connectivity-asus-pce-ac56-drivers-optimized-for-latest-and-legacy-windows-systems-resolved/"><u>Ensuring Seamless Connectivity: ASUS PCE-AC56 Drivers Optimized for Latest & Legacy Windows Systems [RESOLVED]</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-pro-max-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 Pro Max, Apples New iPhone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-real-time-videoimage-editing-easy-3dlut-use/"><u>In 2024, Real-Time Video/Image Editing Easy 3DLUT Use</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-the-undisclosed-aspects-what-you-dont-notice-as-a-story-viewer/"><u>In 2024, The Undisclosed Aspects What You Don’t Notice as a Story Viewer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/keep-your-epson-wf-3620-running-smoothly-updated-drivers-for-windows-users-windows-10-8-and-7/"><u>Keep Your Epson WF-3620 Running Smoothly: Updated Drivers for Windows Users (Windows 10, 8 & 7)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722960301169-killer-wi-fi-drivers-download-now-solution-included/"><u>Killer Wi-Fi Drivers Download Now - Solution Included!</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

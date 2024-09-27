@@ -1,7 +1,7 @@
 ---
 title: Updated Oculus Software & Drivers - Supported by Microsoft Windows 11/10/8/7
-date: 2024-09-14T23:25:39.338Z
-updated: 2024-09-21T04:14:02.720Z
+date: 2024-09-24T17:13:55.072Z
+updated: 2024-09-27T07:24:14.343Z
 tags:
   - win11
   - win10
@@ -45,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/ed1fcd1a483c0b94fb3a94d424b683306978ea21a
 
  After updating your drivers, restart your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 2 – Download and install Intel Iris Plus Graphics 655 driver manually
 
  Intel keeps updating drivers. To get them, you need to go to the Intel download center, find the drivers corresponding with your specific flavor of Windows version (for example, Windows 10 64 bit) and download the driver manually. Here’s how:
@@ -53,10 +60,34 @@ thumbnail: https://thmb.techidaily.com/ed1fcd1a483c0b94fb3a94d424b683306978ea21a
 2. Under Select Your Product, choose**Graphics** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/intel-graphics.jpg)
 3. In the search box, type**Intel Iris Plus graphics 655** and press**Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/type-655.jpg)
 4. Click**Intel® Graphics – Windows\* DCH Drivers** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/intel-graphics-DCH-drivers.jpg)
 5. Download the latest version of the driver.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/intel-latest-graphics-driver.jpg)
 6. Once you’ve downloaded the file, double-click on it and follow the on-screen instructions to**install the driver** .
 7. **Restart your computer** for the changes to take effect.
@@ -80,12 +111,18 @@ thumbnail: https://thmb.techidaily.com/ed1fcd1a483c0b94fb3a94d424b683306978ea21a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-securing-your-digital-quest-with-savvy-screenshots/"><u>[Updated] 2024 Approved Securing Your Digital Quest with Savvy Screenshots</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-easy-to-follow-steps-for-adding-vimeo-clips-to-ppts/"><u>2024 Approved Easy-to-Follow Steps for Adding Vimeo Clips to PPTs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/compatible-logitech-g920-driver-software-optimize-your-pc-now/"><u>Compatible Logitech G920 Driver Software - Optimize Your PC Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-canoscan-lide-123-drivers-find-and-install-updates-today/"><u>Free CanoScan LiDE 123 Drivers: Find and Install Updates Today!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-epson-ds-530-driver-for-windows-11-x64-systems/"><u>Get the Latest Epson DS-^530 Driver for Windows 11 (X64 Systems)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-controllers-up-and-running-quickly-download-the-newest-xbox-wireless-adapters/"><u>Get Your Controllers Up & Running Quickly - Download the Newest Xbox Wireless Adapters!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-vivo-y36i-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Vivo Y36i Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-xiaomi-redmi-note-12-pro-4g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Xiaomi Redmi Note 12 Pro 4G FRP</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-xiaomi-13-ultra-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Xiaomi 13 Ultra</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/swiftsoundphone-apps-top-10-for-rapid-music/"><u>SwiftSoundphone Apps Top 10 for Rapid Music</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722963093387-update-your-hp-scanjet-software-for-optimal-performance-on-windows-operating-systems/"><u>Update Your HP Scanjet Software for Optimal Performance on Windows Operating Systems</u></a></li>
+</ul></div>
 

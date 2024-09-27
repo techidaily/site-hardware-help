@@ -1,7 +1,7 @@
 ---
 title: How Much Is the Eurozone Worth? French Distributor Sets Price for AMD Ryzen 9 9900X at Close to €680.
-date: 2024-09-09T16:16:24.256Z
-updated: 2024-09-10T16:16:24.256Z
+date: 2024-09-20T07:39:30.708Z
+updated: 2024-09-26T17:37:31.750Z
 tags:
   - cpu
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/Qa4xhafrciX4Fo6UwsVQkB-320-80.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## AMD Ryzen Nine-9950X Surprises with Top Five Performance, Trails Behind Xeon and Threadripper in Watercooled Benchmark Trials
 
 AMD's upcoming Ryzen 9 9950X Zen 5 flagship, which will compete against the[best CPUs](https://www.tomshardware.com/reviews/best-cpus,3986.html) , is already breaking some world records with conventional liquid cooling. First discovered by[HXL on X](https://x.com/9550pro/status/1818987621689000000?t=lxpe4iE%5Fhxjl%5FoCGhGJr4w&s=31) , a Ryzen 9 9950X owner has already submitted several benchmark runs to HWBot, featuring some potent results, including a top-five placement in the Time Spy Extreme CPU benchmark.
@@ -25,18 +19,6 @@ AMD's upcoming Ryzen 9 9950X Zen 5 flagship, which will compete against the[best
 
 ![HWBot Ryzen 9 9950X 5th place score](https://cdn.mos.cms.futurecdn.net/7Bfw4CBh7fsfLC6gWq66nW-320-80.png)
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 (Image credit: HWBot)
 
  The Zen 5 flagship also secured a 10th-place position in HWBot's 3DMark CPU Profile 1 Thread: Hall of Fame. The Ryzen 9 9950X achieved 1,393 marks flanked by unlocked 14th Gen, 13th Gen, 12th Gen, and 11th Gen parts, with all of these Intel chips running well over 6 GHz.
@@ -49,12 +31,6 @@ AMD's upcoming Ryzen 9 9950X Zen 5 flagship, which will compete against the[best
 
  The Ryzen 9 9950X's performance is impressive. The CPU leveraged AMD's PBO and Curve Optimizer technologies with speedy RAM. The system utilizes a custom loop to remain cool during the[benchmarks](https://www.tomshardware.com/tag/benchmark) . Extreme overclockers can break world records with this chip once they put it under liquid nitrogen.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -63,14 +39,11 @@ AMD's upcoming Ryzen 9 9950X Zen 5 flagship, which will compete against the[best
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -79,4 +52,25 @@ AMD's upcoming Ryzen 9 9950X Zen 5 flagship, which will compete against the[best
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-new-photography-these-are-your-cams-in-24/"><u>[New] New Photography? These Are Your Cams in '24</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-pro-tips-for-free-fast-effective-tv-show-recording/"><u>[Updated] 2024 Approved Pro Tips for FREE, Fast, Effective TV Show Recording</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-bcm20702a0-windows-drivers-fast-and-simple-solution/"><u>Download & Update BCM20702A0 Windows Drivers - Fast & Simple Solution</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-amd-vega-amo-56-driver-update-for-windows-systems-easily/"><u>Get the Latest AMD Vega Amo 56 Driver Update for Windows Systems Easily</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-install-latest-amd-drivers-on-windows-11107/"><u>How to Install Latest AMD Drivers on Windows 11/10/7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-quickly-update-your-nvidia-graphics-card-with-2021-drivers-on-windows-11/"><u>How to Quickly Update Your NVIDIA Graphics Card with 2021 Drivers on Windows 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-oppo-a79-5g-easily-by-drfone-android/"><u>In 2024, How To Unlock a Oppo A79 5G Easily?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/single-out-focal-point-using-affinity-for-2024/"><u>Single-Out Focal Point Using Affinity for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/stop-dns-errors-in-their-tracks-with-these-4-user-friendly-fixes/"><u>Stop DNS Errors in Their Tracks with These 4 User-Friendly Fixes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-tp-link-network-card-to-work-perfectly-on-windows-11-8-or-7-download-here/"><u>Update Your TP-Link Network Card to Work Perfectly on Windows 11, 8 or 7 - Download Here</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/upgrade-your-nvidia-rtx-2080-driver-version-for-optimal-gaming-experience-in-windows-10-or-11/"><u>Upgrade Your NVIDIA RTX 2080 Driver Version for Optimal Gaming Experience in Windows 10 or 11</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

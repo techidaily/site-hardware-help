@@ -1,7 +1,7 @@
 ---
 title: Direct Link to NVIDIA RTX 3080 Graphics Card Driver - Compatible with Windows Versions!
-date: 2024-09-20T03:44:05.789Z
-updated: 2024-09-20T18:20:38.824Z
+date: 2024-09-20T01:47:47.917Z
+updated: 2024-09-27T03:41:12.572Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
 
 **[Option 2: Manually](https://tools.techidaily.com/drivereasy/download/)**  – Some computer skills are required.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 1: Install/Update your RTX 3080 driver automatically (Recommended)
 
  If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -41,6 +48,13 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Once you’ve installed/updated your graphics driver, restart your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 ### Option 2: Install/Update your RTX 3080 driver manually
@@ -54,7 +68,28 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
  For**Download Type** , choose**Game Ready Driver (GRD)** for gaming purposes; or choose**Studio Driver (SD)** for graphic design.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/nvidia-3080-driver-official-dl.jpg)
 3. Click**Download** . Then run the install wizard to install the graphics driver.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3080-driver-dl.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -73,12 +108,19 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-essential-insights-mastering-youtube-keyword-strategies/"><u>[New] 2024 Approved Essential Insights Mastering YouTube Keyword Strategies</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-swiftly-move-data-fast-and-reliable-methods-to-direct-files-onto-your-computer/"><u>[New] In 2024, Swiftly Move Data Fast and Reliable Methods to Direct Files Onto Your Computer</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-elevating-ppt-impact-through-high-quality-recordings/"><u>[Updated] 2024 Approved Elevating PPT Impact Through High-Quality Recordings</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-master-the-art-of-choosing-high-end-hdr-cameras/"><u>[Updated] Master the Art of Choosing High-End HDR Cameras</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/converse-with-confidence-chatgpt-for-android/"><u>Converse with Confidence: ChatGPT for Android</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/geforce-rtx-3070-ti-download-official-graphics-cards-drivers-for-win-10-8-and-7-now/"><u>GeForce RTX 3070 Ti - Download Official Graphics Cards Drivers for Win 10, 8 & 7 Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-instant-access-step-by-step-to-download-your-validity-fingerprint-sensors-driver-now/"><u>Get Instant Access: Step-by-Step to Download Your Validity Fingerprint Sensor's Driver Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-the-newest-microsoft-bluetooth-driver-for-windows-10-11-8-and-7/"><u>How to Get the Newest Microsoft Bluetooth Driver for Windows 10, 11, 8 & 7</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-rogue-company-how-to-prevent-pc-disruptions/"><u>Troubleshooting Rogue Company: How to Prevent PC Disruptions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-tip-restarting-an-igfxem-module-that-wont-work-anymore/"><u>Troubleshooting Tip: Restarting an igfxEM Module that Won't Work Anymore</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unleash-the-power-of-nature-on-your-screen-the-durable-55-inch-veranda-tv-by-sunbrite/"><u>Unleash the Power of Nature on Your Screen - The Durable 55-Inch Veranda TV by SunBrite</u></a></li>
+</ul></div>
 

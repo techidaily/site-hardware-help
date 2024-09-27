@@ -1,7 +1,7 @@
 ---
 title: Elevate Your PC's Power with a 6GHz Idle & 5.8GHz Under Load AMD Ryzen 7 9700X and Superior AIO Cooler Setup
-date: 2024-09-09T16:16:23.859Z
-updated: 2024-09-10T16:16:23.859Z
+date: 2024-09-22T05:05:41.011Z
+updated: 2024-09-27T08:42:14.441Z
 tags:
   - cpu
 categories:
@@ -9,18 +9,6 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/JnL7SPk2pAXDEJpHivtsJ3-320-80.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Elevate Your CPU Game with an AMD Ryzen #9700X: Overclocking to 5.8GHz and Beyond Using Cutting-Edge AIO Liquid Coolers, Surpassing Expectations at a Steady Idle Speed of 6 GHz
 
 Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and the new[Ryzen 7 9700X](https://www.tomshardware.com/pc-components/cpus/amd-ryzen-5-9600x-cpu-review) , which rivals the[best CPUs](https://www.tomshardware.com/reviews/best-cpus,3986.html) . Professional overclocker Skatterbencher has already figured out how to push the 9700X to 5.8 GHz in single-core workloads. Skatterbencher published a[highly in-depth overclocking tutorial](https://skatterbencher.com/2024/08/07/skatterbencher-78-ryzen-7-9700x-overclocked-to-5860-mhz/) showcasing the feat. But he's not done yet. The overclocker also revealed that he successfully hit 6 GHz on the 9700X with traditional AIO liquid cooling.
@@ -35,18 +23,6 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
 
  Ryzen 7 9700X Undervolt & Overclock to 5860 MHz | SkatterBencher #78 - YouTube ![Ryzen 7 9700X Undervolt & Overclock to 5860 MHz | SkatterBencher #78 - YouTube](https://img.youtube.com/vi/3GV7q6CV7GY/maxresdefault.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Watch On](https://youtu.be/3GV7q6CV7GY)
 
  To get the core(s) to boost up to that frequency, SkatterBencher used a combination of AMD's Curve Optimizer and Curve Shaper to undervolt the CPU and enable PBO2, which increases the amount of power the CPU can consume. Undervolting on Ryzen CPUs gives them more headroom, allowing them to hit higher frequencies without running into other limitations such as voltage, power, or thermal limits.
@@ -55,12 +31,6 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
 
  With all these technologies working in tandem, the overclocker achieved an idle frequency of 5.86 GHz. In stress testing, the maximum single-thread clock speed was 5.758 GHz, with a maximum multi-core frequency of 5.454 GHz operating at 95.2 degrees Celsius at a package power of 172.1 watts.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -71,14 +41,11 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
 
  SkatterBencher's 5.8 GHz and 6 GHz overclocks represent the highest on the new 9700X. Der8auer and Overclocking.com showcased their respective overclocks on the 9700X but could only eke out 5.4G Hz. The main difference was that both outlets did manual overclocks, whereas SkatterBencher used AMD's plethora of overclocking tools, enabling them to hit higher frequencies.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -87,4 +54,29 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-a-deep-dive-into-effective-youtube-banner-techniques/"><u>[New] 2024 Approved A Deep Dive Into Effective YouTube Banner Techniques</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/reakdown-of-ad-revenue-average-income-for-youtube-vids-for-2024/"><u>[New] Breakdown of Ad Revenue Average Income for YouTube Vids for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-enhance-imagery-with-elegant-borders-ig-edition/"><u>[Updated] 2024 Approved Enhance Imagery with Elegant Borders – IG Edition</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-navigating-the-maze-of-multi-service-playlist-transfer/"><u>[Updated] Navigating the Maze of Multi-Service Playlist Transfer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-8-people-searching-engines-a-comprehensive-guide/"><u>Best 8 People-Searching Engines: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-the-connection-a-guide-to-resolving-apple-watch-pairing-problems-6-tips/"><u>Fixing the Connection: A Guide to Resolving Apple Watch Pairing Problems (6 Tips)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-lenovo-x1-carbon-drivers-quick-and-easy-download-guide-for-win-10-and-7-users/"><u>Get Your Lenovo X1 Carbon Drivers: Quick and Easy Download Guide for Win 10 & 7 Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-msi-speakers-and-headphones-up-to-date-with-new-drivers-windows/"><u>Get Your MSI Speakers & Headphones Up-to-Date with New Drivers [Windows]</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-updated-geforce-rtx-2070-graphics-card-drivers-on-windows-systems/"><u>Installing Updated GeForce RTX 2070 Graphics Card Drivers on Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-logitech-rx-250-driver-software-for-windows-operating-systems-download-now/"><u>Latest Logitech RX-250 Driver Software for Windows Operating Systems - Download Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/m-audio-fast-track-driver-supported-on-multiple-os-platforms-windows-11-7-8-and-81-download-options/"><u>M-Audio Fast Track Driver Supported on Multiple OS Platforms: Windows 11, 7, 8, and 8.1 Download Options.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-start-how-to-find-and-install-the-right-toshiba-printer-drivers-on-windows-systems/"><u>Quick Start: How to Find & Install the Right Toshiba Printer Drivers on Windows Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-btballoondll-file-absence-effective-troubleshooting-steps/"><u>Resolving 'BTBalloon.DLL' File Absence: Effective Troubleshooting Steps</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-device-connection-errors-when-casting-in-windows-11/"><u>Resolving Device Connection Errors when Casting in Windows 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-honor-play-7t-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Honor Play 7T without Them Knowing | Dr.fone</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

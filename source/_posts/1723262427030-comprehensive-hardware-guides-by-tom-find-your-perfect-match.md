@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Hardware Guides by Tom - Find Your Perfect Match!
-date: 2024-09-09T16:16:24.410Z
-updated: 2024-09-10T16:16:24.410Z
+date: 2024-09-23T22:21:14.623Z
+updated: 2024-09-27T01:52:41.009Z
 tags:
   - desktop
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/BxTmiQb6pz8QDvNGTwZtY6-320-80.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Discover Tom's Ultimate Guide to Computer Components - Your One-Stop Tech Resource
 
 Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs like this are commonly described as having adopted the[MoDT](https://www.tomshardware.com/news/intel-raptor-lake-mobile-chips-get-soldered-to-micro-atx-motherboards) (Mobile on Desktop) hybrid design.[Mini PCs](https://www.tomshardware.com/desktops/mini-pcs/minisforum-atomman-g7-pt-touted-as-worlds-first-amd-advantage-mini-pc-packs-an-amd-r9-7945hx-and-rx-7600m-xt) and[All-in-Ones](https://www.tomshardware.com/tag/all-in-one-pcs) were the first to make MoDT popular, but they also usually used mobile GPUs (or just integrated graphics). In contrast, Lenovo’s new Legion 7000K PC series, now[available in China](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fitem.lenovo.com.cn%2Fproduct%2F1037096.html) , come in sizable tower cases and are sold with powerful Nvidia[GeForce RTX 40](https://www.tomshardware.com/features/nvidia-ada-lovelace-and-geforce-rtx-40-series-everything-we-know) series GPUs pre-installed.
@@ -23,12 +17,6 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
 ![Lenovo Legion 7000K gaming PCs](https://cdn.mos.cms.futurecdn.net/KiWmBjf3WBxdHs7uNFYu2U-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Lenovo)
 
  Looking more closely at the new Legion 7000K machines, we see that they come with a choice between two pretty strong Intel Raptor Lake Refresh mobile CPUs. The most powerful option is the[Core i9-14900HX](https://www.tomshardware.com/pc-components/cpus/intel-unleashes-14th-gen-raptor-lake-refresh-hx-series-laptops-cpus-refreshed-chips-with-up-to-24-cores-58-ghz-boost-clock-and-192gb-ddr5-support) , with 24C/32C, clock speeds up to 5.8 GHz, and 36MB Smart Cache. This powerful chip can be quite thrifty with its 55W base power, but also has a max turbo power of a laptop-melting 157W. In[Geekbench](https://browser.geekbench.com/processor-benchmarks) nT rankings, for example, the performance of this CPU sits snugly between the Core i9-13900 and the Ryzen 9 PRO 7945 desktop chips – so it isn’t a lightweight.
@@ -41,24 +29,12 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
 ![Lenovo Legion 7000K gaming PCs](https://cdn.mos.cms.futurecdn.net/KHmtZBvJU6LcChAReYSDBU-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Lenovo)
 
  Another spec of the Legion 7000K gaming desktop that users will have to decide upon is what GPU to choose. The product page allows the choice of RTX 4060 / Ti, RTX 4070 Ti / Super. As with a traditional desktop PC, users can upgrade at any time later.
 
  Lastly, the new Legion systems come with a standard 32GB DDR5-5600 dual-channel RAM and 1TB[PCIe Gen4 storage](https://www.tomshardware.com/reviews/best-ssds,3891.html) . Again, upgrades shouldn’t be a problem in the future with SODIMMs presumably used for RAM, and two M.2 slots and two SATA ports available for storage.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -77,8 +53,6 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -86,4 +60,23 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-fusing-images-online-and-desktop-harmoniously/"><u>[New] Fusing Images Online & Desktop Harmoniously</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-snappro-v3-windows-screen-mastery/"><u>[New] In 2024, SnapPro V3 Windows Screen Mastery</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-drivers-for-hp-deskjet-3700-enhance-printing-quality-now/"><u>Download and Update Drivers for HP DeskJet 3700 - Enhance Printing Quality Now!</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/faceless-watchers-of-fb-flashbacks-for-2024/"><u>Faceless Watchers of Fb Flashbacks for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-updated-network-adapter-drivers-tp-link-support-for-win-10-8-and-7/"><u>Get Updated Network Adapter Drivers | TP-Link Support for Win 10, 8 & 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-download-and-install-official-logitech-speaker-drivers-on-windows-10-8-or-7-computers/"><u>How to Download and Install Official Logitech Speaker Drivers on Windows 10, 8 or 7 Computers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-techkey-bluetooth-adapter-supported-on-windows-10-7-and-8-driver-downloads-available/"><u>Install Techkey Bluetooth Adapter – Supported on Windows 10, 7 & 8 - Driver Downloads Available</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/mastering-twitter-setup-in-5-steps-for-2024/"><u>Mastering Twitter Setup in 5 Steps for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-solving-outpost-beyond-the-boundary-pc-crash-issues/"><u>Ultimate Guide: Solving 'Outpost: Beyond the Boundary' PC Crash Issues</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

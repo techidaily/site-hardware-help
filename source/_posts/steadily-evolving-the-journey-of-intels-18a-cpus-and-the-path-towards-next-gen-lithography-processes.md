@@ -1,7 +1,7 @@
 ---
 title: "Steadily Evolving: The Journey of Intel's 18A CPUs and the Path Towards Next-Gen Lithography Processes"
-date: 2024-09-09T16:16:24.166Z
-updated: 2024-09-10T16:16:24.166Z
+date: 2024-09-20T01:18:26.732Z
+updated: 2024-09-27T07:13:15.641Z
 tags:
   - cpu
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/febc5e8eb723097c959ee0c4369a98c541397c828606f3e607457279dcc62863.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Beyond Repair: Intel's Mainline Non-K Core Processors Suffer Crashing Fiasco, No Recall in the Works
 
 Intel has now divulged that the crashing issue affecting 13th and 14th-gen processors impacts all 65W and higher CPUs, meaning even more mainstream un-overclockable models are impacted.[Intel announced Monday](https://www.tomshardware.com/pc-components/cpus/intel-finally-announces-a-solution-for-cpu-crashing-errors-claims-elevated-voltages-are-the-root-cause-fix-coming-by-mid-august) that, even though it still continues to investigate, it had finally gotten to the bottom of crashing issues plaguing its chips. As we reported on Monday, the microcode update is coming in mid-August, but if the bug has already damaged your CPU, you’re out of luck — the damage is irreversible, and the chip will need to be replaced. Intel has no plans to do a recall, but it is replacing impacted processors.
@@ -33,12 +27,6 @@ Intel has now divulged that the crashing issue affecting 13th and 14th-gen proce
 
  What’s troubling is that Intel has not and will not issue a recall for the affected CPUs. It also hasn’t halted processor sales pending the updated microcode rolling out.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -47,14 +35,11 @@ Intel has now divulged that the crashing issue affecting 13th and 14th-gen proce
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -63,4 +48,33 @@ Intel has now divulged that the crashing issue affecting 13th and 14th-gen proce
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-the-editors-playbook-for-drone-imagery/"><u>[New] In 2024, The Editor's Playbook for Drone Imagery</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-kid-friendly-quadcopters-top-5-selection-guide/"><u>[New] Kid-Friendly Quadcopters Top 5 Selection Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-boost-your-videos-reach-prime-time-strategy-for-2024/"><u>[Updated] Boost Your Video's Reach Prime Time Strategy for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/create-gifs-from-apng-files-at-no-cost-discover-how-with-movavis-simple-tool/"><u>Create GIFs From APNG Files at No Cost - Discover How with Movavi's Simple Tool!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-gameplay-update-acer-predator-helios-300-graphics-card-drivers/"><u>Enhance Your Gameplay: Update Acer Predator Helios 300 Graphics Card Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-capabilities-of-the-rodecaster-duo-a-comprehensive-guide-for-content-creators/"><u>Exploring the Capabilities of the Rodecaster Duo: A Comprehensive Guide for Content Creators</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fast-and-simple-download-official-asus-monitor-drivers/"><u>Fast & Simple Download: Official ASUS Monitor Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-driver-for-your-geforce-gtx-1050-quick-and-easy-installation-guide/"><u>Get the Latest Driver for Your Geforce GTX 1050 - Quick and Easy Installation Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-laptop-running-smoothly-with-latest-nvidia-geforce-rtx-940mx-graphics-driver-download/"><u>Get Your Laptop Running Smoothly with Latest NVIDIA GeForce RTX 940MX Graphics Driver Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-fix-driver-compatibility-issues-with-arduino-uno-on-windows-os/"><u>How To Fix Driver Compatibility Issues With Arduino Uno On Windows OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-deskjet-inkjet-all-in-one-printer-driver-update-for-seamless-printing-on-windows-10/"><u>HP Deskjet Inkjet All-in-One Printer Driver Update for Seamless Printing on Windows 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-graphics-card-software-for-asus-z170-board-compatible-with-windows-1087-download-here/"><u>Latest Graphics Card Software for ASUS Z170 Board Compatible with Windows 10/8/7: Download Here</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-upgrading-and-downloading-of-drivers-for-your-microsoft-surface-book/"><u>Seamless Upgrading and Downloading of Drivers for Your Microsoft Surface Book</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-finding-downloading-and-updating-windows-sata-drivers/"><u>Step-by-Step Tutorial: Finding, Downloading, and Updating Windows SATA Drivers</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-inherent-issues-gamers-as-the-new-developers/"><u>The Inherent Issues: Gamers as the New Developers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-5-free-mac-dvd-ripper-apps-of-2020-compatible-with-big-sur-os/"><u>Top 5 Free Mac DVD Ripper Apps of 2020 Compatible with Big Sur OS</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unlock-victory-how-to-overcome-apex-legends-error-n23-challenge/"><u>Unlock Victory: How to Overcome Apex Legends Error N23 Challenge</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/m4vwav-online-movavi/"><u>무료 바이널 M4V/WAV 형식 전환 - Online 접근 가능: Movavi</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

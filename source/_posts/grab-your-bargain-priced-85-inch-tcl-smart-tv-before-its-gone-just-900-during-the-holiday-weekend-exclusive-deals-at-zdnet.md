@@ -1,7 +1,7 @@
 ---
 title: Grab Your Bargain-Priced 85-Inch TCL Smart TV Before It's Gone! Just $900 During the Holiday Weekend - Exclusive Deals at ZDNet
-date: 2024-09-15T21:38:21.314Z
-updated: 2024-09-21T00:22:14.222Z
+date: 2024-09-23T00:30:42.032Z
+updated: 2024-09-27T05:17:30.862Z
 tags:
   - tvs
 categories:
@@ -83,6 +83,13 @@ Kerry Wan/ZDNET
 
 Lastly, WebOS 24 is much cleaner and more organized than previous software versions, with dedicated Quick Cards for office, gaming, smart home, sports, and other modes and improved accessibility features. I just wish the top banner, which takes up about one-third of the screen, displayed more useful information than simply ads or no ads. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [LG QNED90T](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flg-65-class-90-series-qned-mini-led-4k-uhd-smart-webos-tv%2F6578052.p%3FskuId%3D6578052&publisher_slug=itechdaily19598&exclusive=1) is a confusingly good TV; it's no OLED TV, but it performed well enough to make me forget about my C2 OLED for several weeks. For a Mini LED set, you can expect superior picture detail and colors that get plenty bright while staying accurate. The additional AI features are helpful if you're unfamiliar with how to best [tweak your TV's display settings](https://www.zdnet.com/home-and-office/home-entertainment/i-changed-these-5-tv-settings-to-drastically-improve-the-picture-quality/), but you won't miss out on much if you opt out of the services.
@@ -117,12 +124,24 @@ With a starting price of $1,899 for the 65-inch size, the LG QNED90T sits awkwar
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-unlocking-metaverse-potential-top-7-innovations-to-master/"><u>[Updated] In 2024, Unlocking Metaverse Potential - Top 7 Innovations to Master</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitter-marketing-101-step-by-step-guide/"><u>[Updated] Twitter Marketing 101 Step-by-Step Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-in-depth-guide-to-live-photos-and-full-screen-videos-on-iphones/"><u>2024 Approved In-Depth Guide to Live Photos and Full-Screen Videos on iPhones</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-ryzen-user-friendly-driver-update-and-download-tips-for-a-smooth-experience/"><u>AMD Ryzen User-Friendly Driver Update & Download Tips for a Smooth Experience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-installation-comprehensive-guide-to-your-free-behringer-usb-audio-software/"><u>Effortless Installation: Comprehensive Guide to Your Free Behringer USB Audio Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-microsoft-drivers-installation-and-updates-for-windows-10-8-and-7/"><u>Effortless Microsoft Drivers Installation and Updates for Windows 10, 8 & 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ensure-smooth-operation-installing-missing-hardware-drivers-on-your-new-windows-11-computer/"><u>Ensure Smooth Operation: Installing Missing Hardware Drivers on Your New Windows 11 Computer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/guide-successfully-downloading-and-updating-asus-wi-fi-drivers/"><u>Guide: Successfully Downloading and Updating ASUS Wi-Fi Drivers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-does-ray-tracing-work-in-computer-graphics/"><u>How Does Ray Tracing Work in Computer Graphics?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-tecno-camon-20-pro-5g-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Tecno Camon 20 Pro 5G.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-successfully-install-and-update-broadcom-gigabit-ethernet-drivers-on-windows-11/"><u>How to Successfully Install and Update Broadcom Gigabit Ethernet Drivers on Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-successfully-refresh-lenovos-docking-station-with-newest-drivers/"><u>How to Successfully Refresh Lenovo's Docking Station with Newest Drivers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/illustrate-effortlessly-prime-ios-design-software-for-2024/"><u>Illustrate Effortlessly Prime iOS Design Software for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722967268566-install-new-driver-for-canon-pixma-ts3322-secure-your-free-downloads-today/"><u>Install New Driver for Canon PIXMA TS3322 – Secure Your Free Downloads Today</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-your-iphones-display-difficulties-a-breakdown-of-the-top-7-challenges-and-fixes/"><u>Overcoming Your iPhone's Display Difficulties: A Breakdown of the Top 7 Challenges and Fixes</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/secure-your-screen-captures-online-for-2024/"><u>Secure Your Screen Captures Online for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-motorola-defy-2-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Motorola Defy 2 Device</u></a></li>
+</ul></div>
 
