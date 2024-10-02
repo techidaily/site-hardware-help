@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Instructions for Configuring Your Logitech MX Series Mouse
-date: 2024-09-23T04:07:59.260Z
-updated: 2024-09-26T22:17:33.041Z
+date: 2024-09-25T04:45:22.357Z
+updated: 2024-10-02T07:26:54.169Z
 tags:
   - win11
   - win10
@@ -43,6 +43,20 @@ OR
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap40.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ). Or if you just want to update the Targus Docking Station driver for now, hit the**Update** button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-361.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:** you can do it for free if you like, but it’s partly manual.
 
  If you have any problems when using Driver Easy to update your driver, please feel free to email us at**<support@drivereasy.com>** .
@@ -52,10 +66,10 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 2: Manually update your Targus Docking Station driver
@@ -65,38 +79,32 @@ OR
 1. Find your way to the official website of[Targus](https://us.targus.com/) .
 2. In the top right of this web page, click**Support** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-365.png)
 3. Select**Drivers & Manuals** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-367.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Type the**model name** or**serial number** of your Targus device into the search box to locate the corresponding drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-368.png) Alternatively, you may select**Category** and then**Product** to look for the drivers of your Docking Station.![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-160.png)
 5. After locating the corresponding driver for your product, click on the**Download** button below.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-372.png)
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Right-click on the file (with a ZIP extension) you’ve just downloaded to open the context menu. Then click**Extract All…** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-375.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. In the pop-up window, click**Browse…** and choose a destination folder where you want to decompress the file. Then, click**Extract** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-376.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Wait till the decompression process finishes. Then**copy** the full path of the destination folder. (The path will be different based on your choice in the last step. )![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-20_15-47-31.png)
@@ -104,13 +112,6 @@ OR
 10. In the**Device Manager** window, locate your Targus Docking Station and then right-click on it to open the context menu. Select**Update driver** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap14-1.png)
 11. If prompted, click**Browse my computer for driver software** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-384.png)
 12. **Paste** the full path copied in**Step 8** onto the address bar. Remember to check the **Include subfolders** box. Then hit the **Next** button.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-387.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 13. Now Windows will search for the driver and install it automatically. When everything’s done, click**Finish** . Then **restart** your computer for the changes to take effect even if you’re not asked to.
 
@@ -135,24 +136,21 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-color-keying-simplified-an-all-inclusive-beginners-manual-on-green-screens-for-2024/"><u>[New] Color Keying Simplified An All-Inclusive Beginner's Manual on Green Screens for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mastering-key-film-snippets-with-ranked-tools/"><u>[New] Mastering Key Film Snippets with Ranked Tools</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-best-box-customization-havens-on-the-internet/"><u>[Updated] 2024 Approved Best Box-Customization Havens on the Internet</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-essential-strategies-for-memorable-youtube-closings/"><u>[Updated] 2024 Approved Essential Strategies for Memorable YouTube Closings</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-simple-steps-keeping-a-record-of-google-voice-calls/"><u>2024 Approved Simple Steps Keeping a Record of Google Voice Calls</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-newly-released-hp-officejet-3670-software-drivers-2024-version/"><u>Download the Newly Released HP OfficeJet 3670 Software Drivers (2024 Version)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-install-automatically-detected-download-of-amd-drivers/"><u>Easy Install: Automatically Detected Download of AMD Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-tips-and-tricks-how-to-refresh-motherboard-software-for-windows-users/"><u>Easy Tips & Tricks: How to Refresh Motherboard Software for Windows Users</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/expert-curated-selection-of-best-ps3-simulators-pc-edition/"><u>Expert-Curated Selection of Best PS3 Simulators (PC Edition)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-hp-deskjet-ink-advantage-3520-drivers-downloads-quick-start-guide/"><u>Free HP Deskjet Ink Advantage 3520 Drivers Downloads – Quick Start Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-lenovo-x260-thinkpad-driver-updates-for-windows-10-free-downloads-available-now/"><u>Get the Latest Lenovo X260 (ThinkPad) Driver Updates for Windows 10 - Free Downloads Available Now</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-your-konica-minolta-printer-running-on-any-windows-os-free-drivers-available-here/"><u>Get Your Konica Minolta Printer Running on Any Windows OS - Free Drivers Available Here!</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/honor-data-recovery-recover-lost-data-from-honor-90-gt-by-fonelab-android-recover-data/"><u>Honor Data Recovery – recover lost data from Honor 90 GT</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-download-and-install-toshiba-copier-software-on-windows-computers/"><u>How to Download & Install Toshiba Copier Software on Windows Computers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-freeloading-without-breaking-your-budget-on-aes/"><u>In 2024, Freeloading Without Breaking Your Budget on AEs</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-infinix-gt-10-pro-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Infinix GT 10 Pro to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/seamless-installation-get-the-latest-amd-radeon-rx-6800-xt-drivers-now/"><u>Seamless Installation: Get the Latest AMD Radeon RX 6800 XT Drivers Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-or-install-secure-the-newest-amd-smbus-drivers-in-a-flash/"><u>Update or Install? Secure the Newest AMD SMBus Drivers in a Flash!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-your-epson-l3150-printer-driver-on-windows-version-compatibility-with-11-8-and-7/"><u>Update Your Epson L3150 Printer Driver on Windows - Version Compatibility with 11, 8 and 7</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ttract-1000-viewers-quickly-on-youtube/"><u>[New] Attract 1,000 Viewers Quickly on YouTube</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-peak-interactive-webcam-fun-fests/"><u>[New] In 2024, Peak Interactive Webcam Fun Fests</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-through-the-eye-a-top-ten-glimpse-at-2024s-superior-camera-lenses/"><u>[New] Through The Eye A Top Ten Glimpse at 2024'S Superior Camera Lenses</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-kickstart-your-twitch-streaming-journey/"><u>[Updated] 2024 Approved Kickstart Your Twitch Streaming Journey</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/harmonizing-your-windows-photos-how-to-incorporate-audio-visual-features/"><u>Harmonizing Your Windows Photos How to Incorporate Audio-Visual Features</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pinnacle-deskviewers-elite-all-in-one-display-hubs-for-2024/"><u>Pinnacle DeskViewers Elite All-in-One Display Hubs for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/recovering-deleted-drives-top-partition-rescue-tools-explained/"><u>Recovering Deleted Drives: Top Partition Rescue Tools Explained</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/reimagine-your-snapchat-chats-with-ease-voice-change-guides-here/"><u>Reimagine Your Snapchat Chats with Ease Voice Change Guides Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-expert-advice-on-hardware/"><u>Tom's Tech Insights: Expert Advice on Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-review-unbiased-insights-on-hardware/"><u>Tom's Tech Review: Unbiased Insights on Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-review-of-the-titan-p2-27a2r-monitor-exceptional-value-for-high-speed-gamers/"><u>Top Review of the Titan P2#-27A2R Monitor: Exceptional Value for High-Speed Gamers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/transform-your-gameplay-score-the-acer-nitro-27-inch-gaming-monitor-at-an-amazing-price/"><u>Transform Your Gameplay: Score the Acer Nitro 27-Inch Gaming Monitor at an Amazing Price!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unleash-your-gaming-potential-with-a-massive-39-inch-lg-ultragear-monitor-only-999-at-amazon-today/"><u>Unleash Your Gaming Potential with a Massive 39-Inch LG Ultragear Monitor – Only $999 at Amazon Today!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlocking-the-potential-of-xiaomi-g34wqi-monitor-a-deep-dive-into-34-inches-180hz-speed-and-remarkable-picture-quality-for-gamers-on-a-budget/"><u>Unlocking the Potential of Xiaomi G34WQi Monitor - A Deep Dive Into 34 Inches, 180Hz Speed, and Remarkable Picture Quality for Gamers on a Budget</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-latest-in-tech-toms-system-analysis-and-guides/"><u>Unveiling the Latest in Tech: Tom's System Analysis and Guides</u></a></li>
 </ul></div>
 

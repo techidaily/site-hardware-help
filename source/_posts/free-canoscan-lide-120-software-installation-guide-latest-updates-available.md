@@ -1,7 +1,7 @@
 ---
 title: "Free CanoScan LiDE 120 Software Installation Guide: Latest Updates Available"
-date: 2024-09-21T21:55:45.055Z
-updated: 2024-09-26T18:39:32.170Z
+date: 2024-09-25T02:27:25.164Z
+updated: 2024-10-01T18:56:08.341Z
 tags:
   - win11
   - win10
@@ -42,35 +42,36 @@ thumbnail: https://thmb.techidaily.com/509fff23b0ac771700c9cc9f462572328b6f939b9
 3. Type**device** into the search box. Then select**Device Manager** from a list of search results.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1098.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Here comes**Device Manager** . Click the**▷** symbol to the left of**Biometric Devices** to expand its drop-down list.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1073.png)
 5. Right-click on**Validity Sensors (WBF)** to open its context menu. Then select**Update Driver Software…** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-11-03.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Click**Search automatically for updated driver software** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-18-21.png)
 7. Wait till the download and installation process finishes.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Click **Close** when it’s all done.
 9. Now your driver has been updated by Windows successfully. Don’t forget to**restart** your computer for the changes to take effect even if you’re not asked to.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Option 2 – Update your driver from official websites**
 
@@ -93,10 +94,10 @@ thumbnail: https://thmb.techidaily.com/509fff23b0ac771700c9cc9f462572328b6f939b9
 3. Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your Validity fingerprint sensor driver for now, simply click the**Update** button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-29_18-36-48-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -127,20 +128,24 @@ thumbnail: https://thmb.techidaily.com/509fff23b0ac771700c9cc9f462572328b6f939b9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/he-art-of-thumbnail-design-choosing-best-fonts-for-2024/"><u>[New] The Art of Thumbnail Design Choosing Best Fonts for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-best-brain-teasers-selecting-prime-trivia-channels/"><u>[New] The Best Brain Teasers - Selecting Prime Trivia Channels</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/1715859905295-2024-approved-apocalypse-arena-top-8-zombie-games-showdown-ranked/"><u>2024 Approved Apocalypse Arena Top 8 Zombie Games Showdown Ranked!</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-expert-techniques-for-capturing-and-recording-streamed-content/"><u>2024 Approved Expert Techniques for Capturing & Recording Streamed Content</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-virtual-stage-enhancement-zooms-filter-guidebook/"><u>2024 Approved The Virtual Stage Enhancement Zoom's Filter Guidebook</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722962605580-download-and-update-amd-smbus-drivers-fast-step-by-step-guide/"><u>Download and Update AMD SMBus Drivers Fast: Step-by-Step Guide!</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/driving-traffic-with-creative-fb-video-marketing-hacks-for-2024/"><u>Driving Traffic with Creative FB Video Marketing Hacks for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-steps-for-downloading-your-logitech-g4nce-gaming-mouse-driver/"><u>Easy Steps for Downloading Your Logitech G4nce Gaming Mouse Driver</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-amd-radeon-drivers-for-your-windows-pc/"><u>Get the Latest AMD Radeon Drivers for Your Windows PC</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-amd-rx-6800-driver-update-now-optimized-for-windows-operating-systems-including-11-10-8-and-7/"><u>Get Your AMD RX 6800 Driver Update Now: Optimized for Windows Operating Systems Including 11, 10, 8 & 7!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-samsung-adb-drivers-instantly-expert-downloading-guide/"><u>Get Your Samsung ADB Drivers Instantly: Expert Downloading Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-combining-obs-and-zoom-a-step-by-step-guide/"><u>In 2024, Combining OBS and Zoom A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-the-path-to-professional-presence-youtube-tips-and-tricks/"><u>In 2024, The Path to Professional Presence YouTube Tips & Tricks</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-latest-logitech-speakers-drivers-on-windows-1178-direct-download-links/"><u>Install Latest Logitech Speakers' Drivers on Windows 11/7/8 - Direct Download Links</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/prime-platforms-3d-models-in-animation-for-2024/"><u>Prime Platforms 3D Models in Animation for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-quantifying-the-fortune-of-mr-beast/"><u>[New] 2024 Approved Quantifying the Fortune of Mr. Beast</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-premier-websites-revealed-acquiring-personalized-youtube-ringtones/"><u>[New] Premier Websites Revealed Acquiring Personalized YouTube Ringtones</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-affordable-high-definition-cams-for-adventure-enthusiasts/"><u>2024 Approved Affordable High Definition Cams for Adventure Enthusiasts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-samsung-c460-drivers-easily-step-by-step/"><u>Download & Install Samsung C460 Drivers Easily – Step-by-Step</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/find-and-download-updated-amd-vega-56-drivers-for-optimal-performance-on-pcs-with-windows-os/"><u>Find & Download Updated AMD Vega 56 Drivers for Optimal Performance on PCs with Windows OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-epson-stylus-nx420-up-and-running-driver-downloads-for-win-7810/"><u>Get Your Epson Stylus NX420 Up and Running: Driver Downloads for Win 7/8/10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hassle-free-setup-download-and-update-your-scansnap-driver-for-windows-now/"><u>Hassle-Free Setup: Download & Update Your ScanSnap Driver for Windows Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-fetch-the-latest-epson-wf-3520-driver-software-for-windows-devices/"><u>How to Fetch the Latest Epson WF-3520 Driver Software for Windows Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-properly-download-and-set-up-a-mouse-driver-for-your-windows-7-system/"><u>How to Properly Download and Set Up a Mouse Driver for Your Windows 7 System</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-deskjet-3700-update-to-the-latest-driver-version-and-download-options-explained/"><u>HP DeskJet 3700: Update to the Latest Driver Version & Download Options Explained</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-simplified-steps-for-cutting-top-sports-videos/"><u>In 2024, Simplified Steps for Cutting Top Sports Videos</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/outstanding-performance-meets-great-deals-on-the-oculus-quest-2-a-detailed-review-of-a-top-vr-headset/"><u>Outstanding Performance Meets Great Deals on the Oculus Quest 2: A Detailed Review of a Top VR Headset</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-oppo-a18-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/realtek-rtl8188ee-wifi-adapter-compatible-devices-and-installation-guide/"><u>Realtek RTL8188EE WiFi Adapter: Compatible Devices & Installation Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-advanced-computer-components-guide/"><u>Tom's Tech Insights: Advanced Computer Components Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-vivo-y17s-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Vivo Y17s Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-samsung-galaxy-m34-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Samsung Galaxy M34 5G IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavi-3gpp-m4a-3d/"><u>무료 인터넷에서 Movavi로 3GPP M4A 표시를 위해 3D 가상 공간 변환 기술 - 오디오/비디오</u></a></li>
 </ul></div>
 

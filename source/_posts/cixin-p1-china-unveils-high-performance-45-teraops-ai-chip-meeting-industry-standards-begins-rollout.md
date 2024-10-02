@@ -1,7 +1,7 @@
 ---
 title: "Cixin P1: China Unveils High-Performance, 45 TeraOps AI Chip Meeting Industry Standards – Begins Rollout"
-date: 2024-09-24T08:41:43.844Z
-updated: 2024-09-26T23:55:24.070Z
+date: 2024-09-29T11:54:09.746Z
+updated: 2024-10-01T21:21:20.184Z
 tags:
   - cpu
 categories:
@@ -57,35 +57,29 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-elite-top-10-4k-monitors-list/"><u>[New] In 2024, Elite Top 10 4K Monitors List</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-top-tier-eyeball-enticer-author/"><u>[Updated] In 2024, Top-Tier Eyeball Enticer Author</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-epson-ds-530-printer-driver-for-windows-11-x64/"><u>Download & Install Epson DS-530 Printer Driver for Windows 11 X64</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-latest-epson-xp-330-driver-for-optimal-printing-performance/"><u>Download the Latest Epson XP-330 Driver for Optimal Printing Performance</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/empower-your-world-with-gpt-4-heres-how-it-happens/"><u>Empower Your World with GPT-4 - Here's How It Happens</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-x-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone X After Forgetting my PIN Code? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-get-the-newest-drivers-for-your-geforce-gtx-1650-super-on-windows-11-easy-update-steps/"><u>How to Get the Newest Drivers for Your GeForce GTX 1650 Super on Windows 11 - Easy Update Steps!</u></a></li>
-<li><a href="https://techidaily.com/how-to-install-the-latest-iosipados-beta-version-on-apple-iphone-14-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS/iPadOS Beta Version on Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/maximize-visuals-and-speed-in-gaming-with-updated-gtx-1660-ti-drivers-step-by-step-tutorial/"><u>Maximize Visuals and Speed in Gaming with Updated GTX 1660 Ti Drivers – Step-by-Step Tutorial</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-on-acquiring-and-setting-up-epson-xp-830-drivers/"><u>Step-by-Step Tutorial on Acquiring and Setting Up Epson XP-830 Drivers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-fixes-for-when-your-ethernet-wont-work-on-windows-11-and-7-systems/"><u>The Ultimate Fixes for When Your Ethernet Won't Work on Windows 11 & 7 Systems</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-the-best-ipad-ever-why-the-2018-apple-pro-model-outshines-others-on-amazon/"><u>The Ultimate Guide to the Best iPad Ever – Why the 2018 Apple Pro Model Outshines Others on Amazon</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/tips-for-risk-free-youtube-video-mp4-downloading-for-2024/"><u>Tips for Risk-Free YouTube Video MP4 Downloading for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-download-guide-set-up-logitech-racing-wheels-for-gaming-on-windows-operating-systems-7810/"><u>Ultimate Download Guide: Set Up Logitech Racing Wheels For Gaming on Windows Operating Systems (7/8/10)</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unleash-full-potential-installing-latest-canon-printer-drivers-win11/"><u>Unleash Full Potential: Installing Latest Canon Printer Drivers Win11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-your-logitech-g203-on-any-windows-system-with-these-easy-driver-downloads/"><u>Update Your Logitech G203 on Any Windows System with These Easy Driver Downloads</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/upgrade-your-screen-experience-free-driver-downloads-for-targus-displaylink-on-win11-8-and-7/"><u>Upgrade Your Screen Experience – Free Driver Downloads for Targus DisplayLink on Win11, 8 & 7</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-break-boundaries-get-free-vob-handling-toolset-pc-and-mac/"><u>[Updated] 2024 Approved Break Boundaries Get Free VOB Handling Toolset (PC & Mac)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-outstanding-movies-beyond-the-leading-titles/"><u>[Updated] Outstanding Movies Beyond the Leading Titles</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-the-ultimate-guide-to-choosing-between-igtv-and-youtube-for-content-creators/"><u>2024 Approved The Ultimate Guide to Choosing Between IGTV & YouTube for Content Creators</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722969783470-comprehensive-guide-to-microsoft-driver-update-for-windows-1187-made-easy/"><u>Comprehensive Guide to Microsoft Driver Update for Windows 11/8/7 Made Easy</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-latest-amd-radeon-rx-5700-xt-drivers-compatible-with-windows-11-10-8-and-7/"><u>Download Latest AMD Radeon RX 5700 XT Drivers: Compatible with Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-mpow-bluetooth-drivers-updates-for-windows-1087/"><u>Download MPOW Bluetooth Drivers: Updates for Windows 10/8/7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-insights-from-toms-digital-world-of-technology/"><u>Expert Insights From Tom's Digital World of Technology</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-a-comprehensive-tutorial-for-tiktok-stitched-content/"><u>In 2024, A Comprehensive Tutorial for TikTok Stitched Content</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-xiaomi-redmi-13c-by-drfone-android/"><u>In 2024, How to Bypass FRP on Xiaomi Redmi 13C?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-honor-x50iplus-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Honor X50i+ Phone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-nokia-105-classic-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Nokia 105 Classic Phone? Unlock It Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-graphics-driver-update-for-amd-radeon-pro-w57w5700-on-windows-systems/"><u>Latest Graphics Driver Update for AMD Radeon Pro W57_W5700 on Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/protect-your-game-experience-developer-rolls-out-crash-alert-for-intels-latest-processors-follow-these-steps-to-prevent-downtime/"><u>Protect Your Game Experience: Developer Rolls Out Crash Alert for Intel's Latest Processors - Follow These Steps to Prevent Downtime</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/stepwise-guide-to-transform-youtube-clips-into-animated-gifs-for-2024/"><u>Stepwise Guide to Transform Youtube Clips Into Animated GIFs for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/there-is-a-number-of-software-that-you-can-use-to-achieve-the-manipulation-of-your-files-in-this-way-below-are-five-of-the-most-popular-mpeg-video-joiners-f/"><u>There Is a Number of Software that You Can Use to Achieve the Manipulation of Your Files in This Way. Below Are Five of the Most Popular MPEG Video Joiners for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/up-to-date-driver-download-guide-for-your-acer-aspire-notebook-or-desktop-on-windows-os/"><u>Up-to-Date Driver Download Guide for Your Acer Aspire Notebook or Desktop on Windows OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-system-with-official-nvidia-rtx-3070-ti-drivers-for-windows-os-windows-1087/"><u>Update Your System with Official Nvidia RTX 3070 Ti Drivers for Windows OS (Windows 10/8/7)</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: Updated Oculus Software & Drivers - Supported by Microsoft Windows 11/10/8/7
-date: 2024-09-24T17:13:55.072Z
-updated: 2024-09-27T07:24:14.343Z
+date: 2024-09-30T19:52:19.006Z
+updated: 2024-10-02T06:21:08.181Z
 tags:
   - win11
   - win10
@@ -46,10 +46,10 @@ thumbnail: https://thmb.techidaily.com/ed1fcd1a483c0b94fb3a94d424b683306978ea21a
  After updating your drivers, restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 2 – Download and install Intel Iris Plus Graphics 655 driver manually
@@ -61,35 +61,48 @@ thumbnail: https://thmb.techidaily.com/ed1fcd1a483c0b94fb3a94d424b683306978ea21a
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/intel-graphics.jpg)
 3. In the search box, type**Intel Iris Plus graphics 655** and press**Enter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/type-655.jpg)
 4. Click**Intel® Graphics – Windows\* DCH Drivers** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/intel-graphics-DCH-drivers.jpg)
 5. Download the latest version of the driver.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/intel-latest-graphics-driver.jpg)
 6. Once you’ve downloaded the file, double-click on it and follow the on-screen instructions to**install the driver** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. **Restart your computer** for the changes to take effect.
 
 ---
@@ -113,16 +126,16 @@ thumbnail: https://thmb.techidaily.com/ed1fcd1a483c0b94fb3a94d424b683306978ea21a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-securing-your-digital-quest-with-savvy-screenshots/"><u>[Updated] 2024 Approved Securing Your Digital Quest with Savvy Screenshots</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-easy-to-follow-steps-for-adding-vimeo-clips-to-ppts/"><u>2024 Approved Easy-to-Follow Steps for Adding Vimeo Clips to PPTs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/compatible-logitech-g920-driver-software-optimize-your-pc-now/"><u>Compatible Logitech G920 Driver Software - Optimize Your PC Now!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-canoscan-lide-123-drivers-find-and-install-updates-today/"><u>Free CanoScan LiDE 123 Drivers: Find and Install Updates Today!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-epson-ds-530-driver-for-windows-11-x64-systems/"><u>Get the Latest Epson DS-^530 Driver for Windows 11 (X64 Systems)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-controllers-up-and-running-quickly-download-the-newest-xbox-wireless-adapters/"><u>Get Your Controllers Up & Running Quickly - Download the Newest Xbox Wireless Adapters!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-vivo-y36i-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Vivo Y36i Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-xiaomi-redmi-note-12-pro-4g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Xiaomi Redmi Note 12 Pro 4G FRP</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-xiaomi-13-ultra-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Xiaomi 13 Ultra</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/swiftsoundphone-apps-top-10-for-rapid-music/"><u>SwiftSoundphone Apps Top 10 for Rapid Music</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722963093387-update-your-hp-scanjet-software-for-optimal-performance-on-windows-operating-systems/"><u>Update Your HP Scanjet Software for Optimal Performance on Windows Operating Systems</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-how-to-watch-deleted-youtube-videos-online-in-2-ways-ultimate-guide/"><u>[Updated] 2024 Approved How to Watch Deleted YouTube Videos Online in 2 Ways | Ultimate Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-gadget-analysis-at-toms-electronic-insight-blog/"><u>Expert Gadget Analysis at Tom's Electronic Insight Blog</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-hardware-with-tom-in-depth-analysis-of-pc-specs-and-setup/"><u>Exploring Hardware with Tom: In-Depth Analysis of PC Specs and Setup</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-the-features-of-the-logitech-g515-an-in-depth-look-at-its-low-profile-and-economical-pricing/"><u>Exploring the Features of the Logitech G515: An In-Depth Look at Its Low Profile and Economical Pricing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-inactive-windows-key-in-os-11/"><u>Fixing Inactive Windows Key in OS 11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-motorola-edge-2023-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Motorola Edge 2023</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-exploring-mycams-video-recording-quality-and-efficiency/"><u>In 2024, Exploring MyCam's Video Recording Quality and Efficiency</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Samsung Galaxy A14 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-hardware-reviews-by-toms-technology-experts/"><u>In-Depth Hardware Reviews by Tom's Technology Experts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-reviews-and-comprehensive-guides-by-toms-technology-hub/"><u>In-Depth Reviews & Comprehensive Guides by Tom's Technology Hub</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-new-potentials-iphone-x-secrets-unveiled-for-2024/"><u>Unlock New Potentials IPhone X Secrets Unveiled for 2024</u></a></li>
 </ul></div>
 

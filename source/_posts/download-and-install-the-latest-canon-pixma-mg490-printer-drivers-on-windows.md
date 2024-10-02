@@ -1,7 +1,7 @@
 ---
 title: Download and Install the Latest Canon PIXMA MG490 Printer Drivers on Windows
-date: 2024-09-23T09:41:41.093Z
-updated: 2024-09-27T01:01:55.959Z
+date: 2024-09-28T03:33:16.127Z
+updated: 2024-10-02T07:44:45.905Z
 tags:
   - win11
   - win10
@@ -26,6 +26,13 @@ It’s essential to keep the drivers for your Canon products up to date so as to
 1. [**Update your Canon driver automatically (Recommended)**](https://www.drivereasy.com/knowledge/canon-drivers-download-update-for-windows-easily/#O1)
 2. [**Update your Canon driver manually**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Option 1: Update your Canon driver automatically (Recommended)**
 
  If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -40,10 +47,16 @@ It’s essential to keep the drivers for your Canon products up to date so as to
 3. Click **Update All** to automatically download and install the correct version of **_ALL_**  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa45fe434fd.jpg)  
@@ -51,13 +64,6 @@ It’s essential to keep the drivers for your Canon products up to date so as to
 4. Restart your computer for the changes to take effect.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Option 2: Update your Canon driver manually**
 
@@ -73,25 +79,26 @@ Before heading to download the latest driver package from **Canon**  ‘s offici
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa46ed741fe.jpg)
 4. Click**DRIVERS & DOWNLOADS** under your model name. (Here I take PIXMA PRO-10 as an example.)  
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa47aad220c.jpg)
 5. Make sure **the detected Windows version is the right variant of your Windows OS** and click**SELECT** in**the first** result to make sure to download the latest driver release.  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa4841af5d5.jpg)
 6. Click**DOWNLOAD** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Run the downloaded file and follow the on-screen instructions to finish the install. You might want to consult the download & install manual executable file if needed.
 8. Restart your computer for the changes to take effect.
 
@@ -116,20 +123,18 @@ Before heading to download the latest driver package from **Canon**  ‘s offici
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-seamless-media-consumption-enable-automatic-playback-of-youtube-content-on-fb/"><u>[New] 2024 Approved Seamless Media Consumption Enable Automatic Playback of YouTube Content on FB</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-breaking-barriers-in-drone-races-and-top-5-innovative-fpv-units/"><u>[Updated] Breaking Barriers in Drone Races & Top 5 Innovative FPV Units</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-photography-and-videography-leading-tech-on-the-market/"><u>[Updated] Photography & Videography Leading Tech on the Market</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-approach-to-managing-svchostexe-netsvcs-and-its-high-bandwidth-use/"><u>Comprehensive Approach to Managing svchost.exe (Netsvcs) and Its High Bandwidth Use</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-constant-pc-mouse-detachment-problems-for-smooth-usage/"><u>Diagnosing and Repairing Constant PC Mouse Detachment Problems for Smooth Usage</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-configure-hp-deskjet-scan-application-on-windows-machines/"><u>Download & Configure HP Deskjet Scan Application on Windows Machines</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ensure-optimal-compatibility-new-driver-downloads-for-xbox-360-controllers/"><u>Ensure Optimal Compatibility: New Driver Downloads for Xbox 360 Controllers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/epson-l3150-printer-driver-download-and-update-for-windows-1087-free/"><u>Epson L3150 Printer Driver Download and Update for Windows 10/8/7 - Free</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-free-qualcomm-chipset-drivers-now-supports-win11-to-win7-operating-systems/"><u>Get Your Free Qualcomm Chipset Drivers Now - Supports Win11 to Win7 Operating Systems!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/guide-to-successfully-installing-new-versions-of-epson-ds-510-printer-driver-on-windows-machines/"><u>Guide to Successfully Installing New Versions of Epson DS-510 Printer Driver on Windows Machines</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-vivo-y200e-5g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Vivo Y200e 5G PC | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/n-drivers-on-windows-1087-quick-guide/"><u>N Drivers on Windows 10/8/7 - Quick Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/revamping-your-clicks-a-comprehensive-tutorial-on-logitech-m310-mouse-drivers-update/"><u>Revamping Your Clicks: A Comprehensive Tutorial on Logitech M310 Mouse Drivers Update</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-revolutionary-2018-lg-gram-156-laptop-review-striking-balance-between-large-screen-and-ultra-light-design/"><u>The Revolutionary 2018 LG Gram 15.6 Laptop Review: Striking Balance Between Large Screen and Ultra Light Design</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722883962064-watching-the-lord-of-the-rings-trilogy-the-right-way-and-order/"><u>Watching 'The Lord of the Rings' Trilogy – The Right Way and Order</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-fast-tracking-fb-content-efficiency-strategies-explored-for-2024/"><u>[New] Fast-Tracking FB Content Efficiency Strategies Explored for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-does-youtube-count-views-its-not-as-simple-as-you-think-for-2024/"><u>[Updated] How Does YouTube Count Views? It's Not as Simple as You Think for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-precision-in-numbers-a-3-step-process-to-examine-your-youtube-earnings/"><u>[Updated] Precision in Numbers A 3-Step Process to Examine Your YouTube Earnings</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/dazzling-hardware-transformations-unveiled-at-the-2024-computex-event/"><u>Dazzling Hardware Transformations Unveiled at the 2024 Computex Event</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/enhancing-dji-flights-20-free-color-adjustments-dji-mini-and-air/"><u>Enhancing DJI Flights 20 Free Color Adjustments (DJI Mini & Air)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-new-drivers-enhanced-performance-with-usb-3e-gigabit-ethernet-and-windows/"><u>Get the New Drivers: Enhanced Performance with USB 3.e Gigabit Ethernet and Windows</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-8-stream-modifiers-for-flawless-webcam-videos/"><u>In 2024, Best 8 Stream Modifiers for Flawless Webcam Videos</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-nubia-red-magic-9-proplus-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Nubia Red Magic 9 Pro+ to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-the-complete-process-for-crafting-your-own-ringtone-from-tiktok-music/"><u>In 2024, The Complete Process for Crafting Your Own Ringtone From TikTok Music</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-most-advanced-virtual-classrooms-not-udemys-offspring/"><u>In 2024, The Most Advanced Virtual Classrooms, Not Udemy's Offspring</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/introducing-jonsbos-latest-c6-itx-chassis-design-a-sleek-mesh-clad-computer-tower-with-convenient-handling/"><u>Introducing Jonsbo's Latest C6-ITX Chassis Design: A Sleek, Mesh-Clad Computer Tower with Convenient Handling</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-the-circuit-with-tom-your-guide-to-quality-computer-components/"><u>Navigating the Circuit with Tom: Your Guide to Quality Computer Components</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-enermax-cable-master-er-20-specially-engineered-for-integrated-wire-management/"><u>The Enermax Cable Master Er 20: Specially Engineered for Integrated Wire Management</u></a></li>
 </ul></div>
 

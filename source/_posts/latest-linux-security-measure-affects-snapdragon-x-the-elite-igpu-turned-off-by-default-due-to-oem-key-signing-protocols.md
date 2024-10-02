@@ -1,7 +1,7 @@
 ---
 title: "Latest Linux Security Measure Affects Snapdragon X: The Elite iGPU Turned Off by Default Due to OEM Key Signing Protocols"
-date: 2024-09-04T02:17:51.834Z
-updated: 2024-09-05T02:17:51.834Z
+date: 2024-09-27T19:19:30.983Z
+updated: 2024-10-01T16:01:52.028Z
 tags:
   - cpu
 categories:
@@ -42,14 +42,11 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -58,17 +55,31 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-11-excellent-choices-for-high-quality-audio-logging/"><u>[New] 2024 Approved 11 Excellent Choices for High-Quality Audio Logging</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-curate-engaging-content-with-top-igtv-editor-tools-for-2024/"><u>[Updated] Curate Engaging Content with Top IGTV Editor Tools for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premium-picks-a-list-of-must-play-google-cardboard-vr-games/"><u>2024 Approved Premium Picks A List of Must-Play Google Cardboard VR Games</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fast-track-to-your-ft232r-uart-driver-download-speedy-setup-tips/"><u>Fast Track to Your FT232R UART Driver Download – Speedy Setup Tips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-logitech-g35-audio-drivers-for-windows-operating-systems-windows-7810/"><u>Get Logitech G35 Audio Drivers for Windows Operating Systems (Windows 7/8/10)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-canon-mx49n-printer-up-to-date-with-new-windows-drivers-here/"><u>Get Your Canon MX49n Printer Up-to-Date with New Windows Drivers Here!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722976458287-how-to-installupdate-broadcoms-gige-network-driver-on-your-windows-11-machine-issue-resolved/"><u>How to Install/Update Broadcom's GigE Network Driver on Your Windows 11 Machine - Issue Resolved!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-samsung-galaxy-s23plus-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Samsung Galaxy S23+ Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-deskjet-2755e-printer-drivers-and-software-download-for-windows/"><u>HP DeskJet 2755E Printer Drivers & Software Download for Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instagram-stories-screen-capture-made-simple-for-2024/"><u>Instagram Stories Screen Capture Made Simple for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-intel-usb-30-driver-software-for-windows-10-get-your-free-copy/"><u>Latest Intel USB 3.0 Driver Software for Windows 10 - Get Your Free Copy!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revive-your-locked-ipad-methods-to-retrieve-or-reset-passcode/"><u>Revive Your Locked iPad: Methods to Retrieve or Reset Passcode</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722965084268-updated-drivers-for-your-hp-officejet-pro-8610-compatible-with-windows-1187xpvista-download-here/"><u>Updated Drivers for Your HP OfficeJet Pro 8610: Compatible with Windows 11/8/7/XP/Vista – Download Here!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrade-and-install-the-newest-epson-wf-372cued-to-provide-you-with-comprehensive-answers-and-guidance/"><u>Upgrade & Install the Newest Epson WF-372cued to Provide You with Comprehensive Answers and Guidance.</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-content-transcriber-for-2024/"><u>Video Content Transcriber for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/h-wave-on-your-screen-monetizing-as-a-streamer-for-2024/"><u>Wealth Wave on Your Screen Monetizing as a Streamer for 2024</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+

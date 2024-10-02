@@ -1,7 +1,7 @@
 ---
 title: Simple Steps to Update Your PC's Battery Drivers on Windows
-date: 2024-09-21T21:53:50.060Z
-updated: 2024-09-27T03:05:39.173Z
+date: 2024-09-27T20:46:57.650Z
+updated: 2024-10-01T23:47:08.370Z
 tags:
   - win11
   - win10
@@ -29,13 +29,6 @@ thumbnail: https://thmb.techidaily.com/c19a308589c95b1ddee27c6a5a356d350b91c656d
 
 [**Method 2 – Automatically:**](https://tools.techidaily.com/drivereasy/download/) This option is**much quicker and easier** .**All** you need to do is**just a couple of mouse clicks** !
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 1: Download and update the drivers for your HP Elitebook 8460p manually
 
  You can download the updated driver files from the official website of HP. Then install them on your laptop on your own. Here is how to do it:
@@ -46,52 +39,55 @@ thumbnail: https://thmb.techidaily.com/c19a308589c95b1ddee27c6a5a356d350b91c656d
 2. On the top of the web page, click**Support** . Then click**Software & drivers** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap539.png)
 3. Select**Laptop** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap543-1.png)
 4. Click**Let HP detect your product** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap544.png)
 5. If HP detected your product, follow the on-screen instructions to download the drivers for your HP Elitebook 8460p. If it failed, then click**Find out more** next to**Let HP detect your product** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap545-1.png)
-6. In the search bar, type **HP Elitebook 8460p** and click**the search button** .  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap545-1.png)
+6. In the search bar, type **HP Elitebook 8460p** and click**the search button** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap546.png)
 7. Click**Software and Drivers** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap547-1.png)
 8. **Select your operating system and version** . If you don’t know the version of your Windows operating system, see[ How to check Windows version \[Easily\]](https://tools.techidaily.com/drivereasy/download/) . Then click**Change** . HP will list all the drivers available for your HP EliteBook 8460p.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap548.png)
 9. If you want to download a single driver, just click the**Download** button next to that driver; if you want to download multiple drivers, you need to click**the add-to-download-list button** to add then to the download list first. After that, click**Open download list** view the download list.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap549.png)
 10. Click**Download files** to download the drivers in the list.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap550.png)
 11. When it is finished, you need to**double-click** each downloaded driver file and follow the on-screen instructions to install them on your laptop.
 
@@ -107,6 +103,14 @@ thumbnail: https://thmb.techidaily.com/c19a308589c95b1ddee27c6a5a356d350b91c656d
 3. Click **Update**  next to any device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.** You get **full support**  and a **30-day money back**  guarantee).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap552.png)  
  You can do it for free if you like, but it’s partly manual.  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 Please leave your comment below if you have any questions or suggestions.
@@ -130,21 +134,17 @@ Please leave your comment below if you have any questions or suggestions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-learn-free-online-methods-for-turning-facebook-videos-into-mp4-hd/"><u>[New] In 2024, Learn Free Online Methods for Turning Facebook Videos Into MP4 HD</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-incremental-sound-dampening-strategy/"><u>[New] Incremental Sound Dampening Strategy</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-boosted-imagery-in-canva-top-10-tricks-revealed-for-2024/"><u>[Updated] Boosted Imagery in Canva - Top 10 Tricks Revealed for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-visual-virtuosity-expertly-adding-motion-blur-to-facial-images-via-picsart/"><u>[Updated] In 2024, Visual Virtuosity Expertly Adding Motion Blur to Facial Images via Picsart</u></a></li>
-<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-y100i-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Vivo Y100i | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/6-effective-strategies-to-minimize-ai-misinterpretations-through-smart-prompting/"><u>6 Effective Strategies to Minimize AI Misinterpretations Through Smart Prompting</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-current-targus-display-adapter-drivers-compatible-with-win-11-8-and-7/"><u>Download Current Targus Display Adapter Drivers - Compatible with Win 11, 8 & 7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/find-and-install-updated-zebra-printer-drivers-on-your-windows-machine-easily/"><u>Find and Install Updated Zebra Printer Drivers on Your Windows Machine Easily</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-oculus-headset-ready-drivers-download-for-windows-versions-including-11-10-8-and-7/"><u>Get Your Oculus Headset Ready: Drivers Download for Windows Versions Including 11, 10, 8, & 7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-obtain-your-logitech-m525-device-drivers/"><u>How To Obtain Your Logitech M525 Device Drivers?</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Sony Xperia 10 V? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-xiaomi-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Xiaomi</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-streamline-your-workflow-must-know-win-10-tactics/"><u>In 2024, Streamline Your Workflow Must-Know Win 10 Tactics</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/rndis-driver-compatibility-and-updating-for-windows-problems-resolved-here/"><u>RNDIS Driver Compatibility and Updating for Windows - Problems Resolved Here!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-and-install-elan-smbus-drivers-efficiently-for-windows-users/"><u>Update and Install Elan SMBus Drivers Efficiently for Windows Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-your-canon-mg3022-drivers-fresh-version-for-improved-printing/"><u>Update Your Canon MG3022 Drivers - Fresh Version for Improved Printing</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-the-ultimate-list-of-engaging-history-content-on-youtube/"><u>[New] In 2024, The Ultimate List of Engaging History Content on YouTube</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-stay-true-to-your-story-dont-drown-in-false-like-floods-for-2024/"><u>[Updated] Stay True to Your Story, Don't Drown in False Like Floods for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-binge-watch-or-live-stream-twitch-and-youtube-compared/"><u>2024 Approved Binge-Watch or Live-Stream? Twitch and YouTube Compared</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/cutting-edge-tech-reviews-by-tom-your-go-to-resource/"><u>Cutting Edge Tech Reviews by Tom - Your Go-To Resource</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/decoding-hardware-mysteries-wisdom-from-toms-experience/"><u>Decoding Hardware Mysteries: Wisdom From Tom's Experience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-high-performance-pc-gear-with-toms-system-guides/"><u>Discover High-Performance PC Gear with Tom's System Guides</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-future-of-gaming-monitors-as-acer-launches-three-oled-panels-including-ultra-fast-27-inch-predator-x2n-u-f3/"><u>Discover the Future of Gaming Monitors as Acer Launches Three OLED Panels, Including Ultra-Fast 27-Inch Predator X2n U F3</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-repair-tips-resolving-issues-when-usb-drives-go-missing-on-your-computer/"><u>DIY Repair Tips: Resolving Issues When USB Drives Go Missing on Your Computer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/elite-performance-meets-luxury-design-comprehensive-review-of-the-gigabyte-aorus-fo32u2p-oled-monitor-for-gamers/"><u>Elite Performance Meets Luxury Design: Comprehensive Review of the Gigabyte AORUS FO32U2P OLED Monitor for Gamers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-call-of-duty-wwii-black-screen-glitch-on-a-windows-system/"><u>Fix Your Call of Duty: WWII Black Screen Glitch on a Windows System</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-functionality-of-your-laptops-touchpad-in-widows-os/"><u>How to Restore Functionality of Your Laptop's Touchpad in Widows OS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transformez-un-fichier-video-3g2-en-wma-gratuitement-online-services-de-conversion-rapides-par-movavi/"><u>Transformez Un Fichier Vidéo 3G2 en WMA Gratuitement Online - Services De Conversion Rapides Par Movavi</u></a></li>
 </ul></div>
 

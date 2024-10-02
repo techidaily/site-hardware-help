@@ -1,7 +1,7 @@
 ---
 title: Install Up-to-Date NVIDIA GF TX 980 Ti Driver Software
-date: 2024-09-04T02:22:55.009Z
-updated: 2024-09-05T02:22:55.009Z
+date: 2024-09-27T11:00:04.569Z
+updated: 2024-10-01T16:18:21.541Z
 tags:
   - win11
   - win10
@@ -23,6 +23,13 @@ thumbnail: https://thmb.techidaily.com/83810aeb2f4e9067a8450e307f943cc7eb4a02a55
 
 1. [Manually download the HP Universal Print Driver](https://tools.techidaily.com/drivereasy/download/)
 2. [Automatically download and install the HP Universal Print Driver](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Manually download the HP Universal Print Driver
 
@@ -48,11 +55,25 @@ thumbnail: https://thmb.techidaily.com/83810aeb2f4e9067a8450e307f943cc7eb4a02a55
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af11f1d25dbe.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to your printer to automatically download and install the correct version of this driver (you can do this with the**FREE** version).
 
  Or click**Update All** the automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af11f403b2dc.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -70,8 +91,6 @@ thumbnail: https://thmb.techidaily.com/83810aeb2f4e9067a8450e307f943cc7eb4a02a55
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -79,17 +98,18 @@ thumbnail: https://thmb.techidaily.com/83810aeb2f4e9067a8450e307f943cc7eb4a02a55
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-help.techidaily.com/free-download-latest-nvidia-geforce-rtx-3060-ti-drivers-compatible-with-windows-11/"><u>[Free Download] Latest NVIDIA GeForce RTX 3060 Ti Drivers Compatible with Windows 11</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-top-free-audio-samples-for-youtube-creators/"><u>2024 Approved Top Free Audio Samples for YouTube Creators</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/5-pinnacle-clippers-for-your-mac-experience/"><u>5 Pinnacle Clippers for Your Mac Experience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-logitech-momowheels-gamepad-dedicated-steering-wheel-controller-download-for-windows/"><u>Free Logitech MomoWheels Gamepad - Dedicated Steering Wheel Controller Download for Windows</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hassle-free-installation-of-canon-pro-100-on-windows-one-simple-method-to-go/"><u>Hassle-Free Installation of Canon PRO 100 on Windows: One Simple Method to Go</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-effortless-gameplay-enhancement-with-simple-screen-recorders/"><u>In 2024, Effortless Gameplay Enhancement with Simple Screen Recorders</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Tecno Spark 10C? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/launchpad-for-novice-gopro-owners-must-have-gear-guide-for-2024/"><u>Launchpad for Novice GoPro Owners - Must-Have Gear Guide for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-youtube-to-mpeg-format-change/"><u>Mastering YouTube to MPEG Format Change</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/samsung-960-evo-nvme-driver-installation-for-windows-a-comprehensive-tutorial/"><u>Samsung 960 EVO NVMe Driver Installation for Windows: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-essential-guide-to-refreshing-drivers-on-the-acer-nitro-5-laptop/"><u>The Essential Guide to Refreshing Drivers on the Acer Nitro 5 Laptop</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

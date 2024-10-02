@@ -1,7 +1,7 @@
 ---
 title: Installation Guide & Software Downloads for Brother HL-L2380DW on PC
-date: 2024-09-22T03:08:36.649Z
-updated: 2024-09-26T19:37:43.446Z
+date: 2024-09-27T09:59:34.520Z
+updated: 2024-10-01T19:24:54.710Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/c9c3286561c0cb162a6f36b6b19f491a65ddd3daf
 1. [**Update your Brother MFC7360N driver manually**](https://tools.techidaily.com/drivereasy/download/)
 2. [**Update your Brother MFC7360N driver automatically (Recommended)**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Update your Brother MFC7360N driver manually
 
 **A WORD OF WARNING** : Downloading the wrong driver or installing it incorrectly can compromise your PC’s stability and even cause the whole system to crash. So please proceed at your own peril. If you’re not comfortable playing around with drivers, or worrying about any risks in the process, jump to [**Method 2**](https://tools.techidaily.com/drivereasy/download/) .
@@ -37,6 +44,14 @@ thumbnail: https://thmb.techidaily.com/c9c3286561c0cb162a6f36b6b19f491a65ddd3daf
 1. On your keyboard, press   **the Windows logo key  ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and **R**  at the same time. Then copy & paste **devmgmt.msc** into the box and click   **OK**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 2. Double-click on **Printer queues** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1a5b86a48f2.jpg)
 3. Right-click on **Brother MFC 7360N** and click **Uninstall device** .
 4. Head to **[Brother’s official website Support & Downloads page](http://support.brother.com/g/b/countrytop.aspx?c=us&lang=en)**  and click**Product Search** .  
@@ -44,55 +59,50 @@ thumbnail: https://thmb.techidaily.com/c9c3286561c0cb162a6f36b6b19f491a65ddd3daf
 5. Type **MFC 7360N** into the**Search by Model Name** box and click**Search** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b92163d78f96.jpg)
 6. Click**Downloads** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b92169633e75.jpg)
-7. Select **your Windows OS**   and **OS version** . Then click**Search** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b92169633e75.jpg)
+7. Select **your Windows OS**   and **OS version** . Then click**Search** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b921713414d6.jpg)
 8. Click **the first result**   for the full driver package. Then select **your preferred language** .  
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b8613a0a97a4.jpg)
 9. Click **Agree to the EULA**  **and Download** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b8613f9ec314.jpg)
-10. Follow the notes to finish the manual install.  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b8613f9ec314.jpg)
+10. Follow the notes to finish the manual install.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b861455df55e.jpg)
 11. Restart your computer for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Update your Brother MFC7360N driver automatically (Recommended)
 
@@ -106,13 +116,6 @@ thumbnail: https://thmb.techidaily.com/c9c3286561c0cb162a6f36b6b19f491a65ddd3daf
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5aefd675a7c.jpg)
 3. You can upgrade to[**the Pro version**](https://tools.techidaily.com/drivereasy/download/) and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b92188ba032e.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. **Restart**   your computer for the changes to take effect.
@@ -141,18 +144,24 @@ thumbnail: https://thmb.techidaily.com/c9c3286561c0cb162a6f36b6b19f491a65ddd3daf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-enhance-tweet-management-the-most-effective-apps-for-tweets-for-2024/"><u>[Updated] Enhance Tweet Management The Most Effective Apps for Tweets for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-expert-evaluation-best-action-capture-systems-for-2024/"><u>[Updated] Expert Evaluation Best Action Capture Systems for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-maintaining-morale-amidst-online-adversity/"><u>2024 Approved Maintaining Morale Amidst Online Adversity</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/canon-mx340-driver-download-for-windows-1187/"><u>Canon MX340 Driver Download for Windows 11/8/7</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-enhancements-the-top-6-you-should-skip-to-optimize-your-time-and-efforts/"><u>ChatGPT Enhancements: The Top 6 You Should Skip to Optimize Your Time and Efforts</u></a></li>
-<li><a href="https://win11.techidaily.com/clearing-up-dark-screen-with-windows-webcam/"><u>Clearing Up Dark Screen with Windows Webcam</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-effortlessly-download-and-set-up-amd-radeon-r9-series-drivers-on-windows-computers/"><u>How To Effortlessly Download and Set Up AMD Radeon R9 Series Drivers on Windows Computers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-valheim-lagging-problems-on-your-computer/"><u>How to Resolve Valheim Lagging Problems on Your Computer</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-learn-to-sharpen-images-blur-and-excise-background-edges/"><u>In 2024, Learn to Sharpen Images Blur and Excise Background Edges</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-on-installing-asus-wifi-driver-software/"><u>Step-by-Step Tutorial on Installing ASUS WiFi Driver Software</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-scansnap-ix500-driver-update-for-windows-users/"><u>Step-by-Step Tutorial: ScanSnap iX500 Driver Update for Windows Users</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-tecno-spark-10-4g-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Tecno Spark 10 4G Device</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/updated-bluetooth-driver-download-for-windows-compatible-devices-available-now/"><u>Updated Bluetooth Driver Download for Windows-Compatible Devices Available Now</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-finding-heartfelt-connections-in-discord-chats/"><u>[New] In 2024, Finding Heartfelt Connections in Discord Chats</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-launch-your-brands-professional-chapter-with-instagram/"><u>[Updated] 2024 Approved Launch Your Brand's Professional Chapter with Instagram</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-5-exceptional-tiktok-to-gif-converter-software-listings/"><u>[Updated] 5 Exceptional TikTok to GIF Converter Software Listings</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-organize-and-download-fb-links-optimized-tools-for-23-for-2024/"><u>[Updated] Organize and Download FB Links Optimized Tools for '23 for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/prehensive-guide-to-the-12-superior-vlogging-cameras-for-2024/"><u>A Comprehensive Guide to the 12 Superior Vlogging Cameras for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722185197224-bing-brings-cutting-edge-ai-to-your-fingertips-for-improved-iphone-and-android-searches/"><u>Bing Brings Cutting-Edge AI to Your Fingertips for Improved iPhone & Android Searches!</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-and-rectifying-spotifys-code-4-error/"><u>Deciphering and Rectifying Spotify's Code 4 Error</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-a-beginners-guide-the-essentials-of-using-tiktok-macos/"><u>In 2024, A Beginner's Guide The Essentials of Using TikTok (macOS)</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-memory-management-in-new-os/"><u>Mastering Memory Management in New OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-review-comprehensive-guide-to-top-hardware-picks/"><u>Tom's Tech Review: Comprehensive Guide to Top Hardware Picks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-review-the-ultimate-guide-t17238628789211/"><u>Tom's Tech Review: The Ultimate Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-review-the-ultimate-guide-to-computer-components/"><u>Tom's Tech Review: The Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-picks-for-budget-friendly-gaming-laptops-capped-at-1500/"><u>Top Picks for Budget-Friendly Gaming Laptops Capped at $1,500</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/understanding-technology-with-toms-review-guides/"><u>Understanding Technology with Tom’s Review Guides</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unleashing-performance-key-tips-from-toms-hardware-vault/"><u>Unleashing Performance: Key Tips From Tom's Hardware Vault</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-microsoft-surface-pro-and-copilotplus-integration-exceptional-aesthetics-hindered-by-mediocre-ai-innovations/"><u>Unveiling the Microsoft Surface Pro and Copilot+ Integration: Exceptional Aesthetics Hindered by Mediocre AI Innovations</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-power-of-razer-blade-14-high-end-features-in-a-sleek-package-despite-its-costly-nature/"><u>Unveiling the Power of Razer Blade 14: High-End Features in a Sleek Package, Despite Its Costly Nature</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-make-unforgettable-moments-top-video-collage-apps-for-ios/"><u>Updated In 2024, Make Unforgettable Moments Top Video Collage Apps for iOS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/your-ultimate-resource-for-tech-knowledge-with-toms-hardware/"><u>Your Ultimate Resource for Tech Knowledge with Tom's Hardware</u></a></li>
 </ul></div>
 

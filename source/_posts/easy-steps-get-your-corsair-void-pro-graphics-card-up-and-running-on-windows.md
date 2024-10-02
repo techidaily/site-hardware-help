@@ -1,7 +1,7 @@
 ---
 title: "Easy Steps: Get Your Corsair Void Pro Graphics Card Up & Running on Windows!"
-date: 2024-09-20T23:20:10.271Z
-updated: 2024-09-27T01:12:06.856Z
+date: 2024-09-29T11:09:22.691Z
+updated: 2024-10-02T05:28:12.894Z
 tags:
   - win11
   - win10
@@ -26,10 +26,10 @@ If you’re using Arduino products to create your own work but failed to connect
  That’s why most of the problems can be solved by installing/updating drivers.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to download Arduino Nano driver?
@@ -41,6 +41,13 @@ There are two ways you can update your Arduino Nano drivers.
 OR
 
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/how-to-download-and-install-arduino-nano-driver-in-windows-solved/#op2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Option 1 –** **Download and install the driver manually**
 
@@ -54,10 +61,10 @@ OR
 4. On your keyboard, hold down the **Windows logo key** \+ **Pause** . Then click **Device Manager** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/device.jpg)
@@ -66,14 +73,14 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9725918e348.png)
 6. Click the **Browse…** icon. Another window appears: go to the folder with the Arduino nano driver that you just downloaded. Select the drivers folder, then **OK** \> **Next** .
 
- If you don’t have the time, patience or computer skills to update your Arduino Uno driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Move onto **Option 2** then.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If you don’t have the time, patience or computer skills to update your Arduino Uno driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Move onto **Option 2** then.
 
 ### **Option 2 – Automatically update drivers**
 
@@ -90,13 +97,6 @@ OR
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/nano.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -119,22 +119,16 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-webcam-video-pros-fast-effective-filming-steps-for-2024/"><u>[New] Webcam Video Pros Fast, Effective Filming Steps for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-symphony-of-screenshots-incorinas-music-into-social-media/"><u>[Updated] In 2024, Symphony of Screenshots Incorinas Music Into Social Media</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-nokia-c22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Nokia C22 | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-driving-game-support-for-your-xbox-360-controller/"><u>Download and Install Driving Game Support for Your Xbox 360 Controller</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-guide-obtaining-and-updating-the-pl2303-usb-to-serial-driver-for-windows-devices/"><u>Easy Guide: Obtaining and Updating the PL2303 USB-to-Serial Driver for Windows Devices</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-instructions-for-downloading-and-using-toshibe-printer-drivers/"><u>Easy Instructions for Downloading and Using Toshibe Printer Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722978378333-easy-update-process-for-epson-printers-on-windows-10-find-out-now/"><u>Easy Update Process for Epson Printers on Windows 10 - Find Out Now!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/enhance-your-asus-atk0110-pc-performance-with-these-no-cost-reliable-acpi-driver-downloads/"><u>Enhance Your ASUS ATK0110 PC Performance with These No-Cost, Reliable ACPI Driver Downloads</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-11-pro-without-losing-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 11 Pro without Losing Data? | Stellar</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-the-newest-epson-gt-s50-driver-for-seamless-compatibility-with-windows-operating-systems-7-8-and-10/"><u>Install the Newest Epson GT S50 Driver for Seamless Compatibility with Windows Operating Systems (7, 8 & 10)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-anthropics-prompt-repository/"><u>Leveraging Anthropic's Prompt Repository</u></a></li>
-<li><a href="https://win-blog.techidaily.com/master-the-battle-against-bugs-resolving-stability-problems-with-outpost-infinity-siege-on-pc/"><u>Master the Battle Against Bugs: Resolving Stability Problems with Outpost: Infinity Siege on PC</u></a></li>
-<li><a href="https://extra-information.techidaily.com/quick-guide-initiating-and-managing-android-zoom-calls/"><u>Quick Guide Initiating & Managing Android Zoom Calls</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-on-updating-your-intel-rst-driver-with-ease/"><u>Step-by-Step Tutorial on Updating Your Intel RST Driver with Ease</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/thermal-conductivity-increases-with-moisture-content-because-water-is-a-better-heat-conductor-than-air/"><u>Thermal Conductivity Increases with Moisture Content because Water Is a Better Heat Conductor than Air.</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-made-simple-overcoming-the-challenge-of-code-0x80004005/"><u>Troubleshooting Made Simple: Overcoming the Challenge of Code 0X80004005</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-razer-naga-software-a-step-by-step-guide-for-windows-users/"><u>Update Razer Naga Software: A Step-by-Step Guide for Windows Users</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-premiere-pro-rapid-transitions/"><u>[New] Premiere Pro Rapid Transitions</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-the-complete-guide-to-high-quality-sims-video-sessions-for-2024/"><u>[New] The Complete Guide to High-Quality Sims Video Sessions for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-filmfusion-studio-win8/"><u>[Updated] FilmFusion Studio Win8</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-your-perfect-video-presentation-toolkit-unveiling-the-best-36-tools-on-play-store/"><u>[Updated] Your Perfect Video Presentation Toolkit Unveiling the Best 36 Tools on Play Store</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-of-official-hp-designjet-500-printer-drivers/"><u>Free Download of Official HP DesignJet 500 Printer Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722964171534-get-the-newest-canon-color-laserjet-mg490-windows-driver-software-here/"><u>Get the Newest Canon Color LaserJet MG490 Windows Driver Software Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-canon-mf4800-drivers-here-fast-and-easy-download/"><u>Get Your Canon MF4800 Drivers Here – Fast and Easy Download</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-oppo-a56s-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Oppo A56s 5G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-itel-a05s-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Itel A05s Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastery-of-the-digital-realm-articles-by-toms-hardware-experts/"><u>Mastery of the Digital Realm: Articles by Tom’s Hardware Experts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-install-essential-drivers-for-your-asus-z370-e-motherboard/"><u>Quick Install: Essential Drivers for Your ASUS Z370-E Motherboard</u></a></li>
 </ul></div>
 
