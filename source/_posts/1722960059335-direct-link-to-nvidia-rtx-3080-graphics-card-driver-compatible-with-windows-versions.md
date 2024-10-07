@@ -1,7 +1,7 @@
 ---
 title: Direct Link to NVIDIA RTX 3080 Graphics Card Driver - Compatible with Windows Versions!
-date: 2024-10-01T10:15:04.494Z
-updated: 2024-10-02T05:47:06.095Z
+date: 2024-10-02T17:32:38.991Z
+updated: 2024-10-07T21:08:05.535Z
 tags:
   - win11
   - win10
@@ -37,24 +37,32 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Once you’ve installed/updated your graphics driver, restart your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 2: Install/Update your RTX 3080 driver manually
@@ -69,20 +77,13 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/nvidia-3080-driver-official-dl.jpg)
 3. Click**Download** . Then run the install wizard to install the graphics driver.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3080-driver-dl.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -104,20 +105,19 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-the-recipe-roundup-top-tiktok-dining-experiences/"><u>[New] The Recipe Roundup Top TikTok Dining Experiences</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-quality-monitors-showdown-best-4k-edition-ranked-1-10/"><u>[Updated] Quality Monitors Showdown Best 4K Edition, Ranked #1-10</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-testing-of-the-netgear-nighthawk-ax8-wi-fi-6-extender-the-ultimate-guide-for-modern-homes/"><u>Comprehensive Testing of the Netgear Nighthawk AX8 Wi-Fi 6 Extender: The Ultimate Guide for Modern Homes</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-apple-iphone-xr-location-on-viber-drfone-by-drfone-virtual-ios/"><u>How to Change/Fake Your Apple iPhone XR Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Motorola Moto G24? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigate-the-world-of-high-end-computer-systems-at-toms-hardware-haven/"><u>Navigate the World of High-End Computer Systems at Tom's Hardware Haven</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-through-toms-computer-components-analysis/"><u>Navigating Through Tom's Computer Components Analysis</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/personalized-touchscreen-display-by-jdi-the-2vd-screen-that-sees-who-you-are-and-adapts-to-your-fingerprint/"><u>Personalized Touchscreen Display by JDI: The 2VD Screen That Sees Who You Are and Adapts to Your Fingerprint</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/pick-up-the-massive-lg-ultragear-39-curved-qhd-gaming-screen-for-just-999-on-amazon/"><u>Pick Up the Massive LG Ultragear 39 Curved QHD Gaming Screen for Just $999 on Amazon</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/pioneering-pc-advice-with-toms-electronics/"><u>Pioneering PC Advice with Tom's Electronics</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/pivotal-ai-solutions-to-transform-your-enterprise-strategy/"><u>Pivotal AI Solutions to Transform Your Enterprise Strategy</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/qualitatsbewahrend-umwandlung-von-avchd-m2ts-in-mp4-top-methoden-zum-konvertieren/"><u>Qualitätsbewahrend Umwandlung Von AVCHD M2TS in MP4 - Top-Methoden Zum Konvertieren</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/reign-supreme-asus-revolutionary-8k-mini-led-proart-display-a-game-changer-in-ultra-high-end-professionals-displays-with-1200-nits-brightness-and-4096-illum69/"><u>Reign Supreme: Asus' Revolutionary 8K Mini LED ProArt Display - A Game Changer in Ultra High-End Professionals' Displays with 1200 Nits Brightness & 4096 Illumination Zones</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/save-big-now-limited-offer-on-gigabytes-32-inch-qhd-gaming-monitor-gs3n32q-at-a-steal-only-199/"><u>Save Big Now – Limited Offer on Gigabyte's 32-Inch QHD Gaming Monitor (GS3n32Q) at a Steal: Only $199</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/why-access-to-fresh-insights-by-chatgpt-matters-to-us-all/"><u>Why Access to Fresh Insights by ChatGPT Matters to Us All</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-how-to-address-and-overcome-a-youtube-content-id-issue/"><u>[New] 2024 Approved How to Address and Overcome a YouTube Content ID Issue</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-your-guide-to-genuine-selfies-on-instagrams-canvas/"><u>[New] In 2024, Your Guide to Genuine Selfies on Instagram's Canvas</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-facetune-examination-enhancing-photos-like-a-pro/"><u>2024 Approved The Ultimate Facetune Examination Enhancing Photos Like a Pro</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discovering-your-hidden-login-credentials-a-guide-to-retrieving-saved-passwords-on-macos/"><u>Discovering Your Hidden Login Credentials: A Guide to Retrieving Saved Passwords on macOS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-latest-hp-officejet-inkjet-printer-drivers-for-windows-systems/"><u>Download the Latest HP OfficeJet Inkjet Printer Drivers for Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-graphics-experience-download-amds-newest-radeon-rx-6700-xt-driver-for-windows-operating-system-compatibility-win11win10win7-supported/"><u>Enhance Your Graphics Experience - Download AMD's Newest Radeon RX 6700 XT Driver for Windows Operating System Compatibility: Win11/Win10/Win7 Supported</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-honor-80-pro-straight-screen-edition-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Honor 80 Pro Straight Screen Edition</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-rtx-2070-super-graphics-driver-downloads-and-updates-for-windows-11/"><u>Free RTX 2070 Super Graphics Driver Downloads and Updates for Windows 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-finding-the-most-economical-streaming-apps-for-your-phone/"><u>In 2024, Finding the Most Economical Streaming Apps for Your Phone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-pinpointing-your-custom-designed-music-haven-on-youtube/"><u>In 2024, Pinpointing Your Custom-Designed Music Haven on Youtube</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-instructions-for-rejuvenating-sataahci-chipset-drivers/"><u>Step-by-Step Instructions for Rejuvenating SATA/AHCI Chipset Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-guide-resolving-problems-with-the-realtek-rtl8811au-network-adapter/"><u>Troubleshooting Guide: Resolving Problems with the Realtek RTL8811au Network Adapter</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultimate-guide-using-a-dlna-compatible-device-for-media-playback-on-windows-operating-systems/"><u>Ultimate Guide: Using a DLNA Compatible Device for Media Playback on Windows Operating Systems</u></a></li>
 </ul></div>
 

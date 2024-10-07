@@ -1,7 +1,7 @@
 ---
 title: "China's Innovative Homegrown AI Chip, the P1 Series: Delivering 45 TOPS and Industry-Compliant Performance – Now Manufacturing Begins"
-date: 2024-09-04T02:12:53.006Z
-updated: 2024-09-05T02:12:53.006Z
+date: 2024-10-06T18:27:00.193Z
+updated: 2024-10-07T21:06:18.368Z
 tags:
   - cpu
 categories:
@@ -42,14 +42,11 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -58,11 +55,27 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-20-visionary-metaverse-projects-with-educational-value/"><u>[New] 2024 Approved 20 Visionary Metaverse Projects with Educational Value</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-accurate-ranking-of-top-tools-for-free-srt-transformations/"><u>[New] Accurate Ranking of Top Tools for FREE Srt Transformations</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-savvy-obs-arrangement-for-economical-pcs-for-2024/"><u>[Updated] Savvy OBS Arrangement for Economical PCs for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-nokia-c22-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/android-users-manual-how-to-stop-unwanted-automatic-application-updates/"><u>Android Users' Manual: How to Stop Unwanted Automatic Application Updates</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/are-foldable-phones-good-enough-to-replace-traditional-android-tablets-today/"><u>Are Foldable Phones Good Enough to Replace Traditional Android Tablets Today?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/beyond-illusory-boundaries-understanding-the-spectrum-vr-ar-and-mr/"><u>Beyond Illusory Boundaries Understanding the Spectrum (VR, AR, & MR)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/british-numismatist-transforms-obsolete-technology-into-precious-treasure/"><u>British Numismatist Transforms Obsolete Technology Into Precious Treasure</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/busting-major-android-legends-the-five-greatest-fallacies-revealed/"><u>Busting Major Android Legends: The Five Greatest Fallacies Revealed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/can-i-use-any-stylus-pen-on-my-gadgets-exploring-cross-device-functionality/"><u>Can I Use Any Stylus Pen on My Gadgets? Exploring Cross-Device Functionality</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211775481-effective-fixes-for-total-war-rome-remastered-game-crashes-solutions-inside/"><u>Effective Fixes for Total War: Rome Remastered Game Crashes - Solutions Inside</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-sifting-through-the-best-video-hosting-options-with-vimeo-memberships/"><u>In 2024, Sifting Through the Best Video Hosting Options with Vimeo Memberships</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Nubia Z50 Ultra? | Dr.fone</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+

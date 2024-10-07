@@ -1,7 +1,7 @@
 ---
 title: Complete Tutorial for Reinstalling Intel Centrino A/Pro Wireless - N 4905AGN Drivers on Your PC
-date: 2024-09-29T17:17:45.612Z
-updated: 2024-10-02T11:05:10.254Z
+date: 2024-10-02T16:33:34.102Z
+updated: 2024-10-07T19:19:23.389Z
 tags:
   - win11
   - win10
@@ -31,19 +31,6 @@ thumbnail: https://thmb.techidaily.com/1035ac8eac3d2f1f9dced1bbfa4000b8f38c0eebf
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Option 1 – Update your driver via Device Manager**
 
  Try to update your Validity fingerprint sensor driver from within Device Manager:
@@ -54,24 +41,24 @@ thumbnail: https://thmb.techidaily.com/1035ac8eac3d2f1f9dced1bbfa4000b8f38c0eebf
 2. After the Start screen shows up, click the**magnifier** icon located in the upper right corner.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-05-41.png)
 3. Type**device** into the search box. Then select**Device Manager** from a list of search results.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1098.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Here comes**Device Manager** . Click the**▷** symbol to the left of**Biometric Devices** to expand its drop-down list.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1073.png)
 5. Right-click on**Validity Sensors (WBF)** to open its context menu. Then select**Update Driver Software…** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-11-03.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Click**Search automatically for updated driver software** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-18-21.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 7. Wait till the download and installation process finishes.
 8. Click **Close** when it’s all done.
@@ -100,10 +87,23 @@ thumbnail: https://thmb.techidaily.com/1035ac8eac3d2f1f9dced1bbfa4000b8f38c0eebf
 3. Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your Validity fingerprint sensor driver for now, simply click the**Update** button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-29_18-36-48-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -134,24 +134,24 @@ thumbnail: https://thmb.techidaily.com/1035ac8eac3d2f1f9dced1bbfa4000b8f38c0eebf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-structuring-complex-topics-in-youtube-content-a-chapter-by-chapter-approach/"><u>[New] Structuring Complex Topics in YouTube Content A Chapter by Chapter Approach</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862699477-899-intelligent-dual-monitor-laptop-by-acemagic-meet-the-x1-model/"><u>$899 Intelligent Dual Monitor Laptop by Acemagic: Meet the X1 Model</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-step-by-step-guide-recording-audio-on-the-internet-today/"><u>2024 Approved Step-by-Step Guide Recording Audio on the Internet Today</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/a-kepzas-felbontasa-kovetkezmenye-legjobb-6-modja-az-ujra-megnezesre-a-gyors-felbelelesre/"><u>A Képzás Felbontása Következménye: Legjobb 6 Módja Az Újra Megnézésre A Gyors Felbélelésre</u></a></li>
-<li><a href="https://android-frp.techidaily.com/about-motorola-defy-2-frp-bypass-by-drfone-android/"><u>About Motorola Defy 2 FRP Bypass</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/acemagic-x1-dual-screen-laptop-unveiling-pre-launch-secure-your-advance-order/"><u>AceMagic X1 Dual-Screen Laptop: Unveiling Pre-Launch, Secure Your Advance Order!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/acemagic-x1-the-dream-dual-screen-laptop-that-combines-style-and-functionality-like-never-before/"><u>Acemagic X1: The Dream Dual-Screen Laptop That Combines Style and Functionality Like Never Before</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/acers-game-changer-steal-the-latest-tech-at-1129-rtx-4070-plus-amd-cpu-powered-nitro-16-laptop-unleashed/"><u>Acer's Game-Changer: Steal the Latest Tech at $1,129 - RTX 4070 + AMD CPU Powered Nitro 16 Laptop Unleashed</u></a></li>
-<li><a href="https://win-answers.techidaily.com/avoid-startup-crashes-in-hogwarts-legacy-discover-the-8-key-methods/"><u>Avoid Startup Crashes in Hogwarts Legacy – Discover the 8 Key Methods</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862722439-capture-the-gaming-edge-grab-the-asus-rog-zephyrus-g14-rtx-at-an-insane-1099-price-from-best-buy/"><u>Capture the Gaming Edge - Grab the Asus ROG Zephyrus G14 RTX √ at an Insane $1099 Price From Best Buy</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862683704-enter-the-arena-dominate-your-favorite-games-on-a-budget-with-the-899-legion-slim-5-by-lenovo-featuring-an-rtx-4060-gpu/"><u>Enter the Arena! Dominate Your Favorite Games on a Budget With The $899 Legion Slim 5 by Lenovo, Featuring an RTX 4060 GPU</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862713015-experience-next-gen-computing-with-acer-dell-hp-and-lenovos-affordable-1099-snapdragon-x-windows-copilot-pcs-boasting-long-battery-durations/"><u>Experience Next-Gen Computing With Acer, Dell, HP & Lenovo's Affordable $1,099 Snapdragon X Windows Copilot PCs Boasting Long Battery Durations!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862730933-get-the-powerhouse-performance-the-affordable-lenovo-legion-slim-pert-5-for-gamers-now-available-on-newegg-below-1k/"><u>Get the Powerhouse Performance: The Affordable Lenovo Legion Slim Pert-5 for Gamers Now Available on Newegg Below $1K!</u></a></li>
-<li><a href="https://techidaily.com/guide-on-how-to-free-up-apple-iphone-7-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Free Up Apple iPhone 7 Space | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862721466-huge-sale-alert-get-the-2023-razer-blade-15-for-just-1000-off-record-low-pricing/"><u>Huge Sale Alert: Get the 2023 Razer Blade 15 for Just $1,000 Off - Record-Low Pricing</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-realme-12-pro-5g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Realme 12 Pro 5G FRP</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Tecno Spark 10 4G | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-fixing-steam-update-download-failures/"><u>Step-by-Step Solution for Fixing Steam Update Download Failures</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-oppo-find-x6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-enhancing-video-audio-mastering-the-srt-mp4-duo-for-2024/"><u>[New] Enhancing Video Audio Mastering the SRT-MP4 Duo for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-how-to-record-multiple-monitors/"><u>[New] How to Record Multiple Monitors</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-top-gains-on-social-media-secure-and-scalable-tactics/"><u>[New] In 2024, The Top Gains on Social Media - Secure & Scalable Tactics</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-maximize-browser-functionality-chromes-full-screen-video-playback/"><u>[Updated] 2024 Approved Maximize Browser Functionality Chrome's Full-Screen Video Playback</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-navigating-social-surveys-instagram-stories-edition/"><u>[Updated] 2024 Approved Navigating Social Surveys Instagram Stories Edition</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-flawless-visual-shifts-for-filmmakers/"><u>[Updated] In 2024, Flawless Visual Shifts for Filmmakers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-seamless-guide-integrating-instagram-with-tiktok/"><u>2024 Approved Seamless Guide Integrating Instagram with TikTok</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-hp-mfp-m428fdw-software-suite-installing-drivers-on-modern-windows-operating-systems/"><u>Complete HP MFP M428fdw Software Suite: Installing Drivers on Modern Windows Operating Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-installation-tips-for-new-intel-hd-graphics-55500-driver-software/"><u>Easy Installation Tips for New Intel HD Graphics ^5^5500 Driver Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-gameplay-with-the-latest-drivers-upgrading-your-geforce-rtx-2080-ti/"><u>Enhance Gameplay with the Latest Drivers: Upgrading Your GeForce RTX 2080 Ti</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-fix-startech-driver-problems-on-windows-10-8-and-7-step-by-step-solutions/"><u>How to Fix StarTech Driver Problems on Windows 10, 8 & 7: Step-by-Step Solutions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-the-newest-lenovo-software-and-hardware-drivers-for-your-windows-10-device/"><u>How to Get the Newest Lenovo Software and Hardware Drivers for Your Windows 10 Device</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-lava-agni-2-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Lava Agni 2 5G phone? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-motorola-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Motorola</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/instant-access-usb-to-serial-rs232-cable-configuration-software/"><u>Instant Access: USB to Serial (RS232) Cable Configuration Software</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-itel-a60s-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Itel A60s Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722962723386-thrustmaster-t150-driver-software-fast-download-guide/"><u>Thrustmaster T150 Driver Software - Fast Download Guide!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-review-unveiling-the-latest-in-computer-hardware/"><u>Tom's Tech Review: Unveiling the Latest in Computer Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722963010748-update-to-the-newest-dell-wireless-network-driver-version-instantly/"><u>Update to the Newest Dell Wireless Network Driver Version Instantly!</u></a></li>
 </ul></div>
 

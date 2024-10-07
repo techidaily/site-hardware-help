@@ -1,7 +1,7 @@
 ---
 title: Optimize Your Lenovo Legion 5 Pro Laptop with the Latest NVIDIA/AMD Driver Updates
-date: 2024-09-28T10:13:10.893Z
-updated: 2024-10-02T01:01:29.900Z
+date: 2024-10-04T20:50:05.054Z
+updated: 2024-10-07T20:32:24.753Z
 tags:
   - win11
   - win10
@@ -26,28 +26,28 @@ The following are two methods to update your HP 840 G3 notebook drivers.
 1. [**Download your notebook drivers from the HP website**](https://tools.techidaily.com/drivereasy/download/)
 2. [**Update your notebook drivers automatically**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 1: Download your notebook drivers from the HP website
 
 You can download the drivers from the HP customer support website. To do so:**1)** Go to the **[HP customer support website](https://support.hp.com/us-en)** .**2)** Click**Product**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28c52d68cef.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**Search “_840 g3_” for your notebook product page.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28c5ba98220.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** Go to the Software and Drivers page, then download the driver of each device to your computer.
@@ -57,10 +57,10 @@ You can download the drivers from the HP customer support website. To do so:**1)
 **5)**Open the downloaded files to install the drivers on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 2: Update your notebook drivers automatically
@@ -74,10 +74,10 @@ If you don’t have the time, patience or skills to update these drivers manuall
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28d0824cae7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you’ve updated your driver with Driver Easy but your driver issues persist, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  for advice. You should attach the URL of this article so they can help you better.
@@ -100,20 +100,15 @@ If you don’t have the time, patience or skills to update these drivers manuall
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-sharpen-your-content-for-unlimited-youtube-exposure/"><u>[Updated] In 2024, Sharpen Your Content for Unlimited YouTube Exposure</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-tinting-truths-crafting-perfect-imagery/"><u>[Updated] Tinting Truths Crafting Perfect Imagery</u></a></li>
-<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-xiaomi-redmi-note-12-4g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Xiaomi Redmi Note 12 4G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-blocked-here-are-4-explanations-and-fixes-to-regain-access/"><u>ChatGPT Blocked – Here Are 4 Explanations and Fixes to Regain Access!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-the-elite-expertly-tested-and-reviewed-gaming-laptops-for-enthusiasts/"><u>Discover the Elite: Expertly Tested & Reviewed Gaming Laptops for Enthusiasts</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-the-hottest-gaming-laptop-offers-for-2e24/"><u>Discover the Hottest Gaming Laptop Offers for 2E24</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discovering-advanced-hardware-solutions-through-toms-innovation-lens/"><u>Discovering Advanced Hardware Solutions Through Tom's Innovation Lens</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/dive-deep-into-the-world-of-high-performance-laptops-with-our-review-of-the-asus-zenbook-s1-6-where-we-thoroughly-examine-and-test-its-capabilities-when-pow16/"><u>Dive Deep Into the World of High-Performance Laptops with Our Review of the Asus Zenbook S1 6, Where We Thoroughly Examine and Test Its Capabilities when Powered by the Advanced AMD Ryzen AI 9 HX 370 CPU.</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/dive-into-iphone-photo-magic-with-surface-mirror-tips/"><u>Dive Into iPhone Photo Magic with Surface Mirror Tips</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/dive-into-the-game-world-grab-lenovos-powerhouse-legion-slim-5-rtx-4060-gpu-at-an-unbeatable-price-of-899/"><u>Dive Into the Game World: Grab Lenovo's Powerhouse Legion Slim 5, RTX 4060 GPU at an Unbeatable Price of $899</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/dive-into-the-world-of-computing-with-toms-hardware-solutions/"><u>Dive Into the World of Computing with Tom’s Hardware Solutions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exclusive-deal-get-the-hp-omen-transcend-14-laptop-with-rtx-gpu-and-oled-display-at-300-off/"><u>Exclusive Deal: Get the HP Omen Transcend 14 Laptop with RTX GPU & OLED Display at $300 Off</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-of-the-uniden-r3-superior-construction-meets-wide-range-frequency-scanning/"><u>Expert Analysis of the Uniden R3 - Superior Construction Meets Wide-Range Frequency Scanning</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Motorola Razr 40 | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/transforming-your-budget-achieving-stellar-picture-and-audio-on-a-98-inch-tv-without-breaking-the-bank-zdnet/"><u>Transforming Your Budget: Achieving Stellar Picture & Audio on a 98-Inch TV without Breaking the Bank | ZDNET</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-google-chrome-not-responding/"><u>[SOLVED] Google Chrome Not Responding</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-meme-masterpieces-iphones-here/"><u>[Updated] Meme Masterpieces, iPhones Here</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-luts-unveiled-transforming-the-lands-market/"><u>2024 Approved LUTs Unveiled Transforming the Lands Market</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723262403477-asus-makes-history-with-the-first-ever-rog-nuc-combines-cutting-edge-core-ultra-9-and-stunning-rtx-4070-graphics-at-an-unbeatable-starting-price-of-1629/"><u>Asus Makes History with the First-Ever ROG NUC - Combines Cutting-Edge Core Ultra 9 and Stunning RTX 4070 Graphics at an Unbeatable Starting Price of $1,629!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-instantly-upgrade-to-the-latest-hp-drivers/"><u>Download & Instantly Upgrade to the Latest HP Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-overcome-amd-rx-560-drivers-trouble-on-windows-operating-systems-windows-111087-guide/"><u>How to Overcome AMD RX 560 Drivers Trouble on Windows Operating Systems: Windows 11/10/8/7 Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/egies-to-arrange-content-in-youtube-media-for-2024/"><u>Strategies to Arrange Content in YouTube Media for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/the-adventure-into-advanced-high-definition-tvs-4k/"><u>The Adventure Into Advanced High Definition TVs - 4K</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-dll-file-disappearance-on-windows/"><u>Troubleshooting DLL File Disappearance on Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/warframe-game-stability-issues-primarily-affect-intel-overclocking-capable-processors-reveals-development-team/"><u>Warframe Game Stability Issues Primarily Affect Intel Overclocking Capable Processors, Reveals Development Team</u></a></li>
 </ul></div>
 

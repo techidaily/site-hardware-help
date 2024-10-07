@@ -1,7 +1,7 @@
 ---
 title: Introducing the Cixin P1 – Arm-Based, Industry Standard 6Nm Chip From China Achieving 45 TOPS in Performance
-date: 2024-09-04T02:12:53.474Z
-updated: 2024-09-05T02:12:53.474Z
+date: 2024-10-02T19:10:19.930Z
+updated: 2024-10-07T19:26:26.124Z
 tags:
   - cpu
 categories:
@@ -37,14 +37,11 @@ With AI PC hype at a fever pitch, chip vendors Intel, AMD, and Qualcomm are enga
 
  Cixin is a very young company, first established in 2021, that has been growing thanks to investments from 15-20 public and private investment partners listed on its website. This freshness to the Chinese tech scene may limit widespread adoption early on, so we'll have to wait and see if Cixin manages to succeed in the huge, hungry tech market seeking[separation from U.S. interference](https://www.tomshardware.com/tech-industry/manufacturing/china-commerce-minister-frustrated-by-us-interfering-in-international-lithography-exports-via-third-countries) .
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -53,11 +50,33 @@ With AI PC hype at a fever pitch, chip vendors Intel, AMD, and Qualcomm are enga
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-help.techidaily.com/1-preventing-excessive-heat-in-your-android-device-a-comprehensive-guide/"><u>1. Preventing Excessive Heat in Your Android Device: A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/achieve-perfect-proportions-in-your-fb-videos-through-ratio-knowledge/"><u>Achieve Perfect Proportions in Your FB Videos Through Ratio Knowledge</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-asus-rog-phone-8-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Asus ROG Phone 8</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/chrome-keeps-freezing-fixed/"><u>Chrome Keeps Freezing [Fixed]</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/color-balance-boost-in-photoshop-simplified-for-2024/"><u>Color Balance Boost in Photoshop Simplified for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/installing-corsair-mouse-drivers-and-features-a-complete-step-by-step-guide/"><u>Installing Corsair Mouse Drivers & Features: A Complete Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-pc-boot-problems-strategies-for-a-smooth-post-process/"><u>Mastering PC Boot Problems: Strategies for a Smooth POST Process</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/simplify-image-editing-picart-background-shedding-for-2024/"><u>Simplify Image Editing PicArt Background Shedding for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-how-to-make-your-videos-run-backwards-on-snapchat-easily/"><u>Step-by-Step Tutorial: How To Make Your Videos Run Backwards on Snapchat Easily</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/tech-showdown-two-major-iphone-rival-products-stumble-in-recent-trials/"><u>Tech Showdown: Two Major iPhone Rival Products Stumble in Recent Trials</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-insiders-guide-to-burner-devices-and-secure-communication-with-temporary-contact-info/"><u>The Insider's Guide to Burner Devices and Secure Communication with Temporary Contact Info</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-4-cost-free-android-keyboard-apps-that-prioritize-user-privacy/"><u>Top 4 Cost-Free Android Keyboard Apps That Prioritize User Privacy</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-protection-the-ultimate-guide-to-picking-the-perfect-samsung-galaxy-z-flip-4-case/"><u>Top-Rated Protection: The Ultimate Guide to Picking the Perfect Samsung Galaxy Z Flip 4 Case</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-protective-covers-for-the-latest-google-pixel-phones-2023-edition/"><u>Top-Rated Protective Covers for the Latest Google Pixel Phones - 2023 Edition</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/transforming-your-android-device-into-a-portable-wireless-access-point/"><u>Transforming Your Android Device Into a Portable Wireless Access Point</u></a></li>
+<li><a href="https://article-tips.techidaily.com/ultimate-digital-destinations-for-text-overlays-for-2024/"><u>Ultimate Digital Destinations for Text Overlays for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/understanding-stock-android-what-does-it-mean-for-your-smartphone-experience/"><u>Understanding Stock Android: What Does It Mean for Your Smartphone Experience?</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-endless-content-with-xbox-game-pass-ultimate/"><u>Unlock Endless Content With Xbox Game Pass Ultimate</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlocking-secure-mobility-understanding-grapheneoss-impact-on-android-privacy/"><u>Unlocking Secure Mobility: Understanding GrapheneOS's Impact on Android Privacy</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030381/7443" target="_top" id="2030381">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030381" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030381/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+

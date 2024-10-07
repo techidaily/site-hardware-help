@@ -1,7 +1,7 @@
 ---
 title: Simple Steps to Update Your PC's Battery Drivers on Windows
-date: 2024-09-27T20:46:57.650Z
-updated: 2024-10-01T23:47:08.370Z
+date: 2024-10-06T19:38:44.906Z
+updated: 2024-10-07T20:34:53.948Z
 tags:
   - win11
   - win10
@@ -41,26 +41,40 @@ thumbnail: https://thmb.techidaily.com/c19a308589c95b1ddee27c6a5a356d350b91c656d
 3. Select**Laptop** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap543-1.png)
 4. Click**Let HP detect your product** .  
+
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap544.png)
 5. If HP detected your product, follow the on-screen instructions to download the drivers for your HP Elitebook 8460p. If it failed, then click**Find out more** next to**Let HP detect your product** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap545-1.png)
 6. In the search bar, type **HP Elitebook 8460p** and click**the search button** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap546.png)
 7. Click**Software and Drivers** .  
@@ -68,28 +82,34 @@ thumbnail: https://thmb.techidaily.com/c19a308589c95b1ddee27c6a5a356d350b91c656d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap547-1.png)
 8. **Select your operating system and version** . If you don’t know the version of your Windows operating system, see[ How to check Windows version \[Easily\]](https://tools.techidaily.com/drivereasy/download/) . Then click**Change** . HP will list all the drivers available for your HP EliteBook 8460p.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap548.png)
 9. If you want to download a single driver, just click the**Download** button next to that driver; if you want to download multiple drivers, you need to click**the add-to-download-list button** to add then to the download list first. After that, click**Open download list** view the download list.  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap549.png)
 10. Click**Download files** to download the drivers in the list.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap550.png)
 11. When it is finished, you need to**double-click** each downloaded driver file and follow the on-screen instructions to install them on your laptop.
+
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Download and update the drivers for your HP Elitebook 8460p automatically
 
@@ -103,13 +123,6 @@ thumbnail: https://thmb.techidaily.com/c19a308589c95b1ddee27c6a5a356d350b91c656d
 3. Click **Update**  next to any device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.** You get **full support**  and a **30-day money back**  guarantee).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap552.png)  
  You can do it for free if you like, but it’s partly manual.  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
@@ -134,17 +147,20 @@ Please leave your comment below if you have any questions or suggestions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-the-ultimate-list-of-engaging-history-content-on-youtube/"><u>[New] In 2024, The Ultimate List of Engaging History Content on YouTube</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-stay-true-to-your-story-dont-drown-in-false-like-floods-for-2024/"><u>[Updated] Stay True to Your Story, Don't Drown in False Like Floods for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-binge-watch-or-live-stream-twitch-and-youtube-compared/"><u>2024 Approved Binge-Watch or Live-Stream? Twitch and YouTube Compared</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/cutting-edge-tech-reviews-by-tom-your-go-to-resource/"><u>Cutting Edge Tech Reviews by Tom - Your Go-To Resource</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/decoding-hardware-mysteries-wisdom-from-toms-experience/"><u>Decoding Hardware Mysteries: Wisdom From Tom's Experience</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-high-performance-pc-gear-with-toms-system-guides/"><u>Discover High-Performance PC Gear with Tom's System Guides</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-the-future-of-gaming-monitors-as-acer-launches-three-oled-panels-including-ultra-fast-27-inch-predator-x2n-u-f3/"><u>Discover the Future of Gaming Monitors as Acer Launches Three OLED Panels, Including Ultra-Fast 27-Inch Predator X2n U F3</u></a></li>
-<li><a href="https://common-error.techidaily.com/diy-repair-tips-resolving-issues-when-usb-drives-go-missing-on-your-computer/"><u>DIY Repair Tips: Resolving Issues When USB Drives Go Missing on Your Computer</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/elite-performance-meets-luxury-design-comprehensive-review-of-the-gigabyte-aorus-fo32u2p-oled-monitor-for-gamers/"><u>Elite Performance Meets Luxury Design: Comprehensive Review of the Gigabyte AORUS FO32U2P OLED Monitor for Gamers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-your-call-of-duty-wwii-black-screen-glitch-on-a-windows-system/"><u>Fix Your Call of Duty: WWII Black Screen Glitch on a Windows System</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-functionality-of-your-laptops-touchpad-in-widows-os/"><u>How to Restore Functionality of Your Laptop's Touchpad in Widows OS</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transformez-un-fichier-video-3g2-en-wma-gratuitement-online-services-de-conversion-rapides-par-movavi/"><u>Transformez Un Fichier Vidéo 3G2 en WMA Gratuitement Online - Services De Conversion Rapides Par Movavi</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-augmented-reality-how-android-enhances-viewing-experience/"><u>[New] In 2024, Augmented Reality How Android Enhances Viewing Experience</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-navigating-your-way-through-screen-capturing-with-dell/"><u>[New] In 2024, Navigating Your Way Through Screen Capturing with Dell</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-picscanners-face-blurring-made-easy-for-everyone/"><u>[Updated] PicScanner's Face-Blurring Made Easy for Everyone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-the-ultimate-guide-to-vimeo-gif-conversion-magic/"><u>[Updated] The Ultimate Guide to Vimeo-Gif Conversion Magic</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/angry-buyer-contests-intels-rma-procedure-insists-on-authenticity-of-core-i9-14900k-cpus-from-retailers/"><u>Angry Buyer Contests Intel's RMA Procedure - Insists on Authenticity of Core I9-14900K CPUs From Retailers</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-samsung-galaxy-s23plus-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Samsung Galaxy S23+? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-vivo-v29e-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Vivo V29e Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-downloading-and-updating-of-dell-monitors-with-latest-drivers/"><u>Effortless Downloading and Updating of Dell Monitors with Latest Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-digital-gadgets-at-toms-computing-world/"><u>Exploring Digital Gadgets at Tom's Computing World</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-intel-irisplus-graphics-card-software-update-for-windows-11/"><u>Get the Latest Intel Iris+ Graphics Card Software Update for Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-epson-v500-working-install-the-latest-scan-software-now/"><u>Get Your Epson V500 Working: Install the Latest Scan Software Now!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-craft-movies-on-windows-11-using-the-free-movie-maker-app/"><u>In 2024, Craft Movies on Windows 11 Using the Free Movie Maker App</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-unleashing-fb-video-potential-with-speedy-insights/"><u>In 2024, Unleashing FB Video Potential with Speedy Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/innovative-hardware-solutions-decoded-by-toms-technological-analysis/"><u>Innovative Hardware Solutions Decoded by Tom's Technological Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-review-unveiling-the-latest-innovations/"><u>Tom's Tech Review: Unveiling the Latest Innovations</u></a></li>
 </ul></div>
 

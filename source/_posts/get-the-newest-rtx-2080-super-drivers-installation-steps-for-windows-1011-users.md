@@ -1,7 +1,7 @@
 ---
 title: "Get the Newest RTX 2080 Super Drivers: Installation Steps for Windows 10/11 Users"
-date: 2024-09-04T02:14:06.317Z
-updated: 2024-09-05T02:14:06.317Z
+date: 2024-10-01T18:45:51.481Z
+updated: 2024-10-07T19:31:05.200Z
 tags:
   - win11
   - win10
@@ -46,19 +46,28 @@ If you want to download the**BCM20702A0 driver** for your Bluetooth adapter, you
 2. Type**devmgmt.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90cabe00ddb.png)
 3. Find your Bluetooth adapter (sometimes it may display as**Unknown device** ), right click on your device, and select**Update driver** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90ce12a7cab.png)
 4. Choose**Browser my computer for driver software** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd679066ae58.jpg)
 5. Follow the on-screen instructions to finish the update.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This method is time-consuming. If it doesn’t work for you, don’t worry. You can try[Method 2](https://tools.techidaily.com/drivereasy/download/) to do it easily and quickly..
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Download and update the BCM20702A0 driver automatically
 
  Manually downloading the driver takes time and computer skills. If you don’t have time or patience, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -71,26 +80,29 @@ If you want to download the**BCM20702A0 driver** for your Bluetooth adapter, you
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba20a9e6befd.jpg)
 3. Click the**Update** button next to the flagged device to automatically download the correct version of the driver (you can do this with the**Free** version). Then install the driver in your computer.  
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba20b16bf7b8.jpg)
 4. Restart your computer to take effect.
+
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Note: if you have any problems while using Driver Easy, feel free to contact our support team at**<support@drivereasy.com>** . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -104,8 +116,6 @@ If you want to download the**BCM20702A0 driver** for your Bluetooth adapter, you
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -113,4 +123,20 @@ If you want to download the**BCM20702A0 driver** for your Bluetooth adapter, you
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-list-of-8-youtube-mistakes-to-evade/"><u>[New] The Ultimate List of 8 Youtube Mistakes to Evade</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/ancient-communication-secrets-revealed-today/"><u>Ancient Communication Secrets Revealed Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-creative-soundblaster-driver-software-on-windows-11-heres-how/"><u>Get the Latest Creative SoundBlaster Driver Software on Windows 11 – Here's How</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-hands-on-euros-latest-processor-craze-amd-ryzen-9-price-drop-to-750-in-france/"><u>Get Your Hands on Euro's Latest Processor Craze: AMD Ryzen 9 Price Drop to €750 in France!</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-enable-disable-and-change-safari-location-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>How to Enable, Disable, and Change Safari Location on Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-and-update-your-pcs-sound-card-software-on-windows-today/"><u>Install & Update Your PC's Sound Card Software on Windows Today!</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-paying-for-ea-play-a-good-deal/"><u>Is Paying for EA Play a Good Deal?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-hardware-with-tom-the-ultimate-resource/"><u>Mastering Hardware with Tom: The Ultimate Resource</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcome-gaming-lags-and-frame-drops-with-our-pro-tips/"><u>Overcome Gaming Lags & Frame Drops with Our Pro Tips</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/prompt-acquisition-universe-visual-cleanup/"><u>Prompt Acquisition: Universe Visual Cleanup</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-swift-lenovo-x220-driver-download-and-installation-tips/"><u>Step-by-Step: Swift Lenovo X220 Driver Download & Installation Tips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlocking-the-secrets-of-hardware-with-toms-expertise/"><u>Unlocking the Secrets of Hardware with Tom's Expertise</u></a></li>
+</ul></div>
 

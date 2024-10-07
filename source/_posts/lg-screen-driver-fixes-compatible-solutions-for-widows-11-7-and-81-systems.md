@@ -1,7 +1,7 @@
 ---
 title: "LG Screen Driver Fixes: Compatible Solutions for Widows 11, 7 & 8.1 Systems"
-date: 2024-09-30T16:36:50.943Z
-updated: 2024-10-02T01:07:49.594Z
+date: 2024-10-04T17:17:55.874Z
+updated: 2024-10-07T19:42:33.303Z
 tags:
   - win11
   - win10
@@ -42,15 +42,22 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-121.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the Ralink RT3290 driver for now, simply click on the**Update** button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-122.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -62,10 +69,16 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Option 2: Download and update your Ralink RT3290 driver manually (For Windows 8/7 Only)**
@@ -83,16 +96,10 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-118.png)
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) After knowing the version of your Windows operating system, you should now search for the driver online. You can either find your own way to the official website of MediaTek, or you can simply click[https://www.mediatek.com/](https://www.mediatek.com/) .
@@ -112,13 +119,6 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
  9) Make sure you open the right files based on your Windows version. In the end, you’ll see a file as illustrated below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-117.png)
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  When you double-click**devcon64.exe** , you’ll be prompted to decompress the folders. Select**Extract all** .
 
@@ -162,24 +162,20 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-premier-12-video-capture-goes-on-forever/"><u>[New] In 2024, Premier 12 Video Capture - Goes On Forever</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-maximize-engagement-discover-the-right-youtube-thumbnail-size/"><u>[New] Maximize Engagement Discover the Right YouTube Thumbnail Size</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-google-images-and-speed-a-handy-collage-creation-routine/"><u>2024 Approved Google Images & Speed A Handy Collage Creation Routine</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-infinix-note-30-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Infinix Note 30 Pro without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/dark-displays-post-driver-implementation/"><u>Dark Displays Post-Driver Implementation</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-restore-hp-display-functionality-problem-resolved/"><u>How To Restore HP Display Functionality – Problem Resolved</u></a></li>
-<li><a href="https://facebook.techidaily.com/how-to-stop-facebook-tracking-with-the-off-facebook-activity-tool/"><u>How to Stop Facebook Tracking With the Off-Facebook Activity Tool</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/innovative-iphone-techniques-for-collage-creation/"><u>Innovative iPhone Techniques for Collage Creation</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/live-streaming-mastery-with-manycam-top-notch-virtual-camera-solutions/"><u>Live Streaming Mastery with ManyCam: Top-Notch Virtual Camera Solutions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-gadgets-and-components-a-journey-through-toms-hardware/"><u>Mastering Gadgets & Components - A Journey Through Tom's Hardware</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-hardware-choices-with-toms-authoritative-reviews/"><u>Mastering Hardware Choices with Tom's Authoritative Reviews</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/meet-the-gaming-champion-tuxedo-sirius-16-gen2-with-amd-and-linux-ultimate-gaming-laptop-featuring-a-crystal-clear-ips-panel-from-just-1699/"><u>Meet the Gaming Champion: Tuxedo Sirius 16 Gen2 with AMD & Linux – Ultimate Gaming Laptop Featuring a Crystal-Clear IPS Panel From Just €1699</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/microsofts-ai-revolution-with-copilotplus-makes-traditional-ai-pcs-obsolete-what-to-know-if-you-bought-a-2024-laptop/"><u>Microsoft's AI Revolution with Copilot+ Makes Traditional AI PCs Obsolete - What to Know if You Bought a 2024 Laptop</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigate-the-world-of-gadgets-and-pc-parts-with-toms-advice/"><u>Navigate the World of Gadgets and PC Parts with Tom’s Advice</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigate-the-world-of-pcs-with-authoritative-guides-by-toms-hardware/"><u>Navigate the World of PCs with Authoritative Guides by Tom's Hardware</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-the-market-with-toms-hardware-advice/"><u>Navigating the Market with Tom's Hardware Advice</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-through-circuitry-a-deep-dive-into-toms-hardware-reviews/"><u>Navigating Through Circuitry: A Deep Dive Into Tom's Hardware Reviews</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/next-gen-computing-on-a-budget-exclusive-chinese-startup-offers-developer-friendly-risc-v-laptops-for-just-300/"><u>Next-Gen Computing on a Budget: Exclusive Chinese Startup Offers Developer-Friendly RISC-V Laptops for Just 300$</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-ultimate-2024-manual-eradicating-the-echo-effect-from-your-discord-app-on-pc/"><u>The Ultimate 2024 Manual: Eradicating the Echo Effect From Your Discord App on PC</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-cross-platform-connectivity-sharing-youtube-and-twitter-videos-on-snapchat-for-2024/"><u>[New] Cross Platform Connectivity Sharing YouTube & Twitter Videos on Snapchat for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-discreetly-discovering-instagram-stories-online-pc-android-iphone-methods-for-2024/"><u>[New] Discreetly Discovering Instagram Stories Online - PC, Android, iPhone Methods for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-steps-keep-your-logitech-m310-perfectly-sync-with-updated-drivers/"><u>Comprehensive Steps: Keep Your Logitech M310 Perfectly Sync with Updated Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/deciphering-the-reason-behind-snapdragon-xs-elite-igpu-being-disabled-in-latest-linux-kernel-update/"><u>Deciphering the Reason Behind Snapdragon X's Elite iGPU Being Disabled in Latest Linux Kernel Update</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722969096388-find-and-install-updated-thinkpad-t420s-drivers-compatible-with-windows-11-here/"><u>Find & Install Updated ThinkPad T420s Drivers Compatible with Windows 11 Here!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-rtx-2080-super-drivers-installation-steps-for-windows-1011-users/"><u>Get the Newest RTX 2080 Super Drivers: Installation Steps for Windows 10/11 Users</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/how-to-add-border-to-instagram-video/"><u>How to Add Border to Instagram Video?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-drivers-on-logitech-m510-mouse-step-by-step-instructional-guide/"><u>How to Update Drivers on Logitech M510 Mouse: Step-by-Step Instructional Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-deskjet-vee-3755-printer-drivers-installation-guide-for-windows-operating-systems/"><u>HP DeskJet Vee 3755 Printer Drivers: Installation Guide for Windows Operating Systems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-speedy-skimmer-of-windows-imagery/"><u>In 2024, Speedy Skimmer of Windows Imagery</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/is-sns-hdr-the-best-for-your-hdr-needs-insights/"><u>Is SNS HDR the Best for Your HDR Needs? Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-apple-watch-notifications-with-your-gmail-account-setup/"><u>Mastering Apple Watch Notifications with Your Gmail Account Setup</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/thumbnail-design-101-for-video-promotion-on-youtube/"><u>Thumbnail Design 101 for Video Promotion on YouTube</u></a></li>
 </ul></div>
 

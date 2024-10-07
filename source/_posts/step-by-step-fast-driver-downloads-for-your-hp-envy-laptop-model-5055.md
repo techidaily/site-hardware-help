@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: Fast Driver Downloads for Your HP Envy Laptop (Model 5055)"
-date: 2024-09-26T19:35:23.771Z
-updated: 2024-10-01T22:17:08.911Z
+date: 2024-10-02T19:07:33.529Z
+updated: 2024-10-07T19:08:04.081Z
 tags:
   - win11
   - win10
@@ -32,10 +32,10 @@ thumbnail: https://thmb.techidaily.com/59ebf54bbd2728b1cee67f80e126289c9f6737977
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Option 1 – Update your driver via Device Manager**
@@ -49,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/59ebf54bbd2728b1cee67f80e126289c9f6737977
 3. Type**device** into the search box. Then select**Device Manager** from a list of search results.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1098.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Here comes**Device Manager** . Click the**▷** symbol to the left of**Biometric Devices** to expand its drop-down list.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1073.png)
@@ -60,13 +60,6 @@ thumbnail: https://thmb.techidaily.com/59ebf54bbd2728b1cee67f80e126289c9f6737977
 
 6. Click**Search automatically for updated driver software** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-18-21.png)
 7. Wait till the download and installation process finishes.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 8. Click **Close** when it’s all done.
 9. Now your driver has been updated by Windows successfully. Don’t forget to**restart** your computer for the changes to take effect even if you’re not asked to.
@@ -81,6 +74,13 @@ thumbnail: https://thmb.techidaily.com/59ebf54bbd2728b1cee67f80e126289c9f6737977
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Option 3 – Update your driver automatically (Recommended)**
 
  If you don’t have the time, patience or computer skills to update your**Validity fingerprint sensor driver** manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -94,10 +94,10 @@ thumbnail: https://thmb.techidaily.com/59ebf54bbd2728b1cee67f80e126289c9f6737977
 3. Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your Validity fingerprint sensor driver for now, simply click the**Update** button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-29_18-36-48-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -128,24 +128,20 @@ thumbnail: https://thmb.techidaily.com/59ebf54bbd2728b1cee67f80e126289c9f6737977
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-gently-introducing-scene/"><u>[New] Gently Introducing Scene</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-how-to-amass-wealth-the-art-of-vimeo-video-monetization/"><u>[Updated] 2024 Approved How to Amass Wealth The Art of Vimeo Video Monetization</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-quick-launch-diving-into-live-conversations-on-instagram/"><u>2024 Approved Quick Launch Diving Into Live Conversations on Instagram</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Infinix Hot 40 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/mkv-playback-issues-on-samsung-galaxy-f34-5g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV playback issues on Samsung Galaxy F34 5G</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimal-parts-for-uninterrupted-virtual-adventures/"><u>Optimal Parts for Uninterrupted Virtual Adventures</u></a></li>
-<li><a href="https://win11.techidaily.com/optimizing-file-explorer-for-removable-storage/"><u>Optimizing File Explorer for Removable Storage</u></a></li>
-<li><a href="https://win-blog.techidaily.com/pc-users-solution-how-to-fix-the-ready-or-not-game-from-constantly-crashing/"><u>PC Users' Solution: How to Fix the 'Ready or Not' Game From Constantly Crashing</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/tailored-tech-reviews-navigate-the-world-of-hardware-with-pro-critic-tom/"><u>Tailored Tech Reviews: Navigate the World of Hardware with Pro Critic Tom</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/tech-savvys-corner-insightful-dissections-of-modern-computing-by-tom/"><u>Tech Savvy's Corner: Insightful Dissections of Modern Computing by Tom</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-digital-diary-in-depth-reviews-and-guides/"><u>Tom's Digital Diary: In-Depth Reviews & Guides</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-gadget-guide-in-depth-hardware-analysis/"><u>Tom's Gadget Guide: In-Depth Hardware Analysis</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-hardware-uncovered-cutting-edge-gadget-analysis/"><u>Tom's Hardware Uncovered: Cutting-Edge Gadget Analysis</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-review-expert-guides-on-hardware-selection/"><u>Tom's Tech Review: Expert Guides on Hardware Selection</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-insights-from-toms-hardware-for-your-pc-needs/"><u>Ultimate Insights From Tom’s Hardware for Your PC Needs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unboxing-the-game-changing-pixio-px277-max-monitor-discovering-its-hidden-brilliance/"><u>Unboxing the Game-Changing Pixio PX277 Max Monitor: Discovering Its Hidden Brilliance</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unleash-immersive-viewing-experience-snag-a-giant-samsung-oled-monitor-for-just-60-less-exclusive-offer/"><u>Unleash Immersive Viewing Experience: Snag a Giant Samsung OLED Monitor for Just $60 Less – Exclusive Offer</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/utilizing-zoom-services-directly-from-your-inbox-gmail-edition/"><u>Utilizing Zoom Services Directly From Your Inbox - Gmail Edition</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-10-error-0x8024002e-heres-how-to-fix-it-and-get-your-updates-running-smoothly-again/"><u>Windows 10 Error 0X8024002e? Here's How to Fix It and Get Your Updates Running Smoothly Again!</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-selecting-gear-for-youtube-a-filmmakers-essentials/"><u>[New] 2024 Approved Selecting Gear for YouTube A Filmmaker's Essentials</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-premier-imagery-capture-insight/"><u>[New] Premier Imagery Capture Insight</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nveiling-the-swift-growing-youtube-sources-for-inspiration/"><u>[New] Unveiling the Swift-Growing YouTube Sources for Inspiration</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/canon-dr-c225-driver-download-for-windows-operating-systems-windows-11-10-and-8/"><u>Canon DR-C225 Driver Download for Windows Operating Systems - Windows 11, 10 & 8</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-tutorial-for-reinstalling-intel-centrino-apro-wireless-n-4905agn-drivers-on-your-pc/"><u>Complete Tutorial for Reinstalling Intel Centrino A/Pro Wireless - N 4905AGN Drivers on Your PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722957373535-effortlessly-update-to-latest-asrock-ab350-pro4-drivers-free-downloads-here/"><u>Effortlessly Update to Latest ASRock AB350 Pro4 Drivers - Free Downloads Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-gaming-with-updated-acer-predator-helios-300-graphics-driver-upgrades/"><u>Enhance Your Gaming with Updated Acer Predator Helios 300 Graphics Driver Upgrades</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-acer-display-software-get-your-latest-drivers-here/"><u>Free Acer Display Software - Get Your Latest Drivers Here</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Infinix Hot 30i? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-oppo-k11x-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Oppo K11x by Name | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installation-guide-and-software-downloads-for-brother-hl-l2380dw-on-pc/"><u>Installation Guide & Software Downloads for Brother HL-L2380DW on PC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/iphone-photo-perfection-implement-these-10-composition-tenets/"><u>IPhone Photo Perfection Implement These 10 Composition Tenets</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/simple-steps-to-elevate-win11-with-intel-gfx/"><u>Simple Steps to Elevate Win11 with Intel GFX</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-infinix-gt-10-pro-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Infinix GT 10 Pro FRP Bypass</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unleashing-win11s-potential-with-zoom-conferencing/"><u>Unleashing Win11's Potential with Zoom Conferencing</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Easy Steps: Get Your Corsair Void Pro Graphics Card Up & Running on Windows!"
-date: 2024-09-29T11:09:22.691Z
-updated: 2024-10-02T05:28:12.894Z
+date: 2024-10-02T20:04:32.280Z
+updated: 2024-10-07T20:12:03.299Z
 tags:
   - win11
   - win10
@@ -25,13 +25,6 @@ If you’re using Arduino products to create your own work but failed to connect
 
  That’s why most of the problems can be solved by installing/updating drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to download Arduino Nano driver?
 
 There are two ways you can update your Arduino Nano drivers.
@@ -42,13 +35,6 @@ OR
 
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/how-to-download-and-install-arduino-nano-driver-in-windows-solved/#op2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Option 1 –** **Download and install the driver manually**
 
  The screenshots below are from Windows 10, but the steps are also valid for other Windows system.
@@ -57,15 +43,16 @@ OR
 2. Click **Windows Installer, for Windows XP and up** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/ar.jpg)
 3. Click**Just Download** . The driver .exe installation file would then be downloaded automatically.  
-![](https://images.drivereasy.com/wp-content/uploads/2019/10/just.jpg)
-4. On your keyboard, hold down the **Windows logo key** \+ **Pause** . Then click **Device Manager** .  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/just.jpg)
+4. On your keyboard, hold down the **Windows logo key** \+ **Pause** . Then click **Device Manager** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/device.jpg)
 5. Find and **right-click** your **Arduino Uno software** . Probably it’s listed under the **Other devices** section due to the problem. Then select **Update driver** .  
@@ -74,13 +61,20 @@ OR
 6. Click the **Browse…** icon. Another window appears: go to the folder with the Arduino nano driver that you just downloaded. Select the drivers folder, then **OK** \> **Next** .
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you don’t have the time, patience or computer skills to update your Arduino Uno driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Move onto **Option 2** then.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Option 2 – Automatically update drivers**
 
@@ -97,6 +91,13 @@ OR
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/nano.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -119,16 +120,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-premiere-pro-rapid-transitions/"><u>[New] Premiere Pro Rapid Transitions</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-the-complete-guide-to-high-quality-sims-video-sessions-for-2024/"><u>[New] The Complete Guide to High-Quality Sims Video Sessions for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-filmfusion-studio-win8/"><u>[Updated] FilmFusion Studio Win8</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-your-perfect-video-presentation-toolkit-unveiling-the-best-36-tools-on-play-store/"><u>[Updated] Your Perfect Video Presentation Toolkit Unveiling the Best 36 Tools on Play Store</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-download-of-official-hp-designjet-500-printer-drivers/"><u>Free Download of Official HP DesignJet 500 Printer Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722964171534-get-the-newest-canon-color-laserjet-mg490-windows-driver-software-here/"><u>Get the Newest Canon Color LaserJet MG490 Windows Driver Software Here</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-canon-mf4800-drivers-here-fast-and-easy-download/"><u>Get Your Canon MF4800 Drivers Here – Fast and Easy Download</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-oppo-a56s-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Oppo A56s 5G Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-itel-a05s-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Itel A05s Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastery-of-the-digital-realm-articles-by-toms-hardware-experts/"><u>Mastery of the Digital Realm: Articles by Tom’s Hardware Experts</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-install-essential-drivers-for-your-asus-z370-e-motherboard/"><u>Quick Install: Essential Drivers for Your ASUS Z370-E Motherboard</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-exclusive-video-editing-software-just-for-vimeo-pros/"><u>[New] 2024 Approved Exclusive Video Editing Software Just For Vimeo Pros</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-creating-impressive-podcast-identities-with-logos/"><u>2024 Approved Creating Impressive Podcast Identities with Logos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/bdmvfreewindows/"><u>BDMVファイルをFreeにWindows上で再生する手順</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-nubia-red-magic-9-pro-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Nubia Red Magic 9 Pro Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/dive-into-literature-with-the-waterproof-kobo-libra-h2o-your-comprehensive-review/"><u>Dive Into Literature with the Waterproof Kobo Libra H2O – Your Comprehensive Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-setup-iphone-drivers-for-windows-10-users/"><u>Download & Setup: IPhone Drivers for Windows 10 Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/essential-drivers-for-epson-ds-530-compatible-with-windows-10-64-bit/"><u>Essential Drivers for Epson DS-^530 - Compatible With Windows 10 (64-Bit)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-tips-securely-download-sades-headset-drivers-for-windows-without-any-hassle/"><u>Expert Tips: Securely Download Sades Headset Drivers for Windows Without Any Hassle</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-your-logitech-hd-pro-webcam-software-for-windows-11-systems/"><u>How to Update Your Logitech HD Pro Webcam Software for Windows 11 Systems</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-freedomforsounders-review-extraction-excellence/"><u>In 2024, FreedomForSounders Review Extraction Excellence</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-transform-your-short-form-content-top-10-mobile-video-cutting-tools/"><u>In 2024, Transform Your Short-Form Content Top 10 Mobile Video Cutting Tools</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-fresh-geforce-rtx-3080-driver-pack-optimize-gaming-on-win-1087/"><u>Install Fresh GeForce RTX 3080 Driver Pack | Optimize Gaming on Win 10/8/7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/j-edgar/"><u>J. Edgar</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-canon-pixma-mg3620-driver-version-available-for-windows-10817-users/"><u>Latest Canon PIXMA MG3620 Driver Version Available for Windows 10/8.1/7 Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-the-world-of-computing-components-with-toms-expertise/"><u>Navigating the World of Computing Components with Tom's Expertise</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/perfect-iphone-silhouette-captures-101-for-2024/"><u>Perfect iPhone Silhouette Captures 101 for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-nokia-xr21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Nokia XR21 | Dr.fone</u></a></li>
 </ul></div>
 

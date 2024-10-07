@@ -1,7 +1,7 @@
 ---
 title: Record-Breaking Performance Achieved by Overclocked Ryzen 9 9950X to 6.7 GHz Using LN2
-date: 2024-09-29T05:21:39.595Z
-updated: 2024-10-02T00:48:13.931Z
+date: 2024-10-01T18:04:08.511Z
+updated: 2024-10-07T16:54:07.398Z
 tags:
   - cpu
 categories:
@@ -56,34 +56,35 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/updated-the-best-budget-video-players-across-operating-systems/"><u>[Updated] The Best Budget Video Players Across Operating Systems</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-transforming-shopping-insights-into-youtube-paychecks/"><u>[Updated] Transforming Shopping Insights Into YouTube Paychecks</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-amp-up-your-audiovideo-quality-with-these-10-android-players/"><u>2024 Approved Amp Up Your Audio/Video Quality with These 10 Android Players</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-optimal-focus-techniques-for-videoleap-users/"><u>2024 Approved Optimal Focus Techniques for Videoleap Users</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-vivo-y36i-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Vivo Y36i? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-enable-copy-and-paste-functionality-on-your-windows-11-pc/"><u>How to Enable Copy and Paste Functionality on Your Windows 11 PC</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-7-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 7? | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-xiaomi-redmi-a2plus-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Xiaomi Redmi A2+ Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-ultimate-review-source-exploring-toms-hardware/"><u>The Ultimate Review Source - Exploring Tom's Hardware</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-comprehensive-guide-to-cutting-edge-hardware/"><u>Tom's Comprehensive Guide to Cutting-Edge Hardware</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-electronics-roundup-in-depth-hardware-evaluations/"><u>Tom's Electronics Roundup: In-Depth Hardware Evaluations</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-review-the-definitive-guide-on-hardware/"><u>Tom's Tech Review: The Definitive Guide on Hardware</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-review-the-ultimate-guide-to-hardware/"><u>Tom's Tech Review: The Ultimate Guide to Hardware</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-reviews-dive-into-the-world-of-hardware/"><u>Tom's Tech Reviews: Dive Into the World of Hardware</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-premium-laptops-and-ultrathin-computers-of-2024/"><u>Top-Rated Premium Laptops & Ultrathin Computers of 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/utilizing-rgb-lighting-on-win11-pcs/"><u>Utilizing RGB Lighting on Win11 PCs</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-all-inclusive-screen-logger-detailed-app-analyses-for-2024/"><u>[New] All-Inclusive Screen Logger - Detailed App Analyses for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-screencaptureelite-the-5-star-apeaksoft-evaluation/"><u>[New] In 2024, ScreenCaptureElite – The 5-Star Apeaksoft Evaluation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tweaking-sound-on-ps5ps4-games/"><u>[New] Tweaking Sound on PS5/PS4 Games</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-boosting-income-through-effective-video-marketing/"><u>[Updated] 2024 Approved Boosting Income Through Effective Video Marketing</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-premier-artist-blending-images-and-harmony/"><u>[Updated] 2024 Approved Premier Artist Blending Images & Harmony</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-enhancing-mobile-cinematography-the-top-9-accessories-reviewed/"><u>[Updated] Enhancing Mobile Cinematography - The Top 9 Accessories Reviewed</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-unveiling-drone-excellence-the-q500-experience/"><u>[Updated] In 2024, Unveiling Drone Excellence The Q500 Experience</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-spotlight-on-recent-unfollows-on-instagram/"><u>[Updated] Spotlight on Recent Unfollows on Instagram</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-vs-apple-the-laptop-cpu-race-heats-up-as-newest-chip-surpasses-m3-max-in-core-performance/"><u>AMD Vs. Apple: The Laptop CPU Race Heats Up as Newest Chip Surpasses M3 Max in Core Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-set-up-your-sound-blaster-z-drivers-compatible-with-windows-nx/"><u>Download and Set Up Your Sound Blaster Z Drivers Compatible with Windows nX</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-corsair-keyboard-software-for-windows-get-your-latest-version-free/"><u>Download Corsair Keyboard Software for Windows - Get Your Latest Version FREE</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-hp-wireless-drivers-for-windows-pcs/"><u>Download HP Wireless Drivers for Windows PCs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-guide-correcting-260nci-wi-fi-adapters-usb-connection-error/"><u>Expert Guide: Correcting 260nCi Wi-Fi Adapter's USB Connection Error</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722978686180-expert-tips-on-getting-your-samsung-blu-ray-player-back-online/"><u>Expert Tips on Getting Your Samsung Blu-Ray Player Back Online!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-upgrade-your-pcs-wi-fi-drivers-in-windows-11/"><u>How to Upgrade Your PC's Wi-Fi Drivers in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/master-the-art-of-eliminating-sound-stuttering-and-distortion-in-windows-107-systems-a-step-by-step-fix/"><u>Master the Art of Eliminating Sound Stuttering and Distortion in Windows 10/7 Systems – A Step-by-Step Fix</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlock-the-full-potential-of-your-logitech-mx-master-mouse-through-optimized-settings/"><u>Unlock the Full Potential of Your Logitech MX Master Mouse Through Optimized Settings</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "China's Cutting-Edge, 12-Core P1 Series Chip Surpasses Expectations at nTOPS: Kickstart of Mass Production Marks a Milestone for AI Tech"
-date: 2024-09-04T02:12:54.115Z
-updated: 2024-09-05T02:12:54.115Z
+date: 2024-10-06T20:07:06.968Z
+updated: 2024-10-07T18:16:18.146Z
 tags:
   - cpu
 categories:
@@ -91,14 +91,11 @@ Reddit user[jerubedo](https://www.reddit.com/r/hardware/comments/1ei1zvm/intel%5
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -107,11 +104,31 @@ Reddit user[jerubedo](https://www.reddit.com/r/hardware/comments/1ei1zvm/intel%5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-revealing-youtubes-showcase-of-notable-user-comments/"><u>[Updated] 2024 Approved Revealing YouTube's Showcase of Notable User Comments</u></a></li>
+<li><a href="https://techtrends.techidaily.com/debunking-the-top-5-common-myths-surrounding-cryptocurrency/"><u>Debunking the Top 5 Common Myths Surrounding Cryptocurrency</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/effortless-visual-editing-using-mobile-3dlut-tools/"><u>Effortless Visual Editing Using Mobile 3DLUT Tools</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/elevating-your-play-experience-why-switching-to-advanced-handheld-systems-after-mastering-mobile-gaming-is-beneficial/"><u>Elevating Your Play Experience: Why Switching to Advanced Handheld Systems After Mastering Mobile Gaming Is Beneficial</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-pc-setup-asus-motherboards-get-compatible-with-windows-11s-customizable-lights/"><u>Enhance Your PC Setup: Asus Motherboards Get Compatible with Windows 11'S Customizable Lights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/evaluate-the-essential-factors-prior-to-smart-surveillance-camera-setup/"><u>Evaluate the Essential Factors Prior to Smart Surveillance Camera Setup</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-5000mah-belkin-boostcharge-pro-with-wireless-charging-and-stand-unmatched-portable-power-solution/"><u>Exclusive 5,000mAh Belkin BoostCharge Pro with Wireless Charging & Stand - Unmatched Portable Power Solution</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-enhanced-performance-the-latest-modular-design-featuring-intels-top-tier-core-cpus/"><u>Experience Enhanced Performance: The Latest Modular Design Featuring Intel's Top-Tier Core CPUs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-impressive-loudness-with-the-jbl-partybox-stage-320-a-comprehensive-sound-system-review/"><u>Experience Impressive Loudness with the JBL PartyBox Stage 320: A Comprehensive Sound System Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-analysis-jbl-clip-5-as-the-ultimate-compact-bluetooth-speaker-a-comprehhavioral-review/"><u>Expert Analysis: JBL Clip 5 as the Ultimate Compact Bluetooth Speaker - A Comprehhavioral Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-picks-for-superior-laptop-gadgets/"><u>Expert Picks for Superior Laptop Gadgets</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-tecno-spark-10-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Tecno Spark 10 5G Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-conquering-challenges-expert-gopro-tips/"><u>In 2024, Conquering Challenges Expert GoPro Tips</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/inexpensive-sky-explorers-the-least-expensive-drones-for-2024/"><u>Inexpensive Sky Explorers The Least Expensive Drones for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/intel-wireless-network-adapter-ax200-drivers-download-and-update-for-win11win10-users/"><u>Intel Wireless Network Adapter AX200 Drivers Download & Update for Win11/Win10 Users</u></a></li>
+<li><a href="https://extra-support.techidaily.com/showcasing-your-voice-podcast-features-on-insta-for-2024/"><u>Showcasing Your Voice Podcast Features on Insta for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-ai-boundaries-the-challenge-of-self-recognition-for-chatgpt/"><u>Understanding AI Boundaries: The Challenge of Self-Recognition for ChatGPT</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+

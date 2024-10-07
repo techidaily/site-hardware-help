@@ -1,7 +1,7 @@
 ---
 title: "Complete HP MFP M428fdw Software Suite: Installing Drivers on Modern Windows Operating Systems"
-date: 2024-09-04T02:15:27.562Z
-updated: 2024-09-05T02:15:27.562Z
+date: 2024-10-06T19:46:02.290Z
+updated: 2024-10-07T16:24:15.832Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Option 1: Download and update your Ralink RT3290 driver automatically (Recommended)**
 
  If you don’t have the time, patience or computer skills to update the Ralink RT3290 driver manually, you can do it automatically with[](https://tools.techidaily.com/drivereasy/download/) **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -42,9 +49,23 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-121.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the Ralink RT3290 driver for now, simply click on the**Update** button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-122.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
 
@@ -55,11 +76,12 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Option 2: Download and update your Ralink RT3290 driver manually (For Windows 8/7 Only)**
 
  Ralink Technology, Corp. was acquired by MediaTek in 2011, so you can no longer find the official website of Ralink. But luckily, the driver can still be found in **[mediatek.com](https://www.mediatek.com/) .**
@@ -74,18 +96,6 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-118.png)
 
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) After knowing the version of your Windows operating system, you should now search for the driver online. You can either find your own way to the official website of MediaTek, or you can simply click[https://www.mediatek.com/](https://www.mediatek.com/) .
 
  4) There’s a search bar at the top of the website. Type**RT3290** , and then hit**Enter** on your keyboard.
@@ -104,18 +114,6 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-117.png)
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When you double-click**devcon64.exe** , you’ll be prompted to decompress the folders. Select**Extract all** .
 
  10) Click**Browse…** to select a destination and check the**Show extracted files when complete** box. On completion, click**Extract** .
@@ -149,8 +147,6 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,4 +154,24 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-recording-device-quality-analysis/"><u>[Updated] 2024 Approved Recording Device Quality Analysis</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-the-realm-of-free-c-span-video-archives/"><u>[Updated] Explore the Realm of Free C-Span Video Archives</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/boost-interaction-on-your-tiktok-with-these-5-innovative-caption-methods/"><u>Boost Interaction on Your TikTok with These 5 Innovative Caption Methods</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-guide-to-downloading-and-updating-nvidia-geforce-mx150-drivers-on-windows-1011/"><u>Complete Guide to Downloading and Updating NVIDIA GeForce MX150 Drivers on Windows 10/11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-connectivity-with-the-latest-version-of-dell-thunderbolt-tb16-docks-software-and-firmware/"><u>Enhance Connectivity with the Latest Version of Dell Thunderbolt TB16 Dock's Software & Firmware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ensuring-compatibility-updating-your-windows-system-with-samsung-960-evo-driver/"><u>Ensuring Compatibility: Updating Your Windows System with Samsung 960 EVO Driver</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/expert-advice-erase-entire-iphone-content-using-stellar-on-your-pc-or-mac-system/"><u>Expert Advice: Erase Entire iPhone Content Using Stellar on Your PC or Mac System</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/from-novice-to-conversationalist-essential-chinese-greeting-skills/"><u>From Novice to Conversationalist: Essential Chinese Greeting Skills</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-nokia-130-music-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Nokia 130 Music to iPod | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-the-social-media-elite-writes-back-six-essential-tips-to-elevate-your-instagram-presence/"><u>In 2024, The Social Media Elite' Writes Back Six Essential Tips to Elevate Your Instagram Presence</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-your-eveo-bluetooth-adapter-with-our-official-driver-software/"><u>Install Your EVEO Bluetooth Adapter with Our Official Driver Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722977457126-latest-updates-for-epson-l3150-drivers-on-pcs-running-windows-1187-free/"><u>Latest Updates for Epson L3150 Drivers on PCs Running Windows 11/8/7 - Free!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-hardware-choices-with-the-toms-comprehensive-tech-analysis/"><u>Mastering Hardware Choices with The Tom's Comprehensive Tech Analysis</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/masterpiece-creation-with-monoprice-graphic-drawing-tablet-top-value-for-price-conscious-artists/"><u>Masterpiece Creation with Monoprice Graphic Drawing Tablet - Top Value for Price Conscious Artists</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722973825135-microsofts-latest-bluetooth-drivers-compatible-with-windows-10-11-8-and-7-download-update-now/"><u>Microsoft's Latest Bluetooth Drivers: Compatible with Windows 10, 11, 8 & 7 – Download Update Now</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pixiz-essentials-from-stills-to-moving-images-for-2024/"><u>Pixiz Essentials From Stills to Moving Images for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-solutions-for-usb-recognition-problems-on-windows-10-computers/"><u>Step-by-Step Solutions for USB Recognition Problems on Windows 10 Computers</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Instructions for Configuring Your Logitech MX Series Mouse
-date: 2024-09-25T04:45:22.357Z
-updated: 2024-10-02T07:26:54.169Z
+date: 2024-10-03T17:34:14.502Z
+updated: 2024-10-07T20:47:45.829Z
 tags:
   - win11
   - win10
@@ -44,17 +44,10 @@ OR
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ). Or if you just want to update the Targus Docking Station driver for now, hit the**Update** button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-361.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -65,13 +58,6 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Option 2: Manually update your Targus Docking Station driver
 
  If you feel like updating your Targus Docking Station driver manually, here’s the simple and useful guide for you.
@@ -81,10 +67,10 @@ OR
 3. Select**Drivers & Manuals** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-367.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Type the**model name** or**serial number** of your Targus device into the search box to locate the corresponding drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-368.png) Alternatively, you may select**Category** and then**Product** to look for the drivers of your Docking Station.![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-160.png)
@@ -92,25 +78,35 @@ OR
 
 6. Right-click on the file (with a ZIP extension) you’ve just downloaded to open the context menu. Then click**Extract All…** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-375.png)
 
-7. In the pop-up window, click**Browse…** and choose a destination folder where you want to decompress the file. Then, click**Extract** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-376.png)
-
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+7. In the pop-up window, click**Browse…** and choose a destination folder where you want to decompress the file. Then, click**Extract** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-376.png)
 
 8. Wait till the decompression process finishes. Then**copy** the full path of the destination folder. (The path will be different based on your choice in the last step. )![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-20_15-47-31.png)
 9. On your keyboard, press the **Windows Logo Key** and **R**  at the same time to open the**Run**  box. Type **devmgmt.msc** and click **OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap13-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 10. In the**Device Manager** window, locate your Targus Docking Station and then right-click on it to open the context menu. Select**Update driver** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap14-1.png)
 11. If prompted, click**Browse my computer for driver software** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-384.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 12. **Paste** the full path copied in**Step 8** onto the address bar. Remember to check the **Include subfolders** box. Then hit the **Next** button.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-387.png)
 
 13. Now Windows will search for the driver and install it automatically. When everything’s done, click**Finish** . Then **restart** your computer for the changes to take effect even if you’re not asked to.
@@ -136,21 +132,21 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ttract-1000-viewers-quickly-on-youtube/"><u>[New] Attract 1,000 Viewers Quickly on YouTube</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-peak-interactive-webcam-fun-fests/"><u>[New] In 2024, Peak Interactive Webcam Fun Fests</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-through-the-eye-a-top-ten-glimpse-at-2024s-superior-camera-lenses/"><u>[New] Through The Eye A Top Ten Glimpse at 2024'S Superior Camera Lenses</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-kickstart-your-twitch-streaming-journey/"><u>[Updated] 2024 Approved Kickstart Your Twitch Streaming Journey</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/harmonizing-your-windows-photos-how-to-incorporate-audio-visual-features/"><u>Harmonizing Your Windows Photos How to Incorporate Audio-Visual Features</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Oppo Find X7 | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/pinnacle-deskviewers-elite-all-in-one-display-hubs-for-2024/"><u>Pinnacle DeskViewers Elite All-in-One Display Hubs for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/recovering-deleted-drives-top-partition-rescue-tools-explained/"><u>Recovering Deleted Drives: Top Partition Rescue Tools Explained</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/reimagine-your-snapchat-chats-with-ease-voice-change-guides-here/"><u>Reimagine Your Snapchat Chats with Ease Voice Change Guides Here</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-expert-advice-on-hardware/"><u>Tom's Tech Insights: Expert Advice on Hardware</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-review-unbiased-insights-on-hardware/"><u>Tom's Tech Review: Unbiased Insights on Hardware</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-review-of-the-titan-p2-27a2r-monitor-exceptional-value-for-high-speed-gamers/"><u>Top Review of the Titan P2#-27A2R Monitor: Exceptional Value for High-Speed Gamers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/transform-your-gameplay-score-the-acer-nitro-27-inch-gaming-monitor-at-an-amazing-price/"><u>Transform Your Gameplay: Score the Acer Nitro 27-Inch Gaming Monitor at an Amazing Price!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unleash-your-gaming-potential-with-a-massive-39-inch-lg-ultragear-monitor-only-999-at-amazon-today/"><u>Unleash Your Gaming Potential with a Massive 39-Inch LG Ultragear Monitor – Only $999 at Amazon Today!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unlocking-the-potential-of-xiaomi-g34wqi-monitor-a-deep-dive-into-34-inches-180hz-speed-and-remarkable-picture-quality-for-gamers-on-a-budget/"><u>Unlocking the Potential of Xiaomi G34WQi Monitor - A Deep Dive Into 34 Inches, 180Hz Speed, and Remarkable Picture Quality for Gamers on a Budget</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-the-latest-in-tech-toms-system-analysis-and-guides/"><u>Unveiling the Latest in Tech: Tom's System Analysis and Guides</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-virtual-sphere-access-the-leading-10-pc-vr-playback-titles/"><u>[New] In 2024, Virtual Sphere Access The Leading 10 PC VR Playback Titles</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/remium-microphones-for-videographers-for-2024/"><u>[New] Premium Microphones for Videographers for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-from-concept-to-completion-utilizing-luts-effectively-in-premiere-pro/"><u>[Updated] 2024 Approved From Concept to Completion Utilizing LUTs Effectively in Premiere Pro</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-premier-mac-studio-for-high-quality-recordings/"><u>[Updated] Premier Mac Studio for High-Quality Recordings</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-disasters-committing-to-weekly-windows-backup/"><u>Avoiding Disasters: Committing to Weekly Windows Backup</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/direct-links-to-download-updated-pci-device-software-for-various-windows-editions/"><u>Direct Links to Download Updated PCI Device Software for Various Windows Editions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-updates-and-downloads-of-canon-printer-drivers-made-easy-on-windows-systems/"><u>Effortless Updates and Downloads of Canon Printer Drivers Made Easy on Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-hardware-with-toms-gear-guides-in-depth-analysis-and-reviews/"><u>Exploring Hardware with Tom's Gear Guides - In-Depth Analysis and Reviews</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-canoscan-lide-120-software-installation-guide-latest-updates-available/"><u>Free CanoScan LiDE 120 Software Installation Guide: Latest Updates Available</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-steelseries-mouse-driver-downloads-here/"><u>Get the Latest SteelSeries Mouse Driver Downloads Here!</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-macos-x-video-editor-fast-and-easy-video-editing/"><u>New MacOS X Video Editor Fast and Easy Video Editing</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/official-oculus-driver-download-for-all-windows-versions-11-10-8-7/"><u>Official Oculus Driver Download for All Windows Versions (11, 10, 8, 7)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/resolving-common-samsung-universal-print-driver-troubles-with-windows-expert-guide/"><u>Resolving Common Samsung Universal Print Driver Troubles with Windows – Expert Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/simplify-networking-with-this-comprehensive-guide-to-the-intel-ac-7260-drivers-installation/"><u>Simplify Networking with This Comprehensive Guide to the Intel AC 7260 Drivers Installation</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/transform-your-streaming-enabling-av1-technology-in-youtube/"><u>Transform Your Streaming Enabling AV1 Technology in YouTube</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-setting-up-your-printer-with-windows-11/"><u>Ultimate Guide: Setting Up Your Printer with Windows 11</u></a></li>
 </ul></div>
 

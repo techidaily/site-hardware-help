@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Successfully Downloading & Setting Up the Arduino Nano Board on Your PC"
-date: 2024-09-29T04:49:12.525Z
-updated: 2024-10-02T03:02:17.767Z
+date: 2024-10-05T19:52:19.675Z
+updated: 2024-10-07T17:07:31.137Z
 tags:
   - win11
   - win10
@@ -30,10 +30,10 @@ thumbnail: https://thmb.techidaily.com/fd283428cd4cb2c0907e2d15b8c7aa3306b361f3c
 [**Option 2 – Manually**](https://tools.techidaily.com/drivereasy/download/) –  You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Option 1: Update your Surface Book drivers automatically (Recommended)**
@@ -53,10 +53,16 @@ thumbnail: https://thmb.techidaily.com/fd283428cd4cb2c0907e2d15b8c7aa3306b361f3c
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. **Restart**   your computer for the changes to take effect.
@@ -64,10 +70,10 @@ thumbnail: https://thmb.techidaily.com/fd283428cd4cb2c0907e2d15b8c7aa3306b361f3c
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Option 2: Update your Surface Book drivers manually**
@@ -82,10 +88,10 @@ To manually download & install your **Surface Book**  drivers, firstly you’ll 
 3. Select your model from the list of Surface products and follow the on-screen instructions to download the files that you need for driver updates.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Be sure to choose**ONLY** drivers that are compatible with your Windows version.
@@ -112,24 +118,22 @@ To manually download & install your **Surface Book**  drivers, firstly you’ll 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-avoid-mainstream-underrated-movies-of-the-year/"><u>[New] In 2024, Avoid Mainstream Underrated Movies of the Year</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-how-much-money-can-you-make-via-youtube-ad-revenue-and-cpm-rates/"><u>[New] In 2024, How Much Money Can You Make via YouTube Ad Revenue and CPM Rates?</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-best-10-free-youtube-subtitle-extractors-and-downloaders/"><u>[Updated] 2024 Approved Best 10 Free YouTube Subtitle Extractors & Downloaders</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-key-equipment-decisions-for-youtubers-on-a-budget/"><u>[Updated] Key Equipment Decisions for YouTubers on a Budget</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-ultimate-checklist-for-growing-youtube-subscribers-for-2024/"><u>[Updated] The Ultimate Checklist for Growing YouTube Subscribers for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/advancing-tactical-combat-a-deep-dive-into-counter-strike-global-offensives-latest-fps-innovations/"><u>Advancing Tactical Combat: A Deep-Dive Into Counter-Strike Global Offensive's Latest FPS Innovations</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-tools-the-ultimate-list-of-ps3-game-pc-emulators/"><u>Essential Tools: The Ultimate List of PS3 Game PC Emulators</u></a></li>
-<li><a href="https://article-posts.techidaily.com/how-to-use-story-remix-to-edit-a-video-in-windows-11-photos/"><u>How to Use Story Remix to Edit a Video in Windows 11 Photos</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-unlock-your-potential-with-these-leading-cost-free-editions/"><u>In 2024, Unlock Your Potential with These Leading Cost-Free Editions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-wave-of-bios-updates-from-amd-allies-tackles-the-persistent-logofailure-challenge-head-on/"><u>Latest Wave of BIOS Updates From AMD Allies Tackles the Persistent LogoFailure Challenge Head-On</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/look-for-disciplinary-changes-at-school-contact-their-school-if-necessary-to-get-a-better-understanding-of-any-disciplinary-issues-or-changes-in-behavior-fr74/"><u>Look for Disciplinary Changes at School: Contact Their School if Necessary to Get a Better Understanding of Any Disciplinary Issues or Changes in Behavior From Teachers and Staff Who See Your Child on a Daily Basis.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-computer-systems-expert-reviews-by-toms-hardware-specialists/"><u>Mastering Computer Systems: Expert Reviews by Tom's Hardware Specialists</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-hardware-with-tom-in-depth-analysis-and-expert-advice/"><u>Mastering Hardware with Tom: In-Depth Analysis and Expert Advice</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-technology-choices-through-toms-hardware-evaluations/"><u>Mastering Technology Choices Through Tom's Hardware Evaluations</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-the-art-of-computer-components-with-toms-hardware-wisdom/"><u>Mastering the Art of Computer Components with Tom's Hardware Wisdom</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-the-market-an-in-depth-look-at-asuss-certified-supermom-csm-b760m-ct-motherboard/"><u>Mastering the Market: An In-Depth Look at Asus's Certified Supermom (CSM) B760M-CT Motherboard</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/msi-launches-critical-agesa-12nv-bios-update-to-address-amds-zen-2-zero-day-vulnerability/"><u>MSI Launches Critical AGESA 1.2.nv BIOS Update to Address AMD's Zen 2 Zero-Day Vulnerability</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-high-tech-world-with-toms-equipment-experts/"><u>Navigating High-Tech World with Tom's Equipment Experts</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-honor-magic5-ultimate-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Honor Magic5 Ultimate Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-broadcasting-podcasts-on-instagram-features/"><u>[New] Broadcasting Podcasts on Instagram Features</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-action-packed-angling-best-fishing-cameras-ranked/"><u>[New] In 2024, Action-Packed Angling Best Fishing Cameras Ranked</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-obscured-oath-black-vs-the-illuminated-edict-silver/"><u>[New] The Obscured Oath (Black) VS The Illuminated Edict (Silver)</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-learn-how-to-redesign-twitters-video-display-settings/"><u>[Updated] 2024 Approved Learn How to Redesign Twitter's Video Display Settings</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bypassing-anthems-relentless-boot-phenomenon-a-troubleshooting-success-story/"><u>Bypassing Anthem’s Relentless Boot Phenomenon: A Troubleshooting Success Story</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-latest-asus-mousepad-software-compatible-with-windows/"><u>Download the Latest ASUS Mousepad Software Compatible with Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/elevate-pc-performance-with-corsairs-icue-software-free-download-for-windows-users/"><u>Elevate PC Performance with Corsair's iCUE Software – Free Download for Windows Users!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-gaming-acquire-logiteche-g402s-latest-driver-and-game-controller-software/"><u>Enhance Your Gaming: Acquire Logiteche G402's Latest Driver and Game Controller Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-most-recent-version-of-your-hp-laserjet-p1007-driver-start-with-these-tips/"><u>Get the Most Recent Version of Your HP LaserJet P1007 Driver - Start with These Tips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-top-8-collaborative-affordable-android-video-mosaics/"><u>In 2024, Exploring the Top 8 Collaborative, Affordable Android Video Mosaics</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-spotify-promotion-strategies-for-effective-ads/"><u>Mastering Spotify Promotion Strategies for Effective Ads</u></a></li>
+<li><a href="https://win-best.techidaily.com/optimizacion-fotografica-eleva-tu-imagen-con-movavi/"><u>Optimización Fotográfica: Eleva Tu Imagen Con Movavi</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-easy-installing-hp-envy-5660s-latest-drivers-today/"><u>Quick and Easy: Installing HP Envy 5660'S Latest Drivers Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722970818344-speed-up-your-usb-cam-connectivity-secure-reliable-drivers-available-now/"><u>Speed-Up Your USB Cam Connectivity – Secure, Reliable Drivers Available Now</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-future-is-now-uncover-what-googles-ai-project-gemini-is-striving-for/"><u>The Future Is Now: Uncover What Google's AI Project Gemini Is Striving For</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-steering-control-free-download-for-logitech-g29-software-on-windows-operating-systems/"><u>Ultimate Steering Control: Free Download for Logitech G29 Software on Windows Operating Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-walkthrough-to-download-and-activate-your-sandisk-ssd-drives-correctly/"><u>Ultimate Walkthrough to Download and Activate Your Sandisk SSD Drives Correctly!</u></a></li>
 </ul></div>
 
