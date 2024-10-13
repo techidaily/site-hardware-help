@@ -1,7 +1,7 @@
 ---
 title: Complete Tutorial for Reinstalling Intel Centrino A/Pro Wireless - N 4905AGN Drivers on Your PC
-date: 2024-10-02T16:33:34.102Z
-updated: 2024-10-07T19:19:23.389Z
+date: 2024-10-11T20:33:26.994Z
+updated: 2024-10-12T23:36:03.198Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/1035ac8eac3d2f1f9dced1bbfa4000b8f38c0eebf
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Option 1 – Update your driver via Device Manager**
 
  Try to update your Validity fingerprint sensor driver from within Device Manager:
@@ -41,30 +48,30 @@ thumbnail: https://thmb.techidaily.com/1035ac8eac3d2f1f9dced1bbfa4000b8f38c0eebf
 2. After the Start screen shows up, click the**magnifier** icon located in the upper right corner.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-05-41.png)
 3. Type**device** into the search box. Then select**Device Manager** from a list of search results.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1098.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Here comes**Device Manager** . Click the**▷** symbol to the left of**Biometric Devices** to expand its drop-down list.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1073.png)
 5. Right-click on**Validity Sensors (WBF)** to open its context menu. Then select**Update Driver Software…** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-11-03.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Click**Search automatically for updated driver software** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-18-21.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Wait till the download and installation process finishes.
 8. Click **Close** when it’s all done.
 9. Now your driver has been updated by Windows successfully. Don’t forget to**restart** your computer for the changes to take effect even if you’re not asked to.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Option 2 – Update your driver from official websites**
 
@@ -87,23 +94,10 @@ thumbnail: https://thmb.techidaily.com/1035ac8eac3d2f1f9dced1bbfa4000b8f38c0eebf
 3. Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your Validity fingerprint sensor driver for now, simply click the**Update** button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-29_18-36-48-1.png)
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -134,24 +128,22 @@ thumbnail: https://thmb.techidaily.com/1035ac8eac3d2f1f9dced1bbfa4000b8f38c0eebf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-enhancing-video-audio-mastering-the-srt-mp4-duo-for-2024/"><u>[New] Enhancing Video Audio Mastering the SRT-MP4 Duo for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-how-to-record-multiple-monitors/"><u>[New] How to Record Multiple Monitors</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-top-gains-on-social-media-secure-and-scalable-tactics/"><u>[New] In 2024, The Top Gains on Social Media - Secure & Scalable Tactics</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-maximize-browser-functionality-chromes-full-screen-video-playback/"><u>[Updated] 2024 Approved Maximize Browser Functionality Chrome's Full-Screen Video Playback</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-navigating-social-surveys-instagram-stories-edition/"><u>[Updated] 2024 Approved Navigating Social Surveys Instagram Stories Edition</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-flawless-visual-shifts-for-filmmakers/"><u>[Updated] In 2024, Flawless Visual Shifts for Filmmakers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-seamless-guide-integrating-instagram-with-tiktok/"><u>2024 Approved Seamless Guide Integrating Instagram with TikTok</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/complete-hp-mfp-m428fdw-software-suite-installing-drivers-on-modern-windows-operating-systems/"><u>Complete HP MFP M428fdw Software Suite: Installing Drivers on Modern Windows Operating Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-installation-tips-for-new-intel-hd-graphics-55500-driver-software/"><u>Easy Installation Tips for New Intel HD Graphics ^5^5500 Driver Software</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/enhance-gameplay-with-the-latest-drivers-upgrading-your-geforce-rtx-2080-ti/"><u>Enhance Gameplay with the Latest Drivers: Upgrading Your GeForce RTX 2080 Ti</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-fix-startech-driver-problems-on-windows-10-8-and-7-step-by-step-solutions/"><u>How to Fix StarTech Driver Problems on Windows 10, 8 & 7: Step-by-Step Solutions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-get-the-newest-lenovo-software-and-hardware-drivers-for-your-windows-10-device/"><u>How to Get the Newest Lenovo Software and Hardware Drivers for Your Windows 10 Device</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-lava-agni-2-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Lava Agni 2 5G phone? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-motorola-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Motorola</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/instant-access-usb-to-serial-rs232-cable-configuration-software/"><u>Instant Access: USB to Serial (RS232) Cable Configuration Software</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-itel-a60s-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Itel A60s Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722962723386-thrustmaster-t150-driver-software-fast-download-guide/"><u>Thrustmaster T150 Driver Software - Fast Download Guide!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-review-unveiling-the-latest-in-computer-hardware/"><u>Tom's Tech Review: Unveiling the Latest in Computer Hardware</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722963010748-update-to-the-newest-dell-wireless-network-driver-version-instantly/"><u>Update to the Newest Dell Wireless Network Driver Version Instantly!</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-earning-potential-for-creators-in-youtube-ads-for-2024/"><u>[Updated] Earning Potential for Creators in YouTube Ads for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-nvidia-1080-graphics-driver-for-windows-11-quick-and-simple-steps/"><u>Download NVIDIA 1080 Graphics Driver for Windows 11: Quick and Simple Steps</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-huawei-nova-y91-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Huawei Nova Y91 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-instructions-for-acquiring-and-setting-up-magic-mouse-software-on-your-windows-device/"><u>Easy Instructions for Acquiring and Setting Up Magic Mouse Software on Your Windows Device</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-way-to-install-the-latest-ati-radeon-drivers-for-enhanced-performance-in-windows/"><u>Easy Way to Install the Latest ATI Radeon Drivers for Enhanced Performance in Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-pc-gaming-experience-download-updated-drivers-for-nvidia-gtx-groovy-1650-super-supports-win-1011/"><u>Enhance Your PC Gaming Experience - Download Updated Drivers for NVIDIA GTX Groovy 1650 Super: Supports Win 10/11</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/tial-business-youtube-sites-you-must-follow-for-2024/"><u>Essential Business YouTube Sites You Must Follow for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-download-updated-asus-dvd-drive-driver-software/"><u>Free Download: Updated ASUS DVD Drive Driver Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-amd-rx-48e-gpu-software-quick-and-easy-driver-updates/"><u>Get the Latest AMD RX 48E GPU Software: Quick and Easy Driver Updates</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-note-13-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi Note 13 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-snapcraft-universe-top-8-photo-connector/"><u>In 2024, SnapCraft Universe Top 8 Photo Connector</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-samsung-galaxy-tab-a-2020-the-noteworthy-absence/"><u>In-Depth Analysis of the Samsung Galaxy Tab A (2020): The Noteworthy Absence</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-fix-revamping-sata-ahci-hard-drive-controllers-with-effortless-updates/"><u>Quick Fix: Revamping SATA AHCI Hard Drive Controllers with Effortless Updates</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revealing-hidden-credentials-mastering-macs-keychain-password-retrieval/"><u>Revealing Hidden Credentials: Mastering Mac's Keychain Password Retrieval</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/up-to-date-sound-blaster-z-drivers-for-seamless-experience-on-windows-11-click-to-download/"><u>Up-to-Date Sound Blaster Z Drivers for Seamless Experience on Windows 11 – Click to Download!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-system-newest-drivers-for-nvidias-gtx-1650-super-on-windows-11-available-to-download/"><u>Update Your System: Newest Drivers for Nvidia's GTX 1650 Super on Windows 11 Available to Download</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-simple-video-editing-for-windows-get-started-with-microsoft-video-editor-for-2024/"><u>Updated Simple Video Editing for Windows Get Started with Microsoft Video Editor for 2024</u></a></li>
 </ul></div>
 

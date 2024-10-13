@@ -1,7 +1,7 @@
 ---
 title: "Complete Guide: Updating Your MP280 Printer's Driver for Windows 11, 8 & 7"
-date: 2024-09-30T07:53:30.890Z
-updated: 2024-10-02T03:32:49.395Z
+date: 2024-10-09T12:35:41.686Z
+updated: 2024-10-13T10:12:24.854Z
 tags:
   - win11
   - win10
@@ -42,10 +42,10 @@ thumbnail: https://thmb.techidaily.com/d8ea0db08299b418f8415fcdb55459d60a299aaea
 3. Right-click on **Brother MFC 7360N** and click **Uninstall device** .
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Head to **[Brother’s official website Support & Downloads page](http://support.brother.com/g/b/countrytop.aspx?c=us&lang=en)**  and click**Product Search** .  
@@ -58,35 +58,28 @@ thumbnail: https://thmb.techidaily.com/d8ea0db08299b418f8415fcdb55459d60a299aaea
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b921713414d6.jpg)
 8. Click **the first result**   for the full driver package. Then select **your preferred language** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b8613a0a97a4.jpg)
 9. Click **Agree to the EULA**  **and Download** .  
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b8613f9ec314.jpg)
 10. Follow the notes to finish the manual install.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b861455df55e.jpg)
 11. Restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -103,14 +96,27 @@ thumbnail: https://thmb.techidaily.com/d8ea0db08299b418f8415fcdb55459d60a299aaea
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5aefd675a7c.jpg)
 3. You can upgrade to[**the Pro version**](https://tools.techidaily.com/drivereasy/download/) and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b92188ba032e.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. **Restart**   your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you have any problems while using **Driver Easy** , feel free to contact our support team at **<support@drivereasy.com>** . Be sure to attach **the URL of this article**  for more expedient and efficient guidance. ?
@@ -137,22 +143,16 @@ thumbnail: https://thmb.techidaily.com/d8ea0db08299b418f8415fcdb55459d60a299aaea
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-two-sides-to-every-story-how-to-create-balanced-reaction-videos-on-youtube-2-pov-approach/"><u>[Updated] In 2024, Two Sides to Every Story – How to Create Balanced Reaction Videos on YouTube (2 POV Approach)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/core-i9-11900k-achieves-historic-milestone-shatters-expectations-at-7abbbb-ghz/"><u>Core I9-11900K Achieves Historic Milestone: Shatters Expectations at 7.abbbb GHz</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/cxmt-chinese-dram-producer-confirms-adherence-to-us-export-regulations-for-185nm-chip-production-debunking-previous-allegations-of-non-compliance-at-17nm/"><u>CXMT, Chinese DRAM Producer, Confirms Adherence to US Export Regulations for 18.5Nm Chip Production: Debunking Previous Allegations of Non-Compliance at 17Nm</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ddr5-7200-corsair-dominator-titanium-xl-premium-2x24gb-memory-kit-assessment-and-exceeding-specs/"><u>DDR5-7200 Corsair Dominator Titanium XL - Premium 2X24GB Memory Kit Assessment & Exceeding Specs!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/dive-into-computing-with-toms-hardware-experts-your-ultimate-resource-for-gadget-analysis/"><u>Dive Into Computing with Tom's Hardware Experts: Your Ultimate Resource for Gadget Analysis</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/easy-tutorial-for-activating-icloud-from-iphone-6-plus-safe-and-legal-by-drfone-ios/"><u>Easy Tutorial for Activating iCloud from iPhone 6 Plus Safe and Legal</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-technology-with-tom-your-trusted-source-for-hardware-insights-and-reviews/"><u>Exploring Technology with Tom: Your Trusted Source for Hardware Insights and Reviews</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Poco M6 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-religious-ringtones-for-daily-devotion-and-driving/"><u>In 2024, Religious Ringtones for Daily Devotion and Driving</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Gionee F3 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/maximizing-raspberry-pi-5s-potential-with-the-pi-ice-tower-plus-an-in-depth-review-on-rapid-heat-dissipation-performance/"><u>Maximizing Raspberry Pi 5'S Potential with the Pi Ice Tower Plus: An In-Depth Review on Rapid Heat Dissipation Performance</u></a></li>
-<li><a href="https://win11.techidaily.com/merging-windows-and-linux-features/"><u>Merging Windows and Linux Features</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/precision-in-capturing-movie-moments-for-2024/"><u>Precision in Capturing Movie Moments for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/pro-audio-recording-the-ultimate-audacity-course-for-2024/"><u>Pro Audio Recording The Ultimate Audacity Course for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/review-of-rodecaster-duo-the-ultimate-toolkit-for-streamers/"><u>Review of Rodecaster Duo: The Ultimate Toolkit for Streamers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723964502567-the-embedded-message-future-care-should-be-spread-across-different-sentences-throughout-the-monologue-not-all-in-one-go/"><u>The Embedded Message FUTURE CARE Should Be Spread Across Different Sentences Throughout the Monologue, Not All in One Go</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transforma-tu-dvd-al-formato-mp4-rapidamente-manteniendo-la-calidad-hazlo-en-solo-5-minutos/"><u>Transforma Tu DVD Al Formato MP4 Rápidamente Manteniendo La Calidad - ¡Hazlo en Solo 5 Minutos!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-thriving-in-the-streaming-scene-overcoming-subscriber-limitations/"><u>[New] Thriving in the Streaming Scene Overcoming Subscriber Limitations</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-desktop-snapshot-made-simple-free-tools-for-windows/"><u>[Updated] 2024 Approved Desktop Snapshot Made Simple – Free Tools for Windows</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-infusing-youtube-soundtracks-within-multimedia/"><u>[Updated] In 2024, Infusing YouTube Soundtracks Within Multimedia</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-disputes-delay-rumors-anticipate-ryzen-grooving-into-the-market-this-month/"><u>AMD Disputes Delay Rumors – Anticipate Ryzen Grooving Into the Market This Month!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/dealing-with-pdhdll-errors-tips-and-solutions-for-windows-users/"><u>Dealing with Pdh.dll Errors: Tips and Solutions for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-epson-wf-3540-drivers-on-your-windows-pc/"><u>Download & Install Epson WF-3540 Drivers on Your Windows PC</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/elevating-your-professional-lexicon-a-strategy/"><u>Elevating Your Professional Lexicon: A Strategy</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/facebook-news-the-latest-updates-unveiled-for-2024/"><u>Facebook News The Latest Updates Unveiled for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/find-the-newest-hp-deskjet-n3700-driver-software-installation-and-update-instructions/"><u>Find the Newest HP DeskJet N3700 Driver Software: Installation & Update Instructions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975521146-ft232r-to-go-swift-downloads-for-usb-uart-serial-adapters-made-easy/"><u>FT232R to Go: Swift Downloads for USB UART Serial Adapters Made Easy!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Motorola Razr 40 Ultra | Dr.fone</u></a></li>
 </ul></div>
 

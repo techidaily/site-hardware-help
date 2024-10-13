@@ -1,7 +1,7 @@
 ---
 title: "Free CanoScan LiDE 120 Software Installation Guide: Latest Updates Available"
-date: 2024-10-03T21:34:47.600Z
-updated: 2024-10-07T19:47:41.312Z
+date: 2024-10-12T14:47:00.450Z
+updated: 2024-10-13T01:57:23.669Z
 tags:
   - win11
   - win10
@@ -32,10 +32,10 @@ thumbnail: https://thmb.techidaily.com/509fff23b0ac771700c9cc9f462572328b6f939b9
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Option 1 – Update your driver via Device Manager**
@@ -48,31 +48,25 @@ thumbnail: https://thmb.techidaily.com/509fff23b0ac771700c9cc9f462572328b6f939b9
 2. After the Start screen shows up, click the**magnifier** icon located in the upper right corner.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-05-41.png)
 3. Type**device** into the search box. Then select**Device Manager** from a list of search results.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1098.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Here comes**Device Manager** . Click the**▷** symbol to the left of**Biometric Devices** to expand its drop-down list.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1073.png)
 5. Right-click on**Validity Sensors (WBF)** to open its context menu. Then select**Update Driver Software…** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-11-03.png)
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Click**Search automatically for updated driver software** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-18-21.png)
 7. Wait till the download and installation process finishes.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 8. Click **Close** when it’s all done.
 9. Now your driver has been updated by Windows successfully. Don’t forget to**restart** your computer for the changes to take effect even if you’re not asked to.
@@ -87,6 +81,19 @@ thumbnail: https://thmb.techidaily.com/509fff23b0ac771700c9cc9f462572328b6f939b9
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Option 3 – Update your driver automatically (Recommended)**
 
  If you don’t have the time, patience or computer skills to update your**Validity fingerprint sensor driver** manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -98,13 +105,6 @@ thumbnail: https://thmb.techidaily.com/509fff23b0ac771700c9cc9f462572328b6f939b9
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-29_18-38-22-2.png)
 3. Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your Validity fingerprint sensor driver for now, simply click the**Update** button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-29_18-36-48-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
 
@@ -134,20 +134,19 @@ thumbnail: https://thmb.techidaily.com/509fff23b0ac771700c9cc9f462572328b6f939b9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://solve-popular.techidaily.com/boosting-engagement-with-cookiebot-technology-for-tailored-content-delivery/"><u>Boosting Engagement with Cookiebot Technology for Tailored Content Delivery</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/chinas-cutting-edge-12-core-p1-series-chip-surpasses-expectations-at-ntops-kickstart-of-mass-production-marks-a-milestone-for-ai-tech/"><u>China's Cutting-Edge, 12-Core P1 Series Chip Surpasses Expectations at nTOPS: Kickstart of Mass Production Marks a Milestone for AI Tech</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/nt-creators-arena-vs-beta-studio-evolutionary-path-for-2024/"><u>Content Creator's Arena Vs. Beta Studio Evolutionary Path for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-google-pixel-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Google Pixel 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-successfully-update-your-pcs-webcam-driver-for-windows-11/"><u>How To Successfully Update Your PC's Webcam Driver for Windows 11</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-lg-redefines-gaming-with-its-innovative-360-degree-vr-experience/"><u>In 2024, LG Redefines Gaming with Its Innovative 360-Degree VR Experience</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-mastering-audio-capture-from-facetime-chats/"><u>In 2024, Mastering Audio Capture From FaceTime Chats</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/in-depth-analysis-of-latest-pc-hardware-toms-hardware/"><u>In-Depth Analysis of Latest PC Hardware - Tom's Hardware</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-your-m-audio-sound-card-free-drivers-for-win-107881-download-today/"><u>Install Your M-Audio Sound Card – Free Drivers for Win 10/7/8/8.1 - Download Today!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/realtek-rtl81n8cu-drivers-free-download-for-enhanced-connectivity-on-windows-117/"><u>Realtek RTL81n8CU Drivers: Free Download for Enhanced Connectivity on Windows 11/7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/resolved-common-problems-with-the-samsung-universal-print-driver-for-windows-systems/"><u>Resolved: Common Problems with the Samsung Universal Print Driver for Windows Systems</u></a></li>
-<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-samsung-galaxy-z-fold-5-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Samsung Galaxy Z Fold 5 ? Fix It Easily | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-battery-control-programs-in-windows-a-straightforward-tutorial/"><u>Update Battery Control Programs in Windows - A Straightforward Tutorial</u></a></li>
-<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-on-your-apple-iphone-6-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled On your Apple iPhone 6? How to Fix</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/windows-11mp4/"><u>Windows 11でシンプルにMP4動画連結技術</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-engaging-consumers-effectively-through-snapbiz-insights-for-2024/"><u>[Updated] Engaging Consumers Effectively Through SnapBiz Insights for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-unleash-creativity-the-best-9-camera-accessories-for-vloggers-and-more/"><u>[Updated] Unleash Creativity The Best 9 Camera Accessories for Vloggers and More</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-serene-strums-and-dance-steps-tiktoks-country-playlist/"><u>2024 Approved Serene Strums and Dance Steps TikTok's Country Playlist</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-msi-audio-driver-downloads-for-windows-users/"><u>Free MSI Audio Driver Downloads for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-intel-me-drivers-compatible-with-windows-10-81-and-7/"><u>Get Your Intel ME Drivers - Compatible with Windows 10, 8.1 & 7</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Honor 80 Pro Straight Screen Edition? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-list-of-engaging-history-content-on-youtube/"><u>In 2024, The Ultimate List of Engaging History Content on YouTube</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-canon-dr-c225-driver-download-instructions-for-windows-operating-systems/"><u>Latest Canon DR-C225 Driver Download Instructions for Windows Operating Systems</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/lunch-whole-grain-pasta-salad-with-cherry-tomatoes-artichoke-hearts-kalamata-olives-feta-cheese/"><u>Lunch: Whole Grain Pasta Salad with Cherry Tomatoes, Artichoke Hearts, Kalamata Olives, Feta Cheese</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/refresh-the-drivers-of-your-epson-wf-7620-for-windows-a-comprehensive-guide/"><u>Refresh the Drivers of Your Epson WF-7620 for Windows - A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/solution-found-resolving-connectivity-problems-with-the-logitech-g4-grove/"><u>Solution Found: Resolving Connectivity Problems with the Logitech G4 Grove</u></a></li>
+<li><a href="https://win11.techidaily.com/turn-off-windows-count-for-each-app-opener/"><u>Turn Off Windows Count for Each App Opener</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-motorola-moto-g-stylus-5g-2023-by-fonelab-android-recover-data/"><u>Undelete lost data from Motorola Moto G Stylus 5G (2023)</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Xiaomi 14 Pro | Dr.fone</u></a></li>
 </ul></div>
 

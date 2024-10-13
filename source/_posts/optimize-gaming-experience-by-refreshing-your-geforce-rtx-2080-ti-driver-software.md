@@ -1,7 +1,7 @@
 ---
 title: Optimize Gaming Experience by Refreshing Your GeForce RTX 2080 Ti Driver Software
-date: 2024-09-04T02:12:57.340Z
-updated: 2024-09-05T02:12:57.340Z
+date: 2024-10-10T11:23:54.022Z
+updated: 2024-10-12T22:17:34.548Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ OR
 
 [**Option 2 – Manually**](https://tools.techidaily.com/drivereasy/download/) – You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Option 1 – Update GTX 1660 Ti drivers automatically (Recommended)**
 
  If you don’t have the time, patience or computer skills to update your GTX 1660 Ti driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -45,14 +52,15 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-318.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 2 – Update GTX 1660 Ti drivers manually
 
  Here’s your guide to updating your **GTX 1660 Ti** driver manually:
@@ -75,32 +83,28 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-323-1024x393.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click**DOWNLOAD** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-326.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4) Click DOWNLOAD again to start the download.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-327.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024333/7443" target="_top" id="2024333">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024333/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  5) Double-click on the downloaded file and follow the on-screen instructions to finish the install.
 
  6) Restart your computer for the changes to take effect even if you’re not asked to.
@@ -119,8 +123,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,4 +130,21 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-capture-and-transfer-igtv-videos-on-handheld-tech/"><u>[New] 2024 Approved Capture and Transfer IGTV Videos on Handheld Tech</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-countdown-creation-in-obs-step-by-step-guide/"><u>[Updated] Countdown Creation in OBS Step-by-Step Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-crafting-visual-narratives-with-premium-text-tools-in-ae/"><u>[Updated] Crafting Visual Narratives with Premium Text Tools in AE</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-mastering-script-structuring/"><u>[Updated] Mastering Script Structuring</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-screen-surfing-simplified-navigate-with-netflixs-pip/"><u>2024 Approved Screen Surfing Simplified Navigate with Netflix's PIP</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/beatit-bt-powrboost-dual-11-review-mighty-performance-in-your-pocket/"><u>Beatit BT-PowrBoost Dual 11 Review: Mighty Performance in Your Pocket</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fixing-windows-10-bluetooth-connectivity-problems-solved/"><u>Fixing Windows 10 Bluetooth Connectivity Problems - Solved!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/guaranteed-compatibility-quick-download-of-dell-sound-driver-software/"><u>Guaranteed Compatibility: Quick Download of Dell Sound Driver Software</u></a></li>
+<li><a href="https://facebook.techidaily.com/hacker-breach-users-pay-300-for-oculus-rift-solutions/"><u>Hacker Breach: Users Pay $300 for Oculus Rift Solutions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-your-nvidia-quadro-graphics-drivers-for-optimal-performance-in-windows-11/"><u>How to Update Your NVIDIA Quadro Graphics Drivers for Optimal Performance in Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722970910415-instant-access-to-essential-asus-monitor-drivers-effortless-download-awaits/"><u>Instant Access to Essential ASUS Monitor Drivers - Effortless Download Awaits</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-simple-acer-wireless-driver-download-and-installation-tips/"><u>Quick and Simple Acer Wireless Driver Download & Installation Tips</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-oneplus-nord-n30-se-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from OnePlus Nord N30 SE to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/upgrade-your-system-with-officially-released-asus-dvd-drives-drivers/"><u>Upgrade Your System with Officially Released ASUS DVD Drives Drivers</u></a></li>
+</ul></div>
 

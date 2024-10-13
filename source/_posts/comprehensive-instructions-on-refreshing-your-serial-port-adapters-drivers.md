@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Instructions on Refreshing Your Serial Port Adapter's Drivers
-date: 2024-08-30T15:49:55.265Z
-updated: 2024-08-31T15:49:55.265Z
+date: 2024-10-12T06:01:14.578Z
+updated: 2024-10-12T23:02:40.432Z
 tags:
   - win11
   - win10
@@ -43,9 +43,23 @@ thumbnail: https://thmb.techidaily.com/142f97e5dde3eaa8c469e7fcae52ffd9c48a3f3c6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-277.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your Xbox adapter driver for now, simply click the**Update** button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-273.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
 
@@ -63,13 +77,17 @@ thumbnail: https://thmb.techidaily.com/142f97e5dde3eaa8c469e7fcae52ffd9c48a3f3c6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-280.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) On the next page, you’ll be presented with a list of Xbox wireless adapter drivers. Scroll through the list until you find the one compatible with your Windows version. Then click the**Download**  button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-282.png)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) After the driver has been downloaded, open that destination folder where you’ve saved the driver file. Usually the file should be a compressed one.
 
  5) Extract the downloaded driver file.
@@ -78,35 +96,27 @@ thumbnail: https://thmb.techidaily.com/142f97e5dde3eaa8c469e7fcae52ffd9c48a3f3c6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-255.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  7) Here pops up your**Device Manager** . Double-click on the **Other devices** node to open its drop-down list. Then right-click on**XBOX ACC** and select**Update driver** .
 
 ![This image has an empty alt attribute; its file name is image-301.png](https://images.drivereasy.com/wp-content/uploads/2019/06/image-301.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-298.png)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  8) In the next window, select**Browse my computer for driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-299.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
  9) Click**Browse…** to select the folder where you’ve extracted the driver file. Then click **Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-300.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  10) Now Windows will search for the driver and install it automatically. When everything’s done, click**Finish** . Then **restart** your computer for the changes to take effect even if you’re not asked to.
 
 ---
@@ -122,8 +132,6 @@ thumbnail: https://thmb.techidaily.com/142f97e5dde3eaa8c469e7fcae52ffd9c48a3f3c6
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,4 +139,17 @@ thumbnail: https://thmb.techidaily.com/142f97e5dde3eaa8c469e7fcae52ffd9c48a3f3c6
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-skilled-pilots-choice-selecting-top-5-pro-drones/"><u>[New] Skilled Pilots' Choice - Selecting Top 5 Pro Drones</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-uniting-communication-and-visuals-a-detailed-plan-for-slack-plus-filmora-meetings/"><u>[Updated] 2024 Approved Uniting Communication & Visuals A Detailed Plan for Slack + Filmora Meetings</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-navigating-best-options-expert-picks-from-top-9-free-logomakers-for-2024/"><u>[Updated] Navigating Best Options Expert Picks From Top 9 Free Logomakers for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-guide-finding-and-installing-official-toshiba-drivers-for-your-windows-operating-system/"><u>Complete Guide: Finding and Installing Official Toshiba Drivers for Your Windows Operating System</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/efficient-downloads-of-lenovo-x1-carbon-drivers-perfect-for-windows-107-systems-a-step-by-step-tutorial/"><u>Efficient Downloads of Lenovo X1 Carbon Drivers - Perfect for Windows 10/7 Systems: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortlessly-upgrade-your-amd-smbus-driver-quick-download-guide-inside/"><u>Effortlessly Upgrade Your AMD SMBus Driver: Quick Download Guide Inside</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-samsung-galaxy-xcover-7-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Samsung Galaxy XCover 7 Phone Hassle-Free</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Oppo A59 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-to-install-wacom-intuos-pro-on-windows-nt-easily/"><u>Step-by-Step Tutorial to Install Wacom Intuos Pro on Windows nT Easily</u></a></li>
+</ul></div>
 

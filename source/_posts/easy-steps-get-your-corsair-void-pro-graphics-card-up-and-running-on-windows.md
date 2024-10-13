@@ -1,7 +1,7 @@
 ---
 title: "Easy Steps: Get Your Corsair Void Pro Graphics Card Up & Running on Windows!"
-date: 2024-10-02T20:04:32.280Z
-updated: 2024-10-07T20:12:03.299Z
+date: 2024-10-12T05:03:46.478Z
+updated: 2024-10-13T13:50:40.256Z
 tags:
   - win11
   - win10
@@ -45,14 +45,21 @@ OR
 3. Click**Just Download** . The driver .exe installation file would then be downloaded automatically.  
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/just.jpg)
 4. On your keyboard, hold down the **Windows logo key** \+ **Pause** . Then click **Device Manager** .  
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/device.jpg)
 5. Find and **right-click** your **Arduino Uno software** . Probably it’s listed under the **Other devices** section due to the problem. Then select **Update driver** .  
@@ -61,20 +68,13 @@ OR
 6. Click the **Browse…** icon. Another window appears: go to the folder with the Arduino nano driver that you just downloaded. Select the drivers folder, then **OK** \> **Next** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you don’t have the time, patience or computer skills to update your Arduino Uno driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Move onto **Option 2** then.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Option 2 – Automatically update drivers**
 
@@ -89,15 +89,15 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12a.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/nano.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -120,22 +120,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-exclusive-video-editing-software-just-for-vimeo-pros/"><u>[New] 2024 Approved Exclusive Video Editing Software Just For Vimeo Pros</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-creating-impressive-podcast-identities-with-logos/"><u>2024 Approved Creating Impressive Podcast Identities with Logos</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/bdmvfreewindows/"><u>BDMVファイルをFreeにWindows上で再生する手順</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-nubia-red-magic-9-pro-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Nubia Red Magic 9 Pro Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/dive-into-literature-with-the-waterproof-kobo-libra-h2o-your-comprehensive-review/"><u>Dive Into Literature with the Waterproof Kobo Libra H2O – Your Comprehensive Review</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-setup-iphone-drivers-for-windows-10-users/"><u>Download & Setup: IPhone Drivers for Windows 10 Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/essential-drivers-for-epson-ds-530-compatible-with-windows-10-64-bit/"><u>Essential Drivers for Epson DS-^530 - Compatible With Windows 10 (64-Bit)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/expert-tips-securely-download-sades-headset-drivers-for-windows-without-any-hassle/"><u>Expert Tips: Securely Download Sades Headset Drivers for Windows Without Any Hassle</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-update-your-logitech-hd-pro-webcam-software-for-windows-11-systems/"><u>How to Update Your Logitech HD Pro Webcam Software for Windows 11 Systems</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-freedomforsounders-review-extraction-excellence/"><u>In 2024, FreedomForSounders Review Extraction Excellence</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-transform-your-short-form-content-top-10-mobile-video-cutting-tools/"><u>In 2024, Transform Your Short-Form Content Top 10 Mobile Video Cutting Tools</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-fresh-geforce-rtx-3080-driver-pack-optimize-gaming-on-win-1087/"><u>Install Fresh GeForce RTX 3080 Driver Pack | Optimize Gaming on Win 10/8/7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/j-edgar/"><u>J. Edgar</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-canon-pixma-mg3620-driver-version-available-for-windows-10817-users/"><u>Latest Canon PIXMA MG3620 Driver Version Available for Windows 10/8.1/7 Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-the-world-of-computing-components-with-toms-expertise/"><u>Navigating the World of Computing Components with Tom's Expertise</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/perfect-iphone-silhouette-captures-101-for-2024/"><u>Perfect iPhone Silhouette Captures 101 for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-nokia-xr21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-hp-photosmart-7520-printer-driver/"><u>[Download] HP Photosmart 7520 Printer Driver</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-keep-it-hot-ideas-for-uninterrupted-snapchat-connections/"><u>[New] Keep It Hot - Ideas for Uninterrupted Snapchat Connections</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-the-ultimate-selection-top-10-zero-dollar-video-calls/"><u>[New] The Ultimate Selection Top 10 Zero-Dollar Video Calls</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-unveiling-the-process-of-sharing-srt-text-in-social-digital-spaces/"><u>[Updated] 2024 Approved Unveiling the Process of Sharing SRT Text in Social Digital Spaces</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-supercharge-your-smartphones-video-quality/"><u>2024 Approved Supercharge Your Smartphone's Video Quality</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-the-ultimate-guide-to-audio-acquisition-iphoneipad-edition/"><u>2024 Approved The Ultimate Guide to Audio Acquisition IPhone/iPad Edition</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-troubleshooting-tips-for-your-intel-dptf-driver-setup-mishap/"><u>Easy Troubleshooting Tips for Your Intel DPTF Driver Setup Mishap</u></a></li>
+<li><a href="https://win-top.techidaily.com/enhanced-text-editing-with-emeditor-pro-800-beta-version/"><u>Enhanced Text Editing with EmEditor Pro 8.00 Beta Version</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fixing-hp-beats-sound-card-troubles-in-windows-11-solutions-and-tips/"><u>Fixing HP Beats Sound Card Troubles in Windows 11: Solutions and Tips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-latest-nvidia-geforce-rtx-3080-drivers-for-windows-11-8-and-7/"><u>Free Download: Latest NVIDIA GeForce RTX 지정 3080 Drivers for Windows 11, 8 & 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-hands-on-the-updated-magicard-rio-pro-driver-for-pcs/"><u>Get Your Hands on the Updated Magicard Rio Pro Driver for PCs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-upgrade-and-activate-aoc-screen-drivers-on-windows-machines-versions-11108/"><u>How to Upgrade and Activate AOC Screen Drivers on Windows Machines (Versions 11/10/8)</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/instant-ft232r-driver-installation-fast-free-and-secure-download-options/"><u>Instant FT232R Driver Installation - Fast, Free, and Secure Download Options</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-experience-for-synaptics-touchpad-driver-downloads-and-upgrades/"><u>Seamless Experience for Synaptics Touchpad Driver Downloads and Upgrades!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-9-app-perfette-per-la-gestione-delle-immagini-a-ottobre-2024-il-guidone-completo/"><u>Top 9 App Perfette per La Gestione Delle Immagini a Ottobre 2024: Il Guidone Completo</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ultimate-tech-tip-how-to-remove-music-content-on-iphone-11-series-devices-efficiently/"><u>Ultimate Tech Tip: How to Remove Music Content on iPhone 11 Series Devices Efficiently</u></a></li>
 </ul></div>
 

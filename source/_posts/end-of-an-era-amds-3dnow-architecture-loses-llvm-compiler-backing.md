@@ -1,7 +1,7 @@
 ---
 title: "End of an Era: AMD's 3DNow! Architecture Loses LLVM Compiler Backing"
-date: 2024-08-30T15:49:23.033Z
-updated: 2024-08-31T15:49:23.033Z
+date: 2024-10-07T23:02:52.351Z
+updated: 2024-10-13T04:13:37.914Z
 tags:
   - cpu
 categories:
@@ -39,14 +39,11 @@ AMD’s near-ancient 3DNow! instructions have faded even further into obscurity.
 
  Developers who need to write for old AMD processors can still use 3DNow! instructions in Assembly, including inline Assembly code with LLVM. Other than that, anything related to 3DNow! should be considered deprecated and no longer used.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -55,8 +52,28 @@ AMD’s near-ancient 3DNow! instructions have faded even further into obscurity.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-excellent-ios-apps-the-ultimate-psp-emulators/"><u>[New] In 2024, Excellent iOS Apps The Ultimate PSP Emulators</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-unveiling-horizon-based-approaches-to-post-on-igtv/"><u>[New] Unveiling Horizon-Based Approaches to Post on IGTV</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-unlocking-windows-hdr-capabilities-for-cutting-edge-video-workflows/"><u>2024 Approved Unlocking Windows' HDR Capabilities for Cutting-Edge Video Workflows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722964413347-efficient-amd-smbus-driver-installation-get-latest-version-now/"><u>Efficient AMD SMBus Driver Installation: Get Latest Version Now</u></a></li>
+<li><a href="https://win-guides.techidaily.com/effortless-strategies-for-saving-hotmail-correspondence-on-your-laptop/"><u>Effortless Strategies for Saving Hotmail Correspondence on Your Laptop</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-performance-quick-and-easy-driver-updates-for-your-amd-radeon-rx-470/"><u>Enhance Performance: Quick and Easy Driver Updates for Your AMD Radeon RX 470</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-and-prevent-your-ark-software-from-crashing-effectively/"><u>How to Fix and Prevent Your Ark Software From Crashing Effectively</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/improve-your-connectivity-download-the-updated-intel-wifi-6-ax200-drivers-for-modern-windows-os/"><u>Improve Your Connectivity: Download the Updated Intel WiFi 6 AX200 Drivers for Modern Windows OS</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-serious-book-lovers-device-kobo-forma/"><u>In Depth Analysis of the Serious Book Lover's Device - Kobo Forma</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/no-cost-logitech-webcam-drivers-install-and-boost-your-pcs-video-quality-today/"><u>No-Cost Logitech Webcam Drivers: Install and Boost Your PC’s Video Quality Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-install-guide-intel-thunderbolt-chip-drivers-for-smooth-performance/"><u>Quick Install Guide: Intel Thunderbolt Chip Drivers for Smooth Performance</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ltimate-guide-to-freely-download-youtube-series-on-mobile-for-2024/"><u>The Ultimate Guide to Freely Download YouTube Series on Mobile for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unleashing-artful-expression-the-most-exceptional-9-sites-for-3d-graffiti-typefaces-for-2024/"><u>Unleashing Artful Expression The Most Exceptional 9 Sites for 3D Graffiti Typefaces for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/updated-wi-fi-plus-bluetooth-art-pen-display-software-get-your-wacom-cintiq-13-hd-drivers-now/"><u>Updated Wi-Fi + Bluetooth Art Pen Display Software - Get Your Wacom Cintiq 13 HD Drivers Now!</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+

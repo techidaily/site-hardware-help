@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Enhancing Your Acer Nitro 5 with the Latest Driver Updates"
-date: 2024-09-24T20:42:39.539Z
-updated: 2024-10-02T14:23:50.934Z
+date: 2024-10-09T10:29:29.294Z
+updated: 2024-10-13T09:59:19.538Z
 tags:
   - win11
   - win10
@@ -30,10 +30,10 @@ thumbnail: https://thmb.techidaily.com/3b240b43c93d639302106c546caada2668474e961
 [**Method 2 – Automatically:**](https://tools.techidaily.com/drivereasy/download/) This option is **much quicker and easier** . **All**   you need to do is **just a couple of mouse clicks** !
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 1: Download and update the drivers for your Surface Book 2 manually
@@ -46,27 +46,27 @@ thumbnail: https://thmb.techidaily.com/3b240b43c93d639302106c546caada2668474e961
 3. Scroll down until you see**Surface Book 2** on the table. Then click its drivers download link to continue.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap716.png)
 4. Click**Download** .  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap717.png)
 5. To update your Surface Book 2 with the latest drivers and firmware, **select the .msi file name that matches your operating system version** . Then click**Next** to start downloading.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap718.png)  
  For example, if the build of Windows 10 you’ve installed is build 17763, you should select  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **SurfaceBook2\_Win10\_17763\_1805009\_0.msi** . If you’re not sure about the version of Windows 10 you’ve installed, go to**Start** \>**Settings** \>**System** \>**About** to view **the OS Build number** .
 6. Double-click the downloaded file and follow the on-screen instructions to install its drivers.
@@ -82,15 +82,16 @@ thumbnail: https://thmb.techidaily.com/3b240b43c93d639302106c546caada2668474e961
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap719.png)
 3. Click **Update**  next to any device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.** You get **full support**  and a **30-day money back**  guarantee).  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap720.png)  
  You can do it for free if you like, but it’s partly manual.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
  Please leave your comment below if you have any questions or suggestions!
@@ -113,18 +114,17 @@ thumbnail: https://thmb.techidaily.com/3b240b43c93d639302106c546caada2668474e961
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-help.techidaily.com/free-download-nvidia-geforce-rtx-3080-drivers-compatible-with-windows-11-10-and-8/"><u>[Free Download] NVIDIA GeForce RTX 3080 Drivers Compatible with Windows 11, 10 & 8</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-earning-insights-from-viewing-data-on-youtube/"><u>[New] In 2024, Earning Insights From Viewing Data on YouTube</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-inside-the-studio-world-xvideo-studio-breakdown/"><u>[New] Inside the Studio World XVideo Studio Breakdown</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-pioneering-the-path-to-digital-dominance-wirecast-livestreams-on-facebook/"><u>[Updated] 2024 Approved Pioneering the Path to Digital Dominance Wirecast Livestreams on Facebook</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-best-virtual-race-titles-reviewed-for-2024/"><u>[Updated] Best Virtual Race Titles Reviewed for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-step-by-step-save-gifs-from-fb-on-different-devices-for-2024/"><u>[Updated] Step-by-Step Save GIFs From FB on Different Devices for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-transform-your-channels-look-for-free/"><u>[Updated] Transform Your Channel's Look for Free</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-insignia-ethernet-to-usb-driver-installation-instructions/"><u>Free Insignia Ethernet-to-USB Driver Installation Instructions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-get-the-latest-logitech-c920-driver-for-windows-11108-easy-steps/"><u>How to Get the Latest Logitech C920 Driver for Windows 11/10/8 - Easy Steps</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-update-samsung-usb-driver-for-mobile-phones/"><u>How To Update Samsung USB Driver for Mobile Phones</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-officejet-pro-e8720-driver-update-and-download-optimize-performance-on-windows-pcs/"><u>HP OfficeJet Pro E8720 Driver Update & Download: Optimize Performance on Windows PCs</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On OnePlus Ace 2V | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/streamline-your-workflow-with-speedy-downloads-of-dell-latitude-e6420-essential-drivers/"><u>Streamline Your Workflow with Speedy Downloads of Dell Latitude E6420 Essential Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-elevate-your-gameplay-with-official-corsair-mouse-software-install-now/"><u>[Free] Elevate Your Gameplay with Official Corsair Mouse Software - Install Now!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-guide-to-silent-screen-time-view-unseen-stories-on-devices/"><u>[New] Guide to Silent Screen Time View Unseen Stories on Devices</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-ultimate-guide-to-non-time-restricted-recorders-for-2024/"><u>[New] Ultimate Guide to Non-Time Restricted Recorders for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-cinema-craftsmanship-guide-top-tips-for-the-pros/"><u>2024 Approved Cinema Craftsmanship Guide Top Tips for the Pros</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-comprehensive-budget-strategies-for-podcasters/"><u>2024 Approved Comprehensive Budget Strategies for Podcasters</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-seamless-stream-to-song-transition-with-top-video-mp3-tools/"><u>2024 Approved Seamless Stream-to-Song Transition with Top Video-MP3 Tools</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/complete-steps-for-repairing-disrupted-stereo-outputs-ensuring-both-speakers-work-together/"><u>Complete Steps for Repairing Disrupted Stereo Outputs: Ensuring Both Speakers Work Together</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-the-latest-epson-wf-3520-printer-driver-for-windows/"><u>Download & Install the Latest Epson WF-3520 Printer Driver for Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-or-update-your-epson-tm-t88v-drivers-on-windows-computers-easily/"><u>Install or Update Your EPSON TM-T88V Drivers on Windows Computers Easily</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/is-the-lg-k92-5g-upgrade-justifying-the-price-tag-our-in-depth-review/"><u>Is the LG K92 5G Upgrade Justifying the Price Tag? Our In-Depth Review</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/quick-fixes-to-fasten-tiktok-video-speed/"><u>Quick Fixes to Fasten TikTok Video Speed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-support-for-your-legion-5-pro-latest-laptop-driver-downloads-and-setup/"><u>Ultimate Support for Your Legion 5 Pro - Latest Laptop Driver Downloads and Setup</u></a></li>
 </ul></div>
 

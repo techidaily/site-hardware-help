@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Successfully Downloading & Setting Up the Arduino Nano Board on Your PC"
-date: 2024-10-05T19:52:19.675Z
-updated: 2024-10-07T17:07:31.137Z
+date: 2024-10-08T14:01:56.507Z
+updated: 2024-10-13T11:40:11.013Z
 tags:
   - win11
   - win10
@@ -30,10 +30,10 @@ thumbnail: https://thmb.techidaily.com/fd283428cd4cb2c0907e2d15b8c7aa3306b361f3c
 [**Option 2 – Manually**](https://tools.techidaily.com/drivereasy/download/) –  You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Option 1: Update your Surface Book drivers automatically (Recommended)**
@@ -49,20 +49,21 @@ thumbnail: https://thmb.techidaily.com/fd283428cd4cb2c0907e2d15b8c7aa3306b361f3c
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bbe94614e.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7cabf4d114.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. **Restart**   your computer for the changes to take effect.
@@ -70,10 +71,10 @@ thumbnail: https://thmb.techidaily.com/fd283428cd4cb2c0907e2d15b8c7aa3306b361f3c
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Option 2: Update your Surface Book drivers manually**
@@ -86,13 +87,6 @@ To manually download & install your **Surface Book**  drivers, firstly you’ll 
 2. Scroll down to the Help list, then click**Install and update** \>**Download drivers and firmware for Surface** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7ccdf679a7.jpg)
 3. Select your model from the list of Surface products and follow the on-screen instructions to download the files that you need for driver updates.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Be sure to choose**ONLY** drivers that are compatible with your Windows version.
 4. Restart your computer for the changes to take effect.
@@ -118,22 +112,14 @@ To manually download & install your **Surface Book**  drivers, firstly you’ll 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-broadcasting-podcasts-on-instagram-features/"><u>[New] Broadcasting Podcasts on Instagram Features</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-action-packed-angling-best-fishing-cameras-ranked/"><u>[New] In 2024, Action-Packed Angling Best Fishing Cameras Ranked</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-obscured-oath-black-vs-the-illuminated-edict-silver/"><u>[New] The Obscured Oath (Black) VS The Illuminated Edict (Silver)</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-learn-how-to-redesign-twitters-video-display-settings/"><u>[Updated] 2024 Approved Learn How to Redesign Twitter's Video Display Settings</u></a></li>
-<li><a href="https://program-issues.techidaily.com/bypassing-anthems-relentless-boot-phenomenon-a-troubleshooting-success-story/"><u>Bypassing Anthem’s Relentless Boot Phenomenon: A Troubleshooting Success Story</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-latest-asus-mousepad-software-compatible-with-windows/"><u>Download the Latest ASUS Mousepad Software Compatible with Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/elevate-pc-performance-with-corsairs-icue-software-free-download-for-windows-users/"><u>Elevate PC Performance with Corsair's iCUE Software – Free Download for Windows Users!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/enhance-your-gaming-acquire-logiteche-g402s-latest-driver-and-game-controller-software/"><u>Enhance Your Gaming: Acquire Logiteche G402's Latest Driver and Game Controller Software</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-most-recent-version-of-your-hp-laserjet-p1007-driver-start-with-these-tips/"><u>Get the Most Recent Version of Your HP LaserJet P1007 Driver - Start with These Tips</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-top-8-collaborative-affordable-android-video-mosaics/"><u>In 2024, Exploring the Top 8 Collaborative, Affordable Android Video Mosaics</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mastering-spotify-promotion-strategies-for-effective-ads/"><u>Mastering Spotify Promotion Strategies for Effective Ads</u></a></li>
-<li><a href="https://win-best.techidaily.com/optimizacion-fotografica-eleva-tu-imagen-con-movavi/"><u>Optimización Fotográfica: Eleva Tu Imagen Con Movavi</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-and-easy-installing-hp-envy-5660s-latest-drivers-today/"><u>Quick and Easy: Installing HP Envy 5660'S Latest Drivers Today</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722970818344-speed-up-your-usb-cam-connectivity-secure-reliable-drivers-available-now/"><u>Speed-Up Your USB Cam Connectivity – Secure, Reliable Drivers Available Now</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-future-is-now-uncover-what-googles-ai-project-gemini-is-striving-for/"><u>The Future Is Now: Uncover What Google's AI Project Gemini Is Striving For</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-steering-control-free-download-for-logitech-g29-software-on-windows-operating-systems/"><u>Ultimate Steering Control: Free Download for Logitech G29 Software on Windows Operating Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-walkthrough-to-download-and-activate-your-sandisk-ssd-drives-correctly/"><u>Ultimate Walkthrough to Download and Activate Your Sandisk SSD Drives Correctly!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-gamers-guide-to-free-game-recording-tools/"><u>[Updated] 2024 Approved Gamers' Guide to Free Game Recording Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-enhancing-visuals-the-role-of-a-tripod-in-video-content-for-2024/"><u>[Updated] Enhancing Visuals The Role of a Tripod in Video Content for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-enhancing-user-engagement-through-fb-slideshows/"><u>2024 Approved Enhancing User Engagement Through FB Slideshows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-nvidia-gtx-n-series-drivers-installed-on-windows-without-hesitation/"><u>Get the Latest NVIDIA GTX N-Series Drivers Installed on Windows Without Hesitation</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-geforce-gtx-980-ti-drivers-for-your-pc-free-download/"><u>Get the Newest GeForce GTX 980 Ti Drivers for Your PC – Free Download</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-windows-11-resolves-major-camera-malfunctions-in-web-conferencing/"><u>How Windows 11 Resolves Major Camera Malfunctions in Web Conferencing</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722964485756-install-official-hp-deskjet-3630-print-server-software-compatible-with-windows-10-today/"><u>Install Official HP Deskjet 3630 Print Server Software Compatible with Windows # 10 Today!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-hp-laserjet-1018-driver-version-download-now/"><u>Latest HP LaserJet 1018 Driver Version Download Now</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigating-the-floating-window-technology-in-netflix-for-2024/"><u>Navigating The Floating Window Technology in Netflix for 2024</u></a></li>
 </ul></div>
 

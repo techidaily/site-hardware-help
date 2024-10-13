@@ -1,7 +1,7 @@
 ---
 title: Download and Install the Latest Canon PIXMA MG490 Printer Drivers on Windows
-date: 2024-10-03T19:42:04.381Z
-updated: 2024-10-07T18:53:33.101Z
+date: 2024-10-06T20:20:16.896Z
+updated: 2024-10-12T19:51:07.586Z
 tags:
   - win11
   - win10
@@ -26,6 +26,13 @@ It’s essential to keep the drivers for your Canon products up to date so as to
 1. [**Update your Canon driver automatically (Recommended)**](https://www.drivereasy.com/knowledge/canon-drivers-download-update-for-windows-easily/#O1)
 2. [**Update your Canon driver manually**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Option 1: Update your Canon driver automatically (Recommended)**
 
  If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -40,31 +47,24 @@ It’s essential to keep the drivers for your Canon products up to date so as to
 3. Click **Update All** to automatically download and install the correct version of **_ALL_**  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa45fe434fd.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Option 2: Update your Canon driver manually**
@@ -85,10 +85,10 @@ Before heading to download the latest driver package from **Canon**  ‘s offici
 5. Make sure **the detected Windows version is the right variant of your Windows OS** and click**SELECT** in**the first** result to make sure to download the latest driver release.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa4841af5d5.jpg)
@@ -118,16 +118,19 @@ Before heading to download the latest driver package from **Canon**  ‘s offici
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-engineering-a-memorable-tiktok-close-screen/"><u>[New] In 2024, Engineering A Memorable TikTok Close Screen</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mp3-mov-movavi/"><u>網路直接無障礙 MP3 到 MOV 格式轉換 - 利用 Movavi 工具</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-upgrade-ch340g-usb-to-serial-adapter-drivers-for-windows-10/"><u>Download & Upgrade: CH340G USB-to-Serial Adapter Drivers for Windows 10</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-wifi-and-wired-connectivity-drivers-compatible-with-win10win7win8/"><u>HP WiFi and Wired Connectivity Drivers: Compatible with Win10/Win7/Win8</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-incorporate-soundscape-into-visual-discussions/"><u>In 2024, Incorporate Soundscape Into Visual Discussions</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/lenovo-ideapad-assessment-robust-construction-and-simple-performance/"><u>Lenovo IdeaPad Assessment: Robust Construction & Simple Performance</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/rtx-2060-drivers-latest-version-available-now-for-windows-11-10-8-and-7-users/"><u>RTX 2060 Drivers: Latest Version Available Now for Windows 11, 10, 8 & 7 Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-instructions-to-downloading-and-installing-your-epson-wf-275n-printer-drivers/"><u>Step-by-Step Instructions to Downloading & Installing Your Epson WF-275n Printer Drivers</u></a></li>
-<li><a href="https://fox-links.techidaily.com/the-comprehensive-powerdirector-2024-user-guide/"><u>The Comprehensive PowerDirector 2024 User Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshoot-and-refresh-asus-bluetooth-drivers-updates-made-simple/"><u>Troubleshoot and Refresh: ASUS Bluetooth Drivers Updates Made Simple</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Vivo G2? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-prime-examples-14-dynamic-text-animations/"><u>[Updated] Prime Examples 14 Dynamic Text Animations</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-superior-live-media-transmission-tools/"><u>2024 Approved Superior Live Media Transmission Tools</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/canoscan-lide-120-scanner-drivers-latest-downloads-and-updates-guide/"><u>CanoScan LiDE 120 Scanner Drivers – Latest Downloads and Updates Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-intel-hd-graphics-drivers-on-windows-11-step-by-step-guide/"><u>Download & Update Intel HD Graphics Drivers on Windows 11: Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-hp-deskjet-annoy-2700-functionality-with-the-new-drivers-downloaded-for-free/"><u>Enhance Your HP Deskjet Annoy 2700 Functionality with the New Drivers Downloaded for Free</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-steps-in-effective-technology-upgrades/"><u>Essential Steps in Effective Technology Upgrades</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fast-track-to-downloading-your-elgato-drivers/"><u>Fast Track to Downloading Your Elgato Drivers!</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-realme-11x-5g-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Realme 11X 5G?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-essential-framework-for-targeted-ad-messaging-on-fb/"><u>In 2024, Essential Framework for Targeted Ad Messaging on FB</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamline-your-images-in-canva-without-clutter/"><u>In 2024, Streamline Your Images in Canva Without Clutter</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-the-newest-realtek-driver-software-directly-from-our-site-for-optimal-windows-11-support/"><u>Install the Newest Realtek Driver Software Directly From Our Site for Optimal Windows 11 Support</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/linksys-ae2500-driver-download-made-simple-fast-effective-tips-inside/"><u>Linksys AE2500 Driver Download Made Simple – Fast, Effective Tips Inside</u></a></li>
+<li><a href="https://games-able.techidaily.com/swapping-to-oled-does-the-classic-dock-still-work/"><u>Swapping to OLED - Does the Classic Dock Still Work?</u></a></li>
 </ul></div>
 

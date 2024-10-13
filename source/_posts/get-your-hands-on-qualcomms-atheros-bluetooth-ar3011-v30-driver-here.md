@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on Qualcomm's Atheros Bluetooth AR3011 v3.0 Driver Here!
-date: 2024-09-29T08:56:29.105Z
-updated: 2024-10-02T02:36:09.185Z
+date: 2024-10-07T08:28:23.529Z
+updated: 2024-10-12T17:21:38.393Z
 tags:
   - win11
   - win10
@@ -24,10 +24,10 @@ Bluetooth not working? Don’t know how to[reinstall the Bluetooth driver](https
 [**Option 2: Automatically (Recommended)**](https://www.drivereasy.com/knowledge/download-qualcomm-atheros-ar3011-bluetooth-3-0-driver/#option2) – If you don’t have the time or computer skills, maybe you’d want to update drivers automatically. All it takes are a few clicks.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 1: Update your Qualcomm Atheros AR3011 Bluetooth 3.0 driver manually
@@ -38,30 +38,23 @@ Bluetooth not working? Don’t know how to[reinstall the Bluetooth driver](https
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/device-manager-win-search-1.jpg)
 2. Click**Bluetooth** to expand the category. Right-click**Atheros AR3011 Bluetooth 3.0** and select**Update Driver Software…**  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/ar3011-update-1.jpg)
 3. Click**Search automatically for drivers** . Then wait for the process to complete. If Windows tells you the best drivers are already installed, you might need to visit the manufacturer’s website to verify.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/ar3011-update-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 2: Update your Qualcomm Atheros AR3011 Bluetooth 3.0 driver automatically (Recommended)
@@ -72,6 +65,14 @@ Bluetooth not working? Don’t know how to[reinstall the Bluetooth driver](https
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/de-ar3011-update.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -97,17 +98,17 @@ Bluetooth not working? Don’t know how to[reinstall the Bluetooth driver](https
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-become-a-snapchat-boomerang-pro-complete-tutorial/"><u>[New] Become a Snapchat Boomerang Pro Complete Tutorial</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-unveiling-hidden-gems-instagrams-download-secrets/"><u>[New] Unveiling Hidden Gems Instagram's Download Secrets</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/beyond-the-screen-shaping-perceptions-on-instagram-through-captions-for-2024/"><u>Beyond the Screen - Shaping Perceptions on Instagram Through Captions for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/complete-tutorial-applying-conexant-driver-updates-for-a-smooth-windows-11-version-2004-experience/"><u>Complete Tutorial: Applying Conexant Driver Updates for a Smooth Windows 11 (Version 2004) Experience</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722960882527-effortless-installation-freshest-amd-radeon-rx-480-driver-updates-just-a-click-away/"><u>Effortless Installation: Freshest AMD Radeon RX 480 Driver Updates Just a Click Away!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortlessly-overcome-battery-not-recognized-a-step-by-step-guide/"><u>Effortlessly Overcome 'Battery Not Recognized': A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/improve-your-amd-radeon-pro-graphics-with-the-newest-w5700-driver-windows-compatible-11107/"><u>Improve Your AMD Radeon Pro Graphics with the Newest W5700 Driver - Windows Compatible (11/10/7)</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-you-when-your-realme-narzo-60x-5g-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Realme Narzo 60x 5G is off? | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/masterful-video-cropping-elevate-your-content-game-on-instagram/"><u>Masterful Video Cropping Elevate Your Content Game on Instagram</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/resolving-compatibility-issues-with-lenovo-usb-ports-and-drivers/"><u>Resolving Compatibility Issues with Lenovo USB Ports and Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ryzen-fan-announces-acquisition-of-a-rare-early-zen-5-9700x-warehouses-prep-for-launch-at-local-electronics-shops/"><u>Ryzen Fan Announces Acquisition of a Rare Early Zen 5 9700X — Warehouses Prep for Launch at Local Electronics Shops</u></a></li>
-<li><a href="https://fox-http.techidaily.com/top-5-inspiring-book-trailers-for-2024/"><u>Top 5 Inspiring Book Trailers for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-multitasking-media-mastery-proficient-use-of-netflixs-pip-functionality/"><u>[New] In 2024, Multitasking Media Mastery Proficient Use of Netflix’s PIP Functionality</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-unearthing-highlighted-online-dialogue/"><u>[Updated] In 2024, Unearthing Highlighted Online Dialogue</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/audioascend-rising-over-dacast/"><u>AudioAscend Rising Over DaCast</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-windows-amigos-7-dell-router-driver-here/"><u>Get Your Windows Amigos 7 Dell Router Driver Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hassle-free-intel-chip-support-get-the-latest-drivers-now/"><u>Hassle-Free Intel Chip Support - Get the Latest Drivers Now</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/master-the-trick-preventing-all-future-updates-in-windows-11/"><u>Master the Trick: Preventing All Future Updates in Windows 11</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mastering-the-art-of-saying-hello-in-spanish-dive-into-these-top-10-phrases/"><u>Mastering the Art of Saying 'Hello' In Spanish - Dive Into These Top 10 Phrases</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-guide-to-downloading-and-installing-amd-ryzen-5-2400g-drivers/"><u>Quick Guide to Downloading and Installing AMD Ryzen 5 2400G Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/targus-dock-solutions-swift-setup-and-installation-instructions-for-busy-users/"><u>Targus Dock Solutions - Swift Setup & Installation Instructions for Busy Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-solving-mass-effect-legendary-edition-crashes-on-pc-and-xbox/"><u>Troubleshooting Guide: Solving Mass Effect Legendary Edition Crashes on PC and Xbox</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-picture-narrative-craft-pro-edition-for-2024/"><u>Ultimate Picture Narrative Craft - Pro Edition for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-performance-secrets-in-pcs-and-peripherals-at-toms-hardware-hub/"><u>Unveiling Performance Secrets in PCs and Peripherals at Tom's Hardware Hub</u></a></li>
 </ul></div>
 

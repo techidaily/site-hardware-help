@@ -1,7 +1,7 @@
 ---
 title: Updated Oculus Software & Drivers - Supported by Microsoft Windows 11/10/8/7
-date: 2024-09-30T19:52:19.006Z
-updated: 2024-10-02T06:21:08.181Z
+date: 2024-10-07T09:22:05.448Z
+updated: 2024-10-13T03:45:36.443Z
 tags:
   - win11
   - win10
@@ -41,16 +41,16 @@ thumbnail: https://thmb.techidaily.com/ed1fcd1a483c0b94fb3a94d424b683306978ea21a
  Or click the**Update** button next to the Intel(R) Iris(R) Plus Graphics 655 driver to automatically download and install the correct version of this driver (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/intel-iris-655.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 2 – Download and install Intel Iris Plus Graphics 655 driver manually
 
@@ -61,47 +61,35 @@ thumbnail: https://thmb.techidaily.com/ed1fcd1a483c0b94fb3a94d424b683306978ea21a
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/intel-graphics.jpg)
 3. In the search box, type**Intel Iris Plus graphics 655** and press**Enter** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/type-655.jpg)
 4. Click**Intel® Graphics – Windows\* DCH Drivers** .  
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/intel-graphics-DCH-drivers.jpg)
 5. Download the latest version of the driver.  
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/intel-latest-graphics-driver.jpg)
 6. Once you’ve downloaded the file, double-click on it and follow the on-screen instructions to**install the driver** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. **Restart your computer** for the changes to take effect.
 
@@ -126,16 +114,18 @@ thumbnail: https://thmb.techidaily.com/ed1fcd1a483c0b94fb3a94d424b683306978ea21a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-how-to-watch-deleted-youtube-videos-online-in-2-ways-ultimate-guide/"><u>[Updated] 2024 Approved How to Watch Deleted YouTube Videos Online in 2 Ways | Ultimate Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/expert-gadget-analysis-at-toms-electronic-insight-blog/"><u>Expert Gadget Analysis at Tom's Electronic Insight Blog</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-hardware-with-tom-in-depth-analysis-of-pc-specs-and-setup/"><u>Exploring Hardware with Tom: In-Depth Analysis of PC Specs and Setup</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-the-features-of-the-logitech-g515-an-in-depth-look-at-its-low-profile-and-economical-pricing/"><u>Exploring the Features of the Logitech G515: An In-Depth Look at Its Low Profile and Economical Pricing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-inactive-windows-key-in-os-11/"><u>Fixing Inactive Windows Key in OS 11</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-motorola-edge-2023-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Motorola Edge 2023</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-exploring-mycams-video-recording-quality-and-efficiency/"><u>In 2024, Exploring MyCam's Video Recording Quality and Efficiency</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Samsung Galaxy A14 5G? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/in-depth-hardware-reviews-by-toms-technology-experts/"><u>In-Depth Hardware Reviews by Tom's Technology Experts</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/in-depth-reviews-and-comprehensive-guides-by-toms-technology-hub/"><u>In-Depth Reviews & Comprehensive Guides by Tom's Technology Hub</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlock-new-potentials-iphone-x-secrets-unveiled-for-2024/"><u>Unlock New Potentials IPhone X Secrets Unveiled for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-maximizing-earnings-on-instagram-strategies-for-sponsorship-attraction/"><u>[Updated] 2024 Approved Maximizing Earnings on Instagram Strategies for Sponsorship Attraction</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-androids-leading-downloader-choice-the-ultimate-top-10-list-of-fb-video-tools/"><u>[Updated] Android's Leading Downloader Choice The Ultimate Top 10 List of FB Video Tools</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-for-fresh-filmmakers-an-introduction-to-aspect-ratios-and-resolution/"><u>[Updated] For Fresh Filmmakers An Introduction to Aspect Ratios & Resolution</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/blending-harmonies-in-a-social-media-slot-for-2024/"><u>Blending Harmonies in a Social Media Slot for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complimentary-driver-downloads-for-logitech-webcams-on-windows/"><u>Complimentary Driver Downloads for Logitech Webcams on Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-epson-v700-printer-drivers-compatible-with-windows-7-10-and-81-free/"><u>Download Epson V700 Printer Drivers Compatible with Windows 7, 10 & 8.1 - Free</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-acer-wireless-networking-up-and-running-with-our-free-driver-downloads/"><u>Get Your Acer Wireless Networking Up and Running with Our Free Driver Downloads</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722977411399-get-your-logitech-t630-up-and-running-on-win7810-download-the-right-driver/"><u>Get Your Logitech T630 Up and Running on Win7/8/10 - Download the Right Driver</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/improve-your-dell-2330-series-printer-functionality-a-step-by-step-guide-for-firmware-updates/"><u>Improve Your Dell 2330 Series Printer Functionality: A Step-by-Step Guide for Firmware Updates</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-high-res-aerial-showdown-dji-vs-gopro-capture/"><u>In 2024, High-Res Aerial Showdown DJi vs GoPro Capture</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/live-the-experience-top-4-ways-to-preserve-your-gaming-adventures/"><u>Live the Experience Top 4 Ways to Preserve Your Gaming Adventures</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/navigating-through-troubled-waters-instagram-videos-guide-for-2024/"><u>Navigating Through Troubled Waters Instagram Videos Guide for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/unveiling-8-affordable-video-communication-apps-for-pc-and-mac-for-2024/"><u>Unveiling 8 Affordable Video Communication Apps for PC and MAC for 2024</u></a></li>
 </ul></div>
 

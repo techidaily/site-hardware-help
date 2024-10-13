@@ -1,7 +1,7 @@
 ---
 title: Fixing the Notorious Graphics Driver Glitches – Expert Tips & Tricks
-date: 2024-10-01T01:42:31.295Z
-updated: 2024-10-01T22:37:31.439Z
+date: 2024-10-12T14:29:37.544Z
+updated: 2024-10-12T23:37:30.966Z
 tags:
   - win11
   - win10
@@ -29,40 +29,34 @@ Device Manager is the easiest way for you to get the updated device drivers, but
 
 You need to go for other ways to get your display card driver updated since Microsoft cannot help you do this for now.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2: Update Radeon RX 480 Graphics Card Driver** **Manually**
 
 If Device Manager fails to get you the latest driver available, you can always go to AMD and get the driver by yourself, but it requires certain skill sets. If you’re not comfortable updating the driver by yourself, go ahead and jump to[**Method 3**](https://tools.techidaily.com/drivereasy/download/)to get it automatically.  1) First, go to the support website of AMD drivers: **AMD Drivers + Download Center**  . Scroll down a little bit to choose from the **Radeon RX 400 Series** section your operating system. ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584f717d77cb0.png) 2) Download the **Radeon Software** by pressing the **Download** button on the side. ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584f72b36c238.jpg) 3) If you need more drivers for you **AMD Radeon RX 480** , you can choose the **Optional Downloads**  bar and then download the drivers you need.
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584f7327b334e-475x600.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Go to [**Device Manager**](https://tools.techidaily.com/drivereasy/download/) again. Locate and expand **Display adapters** . Double-click **AMD Radeon RX 480** . ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584f6ee252477.jpg)5) Go to the **Driver**tab, and click **Uninstall**. ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584f742f54e25.jpg)Click **OK**to continue. ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584f7452e10b3.png)6) Double-click the downloaded**AMD Radeon RX 480**driver, and run the installation manually. 7) Restart your computer for the changes to take effect after the installation.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3: Update Radeon RX 480 Graphics Card Driver Automatically (Recommended)**
 
@@ -71,10 +65,10 @@ If you’re not confident playing around with drivers manually, you can do it au
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e5f628aad8e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * [graphics](https://tools.techidaily.com/drivereasy/download/)
@@ -94,22 +88,20 @@ If you’re not confident playing around with drivers manually, you can do it au
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-the-ultimate-playbook-for-recording-live-gaming-events-for-2024/"><u>[New] The Ultimate Playbook for Recording Live Gaming Events for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-transform-your-playtime-mastering-ps4-live-recordings-with-obs-for-2024/"><u>[New] Transform Your Playtime Mastering PS4 Live Recordings with OBS for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-bring-life-to-graphics-adobe-blur-masterclass/"><u>[Updated] Bring Life to Graphics Adobe Blur Masterclass</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-m1-pro-vs-m1-max-delving-into-the-details-of-apples-latest-cpus/"><u>2024 Approved M1 Pro Vs. M1 Max Delving Into the Details of Apple's Latest CPUs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/build-quality-and-design/"><u>Build Quality and Design</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/comprehensive-assessment-performance-testing-for-corsairs-cx7er-m-power-unit/"><u>Comprehensive Assessment: Performance Testing for Corsair's CX7er M Power Unit</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-xiaomi-redmi-a2plus-by-drfone-android/"><u>How to Show Wi-Fi Password on Xiaomi Redmi A2+</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-new-electronics-with-tom-in-depth-hardware-analysis/"><u>Navigating New Electronics with Tom: In-Depth Hardware Analysis</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-the-digital-world-with-tom-top-tier-computer-and-technology-evaluations/"><u>Navigating the Digital World with Tom: Top-Tier Computer and Technology Evaluations</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/newly-released-info-on-high-performance-60n-watt-pcie-gen-5-cord-for-gpus-inside-look/"><u>Newly Released Info on High-Performance 60N Watt PCIe Gen 5 Cord for GPUs – Inside Look</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/online-verzamelen-en-omzetten-van-ogv-in-mov-files-efficient-gratuitie-met-movavis-hilfeleiders/"><u>Online Verzamelen en Omzetten Van OGV in MOV Files: Efficiënt Gratuitie Met Movavi's Hilfeleiders</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/tiny-yet-mighty-in-depth-analysis-and-reviews-of-the-new-apple-iphone-ebonics/"><u>Tiny Yet Mighty: In-Depth Analysis and Reviews of the New Apple iPhone Ebonics</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-technological-reviews-your-ultimate-source-for-hardware-expertise/"><u>Tom’s Technological Reviews: Your Ultimate Source for Hardware Expertise</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transforming-spoken-words-into-written-text-using-in-built-tools-of-office-suite-ms-word-for-2024/"><u>Transforming Spoken Words Into Written Text Using In-Built Tools of Office Suite - MS Word for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unboxing-and-testing-the-msi-power-supply-unit-psu-model-mpg-a10-expert-analysis-and-review/"><u>Unboxing & Testing the MSI Power Supply Unit (PSU) Model MPG A10# - Expert Analysis and Review</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unleashing-the-potential-galaxs-latest-dual-16-pin-1300-watt-power-unit-for-gaming-rigs/"><u>Unleashing the Potential: Galax's Latest Dual 16-Pin 1300 Watt Power Unit for Gaming Rigs</u></a></li>
-<li><a href="https://extra-information.techidaily.com/why-choose-picshot-for-your-next-collage-project/"><u>Why Choose Picshot for Your Next Collage Project?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-swift-strategies-to-beat-instagrams-video-blues/"><u>[New] 2024 Approved Swift Strategies to Beat Instagram's Video Blues</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-dive-into-the-world-of-podcasting-from-concept-to-finalized-scripts/"><u>[New] Dive Into the World of Podcasting From Concept to Finalized Scripts</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-giggle-galaxy-most-shared-content-on-both-platforms/"><u>[Updated] In 2024, Giggle Galaxy Most Shared Content on Both Platforms</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-gionee-f3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/direct-links-to-nvidias-latest-rtx-2070-super-drivers-compatible-with-windows-11/"><u>Direct Links to NVIDIA's Latest RTX 2070 Super Drivers - Compatible with Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-guide-to-downloading-your-logitech-driver-on-windows-pc/"><u>Effortless Guide to Downloading Your Logitech Driver on Windows PC</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-best-performance-download-hp-printer-drivers-now/"><u>Get the Best Performance: Download HP Printer Drivers Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-easily-obtain-and-install-updated-drivers-for-your-epson-xp-440-printer/"><u>How to Easily Obtain and Install Updated Drivers for Your Epson XP-440 Printer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-laserjet-p1606dn-update-to-the-latest-printer-software-and-drivers-on-your-windows-machine/"><u>HP LaserJet P1606dn - Update to the Latest Printer Software and Drivers on Your Windows Machine</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-effective-usage-of-hashtags-by-advertisers-on-fb/"><u>In 2024, Effective Usage of Hashtags by Advertisers on FB</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-most-effective-ways-to-bypass-apple-iphone-13-activation-lock-by-drfone-ios/"><u>In 2024, The Most Effective Ways to Bypass Apple iPhone 13 Activation Lock</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/instant-solution-for-outdated-synaptics-ps2-port-touchpad-drivers/"><u>Instant Solution for Outdated Synaptics PS/2 Port Touchpad Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-simple-installation-guide-usb-camera-drivers-download/"><u>Quick and Simple Installation Guide: USB Camera Drivers Download</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-artisans-secret-to-viral-youtube-success/"><u>The Artisan's Secret to Viral YouTube Success</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/youtube-video-earnings-explained-average-adsense-fees-per-kv-for-2024/"><u>Youtube Video Earnings Explained Average AdSense Fees per KV for 2024</u></a></li>
 </ul></div>
 

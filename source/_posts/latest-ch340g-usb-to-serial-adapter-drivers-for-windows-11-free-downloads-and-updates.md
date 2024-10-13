@@ -1,7 +1,7 @@
 ---
 title: "Latest CH340G USB-to-Serial Adapter Drivers for Windows 11: Free Downloads & Updates"
-date: 2024-10-05T18:07:42.880Z
-updated: 2024-10-07T18:58:12.151Z
+date: 2024-10-11T13:13:36.305Z
+updated: 2024-10-13T14:50:59.515Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ OR
 
 **[Option 2 – Automatically (Recommended) –](https://www.drivereasy.com/knowledge/download-update-pl2303-driver-for-your-windows-computer/#o2)**  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 1 – Download and install the driver manually
 
  Prolific keeps updating drivers. To get them, you need to go to[the official Prolific website](http://www.prolific.com.tw/US/) , find the drivers corresponding with your specific flavor of Windows version (for example, Windows 64 bit) and download the driver manually.
@@ -34,20 +41,13 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb088f33d239.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 2 – Automatically update your PL2303 driver
 
@@ -64,10 +64,10 @@ OR
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** You can do it for free if you like, but it’s partly manual.  
@@ -75,10 +75,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Prolific-USB-to-Serial-Comm-Port.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you have any problems while using Driver Easy, feel free to contact our support team at **<support@drivereasy.com>** . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -103,16 +103,24 @@ Feel free to comment below if you have any questions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/etailed-guide-to-dollar-counts-a-stepwise-strategy-to-track-youtube-earnings/"><u>[New] Detailed Guide to Dollar Counts A Stepwise Strategy to Track YouTube Earnings</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-eliminating-noise-methods-for-soundless-recording/"><u>[New] In 2024, Eliminating Noise Methods for Soundless Recording</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-infuse-vibes-into-photos-via-ig-sounds-for-2024/"><u>[Updated] Infuse Vibes Into Photos via IG Sounds for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-quicktime-stop-screen-recording-guide-for-2024/"><u>[Updated] Quicktime Stop Screen Recording (Guide) for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amds-ryzen-9000-release-postponement-linked-to-labeling-error-unveiling-of-misidentified-ryzen-7-processor/"><u>AMD's Ryzen 9000 Release Postponement Linked to Labeling Error: Unveiling of Misidentified Ryzen 7 Processor</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ensure-peak-performance-msi-gs65-driver-downloads-tailored-for-windows-computers/"><u>Ensure Peak Performance: MSi GS65 Driver Downloads Tailored for Windows Computers</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-poco-x5-pro-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Poco X5 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/provide-efficient-and-friendly-communication-to-ensure-the-highest-level-of-client-satisfaction-when-addressing-concerns-or-resolving-issues-related-to-our-460/"><u>Provide Efficient and Friendly Communication to Ensure the Highest Level of Client Satisfaction when Addressing Concerns or Resolving Issues Related to Our Products/Services</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-resolution-freshly-downloading-and-refreshing-your-mbox-2-drives-in-windows-environment/"><u>Quick Resolution: Freshly Downloading & Refreshing Your MBox 2 Drives in Windows Environment</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/stay-ahead-in-tech-top-picks-from-toms-detailed-hardware-reviews/"><u>Stay Ahead in Tech: Top Picks From Tom's Detailed Hardware Reviews</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-best-editing-software-for-professional-dji-videos/"><u>The Best Editing Software for Professional DJi Videos</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/avigating-best-options-expert-picks-from-top-9-free-logomakers-for-2024/"><u>[New] Navigating Best Options Expert Picks From Top 9 Free Logomakers for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-cost-breakdown-for-youtube-ads-for-2024/"><u>[Updated] Cost Breakdown for YouTube Ads for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-blur-out-not-into-discovering-photo-clarity-web-tools/"><u>2024 Approved Blur Out, Not Into! Discovering Photo Clarity Web Tools</u></a></li>
+<li><a href="https://win-blog.techidaily.com/bypassing-stuck-screens-in-among-us-strategies-for-a-smooth-gaming-experience/"><u>Bypassing Stuck Screens in Among Us: Strategies for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-possibnilities-of-nvidias-ai-foundations-for-customizable-generative-ai-and-user-accessibility/"><u>Exploring the Possibnilities of Nvidia's AI Foundations for Customizable Generative AI and User Accessibility</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Sony Xperia 1 V? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-refresh-system-drivers-perfect-for-dell-xps-15-windows-users/"><u>How to Refresh System Drivers: Perfect for Dell XPS 15 Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-securely-download-and-install-intel-hd-graphics-drivers-on-your-windows-11-pc/"><u>How to Securely Download & Install Intel HD Graphics Drivers on Your Windows 11 PC</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-quick-tutorial-get-snapchat-running-on-macos/"><u>In 2024, Quick Tutorial Get Snapchat Running on macOS</u></a></li>
+<li><a href="https://extra-support.techidaily.com/instagram-video-quirk-unusual-vertical-display-for-2024/"><u>Instagram Video Quirk Unusual Vertical Display for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-newest-intel-iris-xe-graphics-drivers-to-enhance-your-windows-11-experience/"><u>Install Newest Intel Iris Xe Graphics Drivers to Enhance Your Windows 11 Experience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-lenovo-x1-carbon-driver-updates-available-here-windows-10-and-navigating-windows-7-compatibility/"><u>Latest Lenovo X1 Carbon Driver Updates Available Here - Windows 10 & Navigating Windows 7 Compatibility</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-release-magicard-rio-pro-driver-get-your-download-for-winxp-or-later/"><u>Latest Release: Magicard Rio Pro Driver - Get Your Download for WinXP or Later!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/overcoming-graphics-driver-hurdles-proven-techniques-to-restore-optimal-performance/"><u>Overcoming Graphics Driver Hurdles: Proven Techniques to Restore Optimal Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/samsung-mobile-devices-secure-your-adb-drivers-from-samsungs-website-today/"><u>Samsung Mobile Devices: Secure Your ADB Drivers From Samsung’s Website Today!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-printing-with-canon-pro-100-on-your-pc-step-by-step-driver-guide/"><u>Seamless Printing with Canon PRO 100 on Your PC - Step-by-Step Driver Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-capturing-screen-images-on-hp-devices/"><u>Step-by-Step Tutorial: Capturing Screen Images on HP Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-and-install-rndis-drivers-for-optimal-performance-on-windows-devices/"><u>Update & Install RNDIS Drivers for Optimal Performance on Windows Devices</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-filmora-watermark-how-to-bypass-or-remove-it-permanently-for-2024/"><u>Updated Filmora Watermark How to Bypass or Remove It Permanently for 2024</u></a></li>
 </ul></div>
 

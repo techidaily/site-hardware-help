@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide: How to Update or Download Surface Book 2 Drivers"
-date: 2024-09-04T02:12:56.957Z
-updated: 2024-09-05T02:12:56.957Z
+date: 2024-10-08T04:47:52.175Z
+updated: 2024-10-13T05:22:14.880Z
 tags:
   - win11
   - win10
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/0ddbdaf176d9d1aa91166240cfd03bf943a91fbfa
 
 [**Option 2 – Manually**](https://tools.techidaily.com/drivereasy/download/) –  You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Option 1: Update your Surface Book drivers automatically (Recommended)**
 
  If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/) .**
@@ -41,18 +48,34 @@ thumbnail: https://thmb.techidaily.com/0ddbdaf176d9d1aa91166240cfd03bf943a91fbfa
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bbe94614e.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7cabf4d114.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. **Restart**   your computer for the changes to take effect.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Option 2: Update your Surface Book drivers manually**
 
 **Warning** : Downloading the wrong driver or installing it incorrectly can compromise your PC’s stability and even cause the whole system to crash. So please proceed at your own peril.
@@ -63,12 +86,14 @@ To manually download & install your **Surface Book**  drivers, firstly you’ll 
 2. Scroll down to the Help list, then click**Install and update** \>**Download drivers and firmware for Surface** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7ccdf679a7.jpg)
 3. Select your model from the list of Surface products and follow the on-screen instructions to download the files that you need for driver updates.  
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Be sure to choose**ONLY** drivers that are compatible with your Windows version.
 4. Restart your computer for the changes to take effect.
 
@@ -84,8 +109,6 @@ To manually download & install your **Surface Book**  drivers, firstly you’ll 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -93,4 +116,20 @@ To manually download & install your **Surface Book**  drivers, firstly you’ll 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-exploring-nextgen-videostreaming-platforms/"><u>[New] 2024 Approved Exploring NextGen Videostreaming Platforms</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-trim-youtube-videos-for-2024/"><u>[Updated] How to Trim YouTube Videos for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-incorporating-itunes-vibes-into-videos/"><u>[Updated] Incorporating iTunes Vibes Into Videos</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-xiaomi-redmi-k70e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-motorola-moto-g14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-atheros-driver-software-for-windows-systems-here/"><u>Get the Latest Atheros Driver Software for Windows Systems Here</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-understanding-adobe-storage-alternatives-explained/"><u>In 2024, Understanding Adobe Storage, Alternatives Explained</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-graphics-driver-software-for-nvidias-rtx-2070-super-card-on-windows-platforms/"><u>Latest Graphics Driver Software for NVIDIA's RTX 2070 Super Card on Windows Platforms</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722965580565-latest-konica-minolta-driver-downloads-compatible-with-windows-11-10-8-and-7-get-started-now/"><u>Latest Konica Minolta Driver Downloads Compatible with Windows 11, 10, 8, and 7 – Get Started Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-intel-dynamic-platform-and-thermal-framework-driver-setup-fixed/"><u>Mastering Intel Dynamic Platform & Thermal Framework Driver Setup: Fixed!</u></a></li>
+<li><a href="https://howto.techidaily.com/oppo-reno-9a-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Reno 9A Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/precision-cutting-editor-that-perfects-vimeo-videos-for-2024/"><u>Precision Cutting Editor That Perfects Vimeo Videos for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-complete-guide-to-designing-personalized-instagram-ringtone/"><u>The Complete Guide to Designing Personalized Instagram Ringtone</u></a></li>
+</ul></div>
 

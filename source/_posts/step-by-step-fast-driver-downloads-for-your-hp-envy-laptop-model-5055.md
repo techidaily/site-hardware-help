@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: Fast Driver Downloads for Your HP Envy Laptop (Model 5055)"
-date: 2024-10-02T19:07:33.529Z
-updated: 2024-10-07T19:08:04.081Z
+date: 2024-10-10T06:26:52.666Z
+updated: 2024-10-12T17:30:15.743Z
 tags:
   - win11
   - win10
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/59ebf54bbd2728b1cee67f80e126289c9f6737977
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Option 1 – Update your driver via Device Manager**
 
  Try to update your Validity fingerprint sensor driver from within Device Manager:
@@ -49,14 +42,28 @@ thumbnail: https://thmb.techidaily.com/59ebf54bbd2728b1cee67f80e126289c9f6737977
 3. Type**device** into the search box. Then select**Device Manager** from a list of search results.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1098.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Here comes**Device Manager** . Click the**▷** symbol to the left of**Biometric Devices** to expand its drop-down list.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1073.png)
 5. Right-click on**Validity Sensors (WBF)** to open its context menu. Then select**Update Driver Software…** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-11-03.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6. Click**Search automatically for updated driver software** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-18-21.png)
 7. Wait till the download and installation process finishes.
@@ -75,10 +82,16 @@ thumbnail: https://thmb.techidaily.com/59ebf54bbd2728b1cee67f80e126289c9f6737977
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Option 3 – Update your driver automatically (Recommended)**
@@ -92,13 +105,6 @@ thumbnail: https://thmb.techidaily.com/59ebf54bbd2728b1cee67f80e126289c9f6737977
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-29_18-38-22-2.png)
 3. Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your Validity fingerprint sensor driver for now, simply click the**Update** button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-29_18-36-48-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
 
@@ -128,20 +134,24 @@ thumbnail: https://thmb.techidaily.com/59ebf54bbd2728b1cee67f80e126289c9f6737977
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-selecting-gear-for-youtube-a-filmmakers-essentials/"><u>[New] 2024 Approved Selecting Gear for YouTube A Filmmaker's Essentials</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-premier-imagery-capture-insight/"><u>[New] Premier Imagery Capture Insight</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/nveiling-the-swift-growing-youtube-sources-for-inspiration/"><u>[New] Unveiling the Swift-Growing YouTube Sources for Inspiration</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/canon-dr-c225-driver-download-for-windows-operating-systems-windows-11-10-and-8/"><u>Canon DR-C225 Driver Download for Windows Operating Systems - Windows 11, 10 & 8</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/complete-tutorial-for-reinstalling-intel-centrino-apro-wireless-n-4905agn-drivers-on-your-pc/"><u>Complete Tutorial for Reinstalling Intel Centrino A/Pro Wireless - N 4905AGN Drivers on Your PC</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722957373535-effortlessly-update-to-latest-asrock-ab350-pro4-drivers-free-downloads-here/"><u>Effortlessly Update to Latest ASRock AB350 Pro4 Drivers - Free Downloads Here</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/enhance-your-gaming-with-updated-acer-predator-helios-300-graphics-driver-upgrades/"><u>Enhance Your Gaming with Updated Acer Predator Helios 300 Graphics Driver Upgrades</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-acer-display-software-get-your-latest-drivers-here/"><u>Free Acer Display Software - Get Your Latest Drivers Here</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Infinix Hot 30i? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-oppo-k11x-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Oppo K11x by Name | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/installation-guide-and-software-downloads-for-brother-hl-l2380dw-on-pc/"><u>Installation Guide & Software Downloads for Brother HL-L2380DW on PC</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/iphone-photo-perfection-implement-these-10-composition-tenets/"><u>IPhone Photo Perfection Implement These 10 Composition Tenets</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/simple-steps-to-elevate-win11-with-intel-gfx/"><u>Simple Steps to Elevate Win11 with Intel GFX</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-infinix-gt-10-pro-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Infinix GT 10 Pro FRP Bypass</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unleashing-win11s-potential-with-zoom-conferencing/"><u>Unleashing Win11's Potential with Zoom Conferencing</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-elaborate-survey-gopro-silver-sensor-hero4-testing/"><u>[New] 2024 Approved Elaborate Survey GoPro Silver Sensor HERO4 Testing</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-how-much-do-podcasters-make/"><u>[New] In 2024, How Much Do Podcasters Make?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-discover-the-ultimate-affordable-tool-to-transform-your-valorant-gameplay/"><u>[Updated] In 2024, Discover the Ultimate, Affordable Tool to Transform Your Valorant Gameplay</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-design-with-confidence-best-free-high-quality-windowsmac-capture-tools/"><u>2024 Approved Design with Confidence Best Free, High-Quality Windows/Mac Capture Tools</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-heroic-journeys-unleashed-the-premier-game-collection/"><u>2024 Approved Heroic Journeys Unleashed The Premier Game Collection</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-tiktok-linking-made-simple-and-irreversible/"><u>2024 Approved TikTok Linking Made Simple and Irreversible</u></a></li>
+<li><a href="https://discover-great.techidaily.com/1728504501508-gptmbr/"><u>从无虞中学习:将GPT数据结构备份到MBR型闪存驱动器的方法</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-radeon-r9-driver-update-and-installation-tutorials-for-windows-operating-system/"><u>AMD Radeon R9 Driver Update & Installation Tutorials for Windows Operating System</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-improve-your-digital-art-experience-with-the-newest-wacom-cintiq-driver/"><u>Download & Improve Your Digital Art Experience with the Newest Wacom Cintiq Driver!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-elan-smbus-driver-on-windows-complete-guide/"><u>Download and Update ELAN SMBus Driver on Windows - Complete Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-upgrade-the-simple-way-to-install-a-new-validity-fingerprint-sensor-driver/"><u>Download and Upgrade: The Simple Way to Install a New Validity Fingerprint Sensor Driver</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-windows-11-10-8-and-7-drivers-for-amd-radeon-rx-6800-xt-graphics-card/"><u>Download Windows 11, 10, 8 & 7 Drivers for AMD Radeon RX 6800 XT Graphics Card</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/easy-conversion-techniques-turning-ts-videos-into-high-definition-mp4s-in-minutes/"><u>Easy Conversion Techniques: Turning TS Videos Into High-Definition MP4s in Minutes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722978462934-fast-track-to-compatibility-update-your-surface-drivers-today/"><u>Fast Track to Compatibility: Update Your Surface Drivers Today!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-hp-scanjet-driver-updates-for-windows-operating-systems/"><u>Get the Latest HP Scanjet Driver Updates for Windows Operating Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-download-and-install-arduino-nano-driver-in-windows-solved/"><u>How to Download and Install Arduino Nano Driver in Windows [Solved]</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-vac-failure-in-steam-gaming/"><u>Navigating Through VAC Failure in Steam Gaming</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-fix-for-intel-nuc-easy-driver-update-process/"><u>Quick Fix for Intel NUC - Easy Driver Update Process</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successfully-solving-astro-a40-microphone-issues-step-by-step-guide/"><u>Successfully Solving Astro A40 Microphone Issues - Step-by-Step Guide</u></a></li>
 </ul></div>
 

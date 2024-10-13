@@ -1,7 +1,7 @@
 ---
 title: Optimize Your Lenovo Legion 5 Pro Laptop with the Latest NVIDIA/AMD Driver Updates
-date: 2024-10-04T20:50:05.054Z
-updated: 2024-10-07T20:32:24.753Z
+date: 2024-10-08T18:38:40.999Z
+updated: 2024-10-12T20:50:09.329Z
 tags:
   - win11
   - win10
@@ -33,22 +33,21 @@ You can download the drivers from the HP customer support website. To do so:**1)
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28c52d68cef.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)**Search “_840 g3_” for your notebook product page.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28c5ba98220.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Go to the Software and Drivers page, then download the driver of each device to your computer.
 
@@ -57,10 +56,10 @@ You can download the drivers from the HP customer support website. To do so:**1)
 **5)**Open the downloaded files to install the drivers on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 2: Update your notebook drivers automatically
@@ -69,15 +68,22 @@ If you don’t have the time, patience or skills to update these drivers manuall
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1a66b4a3dfe.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Click the **Update**  button next to_each device_ to download the latest and correct driver for it, then you can manually install it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28d0824cae7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you’ve updated your driver with Driver Easy but your driver issues persist, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  for advice. You should attach the URL of this article so they can help you better.
@@ -100,15 +106,20 @@ If you don’t have the time, patience or skills to update these drivers manuall
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/solved-google-chrome-not-responding/"><u>[SOLVED] Google Chrome Not Responding</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-meme-masterpieces-iphones-here/"><u>[Updated] Meme Masterpieces, iPhones Here</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-luts-unveiled-transforming-the-lands-market/"><u>2024 Approved LUTs Unveiled Transforming the Lands Market</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723262403477-asus-makes-history-with-the-first-ever-rog-nuc-combines-cutting-edge-core-ultra-9-and-stunning-rtx-4070-graphics-at-an-unbeatable-starting-price-of-1629/"><u>Asus Makes History with the First-Ever ROG NUC - Combines Cutting-Edge Core Ultra 9 and Stunning RTX 4070 Graphics at an Unbeatable Starting Price of $1,629!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-instantly-upgrade-to-the-latest-hp-drivers/"><u>Download & Instantly Upgrade to the Latest HP Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-overcome-amd-rx-560-drivers-trouble-on-windows-operating-systems-windows-111087-guide/"><u>How to Overcome AMD RX 560 Drivers Trouble on Windows Operating Systems: Windows 11/10/8/7 Guide</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/egies-to-arrange-content-in-youtube-media-for-2024/"><u>Strategies to Arrange Content in YouTube Media for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/the-adventure-into-advanced-high-definition-tvs-4k/"><u>The Adventure Into Advanced High Definition TVs - 4K</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-dll-file-disappearance-on-windows/"><u>Troubleshooting DLL File Disappearance on Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/warframe-game-stability-issues-primarily-affect-intel-overclocking-capable-processors-reveals-development-team/"><u>Warframe Game Stability Issues Primarily Affect Intel Overclocking Capable Processors, Reveals Development Team</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-quick-route-to-riches-top-10-youtube-channels-for-startup-success/"><u>[New] 2024 Approved Quick Route to Riches Top 10 YouTube Channels for Startup Success</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-ingenious-intellectual-engagement-best-general-knowledge-channels/"><u>[Updated] 2024 Approved Ingenious Intellectual Engagement Best General Knowledge Channels</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/corsair-keyboard-setup-free-reliable-windows-software-and-driver-download-guide/"><u>CORSAIR Keyboard Setup: Free, Reliable Windows Software & Driver Download Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-download-compatible-asus-bt500-bluetooth-driver-suitable-for-win11-win10-and-win8-platforms/"><u>Easy Download: Compatible Asus BT500 Bluetooth Driver Suitable for Win11, Win10 & Win8 Platforms</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-steps-updating-your-windows-10-webcam-drivers/"><u>Easy Steps: Updating Your Windows 10 Webcam Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-pl2303-chipdriver-version-for-windows-free-download/"><u>Get the Latest PL2303 ChipDriver Version for Windows - Free Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/guide-updating-toshiba-satellite-device-drivers-using-windows/"><u>Guide: Updating Toshiba Satellite Device Drivers Using Windows</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/implementing-precise-timing-features-for-engaged-youtube-audiences/"><u>Implementing Precise Timing Features for Engaged YouTube Audiences</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-effortlessly-replay-videos-on-iphone/"><u>In 2024, Effortlessly Replay Videos on iPhone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-plus-withwithout-sim-card-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 15 Plus with/without SIM Card</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-infinix-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Infinix ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/lock-your-honor-magic-vs-2-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Honor Magic Vs 2 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/quick-and-secure-mobile-data-reinstatement/"><u>Quick & Secure Mobile Data Reinstatement</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-fix-how-to-update-your-synaptics-ps2-mousepad-driver-with-ease/"><u>Quick Fix: How to Update Your Synaptics PS/2 Mousepad Driver with Ease</u></a></li>
 </ul></div>
 

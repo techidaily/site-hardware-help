@@ -1,7 +1,7 @@
 ---
 title: "Maximize WiFi Speed: Easy Installation of the New Intel AC 3160 Dual Band Network Card"
-date: 2024-09-04T02:12:56.119Z
-updated: 2024-09-05T02:12:56.119Z
+date: 2024-10-11T00:24:57.786Z
+updated: 2024-10-13T14:51:10.176Z
 tags:
   - win11
   - win10
@@ -120,6 +120,13 @@ Wait for the download process to be complete.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Option 2 – Update the driver manually
 
  Intel keeps updating the Dual Band Wireless-AC 3160 drivers. To get the one you need, you should visit the download center of Intel, find the driver corresponding with your specific flavor of Windows version (for example, Windows 10 of 64 bit) and download the driver manually. Here’re the details (network connectivity is required):
@@ -130,13 +137,40 @@ Wait for the download process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-658-1024x326.png)
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) On the next page, pay attention to the left section and find the EXE file corresponding to your Windows version. Once you’ve found the correct one, click the**Download** button below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-661.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click**I accept the terms in the license agreement** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-662.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) After the file has been downloaded, double-click on it and follow the onscreen instructions to install the driver.
 
@@ -159,8 +193,6 @@ Wait for the download process to be complete.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -168,11 +200,20 @@ Wait for the download process to be complete.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-finding-the-perfect-pair-matching-mics-with-every-type-of-youtubers-style-for-2024/"><u>[New] Finding the Perfect Pair Matching Mics with Every Type of YouTuber's Style for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-the-ultimate-harvest-hangout-top-10-agri-games-to-enjoy-together/"><u>[New] The Ultimate Harvest Hangout Top 10 Agri-Games to Enjoy Together</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-title-and-description-tweaks-for-maximum-engagement-on-igtv/"><u>[Updated] Title and Description Tweaks for Maximum Engagement on IGTV</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-visual-tale-telling-for-the-small-screen-vertical-ig-videos-with-fcpx-for-2024/"><u>[Updated] Visual Tale-Telling for the Small Screen Vertical IG Videos with FCPX for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/briefvideo-creator-for-2024/"><u>BriefVideo Creator for 2024</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/comparing-antivirus-and-internet-security-which-is-best-for-your-device-safety/"><u>Comparing Antivirus and Internet Security: Which Is Best for Your Device Safety?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-sound-blaster-z-drivers-installation-guide-for-windows-11/"><u>Effortless Sound Blaster Z Drivers Installation Guide for Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-brother-hl-l2340dw-wireless-color-laser-printer-drivers-and-software-for-windows/"><u>Free Download: Brother HL-L2340DW Wireless Color Laser Printer Drivers & Software for Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-compatible-oculus-headset-drivers-for-windows-11-10-8-and-7/"><u>Free Download: Compatible Oculus Headset Drivers for Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>Life360 Circle Everything You Need to Know On Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/secure-the-latest-driver-update-for-gigabyte-z370-pro-series-mobo-instantly/"><u>Secure the Latest Driver Update for Gigabyte Z370 Pro Series Mobo Instantly</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/sj4000-stylish-essentials-a-comprehensive-list/"><u>SJ4000 Stylish Essentials A Comprehensive List</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-guide-fixing-intel-hd-graphics-630-problems-on-your-windows-pc/"><u>Troubleshooting Guide: Fixing Intel HD Graphics 630 Problems on Your Windows PC</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
