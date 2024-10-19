@@ -1,7 +1,7 @@
 ---
 title: Frame Production Innovations Showcase by AMD's Fluid Motion - No Specialized Hardware Required for AI Processing
-date: 2024-09-04T02:06:30.808Z
-updated: 2024-09-05T02:06:30.808Z
+date: 2024-10-15T19:54:23.568Z
+updated: 2024-10-18T19:56:35.176Z
 tags:
   - hardware
 categories:
@@ -17,6 +17,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [AFMF 2 Isn’t Out Yet, but You Can Try the Preview](https://fix-guide.techidaily.com/how-to-unbrick-a-dead-lava-blaze-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/)
 * [Testing AFMF 2 in Games](https://youtube-video-recordings.techidaily.com/new-constructing-a-custom-youtube-subscription-url/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * AMD Fluid Motion Frames (AFMF) generates interpolated frames to double FPS on all RDNA 2 GPUs.
@@ -25,12 +32,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  While NVIDIA has been working hard on their AI frame generation technology in the form of DLSS 3, which is only supported on the latest RTX 40-Series GPUs, AMD is essentially doing the opposite with driver-based Fluid Motion Frames. The technology has just been updated. Let's see if it's good.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030381/7443" target="_top" id="2030381">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030381" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030381/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  What Is AMD Fluid Motion Frames?
 
  AMD Fluid Motion Frames (AFMF) is a frame generation algorithm that interpolates frames similarly to AMD's upscaling technology [FSR](https://review-topics.techidaily.com/how-to-update-iphone-xs-max-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/). In simple terms, AFMF adds an additional interpolated frame between two real frames to, quite literally, give you more frames per second. It can literally double your FPS. AFMF is not the same as FSR, as it doesn't rely on upscaling from a lower resolution, which sounds like it should work better at lower resolutions, like 1080p.
@@ -42,11 +43,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![AFMF 2 Cyberpunk 2077 latency.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/afmf-2-cyberpunk-2077-latency-chart3.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 AMD
 
  A major change is the addition of two new modes, Search Mode and Performance Mode. AMD calls them "modes," but you can think of them as settings that adjust how AFMF works. The first iteration of the technology was just an on/off toggle, so it's great to see some options.
@@ -69,32 +71,21 @@ Ismar Hrnjicevic / How-To Geek
 
 ![AMD Chill set to 71 FPS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/chill.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  AFMF 2 Isn’t Out Yet, but You Can Try the Preview
 
  AFMF 2 isn't out yet, but you can already [download the Preview Driver](https://www.amd.com/en/resources/support-articles/release-notes/RN-RAD-WIN-AFMF2-TECH-Preview.html) and try it, assuming you have a compatible AMD GPU (RX 6000 or 7000 Series) or APU (AMD 700M). Once you've downloaded and installed the driver, restart your PC. Next, open AMD Software and head over to Gaming > Graphics > Custom. Look for "AMD Fluid Motion Frames" and click on the toggle to enable it.
 
 ![Enabling Fluid Motion Frames 2 in AMD Software.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/enable-fmf.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  AFMF 2 should work in most games, as it now supports OpenGL and Vulkan in addition to DirectX 11 and 12\. [Vulkan](https://tiktok-videos.techidaily.com/2024-approved-mastering-tiktok-update-your-video-framing/) is a low-overhead API that already boasts significant FPS improvements in select titles compared to DirectX and OpenGL. Adding AFMF 2 into the mix could bring select titles to even the weakest of AMD's hardware.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Testing AFMF 2 in Games
 
  Enough talk; it's time to give AFMF 2 a shot by testing it in a few games. I'll use my RX 6600 XT graphics card (which doesn't support Anti-Lag 2) on my 1080p 144Hz monitor for these tests. The first game I tested was _Fallout 76_, a game that still has serious performance issues.
@@ -104,11 +95,12 @@ Ismar Hrnjicevic / How-To Geek
 ![A screenshot from the game 'Fallout 76.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/f76.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  AMD's performance overlay suggested that AFMF 2 added about 8–13 ms of frame generation lag, but I couldn't notice it. I didn't see any noticeable visual artifacts, either. What I _did_ notice was the significantly smoother performance. The only weird thing is that Fallout 76 would get extremely choppy in situations where my FPS dropped to 60–70, but this is more of an issue with the game itself. I see similar frame drops when AFMF 2 is disabled, and if anything, AFMF 2 makes it slightly less choppy.
 
  I tried enabling AMD Chill, but the game became noticeably blurry, and I could now feel the increased input lag. I figured _Hades 2_ would be a better game to test Chill, as I consistently got 144 FPS without AFMF 2, but the game kept crashing my whole system with AFMF 2 enabled. I suppose early access games and preview drivers don't mix. _Battlefield V_ felt like I was playing in slow-motion with AFMF 2, but it's an older game that doesn't handle Anti-Lag, either. So, I tried AFMF 2 and Chill in _Rocket League_ instead.
@@ -125,8 +117,6 @@ Ismar Hrnjicevic / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,4 +124,24 @@ Ismar Hrnjicevic / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-charting-out-youtubes-financial-strategy-for-nurturing-short-videos/"><u>[New] 2024 Approved Charting Out YouTube's Financial Strategy for Nurturing Short Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-tweaking-image-previews-for-youtube-like-experience-in-twitter-videos/"><u>[New] In 2024, Tweaking Image Previews for YouTube-Like Experience in Twitter Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-introduction-to-effective-analysis-facebook-insights-for-2024/"><u>[New] Introduction to Effective Analysis Facebook Insights for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-how-to-use-igtv-hashtags-to-gain-more-followers-for-2024/"><u>[Updated] How to Use IGTV Hashtags to Gain More Followers for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-the-ultimate-tracker-gauging-youtube-popularity-for-financial-insights/"><u>[Updated] In 2024, The Ultimate Tracker Gauging YouTube Popularity for Financial Insights</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-kickstart-cinematic-craft-install-xp-movie-maker-for-2024/"><u>[Updated] Kickstart Cinematic Craft Install XP Movie Maker for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-insights-on-gadgets-with-toms-hardware-analysis/"><u>Expert Insights on Gadgets with Tom's Hardware Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-hardware-innovations-with-toms-technological-review/"><u>Exploring Hardware Innovations with Tom's Technological Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-the-world-of-gadgets-with-toms-hardware-insights-and-analysis/"><u>Exploring the World of Gadgets with Tom's Hardware Insights and Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-toms-tech-reviews-a-comprehensive-guide-on-hardware-insights/"><u>Exploring Tom's Tech Reviews: A Comprehensive Guide on Hardware Insights</u></a></li>
+<li><a href="https://article-files.techidaily.com/from-sketches-to-stakes-leading-platforms-turning-art-into-nfts/"><u>From Sketches to Stakes Leading Platforms Turning Art Into NFTs</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-11-pro-max-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone 11 Pro Max Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723964488050-pre-order-now-the-revolutionary-8bitdo-retro-18-keyboard-available-models-for-nesfamicom-and-more-coming-this-july/"><u>Pre-Order Now: The Revolutionary 8BitDo Retro 18 Keyboard - Available Models for NES/Famicom & More Coming This July!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723964488790-super-affordable-logitech-g502-hero-gaming-mouse-unleash-precision-with-25k-dpi-for-just-35/"><u>Super Affordable Logitech G502 Hero Gaming Mouse: Unleash Precision with 25K DPI for Just $35</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/swift-solutions-shifting-ios-media-files/"><u>Swift Solutions Shifting iOS Media Files</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-comprehensive-guides-on-computer-hardware/"><u>Tom's Tech Insights: Comprehensive Guides on Computer Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-bluetooth-keyboards-of-2024-a-buyers-guide/"><u>Top-Rated Bluetooth Keyboards of 2024: A Buyer's Guide</u></a></li>
+</ul></div>
 

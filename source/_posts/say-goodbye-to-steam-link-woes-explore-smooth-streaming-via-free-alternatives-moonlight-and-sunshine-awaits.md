@@ -1,7 +1,7 @@
 ---
 title: Say Goodbye to Steam Link Woes! Explore Smooth Streaming via Free Alternatives – Moonlight and Sunshine Awaits!
-date: 2024-09-04T02:07:48.131Z
-updated: 2024-09-05T02:07:48.131Z
+date: 2024-10-12T18:48:50.127Z
+updated: 2024-10-19T05:54:44.331Z
 tags:
   - hardware
 categories:
@@ -26,11 +26,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  The two originally offered an open-source alternative to [NVIDIA’s GameStream](https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-c51-pin-codepattern-lockpassword-by-drfone-android/) streaming protocol. But since NVIDIA abandoned GameStream some time ago, the combo is now the best alternative to [Steam Remote Play](https://techno-recovery.techidaily.com/reviving-your-lenovo-laptop-the-compreh/).
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  How Moonlight and Sunshine Are Better Than Steam Link
 
  Together, Moonlight and Sunshine excel at overall performance and customization. Not only is the open-source combo more stable than Steam Link and Steam Remote Play, but it also allows gamers to freely adjust streaming options such as resolution, frame rate, video quality, and more.
@@ -51,37 +52,27 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Sunshine executable files listed for download.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/how-to-stream-to-your-steam-deck-17.png) 
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once you download the Sunshine installation file, run it and enable the “Launch on Startup” option during the installation.
 
 ![Sunshine installation options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/how-to-stream-to-your-steam-deck-18.png) 
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Once the installation finishes, Sunshine should automatically launch. You can find the app in the taskbar notification area. If it doesn’t start, find the app on your PC and launch it. You should now click the Sunshine icon and then click the “Open Sunshine” button.
 
 ![Sunshine icon on Windows taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/sunshine-and-moonlight-01.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This will open the Sunshine web UI. Now you have to create a username and password to access the web UI. Don't forget to save the credentials; you’ll need them to use the Sunshine web UI later.
 
@@ -98,11 +89,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Once you open Moonlight you should see a PC icon with a lock over it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/how-to-stream-to-your-steam-deck-09.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Click the locked PC icon, and Moonlight will provide you with the PIN you have to enter into the Sunshine web UI.
 
 ![After you click the locked PC icon in Moonlight, the app should serve you with a four-digit PIN](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/how-to-stream-to-your-steam-deck-10.png) 
@@ -111,12 +103,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![After you acquire the four-digit PIN from Moonlight, open Sunshine web UI, go to the PIN tab, enter the PIN in the apropriate dialog box and then click the send button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/how-to-stream-to-your-steam-deck-20.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now, you can add game and app shortcuts to Sunshine. The shortcuts you add will be shown in Moonlight once you click the PC icon.
 
  To add an app or game shortcut, visit the “Applications” tab in the Sunshine web UI and click the “Add New” button.
@@ -127,12 +113,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Sunshine web UI showing a full path to an application, Steam in this case.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/sunshine-and-moonlight-04.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Tips for Best Results
 
  The next step I recommend is visiting the [Sunshine Tutorials](https://www.youtube.com/playlist?list=PLMYr5%5FxSeuXAbhxYHz86hA1eCDugoxXY0) YouTube playlist. It has a ton of videos that explain how to tweak various settings and get the best possible streaming experience.
@@ -141,16 +121,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Sunshine web UI video options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/sunshine-and-moonlight-02.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  And here are my Moonlight options:
 
 ![Moonlight game streaming options menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/sunshine-and-moonlight-05.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  For the best possible experience, connect the PC you’re streaming games from to your router with an Ethernet cable. A quality Wi-Fi 5 or better router ought to be enough for a low-latency (below 10ms on average) experience. Also, I recommend selecting the [HEVC](https://win-answers.techidaily.com/understanding-and-resolving-recurrent-breakdowns-in-sovled-warno-application-for-windows-users/) or [AV1 video codec](https://fox-info.techidaily.com/new-2024-approved-foundational-approach-to-gradual-volume-adjustment/), both of which work better than the default (H.264) codec and require less bandwidth to deliver the same image quality.
 
  If possible, you should connect the client device you’re streaming games to with an Ethernet cable as well. The performance should be solid, even if you stream games wirelessly like I do with my ROG Ally (as long as the host device packs a decent Wi-Fi chip).
@@ -171,8 +152,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -180,4 +159,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-audio-input-reduction-zero-price-included/"><u>[New] Audio Input Reduction - Zero Price Included</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722963834464-detailed-description-of-the-chemical-products-offered-by-hahron-spice-including-spices-with-unique-chemical-properties-used-for-industrial-applications/"><u>Detailed Description of the Chemical Products Offered by HAHRON SPICE, Including Spices with Unique Chemical Properties Used for Industrial Applications.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722968348429-effortless-setup-for-microsoft-wireless-mouse-5000-instant-driver-downloads-available/"><u>Effortless Setup for Microsoft Wireless Mouse 5000 - Instant Driver Downloads Available!</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/elimination-des-partitions-de-demarrage-sous-windows-10-tutoriel-facile-a-suivre/"><u>Élimination Des Partitions De Démarrage Sous Windows 10 - Tutoriel Facile À Suivre</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ensure-seamless-connectivity-download-usb-c-drivers-for-windows-10-now/"><u>Ensure Seamless Connectivity: Download USB-C Drivers For Windows 10 Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-corsair-keyboard-up-and-running-on-windows-with-free-drivers/"><u>Get Your Corsair Keyboard Up and Running on Windows with Free Drivers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/guide-to-overcome-xbox-accessories-driver-compatibility-issues-on-multiple-windows-platforms-1087/"><u>Guide to Overcome Xbox Accessories Driver Compatibility Issues on Multiple Windows Platforms (10/8/7)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722960057538-hassle-free-steps-for-surface-dock-driver-installation-latest-methods/"><u>Hassle-Free Steps for Surface Dock Driver Installation – Latest Methods</u></a></li>
+<li><a href="https://win-blog.techidaily.com/improved-gameplay-speed-addressing-the-previously-reported-lags-in-the-elder-scrolls-onlines-blackwood-zone/"><u>Improved Gameplay Speed - Addressing the Previously Reported Lags in The Elder Scrolls Online's Blackwood Zone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-the-top-10-apple-iphone-13-mini-emualtors-for-windows-mac-and-android-drfone-by-drfone-ios/"><u>In 2024, The Top 10 Apple iPhone 13 mini Emualtors for Windows, Mac and Android | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-instant-access-and-speedy-steps/"><u>Quick, Instant Access, and Speedy Steps.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-to-prevent-slime-rancher-2-from-crashing-on-windows/"><u>Troubleshooting Steps to Prevent Slime Rancher 2 From Crashing on Windows</u></a></li>
+</ul></div>
 

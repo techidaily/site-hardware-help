@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Using Your TV Remote for Console Gaming & Smart Devices Like Amazon Fire Stick or AppleTV
-date: 2024-08-30T15:46:33.368Z
-updated: 2024-08-31T15:46:33.368Z
+date: 2024-10-18T15:09:54.685Z
+updated: 2024-10-19T14:48:01.481Z
 tags:
   - hardware
 categories:
@@ -37,17 +37,23 @@ Jordan Gloor / How-To Geek
 
 ![Labelled HDMI inputs on the back of a television.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/HDMI-CEC1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 Jason Fitzpatrick / How-To Geek
 
  Most, if not all modern TVs and HDMI media devices are compatible with HDMI-CEC, letting you control your devices directly or even set up automated functions to occur upon startup. Before going over how to set this up for individual use on single devices, check out [our in-depth HDMI-CEC on the function](https://instagram-clips.techidaily.com/updated-in-2024-essential-tips-to-eliminate-instagram-video-issues/) and how it can be used to link multiple devices under one input.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  How to Set up HDMI-CEC on Your TV
 
  Before you can start controlling your consoles or multimedia devices with one remote, you'll need to enable the function on your TV. While most TVs manufactured in recent years include this functionality, the tricky part is finding it in your settings.
@@ -56,13 +62,17 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ![A screenshot of a Samsung TV's HDMI-CEC menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/HDMI-CEC2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Jason Fitzpatrick / How-To Geek
 
  Some names you might want to check for to enable the feature include: 1-Touch Play (Roku), Anynet+ (Samsung), Aquos Link (Sharp), BRAVIA Link (Sony), CEC (Hisense, Vizio), EasyLink (Philips), and SimpLink (LG).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Use a TV Remote on a Console
 
  Using a TV remote on a console might initially seem a bit counter-intuitive since these machines already come packaged with a perfectly good controller. However, if your Xbox or PlayStation is a regular part of your media setup, it may be worth controlling it like you would a TV.
@@ -73,16 +83,10 @@ Jason Fitzpatrick / How-To Geek
 
 ![The HDMI Settings menu on the PlayStation 5 with "Enable HDMI Device Link" highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/20240503114020.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
  The process is similar for the Xbox Series X/S as well, though the settings are a little different; navigate to the console's settings and go to General > TV & Display Options > TV & Display Options. From there, select "Device Control," where you can then enable HDMI-CEC and many of its core functions for your console.
 
  As far as using a TV remote to control a Nintendo Switch is concerned, there is currently no convenient way to do so despite the system being equipped with HDMI-CEC functionalities. However, you can set it up to have your TV turn on automatically by holding down the "Home" button on your controller by just having it connected to HDMI-CEC.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  How to Use a TV Remote on a Chromecast and Apple TV
 
  Setting up your Chromecast to accept TV remote inputs is as simple as having HDMI-CEC settings turned on on your TV. As long as this is enabled, the Chromecast should automatically allow you to use the remote to navigate streaming services or other functions you may use it for.
@@ -93,6 +97,13 @@ Jason Fitzpatrick / How-To Geek
 
 ![Apple TV device on a black background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/2-11.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Lebedev Yury/Shutterstock.com](https://www.shutterstock.com/image-photo/berlin-germany-august-21-2016-product-471991831)
 
  If you happen to own all or some of the devices covered here, then you may find that they all communicate with each other now provided you have a proper HDMI-CEC set up on your preferred screen. Theoretically, you could not only control your devices with one TV remote, you can also set them all up to switch inputs automatically upon booting up, reducing the amount of time and inputs necessary to start up your media or gaming sessions.
@@ -102,8 +113,12 @@ Jason Fitzpatrick / How-To Geek
 ![Person holding the Amazon Alexa Voice Remote Pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/52567799489_3a2368a422_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Hannah Stryker / How-To Geek
 
  Say goodbye to relying on a console's controller to whenever you want to watch Netflix or getting up to find a missing remote. Turn on HDMI-CEC and see just how painless your media habits can become.
@@ -118,8 +133,6 @@ Hannah Stryker / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,4 +140,21 @@ Hannah Stryker / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-obs-or-streamlabs-determining-the-superior-livestream-software/"><u>[New] In 2024, OBS or Streamlabs? Determining the Superior Livestream Software</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-fb-video-shape-study-overview/"><u>2024 Approved FB Video Shape Study Overview</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-unlocking-screen-recording-potential-on-your-hp-notebook/"><u>2024 Approved Unlocking Screen Recording Potential on Your HP Notebook</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-honor-100-pro-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Honor 100 Pro Fingerprint Lock</u></a></li>
+<li><a href="https://driver-download.techidaily.com/comprehensive-instructions-keep-your-amd-graphics-card-updated-in-windows-environments/"><u>Comprehensive Instructions: Keep Your AMD Graphics Card Updated in Windows Environments</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-honor-magic-6-pro-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Honor Magic 6 Pro Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intels-confidence-booster-guaranteed-protection-on-overclocked-10th-gen-comet-lake-processors/"><u>Intel's Confidence Booster: Guaranteed Protection on Overclocked 10Th Gen Comet Lake Processors</u></a></li>
+<li><a href="https://driver-download.techidaily.com/konica-minolta-printer-software-and-drivers-compatible-with-windows-11-10-8-and-7/"><u>Konica Minolta Printer Software & Drivers - Compatible with Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-system-development-in-the-final-stretch-of-2015-insights-from-the-marathon-q4-session/"><u>Mastering System Development in the Final Stretch of 2015: Insights From the Marathon Q4 Session</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-the-tech-world-with-toms-hardware-experts-your-guide-to-cutting-edge-devices/"><u>Navigating the Tech World with Tom's Hardware Experts - Your Guide to Cutting-Edge Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revolutionary-gaming-achievement-doom-eternal-hits-1006-fps-through-advanced-liquid-nitrogen-overclocking-methods/"><u>Revolutionary Gaming Achievement: Doom Eternal Hits 1,006 FPS Through Advanced Liquid Nitrogen Overclocking Methods</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-comprehensive-hardware-reviews/"><u>Tom's Tech Insights: Comprehensive Hardware Reviews</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-oneplus-open-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For OnePlus Open Phones</u></a></li>
+</ul></div>
 

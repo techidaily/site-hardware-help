@@ -1,7 +1,7 @@
 ---
 title: "The Missing Link in Gaming Peripherals: The Need for Screenshot Functionality in Mouse Designs"
-date: 2024-08-30T15:45:27.554Z
-updated: 2024-08-31T15:45:27.554Z
+date: 2024-10-11T16:11:57.941Z
+updated: 2024-10-19T02:18:01.850Z
 tags:
   - hardware
 categories:
@@ -25,9 +25,6 @@ thumbnail: https://thmb.techidaily.com/f20754be61be25378c16e65b62ab87943c4b43cc2
 
  I’ve always wanted a dedicated screenshot button on my gaming mouse. Now that I’m rocking a dual mouse setup, I finally turned my dream into reality. Here’s how I did it and why I waited so long to finally take the plunge.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ##  How to Remap Your Mouse Button to Capture Screenshots With It
 
  This procedure should be simple and painless if your mouse comes with a dedicated app that supports remapping mouse buttons.
@@ -38,9 +35,6 @@ thumbnail: https://thmb.techidaily.com/f20754be61be25378c16e65b62ab87943c4b43cc2
 
 ![Logitech G Hub home screen showing the currently active mouse button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/how-to-add-a-screenshot-button-to-your-mouse-01.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
  If you’re using On-board Memory Mode, turn it off by clicking the appropriate button.
 
 ![Logitech G Hub disabling on-board memory mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/how-to-add-a-screenshot-button-to-your-mouse-02.png) 
@@ -49,27 +43,32 @@ thumbnail: https://thmb.techidaily.com/f20754be61be25378c16e65b62ab87943c4b43cc2
 
 ![Logitech G Hub button customization menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/how-to-add-a-screenshot-button-to-your-mouse-03.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
  You'll need to name the new macro. In my case, I named it “Screenshot.” Press Enter to move to the next step.
 
 ![Naming a new macro in Logitech G Hub.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/how-to-add-a-screenshot-button-to-your-mouse-04.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The type of macro you want is “No Repeat” since you want to take a single screenshot with a single button press.
 
 ![Selecting the type of macro in Logitech G Hub.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/how-to-add-a-screenshot-button-to-your-mouse-05.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Next, click the “Start Now” button.
 
 ![Logitech G Hub macro recording menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/how-to-add-a-screenshot-button-to-your-mouse-06.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Since we're going to record the Win+PrtSc combo that captures screenshots and automatically saves them in the Screenshots folder, select the “Record Keystrokes” option on the following screen.
 
 ![Logitech G Hub showing types of macros you can record.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/how-to-add-a-screenshot-button-to-your-mouse-07.png) 
@@ -78,16 +77,27 @@ thumbnail: https://thmb.techidaily.com/f20754be61be25378c16e65b62ab87943c4b43cc2
 
 ![Recording and saving a new macro in Logitech G Hub.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/how-to-add-a-screenshot-button-to-your-mouse-08.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
  Next, just click and drag the macro you just recorded to the button you want to take screenshots with. In my case, it was the “Forward” button.
 
 ![Assigning the screenshot macro to a mouse in Logitech G Hub.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/how-to-add-a-screenshot-button-to-your-mouse-09.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now, you can take screenshots with a mouse button instead of pressing multiple buttons on your keyboard or hitting PrtSc, opening Paint, and pasting the screenshot there.
 
  If you don't have a Logitech mouse, the steps you'll need to take will be different but ultimately the process should be similar: create a new macro, record keystrokes, then save and assign it to a button.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Sacrificing a Button to Take Screenshots Is Far From Ideal
 
@@ -96,6 +106,13 @@ thumbnail: https://thmb.techidaily.com/f20754be61be25378c16e65b62ab87943c4b43cc2
  This allows you to grab some cool, action-heavy screen grabs. Just look at this awesome screenshot I took in _Hellblade II_. I managed to snag the screenshot while avoiding the enemy’s attack, which I couldn’t pull off if I had used the keyboard:
 
 ![Hellblade II screenshot captured with a mouse button macro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-1319.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Goran Damnjanovic / How-To Geek
 
@@ -125,8 +142,6 @@ Goran Damnjanovic / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,4 +149,20 @@ Goran Damnjanovic / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-optimal-no-audio-recording-practices/"><u>[New] Optimal No-Audio Recording Practices</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-unveiling-the-ultimate-strategy-to-record-your-favorite-streamed-series-hulu/"><u>[Updated] Unveiling the Ultimate Strategy to Record Your Favorite Streamed Series (Hulu)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-streamlinedwebcamtechniqueinstruction/"><u>2024 Approved StreamlinedWebCamTechniqueInstruction</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discover-the-convenience-a-closer-look-at-mods-newly-launched-sidecar-easy-e-bike-feature/"><u>Discover the Convenience: A Closer Look at Mod's Newly Launched Sidecar Easy E-Bike Feature</u></a></li>
+<li><a href="https://facebook.techidaily.com/exclusive-insights-into-friend-identification-discover-3-fb-tag-methods/"><u>Exclusive Insights Into Friend Identification: Discover 3 FB Tag Methods</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premiere-pros-guide-to-avoiding-overlit-iphone-hdr-videos/"><u>In 2024, Premiere Pro's Guide to Avoiding Overlit iPhone HDR Videos</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/mastering-video-import-and-export-in-adobe-premiere-pro/"><u>Mastering Video Import and Export in Adobe Premiere Pro</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ltimate-guide-to-youtubes-best-vr-video-sets-for-2024/"><u>The Ultimate Guide to YouTube's Best VR Video Sets for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultra-strong-motherboards-from-gigabyte-accommodating-128-pound-graphics-cards-with-reinforced-slots-yet-cracking-continues-to-plague-gpus/"><u>Ultra-Strong Motherboards From Gigabyte: Accommodating 128-Pound Graphics Cards with Reinforced Slots – Yet, Cracking Continues to Plague GPUs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unleash-next-gen-computing-power-msis-groundbreaking-z790-project-zero-motherboards-the-first-to-support-enhanced-camm2-memory-standard-in-pcs/"><u>Unleash Next-Gen Computing Power: MSI's Groundbreaking Z790 Project Zero Motherboards, The First to Support Enhanced CAMM2 Memory Standard in PCs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-latest-in-pc-gear-insights-from-toms-hardware-experts/"><u>Unveiling the Latest in PC Gear - Insights From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/world-record-breaking-oc-achievements-on-the-latest-asrock-z790i-lightning-wifi-mobo-by-splave/"><u>World Record-Breaking OC Achievements on the Latest ASRock Z790I Lightning WiFi Mobo by Splave</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/your-ultimate-resource-for-cutting-edge-pc-components-at-toms-hardware/"><u>Your Ultimate Resource for Cutting-Edge PC Components at Tom's Hardware</u></a></li>
+</ul></div>
 

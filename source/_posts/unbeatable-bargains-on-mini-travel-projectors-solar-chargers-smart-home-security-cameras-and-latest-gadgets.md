@@ -1,7 +1,7 @@
 ---
 title: Unbeatable Bargains on Mini Travel Projectors, Solar Chargers, Smart Home Security Cameras, & Latest Gadgets!
-date: 2024-09-04T02:10:06.804Z
-updated: 2024-09-05T02:10:06.804Z
+date: 2024-10-13T04:49:44.842Z
+updated: 2024-10-19T14:25:33.136Z
 tags:
   - hardware
 categories:
@@ -25,9 +25,23 @@ A small portable projector capable of displaying a stunning 100-inch screen, sup
 
  The Nebula Capsule Max is an ultraportable projector perfect for backyard patio movie nights, camping, living rooms, and more. Enjoy a 100-inch picture anywhere and [grab one while it's $140 off](https://www.amazon.com/dp/B07TF834PT?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2003672&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftech-deals-portable-projector-power-station-galaxy-phones%2F&asc%5Fcampaign=Short-Term).
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## [Bola Portable Bluetooth Speaker for $20 ($40 Off)](https://www.amazon.com/Bluetooth-Waterproof-Playtime-Portable-Electronic/dp/B0BRKPVZB4?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2003672&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftech-deals-portable-projector-power-station-galaxy-phones%2F&asc%5Fcampaign=Short-Term) 
 
 ![Screenshot 2024-06-18 at 10.03.25 AM](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot-2024-06-18-at-10-03-25-am.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #####  Bolabutty Bluetooth Wireless HD Speaker
 
@@ -40,27 +54,16 @@ With crystal clear sound, water resistance, and 24-hour battery life, this affor
  Bluetooth speakers are a popular accessory around the house, especially during the summer months. If you still don't have one and are looking for something affordable, this highly-rated speaker is [only $20 at Amazon this week](https://www.amazon.com/Bluetooth-Waterproof-Playtime-Portable-Electronic/dp/B0BRKPVZB4?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2003672&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftech-deals-portable-projector-power-station-galaxy-phones%2F&asc%5Fcampaign=Short-Term).
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## [Bluetti AC180 (1800W) Portable Power Station for $579 ($420 Off)](https://www.amazon.com/BLUETTI-Portable-AC180-Generator-Off-grid/dp/B0C1SMJTDT?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2003672&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftech-deals-portable-projector-power-station-galaxy-phones%2F&asc%5Fcampaign=Short-Term) 
 
 ![Screenshot 2024-06-17 at 12.30.31 PM](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot-2024-06-17-at-12-30-31-pm.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  Bluetti AC180 Portable Power Station (1800W)
 
 Bluetti's AC180 features long-life LiFePo4 battery cells, outputs 1800W of on-demand power, and can charge endless devices thanks to AC outlets, USB ports, and more. 
@@ -69,28 +72,10 @@ Bluetti's AC180 features long-life LiFePo4 battery cells, outputs 1800W of on-de
 
  Enjoy portable, on-demand power anywhere and everywhere. The Bluetti power station is perfect for off-the-grid adventures, emergencies, and more. Get yours while [Amazon is offering 42% off](https://www.amazon.com/BLUETTI-Portable-AC180-Generator-Off-grid/dp/B0C1SMJTDT?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2003672&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftech-deals-portable-projector-power-station-galaxy-phones%2F&asc%5Fcampaign=Short-Term).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [Google Nest Cam and Floodlight for $200 ($80 Off)](https://www.amazon.com/Google-G3AL9-GPLE9-Nest-Floodlight/dp/B09J9ZWZ9Q?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2003672&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftech-deals-portable-projector-power-station-galaxy-phones%2F&asc%5Fcampaign=Short-Term) 
 
 ![Screenshot 2024-06-17 at 12.34.55 PM](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot-2024-06-17-at-12-34-55-pm.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  Google Nest Cam and Floodlight (Wireless)
 
 Keep an eye on the entire yard with the wireless Google Nest Cam with a bright built-in floodlight. 
@@ -102,11 +87,12 @@ Keep an eye on the entire yard with the wireless Google Nest Cam with a bright b
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  More Tech Deals
 
  This week we also found huge savings on popular items like the affordable Galaxy A35 smartphone, Anker magnetic charging stations, and more. Check out everything else below and get something new!
@@ -123,8 +109,6 @@ Keep an eye on the entire yard with the wireless Google Nest Cam with a bright b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,4 +116,26 @@ Keep an eye on the entire yard with the wireless Google Nest Cam with a bright b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://buynow-marvelous.techidaily.com/a-critical-look-at-watch-dogs-legions-latest-chapter-london-reimagined/"><u>A Critical Look at 'Watch Dogs: Legion's Latest Chapter: London Reimagined</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asrock-chipset-and-motherboard-software-downloads-for-optimal-performance/"><u>ASRock Chipset & Motherboard Software Downloads for Optimal Performance</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/az-obs-szelektiv-kepernyo-rogzitese-movavi-teljes-utmutato-targyalasai/"><u>Az OBS-Szelektív Kepernyő Rögzítése Movavi - Teljes Útmutató Tárgyalásai</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/brightening-your-story-with-instagram-highlights-3-methods-for-2024/"><u>Brightening Your Story with Instagram Highlights (3 Methods) for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/comparing-magix-graphics-software-variants/"><u>Comparing MAGIX Graphics Software Variants</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/direct-download-the-ultimate-behringer-usb-audio-controller-drivers/"><u>Direct Download – The Ultimate Behringer USB Audio Controller Drivers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-latest-release-the-most-recent-version-of-the-ipad/"><u>Exploring the Latest Release: The Most Recent Version of the iPad</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-gigabyte-sound-card-software/"><u>Free Download: Gigabyte Sound Card Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-official-geforce-rtx-xl-3070ti-graphics-card-driver-for-win-11-8-and-7-systems/"><u>Get Official GeForce RTX 지팬 XL-3070Ti Graphics Card Driver for Win 11, 8 & 7 Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-nvidia-gtx-980-ti-drivers-instantly/"><u>Get the Latest NVIDIA GTX 980 Ti Drivers Instantly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/gtx-1650-super-graphics-card-drivers-free-download-and-compatibility-with-windows-11/"><u>GTX 1650 Super Graphics Card Drivers: Free Download & Compatibility with Windows 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-motorola-edge-40-pro-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Motorola Edge 40 Pro For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/invest-in-an-all-weather-smart-plug-for-long-lasting-performance-outdoors/"><u>Invest in an All-Weather Smart Plug for Long-Lasting Performance Outdoors</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-arduino-nano-setup-quick-and-easy-driver-installation-for-windows-users/"><u>Mastering Arduino Nano Setup: Quick & Easy Driver Installation for Windows Users</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/most-effective-macos-sierra-video-coders/"><u>Most Effective MacOS Sierra Video Coders</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-the-latest-tech-trends-with-toms-hardware-haven/"><u>Navigating the Latest Tech Trends with Tom's Hardware Haven</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-user-authentication-hiccups-a-strategy-for-the-notorious-unauthrenized-error/"><u>Solving User Authentication Hiccups: A Strategy for the Notorious 'Unauthrenized' Error</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-updating-graphics-and-chipset-drivers-on-your-dell-xps-15/"><u>Step-by-Step Guide: Updating Graphics & Chipset Drivers on Your Dell XPS 15</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/unveiling-hidden-shared-memories-in-messenger/"><u>Unveiling Hidden Shared Memories in Messenger</u></a></li>
+</ul></div>
 

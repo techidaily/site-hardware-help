@@ -1,7 +1,7 @@
 ---
 title: "The Evolution of Gaming Mice: How Keychron Q1 HE Leads the Way with Its Innovative Magnetic Switches"
-date: 2024-08-30T15:46:32.025Z
-updated: 2024-08-31T15:46:32.025Z
+date: 2024-10-13T22:01:43.123Z
+updated: 2024-10-19T04:32:44.276Z
 tags:
   - hardware
 categories:
@@ -197,13 +197,17 @@ Expand
 
 Expand 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Design: Sturdy, With a Premium Feel
 
 ![The Keychron Q1 HE -Wireless QMK Custom Magnetic Switch Keyboard with keys removed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/53663109255_5c9feda0fa_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The first thing I noticed when I got this keyboard was just how heavy it was. The Keychron Q1 HE's metal body adds a fair amount of heft compared to plastic, and while I was testing it, the keyboard did not move around my desk mat like lighter keyboards would.
@@ -223,14 +227,12 @@ Jerome Thomas / How-To Geek
 ![The Keychron Q1 HE -Wireless QMK Custom Magnetic Switch Keyboard with keys removed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/53663002984_f2992c0a1f_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  The standout aspect of the Keychron Q1 HE is the use of magnetic switches as opposed to normal mechanical switches. What this boils down to is that instead of the switch sending a manual signal that it's pressed with electricity and pins, magnets will send the signals.
@@ -245,16 +247,10 @@ Jerome Thomas / How-To Geek
 
  This fancy magnetic switch tech does come with a disadvantage—the Q1 HE cannot be customized with the [VIA app](https://www.caniusevia.com/) like many keyboards are. You have to use the browser app, which is serviceable enough but not as good of an experience.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Great for Productivity And Gaming
 
 ![The Keychron Q1 HE -Wireless QMK Custom Magnetic Switch Keyboard settings switches](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/53662647656_67083e17b3_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The Keychron Q1 HE is made for gaming, but it's also a great productivity keyboard. With a smooth and quiet typing experience straight out of the box, you really can't go wrong here. Since you can switch easily between Mac and Windows modes (with swappable keycaps to match) and between wired and wireless modes, this keyboard is easy to use with any device you have.
@@ -263,14 +259,6 @@ Jerome Thomas / How-To Geek
 
  That said, if you do change the actuation point for gaming, it may be too sensitive for normal typing. If you need to use the same computer for work and gaming, you'll want to plan for this— you'll either need to balance your settings so it's not too sensitive for normal typing or keep another keyboard around to swap with as needed.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Should You Buy the Keychron Q1 HE?
 
 ![53662860768_5b90521472_oThe Keychron Q1 HE -Wireless QMK Custom Magnetic Switch Keyboard with included accessories and box](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/53662860768_5b90521472_o.jpg) 
@@ -281,11 +269,22 @@ Jerome Thomas / How-To Geek
 
 ![Keychron Q1 Carbon Black](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/keychron-q1-carbon-black.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 #####  Keychron Q1 HE
 
 8/ 10 
@@ -300,8 +299,6 @@ The Q1 HE is the world's first 75% layout wireless QMK custom keyboard equipped 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -309,4 +306,17 @@ The Q1 HE is the world's first 75% layout wireless QMK custom keyboard equipped 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/nhance-editing-unlimited-free-audio-samples-for-2024/"><u>[New] Enhance Editing Unlimited Free Audio Samples for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-introductory-editor-software-devices/"><u>[Updated] Ultimate Introductory Editor Software (Devices)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amds-renoir-surpasses-expectations-with-unprecedented-6666mhz-ddr4-clock-speed/"><u>AMD's Renoir Surpasses Expectations with Unprecedented 6666MHz DDR4 Clock Speed</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-infinix-note-30-5g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Infinix Note 30 5G to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ibm-survey-highlights-growing-skepticism-among-corporate-heads-towards-it-discover-the-factors-zdnet/"><u>IBM Survey Highlights Growing Skepticism Among Corporate Heads Towards IT - Discover the Factors | ZDNet</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-ps4-broadcast-simplified-detailed-steps-using-obs/"><u>In 2024, PS4 Broadcast Simplified Detailed Steps Using OBS</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-updated-guide-to-google-nest-hub-2nd-generation-the-benefits-of-integrating-a-camera/"><u>The Updated Guide to Google Nest Hub, 2Nd Generation - The Benefits of Integrating a Camera</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-in-depth-reviews-and-comparisons/"><u>Tom's Tech Insights: In-Depth Reviews and Comparisons</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-reviews-unveiling-the-latest-computer-gadgets/"><u>Tom's Tech Reviews: Unveiling the Latest Computer Gadgets</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/world-record-thermal-runoff-achieved-by-splave-with-ryzene-9-3900xt-and-liquid-nitrogen-cooling/"><u>World Record Thermal Runoff Achieved by Splave with Ryzene 9 3900XT and Liquid Nitrogen Cooling</u></a></li>
+</ul></div>
 

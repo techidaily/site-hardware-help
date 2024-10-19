@@ -1,7 +1,7 @@
 ---
 title: "Enduring Legacy of the 90S: The Classic Techs We Still Rely On Today"
-date: 2024-08-30T15:43:15.348Z
-updated: 2024-08-31T15:43:15.348Z
+date: 2024-10-17T03:53:06.356Z
+updated: 2024-10-18T19:39:21.009Z
 tags:
   - hardware
 categories:
@@ -24,9 +24,29 @@ thumbnail: https://thmb.techidaily.com/7d102d0691badd35a594ab43f1d9c5d7fc8e7e61f
 
  The 1990s were an incredible time for technology. While car phones and beepers may have died off, plenty of tech from the 90s is still with us today. We'll share some of the best apps, tech, and devices that got their humble start in the darling decade that was the Nineties.
 
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  BackRub A.K.A. Google
 
 ![Original Google Home page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/2830673252_16c7bf336e_o.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Navigating the internet was not very easy in the '90s. In fact, there really wasn't much "navigating" to do. You mostly just entered a destination and went there. That made it hard to find stuff online that you didn't know about, which is where [Google](https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/)came in.
 
@@ -34,18 +54,6 @@ thumbnail: https://thmb.techidaily.com/7d102d0691badd35a594ab43f1d9c5d7fc8e7e61f
 
  Nearly 30 years later, Google Search is the [most-visited website](https://en.wikipedia.org/wiki/List%5Fof%5Fmost-visited%5Fwebsites) in the entire world, and Google has a huge library of apps, services, and devices.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Photoshop
 
 ![First PhotoShop home screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/photoshop-source-code-screen-main.jpg) 
@@ -63,8 +71,12 @@ thumbnail: https://thmb.techidaily.com/7d102d0691badd35a594ab43f1d9c5d7fc8e7e61f
 ![The back of a DVD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/53105419298_fa3a77cbd4_c.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Hannah Stryker / How-To Geek  
   
  I know what you're thinking—we don't still use DVDs in 2024, do we? [Oh yes, yes, we do](https://extra-lessons.techidaily.com/instantaneous-infiltration-of-lost-reddit-threads/). In fact, DVD sales have been steadily climbing over the last few years, and DVDs absolutely crush Blu-ray sales. It all started in the '90s.
@@ -73,12 +85,16 @@ Hannah Stryker / How-To Geek
 
  DVDs remain massively popular today due to their low cost and the fact that the picture quality is still "good enough" for many people. [In 2018](https://www.reddit.com/r/4kbluray/comments/pu6o6e/this%5Fabsolutely%5Fbaffling%5Fsales%5Fchart%5Fcredit%5Fto/), DVDs made up around 52% of sales, while Blu-ray accounted for around 47%. Fast-forward three years, and DVDs shot up to 72%, pushing Blu-ray down to 29%. This 90s tech seems to be here to stay.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Text Messaging
 
 ![Android phone with text messages on screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Android-Text-Messages.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -88,9 +104,6 @@ Justin Duino / How-To Geek
 
  Nowadays, the popularity of SMS varies greatly by region, but text-based messaging is popular everywhere. In the U.S., most people are using iMessage or SMS, while many other countries rely on WhatsApp, WeChat, and Telegram.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Sony Playstation
 
 ![Original PlayStation and controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/shutterstock_2062560902.jpg) 
@@ -105,18 +118,12 @@ Justin Duino / How-To Geek
 
 ![The Bluetooth logo on a blue background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/bluetooth_hero_5.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Wireless technology is something most people use on a daily basis without thinking twice about it. Bluetooth is one of the most commonly used, and it was invented in 1994.
 
 [Bluetooth technology was invented in 1994](https://article-posts.techidaily.com/2024-approved-insta-to-tik-integration-masterclass/) by a team of engineers at Ericsson, led by Dr. Jaap Haartsen. The invention was driven by the need for a wireless communication protocol that could connect mobile phones with computers, headsets, and other accessories over short distances without the constraints of wired connections.
 
  Nowadays, Bluetooth is baked into more devices than you can imagine. Smartphones, smartwatches, headphones, light bulbs, plugs, switches, coffee makers, thermometers, thermostats, door locks, and more, and more, and more. Needless to say, it's been a hit.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ##  Smartphones
 
 ![IBM Simon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/ibm-simon.png) 
@@ -129,13 +136,24 @@ Justin Duino / How-To Geek
 
  Needless to say, those features have carried over all these years later. Touchscreens are absolutely essential to mobile devices, and making calls and sending emails are considered rudimentary, basic features. It all started with a weird-looking brick.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  MP3 Format
 
 ![2018-08-06_14h28_57](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/2018-08-06_14h28_57.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  MP3 Players have come and gone, but [MP3 files](https://instagram-video-recordings.techidaily.com/updated-in-2024-turning-insta-vids-into-music-your-complete-guide/) have stood the test of time. If you're dealing with an audio file on your computer or mobile device, there's a good chance it's an MP3\. The MP3 format was first released in 1991.
 
  The development of MP3 was crucial for the distribution of music over the internet during the mid-to-late 90s, when bandwidth and storage were still at a premium. The format’s ability to compress audio files without a significant loss in quality led to its widespread adoption (and controversies surrounding music piracy, thanks to how easy it is to share MP3 files over the internet).
@@ -152,8 +170,6 @@ Justin Duino / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -161,4 +177,21 @@ Justin Duino / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-chrome-compatibility-solving-media-errors/"><u>[New] 2024 Approved Chrome Compatibility Solving Media Errors</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-screen-recording-google-meets-on-mobile-devices/"><u>[Updated] In 2024, Screen Recording Google Meets on Mobile Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-bring-back-your-preferred-photo-viewer-in-win-11/"><u>2024 Approved How to Bring Back Your Preferred Photo Viewer in Win 11</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-oppo-k11x-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Oppo K11x? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/bluetooth-synergy-simultaneously-using-more-than-one-speaker-with-a-single-gadget/"><u>Bluetooth Synergy: Simultaneously Using More Than One Speaker with a Single Gadget</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-is-mega-mewtwo-the-strongest-pokemon-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Is Mega Mewtwo The Strongest Pokémon On Apple iPhone 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-browser-interactivity-enable-gesture-navigation-in-windows-11s-edge/"><u>Maximizing Browser Interactivity: Enable Gesture Navigation in Windows 11'S Edge</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862681100-microsoft-copilot-now-on-new-laptops-browse-the-best-selection-of-snapdragon-elite-x-machines-for-immediate-purchase/"><u>Microsoft Copilot Now on New Laptops - Browse the Best Selection of Snapdragon Elite X Machines for Immediate Purchase!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862731027-msi-katana-156-gaming-laptop-powerhouse-performance-at-just-1199-featuring-nvidia-rtx-4070/"><u>MSI Katana 15.6 Gaming Laptop: Powerhouse Performance at Just $1,199 – Featuring NVIDIA RTX 4070!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-performance-in-a-slim-package-a-comprehensive-review-of-the-high-cost-high-powered-razer-blade-14/"><u>Ultimate Performance in a Slim Package: A Comprehensive Review of the High-Cost, High-Powered Razer Blade 14</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862700645-unbeatable-memorial-day-deal-2024-asus-tuf-gaming-laptop-with-amd-ryzen-7-just-658/"><u>Unbeatable Memorial Day Deal: 2024 ASUS TUF Gaming Laptop with AMD Ryzen 7, Just $658!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-technology-secrets-at-toms-electronics-hub/"><u>Unveiling Technology Secrets at Tom's Electronics Hub</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/urgent-evacuation-of-airplane-after-aboard-laptop-fires-up-an-american-airlines-incident/"><u>Urgent Evacuation of Airplane After Aboard Laptop Fires Up - An American Airlines Incident</u></a></li>
+</ul></div>
 

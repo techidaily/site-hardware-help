@@ -1,7 +1,7 @@
 ---
 title: "Upgrade Any Old-School Window A/C Unit: How These Two Tools Enable Smart Home Integration"
-date: 2024-09-04T02:08:10.052Z
-updated: 2024-09-05T02:08:10.052Z
+date: 2024-10-12T13:58:50.886Z
+updated: 2024-10-19T05:41:17.192Z
 tags:
   - hardware
 categories:
@@ -18,6 +18,13 @@ thumbnail: https://thmb.techidaily.com/75e496d7d03af882c809a7273c9e1eb1d9baeae9a
 * [Set Up the Automation](https://tech-revival.techidaily.com/unveiling-cybersecurity-threats-in-ai-the-functionality-behind-prompt-injection-attacks/)
 
  Window air conditioners have come a long way over the years, but many of us are still rocking trusty old models. They may not have Wi-Fi, remote access through apps, and built-in temperature sensors, but with just a couple of smart home devices, you can easily get all those bells and whistles on the cheap.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  A Handy Dandy Smart Plug
 
@@ -37,12 +44,6 @@ Indoors, outdoors, this rugged IP64-rated weather resistant smart plug is great 
 
 [$14 at Amazon](https://amazon.com/dp/B099KLNM24?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004235&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthese-two-gadgets-make-an-old-window-air-conditioner-smart%2F&asc%5Fcampaign=Evergreen) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  A Wi-Fi Temperature Sensor (or Thermostat)
 
  Now, if you stop at a smart plug, you'll be able to turn the AC on or off from an app. But we can do better than that. Depending on how far you've gone into building out your smart home, you may have the second piece of the puzzle already.
@@ -53,37 +54,36 @@ Indoors, outdoors, this rugged IP64-rated weather resistant smart plug is great 
 
 * ![Govee WiFi Thermometer Hygrometer](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/untitled.jpg)  
 #####  Govee WiFi Thermometer Hygrometer  
+
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Easily monitor temp and humidity data in real time from anywhere. This WiFi thermometer provides precise readings. Temperature is accurate to ±0.54℉/±0.3℃, and humidity is ±3%RH.  
 [See at Amazon](https://amazon.com/dp/B0C7QMSMLD?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004235&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthese-two-gadgets-make-an-old-window-air-conditioner-smart%2F&asc%5Fcampaign=Evergreen)
 * ![ecobee smart thermostat enhanced](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/ecobee-smart-thermostat-enhanced.png)  
 #####  Ecobee Smart Thermostat Enhanced  
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 The ecobee Smart Thermostat Enhanced is a smart thermostat that can control your home's temperature with just a tap or command from your Apple smartphone.  
 [$189 at Amazon](https://www.amazon.com/ecobee-Smart-Thermostat-Enhanced-works/dp/B09XXTQPXC?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004235&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthese-two-gadgets-make-an-old-window-air-conditioner-smart%2F&asc%5Fcampaign=Evergreen)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Set Up the Automation
 
  There are a bunch of different ways you can automate this setup. The Google Home app is a popular choice, but it doesn't have the automation options we need in this case. Instead, we can use the SmartThings app for [iPhone](https://apps.apple.com/us/app/smartthings/id1222822904) or [Android](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004235/https://play.google.com/store/apps/details?id=com.samsung.android.oneconnect&hl=en%5FUS). Both the Kasa smart plug and Govee temperature sensor are compatible with SmartThings—no hub required.
@@ -92,12 +92,6 @@ The ecobee Smart Thermostat Enhanced is a smart thermostat that can control your
 
 ![SmartThings devices tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot_20240718-093812.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Next, we'll go to the "Routines" tab and tap the plus icon in the corner again. The "If" part of the routine will be the temperature setting, and the "Then" part is turning on or off the smart plug connected to the AC. Here's an example of a routine you could create.
 
 Close 
@@ -114,8 +108,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -123,4 +115,19 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-infinite-storage-pathways-select-services-showcase/"><u>2024 Approved Infinite Storage Pathways Select Services Showcase</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/best-compatible-logitech-speaker-drivers-available-download-now-for-w7-w8-and-w11/"><u>Best Compatible Logitech Speaker Drivers Available – Download Now for W7, W8 & W11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-7-most-effective-ai-applications-for-mastering-mathematics/"><u>Discover the 7 Most Effective AI Applications for Mastering Mathematics</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-step-by-step-guide-to-video-editing-filters-on-computers-and-phones/"><u>In 2024, A Step-by-Step Guide to Video Editing Filters on Computers & Phones</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-realtek-hardware-driver-for-windows-11-download-now/"><u>Latest Realtek Hardware Driver for Windows 11 - Download Now</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/master-your-game-on-a-micro-scale-best-compact-pcs-for-serious-gamers/"><u>Master Your Game on a Micro Scale: Best Compact PCs for Serious Gamers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/mastering-spreadsheet-edits-transitioning-into-excels-edit-mode-effortlessly/"><u>Mastering Spreadsheet Edits: Transitioning Into Excel's Edit Mode Effortlessly</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/revive-accidentally-deleted-files-for-free-using-these-simple-techniques-on-windows-10-5-tips/"><u>Revive Accidentally Deleted Files for Free Using These Simple Techniques on Windows 10 (5 Tips)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/solving-your-problem-with-intel-dptf-driver-error-during-installation/"><u>Solving Your Problem with Intel DPTF Driver Error During Installation</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-updating-your-ch340g-serial-device-drivers-on-windows-11/"><u>Step-by-Step Guide: Updating Your CH340G Serial Device Drivers on Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-computer-gear-ultimate-guide/"><u>Tom's Computer Gear: Ultimate Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/wi-fi-woes-heres-how-to-reconnect-your-surface-pro-successfully/"><u>Wi-Fi Woes? Here's How to Reconnect Your Surface Pro Successfully</u></a></li>
+</ul></div>
 

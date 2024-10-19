@@ -1,7 +1,7 @@
 ---
 title: "Free CanoScan LiDE 120 Software Installation Guide: Latest Updates Available"
-date: 2024-10-12T14:47:00.450Z
-updated: 2024-10-13T01:57:23.669Z
+date: 2024-10-14T10:14:55.216Z
+updated: 2024-10-19T10:44:46.407Z
 tags:
   - win11
   - win10
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/509fff23b0ac771700c9cc9f462572328b6f939b9
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Option 1 – Update your driver via Device Manager**
 
  Try to update your Validity fingerprint sensor driver from within Device Manager:
@@ -48,25 +41,39 @@ thumbnail: https://thmb.techidaily.com/509fff23b0ac771700c9cc9f462572328b6f939b9
 2. After the Start screen shows up, click the**magnifier** icon located in the upper right corner.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-05-41.png)
 3. Type**device** into the search box. Then select**Device Manager** from a list of search results.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1098.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Here comes**Device Manager** . Click the**▷** symbol to the left of**Biometric Devices** to expand its drop-down list.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1073.png)
 5. Right-click on**Validity Sensors (WBF)** to open its context menu. Then select**Update Driver Software…** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-11-03.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Click**Search automatically for updated driver software** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-18-21.png)
 7. Wait till the download and installation process finishes.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 8. Click **Close** when it’s all done.
 9. Now your driver has been updated by Windows successfully. Don’t forget to**restart** your computer for the changes to take effect even if you’re not asked to.
@@ -80,19 +87,6 @@ thumbnail: https://thmb.techidaily.com/509fff23b0ac771700c9cc9f462572328b6f939b9
  For example, if you’re using a Lenovo laptop, you can visit the official site of Lenovo and locate its**Support** section (that is where they usually provide drivers or other software for customers to download). Down there you should select “Drivers & Download” or whatever so that you can enter the download page of drivers. Usually there will a search box for you to type in your device model or the driver name, etc. As long as you give the right name, the website will automatically display a list of drivers that are considered to match your request. Select one from them depending on your Windows version (such as Windows 10 Pro, 64-bit), download it and install it step by step. On completion, please reboot your PC to let the changes take effect.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Option 3 – Update your driver automatically (Recommended)**
 
@@ -134,19 +128,20 @@ thumbnail: https://thmb.techidaily.com/509fff23b0ac771700c9cc9f462572328b6f939b9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-engaging-consumers-effectively-through-snapbiz-insights-for-2024/"><u>[Updated] Engaging Consumers Effectively Through SnapBiz Insights for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-unleash-creativity-the-best-9-camera-accessories-for-vloggers-and-more/"><u>[Updated] Unleash Creativity The Best 9 Camera Accessories for Vloggers and More</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-serene-strums-and-dance-steps-tiktoks-country-playlist/"><u>2024 Approved Serene Strums and Dance Steps TikTok's Country Playlist</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-msi-audio-driver-downloads-for-windows-users/"><u>Free MSI Audio Driver Downloads for Windows Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-intel-me-drivers-compatible-with-windows-10-81-and-7/"><u>Get Your Intel ME Drivers - Compatible with Windows 10, 8.1 & 7</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Honor 80 Pro Straight Screen Edition? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-list-of-engaging-history-content-on-youtube/"><u>In 2024, The Ultimate List of Engaging History Content on YouTube</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-canon-dr-c225-driver-download-instructions-for-windows-operating-systems/"><u>Latest Canon DR-C225 Driver Download Instructions for Windows Operating Systems</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/lunch-whole-grain-pasta-salad-with-cherry-tomatoes-artichoke-hearts-kalamata-olives-feta-cheese/"><u>Lunch: Whole Grain Pasta Salad with Cherry Tomatoes, Artichoke Hearts, Kalamata Olives, Feta Cheese</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/refresh-the-drivers-of-your-epson-wf-7620-for-windows-a-comprehensive-guide/"><u>Refresh the Drivers of Your Epson WF-7620 for Windows - A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/solution-found-resolving-connectivity-problems-with-the-logitech-g4-grove/"><u>Solution Found: Resolving Connectivity Problems with the Logitech G4 Grove</u></a></li>
-<li><a href="https://win11.techidaily.com/turn-off-windows-count-for-each-app-opener/"><u>Turn Off Windows Count for Each App Opener</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-data-from-motorola-moto-g-stylus-5g-2023-by-fonelab-android-recover-data/"><u>Undelete lost data from Motorola Moto G Stylus 5G (2023)</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-filmmakers-guide-to-masterful-panoramic-videos-9-must-know-tips/"><u>[New] The Filmmaker's Guide to Masterful Panoramic Videos (9 Must-Know Tips)</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-from-basic-to-brilliant-the-ultimate-snapchat-filter-journey/"><u>[Updated] From Basic to Brilliant The Ultimate Snapchat Filter Journey</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-which-screen-recorder-excels-obs-or-fraps-for-2024/"><u>[Updated] Which Screen Recorder Excels OBS or Fraps for 2024</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/1-top-free-backup-software-ultimate-guide-and-best-picks-for-windows-users/"><u>1. Top Free Backup Software: Ultimate Guide & Best Picks for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723262284316-adding-these-two-expressions-together-gives-us-the-final-expression-xx-n-plus-2x/"><u>Adding These Two Expressions Together Gives Us the Final Expression: ( X(x - N) + 2X )</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fix-presonus-audiobox-usb-driver-issue-easily-and-quickly/"><u>Fix Presonus AudioBox USB Driver Issue Easily & Quickly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722965298269-fixing-csr8510-a10-driver-problems-on-windows-systems-now-resolved/"><u>Fixing CSR8510 A10 Driver Problems on Windows Systems - Now Resolved!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-12-pro-max-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot iPhone 12 Pro Max Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fresh-driver-download-for-nvidia-geforce-mx150-enhance-your-windows-experience/"><u>Fresh Driver Download for Nvidia GeForce MX150: Enhance Your Windows Experience!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-toshiba-laptop-drivers-compatible-with-windows-software/"><u>Get the Latest Toshiba Laptop Drivers Compatible with Windows Software</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guida-rapido-e-facile-trasformare-un-file-iso-immagine-in-formato-mp4-in-meno-di-5-minuti/"><u>Guida Rapido E Facile: Trasformare Un File ISO Immagine in Formato MP4 in Meno Di 5 Minuti</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-advanced-screen-recording-suite-for-windows-and-macos/"><u>In 2024, Advanced Screen Recording Suite for Windows & macOS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722978550614-positive-externalities-occur-when-a-transaction-has-beneficial-effects-on-uninvolved-third-parties-such-as-education/"><u>Positive Externalities Occur when a Transaction Has Beneficial Effects on Uninvolved Third Parties, Such as Education.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-latest-in-tech-exploring-toms-hardware-insights/"><u>Unveiling the Latest in Tech: Exploring Tom's Hardware Insights</u></a></li>
 </ul></div>
 

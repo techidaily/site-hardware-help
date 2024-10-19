@@ -1,7 +1,7 @@
 ---
 title: "Smart Displays on Chargers: A Comprehensive Look at the Shargeek 170 Review"
-date: 2024-08-30T15:46:30.775Z
-updated: 2024-08-31T15:46:30.775Z
+date: 2024-10-16T06:54:22.639Z
+updated: 2024-10-19T01:28:54.545Z
 tags:
   - hardware
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/410b1a4d385c6e4b30f8c2bafd9b2a73f332bf695
 
  It’s easy to be drawn to the [Sharge Shargeek 170](https://www.amazon.com/sharge-SHARGEEK-Waterproof-Transparent-Compatible/dp/B0CRF1BGVZ?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002746&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fsharge-shargeek-170-review%2F&asc%5Fcampaign=Authority) power bank because of its transparent design. It’s cool to see what's inside! But the battery’s real draw is its fast in and out speeds and information-filled screen.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Guts of a 170W Power Bank
 
 Close 
@@ -30,6 +37,13 @@ Close
  The 170 model isn't Sharge's first translucent rodeo. It’s been making similar power banks and accessories for a while. I’ve enjoyed seeing how the USB ports connect to the board and other tidbits for some years.
 
 ![Shargeek 170 next to other shargeek batteries](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/shargeek-170-next-to-other-shargeek-batteries.JPG) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
 
@@ -53,16 +67,17 @@ Tyler Hayes / How-To Geek
 
  It can output up to 140W from a single USB-C port and reach 170W in total when using multiple ports. Its input tops out at 140W, however. On the capacity side, its 24,000mAh should be enough to recharge an iPhone 15 Pro five times or a MacBook Pro once. The only thing that gives me pause is the product's roughly 1.5lb weight. Even though it's airline-safe, lugging around an extra pound and a half in a carry-on could be annoying. Around the house, the weight wasn't an issue, but its power was still handy.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ##  Is the Shargeek 170 Power Bank Worth Spending Money On?
 
 ![Shargeek 170 standing vertically](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/shargeek-170-standing-vertically.JPG) 
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Tyler Hayes / How-To Geek
 
  I had trouble finding a device around my house that could make the [Sharge Shargeek 170](https://www.amazon.com/sharge-SHARGEEK-Waterproof-Transparent-Compatible/dp/B0CRF1BGVZ?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002746&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fsharge-shargeek-170-review%2F&asc%5Fcampaign=Authority) break a sweat. It’s some of the gaming laptops, handheld consoles, or other power-hungry products that could truly benefit from the full 140 to 170W capabilities offered here. The $180 price Sharge offers the power bank on Amazon is steep, but in line with others for its speed and capacity.
@@ -72,8 +87,12 @@ Tyler Hayes / How-To Geek
 ![Shargeek 170 Power Bank](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/shargeek-170-power-bank.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 #####  Sharge Shargeek 170
 
 7/ 10 
@@ -125,8 +144,6 @@ Expand
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,4 +151,21 @@ Expand
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-10-best-podcasts-microphones/"><u>[New] 10 Best Podcasts Microphones</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-dissecting-the-lineage-of-microsofts-movie-maker-versions/"><u>[New] In 2024, Dissecting the Lineage of Microsoft's Movie Maker Versions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/a-beginners-tutorial-unveiling-the-secrets-of-mov-files-and-learning-easy-ways-to-open-them/"><u>A Beginner's Tutorial: Unveiling the Secrets of MOV Files & Learning Easy Ways to Open Them</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-epyc-milan-x-overclocking-triumph-a-leap-into-the-future-with-record-breaking-128-cores-massive-1egb-l3-cache-and-blazing-speed-at-48ghz/"><u>AMD EPYC 'Milan-X' Overclocking Triumph: A Leap Into the Future with Record-Breaking 128 Cores, Massive 1.eGB L3 Cache, and Blazing Speed at 4.8GHz</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/elevate-performance-discover-innovations-at-toms-technology-hub/"><u>Elevate Performance: Discover Innovations at Tom’s Technology Hub</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/galax-unveils-advanced-overclocking-motherboards-equipped-with-ddr5-memory-and-enhanced-voltage-regulation-systems/"><u>Galax Unveils Advanced Overclocking Motherboards - Equipped with DDR5 Memory and Enhanced Voltage Regulation Systems!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Oppo K11 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/maximizing-performance-ultimate-guide-to-overclocking-your-intel-12th-gen-alder-lake-processor/"><u>Maximizing Performance: Ultimate Guide to Overclocking Your Intel 12Th Gen Alder Lake Processor</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/msi-counterfeit-pedal-infused-with-virus-the-danger-of-overrun-byproduct-application/"><u>MSI Counterfeit Pedal Infused with Virus: The Danger of Overrun Byproduct Application</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-outputs-weighing-in-on-mini-and-full-desktop-pcs/"><u>Optimal Outputs: Weighing In on Mini and Full Desktop Pcs</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/sneak-peek-to-secrecy-how-to-create-hidden-stories-for-2024/"><u>Sneak Peek to Secrecy How to Create Hidden Stories for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-strategies-to-win-at-pokemon-iphoneipad-games/"><u>Step-by-Step Strategies to Win at Pokémon iPhone/iPad Games</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-game-changer-in-portable-computing-asus-expertbook-p5-featuring-revolutionary-energy-efficiency-and-expandable-ram-up-to-32gb/"><u>The Game Changer in Portable Computing - ASUS ExpertBook P5 Featuring Revolutionary Energy Efficiency & Expandable RAM up to ^32GB</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-15-outils-de-montage-video-pour-un-rendu-optimal-en-2024/"><u>Top 15 Outils De Montage Vidéo Pour Un Rendu Optimal en 2024</u></a></li>
+</ul></div>
 

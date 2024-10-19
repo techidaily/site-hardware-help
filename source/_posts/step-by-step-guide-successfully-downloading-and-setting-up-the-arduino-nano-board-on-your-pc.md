@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Successfully Downloading & Setting Up the Arduino Nano Board on Your PC"
-date: 2024-10-08T14:01:56.507Z
-updated: 2024-10-13T11:40:11.013Z
+date: 2024-10-17T14:18:00.600Z
+updated: 2024-10-18T16:09:36.449Z
 tags:
   - win11
   - win10
@@ -30,10 +30,10 @@ thumbnail: https://thmb.techidaily.com/fd283428cd4cb2c0907e2d15b8c7aa3306b361f3c
 [**Option 2 – Manually**](https://tools.techidaily.com/drivereasy/download/) –  You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Option 1: Update your Surface Book drivers automatically (Recommended)**
@@ -50,32 +50,31 @@ thumbnail: https://thmb.techidaily.com/fd283428cd4cb2c0907e2d15b8c7aa3306b361f3c
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7cabf4d114.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. **Restart**   your computer for the changes to take effect.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Option 2: Update your Surface Book drivers manually**
 
@@ -87,6 +86,13 @@ To manually download & install your **Surface Book**  drivers, firstly you’ll 
 2. Scroll down to the Help list, then click**Install and update** \>**Download drivers and firmware for Surface** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7ccdf679a7.jpg)
 3. Select your model from the list of Surface products and follow the on-screen instructions to download the files that you need for driver updates.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Be sure to choose**ONLY** drivers that are compatible with your Windows version.
 4. Restart your computer for the changes to take effect.
@@ -112,14 +118,21 @@ To manually download & install your **Surface Book**  drivers, firstly you’ll 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-gamers-guide-to-free-game-recording-tools/"><u>[Updated] 2024 Approved Gamers' Guide to Free Game Recording Tools</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-enhancing-visuals-the-role-of-a-tripod-in-video-content-for-2024/"><u>[Updated] Enhancing Visuals The Role of a Tripod in Video Content for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-enhancing-user-engagement-through-fb-slideshows/"><u>2024 Approved Enhancing User Engagement Through FB Slideshows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-nvidia-gtx-n-series-drivers-installed-on-windows-without-hesitation/"><u>Get the Latest NVIDIA GTX N-Series Drivers Installed on Windows Without Hesitation</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-geforce-gtx-980-ti-drivers-for-your-pc-free-download/"><u>Get the Newest GeForce GTX 980 Ti Drivers for Your PC – Free Download</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-windows-11-resolves-major-camera-malfunctions-in-web-conferencing/"><u>How Windows 11 Resolves Major Camera Malfunctions in Web Conferencing</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722964485756-install-official-hp-deskjet-3630-print-server-software-compatible-with-windows-10-today/"><u>Install Official HP Deskjet 3630 Print Server Software Compatible with Windows # 10 Today!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-hp-laserjet-1018-driver-version-download-now/"><u>Latest HP LaserJet 1018 Driver Version Download Now</u></a></li>
-<li><a href="https://extra-support.techidaily.com/navigating-the-floating-window-technology-in-netflix-for-2024/"><u>Navigating The Floating Window Technology in Netflix for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-instructions-on-changing-fb-page-backdrop/"><u>[New] In 2024, Instructions on Changing FB Page Backdrop</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-transitioning-playlists-from-spotify-to-a-tailored-youtube-music-list/"><u>[New] In 2024, Transitioning Playlists From Spotify to a Tailored YouTube Music List</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-unveil-the-zodiac-persona-perfecting-personalized-bios-on-whatsapp/"><u>[New] Unveil the Zodiac Persona - Perfecting Personalized Bios on WhatsApp</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-snapchat-to-smiles-phones/"><u>[Updated] In 2024, Snapchat to Smiles Phones</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-smoothly-blending-bio-and-linktree-on-your-tiktok-platform/"><u>[Updated] Smoothly Blending Bio & Linktree on Your TikTok Platform</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-future-of-sound-with-jabras-advanced-noise-canceling-earphones/"><u>Discover the Future of Sound with Jabra's Advanced Noise-Canceling Earphones</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-top-benefits-of-choosing-a-tenkeyless-keyboard-why-its-time-to-switch/"><u>Discover the Top Benefits of Choosing a Tenkeyless Keyboard: Why It's Time to Switch!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/elevate-your-home-security-with-the-yale-approach-lock-the-ideal-smart-solution-for-apartment-entryways/"><u>Elevate Your Home Security with the Yale Approach Lock: The Ideal Smart Solution for Apartment Entryways</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/eliminating-the-annoying-white-noise-in-my-speakers-a-step-by-step-fix/"><u>Eliminating the Annoying White Noise in My Speakers: A Step-by-Step Fix</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enduring-legacy-of-the-90s-the-classic-techs-we-still-rely-on-today/"><u>Enduring Legacy of the 90S: The Classic Techs We Still Rely On Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-pc-experience-with-these-5-fantastic-gadgets-and-add-ons/"><u>Enhance Your PC Experience with These 5 Fantastic Gadgets and Add-Ons</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/evaluating-the-nanoleaf-umbra-cup-innovative-tech-or-just-an-office-diversion/"><u>Evaluating the Nanoleaf Umbra Cup - Innovative Tech or Just an Office Diversion?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-x-crash-fix-get-back-to-editing-for-2024/"><u>Final Cut Pro X Crash Fix Get Back to Editing for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-sony-xperia-5-v-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Sony Xperia 5 V Devices | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-nikons-1j5-videographer-a-spectacle-in-4k/"><u>In 2024, Nikon's 1J5 Videographer A Spectacle in 4K</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/navigating-iphone-backup-flawless-integration-with-snapchat-photos-for-2024/"><u>Navigating iPhone Backup Flawless Integration with Snapchat Photos for 2024</u></a></li>
 </ul></div>
 

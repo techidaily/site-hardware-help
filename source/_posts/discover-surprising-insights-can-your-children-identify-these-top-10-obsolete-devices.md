@@ -1,7 +1,7 @@
 ---
 title: "Discover Surprising Insights: Can Your Children Identify These Top 10 Obsolete Devices?"
-date: 2024-08-30T15:41:48.723Z
-updated: 2024-08-31T15:41:48.723Z
+date: 2024-10-17T18:26:13.157Z
+updated: 2024-10-19T02:11:09.743Z
 tags:
   - hardware
 categories:
@@ -34,26 +34,24 @@ thumbnail: https://thmb.techidaily.com/c3e0373857c4f6ff49001a6f640f1a15c7eebbb81
 
  Fax machines are still in use in some industries, but it's more likely that your bog-standard multi-function printer now has a [fax function](https://instagram-videos.techidaily.com/updated-2024-approved-boosting-your-instagrams-video-popularity/)hidden away somewhere than a true-blue dedicated fax machine being out in the wild. So your kids will likely never have to deal with the stress of tearing that awful thermal paper off properly without ruining that important fax your boss has been waiting for all night.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 2  Answering Machine 
 
 ![Old vintage answering machine with two small tape cassettes on a wooden table surface.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/shutterstock_1485296993.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 [yodamclaren / Shutterstock.com](https://www.shutterstock.com/image-photo/old-vintage-answering-machine-two-small-1485296993)
 
  Actually, answering machines might be one gadget your kids can totally sympathize with, given their own desire to avoid answering phone calls as much as possible. This is voice mail incarnate, or perhaps, to a modern younger audience, it could be described as a voice note machine. I do wonder if all those TV and movie plots that involve answering machines make any sense to kids these days? Well, smartphones ruined horror movies, so I guess fair's fair. You can't argue that those tiny tapes aren't adorable in any decade though.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## 3  Rolodex 
 
 ![Rolodex file organizer sitting open on an office desk, angled view with gray cubicle partition behind.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/shutterstock_2228229009.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Brett Hondow / Shutterstock.com](https://www.shutterstock.com/image-photo/rolodex-file-organizer-sitting-open-on-2228229009)
 
@@ -62,9 +60,12 @@ thumbnail: https://thmb.techidaily.com/c3e0373857c4f6ff49001a6f640f1a15c7eebbb81
  Older folks like to lament that young people these days don't even bother to remember phone numbers anymore, forgetting that even cave men would have hated remembering phone numbers if they had phones. Which they didn't, if any current teenagers are reading this. You know, now that I think of it, the Rolodex could really speed up games of [Cards Against Humanity](https://www.amazon.com/Cards-Against-Humanity-LLC-CAHUS/dp/B004S8F7QM/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003510&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fask-your-kids-if-they-know-what-these-gadgets-are%2F&asc%5Fcampaign=Evergreen).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4  Car Cigarette Lighter 
 
 ![Close up of a cigarette lighter. modern car interior.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/shutterstock_1432348403.jpg) 
@@ -75,9 +76,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Now, that socket is likely filled with a USB power adapter, which is still capable of starting a fire if you buy a cheap no-name one from a suspicious website, but at least that's not the intention.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5  Dial-Up Modem 
 
 ![shutterstock_1109061Modem where a phone handset sits in the modem cradle..52](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/shutterstock_1109061452.jpg) 
@@ -92,16 +90,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![shutterstock_2314723997A beeper held in someone's hand, seen from their perspective. The screen shows there are no messages.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/shutterstock_2314723997.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 [Your Hand Please / Shutterstock.com](https://www.shutterstock.com/image-photo/pager-symbolizes-instant-communication-efficiency-connection-2314723997)
 
  This is another one of those gadgets that show up in so many movies and shows from the 80s and 90s that I can only imagine mild confusion from younger viewers trawling through older material on Netflix. It's a mobile phone, if you take out the phone part and only have text messages left over. A staple of TV doctors and criminals alike, the beeper lets you know to head to the nearest phone booth and give someone a call. "What's a phone booth?" you say? "Get off my lawn" is the only appropriate answer I can come up with.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 7  Credit Card Imprinter 
 
 ![Old credit card imprinter machine on the white table with offices.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/shutterstock_1568864242.jpg) 
@@ -111,8 +110,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Despite feeling like an integral part of online shopping and the modern internet age, credit cards long predate the computerization of payments in stores. You didn't swipe your card and put in a PIN, instead the person behind the counter whipped out one of these babies and made a carbon copy of your credit card so they could ask the bank for the money later. So you had better be pretty sure that the card's not going to be declined, unless you were the type to count on that sort of thing, as you absconded with the goods, that is.
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 8  Microfiche 
 
 ![Microfiche readers and scanner.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/shutterstock_1530238538.jpg) 
@@ -120,6 +123,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 [M-\_-M / Shutterstock.com](https://www.shutterstock.com/image-photo/zielona-gora-poland-october-10-2019-1530238538)
 
  A Microfiche reader could easily be mistaken for some sort of old computer at first glance. These devices blow up tiny images on a sheet of film. This was an effective way to store high-quality records of documents and images without taking up a ton of space, and you could easily find and review information. There might still be a few libraries around that have Microfiche machines, but by and large, Microfiche cards have been digitized.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9  Punch Clocks 
 
@@ -132,11 +142,28 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  However, "clocking" in and out is becoming something far more subtle in most modern workplaces, where swiping your door access card might clock you in automatically until you leave the building again, or perhaps you're logged as soon as you start using your computer in the morning. Kids these days will be monitored more at work than anyone before them, but ironically, it might all be invisible, rather than a machine everyone walks up to and "punches."
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 10  Slide Projector 
 
 ![A black slide projector loaded with slides.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/shutterstock_82551286.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [anthonycz / Shutterstock.com](https://www.shutterstock.com/image-photo/black-projector-82551286)
 
@@ -152,8 +179,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -161,4 +186,21 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-help.techidaily.com/acer-support-ultimate-guide-to-downloading-and-installing-touchpad-drivers-on-windows-11/"><u>[Acer Support] Ultimate Guide to Downloading and Installing Touchpad Drivers on Windows 11</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-best-10-action-ready-microphones-reviewed-for-2024/"><u>[Updated] Best 10 Action-Ready Microphones Reviewed for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-tools-for-effortless-video-image-retrieval-for-2024/"><u>[Updated] Free Tools for Effortless Video Image Retrieval for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-perfecting-your-content-understanding-facebook-video-sizes-and-ratios-for-2024/"><u>[Updated] Perfecting Your Content Understanding Facebook Video Sizes and Ratios for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-comprehensive-guide-for-pcs-memory-tool-issues/"><u>A Comprehensive Guide for PC's Memory Tool Issues</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/annamasart-academy-access-exclusive-online-art-classes-and-educational-video-content-for-free-download/"><u>AnnamasArt Academy: Access Exclusive Online Art Classes and Educational Video Content for Free Download</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-chatbot-intelligence-methods-for-simulating-conversations-with-users/"><u>Decoding Chatbot Intelligence: Methods for Simulating Conversations with Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-update-instructions-freshest-targus-displaylink-drivers-compatible-with-windows-11-8-and-7/"><u>Easy Update Instructions: Freshest Targus DisplayLink Drivers Compatible with Windows 11, 8 & 7</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-strategies-finding-and-retrieving-erased-contacts-on-android/"><u>Essential Strategies: Finding and Retrieving Erased Contacts on Android</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hassle-free-setup-download-and-update-your-scansnap-driver-for-windows-now/"><u>Hassle-Free Setup: Download & Update Your ScanSnap Driver for Windows Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-deskjet-3700-update-to-the-latest-driver-version-and-download-options-explained/"><u>HP DeskJet 3700: Update to the Latest Driver Version & Download Options Explained</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-product-evaluations-and-advice-by-toms-hardware-experts/"><u>In-Depth Product Evaluations and Advice by Tom's Hardware Experts</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-nokia-g310-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Nokia G310 Device</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Xiaomi Redmi K70E | Dr.fone</u></a></li>
+</ul></div>
 

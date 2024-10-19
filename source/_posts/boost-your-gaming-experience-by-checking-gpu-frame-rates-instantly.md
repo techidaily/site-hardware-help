@@ -1,7 +1,7 @@
 ---
 title: Boost Your Gaming Experience by Checking GPU Frame Rates Instantly!
-date: 2024-09-04T02:08:21.725Z
-updated: 2024-09-05T02:08:21.725Z
+date: 2024-10-14T00:11:26.643Z
+updated: 2024-10-18T17:46:27.935Z
 tags:
   - hardware
 categories:
@@ -25,6 +25,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Enabling the in-game FPS overlay in Steam.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/steam-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The FPS counter will now be visible in the corner of the display you selected. It always appears as an overlay on top of the game itself. While it's fairly small and unobtrusive, it might overlay on top of an existing game element. If that happens, you can always move the counter to a different corner, though the change will apply to all games.
 
  A major downside of the Steam method is that it's not an entirely universal solution as its intended use is for Steam games. You might be able to get this feature working for non-Steam games by adding the game to your library. Add a game to your Steam library using the "Add a Game" button in the bottom left corner of Steam.
@@ -40,22 +47,31 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![NVIDIA GeForce app with the settings opened and In-Game Overlay option selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/nvidia-1.png) 
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Next, go to HUD Layout > Performance > FPS, and then click one of the four quadrants to pick where you want your FPS counter to show up in-game.
 
 ![The NVIDIA GeForce Experience HUD Layout menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/nvidia-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This method is more universal than the Steam one, but it's not a perfect solution. The FPS overlay sometimes doesn't show up at all; other times, it displays the incorrect FPS or N/A. Changing the display mode from fullscreen to borderless (or vice versa) is worth a shot if you can't get the FPS counter to work.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3  AMD Software 
 
@@ -70,17 +86,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![AMD Software Performance tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/amd-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## 4  Use a Game's Built-in Options 
 
  Many games have built-in FPS counters you can enable. Depending on the game you're playing, this option is sometimes hard to find. It might be easiest to just perform a web search for the name of the game and "show FPS" to find out if a game has a built-in FPS option and how to enable it, but you can explore the game's options yourself. Depending on the game, you can enable the FPS counter in a variety of ways:
@@ -97,18 +108,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
     
 ![Performance metrics in Minecraft.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/fps-mc.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5  MSI Afterburner 
 
  If you want a third-party solution to see your FPS counter, one of the best is [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards). Originally designed for MSI graphics cards, it's one of the most popular graphics card apps for [overclocking](https://desktop-recording.techidaily.com/new-in-2024-top-5-android-screen-recorders-essential-app-selection/) and performance monitoring.
@@ -119,12 +118,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The monitoring tab in MSI Afterburner.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/msi-afterburner.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  MSI Afterburner will automatically show the FPS counter in the top-left corner when you launch a game. You can configure how it looks from the same menu that you enabled it in.
 
 ---
@@ -137,8 +130,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +137,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-sprint-through-slow-androids-premier-video-fixes/"><u>[Updated] Sprint Through Slow Android's Premier Video Fixes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1-sonos-commits-enhancements-reviving-cherished-application-functions/"><u>1. Sonos Commits Enhancements: Reviving Cherished Application Functions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/delving-into-high-tech-gear-with-toms-hardware-experts/"><u>Delving Into High-Tech Gear with Tom's Hardware Experts</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722959919943-effortless-driver-updates-for-microsoft-surface-book-get-them-now/"><u>Effortless Driver Updates for Microsoft Surface Book - Get Them Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722969077446-get-your-free-hp-laserjet-p1006-software-and-driver-today/"><u>Get Your Free HP LaserJet P1006 Software and Driver Today</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-the-official-drivers-for-your-epson-v600-step-by-step-instructions/"><u>Installing the Official Drivers for Your Epson V600 - Step-by-Step Instructions</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/professional-photoshop-practices-for-facial-pixelation-for-2024/"><u>Professional Photoshop Practices for Facial Pixelation for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-simple-guide-to-installing-logitech-drivers-on-your-pc/"><u>Quick and Simple Guide to Installing Logitech Drivers on Your PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quickly-update-your-sound-blaster-z-drivers-for-optimal-performance-on-windows-10/"><u>Quickly Update Your Sound Blaster Z Drivers for Optimal Performance on Windows 10</u></a></li>
+<li><a href="https://fox-info.techidaily.com/speak-up-enhancing-interactions-with-youtube-viewers-for-2024/"><u>Speak Up Enhancing Interactions with YouTube Viewers for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-head-produced-by-a-centrifugal-pump-decreases-as-flow-rate-increases-beyond-the-bep-due-to-increased-hydraulic-losses-and-reduced-efficiency/"><u>The Head Produced by a Centrifugal Pump Decreases as Flow Rate Increases Beyond the BEP Due to Increased Hydraulic Losses and Reduced Efficiency.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-computer-components-expert-reviews-and-insights/"><u>Tom's Computer Components: Expert Reviews & Insights</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-non-responsive-keyboards-on-iphoneipad-top-6-fixes/"><u>Troubleshooting Non-Responsive Keyboards on iPhone/iPad - Top 6 Fixes</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/understanding-the-end-user-contract-for-winxdvd-by-digiarty-key-licensing-details-explained/"><u>Understanding the End-User Contract for WinXDVD by Digiarty – Key Licensing Details Explained</u></a></li>
+</ul></div>
 

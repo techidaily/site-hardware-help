@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Apps: Enabling Google Play Store on an Amazon Fire Tablet - A Comprehensive Tutorial"
-date: 2024-09-04T02:09:12.785Z
-updated: 2024-09-05T02:09:12.785Z
+date: 2024-10-15T20:29:19.362Z
+updated: 2024-10-19T14:36:19.006Z
 tags:
   - hardware
 categories:
@@ -30,18 +30,19 @@ thumbnail: https://thmb.techidaily.com/ced9cab3bb4f4b670e0a461fa0277071d0fe6cc51
 
  The best part of [installing the Play Store on your Fire Tablet](https://facebook-video-recording.techidaily.com/updated-in-2024-taking-your-fb-presence-step-by-step-on-360-video-creation/) is that it doesn't require any in-depth "hacking" like [rooting](https://fox-boxes.techidaily.com/updated-navigating-photo-curvature-techniques-in-ps-for-2024/) or running scripts from a PC. It's just a matter of downloading and installing a few APK files from the tablet itself, and you'll be up and running with the Play Store just like your regular [Android phone](https://twitter-videos.techidaily.com/hot-takes-highlight-twitters-trending-topics-for-2024/) or [tablet](https://youtube-sure.techidaily.com/16757146-updated-bite-sized-video-knowledge-now/)! Let's get started.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  UPDATE: 4/25/24
 
  The instructions below have been tested and work with all Fire tablets, including the most recent devices running on FireOS 8.3.2.3, based on Android 11.
 
  Remove the [microSD card](https://screen-video-capture.techidaily.com/new-in-2024-high-quality-video-webcams-top-5-combos-with-sound/) if you have one inserted in the tablet. If you don't do this, it's possible you could lose data during the Play Store install process. You can put it back once we're done.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Download the Play Store Files
 
  Before we begin, make sure your Fire Tablet is from 2014 or later. This process may not work with old Kindle Fire tablets as you need to enable "Apps From Unknown Sources."
@@ -50,47 +51,30 @@ thumbnail: https://thmb.techidaily.com/ced9cab3bb4f4b670e0a461fa0277071d0fe6cc51
 
 ![Open the "Settings" app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/screenshot_20230822-160606.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now go to "Security & Privacy."
 
 ![Go to "Security and Privacy."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/screenshot_20230822-160623.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Select "Apps From Unknown Sources."
 
 ![Select "Apps from Unknown Sources."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/screenshot_20230822-160640.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Find "Silk Browser" and then toggle on "Allow From This Source." This is what will allow us to install an app from outside of the Amazon app store.
 
 ![Allow the browser to install unknown apps.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/screenshot_20230822-160656.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  With that out of the way, we can start downloading the Play Store files. There are four APK files we will need to get the Play Store up and running, and they're specific to your Fire Tablet.
 
  To find out which Amazon Fire Tablet model you have, go to Settings > Device Options > About Fire Tablet. You'll see your "Device Model" name here. To see your Fire OS version, go to Settings > Device Options > System Updates.
 
 ![Find your Fire Tablet model.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/screenshot_20230822-160721.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  With the device model in mind, we can download the appropriate files below. Simply copy and paste the links from the tables below into the Silk Browser on your Amazon Fire tablet. We're just downloading the files at this point, **don't open them yet**.
 
@@ -98,18 +82,6 @@ thumbnail: https://thmb.techidaily.com/ced9cab3bb4f4b670e0a461fa0277071d0fe6cc51
 
 ![Click the verified "Download APK" button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/2023-08-22_16-28-51.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024333/7443" target="_top" id="2024333">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024333/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Google Account Manager
 
  Ignore the message about a newer version being available.
@@ -124,6 +96,13 @@ thumbnail: https://thmb.techidaily.com/ced9cab3bb4f4b670e0a461fa0277071d0fe6cc51
 | Fire 7 (7th Gen and older)          |                                                                                                                                                                                                    |
 | Fire HD 6                           |                                                                                                                                                                                                    |
 | Fire HDX 8.9                        |                                                                                                                                                                                                    |
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Google Services Framework
 
@@ -142,12 +121,6 @@ thumbnail: https://thmb.techidaily.com/ced9cab3bb4f4b670e0a461fa0277071d0fe6cc51
 | Fire HD 6                        |                                                                                                                                                                                                                  |
 | Fire HDX 8.9                     |                                                                                                                                                                                                                  |
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Google Play Services
 
 | Fire Max 11 (13th Gen)         | [Google Play Services (64-bit ARM, nodpi, Android 11+)](https://www.apkmirror.com/apk/google-inc/google-play-services/variant-%7B%22arches%5Fslug%22%3A%5B%22arm64-v8a%22%2C%22armeabi-v7a%22%5D%2C%22dpis%5Fslug%22%3A%5B%22nodpi%22%5D%2C%22minapi%5Fslug%22%3A%22minapi-30%22%7D/) |
@@ -175,16 +148,24 @@ thumbnail: https://thmb.techidaily.com/ced9cab3bb4f4b670e0a461fa0277071d0fe6cc51
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Install the Play Store
 
  With all the downloaded APK files to your Amazon Fire Tablet, we can begin installing them one by one. Open the "Files" app from the home screen.
 
 ![Open the "Files" app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/screenshot_20230822-160734.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Select "Downloads" from the side menu and switch to the list view for the files. You should see the four files we just downloaded.
 
@@ -207,31 +188,40 @@ thumbnail: https://thmb.techidaily.com/ced9cab3bb4f4b670e0a461fa0277071d0fe6cc51
 
  If you're using the Fire 7 2022 (12th Gen) or a newer Fire tablet running FireOS 8, you may need to manually grant permissions before using the Play Store. Tap and hold the Play Store icon and select "App Info."
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  UPDATE: 4/25/24
 
  In our most recent testing, it was not necessary to manually grant permissions on the Fire 7 2022 (running FireOS 8.3.2.3\. However, if you run into issues, we've retained the instructions below for you to try.
 
 ![Long press the Play Store and tap "App Info."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/screenshot_20230822-160816.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  From the App Info page, select "Permissions."
 
 ![Go to "Permissions."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/screenshot_20230822-160825.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Select both "Phone" and "SMS" and switch them to "Allow." You can now proceed with the rest of the tutorial.
 
 ![Select "Allow."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/screenshot_20230822-160837.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Sign In to the Play Store
 
@@ -249,8 +239,6 @@ thumbnail: https://thmb.techidaily.com/ced9cab3bb4f4b670e0a461fa0277071d0fe6cc51
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -258,4 +246,22 @@ thumbnail: https://thmb.techidaily.com/ced9cab3bb4f4b670e0a461fa0277071d0fe6cc51
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-breaking-ground-in-video-marketing-setting-up-a-review-chain/"><u>[New] Breaking Ground in Video Marketing Setting Up a Review Chain</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-decoding-the-latest-a-close-look-at-magix-music-maker-2024-features/"><u>[New] Decoding the Latest A Close Look at Magix Music Maker 2024 Features</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-latest-hp-laserjet-pro-m404n-printer-drivers-faster-reliable-support/"><u>Download the Latest HP LaserJet Pro M404n Printer Drivers - Faster, Reliable Support</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-newest-nvidia-geforce-rtx-3080-ti-drivers-compatible-with-windows-1087/"><u>Download the Newest NVIDIA GeForce RTX 3080 Ti Drivers Compatible with Windows 10/8/7</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-xiaomi-redmi-13c-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Xiaomi Redmi 13C FRP Locks</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intels-laptop-processors-face-recurring-malfunctions-investigation-finds-parallels-with-previous-hardware-flaws/"><u>Intel's Laptop Processors Face Recurring Malfunctions: Investigation Finds Parallels with Previous Hardware Flaws</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quick-and-easy-tips-on-fire-stick-remote-pairing-techniques/"><u>Quick and Easy Tips on Fire Stick Remote Pairing Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revamp-your-routine-utilizing-chatgpt-for-a-superior-quality-of-living/"><u>Revamp Your Routine: Utilizing ChatGPT for a Superior Quality of Living</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-logitech-driver-installation-process-for-windows-rapid-and-straightforward-guide/"><u>Seamless Logitech Driver Installation Process for Windows - Rapid & Straightforward Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-instructions-for-linksys-wusb6300-driver-download-and-setup-on-windows-systems/"><u>Step-by-Step Instructions for Linksys WUSB6300 Driver Download & Setup on Windows Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/superior-mac-console-simulations-ranked/"><u>Superior Mac Console Simulations Ranked</u></a></li>
+<li><a href="https://win-bits.techidaily.com/1728495671140-usbwindows-11/"><u>USB驱动器加密技巧：在Windows 11系统中实现（详细介绍两种方法）</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/xbox-adapter-driver-downloads-for-quick-setup-and-hassle-free-usage/"><u>Xbox Adapter Driver Downloads for Quick Setup & Hassle-Free Usage</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/dvdmpeg/"><u>ご利用いただきありがとう！DVDからMPEGに簡単変換方法を学ぶ</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Examining the Capabilities of SwitchBot Universal Remote – One Hub or Too Many Limitations?
-date: 2024-09-04T02:09:31.623Z
-updated: 2024-09-05T02:09:31.623Z
+date: 2024-10-14T06:49:22.556Z
+updated: 2024-10-19T05:57:24.227Z
 tags:
   - hardware
 categories:
@@ -44,6 +44,13 @@ Universal Remote can control Infrared appliances such as air conditioners, TVs, 
 
 [_How We Test and Review Products_](https://vp-tips.techidaily.com/swiftly-move-data-fast-and-reliable-methods-to-direct-files-onto-your-computer/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Price and Availability
 
  The SwitchBot Universal Remote retails for $59.99\. On its own, without a hub, however, not all features work. Switchbot sells a bundle with its Hub 2 for $109.99 or with its Hub Mini with Matter for $99.99.
@@ -66,16 +73,17 @@ Universal Remote can control Infrared appliances such as air conditioners, TVs, 
 
  2.4in LCD 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Getting Started Is a Tough Process
 
 ![SwitchBot Universal Remote on a couch](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/switchbot-universal-remote-on-a-couch.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  I was primed to love the Universal Remote from SwitchBot because I desperately want more ways to control the smart lights, blinds, and other connected devices in my house. That’s not sarcastic either. Yelling out for Siri is handy, but not always convenient. Neither is constantly needing to pull out my phone and open an app.
@@ -94,12 +102,6 @@ Tyler Hayes / How-To Geek
 
 ![hand holding showing Matter buttons](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/hand-holding-showing-matter-buttons.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  What do you get if you actually successfully set up the remote? Well, you can use it to control an Apple TV box or Fire TV device. That means it could easily live in your living room and has an excuse to be out and readily accessible.
@@ -128,18 +130,6 @@ Tyler Hayes / How-To Geek
 
  Despite being a device for the entire home, it’s not a controller that begs to be carried around. The Universal Remote looks like a TV remote and probably best serves its purpose by being left in front of a TV—while still being able to manipulate devices across the home. If you do manage to misplace the large device there's a feature in SwitchBot's app to have the remote make a sound.
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The Future of This Device Could Be Amazing (But Wait for It)
 
  Even though the Universal Remote isn’t as full-featured as some people might hope for now, there’s at least a chance updates will improve it in the future. The company has stated that support for Roku, NVIDIA Shield, and Android TV is coming in the future.
@@ -147,11 +137,12 @@ Tyler Hayes / How-To Geek
  Similarly, Alexa and Google Home support are said to be coming in the future as well. The remote is continuing to get software updates to rid it of bugs too. This is all great and encouraging, but don’t buy the Universal Remote now if you plan on using it with one of those devices. Wait until the features are released.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Battery Is a Highlight
 
 ![SwitchBot Universal Remote lying upside down](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/switchbot-universal-remote-lying-upside-down.jpg) 
@@ -162,22 +153,17 @@ Tyler Hayes / How-To Geek
 
  SwitchBot advertises a 150-day battery life and even though I haven’t used the remote for half a year, that number doesn’t shock me. When I did test recharging the remote, the USB-C port at the bottom powered it up quickly.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Should You Buy the SwitchBot Universal Remote?
 
 ![hand holding SwitchBot Universal Remote showing buttons](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/hand-holding-switchbot-universal-remote-showing-buttons.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Tyler Hayes / How-To Geek
 
  Unless you have a very specific need that you’re sure the [SwitchBot Universal Remote](https://www.amazon.com/SwitchBot-Multi-Use-Universal-Customized-Compatible/dp/B0CWQPX2XF?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2004706&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fswitchbot-universal-remote-control-review%2F&asc%5Fcampaign=Authority) can address currently, I would avoid it—for now. The biggest reason is that connecting the remote through Apple’s Home app to reach Matter devices is just too complicated to be worth the hassle. It can be a bit confusing to adjust Matter controls after the initial setup, too.
@@ -185,6 +171,13 @@ Tyler Hayes / How-To Geek
  The execution of using the remote for an Apple TV is fine but felt a tiny bit sluggish compared to Apple’s own remote. Pointing the remote at IR devices is limited. The idea of a universal remote control for your whole home is compelling, but the execution misses the promise a little too much—so far.
 
 ![SwitchBot Remote Control](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/switchbot-remote-control.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #####  SwitchBot Universal Remote
 
@@ -202,8 +195,6 @@ Universal Remote can control Infrared appliances such as air conditioners, TVs, 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -211,4 +202,19 @@ Universal Remote can control Infrared appliances such as air conditioners, TVs, 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-tickling-your-sense-of-humor-tiktoks-20-joke-highlights/"><u>[Updated] In 2024, Tickling Your Sense of Humor TikTok's 20 Joke Highlights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-hardware-enhancements-through-drivers-compatibility-with-modern-windows-oses/"><u>AMD Hardware Enhancements Through Drivers - Compatibility with Modern Windows OSes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/chinas-homegrown-ai-success-mass-production-of-powerful-cixin-p1-processor-with-45-tops-and-advanced-arm-architecture/"><u>China's Homegrown AI Success: Mass Production of Powerful Cixin P1 Processor with 45 TOPS and Advanced Arm Architecture</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-epson-l3n150-driver-software-for-your-windows-pc-win10-win8-win7/"><u>Get the Latest Epson L3n150 Driver Software for Your Windows PC (Win10, Win8, Win7)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-network-interface-driver-downloads-optimize-performance-for-windows-versions-11-7-and-8/"><u>HP Network Interface Driver Downloads: Optimize Performance for Windows Versions 11, 7 & 8</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-oppo-find-x7-ultra-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Oppo Find X7 Ultra Phone Screen?</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/ottimizza-il-tuo-video-con-i-subtitoli-impara-da-movavi/"><u>Ottimizza Il Tuo Video Con I Subtitoli - Impara Da Movavi</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-start-secure-and-convenient-download-of-hp-deskjet-2755e-drivers-for-windows/"><u>Quick-Start: Secure and Convenient Download of HP Deskjet 2755E Drivers for Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-display-error-nvidias-x0001-on-windows-11/"><u>Tackling Display Error: Nvidia's X0001 on Windows 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-future-of-social-interaction-unveiling-six-transformative-facts-about-fbs-metaverse/"><u>The Future of Social Interaction: Unveiling Six Transformative Facts About FB's Metaverse</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/uncover-sites-with-aggregated-ad-spots-on-youtube/"><u>Uncover Sites with Aggregated Ad Spots on YouTube</u></a></li>
+</ul></div>
 

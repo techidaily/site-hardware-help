@@ -1,7 +1,7 @@
 ---
 title: The Hidden Costs of Budget Smartphones with Fragile Glass - How Durability Impacts Your Wallet
-date: 2024-08-30T15:43:45.312Z
-updated: 2024-08-31T15:43:45.312Z
+date: 2024-10-12T19:58:23.532Z
+updated: 2024-10-18T20:31:06.858Z
 tags:
   - hardware
 categories:
@@ -25,9 +25,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
  It was when I got my Samsung Galaxy S8, which came with fifth-generation Gorilla Glass, that I stopped using cases completely. Until I recently started my love affair with [leather cases](https://facebook-video-footage.techidaily.com/new-discover-the-top-30-freefire-hashtags-for-amplifying-video-growth-for-2024/).
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Budget Phones Generally Don't Use The Latest Glass
 
  While the best phones have the best glass, many budget or mid-range phones still use much older glass technology. For example, the [Google Pixel 8a](https://facebook-video-footage.techidaily.com/updated-in-2024-content-creation-evolution-studio-vs-innovative-beta/) sports Corning Gorilla Glass 3! That's as opposed to the Gorilla Glass Victus that comes with the [Pixel 8](https://youtube-tips.techidaily.com/24-simple-guide-youtube-to-mp3-on-mac/). The Samsung Galaxy A25 comes with Gorilla Glass 5, which is what my S8 originally had in 2017.
@@ -35,8 +32,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 ![pixel 8](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/pixel-8.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 #####  Google Pixel 8
 
 Built with Pixel’s most advanced chip and Google AI to help you do more effortlessly. Its cameras are also great at capturing high-quality images even in poorly light environments.
@@ -45,13 +46,23 @@ Built with Pixel’s most advanced chip and Google AI to help you do more effort
 
  While it might not be the first thing you think about when shopping for cheaper handsets, if you aren't careful you may end up with glass technology from a decade ago!
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Cost of Dropping a Budget Phone
 
 ![Close-up of a boy's hand looking at his still working phone with a broken screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/close-up-of-a-boy-s-hand-looking-at-his-still-working-phone-with-a-broken-screen.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Ganka Trendafilova / Shutterstock.com](https://www.shutterstock.com/image-photo/close-boys-hand-looking-his-still-676003645)
 
  While I hate to have to say it, a "budget" smartphone these days still costs a few hundred dollars. I don't know about you, but I would definitely feel it in my pocket if I dropped and smashed a $300 phone. Given how much I drop my much more expensive phones, I don't think some of these old-generation glass covers would have survived.
@@ -59,17 +70,18 @@ Built with Pixel’s most advanced chip and Google AI to help you do more effort
  Of course, if you're careful and lucky, this will never be an issue, so there's definitely an argument where the lack of strong glass on less expensive phones is rarely a problem. Based on the number of people I personally see day-to-day in public with smashed mid-range phone screens however, I think it's something worth considering.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  You Don't Need a Flagship For Good Glass
 
  Not all budget or mid-range phones cut this particular corner, however. Notably, the [OnePlus 12R](https://screen-video-capture.techidaily.com/2024-approved-enhancing-remote-communication-with-effective-skype-screen-sharing/) is equipped with the latest Gorilla Glass Victus 2, something usually reserved for flagship devices. Likewise, the Pixel 8 has Victus, which is just one generation behind the 12R and is still amazing.
 
 ![Person holding a Google Pixel 8 Pro with the Android 15 logo.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/53533188408_8d93bcfdc7_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
  So I'm not advocating that you should buy more expensive phones to have a higher chance of saving money when you drop or mildly abuse your phone. Just that, it's worth spending a few seconds researching what glass you'll be getting with your $300 or $500 phone.
@@ -77,8 +89,12 @@ Justin Duino / How-To Geek
 ![OnePlus 12R](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/oneplus-12r.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 #####  OnePlus 12R
 
 8/ 10 
@@ -101,8 +117,6 @@ The OnePlus 12R is a budget-friendly smartphone that offers a lot of power and f
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -110,4 +124,18 @@ The OnePlus 12R is a budget-friendly smartphone that offers a lot of power and f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-exhaustive-breakdown-of-vsco-photography-tool/"><u>[Updated] 2024 Approved Exhaustive Breakdown of VSCO Photography Tool</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-guide-capturing-your-desktop-using-ezvide-software/"><u>[Updated] 2024 Approved Guide Capturing Your Desktop, Using EZvide Software</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-best-practices-for-an-immersive-streaming-experience/"><u>[Updated] Best Practices for an Immersive Streaming Experience</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-building-brand-authority-top-tips-for-novice-marketers-on-reddit/"><u>2024 Approved Building Brand Authority Top Tips for Novice Marketers on Reddit</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-inject-gpt-4-into-chatgpt-conversations-now/"><u>How to Inject GPT-4 Into ChatGPT Conversations Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-pc-building-with-toms-hardware-wisdom/"><u>Mastering PC Building with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-tech-essentials-hardware-explained-by-tom/"><u>Mastering Tech Essentials - Hardware Explained by Tom</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-tech-with-insights-from-tomn-hardware-experts/"><u>Mastering Tech with Insights From Tom'n Hardware Experts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-the-digital-age-through-toms-pc-and-peripherals-guides/"><u>Mastering the Digital Age Through Tom's PC and Peripherals Guides</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-slow-down-a-video-on-iphone-and-android-the-easy-way-for-2024/"><u>New How to Slow Down a Video on iPhone and Android The Easy Way for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-definitive-breakdown-of-the-502-bad-gateway-problem-and-fixing-it-quickly/"><u>The Definitive Breakdown of the 502 Bad Gateway Problem and Fixing It Quickly</u></a></li>
+</ul></div>
 

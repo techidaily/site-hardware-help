@@ -1,7 +1,7 @@
 ---
 title: The Case for Vertical GPU Installation – Why It's a Game-Changer
-date: 2024-08-30T15:44:41.734Z
-updated: 2024-08-31T15:44:41.734Z
+date: 2024-10-13T18:50:15.849Z
+updated: 2024-10-18T23:09:20.597Z
 tags:
   - hardware
 categories:
@@ -18,6 +18,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * PCIe risers can improve airflow with a minimal performance impact.
 
  There's never been a greater variety of seriously cool PC cases and hardware inside of them. However, there's one small detail that even the most discerning PC builder often forgets about, and that's how you mount the GPU. I say every GPU should be mounted vertically, and here's why.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Graphics Cards Are Seriously Heavy Now
 
@@ -40,8 +47,12 @@ Justin Duino / How-To Geek
 Lian Li
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Show Off Your Cool GPU
 
  Let's be honest, esthetics are one of the main reasons why so many PC builders opt for PCIe risers. The graphics card is the centerpiece of your PC, so it deserves to be placed on a pedestal.
@@ -51,15 +62,23 @@ Lian Li
  My graphics card is the [RX 6600 XT Phantom Gaming D](https://pg.asrock.com/Graphics-Card/AMD/Radeon%20RX%206600%20XT%20Phantom%20Gaming%20D%208GB%20OC/index.asp). The card has a bunch of cool RGB effects that start on the side of the GPU and then travel to the center fan, but I can't enjoy it fully because I don't see the center fan. This could be easily solved by just mounting the graphics card vertically because I'd be able to see both the side and front. The only thing holding me back is that I plan to sell my PC later this year, and I'll aim for a riderless case.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Improved Airflow, Cleaner Cable Management, and Negligible Performance Impact
 
 ![The inside of a PC with many colorful and messy cables.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/rsz_img20240515181510.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Ismar Hrnjicevic / How-To Geek
 
  Unless you have a bunch of case fans, there's a good chance that your PC is struggling for air. Rather than throwing in more fans to solve the airflow problem, you could just move the graphics card instead.
@@ -78,9 +97,6 @@ Ismar Hrnjicevic / How-To Geek
 
 ![coolermaster vertical gpu mount](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/coolermaster-vertical-gpu-mount.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  Cooler Master MasterAccessory Vertical Graphics Card Holder Kit V3
 
 $44 $70 Save $26 
@@ -89,9 +105,6 @@ The Cooler Master MasterAccessory Vertical Graphics Card Holder Kit V3 is a vers
 
 [$44 at Amazon](https://www.amazon.com/Cooler-Master-MasterAccessory-Vertical-Graphics/dp/B0B72D88KL/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004142&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fevery-gpu-should-be-mounted-vertically-change-my-mind%2F&asc%5Fcampaign=Evergreen) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Better Accessibility
 
  In addition to improving cable management, mounting the GPU vertically significantly improves ease of access. Not only will you have an easier time cleaning dust bunnies stuck in your GPU fans and heatsink, but you'll also gain better access to your motherboard. My GPU blocks off the [CMOS battery](https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/), and when I did some troubleshooting, I had to unplug my monitors and remove the graphics card each time I wanted to swap the CMOS battery to see if my issue is resolved.
@@ -108,8 +121,6 @@ The Cooler Master MasterAccessory Vertical Graphics Card Holder Kit V3 is a vers
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -117,4 +128,22 @@ The Cooler Master MasterAccessory Vertical Graphics Card Holder Kit V3 is a vers
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-elevate-your-cycling-top-vr-bike-games/"><u>[Updated] 2024 Approved Elevate Your Cycling TOP VR Bike Games</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-harnessing-the-power-of-zooms-video-filter-options-for-2024/"><u>[Updated] Harnessing the Power of Zoom's Video Filter Options for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-make-every-snap-count-with-these-top-tips/"><u>[Updated] In 2024, Make Every Snap Count with These Top Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-tutorial-on-using-incognito-mode-across-major-web-browsers-including-google-chrome-mozilla-firefox-microsoft-edge-apple-safari-and-opera/"><u>Complete Tutorial on Using Incognito Mode Across Major Web Browsers Including Google Chrome, Mozilla Firefox, Microsoft Edge, Apple Safari, and Opera</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ring-youtube-shorts-a-beginners-guide-to-video-crafting/"><u>Exploring YouTube Shorts A Beginner's Guide to Video Crafting</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-iphones-high-dynamic-range-step-by-step-guide/"><u>In 2024, IPhone's High Dynamic Range Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-proven-methods-for-downloading-a-thousand-tiktoks-at-once/"><u>In 2024, Proven Methods for Downloading a Thousand TikToks at Once</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-the-power-of-youtube-live-selling-unlock-your-sales-potential/"><u>In 2024, The Power of YouTube Live Selling Unlock Your Sales Potential</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-hub-exploring-computer-components/"><u>Tom's Tech Hub: Exploring Computer Components</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-reviews-comprehensive-guides-on-hardware/"><u>Tom's Tech Reviews: Comprehensive Guides on Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-gaming-displays-optimal-choices-for-ps5-xbox-series-x-and-series-s/"><u>Top Gaming Displays: Optimal Choices for PS5, Xbox Series X, and Series S</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/trustworthy-hardware-advice-from-toms-reliable-source/"><u>Trustworthy Hardware Advice From Tom's Reliable Source</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-high-performance-gadgets-a-spotlight-by-toms-hardware-experts/"><u>Unveiling High-Performance Gadgets - A Spotlight by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-tech-secrets-toms-comprehensive-hardware-reviews-and-advice/"><u>Unveiling Tech Secrets: Tom's Comprehensive Hardware Reviews and Advice</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-latest-in-pc-hardware-by-tom-your-trusted-guide/"><u>Unveiling the Latest in PC Hardware by Tom – Your Trusted Guide</u></a></li>
+</ul></div>
 

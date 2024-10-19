@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions for Correcting Steam Deck Glide Anomalies
-date: 2024-08-30T15:46:04.038Z
-updated: 2024-08-31T15:46:04.038Z
+date: 2024-10-14T17:54:42.212Z
+updated: 2024-10-18T16:16:20.115Z
 tags:
   - hardware
 categories:
@@ -27,9 +27,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  If one of the thumbsticks on your Steam Deck develops stick drift, there are several solutions you can try to fix the issue. They range from the simple, like recalibrating the stick, to DIY adventures like opening your Deck and replacing the joystick module. Let’s go through them all.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ##  Restart Your Steam Deck and Try Again
 
  The simplest fix you can try is to restart your [Steam Deck](https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-vivo-x100-drfone-by-drfone-virtual-android/) and then try playing the same game to see if that fixes your problem. If the problem persists, go through the control settings menu of the said game and make sure no options are set in such a way that can mess with the stick movement or sensitivity.
@@ -44,9 +41,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Steam Deck Desktop Mode with the Application Launcher menu open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/how-to-fix-stick-drift-on-your-steam-deck-02-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Open Konsole, pull up the virtual keyboard by pressing the X button, type the following:
 
 thumbstick_cal
@@ -58,6 +52,13 @@ thumbstick_cal
  Now follow instructions to complete the calibration process. Firstly, let go of both sticks and press the A button. Next, tap the taskbar at the bottom of the desktop so that your cursor is out of focus of the Konsole window, and then rotate both joysticks 360 degrees two times, tap on the Konsole window to get back into focus, and press the A button again. That’s it.
 
  Now you can return to Game Mode and test the affected stick.
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Increase the Joystick Deadzone in Game Mode
 
@@ -73,20 +74,28 @@ thumbstick_cal
 
 ![Testing Steam Deck left joystick in Game Mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/how-to-fix-stick-drift-on-your-steam-deck-06.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In fact, I can drop the deadzone to about 5400 and still be fine. If you're noticing drift, you’ll most likely have to increase the deadzone above the default value of 8192\. The max value is set at 18000.
 
 ![Tweaking left joystick deadzone in Steam Deck Game Mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/how-to-fix-stick-drift-on-your-steam-deck-07.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Just for reference, my right stick is doing much better, and I can drop the deadzone value all the way down to about 4400 and still be fine.
 
 ![Tweaking right joystick deadzone in Steam Deck Game Mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/how-to-fix-stick-drift-on-your-steam-deck-08.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Clean the Affected Thumbstick With Compressed Air or Contact Cleaner
 
  If your stick is drifting so much that you have to set a deadzone value so high it makes the stick feel too laggy in games, you might want to try opening your Deck and cleaning it with a contact cleaner like [WD-40](https://www.amazon.com/WD-40-Specialist-Electrical-Contact-Cleaner/dp/B00AF0OFVU?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003103&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fhow-to-fix-stick-drift-on-your-steam-deck%2F&asc%5Fcampaign=Evergreen) or [BW-100](https://www.amazon.com/BW-100-Nonflammable-Electronic-Contact-Upsidedown/dp/B07FNBW47M?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003103&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fhow-to-fix-stick-drift-on-your-steam-deck%2F&asc%5Fcampaign=Evergreen).
@@ -108,8 +117,18 @@ thumbstick_cal
  If the stick’s still drifting around, it’s time to replace it.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Replace the Thumbsticks on Your Steam Deck
 
  If nothing else works, you’ll have to replace the whole joystick module.
@@ -121,8 +140,12 @@ thumbstick_cal
 ![Steam Deck controller ID information.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/how-to-fix-stick-drift-on-your-steam-deck-09.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Now, once you have ordered the modules—I recommend ordering the whole Fix Kit if you don’t have appropriate tools already—follow [the iFixit video guide](https://www.youtube.com/watch?v=z5k6wOMtjzY) in case you own a Steam Deck LCD. And by that I mean follow it to the letter, to avoid any problems because the procedure can be a bit tricky to perform.
 
  If you own a Steam Deck OLED, check out [the guide for replacing the left module](https://www.ifixit.com/Guide/Steam+Deck+OLED+Left+Thumbstick+Replacement/168652), or [the guide for replacing the right one](https://www.ifixit.com/Guide/Steam+Deck+OLED+Right+Thumbstick+Replacement/168609), depending on which of the two thumbstick has drifting issues.
@@ -137,8 +160,6 @@ thumbstick_cal
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +167,24 @@ thumbstick_cal
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-eight-powerful-devices-for-prospective-filmora-alternatives/"><u>[New] 2024 Approved Eight Powerful Devices for Prospective Filmora Alternatives</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-social-stardom-awaits-add-1k-to-your-insta-profile-each-month/"><u>[New] 2024 Approved Social Stardom Awaits Add 1K to Your Insta Profile Each Month</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-decoding-the-audience-who-viewed-your-insta-post-for-2024/"><u>[New] Decoding the Audience Who Viewed Your Insta Post for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-interactive-av-media-collective/"><u>[New] In 2024, Interactive AV Media Collective</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-key-information-every-asmr-aficionado-should-know/"><u>[Updated] Key Information Every ASMR Aficionado Should Know</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/blistering-performance-nextorage-releases-revolutionary-m2-2230-ssd-for-handheld-gaming-with-7400mbs-speeds/"><u>Blistering Performance: Nextorage Releases Revolutionary M.2 2230 SSD for Handheld Gaming with 7,400MB/S Speeds</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-top-tier-gadgets-with-toms-equipment-guide/"><u>Discover Top-Tier Gadgets with Tom's Equipment Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevating-classroom-engagement-with-five-chatgpt-strategies/"><u>Elevating Classroom Engagement with Five ChatGPT Strategies</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/end-of-production-intels-200-series-optane-memory-dimms-set-to-cease-shipments-by-late-2nd-26/"><u>End of Production: Intel's 200-Series Optane Memory DIMMs Set to Cease Shipments by Late 2nD 26</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723864252605-expert-insight-on-agis-ai818-2tb-solid-state-drive-agility-under-the-microscope/"><u>Expert Insight on AGI's AI818 2TB Solid State Drive - Agility Under the Microscope</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723864254809-flash-deal-alert-the-4tb-ssd-by-crucial-is-now-a-steal-only-005-per-gb-but-hurry-limited-stock-available/"><u>Flash Deal Alert! The 4TB SSD by Crucial Is Now a Steal - Only $0.05 per GB, But Hurry, Limited Stock Available</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723864256327-get-your-hands-on-sabrents-speedy-rocket-5-ssds-pre-order-begins-at-an-affordable-price-of-190/"><u>Get Your Hands on Sabrent's Speedy Rocket 5 SSDs - Pre-Order Begins at an Affordable Price of $190</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723864249492-pre-order-now-sabrents-high-performance-rocket-5-ssds-from-just-190/"><u>Pre-Order Now: Sabrent's High-Performance Rocket 5 SSDs From Just $190!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-code-0x0001-problem-in-ge-for-windows/"><u>Steps to Resolve Code 0X0001 Problem in GE for Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-5-reasons-why-i-prefer-not-to-utilize-stage-manager-on-ios-and-macos-devices/"><u>Top 5 Reasons Why I Prefer Not to Utilize Stage Manager on iOS and macOS Devices</u></a></li>
+<li><a href="https://win-blog.techidaily.com/trouble-free-screen-sharing-on-discord-no-more-black-screens-anymore/"><u>Trouble-Free Screen Sharing on Discord: No More Black Screens Anymore!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723864256604-unbeatable-deal-on-high-performance-4tb-samsung-990-pro-pcie-40-ssds-only-7-cents-per-gigabyte/"><u>Unbeatable Deal on High-Performance 4TB Samsung 990 Pro PCIe 4.0 SSDs: Only 7 Cents per Gigabyte!</u></a></li>
+</ul></div>
 

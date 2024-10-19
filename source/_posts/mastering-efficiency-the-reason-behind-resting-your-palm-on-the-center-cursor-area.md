@@ -1,7 +1,7 @@
 ---
 title: "Mastering Efficiency: The Reason Behind Resting Your Palm on the Center Cursor Area"
-date: 2024-08-30T15:43:31.673Z
-updated: 2024-08-31T15:43:31.673Z
+date: 2024-10-11T20:35:08.180Z
+updated: 2024-10-19T09:46:09.415Z
 tags:
   - hardware
 categories:
@@ -21,11 +21,25 @@ thumbnail: https://thmb.techidaily.com/8dec14c118d7ee81f46eabd3dcf3a5188bbf56bf8
 
  I know that sounds like a sales pitch, but it’s not. Putting my mouse between my keyboard halves really changed everything for me as a work-from-home journalist that would often sit at a computer for 9 or more hours per day. Here’s why you should put your mouse between your keyboard halves too!
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  A Split Keyboard Makes It Possible To Reconfigure Your Desk
 
  Let’s start at the beginning here. Before you can put your mouse between your keyboard halves, you have to _have_ keyboard halves. I personally use the [Dygma Raise](https://dygma.com/pages/dygma-raise-2), but there are [other split keyboards](https://eaxpv-info.techidaily.com/new-2024-approved-from-footage-to-feature-making-youtube-thumbnails-mobile/) to choose from. This is crucial because, unless you plan to just cut your keyboard in half, placing a mouse on top of your keyboard won’t be very beneficial. So, split your keyboard and learn to live a little.
 
 ![Logitech MX Master 3 In the middle of a Dygma Raise Split Keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/logitech-mx-master-3-in-the-middle-of-a-dygma-raise-split-keyboard.JPG) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Patrick Campanale / How-To Geek
 
@@ -35,20 +49,17 @@ Patrick Campanale / How-To Geek
 
  It was the first time I saw a split keyboard like the Dygma, and it completely threw me for a loop. I wasn’t sure what I was looking at, and when I first tried it, it was anything but “comfortable.” However, once I got my own (I got bit by the tech bug), and spent a few days adjusting to the split keyboard lifestyle, I was hooked.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Placing The Mouse In Between The Keyboard Halves Is Much More Ergonomic and Comfortable
 
 ![Mouse Beetween Split Keyboard Halves](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/mouse-beetween-split-keyboard-halves.JPG) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Patrick Campanale / How-To Geek
 
  After placing my mouse between the halves of my keyboard, I found that a lot of my wrist pain started to go away. It became more natural, and, I honestly just could never see myself going back.
@@ -59,16 +70,17 @@ Patrick Campanale / How-To Geek
 
  Moving the mouse to the center of my desk helped a lot with the various pains that I had from sitting at a desk for nine or more hours per day. My wrist hurt less, my arm hurt less, and my shoulder hurt less. All from just moving the position of my mouse. So, if your arm, wrist, or shoulder is hurting, try moving your mouse. It might seem odd at first, but, like a split keyboard, it only takes a few days to get used to it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  With The Right Keyboard, You Can Even Keep A Lot Of Functionality While Only Using Half Of It
 
 ![Mouse In The Middle of a Split Keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/mouse-in-the-middle-of-a-split-keyboard.JPG) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Patrick Campanale / How-To Geek
 
  Reprogramming your keyboard is a must when you do this. Often, I don’t rest both of my hands on my keyboard anymore. My left hand stays on my left half, but my right hand rests on my mouse. This means that I’m missing a lot of the functionality that the right half of my keyboard offers, like backspace, enter, arrow keys, and such. Reprogramming keys can be relatively easy. My Caps Lock key, for instance, has been reprogrammed to Enter. I rarely need to use a Caps Lock, and, if I do, it’s on another layer. So, making that an Enter key is a simple solution.
@@ -87,8 +99,6 @@ Patrick Campanale / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -96,4 +106,19 @@ Patrick Campanale / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-insights-into-the-world-of-netflix-the-ultimate-streaming-giant/"><u>Comprehensive Insights Into the World of Netflix: The Ultimate Streaming Giant</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862702293-exclusive-deal-m3-macbook-air-with-16gb-ram-and-13-display-now-at-just-1149/"><u>Exclusive Deal: M3 MacBook Air with 16GB RAM and 13 Display Now at Just $1,149!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-insights-on-the-hp-chromebook-11-an-exceptional-choice-for-schoolwork-office-tasks-and-casual-browsing/"><u>Expert Insights on the HP Chromebook 11: An Exceptional Choice for Schoolwork, Office Tasks & Casual Browsing</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-se-2022-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone SE (2022) to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-tecno-spark-10-4g-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Tecno Spark 10 4G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-rhythm-rangers-must-try-free-online-tools/"><u>In 2024, Rhythm Rangers' Must-Try Free Online Tools</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862727008-memorial-day-memories-asus-tuf-a15-gaming-laptop-at-an-unbeatable-price-of-just-658-in-2n4/"><u>Memorial Day Memories: ASUS TUF A15 Gaming Laptop at an Unbeatable Price of Just $658 in 2N4!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862731130-msi-bravo-with-rtx-4060-gpu-unbeatable-gaming-performance-under-1000/"><u>MSI Bravo with RTX 4060 GPU: Unbeatable Gaming Performance Under $1,000!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/pioneering-haptic-interface-an-in-depth-guide/"><u>Pioneering Haptic Interface An In-Depth Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/quintessential-stop-motion-gems-for-cinephiles/"><u>Quintessential Stop-Motion Gems for Cinephiles</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862702166-the-latest-review-on-the-powerful-asus-zenbook-s16-featuring-thorough-testing-of-the-amd-ryzen-ai-9-hx-370-processor/"><u>The Latest Review on the Powerful Asus Zenbook S16, Featuring Thorough Testing of the AMD Ryzen AI 9 HX 370 Processor</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862704811-toms-tech-reviews-in-depth-hardware-evaluations/"><u>Tom's Tech Reviews - In-Depth Hardware Evaluations</u></a></li>
+</ul></div>
 

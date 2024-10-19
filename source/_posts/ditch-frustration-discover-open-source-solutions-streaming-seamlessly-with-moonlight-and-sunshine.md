@@ -1,7 +1,7 @@
 ---
 title: "Ditch Frustration: Discover Open-Source Solutions - Streaming Seamlessly with Moonlight & Sunshine"
-date: 2024-08-30T15:46:01.616Z
-updated: 2024-08-31T15:46:01.616Z
+date: 2024-10-17T00:54:32.508Z
+updated: 2024-10-19T08:05:33.769Z
 tags:
   - hardware
 categories:
@@ -25,9 +25,6 @@ thumbnail: https://thmb.techidaily.com/c79523d5da758dd05891e015a6284b16ba6ad6e3e
 
  The two originally offered an open-source alternative to [NVIDIA’s GameStream](https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-c51-pin-codepattern-lockpassword-by-drfone-android/) streaming protocol. But since NVIDIA abandoned GameStream some time ago, the combo is now the best alternative to [Steam Remote Play](https://techno-recovery.techidaily.com/reviving-your-lenovo-laptop-the-compreh/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How Moonlight and Sunshine Are Better Than Steam Link
 
  Together, Moonlight and Sunshine excel at overall performance and customization. Not only is the open-source combo more stable than Steam Link and Steam Remote Play, but it also allows gamers to freely adjust streaming options such as resolution, frame rate, video quality, and more.
@@ -40,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/c79523d5da758dd05891e015a6284b16ba6ad6e3e
 
  Local streaming [is the main way](https://visual-screen-recording.techidaily.com/new-2024-approved-utilizing-internal-screen-recording-on-huaweis-mate-1020-and-p-models-p20-p10/) I play PC games on my ROG Ally these days, which means I’m using the Moonlight and Sunshine combo daily. I can report that this works perfectly, even on my older Wi-Fi 5 router. I can recommend Sunshine over NVIDIA GameStream to every NVIDIA GPU owner, with Sunshine's only downside being a bit more complex setup procedure. If you own an AMD or Intel GPU, I can recommend Moonlight and Sunshine over the Steam Link and Steam Remote Play combination any day of the week.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Use Moonlight and Sunshine
 
  Setting up these streaming tools is pretty straightforward. Let’s cover the Sunshine setup procedure first.
@@ -47,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/c79523d5da758dd05891e015a6284b16ba6ad6e3e
  The initial step is visiting the [Sunshine GitHub page](https://github.com/LizardByte/Sunshine) and downloading the appropriate installation package. I chose the Windows installation file.
 
 ![Sunshine executable files listed for download.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/how-to-stream-to-your-steam-deck-17.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once you download the Sunshine installation file, run it and enable the “Launch on Startup” option during the installation.
 
@@ -64,32 +75,27 @@ thumbnail: https://thmb.techidaily.com/c79523d5da758dd05891e015a6284b16ba6ad6e3e
 
 ![After you access Sunshine UI, go to the Configuration tab, find the Sunshine Name option and pick a name for the Sunshine process that will show in Moonlight](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/how-to-stream-to-your-steam-deck-19.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Visit the [Moonlight website](https://moonlight-stream.org/), scroll down until you reach the download section, and download the appropriate version.
 
  Next, install and launch Moonlight. You should be greeted by a locked PC icon bearing the name you’ve given to your PC in the Sunshine web UI. You will of course need to be on the same wireless network for this to work.
 
 ![Once you open Moonlight you should see a PC icon with a lock over it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/how-to-stream-to-your-steam-deck-09.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  Click the locked PC icon, and Moonlight will provide you with the PIN you have to enter into the Sunshine web UI.
 
 ![After you click the locked PC icon in Moonlight, the app should serve you with a four-digit PIN](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/how-to-stream-to-your-steam-deck-10.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Open the Sunshine web UI, click the “PIN” tab, and enter the provided PIN. That’s it!
 
 ![After you acquire the four-digit PIN from Moonlight, open Sunshine web UI, go to the PIN tab, enter the PIN in the apropriate dialog box and then click the send button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/how-to-stream-to-your-steam-deck-20.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Now, you can add game and app shortcuts to Sunshine. The shortcuts you add will be shown in Moonlight once you click the PC icon.
 
  To add an app or game shortcut, visit the “Applications” tab in the Sunshine web UI and click the “Add New” button.
@@ -97,15 +103,23 @@ thumbnail: https://thmb.techidaily.com/c79523d5da758dd05891e015a6284b16ba6ad6e3e
 ![Sunshine web UI Applications tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/sunshine-and-moonlight-03.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Make sure to name the app and enter the full path to the executable file of the app you want to add. Below is a screenshot showing the path to my Steam executable as an example.
 
 ![Sunshine web UI showing a full path to an application, Steam in this case.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/sunshine-and-moonlight-04.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Tips for Best Results
 
  The next step I recommend is visiting the [Sunshine Tutorials](https://www.youtube.com/playlist?list=PLMYr5%5FxSeuXAbhxYHz86hA1eCDugoxXY0) YouTube playlist. It has a ton of videos that explain how to tweak various settings and get the best possible streaming experience.
@@ -138,8 +152,6 @@ thumbnail: https://thmb.techidaily.com/c79523d5da758dd05891e015a6284b16ba6ad6e3e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +159,16 @@ thumbnail: https://thmb.techidaily.com/c79523d5da758dd05891e015a6284b16ba6ad6e3e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/updated-benqs-bl2711u-showcase-the-quest-for-perfect-4k-visual-fidelity/"><u>[Updated] BenQ's BL2711U Showcase The Quest for Perfect 4K Visual Fidelity</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-fixes-when-pathfinder-wrath-of-the-righte-grotesque-isnt-opening-a-step-by-step-guide/"><u>Effective Fixes When Pathfinder: Wrath of the Righte Grotesque Isn't Opening - A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-oneplus-nord-3-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor OnePlus Nord 3 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-honor-v-pursefrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Honor V PurseFRP Lock</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-6s-plus-5-ways-to-get-into-a-locked-apple-iphone-6s-plus-drfone-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone 6s Plus? 5 Ways to get into a Locked Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubling-news-for-users-of-msi-z79-boards-cracked-chipsets-and-possible-production-flaw-affects-hundreds-latest-insights/"><u>Troubling News for Users of MSI Z79# Boards - Cracked Chipsets and Possible Production Flaw Affects Hundreds (Latest Insights)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unboxing-the-asrock-z790i-lightning-wi-fi-motherboard-review-mini-marvel-maximum-performance/"><u>Unboxing the ASRock Z790I Lightning Wi-Fi Motherboard Review: Mini Marvel, Maximum Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unleash-compact-power-the-x600am5-itx-from-asrock-for-sophisticated-home-theater-pc-projects/"><u>Unleash Compact Power: The X600AM5 ITX From ASRock for Sophisticated Home Theater PC Projects</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlocking-potential-with-three-screens-a-deep-dive-into-gigabytes-b760m-micro-atx-board-evaluation/"><u>Unlocking Potential with Three Screens: A Deep Dive Into Gigabyte's B760M Micro ATX Board Evaluation</u></a></li>
+</ul></div>
 

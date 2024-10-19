@@ -1,7 +1,7 @@
 ---
 title: "Nanoleaf Umbra Cup LED Display Assessment: A Novelty Item Overshadowing Its Usefulness"
-date: 2024-08-30T15:46:23.166Z
-updated: 2024-08-31T15:46:23.166Z
+date: 2024-10-16T18:06:51.212Z
+updated: 2024-10-19T02:51:09.326Z
 tags:
   - hardware
 categories:
@@ -76,6 +76,19 @@ With its cup-shaped base, this appropriately named lamp is a perfect desk light 
 
 Expand 
 
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  A Little Umbrella for Your Desk
 
 ![Inside the cup of the Nanoleaf Umbra Cup Smart Lamp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/inside-the-cup-of-the-nanoleaf-umbra-cup-smart-lamp_53646491272_o.jpg) 
@@ -92,13 +105,17 @@ Jerome Thomas / How-To Geek
 
  The LEDs are housed under the umbrella hood and deliver up to 320 lumens and over 16 million colors. Getting the lamp set up was about as straightforward as it gets. Just plug it in, download the Nanoleaf app (and create an account), add the light, connect to Wi-Fi, and install any available firmware updates.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Lighting Features Galore!
 
 ![The Nanoleaf Umbra Cup Smart Lamp controlled via app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-nanoleaf-umbra-cup-smart-lamp-controlled-via-app_53647581103_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  Under the umbrella hood is where the lamp’s LEDs are located. These aren’t your typical A19 bulbs (though we do have a roundup of the [best smart light bulbs](https://tiktok-video-files.techidaily.com/new-achieve-creative-excellence-on-tiktok-with-easy-border-swapping-strategies-for-2024/)). A translucent covering hides what I’m assuming is a grid of tiny LEDs, like you’d find on an LED-LCD TV. According to Nanoleaf-Umbra, the lamp is capable of producing over 16 million colors, along with 1 to 100% dimming and tunable whites. Other than power and brightness, lighting controls can only be accessed through the Nanoleaf app. There’s no remote control either.
@@ -108,13 +125,14 @@ Jerome Thomas / How-To Geek
 ![The home screen of the Nanoleaf app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/nanoleaf-app-home-screen-1.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![Lighting options for the Nanoleaf Umbra Cup Smart Lamp in the Nanoleaf app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/nanoleaf-app-cup-controls-1.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![Highlight controls in the Nanoleaf app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/nanoleaf-app-highlight-controls-1.jpeg) 
 
 Close 
@@ -126,15 +144,16 @@ Close
  It was convenient to be able to “like” a few of the presets, which logged them in my “Favorites” tab for easy access. You’ll also be able to create your very own scenes by tapping the Plus icon in the Scene or Favorites settings. Oh, and last but not least: I was completely blown away by the Circadian Lighting feature. When set up, the lamp will automatically mirror the color temperature of the sun, based on time zone data or manual settings.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  A Smart Lamp Stumped by Wi-Fi
 
 ![The back of the Nanoleaf Umbra Cup Smart Lamp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-back-of-the-nanoleaf-umbra-cup-smart-lamp_53647828375_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The Cup works with Matter and Thread systems. The smart lamp can be integrated into smart ecosystems that are powered by Alexa, Google Home, Apple Home, Samsung SmartThings, and IFTTT; but only when the lamp is connected to Matter-Thread peripherals.
@@ -143,9 +162,6 @@ Jerome Thomas / How-To Geek
 
  While the Nanoleaf app requires a Wi-Fi connection for firmware updates, the Cup’s app controls are handled by Bluetooth connectivity. This means that you won’t be able to control the Cup remotely, and may have range issues when you’re more than 30 feet away.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Should You Buy the Nanoleaf Umbra Cup Smart Lamp?
 
  As much as I loved its mighty trove of app controls, the [Nanoleaf Umbra Cup Smart Lamp](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.crutchfield.com%2FS-IIbdaOJbVDM%2Fp_374UMBRACP%2FNanoleaf-Umbra-Cup-Smart-Lamp.html%3FXVINQ%3DGLX%26XVVer%3D1JI0%26awcr%3D705331334345%26awdv%3Dc%26awnw%3Dg%26awug%3D9004840%26awkw%3Dpla-2320559281082%26awmt%3D%26awat%3Dpla%26gad_source%3D1%26gclid%3DCjwKCAjw4ri0BhAvEiwA8oo6F0a1KkCU15j5PzZx5oEF4K0kqiYaOFbhw7NRXlsNXHzAysYTqrpTTRoCUvEQAvD_BwE) has too much working against it. Not only is it more expensive than many other smart lamps, but the fact that you can only control the Cup over Bluetooth or a Matter-Thread setup is going to be an immediate detractor for most folks.
@@ -153,6 +169,13 @@ Jerome Thomas / How-To Geek
  If this specific Smart Lamp isn't for you, there are plenty of other products—[Nanoleaf Lines Squared](https://youtube-zero.techidaily.com/approved-sound-sculpture-shaping-your-youtube-audio-experience/), [Nanoleaf Shapes Ultra Black Triangles](https://video-creation-software.techidaily.com/updated-2024-approved-how-to-create-a-dvd-from-your-favorite-videos-on-windows-and-mac/), and [Umbra Cono](https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-11-5g-phone-without-pin-by-drfone-android/)—that might fill a similar need.
 
 ![The Nanoleaf Umbra Cup Smart Lamp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/nanoleaf-umbra-cup-smart-lamp-render-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #####  Nanoleaf Umbra Cup Smart Lamp 
 
@@ -168,8 +191,6 @@ With its cup-shaped base, this appropriately named lamp is a perfect desk light 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -177,4 +198,26 @@ With its cup-shaped base, this appropriately named lamp is a perfect desk light 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-expert-tips-for-dealing-with-youtube-copyright-notifications/"><u>[New] In 2024, Expert Tips for Dealing With YouTube Copyright Notifications</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-outstanding-evaluation-and-alternative-paths-for-2024/"><u>[New] Outstanding Evaluation & Alternative Paths for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-exploring-the-world-of-youtube-where-are-my-comments/"><u>[Updated] 2024 Approved Exploring the World of YouTube Where Are My Comments?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-vidma-screen-recorder-review-for-2024/"><u>[Updated] Vidma Screen Recorder Review for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-the-best-10-final-cut-pro-plugins-ever/"><u>2024 Approved The Best 10 Final Cut Pro Plugins Ever</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-problems-with-armored-core-vi-fires-of-rubicon-during-launch-sequence/"><u>Fixing Problems with Armored Core VI: Fires of Rubicon During Launch Sequence</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-6-methods-to-share-apple-iphone-11-pro-screen-with-pc-drfone-by-drfone-ios/"><u>In 2024, 6 Methods to Share Apple iPhone 11 Pro Screen with PC | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-journey-to-discovering-your-personal-youtube-musical-realm/"><u>In 2024, Journey to Discovering Your Personal Youtube Musical Realm</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-mastering-instagram-the-ultimate-video-cropping-techniques/"><u>In 2024, Mastering Instagram The Ultimate Video Cropping Techniques</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/innovative-tech-reviews-toms-guide-to-cutting-edge-gadgets/"><u>Innovative Tech Reviews: Tom's Guide to Cutting-Edge Gadgets</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/optimizing-x399-colfax-memory-speeds-determining-the-ideal-ram-frequency-for-maximum-performance/"><u>Optimizing X399 Colfax Memory Speeds: Determining the Ideal RAM Frequency for Maximum Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723964460892-pushing-past-limits-a-classic-14-year-old-celeron-d-nvidia-gpu-surpasses-expectations-with-a-staggering-837-ghz-overclock/"><u>Pushing Past Limits: A Classic 14-Year Old Celeron D nVidia GPU Surpasses Expectations with a Staggering 8.37 GHz Overclock.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/raphael-demystifies-ddr5-insights-from-amd-and-samsungs-joint-webinar-on-memory-technology-evolution/"><u>Raphael Demystifies DDR5: Insights From AMD & Samsung's Joint Webinar on Memory Technology Evolution</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-all-in-one-laptop-review-how-the-hp-chromebook-11-excels-in-study-sessions-office-tasks-and-gaming-adventures/"><u>The All-in-One Laptop Review: How the HP Chromebook 11 Excels in Study Sessions, Office Tasks & Gaming Adventures</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-computer-gear-by-tom-your-trusted-hardware-advisor/"><u>The Ultimate Guide to Computer Gear by Tom - Your Trusted Hardware Advisor</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-review-in-depth-analysis-of-cutting-edge-computer-components-t17239718687555/"><u>Tom's Tech Review: In-Depth Analysis of Cutting-Edge Computer Components</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-reviews-in-depth-hardware-analysis-t17239718687354/"><u>Tom's Tech Reviews: In-Depth Hardware Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-latest-in-computing-gear-with-toms-hardware-guides/"><u>Unveiling the Latest in Computing Gear with Tom's Hardware Guides</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-latest-in-hardware-a-toms-expert-guide/"><u>Unveiling the Latest in Hardware – A Tom's Expert Guide</u></a></li>
+</ul></div>
 

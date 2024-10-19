@@ -1,7 +1,7 @@
 ---
 title: "A Year of Gaming on the Steam Deck and Mastering Rogue Allies: My Honest Verdict"
-date: 2024-09-04T02:09:20.591Z
-updated: 2024-09-05T02:09:20.591Z
+date: 2024-10-14T20:28:29.049Z
+updated: 2024-10-18T17:02:43.312Z
 tags:
   - hardware
 categories:
@@ -22,6 +22,13 @@ thumbnail: https://thmb.techidaily.com/1265acc31daaf1de37767d4e97f39f4ae2ccc01cb
 ##  Software-Wise, I Strongly Prefer SteamOS
 
 ![SteamOS on Steam Deck](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/steamos.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Steam
 
@@ -52,27 +59,23 @@ Steam
  The ROG Ally's [battery life is dismal](https://some-guidance.techidaily.com/2024-approved-streamline-and-shine-the-top-5-video-quality-tools/), and I hope that the ROG Ally X [delivers on its promise](https://www.theverge.com/24152945/asus-rog-ally-handheld-gaming-pc-2024-revision) and packs a much larger cell than the 40Wh found in the OG Ally.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  The ROG Ally Has Better Build Quality, Controls, and Ergonomics
 
 ![Steam Deck vs ROG Ally laying next to each other.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/steam-deck-vs-rog-ally-controls-and-design.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Goran Damnjanovic / How-To Geek
 
  The build quality is fantastic on both my Deck and Ally. They're both well-built machines that I have had zero issues with up until this point. I've opened both the Deck and Ally multiple times, and reassembling them always went smoothly.
@@ -89,28 +92,10 @@ Goran Damnjanovic / How-To Geek
 
  But I can play games on my Ally for hours on end while lying down without even feeling a trace of wrist discomfort, let alone pain, making the ROG Ally a winner of this round. Sure, the Deck looks nicer and has those sweet dual trackpads, but its weight, combined with the way I use my gaming handhelds, results in it landing just behind the Ally in terms of ergonomics.
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The Game Compatibility Trophy Goes to the ROG Ally
 
 ![Steam Game Library with assorted titles](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/52781464329_36035301f1_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jason Fitzpatrick / How-To Geek
 
  This is one area where I have a clear winner. While the Windows-on-handheld experience is less than stellar, at least you know that you'll be able to play any PC game you want (as long as the Ally has enough oomph). Better still, I can seamlessly mod games on the Ally, I just need to hook a keyboard and mouse so I don't pull my hair out while doing it.
@@ -119,22 +104,17 @@ Jason Fitzpatrick / How-To Geek
 
  On the Steam Deck the process of installing and playing games is pretty straightforward most of the time as well, unless you want to play a non-Steam game. In that case, you have to visit Desktop Mode, [install third-party launchers such as Heroic](https://youtube-blog.techidaily.com/n-2024-the-future-of-tv-watching-a-closer-look-at-youtube-tv/), and sometimes even run Konsole or find your way through the system to apply some fixes, update Proton, or perform some other procedure needed to make a game run at all, which can be a huge pain. At least the process of setting up your emulators with EmuDeck is pretty painless.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Extra Features and Docked Mode: Another Tie
 
 ![Steam Deck hooked to a dock.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/dc58cf90.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Valve
 
  I rarely use my Deck and Ally docked, but when I do, they both work great when paired with the cheap dock I own. I've had no issues with docked mode, but you should note that a number of ROG Ally owners report not being able to use the 30W power profile when docked. I also have had no issues when using these handhelds with a mouse [or keyboard](https://driver-error.techidaily.com/unleashing-potential-in-windows-10-with-lenovo/). They work great with wired, Bluetooth, and 2.4GHz wireless peripherals.
@@ -169,8 +149,6 @@ Valve
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -178,4 +156,19 @@ Valve
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/pic-soundscape-trending-audio-for-cutting-edge-youtube-short-videos/"><u>[New] Epic Soundscape Trending Audio for Cutting-Edge YouTube Short Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-become-a-social-media-sensation-top-9-tips-for-instagram-stardom/"><u>[Updated] Become a Social Media Sensation Top 9 Tips for Instagram Stardom</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-best-online-placements-for-youtube-video-popularity/"><u>[Updated] Best Online Placements for YouTube Video Popularity</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-trending-beats-navigating-the-world-of-viral-tiktok-raps-for-2024/"><u>[Updated] Trending Beats Navigating the World of Viral TikTok Raps for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/acer-nitro-5-driver-refresh-tutorial-for-enhanced-performance/"><u>Acer Nitro 5 Driver Refresh Tutorial for Enhanced Performance</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/best-photo-display-tools-for-iphone-series-upgrades-for-2024/"><u>Best Photo Display Tools For iPhone Series Upgrades for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/creative-writing-revolution-with-chatgpt-uncovering-its-strengths-and-weaknesses/"><u>Creative Writing Revolution with ChatGPT – Uncovering Its Strengths and Weaknesses</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-epson-wf-3520-printer-drivers-for-windows-latest-version/"><u>Download and Install Epson WF-3520 Printer Drivers for Windows - Latest Version</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-sound-experience-how-to-update-corsair-headset-drivers-for-windows-1011/"><u>Enhance Your Sound Experience: How to Update Corsair Headset Drivers for Windows 10/11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-hands-on-the-logitech-g-pro-controller-windows-111087-supported-download/"><u>Get Your Hands on the Logitech G Pro Controller - Windows 11/10/8/7 Supported Download</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Lava Agni 2 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/wireless-broadband-a-comprehensive-guide-to-accessing-the-internet-without-traditional-connections/"><u>Wireless Broadband: A Comprehensive Guide to Accessing the Internet without Traditional Connections</u></a></li>
+</ul></div>
 

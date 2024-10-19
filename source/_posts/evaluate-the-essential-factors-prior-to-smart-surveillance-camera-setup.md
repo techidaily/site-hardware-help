@@ -1,7 +1,7 @@
 ---
 title: Evaluate the Essential Factors Prior to Smart Surveillance Camera Setup
-date: 2024-09-04T02:07:25.669Z
-updated: 2024-09-05T02:07:25.669Z
+date: 2024-10-17T20:59:04.473Z
+updated: 2024-10-19T15:11:33.484Z
 tags:
   - hardware
 categories:
@@ -38,16 +38,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Arlo Essential Indoor Camera turned on and shutter open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/53531166245_61ba364f9e_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  If you're sharing a household with other adults, you'll want to ensure that all of them are fully on board before you place your order. Getting everyone together for a house meeting to discuss the pros and cons, and reach a consensus view, would be the smart way to go here.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3  Check the Law in Your Jurisdiction 
 
  You may also need to check for any legal restrictions in your state or country. In most cases, the law gives you the right to film in a public place, so external cameras that include a view of the street are normally fine, but there are exceptions.
@@ -58,18 +66,6 @@ Jerome Thomas / How-To Geek
 
  Consulting a lawyer may be overkill, but a quick web search on the audio and video recording laws in your area is highly advisable.
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4  Choose Between On-Board and Cloud Storage 
 
  In general, there are two main options when it comes to recording footage captured by smart cameras: on-board recording, and cloud storage.
@@ -79,17 +75,12 @@ Jerome Thomas / How-To Geek
 ![A person holding a microSD card.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/52849011009_f6e8b51064_o.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Jordan Gloor / How-To Geek
 
  Another consideration is how long recordings are retained. There may be cases where, for example, power tools are stolen from a garden shed, and the first you hear about it is when you go to use them weeks later.
@@ -98,12 +89,6 @@ Jordan Gloor / How-To Geek
 
  So think about how far back you may potentially need to go when selecting cameras, subscriptions, and recording media.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5  Think Carefully About Camera Positioning 
 
  Even within your own home, it's generally illegal to record footage in places where anyone in the home, including guests, would have a reasonable expectation of privacy.
@@ -112,22 +97,17 @@ Jordan Gloor / How-To Geek
 
 ![GE CYNC Smart Indoor Security Camera on shelf](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/ge-cync-security-camera.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 GE
 
  Conversely, you may be able to take advantage of those wide angles to reduce the number of cameras you need. For example, it may well be possible to cover both your doorstep and driveway with one camera when it is carefully positioned and angled.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6  Be Proactive About Deleting Footage 
 
  Just as you want to ensure that your recordings go back far enough in time to cover any issues that take time to come to light, you may also want to consider the opposite issue. Given the privacy risks I mentioned, it makes sense to reduce your exposure by ensuring you're not keeping recordings for longer than required.
@@ -146,8 +126,6 @@ GE
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +133,20 @@ GE
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-invisible-insights-into-instagram-story-viewing/"><u>[Updated] In 2024, Invisible Insights Into Instagram Story Viewing</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-pureaiediting-refined-photo-craftsmanship/"><u>[Updated] In 2024, PureAiEditing Refined Photo Craftsmanship</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pleasurable-stream-capture-evaluation/"><u>2024 Approved Pleasurable Stream Capture Evaluation</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-snappy-segments-10-snippets-to-enhance-your-edits/"><u>2024 Approved Snappy Segments 10 Snippets to Enhance Your Edits</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-empty-folder-warning-windows/"><u>Addressing Empty Folder Warning Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/delve-into-technology-with-toms-gadget-guide/"><u>Delve Into Technology with Tom's Gadget Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-upgrade-your-hp-scanjet-driver-for-windows-11-8-or-7-download-instructions-inside/"><u>How to Upgrade Your HP Scanjet Driver for Windows 11, 8 or 7 – Download Instructions Inside</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-spectre-x360-compatibility-boosted-find-and-download-the-right-windows-drivers-here/"><u>HP Spectre X360 Compatibility Boosted: Find and Download the Right Windows Drivers Here</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-professional-tips-for-perfecting-your-srt-files/"><u>In 2024, Professional Tips for Perfecting Your SRT Files</u></a></li>
+<li><a href="https://fox-that.techidaily.com/is-your-phone-display-flickering-try-these-7-fixes/"><u>Is Your Phone Display Flickering? Try These 7 Fixes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/one-click-setup-canon-pro-100-printer-drivers-for-windows/"><u>One-Click Setup: Canon PRO 100 Printer Drivers for Windows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-10-accessory-hits-for-sj-series-drivers-for-2024/"><u>Top 10 Accessory Hits for SJ-Series Drivers for 2024</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/apana-zip-fiil-ka-pana-parapata-karana-ma-mathatha-ka-satha-windows-1011-mal-ka-ganaena-kasa/"><u>अपने ZIP फ़ाइलों को पुन: प्राप्त करने में मदद के साथ Windows 10/11: मूल की गणना कैसे?</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Revolutionary Magnetic Case Fans - A Wireless, Cord-Free Alternative
-date: 2024-08-30T15:45:18.912Z
-updated: 2024-08-31T15:45:18.912Z
+date: 2024-10-15T01:56:59.779Z
+updated: 2024-10-18T16:16:58.120Z
 tags:
   - hardware
 categories:
@@ -28,17 +28,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![A gaming PC with Kingston memory, RGB fans, lights, MSI CPU cooler, and GeForce RTX GPU.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/52647613799_d0b8785135_k.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Justin Duino / How-To Geek
 
  It also doesn't help that computers have gone fan-crazy over the years. It's not uncommon for a case to have a triple stack of fans at the front, and another triple stack in the back, with perhaps a few more thrown in at the top and bottom. This is why more and more enthusiast cases are coming with built-in fan controllers, since motherboards certainly aren't suddenly festooned with fan headers.
 
  The thing is, lots of modern PCs need this many fans. Either because they're eating through hundreds of Watts and need to shift that heat, or the desire for less fan noise, or both. So this certainly smells like a problem worth solving.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Enter Cable-Free Magnetic Modular Fans
 
  This is where MSI comes into the picture with their [MPG EZ120 ARGB](https://www.msi.com/PC-Component/MPG-EZ120-ARGB). These fans use a magnetic coupling system that transfers both power and data from one fan to the next. There are two different blocks for each fan, one to carry power and speed control signals, and another to carry RGB sync data.
@@ -46,17 +47,24 @@ Justin Duino / How-To Geek
 ![MSI's magnetic fan connector blocks.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-28-at-17-10-48.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 MSI
 
  There is obviously one cable connecting the first fan in the chain to the motherboard or fan controller hub, but from there you can just stack them together like building blocks.
 
 ![MSI EZ120 fan diagram.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/ez-mpg-ez120-argb.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 MSI
 
  You also have the option of connecting fans together with a special daisy-chain cable, so you can connect fans on opposite sides of the case together using the same fan header. Since many cases now have a special space to route cables under the motherboard tray, you can really use these fans to clear out a huge chunk of cables from your build.
@@ -64,21 +72,35 @@ MSI
 ![MSI daisy-chain diagram.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/ez-daisy-chain.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 MSI
 
  In order to get the most out of these fans, you'll want MSI's fan hub, which supports up to 18 of these EZ120 fans, providing enough power to run them all.
 
 ![MSI daisy-chain diagram.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/msi-ez120-hub.png) 
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 MSI
 
  Even with reliance on a hub, you'll still have a major reduction in cabling. You should be able to go from the hub, to a stack of fans, then daisy-chain to the other side of the case and hook up another stack. Technically this will be a single continuous line by my estimation, and that's just cool.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ##  More Brands Should Get In on This
 
  I'm really impressed by this idea, and I think more companies should (and probably will) follow MSI's lead when it comes to this concept. Of course, right now it's a proprietary solution, but it would be nice to have a shared standard for magnetically-stacked fans. The use of magnets in computers has grown over the years, and I love magnetic panels and covers on gadgets.
@@ -91,8 +113,6 @@ MSI
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -100,4 +120,26 @@ MSI
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-modern-techniques-record-idevice-screen-effortlessly/"><u>[New] 2024 Approved Modern Techniques Record iDevice Screen Effortlessly</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-audio-recording-101-from-youtube-playback-to-files/"><u>[New] Audio Recording 101 From YouTube Playback To Files</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-unveiling-manycams-cutting-edge-recording-system/"><u>[New] Unveiling ManyCam's Cutting-Edge Recording System</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-profitability-probe-dailymovement-versus-youtubes-financial-edge/"><u>[Updated] 2024 Approved Profitability Probe DailyMovement Versus YouTube's Financial Edge</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-tweet-vids-made-easy-and-free-to-gif-transformation-for-2024/"><u>[Updated] Tweet Vids Made Easy & Free To GIF Transformation for 2024</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/e-book-mastery-with-epubor-streamlined-editing-software-for-beginners/"><u>E-Book Mastery with EPUBOR: Streamlined Editing Software for Beginners</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/evolving-watch-tech-with-ai-discover-6-game-changing-uses-for-chatgpt-in-smartwatches/"><u>Evolving Watch Tech with AI: Discover 6 Game-Changing Uses for ChatGPT in Smartwatches</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-c32-phone-without-password-by-drfone-android/"><u>How To Unlock Nokia C32 Phone Without Password?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-huawei-nova-y91-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Huawei Nova Y91 Phone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/shifting-paradigms-non-youtube-video-hosts-for-2024/"><u>Shifting Paradigms Non-Youtube Video Hosts for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-computer-gear-expert-reviews-and-advice/"><u>Tom's Computer Gear: Expert Reviews and Advice</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-expert-advice-on-hardware/"><u>Tom's Tech Insights: Expert Advice on Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-review-unbiased-insights-on-hardware/"><u>Tom's Tech Review: Unbiased Insights on Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-review-of-the-titan-p2-27a2r-monitor-exceptional-value-for-high-speed-gamers/"><u>Top Review of the Titan P2#-27A2R Monitor: Exceptional Value for High-Speed Gamers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/transform-your-gameplay-score-the-acer-nitro-27-inch-gaming-monitor-at-an-amazing-price/"><u>Transform Your Gameplay: Score the Acer Nitro 27-Inch Gaming Monitor at an Amazing Price!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unleash-your-gaming-potential-with-a-massive-39-inch-lg-ultragear-monitor-only-999-at-amazon-today/"><u>Unleash Your Gaming Potential with a Massive 39-Inch LG Ultragear Monitor – Only $999 at Amazon Today!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlocking-the-potential-of-xiaomi-g34wqi-monitor-a-deep-dive-into-34-inches-180hz-speed-and-remarkable-picture-quality-for-gamers-on-a-budget/"><u>Unlocking the Potential of Xiaomi G34WQi Monitor - A Deep Dive Into 34 Inches, 180Hz Speed, and Remarkable Picture Quality for Gamers on a Budget</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-latest-in-tech-toms-system-analysis-and-guides/"><u>Unveiling the Latest in Tech: Tom's System Analysis and Guides</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-secrets-of-high-performance-computers-via-toms-hardware/"><u>Unveiling the Secrets of High-Performance Computers via Tom's Hardware</u></a></li>
+</ul></div>
 

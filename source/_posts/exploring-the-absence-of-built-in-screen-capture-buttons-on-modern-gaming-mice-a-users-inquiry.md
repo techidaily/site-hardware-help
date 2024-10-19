@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Absence of Built-In Screen Capture Buttons on Modern Gaming Mice: A User's Inquiry"
-date: 2024-08-30T15:42:20.457Z
-updated: 2024-08-31T15:42:20.457Z
+date: 2024-10-17T18:45:31.861Z
+updated: 2024-10-18T23:55:47.626Z
 tags:
   - hardware
 categories:
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
 
  I’ve always wanted a dedicated screenshot button on my gaming mouse. Now that I’m rocking a dual mouse setup, I finally turned my dream into reality. Here’s how I did it and why I waited so long to finally take the plunge.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Remap Your Mouse Button to Capture Screenshots With It
 
  This procedure should be simple and painless if your mouse comes with a dedicated app that supports remapping mouse buttons.
@@ -35,16 +42,10 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
 
 ![Logitech G Hub home screen showing the currently active mouse button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/how-to-add-a-screenshot-button-to-your-mouse-01.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
  If you’re using On-board Memory Mode, turn it off by clicking the appropriate button.
 
 ![Logitech G Hub disabling on-board memory mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/how-to-add-a-screenshot-button-to-your-mouse-02.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now, click the “Assignments,” then the “Macros” menu, and finally the “Create New Macro” button.
 
 ![Logitech G Hub button customization menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/how-to-add-a-screenshot-button-to-your-mouse-03.png) 
@@ -52,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
  You'll need to name the new macro. In my case, I named it “Screenshot.” Press Enter to move to the next step.
 
 ![Naming a new macro in Logitech G Hub.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/how-to-add-a-screenshot-button-to-your-mouse-04.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The type of macro you want is “No Repeat” since you want to take a single screenshot with a single button press.
 
@@ -65,28 +73,21 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
 
 ![Logitech G Hub showing types of macros you can record.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/how-to-add-a-screenshot-button-to-your-mouse-07.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Next, press Win+PrtSc, click the “Stop Recording” button, and click Save.
 
 ![Recording and saving a new macro in Logitech G Hub.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/how-to-add-a-screenshot-button-to-your-mouse-08.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
  Next, just click and drag the macro you just recorded to the button you want to take screenshots with. In my case, it was the “Forward” button.
 
 ![Assigning the screenshot macro to a mouse in Logitech G Hub.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/how-to-add-a-screenshot-button-to-your-mouse-09.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Now, you can take screenshots with a mouse button instead of pressing multiple buttons on your keyboard or hitting PrtSc, opening Paint, and pasting the screenshot there.
 
  If you don't have a Logitech mouse, the steps you'll need to take will be different but ultimately the process should be similar: create a new macro, record keystrokes, then save and assign it to a button.
@@ -100,8 +101,12 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
 ![Hellblade II screenshot captured with a mouse button macro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-1319.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Goran Damnjanovic / How-To Geek
 
  The ability to grab screenshots at the exact moment you want is also handy for games like _GTA V_, where you accidentally stumble upon breathtaking vistas all the time while driving or flying and looking at the sights.
@@ -111,6 +116,13 @@ Goran Damnjanovic / How-To Geek
  However, sacrificing a mouse button to be able to quickly take screenshots is far from ideal, especially since a large majority of modern gaming mice have only a couple of extra buttons. The only reason I have done it now is because [I switched to a dual mouse setup](https://screen-mirror.techidaily.com/guide-to-mirror-your-itel-s23-to-other-android-devices-drfone-by-drfone-android/) so I don’t need the “Forward” button on my gaming mouse anymore since I only use it when gaming.
 
  That said, there’s a chance you own a mouse with lots of extra buttons, such as an MMO mouse like the [Razer Naga](https://razer.a9yw.net/c/156932/642901/10229?subId1=UUhtgUeUpU2004276&subId2=ehtg&u=https%3A%2F%2Fwww.razer.com%2Fpc%2Fgaming-mice%2Fnaga-line), or a rodent with a bunch of extra buttons, such as the [Logitech G502](https://some-skills.techidaily.com/master-iphone-cams-with-these-hacks-for-2024/), [Logitech G903](https://www.logitechg.com/en-us/products/gaming-mice/g903-hero-wireless-gaming-mouse.910-005670.html), or the [Razer Basilisk V3 Pro](https://razer.a9yw.net/c/156932/642901/10229?subId1=UUhtgUeUpU2004276&subId2=ehtg&u=https%3A%2F%2Fwww.razer.com%2Fgaming-mice%2Frazer-basilisk-v3-pro). In that case, reserving one of the buttons for taking screenshots shouldn’t be a big deal.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  We Need Mice with Dedicated Screenshot Buttons
 
@@ -130,8 +142,6 @@ Goran Damnjanovic / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,4 +149,26 @@ Goran Damnjanovic / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-cyberlink-the-pinnacle-of-digital-recording/"><u>[New] Cyberlink The Pinnacle of Digital Recording</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-cutting-edge-vr-handwear-a-comprehensive-guide/"><u>[Updated] 2024 Approved Cutting-Edge VR Handwear A Comprehensive Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-tricks-instant-clearance-of-ssgnature-backdrops/"><u>[Updated] Expert Tricks Instant Clearance of Ssgnature Backdrops</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-prime-top-10-free-transcript-harvesters-for-videos/"><u>[Updated] Prime Top 10 Free Transcript Harvesters for Videos</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-analysis-of-the-alienware-m18-r2-desktop-a-beastly-gaming-system-with-clicky-mechanical-keys/"><u>Comprehensive Analysis of the Alienware M18 R2 Desktop: A Beastly Gaming System with Clicky Mechanical Keys</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/computex-2024-leak-reveals-asus-rog-ally-and-qualcomm-equipped-notebooks-new-graphics-cards-missing-from-the-list/"><u>Computex 2024 Leak Reveals ASUS ROG Ally and Qualcomm-Equipped Notebooks — New Graphics Cards Missing From the List</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/crafting-efficiency-uncover-the-secrets-behind-lenovo-yoga-pro-9is-sleek-keyboard-and-design/"><u>Crafting Efficiency: Uncover the Secrets Behind Lenovo Yoga Pro 9I's Sleek Keyboard and Design</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/cutthroat-capitalism-reimagined-an-in-depth-review-of-offworld-trading-companys-economy-simulation/"><u>Cutthroat Capitalism Reimagined: An In-Depth Review of Offworld Trading Company's Economy Simulation</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-analysis-on-gadgets-by-toms-electronics-hub/"><u>Expert Analysis on Gadgets by Tom's Electronics Hub</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-hardware-critiques-with-tom-navigating-todays-technology-landscape/"><u>Expert Hardware Critiques with Tom: Navigating Today's Technology Landscape</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-insights-from-toms-electronics-hub-the-authority-on-modern-devices/"><u>Expert Insights From Tom's Electronics Hub: The Authority on Modern Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-insights-on-new-hardware-from-toms-computing-hub/"><u>Expert Insights on New Hardware From Tom's Computing Hub</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-gadgets-with-tom-in-depth-technology-analysis/"><u>Exploring Gadgets with Tom: In-Depth Technology Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-the-latest-in-computer-components-with-toms-tech-reviews/"><u>Exploring the Latest in Computer Components with Tom's Tech Reviews</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-effortlessly-change-wmv-video-format-to-flv-discover-the-best-6-strategies/"><u>How To Effortlessly Change WMV Video Format to FLV: Discover The Best 6 Strategies</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-nubia-red-magic-9-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-vivo-x-fold-2-devices-by-drfone-android/"><u>How to Reset Gmail Password on Vivo X Fold 2 Devices</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-vimeoifytweets-video-to-mp3-and-mp4/"><u>In 2024, VimeoifyTweets Video-to-MP3 & MP4</u></a></li>
+</ul></div>
 

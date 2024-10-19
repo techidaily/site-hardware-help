@@ -1,7 +1,7 @@
 ---
 title: Evaluating the Nanoleaf Umbra Cup - Innovative Tech or Just an Office Diversion?
-date: 2024-08-30T15:43:18.515Z
-updated: 2024-08-31T15:43:18.515Z
+date: 2024-10-14T21:14:04.855Z
+updated: 2024-10-19T14:40:23.013Z
 tags:
   - hardware
 categories:
@@ -76,13 +76,17 @@ With its cup-shaped base, this appropriately named lamp is a perfect desk light 
 
 Expand 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  A Little Umbrella for Your Desk
 
 ![Inside the cup of the Nanoleaf Umbra Cup Smart Lamp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/inside-the-cup-of-the-nanoleaf-umbra-cup-smart-lamp_53646491272_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  From the moment I unboxed the Cup, I knew I was going to have a tough time getting used to it hanging out on my desk. After two full weeks, my feelings didn’t shift much. Plain and simple, part of the issue was the appearance. Standing just over 12.5 inches tall, Nanoleaf and Umbra went for a beach umbrella appearance, an aesthetic that some will like and others won’t. I am in the latter camp, though I did find it convenient to be able to stick a pair of headphones or other items _on top_ of the lamp.
@@ -91,13 +95,17 @@ Jerome Thomas / How-To Geek
 
 ![The Nanoleaf Umbra Cup Smart Lamp power knob](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-nanoleaf-umbra-cup-smart-lamp-power-knob_53647362681_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  The LEDs are housed under the umbrella hood and deliver up to 320 lumens and over 16 million colors. Getting the lamp set up was about as straightforward as it gets. Just plug it in, download the Nanoleaf app (and create an account), add the light, connect to Wi-Fi, and install any available firmware updates.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Lighting Features Galore!
 
 ![The Nanoleaf Umbra Cup Smart Lamp controlled via app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-nanoleaf-umbra-cup-smart-lamp-controlled-via-app_53647581103_o.jpg) 
@@ -111,22 +119,23 @@ Jerome Thomas / How-To Geek
 ![The home screen of the Nanoleaf app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/nanoleaf-app-home-screen-1.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![Lighting options for the Nanoleaf Umbra Cup Smart Lamp in the Nanoleaf app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/nanoleaf-app-cup-controls-1.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![Highlight controls in the Nanoleaf app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/nanoleaf-app-highlight-controls-1.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close 
 
  If you’re the kind of person who wants to fine-tune every aspect of your [smart lights](https://fox-that.techidaily.com/1721479062545-experiencing-wi-fi-woes-let-us-show-you-how-to-connect-your-iphone-to-any-computer/), I recommend starting with the “Basic” dashboard. By default, you’ll see a color wheel with a small circle for you to drag around the shape. Whenever I selected a new color, the Cup changed quickly. Raising and lowering brightness was just as fast. I liked having the ability to switch the color wheel over to color temperature, which can be adjusted from 2100 Kelvin (warm white) up to 6500K (daylight).
@@ -139,6 +148,13 @@ Close
 
 ![The back of the Nanoleaf Umbra Cup Smart Lamp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-back-of-the-nanoleaf-umbra-cup-smart-lamp_53647828375_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  The Cup works with Matter and Thread systems. The smart lamp can be integrated into smart ecosystems that are powered by Alexa, Google Home, Apple Home, Samsung SmartThings, and IFTTT; but only when the lamp is connected to Matter-Thread peripherals.
@@ -147,9 +163,6 @@ Jerome Thomas / How-To Geek
 
  While the Nanoleaf app requires a Wi-Fi connection for firmware updates, the Cup’s app controls are handled by Bluetooth connectivity. This means that you won’t be able to control the Cup remotely, and may have range issues when you’re more than 30 feet away.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Should You Buy the Nanoleaf Umbra Cup Smart Lamp?
 
  As much as I loved its mighty trove of app controls, the [Nanoleaf Umbra Cup Smart Lamp](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.crutchfield.com%2FS-IIbdaOJbVDM%2Fp_374UMBRACP%2FNanoleaf-Umbra-Cup-Smart-Lamp.html%3FXVINQ%3DGLX%26XVVer%3D1JI0%26awcr%3D705331334345%26awdv%3Dc%26awnw%3Dg%26awug%3D9004840%26awkw%3Dpla-2320559281082%26awmt%3D%26awat%3Dpla%26gad_source%3D1%26gclid%3DCjwKCAjw4ri0BhAvEiwA8oo6F0a1KkCU15j5PzZx5oEF4K0kqiYaOFbhw7NRXlsNXHzAysYTqrpTTRoCUvEQAvD_BwE) has too much working against it. Not only is it more expensive than many other smart lamps, but the fact that you can only control the Cup over Bluetooth or a Matter-Thread setup is going to be an immediate detractor for most folks.
@@ -172,8 +185,6 @@ With its cup-shaped base, this appropriately named lamp is a perfect desk light 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -181,4 +192,23 @@ With its cup-shaped base, this appropriately named lamp is a perfect desk light 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-present-day-drones-and-their-upcoming-role-evolution-for-2024/"><u>[New] Present-Day Drones and Their Upcoming Role Evolution for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-expand-audiences-quickly-using-short-form-content/"><u>[Updated] Expand Audiences Quickly Using Short Form Content</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-expertise-amplified-10-must-know-canva-techniques/"><u>2024 Approved Expertise Amplified 10 Must-Know Canva Techniques</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/bring-your-photos-to-life-adding-radial-focus-effects-ps-for-2024/"><u>Bring Your Photos to Life Adding Radial Focus Effects PS for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/explore-the-latest-unveiling-microsofts-surface-and-surface-pro-computers-equipped-with-copilotplus/"><u>Explore the Latest: Unveiling Microsoft's Surface & Surface Pro Computers Equipped with Copilot+</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-apple-macbook-pro-with-m3-chip-now-for-500-less-before-prime-day-bonanza-starts/"><u>Get the Apple MacBook Pro with M3 Chip Now for $500 Less Before Prime Day Bonanza Starts</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-nokia-c210-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Nokia C210 Devices</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-realme-12-5g-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-poll-power-play-best-election-strategy-games/"><u>In 2024, Poll Power Play Best Election Strategy Games</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/masterful-hardware-guides-from-toms-technology-resource-center/"><u>Masterful Hardware Guides From Tom's Technology Resource Center</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/preview-the-acemagic-x1-before-it-hits-shelves-limited-time-offer-for-tech-enthusiasts/"><u>Preview the AceMagic X1 Before It Hits Shelves - Limited Time Offer for Tech Enthusiasts!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-definitive-guide-to-upgrades-and-peripherals-by-toms-tech-insights/"><u>The Definitive Guide to Upgrades and Peripherals by Tom’s Tech Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-end-of-ai-pcs-as-we-know-them-microsofts-copilotplus-takes-your-2024-laptop-experience-to-new-heights/"><u>The End of AI PCs as We Know Them: Microsoft's Copilot+ Takes Your 2024 Laptop Experience to New Heights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-hub-comprehensive-hardware-insights/"><u>Tom's Tech Hub: Comprehensive Hardware Insights</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-hue-harmonizer-software/"><u>Ultimate Hue Harmonizer Software</u></a></li>
+<li><a href="https://program-issues.techidaily.com/valheim-initialization-issue-troubleshooting-steps-to-get-the-game-running/"><u>Valheim Initialization Issue : Troubleshooting Steps to Get the Game Running</u></a></li>
+</ul></div>
 

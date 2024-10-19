@@ -1,7 +1,7 @@
 ---
 title: "Fixing Internet Outages: Top 10 Solutions to Restore Your Online Connectivity"
-date: 2024-08-30T15:44:21.920Z
-updated: 2024-08-31T15:44:21.920Z
+date: 2024-10-12T21:48:21.254Z
+updated: 2024-10-18T22:35:52.242Z
 tags:
   - hardware
 categories:
@@ -26,25 +26,31 @@ thumbnail: https://thmb.techidaily.com/23c1e788c86a1fe74b0e576c3c163c7e8cc36d0f7
 
  It's useful to have a checklist of things to try when your internet is not working. Sometimes you can fix the problem yourself, while other times, it's caused by a problem with your service provider. Here's how to pin down and fix the problem.
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  First, Check Whether Your Internet Connection Is Down
 
  Sometimes the problem isn't your internet connection at all. If you're trying to access a website that simply won't work, it might just be a problem with that web page. You can try performing a search or checking social media to see whether those services are working, or you can query the website in question with a service like [downfor.io](http://downfor.io).
 
 ![Downfor.io Status for How-To Geek](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/downfor_howtogeek.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Test Your Local Wi-Fi or Ethernet Connection
 
  If you're still getting nothing, check the local connection between your device and your network hardware. A glance at the system tray on Windows or at the menu bar on a Mac will show whether you are connected via a wired or a wireless connection. On a smartphone, look for the Wi-Fi symbol or head to your device settings and attempt to connect from there.
 
 ![macOS Wi-Fi Status](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/wifi_status.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
  If you're connected via Wi-Fi but the internet still isn't working, this points to a problem with your online connection. If you can't find your wireless network, this points to a problem with your network hardware.
 
 ##  Reset Your Wireless Connection
@@ -58,24 +64,40 @@ The ultimate burning program for all your needs!</a>
  You will need the password to your wireless network to set up the connection again, so be sure to have that handy first.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Using Ethernet? Check Your Cables
 
  If you're using a wired connection, make sure that the Ethernet cable is seated correctly in both your router and your PC. You can try removing the cable and reconnecting it to be sure. If you find that the cable is damaged in some way, try a replacement and see whether that fixes your issue.
 
 ![A person plugging in an Ethernet cable.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/52577263822_d4a556c6f7_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek  
   
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Try Restarting the Problem Device
 
  If in doubt, turn it off and on again. By restarting the problem computer or smartphone, you're ruling out software issues caused by the operating system. You might even fix the issue entirely.
 
 ![Restarting a Windows 11 PC.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/restart-pc.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Occasionally, core services associated with networking stop working. This doesn't necessarily mean that there's a "problem" with your device that needs further attention, but a restart should solve the issue.
 
@@ -85,9 +107,6 @@ Hannah Stryker / How-To Geek
 
  You should also check that any network connections you rely on are firmly seated in your router or modem. Feel free to remove any cables and then reseat them in the slots where you found them. If you have a DSL connection that relies on a phone socket, make sure that it hasn't been knocked out or broken by mistake.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ##  Reboot Your Router
 
  Network hardware can and does crash from time to time. This is particularly common if the router, switch, or modem gets hot and isn't adequately ventilated. One solution is to properly power-cycle the hardware: Switch any network equipment off, wait 30 seconds, and then turn it on again.
@@ -102,9 +121,6 @@ Hannah Stryker / How-To Geek
 
 ![Router Status for Network Connection](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/router_status.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once you've logged in with your admin username and password, you'll be able to navigate your way to some sort of status. You may need to enter an "Advanced" mode to see more information about any errors that the router has encountered. Since all network hardware is different, we can't guide you here.
 
  If you happen to find some information about your network status, make a note of any errors or error codes that you see. If there is indeed a problem with your connection, you can quote these errors and codes when you contact your service provider later.
@@ -112,8 +128,12 @@ Hannah Stryker / How-To Geek
  If your hardware reports that there is nothing wrong with the wider connection, you can be fairly confident that the problem is something to do with your local device.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Try Another Device to Isolate the Issue
 
  Isolating a problem to a particular device like a computer or smartphone can be tricky, but if you're not having any luck with the solutions we've already suggested, consider trying another device on the same network, ideally using the same type of network connection (wireless or wired).
@@ -126,6 +146,13 @@ Hannah Stryker / How-To Geek
 
  If other devices on your network are working, consider that there may be problems with your software, hardware, or network settings causing the issue. Fortunately, there are a few other things that you can try.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Try Changing Your DNS Servers
 
  DNS stands for ["domain name system,"](https://instagram-clips.techidaily.com/new-2024-approved-revealing-the-top-10-hidden-story-supporters/) and it's essentially the phonebook that your computer uses to associate IP addresses (e.g. 123.0.0.4) with domain names (like howtogeek.com).
@@ -133,20 +160,16 @@ Hannah Stryker / How-To Geek
 ![Add Custom DNS on iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/iphone_dns.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  To rule out a problem with your DNS settings, learn [how to change DNS on any device](https://common-error.techidaily.com/fixing-network-issues-a-guide-to-dealing-with-unavailable-dhcp-servers/) to servers provided by Google (8.8.8.8) or Cloudflare (1.1.1.1), and test for the problem again. You should restart your device after changing your DNS settings to ensure that they take effect.
 
  If this solves your issue, then you might just want to leave things as they are, since [your service provider's DNS servers are probably slower](https://easy-unlock-android.techidaily.com/the-ultimate-guide-to-oneplus-open-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/) anyway.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Try Disabling Any Firewalls You Have Running
 
  Firewalls stop internet traffic from communicating on certain "ports" and may take the form of software (running on your computer) or hardware (like a router). Windows and macOS both have built-in firewalls that can cause all sorts of problems. Try disabling them if you are having issues with the internet.
@@ -157,13 +180,17 @@ Hannah Stryker / How-To Geek
 
  There are other firewalls, like those included with security software and anti-malware scanners. Make sure that any additional firewalls are disabled.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Try Running a Malware Scan
 
  Malware may also cause problems with your internet connection, so it's worth running a malware scan with something like [Malwarebytes](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU210184/https://www.malwarebytes.com/) (Windows and Mac) or Microsoft's own Windows Defender Antivirus.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ##  Finally: Contact Your Service Provider
 
  If the problem is with your connection and you've tried everything listed to no avail, it's time to report a fault and let your service provider deal with it. Your provider will likely attempt to run you through some of the things we've already tried, so make sure that you let them know what you've done so far.
@@ -180,8 +207,6 @@ Hannah Stryker / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -189,4 +214,24 @@ Hannah Stryker / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-capturing-your-macs-display-live-easy-steps-included/"><u>[New] In 2024, Capturing Your Mac's Display Live - Easy Steps Included</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-top-10-fb-video-downloader-tools-firefox-compatible/"><u>[Updated] In 2024, Top 10 FB Video Downloader Tools, Firefox Compatible</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-unlock-the-full-potential-of-snapkit-in-business-ads/"><u>[Updated] Unlock the Full Potential of SnapKit in Business Ads</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-logic-pro-guide-gradually-lowering-audio-levels/"><u>2024 Approved Logic Pro Guide Gradually Lowering Audio Levels</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/abbyy-backs-humanity-project-in-pioneering-unbiased-ai-oversight-tools/"><u>ABBYY Backs Humanity Project in Pioneering Unbiased AI Oversight Tools</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-view-mov-files-on-galaxy-a24-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to view MOV files on Galaxy A24 ?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-recommended-filmmaking-equipment-roundup/"><u>In 2024, Expert-Recommended Filmmaking Equipment Roundup</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-future-of-audio-sonys-3d-wireless/"><u>The Future of Audio - Sony's 3D Wireless</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-affordable-tablets-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top Affordable Tablets : Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-selection-of-gaming-curve-displays-2024-edition/"><u>Ultimate Selection of Gaming Curve Displays - 2024 Edition</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-deal-grab-the-gigabyte-gs32q-quad-hd-32-gaming-display-with-170hz-for-just-199/"><u>Unbeatable Deal: Grab the Gigabyte GS32Q - Quad HD, 32 Gaming Display with 170Hz for Just $199</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbelievable-offer-acquire-the-iconic-thordarth-vader-screen-with-powerful-2k-resolution-for-only-139-at-a-chinese-shop/"><u>Unbelievable Offer! Acquire the Iconic Thor/Darth Vader Screen with Powerful 2K Resolution for Only $139 at a Chinese Shop</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/uncover-high-tech-secrets-for-gamers-and-professionals-on-tomastohardwarecom/"><u>Uncover High-Tech Secrets for Gamers & Professionals on Tom'astohardware.com</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unraveling-gadgets-and-components-with-toms-hardware-insights/"><u>Unraveling Gadgets and Components with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-pc-secrets-a-journey-through-toms-hardware-wisdom/"><u>Unveiling PC Secrets - A Journey Through Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-latest-in-computing-with-toms-hardware-insights/"><u>Unveiling the Latest in Computing with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-secrets-of-toms-tech-review/"><u>Unveiling the Secrets of Tom's Tech Review</u></a></li>
+</ul></div>
 

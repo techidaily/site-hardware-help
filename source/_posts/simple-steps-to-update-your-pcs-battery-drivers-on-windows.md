@@ -1,7 +1,7 @@
 ---
 title: Simple Steps to Update Your PC's Battery Drivers on Windows
-date: 2024-10-05T19:59:22.960Z
-updated: 2024-10-12T22:30:09.339Z
+date: 2024-10-17T20:47:15.850Z
+updated: 2024-10-19T12:51:45.078Z
 tags:
   - win11
   - win10
@@ -40,34 +40,34 @@ thumbnail: https://thmb.techidaily.com/c19a308589c95b1ddee27c6a5a356d350b91c656d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap539.png)
 3. Select**Laptop** .  
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap543-1.png)
 4. Click**Let HP detect your product** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap544.png)
 5. If HP detected your product, follow the on-screen instructions to download the drivers for your HP Elitebook 8460p. If it failed, then click**Find out more** next to**Let HP detect your product** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap545-1.png)
 6. In the search bar, type **HP Elitebook 8460p** and click**the search button** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap546.png)
 7. Click**Software and Drivers** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap547-1.png)
 8. **Select your operating system and version** . If you don’t know the version of your Windows operating system, see[ How to check Windows version \[Easily\]](https://tools.techidaily.com/drivereasy/download/) . Then click**Change** . HP will list all the drivers available for your HP EliteBook 8460p.  
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap548.png)
 9. If you want to download a single driver, just click the**Download** button next to that driver; if you want to download multiple drivers, you need to click**the add-to-download-list button** to add then to the download list first. After that, click**Open download list** view the download list.  
@@ -76,27 +76,20 @@ thumbnail: https://thmb.techidaily.com/c19a308589c95b1ddee27c6a5a356d350b91c656d
 10. Click**Download files** to download the drivers in the list.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap550.png)
 11. When it is finished, you need to**double-click** each downloaded driver file and follow the on-screen instructions to install them on your laptop.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 2: Download and update the drivers for your HP Elitebook 8460p automatically
@@ -111,6 +104,13 @@ thumbnail: https://thmb.techidaily.com/c19a308589c95b1ddee27c6a5a356d350b91c656d
 3. Click **Update**  next to any device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.** You get **full support**  and a **30-day money back**  guarantee).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap552.png)  
  You can do it for free if you like, but it’s partly manual.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
@@ -135,22 +135,22 @@ Please leave your comment below if you have any questions or suggestions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-streamline-your-social-media-uploading-on-twitter-for-2024/"><u>[New] Streamline Your Social Media Uploading on Twitter for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-youtube-video-animation-tools-and-techniques-for-efficient-gif-making/"><u>[New] YouTube Video Animation Tools and Techniques for Efficient Gif Making</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-dell-g15-graphics-card-drivers-on-windows/"><u>Download and Install Dell G15 Graphics Card Drivers on Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-logitech-gaming-wheel-g29-drivers-compatible-with-windows-10-11-and-7/"><u>Download Logitech Gaming Wheel G29 Drivers: Compatible with Windows 10, 11 & 7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-samsung-usb-drivers-for-windows-11-quick-and-simple-guide/"><u>Download Samsung USB Drivers for Windows 11 – Quick and Simple Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effective-solutions-for-handling-amd-fx-8350-graphics-driver-issues-in-windows/"><u>Effective Solutions for Handling AMD FX 8350 Graphics Driver Issues in Windows</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevating-health-ambitions-a-step-by-step-approach-using-chatgpt-assistance/"><u>Elevating Health Ambitions: A Step-by-Step Approach Using ChatGPT Assistance</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/empower-your-digital-journey-through-advanced-cookiebot-integration/"><u>Empower Your Digital Journey Through Advanced Cookiebot Integration</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-update-your-acer-monitors-drivers-tips-tricks-and-reliable-sources/"><u>How to Update Your Acer Monitor's Drivers: Tips, Tricks & Reliable Sources</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-driver-compatibility-downloads-quick-and-easy-installation-process/"><u>HP Driver Compatibility Downloads - Quick & Easy Installation Process</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ideal-apps-to-transform-vtuber-speech-patterns/"><u>Ideal Apps to Transform Vtuber Speech Patterns</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Lava Blaze 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-mastery-elevating-your-channel-with-strategic-spotlight-techniques/"><u>In 2024, YouTube Mastery Elevating Your Channel with Strategic Spotlight Techniques</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/streamlined-process-for-quick-windows-driver-fixes-and-upgrades/"><u>Streamlined Process for Quick Windows Driver Fixes & Upgrades!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-buying-powerful-gaming-laptops-below-1500/"><u>Ultimate Guide to Buying Powerful Gaming Laptops Below $1,500</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/usb-30-driver-updates-and-installation-manual-for-windows-systems/"><u>USB 3.0 Driver Updates and Installation Manual for Windows Systems</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/wie-zeigen-sie-auf-dem-pc-iphone-dateien-an-eine-umfassende-losung/"><u>Wie Zeigen Sie Auf Dem PC iPhone-Dateien An: Eine Umfassende Lösung</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-building-a-strong-introduction-examples-and-methods/"><u>[Updated] In 2024, Building a Strong Introduction Examples & Methods</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-why-trust-matters-more-than-just-numbers-on-feeds-for-2024/"><u>[Updated] Why Trust Matters More Than Just Numbers on Feeds for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-art-of-podcast-hooks-compelling-beginnings/"><u>2024 Approved The Art of Podcast Hooks Compelling Beginnings</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-guide-switching-your-androids-display-language/"><u>Easy Guide: Switching Your Android's Display Language</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/empowering-seo-with-cutting-edge-capabilities-discover-what-cookiebot-offers/"><u>Empowering SEO With Cutting-Edge Capabilities: Discover What Cookiebot Offers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enable-mobile-communications-over-wi-fi-on-android-phones-a-complete-tutorial/"><u>Enable Mobile Communications Over Wi-Fi on Android Phones - A Complete Tutorial</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-experience-androids-latest-addition-of-a-taskbar-to-cater-to-bigger-screens-in-version-12l/"><u>Enhance Your Experience: Android's Latest Addition of a Taskbar to Cater to Bigger Screens in Version 12L</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/essential-android-widgets-every-user-must-have-for-optimal-phone-functionality/"><u>Essential Android Widgets Every User Must Have for Optimal Phone Functionality</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fingerprint-sensor-showdown-unveiling-the-differences-between-ultrasonic-and-optical-technologies/"><u>Fingerprint Sensor Showdown: Unveiling the Differences Between Ultrasonic and Optical Technologies</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fix-a-broken-android-camera-discover-the-top-11-tips-and-tricks/"><u>Fix a Broken Android Camera: Discover the Top 11 Tips and Tricks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-more-bang-for-your-buck-with-the-incredible-value-of-the-700-samsung-galaxy-s21-fe-5g/"><u>Get More Bang for Your Buck with the Incredible Value of the $700 Samsung Galaxy S21 FE 5G</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/guide-effortless-mobile-printing-on-your-android-device/"><u>Guide: Effortless Mobile Printing on Your Android Device</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-ipod-and-iphone-15-pro-the-right-way-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock On iPod and iPhone 15 Pro The Right Way</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-unparalleled-viewing-premium-hdmi-21-gaming-monitors-ps5/"><u>In 2024, Unparalleled Viewing Premium HDMI 2.1 Gaming Monitors [PS5]</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-issue-preventing-total-war-warhammer-iii-from-freezingcrashing-on-pc/"><u>Resolved Issue: Preventing TOTAL WAR: WARHAMMER III From Freezing/Crashing on PC</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/soluciones-esenciales-conquista-el-desplome-de-windows-10-con-estas-5-tecnicas-expertas/"><u>Soluciones Esenciales: Conquista El Desplome De Windows 10 Con Estas 5 Técnicas Expertas</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Infinix Note 30i? | Dr.fone</u></a></li>
 </ul></div>
 

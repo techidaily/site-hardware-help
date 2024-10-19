@@ -1,7 +1,7 @@
 ---
 title: "Rising Against the Competition: In-Depth Analysis of the ROG Ally X Mid-Generation Update and Our Expectations for What's Next"
-date: 2024-08-30T15:43:41.713Z
-updated: 2024-08-31T15:43:41.713Z
+date: 2024-10-14T17:05:00.847Z
+updated: 2024-10-18T20:56:02.991Z
 tags:
   - hardware
 categories:
@@ -19,6 +19,19 @@ thumbnail: https://thmb.techidaily.com/85e9c2e32a903b6bf60a65b77968212abbcf7690e
 
  The specs of the upcoming ASUS ROG Ally X, a refresh of the ASUS ROG Ally, are all but fully leaked, and I’m pretty satisfied with what I’m seeing. Here’s what I think about the ROG Ally X and what I want to see in the ROG Ally 2.
 
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The ROG Ally X Packs Some Cool Upgrades
 
  It looks like ASUS tweaked or upgraded everything the community complained about with the [original ROG Ally](https://some-guidance.techidaily.com/2024-approved-streamline-and-shine-the-top-5-video-quality-tools/). We’re expecting a much bigger battery, an SD card slot that actually works, more storage, more [RAM](https://youtube-web.techidaily.com/ed-2024-approved-unlocking-youtube-success-top-video-strategies-to-explode-views/), and several other smaller upgrades.
@@ -26,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/85e9c2e32a903b6bf60a65b77968212abbcf7690e
  The most important change here is the new SD card reader, apparently the same one ASUS uses on its laptops, which has been moved away from the air vents where the card reader on the original Ally is located. This is a step in the right direction, but it’s just the tip of the iceberg.
 
 ![An ASUS ROG Ally.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/rog-ally-x.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ASUS
 
@@ -43,9 +63,6 @@ ASUS
 
  While this is already a pretty strong collection of improvements, I’d like to see a couple more upgrades on the ROG Ally X.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ##  Extra Improvements I'd Love to See in the ROG Ally X
 
  The most important change I’d like to see is ASUS removing the proprietary XG Mobile port and replacing it with a USB 4 or an Oculink port. Both can be used with any external GPU enclosure and the new wave of eGPUs that's coming from Chinese brands such as GPD and AYANEO.
@@ -55,6 +72,13 @@ ASUS
  I hope one of them is placed at the top with the other located at the bottom, allowing the owners to charge their Ally X while gaming without worrying about the charging cable bending and the charging port getting damaged due to having to use the topside USB-C port. That rubber clamp on the charging cable does help, but a second port at the bottom is a vastly better solution.
 
 ![ASUS ROG Ally Charging Clamp holding the charging cable, preventing it to exert force on the USB-C port.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/asus-rog-ally-charging-clamp-connected.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Goran Damnjanovic / How-To Geek
 
@@ -68,9 +92,6 @@ Goran Damnjanovic / How-To Geek
 
  If the ROG Ally 2 keeps the upgrades mentioned above, sheds some weight, and comes with a more powerful APU, I’ll be happy. But I’ll be even happier if it packs some of the following upgrades.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  A Trackpad
 
  I understand why the Ally X doesn’t feature a trackpad. To fit one, ASUS would have to completely redesign the chassis and rearrange the internal components. But the ROG Ally 2 should really come with one because having one makes navigating around Desktop Mode on my Steam Deck so much more enjoyable. I’m positive a trackpad would make navigating around Windows [almost pain-free](https://win-solutions.techidaily.com/overcoming-unexpected-shutdowns-in-cod-modern-warfare-3-game-application/), too, which is anything but on the ROG Ally.
@@ -81,16 +102,10 @@ Goran Damnjanovic / How-To Geek
 
  That said, if I had to choose between an OLED screen without [variable refresh rate](https://iphone-location.techidaily.com/how-to-change-your-location-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/) (VRR) and an LCD screen with VRR, I’d pick the latter any day of the week. OLED screens are fantastic, but after experiencing VRR on my ROG Ally, I realized that VRR on gaming handhelds is essential.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ###  Taller Triggers
 
  The triggers on the Ally are pretty good. They have just the right resistance and pretty generous travel, but they’re just a tad too short for my taste. Triggers being even a half centimeter (a fifth of an inch) taller on the next ROG Ally would be great.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  A Physical Button for Switching Between Desktop and Controller Modes
 
 ![GPD Win 4 Mouse Controller Switch button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/gpd-mouse-controller-switch-button.png) 
@@ -105,9 +120,6 @@ GPD
 
  This means that I can only use one back button in most games. But if the ROG Ally 2 copies the Steam Deck and packs four buttons, I’ll be able to use three of those as regular back buttons, which would be yet another small yet super handy upgrade.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ###  Hall Effect Thumbsticks
 
  ASUS stated they couldn’t fit [Hall effect thumbsticks](https://youtube-blog.techidaily.com/esthetic-alignment-for-online-glamour-content-for-2024/) on the ROG Ally because the Hall effect triggers present on the Ally would interfere with the thumbstick sensors and vice versa if both were Hall effect-based.
@@ -120,9 +132,6 @@ GPD
 
  I’d like the ROG Ally 2 lineup to include a proper budget model—at least 30% more affordable than the high-end model, featuring a 900p screen instead of a 1080p panel.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ###  An APU That’s Designed for a Gaming Handheld
 
  The AMD Z1 Extreme is a solid APU, but it’s clear it wasn’t designed for a handheld. It’s basically a Ryzen 7 7840U with its AI cores disabled. Now that gaming handhelds have become somewhat popular, I’d like AMD to create a proper APU for gaming-focused portable devices.
@@ -133,16 +142,16 @@ GPD
 
 ![Intel CPU die with on-package RAM chips.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/intel-on-package-ram.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 Intel
 
  There are also rumors that NVIDIA is preparing an ARM-based [system on a chip](https://screen-activity-recording.techidaily.com/new-discovering-win11s-finest-screen-grabbers-for-2024/) (SoC) with MediaTek that will have a beastly [iGPU](https://tech-savvy.techidaily.com/is-it-wise-to-delegate-money-matters-to-ai/), so I can’t wait to see what's in store in the next 12-24 months and which of the future APUs will power the ASUS ROG Ally 2.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  32GB of Memory
 
@@ -150,9 +159,23 @@ Intel
 
  That way, we could reserve 10GB of memory for the iGPU and leave Windows and games with 22GB of RAM, which should be enough even for the most demanding games still set to arrive in this console generation.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Multiple Color Options
 
  This is a first-world problem, but I’d like to see the ROG Ally 2 arrive in multiple flavors.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  A Plastic Cover on the Back to Allow for Easy SSD Replacement
 
@@ -161,14 +184,12 @@ Intel
 ![Miscrosoft Surface with its SSD Cover removed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/miscrosoft-surface-ssd-cover.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Microsoft
 
  An SSD cover would mean we wouldn’t have to remove the entire back cover of our handhelds and instead just unscrew the SSD cover, replace the storage drive, screw the cover back, and continue with our day. This is yet another minor tweak that would make the lives of the ROG Ally 2 owners much easier.
@@ -183,8 +204,6 @@ Microsoft
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -192,4 +211,24 @@ Microsoft
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-step-by-step-methods-for-easy-instagram-video-uploads-from-desktop/"><u>[New] In 2024, Step-by-Step Methods for Easy Instagram Video Uploads From Desktop</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-precision-settings-for-obs-studio-on-android/"><u>[Updated] In 2024, Precision Settings for OBS Studio on Android</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/5-fast-and-effective-ways-to-get-your-oculus-rift-s-microphone-up-and-running-again/"><u>5 Fast and Effective Ways to Get Your Oculus Rift S Microphone Up & Running Again !</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/advanced-computing-hardware-reviews-curated-by-tom/"><u>Advanced Computing Hardware Reviews Curated by Tom</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/advanced-insights-from-toms-computer-components-guide/"><u>Advanced Insights From Tom's Computer Components Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-lightning-fast-5g-on-the-go-with-the-powerful-motorola-one-5g-ace/"><u>Experience Lightning-Fast 5G on the Go with the Powerful Motorola One 5G Ace</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862724863-experience-next-level-performance-shop-the-alienware-m18-r2-with-rtx-4090-for-less-grab-your-savings-now/"><u>Experience Next-Level Performance: Shop the Alienware M18 R2 with RTX 4090 for Less - Grab Your Savings Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862723877-grab-an-insane-deal-on-asuss-powerhouse-rog-zephyrus-g16-with-intel-core-i9-10900hk-cpu-enhanced-graphics-and-a-dazzling-240hz-screen-save-250-now/"><u>Grab an Insane Deal on Asus's Powerhouse: ROG Zephyrus G16 with Intel Core I9-10900HK CPU, Enhanced Graphics and a Dazzling 240Hz Screen - Save $250 Now!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-functionality-to-your-unresponsive-sound-blaster-mic/"><u>How to Restore Functionality to Your Unresponsive Sound Blaster Mic</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862711835-lenovo-thinkpad-t14s-launches-with-stunning-features-qualcomm-snapdragon-x-elite-processor-impressive-32gb-ram-and-a-whopping-1tb-ssd/"><u>Lenovo ThinkPad T14s Launches with Stunning Features: Qualcomm Snapdragon X Elite Processor, Impressive 32GB RAM & a Whopping 1TB SSD!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862728839-memorial-day-deal-grab-the-amazing-2024-asus-tuf-gaming-a15-laptop-for-just-658/"><u>Memorial Day Deal: Grab the Amazing 2024 Asus TUF Gaming A15 Laptop for Just $658</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862738792-morse-code-typing-on-a-laptop-slam-the-hood-with-rhythm-note-were-not-responsible-for-damages-or-mental-breakdowns/"><u>Morse Code Typing on a Laptop? Slam the Hood with Rhythm! Note: We're Not Responsible for Damages or Mental Breakdowns.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/playful-conversations-find-out-why-these-6-chatgpt-games-are-must-tries/"><u>Playful Conversations: Find Out Why These 6 ChatGPT Games Are Must-Tries</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-launches-worlds-first-photo-recovery-and-repair-software/"><u>Stellar Launches World's First Photo Recovery & Repair Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862735891-unleash-productivity-with-new-microsoft-copilot-powered-pcs-featuring-top-snapdragon-elite-x-options-today/"><u>Unleash Productivity with New Microsoft Copilot-Powered PCs, Featuring Top Snapdragon Elite X Options Today</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unlocking-full-potential-always-launch-apps-with-admin-rights-on-windows-11-explained/"><u>Unlocking Full Potential: Always Launch Apps with Admin Rights on Windows 11 Explained</u></a></li>
+</ul></div>
 

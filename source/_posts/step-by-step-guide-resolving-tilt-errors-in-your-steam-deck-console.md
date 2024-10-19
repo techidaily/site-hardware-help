@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Resolving Tilt Errors in Your Steam Deck Console"
-date: 2024-09-04T02:07:53.984Z
-updated: 2024-09-05T02:07:53.984Z
+date: 2024-10-15T22:26:01.192Z
+updated: 2024-10-19T02:08:46.525Z
 tags:
   - hardware
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/42a3217d9873863c48091846f5f8a9e9b9b645644
 * [Clean the Affected Thumbstick With Compressed Air or Contact Cleaner](https://facebook-video-share.techidaily.com/updated-top-5-free-youtube-video-editor-apps-for-apple-users/)
 * [Replace the Thumbsticks on Your Steam Deck](https://some-techniques.techidaily.com/in-2024-filmographys-finest-shots-the-best-camera-and-lighting-tips/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Recalibrate your Steam Deck's joysticks in Desktop Mode, and increase the joystick deadzone in Game Mode to eliminate stick drift..
@@ -27,11 +34,25 @@ thumbnail: https://thmb.techidaily.com/42a3217d9873863c48091846f5f8a9e9b9b645644
 
  If one of the thumbsticks on your Steam Deck develops stick drift, there are several solutions you can try to fix the issue. They range from the simple, like recalibrating the stick, to DIY adventures like opening your Deck and replacing the joystick module. Let’s go through them all.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Restart Your Steam Deck and Try Again
 
  The simplest fix you can try is to restart your [Steam Deck](https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-vivo-x100-drfone-by-drfone-virtual-android/) and then try playing the same game to see if that fixes your problem. If the problem persists, go through the control settings menu of the said game and make sure no options are set in such a way that can mess with the stick movement or sensitivity.
 
  If that didn't work, launch another game and try playing it to see whether the problem is still present. Drift in one game but not another points to the game being to blame. If your thumbstick is still drifting, it’s time for a visit to Desktop Mode.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Recalibrate the Analog Sticks in Desktop Mode
 
@@ -50,21 +71,16 @@ thumbstick_cal
 ![Steam Deck thumbstick recalibration tool.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/how-to-fix-stick-drift-on-your-steam-deck-03.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Now follow instructions to complete the calibration process. Firstly, let go of both sticks and press the A button. Next, tap the taskbar at the bottom of the desktop so that your cursor is out of focus of the Konsole window, and then rotate both joysticks 360 degrees two times, tap on the Konsole window to get back into focus, and press the A button again. That’s it.
 
  Now you can return to Game Mode and test the affected stick.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Increase the Joystick Deadzone in Game Mode
 
  If you're still experiencing issues, press the Steam button > Settings > Controller. Then open the “Calibration & Advanced Settings” menu.
@@ -75,12 +91,6 @@ thumbstick_cal
 
 ![Calibrating Steam Deck thumbstick in Game Mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/how-to-fix-stick-drift-on-your-steam-deck-05.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  As you can see below, testing the deadzone shows just how much your stick is drifting. My left stick is drifting a bit, but not enough for drift to show in-game, at least with the default deadzone setting.
 
 ![Testing Steam Deck left joystick in Game Mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/how-to-fix-stick-drift-on-your-steam-deck-06.jpg) 
@@ -93,24 +103,6 @@ thumbstick_cal
 
 ![Tweaking right joystick deadzone in Steam Deck Game Mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/how-to-fix-stick-drift-on-your-steam-deck-08.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Clean the Affected Thumbstick With Compressed Air or Contact Cleaner
 
  If your stick is drifting so much that you have to set a deadzone value so high it makes the stick feel too laggy in games, you might want to try opening your Deck and cleaning it with a contact cleaner like [WD-40](https://www.amazon.com/WD-40-Specialist-Electrical-Contact-Cleaner/dp/B00AF0OFVU?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003103&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fhow-to-fix-stick-drift-on-your-steam-deck%2F&asc%5Fcampaign=Evergreen) or [BW-100](https://www.amazon.com/BW-100-Nonflammable-Electronic-Contact-Upsidedown/dp/B07FNBW47M?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003103&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fhow-to-fix-stick-drift-on-your-steam-deck%2F&asc%5Fcampaign=Evergreen).
@@ -142,17 +134,12 @@ thumbstick_cal
 ![Steam Deck controller ID information.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/how-to-fix-stick-drift-on-your-steam-deck-09.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Now, once you have ordered the modules—I recommend ordering the whole Fix Kit if you don’t have appropriate tools already—follow [the iFixit video guide](https://www.youtube.com/watch?v=z5k6wOMtjzY) in case you own a Steam Deck LCD. And by that I mean follow it to the letter, to avoid any problems because the procedure can be a bit tricky to perform.
 
  If you own a Steam Deck OLED, check out [the guide for replacing the left module](https://www.ifixit.com/Guide/Steam+Deck+OLED+Left+Thumbstick+Replacement/168652), or [the guide for replacing the right one](https://www.ifixit.com/Guide/Steam+Deck+OLED+Right+Thumbstick+Replacement/168609), depending on which of the two thumbstick has drifting issues.
@@ -167,8 +154,6 @@ thumbstick_cal
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,4 +161,17 @@ thumbstick_cal
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-google-meet-unlocked-a-free-in-depth-user-manual-for-2024/"><u>[New] Google Meet Unlocked A Free, In-Depth User Manual for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-how-to-add-subtitles-to-igtv-videos/"><u>2024 Approved How to Add Subtitles to IGTV Videos?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-install-drivers-for-your-xbox-360-gaming-pad-online/"><u>How To Install Drivers For Your Xbox 360 Gaming Pad Online</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-install-latest-usb-bluetooth-adapter-software-on-pc/"><u>How to Install Latest USB Bluetooth Adapter Software on PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-the-bmc-firmware-on-a-dell-idrac-server/"><u>How to Update the BMC Firmware on a Dell iDRAC Server</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-nvidia-geforce-210-driver-upgrade-for-windows-11-systems/"><u>Latest NVIDIA GeForce 210 Driver Upgrade for Windows 11 Systems</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/reduce-video-size-online-10-best-free-compression-tools-for-2024/"><u>Reduce Video Size Online 10 Best Free Compression Tools for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/steelseries-engine-free-download-on-windows-10/"><u>SteelSeries Engine: FREE Download on Windows 10</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/the-process-to-enable-incessant-auto-video-on-facebook-for-2024/"><u>The Process to Enable Incessant Auto-Video on Facebook for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-4-ways-for-apple-iphone-xs-to-mac-mirroring-drfone-by-drfone-ios/"><u>Top 4 Ways for Apple iPhone XS to Mac Mirroring | Dr.fone</u></a></li>
+</ul></div>
 

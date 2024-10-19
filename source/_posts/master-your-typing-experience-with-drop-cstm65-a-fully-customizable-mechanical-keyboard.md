@@ -1,7 +1,7 @@
 ---
 title: Master Your Typing Experience with Drop CSTM65 - A Fully Customizable Mechanical Keyboard
-date: 2024-08-30T15:45:15.086Z
-updated: 2024-08-31T15:45:15.086Z
+date: 2024-10-13T13:52:03.479Z
+updated: 2024-10-18T21:46:25.977Z
 tags:
   - hardware
 categories:
@@ -99,6 +99,13 @@ Expand
 
 ![DROP CSTM65 Keyboard custom covers](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/keyboard-custom-cover.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  The Drop CSTM65 is much smaller than a typical 104-key keyboard. It doesn't have a number pad at all and the directional keys (along with home, delete, page, and others) have moved to the left to make the CSTM65 even smaller than the average tenkeyless board.
@@ -111,16 +118,10 @@ Jerome Thomas / How-To Geek
 
  I don't mind that Drop etched the key legends into the front edges of the keycaps, instead of the tops. That might throw you for a session or two, but it shouldn't be a big deal in the long term.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ##  Customization: Swap Away
 
 ![Side view of the drop CSTM65 keyboard with a custom cover attached](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/side-view-of-the-drop-cstm65-keyboard-with-a-custom-cover-attachedjpg_53518383577_o-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The CSTM65's claim to fame is that it has loads of customization options. Among those, the swappable top case is one of the more interesting ones. All it takes is unplugging the cable from the CSTM65 and lifting the top case off. The built-in magnets mean no fuss. Popping a new plate on is just as easy.
@@ -131,9 +132,6 @@ Jerome Thomas / How-To Geek
 
  I like that you can choose your own weight and that it's visible when you flip the keyboard over. Yes, most people will never see your shiny keyboard weight, but I think it's a nice touch on a board like the CSTM65\. It ships with a 3.9oz weight, which is heavy enough to keep the keyboard in place under normal circumstances. If you tend to get a little aggressive while gaming and want to make sure the CSTM65 isn't going anywhere, you can choose from CNC-machined brass (12.97oz) and stainless steel (11.96oz) weights. When it comes to the steel weights, you have a few color options, including a slick chroma color weight.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Software: Customization for Keys, Not Lighting
 
 ![CSTM65 backlit with front-key markings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-keyboard-backlit-showing-front-facing-key-markingsjpg_53519440588_o-1.jpg) 
@@ -146,13 +144,24 @@ Jerome Thomas / How-To Geek
 
  The software doesn't handle the CSTM65's per-key RGB customization, though. For that, you'll need to use the keyboard itself. That likely means going to the website and reading the instructions there. That's going to annoy users who like to have software for customizing that sort of feature. On the other hand, some people will be happy to not have any extra software using their PC's resources.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Should You Buy the Drop CSTM65 Keyboard?
 
 ![Drop CSTM65 with keycaps removed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-drop-cstm65-with-keycaps-removedjpg_53519273826_o-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  The [Drop CSTM65](https://drop.com/buy/drop-cstm65-mechanical-keyboard?defaultSelectionIds=983765) mechanical keyboard is a solid choice, regardless of whether you want to customize it. If you are creating a particular color scheme in your office, there's a lot to like about the keyboard's customization options. The barebones CSTM65 starts at $79 and the website lets you "build" it with the colors and parts you prefer. If you want the complete keyboard, you're looking at $129.
@@ -162,13 +171,14 @@ Jerome Thomas / How-To Geek
 ![Drop keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/cleanshot-2024-04-22-at-09-27-17-2x.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 #####  Drop CSTM65 Mechanical Keyboard
 
 8/ 10 
@@ -183,8 +193,6 @@ The CSTM65 is a compact enthusiast desktop centerpiece made for game-changing cu
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -192,4 +200,26 @@ The CSTM65 is a compact enthusiast desktop centerpiece made for game-changing cu
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-ultimate-app-review-for-crafting-unique-reels/"><u>[New] 2024 Approved The Ultimate App Review for Crafting Unique Reels</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-pinnacle-5-iphone-apps-for-auditory-escapades/"><u>[New] In 2024, Pinnacle 5 iPhone Apps for Auditory Escapades</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-the-apocalypse-playground-8-best-zombie-game-experiences-for-2024/"><u>[New] The Apocalypse Playground 8 Best Zombie Game Experiences for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-building-brand-voice-via-micro-business-videos/"><u>[Updated] 2024 Approved Building Brand Voice via Micro-Business Videos</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypassing-icloud-hurdles-effective-techniques-for-reliable-cloud-sync-maintenance/"><u>Bypassing iCloud Hurdles: Effective Techniques for Reliable Cloud Sync Maintenance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-reviews-and-comparisons-of-modern-computer-systems-by-tom/"><u>Expert Reviews and Comparisons of Modern Computer Systems by Tom</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-advanced-pc-components-through-toms-hardware-guides/"><u>Exploring Advanced PC Components Through Tom's Hardware Guides</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-computer-gear-with-tom-a-comprehensive-look-at-the-latest-hardware/"><u>Exploring Computer Gear with Tom: A Comprehensive Look at the Latest Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/find-your-perfect-display-elite-deals-on-4k-monitors-and-gamers-choices/"><u>Find Your Perfect Display: Elite Deals on 4K Monitors and Gamers' Choices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/futureproof-gaming-displays-explore-the-best-ultra-hd-144hz-curved-monitors-for-optimal-pc-performance/"><u>Futureproof Gaming Displays: Explore the Best Ultra HD, 144Hz Curved Monitors for Optimal PC Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-hands-on-the-budget-friendly-240hz-acer-nitro-gaming-monitor-for-just-a-bargain-price-of-159/"><u>Get Your Hands on the Budget-Friendly 240Hz Acer Nitro Gaming Monitor for Just a Bargain Price of $159</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-an-old-school-crt-monitor-soared-to-a-stunning-700hz-by-slashing-its-pixel-count/"><u>How an Old School CRT Monitor Soared to a Stunning 700Hz by Slashing Its Pixel Count!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-iphone-12-5-ways-to-get-into-a-locked-iphone-12-by-drfone-ios/"><u>In 2024, Locked Out of iPhone 12? 5 Ways to get into a Locked iPhone 12</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Infinix Smart 8? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/lg-begins-mass-manufacturing-of-innovative-oled-displays-a-triumph-for-dell-xps-13s-stunning-visual-experience/"><u>LG Begins Mass Manufacturing of Innovative OLED Displays: A Triumph for Dell XPS 13’S Stunning Visual Experience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/master-your-build-advanced-tips-from-toms-hardware-professionals/"><u>Master Your Build: Advanced Tips From Tom's Hardware Professionals</u></a></li>
+<li><a href="https://win-hot.techidaily.com/outstanding-techniques-to-mirror-your-iphone-display-on-a-computer/"><u>Outstanding Techniques to Mirror Your iPhone Display on a Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-the-keyboard-backspace-issue/"><u>Troubleshooting Guide: Fixing the Keyboard Backspace Issue</u></a></li>
+<li><a href="https://fox-search.techidaily.com/unlocking-the-secrets-5-tips-for-retrieving-accidentally-deleted-documents-in-windows-explorers-myrecover-mode/"><u>Unlocking the Secrets: 5 Tips for Retrieving Accidentally Deleted Documents in Windows Explorers MyRecover Mode</u></a></li>
+</ul></div>
 

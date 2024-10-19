@@ -1,7 +1,7 @@
 ---
 title: "Critics Slash 'Humane AI' Game: Surprisingly Innovative Concepts Inside"
-date: 2024-08-30T15:47:00.923Z
-updated: 2024-08-31T15:47:00.923Z
+date: 2024-10-16T01:15:03.500Z
+updated: 2024-10-18T16:22:42.950Z
 tags:
   - hardware
 categories:
@@ -17,6 +17,13 @@ thumbnail: https://thmb.techidaily.com/7b8336f5215e637e754158b1429078ceab1fa3c34
 * [An AI-Based Digital Assistant Could Enable Voice-Only Phone Interaction](https://on-screen-recording.techidaily.com/2024-approved-no-more-troubles-mastering-ipad-video-captures-now/)
 * [I’d Love to See Humane AI Pin’s Privacy Features On Smartphones](https://extra-information.techidaily.com/why-does-instagram-keep-flipping-my-video/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Future universal translators may run local language models for faster, more efficient translation.
@@ -26,8 +33,18 @@ thumbnail: https://thmb.techidaily.com/7b8336f5215e637e754158b1429078ceab1fa3c34
  The Humane’s AI Pin ended up as one of the worst tech products of 2024\. Despite the critical panning the device rightfully deserved, the AI Pin harbors some pretty cool ideas. I can see three of those ideas finding their way into smartphones or becoming a reality as standalone devices.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  I Can See The Future Where Affordable Universal Translators Are A Thing
 
  One of the coolest features of the Humane AI Pin is its real-time translation, especially when combined with the form factor and the fact that the device resides on your chest, where it can seamlessly pick up what you and the person you’re talking to are saying.
@@ -43,15 +60,23 @@ thumbnail: https://thmb.techidaily.com/7b8336f5215e637e754158b1429078ceab1fa3c34
  Another use case could be during tourist sightseeing tours, where universal translators could make communication between tourists and locals instantaneous without having to rely on other tools such as smartphones, dictionaries, or praying you’ve got someone in your group who speaks the local language—pretty common when in an English-speaking country, not so common in countries that don’t have English as one of the official languages.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  An AI-Based Digital Assistant Could Enable Voice-Only Phone Interaction
 
 ![A person holding an iPhone with the word Siri on screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/a-person-holding-an-iphone-with-the-word-siri-on-screen.JPG) 
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Tyler Hayes / How-To Geek
 
  Humane’s promise of an AI-based digital assistant failed, but the general idea of an AI-powered digital assistant does sound quite enticing. Imagine having a digital assistant that’s not only capable of limited interaction with your phone’s operating system, replying to incoming messages, and performing Google queries, but also interacting with every single app on your phone. You could then use that assistant to control your phone only through voice commands.
@@ -64,9 +89,6 @@ Tyler Hayes / How-To Geek
 
  Also, a smartphone combined with a smartwatch or a pair of smart glasses sounds like a much better combo for using and issuing commands to a versatile AI assistant than a gadget without a display that needs a constant internet connection and has a reportedly pathethic battery life.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  I’d Love to See Humane AI Pin’s Privacy Features On Smartphones
 
  Last but not least, let’s talk about AI Pin’s privacy-related features, probably the only aspect of the device I genuinely like. For starters, each and every chat app should come with end-to-end encryption enabled by default. This is a basic privacy feature and, sadly, many chat apps don’t offer it. Even if they do, in most cases, end-to-end encryption isn’t enabled by default.
@@ -83,8 +105,6 @@ Tyler Hayes / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -92,4 +112,23 @@ Tyler Hayes / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-best-practices-for-exporting-youtube-videos-to-facebook/"><u>[New] 2024 Approved Best Practices for Exporting YouTube Videos to Facebook</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ow-much-wealth-can-you-generate-on-youtube-using-cpm/"><u>[New] How Much Wealth Can You Generate on YouTube Using CPM?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-demonstrates-significant-boost-in-efficiency-and-speed-through-zen-5-multithreading-unlike-intels-post-lakefield-shift-away-from-hyperthreading/"><u>AMD Demonstrates Significant Boost in Efficiency & Speed Through Zen 5 Multithreading – Unlike Intel's Post-Lakefield Shift Away From Hyperthreading</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-neglects-critical-security-fixes-on-vulnerable-chipsets-sinkclose-bug-remains-in-legacy-ryzen-cpus/"><u>AMD Neglects Critical Security Fixes on Vulnerable Chipsets; 'Sinkclose' Bug Remains in Legacy Ryzen CPUs</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/comment-resoudre-lerreur-dun-peripherique-usb-non-reconnu-sous-windows-11/"><u>Comment Résoudre L'erreur D'un Périphérique USB Non Reconnu Sous Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-for-resetting-the-new-generation-of-iphones-the-xs/"><u>Expert Tips for Resetting the New Generation of iPhones - The XS</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-nokia-c12-plus-phone-by-drfone-android/"><u>How to Unlock a Network Locked Nokia C12 Plus Phone?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-patterned-pixels-looms-guide-to-screen-casting/"><u>In 2024, Patterned Pixels Loom's Guide to Screen Casting</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/insta-popularity-on-youtube-jake-pauls-story-unfolded-for-2024/"><u>Insta-Popularity on Youtube Jake Paul’s Story Unfolded for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/logitech-k400-plus-software-download-and-install/"><u>Logitech K400 Plus Software - Download and Install</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-the-ultimate-list-10-free-video-speed-editor-apps-for-mobile-users/"><u>New The Ultimate List 10 Free Video Speed Editor Apps for Mobile Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/sk-hynix-reduces-3d-dram-manufacturing-expenses-with-advanced-euv-process-tools-halves-pricing/"><u>SK Hynix Reduces 3D DRAM Manufacturing Expenses with Advanced EUV Process Tools, Halves Pricing</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-hub-in-depth-reviews-and-gear-guides/"><u>Tom's Tech Hub: In-Depth Reviews and Gear Guides</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-leading-hardware-reviews-and-advice/"><u>Tom's Tech Insights: Leading Hardware Reviews and Advice</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-back-to-school-technology-discounts-of-2024-secure-your-students-must-have-gadgets-now/"><u>Top Back-to-School Technology Discounts of 2024 - Secure Your Student's Must-Have Gadgets Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-new-insights-on-toms-computer-components-analysis/"><u>Unveiling New Insights on Tom's Computer Components Analysis</u></a></li>
+</ul></div>
 

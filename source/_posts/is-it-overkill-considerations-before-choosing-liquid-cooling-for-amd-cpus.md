@@ -1,7 +1,7 @@
 ---
 title: Is It Overkill? Considerations Before Choosing Liquid Cooling for AMD CPUs
-date: 2024-09-04T02:07:40.073Z
-updated: 2024-09-05T02:07:40.073Z
+date: 2024-10-18T06:41:13.171Z
+updated: 2024-10-18T23:09:25.672Z
 tags:
   - hardware
 categories:
@@ -18,6 +18,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * There's nothing wrong with buying an AIO liquid cooler, as long as you're aware that it won't provide major improvements in thermals and CPU performance compared to air coolers.
 
  Many PC builders believe that only an AIO liquid cooler can keep their future Ryzen CPU reined in, but the truth is that a quality air cooler can keep pace with any AIO out there. If you know a little more about how these AMD CPUs produce heat, it will all make perfect sense.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Air Coolers Deliver The Same Performance as AIOs For Considerably Less Cash
 
@@ -36,33 +43,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  This means that you can spend $35 on the [Thermalright Phantom Spirit 120SE](https://www.amazon.com/Thermalright-PS120-SE-CPU-Cooler/dp/B0BNDTJVPL?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2002796&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fdont-bother-liquid-cooling-your-amd-cpu%2F&asc%5Fcampaign=Evergreen)—my recommendation if you're looking for a powerful air cooler that doesn't break the bank—and have almost $200 left for an upgrade. $200 is the price difference between the RTX 4070 Super and the RTX 4070 Ti Super, which packs 4GB more memory and is faster than the 4070 Super by about 20 percent on average. That's a nice GPU upgrade if you ask me and will make a much, much bigger performance difference overall for the same money.
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  What About Intel CPUs?
 
 ![The Intel Core i5-14600K CPU on a table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/intel-core-i5-14600k-2.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Hannah Stryker / How-To Geek
 
  When it comes to Intel CPUs, things get complicated. If you plan to buy an Intel CPU, including options like the Core i7-14700K, Core i9-14900K, or their 13th gen counterparts, and use it exclusively for gaming, you can get away with a solid air cooler.
@@ -72,11 +69,12 @@ Hannah Stryker / How-To Geek
  On the other hand, if you want to buy a Core i7-14700K or Core i9-14900K and use it without power limits for heavy all-core workloads, it’s worth spending extra for a performant 360mm or 420mm AIO. While even a beastly AIO won’t stand a chance against an unleashed high-end Intel CPU, the best AIOs [will allow it](http://tpucdn.com/review/thermalright-phantom-spirit-120-evo-argb-cpu-air-cooler/images/maximum-heat-intel.png) to use more than 350W of power before [t](https://screen-capture.techidaily.com/sundae-screening-comprehensive-tutorial-on-frozen-camera-app/)[hermal throttling](https://buynow-help.techidaily.com/leading-titles-to-unlock-on-google-play-pass-a-ranking-of-the-8-greatest-games/), compared to air coolers that top out at about 320W.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  If You’re Set on Buying an AIO, Buy It for the Right Reasons
 
  All of the above doesn’t mean I’m completely against the idea of pairing a Ryzen CPU with an AIO liquid cooler. What I’ve been trying to do is explain to prospective buyers that they shouldn’t get an expensive AIO for their AMD or Intel CPU solely because they believe it will deliver better performance and lower thermals compared to air coolers.
@@ -93,8 +91,6 @@ Hannah Stryker / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -102,4 +98,20 @@ Hannah Stryker / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-debunking-youtube-premium-benefits-vs-costs/"><u>[New] 2024 Approved Debunking YouTube Premium Benefits Vs. Costs</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-melodic-matchmaking-music-that-matters-on-social-media/"><u>[Updated] Melodic Matchmaking Music That Matters on Social Media</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-xs-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-elitebook-x360-1030-g2-latest-system-updates-and-drivers/"><u>HP EliteBook X360 1030 G2: Latest System Updates and Drivers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-clearviewenlarge-7-image-size-tailored-for-you/"><u>In 2024, ClearViewEnlarge 7 Image Size Tailored for You</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-realme-narzo-60-5g-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Realme Narzo 60 5G</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/shift-underway-chinas-telecommunications-giants-embrace-local-processor-solutions-in-massive-server-upgrades/"><u>Shift Underway: China's Telecommunications Giants Embrace Local Processor Solutions in Massive Server Upgrades</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722968656298-speedy-setup-for-lexars-usb-drivers-start-now/"><u>Speedy Setup for Lexar's USB Drivers – Start Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/supercharge-the-amd-ryzen-eight-with-hyper-turbo-techniques-gain-an-extra-250-mhz-and-boost-geekbench-performance-by-over-a-quarter/"><u>Supercharge the AMD Ryzen Eight with Hyper Turbo Techniques - Gain an Extra 250 MHz & Boost Geekbench Performance by Over a Quarter!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-budget-friendly-apple-watch-se-gets-a-fresh-update-discover-the-latest-features/"><u>The Budget-Friendly Apple Watch SE Gets a Fresh Update – Discover the Latest Features!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-role-of-chatgpt-in-alleviating-emotional-isolation-and-fostering-connections/"><u>The Role of ChatGPT in Alleviating Emotional Isolation and Fostering Connections</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-simplest-way-to-get-your-asus-maximus-x-hero-graphics-card-up-to-date-with-driver-upgrades/"><u>The Simplest Way to Get Your ASUS Maximus X Hero Graphics Card Up to Date with Driver Upgrades</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-vivo-y02t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Vivo Y02T | Dr.fone</u></a></li>
+</ul></div>
 

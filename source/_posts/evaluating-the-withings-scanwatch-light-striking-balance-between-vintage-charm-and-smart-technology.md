@@ -1,7 +1,7 @@
 ---
 title: "Evaluating the Withings ScanWatch Light: Striking Balance Between Vintage Charm & Smart Technology"
-date: 2024-08-30T15:46:08.547Z
-updated: 2024-08-31T15:46:08.547Z
+date: 2024-10-15T07:31:23.374Z
+updated: 2024-10-19T00:38:41.326Z
 tags:
   - hardware
 categories:
@@ -102,16 +102,17 @@ Part of the newest generation of Withings' hybrid smartwatches, ScanWatch Light 
 
 Expand 
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ##  The Design of Analog
 
 ![ScanWatch Light laying next to an iPhone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/scanwatch-light-iphone.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  Personally, I’m okay with an unapologetically digital watch. The Apple Watch is a tiny computer so I’m okay with its digital, complication-filled watch faces. I’m less enthusiastic about its analog replica ones. And I know a lot of people are put off by digital watches pretending to be analog ones.
@@ -130,6 +131,13 @@ Jerome Thomas / How-To Geek
 
 ![Withings ScanWatch Light sensors on the bottom of the watch](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/withings-scanwatch-light-sensors.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  Although I found it weird to run in such a fancy-looking watch, it still did its job. Workouts can be tracked automatically, but I started them manually. I customized the long-press of the crown shortcut jump right to workouts so it only took me a few presses to get going. At the end of a run, a long press would stop it.
@@ -140,9 +148,6 @@ Jerome Thomas / How-To Geek
 
  I tried to use the ScanWatch Light to track my sleep, but I didn’t get very far. The device itself is relatively slim and lightweight, but I have a hard time with anything on my wrist. I even have a hard time wearing a smart ring to track my sleep. I can’t report on its results, but it could be a good option for people who don’t mind wearing watches while they sleep as it is more minimal than some other watches.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Software: A Matching Design
 
 ![ScanWatch Light with iPhone showing the Withings app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/scanwatch-light-with-iphone.jpg) 
@@ -156,25 +161,22 @@ Jerome Thomas / How-To Geek
  Since the screen on the watch is so small you’ll need to use the app to configure notifications. Even on the iPhone, you can receive notifications for calls, emails, maps, and dozens of other things. If you don’t need or want notifications with videos or images, as the Apple Watch provides, you can still stay connected using the ScanWatch Light. Notifications worked great for me and came in at the same time as on my Apple Watch.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Battery Life Is a Beast
 
 ![ScanWatch Light charging in its charger](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/scanwatch-light-charging-by-jerome-thomas.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  If not for looks and fitness tracking, the other reason to heavily consider the ScanWatch Light might be its 30-day battery life. That’s days, by the way, not hours. Actual battery life will fluctuate based on how many workouts you do and how many notifications keep it buzzing.
 
  I had no problem riding the watch hard and getting weeks of use out of it. Thankfully, it does get a lot of battery life because its charger is pitiful. It’s a plastic cradle that touches contacts on the dial. Even though there’s a USB-C port on the charger, I didn’t have luck using any modern USB-C cables, it wasn’t happy unless it was using a “dumb” low-voltage USB-A to USB-C cable. Be sure not to lose the cheap-feeling charger either because that's the only way to power the watch back up.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ##  Should You Buy the Withings ScanWatch Light?
 
  It’s easy to recommend the [Withings ScanWatch Light](https://www.amazon.com/Withings-ScanWatch-Light-Monitoring-Compatible/dp/B0CG9RZFLN/ref=pd%5Flpo%5Fsccl%5F2/130-8170310-8912626?content-id=amzn1.sym.1ad2066f-97d2-4731-9356-36b3edf1ae04&th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2002809&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fwithings-scanwatch-light-review%2F&asc%5Fcampaign=Authority) to anyone who isn’t interested in the digital-first Apple Watch or Google Pixel Watch. I really liked having a lot of the connected qualities of a smartwatch without being consumed by another screen.
@@ -184,6 +186,19 @@ Jerome Thomas / How-To Geek
  Withings is onto something with its hybrid watches, even if it isn’t specifically for everyone.
 
 ![Withings ScanWatch Light](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/withings-scanwatch-light.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #####  Withings ScanWatch Light
 
@@ -201,8 +216,6 @@ Part of the newest generation of Withings' hybrid smartwatches, ScanWatch Light 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -210,4 +223,22 @@ Part of the newest generation of Withings' hybrid smartwatches, ScanWatch Light 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-audience-engagement-meets-technology-four-recording-ways-on-facebook-for-2024/"><u>[New] Audience Engagement Meets Technology Four Recording Ways on Facebook for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-backspace-not-working/"><u>[Solved] Backspace Not Working</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-speech-recognition-made-easy-your-route-to-streamlined-workflows-with-microsoft-words-features/"><u>[Updated] 2024 Approved Speech Recognition Made Easy Your Route to Streamlined Workflows with Microsoft Word's Features</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-conquering-peaks-comparing-gopro-hero5-black-and-session/"><u>[Updated] Conquering Peaks Comparing GoPro Hero5 Black and Session</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-oppo-a79-5g-frp-by-drfone-android/"><u>How Can We Bypass Oppo A79 5G FRP?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-13-mini-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 13 mini to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Samsung Galaxy S23+? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-analysis-of-the-patriot-viper-vp4300-lite-maximizing-storage-with-4tb-ssds/"><u>In-Depth Analysis of the Patriot Viper VP4300 Lite: Maximizing Storage with 4TB SSDs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-modern-computers-with-expertise-from-toms-hardware-review/"><u>Mastering Modern Computers with Expertise From Tom's Hardware Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/maxio-unveils-high-speed-china-made-ssd-controllers-up-to-148gbs-with-pcie-5-technology/"><u>Maxio Unveils High-Speed China-Made SSD Controllers, Up to 14.8GB/S with PCIe 5 Technology</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/meet-kioxias-game-changing-solid-state-drives-harnessing-the-power-of-light-for-superior-performance-and-extended-reach-to-processors-over-40m/"><u>Meet Kioxia's Game-Changing Solid State Drives: Harnessing the Power of Light for Superior Performance and Extended Reach to Processors over 40M</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-computer-world-the-comprehensive-guide-by-tom/"><u>Navigating Computer World: The Comprehensive Guide by Tom</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-technology-through-toms-lens/"><u>Navigating Technology Through Tom's Lens</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-the-world-of-hardware-with-expert-insights-from-tom-your-go-to-resource-for-gadget-comparisons-and-buying-advice/"><u>Navigating the World of Hardware with Expert Insights From Tom - Your Go-To Resource for Gadget Comparisons and Buying Advice</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-dull-to-dynamic-top-5-ai-writing-catalysts/"><u>Transforming Dull to Dynamic: Top 5 AI Writing Catalysts</u></a></li>
+</ul></div>
 

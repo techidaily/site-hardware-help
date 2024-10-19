@@ -1,7 +1,7 @@
 ---
 title: "Reviving Gaming Glory: The Case for a Wii U-Inspired Controller on the Nintendo Switch"
-date: 2024-08-30T15:44:32.461Z
-updated: 2024-08-31T15:44:32.461Z
+date: 2024-10-15T11:42:38.623Z
+updated: 2024-10-19T12:19:47.694Z
 tags:
   - hardware
 categories:
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/db54d4e94bdc568181a5a19bde06cb60cc627002a
 
 ![Wii U marketing image from Nintendo website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/h2x1_wiiu_welcome_v07_image1600w.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Nintendo
 
  This essentially means that the Switch lacks the dual-screen functionality of the GamePad, which has resulted in numerous ports of Wii U games requiring concessions to their controls and design. Some of these Switch ports, such as _New_ _Super Mario Bros. U_ _Deluxe_ and _Captain Toad: Treasure Tracker_, even removed parts of the original games that could only function with the GamePad.
@@ -38,8 +45,12 @@ Nintendo
  Having a second screen would allow the Switch 2 to host plenty of new dual-screen titles, as well as ports of games from both the Wii U library (complete with their original GamePad features) and re-releases of DS and 3DS titles. If the Switch 2 combined these features with backward compatibility support for original Switch games, it could easily result in the most creative and varied library of games on any Nintendo console.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  How Would a GamePad Work on the Switch 2?
 
  Although the GamePad could be a positive addition to the Switch 2, it needs to support games in both docked and undocked mode. Being able to play any game on the go was the main appeal of the original Switch, so the new GamePad should support dual-screen games without compromising the Switch 2's portability.
@@ -51,8 +62,12 @@ Nintendo
  As long as the Switch 2 doesn't force the GamePad into every title, this would only be a problem for games that require the dual-screen setup. However, without a carrying case that holds both the GamePad and the undocked Switch 2, there's no getting around the fact that you will have to carry two tablets just to play these games. For this reason, the GamePad could probably use a smaller, more portable redesign for the Switch 2.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Avoiding the Wii U's Mistakes
 
  Even with these minor inconveniences, the Switch 2 could certainly benefit from reviving the GamePad. However, it also needs to avoid repeating the mistakes that caused the Wii U and its controller to fail in the first place. Unfortunately, these mistakes stem from the GamePad itself.
@@ -64,8 +79,12 @@ Nintendo
 ![A Wii U GamePad with The Legend of Zelda: Wind Waker HD playing.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/gamepad1.JPG) 
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Maximilian Padilla-Rodriguez / How-To Geek
 
  To make matters worse, the GamePad was never sold at retailers or even Nintendo's online store. If you ever needed to repair or replace your GamePad, your only options were to contact Nintendo's customer service (which has since discontinued support for the Wii U) or buy one from a third-party seller.
@@ -80,9 +99,6 @@ Maximilian Padilla-Rodriguez / How-To Geek
 
  This isn't to say that the Switch 2 should rely exclusively on the GamePad or force it into every game. Although the GamePad has its uses, many titles are best enjoyed with [a more conventional controller](https://screen-activity-recording.techidaily.com/new-capturing-creativity-premium-screen-recorder-software-on-pc-and-mac-for-2024/). But providing the option for developers to make use of a second screen can help the Switch 2 set itself apart from its predecessors and allow for games to utilize the GamePad for features that wouldn't be possible on any other console.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The GamePad Deserves Another Chance
 
  Just as the Switch refined the Wii U's concept of a console that works on both televisions and a handheld screen, the Switch 2 could do the same for the GamePad. It might be a tough sell for those who were left disappointed by the Wii U. But with an improved design and games that showcase the advantages of a second screen, the GamePad could help the Switch 2 become Nintendo's next success story.
@@ -95,8 +111,6 @@ Maximilian Padilla-Rodriguez / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -104,4 +118,16 @@ Maximilian Padilla-Rodriguez / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-premier-mp4-broadcast-suite/"><u>[New] Premier MP4 Broadcast Suite</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-from-apple-iphone-14-pro-max-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons From Apple iPhone 14 Pro Max? Find the Best Solution Here</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-download-velocity-in-steam-fending-off-drops/"><u>Boosting Download Velocity in Steam: Fending Off Drops</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862770633-get-your-hands-on-the-budget-friendly-240hz-acer-nitro-gaming-monitor-for-just-a-bargain-price-of-159/"><u>Get Your Hands on the Budget-Friendly 240Hz Acer Nitro Gaming Monitor for Just a Bargain Price of $159!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-infinix-hot-40i-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Infinix Hot 40i to iPod | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-full-screen-in-ppro-for-2024/"><u>Navigating Full Screen in PPro for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlocking-performance-secrets-tips-from-toms-hardware-analysis/"><u>Unlocking Performance Secrets - Tips From Tom's Hardware Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-latest-in-electronics-a-tour-of-toms-hardware-domain/"><u>Unveiling the Latest in Electronics - A Tour of Tom's Hardware Domain</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-latest-tech-a-closer-look-at-tom/"><u>Unveiling the Latest Tech: A Closer Look at Tom'</u></a></li>
+</ul></div>
 

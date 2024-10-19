@@ -1,7 +1,7 @@
 ---
 title: "Discover the Latest Snapdragon-Powered Laptops: Lenovo's All-New ThinkPad T14s & Yoga Slim"
-date: 2024-09-04T02:07:17.787Z
-updated: 2024-09-05T02:07:17.787Z
+date: 2024-10-13T12:02:35.628Z
+updated: 2024-10-19T09:52:25.984Z
 tags:
   - hardware
 categories:
@@ -27,6 +27,13 @@ Close
 
  Besides the Snapdragon chip, you get up to 32GB RAM and up to a 1TB SSD. Lenovo didn’t mention in its announcement what the base configuration would use. The laptop will start at $1,199 when it arrives in June 2024.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Lenovo ThinkPad T14s Gen6
 
  Lenovo also revealed the ThinkPad T14s Gen 6, which is more of a typical ThinkPad laptop with a blacked-out design and trackpoint in the center of the keyboard. It has the same Snapdragon X Elite chip as the Yoga Slim, but with a smaller 58Whr battery.
@@ -47,8 +54,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -56,11 +61,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-ascend-in-the-youtube-arena-through-creative-studio-mastery/"><u>[New] 2024 Approved Ascend in the YouTube Arena Through Creative Studio Mastery</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-sportswomens-scorecard-poker-analysis/"><u>[New] In 2024, SPORTSWOMEN'S SCORECARD Poker Analysis</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-become-a-periscope-expert-with-our-full-guide-for-2024/"><u>[Updated] Become a Periscope Expert with Our Full Guide for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-the-editors-toolkit-using-markers-in-professional-editing/"><u>2024 Approved The Editor's Toolkit Using Markers in Professional Editing</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-w10-ultimate-screen-replay-suite/"><u>2024 Approved W10 Ultimate Screen Replay Suite</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/direct-links-to-epson-ds-530-driver-downloads-optimize-your-windows-10-x64-experience/"><u>Direct Links to Epson DS-530 Driver Downloads: Optimize Your Windows 10 (X64) Experience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/dive-into-digital-depths-with-toms-hardware-guides-for-premium-pc-gear/"><u>Dive Into Digital Depths with Tom's Hardware Guides for Premium PC Gear</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-webcam-driver-downloads-and-setup-for-windows-7-systems/"><u>Effortless Webcam Driver Downloads & Setup for Windows 7 Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fix-hp-officejet-pro-6978-driver-issues/"><u>Fix: HP OfficeJet Pro 6978 Driver Issues</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-the-newest-epson-wf-3620-printer-drivers-for-your-windows-pc-10-8-or-7/"><u>How to Get the Newest Epson WF-3620 Printer Drivers for Your Windows PC - 10, 8 or 7</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-samsung-galaxy-a23-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Samsung Galaxy A23 5G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-15-pro-location-without-installing-software-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone 15 Pro Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-analysis-of-the-gskill-trident-z5-rgb-ddr5-memory-kit-a-stellar-balance-of-performance-and-storage/"><u>In-Depth Analysis of the G.Skill Trident Z5 RGB DDR5 Memory Kit - A Stellar Balance of Performance & Storage</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-mavericks-video-editing-software-easily-edit-mp4-files/"><u>New 2024 Approved Mavericks Video Editing Software Easily Edit MP4 Files</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-for-obtaining-the-epson-et-2750-printer-driver-for-windows-users/"><u>Step-by-Step Tutorial for Obtaining the Epson ET-2750 Printer Driver for Windows Users</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

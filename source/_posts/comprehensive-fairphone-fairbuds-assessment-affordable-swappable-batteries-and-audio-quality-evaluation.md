@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Fairphone Fairbuds Assessment: Affordable, Swappable Batteries and Audio Quality Evaluation"
-date: 2024-08-30T15:44:12.778Z
-updated: 2024-08-31T15:44:12.778Z
+date: 2024-10-18T10:41:55.394Z
+updated: 2024-10-19T05:13:13.279Z
 tags:
   - hardware
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
 
  The main feature of the [Fairphone Fairbuds](https://shop.fairphone.com/fairbuds) is that they have user-replaceable batteries in the charging case and in the earbuds. A great environmental initiative, but enough to justify buying these pretty bad-sounding earbuds? Not a chance.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  These Earbuds Shouldn’t be Graded on a Curve
 
 ![Fairphone Fairbuds outside charging case](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/fairphone-fairbuds-outside-charging-case.jpg) 
@@ -35,17 +42,17 @@ Jerome Thomas / How-To Geek
 
  The feature the company wants the Fairbuds to be graded against is the buds’ user-replaceable batteries. But earbuds should be judged by how well they play audio, first and foremost. At no point did I ever want to use them to listen to music though.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ##  Okay, so About Those Batteries
 
 ![Fairphone Fairbuds battery](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/fairphone-fairbuds-battery.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  Being in the consumer electronics space, I’ve thought about the nature of user-replaceable parts for a while. It’s undeniably neat that with a tiny screwdriver I have in my garage I can pop off the case and pop in a fresh, €12.95 (\~$13.85) battery. Or that for €9.95, I can slide off the rubber band around each earbud and give those a renewed listening time.
@@ -55,8 +62,12 @@ Jerome Thomas / How-To Geek
 ![Fairphone Fairbuds charging case opened](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/fairphone-fairbuds-charging-case-opened.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  Of the plethora of earbuds I still have sitting in my garage, I never get the urge to go listen to the old mediocre ones. They don’t age gracefully, getting outdated in other ways beyond their batteries. The Fairbuds also aren't as robust as something like the [Framework laptop](https://buynow-reviews.techidaily.com/expert-recommendations-top-functional-and-stylish-mac-mouse-options-of-2024/) which has a lot of pieces to its user-upgradable computer. The Fairbuds don't have replaceable drivers, Bluetooth chips, or anything else like that.
@@ -68,8 +79,18 @@ Jerome Thomas / How-To Geek
 ![Fairphone Fairbuds Proximity Sensor](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/fairphone-fairbuds-proximity-sensor.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  Trying to use the Fairphone app was an exercise in frustration. Often the app would report that it couldn’t find the earbuds, even as I was using them with my phone to listen to music. Putting them in the case and then getting them into pairing mode would sometimes get the app to see them, but doing so would also leave a trail of multiple “Fairbuds” Bluetooth profiles in my Settings app.
@@ -78,9 +99,6 @@ Jerome Thomas / How-To Geek
 
  There are no ANC settings in the app. Really, the only thing to use the app for is to change the EQ. But, to be positive, the Bass Boost EQ mode did help to make the earbuds sound a little better. I didn't care for the other two presets (Flat and Main) at all. The Studio EQ mode allows people to adjust an 8-band EQ. I wasn't interested in putting in that work with all the other issues and don't think anyone should be required to control their own EQ, unless they specifically want to.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Are the Fairphone Fairbuds Worth Spending Money On?
 
 ![Fairphone Fairbuds outside charging](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/fairphone-fairbuds-outside-charging.jpg) 
@@ -95,9 +113,6 @@ Jerome Thomas / How-To Geek
 
 ![Fairphone Fairbuds](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/cleanshot-2024-04-27-at-15-01-18-2x.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  Fairphone Fairbuds
 
 4/ 10 
@@ -176,8 +191,6 @@ Expand
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -185,4 +198,19 @@ Expand
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-perfect-your-presence-the-compreenas-guide-to-obs-youtube-and-twitch/"><u>[New] 2024 Approved Perfect Your Presence The Compreenas Guide to OBS, YouTube & Twitch</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-roadmap-how-to-make-your-covers-shine/"><u>[New] The Roadmap How To Make Your Covers Shine</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-unlocking-the-secrets-of-successful-igtv-posts/"><u>[Updated] 2024 Approved Unlocking the Secrets of Successful IGTV Posts</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-screenflow-for-mac-full-review-for-2024/"><u>[Updated] ScreenFlow for Mac Full Review for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862804441-199-on-a-premium-dell-quad-hd-ips-monitor-buy-today/"><u>$199 on a Premium Dell Quad HD IPS Monitor - Buy Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862830084-affordable-thor-vs-darth-vader-desktop-screen-by-china-dazzling-deal-at-just-139/"><u>Affordable 'Thor vs Darth Vader' Desktop Screen by China - Dazzling Deal at Just $139</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862793164-epic-deal-alert-experience-immersive-gameplay-on-a-240-hz-159-acer-nitro-monitor/"><u>Epic Deal Alert: Experience Immersive Gameplay on a 240 Hz, $159 Acer Nitro Monitor!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862781963-experience-the-latest-in-affordable-laptops-minisforums-new-release-featuring-a-156-inch-144hz-1440p-screen-for-just-189/"><u>Experience the Latest in Affordable Laptops - Minisforum's New Release Featuring a 15.6-Inch, 144Hz, 1440P Screen for Just $189!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-the-leading-10-macwindows-srt-enhancers-for-2024/"><u>Exploring the Leading 10 Mac/Windows SRT Enhancers for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-guide-how-to-restore-a-missing-coprocessor-driver-in-windows-10/"><u>Fix Guide: How to Restore a Missing Coprocessor Driver in Windows 10</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-lenovo-thinkphone-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Lenovo ThinkPhone to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-toms-electronics-insights-a-guide-to-hardware-mastery/"><u>Unveiling Tom's Electronics Insights: A Guide to Hardware Mastery</u></a></li>
+</ul></div>
 
