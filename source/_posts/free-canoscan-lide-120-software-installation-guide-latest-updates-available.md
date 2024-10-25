@@ -1,7 +1,7 @@
 ---
 title: "Free CanoScan LiDE 120 Software Installation Guide: Latest Updates Available"
-date: 2024-10-14T10:14:55.216Z
-updated: 2024-10-19T10:44:46.407Z
+date: 2024-10-21T07:11:03.131Z
+updated: 2024-10-24T19:18:57.361Z
 tags:
   - win11
   - win10
@@ -42,35 +42,14 @@ thumbnail: https://thmb.techidaily.com/509fff23b0ac771700c9cc9f462572328b6f939b9
 3. Type**device** into the search box. Then select**Device Manager** from a list of search results.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1098.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Here comes**Device Manager** . Click the**▷** symbol to the left of**Biometric Devices** to expand its drop-down list.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1073.png)
 5. Right-click on**Validity Sensors (WBF)** to open its context menu. Then select**Update Driver Software…** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-11-03.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Click**Search automatically for updated driver software** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-18-21.png)
 7. Wait till the download and installation process finishes.
@@ -80,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/509fff23b0ac771700c9cc9f462572328b6f939b9
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Option 2 – Update your driver from official websites**
 
  If you’d like to update your driver from its official website, you need to know the original equipment manufacturer (OEM) of your notebook or other devices with a fingerprint sensor. Given that the process of finding, downloading and installing the driver varies from person to person, this post will simply outline the method in a brief way.
@@ -87,6 +73,13 @@ thumbnail: https://thmb.techidaily.com/509fff23b0ac771700c9cc9f462572328b6f939b9
  For example, if you’re using a Lenovo laptop, you can visit the official site of Lenovo and locate its**Support** section (that is where they usually provide drivers or other software for customers to download). Down there you should select “Drivers & Download” or whatever so that you can enter the download page of drivers. Usually there will a search box for you to type in your device model or the driver name, etc. As long as you give the right name, the website will automatically display a list of drivers that are considered to match your request. Select one from them depending on your Windows version (such as Windows 10 Pro, 64-bit), download it and install it step by step. On completion, please reboot your PC to let the changes take effect.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Option 3 – Update your driver automatically (Recommended)**
 
@@ -99,6 +92,13 @@ thumbnail: https://thmb.techidaily.com/509fff23b0ac771700c9cc9f462572328b6f939b9
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-29_18-38-22-2.png)
 3. Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your Validity fingerprint sensor driver for now, simply click the**Update** button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-29_18-36-48-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
 
@@ -128,20 +128,24 @@ thumbnail: https://thmb.techidaily.com/509fff23b0ac771700c9cc9f462572328b6f939b9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-filmmakers-guide-to-masterful-panoramic-videos-9-must-know-tips/"><u>[New] The Filmmaker's Guide to Masterful Panoramic Videos (9 Must-Know Tips)</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-from-basic-to-brilliant-the-ultimate-snapchat-filter-journey/"><u>[Updated] From Basic to Brilliant The Ultimate Snapchat Filter Journey</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-which-screen-recorder-excels-obs-or-fraps-for-2024/"><u>[Updated] Which Screen Recorder Excels OBS or Fraps for 2024</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/1-top-free-backup-software-ultimate-guide-and-best-picks-for-windows-users/"><u>1. Top Free Backup Software: Ultimate Guide & Best Picks for Windows Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723262284316-adding-these-two-expressions-together-gives-us-the-final-expression-xx-n-plus-2x/"><u>Adding These Two Expressions Together Gives Us the Final Expression: ( X(x - N) + 2X )</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/fix-presonus-audiobox-usb-driver-issue-easily-and-quickly/"><u>Fix Presonus AudioBox USB Driver Issue Easily & Quickly</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722965298269-fixing-csr8510-a10-driver-problems-on-windows-systems-now-resolved/"><u>Fixing CSR8510 A10 Driver Problems on Windows Systems - Now Resolved!</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-12-pro-max-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot iPhone 12 Pro Max Backup Password? Heres What to Do | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/fresh-driver-download-for-nvidia-geforce-mx150-enhance-your-windows-experience/"><u>Fresh Driver Download for Nvidia GeForce MX150: Enhance Your Windows Experience!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-toshiba-laptop-drivers-compatible-with-windows-software/"><u>Get the Latest Toshiba Laptop Drivers Compatible with Windows Software</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/guida-rapido-e-facile-trasformare-un-file-iso-immagine-in-formato-mp4-in-meno-di-5-minuti/"><u>Guida Rapido E Facile: Trasformare Un File ISO Immagine in Formato MP4 in Meno Di 5 Minuti</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Honor Magic V2 | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-advanced-screen-recording-suite-for-windows-and-macos/"><u>In 2024, Advanced Screen Recording Suite for Windows & macOS</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722978550614-positive-externalities-occur-when-a-transaction-has-beneficial-effects-on-uninvolved-third-parties-such-as-education/"><u>Positive Externalities Occur when a Transaction Has Beneficial Effects on Uninvolved Third Parties, Such as Education.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-the-latest-in-tech-exploring-toms-hardware-insights/"><u>Unveiling the Latest in Tech: Exploring Tom's Hardware Insights</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/roadcast-excellence-incorrante-video-loops-into-television/"><u>[New] Broadcast Excellence Incorrante Video Loops Into Television</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-expert-guide-to-color-correction-implementing-luts-within-ae-projects/"><u>[Updated] 2024 Approved Expert Guide to Color Correction Implementing LUTs Within AE Projects</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-deep-dive-into-windows-hd-color-and-hdr-editing-excellence/"><u>A Deep Dive Into Windows HD Color and HDR Editing Excellence</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/geforce-rtx-3070-ti-download-official-graphics-cards-drivers-for-win-10-8-and-7-now/"><u>GeForce RTX 3070 Ti - Download Official Graphics Cards Drivers for Win 10, 8 & 7 Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-instant-access-step-by-step-to-download-your-validity-fingerprint-sensors-driver-now/"><u>Get Instant Access: Step-by-Step to Download Your Validity Fingerprint Sensor's Driver Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-the-newest-microsoft-bluetooth-driver-for-windows-10-11-8-and-7/"><u>How to Get the Newest Microsoft Bluetooth Driver for Windows 10, 11, 8 & 7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-swiftly-unfreeze-steam-and-resume-gaming-on-windows-11/"><u>How To Swiftly Unfreeze Steam and Resume Gaming on Windows 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-nokia-c110-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Nokia C110 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y100i-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y100i To Phone | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722978380201-intel-hd-graphics-amoled-4400-fresh-driver-downloads-available-today/"><u>Intel HD Graphics Amoled 4400: Fresh Driver Downloads Available Today</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-amazon-prime-day-2024-proven-strategies-for-snagging-the-best-deals/"><u>Mastering Amazon Prime Day 2024: Proven Strategies for Snagging the Best Deals</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722972326466-negative-externalities-can-result-from-private-transactions-causing-harm-to-others-like-pollution/"><u>Negative Externalities Can Result From Private Transactions Causing Harm to Others, Like Pollution.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-easy-asus-touchscreen-pad-installation-on-windows-10-drivers-ready/"><u>Quick & Easy ASUS Touchscreen Pad Installation on Windows 10: Drivers Ready!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-how-to-fix-fortnite-microphone-issues-troubleshooting-guide/"><u>Solved: How to Fix Fortnite Microphone Issues - Troubleshooting Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-tip-restarting-an-igfxem-module-that-wont-work-anymore/"><u>Troubleshooting Tip: Restarting an igfxEM Module that Won't Work Anymore</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-lenovo-ideapad-5th-gen-t430s-drivers-with-ease-step-by-step-guide-for-windows-users/"><u>Update Lenovo IdeaPad 5Th Gen T430s Drivers with Ease – Step-by-Step Guide for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-epson-tm-t88v-printer-software-for-windows-free-driver-download/"><u>Update Your EPSON TM-T88v Printer Software for Windows - Free Driver Download</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-tech-professionals-are-walking-away-beyond-pool-tables-no-incentive-can-retain-top-talent/"><u>Why Tech Professionals Are Walking Away: Beyond Pool Tables, No Incentive Can Retain Top Talent</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/be-thumbnail-crafting-simplified-macos-edition-for-2024/"><u>YouTube Thumbnail Crafting Simplified (macOS Edition) for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In-Depth Evaluation of the Near-Perfect Samsung Galaxy S22
-date: 2024-09-09T16:13:47.918Z
-updated: 2024-09-10T16:13:47.918Z
+date: 2024-10-18T17:11:49.358Z
+updated: 2024-10-24T19:31:16.061Z
 tags:
   - android
 categories:
@@ -9,18 +9,6 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/374891e7.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## In-Depth Evaluation of the Near-Perfect Samsung Galaxy S22
 
 ### Quick Links
@@ -38,22 +26,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 
  Now, if you're looking for something more pocketable and less over-the-top, let's talk about the Samsung Galaxy S22.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Hardware and Design
 
 ![Samsung Galaxy S22's power and volume buttons](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/0cb2baf1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 _Justin Duino / Review Geek_
 
 * 70.6 x 146.0 x 7.6mm, 168g
@@ -78,12 +61,6 @@ _Justin Duino / Review Geek_
 
  If you want a two-tone design, you'll have to [buy your Galaxy S22 directly from Samsung](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s22%2Fbuy%2F). The company sells exclusive Graphite, Cream, Sky Blue, and Violet colors with contrasting camera bumps that match the frame's paint job.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Display
 
 ![Samsung Galaxy S22's App Drawer](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/26f62a65.jpg) 
@@ -102,6 +79,13 @@ Related: [Samsung Galaxy S22 Ultra Review: The Total Package](https://www.review
  Unfortunately, despite an early Samsung spec sheet stating that the Galaxy S22 could adjust its refresh rate between 10 and 120Hz on the fly, this handset does not include an [LTPO display](https://screen-mirror.techidaily.com/how-to-mirror-oppo-a59-5g-to-mac-drfone-by-drfone-android/). So, unlike the [Galaxy S22 Ultra](https://www.reviewgeek.com/110490/samsung-galaxy-s22-ultra-review-the-total-package/), which has an LTPO 2.0 display and can adjust from 1 to 120Hz, the Galaxy S22 is limited to 48 to 120Hz.
 
  Now that isn't to say the smaller refresh rate window is terrible. Yes, dropping the rate down to 1Hz would be great for battery life, but it's a feature you'll probably forget about within a week. All that matters is that the 120Hz refresh rate display makes for enjoyable scrolling within apps.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Software and Performance
 
@@ -135,17 +119,24 @@ Related: [Newer Samsung Galaxy Devices Now Get Four Years of Security Updates](h
 
 ![Samsung Galaxy S22's rear cameras](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/c55d7a7a.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 _Justin Duino / Review Geek_
 
  I don't think I could write anything about the Galaxy S22's cameras that you don't already know. For several years now, it has been safe to say that if you buy a phone from Samsung, Google, or Apple, the image quality will be incredible. That doesn't change this year.
 
  Take a look at the photo samples below to get a good idea of what you should expect from all of the different lenses and sensors.
+
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Rear Cameras
 
@@ -161,16 +152,17 @@ Close
 
  Now, if you hate letting Samsung's camera app decide what makes a great photo, you can [download the Expert RAW app](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fgalaxystore.samsung.com%2Fprepost%2F000005977497%3FlangCd%3Den) from the Galaxy App Store. In addition to saving images in a [RAW format](https://on-screen-recording.techidaily.com/updated-in-2024-quick-capture-screen-grabs-on-windows-pcs/) that makes for easy editing in Lightroom and Photoshop, it also allows you to manually adjust the [ISO](https://youtube-clips.techidaily.com/new-adding-audio-descriptions-to-videos-on-youtube/), [shutter speed](https://screen-mirror.techidaily.com/in-2024-a-guide-samsung-galaxy-f54-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/), [white balance](https://extra-approaches.techidaily.com/in-2024-20plus-funny-metaverse-memes-and-how-to-make-your-own-memes/), focus point, and more.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Front-Facing Camera
 
 ![Samsung Galaxy S22's front-facing camera](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/b67814e1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 _Justin Duino / Review Geek_
 
 * 10MP Front Camera, F2.2, 80-Degree Field-of-View
@@ -181,12 +173,6 @@ Close
 
  The Galaxy S22 series also comes with a new AI stereo depth map that will make Portrait mode better. According to Samsung, hair should no longer accidentally blend into the fake bokeh background. While that mostly is true in my Portrait mode image above, there is still a halo effect happening that is really visible around my hair.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Nightography
 
  New this year is a low-light shooting mode that Samsung is calling "Nightography." The company claims this new feature, using "enhanced AI technology powered by the new NPU," allows you to capture more true-to-life colors and details when snapping photos at night.
@@ -200,6 +186,13 @@ Close
 ##  Battery Life
 
 ![Samsung Galaxy S22's overview menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/5f081a11.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -219,22 +212,10 @@ _Justin Duino / Review Geek_
 
  The battery life also depended on if I was primarily on Wi-Fi or cellular. Days when I never left my home/Wi-Fi saw the best battery life compared to being on 5G for several hours. I will note that the handset would frequently disconnect from my Wi-Fi network if it wasn't happy with its stability. Thankfully, it would reconnect within a couple of minutes.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Should You Buy the Samsung Galaxy S21?
 
 ![Samsung Galaxy S22 in-hand](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/9c8b40d1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 _Justin Duino / Review Geek_
 
  The Galaxy S22 is so close to perfection. The phone's only actual limitation is its battery life, which isn't horrible---especially if you have a charger nearby---but it's a reason to consider something else.
@@ -246,11 +227,12 @@ _Justin Duino / Review Geek_
 ![f5d573f4](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/f5d573f4.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 #####  Samsung Galaxy S22
 
 8/ 10 
@@ -273,8 +255,6 @@ _Justin Duino / Review Geek_
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -282,4 +262,24 @@ _Justin Duino / Review Geek_
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-essential-gif-sharing-on-snapchat-easy-tutorial-for-2024/"><u>[New] Essential Gif Sharing on Snapchat [Easy Tutorial] for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-revolutionizing-patient-engagement-with-creative-fb-strategies/"><u>[Updated] Revolutionizing Patient Engagement with Creative FB Strategies</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-turnout-android-video-streams-counterclockwise/"><u>[Updated] Turnout Android Video Streams Counterclockwise</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-tutorial-on-precise-audioshifting/"><u>[Updated] Ultimate Tutorial on Precise Audioshifting</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722962605580-download-and-update-amd-smbus-drivers-fast-step-by-step-guide/"><u>Download and Update AMD SMBus Drivers Fast: Step-by-Step Guide!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-amd-rx-6800-driver-update-now-optimized-for-windows-operating-systems-including-11-10-8-and-7/"><u>Get Your AMD RX 6800 Driver Update Now: Optimized for Windows Operating Systems Including 11, 10, 8 & 7!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-samsung-adb-drivers-instantly-expert-downloading-guide/"><u>Get Your Samsung ADB Drivers Instantly: Expert Downloading Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975062431-get-your-samsung-devices-official-adb-drivers-here/"><u>Get Your Samsung Device's Official ADB Drivers Here</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-engaging-oratorics-assessment-version-8/"><u>In 2024, Engaging Oratorics Assessment, Version 8</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-latest-logitech-speakers-drivers-on-windows-1178-direct-download-links/"><u>Install Latest Logitech Speakers' Drivers on Windows 11/7/8 - Direct Download Links</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-official-amd-rx-6900-xt-graphics-card-driver-for-all-windows-versions-windows-111087-download-here/"><u>Install Official AMD RX 6900 XT Graphics Card Driver for All Windows Versions - Windows 11/10/8/7 Download Here</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722977263855-newest-brother-hl-2240-printer-drivers-for-windows-pcs-update-now/"><u>Newest Brother HL-2240 Printer Drivers for Windows PCs - Update Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/optimize-your-system-downloading-and-updating-intel-optane-drivers-for-windows-users/"><u>Optimize Your System: Downloading & Updating Intel Optane Drivers for Windows Users</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/smart-tips-for-gif-lovers-iphone-edition-for-2024/"><u>Smart Tips for GIF Lovers IPhone Edition for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-excessive-disk-space-consumption-by-microsofts-telemetry-on-windows-11/"><u>Troubleshooting Excessive Disk Space Consumption by Microsoft's Telemetry on Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-noisy-hardware-steps-to-repair-an-overbearing-computer-fan/"><u>Troubleshooting Noisy Hardware: Steps to Repair an Overbearing Computer Fan</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-installing-hp-officejet-pro-8715-printer-drivers-on-your-pc-windows/"><u>Ultimate Guide to Installing HP Officejet Pro 8715 Printer Drivers on Your PC [Windows]</u></a></li>
+</ul></div>
 

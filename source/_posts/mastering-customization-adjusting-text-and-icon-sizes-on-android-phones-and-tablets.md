@@ -1,7 +1,7 @@
 ---
 title: "Mastering Customization: Adjusting Text & Icon Sizes on Android Phones & Tablets"
-date: 2024-09-09T16:09:56.465Z
-updated: 2024-09-10T16:09:56.465Z
+date: 2024-10-20T19:03:40.935Z
+updated: 2024-10-24T23:53:24.990Z
 tags:
   - android
 categories:
@@ -17,6 +17,13 @@ thumbnail: https://thmb.techidaily.com/57fc80a0532998e9a3fa34c3a10aaf11a38c8a257
 * [How to Change Only the Text Size on Android](https://extra-hints.techidaily.com/in-2024-a-step-by-step-guide-to-engaging-video-blog-plots/)
 * [How to Temporarily Magnify the Screen on Android](https://driver-error.techidaily.com/understanding-and-resolving-problems-in-aging-usb-composite-device-connections/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Customize the size of icons, text, and more on Android to make your phone easier to see.
@@ -29,18 +36,6 @@ thumbnail: https://thmb.techidaily.com/57fc80a0532998e9a3fa34c3a10aaf11a38c8a257
 
  The screenshots below are from a Google Pixel phone, but the steps and verbiage will be similar for other devices and versions of Android.
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Change the Icon & Font Size on Android
 
  To change the size of app icons on Android, you'll also be changing the size of the text. This is due to the "Display Size" settings, which essentially enlarge the entire phone interface.
@@ -53,33 +48,29 @@ thumbnail: https://thmb.techidaily.com/57fc80a0532998e9a3fa34c3a10aaf11a38c8a257
 
 ![Display section in Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240216-105440.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Look for "Display Size and Text" or "Screen Zoom."
 
 ![Display Size and Text section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240216-105444.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Slide the dot on the scale for "Display Size" to adjust the size. You can swipe between the previews to see how things will look.
 
 ![Adjust the display scale.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240216-105449.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  That's it. The display size will change in real time as you move the dot on the scale.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Change Only the Text Size on Android
 
@@ -87,26 +78,28 @@ thumbnail: https://thmb.techidaily.com/57fc80a0532998e9a3fa34c3a10aaf11a38c8a257
 
 ![Tap the gear icon to open Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240216-105435.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now go to the "Display" settings.
 
 ![Display section in Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240216-105440.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Look for "Display Size and Text" or "Font Size and Style."
 
 ![Display Size and Text section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240216-105444.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Slide the dot on the scale for "Font Size" to adjust the text size. You can see a preview of the text at the top of the screen.
 
 ![Adjust the Font Size.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2024-02-16_11-04-06.png) 
@@ -121,38 +114,14 @@ thumbnail: https://thmb.techidaily.com/57fc80a0532998e9a3fa34c3a10aaf11a38c8a257
 
 ![Tap the gear icon to open Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/screenshot_20240216-105435.png) 
 
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Scroll down to "Accessibility."
 
 ![Select "Accessibility."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/01/2021-08-24_13-49-22.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Select "Magnification." On a Samsung device, you'll need to go to "Visibility Enhancements" first.
 
 ![Select "Magnification."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/01/2021-08-24_13-50-17.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Toggle the switch on to enable the "Magnification Shortcut."
 
 ![Enable the "Magnification Shortcut."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/01/2021-08-24_14-06-14.png) 
@@ -161,16 +130,17 @@ thumbnail: https://thmb.techidaily.com/57fc80a0532998e9a3fa34c3a10aaf11a38c8a257
 
 ![Tap the floating shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/01/2021-08-24_13-52-24.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Previous versions of Android have a two-finger gesture to bring up the magnification modes. Simply swipe up from the bottom of the screen with two fingers.
 
 ![Swipe up with two fingers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/01/2021-08-24_13-54-18.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In both cases, you have a number of methods to zoom in while using Magnification.
 
 **To zoom in:** 
@@ -198,8 +168,6 @@ thumbnail: https://thmb.techidaily.com/57fc80a0532998e9a3fa34c3a10aaf11a38c8a257
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -207,4 +175,17 @@ thumbnail: https://thmb.techidaily.com/57fc80a0532998e9a3fa34c3a10aaf11a38c8a257
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-gentle-volume-reduction-methods-in-ableton-live/"><u>[Updated] 2024 Approved Gentle Volume Reduction Methods in Ableton Live</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-famebit-alternatives-for-finding-youtube-sponsorships/"><u>[Updated] In 2024, FameBit Alternatives for Finding YouTube Sponsorships</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-full-screen-magic-trick-solved/"><u>[Updated] In 2024, Full Screen Magic Trick Solved</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-reveals-performance-of-the-new-ryzen-9-9950x-zen-5-architecture-unleashed-in-high-demand-benchmarks/"><u>AMD Reveals Performance of the New Ryzen 9 9950X - Zen 5 Architecture Unleashed in High-Demand Benchmarks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fast-access-to-up-to-date-asus-pce-ac68-drivers-download-here/"><u>Fast Access to Up-to-Date ASUS PCE-AC68 Drivers - Download Here!</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-tapping-into-youtubes-affiliate-income-streams/"><u>In 2024, Tapping Into YouTube's Affiliate Income Streams</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-top-10-budget-friendly-options-premium-free-podcast-players-for-modern-smartphones/"><u>In 2024, Top 10 Budget-Friendly Options Premium-Free Podcast Players for Modern Smartphones</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-your-machine-the-inside-scoop-from-toms-hardware-experts/"><u>Mastering Your Machine: The Inside Scoop From Tom's Hardware Experts</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/snapchat-savvy-elevating-your-photographic-style-with-app-edits/"><u>Snapchat Savvy Elevating Your Photographic Style with App Edits</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-spread-of-market-economies-around-the-world-and-their-eventual-adoption-by-even-socialist-states-like-china/"><u>The Spread of Market Economies Around the World and Their Eventual Adoption by Even Socialist States Like China.</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Quick Gestures: Utilizing the Back Tap Feature on Your Android Device"
-date: 2024-09-09T16:15:02.552Z
-updated: 2024-09-10T16:15:02.552Z
+date: 2024-10-21T19:21:41.893Z
+updated: 2024-10-25T04:18:46.083Z
 tags:
   - android
 categories:
@@ -11,12 +11,6 @@ thumbnail: https://thmb.techidaily.com/c41c3d9bbfec49291e9196cc3e72df37d6e282bd9
 
 ## Mastering Quick Gestures: Utilizing the Back Tap Feature on Your Android Device
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [How to Use Quick Tap on Google Pixel](https://ai-driven-video-production.techidaily.com/updated-in-2024-avi-file-joiner-top-10-free-and-easy-to-use-software-options/)
@@ -24,11 +18,12 @@ thumbnail: https://thmb.techidaily.com/c41c3d9bbfec49291e9196cc3e72df37d6e282bd9
 * [How to Use Tap, Tap for Android](https://change-location.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-vivo-y36i-drfone-by-drfone-virtual-android/)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Quick Tap on Google Pixel: Go to Settings > System > Gestures to enable Quick Tap. Choose an action and simply tap the back of your phone twice to activate it.
@@ -38,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/c41c3d9bbfec49291e9196cc3e72df37d6e282bd9
  Gestures and shortcuts allow you to quickly access things without jumping through apps and menus. What if you could simply[tap the back of your device](https://ai-live-streaming.techidaily.com/updated-in-2024-10-free-football-streaming-sites-to-bookmark/) to perform an action? We'll show you how to do this on your Android phone.
 
  There are a couple of different ways to do this, depending on the phone you have. Google Pixel devices have a built-in feature called "Quick Tap." Samsung Galaxy devices can do it with a Good Lock module. And for everyone else, you can use a third-party app called "Tap, Tap." Let's do it!
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **How to Use Quick Tap on Google Pixel** 
 
@@ -57,27 +59,48 @@ thumbnail: https://thmb.techidaily.com/c41c3d9bbfec49291e9196cc3e72df37d6e282bd9
 
 ![Select "Quick Tap to Start Actions."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230911-110048.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Toggle the switch on and choose an action. You can do things such as take a screenshot, turn on the flashlight, play/pause music, show notifications, and even open a specific app.
 
 ![Toggle on and choose an action.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230911-110058.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  There's also an option to "Require Stronger Taps" if you find the gesture is activated too easily.
 
 ![Toggle on "Require Stronger Taps."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/2023-09-11_14-49-18.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  That's all there is to it! Simply tap the back of the phone twice to activate the action.
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **How to Use Back Tap on Samsung Galaxy** 
 
@@ -85,12 +108,6 @@ thumbnail: https://thmb.techidaily.com/c41c3d9bbfec49291e9196cc3e72df37d6e282bd9
 
 ![RegiStar module.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230911_111606_good-lock.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In RegiStar, select "Back-Tap Action."
 
 ![Select "Back-Tap Action."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230911_111616_registar.jpg) 
@@ -104,29 +121,18 @@ thumbnail: https://thmb.techidaily.com/c41c3d9bbfec49291e9196cc3e72df37d6e282bd9
 ![Select actions for the "Double Tap" and "Triple Tap" gestures](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230911_111718_registar.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You also have the option to see a notification when Back-Tap is triggered, adjust the sensitivity of the gesture, and add "Gates," which are conditions in which Back-Tap will be paused.
 
 ![Set up "Gates" and sensitivity.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/2023-09-11_13-51-53.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You're all set! Just tap the back of the phone the number of times you decide.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **How to Use Tap, Tap for Android** 
 
  Open a web browser on your Android device and head to[the GitHub page for Tap, Tap](https://github.com/KieronQuinn/TapTap). Download the most recent APK file that's available and[sideload it on your Android device](https://facebook-video-content.techidaily.com/updated-unlock-premium-quality-streaming-on-the-worlds-largest-network/).
@@ -145,28 +151,23 @@ thumbnail: https://thmb.techidaily.com/c41c3d9bbfec49291e9196cc3e72df37d6e282bd9
 
 ![Select Double Tap or Triple Tap actions.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230911_130424_tap-tapa.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Note that some actions will require you to enable the Accessibility Service to run. You can do this by following the instructions in the notification.
 
 ![Enable the accessibility service.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230911_130551_settings.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Each gesture can actually have multiple actions, which are executed in the order that you put them on the gesture screen. Use the handles to move around the order of operations.
 
 ![Rearrange the order of actions.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230911_130831_tap-tap.jpg) 
@@ -176,33 +177,16 @@ thumbnail: https://thmb.techidaily.com/c41c3d9bbfec49291e9196cc3e72df37d6e282bd9
 ![Add a requirement to the action.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/2023-09-11_14-53-43.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Lastly, there are "Gates." These are situations, similar to the Requirements, that will prevent the gestures from running. Requirements are for individual Actions, while Gates apply to all of them.
 
 ![Gates in Tap-Back Actions.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230911_130341_tap-tap.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  That's it! As mentioned, there are a ton of options in this app. The only limitation is your imagination. You can create some very useful shortcuts if you take some time to explore.
 
 <ins class="adsbygoogle"
@@ -211,8 +195,6 @@ thumbnail: https://thmb.techidaily.com/c41c3d9bbfec49291e9196cc3e72df37d6e282bd9
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -220,4 +202,26 @@ thumbnail: https://thmb.techidaily.com/c41c3d9bbfec49291e9196cc3e72df37d6e282bd9
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-build-your-dreamy-oriental-villas-in-minecraft/"><u>[New] Build Your Dreamy Oriental Villas in Minecraft</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-masterful-bordering-techniques-for-stellar-instagram-videos/"><u>[Updated] In 2024, Masterful Bordering Techniques for Stellar Instagram Videos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-short-symphony-shots-roles-and-rhythm-showcase/"><u>[Updated] Short Symphony Shots Roles & Rhythm Showcase</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-next-gen-hd-video-recording-the-pinnacle-choices/"><u>2024 Approved Next-Gen HD Video Recording The Pinnacle Choices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-asus-atk0110-acpi-drivers-for-free-step-by-step-guide/"><u>Download ASUS ATK0110 ACPI Drivers for Free: Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-install-guide-updating-to-the-latest-epson-perfection-scansnap-driver-versions-supporting-windows-7-8-and-10/"><u>Easy Install Guide: Updating to the Latest Epson Perfection ScanSnap Driver (Versions Supporting Windows 7, 8 & 10)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-diy-electronics-projects-update-arduino-drivers-on-windows-seamlessly/"><u>Enhance Your DIY Electronics Projects: Update Arduino Drivers on Windows Seamlessly</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-intel-rst-rapid-storage-technology-driver-install-boost-your-drive-efficiency-today/"><u>Latest Intel RST (Rapid Storage Technology) Driver Install - Boost Your Drive Efficiency Today!</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/st-mp3-creation-10-youtube-transformers-explained-for-2024/"><u>No-Cost MP3 Creation 10 YouTube Transformers Explained for 2024</u></a></li>
+<li><a href="https://fox-within.techidaily.com/seagate-portable-hdd-troubleshooting-top-10-fixes-for-driving-issues/"><u>Seagate Portable HDD Troubleshooting: Top 10 Fixes for Driving Issues</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-corsair-driver-upgrade-a-comprehensive-guide-for-windows-users/"><u>Seamless Corsair Driver Upgrade: A Comprehensive Guide for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/speedy-and-hassle-free-wacom-driver-installation/"><u>Speedy and Hassle-Free Wacom Driver Installation</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/strategic-showdowns-unleashed-exploring-7-best-games/"><u>Strategic Showdowns Unleashed Exploring 7 Best Games</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/utting-edge-without-costs-navigating-through-these-8-tools-for-2024/"><u>The Cutting Edge Without Costs - Navigating Through These 8 Tools for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-reviving-missing-bluetooth-in-device-manager/"><u>Troubleshooting: Reviving Missing Bluetooth in Device Manager</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-fixes-for-startech-driver-errors-on-various-windows-versions-including-11-8-and-7/"><u>Ultimate Fixes for StarTech Driver Errors on Various Windows Versions Including 11, 8 & 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722978409017-update-your-razer-graphics-driver-on-windows-10-8-7-xp-and-vista-step-by-step-guide-to-downloading-new-versions/"><u>Update Your Razer Graphics Driver on Windows 10, 8, 7, XP & Vista: Step-by-Step Guide to Downloading New Versions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975283795-whats-new-updated-control-software-for-logitech-extreme-3d-gaming-keyboard/"><u>What's New: Updated Control Software for Logitech Extreme 3D Gaming Keyboard!</u></a></li>
+</ul></div>
 

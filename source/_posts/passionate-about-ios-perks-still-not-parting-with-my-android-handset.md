@@ -1,7 +1,7 @@
 ---
 title: Passionate About iOS Perks, Still Not Parting with My Android Handset
-date: 2024-09-04T02:11:20.251Z
-updated: 2024-09-05T02:11:20.251Z
+date: 2024-10-18T03:10:22.038Z
+updated: 2024-10-25T09:45:01.507Z
 tags:
   - android
 categories:
@@ -48,11 +48,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![AI generated isometric pixel art representation of an apple iphone inside a walled garden](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/gendowasright_isometric_pixel_art_representation_of_an_apple__d1c8c3ba-aac6-407f-83fd-cdea5c783184_3.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Sydney Louw Butler / How-To Geek / MidJourney
 
  I need my iPad to be like a toaster or a TV. I don't want to tinker with it, it just needs to work. My Mac is already just as open to software as a Windows or Linux machine. Though macOS might complain about software that's not from the Mac App store or digitally signed, it will still begrudgingly let you install it.
@@ -62,50 +63,15 @@ Sydney Louw Butler / How-To Geek / MidJourney
  This is perhaps the biggest reason I don't vibe with iPhone—a lack of freedom. A phone doesn't feel like an appliance to me, but closer to what I want from a personal computer, and right now the iPhone isn't that.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  The iPhone Form Factor Isn’t Great
 
 ![Lock screen of the Apple iPhone 15](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/53212310177_51b1180108_o.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-Corbin Davenport / How-To Geek
-
- People often say that phones are all the same these days, but that's far from the truth. Hold any two different phones in your hand and the exact shape, weight, materials, and balance will make them feel miles apart. It is this combination of factors that just sits wrong for me when it comes to the iPhone.
-
- Honestly, even the latest iPhones feel almost archaic in their design. Despite aping the industrial language of the iPad Pros with the iPhone 14 and 15, it just doesn't work for me. The absolutely flat screen, the prominent edges, and the awkward sizing for both the standard Max versions of these phones just don't let you get comfortable. Despite being about as thick as any other comparable phone, subjectively, the iPhone feels too chunky to me. Compared to my favorite phones over the years—the Samsung S8, S21 Ultra, and S22 Ultra—the iPhone feels like it's in the wrong decade.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-##  I Just Don’t Like iPhone Photos (the Video Is Great)
-
- For [flagship phones](https://driver-install.techidaily.com/combine-hp-envy-5530-drivers-in-your-win10-pcs/) in particular, photos matter. By all accounts, iPhones offer some of the best camera equipment and photos money can buy. However, smartphone photography is just as much about [software post-processing](https://facebook-record-videos.techidaily.com/updated-navigating-the-world-of-webcams-for-high-quality-streams/) as it is about the hardware, and I just can't stand the look of iPhone photos. It's quite hard to pin down why exactly, and this is clearly subjective, but iPhone photos feel a little soulless to me. Maybe the word is "overprocessed", but I have no doubt that the photos from my S22 Ultra are no less processed, just differently.
-
- Nonetheless, photos taken on iPhone do nothing for me. In particular I like taking [macro photos](https://win11.techidaily.com/hacking-the-lock-screen-windows-11-edition/) as well as portrait photos, and while the macro camera mode on my iPhone 14 Pro was plenty capable, I just couldn't get the same sorts of shots that my S21 Ultra or S22 Ultra can manage.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-##  Why Is the Battery Life So Awful?
-
- I can live with the esthetics and photos that aren't to my taste, but going from having a day and a half of battery power on my S22 Ultra to a phone that barely ekes out a full day of normal use is not fun. I have zero battery anxiety with my Samsung phone, but felt it return with a vengeance with my last iPhone.
-
- This is maddening to me, because in other categories such as tablets and laptops, Apple is on top of the pile for battery life without performance compromises, yet for some reason can't achieve the same feat with the iPhone or, at least, don't want to. Perhaps the average iPhone user isn't bothered by having to charge their phone more than once a day if they actually decide to use it, but this is a major deal-breaker for me. Apple, just make the phone half a millimeter thicker and add some more battery! It already feels so chunky I doubt anyone will notice.
 
 <!-- affiliate ads begin -->
 <a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
@@ -113,6 +79,32 @@ Corbin Davenport / How-To Geek
 </a>
 <img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Corbin Davenport / How-To Geek
+
+ People often say that phones are all the same these days, but that's far from the truth. Hold any two different phones in your hand and the exact shape, weight, materials, and balance will make them feel miles apart. It is this combination of factors that just sits wrong for me when it comes to the iPhone.
+
+ Honestly, even the latest iPhones feel almost archaic in their design. Despite aping the industrial language of the iPad Pros with the iPhone 14 and 15, it just doesn't work for me. The absolutely flat screen, the prominent edges, and the awkward sizing for both the standard Max versions of these phones just don't let you get comfortable. Despite being about as thick as any other comparable phone, subjectively, the iPhone feels too chunky to me. Compared to my favorite phones over the years—the Samsung S8, S21 Ultra, and S22 Ultra—the iPhone feels like it's in the wrong decade.
+
+##  I Just Don’t Like iPhone Photos (the Video Is Great)
+
+ For [flagship phones](https://driver-install.techidaily.com/combine-hp-envy-5530-drivers-in-your-win10-pcs/) in particular, photos matter. By all accounts, iPhones offer some of the best camera equipment and photos money can buy. However, smartphone photography is just as much about [software post-processing](https://facebook-record-videos.techidaily.com/updated-navigating-the-world-of-webcams-for-high-quality-streams/) as it is about the hardware, and I just can't stand the look of iPhone photos. It's quite hard to pin down why exactly, and this is clearly subjective, but iPhone photos feel a little soulless to me. Maybe the word is "overprocessed", but I have no doubt that the photos from my S22 Ultra are no less processed, just differently.
+
+ Nonetheless, photos taken on iPhone do nothing for me. In particular I like taking [macro photos](https://win11.techidaily.com/hacking-the-lock-screen-windows-11-edition/) as well as portrait photos, and while the macro camera mode on my iPhone 14 Pro was plenty capable, I just couldn't get the same sorts of shots that my S21 Ultra or S22 Ultra can manage.
+
+##  Why Is the Battery Life So Awful?
+
+ I can live with the esthetics and photos that aren't to my taste, but going from having a day and a half of battery power on my S22 Ultra to a phone that barely ekes out a full day of normal use is not fun. I have zero battery anxiety with my Samsung phone, but felt it return with a vengeance with my last iPhone.
+
+ This is maddening to me, because in other categories such as tablets and laptops, Apple is on top of the pile for battery life without performance compromises, yet for some reason can't achieve the same feat with the iPhone or, at least, don't want to. Perhaps the average iPhone user isn't bothered by having to charge their phone more than once a day if they actually decide to use it, but this is a major deal-breaker for me. Apple, just make the phone half a millimeter thicker and add some more battery! It already feels so chunky I doubt anyone will notice.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  I’m Willing to Try Again
 
  For the two-and-a-bit years I was a daily iPhone users I can say that there were glimmers of greatness. I definitely loved having all of my Apple devices seamlessly work together and there were use cases I had never considered before. I definitely miss that aspect of using the iPhone, which is a much better device as part of the Apple ecosystem than as a standalone phone.
@@ -125,8 +117,6 @@ Corbin Davenport / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,4 +124,17 @@ Corbin Davenport / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-mac-techniques-to-shorten-instagram-vids-for-2024/"><u>[New] Mac Techniques to Shorten Instagram Vids for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-non-rooting-methods-to-record-android-sounds-for-2024/"><u>[New] Non-Rooting Methods to Record Android Sounds for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-transform-your-streaming-journey-by-activating-youtubes-av1/"><u>[Updated] Transform Your Streaming Journey by Activating YouTube's AV1</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-disparate-pixels-constructing-splendid-imagery-weaves/"><u>2024 Approved From Disparate Pixels Constructing Splendid Imagery Weaves</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ai-ryzen-hits-new-heights-with-incredible-single-core-performance-leaving-intel-behind-zen-chip-bests-both-the-core-ultra-7-268v-and-ryzen-9-7945hx3d/"><u>AI Ryzen Hits New Heights with Incredible Single-Core Performance, Leaving Intel Behind: Zen Chip Bests Both the Core Ultra 7 268V & Ryzen 9 7945HX3D</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/convert-and-download-4k-videos-in-mp4-format-a-beginners-guide/"><u>Convert and Download 4K Videos in MP4 Format A Beginners Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-printing-experience-with-the-latest-epson-wf-3620-driver-upgrades-for-windows-1087/"><u>Enhance Your Printing Experience with the Latest Epson WF-3620 Driver Upgrades for Windows 10/8/7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-optimized-performance-rtx-2060-super-drivers-for-windows-11/"><u>Get Optimized Performance: RTX 2060 Super Drivers for Windows 11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-xiaomi-redmi-13c-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Xiaomi Redmi 13C 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-the-world-of-hardware-with-toms-guides/"><u>Navigating the World of Hardware with Tom's Guides</u></a></li>
+</ul></div>
 

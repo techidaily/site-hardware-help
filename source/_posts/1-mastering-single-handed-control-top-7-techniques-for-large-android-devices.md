@@ -1,7 +1,7 @@
 ---
 title: "1. Mastering Single-Handed Control: Top 7 Techniques for Large Android Devices"
-date: 2024-09-04T02:10:50.518Z
-updated: 2024-09-05T02:10:50.518Z
+date: 2024-10-23T16:36:38.325Z
+updated: 2024-10-24T18:24:59.694Z
 tags:
   - android
 categories:
@@ -23,6 +23,13 @@ thumbnail: https://thmb.techidaily.com/008f2e3ae8f25fe31431bd0f9eb00771fb7464648
 
  Phones are big. We all know it. They're more unwieldy than they used to be, and yet we use them more than ever. You may have to live with a big phone, but thankfully, there are many ways to make your Android phone easier to use one-handed.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Install a Different Launcher
 
 Close 
@@ -32,6 +39,13 @@ Close
  My preference is [Niagara Launcher](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003745/https://play.google.com/store/apps/details?id=bitpit.launcher&hl=en%5FUS). Every aspect of the experience is meant to be easily navigated with a single thumb, [making Niagara Launcher ideal for big phones](https://win-answers.techidaily.com/fixing-the-unfixable-your-ultimate-compan-groach-on-keeping-state-of-decay-2-running-smoothly-tips-and-tricks/). Swiping along the side allows you to browse your app drawer, which is arranged in a list instead of a grid. It also doesn't matter whether you're right or left-handed since swiping either side of the screen is fine.
 
  Other launchers give you the ability to customize every aspect of the interface yourself. [Nova Launcher is worth checking out](https://snapchat-videos.techidaily.com/new-2024-approved-vocal-ventures-merging-music-and-video-on-snapchat/) largely because it's one of the most customizable launchers, and you can configure things to make everything as accessible from the bottom of the screen as you want. But if you're effectively going to build your own launcher, what kind of changes should you make?
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Move the Search Bar and App Icons to the Bottom
 
@@ -43,12 +57,6 @@ Close
 
  While you're at it, place your most used icons at the bottom, too. Sure, your dock is already there, but you can create folders above that could potentially make every app you need easy to reach in the bottom right or left corner. You can even place a folder in the dock itself.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  ​Move Browser Bars to the Bottom, Too
 
 Close 
@@ -58,11 +66,12 @@ Close
  Google Chrome does not give you this option, though you may have some luck searching through **chrome://flags** or downloading an extension, depending on when you read this. Many other browsers require much less effort. The Samsung Internet browser is one of the most configurable, and moving the UI to the bottom is one of the available options. You can also move to tabs down if you're using Vivaldi.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Try These Samsung Galaxy-Specific Tweaks
 
 Close 
@@ -79,18 +88,6 @@ Close
 
  Samsung also offers edge panels, which function as docks that live at the side of the screen instead of the bottom. You can open an edge panel to manage apps, view contacts, access notes, see screenshots, and much more. You can configure these at Settings > Display > Edge panels.
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Check Out One-Handed Mode
 
 Close 
@@ -99,12 +96,6 @@ Close
 
  Personally, I don't make much use of this mode. It makes it feel like most of my screen is going to waste and leaves me wondering why I have such a big phone in the first place. I prefer other tweaks that make the phone more usable in its regular state. Still, there are many people for whom one-handed mode might be the only tweak they need to make their phone usable enough.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Talk to Your Phone More
 
 ![Samsung Keyboard voice input icon on a Samsung Galaxy Z Fold 5](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/voice-input-samsung-galaxy-z-fold-5.jpg) 
@@ -120,33 +111,16 @@ Bertel King / How-To Geek
  In other words, don't fuss with trying to tap every corner of your screen when you can just talk to it instead. Obviously, this is not always an option, but it may be an option more often than you think.
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Make Your Next Phone a Foldable
 
 ![Samsung Galaxy Z Flip 5 cover display with additional apps and Good Lock widget](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/samsung-galaxy-z-flip-5-cover-display-with-additional-apps-and-good-lock-widget.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Dhruv Bhutani / How-To Geek
 
  This last tip isn't of much help with using your current device, but keep it in mind when buying your next one. One of the things I love most about my [Galaxy Z Fold 5](https://extra-skills.techidaily.com/in-2024-perfecting-the-art-of-compelling-mosaic-imagery/) is how it has a large inner screen for doing work, but, when folded, it's actually smaller than most of my recent phones. It's both shorter and less wide, despite its usually tall aspect ratio. Even with its added thickness, I find it more pocketable and easier to hold.
@@ -165,8 +139,6 @@ Dhruv Bhutani / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -174,4 +146,19 @@ Dhruv Bhutani / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-seamless-integration-of-real-time-video-on-websites/"><u>[New] In 2024, Seamless Integration of Real-Time Video on Websites</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-10-quick-setup-ideas-for-successful-youtube-business-ventures/"><u>[Updated] 2024 Approved 10 Quick Setup Ideas for Successful YouTube Business Ventures</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-vero-authors-spotlight-at-snapchat/"><u>[Updated] In 2024, Vero Authors Spotlight at Snapchat</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ensure-compatibility-how-to-download-and-install-kyocera-printer-drivers-on-windows/"><u>Ensure Compatibility: How to Download and Install KYOCERA Printer Drivers on Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-gadgets-with-tom-the-ultimate-guide-to-hardware-comparison/"><u>Exploring Gadgets with Tom: The Ultimate Guide to Hardware Comparison</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-creativity-seamless-integration-of-title-and-caption-overlays-on-video-clips-via-microsoft-photos/"><u>In 2024, Unlocking Creativity Seamless Integration of Title & Caption Overlays on Video Clips via Microsoft Photos</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-ricoh-printer-software-on-windows-a-comprehebesive-guide/"><u>Installing Ricoh Printer Software on Windows - A Comprehebesive Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-users-heres-how-to-fix-safari-image-load-failures-9-methods/"><u>IPhone Users! Here's How to Fix Safari Image Load Failures (9 Methods)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/lenovo-x1-carbon-driver-update-seamless-compatibility-with-windows-10-and-nulseven-os/"><u>Lenovo X1 Carbon Driver Update: Seamless Compatibility with Windows 10 and Nul/Seven OS</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/ready-set-edit-top-15-fast-and-fun-tricks-to-use-in-pixlr-for-2024/"><u>Ready, Set, Edit! Top 15 Fast and Fun Tricks to Use in Pixlr for 2024</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/ultimate-comparison-top-12-bit-media-format-software-for-enhanced-viewing-on-windows-and-macos-systems/"><u>Ultimate Comparison: Top 12 Bit Media Format Software for Enhanced Viewing on Windows & macOS Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/whats-new-in-logitech-extreme-3d-pro-mouse-software-recent-update-overview/"><u>What's New in Logitech Extreme 3D Pro Mouse Software: Recent Update Overview</u></a></li>
+</ul></div>
 

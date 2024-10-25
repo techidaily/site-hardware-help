@@ -1,7 +1,7 @@
 ---
 title: "Nostalgic Tech Alert: Why These 8 Classic Smartphone Features Deserve a Comeback"
-date: 2024-09-04T02:11:18.859Z
-updated: 2024-09-05T02:11:18.859Z
+date: 2024-10-24T08:59:18.908Z
+updated: 2024-10-24T21:28:34.953Z
 tags:
   - android
 categories:
@@ -24,9 +24,23 @@ thumbnail: https://thmb.techidaily.com/a63a5a9ae6eb1efed5733d165b83ad90e6d4d9274
 
  Flagship Android phones have changed a lot over the years. While newer models boast fast processors, improved cameras, and stunning displays, we've also made some questionable sacrifices along the way. Some of those long-forgotten features should make a comeback.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Unique Designs
 
 ![Samsung Galaxy S22 Ultra and Galaxy S22 in hand](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/52421500068_817d794fba_o.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -44,22 +58,10 @@ Justin Duino / How-To Geek
 
  Since manufacturers can technically make replaceable batteries while maintaining a decent IP resistance rating, perhaps they just need some _motivation_. Thankfully, the EU has proposed a new law that will [force smartphone manufacturers to make user-removable batteries by 2027](https://youtube-clips.techidaily.com/the-experts-guide-to-360-video-conversion-and-youtube-sharing/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Front-Facing Speakers
 
 ![USB-C port, speaker grill, and lack of hinge gap on the Samsung Galaxy Z Fold 5](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/usb-c-port-speaker-grill-and-lack-of-hinge-gap-on-the-samsung-galaxy-z-fold-5.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
  If there's one feature that would instantly improve your experience of content consumption, it's front-facing speakers. Phones released today typically have bottom-facing speakers that can easily get muffled by your hand. To hear the sound without having to blast the phone at 100% volume, you need to cup your hand around the speaker.
@@ -69,11 +71,12 @@ Justin Duino / How-To Geek
  Manufacturers have ditched front-facing speakers in favor of larger edge-to-edge displays, but I'm not sure if it was a sacrifice worth making. Thankfully, gaming smartphones decided to bring back front-facing speakers. The best example is the [ASUS ROG Phone 6D](https://www.amazon.com/ASUS-Phone-256GB-Factory-Unlocked/dp/B0BPDS5MM9?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001436&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fold-smartphone-features-that-should-be-brought-back%2F&asc%5Fcampaign=Evergreen), which packs impressively loud stereo front-facing speakers in a slim package.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Notification LED
 
  A notification LED is a small LED on the front or back of your phone that lets you know you have a notification. Most phones with notification LEDs allowed you to select different colors based on the app or notification type. You could have green for missed calls, blue for messages, purple for Instagram, and so on.
@@ -83,11 +86,18 @@ Justin Duino / How-To Geek
  You could argue that notification LEDs are making a bit of a comeback as well. The aforementioned Nothing Phone (2) has the Glyph system on the back that can notify you of missed messages. If you find that too distracting, the [Poco F4 GT](https://www.amazon.com/Factory-Unlocked-Verizon-Cricket-Charger/dp/B09W2WXG3F?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001436&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fold-smartphone-features-that-should-be-brought-back%2F&asc%5Fcampaign=Evergreen) integrates a subtle notification LED around the back camera.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Headphone Jack
 
 ![Pixel 4a 5G rear camera module.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/52263d17.jpg) 
@@ -104,28 +114,10 @@ Justin Duino / How-To Geek
 
  IR blasters are a rare smartphone feature nowadays. This is likely because few people used them, and we now have smart TVs that can be controlled through proprietary apps and voice commands. Still, IR blasters are a convenient and dearly missed feature, especially for frequent travelers who like watching TV in their hotel rooms.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  More Physical Buttons
 
 ![Pixel phone power and volume buttons.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/pixel-power-volume-buttons.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
 [Smartphones need more customizable physical buttons](https://facebook-record-videos.techidaily.com/updated-in-2024-beam-your-content-upward-perfecting-youtube-seo-techniques/), period. Physical home buttons, various action buttons, notification sliders, and squeezable sides (like on the [Pixel 2](https://some-approaches.techidaily.com/the-secrets-of-writing-impressive-podcast-summaries-for-2024/)) were phased out in favor of sleeker designs.
@@ -150,8 +142,6 @@ Justin Duino / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -159,4 +149,20 @@ Justin Duino / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-instagram-editors-handbook-maximizing-video-impact-for-2024/"><u>[New] The Instagram Editor's Handbook Maximizing Video Impact for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2023s-top-tweets-the-highest-traffic-watchlist/"><u>[Updated] 2023'S Top Tweets The Highest Traffic Watchlist</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-iphones-premier-video-tools-pick-cameo-over-filmorago/"><u>[Updated] 2024 Approved IPhone's Premier Video Tools Pick Cameo Over FilmoraGo?</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-leveraging-content-for-maximum-impact-growing-view-count-on-tiktok-for-2024/"><u>[Updated] Leveraging Content for Maximum Impact Growing View Count on TikTok for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decrypt-the-mystery-of-insecure-connection-alerts-and-secure-your-online-activity/"><u>Decrypt the Mystery of Insecure Connection Alerts and Secure Your Online Activity</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722963138984-effortless-setup-secure-your-microsoft-wireless-mouse-5000-driver-here/"><u>Effortless Setup: Secure Your Microsoft Wireless Mouse 5000 Driver Here!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-nexiq-usb-connection-up-and-running-with-the-latest-drivers/"><u>Get Your Nexiq USB Connection Up and Running with the Latest Drivers!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/master-recorder-a-comprehensive-review-of-screen-recording/"><u>Master Recorder A Comprehensive Review of Screen Recording</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ize-youtube-video-the-ultimate-guide-to-ad-revenue/"><u>Monetize YouTube Video | The Ultimate Guide to Ad Revenue</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/overcoming-usb-detection-challenges-a-users-guide-to-fixing-windows-10-compatibility-issues/"><u>Overcoming USB Detection Challenges: A User's Guide to Fixing Windows 10 Compatibility Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-a-fresh-start-on-file-explorer/"><u>Quick-Fixes for a Fresh Start on File Explorer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-tips-to-maximize-performance-of-seagate-backup-plus-hard-drive-insights/"><u>Top Tips to Maximize Performance of Seagate Backup Plus Hard Drive - Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unpacking-the-cpu-clash-amds-latest-ryzen-ai-9-hx-370-triumphs-over-apples-m3-max-in-processor-speed-tests/"><u>Unpacking the CPU Clash: AMD's Latest Ryzen AI 9 HX 370 Triumphs Over Apple's M3 Max in Processor Speed Tests</u></a></li>
+</ul></div>
 

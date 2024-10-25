@@ -1,7 +1,7 @@
 ---
 title: Optimize Your Lenovo Legion 5 Pro Laptop with the Latest NVIDIA/AMD Driver Updates
-date: 2024-10-16T04:01:53.044Z
-updated: 2024-10-18T18:50:19.708Z
+date: 2024-10-22T17:17:12.335Z
+updated: 2024-10-24T21:23:06.757Z
 tags:
   - win11
   - win10
@@ -27,10 +27,10 @@ The following are two methods to update your HP 840 G3 notebook drivers.
 2. [**Update your notebook drivers automatically**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 1: Download your notebook drivers from the HP website
@@ -40,28 +40,28 @@ You can download the drivers from the HP customer support website. To do so:**1)
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28c52d68cef.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)**Search “_840 g3_” for your notebook product page.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28c5ba98220.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Go to the Software and Drivers page, then download the driver of each device to your computer.
 
  Download the driver that’s suitable for your variant of Windows system. You should know what system is running on your computer — whether it’s Windows 7, 8 or 10, 32-bit or 64-bit version, etc.
 
 **5)**Open the downloaded files to install the drivers on your computer.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Update your notebook drivers automatically
 
@@ -74,10 +74,10 @@ If you don’t have the time, patience or skills to update these drivers manuall
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28d0824cae7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you’ve updated your driver with Driver Easy but your driver issues persist, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  for advice. You should attach the URL of this article so they can help you better.
@@ -100,20 +100,24 @@ If you don’t have the time, patience or skills to update these drivers manuall
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-exclusive-roundup-top-tier-no-cost-luts-available/"><u>[New] Exclusive Roundup Top-Tier, No-Cost LUTs Available</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-jujutsu-kaisen-characters-in-the-world-of-tiktok-creatives-for-2024/"><u>[New] Jujutsu Kaisen Characters in the World of TikTok Creatives for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-digital-content-broadcast-via-microsoft-streamer-for-2024/"><u>[Updated] Digital Content Broadcast via Microsoft Streamer for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-mastering-the-interface-key-win11-tricks/"><u>[Updated] In 2024, Mastering the Interface Key Win11 Tricks</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/download-high-quality-criterion-movies-get-your-favorite-films-from-the-criterion-channel/"><u>Download High-Quality Criterion Movies: Get Your Favorite Films From the Criterion Channel</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-sketches-to-screens-animation-via-windows-movie-maker-for-2024/"><u>From Sketches to Screens Animation via Windows Movie Maker for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-going-caseless-can-improve-your-smartphones-durability-and-feel/"><u>How Going Caseless Can Improve Your Smartphone's Durability and Feel</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-long-until-android-incorporates-iphones-integrated-universal-search-feature/"><u>How Long Until Android Incorporates iPhone's Integrated Universal Search Feature?</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-how-to-safely-increase-your-youtube-fanbase-to-one-million/"><u>In 2024, How to Safely Increase Your YouTube Fanbase To One Million</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/introducing-the-all-new-galaxy-z-flip-n-samsungs-revolutionary-addition-to-the-flip-phone-lineup/"><u>Introducing the All-New Galaxy Z Flip N: Samsung's Revolutionary Addition to the Flip Phone Lineup</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/maximizing-performance-by-expanding-storage-on-your-android-smartphone-why-it-matters/"><u>Maximizing Performance by Expanding Storage on Your Android Smartphone: Why It Matters</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/move-beyond-ms-phone-link-with-our-exceptional-mobile-connectivity-app/"><u>Move Beyond MS Phone Link with Our Exceptional Mobile Connectivity App</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/parental-supervision-in-the-digital-age-how-google-family-link-can-help-safeguard-your-childs-online-experience/"><u>Parental Supervision in the Digital Age: How Google Family Link Can Help Safeguard Your Child's Online Experience</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/pixel-smartwatch-integrates-trending-apple-watch-capability/"><u>Pixel Smartwatch Integrates Trending Apple Watch Capability</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unfolding-secrets-of-future-technology-prospect-release-date-specs-and-pricing-for-the-revolutionary-foldable-iphone/"><u>Unfolding Secrets of Future Technology: Prospect Release Date, Specs & Pricing for the Revolutionary Foldable iPhone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-a-comprehensive-guide-to-maximizing-channels-earnings-through-trailers/"><u>[Updated] In 2024, A Comprehensive Guide to Maximizing Channels' Earnings Through Trailers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-stepwise-approach-to-exceptional-gopro-footage/"><u>2024 Approved Stepwise Approach to Exceptional GoPro Footage</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-gigabyte-nic-drivers-here-immediate-download-available/"><u>Get Your Gigabyte NIC Drivers Here - Immediate Download Available!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-hp-speakers-up-and-running-with-our-free-driver-downloads/"><u>Get Your HP Speakers Up and Running with Our Free Driver Downloads!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-samsung-with-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Samsung with Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-oneplus-ace-3-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked OnePlus Ace 3 Phone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ios-and-android-leading-10-apps-for-captivating-stickers-on-images/"><u>IOS & Android Leading 10 Apps for Captivating Stickers on Images</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-geforce-rtx-770-driver-downloads-compatible-with-windows-pcs/"><u>Latest GeForce RTX 770 Driver Downloads Compatible with Windows PCs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/masterful-motherboard-tweaks-quickly-updating-asus-maximus-x-hero-drivers/"><u>Masterful Motherboard Tweaks: Quickly Updating ASUS Maximus X Hero Drivers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mount-and-blade-ii-bannerlord-resolving-the-game-crash-issues/"><u>Mount & Blade II: Bannerlord - Resolving the Game Crash Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavi-inspired-tips-for-crafting-your-own-successful-training-plan/"><u>Movavi-Inspired Tips for Crafting Your Own Successful Training Plan</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/restoring-pcs-scanner-functionality-in-win10/"><u>Restoring PC's Scanner Functionality in Win10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/simple-guide-updating-lenovo-ideapad-100s-driver-software/"><u>Simple Guide: Updating Lenovo IdeaPad 100S Driver Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-installation-of-newest-amd-drivers-for-windows-users/"><u>Step-by-Step Installation of Newest AMD Drivers for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-installation-of-updated-drivers-for-windows-maximizing-performance-with-amd-vega-56/"><u>Step-by-Step Installation of Updated Drivers for Windows: Maximizing Performance with AMD Vega 56</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-layout-and-distribution-of-system-components-like-nozzles-or-sprinkler-heads-are-optimized-using-computational-modeling-for-effective-agent-delivery/"><u>The Layout and Distribution of System Components, Like Nozzles or Sprinkler Heads, Are Optimized Using Computational Modeling for Effective Agent Delivery.</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-5-effortlessly-converted-gif-to-professional-videos-online/"><u>Top 5 Effortlessly Converted GIF to Professional Videos Online</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-brother-scanner-drivers-now-compatible-with-windows-os/"><u>Update Your Brother Scanner Drivers Now – Compatible with Windows OS!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtubes-monetization-value-per-million-views-for-2024/"><u>Youtube's Monetization Value per Million Views for 2024</u></a></li>
 </ul></div>
 

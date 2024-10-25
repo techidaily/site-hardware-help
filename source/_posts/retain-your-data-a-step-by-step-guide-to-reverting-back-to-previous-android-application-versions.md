@@ -1,7 +1,7 @@
 ---
 title: "Retain Your Data: A Step-by-Step Guide to Reverting Back to Previous Android Application Versions"
-date: 2024-09-09T16:10:02.172Z
-updated: 2024-09-10T16:10:02.172Z
+date: 2024-10-20T09:10:36.986Z
+updated: 2024-10-25T02:10:41.023Z
 tags:
   - android
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/9e5ef4400f63e7f920ad051c5a9167da56f0ec84a54929789d005136b7898918.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Retain Your Data: A Step-by-Step Guide to Reverting Back to Previous Android Application Versions
 
 ### Quick Links
@@ -32,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/9e5ef4400f63e7f920ad051c5a9167da56f0ec84a
 
  Sometimes an update breaks an app’s functionality or slows it down. Sometimes developers redesign the UI or leave out the features you like. But you can get your favorite interface and features back by downgrading the app to an older version.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What You Need to Downgrade an App
 
  The Android UI lets you downgrade some apps with a single tap. Just go to Settings > Apps > Manage Apps. Select the app you want to downgrade. Then tap “Uninstall Updates.” But for most apps, you’ll have to uninstall the current app and [sideload the older version](https://facebook-video-content.techidaily.com/updated-unlock-premium-quality-streaming-on-the-worlds-largest-network/) using an APK file. Either way, both methods log out all your accounts and erase any saved progress or preferences, which is far from ideal.
@@ -46,27 +47,22 @@ thumbnail: https://thmb.techidaily.com/9e5ef4400f63e7f920ad051c5a9167da56f0ec84a
 
 [Back up your phone](https://youtube-help.techidaily.com/in-2024-master-your-stream-utilizing-youtubes-av1-technology/), including any important login credentials or app data before proceeding. Secondly, watch out for [critical security updates](https://common-error.techidaily.com/simple-solutions-troubleshooting-and-enhancing-your-file-explorer-on-windows-11/). We don’t recommend skipping or downgrading those.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Step 1\. Set Up ADB
 
  ADB is a command-line tool for interacting with an Android device through a computer. To set it up, you’ll need to download [SDK Platform Tools](https://developer.android.com/tools/releases/platform-tools) from the official Android website. Extract the downloaded zip file anywhere on your computer. Then open the extracted folder.
 
 ![An extracted folder containing Platform Tools.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/capture-6.PNG) 
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Hold down the Shift key and right-click on a blank area. When the context menu opens, click “Open Powershell Window Here.”
 
 ![A red arrow pointing at the context menu item for launching Powershell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/capture-10.PNG) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once the terminal appears, connect your Android device to your computer via a USB cable.
 
@@ -75,11 +71,12 @@ thumbnail: https://thmb.techidaily.com/9e5ef4400f63e7f920ad051c5a9167da56f0ec84a
 ![Red arrow pointing at the Build Number in the settings menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/a-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 !['You are now a developer' message popping up in the settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/c.jpg) 
 
 ![Developer options toggle enabled in the settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/d.jpg) 
@@ -91,11 +88,12 @@ Close
 ![A red arrow pointing at the USB debugging toggle in developer options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-12.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![A red arrow pointing at the confirmation dialog for enabling USB debugging.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-13.png) 
 
 Close 
@@ -106,14 +104,15 @@ adb devices
 
 ![ADB connection successfully established inside PowerShell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/capture-5.PNG) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The device ID should show up if the connection is working. If it returns a blank ID, you’ll have to install the Android drivers for your device first.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Step 2\. Downgrade an App Using ADB
 
  With ADB working, all you need is the APK file for the desired version of the app you want to downgrade to.
@@ -137,21 +136,29 @@ adb install -d twitter.apk
 ![The app installation process inside an ADB terminal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/capture2-1.PNG) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Wait for the “Success” message.
 
 ![Successful app installation inside an ADB terminal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/capture3.PNG) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The command restored the older version of Twitter without logging me out.
 
 ![The X (formerly Twitter) app being downgraded to the old Twitter app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/untitled-1.png) 
@@ -160,15 +167,16 @@ adb install -d twitter.apk
 
 ![APKM file extracted to a folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/capture-9.PNG) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Navigate to the extracted folder and copy the APK files to the Platform Tools folder.
 
 ![Different split APK files inside the Platform Tools folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/capture-11.PNG) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Enter the following command in the PowerShell terminal.
 
@@ -184,26 +192,8 @@ adb install-multiple -d base.apk config1.apk config2.apk config3.apk
 
 ![Network preferences being highlighted in Google Play Store](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/k.png) 
 
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Auto-update apps button being highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/l.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Auto-update apps menu in Google Play Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/z.png) 
 
 Close 
@@ -220,8 +210,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -229,4 +217,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-free-srt-tools-the-most-reliable-high-quality-apps-listed/"><u>[New] Free SRT Tools The Most Reliable, High-Quality Apps Listed</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-5-prime-apps-for-clandestine-story-viewers/"><u>[New] In 2024, The 5 Prime Apps for Clandestine Story Viewers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-seamless-video-broadcasting-via-microsoft-stream-for-2024/"><u>[New] Seamless Video Broadcasting via Microsoft Stream for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-listenleads-whats-better-than-dacast-for-2024/"><u>[Updated] ListenLeads What's Better than DaCast for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/best-in-class-graphics-download-rtx-2080-super-drivers-for-optimal-windows-experience-windows-1011/"><u>Best in Class Graphics: Download RTX 2080 Super Drivers for Optimal Windows Experience (Windows 10/11)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/boost-gpu-performance-with-the-latest-nvidia-geforce-rtx-driver-update-geforce-20603080/"><u>Boost GPU Performance with the Latest Nvidia Geforce RTX Driver Update - GeForce # 2060/3080</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/comparing-ultra-hd-uhd-and-true-4k-resolutions-what-sets-them-apart/"><u>Comparing Ultra HD (UHD) and True 4K Resolutions – What Sets Them Apart?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-lenovo-thinkpad-driver-guide-trustworthy-sources/"><u>Complete Lenovo ThinkPad Driver Guide - Trustworthy Sources</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-instant-asus-monitor-driver-update-for-optimal-performance/"><u>Easy Instant ASUS Monitor Driver Update for Optimal Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-audio-experience-with-the-latest-dolby-drivers-download-compatible-with-windows-111081/"><u>Enhance Your Audio Experience with the Latest Dolby Drivers: Download Compatible With Windows 11/10/8.1</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-much-is-the-eurozone-worth-french-distributor-sets-price-for-amd-ryzen-9-9900x-at-close-to-680/"><u>How Much Is the Eurozone Worth? French Distributor Sets Price for AMD Ryzen 9 9900X at Close to €680.</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-enhance-your-digital-diaries-for-free-extensions-and-mobile-edition/"><u>In 2024, Enhance Your Digital Diaries for Free – Extensions & Mobile Edition</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-honor-90-pro-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Honor 90 Pro</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/introducing-the-core-i7-12560h-processor-from-intels-next-generation-lunar-lake-family-available-early-september/"><u>Introducing the Core I7-12560H Processor From Intel's Next-Generation Lunar Lake Family – Available Early September</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mp4-ogvwindows/"><u>MP4に変換: OGVファイルがWindows環境でどうやってそれになるか</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-fixes-how-to-update-and-optimize-your-webcam-on-windows-10/"><u>Quick Fixes: How to Update and Optimize Your Webcam on Windows 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-art-of-building-pcs-decoded-by-tom-a-comprehensive-hardware-journey/"><u>The Art of Building PCs Decoded by Tom: A Comprehensive Hardware Journey</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-nintendo-switch-docks-of-2024/"><u>The Best Nintendo Switch Docks of 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/ways-to-watch-facebook-live-on-tv-for-2024/"><u>Ways To Watch Facebook Live On TV for 2024</u></a></li>
+</ul></div>
 

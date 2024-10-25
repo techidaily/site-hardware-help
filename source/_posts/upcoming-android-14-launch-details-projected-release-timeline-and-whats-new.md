@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Android 14 Launch Details: Projected Release Timeline & What's New"
-date: 2024-09-04T02:11:46.275Z
-updated: 2024-09-05T02:11:46.275Z
+date: 2024-10-20T18:38:41.959Z
+updated: 2024-10-24T17:47:21.579Z
 tags:
   - android
 categories:
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/33904527a6e1718a50027f53fe767c2c1eedacdbd
 
  Google did not share a month for when the final release will drop. However, we can look to previous versions to get an idea of when to expect it. Big Android version updates almost always happen in September or October.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What's New in Android 14
 
  At the time of writing, Google hasn't revealed much about the consumer-facing changes in Android 14, but there are a couple of areas of focus, as well as some in-progress features to look forward to.
@@ -46,31 +53,33 @@ thumbnail: https://thmb.techidaily.com/33904527a6e1718a50027f53fe767c2c1eedacdbd
  The [iPhone 14 has an emergency satellite communication](https://facebook-video-content.techidaily.com/updated-navigating-retro-facebook-stories-pcmobile-guide-for-2024/) feature that allows you to literally connect to satellites when you have no Wi-Fi or data connection. Google's Hiroshi Lockheimer has [already confirmed](https://twitter.com/lockheimer/status/1565355464086265856?ref%5Fsrc=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1565355464086265856%7Ctwgr%5E9d2f02ccd2d06fe7b6cfad0e9c6526346b2e3a48%7Ctwcon%5Es1%5F&ref%5Furl=https%3A%2F%2Fwww.androidpolice.com%2Fandroid-14%2F) that Android will have the same technology in the next release, Android 14.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ###  Splitting the Share Menu From System Updates
 
 ![Android share menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Android-share-menu.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024333/7443" target="_top" id="2024333">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024333/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Android Share Menu
 
  The Android share menu is one of the most complained-about areas of the operating system. It's the menu that appears when you want to share something from one app to another—or to specific people. Currently, updating the share menu requires full system updates, but Android 14 might split it out into an independently updateable module. This would allow Google to update it more frequently and easily.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Adapting Apps to Different Screen Sizes
 
  First and foremost, Google is continuing to work on [making Android great for many different screen sizes](https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/). This has become important in the age of foldable devices with transforming screen sizes. Google updated its [large-screen app quality checklist](https://developer.android.com/docs/quality-guidelines/tablet-app-quality), making it easier for developers to see how their apps scale. They've also [introduced new layouts](https://developer.android.com/large-screens/gallery).
@@ -79,60 +88,58 @@ Android Share Menu
 
  Android 13 introduced [per-app language settings](https://article-knowledge.techidaily.com/in-2024-digital-stagecraft-unlocking-voice-manipulation-with-affordable-technology/), and Android 14 appears to be taking that idea to other formats. A new "[Regional Preferences](https://www.xda-developers.com/android-14-regional-preferences/)" feature will allow you to set preferences for weather units, calendar format, and numbers. This way, for example, you won't need to tell a weather app you prefer Fahrenheit manually.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030381/7443" target="_top" id="2030381">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030381" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030381/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Better Physical Keyboard and Touchpad Support
 
 ![Android Tablet With Mouse and Keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/Android-Tablet-With-Mouse-and-Keyboard.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Sydney Butler / How-To Geek
 
  Speaking of screen sizes, Android 14 may include [better support for using physical keyboards](https://www.xda-developers.com/android-14-improved-keyboard-support/) with Android tablets. Google is preparing to add support for customizing modifier keys, including Caps Lock, Ctrl, Alt, Windows, etc. This would make keyboards a lot more useful with Android devices. There may also be more options for how touchpad gestures and scrolling should work.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Customizable Lock Screen Shortcuts
 
 ![Android 14 lock screen shortcuts](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/2023-06-09_15-19-10.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Customizable lock screen shortcuts are not a new feature to Android, but it has pretty much been [limited to Samsung Galaxy devices](https://hardware-help.techidaily.com/1722962740745-download-drivers-for-canon-mf8500c-printer-compatible-with-windows-7-81-and-10/). Now, it will be a baked-in feature of Android as a whole, and it's a nice thing to have.
 
  Previously, Google decided which shortcuts were available on the lock screen, and they may not be things you actually use. Android 14 gives you a right and left slot to be used for the flashlight, Do Not Disturb, camera, Google Wallet, mute, Google Home, QR code scanner, or video camera.
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Pointing Out Bloatware
 
  Some Android devices come with an annoying amount of bloatware pre-installed. This can be anything from carrier apps to sponsored games. Android 14 may include a section in the Developer Options menu for uninstalling "[Apps Installed in the Background](https://twitter.com/MishaalRahman/status/1590757745447571457)," which is the name of the feature. It's not yet clear if this will be for Android 14 or 15.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ###  Predictive Back Gesture
 
  Android's back gesture is not the greatest, especially since apps don't always make it clear where you'll be going when you use the gesture. To make this a little clearer, Android 14 will [show you a preview](https://www.xda-developers.com/android-14-predictive-back-gesture/) of where you'll go when using the gesture. As you swipe in from the side of the display, you'll see a glimpse of the previous screen.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  More Restrictive App Sideloading
 
 [Sideloading](https://facebook-video-content.techidaily.com/updated-unlock-premium-quality-streaming-on-the-worlds-largest-network/) is the act of installing an app from outside of the Play Store. It's remarkably easy to do—even on [Windows 11](https://bypass-frp.techidaily.com/full-guide-to-bypass-vivo-y100a-frp-by-drfone-android/) and [Amazon Fire tablets](https://screen-mirroring-recording.techidaily.com/a-comparison-of-best-linux-screenshare-utilities/)—which makes it less secure than installing from an app store. Android 14 won't allow apps that target SDK version 23 (Android 6) or lower to be sideloaded.
@@ -141,12 +148,6 @@ Sydney Butler / How-To Geek
 
  Currently, using dual SIMs in your phone is a bit of a pain. You have to manually switch SIMs if the primary SIM isn't getting good reception. A [new option in the SIM settings](https://9to5google.com/2023/02/08/android-14-dual-sim-automatic/) aims to fix that. Users can toggle on "Switch Mobile Data Automatically," and Android will attempt to automatically switch between the SIMs based on cellular coverage. iPhones have had this feature for a few years.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  App Cloning
 
  Cloning apps is something you've [needed a third-party app](https://techtrends.techidaily.com/top-rated-affordable-beginners-guide-to-building-a-home-theater-system/) or [Samsung phone](https://facebook-video-share.techidaily.com/updated-building-your-ultimate-youtube-music-list-step-by-step-guide-webmobile-for-2024/) for in the past. Android 14 may bring the feature officially to Android. A [new "Cloned Apps" menu](https://9to5google.com/2023/02/08/android-14-cloned-apps/) is present in the "Apps" section. Not all apps will be available for cloning, as developers and manufacturers can choose to opt out of the feature.
@@ -155,22 +156,17 @@ Sydney Butler / How-To Geek
 
 ![Android phone as webcam](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/IMG20230609162313-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 _Joe Fedewa / How-To Geek_
 
  Apple made it possible to [use iPhones as webcams](https://dvd-bd.techidaily.com/diy-tutorial-transform-your-mp4-videos-into-a-professional-costless-dvd-with-ease/) last year. Now, Google is looking to add the ability to Android devices as well. A [project in progress](https://android-review.googlesource.com/c/platform/system/sepolicy/+/2410788) will allow you to plug and play an Android device as a "USB Video Class" (UVC) webcam. This means it would work easily as a webcam on most devices rather than being locked to a system like Apple's method.
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Passkey Support for Apps
 
 [Passkeys](https://location-social.techidaily.com/how-to-change-your-apple-iphone-12-pro-max-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-ios/) are shaping up to be the new way of signing into things on your phone. They replace passwords and PINs with more secure biometrics. Dashlane—a popular password manager—has already [announced](https://blog.dashlane.com/dashlane-passkey-support-android/) support for passkeys in Android 14\. 1Password has also [announced](https://9to5google.com/2023/02/09/1password-passkey-2023/) support for passkeys, and we should only see more in the future.
@@ -179,12 +175,6 @@ _Joe Fedewa / How-To Geek_
 
  The iPhone has a privacy option—[introduced in iOS 14](https://fox-links.techidaily.com/new-streamlining-your-creative-process-in-gopro-studio/)—that allows you to give an app access to only select photos rather than all or nothing. Android 14 may [get a similar feature](https://www.xda-developers.com/android-14-photo-picker-forced/). When an app requests access to media, you would be able to choose only the files you want to give, or allow the app to access all files. It's not clear if this will be in the final version of Android 14, but it would certainly be a welcome change.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Android 14's Dessert Nickname
 
  A [code change](https://android-review.googlesource.com/c/platform/build/+/2072024/) in the [Android Open Source Project](https://driver-error.techidaily.com/remedy-for-ignored-logitech-unifying-hub-in-oses/) (AOSP) revealed the official internal codename for Android 14 is "Upside Down Cake."
@@ -221,8 +211,6 @@ Joe Fedewa / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -230,4 +218,22 @@ Joe Fedewa / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/issecting-youtubes-activities-post-uploading-videos/"><u>[New] Dissecting YouTube's Activities Post-Uploading Videos</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-pathway-to-prominence-on-social-media/"><u>[Updated] 2024 Approved The Pathway to Prominence on Social Media</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-android-video-enhancement-strategies/"><u>[Updated] Android Video Enhancement Strategies</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-flairful-imagery-best-android-collages-unveiled/"><u>2024 Approved Flairful Imagery – Best Android Collages Unveiled</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-guide-to-updating-your-lenovo-x1-carbon-win11-and-win7-driver-downloads/"><u>Complete Guide to Updating Your Lenovo X1 Carbon: WIN11 & WIN7 Driver Downloads</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/effortlessly-send-data-across-pcs-with-wifi-sharing-techniques/"><u>Effortlessly Send Data Across PCs with WiFi Sharing Techniques</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fast-track-installing-wacom-intuos-pro-software-on-your-pc-running-windows-10/"><u>Fast Track: Installing Wacom Intuos Pro Software on Your PC Running Windows 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-started-with-your-hp-zbook-15-g3-comprehensive-driver-downloads-and-setup-tutorial-for-windows-users/"><u>Get Started with Your HP ZBook 15 G3: Comprehensive Driver Downloads & Setup Tutorial for Windows Users</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-dfu-mode-on-apple-iphone-13-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-honor-x50iplus-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Honor X50i+ to New Android? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-installation-guide-for-brother-hl-c3170dw-printer-drivers/"><u>Quick Installation Guide for Brother HL-C3170DW Printer Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-download-of-amd-drivers-for-auto-detecting-systems/"><u>Seamless Download of AMD Drivers for Auto-Detecting Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-sound-experience-with-newly-updated-realtek-asio-drivers-for-windows-11/"><u>Seamless Sound Experience with Newly Updated Realtek Asio Drivers for Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-amds-latest-ryzen-range-new-cpu-lineup-boosted-by-cutting-edge-strix-and-kraken-capabilities/"><u>Unveiling AMD's Latest Ryzen Range: New CPU Lineup Boosted by Cutting-Edge Strix and Kraken Capabilities</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-to-do-applications-for-pc-efficiency/"><u>Winning To-Do Applications for PC Efficiency</u></a></li>
+</ul></div>
 

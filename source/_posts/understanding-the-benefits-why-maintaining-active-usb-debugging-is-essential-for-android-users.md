@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Benefits: Why Maintaining Active USB Debugging Is Essential for Android Users"
-date: 2024-09-04T02:11:40.841Z
-updated: 2024-09-05T02:11:40.841Z
+date: 2024-10-17T16:03:00.477Z
+updated: 2024-10-25T06:36:07.251Z
 tags:
   - android
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/d10871bf9176c5cb0128f25d3d2d16f8b628e764c
 
  You may think that Android's USB debugging feature, hidden within the developer options, is only for, well, developers. But it can be very useful for just about anyone and could very well save your back someday. To do that, you'll need to have enabled the feature beforehand.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  USB Debugging Can Help Recover Data
 
  On-device [developer options](https://youtube-docs.techidaily.com/approved-decode-your-youtube-preferences-with-these-6-fan-favorite-questionnaires/) exist to help app developers debug (find and fix technical issues) and test apps. Typically, developers code apps in Android Studio on a PC. Enabling USB debugging allows them to send data and commands between their computer and their phone.
@@ -35,12 +42,6 @@ thumbnail: https://thmb.techidaily.com/d10871bf9176c5cb0128f25d3d2d16f8b628e764c
 
 ![The step-by-step process of enabling developer options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-8.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2031472/7443" target="_top" id="2031472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2031472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2031472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Then open Developer Options > USB Debugging. Enable the toggle and confirm.
 
 ![Two red arrows highlighting USB debugging.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-9.png) 
@@ -48,11 +49,12 @@ thumbnail: https://thmb.techidaily.com/d10871bf9176c5cb0128f25d3d2d16f8b628e764c
  These settings and menus vary slightly between Android manufacturers. If you can’t find these menus, we have a detailed guide on how to [enable Developer Options and USB Debugging](https://desktop-recording.techidaily.com/premium-video-capture-without-extras-for-2024/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  How to Recover Data Using ADB
 
  Once you have enabled “USB Debugging,” we need to set up a recovery point (to use in case your phone malfunctions or breaks).
@@ -67,40 +69,16 @@ thumbnail: https://thmb.techidaily.com/d10871bf9176c5cb0128f25d3d2d16f8b628e764c
 
  You can grab [ADB Tools from the official website](https://developer.android.com/tools/releases/platform-tools#downloads) and [Scrcpy from its GitHub](https://github.com/Genymobile/scrcpy) repo. ADB tools let you interact with the phone through the command line. We’ll pull files off the phone using ADB. [Scrcpy is an awesome tool for mirroring](https://win11-tips.techidaily.com/workflow-enhancer-integrating-sticky-notes-into-your-windows-morning-ritual/) and controlling your phone using your computer’s mouse.
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Installing ADB
 
  ADB is officially bundled in "Platform Tools." Extract the Platform Tools archive (that you just downloaded) anywhere on your computer. Open the extracted folder. Hold down shift and right-click anywhere on the blank space. Click “Open PowerShell window here” and wait for the terminal to open.
 
 ![Opening a PowerShell window using Platform Tools.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/ksnip_20240801-012603.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Connect your phone to the computer using a USB cable (make sure “USB Debugging” is still enabled). A small pop-up should appear on your phone as soon as you do that. Select “Always Allow From This Computer” and then tap “OK” to allow the connection.
 
 ![Allowing USB debugging for a computer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot_20240801-014110.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  It’s crucial that you keep “Always Allow From This Computer” checked. It’ll safelist your computer. So you won’t have to manually grant this permission on your phone if it ever breaks.
 
  Now back to the PowerShell window we just opened. Type the following command and press Enter:
@@ -112,11 +90,12 @@ adb devices
 ![Using the PowerShell terminal to verify a successful ADB connection.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/ksnip_20240801-012651.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If the “adb devices” is returning a blank result, your computer is likely missing the relevant Android drivers. You can install the official drivers from the device manufacturer’s website, restart the computer, and try again.
 
 ###  Installing Scrcpy
@@ -125,9 +104,23 @@ adb devices
 
 ![Launching Scrcpy from the extracted folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/ksnip_20240801-014359.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can double-click “scrcpy.exe” to instantly mirror the Android screen on your computer. You should be able to interact with this mirrored screen using your mouse right away.
 
 ![Mirrored Android phone screen using Scrcpy.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/ksnip_20240801-014500.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  I tested Scrcpy on an older phone, and the mouse didn't work on its own. If you're having trouble with the mouse control, click the “open a terminal here” file. Once the command prompt window opens, type in the following command and press Enter.
 
@@ -164,11 +157,12 @@ adb pull /storage/emulated/0/Pictures/pic.png
 ![Pulling a file from an Android phone using an ADB command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/ksnip_20240801-020401.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You’ll find this pulled file inside the Users directory in your Windows drive.
 
 ---
@@ -181,8 +175,6 @@ adb pull /storage/emulated/0/Pictures/pic.png
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -190,4 +182,20 @@ adb pull /storage/emulated/0/Pictures/pic.png
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-top-8-4k-playback-powerhouses-unveiled/"><u>[New] Top 8 4K Playback Powerhouses Unveiled</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-from-frantic-movements-to-leisurely-views-crafting-spectacular-slow-motion-videos-for-instragram-for-2024/"><u>[Updated] From Frantic Movements to Leisurely Views Crafting Spectacular Slow Motion Videos for Instragram for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-versatile-online-creations-simple-and-inclusive-ideas-for-your-first-videos/"><u>[Updated] In 2024, Versatile Online Creations Simple and Inclusive Ideas for Your First Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-optimal-sound-the-best-mic-bundles/"><u>[Updated] Optimal Sound The Best Mic Bundles</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-mbox-2-drives-on-windows-comprehensive-guide-issue-resolved/"><u>Download & Update MBox 2 Drives on Windows: Comprehensive Guide - Issue Resolved</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-infinix-note-30-5g-screen-sharing-drfone-by-drfone-android/"><u>How To Do Infinix Note 30 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-z440-motherboard-and-graphics-cards-find-update-or-download-all-necessary-drivers/"><u>HP Z440 Motherboard & Graphics Cards: Find, Update or Download All Necessary Drivers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-guide-to-correct-age-information-for-tiktok-users/"><u>In 2024, Guide to Correct Age Information for TikTok Users</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-update-for-corsair-k70-access-software-and-drivers-here/"><u>Latest Update for Corsair K70 - Access Software & Drivers Here!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-the-world-of-tech-insights-and-reviews-at-toms-hardware/"><u>Navigating the World of Tech: Insights and Reviews at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-simple-guide-microsoft-drivers-downloading-and-updating-on-windows-11-8-and-7/"><u>Quick and Simple Guide: Microsoft Drivers Downloading and Updating on Windows 11, 8 & 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-easy-installation-of-pioneer-dj-ddj-sx2-control-surface-software/"><u>Step by Step: Easy Installation of Pioneer DJ DDJ-SX2 Control Surface Software</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fingerprint Sensor Showdown: Unveiling the Differences Between Ultrasonic and Optical Technologies"
-date: 2024-09-09T16:10:46.195Z
-updated: 2024-09-10T16:10:46.195Z
+date: 2024-10-20T21:53:33.825Z
+updated: 2024-10-24T17:40:13.622Z
 tags:
   - android
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/826e213581d156558e6f234936866c0f136b901791e5cc9453b472a1e6024dd2.jpeg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fingerprint Sensor Showdown: Unveiling the Differences Between Ultrasonic and Optical Technologies
 
 ### Key Takeaways
@@ -25,15 +19,16 @@ thumbnail: https://thmb.techidaily.com/826e213581d156558e6f234936866c0f136b90179
 
  The fingerprint scanner hidden under your Android phone’s screen is a marvelous piece of engineering. Some of the first phones to feature in-display fingerprint scanners used visible light to scan your finger, but the technology has gotten better over the years. Here's what you need to know about it.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Not All In-display Fingerprint Readers Are Made Equal
 
 ![Galaxy A51 in-screen fingerprint sensor](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/28b922ec.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Michael Crider / How-To Geek
 
@@ -47,16 +42,24 @@ Michael Crider / How-To Geek
 
  I’ll be comparing that with the optical in-display fingerprint reader (the original type). Hopefully, the comparison can help you when you’re picking your next phone.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Optical Fingerprint Scanner
 
 ![Oneplus 7 Optical Fingerprint Scanner](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/OnePlus-Ultrasonic.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 OnePlus
 
  Optical fingerprint readers work by shining light on your finger and taking a picture. There’s a tiny camera hiding behind the screen (which you can actually access on some phones). The display, along with a few small LEDs, bounces light off the ridges of your finger and the tiny camera inside creates a 2D impression of it. The impression is then processed, refined, and matched with the list of impressions already available in storage. The phone unlocks if it finds a match. In broad strokes, that’s how every optical in-display fingerprint scanner works.
@@ -72,21 +75,22 @@ OnePlus
  It has since been patched, but [a researcher once spoofed optical fingerprint security](https://threatpost.com/lock-screen-bypass-bug-quietly-patched-in-handsets/139141/) on multiple phone models with nothing more than a reflective plastic sheet. Placing the reflective sheet on top of a leftover fingerprint on the display unlocked the phone. As far as bypassing biometric security goes, this hack is as low tech as it gets.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  The Ultrasonic Fingerprint Scanner
 
 ![Under display fingerprint scanner.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/Under-Display-Fingerprint-Scanner.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [TPROduction / Shutterstock.com](https://www.shutterstock.com/image-photo/unlocking-phone-finger-on-digital-fingerprint-1527126299)
 
  Standard capacitive fingerprint scanners don't have as many moving parts as an optical scanner system. They map the ridges on your fingertip by sensing electrical changes in it. Capturing and reading electrical changes is faster, more accurate, and more reliable. There’s depth sensing involved, which is why it’s more secure.
@@ -99,18 +103,6 @@ OnePlus
 
  Plus, they’re more secure because it's harder to fool a 3D model than a 2D image. Ultrasonic scanners aren’t unbreakable though. Instead of a 2D printout, an attacker could clone a detailed model of the fingerprint using a 3D printer. Someone created a 3D print of their own fingerprint lifted off a wine glass (I say "lifted" but they just took a picture of it with a phone) and successfully [unlocked a flagship Samsung Galaxy phone with the false fingerprint](https://imgur.com/gallery/i-attempted-to-fool-new-samsung-galaxy-s10s-ultrasonic-fingerprint-scanner-by-using-3d-printing-i-succeeded-8aGqsSu).
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Who is the Winner?
 
  The sophisticated ultrasonic fingerprint sensor might seem like the obvious winner. And it has the optical fingerprint scanner beat in many ways, but it gets a bit more complicated when you throw cost into the mix. The reason ultrasonic fingerprint readers haven’t replaced optical ones is because they’re expensive and hard to manufacture. That’s why we only see them on premium flagship devices. It’ll probably stay that way, at least for some time.
@@ -125,8 +117,6 @@ OnePlus
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,4 +124,24 @@ OnePlus
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-which-is-the-ultimate-screen-recorder-analyzing-bandicam-vs-camtasia/"><u>[New] In 2024, Which Is the Ultimate Screen Recorder? Analyzing Bandicam vs Camtasia</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-epson-gt-s50-driver-for-windows-7810/"><u>Download Epson GT S50 Driver for Windows 7/8/10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-linksys-ae2500-wifi-router-software-now/"><u>Download Linksys AE2500 WiFi Router Software Now</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/enhancing-virtual-communication-applying-zoom-filter-features/"><u>Enhancing Virtual Communication Applying Zoom Filter Features</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/freshly-released-nvidia-quadro-rtx-driver-update-supports-win-10-8-7/"><u>Freshly Released: Nvidia Quadro RTX Driver Update - Supports Win 10, 8, 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-samsung-phones-adb-software-on-the-go/"><u>Get Your Samsung Phone's ADB Software on the Go!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/heavyweight-champion-a-detailed-look-at-radpowers-radcity-5-plus-performance/"><u>Heavyweight Champion? A Detailed Look at RadPower's RadCity 5 Plus Performance</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-locked-realme-gt-5-phone-by-drfone-android/"><u>How to Reset a Locked Realme GT 5 Phone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-wi-fi-drivers-in-windows-11-and-windows-10/"><u>How to Update Wi-Fi Drivers in Windows 11 and Windows 10</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On OnePlus 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/macbook-pros-new-best-friend-inside-out-on-the-no-nonsense-wallet-friendly-procase-sleeve-review/"><u>MacBook Pro's New Best Friend? Inside Out on the No-Nonsense, Wallet-Friendly ProCase Sleeve Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mediatek-usb-driver-downloads-made-simple-and-fast/"><u>MediaTek USB Driver Downloads Made Simple and Fast</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/sauvegarde-incrementielle-de-nas-a-nas-qnap-un-guide-facile-et-sans-frais/"><u>Sauvegarde Incrementielle De NAS À NAS QNAP : Un Guide Facile Et Sans Frais</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/selecting-the-vice-president/"><u>Selecting the Vice-President</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/speedy-installation-secure-your-pioneer-dj-ddj-sx2-device-drivers-today/"><u>Speedy Installation: Secure Your Pioneer DJ DDJ-SX2 Device Drivers Today</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-in-depth-hardware-insights/"><u>Tom's Tech Reviews: In-Depth Hardware Insights</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-the-premier-internal-ssds-dominating-2/"><u>Ultimate Guide: The Premier Internal SSDs Dominating 2</u></a></li>
+</ul></div>
 

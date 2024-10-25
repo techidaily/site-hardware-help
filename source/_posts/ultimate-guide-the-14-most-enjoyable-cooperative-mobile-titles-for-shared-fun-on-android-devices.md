@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: The 14 Most Enjoyable Cooperative Mobile Titles for Shared Fun on Android Devices"
-date: 2024-09-04T02:12:42.559Z
-updated: 2024-09-05T02:12:42.559Z
+date: 2024-10-22T02:49:48.093Z
+updated: 2024-10-25T10:02:45.322Z
 tags:
   - android
 categories:
@@ -36,12 +36,6 @@ _Otherworld Legends_ is my favorite roguelite Android game of all time. It's gre
 
  When you die or defeat the final boss, you're taken back to the main hub called the "Living Room," where a rich cast of playable characters and NPCs greets you. Each hero has multiple spells that completely change your playstyle, allowing you and your friends to come up with unique builds and hero combos.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2 [Minecraft](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.mojang.minecraftpe&hl=en%5FUS) 
 
 _Minecraft_ is probably the most versatile game you can play with friends, as it's a sandbox where only your creativity is the limit. It features both online and offline multiplayer; you can even play it cross-platform, as long as it's the _Bedrock_ and not the _Java Edition_. While offline is fine if you play it with a family member, I strongly recommend finding or [hosting your own server](https://docs.mcsmanager.com/setup%5Fbedrock%5Fedition.html) so that your friends and you can play independently as well. It also has a default high player limit of 20, which can be increased in server settings.
@@ -50,32 +44,28 @@ _Minecraft_ is probably the most versatile game you can play with friends, as it
 
  I first played _Gunfire Reborn_ on PC and absolutely loved it, so I was ecstatic to hear that the game is out on Android, too (though it only supports cross-platform between Android and iOS). It's a fun roguelite first-person shooter with low-poly, cel-shaded graphics reminiscent of the _Borderlands_ franchise. You and up to three other friends work together to kill enemies (including bosses), collect loot, and unlock talents.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4 [PewPew Live](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.jyaif.pewpewlive) 
 
 _PewPew Live_ is a chaotic top-down shooter with support for LAN co-op and five different game modes. Its twin-joystick controls and colorful vector graphics make the game look deceptively simple; it requires a fast reaction time, as you have to dodge spheres and projectiles while destroying these spheres simultaneously.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5 [Sky: Children of the Light](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.tgc.sky.android&hl=en%5FUS) 
 
 _Sky: Children of the Light_ is the most relaxing multiplayer puzzle adventure game you've ever seen. It's one of the few games with 100% cross-platform co-op, meaning you can play it with friends on PC or consoles as well. You spend a lot of time just exploring the world, so it's a perfect game to play while discussing unrelated topics with your friends.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6 [Soul Knight](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.ChillyRoom.DungeonShooter) 
 
 _Soul Knight_ is another roguelite game made by the same developer, ChillyRoom, as Otherworld Legends. Although these two games have the same pixel art style and share the same core mechanics, they're still distinct games with different feelings, gameplay, characters, enemies, and spells. There's also the [_Soul Knight Prequel_](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.chillyroom.soulknightprequel) once you're done with the original game. Just like Otherworlds Legends, you can play co-op with up to three other players.
@@ -84,20 +74,35 @@ _Soul Knight_ is another roguelite game made by the same developer, ChillyRoom, 
 
 _Bloons TD 6_ is one of the best tower defense games on Android, so it's great that it supports 4-player co-op. The goal of any tower defense game is to build towers that shoot down enemy waves that are trying to go past your defenses to destroy your base. The charm of Bloons is that the towers are monkeys, and the enemies are balloons, so it's a perfect game to play with your kids.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8 [The Past Within](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.RustyLake.ThePastWithin&hl=en) 
 
  If you want a serious co-op game, maybe it's best to get a co-op-only game, which is what we have here with _The Past Within_. The game is a two-player cross-platform co-op game that requires constant communication with your teammate. You're in the same environment, but one of you is in the future, and the other in the past, and you have to work together to solve puzzles in both 2D and 3D. The puzzles aren't too challenging, so it's the perfect type of game to play with [someone who isn't into games](https://some-techniques.techidaily.com/in-2024-explore-the-best-dvd-players-for-your-portable-laptop/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9 [Keep Talking & Nobody Explodes](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.steelcrategames.keeptalkingandnobodyexplodes&hl=en%5FUS) 
 
 _Keep Talking & Nobody Explodes_ is a bonafide in-person-only party game where you have to defuse a bomb before the timer goes off. The catch is that your friends are the ones with the manual, which is purposefully complicated to navigate. The bomb contains up to 11 modules that you have to disarm. The only downside is the relatively steep price tag, but you only need one copy, as the defusal manual is in PDF format and [available online](https://bombmanual.com/) for free.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 10 [Pepelo](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.Tafusoft.Pepelo&hl=en) 
 
 _Pepelo_ is a 3D puzzle platformer that you can play alone or with friends. The puzzles are fairly straightforward, as they mostly involve moving around objects to progress. I find that the charm hides in the different environments that you explore, so the game is perfect for couples. This delightful little game has 50 different levels, the first ten being free.
@@ -106,12 +111,6 @@ _Pepelo_ is a 3D puzzle platformer that you can play alone or with friends. The 
 
 _Maximus 2_ is an old-school beat-em-up brawler that doesn't take itself too seriously. The game supports co-op with up to four players, but the coolest part is that you can all play on a single device if you have Bluetooth controllers. You progress through different levels, fight bosses, and you heal and revive your teammates.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 12 [Northgard](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003722/https://play.google.com/store/apps/details?id=com.playdigious.northgard) 
 
  Good strategy games on Android are rare, and multiplayer ones are even rarer. So, I'm glad to say that _Northgard_ fits the description perfectly. You build settlements, assign workers, manage resources while trying to survive the harsh Northgard winter, and combat enemies. The game supports up to six players, and you can play with or against them, so it's perfect if you want to play 2v2 or 3v3 with friends.
@@ -134,8 +133,6 @@ _Storiado_ is a fun new party game where you and your friends create stories abo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,4 +140,19 @@ _Storiado_ is a fun new party game where you and your friends create stories abo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-mindful-meandering-leisurely-pc-games-for-2024/"><u>[Updated] Mindful Meandering Leisurely PC Games for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-secrets-unveiled-seamlessly-download-your-favorite-vimeo-videos-anywhere/"><u>[Updated] Secrets Unveiled Seamlessly Download Your Favorite Vimeo Videos Anywhere</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-tutorial-with-steps-to-securely-downloading-the-focusrite-scarlett-solo-software-for-windows-users/"><u>Complete Tutorial with Steps to Securely Downloading the Focusrite Scarlett Solo Software for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-latest-hp-pagewide-pro-477dw-printer-drivers-for-windows-11-10-and-8/"><u>Download the Latest HP PageWide Pro 477DW Printer Drivers for Windows 11, 10 & 8</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-your-newest-nvidia-gpu-drivers-for-win7-win8-and-win10-systems/"><u>Download Your Newest Nvidia GPU Drivers for Win7, Win8 & Win10 Systems</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/how-to-move-your-music-from-iphone-to-itunes-catalog-effortlessly/"><u>How to Move Your Music From iPhone to iTunes Catalog Effortlessly</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-investigating-the-realm-of-virtual-sticker-decoration/"><u>In 2024, Investigating the Realm of Virtual Sticker Decoration</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-unveiling-20-must-try-youtube-tricks-to-boost-views/"><u>In 2024, Unveiling 20 Must-Try YouTube Tricks to Boost Views</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722969884683-latest-sapphire-driver-updates-available-get-them-here/"><u>Latest Sapphire Driver Updates Available: Get Them Here</u></a></li>
+<li><a href="https://win-net.techidaily.com/step-by-step-guide-clearing-previous-backups-and-setting-up-new-file-backups-in-windows-10/"><u>Step-by-Step Guide: Clearing Previous Backups & Setting Up New File Backups in Windows 10</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-definitive-review-on-minecraft-a-game-that-welcomes-players-of-all-ages/"><u>The Definitive Review on Minecraft - A Game That Welcomes Players of All Ages</u></a></li>
+</ul></div>
 

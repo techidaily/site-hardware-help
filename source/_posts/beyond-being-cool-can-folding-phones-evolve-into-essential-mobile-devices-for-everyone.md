@@ -1,7 +1,7 @@
 ---
 title: "Beyond Being Cool: Can Folding Phones Evolve Into Essential Mobile Devices for Everyone?"
-date: 2024-09-09T16:09:28.697Z
-updated: 2024-09-10T16:09:28.697Z
+date: 2024-10-20T02:37:06.583Z
+updated: 2024-10-25T05:25:44.227Z
 tags:
   - android
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/f567a9fec699d773d0b269b2abfaf091f129a875a6f111520a97150e50266041.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Beyond Being Cool: Can Folding Phones Evolve Into Essential Mobile Devices for Everyone?
 
 ### Key Takeaways
@@ -26,11 +20,18 @@ thumbnail: https://thmb.techidaily.com/f567a9fec699d773d0b269b2abfaf091f129a875a
  I'm the last person you'd expect to be down on cool and interesting gadgets, and folding phones definitely qualify as both, but will they ever be more than that? Can folding phones become a mainstream option for smartphone buyers at some point, or is the whole premise flawed?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Folding Phones Have a Dubious Purpose
 
  What are folding phones actually meant to do better than regular slabs? There are essentially just two use cases as far as I can tell. One is to let you have a standard phone screen size, but make the phone shorter, as with the [Galaxy Z Flip](https://twitter-videos.techidaily.com/no-cash-all-fun-turning-twitter-vids-into-gifs-for-2024/). The other is to keep the phone close to a regular phone's shape, but to fold it open into something closer to a small tablet, as is the case with the [Galaxy Z Fold](https://screen-activity-recording.techidaily.com/new-vsf-video-capture-insights-a-critical-look-for-2024/).
@@ -38,11 +39,12 @@ thumbnail: https://thmb.techidaily.com/f567a9fec699d773d0b269b2abfaf091f129a875a
 ![Person holding the Samsung Galaxy Z Flip 6 showing the cover display](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/person-holding-the-samsung-galaxy-z-flip-6-showing-the-cover-display.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Justin Duino / How-To Geek
 
  Now, these are both legitimate use cases, but the real question is what that functionality is worth, given the sacrifices I'll get to in a minute. I currently have an S22 Ultra, and I've never thought to myself "boy I sure wish this screen was bigger" because standard phone screens are already enormous. We used to call phones like these "phablets," but now that's just the standard.
@@ -58,11 +60,12 @@ Justin Duino / How-To Geek
  With a folding phone you throw absolutely all of that out the window, with both a complex hinge and the folding screen itself, which is enormously more fragile. Until materials science advances to the point where these folding screens are as robust against wear and damage as typical smartphone screens are today, I'll remain hesitant to get one as my daily driver. I've also come to the point where I don't consider a smartphone something I use for two years and then replace. These devices are so powerful, and makers are promising such long support cycles, that I expect five years of use with [proper battery care](https://review-topics.techidaily.com/how-to-change-location-on-facebook-dating-for-your-infinix-gt-10-pro-drfone-by-drfone-virtual-android/). I just don't see folding phones doing that on average with normal daily use.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  The Sacrifices Aren’t Worth It
 
  Let's say you're totally convinced by the benefits of folding phones, or you personally love the concept and esthetics; what are you giving up to have them?
@@ -74,27 +77,16 @@ Justin Duino / How-To Geek
  Again, there's nothing wrong with someone deciding that those sacrifices are not an issue to them personally, but it seems to me that the benefits of a folding screen don't measure up favorably to the list of downsides.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Rolling Screens Might Be a Better Take
 
 ![The Phantom Ultimate 3 rollable phone held in a hand.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/phantom_ultimate_3.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Tecno
 
  Flexible screen technology isn't going anywhere, but for me, a better use of it comes in the form of rolling rather than folding screens. Rollable screens made a splash [back in 2021](https://easy-unlock-android.techidaily.com/lock-your-nokia-c12-pro-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/), and now we have phones like the [Tecno Phantom Ultimate](https://www.mobile-phantom.com/ae/phantom-ultimate/) which uses this technology. It still carries some of the same drawbacks as folding screens, but to my eye, this approach seems to reduce the complexity of the moving parts, eliminate the screen crease foldable screens have, and allow you the same main benefit of expanding your screen as needed. The Phantom is motorized, which has its own issues, but presumably someone will come up with a good manually-operated take on this concept at some point.
@@ -107,8 +99,6 @@ Tecno
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,4 +106,26 @@ Tecno
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-commencing-your-google-meet-experience/"><u>[New] 2024 Approved Commencing Your Google Meet Experience</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-digital-companion-fb-stories-collector/"><u>[New] Digital Companion - FB Stories Collector</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-20-best-youtube-thumbnail-fonts-to-make-your-video-stunning/"><u>[Updated] In 2024, 20 Best YouTube Thumbnail Fonts to Make Your Video Stunning</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-dive-into-digital-green-magic-top-4-youtube-sources-for-no-cost-background-workshops/"><u>2024 Approved Dive Into Digital Green Magic Top 4 YouTube Sources for No-Cost Background Workshops</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-inside-the-worlds-most-successful-business-youtube-sites/"><u>2024 Approved Inside the World's Most Successful Business YouTube Sites</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/crafting-captivating-igtv-cover-photos-thumbnails/"><u>Crafting Captivating IGTV Cover Photos (Thumbnails)</u></a></li>
+<li><a href="https://discover-best.techidaily.com/enhance-your-website-with-automated-cookiebot-driven-conversion-tracking/"><u>Enhance Your Website with Automated Cookiebot-Driven Conversion Tracking</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-nvidia-geforce-gtx-980-ti-driver-installation-package-available-here/"><u>Free Nvidia Geforce GTX 980 Ti Driver Installation Package Available Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-the-newest-intel-uhdiris-xe-graphics-driver-update-in-windows-1011/"><u>How to Get the Newest Intel UHD/Iris Xe Graphics Driver Update in Windows 10/11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-resolve-driver-issues-with-amd-rx-560-graphics-card-in-various-windows-versions/"><u>How to Resolve Driver Issues with AMD RX 560 Graphics Card in Various Windows Versions</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-infinix-hot-40i-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Infinix Hot 40i to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/iphone-users-reset-your-chatgpt-experience/"><u>IPhone Users, Reset Your ChatGPT Experience!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/optimize-your-pcs-webcam-performance-by-updating-its-drivers-on-windows-11/"><u>Optimize Your PC's Webcam Performance by Updating Its Drivers on Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-downloading-hps-cross-platform-printer-drivers-for-windows/"><u>Step-by-Step Guide: Downloading HP's Cross-Platform Printer Drivers for Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-hub-expert-reviews-and-insights/"><u>Tom's Tech Hub: Expert Reviews & Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-review-in-depth-analysis-of-the-latest-hardware/"><u>Tom's Tech Review: In-Depth Analysis of the Latest Hardware</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-success-now-your-windows-11-supports-all-your-steam-downloads/"><u>Troubleshooting Success: Now Your Windows 11 Supports All Your Steam Downloads</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-amds-ryzen-5-9600x-and-ryzen-amo-7-9700x-exceptional-gaming-prowess-with-zen-5-architecture/"><u>Unveiling AMD's Ryzen 5 9600X & Ryzen Amo 7 9700X: Exceptional Gaming Prowess with Zen 5 Architecture</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-windows-pc-ultimate-guide-to-installing-latest-bluetooth-dongle-drivers/"><u>Update Your Windows PC: Ultimate Guide to Installing Latest Bluetooth Dongle Drivers</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "1. Uncover Hidden Gem: Top-Notch Markdown & Notes App Yet to Be Discovered"
-date: 2024-09-09T16:12:08.677Z
-updated: 2024-09-10T16:12:08.677Z
+date: 2024-10-20T05:56:02.128Z
+updated: 2024-10-24T16:50:28.979Z
 tags:
   - android
 categories:
@@ -29,6 +29,19 @@ thumbnail: https://thmb.techidaily.com/dda7f892a14e315c0bfa7414c2e13f2432b695f38
 
  The best writing tool is the one you have on you. For me, that's my smartphone, but it's no good without the right app. After searching high and low, I finally found an app that just about does it all. If you haven't yet heard of Obsidian, it may be the best note taking app for you, too.
 
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What Is Obsidian?
 
  Obsidian describes itself as your "second brain." It's one of quite a few "personal knowledge base" or "knowledge management apps" that take a different approach to organizing your notes. Obsidian allows internal linking between notes, searching through notes, and an interactive graph that shows the connections between notes.
@@ -38,27 +51,16 @@ thumbnail: https://thmb.techidaily.com/dda7f892a14e315c0bfa7414c2e13f2432b695f38
  While I'm focusing on the Android version, Obsidian is available for basically any platform you can think of, whether that's on your PC, tablet, or phone. I use [the Android app](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2002537/https://play.google.com/store/apps/details?id=md.obsidian&hl=en%5FUS&gl=US), but the mobile version of Obsidian is largely the same [on the iPhone and iPad](https://apps.apple.com/us/app/obsidian-connected-notes/id1557175442) as well. Now, let's get into what makes Obsidian so good.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Notes Are Saved As Accessible Plain Text Files
 
 ![Obsidian folder in Samsung My Files](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/obsidian-folder-in-samsung-my-files.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Bertel King / How-To Geek
 
  Most writing apps hide your local data from you. Samsung Notes, for example, comes pre-installed on my Galaxy Z Fold 5, but I can only back up notes to either Samsung's cloud or Microsoft's. I can also only access my notes using that one app, meaning I'm locked in.
@@ -71,12 +73,6 @@ Bertel King / How-To Geek
 
 ![Obsidian sidebar with folders on a Galazy Z Fold 5](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/obsidian-sidebar-with-folders-a-galazy-z-fold-5.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Bertel King / How-To Geek
 
  Obsidian refers to the folders it saves your notes in as "Vaults." Within each Vault, you can create any number of folders. These folders and the notes they contain are visible in a sidebar that slides in from the left side of the screen.
@@ -92,11 +88,12 @@ Bertel King / How-To Geek
 ![Multiple documents open in tabs in Obsidian](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/multiple-documents-open-in-tabs-in-obsidian.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Bertel King / How-To Geek
 
  Obsidian opens each note in its own tab. On most phones, this is like switching between the tabs in a mobile web browser, and it takes some of the pain out of bouncing between multiple files at a time.
@@ -109,34 +106,29 @@ Bertel King / How-To Geek
 
 ![Obsidian formatting bar open above the Samsung keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/obsidian-formatting-bar-open-above-the-samsung-keyboard.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Bertel King / How-To Geek
 
  Even though Obsidian is a Markdown editor, you don't actually need to know how to write Markdown to format your text. The app contains a formatting bar directly above your keyboard. When you tap the bold icon, Obsidian will surround the highlighted text with asterisks, which is how Markdown communicates that something needs to be in bold. If you want to turn something into a heading, tap the heading icon, and Obsidian will insert a hashtag. One hashtag denotes Heading 1, two hashtags denote Heading 2, and so on.
 
  If you know Markdown, you can ignore the toolbar and format text that way. Either way, Obsidian will display your text in the way you intend for it to look. To clarify, many Markdown editors display Markdown "code" as you write, and you must tap a preview button to see a version of the document where text is actually bold, links are active, block quotes are invented, and headings are large. In Obsidian, things look the way you intend for them to look without you having to switch to a preview screen, much like writing in a word processor like Microsoft Word or Google Docs.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Word and Character Count Included for Writers
 
 ![Word and character count in Obsidian on Android](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/word-and-character-count-in-obsidian-on-android.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Bertel King / How-To Geek
 
  There are many, many ways to write things on Android. Technically, I could do most of my work using Google Keep if I particularly wanted to, but there are certain bits of information professional writers really need access to. Primarily, this is word count.
@@ -144,6 +136,13 @@ Bertel King / How-To Geek
  I love it when an app displays the current word count on-screen as I write, but tucking this information into a separate page is fine, too. I just need it to be available. In many note-taking apps, it isn't. This is the other big reason I'm not relying on Samsung Notes. It's a reason Google Keep and [many alternatives to Apple Notes](https://ai-voice-clone.techidaily.com/new-in-2024-easy-tutorial-how-to-record-and-send-talking-emoji-for-iphone/) aren't well-suited to the job. It's a big part of why iA Writer and Jotterpad are.
 
  Obsidian displays both the word count and the character count in a sidebar that you bring in from the right. It may not be visible at all times, but it's very accessible nonetheless.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  You Can Extend Obsidian With Plug-ins
 
@@ -163,8 +162,6 @@ Bertel King / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -172,4 +169,19 @@ Bertel King / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ed-edit-your-way-to-success-iosandroid-apps-for-youtube-shorts-for-2024/"><u>[Updated] Edit Your Way to Success IOS/Android Apps for YouTube Shorts for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-be-inspired-today-the-essentials-of-stunning-photos-on-ig/"><u>[Updated] In 2024, Be Inspired Today! The Essentials of Stunning Photos on IG</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-the-curveball-mastering-gopro-lens-distortion/"><u>2024 Approved Navigating the Curveball Mastering GoPro Lens Distortion</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/compatible-logitech-c920-webcam-drivers-for-windows-11108-update-now/"><u>Compatible Logitech C920 Webcam Drivers for Windows 11/10/8 - Update Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehvew-to-downloading-and-refreshing-ralink-network-card-drivers-on-a-window-based-computer/"><u>Comprehvew to Downloading and Refreshing Ralink Network Card Drivers on a Window-Based Computer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-setup-nvidia-geforce-gtx-1080-ti-driver-software/"><u>Download & Setup NVIDIA GeForce GTX 1080 Ti Driver Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-hp-stream-printer-drivers-instantly-with-our-simple-tips/"><u>Download HP Stream Printer Drivers Instantly with Our Simple Tips!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/finding-the-perfect-countdown-timer-for-your-wedding-ceremony-for-2024/"><u>Finding the Perfect Countdown Timer for Your Wedding Ceremony for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/hulus-advantages-make-the-switch-now/"><u>Hulu’s Advantages: Make the Switch Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-updates-downloading-and-installing-dell-latitude-e6430-drivers-on-windows-how-to-guide/"><u>Latest Updates: Downloading and Installing Dell Latitude E6430 Drivers on Windows - How-To Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ring-video-doorbell-2-review/"><u>Ring Video Doorbell 2 Review</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/what-phone-is-compatible-with-gear-vr-2023-update/"><u>What Phone Is Compatible with Gear VR? -2023 Update</u></a></li>
+</ul></div>
 

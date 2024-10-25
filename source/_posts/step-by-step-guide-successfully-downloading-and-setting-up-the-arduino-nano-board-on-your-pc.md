@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Successfully Downloading & Setting Up the Arduino Nano Board on Your PC"
-date: 2024-10-17T14:18:00.600Z
-updated: 2024-10-18T16:09:36.449Z
+date: 2024-10-18T00:50:25.793Z
+updated: 2024-10-24T21:13:42.830Z
 tags:
   - win11
   - win10
@@ -30,10 +30,10 @@ thumbnail: https://thmb.techidaily.com/fd283428cd4cb2c0907e2d15b8c7aa3306b361f3c
 [**Option 2 – Manually**](https://tools.techidaily.com/drivereasy/download/) –  You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Option 1: Update your Surface Book drivers automatically (Recommended)**
@@ -50,31 +50,32 @@ thumbnail: https://thmb.techidaily.com/fd283428cd4cb2c0907e2d15b8c7aa3306b361f3c
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7cabf4d114.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. **Restart**   your computer for the changes to take effect.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Option 2: Update your Surface Book drivers manually**
 
@@ -86,13 +87,6 @@ To manually download & install your **Surface Book**  drivers, firstly you’ll 
 2. Scroll down to the Help list, then click**Install and update** \>**Download drivers and firmware for Surface** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7ccdf679a7.jpg)
 3. Select your model from the list of Surface products and follow the on-screen instructions to download the files that you need for driver updates.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Be sure to choose**ONLY** drivers that are compatible with your Windows version.
 4. Restart your computer for the changes to take effect.
@@ -118,21 +112,22 @@ To manually download & install your **Surface Book**  drivers, firstly you’ll 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-instructions-on-changing-fb-page-backdrop/"><u>[New] In 2024, Instructions on Changing FB Page Backdrop</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-transitioning-playlists-from-spotify-to-a-tailored-youtube-music-list/"><u>[New] In 2024, Transitioning Playlists From Spotify to a Tailored YouTube Music List</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-unveil-the-zodiac-persona-perfecting-personalized-bios-on-whatsapp/"><u>[New] Unveil the Zodiac Persona - Perfecting Personalized Bios on WhatsApp</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-snapchat-to-smiles-phones/"><u>[Updated] In 2024, Snapchat to Smiles Phones</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-smoothly-blending-bio-and-linktree-on-your-tiktok-platform/"><u>[Updated] Smoothly Blending Bio & Linktree on Your TikTok Platform</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-the-future-of-sound-with-jabras-advanced-noise-canceling-earphones/"><u>Discover the Future of Sound with Jabra's Advanced Noise-Canceling Earphones</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-the-top-benefits-of-choosing-a-tenkeyless-keyboard-why-its-time-to-switch/"><u>Discover the Top Benefits of Choosing a Tenkeyless Keyboard: Why It's Time to Switch!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/elevate-your-home-security-with-the-yale-approach-lock-the-ideal-smart-solution-for-apartment-entryways/"><u>Elevate Your Home Security with the Yale Approach Lock: The Ideal Smart Solution for Apartment Entryways</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/eliminating-the-annoying-white-noise-in-my-speakers-a-step-by-step-fix/"><u>Eliminating the Annoying White Noise in My Speakers: A Step-by-Step Fix</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/enduring-legacy-of-the-90s-the-classic-techs-we-still-rely-on-today/"><u>Enduring Legacy of the 90S: The Classic Techs We Still Rely On Today</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/enhance-your-pc-experience-with-these-5-fantastic-gadgets-and-add-ons/"><u>Enhance Your PC Experience with These 5 Fantastic Gadgets and Add-Ons</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/evaluating-the-nanoleaf-umbra-cup-innovative-tech-or-just-an-office-diversion/"><u>Evaluating the Nanoleaf Umbra Cup - Innovative Tech or Just an Office Diversion?</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-x-crash-fix-get-back-to-editing-for-2024/"><u>Final Cut Pro X Crash Fix Get Back to Editing for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-sony-xperia-5-v-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Sony Xperia 5 V Devices | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-nikons-1j5-videographer-a-spectacle-in-4k/"><u>In 2024, Nikon's 1J5 Videographer A Spectacle in 4K</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/navigating-iphone-backup-flawless-integration-with-snapchat-photos-for-2024/"><u>Navigating iPhone Backup Flawless Integration with Snapchat Photos for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-speedy-shots-for-immersive-narratives/"><u>[New] 2024 Approved Speedy Shots for Immersive Narratives</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-frame-by-frame-magic-best-video-screenshots/"><u>[New] In 2024, Frame-by-Frame Magic Best Video Screenshots</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-reigniting-the-social-sphere-how-to-amplify-instagram-activity/"><u>[New] In 2024, Reigniting the Social Sphere How to Amplify Instagram Activity</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/outubes-essential-learning-resources-for-upcoming-directors-for-2024/"><u>[New] YouTube's Essential Learning Resources for Upcoming Directors for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-tips-for-gaining-attention-via-snapchat-star/"><u>[Updated] Tips for Gaining Attention via Snapchat Star</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-apex-screen-capture-tools-the-elite-line-up/"><u>2024 Approved Apex Screen Capture Tools The Elite Line-Up</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-xiaomi-redmi-note-12t-pro-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Xiaomi Redmi Note 12T Pro</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/brother-hl-c8650cdw-driver-download-fast-and-easy-instructions/"><u>Brother HL-C8650CDW Driver Download - Fast and Easy Instructions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-installation-of-nvidia-1080-drivers-for-windows-11-users-step-by-step/"><u>Easy Installation of NVIDIA 1080 Drivers for Windows 11 Users: Step-by-Step</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-advice-the-right-method-for-upgrading-dell-webcam-drivers/"><u>Expert Advice: The Right Method for Upgrading Dell Webcam Drivers</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-google-pixel-8-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Google Pixel 8 Pro to iPhone | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/lenovo-x1-carbon-support-files-seamless-drivers-download-for-windows-10-and-7-devices/"><u>Lenovo X1 Carbon Support Files: Seamless Drivers Download for Windows 10 & 7 Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-guide-to-getting-the-newest-nvidia-quadro-rtx-8000-driver-for-win-10-8-and-7-systems/"><u>Quick Guide to Getting the Newest Nvidia Quadro RTX 8000 Driver for Win 10, 8 & 7 Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-guide-hp-envy-laptop-model-5660-simplest-drivers-downloading-and-installation/"><u>Quick Guide: HP Envy Laptop Model 5660 - Simplest Drivers Downloading and Installation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/score-a-deal-with-our-top-pick-bogo-on-high-quality-iphone-cases-exclusive-offer-just-for-you/"><u>Score a Deal with Our Top Pick: BOGO on High-Quality iPhone Cases – Exclusive Offer Just for You</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-non-existent-basic-printer-driver-in-windows-10-operating-system/"><u>Troubleshooting Non-Existent Basic Printer Driver in Windows 10 Operating System</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/walkthrough-get-and-set-up-epson-xp-410-drivers-on-your-windows-computer-with-simple-steps/"><u>Walkthrough: Get & Set Up Epson XP-410 Drivers on Your Windows Computer with Simple Steps</u></a></li>
 </ul></div>
 

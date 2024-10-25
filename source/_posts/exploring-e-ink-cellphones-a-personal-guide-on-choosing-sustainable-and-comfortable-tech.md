@@ -1,7 +1,7 @@
 ---
 title: "Exploring E-Ink Cellphones: A Personal Guide on Choosing Sustainable & Comfortable Tech"
-date: 2024-09-09T16:12:29.070Z
-updated: 2024-09-10T16:12:29.070Z
+date: 2024-10-22T01:07:12.629Z
+updated: 2024-10-25T04:38:21.430Z
 tags:
   - android
 categories:
@@ -19,12 +19,6 @@ thumbnail: https://thmb.techidaily.com/dadc574a72620fb10d26a05d18b7bc541d4008da3
 
  E-readers have shown us the appeal of e-ink screens. The Light Phone 2 crammed this eye-friendly display technology into a phone. I want to see this technology come to smartphones. Let me tell you why.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  ​Easier on the Eyes
 
  I have carried around a [Light Phone 2](https://www.thelightphone.com/) for years. I loved the look of that tiny, credit-card sized phone with its minimal e-ink display. After a while, I returned to using a smartphone, but I wish that choice didn't mean having to give up e-ink.
@@ -37,12 +31,6 @@ thumbnail: https://thmb.techidaily.com/dadc574a72620fb10d26a05d18b7bc541d4008da3
 
  I know, not using your device in the dark sounds downright primitive at this point. That's why e-ink devices come with front-lighting. This makes the screen glow, but the light comes from the sides of the screen rather than behind. It shines down onto the text you're reading, rather than out toward your face.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  E-Ink Helps Form Healthier Habits
 
  Front-lighting gets the job done, but I find it off-putting and consider this reason to wait for the sun to come back up to read instead.
@@ -58,11 +46,12 @@ thumbnail: https://thmb.techidaily.com/dadc574a72620fb10d26a05d18b7bc541d4008da3
  This might sound like an e-ink phone would be unusable, but rather it just means you would have to use it differently.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Less Streaming, More Reading
 
 ![reading on the onyx boox palma](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/reading-on-the-onyx-boox-palma_53279899430_o.jpg) 
@@ -75,16 +64,30 @@ Sergio Rodriguez / How-To Geek
 
  I love the idea of a portable eReader that can be used to place calls, send texts, and draft email. It's good for the stuff I find most important about using a phone and discourages many of the things I consider distractions.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  A Less-Distracting Interface
 
 ![Boox Tab Ultra C being held in a hand showing its home screen icons.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/C183E45A-A48E-4841-968E-DF39B15CD066.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  \- _Tyler Hayes / HowToGeek_
 
  It's not only the animations that take a hit. E-ink screens give icon designers more restrictions, limiting their ability to make their designs jump out at us as we swipe through our app drawers. This puts more control back in our hands, helping us resist the efforts of many of the world's best designers attempting to make us click on their team's app over doing something else.
@@ -93,22 +96,10 @@ Sergio Rodriguez / How-To Geek
 
  E-ink screens do better with simple layouts than they do with gradients and animations. This makes the devices less eye-catching. It's hard to get excited about a presentation showing off the new home screen on a [Nook GlowLight](https://instagram-video-recordings.techidaily.com/turning-horizons-into-heights-uploading-videos-to-igtv/), yet enough of us have come to the conclusion that that's a good thing. Give us something straightforward that helps us do the task at hand and then encourage us to put the phone back down when we're done.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  ​It's Like Writing on Paper
 
 ![Boox Tab Ultra C Pro with annotations on the screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/boox-tab-ultra-c-pro.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  Want to know why people buy the [reMarkable tablet](https://www.amazon.com/reMarkable-Essentials-Bundle-Marker-Leather/dp/B0BJNFJY8Y/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003688&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fwhy-i-want-an-e-ink-phone%2F&asc%5Fcampaign=Evergreen)? Just like e-ink better simulates the experience of reading a physical book, this type of panel also helps replicate what it's like to write on paper.
@@ -118,6 +109,13 @@ Jerome Thomas / How-To Geek
  A foldable e-ink phone would take this to the next level, but I wouldn't complain about seeing an e-ink version of a slab like the Galaxy S Ultra. That would be a delight to write on, too.
 
  You wouldn't be limited to writing, either. Color e-ink is an established technology at this point, one making advancements each year. If working on an iPad feels like using markers, drawing with e-ink feels like bringing out the color pencils. I'm not saving one is better than the other. Both have their place, and it's great to have the option. We do have this choice when it comes to tablets (shout out to the [Boox Tab Ultra C](https://extra-tips.techidaily.com/chucklecraft-suite-for-2024/) and similar slates), but it would be great to see this come to phones.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Get More Life Out of Our Batteries
 
@@ -133,8 +131,6 @@ Jerome Thomas / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,4 +138,20 @@ Jerome Thomas / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tickle-me-tech-iphone-memes/"><u>2024 Approved Tickle-Me-Tech IPhone Memes</u></a></li>
+<li><a href="https://article-files.techidaily.com/achieving-visual-excellence-with-the-best-4k-monitors-on-the-market-for-2024/"><u>Achieving Visual Excellence with the Best 4K Monitors on the Market for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-evaluation-of-the-thermaltake-toughpower-gf3-a-top-notch-850w-psu-for-your-pc-build/"><u>Comprehensive Evaluation of the Thermaltake Toughpower GF3 – A Top-Notch 850W PSU for Your PC Build</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-thinkpad-t420s-running-on-windows-10-free-driver-downloads-here/"><u>Get Your ThinkPad T420s Running on Windows 10 - Free Driver Downloads Here!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-and-improve-your-epson-printers-performance-with-new-drivers-in-windows-11/"><u>How to Get and Improve Your Epson Printer's Performance with New Drivers in Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-successfully-update-your-computers-speaker-or-microphone-driver-for-windows-11-10-and-7/"><u>How to Successfully Update Your Computer's Speaker or Microphone Driver for Windows 11, 10 & 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975063411-humanitarian-considerations-have-gained-prominence-in-the-discourse-on-nuclear-weapons-emphasizing-their-catastrophic-impacts/"><u>Humanitarian Considerations Have Gained Prominence in the Discourse on Nuclear Weapons, Emphasizing Their Catastrophic Impacts</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-honor-x7b-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Honor X7b Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-selecting-text-enhancement-websites/"><u>In 2024, The Ultimate Guide to Selecting Text Enhancement Websites</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installation-guide-downloading-and-setting-up-canon-mp280-printer-drivers-on-windows-11-8-or-7/"><u>Installation Guide: Downloading and Setting Up Canon MP280 Printer Drivers on Windows 11, 8 or 7</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/quick-language-leap-with-10-minute-method/"><u>Quick Language Leap with 10-Minute Method</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-drivers-updates-and-downloads-for-windows-1187/"><u>Seamless Drivers Updates & Downloads for Windows 11/8/7</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/self-viewer-alert-on-facebook-chats-steps-to-resolve-for-2024/"><u>Self-Viewer Alert on Facebook Chats Steps to Resolve for 2024</u></a></li>
+</ul></div>
 

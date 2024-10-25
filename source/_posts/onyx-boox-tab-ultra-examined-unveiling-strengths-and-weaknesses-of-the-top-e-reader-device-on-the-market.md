@@ -1,7 +1,7 @@
 ---
 title: "Onyx Boox Tab Ultra Examined: Unveiling Strengths and Weaknesses of the Top E-Reader Device on the Market"
-date: 2024-09-04T02:12:26.023Z
-updated: 2024-09-05T02:12:26.023Z
+date: 2024-10-19T03:08:57.641Z
+updated: 2024-10-25T03:32:30.741Z
 tags:
   - android
 categories:
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
 [E-readers](https://extra-tips.techidaily.com/superior-10-mobile-apps-to-edit-your-face/) make reading books easy on the eyes with paper-like screens. The Onyx Boox Tab Ultra wants to lend that readability and simplicity to all tablet tasks, and while it does an admirable job working towards that goal, there are some areas where the concept doesn't work out.
 
 ![eef8f087](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/eef8f087.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #####  Onyx Boox Tab Ultra
 
@@ -83,11 +90,12 @@ Expand
 [See at Amazon](https://www.amazon.com/BOOX-Tab-Ultra-ePaper-Digital/dp/B0BDRF66D2/?tag=hotoge-20&ascsubtag=UUhtgUeUpU905155&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F138095%2Fonyx-boox-tab-ultra-review%2F&asc%5Fcampaign=Affiliate) [See at Boox](https://shop.boox.com/products/tab) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Form Factor and Screen** 
 
 ![Tab Ultra showing YouTube website](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/721bc89c.jpg) 
@@ -107,11 +115,12 @@ _Tyler Hayes / Reviews Geek_
  Interestingly, I found the black-and-white display to be a challenge when using certain kinds of apps. Launching [Apple Music](https://apps.apple.com/us/app/apple-music/id1108187390) was eye-opening. It's hard not to expect bright, colorful album artwork rather than grey blobs. The same was true of browsing the web on this device. It worked, of course, but it was less pleasant than you might imagine. The lack of color wears on your eyes as your mind spends unnecessary time trying to visualize what it's used to seeing.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Tablet Usage and Daily Computing** 
 
 ![Tab Ultra showing a screen in the kindle store](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/b4b9dfa9.jpg) 
@@ -133,11 +142,12 @@ _Tyler Hayes / Reviews Geek_
 ![Tab Ultra showing the camera used for scanning documents](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/76b46fd8.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Using the camera with a monochrome screen was harder than expected. - _Tyler Hayes / Reviews Geek_
 
  Inside the Onyx Boox Tab Ultra is a [Qualcomm Octa-core chip](https://www.qualcomm.com/products/application/smartphones/snapdragon-6-series-mobile-platforms/snapdragon-662-mobile-platform) for powering through tasks. The tablet runs [Android 11](https://some-techniques.techidaily.com/in-2024-how-to-generate-stellar-podcast-title-ideas/) and comes with the Google Play Store right on the home screen. There was no problem downloading all the apps I wanted on it. Of course, Android apps used on larger screens still leave a lot to be desired. A lot of times you'll get big phone apps instead of finely crafted tablet ones.
@@ -148,12 +158,6 @@ Using the camera with a monochrome screen was harder than expected. - _Tyler Hay
 
  The tablet has 4GB of [RAM](https://youtube-web.techidaily.com/ed-2024-approved-unlocking-youtube-success-top-video-strategies-to-explode-views/) and 128GB of storage. You can add more space with the device's available microSD card slot, though I have a hard time imagining needing more storage space than what's built-in. To top it off there's a fingerprint sensor in the power button for increased security, speakers that get plenty loud, and a [USB-C port](https://screen-activity-recording.techidaily.com/navigating-lenovo-screen-capture-tools-effortlessly/) for charging. (There's no front-facing camera for video calls, but that might be a line too far for a lot of people.)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Keyboard Cover** 
 
  The keyboard cover from Boox had the ability to completely ruin the Tab Ultra's experience. Without it, the product is just a fancy, expensive, e-reader instead of the more computer or tablet-like device it is with a keyboard attached. (In fact, at the time of writing, the Tab Ultra was only being sold with the keyboard cover bundled on the company's website.)
@@ -164,18 +168,6 @@ Using the camera with a monochrome screen was harder than expected. - _Tyler Hay
 
  I had to turn off the floating predictive text on the screen when using the physical keyboard. Not only was it distracting because it covered up the words I was typing, but it interfered when trying to use certain characters like using the apostrophe. Hitting that key would cause double and triple words to appear on the screen each time. Typing on my lap with the keyboard case was doable. It wasn't anything remarkable or desirable, but it was certainly usable when needed.
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Should You Buy the Onyx Boox Tab Ultra?** 
 
 ![Tab Ultra with the notes app open](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/1414ea7e.jpg) 
@@ -190,12 +182,6 @@ _Tyler Hayes / Reviews Geek_
 
 ![eef8f087](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/eef8f087.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  Onyx Boox Tab Ultra
 
 6/ 10 
@@ -208,8 +194,6 @@ _Tyler Hayes / Reviews Geek_
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -217,4 +201,23 @@ _Tyler Hayes / Reviews Geek_
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/2024-approved-optimal-outlooks-ideal-laptops-to-render-hd-videos-quickly/"><u>2024 Approved Optimal Outlooks Ideal Laptops to Render HD Videos Quickly</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-the-fundamentals-of-human-interface-recognition/"><u>2024 Approved The Fundamentals of Human Interface Recognition</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-ryzen-9-9950x-engineering-chip-tested-with-full-blender-suite-across-various-tdp-settings-revealing-substantial-enhancements-in-energy-efficiency/"><u>AMD Ryzen 9 9950X Engineering Chip Tested with Full Blender Suite Across Various TDP Settings, Revealing Substantial Enhancements in Energy Efficiency</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/downloading-the-latest-insta-reels-two-ways-to-go-for-2024/"><u>Downloading the Latest Insta Reels, Two Ways to Go for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/easy-gaming-memories-start-recording-now-for-2024/"><u>Easy Gaming Memories Start Recording Now for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/effortless-angle-correction-for-clear-vision/"><u>Effortless Angle Correction for Clear Vision</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-hardware-analysis-with-toms-tech-corner/"><u>Expert Hardware Analysis with Tom's Tech Corner</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/focusrite-scarlett-solo-exclusive-pc-compatible-audio-interface-download-offer/"><u>Focusrite Scarlett Solo - Exclusive PC-Compatible Audio Interface Download Offer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-new-intel-xe-graphics-driver-for-windows-11-today-free-download/"><u>Get Your New Intel Xe Graphics Driver for Windows 11 Today - [Free Download]</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-from-apple-iphone-14-pro-max-by-drfone-ios/"><u>How To Remove the Two Factor Authentication From Apple iPhone 14 Pro Max</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-seamlessly-upgrade-your-microsoft-sculpt-ergonomic-keyboards-software/"><u>How To Seamlessly Upgrade Your Microsoft Sculpt Ergonomic Keyboard's Software</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-building-effective-product-sponsor-relationships/"><u>In 2024, Building Effective Product-Sponsor Relationships</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-look-at-the-lenovo-130s-laptop-moderate-battery-life-with-impressive-functionality/"><u>In-Depth Look at the Lenovo 130S Laptop: Moderate Battery Life with Impressive Functionality</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-ch3c0g-chip-driver-software-installation-guide-on-windows-10/"><u>Latest CH3C0G Chip Driver Software Installation Guide on Windows 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/optimize-your-pc-with-secure-amd-ryzen-driver-downloads-an-easy-guide/"><u>Optimize Your PC with Secure AMD Ryzen Driver Downloads - An Easy Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/us-reels-crafting-7-comedy-storylines-for-social-media-stars/"><u>Raucous Reels Crafting 7 Comedy Storylines for Social Media Stars</u></a></li>
+</ul></div>
 

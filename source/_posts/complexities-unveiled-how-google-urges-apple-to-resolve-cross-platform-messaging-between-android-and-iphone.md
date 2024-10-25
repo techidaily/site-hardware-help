@@ -1,7 +1,7 @@
 ---
 title: "Complexities Unveiled: How Google Urges Apple to Resolve Cross-Platform Messaging Between Android and iPhone"
-date: 2024-09-09T16:11:26.871Z
-updated: 2024-09-10T16:11:26.871Z
+date: 2024-10-18T22:39:51.535Z
+updated: 2024-10-24T23:50:17.623Z
 tags:
   - android
 categories:
@@ -9,26 +9,8 @@ categories:
 thumbnail: https://thmb.techidaily.com/e2b7342586f1532a636225d5506546a483f2a235bec60ba0d26a57d5b805db19.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Complexities Unveiled: How Google Urges Apple to Resolve Cross-Platform Messaging Between Android and iPhone
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [Get The Message](https://extra-information.techidaily.com/updated-auditory-accents-integrating-tracks-into-video-on-modern-windows/)
@@ -38,11 +20,12 @@ thumbnail: https://thmb.techidaily.com/e2b7342586f1532a636225d5506546a483f2a235b
  iMessage is one of the strongest selling points for the iPhone, but it falls back to using regular SMS when someone in the conversation doesn't have an Apple device. Google wants Apple to fix the problem, but it's not that simple.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Get The Message
 
  Google has embarked on a marketing campaign called [#GetTheMessage](https://twitter.com/Android/status/1557758915357642752), which aims to pressure Apple into supporting [Rich Communication Service](https://screen-activity-recording.techidaily.com/updated-2024-approved-ideal-chat-and-meetup-tools-for-large-groups/) (RCS for short) on iPhones. RCS is a newer standard for text messaging that supports larger file attachments, reactions, varying levels of encryption, read indicators, and other features common in modern messaging services. Android devices can use RCS through the [Android Messages](https://messages.google.com/) application, which is the default texting app on most Android phones.
@@ -52,11 +35,12 @@ thumbnail: https://thmb.techidaily.com/e2b7342586f1532a636225d5506546a483f2a235b
  Google has already partnered with some celebrities and influencers to promote the campaign, including [Madelaine Petsch](https://twitter.com/madelainepetsch/status/1557424410025332736), [Vanessa Hudgens](https://twitter.com/VanessaHudgens/status/1557465801652707333), and [ATTN](https://www.youtube.com/watch?v=ED4es0-j8M4), and more ads are likely on the way. So, is it really Apple's fault that texting with Android devices is difficult?
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  A Quick Refresher on RCS
 
  Rich Communication Services is not a new technology, as the first version was released in 2008 -- the same year the iPhone 3G was released, and a few years before iMessage even existed. It was an upgrade over SMS texting, but it wasn't compatible across different networks or devices. That only started to change with the introduction of the [RCS Universal Profile in November 2016](https://en.wikipedia.org/wiki/IPhone%5F3G), which made it technically possible for RCS conversations to work across different mobile networks.
@@ -66,17 +50,12 @@ thumbnail: https://thmb.techidaily.com/e2b7342586f1532a636225d5506546a483f2a235b
 ![Android Messages screenshots](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/Image-5.jpeg) 
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 _Google_
 
  There are many, many, many other factors in play. Most of the world uses services like WhatsApp and WeChat for mobile messaging instead of iMessage or SMS, so this specific problem is mostly irrelevant to millions (or even billions) of people. RCS also isn't as open of a platform as Google might lead you to believe -- [it doesn't work with third-party messaging apps on Android](https://www.xda-developers.com/google-messages-rcs-api-third-party-apps/), and no matter what mobile network you're on, your messages usually pass through Google's Jibe servers.
@@ -84,11 +63,12 @@ _Google_
  After several years of fighting with mobile networks, Android Messages is the default messaging app on most Android phones, which in turn allows the phones to use RCS messaging. The next challenge for Google is working with Apple to support RCS.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  The Battle with Apple
 
  So, is Apple blocking RCS from working on iPhones? Technically, there's nothing stopping Apple from integrating RCS into its iMessage infrastructure. Apple could also side-step the problem and make an iMessage app for Android phones, giving both platforms an equal texting experience.
@@ -107,8 +87,6 @@ _Google_
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,4 +94,22 @@ _Google_
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-fusing-data-and-design-for-dynamic-fb-video-campaigns/"><u>[New] 2024 Approved Fusing Data & Design for Dynamic FB Video Campaigns</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-standout-methods-for-fb-ad-visualization/"><u>[Updated] In 2024, Standout Methods for FB Ad Visualization</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/boost-your-graphics-how-to-effectively-upgrade-ati-radeon-drivers-on-windows-systems/"><u>Boost Your Graphics: How To Effectively Upgrade ATI Radeon Drivers on Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-logitech-brio-camera-drivers-for-windows-10-8-or-7-systems/"><u>Download the Logitech Brio Camera Drivers for Windows 10, 8 or 7 Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/elevated-power-supply-at-heart-of-intels-cpu-woes-comprehensive-fix-announced-for-august-release/"><u>Elevated Power Supply at Heart of Intel's CPU Woes – Comprehensive Fix Announced for August Release</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722958101182-find-the-best-resources-for-your-thunderbolt-tb16-dell-connectivity-device-downloads-and-updates-available/"><u>Find the Best Resources for Your Thunderbolt TB16 (Dell) Connectivity Device - Downloads & Updates Available!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-realme-narzo-60-pro-5g-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Realme Narzo 60 Pro 5G FRP Locks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-fetch-and-install-updated-corsair-k5-5-key-roller-drivers-easily/"><u>How to Fetch and Install Updated Corsair K5 5-Key Roller Drivers Easily</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-apple-iphone-14-pro-location-on-twitter-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change your Apple iPhone 14 Pro Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-depth-insight-on-selecting-superior-valheim-seeds-for-2024/"><u>In-Depth Insight on Selecting Superior Valheim Seeds for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/nvidia-geforce-amoledo-940mx-driver-download-update-your-system/"><u>NVIDIA GeForce Amoledo 940MX Driver Download - Update Your System</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-installation-downloading-the-latest-synaptics-touchpad-driver-version/"><u>Seamless Installation: Downloading the Latest Synaptics Touchpad Driver Version</u></a></li>
+<li><a href="https://windows11.techidaily.com/secure-boot-woes-overcome-support-issues-with-top-fixes/"><u>Secure Boot Woes: Overcome Support Issues with Top Fixes</u></a></li>
+<li><a href="https://article-files.techidaily.com/unleashing-the-full-potential-of-your-phone-into-vr-realm-for-2024/"><u>Unleashing the Full Potential of Your Phone Into VR Realm for 2024</u></a></li>
+</ul></div>
 

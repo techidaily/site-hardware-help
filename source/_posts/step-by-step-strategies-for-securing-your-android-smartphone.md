@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Strategies for Securing Your Android Smartphone
-date: 2024-09-09T16:10:11.312Z
-updated: 2024-09-10T16:10:11.312Z
+date: 2024-10-23T02:19:33.102Z
+updated: 2024-10-25T07:04:37.047Z
 tags:
   - android
 categories:
@@ -26,12 +26,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 
  Those defaults are due partly to Google needing access to such data to personalize a lot of the content you see, making for a better experience overall. This data is also used to serve [tailored ads you're more likely to click](https://youtube-docs.techidaily.com/approved-beginning-the-video-odyssey-how-to-create-an-engaging-youtube-channel/). However, if you aren't interested in any of that, here's what you can do to reduce your exposure.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Restrict App Permissions
 
  Passwords and fingerprint IDs are common ways of protecting your Android phone from people who come in contact with your device. But if you want to up your privacy, you might do well to start from the very apps you use daily. One way to take control is to [manage your app permissions](https://program-issues.techidaily.com/troubleshooting-unable-to-connect-errors-in-minecraft-servers/) to ensure they only have access to what's necessary.
@@ -46,30 +40,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 
 ![Select a permission such as Camera, Microphone, or Location](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/Restrict-App-Permissions-2.png) 
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Many permissions will be limited to Allow or Don't allow. But for the location, camera, and microphone options, you have more control. In Android 10, you can either choose "Allow all the time," "Allow only while using the app," or "Deny." Android 11 and above takes things up a notch, removing the "Allow all the time" option entirely for the camera and microphone---[location services](https://tech-savvy.techidaily.com/the-evolution-of-artistic-expression-in-the-age-of-ai-writing-assistants/) still retain the option.
 
 ![Select the &quot;Allow only while using the app&quot; option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/Restrict-App-Permissions-3.png) 
 
  Such one-time permissions limit background usage and allow you to test apps without fear. Plus, you can toggle an option for location data to reduce its accuracy in later Android versions. This will enable you to get nearby results without revealing your exact location. In addition, you can set apps to lose their permissions automatically if you haven't used them for a specified time.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Uninstall Unused Apps
 
  Sometimes you install new apps, you use them for one-time tasks and forget about them. Other times, we just keep them around in case we need them in the future but rarely do. If you scroll through your phone's app drawer, chances are you'll find many installed apps that you don't use.
@@ -91,27 +67,23 @@ Related: [How to Uninstall Multiple Apps at Once on Android](https://extra-skill
 ![Choose a different search engine from the listed ones](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/Put-Chrome-on-a-Leash-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Another thing you can do in Settings is opt-out of [Enhanced Safe Browsing](https://ios-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/). This feature substantially improves your protection against malicious websites and dangerous downloads and is a step above Chrome's "Standard protection." However, it comes at the expense of collecting more data on your browsing activity. To remove it, navigate to Chrome's settings and choose "Privacy and Security."
 
 ![From Chrome's settings, select &quot;Privacy and security&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/Put-Chrome-on-a-Leash-3.png) 
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Tap on "Safe Browsing."
 
 ![Tap on the &quot;Safe Browsing&quot; option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/Put-Chrome-on-a-Leash-4.jpg) 
@@ -120,61 +92,32 @@ Related: [How to Uninstall Multiple Apps at Once on Android](https://extra-skill
 
 ![Select &quot;Standard protection&quot; or &quot;No protection&quot; to remove &quot;Enhance protection&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/Put-Chrome-on-a-Leash-5.png) 
 
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Related: [9 Cybersecurity Tips to Stay Protected in 2023](https://extra-tips.techidaily.com/mastering-mobile-alter-picture-size-on-iphone-easefully/) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Stop Websites From Tracking You
 
  While you limit how much of your data Google has access to, you might also want to ensure that third-party sites are siphoning this data for themselves. To start, go to Chrome's Settings and tap "Privacy and Security."
 
 ![From Chrome's settings, select &quot;Privacy and security&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/Put-Chrome-on-a-Leash-3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Select "Clear Browsing Data."
 
 ![Choose the &quot;Clear browsing data&quot; option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/Stop-Websites-from-Tracking-You-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You'll be allowed to erase basic things like your search history, cached images, and cookies anywhere from the last hour to all time.
 
 ![Choose whether to erase your search history, cached images, cookies, or all three](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/Stop-Websites-from-Tracking-You-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  But if you move to the "Advanced" tab, you get the additional option of deleting saved passwords, site settings, and auto-fill form data.
 
 ![Switch to the &quot;Advanced&quot; tab to removed additional data like saved passwords, site settings, and auto-fill form data](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/Stop-Websites-from-Tracking-You-3.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Another thing you can do would be to turn off page preloading (also under "Privacy and Security"). Page preloading helps speed up your browsing experience, with Google using it on sites it predicts you're likely to visit next (even though you might not). But this also means more access to your browsing data. To turn it off, go to "Preload Pages."
 
@@ -184,16 +127,17 @@ Related: [9 Cybersecurity Tips to Stay Protected in 2023](https://extra-tips.tec
 
 ![Select the &quot;No preloading&quot; option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/Stop-Websites-from-Tracking-You-5.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You could also toggle off the "Access Payment Methods" option (also under "Privacy and Security"), which allows websites you visit to check if you have saved payment methods in Chrome, including credit cards, debit cards, or apps.
 
 ![Toggle off the &quot;Access payment methods&quot; option under Chrome's &quot;Privacy and security&quot; setting](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/Stop-Websites-from-Tracking-You-6.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Meanwhile, you can prevent websites from generating [cookies](https://facebook-record-videos.techidaily.com/updated-efficient-mac-video-resizing-to-fixed-ratio-for-2024/) and using them to follow you around the web. However, keep in mind that some features, like saved sign-ins, on some platforms may break along the way.
 
  Go to Settings > Site Settings.
@@ -204,22 +148,17 @@ Related: [9 Cybersecurity Tips to Stay Protected in 2023](https://extra-tips.tec
 
 ![Tap the &quot;Cookies&quot; option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/Stop-Websites-from-Tracking-You-8.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Select "Block Third-Party Cookies."
 
 ![Choose the &quot;Block third-party cookies&quot; option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/Stop-Websites-from-Tracking-You-9.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Finally, turn on "Do Not Track." This will send a request to any website you visit, telling it not to track you with cookies.
 
 ![Choose the &quot;Clear browsing data&quot; option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/Stop-Websites-from-Tracking-You-1.png) 
@@ -234,22 +173,17 @@ Related: [9 Cybersecurity Tips to Stay Protected in 2023](https://extra-tips.tec
 
 ![Open the Google app, and tap your profile avatar in the top right corner](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/Switch-to-an-Entirely-Different-Browser-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Go to "Settings."
 
 ![Select the &quot;Settings&quot; option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/Switch-to-an-Entirely-Different-Browser-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Select "General."
 
 ![Select the &quot;General&quot; option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/Switch-to-an-Entirely-Different-Browser-3.png) 
@@ -258,24 +192,12 @@ Related: [9 Cybersecurity Tips to Stay Protected in 2023](https://extra-tips.tec
 
 ![Tap the &quot;Open web pages in the app&quot; option to deselect it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/Switch-to-an-Entirely-Different-Browser-4.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Don't Trust Incognito Mode
 
  Regardless of the browser you settle for, don't rely on [incognito mode](https://visual-screen-recording.techidaily.com/new-pinnacle-5-frame-timelapse-recorder-for-2024/) if you want to maintain a low profile online. That's because your ISP and public Wi-Fi providers might be able to see the websites you visit anyway. Even some ad trackers ([fingerprinting](https://twitter-videos.techidaily.com/updated-2024-approved-cyber-sensation-the-rise-of-videoviral-tweets/) you using a combination of your software, hardware, and IP address rather than cookies) can track you in incognito mode.
 
  If you want true anonymity, you're better off with the [Firefox-based Tor browser](https://extra-support.techidaily.com/2024-approved-social-streamline-merging-instagram-and-tiktok-worlds/) or, better still, settling with one of the [many trustworthy VPNs available](https://some-techniques.techidaily.com/updated-ffmpeg-audioscape-maintaining-original-audio-formats/). Both options run your queries through additional servers, concealing your identity and location from your ISP.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Limit Your Lock Screen Notifications
 
  Viewing messages and other alerts without unlocking your phone is one of life's conveniences. But the downside is that it can be revealing. If your device falls into the wrong hands, it could compromise sensitive information such as private messages and [two-factor codes](https://howto.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-zte-nubia-z60-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/). However, if you don't mind the slight inconvenience, you can [limit notifications and sensitive content from appearing on your lock screen](https://win-howtos.techidaily.com/1723210533900-nba-2k21s-viridian-flaw-unveiled-solutions-inside/) with a short trip to the Settings app.
@@ -285,11 +207,12 @@ Related: [How to Hide Sensitive Notifications on Your Android Lock Screen](https
  Visit your phone's lock screen notification settings within the Settings app---it could be under the lock screen, privacy, or even a standalone notification option depending on your device. From here, you can tweak the options so that only icons appear rather than full details, or turn off "Sensitive Notifications" if your device allows it. This will ensure that your private conversations stay that way.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Opt-Out of Google's Personalizations
 
  Technically, it's possible to use your Android phone without a Google account. But from lack of access to the Play Store to the inability to seamlessly sync data between your devices, this is hardly a feasible option---ask Huawei. Your Google account goes beyond just Android, though. It's your gateway to the numerous services Google offers, including email, calendar, photos, and productivity tools like Docs and Sheets. These services are mostly ubiquitous and free---although you do pay, in a way, with your data.
@@ -314,18 +237,6 @@ Related: [How to Hide Sensitive Notifications on Your Android Lock Screen](https
 
 ![Scroll down to &quot;History settings,&quot; and you'll find three options: &quot;Web &amp; App Activity,&quot; &quot;Location History,&quot; and &quot;YouTube History&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/Opt-Out-of-Googles-Personalizations-6.png) 
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Tap on any of them and toggle them off or refine how they use your data. Alternatively, you can use "Auto-Delete" to limit how long Google can keep your data (from three to 36 months). You can also use the "Manage activity" option to delete individual logs.
 
 ![Tap on any of the options to toggle them off, refine how they use your data, or set up auto-delete rules](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/Opt-Out-of-Googles-Personalizations-7.png) 
@@ -337,6 +248,13 @@ Related: [How to Hide Sensitive Notifications on Your Android Lock Screen](https
  With a single toggle, you can [prevent Google from using your personal information](https://android-location-track.techidaily.com/5-ways-to-track-nokia-c02-without-app-drfone-by-drfone-virtual-android/) to personalize the ads it serves you. Alternatively, you can leave it on and instead control the data points Google uses to tailor ads. These include information collected from your profile and online activity, such as age, gender, language, etc.
 
 ![Toggle off ad personalization or simply manage the data points Google uses to tailor the ads you see](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/Opt-Out-of-Googles-Personalizations-9.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -350,8 +268,6 @@ Related: [What Is GrapheneOS, and How Does It Make Android More Private?](https:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -359,4 +275,19 @@ Related: [What Is GrapheneOS, and How Does It Make Android More Private?](https:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-aspect-ratio-preferences-on-facebook-vids/"><u>[New] 2024 Approved Aspect Ratio Preferences on Facebook Vids</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-downloading-vimeo-media-direct-conversion-to-mp3-format/"><u>[Updated] Downloading Vimeo Media Direct Conversion to MP3 Format</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-lgs-ultra-hd-tech-27ud68-monitor-deep-dive/"><u>[Updated] Exploring LG's Ultra HD Tech 27UD68 Monitor Deep Dive</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-rapid-renders-of-powerpoint-plays-for-2024/"><u>[Updated] Rapid Renders of PowerPoint Plays for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-tecno-phantom-v-fold-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Tecno Phantom V Fold to iPhone | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-guide-updating-your-mp280-printers-driver-for-windows-11-8-and-7/"><u>Complete Guide: Updating Your MP280 Printer's Driver for Windows 11, 8 & 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-setup-for-your-linksys-ae1200-router-instant-access-to-the-newest-drivers/"><u>Effortless Setup for Your Linksys AE1200 Router - Instant Access to the Newest Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-color-laserjet-pro-m477-driver-software-quick-download-guide-for-easy-setup-and-use/"><u>HP Color LaserJet Pro M477 Driver Software – Quick Download Guide for Easy Setup and Use</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-a-new-chapter-for-recording-tech-dive-into-the-2023-apeaksoft-update/"><u>In 2024, A New Chapter for Recording Tech? Dive Into the 2023 Apeaksoft Update</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-11-techniques-for-spectacular-color-enhancement/"><u>In 2024, Top 11 Techniques for Spectacular Color Enhancement</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/overcome-csr8510-a10-graphics-card-drivers-challenges-in-windows-step-by-step-fixes/"><u>Overcome CSR8510 A10 Graphics Card Drivers Challenges in Windows: Step-by-Step Fixes</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-ultimate-explainer-leveraging-facebooks-transparency-toolkit/"><u>The Ultimate Explainer: Leveraging Facebook’s Transparency Toolkit</u></a></li>
+</ul></div>
 

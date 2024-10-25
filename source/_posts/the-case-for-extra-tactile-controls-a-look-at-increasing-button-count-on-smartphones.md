@@ -1,7 +1,7 @@
 ---
 title: "The Case for Extra Tactile Controls: A Look at Increasing Button Count on Smartphones"
-date: 2024-09-09T16:10:15.946Z
-updated: 2024-09-10T16:10:15.946Z
+date: 2024-10-21T17:04:02.709Z
+updated: 2024-10-25T09:02:42.175Z
 tags:
   - android
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a570e502a336cc42130adb602.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Case for Extra Tactile Controls: A Look at Increasing Button Count on Smartphones
 
 ### Quick Links
@@ -29,22 +23,17 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 
 Related: [You Can Still Use Wired Headphones Without a Headphone Jack](https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-from-apple-iphone-xr-by-drfone-ios/) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Where Did the Buttons Go?
 
 ![T-Mobile G1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/t-mobile-g1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 _[Mr.Mikla/Shutterstock.com](https://www.shutterstock.com/image-photo/february-28-2020-first-android-smartphone-1660018630)_
 
  Smartphones used to have a lot more moving parts. There were slide-out keyboards, swiveling displays, trackballs, and, of course, buttons. At one point, most Android devices had a whopping four navigational buttons.
@@ -61,6 +50,13 @@ Related: [How to Use an iPhone with a Broken Home Button](https://video-capture.
 
 ![iPhone SE power button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/iPhone-SE-2022s-power-button.jpg?width=1198&amp;trim=1,1&amp;bg-color=000&amp;pad=1,1) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Technically, you don't need any buttons on a modern smartphone. The iPhone and Android both have [gesture navigation](https://some-techniques.techidaily.com/in-2024-innovation-unveiled-the-complete-moto-z2-review/) and options for controlling volume and [power](https://some-knowledge.techidaily.com/in-2024-in-depth-audio-settings-in-windows-10/) with the touchscreen. However, they keep those physical buttons because they're more convenient than software.
 
  Why are we limited to convenience for power and volume? There are plenty of other things that I would love to have the ability to do with a button press. Thankfully, at least on Android, one of those is accomplished by [double-pressing the power button](https://sound-issues.techidaily.com/effective-techniques-to-restore-audio-functionality-in-conexant-smartaudio-hd-devices-compatible-with-windows/).
@@ -74,27 +70,23 @@ Related: [How to Use an iPhone with a Broken Home Button](https://video-capture.
 Related: [How to Restart a Phone Without the Power Button](https://some-knowledge.techidaily.com/in-2024-in-depth-audio-settings-in-windows-10/) 
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Can You Add Buttons to a Phone?
 
 ![Tap back for flashlight hero.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/tap-for-flashlight-hero.png?width=1198&amp;trim=1,1&amp;bg-color=000&amp;pad=1,1) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Sadly, the phone industry is moving away from buttons. It's more likely that we'll see a phone with fewer buttons than more. So what can you do if you want more buttons on your phone? There are some options.
 
  Let's start by adding more buttons than you already have. With the help of a clever little gadget, you can add up to four buttons to your NFC-enabled phone. That includes most iPhones with iOS 14 and newer, plus the majority of Android devices.
@@ -105,12 +97,6 @@ Related: [How to Restart a Phone Without the Power Button](https://some-knowledg
 
 ![dimpleio-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/dimpleio-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  Dimple.io
 
 Add up to four buttons to the back of your phone using the power of NFC.
@@ -133,8 +119,6 @@ Related: [How to Turn On the Flashlight by Tapping Your iPhone's Back](https://b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,4 +126,19 @@ Related: [How to Turn On the Flashlight by Tapping Your iPhone's Back](https://b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-comedy-gold-twitters-hottest-jokes/"><u>[New] Comedy Gold Twitter's Hottest Jokes</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-a-visual-journey-in-filmmaking-insights-from-filmora-expertise/"><u>[Updated] In 2024, A Visual Journey in Filmmaking Insights From Filmora Expertise</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beat-the-problem-conquering-miracast-unsupported-by-your-device/"><u>Beat the Problem: Conquering 'Miracast Unsupported by Your Device'</u></a></li>
+<li><a href="https://extra-information.techidaily.com/easy-to-follow-guide-for-crafting-dynamic-collages/"><u>Easy-to-Follow Guide for Crafting Dynamic Collages</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fixing-the-notorious-graphics-driver-glitches-expert-tips-and-tricks/"><u>Fixing the Notorious Graphics Driver Glitches – Expert Tips & Tricks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-updated-graphics-drivers-on-a-toshiba-satellite-with-windows-os/"><u>Installing Updated Graphics Drivers on a Toshiba Satellite with Windows OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-computer-builds-insider-tips-from-the-toms-hardware-team/"><u>Mastering Computer Builds: Insider Tips From the Tom's Hardware Team</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722970494230-mrsa-is-an-example-of-a-bacteria-that-has-developed-resistance-to-commonly-used-antibiotics-like-methicillin/"><u>MRSA Is an Example of a Bacteria that Has Developed Resistance to Commonly Used Antibiotics Like Methicillin</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/setting-up-an-online-presence-for-reviews-of-commercial-goods/"><u>Setting Up an Online Presence for Reviews of Commercial Goods</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-future-is-bold-with-amd-discover-the-power-packed-zen-5-chips-featuring-8315-billion-transistors-and-an-incredible-28-uptick-in-die-density/"><u>The Future Is Bold with AMD: Discover the Power-Packed Zen 5 Chips Featuring 8.315 Billion Transistors and an Incredible 28% Uptick in Die Density</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/trick-or-treatings-global-variants/"><u>Trick-or-Treating's Global Variants</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ultimate-guide-converting-and-viewing-dv-file-formats-on-windows-media-player/"><u>Ultimate Guide: Converting and Viewing DV File Formats on Windows Media Player</u></a></li>
+</ul></div>
 

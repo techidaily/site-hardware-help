@@ -1,7 +1,7 @@
 ---
 title: "1. Reviving the Past: Top 8 Vintage Phone Functions We Need Now"
-date: 2024-09-04T02:11:51.556Z
-updated: 2024-09-05T02:11:51.556Z
+date: 2024-10-18T03:04:57.525Z
+updated: 2024-10-25T01:15:50.137Z
 tags:
   - android
 categories:
@@ -44,9 +44,23 @@ Justin Duino / How-To Geek
 
  Since manufacturers can technically make replaceable batteries while maintaining a decent IP resistance rating, perhaps they just need some _motivation_. Thankfully, the EU has proposed a new law that will [force smartphone manufacturers to make user-removable batteries by 2027](https://youtube-clips.techidaily.com/the-experts-guide-to-360-video-conversion-and-youtube-sharing/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Front-Facing Speakers
 
 ![USB-C port, speaker grill, and lack of hinge gap on the Samsung Galaxy Z Fold 5](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/usb-c-port-speaker-grill-and-lack-of-hinge-gap-on-the-samsung-galaxy-z-fold-5.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -56,12 +70,6 @@ Justin Duino / How-To Geek
 
  Manufacturers have ditched front-facing speakers in favor of larger edge-to-edge displays, but I'm not sure if it was a sacrifice worth making. Thankfully, gaming smartphones decided to bring back front-facing speakers. The best example is the [ASUS ROG Phone 6D](https://www.amazon.com/ASUS-Phone-256GB-Factory-Unlocked/dp/B0BPDS5MM9?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001436&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fold-smartphone-features-that-should-be-brought-back%2F&asc%5Fcampaign=Evergreen), which packs impressively loud stereo front-facing speakers in a slim package.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Notification LED
 
  A notification LED is a small LED on the front or back of your phone that lets you know you have a notification. Most phones with notification LEDs allowed you to select different colors based on the app or notification type. You could have green for missed calls, blue for messages, purple for Instagram, and so on.
@@ -71,21 +79,16 @@ Justin Duino / How-To Geek
  You could argue that notification LEDs are making a bit of a comeback as well. The aforementioned Nothing Phone (2) has the Glyph system on the back that can notify you of missed messages. If you find that too distracting, the [Poco F4 GT](https://www.amazon.com/Factory-Unlocked-Verizon-Cricket-Charger/dp/B09W2WXG3F?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001436&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fold-smartphone-features-that-should-be-brought-back%2F&asc%5Fcampaign=Evergreen) integrates a subtle notification LED around the back camera.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Headphone Jack
 
 ![Pixel 4a 5G rear camera module.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/52263d17.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
  The universal headphone (3.5mm) jack is a feature audiophiles miss the most. Android phones started removing the headphone jack largely after Apple ditched it in 2016 with the release of the iPhone 7\. They did it to free up space in their phones for internal components and better water resistance. Many users opposed this change for several reasons.
@@ -98,28 +101,17 @@ Justin Duino / How-To Geek
 
  IR blasters are a rare smartphone feature nowadays. This is likely because few people used them, and we now have smart TVs that can be controlled through proprietary apps and voice commands. Still, IR blasters are a convenient and dearly missed feature, especially for frequent travelers who like watching TV in their hotel rooms.
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  More Physical Buttons
 
 ![Pixel phone power and volume buttons.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/pixel-power-volume-buttons.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Justin Duino / How-To Geek
 
 [Smartphones need more customizable physical buttons](https://facebook-record-videos.techidaily.com/updated-in-2024-beam-your-content-upward-perfecting-youtube-seo-techniques/), period. Physical home buttons, various action buttons, notification sliders, and squeezable sides (like on the [Pixel 2](https://some-approaches.techidaily.com/the-secrets-of-writing-impressive-podcast-summaries-for-2024/)) were phased out in favor of sleeker designs.
@@ -128,18 +120,6 @@ Justin Duino / How-To Geek
 
  The notification slider is a particularly sore loss. It was an easy way to switch off your notifications or set them to [Do Not Disturb (DND) mode](https://instagram-video-recordings.techidaily.com/updated-how-to-edit-vertical-videos-for-instagram-in-final-cut-pro-x-in-2024/), making it much easier to turn off all sounds before an important meeting.
 
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  MicroSD Card Slot
 
  Expandable storage in the form of MicroSD cards still exists on some phones, but it's becoming increasingly rare. While MicroSDs are finicky and slower than integrated storage, they offer a cheap solution to add more storage.
@@ -156,8 +136,6 @@ Justin Duino / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +143,24 @@ Justin Duino / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-make-an-impression-with-youtube-clips-step-by-step-into-the-world-of-gif-making/"><u>[New] Make an Impression With YouTube Clips Step-by-Step Into the World of Gif Making</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-the-dual-lens-approach-gaining-audience-insight-with-3-pov-strategies-for-youtube-reactions/"><u>[Updated] In 2024, The Dual Lens Approach Gaining Audience Insight with 3 POV Strategies for YouTube Reactions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fresh-release-compatible-hp-scanner-driver-download-for-windows-computers/"><u>Fresh Release: Compatible HP Scanner Driver Download for Windows Computers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-ahead-of-intel-optimize-for-the-upcoming-arrow-lake-processors-with-arctic-freezer-36-coolers/"><u>Get Ahead of Intel: Optimize for the Upcoming Arrow Lake Processors with Arctic Freezer 36 Coolers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-version-canoscan-lide-220-scanner-drivers-downloaded/"><u>Get the Newest Version: CanoScan LiDE 220 Scanner Drivers Downloaded</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/getting-to-grips-with-intel-thermal-management-solving-the-dptf-driver-hitch/"><u>Getting to Grips with Intel Thermal Management: Solving the DPTF Driver Hitch</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-ensure-your-hp-printer-is-ready-for-windows-11-with-latest-driver-downloads/"><u>How to Ensure Your HP Printer Is Ready for Windows 11 with Latest Driver Downloads</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-poco-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Poco Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-secure-asrock-ab350-pro4-driver-updates-for-windows-without-spending-a-penny/"><u>How to Secure ASRock AB350 Pro4 Driver Updates for Windows Without Spending a Penny</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hyperx-cloud-alpha-s-mic-not-working-solved/"><u>HyperX Cloud Alpha S Mic Not Working [SOLVED]</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722966138872-intel-thunderbolt-interface-drivers-smooth-and-easy-setup-for-free/"><u>Intel Thunderbolt Interface Drivers - Smooth & Easy Setup for Free</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intels-latest-chips-hit-with-return-wave-customer-refund-claims-skyrocket-4x-over-previous-generation-surpassing-amd-rma-statistics/"><u>Intel's Latest Chips Hit with Return Wave: Customer Refund Claims Skyrocket 4X Over Previous Generation, Surpassing AMD RMA Statistics</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-version-of-m-audio-fast-track-drivers-for-windows-download-now-windows-11-7-8-and-81/"><u>Latest Version of M-Audio Fast Track Drivers for Windows: Download Now (Windows 11, 7, 8 & 8.1)</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-reentry-guide-regaining-access-on-omegle-after-a-ban/"><u>New Reentry Guide Regaining Access on Omegle After a Ban</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-instructions-to-get-your-samsung-960-evo-ssd-running-on-windows/"><u>Step-by-Step Instructions to Get Your Samsung 960 EVO SSD Running on Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723262417424-unleash-top-performance-and-durability-with-the-cybertruck-styled-amd-ryzen-7-powered-xyber-xpc-mini-pc-no-need-to-clean-off-pests-or-debris/"><u>Unleash Top Performance and Durability with The Cybertruck Styled AMD Ryzen 7 Powered Xyber XPC Mini PC - No Need to Clean Off Pests or Debris!</u></a></li>
+<li><a href="https://fox-within.techidaily.com/podrobnyj-gid-kak-nastroit-ezhenedelnoe-rezervnoe-kopirovanie-v-windows-server/"><u>Подробный Гид: Как Настроить Еженедельное Резервное Копирование В Windows Server</u></a></li>
+</ul></div>
 

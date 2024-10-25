@@ -1,0 +1,147 @@
+---
+title: Transform Your Laptop with a Device That Enables Two Stunning 4K Displays - Incredible Compatibility Feature Revealed
+date: 2024-10-22T17:41:56.272Z
+updated: 2024-10-25T00:39:54.639Z
+tags:
+  - laptops
+categories:
+  - tech
+thumbnail: https://thmb.techidaily.com/9a1d2889cbe4ad14880fa77a388cff944d010380f4cf0a1f83bd01829ce96a1e.jpg
+---
+
+## Transform Your Laptop with a Device That Enables Two Stunning 4K Displays - Incredible Compatibility Feature Revealed
+
+![Plugable USB-C Dual HDMI adapter](https://www.zdnet.com/a/img/resize/9e667677135141a2ffa68d331d1916f59bd7279d/2024/03/22/c9fcbd65-1f59-44f7-9357-10c12f29c924/img-8893.jpg?auto=webp&width=1280)
+
+Plugable USB-C Dual HDMI adapter
+
+Adrian Kingsley-Hughes/ZDNET
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+### ZDNET's key takeaways
+
+* The Plugable USB-C Dual HDMI adapter is available on [Amazon for $90](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPlugable-DisplayLink-Multiple-Thunderbolt-USBC-6950M%2Fdp%2FB0CS8D3KF2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cdb492a6c-6547-4006-a9a9-c6c6133d5799%7Cdtp&dtb=1).
+* It's small, portable dual-HDMI adapter that supports dual 4K 60Hz displays from a single Thunderbolt, USB4, or USB-C port, compatible with macOS 11+, Windows 10+, and ChromeOS 100+ systems.
+* This adapter requires drivers to be installed to make use of DisplayLink, and it does not support High-bandwidth Digital Content Protection (HDCP) digital rights management.
+
+---
+
+There's nothing like attaching a couple of extra displays to a laptop to boost productivity. Sure, it isn't mobile anymore, but you gain the ability to transform your device into a powerful, versatile desktop setup.
+
+The problem is, that not all laptops natively support dual displays, not even quite powerful, high-end systems such as the base M1, M2, and M3-powered Macs. These MacBooks only support a single external monitor.
+
+**Also: [I love everything about this budget Android tablet (especially the price)](https://www.zdnet.com/article/i-love-everything-about-this-budget-android-tablet-especially-the-price/)**
+
+So, what can you do?
+
+A simple solution is to use a USB-C to dual-HDMI dongle, such as the [Plugable USB-C Dual HDMI adapter](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPlugable-DisplayLink-Multiple-Thunderbolt-USBC-6950M%2Fdp%2FB0CS8D3KF2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cdb492a6c-6547-4006-a9a9-c6c6133d5799%7Cdtp&dtb=1). 
+
+[ZDNET RECOMMENDS Plugable USB-C Dual HDMI adapter Some laptops only support a single external display, but this HDMI dual monitor adapter makes use of a DL-6950 chipset and DisplayLink drivers to bypass these limitations. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPlugable-DisplayLink-Multiple-Thunderbolt-USBC-6950M%2Fdp%2FB0CS8D3KF2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cdb492a6c-6547-4006-a9a9-c6c6133d5799%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Plugable USB-C Dual HDMI adapter tech specs
+
+* **Connection to host**: USB-C, Thunderbolt, or USB4
+* **OS compatibility**: macOS, Windows, and ChromeOS
+* **Number of displays supported**: 2
+* **Ports**: 2 x HDMI
+* **Max resolution**: 3840x2160 @ 60Hz
+* **Driver installation required**: Yes
+* **HDCP support**: No
+
+#### Newsletters
+
+ZDNET Recommends
+
+ZDNET saves you time and money by delivering the best products and tech deals to your inbox every week.
+
+ Subscribe
+
+[See all](https://www.zdnet.com/newsletters/)
+
+Laptops were supposed to free us from the shackles of a desk and big displays. But as the power of portable systems has increased exponentially over the years, a laptop can now rival the power of a desktop, so it makes sense to have a single system for the office and for when you're on the move. The only drawback is the display -- there's nothing like sitting in front of a couple of 4K displays to boost productivity.
+
+Plugable USB-C Dual HDMI adapter
+
+Adrian Kingsley-Hughes/ZDNET
+
+This is exactly what the Plugable USB-C Dual HDMI adapter offers, and it works even on systems that don't natively support dual displays. Plug it into a USB-C, Thunderbolt, or USB4 port, install the relevant DisplayLink drivers (a process that's automatic on Windows systems, [Mac users will have to go find them](https://plugable.com/products/usbc-6950m)), and you're done.
+
+It's really that simple. 
+
+**Also: [This thermal camera gives your iPhone a cool superpower](https://www.zdnet.com/article/this-thermal-camera-gives-your-iphone-a-cool-superpower-and-its-60-off-right-now/)**
+
+While the target market for this adapter includes owners of Macs with the base M1, M2, or M3 chips -- processors that don't natively support dual displays -- it also works on Windows and ChromeOS systems. 
+
+I've tested this adapter with dual 4K displays attached, and it works reliably on both macOS and Windows -- the sort of reliability that I'd expect from a Plugable device.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## ZDNET's buying advice
+
+Not everyone needs dual 4K displays connected to their laptop, but if you're among those who do, the [Plugable USB-C Dual HDMI adapter](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPlugable-DisplayLink-Multiple-Thunderbolt-USBC-6950M%2Fdp%2FB0CS8D3KF2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cdb492a6c-6547-4006-a9a9-c6c6133d5799%7Cdtp&dtb=1) is a great buy if you find yourself with a system that doesn't support two displays. At $90, it's not cheap, but it is a solid, reliable solution that works well.
+
+#### Featured reviews
+
+[3 features in Apple's new AirPods 4 that made me ditch my AirPods Pros](https://www.zdnet.com/article/3-features-in-apples-new-airpods-4-that-made-me-ditch-my-airpods-pros/ "3 features in Apple's new AirPods 4 that made me ditch my AirPods Pros")
+
+[Why I'm recommending the standard iPhone 16 over the Pro this year (and I'm not alone)](https://www.zdnet.com/article/why-im-recommending-the-standard-iphone-16-over-the-pro-this-year-and-im-not-alone/ "Why I'm recommending the standard iPhone 16 over the Pro this year (and I'm not alone)")
+
+[The Windows laptop I recommend to most people undercuts the MacBook Air (but is just as capable)](https://www.zdnet.com/article/the-windows-laptop-i-recommend-to-most-people-undercuts-the-macbook-air-but-is-just-as-capable/ "The Windows laptop I recommend to most people undercuts the MacBook Air (but is just as capable)")
+
+[One of the best pool-cleaning robots I've tested proved its worth in the most extreme conditions](https://www.zdnet.com/article/one-of-the-best-pool-cleaning-robots-ive-tested-proved-its-worth-in-the-most-extreme-conditions/ "One of the best pool-cleaning robots I've tested proved its worth in the most extreme conditions")
+
+* [3 features in Apple's new AirPods 4 that made me ditch my AirPods Pros](https://www.zdnet.com/article/3-features-in-apples-new-airpods-4-that-made-me-ditch-my-airpods-pros/ "3 features in Apple's new AirPods 4 that made me ditch my AirPods Pros")
+* [Why I'm recommending the standard iPhone 16 over the Pro this year (and I'm not alone)](https://www.zdnet.com/article/why-im-recommending-the-standard-iphone-16-over-the-pro-this-year-and-im-not-alone/ "Why I'm recommending the standard iPhone 16 over the Pro this year (and I'm not alone)")
+* [The Windows laptop I recommend to most people undercuts the MacBook Air (but is just as capable)](https://www.zdnet.com/article/the-windows-laptop-i-recommend-to-most-people-undercuts-the-macbook-air-but-is-just-as-capable/ "The Windows laptop I recommend to most people undercuts the MacBook Air (but is just as capable)")
+* [One of the best pool-cleaning robots I've tested proved its worth in the most extreme conditions](https://www.zdnet.com/article/one-of-the-best-pool-cleaning-robots-ive-tested-proved-its-worth-in-the-most-extreme-conditions/ "One of the best pool-cleaning robots I've tested proved its worth in the most extreme conditions")
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-easy-to-use-onboard-shake-reduction-gadget/"><u>[New] In 2024, Easy-to-Use Onboard Shake Reduction Gadget</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-the-key-to-stellar-zoom-calls-smart-use-of-filters/"><u>[New] In 2024, The Key to Stellar Zoom Calls Smart Use of Filters</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-conveniently-enjoy-nba-games-top-15-streaming-methods/"><u>[Updated] Conveniently Enjoy NBA Games - Top 15 Streaming Methods</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-broadcast-iptv-across-platforms/"><u>2024 Approved Broadcast IPTV Across Platforms</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-the-features-of-the-logitech-g515-an-in-depth-look-at-its-low-profile-and-economical-pricing/"><u>Exploring the Features of the Logitech G515: An In-Depth Look at Its Low Profile and Economical Pricing</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>How to Fake Snapchat Location without Jailbreak On Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-twisting-tales-in-visual-storytelling-mastering-the-art-of-rotating-photos-for-maximum-engagement-on-social-media-platforms/"><u>In 2024, Twisting Tales in Visual Storytelling Mastering the Art of Rotating Photos for Maximum Engagement on Social Media Platforms</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-hardware-reviews-by-toms-technology-experts/"><u>In-Depth Hardware Reviews by Tom's Technology Experts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-reviews-and-comprehensive-guides-by-toms-technology-hub/"><u>In-Depth Reviews & Comprehensive Guides by Tom's Technology Hub</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723964488050-pre-order-now-the-revolutionary-8bitdo-retro-18-keyboard-available-models-for-nesfamicom-and-more-coming-this-july/"><u>Pre-Order Now: The Revolutionary 8BitDo Retro 18 Keyboard - Available Models for NES/Famicom & More Coming This July!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723964488790-super-affordable-logitech-g502-hero-gaming-mouse-unleash-precision-with-25k-dpi-for-just-35/"><u>Super Affordable Logitech G502 Hero Gaming Mouse: Unleash Precision with 25K DPI for Just $35</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-comprehensive-guides-on-computer-hardware/"><u>Tom's Tech Insights: Comprehensive Guides on Computer Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-in-depth-insights-from-the-world-of-computer-hardware/"><u>Tom's Tech: In-Depth Insights From the World of Computer Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-bluetooth-keyboards-of-2024-a-buyers-guide/"><u>Top-Rated Bluetooth Keyboards of 2024: A Buyer's Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-creativity-incorinasive-use-of-luts-in-video-editing-for-2024/"><u>Unlocking Creativity Incorinasive Use of LUTs in Video Editing for 2024</u></a></li>
+</ul></div>
+

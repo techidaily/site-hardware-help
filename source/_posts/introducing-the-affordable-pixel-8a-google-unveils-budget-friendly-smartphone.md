@@ -1,7 +1,7 @@
 ---
 title: "Introducing the Affordable Pixel 8A: Google Unveils Budget-Friendly Smartphone"
-date: 2024-09-09T16:13:49.227Z
-updated: 2024-09-10T16:13:49.227Z
+date: 2024-10-18T07:08:45.798Z
+updated: 2024-10-25T03:19:14.095Z
 tags:
   - android
 categories:
@@ -9,18 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/f68ad44dfce4596bff961c8c73128e503881dbfbd95e5f1787a78426eec3f375.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Introducing the Affordable Pixel 8A: Google Unveils Budget-Friendly Smartphone
 
 Google's Pixel phones still don't sell all that well, but they are popular with people looking for a solid Android smartphone without the sometimes-overwhelming software features on Samsung Galaxy devices. The Pixel 8 arrived last year, and now Google has revealed the Pixel 8a as a budget-friendly alternative.
@@ -31,18 +19,6 @@ Google's Pixel phones still don't sell all that well, but they are popular with 
 
 ![Pixel 8a_Porcelain 1 copy](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pixel-8a_porcelain-1-copy.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Google
 
  The most important difference between the Pixel 8 and the new Pixel 8a is the camera. Instead of the excellent 50MP sensor packed in both the Pixel 8 and the Pixel 8 Pro, we're getting a lower-range (but still good thanks to Google's post-processing magic) 64MP sensor with a 0.8 μm pixel width and a ƒ/1.89 aperture. The secondary sensor is a 13 MP ultrawide with a 120° field of view. The battery is also slightly smaller, at 4,492 mAh compared to the 4,575 mAh in the Pixel 8, and it also charges a bit slower, with 18W charging rather than 27W. You get 8GB of RAM, the exact same amount as the Pixel 8, as well as up to 256GB of storage and Android 14 out of the box, with the same 7 year update promise that comes attached with the Pixel 8 series.
@@ -57,8 +33,6 @@ Google
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -66,4 +40,33 @@ Google
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-amazing.techidaily.com/download-acer-touchpad-driver-windows-11/"><u>[Download] Acer Touchpad Driver Windows 11</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-echovideo-capture-toolkit-for-fb/"><u>[New] 2024 Approved EchoVideo Capture Toolkit for FB</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-collaborative-video-creation-and-growth-tips-for-2024/"><u>[New] Collaborative Video Creation & Growth Tips for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-the-art-of-finding-classic-facebook-content/"><u>[Updated] 2024 Approved The Art of Finding Classic Facebook Content</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-high-fidelity-window-listening-the-ultimate-list-of-the-best-8-podcasts-8/"><u>[Updated] High Fidelity Window Listening The Ultimate List of the Best 8 Podcasts (#8)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-showdown-deciding-between-claude-and-chatgpt-for-your-routine-use/"><u>AI Showdown: Deciding Between Claude & ChatGPT for Your Routine Use</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-guide-to-downloading-and-updating-your-thinkpad-t420s-drivers-for-windows-11-systems/"><u>Easy Guide to Downloading and Updating Your ThinkPad T420s Drivers for Windows 11 Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-steps-for-downloading-your-logitech-g4nce-gaming-mouse-driver/"><u>Easy Steps for Downloading Your Logitech G4nce Gaming Mouse Driver</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-upgrading-of-lenovo-x240s-software-drivers-easy-guide/"><u>Effortless Upgrading of Lenovo X240's Software Drivers - Easy Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/enhanced-gameplay-experience-resolving-freezing-and-fps-issues-in-battlefield-2042-on-desktop-computers/"><u>Enhanced Gameplay Experience: Resolving Freezing & FPS Issues in Battlefield 2042 on Desktop Computers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-and-techniques-to-resolve-borderlands-ls0013-error/"><u>Expert Tips and Techniques to Resolve Borderlands #Ls0013 Error.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-amd-radeon-drivers-for-your-windows-pc/"><u>Get the Latest AMD Radeon Drivers for Your Windows PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-msi-b350-toms-tomahawk-drivers-compatible-with-windows-11-and-7-systems/"><u>Get the Latest MSI B350 TOM'S TOMAHAWK Drivers Compatible with Windows 11 and 7 Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-laserjet-p1606dn-driver-download-and-update-for-windows/"><u>HP LaserJet P1606dn Driver Download & Update for Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-z440-workstation-driver-download-and-update/"><u>HP Z440 Workstation Driver Download & Update</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/improve-your-acer-devices-tracking-accuracy-download-new-touchpad-drivers-for-windows-10-now/"><u>Improve Your Acer Device's Tracking Accuracy: Download New Touchpad Drivers for Windows 10 Now</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-bridge-iphone-android-and-pc-timelines-for-syncing-zoom/"><u>In 2024, Bridge iPhone, Android, and PC Timelines for Syncing Zoom</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-cut-down-clutter-how-to-efficiently-handle-unwanted-youtube-content-pcmobile/"><u>In 2024, Cut Down Clutter How to Efficiently Handle Unwanted YouTube Content (PC/Mobile)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-driver-packs-for-focusrite-scarlett-18i20-free-windows-compatible-software-downloads-here/"><u>Latest Driver Packs for Focusrite Scarlett 18I20 - Free Windows Compatible Software Downloads Here</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

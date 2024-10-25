@@ -1,7 +1,7 @@
 ---
 title: "The Heat of Tech: Understanding Why High-Performance Phones Stay Cool, Unlike PCs"
-date: 2024-09-09T16:14:12.456Z
-updated: 2024-09-10T16:14:12.456Z
+date: 2024-10-22T18:15:17.604Z
+updated: 2024-10-24T17:56:46.854Z
 tags:
   - android
 categories:
@@ -9,18 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2f06afb7d0554f6c0b97c22b.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Heat of Tech: Understanding Why High-Performance Phones Stay Cool, Unlike PCs
 
 ### Quick Links
@@ -32,6 +20,13 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
 * [​Smartphones Use Passive Cooling](https://instagram-video-recordings.techidaily.com/new-2024-approved-storystitcher-compelling-collage-for-instagram-users/)
 * [​More Alternatives to Fans Are In Development](https://some-knowledge.techidaily.com/new-from-basics-to-brilliance-fullscreen-proficiency-in-premiere/)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Fans are not a good fit for smartphones due to their fragility, the lack of space, and how much phones get jostled.
@@ -40,12 +35,6 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
 
  Mobile phones grow more powerful every year. A premium phone is far more powerful than a midrange PC and even has stronger graphics processing than an ultrabook with Intel-integrated graphics. Yet despite all that power, have you ever noticed how your phone lacks a fan? Why is that?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Moving Parts Need More Space and Can Break
 
  Phone makers have spent years making their devices as thin as possible, and these handsets would not be just a few millimeters thick if they had to account for fans. Fans are bulky, and they need space to move. They also break pretty quickly if put under abuse.
@@ -59,11 +48,18 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
  Now imagine carrying a smaller version of your laptop in your pocket. If it didn’t get hot enough to immediately attract your attention, it would probably just shut down at some point. Battery life will surely take a hit. A purse is better, but probably not by much. After all, a laptop gets along well-enough with a messenger bag only because it’s either off or very nearly so.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  ​Mobile CPUs Use Less Power and Create Less Heat
 
 ![Snapdragon 8 Gen 3 Hero](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/snapdragon-8-gen-3-hero.jpg) 
@@ -78,12 +74,6 @@ Qualcomm
 
  How do phone CPUs manage to be both powerful and efficient? If you want to get into the tehnical weeds, check out this report from [Cadence PCB Designs](https://resources.pcb.cadence.com/blog/3-thermal-management-approaches-for-your-smartphone-2). Methods include temperature aware scheduling (slowing down hot processors in favor of cool ones), traffic throttling (directing network traffic through the chip in a way that avoids hotspots), and clock gating (stopping processor logic for a few microseconds at a time). But that's just scratching the surface.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  ​Mobile Apps Generate Less Heat, to Reduce Need for Cooling
 
  Software may seem not to occupy physical space, but it does, in the form of energy. Demanding software has higher energy requirements. So does poorly-written code. If an app pings the network incessantly, constantly requiring background processes to wake up from sleep, then it’s causing your device to use more energy.
@@ -91,21 +81,23 @@ Qualcomm
  I don’t think it’s offending anyone to say that not all mobile apps are brilliantly written pieces of code. Yet when you’re making a mobile app, an impact on battery life is a factor you're encouraged to care about. If running an app causes a phone to need to charge more often, you’ll hear about it from your users. Energy usage translates to heat. By keeping apps energy efficient, developers reduce the need for active cooling.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  ​Smartphones Use Passive Cooling
 
 ![A close-up image of an aluminum heatsink mounted on a motherboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/shutterstock_1704910018.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 [Kusalodom/Shutterstock](https://www.shutterstock.com/image-photo/aluminum-heatsink-on-electronics-circuit-board-1704910018)
 
  Fans are a form of active cooling. [Smartphones rely on passive cooling](https://facebook-video-footage.techidaily.com/updated-from-zero-to-hero-your-first-time-streaming-to-youtube/), the exchange of heat using only the conductivity difference between materials without any help from mechanical components. In simpler terms, things can cool off without anything needing to move. Running the AC to cool down your home is active cooling. Leaving a window open is passive cooling. Phones generally use metal plates between electrical components and the design of their outer bodies to dissipate heat.
@@ -130,8 +122,6 @@ Qualcomm
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,4 +129,20 @@ Qualcomm
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/updated-exclusive-guide-best-8-cameras-for-dynamic-livestreams-for-2024/"><u>[Updated] Exclusive Guide Best 8 Cameras for Dynamic Livestreams for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-bite-sized-video-lessons-clearly/"><u>[Updated] In 2024, Bite-Sized Video Lessons, Clearly</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-framing-photos-and-videos-playing-with-text-deformation/"><u>2024 Approved Framing Photos & Videos Playing With Text Deformation</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-ultimate-guide-to-installing-a-validity-fingerprint-sensor-fast-and-simple-steps/"><u>Download the Ultimate Guide to Installing a Validity Fingerprint Sensor - Fast and Simple Steps</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/elevate-site-performance-using-cookiebot-solutions/"><u>Elevate Site Performance Using Cookiebot Solutions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/essential-screen-capture-techniques-for-powerpoint-presentations-for-2024/"><u>Essential Screen Capture Techniques for PowerPoint Presentations for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fixing-compatibility-issues-with-intel-hd-graphics-nvidia-on-your-windows-pc-solved/"><u>Fixing Compatibility Issues with Intel HD Graphics nVIDIA on Your Windows PC – Solved</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-canon-pixma-mx922-windows-driver-updates/"><u>Get the Newest Canon PIXMA MX922 Windows Driver Updates</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-and-update-brother-mfc-l2740dw-windows-drivers-for-free/"><u>How to Get and Update Brother MFC-L2740DW Windows Drivers for Free</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-mastering-screen-recordings-in-gotomeeting/"><u>In 2024, Mastering Screen Recordings in GoToMeeting</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-corsair-k5nk55-driver-updates-for-enhanced-performance/"><u>Latest Corsair K5n/K55 Driver Updates for Enhanced Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-nvidia-mx150-graphics-card-driver-updates-and-downloads-for-windows-users/"><u>Latest Nvidia MX150 Graphics Card Driver Updates and Downloads for Windows Users</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/utting-edge-gaming-earpieces-for-youtubers-for-2024/"><u>The Cutting-Edge Gaming Earpieces for YouTubers for 2024</u></a></li>
+</ul></div>
 

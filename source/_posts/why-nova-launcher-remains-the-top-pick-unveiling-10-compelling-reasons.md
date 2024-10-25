@@ -1,7 +1,7 @@
 ---
 title: "Why Nova Launcher Remains the Top Pick: Unveiling 10 Compelling Reasons"
-date: 2024-09-04T02:12:49.220Z
-updated: 2024-09-05T02:12:49.220Z
+date: 2024-10-21T18:55:13.292Z
+updated: 2024-10-25T08:49:39.422Z
 tags:
   - android
 categories:
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/fc45e4935b2783be1c5dc416a8cddc7dff02a0dd6
 
  Third-party launchers (or “home” apps) like Nova Launcher were almost required in the past. That has changed, but there remains awesome functionality tucked away in Nova Launcher that makes it still worth replacing your phone’s default.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Hide Apps
 
 ![The popup that appears when you long-press an icon, showing the option to hide the app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/nova-launcher-app-drawer-hide-app.png) 
@@ -38,36 +45,12 @@ Close
 
  With Nova Launcher, this feature is enabled by default. Just hold down on an app icon, whether on your home screen or in the app drawer, and select the “Hide” icon (eye crossed out). You can still find the app by using Nova's built-in search.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Create Multiple Docks
 
 ![A window enabling you to add additional dock pages in Nova Launcher](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/nova-launcher-dock-pages.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A set of icons on a dock in Nova Launcher](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/nova-launcher-dock-icons.png) 
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Another set of dock icons in Nova Launcher](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/nova-launcher-second-dock-icons.png) 
 
 Close 
@@ -80,43 +63,33 @@ Close
 
 ![Nova Launcher settings for configuring the app drawer](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/nova-launcher-app-drawer-settings.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Scrolling the Nova Launcher app drawer horizontally](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/nova-launcher-horizontal-app-drawer.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Close 
 
  If you’ve grown rather accustomed to the way the app drawer on Samsung devices is divided into horizontal pages, you may not like the stock Android’s scrollable vertical list. Or if you’ve [switched from a Pixel to a Galaxy phone](https://youtube-webster.techidaily.com/nlocking-the-secrets-to-earnings-on-youtube-shorts-for-2024/), the opposite may be true.
 
  Nova Launcher lets you stick with the style that works for you. Go to Nova Settings > App Drawer > App Drawer Style. Swap between vertical or horizontal, or if you want to try something completely different, check out “list,” which arranges your apps similar to the list view in a file manager.
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Tabs in the App Drawer
 
 ![Apps within a tab ground in Nova Launcher](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/nova-launcher-tab-groups-apps.png) 
 
 ![Games within a tab group in Nova Launcher](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/nova-launcher-tab-groups-games.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close 
 
@@ -130,50 +103,14 @@ Close
 
 ![Nova Launcher settings for changing the shape and other aspects of an app folder](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/nova-launcher-app-folder-settings.png) 
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Nova Launcher settings for tweaking how an app folder opens](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/nova-launcher-app-folder-display-options.png) 
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close 
 
  Okay, so there are actually [plenty of reasons to use home screen folders](https://facebook.techidaily.com/masterful-search-navigate-to-facebook-group-and-profile-links/), but that doesn’t mean you’re happy with the way Android folders look out of the box. Nova Launcher lets you customize them to suit your fancy.
 
  Change the shape of the folders in your drawer. Decide whether they open a small window or take up most of the screen. Change the color and transparency. Have fun with it. Just go to Nova Settings > Folders to see what you can play around with.
 
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Gestures for Anything and Everything
 
 ![The list of gestures you can change in Nova Launcher](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/nova-launcher-gestures.png) 
@@ -188,19 +125,34 @@ Close
 
  You can configure gestures by going to Nova Settings > Gestures & Inputs.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Use Icon Themes
 
 ![A dock in Nova Launcher with custom icons](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/nova-launcher-custom-icons.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The app drawer in Nova Launcher with custom icons](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/nova-launcher-app-drawer-custom-icons.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024326/7443" target="_top" id="2024326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Changing an individual app's icon in Nova Launcher](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/nova-launcher-change-icon.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close 
 
@@ -214,21 +166,29 @@ Close
 
 ![Nova Launcher displaying its available app animations](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/nova-launcher-app-animation.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close 
 
  You may not pay much attention to app animations. Android developers have put a good deal of effort into making them fluid, non-distracting parts of the experience. Yet, if you want to give your phone its own distinct flair, swapping out the animations can have just as much impact as changing the icons.
 
  Head to Nova Settings > Look & Feel> App Animations. There, you can pick from several different animations that play whenever you launch an app or return to the home screen.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Hide the Notification Bar
 
 ![Nova Launcher hiding the notification bar](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/nova-launcher-hide-notification-bar.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close 
 
@@ -236,12 +196,6 @@ Close
 
  There are plenty of reasons for this. Maybe you find it looks nicer. Maybe you want to reduce distractions when switching apps. Whatever the reason, you can tuck away the notification bar by going to Nova Settings > Look & Feel > Show Notification Bar. Don’t worry; the notification bar will still appear as soon as you open an app.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Sesame Search Integration
 
 ![Searching for 'Super Mario' using Nova Launcher with Sesame Search integration](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/nova-launcher-search.png) 
@@ -250,12 +204,6 @@ Close
 
 ![Sesame Search displaying supported apps and recent results](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/sesame-search.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close 
 
  Most Android phones come with a Google search bar somewhere on the home screen. Nova Launcher gives you an alternative that’s capable of doing more. By integrating with [Sesame Search](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2001686/https://play.google.com/store/apps/details?id=ninja.sesame.app.edge), a third-party app that lets you search within certain apps without having to open them, you can perform even more functions directly from your launcher.
@@ -281,8 +229,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -290,4 +236,23 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-how-to-archive-your-favorite-movies-mac-screenshots-for-netflix/"><u>[New] 2024 Approved How to Archive Your Favorite Movies Mac Screenshots for Netflix</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-filmmakers-speedy-setup-secrets-for-diy-projects/"><u>[New] Expert Filmmaker's Speedy Setup Secrets for DIY Projects</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-the-experts-roadmap-to-bulk-downloading-on-tiktok-platform/"><u>[New] In 2024, The Expert's Roadmap to Bulk Downloading on TikTok Platform</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/chinas-bargain-bin-of-virtual-reality-gear/"><u>China's Bargain Bin of Virtual Reality Gear</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-of-jabra-talk-45-clarity-and-battery-stamina/"><u>Comprehensive Review of Jabra Talk 45: Clarity and Battery Stamina</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabled-apple-iphone-6-plus-how-to-unlock-a-disabled-apple-iphone-6-plus-drfone-by-drfone-ios/"><u>Disabled Apple iPhone 6 Plus How to Unlock a Disabled Apple iPhone 6 Plus? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-latest-hewlett-packard-network-adapter-drivers-for-win10win8win7/"><u>Download the Latest Hewlett-Packard Network Adapter Drivers for Win10/Win8/Win7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975006440-download-the-latest-hp-deskjet-ink-advantage-3050a-driver-software-for-windows-no-cost/"><u>Download the Latest HP Deskjet Ink Advantage 3050A Driver Software for Windows - No Cost</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-most-out-of-your-legion-5-pro-essential-driver-updates-and-software-tips/"><u>Get the Most Out of Your Legion 5 Pro: Essential Driver Updates & Software Tips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-obtain-and-install-the-startech-usb-driver-for-hdmi-output/"><u>How To: Obtain And Install The StarTech USB Driver For HDMI Output</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-blockchain-compatible-amd-drivers-on-your-pc-with-windows-os/"><u>Installing Blockchain-Compatible AMD Drivers on Your PC with Windows OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-and-updated-driver-for-brother-hl-l2300d-download-here/"><u>Latest & Updated Driver for Brother HL-L2300D - Download Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-the-latest-hardware-technology-tips-from-toms-hardware/"><u>Mastering the Latest Hardware Technology – Tips From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/secure-your-wireless-connectivity-with-msis-latest-bluetooth-driver-update-for-windows/"><u>Secure Your Wireless Connectivity with MSI's Latest Bluetooth Driver Update for Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-essentials-of-using-llama-2-for-business-success/"><u>The Essentials of Using Llama 2 for Business Success</u></a></li>
+<li><a href="https://driver-install.techidaily.com/turbocharge-your-pc-with-updated-acer-drivers-in-win10/"><u>Turbocharge Your PC with Updated Acer Drivers in Win10</u></a></li>
+</ul></div>
 
