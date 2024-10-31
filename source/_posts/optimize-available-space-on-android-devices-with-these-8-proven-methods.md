@@ -1,7 +1,7 @@
 ---
 title: Optimize Available Space on Android Devices with These 8 Proven Methods
-date: 2024-09-09T16:16:02.240Z
-updated: 2024-09-10T16:16:02.240Z
+date: 2024-10-29T21:46:40.152Z
+updated: 2024-10-31T02:30:05.655Z
 tags:
   - android
 categories:
@@ -9,20 +9,8 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/01/Android-storage.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Optimize Available Space on Android Devices with These 8 Proven Methods
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [How to See How Much Storage Space You Have](https://sound-issues.techidaily.com/quick-troubleshooting-tips-for-an-unresponsive-astro-a20-mic/)
@@ -46,18 +34,6 @@ Related: [How to See Which Android Apps Are Taking Up the Most Space](https://fa
 
 ![Samsung Galaxy and Google Pixel storage sections.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/01/Screenshot_20230119-170459.png) 
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Samsung Galaxy / Google Pixel
 
  Google Pixel devices have a shortcut to "Free Up Space" in the Google Files app---which we'll cover in the next section. Samsung actually points out files you could delete to make more room, including "Duplicate Files" and "Large Files." It's a good idea to regularly check out the "Storage" section to clear out junk.
@@ -71,11 +47,12 @@ Samsung Galaxy / Google Pixel
 ![Go to the "Clean" tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/01/2023-01-19_14-02-33.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The first thing you'll notice is a progress bar of how much storage space you've used. Underneath, Google has automatically suggested files you can delete to free up storage space. Common examples are screenshots, duplicate files, and photos that are already backed up to Google Photos.
 
 ![See how much storage you have.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/01/2023-01-19_14-04-45.png) 
@@ -84,17 +61,18 @@ Samsung Galaxy / Google Pixel
 
 ![Junk files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/01/2023-01-19_14-04-36.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  For the other categories, simply tap "Select Files" to go through and choose what you'd like to delete.
 
 ![Select files to download.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/01/2023-01-19_14-13-04.png) 
 
  That's pretty much it! Files by Google is a handy app to have for keeping tabs on your storage usage.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Delete Downloads on Android
 
@@ -104,24 +82,19 @@ Samsung Galaxy / Google Pixel
 
 ![Downloads folders.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/01/Screenshot_20230119-142146_My-Files.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Samsung "My Files" / Files by Google
 
  Once you've found the "Downloads" folder, it's just a matter of selecting the files you'd like to delete and tapping the trash button.
 
 ![Delete files from the "Downloads" folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/01/2023-01-19_14-25-16.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The Downloads folder can easily get filled with stuff you don't need anymore. Keeping it tidy can help your storage woes.
 
 ##  Clear the Cache on Android
@@ -132,60 +105,51 @@ Samsung "My Files" / Files by Google
 
 ![Tap the gear icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/06/2022-01-31_16-24-08.png?trim=1,1&amp;bg-color=000&amp;pad=1,1) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now go to the "Apps" section in the Settings app.
 
 ![Open the &quot;Apps&quot; section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/06/2022-01-31_16-24-54.png?trim=1,1&amp;bg-color=000&amp;pad=1,1) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You'll see a list of all the apps installed on your Android device (you may need to expand the list to see them all). Find the misbehaving app and tap it.
 
 ![Select an app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/06/2022-01-31_16-25-32.png?trim=1,1&amp;bg-color=000&amp;pad=1,1) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Select "Storage & Cache" or just "Storage" from the App Info page.
 
 ![Tap "Storage and Cache."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/2022-07-25_13-44-12.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  There are two options here---"Clear Data" and "Clear Cache." We want the latter. "Clear Storage" will essentially reset the app.
 
 ![Select "Clear Cache."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/2022-07-25_13-49-05.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The cache will immediately be cleared, and you'll see the amount of cache listed on the page go down to zero.
 
 ![Cache before and after.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/2022-07-25_13-49-24.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Before / After
 
  You can use this process to clear the cache for any app. Browser apps---such as Chrome, Edge, and Firefox---[allow you to clear the cache from inside the app itself](https://windows11.techidaily.com/accelerate-taskbar-interaction-with-bings-ai/).
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Empty Trash on Android
 
  Unlike what you're probably familiar with on Windows, Android doesn't have a system-wide "[Trash](https://instagram-videos.techidaily.com/perfect-selfies-tips-for-instagram-story-magnification/)" or "[Recycle Bin](https://some-guidance.techidaily.com/new-the-complete-powerdirector-2024-users-handbook/)." Instead, it's managed by the apps themselves, which is where you'll need to go to empty the trash.
@@ -200,31 +164,26 @@ Before / After
 
 ![Delete items.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/01/2023-01-19_15-36-51.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In the "Files by Google" app, you can find "Trash" in the [hamburger menu](https://review-topics.techidaily.com/recover-your-contacts-after-oppo-reno-8t-has-been-deleted-by-fonelab-android-recover-contacts/) in the top left.
 
 !["Trash" in the side menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/01/2023-01-19_15-43-17.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  From here, you can select individual items or tap "All Items" and select "Delete" to remove them permanently.
 
 ![Select and delete files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/01/2023-01-19_15-45-24.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  File Manager apps typically delete trash after 30 days. However, you can go in and manually remove the files whenever you want.
 
@@ -242,14 +201,15 @@ Related: [Why You Should Get Rid of Unused Android Apps](https://youtube-blog.te
 
 ![Delete the apps you aren't using anymore.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/01/2023-01-19_16-35-05.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Even if you're not in need of extra storage space, it's a good idea to get rid of apps you aren't using anymore.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Move Photos and Videos to the Cloud
 
  If you're to the point where you feel like there's nothing left to delete to make more room on your device, it may be time to embrace the cloud. Keeping photos and videos in apps such as Google Photos, Dropbox, or OneDrive can save a lot of space.
@@ -278,8 +238,6 @@ Related: [How to Install and Move Android Apps to the SD Card](https://facebook-
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -287,4 +245,18 @@ Related: [How to Install and Move Android Apps to the SD Card](https://facebook-
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-exploring-instagrams-video-sharing-cap/"><u>[New] In 2024, Exploring Instagram's Video Sharing Cap</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-tiktoks-best-practices-for-stellar-edits/"><u>[New] In 2024, TikTok's Best Practices for Stellar Edits</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-critical-review-best-bargain-video-call-apps-ios-and-android/"><u>[Updated] 2024 Approved Critical Review Best Bargain Video Call Apps - iOS & Android</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/identifying-key-windows-movie-maker-alternatives/"><u>Identifying Key Windows Movie Maker Alternatives</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabled-apple-iphone-15-how-to-unlock-a-disabled-apple-iphone-15-drfone-by-drfone-ios/"><u>In 2024, Disabled Apple iPhone 15 How to Unlock a Disabled Apple iPhone 15? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/revolutionizing-the-opening-experience/"><u>Revolutionizing the Opening Experience</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/secure-transfer-of-a-windows-7-system-between-two-computers/"><u>Secure Transfer of a Windows 7 System Between Two Computers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/snatch-up-the-discounted-hp-victus-15-unbeatable-price-at-450-during-amazon-prime-day-exclusive-offer-inside/"><u>Snatch Up the Discounted HP Victus 15: Unbeatable Price at $450 During Amazon Prime Day - Exclusive Offer Inside!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-performer-in-versatility-a-crowd-favorite-laptop-with-unmatched-hardware-strength-exclusive-insights-from-a-zdnet-reporter/"><u>Top Performer in Versatility: A Crowd Favorite Laptop with Unmatched Hardware Strength - Exclusive Insights From a ZDNet Reporter</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-ranking-digital-notebooks-of-the-year-comprehensive-expert-reviews-and-comparisons-featured-on-zdnet/"><u>Top-Ranking Digital Notebooks of the Year: Comprehensive Expert Reviews & Comparisons - Featured on ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-cyber-monday-laptop-bargains-where-to-find-them-in-november-2024-techradar/"><u>Top-Rated Cyber Monday Laptop Bargains: Where to Find Them in November 2024 | TechRadar</u></a></li>
+</ul></div>
 

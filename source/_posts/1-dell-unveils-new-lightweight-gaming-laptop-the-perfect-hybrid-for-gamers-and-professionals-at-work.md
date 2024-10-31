@@ -1,7 +1,7 @@
 ---
 title: "1. Dell Unveils New Lightweight Gaming Laptop: The Perfect Hybrid for Gamers and Professionals at Work!"
-date: 2024-10-22T20:40:24.839Z
-updated: 2024-10-24T20:01:36.578Z
+date: 2024-10-28T23:10:43.087Z
+updated: 2024-10-30T16:05:53.221Z
 tags:
   - laptops
 categories:
@@ -71,10 +71,10 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -113,16 +113,20 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-rewind-revolution-novel-strategies-for-youtube-viewers/"><u>[Updated] The Rewind Revolution Novel Strategies for YouTube Viewers</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-vlog-trendsetter-2024/"><u>[Updated] Vlog Trendsetter 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-amd-video-card-drivers-for-your-pc-with-windows-os/"><u>Get the Newest AMD Video Card Drivers for Your PC with Windows OS</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-updated-thunderbolt-nconnectivity-drivers-for-winxpvistawindows-7-systems/"><u>Get Updated Thunderbolt nConnectivity Drivers for WinXP/Vista/Windows 7 Systems</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Honor Play 7T | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-realme-note-50-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Realme Note 50 to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-fcpx-not-responding-dont-panic-learn-how-to-reset-and-recover/"><u>In 2024, FCPX Not Responding? Dont Panic! Learn How to Reset and Recover</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/installing-fresh-canon-mg3000-drivers-for-optimal-print-performance/"><u>Installing Fresh Canon MG3000 Drivers for Optimal Print Performance</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/official-oculus-driver-download-fully-supported-on-windows-11-to-7/"><u>Official Oculus Driver Download - Fully Supported on Windows 11 to 7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/select-your-graphics-card-model-which-is-geforce-rtx-3060-ti-in-this-case/"><u>Select Your Graphics Card Model, Which Is GeForce RTX 3060 Ti in This Case.</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-science-behind-ray-tracing-everything-you-need-to-know/"><u>The Science Behind Ray Tracing: Everything You Need to Know</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-the-art-of-image-detection-opposite-on-facebook-networks-for-2024/"><u>[New] The Art of Image Detection Opposite on Facebook Networks for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unite-music-and-imagery-via-auditory-integration-in-premiere-pro/"><u>[New] Unite Music and Imagery via Auditory Integration in Premiere Pro</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-top-10-best-offline-ios-games-you-should-try-for-2024/"><u>[Updated] Top 10 Best Offline iOS Games You Should Try for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/a-list-ringtone-picks-for-adoring-tyrion-lannister-fans-for-2024/"><u>A-List Ringtone Picks for Adoring Tyrion Lannister Fans for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-in-class-business-data-cradle-for-2024/"><u>Best in Class Business Data Cradle for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-techniques-for-windows-10-repair-via-sfc-and-deployment-image-command-line-tools-dism/"><u>Effective Techniques for Windows 10 Repair via SFC & Deployment Image Command Line Tools (DISM)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-how-instagram-algorithm-update-will-affect-you/"><u>In 2024, How Instagram Algorithm Update Will Affect You</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-vivo-y200-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Vivo Y200 ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unconventional-but-effective-why-you-can-safely-run-electronics-through-the-dishwasher/"><u>Unconventional but Effective - Why You Can Safely Run Electronics Through the Dishwasher!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/understanding-the-critical-differences-between-wireless-networks-and-the-worldwide-web-for-enhanced-connectivity/"><u>Understanding the Critical Differences Between Wireless Networks and the Worldwide Web for Enhanced Connectivity</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlock-the-full-potential-my-ultimate-guide-to-maximizing-your-ring-doorbell-experience/"><u>Unlock the Full Potential: My Ultimate Guide to Maximizing Your Ring Doorbell Experience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlocking-superior-power-transfer-our-in-depth-review-of-hyperjuises-240w-silicone-usb-c-cable-why-it-deserves-a-spot-in-your-gadget-collection/"><u>Unlocking Superior Power Transfer: Our In-Depth Review of HyperJuise's 240W Silicone USB-C Cable – Why It Deserves a Spot in Your Gadget Collection</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unresponsive-homekit-gadgets-heres-how-to-restore-functionality-quickly/"><u>Unresponsive HomeKit Gadgets? Here's How to Restore Functionality Quickly!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-powerhouse-inside-the-stunning-design-an-in-depth-review-of-the-dell-xps-16-9640/"><u>Unveiling the Powerhouse Inside the Stunning Design - An In-Depth Review of the Dell XPS 16 (9640)</u></a></li>
 </ul></div>
 

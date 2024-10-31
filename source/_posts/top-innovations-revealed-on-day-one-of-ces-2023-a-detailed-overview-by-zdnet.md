@@ -1,7 +1,7 @@
 ---
 title: "Top Innovations Revealed on Day One of CES 2023: A Detailed Overview by ZDNet"
-date: 2024-10-18T06:45:30.499Z
-updated: 2024-10-24T19:16:54.427Z
+date: 2024-10-27T01:25:18.925Z
+updated: 2024-10-30T20:28:30.507Z
 tags:
   - laptops
 categories:
@@ -31,10 +31,10 @@ While hundreds of companies are stationed in Las Vegas announcing new and innova
 And, if you're still waiting to hear from some major companies, keep checking back . More companies will be announcing more innovative products as the week progresses.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## LG saves its biggest (and best) TV for last
@@ -42,10 +42,10 @@ And, if you're still waiting to hear from some major companies, keep checking ba
 ![LG 97-inch M3 OLED smart webOS TV](https://www.zdnet.com/a/img/resize/506f09c228df659cacc5d524977b1b805c7b4dca/2023/01/03/6f43e8d1-cf31-43f8-b6cd-25bc58e9cb75/97m3-image-4.jpg?auto=webp&fit=crop&height=360&width=640)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 LG
@@ -71,10 +71,10 @@ Post-pandemic life has seen a surge in interest in personal health tech, and thi
 Learn more about the new [smart toilet sensors here](https://www.zdnet.com/home-and-office/smart-home/ces-2023-sees-the-launch-of-two-smart-toilet-sensors/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## MSI drops new laptops for gamers and creatives
@@ -90,6 +90,13 @@ Roku
 While [Hisense upgraded its U8 line's picture](https://www.zdnet.com/home-and-office/home-entertainment/ces-2023-hisense-unveils-new-u6k-u7k-and-u8k-tvs/) with ULED X technology, Roku announced that it's entering the smart TV game with a new line of Roku panels. 
 
 Read more about [Roku making its own TVs](https://www.zdnet.com/home-and-office/home-entertainment/ces-2023-roku-to-begin-offering-its-own-tv-builds-this-year/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Samsung adds new security software with Knox Matrix
 
@@ -108,13 +115,6 @@ HP
 While HP dropped new Dragonfly Pro chromebooks and laptops, it also debuted a series of other laptops, monitors, and webcams. Also announced was a focus on sustainability, with many products being constructed from post-consumer recycled materials.
 
 Read about [new HP laptops are coming to shoppers' carts here](https://www.zdnet.com/article/laptops-chromebooks-all-in-one-pcs-and-more-take-a-look-at-hps-hybrid-focused-device-portfolio/).
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Track your feathered friends with the Bird Buddy smart feeder
 
@@ -178,24 +178,18 @@ If you want the best of the news, you can see the highlights of [Day 1 of CES 20
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-understanding-optimal-frames-per-second-in-cinema-slow-mo/"><u>[New] Understanding Optimal Frames Per Second in Cinema Slow-Mo</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/avoiding-compression-larger-youtube-videos-for-2024/"><u>Avoiding Compression Larger YouTube Videos for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/budget-conscious-gaming-with-asrocks-b760m-pro-rs-robust-m2-capabilities-included/"><u>Budget-Conscious Gaming with ASRock's B760M Pro RS - Robust M.2 Capabilities Included</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/dive-into-hardware-mastery-with-toms-expert-reviews/"><u>Dive Into Hardware Mastery with Tom's Expert Reviews</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/diy-mastermind-user-friendly-motherboards-to-streamline-your-custom-pc-craftsmanship/"><u>DIY MasterMind: User-Friendly Motherboards to Streamline Your Custom PC Craftsmanship</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/expert-gear-analysis-by-toms-technology-hub-unveiling-the-best-in-pc-components/"><u>Expert Gear Analysis by Tom's Technology Hub - Unveiling the Best in PC Components</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/expert-picks-for-top-performing-motherboards-in-2024-detailed-analysis-based-on-socket-and-chipset-options/"><u>Expert Picks for Top-Performing Motherboards in 202^4 - Detailed Analysis Based on Socket & Chipset Options</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-review-on-bifocal-and-progressive-blue-light-filtering-eyeglasses-by-lensdirect/"><u>Expert Review on Bifocal & Progressive Blue Light Filtering Eyeglasses by LensDirect</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-computer-gear-with-toms-hardware-insights/"><u>Exploring Computer Gear with Tom's Hardware Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-cutting-edge-technology-with-toms-hardware-guides/"><u>Exploring Cutting-Edge Technology with Tom's Hardware Guides</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-technology-with-tom-comprehensive-hardware-evaluations/"><u>Exploring Technology with Tom: Comprehensive Hardware Evaluations</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-the-future-of-pc-building-with-asrocks-new-ryzen-9000-chipset-boards/"><u>Exploring the Future of PC Building with ASRock's New Ryzen 9000 Chipset Boards</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-audio-recording-made-easy-free-x-recorder-for-pc/"><u>In 2024, Audio Recording Made Easy Free X-Recorder for PC</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-motorola-defy-2-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Motorola Defy 2 Phone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-unveiling-professional-techniques-for-aps-hdr-creation/"><u>In 2024, Unveiling Professional Techniques for APS HDR Creation</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/master-the-unboxing-game-strategies-for-more-viral-videos-and-likes-for-2024/"><u>Master the Unboxing Game Strategies for More Viral Videos and Likes for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/mkv-decoding-best-apps-for-mac/"><u>MKV Decoding Best Apps for Mac</u></a></li>
-<li><a href="https://win11.techidaily.com/switching-off-windows-built-in-graphics/"><u>Switching Off Windows' Built-In Graphics</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-supreme-selection-an-honour-roll-of-top-10-reddit-discussions-for-2024/"><u>The Supreme Selection An Honour Roll of Top 10 Reddit Discussions for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-youtube-profile-pics-templates-available/"><u>[New] 2024 Approved YouTube Profile Pics Templates Available</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-how-to-proficiently-use-twitter-archives-for-2024/"><u>[New] How to Proficiently Use Twitter Archives for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-how-to-convert-any-vimeo-video-to-a-secure-mp4-file/"><u>[New] In 2024, How To Convert Any Vimeo Video to a Secure MP4 File</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-playlist-guide-for-youtube-enthusiasts-online-and-mobile/"><u>[New] The Ultimate Playlist Guide for YouTube Enthusiasts Online & Mobile</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-top-notch-mac-visual-archiver/"><u>[Updated] In 2024, Top-Notch Mac Visual Archiver</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-guide-to-customize-win11-mouse-controls/"><u>A Guide to Customize Win11 Mouse Controls</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/fy-your-videos-impact-7-royalty-free-sounds-for-2024/"><u>Amplify Your Video's Impact 7 Royalty-Free Sounds for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/brother-mfc-l2700dw-driver-download-and-install-for-windows/"><u>Brother MFC-L2700DW Driver Download & Install for Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/efficient-media-handling-on-your-pc-tips-and-tricks-for-leveraging-utility-programs-across-diverse-functions/"><u>Efficient Media Handling on Your PC: Tips & Tricks for Leveraging Utility Programs Across Diverse Functions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722963531687-effortlessly-upgrade-to-the-latest-intel-dual-band-wifi-ac-3160-driver/"><u>Effortlessly Upgrade to the Latest Intel Dual Band WiFi AC 3160 Driver!</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebooks-judicial-committee-prepares-to-rule-on-trump-exclusion/"><u>Facebook's Judicial Committee Prepares to Rule on Trump Exclusion</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fixing-drivers-how-to-resolve-lg-monitor-problems-in-windows-10781/"><u>Fixing Drivers: How to Resolve LG Monitor Problems in Windows 10/7/8.1</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-brother-l2360dw-printer-up-and-running-with-latest-drivers/"><u>Get Your Brother L2360DW Printer Up and Running with Latest Drivers</u></a></li>
 </ul></div>
 

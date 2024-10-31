@@ -1,7 +1,7 @@
 ---
 title: "Tune in for Microsoft's Latest Tech Revelation: Surface Plus AI Showcase | Expectations Covered"
-date: 2024-10-19T18:33:20.599Z
-updated: 2024-10-25T09:20:11.228Z
+date: 2024-10-27T17:39:26.919Z
+updated: 2024-10-30T23:11:51.308Z
 tags:
   - laptops
 categories:
@@ -54,10 +54,16 @@ What's different about the new Surface Laptop starts with the 12th-generation In
 The Surface Laptop 5 will be available in select markets beginning on Oct. 25 with a [starting price of $999](https://www.microsoft.com/en-us/store/configure/Surface-Laptop-5/8XN49V61S1BN?) for the i5, 8GB of RAM, and 256GB model. The laptop will be available in classic Platinum, Black, and Sandstone colorways, as well as a new leafy "Sage" option. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Goodbye Surface Pro X, hello Surface Pro 9
@@ -79,10 +85,10 @@ Not-so-big news: The rest is a standard Surface Pro affair; 2-in-1 design with a
 As far as pricing goes, the Intel-based Surface Pro 9 starts at [$999](https://www.microsoft.com/en-us/store/configure/Surface-Pro-9/93VKD8NP4FVK?) (i5, 8GB RAM, 128GB), and the ARM-based model starts at [$1,299](https://www.microsoft.com/en-us/store/configure/Surface-Pro-9/93VKD8NP4FVK?) (SQ3, 8GB RAM, 128GB). The former comes in Platinum, Graphite, Forest, and Sapphire, while the latter only comes in Platinum. Preorders start today. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The aptly-named Surface Studio 2+
@@ -100,10 +106,10 @@ For all the performance gains that you're getting, Microsoft is making you pay t
 [Buy the Surface Studio 2+ View now at Microsoft](https://www.microsoft.com/en-us/store/configure/Surface-Studio-2/8VLFQC3597K4?)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Microsoft Presenter+ and Audio Dock
@@ -119,10 +125,10 @@ Releasing alongside the new Surface products are the Microsoft Presenter+ and Mi
 The Microsoft Audio Dock is both a docking station with four ports (HDMI, 2x USB-C, and USB-A) and a speaker for audio input and output. For $249, which is not cheap for either of its two functions, Microsoft promises "premium sound" and noise-reducing microphones that will help you "be heard clearly in your next online meeting."
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Microsoft Designer takes on Canva
@@ -171,19 +177,22 @@ Microsoft officials say that Designer is targeted at consumers more than anyone 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-humor-unleashed-easymeme-tutorial-without-cost/"><u>[Updated] In 2024, Humor Unleashed EasyMeme Tutorial Without Cost</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-pro-streamers-choice-the-top-5-gaming-webcams-to-own/"><u>[Updated] In 2024, Pro Streamer's Choice The Top 5 Gaming Webcams to Own</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/a-comprehensive-guide-for-viewers-enjoy-espn-plus-content-on-lg-smart-tv-sets/"><u>A Comprehensive Guide for Viewers: Enjoy ESPN Plus Content on LG Smart TV Sets</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amazons-hot-sale-unbeatable-price-drop-for-the-new-rog-strix-g16-gaming-laptop-to-1164/"><u>Amazon's Hot Sale: Unbeatable Price Drop for the New ROG Strix G16 Gaming Laptop to $1,164</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/clearstream-2v-antenna-review-outstanding-tv-reception-for-both-indoors-and-outdoors-in-an-elegant-package/"><u>ClearStream 2V Antenna Review: Outstanding TV Reception for Both Indoors and Outdoors in an Elegant Package</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/dive-into-performance-with-toms-hardware-guides/"><u>Dive Into Performance with Tom's Hardware Guides</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/examining-sonys-walkman-style-over-substance/"><u>Examining Sonys Walkman: Style Over Substance?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/expert-guides-by-tom-comprehensive-hardware-insights/"><u>Expert Guides by Tom: Comprehensive Hardware Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-new-horizons-with-toms-hardware-insights/"><u>Exploring New Horizons with Tom's Hardware Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-pc-innovations-at-toms-hardware-hub/"><u>Exploring PC Innovations at Tom's Hardware Hub</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-nokia-c300-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Nokia C300 for Free? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Vivo T2x 5G? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-infinix-hot-30i-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Infinix Hot 30i? Fixed | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/prime-5-tools-shake-off-youtube-video-editing/"><u>Prime 5 Tools Shake Off Youtube Video Editing</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-sleight-of-the-brain-navigating-top-room-riddles-for-2024/"><u>[Updated] Sleight of the Brain Navigating Top Room Riddles for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-head-to-head-evaluating-google-cardboard-and-samsungs-vr-world/"><u>2024 Approved Head-to-Head Evaluating Google Cardboard and Samsung’s VR World</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-visual-storytelling-at-its-finest-youtube-trailers-through-filmoras-lens/"><u>2024 Approved Visual Storytelling at Its Finest YouTube Trailers Through Filmora's Lens</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-plus-reviewed-the-positives-meet-the-negatives/"><u>ChatGPT Plus Reviewed: The Positives Meet the Negatives</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/defective-intel-chips/"><u>Defective Intel Chips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-mpow-bluetooth-drivers-compatible-with-windows-1187/"><u>Download & Update MPOW Bluetooth Drivers Compatible with Windows 11/8/7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fast-track-to-installation-get-your-elgato-drivers-instantly/"><u>Fast Track to Installation: Get Your Elgato Drivers Instantly!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-superior-fps-update-your-acer-predator-helios-300-graphics-card-drivers/"><u>Get Superior FPS: Update Your Acer Predator Helios 300 Graphics Card Drivers</u></a></li>
+<li><a href="https://win-studio.techidaily.com/how-to-easily-copy-windows-10-or-11-system-on-a-usb-drive/"><u>How to Easily Copy Windows 10 or 11 System on a USB Drive</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-install-canon-dr-c225-printer-drivers-for-windows-11/"><u>How to Install Canon DR-C225 Printer Drivers for Windows 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-realme-12-pro-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Realme 12 Pro 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-netgear-wi-fi-card-software-upgrade-free/"><u>Latest NETGEAR Wi-Fi Card Software Upgrade [Free]</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcome-lag-and-glitches-fixing-call-of-duty-vanguard-for-seamless-playtime-for-free/"><u>Overcome Lag and Glitches: Fixing Call of Duty: Vanguard for Seamless Playtime for Free</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/overcoming-lg-usb-connection-errors-a-comprehensive-fix-for-drivers-on-microsofts-latest-operating-systems/"><u>Overcoming LG USB Connection Errors: A Comprehensive Fix for Drivers on Microsoft's Latest Operating Systems</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ering-histories-student-favored-youtubes-on-historic-events-for-2024/"><u>Uncovering Histories Student-Favored YouTubes on Historic Events for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-dell-inspiron-7001-g7s-software-effortlessly-expert-advice/"><u>Update Your Dell Inspiron 7001 G7's Software Effortlessly: Expert Advice</u></a></li>
 </ul></div>
 

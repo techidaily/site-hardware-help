@@ -1,7 +1,7 @@
 ---
 title: "Dell Unveils New Lightweight Gaming Laptop: A Perfect Blend of Power and Portability for Professionals"
-date: 2024-10-20T20:25:16.936Z
-updated: 2024-10-24T18:44:54.731Z
+date: 2024-10-27T06:04:13.037Z
+updated: 2024-10-31T03:13:04.248Z
 tags:
   - laptops
 categories:
@@ -71,10 +71,10 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -113,22 +113,14 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-deciphering-the-world-of-youtube-media-conglomerates/"><u>[New] 2024 Approved Deciphering the World of YouTube Media Conglomerates</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-expert-insights-leveraging-inshot-for-editing-devices/"><u>[New] In 2024, Expert Insights Leveraging Inshot for Editing Devices</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevating-your-content-6-steps-to-higher-youtube-visibility/"><u>[Updated] 2024 Approved Elevating Your Content 6 Steps to Higher YouTube Visibility</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-tailoring-audio-rate-on-mobile-and-desktops-for-youtube/"><u>[Updated] 2024 Approved Tailoring Audio Rate on Mobile and Desktops for YouTube</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-premium-settings-for-virtual-broadcasts/"><u>[Updated] Premium Settings for Virtual Broadcasts</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/chuckle-clips-for-iphone/"><u>Chuckle Clips for iPhone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-11-proipad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone 11 Pro/iPad Without Computer | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-building-dynamic-photographic-ensembles/"><u>In 2024, Building Dynamic Photographic Ensembles</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-comprehensive-guide-to-cutting-edge-hardware/"><u>Tom's Comprehensive Guide to Cutting-Edge Hardware</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-electronics-roundup-in-depth-hardware-evaluations/"><u>Tom's Electronics Roundup: In-Depth Hardware Evaluations</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-review-the-definitive-guide-on-hardware/"><u>Tom's Tech Review: The Definitive Guide on Hardware</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-review-the-ultimate-guide-to-hardware/"><u>Tom's Tech Review: The Ultimate Guide to Hardware</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-reviews-dive-into-the-world-of-hardware/"><u>Tom's Tech Reviews: Dive Into the World of Hardware</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-premium-laptops-and-ultrathin-computers-of-2024/"><u>Top-Rated Premium Laptops & Ultrathin Computers of 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unlock-savings-up-to-300-off-on-the-asus-rog-zephyrus-g14-oled-and-rtx-4060-laptop-2024/"><u>Unlock Savings: Up To $300 Off On The Asus ROG Zephyrus G14 - OLED & RTX 4060 Laptop, 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unlocking-the-power-of-your-pc-with-toms-hardware/"><u>Unlocking the Power of Your PC with Tom's Hardware</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/windows-11-10-8-and-7qnap-nasonedrive/"><u>Windows 11, 10, 8, and 7のQNAP NASとOneDriveを同期する究極のガイド</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-essential-skills-androids-screen-recording-functionality/"><u>[Updated] In 2024, Essential Skills Android's Screen Recording Functionality</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-poco-x5-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/cambia-archivos-mpe-a-formato-ogg-gratuitamente-con-online-audio-converter-movavi/"><u>Cambia Archivos MPE a Formato Ogg Gratuitamente Con Online Audio Converter - Movavi</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/canon-mf8500c-driver-installation-instructions-for-windows-users-windows-78110/"><u>Canon MF8500C Driver Installation Instructions for Windows Users (Windows 7/8.1/10)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722971687928-enjoy-seamless-wi-fi-connectivity-with-our-updated-network-device-drivers-free-download/"><u>Enjoy Seamless Wi-Fi Connectivity with Our Updated Network Device Drivers – Free Download!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-report-on-intels-revolutionary-chip-battlemage-delivers-lower-power-footprint-by-100w-and-uncompromised-overclocking-capabilities-following-the-la6/"><u>Exclusive Report on Intel's Revolutionary Chip - Battlemage Delivers Lower Power Footprint by 100W and Uncompromised Overclocking Capabilities Following the Latest Raptor Lake Updates</u></a></li>
+<li><a href="https://driver-install.techidaily.com/maximize-productivity-upgrade-your-hp-printer/"><u>Maximize Productivity: Upgrade Your HP Printer</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Tecno Spark 10 Pro? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-downloading-and-updating-your-steelseries-gaming-mouse-drivers/"><u>The Ultimate Guide to Downloading & Updating Your SteelSeries Gaming Mouse Drivers</u></a></li>
 </ul></div>
 

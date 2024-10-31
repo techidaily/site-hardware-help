@@ -1,7 +1,7 @@
 ---
 title: "Silencing the Buzz: How to Deactivate Tactile Feedback on an Android Device"
-date: 2024-09-10T20:43:21.262Z
-updated: 2024-09-15T17:04:34.329Z
+date: 2024-10-24T00:29:54.507Z
+updated: 2024-10-30T16:10:46.055Z
 tags:
   - android
 categories:
@@ -34,9 +34,23 @@ Related: [What Are Android Skins?](https://android-location-track.techidaily.com
 
 ![Tap the gear icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/07/2021-12-07_16-33-27.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  From there, jump down to the "Sound & Vibration" option. Tap that.
 
 ![Tap &quot;Sound and Vibration.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/07/2021-12-07_16-46-56.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Scroll down to "Vibration & Haptics." Note that this will be disabled if your phone is on silent mode, which also disabled haptics.
 
@@ -46,9 +60,23 @@ Related: [What Are Android Skins?](https://android-location-track.techidaily.com
 
 ![Toggle off &quot;Use Vibration and Haptics.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/07/2021-12-07_16-36-05.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you'd also like to remove touch vibrations from the keyboard, check out our guide for how to do that.
 
 Related: [How to Turn Off Keyboard Vibration on Android](https://instagram-videos.techidaily.com/updated-sequential-image-storytelling-on-ig-for-2024/) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Disable Haptic Feedback on a Samsung Galaxy
 
@@ -64,35 +92,9 @@ Related: [How to Turn Off Keyboard Vibration on Android](https://instagram-video
 
 ![Tap &quot;System Sound/Vibration Control.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/07/2021-12-07_16-39-31.png) 
 
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The bottom section of toggles is for vibration. Toggle on or off any of the things you'd like to change.
 
 ![Toggle off the switches.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/07/2021-12-07_16-40-34.png) 
-
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Note that you can disable vibration for the Samsung Keyboard here, but if you use another keyboard, you'll have to do it from that app's settings.
 
@@ -113,5 +115,18 @@ Related: [How to Adjust the Vibration Intensity of Your Android Phone](https://v
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-navigating-personal-brand-identity-high-engagement/"><u>[Updated] In 2024, Navigating Personal Brand Identity [High Engagement]</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-insights-into-premier-video-communication-tools-on-devices-for-2024/"><u>[Updated] Insights Into Premier Video Communication Tools on Devices for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-pixel-power-unveiling-youtubes-twitter-crew-for-2024/"><u>[Updated] Pixel Power Unveiling YouTube's Twitter Crew for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/innovative-approaches-for-mosaic-photography/"><u>Innovative Approaches for Mosaic Photography</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mcafee-introduces-advanced-ai-powered-tool-to-combat-deepfake-audios-is-it-trustworthy-enough/"><u>McAfee Introduces Advanced AI-Powered Tool to Combat Deepfake Audios – Is It Trustworthy Enough?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/power-users-rejoice-save-70-with-the-16-1-thunderbolt-dock-exclusive-deal-at-amazon-zdnet/"><u>Power Users Rejoice: Save $70 with the 16-1 Thunderbolt Dock - Exclusive Deal at Amazon | ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revolutionize-your-computing-experience-the-one-of-a-kind-laptop-gadget-featured-by-zdnet-that-boosts-performance/"><u>Revolutionize Your Computing Experience: The One-of-a-Kind Laptop Gadget Featured by ZDNet That Boosts Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-upgrading-your-laptops-memory-ram-insights/"><u>Step-by-Step Guide: Upgrading Your Laptop's Memory (RAM) - Insights</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-selection-of-comfort-oriented-ergonomic-keyboards-2024-edition/"><u>Ultimate Selection of Comfort-Oriented Ergonomic Keyboards - 2024 Edition</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-hacking-threats-the-potential-of-chatgpt-in-bank-and-computer-security-compromises/"><u>Understanding Hacking Threats: The Potential of ChatGPT in Bank and Computer Security Compromises</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unlocking-success-with-spotify-marketing-tips/"><u>Unlocking Success with Spotify Marketing Tips</u></a></li>
+</ul></div>
 

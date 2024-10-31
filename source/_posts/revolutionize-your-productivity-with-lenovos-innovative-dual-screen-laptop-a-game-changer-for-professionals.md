@@ -1,7 +1,7 @@
 ---
 title: Revolutionize Your Productivity with Lenovo's Innovative Dual-Screen Laptop - A Game Changer for Professionals
-date: 2024-10-19T10:07:39.612Z
-updated: 2024-10-24T16:44:27.871Z
+date: 2024-10-27T19:51:05.205Z
+updated: 2024-10-31T02:38:27.442Z
 tags:
   - laptops
 categories:
@@ -41,10 +41,10 @@ A laptop with two screens is perhaps one of the tamest designs it has come up wi
 It's given me a chance to revisit the idea of having two screens on my laptop, and once again, it's tempting me to switch away from my boring-in-comparison MacBook Pro.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specifications (as reviewed)
@@ -60,13 +60,6 @@ It's given me a chance to revisit the idea of having two screens on my laptop, a
 | Price                 | Starting at [$1,980](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-12-Core-i7-1360P-Fingerprint-Thunderbolt4%2Fdp%2FB0CR9S1KFL%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca8e1fb25-770f-412f-9572-4bd2e6048e4c%7Cdtp&dtb=1) |
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Living with a dual-screen laptop
 
@@ -88,13 +81,6 @@ There's a lot that the dual-screen design of the Yoga Book 9i enables, and the v
 
 Switching back to my single-screen MacBook Pro was, to put it lightly, tough. I missed having all the extra screen real estate and the ability to have two full documents open side-by-side while writing. I felt limited in a way that I wasn't expecting, which says a lot about how effective Lenovo's dual-screen design is.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How does it perform?
 
 The twin 13.3-inch OLED displays look exceptional with deep black levels, vibrant colors, and 400 nits of brightness (a.k.a. enough for most lighting situations). They each sport 2.8K resolutions, so everything looks crisp, and Lenovo even includes 16:10 aspect ratios so you get a bit extra vertical room. They're also Dolby Vision certified. I have zero complaints about these screens, besides the fact they only have 60Hz refresh rates.
@@ -114,6 +100,13 @@ The verdict? It's a speedy machine. The Core Ultra processor feels snappier than
 To power the Yoga Book 9i, Lenovo includes an 80W battery that's rated for about seven to eight hours of usage on a full charge. [In my testing](https://www.zdnet.com/article/how-we-test-laptops/), I was able to get to about seven hours of usage before it conked out, which is perfectly fine since 1.) this laptop has two screens and 2.) some pricier laptops like the [Surface Laptop Studio 2](https://www.zdnet.com/article/microsoft-surface-laptop-studio-2-review/) can't get anywhere near that.
 
 Charging the laptop is as straightforward as it comes. There's a Rapid Charge adapter in the box that gives you about two hours of runtime with just 15 minutes of charging. I found this mostly to be true, although you have to shut the lid if you want charging speeds to really pick up.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Evaluating Lenovo's dual-screen software
 
@@ -136,10 +129,16 @@ It's weird; I've had apps like Chrome and Spotify show up on the lower display w
 I'll give Lenovo credit, the new Yoga Book 9i feels smoother than the old one did. I don't notice as much scruff or weird glitches with the software, and the bundled Bluetooth keyboard doesn't produce nearly as many double-key entries as before. Still, it's not a perfect experience, which is something to keep in mind if you're going to spend $2,000 on a laptop.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## One thing to keep in mind
@@ -151,6 +150,13 @@ Max Buondonno/ZDNET
 When I'm working on my MacBook or -- quite frankly -- any other laptop in my arsenal, all I have to do is close the lid and load it into my backpack when I'm finished. With the Yoga Book 9i, I have to close the laptop > collapse the kickstand > place the keyboard inside the collapsed kickstand > stack the keyboard/kickstand combo, mouse, and stylus on top of the laptop > shove it all in my bag and pray I can find it later when it's time to go back to work.
 
 Of course, you'll eventually get used to it, but it'll never be as convenient as shutting your laptop lid and moving on with your day.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ZDNET's buying advice
 
@@ -190,19 +196,20 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/5-prized-mac-compatible-live-streamers-for-2024/"><u>5 Prized Mac-Compatible Live Streamers for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amd-gears-up-to-release-compatible-800-series-chipsets-tailored-for-ryzen-cpus-numbered-system-echoes-intels-approach/"><u>AMD Gears Up to Release Compatible 800 Series Chipsets Tailored For Ryzen CPUs - Numbered System Echoes Intel's Approach</u></a></li>
-<li><a href="https://win11.techidaily.com/ameliorating-the-non-functional-windows-enter-key/"><u>Ameliorating the Non-Functional Windows Enter Key</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/asrock-launches-latest-lineup-of-arrow-lake-supported-mini-itx-and-atx-boards-featuring-the-revamped-taichi-model-with-camm2-ram/"><u>ASROCK Launches Latest Lineup of Arrow Lake Supported Mini-ITX & ATX Boards Featuring the Revamped Taichi Model With CAMM2 RAM</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/asrocks-latest-masterpiece-the-z89-taichi-aqua-motherboard-10x-usb-type-c-and-dual-thunderbolt-functionality-explored/"><u>ASRock's Latest Masterpiece: The Z89# Taichi Aqua Motherboard - 10X USB Type-C & Dual Thunderbolt Functionality Explored</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-itel-a05s-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Itel A05s</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-video-player-apps-for-windows-phone-for-2024/"><u>Best Video Player Apps for Windows Phone for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-oppo-find-x7-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Oppo Find X7 Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/secrets-for-successful-live-streams-on-youtube-with-a-tiny-fanbase/"><u>Secrets for Successful Live Streams on YouTube with a Tiny Fanbase</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-8-chrome-addons-with-smart-ai-integration-for-efficiency/"><u>Top 8 Chrome Addons with Smart AI Integration for Efficiency</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/transition-effortlessly-top-10-alternatives-to-flvto-for-youtube-for-2024/"><u>Transition Effortlessly Top 10 Alternatives to Flvto For YouTube for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-top-20-adobe-premiere-shortcuts-you-will-use/"><u>Updated Top 20 Adobe Premiere Shortcuts You Will Use</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/world-record-breaking-oc-achievements-on-the-latest-asrock-z790i-lightning-wifi-mobo-by-splave/"><u>World Record-Breaking OC Achievements on the Latest ASRock Z790I Lightning WiFi Mobo by Splave</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/your-ultimate-resource-for-cutting-edge-pc-components-at-toms-hardware/"><u>Your Ultimate Resource for Cutting-Edge PC Components at Tom's Hardware</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-from-free-to-fiscal-determining-view-counts-for-youtube-earnings/"><u>[New] 2024 Approved From Free to Fiscal Determining View Counts for YouTube Earnings</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-into-the-abyss-and-beyond-shadowbearer-vs-daybeam/"><u>[New] Into the Abyss and Beyond Shadowbearer Vs Daybeam</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-monitor-guide-transform-your-xbox-series-x-experience-today/"><u>[Updated] The Ultimate Monitor Guide Transform Your Xbox Series X Experience Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ace-your-gameplay-with-our-top-picks-on-gamers-processors/"><u>Ace Your Gameplay with Our Top Picks on Gamer's Processors</u></a></li>
+<li><a href="https://fox-that.techidaily.com/deciphering-automatic-sms-conversions-from-imessage-do-they-indicate-youre-blocked/"><u>Deciphering Automatic SMS Conversions From iMessage – Do They Indicate You're Blocked?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/dive-into-high-performance-tech-expert-reviews-and-analysis-at-toms-hardware/"><u>Dive Into High-Performance Tech: Expert Reviews and Analysis at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-installation-logitech-brio-webcam-driver-suite-for-modern-windows-systems/"><u>Easy Installation: Logitech BRIO Webcam Driver Suite for Modern Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-thunderbolt-driver-installation-pack-for-windows-users/"><u>Free Thunderbolt Driver Installation Pack for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-updated-software-how-to-install-new-corsair-k55-gamepad-drivers/"><u>Get Updated Software: How to Install New Corsair K55 Gamepad Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-easily-install-lenovo-t430-drivers-compatible-with-all-windows-versions-including-10-8-and-asterisk7/"><u>How to Easily Install Lenovo T430 Drivers: Compatible with All Windows Versions Including 10, 8 & Asterisk7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-v30t-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme V30T to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-13-pro-max-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock iPhone 13 Pro Max Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-6s-plus-5-ways-to-get-into-a-locked-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone 6s Plus? 5 Ways to get into a Locked Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-linux-security-measure-affects-snapdragon-x-the-elite-igpu-turned-off-by-default-due-to-oem-key-signing-protocols/"><u>Latest Linux Security Measure Affects Snapdragon X: The Elite iGPU Turned Off by Default Due to OEM Key Signing Protocols</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-your-computer-efficiency-explore-10-best-powertoys-uses/"><u>Master Your Computer Efficiency: Explore 10 Best PowerToys Uses</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Assistant
-date: 2024-10-19T03:52:17.422Z
-updated: 2024-10-24T19:21:03.044Z
+date: 2024-10-30T05:22:39.775Z
+updated: 2024-10-30T21:54:42.429Z
 tags:
   - laptops
 categories:
@@ -56,6 +56,13 @@ M3 efficiency versus 12-core PC laptop chip
 
 Apple/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## M3 chip
 
 This is the "base" version of the new Apple Silicon line, and is up to 65% faster than the original M1 chip, depending on which metric is used to measure the performance.
@@ -63,16 +70,10 @@ This is the "base" version of the new Apple Silicon line, and is up to 65% faste
 **Also: [Professionals should buy Apple's cheapest M3 MacBook Pro for one reason, and one reason only](https://www.zdnet.com/article/professionals-should-buy-apples-cheapest-m3-macbook-pro-for-one-reason-and-one-reason-only/)**
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### M3 tech specs
@@ -99,16 +100,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## M3 Pro chip
@@ -118,10 +113,10 @@ More cores make the M3 Pro chip better suited to those looking for more performa
 **Also: [What is ProRes and why does Apple keep mentioning it?](https://www.zdnet.com/article/what-is-prores-and-why-does-apple-keep-mentioning-it/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### M3 Pro tech specs
@@ -136,13 +131,6 @@ Up to 40% faster than the M1 Pro chips, and 10% faster than the M2 Pro chips
 M3 Pro chip
 
 Apple/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## M3 Max chip
 
@@ -193,24 +181,14 @@ Apple/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-joymakerbox-sign-up-share-smiles-create/"><u>[New] JoyMakerBox Sign Up, Share Smiles, Create</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-outwit-youtube-visitors-tips-to-evade-automated-audiences/"><u>[Updated] 2024 Approved Outwit YouTube Visitors Tips to Evade Automated Audiences</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-editors-archive-curating-timeless-vhs-effects-for-the-digital-age/"><u>[Updated] The Editor's Archive Curating Timeless VHS Effects for the Digital Age</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-in-depth-exploration-of-morphvox-modification-methods/"><u>2024 Approved In-Depth Exploration of MorphVOX Modification Methods</u></a></li>
-<li><a href="https://win11.techidaily.com/a-guide-to-maintaining-perpetual-ps4-windows-tether/"><u>A Guide to Maintaining Perpetual PS4-Windows Tether</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/evaluating-superiority-gopros-max-and-hero-11-face-off/"><u>Evaluating Superiority GoPro's Max and Hero 11 Face-Off</u></a></li>
-<li><a href="https://article-posts.techidaily.com/film-editing-expertise-exchange/"><u>Film Editing Expertise Exchange</u></a></li>
-<li><a href="https://fox-that.techidaily.com/guide-sending-your-iphone-for-apples-professional-hardware-diagnostics/"><u>Guide: Sending Your iPhone for Apple's Professional Hardware Diagnostics</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unpacking-youtubes-income-distribution-from-1m-viewers/"><u>In 2024, Unpacking YouTube's Income Distribution From 1M Viewers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-review-in-depth-analysis-of-the-latest-computer-components/"><u>Tom's Tech Review: In-Depth Analysis of the Latest Computer Components</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-reviews-expert-insights-on-computer-components-and-gadgets/"><u>Tom's Tech Reviews: Expert Insights on Computer Components and Gadgets</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-15-activities-perfect-for-podcast-lovers/"><u>Top 15 Activities Perfect for Podcast Lovers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-tier-professional-display-hps-latest-37-wqhdplus-ultrawide-with-premium-black-ips-panel-affordable-alternative-to-expensive-oled/"><u>Top-Tier Professional Display: HP's Latest 37 WQHD+ Ultrawide with Premium Black IPS Panel - Affordable Alternative to Expensive OLED</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unbeatable-deal-alert-dell-s3222dgm-top-ranked-monitor-now-at-an-all-time-price-drop-to-229/"><u>Unbeatable Deal Alert! Dell S3222DGM: Top-Ranked Monitor Now at an All-Time Price Drop to $229</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unbeatable-deal-39-inch-lg-ultragear-gaming-monitor-with-wqhd-curved-display-now-999-on-amazon/"><u>Unbeatable Deal: 39-Inch LG Ultragear Gaming Monitor with WQHD Curved Display, Now $999 on Amazon!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unbeatable-deal-portable-15n-inch-1080p-ips-monitor-now-just-6599-best-quality-for-the-lowest-price/"><u>Unbeatable Deal: Portable 15.n Inch, 1080P IPS Monitor Now Just $65.99 - Best Quality for the Lowest Price!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unbeatable-offer-capture-your-games-in-stunning-detail-with-a-discounted-200-alienware-oled-monitor/"><u>Unbeatable Offer: Capture Your Games in Stunning Detail with a Discounted $200 Alienware OLED Monitor</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unbelievable-legacy-crt-tech-hits-an-unprecedented-700hz-by-downscaling-display-pixels/"><u>Unbelievable! Legacy CRT Tech Hits an Unprecedented 700Hz by Downscaling Display Pixels</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unleash-your-gaming-potential-with-the-revolutionary-27-woled-monitor-by-asus-say-goodbye-to-flicker-and-embrace-g-syncfreesync-technology/"><u>Unleash Your Gaming Potential with the Revolutionary 27 WOLED Monitor by Asus - Say Goodbye to Flicker and Embrace G-Sync/FreeSync Technology</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-unlocking-direct-conversation-on-snapchat-follow-these-steps/"><u>[Updated] 2024 Approved Unlocking Direct Conversation on Snapchat - Follow These Steps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-failing-frontline-in-the-cyber-realm/"><u>A Failing Frontline in the Cyber Realm</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-logitech-hd-c270-webcam-working-on-your-pc-driver-downloads-for-win-10-and-11/"><u>Get Logitech HD C270 Webcam Working on Your PC - Driver Downloads for Win 10 & 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-on-iphone-12-mini-5-best-solutions-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover deleted pictures on iPhone 12 mini? 5 Best Solutions | Stellar</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723262323472-next-generation-of-intel-cpus-could-face-hotter-running-challenges-says-industry-insider-arrow-lake-series-concerned/"><u>Next Generation of Intel CPUs Could Face Hotter Running Challenges, Says Industry Insider – Arrow Lake Series Concerned.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-process-for-effective-dell-webcam-driver-update/"><u>Step-by-Step Process for Effective Dell Webcam Driver Update</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-cinematic-journey-crafting-youtube-trailers-in-filmora/"><u>The Cinematic Journey Crafting YouTube Trailers in Filmora</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-cutting-edge-pc-parts-by-toms-electronics/"><u>The Ultimate Guide to Cutting-Edge PC Parts by Tom's Electronics</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722976068199-update-or-install-secure-the-newest-amd-smbus-drivers-in-a-flash/"><u>Update or Install? Secure the Newest AMD SMBus Drivers in a Flash</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Ultimate List of Indispensable Devices for Fixing Your Cell Phones
-date: 2024-09-10T18:17:34.685Z
-updated: 2024-09-15T22:34:56.139Z
+date: 2024-10-28T21:07:03.312Z
+updated: 2024-10-30T18:24:32.179Z
 tags:
   - android
 categories:
@@ -28,6 +28,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  But it's not without risk, too. Sometimes, when trying to avoid repair shop fees, you may end up with more stuff needing fixing than before. Therefore, weigh the pros and cons to decide whether to repair your phone at home or pay someone to do the job.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Tools You Will Need
 
  Firstly, you have to consider the required tools. Without those, you'll likely be unable to repair a phone by yourself. The good thing is that they're easy to come by in hardware stores and even at online marketplaces.
@@ -49,10 +56,10 @@ Marcus Mears III / How-To Geek
  Repair shops often have heat guns with fine temperature control, but at home, a [hair dryer](https://amazon.com/dp/B001LQY1X4?tag=hotoge-20&ascsubtag=UUhtgUeUpU215488&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F350714%2F7-must-have-tools-for-mobile-phone-repair%2F&asc%5Fcampaign=Short-Term) does the job for occasional repairs. You can also use a [microwaveable heat bag](https://www.amazon.com/microwave-heat-bag/s?k=microwave+heat+bag&tag=hotoge-20&ascsubtag=UUhtgUeUpU215488&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F350714%2F7-must-have-tools-for-mobile-phone-repair%2F&asc%5Fcampaign=Short-Term)—do NOT put your phone in the microwave.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Prying and Opening Tools
@@ -77,25 +84,33 @@ _Marcus Mears III / How-To Geek_
 
  Tweezers also help with moving things around. A tiny screw, a vibration motor, a speaker—you don't want to risk losing a part because it slipped through your fingers. They're especially useful for picking up camera modules while avoiding smudges on the lenses.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Tools That Will Make Life Easier
 
  The tools listed above are what you'll need to ensure a risk-free self-service repair. However, there are others that make fixing your phone at home way easier. These aren't strictly required, but may prevent a few headaches.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Anti-Static Wrist Strap
 
  Some people consider this one a must-have since static is very dangerous to electronics. However, there are ways to discharge your static before the repair, like tapping a metal object that's touching the ground. Do that before starting, but also every few minutes during the procedure. An [anti-static wrist strap](https://amazon.com/dp/B08CXQN86W?tag=hotoge-20&ascsubtag=UUhtgUeUpU215488&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F350714%2F7-must-have-tools-for-mobile-phone-repair%2F&asc%5Fcampaign=Short-Term) is more practical if you're doing repairs often—say, you decided on fixing your electronics at home for the foreseeable future.
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Desk Lamp or Headlight
@@ -103,10 +118,10 @@ _Marcus Mears III / How-To Geek_
  A well-lit environment is required to do any repair. If you want some focused lighting as well, a [desk lamp](https://amazon.com/dp/B08SK4DMHR?tag=hotoge-20&ascsubtag=UUhtgUeUpU215488&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F350714%2F7-must-have-tools-for-mobile-phone-repair%2F&asc%5Fcampaign=Short-Term) ([or a headlight](https://amazon.com/dp/B014JUMTXM?tag=hotoge-20&ascsubtag=UUhtgUeUpU215488&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F350714%2F7-must-have-tools-for-mobile-phone-repair%2F&asc%5Fcampaign=Short-Term)) might be a good investment. Both types allow for better adjustments of focus and position—without losing a free hand like you would with a regular flashlight. Desk lamps and headlights help even more with bigger devices, like tablets or laptops, but phone repairs benefit from this as well.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Magnifying Glass
@@ -118,13 +133,6 @@ _Marcus Mears III / How-To Geek_
  Larger screws, like the ones used for furniture, can be removed with homemade solutions if stripped. You can't do that with smartphone screws. They're so small that, if stripped, you'll need to drill through them. This risks damaging other parts if the drill goes too deep or isn't steady. So be sure you're using the right screwdriver and you're not forcing it.
 
 ![A wood board with two screws in it, the left screw is stripped and the right screw is intact.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/08/b176974b.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Josh Hendrickson / Review Geek
 
@@ -150,19 +158,6 @@ Josh Hendrickson / Review Geek
 
 ![Pixel 8 and Pixel 8 Pro under water droplets](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/is-my-pixel-waterproof.png) 
 
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Justin Duino / How-To Geek
 
  No. Big no. Water damage—or any moisture damage—is something serious, and the repair should be done strictly by qualified professionals.
@@ -184,5 +179,24 @@ Justin Duino / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-digital-domination-rise-from-thousands-to-a-million-on-youtube-for-2024/"><u>[New] Digital Domination Rise From Thousands to a Million on YouTube for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-tiletime-effortless-video-mosaics-on-both-oses/"><u>[New] TileTime Effortless Video Mosaics on Both OSes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1-lenovo-thinkbook-exceptional-value-in-high-performance-computing-for-under-750-a-look-into-its-potential-as-the-top-windows-laptop-of-2024/"><u>1. Lenovo ThinkBook: Exceptional Value in High-Performance Computing for Under $750 - A Look Into Its Potential as the Top Windows Laptop of 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-unleashing-youtube-talent-the-best-themes-for-channel-growth/"><u>2024 Approved Unleashing YouTube Talent The Best Themes for Channel Growth</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/3-gadgets-and-devices-ready-today-discover-the-latest-at-zdnet/"><u>3 Gadgets and Devices Ready Today - Discover the Latest at ZDNet!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amazons-october-prime-special-save-250-on-the-latest-apple-m3-macbook-air-full-report-by-zdnet/"><u>Amazon's October Prime Special: Save $250 on the Latest Apple M3 MacBook Air - Full Report by ZDNet</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/fixing-silent-issues-with-high-definition-youtube-video-downloads/"><u>Fixing Silent Issues with High-Definition YouTube Video Downloads</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-on-iphone-14-plus-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock on iPhone 14 Plus</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/labor-day-sale-alert-save-big-on-dell-tech-gear-monitors-pcs-perfect-for-back-to-school-exclusive-deals/"><u>Labor Day Sale Alert: Save Big on Dell Tech Gear (Monitors, PCs) Perfect for Back to School Exclusive Deals</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-download-kinemaster-for-macos-a-beginners-guide/"><u>New In 2024, Download KineMaster for macOS A Beginners Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revolutionize-your-productivity-with-lenovos-innovative-dual-screen-laptop-a-game-changer-for-professionals/"><u>Revolutionize Your Productivity with Lenovo's Innovative Dual-Screen Laptop - A Game Changer for Professionals</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-vivo-x100-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Vivo X100 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/thriving-without-a-direct-step-to-windows-11-heres-how/"><u>Thriving Without a Direct Step to Windows 11, Here's How</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-innovations-revealed-on-day-one-of-ces-2023-a-detailed-overview-by-zdnet/"><u>Top Innovations Revealed on Day One of CES 2023: A Detailed Overview by ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-digital-notepads-in-depth-comparison-and-purchase-guide-insights-by-tech-experts/"><u>Top-Rated Digital Notepads: In-Depth Comparison & Purchase Guide - Insights by Tech Experts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-battle-4000-rugged-laptop-outperforms-dell-latitude-in-extreme-stress-tests-zdnet/"><u>Ultimate Battle: $4,000 Rugged Laptop Outperforms Dell Latitude in Extreme Stress Tests | ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-chatgpts-intelligence-insights-from-openai-on-its-stability/"><u>Understanding ChatGPT's Intelligence - Insights From OpenAI on Its Stability</u></a></li>
+</ul></div>
 

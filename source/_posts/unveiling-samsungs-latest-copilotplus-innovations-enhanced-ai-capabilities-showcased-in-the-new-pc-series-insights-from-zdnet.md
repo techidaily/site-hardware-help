@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Samsung's Latest Copilot+ Innovations: Enhanced AI Capabilities Showcased in the New PC Series - Insights From ZDNet"
-date: 2024-10-19T05:07:42.409Z
-updated: 2024-10-24T17:07:27.949Z
+date: 2024-10-29T21:25:20.174Z
+updated: 2024-10-30T17:32:37.064Z
 tags:
   - laptops
 categories:
@@ -41,10 +41,10 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -60,10 +60,10 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -77,10 +77,10 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -123,20 +123,24 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://smart-video-creator.techidaily.com/avchdmov/"><u>AVCHDへのMOVファイル変換手順とその逆</u></a></li>
-<li><a href="https://fox-within.techidaily.com/guia-completa-crear-copias-de-seguridad-para-multiples-dispositivos-en-windows-10/"><u>Guía Completa: Crear Copias De Seguridad Para Múltiples Dispositivos en Windows 10</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-infinix-hot-40i-is-unlocked-by-drfone-android/"><u>How To Check if Your Infinix Hot 40i Is Unlocked</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/icraft-unveils-the-ultimate-b760m-motherboard-a-delightful-blend-of-animation-and-tech/"><u>ICraft Unveils the Ultimate B760M Motherboard: A Delightful Blend of Animation & Tech</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/in-depth-analysis-of-the-asrock-z79i-lightning-wi-fi-small-package-big-firepower-for-connectivity/"><u>In Depth Analysis of the ASRock Z79#I Lightning Wi-Fi – Small Package, Big Firepower for Connectivity</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/inside-toms-gadget-hub-in-depth-reviews-and-news/"><u>Inside Tom's Gadget Hub: In-Depth Reviews & News</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/insider-look-top-msi-z890-and-b870-motherboards-ready-for-intels-next-gen-arrow-lake-s-cpu-unveiled-in-leaked-database-ahead-of-computex-event/"><u>Insider Look: Top MSI Z890 and B870 Motherboards Ready for Intel's Next-Gen Arrow Lake-S CPU Unveiled in Leaked Database Ahead of Computex Event</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/intel-cpu-gaming-woes-resolved-with-latest-firmware-asus-introduces-fix-for-raptor-lake-variants/"><u>Intel CPU Gaming Woes Resolved with Latest Firmware - Asus Introduces Fix for Raptor Lake Variants</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-msi-developments-z790-motherboard-malfunction-linked-to-pch-chip-defects-confirmed-impact-on-limited-production-run/"><u>Latest MSI Developments: Z790 Motherboard Malfunction Linked to PCH Chip Defects – Confirmed Impact on Limited Production Run</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-error-in-portaudio-for-audacity-windows-11-and-11/"><u>Overcoming Error in PortAudio for Audacity, Windows 11 & 11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/patience-for-chatgpt-desktop-users-discover-a-powerful-open-source-alternative-while-waiting/"><u>Patience for ChatGPT Desktop Users: Discover a Powerful Open Source Alternative While Waiting!</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/stepwise-instructions-connecting-your-new-canon-print-device/"><u>Stepwise Instructions: Connecting Your New Canon Print Device</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-samsung-galaxy-a25-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Samsung Galaxy A25 5G Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/the-art-of-starting-windows-11-service-configuration-explained/"><u>The Art of Starting Windows 11: Service Configuration Explained</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-iphone-xs-advanced-photography-tools-for-2024/"><u>Unveiling iPhone X's Advanced Photography Tools for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-instagram-filters-a-2023-guide-to-enhanced-photography/"><u>[New] In 2024, Instagram Filters A 2023 Guide to Enhanced Photography</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-secrets-to-procuring-gratis-picture-frame-media/"><u>[New] Secrets to Procuring Gratis Picture Frame Media</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-reality-beyond-exploring-vrs-contemporary-state-and-implications-for-2024/"><u>[Updated] Reality Beyond Exploring VR's Contemporary State and Implications for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-shambling-successes-the-cutthroat-list-of-best-zombies-gaming-for-2024/"><u>[Updated] Shambling Successes The Cutthroat List of Best Zombies Gaming for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/auditory-aesthetics-film-from-a-single-frame-for-2024/"><u>Auditory Aesthetics Film From a Single Frame for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/compatible-windows-based-sound-device-drivers-download-here/"><u>Compatible Windows-Based Sound Device Drivers: Download Here</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/convert-videos-effortlessly-download-movavis-free-web-based-mkv-to-wmv-tool/"><u>Convert Videos Effortlessly - Download Movavi's FREE Web-Based MKV to WMV Tool!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-motorola-edge-40-pro-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Motorola Edge 40 Pro</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-dell-network-driver-downloads-for-windows-7-systems/"><u>Free Dell Network Driver Downloads for Windows 7 Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-securely-download-and-implement-usb-e-30-drivers-on-windows-os/"><u>How to Securely Download and Implement USB E 3.0 Drivers on Windows OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-z440-motherboard-and-graphics-cards-find-update-or-download-all-necessary-drivers/"><u>HP Z440 Motherboard & Graphics Cards: Find, Update or Download All Necessary Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-logitechs-rx250-mouse-drivers-seamless-functionality-across-windows-os-7810/"><u>Install Logitech's RX250 Mouse Drivers: Seamless Functionality Across Windows OS (7/8/10)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-update-for-corsair-k70-access-software-and-drivers-here/"><u>Latest Update for Corsair K70 - Access Software & Drivers Here!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-the-world-of-tech-insights-and-reviews-at-toms-hardware/"><u>Navigating the World of Tech: Insights and Reviews at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-simple-guide-microsoft-drivers-downloading-and-updating-on-windows-11-8-and-7/"><u>Quick and Simple Guide: Microsoft Drivers Downloading and Updating on Windows 11, 8 & 7</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-xiaomi-13t-pro-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Xiaomi 13T Pro to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-easy-installation-of-pioneer-dj-ddj-sx2-control-surface-software/"><u>Step by Step: Easy Installation of Pioneer DJ DDJ-SX2 Control Surface Software</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-xiaomi-redmi-13c-5g-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Xiaomi Redmi 13C 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/wireless-methods-to-mirrorapple-iphone-14-pro-and-ipad-to-fire-stick-with-ease-drfone-by-drfone-ios/"><u>Wireless Methods to MirrorApple iPhone 14 Pro & iPad to Fire Stick With Ease | Dr.fone</u></a></li>
 </ul></div>
 

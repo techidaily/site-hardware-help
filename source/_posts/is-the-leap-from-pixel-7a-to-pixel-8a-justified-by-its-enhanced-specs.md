@@ -1,7 +1,7 @@
 ---
 title: Is the Leap From Pixel 7a to Pixel 8a Justified by Its Enhanced Specs?
-date: 2024-09-09T16:15:52.333Z
-updated: 2024-09-10T16:15:52.333Z
+date: 2024-10-30T02:32:04.218Z
+updated: 2024-10-31T04:19:42.612Z
 tags:
   - android
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/google-pixel-8a-vs-google-pixel-7a.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Is the Leap From Pixel 7a to Pixel 8a Justified by Its Enhanced Specs?
 
 ### Quick Links
@@ -28,11 +22,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Pixel 8a vs. Pixel 7a: An Enthusiasts Upgrade](https://location-social.techidaily.com/how-to-change-your-nokia-c110-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * The Pixel 8a features rounded corners and new colors. It also has a 120Hz Actua screen that's brighter and smoother than the Pixel 7a.
@@ -41,15 +36,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Google's latest A-series smartphone, the Pixel 8a, comes with several upgrades over the Pixel 7a. A smoother screen, Tensor G3 SoC, and seven years of Android updates might compel you to get the Pixel 8a right away, but is the mid-year update worth the premium over the Pixel 7a? Let's find out.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Pixel 8a Features Rounded Corners (and New Colors)
 
 ![Image of the Google Pixel 8a on the left and the Pixel 7a on the right.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/google-pixel-8a-vs-google-pixel-7a-design.png) 
+
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Pixel 8a / Pixel 7a
 
@@ -62,21 +64,16 @@ Pixel 8a / Pixel 7a
  Both phones share an [IP67 water and dust resistance rating](https://tech-haven.techidaily.com/how-artificer-intelligence-redefines-what-we-perceive-as-real-or-just-a-story/) and Gorilla Glass 3 protection for the screen. Moreover, the Pixel 8a has an elegant design, is easier to hold, and won't get fingerprints on the back panel as frequently.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Pixel 8a's Screen Gets a Much-Awaited Upgrade
 
 ![Representation of the Pixel 8a's 120Hz screen via a screengrab of its display.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pixel-8a-s-120hz-refresh-rate.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Google
 
  Even though the Pixel 8a has the same 6.1-inch screen size and FHD resolution as the Pixel 7a, Google has upgraded the refresh rate and the peak brightness. So, the latest A-series smartphone now supports a 120Hz refresh rate (non-variable), a significant improvement over the 90Hz refresh rate of its predecessor.
@@ -94,49 +91,33 @@ Google
  Thanks to G3's AI processing capabilities, the Pixel 8a gets some of the most advanced image and audio editing tools, [including Circle to Search](https://ios-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/), Best Take, Magic Editor, and Audio Magic Eraser. We're discussing these features here as they have more to do with the Tensor G3's image signal processor than the camera hardware (which we'll talk about in a bit). Elsewhere, the chipset is based on a 4nm fabrication process, which makes it more efficient than Tensor G2 (5nm).
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Pixel 8a Features the Same Cameras as the Pixel 7a
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ![Image of the Google Pixel 8a in Aloe color, showcasing the dual-camera setup.](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/google-pixel-8a-s-camera-module.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  "If it ain't broke, don't fix it." That's the best phrase that describes the Pixel 8a's cameras. If there's one aspect where the Pixel 7a outperformed all its competitors, it is the phone's cameras. In Marques Brownlee's [blind smartphone camera test](https://www.youtube.com/watch?v=VRoTOE3FqT0), Google's Pixel 7a bested some of the most expensive handsets on the market, including the Pixel 8 Pro, iPhone 15 Pro, Vivo X90 Pro, and more.
 
  Since the Pixel 8a features the same camera sensor (and computational photography tricks) and the improved image signal processor of the Tensor G3, it should click even better photos and videos. On paper, at least, the phone features a 64MP (f/1.9, OIS-enabled) primary sensor and a 13MP (f/2.2) ultrawide shooter. With these cameras, users can shoot 4K videos at 60 fps, which is true for the Pixel 7a as well.
 
  As discussed earlier, the Pixel 8a gets a few AI-based tricks up its sleeve, including Best Take, [Magic Editor](https://fox-http.techidaily.com/enhancing-your-aesthetic-vision/), and Audio Magic Eraser. Beyond these, the Pixel 8a shares many of its camera-centric features with the Pixel 7a, such as Photo Unblur, Real Tone, Portrait Light, and Super Res Zoom (up to 8x).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Both Phones Offer Similar Battery Life
 
 ![Image of the Google Pixel 7a's lock screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/google-pixel-7a.png) 
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 How-To Geek
 
  The Google Pixel 8a ships with a slightly bigger battery (4,492 mAh) than the Pixel 7a (4,385 mAh). However, given that the new smartphone sports a more powerful chipset and a 120Hz Actua screen, it's unlikely that the Pixel 8a will last longer. This is why Google claims a similar battery life for both phones, rating them to last just over 24 hours in the regular mode and up to 72 hours with the [Extreme Battery Saver mode](https://vp-tips.techidaily.com/updated-2024-approved-make-your-images-pop-with-backdrop-removal-techniques-in-canva/).
@@ -152,6 +133,19 @@ Justin Duino / How-To Geek
  Another reason to spend more on the Pixel 8a is Google's promise of providing [seven years of Android updates](https://techtrends.techidaily.com/download-iphones-handbooks-comprehensive-source-for-each-version-explained/). During this time, the phone will receive several security updates and quarterly Pixel drops, which will add new features. Hence, if you purchase the smartphone in 2024, going by Google's promise, it should receive software updates till 2031, which is pretty terrific.
 
  On the other hand, the Pixel 7a will get guaranteed Android version updates until at least May 2026, with security updates until May 2028\. For now, both phones run Google's Pixel UI based on Android 14 and will get a timely [update to Android 15](https://mondly-stories.techidaily.com/mondly-vr-multiplayer-the-future-of-language-learning-in-virtual-reality/) later this year. Clearly, the Pixel 8a is the way to go if you're looking to get the most use for your money.
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Pixel 8a vs. Pixel 7a: An Enthusiasts Upgrade
 
@@ -169,8 +163,6 @@ Justin Duino / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -178,4 +170,19 @@ Justin Duino / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-unbeatable-hard-drives-to-upgrade-your-xbox-gear/"><u>[New] 2024 Approved Unbeatable Hard Drives to Upgrade Your Xbox Gear</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-digital-artistry-perfecting-your-photoshop-skills-for-2024/"><u>[New] Digital Artistry Perfecting Your Photoshop Skills for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-proven-steps-to-enhance-your-facetime-call-experience-for-2024/"><u>[Updated] Proven Steps to Enhance Your FaceTime Call Experience for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-the-complete-guide-to-pc-mac-and-phone-movie-playback/"><u>[Updated] The Complete Guide to PC, Mac & Phone Movie Playback</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pioneering-virtual-realms-equip-yourself-with-these-tech/"><u>2024 Approved Pioneering Virtual Realms - Equip Yourself With These Tech</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-asus-rog-phone-8-pro-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Asus ROG Phone 8 Pro Quickly | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mega-sale-alert-snag-your-dream-machine-with-up-to-57-discount-on-gigabyte-aero-16-shop-now-at-zdnet/"><u>Mega Sale Alert! Snag Your Dream Machine with Up to 57% Discount on Gigabyte Aero 16 - Shop Now at ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/october-prime-time-deals-for-gamers-in-2n4-save-big-up-to-1000-zdnet-insider-tips/"><u>October Prime Time Deals for Gamers in 2N4: Save Big (Up to $1,000) | ZDNET Insider Tips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-65plus-unbeatable-holiday-offers-on-gaming-laptops-your-guide/"><u>Top 65+ Unbeatable Holiday Offers on Gaming Laptops: Your Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722892492266-ultimate-guide-growing-your-twitter-audience-step-by-step/"><u>Ultimate Guide: Growing Your Twitter Audience Step-by-Step</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/why-you-should-opt-for-a-chromebook-over-other-laptops-discover-6-essential-benefits-with-expert-advice-from-zdnet/"><u>Why You Should Opt for a Chromebook Over Other Laptops - Discover 6 Essential Benefits with Expert Advice From ZDNet</u></a></li>
+</ul></div>
 

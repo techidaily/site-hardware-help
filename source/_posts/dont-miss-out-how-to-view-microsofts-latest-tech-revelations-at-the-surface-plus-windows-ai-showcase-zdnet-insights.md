@@ -1,7 +1,7 @@
 ---
 title: Don't Miss Out! How to View Microsoft's Latest Tech Revelations at the Surface + Windows AI Showcase | ZDNET Insights
-date: 2024-10-23T07:33:21.256Z
-updated: 2024-10-25T10:17:00.817Z
+date: 2024-10-24T21:13:59.820Z
+updated: 2024-10-30T17:00:39.209Z
 tags:
   - laptops
 categories:
@@ -61,10 +61,10 @@ That said, I've been testing the 12th Gen Intel model (i7, 16GB RAM, 256GB), and
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## If it ain't broke...
@@ -103,13 +103,6 @@ My main call out here is the difference in USB-C technology. If you're planning 
 
 **Review: [Microsoft Surface Pro 8 for Business](https://www.zdnet.com/article/microsoft-surface-pro-8-for-business-review/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Performance: Intel or Arm?
 
 That's really the story with this year's Surface Pro, though; your use cases and needs ultimately determine whether you're #TeamIntel or #TeamArm. Those in the former camp may want a do-it-all PC that can extend to a 4K monitor or crank out the highest graphics via an external GPU -- at home or at an office. The SQ3-enabled Arm variant takes to Qualcomm's Snapdragon 8cx Gen 3 chip to deliver 5G connectivity and enhanced battery life -- ideal if you're a digital nomad. 
@@ -137,10 +130,10 @@ With the Arm-based model, the Surface Pro 9 gets a Neural Processing Unit (NPU) 
 **Also: [The best webcams for work and play](https://www.zdnet.com/article/best-webcam/)**
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Battery life
@@ -150,10 +143,10 @@ Again, Microsoft only sent me the 12th Gen Intel variant to review so I can only
 [Buy the Microsoft Surface Pro 9 $919 at Walmart](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F1458165054&subId1=zd-__COM_CLICK_ID__-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -161,6 +154,13 @@ Again, Microsoft only sent me the 12th Gen Intel variant to review so I can only
 By now you may be wondering, "Is there anything wrong with the [Surface Pro 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Lightweight-Processor-Multi-Tasking%2Fdp%2FB0B9PXN3CT%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7236a70f-0456-4e26-9be0-13dc0d8d45a3%7Cdtp&dtb=1)?" And to that, I say, "No, and yes." My quibble with the newest flagship two-in-one is that, at a time when competitors like [Lenovo](https://www.zdnet.com/article/lenovo-ifa-announcements/) and [Asus](https://www.zdnet.com/article/asus-zenbook-pro-14-duo-oled-ux8402-review/) are redefining the PC experience, Microsoft -- the Windows maker -- is hardly trying to reinvent the wheel, building for comfort instead. 
 
 That's not to say that the Surface Pro 9 is a bad product; it'll most definitely earn a spot in our [year-end rankings](https://www.zdnet.com/article/best-2-in-1-laptop/). I'm just finding it harder and harder to justify the tablet-laptop hybrid, especially when you factor in the cost of the [$279 keyboard and Slim Pen 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Signature-Keyboard-Slim%2Fdp%2FB09DK21NK7%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7236a70f-0456-4e26-9be0-13dc0d8d45a3%7Cdtp&dtb=1) bundle, and the fact that most users eyeing this particular model will probably opt for, at least, 256GB of storage. That puts the [Surface Pro 9](https://click.linksynergy.com/deeplink?id=IokOf8qagZo&mid=24542&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&murl=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fstore%2Fconfigure%2FSurface-Pro-9%2F93VKD8NP4FVK) firmly in the $1,400 territory, where Apple's [M1 and M2-powered laptops dominate](https://www.zdnet.com/article/apple-macbook-air-m2-2022-review/).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -200,24 +200,21 @@ That's not to say that the Surface Pro 9 is a bad product; it'll most definitely
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-unmatched-audio-changer-applications-for-smartphones/"><u>[New] 2024 Approved Unmatched Audio Changer Applications for Smartphones</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/trategic-insightfulness-comparing-your-channel-to-competitors-crafts-for-2024/"><u>[New] Strategic Insightfulness Comparing Your Channel to Competitors' Crafts for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-boosting-webcam-quality-with-ease-and-precision/"><u>[Updated] In 2024, Boosting WebCam Quality with Ease and Precision</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-seamless-offline-experience-best-playlist-downloader-tools-reviewed-for-2024/"><u>[Updated] Seamless Offline Experience Best Playlist Downloader Tools Reviewed for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-top-80s-effects-compendium-for-professional-editors-for-2024/"><u>[Updated] Top 80S Effects Compendium for Professional Editors for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-fastest-8-capture-tools-unveiled/"><u>2024 Approved Fastest 8 Capture Tools Unveiled</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-high-quality-fb-vids-on-demand/"><u>2024 Approved High-Quality FB Vids on Demand</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-richest-ringtone-repositories-online/"><u>2024 Approved Richest Ringtone Repositories Online</u></a></li>
-<li><a href="https://blog-min.techidaily.com/comment-reparer-un-titre-dvd-mal-lu-avec-handbrake-tutoriel-detaille-et-solutions-efficaces/"><u>Comment Réparer Un Titre DVD Mal Lu Avec HandBrake - Tutoriel Détaillé Et Solutions Efficaces</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-logitech-gaming-mouse-g602-drivers-and-software-for-windows-pcs/"><u>Download Logitech Gaming Mouse (G602) Drivers & Software for Windows PCs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-fix-installing-latest-drivers-for-your-scansnap-ix500-using-windows-software/"><u>Easy Fix: Installing Latest Drivers for Your ScanSnap iX500 Using Windows Software</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-advanced-technology-insights-with-toms-hardware-hub/"><u>Exploring Advanced Technology Insights with Tom's Hardware Hub</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-focusrite-scarlett-solo-now-direct-windows-software-downloads/"><u>Get Your Focusrite Scarlett Solo Now – Direct Windows Software Downloads</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722967627564-get-your-free-windows-8-amd-radeon-graphics-software-update-now/"><u>Get Your Free Windows 8 AMD Radeon Graphics Software Update Now!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-fix-common-bluetooth-drivers-error-on-windows-11-solutions-inside/"><u>How to Fix Common Bluetooth Drivers Error on Windows 11 – Solutions Inside</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/qualcomm-atheros-ar938x-driver-downloads-secure-and-easy/"><u>Qualcomm Atheros AR938X Driver Downloads - Secure and Easy</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/retailer-stats-reveal-worrying-trend-13th-gen-intel-cpus-reportedly-yield-a-massive-increase-in-return-rates-how-do-they-compare-to-amd/"><u>Retailer Stats Reveal Worrying Trend: 13Th Gen Intel CPUs Reportedly Yield a Massive Increase in Return Rates – How Do They Compare to AMD?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-repairing-windows-7-network-adapter-driver-woes-now-fixed/"><u>Step-by-Step Guide to Repairing Windows 7 Network Adapter Driver Woes - NOW FIXED!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-your-hp-officejet-pro-9015-driver-with-this-free-download/"><u>Update Your HP OfficeJet Pro 9015 Driver with This Free Download</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-skyrocket-traffic-key-strategies-for-youtube-videos/"><u>[New] Skyrocket Traffic Key Strategies for YouTube Videos</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Xiaomi Civi 3 Disney 100th Anniversary Edition? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Infinix Smart 7? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-honor-90-gt-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Honor 90 GT to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-icloud-separation-how-to-disconnect-apple-iphone-xr-and-ipad-by-drfone-ios/"><u>In 2024, iCloud Separation How To Disconnect Apple iPhone XR and iPad</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Itel S23+? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/leveraging-likes-and-shares-for-viral-content/"><u>Leveraging Likes and Shares for Viral Content</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209849098-9789535945208-love-outside-the-box/"><u>Love Outside The Box | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ownership-patterns-for-art-from-algorithms/"><u>Ownership Patterns for Art From Algorithms</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-necessary-electronics-for-todays-on-the-move-professionals/"><u>The Ultimate Guide to Necessary Electronics for Today's On-the-Move Professionals</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/transforming-gaming-experience-with-a-curved-ultrawide-display/"><u>Transforming Gaming Experience with a Curved Ultrawide Display</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/transforming-your-space-why-home-assistant-is-the-ultimate-smart-home-solution/"><u>Transforming Your Space: Why Home Assistant Is the Ultimate Smart Home Solution</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unboxing-joy-once-more-i-cant-resist-ankers-funniest-power-bank/"><u>Unboxing Joy - Once More, I Can't Resist Anker's Funniest Power Bank!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/understanding-and-evaluating-your-macbook-battery-performance-and-longevit/"><u>Understanding and Evaluating Your MacBook Battery Performance & Longevit</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unfolding-potential-how-foldable-screen-technology-is-better-suited-for-laptops-than-mobile-devices/"><u>Unfolding Potential: How Foldable Screen Technology Is Better Suited for Laptops than Mobile Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/why-choosing-a-compact-mechanical-keyboard-can-enhance-your-typing-experience-a-closer-look-at-10-benefits/"><u>Why Choosing a Compact Mechanical Keyboard Can Enhance Your Typing Experience: A Closer Look at 10 Benefits</u></a></li>
 </ul></div>
 

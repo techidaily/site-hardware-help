@@ -1,7 +1,7 @@
 ---
 title: "The Future of Computing Unleashed: How Lenovo’s Two-Display Laptop Transformed My Work Efficiency | Insights From ZDNET"
-date: 2024-10-19T01:49:49.709Z
-updated: 2024-10-25T08:19:24.819Z
+date: 2024-10-28T05:03:07.940Z
+updated: 2024-10-30T18:29:35.394Z
 tags:
   - laptops
 categories:
@@ -55,10 +55,10 @@ It's given me a chance to revisit the idea of having two screens on my laptop, a
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Living with a dual-screen laptop
@@ -81,6 +81,13 @@ There's a lot that the dual-screen design of the Yoga Book 9i enables, and the v
 
 Switching back to my single-screen MacBook Pro was, to put it lightly, tough. I missed having all the extra screen real estate and the ability to have two full documents open side-by-side while writing. I felt limited in a way that I wasn't expecting, which says a lot about how effective Lenovo's dual-screen design is.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How does it perform?
 
 The twin 13.3-inch OLED displays look exceptional with deep black levels, vibrant colors, and 400 nits of brightness (a.k.a. enough for most lighting situations). They each sport 2.8K resolutions, so everything looks crisp, and Lenovo even includes 16:10 aspect ratios so you get a bit extra vertical room. They're also Dolby Vision certified. I have zero complaints about these screens, besides the fact they only have 60Hz refresh rates.
@@ -102,10 +109,10 @@ To power the Yoga Book 9i, Lenovo includes an 80W battery that's rated for about
 Charging the laptop is as straightforward as it comes. There's a Rapid Charge adapter in the box that gives you about two hours of runtime with just 15 minutes of charging. I found this mostly to be true, although you have to shut the lid if you want charging speeds to really pick up.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Evaluating Lenovo's dual-screen software
@@ -128,19 +135,6 @@ It's weird; I've had apps like Chrome and Spotify show up on the lower display w
 
 I'll give Lenovo credit, the new Yoga Book 9i feels smoother than the old one did. I don't notice as much scruff or weird glitches with the software, and the bundled Bluetooth keyboard doesn't produce nearly as many double-key entries as before. Still, it's not a perfect experience, which is something to keep in mind if you're going to spend $2,000 on a laptop.
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## One thing to keep in mind
 
 Having a laptop with two screens means you'll have to lug around a separate keyboard, mouse, and kickstand, all three of which (plus a stylus) come in the box. It's a lot of separate things you have to remember to bring, and I'm going to be honest with you, it can be inconvenient.
@@ -152,10 +146,10 @@ When I'm working on my MacBook or -- quite frankly -- any other laptop in my ars
 Of course, you'll eventually get used to it, but it'll never be as convenient as shutting your laptop lid and moving on with your day.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -196,22 +190,20 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-boosting-youtube-success-mastery-with-tubebuddy/"><u>[New] 2024 Approved Boosting YouTube Success Mastery with TubeBuddy</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-crafting-cinematic-magic-a-filmmakers-guide-to-light/"><u>[New] 2024 Approved Crafting Cinematic Magic A Filmmaker's Guide to Light</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-channeling-creativity-get-green-screen-tips-from-youtube/"><u>[Updated] 2024 Approved Channeling Creativity Get Green Screen Tips From YouTube</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-solutions-for-enabling-audio-in-obs-broadcasts/"><u>2024 Approved Solutions for Enabling Audio in OBS Broadcasts</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/cutting-costs-and-carbon-footprints-essential-guide-to-energy-savings-in-offices-building-green-magazine/"><u>Cutting Costs and Carbon Footprints: Essential Guide to Energy Savings in Offices - Building Green Magazine</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722961239521-easy-synaptic-driver-downloads-and-updates-for-windows-get-started-now/"><u>Easy Synaptic Driver Downloads and Updates for Windows - Get Started Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-lenovo-x220-up-and-running-efficient-driver-downloads/"><u>Get Your Lenovo X220 Up and Running - Efficient Driver Downloads!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/guide-registering-access-to-the-latest-chatgpt-add-ons/"><u>Guide: Registering Access to the Latest ChatGPT Add-Ons</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-cutting-edge-video-editing-on-mac-the-top-software-of/"><u>In 2024, Cutting-Edge Video Editing on Mac The Top Software Of</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-oppo-a38-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Oppo A38</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-download-comprehensive-guide-to-installing-ft232-rs-232-drivers/"><u>Quick Download: Comprehensive Guide to Installing FT232 RS-232 Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722974604384-quick-guide-to-updating-your-brother-mfc-7360n-printer-software-on-windows-systems/"><u>Quick Guide to Updating Your Brother MFC-7360N Printer Software on Windows Systems!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/successful-guide-downloading-and-updating-d-link-drivers-on-your-windows-pc/"><u>Successful Guide: Downloading and Updating D-Link Drivers on Your Windows PC</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-hardware-your-one-stop-tech-review-destination/"><u>Tom's Hardware: Your One-Stop Tech Review Destination</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-your-ultimate-source-list-the-top-picks-of-copyright-friendly-comic-soundtracks-websites-for-2024/"><u>Updated Your Ultimate Source List The Top Picks of Copyright-Friendly Comic Soundtracks Websites for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/wireless-tv-streaming-made-easy-using-mobile-data-on-your-amazon-firestick/"><u>Wireless TV Streaming Made Easy: Using Mobile Data on Your Amazon Firestick</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/zen-5-ryzen-ai-9-hx-surpasses-intel-20-core-and-apple-m3-max-in-passmark-an-in-depth-comparison/"><u>Zen 5 Ryzen AI 9 HX Surpasses Intel 20-Core & Apple M3 Max in PassMark: An In-Depth Comparison</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-step-by-step-guide-to-find-youtube-hidden-videos/"><u>[New] In 2024, Step-By-Step Guide to Find YouTube Hidden Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-hero5-mastery-a-comprehensive-guide-to-photo-and-video-excellence/"><u>[Updated] 2024 Approved Hero5 Mastery A Comprehensive Guide to Photo and Video Excellence</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-live-stream-audience-analysis-solutions/"><u>[Updated] 2024 Approved Live Stream Audience Analysis Solutions</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-streamlined-approach-record-movies-everywhere-you-go/"><u>[Updated] 2024 Approved Streamlined Approach Record Movies Everywhere You Go</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/combination-therapy-with-drugs-such-as-vancomycin-or-linezolid-may-be-necessary-for-treating-certain-resistant-infections/"><u>Combination Therapy with Drugs Such as Vancomycin or Linezolid May Be Necessary for Treating Certain Resistant Infections</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/enhance-your-sim-racing-setup-with-logitech-driving-force-pro-download-for-windows-win-7-8-and-10/"><u>Enhance Your Sim Racing Setup With Logitech Driving Force Pro - Download for Windows (Win 7, 8 & 10)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fix-and-improve-performance-a-complete-guide-to-intels-optane-drivers-download-and-update-process-in-windows/"><u>Fix & Improve Performance: A Complete Guide to Intels Optane Drivers Download and Update Process in Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-new-brother-hl-2270dw-driver-for-your-windows-pc-step-by-step-download-tutorial/"><u>Get the New Brother HL- 2270DW Driver for Your Windows PC – Step by Step Download Tutorial</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-honor-100-pro-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Honor 100 Pro Phone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-understanding-image-validity-on-insta/"><u>In 2024, Understanding Image Validity on Insta</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-easy-installation-of-scansnap-software-on-your-pc/"><u>Quick & Easy Installation of ScanSnap Software on Your PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ryzen-ai-9-hx-370-vs-intel-single-core-showdown-wins-with-zen-5-advantage-bests-core-ultra-7-and-rivals/"><u>Ryzen AI 9 HX 370 Vs. Intel: Single-Core Showdown Wins with Zen 5 Advantage - Bests Core Ultra 7 & Rivals</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/streamline-your-tweets-with-correct-videography-aspect-ratio/"><u>Streamline Your Tweets with Correct Videography (Aspect Ratio)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723262325418-the-aftermath-of-zen-5s-initial-ryzen-9000-die-failure-a-deep-dive-into-cracked-dice-and-residual-solder-evidence/"><u>The Aftermath of Zen 5'S Initial Ryzen 9000 Die Failure - A Deep Dive Into Cracked Dice & Residual Solder Evidence</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-scavengers-pc-crashes-solutions-and-tips-revealed/"><u>Troubleshooting Scavengers PC Crashes - Solutions & Tips Revealed</u></a></li>
 </ul></div>
 

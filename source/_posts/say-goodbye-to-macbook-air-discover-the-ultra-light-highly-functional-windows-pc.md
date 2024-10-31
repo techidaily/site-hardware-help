@@ -1,7 +1,7 @@
 ---
 title: "Say Goodbye to MacBook Air: Discover the Ultra-Light, Highly Functional Windows PC"
-date: 2024-10-18T07:56:09.825Z
-updated: 2024-10-25T07:39:50.837Z
+date: 2024-10-30T02:21:10.267Z
+updated: 2024-10-31T01:33:32.628Z
 tags:
   - laptops
 categories:
@@ -91,10 +91,10 @@ You can also navigate any element of the OS like you would a browser, by swiping
 Finally, the battery life is quite good. Lenovo advertises over 12 hours of use, but I got a little over 10 in my testing. The physical size of the device is going to prevent the 29WHr battery from going much beyond the 10- to 12-hour mark. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -131,21 +131,18 @@ The [Lenovo Chromebook Duet 11-inch](https://shop-links.co/link/?url=https%3A%2F
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-ultimate-laptop-screencapture-techniques-reviewed/"><u>[New] 2024 Approved Ultimate Laptop ScreenCapture Techniques Reviewed</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-best-mobile-photography-tools-reviewed-iphone-and-android-comparisons/"><u>[New] In 2024, Best Mobile Photography Tools Reviewed IPhone & Android Comparisons</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-setting-up-auto-play-youtube-content-on-facebook-platform/"><u>[Updated] Setting Up Auto-Play YouTube Content on Facebook Platform</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-movavi-video-pro-review-release/"><u>2024 Approved Movavi Video Pro Review Release</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862816860-epic-price-drop-for-the-ultrawide-samsung-oled-odyssey-g9-49-of-stunning-visuals-at-bargain-prices/"><u>Epic Price Drop for the Ultrawide Samsung OLED Odyssey G9 - 49 of Stunning Visuals at Bargain Prices</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/get-more-from-your-entertainment-budget-premium-roku-savings-at-prime-day-extravaganza/"><u>Get More From Your Entertainment Budget: Premium Roku Savings at Prime Day Extravaganza!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862770633-get-your-hands-on-the-budget-friendly-240hz-acer-nitro-gaming-monitor-for-just-a-bargain-price-of-159/"><u>Get Your Hands on the Budget-Friendly 240Hz Acer Nitro Gaming Monitor for Just a Bargain Price of $159!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862819779-grab-your-perfectly-rated-affordable-alienware-oled-monitor-with-360hz-refresh-rate-today/"><u>Grab Your Perfectly Rated, Affordable Alienware OLED Monitor with 360Hz Refresh Rate Today</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/how-the-dji-air-2s-revolutionizes-drone-technology-an-in-depth-product-review/"><u>How the DJI Air 2S Revolutionizes Drone Technology - An In-Depth Product Review</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862790780-memorial-day-sale-unbeatable-price-on-dell-s322ndm-game-monitor-at-only-279/"><u>Memorial Day Sale: Unbeatable Price on Dell S322nDM Game Monitor at Only $279</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pc-optimization-101-overcoming-the-frontier-game-freezing-problems-on-windows-systems/"><u>PC Optimization 101: Overcoming the 'Frontier' Game Freezing Problems on Windows Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-your-screen-with-smooth-window-10-captions/"><u>Streamline Your Screen with Smooth Window 10 Captions</u></a></li>
-<li><a href="https://win-dash.techidaily.com/ultimate-tutorial-on-refreshing-usb-drivers-for-samsung-mobile-devices/"><u>Ultimate Tutorial on Refreshing USB Drivers for Samsung Mobile Devices</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unlocking-performance-secrets-tips-from-toms-hardware-analysis/"><u>Unlocking Performance Secrets - Tips From Tom's Hardware Analysis</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-the-latest-in-electronics-a-tour-of-toms-hardware-domain/"><u>Unveiling the Latest in Electronics - A Tour of Tom's Hardware Domain</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-the-latest-tech-a-closer-look-at-tom/"><u>Unveiling the Latest Tech: A Closer Look at Tom'</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-masterclass-top-10-makeup-artists-shaping-online-beauty-trends/"><u>[New] Masterclass Top 10 Makeup Artists Shaping Online Beauty Trends</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-cultivating-patience-with-youtube-disapproval/"><u>2024 Approved Cultivating Patience with YouTube Disapproval</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-corsair-keyboard-software-for-windows-get-your-latest-version-free/"><u>Download Corsair Keyboard Software for Windows - Get Your Latest Version FREE</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-hp-wireless-drivers-for-windows-pcs/"><u>Download HP Wireless Drivers for Windows PCs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/efficient-chatgpt-engagement-in-multilingual-scenarios/"><u>Efficient ChatGPT Engagement in Multilingual Scenarios</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-driver-downloads-for-epson-printers-on-windows-systems/"><u>Effortless Driver Downloads for Epson Printers on Windows Systems</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhancing-synergy-how-ai-empowers-developers-and-business-teams-insights-from-zdnet/"><u>Enhancing Synergy: How AI Empowers Developers & Business Teams - Insights From ZDNet</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/essential-knowledge-for-capturing-your-dell-device-writingscreen-for-2024/"><u>Essential Knowledge for Capturing Your Dell Device' Writingscreen for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-ultimate-techniques-for-youtube-video-format-switching/"><u>In 2024, Ultimate Techniques for YouTube Video Format Switching</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revisiting-iconic-gaming-history-an-in-depth-review-of-super-mario-bros-for-nostalgic-handheld-fun/"><u>Revisiting Iconic Gaming History: An In-Depth Review of Super Mario Bros. For Nostalgic Handheld Fun</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-complete-2024-solution-to-audio-video-mismatch-problems/"><u>The Complete 2024 Solution to Audio-Video Mismatch Problems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-and-install-lenovo-thinkpad-x260-drivers-on-windows-11-step-by-step-guide/"><u>Update and Install Lenovo ThinkPad X260 Drivers on Windows 11: Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/wireless-driver-for-windows-7-download-and-install-easily/"><u>Wireless Driver for Windows 7 Download & Install EASILY</u></a></li>
 </ul></div>
 

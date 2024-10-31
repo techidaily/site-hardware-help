@@ -1,7 +1,7 @@
 ---
 title: Is the Samsung Galaxy S23+ a Worthwhile Update From Its Predecessors?
-date: 2024-09-09T16:15:53.784Z
-updated: 2024-09-10T16:15:53.784Z
+date: 2024-10-25T01:13:15.213Z
+updated: 2024-10-30T19:09:55.486Z
 tags:
   - android
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/32facac0.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Is the Samsung Galaxy S23+ a Worthwhile Update From Its Predecessors?
 
 ### Quick Links
@@ -35,26 +29,8 @@ Related: [Samsung Galaxy S23 Ultra Review: The Total Package...Again](https://ww
 
 ![32facac0](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/32facac0.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-ec_final.png) 
 
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  Samsung Galaxy S23+
 
 8/ 10 
@@ -140,21 +116,23 @@ Justin Duino / Review Geek
  Oh, and a quick side note; the Galaxy S23+ [doesn't fit in S22+ cases](https://screen-mirror.techidaily.com/in-2024-how-to-mirror-vivo-x100-pro-to-mac-drfone-by-drfone-android/). This is due to a very small difference in size---a difference of less than half a millimeter. Did Samsung make this change to sell more phone cases? Either way, it's frustrating to see such casual wastefulness from a company that talks about environmentalism every time it debuts a new product.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Cameras: Excellent, but Similar to Last Year's Model
 
 ![Camera app on the Samsung Galaxy S23+](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/0e7a2690.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Justin Duino / Review Geek
 
  Predictably, the Samsung Galaxy S23+ offers industry-leading camera quality. Photos from this device are bright, colorful, and crisp, even in unfavorable lighting. That said, Samsung's camera software can be a bit heavy-handed, so some photos come out looking over-sharpened or over-saturated.
@@ -169,12 +147,6 @@ Close
 
  As for video, the Galaxy S23+ supports HDR10+ and can hit a maximum video resolution of 8K at 30FPS. But most people will shoot in a lower resolution, such as 4K (at 60FPS) and 1080p (also 60 FPS, though the frame rate goes a lot higher for slow-mo video). I have no complaints or notes about Samsung's video quality---it looks great and it's stable, just as you'd expect.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Performance: Fast and Warm
 
 ![Rear camera lenses on the back of the Samsung Galaxy S23+](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/675ed859.jpg) 
@@ -198,11 +170,18 @@ Related: [The Best Cases for the Samsung Galaxy S23 and S23+](https://www.review
 ![Edge panel open on the Samsung Galaxy S23+](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/0e162938.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Justin Duino / Review Geek
 
  Samsung is finally learning to compete with Apple's support cycle. The Galaxy S23+ comes with four years of guaranteed OS updates, plus five years of security updates. That means you can reliably use this phone until 2028! But there's one part of Samsung's software strategy that leaves me frustrated---don't kill me, but I think One UI is getting a little out of hand.
@@ -217,21 +196,16 @@ Related: [When Is It Time to Upgrade Your Smartphone?](https://www.reviewgeek.co
 
  If you're a huge fan of Samsung's UI, the S23+ shouldn't be a big adjustment. But if you're coming from another phone, especially a device that sticks with the stock Android experience, get ready to spend a lot of time in Settings.
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The Gist: A Great Phone, but an Incremental Upgrade
 
 ![Quick settings on the Samsung Galaxy S23+](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/9977c6fd.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Justin Duino / Review Geek
 
@@ -257,8 +231,6 @@ Justin Duino / Review Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -266,4 +238,24 @@ Justin Duino / Review Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-tips-for-finding-trending-videos-on-facebook/"><u>2024 Approved Tips for Finding Trending Videos on Facebook</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ace-the-sales-of-october-prime-day-2024-top-discounted-buys-still-in-stock/"><u>Ace the Sales of October Prime Day 2024: Top Discounted Buys Still in Stock</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-and-confidentiality-concerns-is-it-safe-to-share-private-information/"><u>ChatGPT and Confidentiality Concerns – Is It Safe to Share Private Information?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-innovative-windows-friendly-thunderbolt-12-in-1-dock-with-unique-charging-capability-insider-view/"><u>Discover the Innovative Windows-Friendly Thunderbolt 12-in-1 Dock with Unique Charging Capability - Insider View</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-tutorial-for-activating-icloud-from-iphone-se-2020-safe-and-legal-by-drfone-ios/"><u>Easy Tutorial for Activating iCloud from iPhone SE (2020) Safe and Legal</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/finding-and-implementing-asus-wifi-adapter-drivers-a-step-by-step-process/"><u>Finding and Implementing ASUS WiFi Adapter Drivers – A Step-by-Step Process</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/game-on-hp-victus-15-laptop-now-a-bargain-find-for-530-at-best-buy-revealed-by-zdnet-experts/"><u>Game On! HP Victus 15 Laptop Now a Bargain Find for $530 at Best Buy, Revealed by ZDNet Experts</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-your-samsung-galaxy-m14-5g-lock-screen-password-by-drfone-android/"><u>How to Reset your Samsung Galaxy M14 5G Lock Screen Password</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-crafting-youtube-channel-trailers-the-ultimate-guide-to-profitability/"><u>In 2024, Crafting YouTube Channel Trailers The Ultimate Guide to Profitability</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-top-tricks-for-producing-high-quality-powerpoint-recordings/"><u>In 2024, Top Tricks for Producing High-Quality PowerPoint Recordings</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210200040-9780760364994-in-focus-reiki/"><u>In Focus Reiki | Free Book</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-content-moderation-insights-into-fbs-tribunal/"><u>Navigating Content Moderation: Insights Into FB's Tribunal</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-intriguing-trend-of-fixing-cracked-macbook-pro-screens-a-closer-look-at-consumer-motivation/"><u>The Intriguing Trend of Fixing Cracked MacBook Pro Screens - A Closer Look at Consumer Motivation</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-october-2024-prime-day-electronics-unbeatable-laptop-bargains-on-zdnet/"><u>Top-Rated October 2024 Prime Day Electronics: Unbeatable Laptop Bargains on ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-oled-laptop-picks-thoroughly-evaluated-by-tech-pros-zdnet/"><u>Top-Rated OLED Laptop Picks - Thoroughly Evaluated by Tech Pros | ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/transform-your-home-workspace-with-adonit-nests-sale-premium-multi-port-usb-hub-now-only-65-find-out-more-inside-zdnet/"><u>Transform Your Home Workspace with Adonit Nest's Sale: Premium Multi-Port USB Hub Now Only $65, Find Out More Inside ZDNET!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-the-premier-audio-for-gamers-comprehensive-testing-results/"><u>Ultimate Guide to the Premier Audio for Gamers : Comprehensive Testing Results</u></a></li>
+</ul></div>
 

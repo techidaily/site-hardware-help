@@ -1,7 +1,7 @@
 ---
 title: "Save Big on Black Friday: Discover the Ultimate Cyber Monday Bargains for 202N, Curated by ZDNet"
-date: 2024-10-18T07:51:04.628Z
-updated: 2024-10-24T16:18:36.240Z
+date: 2024-10-24T01:19:04.174Z
+updated: 2024-10-31T05:08:17.983Z
 tags:
   - laptops
 categories:
@@ -38,6 +38,14 @@ With Black Friday 2023 ending and shoppers looking to Cyber Monday to save money
 * [Dell WD15 Monitor Dock](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMonitor-Adapter-USB-C-450-AEUO-7FJ4J%2Fdp%2FB01MU4SNK5%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C253dc173-9417-4fb0-8bbe-5a70cdc1d144%7Cdtp&dtb=1) for $82 (save $118)
 * [Dell 27-inch 4K FreeSync monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-S2721QS-Ultra-Thin-DisplayPort-Certified%2Fdp%2FB08DQWG3JG%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C253dc173-9417-4fb0-8bbe-5a70cdc1d144%7Cdtp&dtb=1) for $230 (save $100)  
 ---  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## More Cyber Monday 2023 Dell deals
 
 [Dell Inspiron 15 3511 laptop Save $185](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-Inspiron-3511-Non-Touch-Laptop%2Fdp%2FB09GYN91J9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C253dc173-9417-4fb0-8bbe-5a70cdc1d144%7Cdtp&dtb=1) 
@@ -108,16 +116,10 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell Inspiron 16 Plus](https://www.anrdoezrs.net/click-9041660-15679772-1700503970000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): $1,000 (save $650)
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Best Cyber Monday Dell desktop deals
@@ -127,13 +129,6 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell OptiPlex 7010](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1764723-REG%2Fdell%5F6f73r%5Foptiplex%5F7010%5Fsmall.html): $699 (save $300)
 * [Dell Inspiron 27 7720 Intel Core i5](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-Inspiron-24-5400-Touchscreen%2Fdp%2FB0BGQSKN8N%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C253dc173-9417-4fb0-8bbe-5a70cdc1d144%7Cdtp&dtb=1): $744 (save $186)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best Cyber Monday Dell monitor deals
 
 * [Dell S2721HS 27-inch monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-S2721HS-Adjustable-Response-FreeSync%2Fdp%2FB09S4ZZMS9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C253dc173-9417-4fb0-8bbe-5a70cdc1d144%7Cdtp&dtb=1): $150 (save $70)
@@ -141,16 +136,16 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell SE2422HX 24-inch monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-inch-Monitor-1920-1080%2Fdp%2FB096MXR34N%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C253dc173-9417-4fb0-8bbe-5a70cdc1d144%7Cdtp&dtb=1): $80 (save $50)
 * [Dell 32-inch 4K monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-SE3223Q-31-5-inch-Monitor-Gray%2Fdp%2FB0B2GRMGFL%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C253dc173-9417-4fb0-8bbe-5a70cdc1d144%7Cdtp&dtb=1): $248 (save $117)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## When is Cyber Monday 2023?
 
 Cyber Monday happens each year on the Monday following Black Friday. This year, Cyber Monday is today, November 27.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When was Black Friday 2023?
 
@@ -159,10 +154,16 @@ Black Friday 2023 was on November 24, 2023\.
 Black Friday is always the day after Thanksgiving, which was November 23 this year.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How did we choose these Cyber Monday deals?
@@ -241,18 +242,24 @@ ZDNET's experts have been searching for Cyber Monday deals across sites like Ama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/updated-the-key-elements-for-effective-spotify-ad-execution/"><u>[Updated] The Key Elements for Effective Spotify Ad Execution</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/complete-step-by-step-guide-downloading-hp-printer-drivers-for-windows-11-users/"><u>Complete Step-by-Step Guide: Downloading HP Printer Drivers for Windows 11 Users</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/descubrimiento-divertido-del-cuerpo-humano-en-espanol-del-pelo-al-rinon/"><u>Descubrimiento Divertido Del Cuerpo Humano en Español: Del Pelo Al Riñón</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-hp-laserjet-pro-m428fdw-printer-drivers-compatible-with-windows-10-11-and-7/"><u>Download HP LaserJet Pro M428fdw Printer Drivers: Compatible with Windows 10, 11 & 7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-steelseries-engine-update-now-free-download-compatible-with-windows-11/"><u>Get the Latest SteelSeries Engine Update Now [Free Download] Compatible with Windows 11</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-verizon-iphone-14-by-drfone-ios/"><u>How to Unlock Verizon iPhone 14</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-the-secret-to-affordable-final-cut-pro-education-bundles-revealed/"><u>New In 2024, The Secret to Affordable Final Cut Pro Education Bundles Revealed</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722978219960-quick-install-your-guide-to-downloading-samsung-m20n70fw-drivers-today/"><u>Quick Install: Your Guide to Downloading Samsung M20n70fw Drivers Today</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/solution-uncover-the-reasons-behind-your-sluggish-hp-notebook/"><u>Solution: Uncover the Reasons Behind Your Sluggish HP Notebook</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-to-flushing-your-android-devices-memory-cache/"><u>Step-by-Step Guide to Flushing Your Android Device's Memory Cache</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-ultimate-asus-display-a-journey-through-precision-and-color/"><u>The Ultimate ASUS Display A Journey Through Precision and Color</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-review-ultimate-guide/"><u>Tom's Tech Review: Ultimate Guide</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/which-is-better-for-vloggers-on-facebook-vertical-or-horizontal-for-2024/"><u>Which Is Better for Vloggers on Facebook Vertical or Horizontal for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-excellent-ios-tools-the-hottest-choices-for-simulating-psp-games/"><u>[Updated] 2024 Approved Excellent iOS Tools The Hottest Choices for Simulating PSP Games</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-the-ultimate-resource-50plus-no-fee-visual-effects-websites-reviewed/"><u>[Updated] 2024 Approved The Ultimate Resource 50+ No-Fee Visual Effects Websites Reviewed</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-how-to-create-unique-ringtone-from-social-media-music-tracks/"><u>[Updated] How To Create Unique Ringtone From Social Media Music Tracks</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-humor-hits-the-best-funny-youtube-short-ideas-on-the-block/"><u>[Updated] In 2024, Humor Hits The Best Funny YouTube Short Ideas on the Block</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-snagging-youtube-vanished-videos-your-2-path-guide/"><u>[Updated] Snagging YouTube Vanished Videos Your 2-Path Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/guide-effortless-mobile-printing-on-your-android-device/"><u>Guide: Effortless Mobile Printing on Your Android Device</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-enabledisable-automatic-screen-rotation-on-your-android-device-effortlessly/"><u>How to Enable/Disable Automatic Screen Rotation on Your Android Device Effortlessly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-fix-a-non-responsive-android-phone-expert-troubleshooting-guide/"><u>How to Fix a Non-Responsive Android Phone: Expert Troubleshooting Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-of-apple-iphone-14-pro-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data of Apple iPhone 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-comprehensive-angles-in-filming-versus-diverse-dimensions/"><u>In 2024, Comprehensive Angles in Filming versus Diverse Dimensions</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-realme-c53-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Realme C53? Try These Fixes</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-the-essential-guide-crafting-a-standout-discord-profile-with-custom-emojis/"><u>In 2024, The Essential Guide Crafting a Standout Discord Profile with Custom Emojis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/is-it-possible-to-function-with-an-android-device-sans-google-sign-in/"><u>Is It Possible to Function with an Android Device Sans Google Sign-In?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-oneplus-flagship-now-packs-enhanced-operating-system-features/"><u>Latest OnePlus Flagship Now Packs Enhanced Operating System Features</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-android-a-complete-guide-to-copy-pasting-text-urls-and-images/"><u>Mastering Android: A Complete Guide to Copy-Pasting Text, URLs & Images</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/maximize-your-android-experience-with-these-10-must-use-gboard-keyboard-shortcuts-and-features/"><u>Maximize Your Android Experience with These 10 Must-Use Gboard Keyboard Shortcuts and Features</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/popular-apple-watch-functionality-comes-to-the-latest-google-pixel-wearable/"><u>Popular Apple Watch Functionality Comes to the Latest Google Pixel Wearable</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/short-on-time-discover-the-top-15-android-titles-perfect-for-brief-breaks/"><u>Short on Time? Discover the Top 15 Android Titles Perfect for Brief Breaks</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ultimate-evaluation-of-the-apple-ipad-mini-5-compact-device-maximum-performance/"><u>Ultimate Evaluation of the Apple iPad Mini 5: Compact Device, Maximum Performance</u></a></li>
 </ul></div>
 

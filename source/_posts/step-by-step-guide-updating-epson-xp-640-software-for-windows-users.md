@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Updating Epson XP-640 Software for Windows Users"
-date: 2024-08-26T08:06:18.694Z
-updated: 2024-08-27T08:06:18.694Z
+date: 2024-10-25T06:04:43.287Z
+updated: 2024-10-30T21:21:55.716Z
 tags:
   - win11
   - win10
@@ -42,17 +42,28 @@ thumbnail: https://thmb.techidaily.com/f98d1257bcb7974aa260f701a6b07a2fc3189bb34
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-132.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Under the**Recommended Driver(s)** section, click**Select** , then click**Download** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-133.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Run the downloaded file, and follow the on-screen instructions to finish the installation.
 
  This is time consuming. If this method doesn’t work for you, don’t worry. There is something else to try.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Download and update the Canon MX490 printer driver automatically
 
  Manually downloading and installing the Canon MX490 driver requires time and computer skills. If you don’t have patience, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -68,8 +79,12 @@ thumbnail: https://thmb.techidaily.com/f98d1257bcb7974aa260f701a6b07a2fc3189bb34
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-128.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged printer driver to automatically download and install the correct version the this driver (you can do this with the**FREE** version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).
@@ -77,8 +92,18 @@ thumbnail: https://thmb.techidaily.com/f98d1257bcb7974aa260f701a6b07a2fc3189bb34
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-129.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4) Restart your computer to make it take effect.
 
 This is rather easy to update your Canon MX490 printer driver, right?
@@ -95,8 +120,6 @@ This is rather easy to update your Canon MX490 printer driver, right?
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -104,4 +127,23 @@ This is rather easy to update your Canon MX490 printer driver, right?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-how-to-get-snapchat-on-mac-in-2024/"><u>[New] How to Get Snapchat on Mac, In 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-discover-the-top-free-tools-for-youtube-image-downloads/"><u>[Updated] In 2024, Discover the Top Free Tools for YouTube Image Downloads</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-professional-gamers-guide-top-video-cards-on-youtube/"><u>[Updated] In 2024, Professional Gamer's Guide Top Video Cards on YouTube</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/acquiring-acer-predator-xb271h-pristine-drivers-fast-and-simple-guide-to-optimal-display-performance/"><u>Acquiring Acer Predator XB271H Pristine Drivers - Fast & Simple Guide to Optimal Display Performance</u></a></li>
+<li><a href="https://techtrends.techidaily.com/axiowin-dvd-ripper-pro-freeware-effortless-dvd-conversion-for-mobile-devices-in-mp4-and-avi/"><u>AxioWin DVD Ripper Pro (Freeware): Effortless DVD Conversion for Mobile Devices in MP4 and AVI</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-canon-mp560-printer-driver-fast-and-simple-installation-guide/"><u>Download Canon MP560 Printer Driver: Fast & Simple Installation Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fast-track-quick-install-rs232-to-usb-communication-drivers/"><u>Fast Track: Quick-Install RS232 to USB Communication Drivers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gaming-without-glitches-boosting-your-fps-on-destiny-2s-beyond-light/"><u>Gaming Without Glitches - Boosting Your FPS on Destiny 2'S Beyond Light</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-amd-graphics-card-drivers-blockchain-compatibility-and-setup-for-pc-users/"><u>Get the Latest AMD Graphics Card Drivers: Blockchain Compatibility & Setup for PC Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-fix-a-non-detectable-external-hard-drive-on-windows-10-solutions-inside/"><u>How to Fix a Non-Detectable External Hard Drive on Windows 10 - Solutions Inside</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-13-pro-with-a-mask-on-by-drfone-ios/"><u>How to Unlock iPhone 13 Pro with a Mask On</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-digital-precision-with-toms-hardware-guide/"><u>Navigating Digital Precision with Tom's Hardware Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/new-driver-upgrade-now-released-for-logitechs-extreme/"><u>New Driver Upgrade Now Released for Logitech's Extreme</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-how-to-create-dynamic-summaries-by-groupingcollapsing-excel-rows/"><u>Step-by-Step Guide: How to Create Dynamic Summaries by Grouping/Collapsing Excel Rows</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-to-tp-link-re305-wireless-range-extender-a-comprehensive-ac1200-unit-review/"><u>Ultimate Guide to TP-Link RE305 Wireless Range Extender: A Comprehensive AC1200 Unit Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/updated-canon-mf4500-drivers-available-secure-download-link-inside/"><u>Updated Canon MF4500 Drivers Available – Secure Download Link Inside</u></a></li>
+</ul></div>
 

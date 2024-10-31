@@ -1,7 +1,7 @@
 ---
 title: "Save Big on Black Friday: Discover the Ultimate Cyber Monday Bargains for 202N, Curated"
-date: 2024-10-23T16:44:12.409Z
-updated: 2024-10-24T22:42:59.556Z
+date: 2024-10-27T23:22:43.001Z
+updated: 2024-10-30T18:31:51.618Z
 tags:
   - laptops
 categories:
@@ -86,10 +86,10 @@ Dell/ZDNET
 * [Lenovo V15 Essential Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Essential-Quad-core-Processor-Ethernet%2Fdp%2FB0D8524KVL%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca79d1bc2-50b8-42d1-af96-b83cdf49adf7%7Cdtp&dtb=1) for $399 ($100 off) - Lenovo's V15 laptop is a well-rounded machine with a full 1TB of storage, which is enough for multiple years' worth of documents and files.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Best gaming laptops under $1,000
@@ -117,6 +117,19 @@ Kyle Kucharski/ZDNET
 * [Acer Swift Go 14](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Facer-Display-Experiences-Processor-SFG14-72T-718K%2Fdp%2FB0CNDTGC77%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca79d1bc2-50b8-42d1-af96-b83cdf49adf7%7Cdtp&dtb=1) for $699 (save $300): This lightweight laptop features an Intel Core Ultra 7 155H CPU, Intel Arc graphics, 16GB of RAM, and a 512GB SSD.
 * [HP 17-inch Touch Laptop](https://qvc.uikc.net/c/159047/565130/9368?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.qvc.com%2Fhp-17-touch-laptop-intel-n200-4gb-ram-128gb-ssd-w-hp-mouse-%2526-ms365.product.E324465.html&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for $479 (Save $80): For a large-screen laptop with touch capabilities, HP's 17-inch Touch comes in a variety of bold colorways, and is bundled with a mouse in this QVC deal. This is a solid choice for users who want a large screen to play media, but only need a basic hardware configuration.
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Best Buy laptop deals
 
 * [Asus ROG Strix Scar 17](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-rog-strix-scar-17-3-240hz-gaming-laptop-wqhd-amd-ryzen-9-x3d-with-32gb-memory-nvidia-geforce-rtx-4090-2tb-ssd-off-black%2F6564531.p%3FskuId%3D6564531&publisher_slug=itechdaily19598&exclusive=1) for $3,000 (save $700): This high-end gaming laptop is built with an AMD Ryzen 9 X3D processor, 32GB of RAM, a 2TB SSD, and Nvidia GeForce RTX 4090 graphics card.
@@ -129,20 +142,13 @@ Kyle Kucharski/ZDNET
 * [Apple MacBook Pro 16 M3 Max](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-macbook-pro-16-laptop-m3-max-chip-built-for-apple-intelligence-36gb-memory-30-core-gpu-1tb-ssd-space-black%2F6534635.p%3FskuId%3D6534635&publisher_slug=itechdaily19598&exclusive=1) for $2,999 (save $500): Apple's flagship content creation and workstation laptop has 36GB of RAM, a 1TB SSD, and M3 Max chip with integrated graphics processors.
 * [Acer Chromebook Spin 714](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Facer-chromebook-spin-714-intel-evo-laptop-14-1610-wuxga-1920-x-1200-touch-intel-core-i5-1335u-8gb-ram-256gb-ssd-steel-gray%2F6541841.p%3FskuId%3D6541841&publisher_slug=itechdaily19598&exclusive=1) for $499 (save $200): A budget-friendly 2-in-1 laptop that's perfect for students with a 14-inch touchscreen display, 8GB of RAM, and 256GB SSD.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQs
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### When is Amazon's October Prime Day 2024?
@@ -152,13 +158,6 @@ Amazon Prime Day event lasts from Tuesday, Oct. 8 through Wednesday, Oct. 9, but
 ### Are laptops really cheaper on Prime Day?
 
 Amazon hasn't historically been the premiere destination for laptop deals, but the ones it lists for Prime Day have been too good to ignore. The MacBook deals, for example, were pretty major when they first dropped, since Apple is notorious for being restrictive about sales. The deals on Prime Day have gotten better each year, with more and more manufacturers participating with a broader range of devices. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How did we choose these October Prime Day deals?
 
@@ -171,6 +170,13 @@ When compiling the list of the best deals, we considered the following:
 * **Price**: Naturally, the price point of our recommended laptops has to include a worthwhile discount. While some discounts are small in relation to an overall price tag - for example, $30 off a $150 device - and other discounts are in the hundreds of dollars, we wanted to ensure that in any case, it's value for money.
 * **Features**: We included a range of laptops with features sure to appeal to you, including different screen sizes, processors, memory options, and storage. Furthermore, these laptops include varying levels of security, parental lock options, and display resolutions.
 * **Use cases**: At ZDNET, we also took into account different use cases. You might be in the market for a budget-friendly, basic laptop for a child, for example, or you may need a future-proof laptop suitable for work. Or, it might be a gaming device you're after. So, we have compiled a set of recommendations based on different purposes.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What are the best October Prime Day 2024 deals?
 
@@ -238,24 +244,16 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-jumpstart-connections-winning-tinder-bios-at-a-glance/"><u>[Updated] 2024 Approved Jumpstart Connections Winning Tinder Bios at a Glance</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-picture-perfection-ranking-of-photo-grid-tools/"><u>2024 Approved Picture Perfection Ranking of Photo Grid Tools</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-rise-in-rankings-14-high-impact-gaming-videos-for-youtube/"><u>2024 Approved Rise in Rankings 14 High-Impact Gaming Videos for YouTube</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862804837-acer-nitro-34-curved-qhd-display-now-only-200-on-newegg/"><u>Acer Nitro 34'' Curved QHD Display Now Only $200 on Newegg</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-on-apple-iphone-13-pro-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled On Apple iPhone 13 Pro? 7 Mehtods You Cant-Miss</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862829819-behold-the-epic-save-score-a-mammoth-39-lg-wqhd-curved-gamers-screen-for-an-unbeatable-price-on-amazon/"><u>Behold the Epic Save: Score a Mammoth 39 LG WQHD Curved Gamer's Screen for an Unbeatable Price on Amazon!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862825441-capture-epic-battles-on-the-affordable-gigabytes-aorus-49-oled-gaming-display-at-a-never-before-price-of-9press/"><u>Capture Epic Battles on the Affordable Gigabyte's Aorus 49 OLED Gaming Display at a Never-Before Price of $9Press!</u></a></li>
-<li><a href="https://win-able.techidaily.com/diablo-stability-issues-now-solved-and-discussed/"><u>Diablo Ⅲ Stability Issues: Now Solved and Discussed!</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-realme-c51-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Realme C51 FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-tips-validating-webcammicrophone-on-windows/"><u>Essential Tips: Validating Webcam/Microphone on Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862829670-get-the-ultimate-dell-qhd-ips-gaming-display-for-just-199-now/"><u>Get the Ultimate Dell QHD IPS Gaming Display for Just $199 Now.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862779983-grab-the-deal-of-a-lifetime-49-inch-samsung-oled-monitor-now-at-record-low-price-with-600-cut/"><u>Grab the Deal of a Lifetime: 49-Inch Samsung OLED Monitor Now at Record Low Price with $600 Cut!</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Tecno Camon 20 | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862816041-introducing-the-dasung-paperlike-the-high-resolution-portable-e-ink-12-display-for-849-now-available-in-us/"><u>Introducing the Dasung Paperlike: The High-Resolution Portable E-Ink 12 Display for $849 - Now Available in U.S.</u></a></li>
-<li><a href="https://techtrends.techidaily.com/russia-unveils-plan-for-advanced-1-core-servers-in-next-generation-supercomputers/"><u>Russia Unveils Plan for Advanced 1# Core Servers in Next Generation Supercomputers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862775724-toms-computer-components-in-depth-reviews-and-insights/"><u>Tom's Computer Components: In-Depth Reviews and Insights</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-mkv-utilitaire-et-lecteur-avec-capacites-de-coupe-et-compression/"><u>Top MKV Utilitaire Et Lecteur Avec Capacités De Coupe Et Compression</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862792295-unleash-immersive-gaming-with-the-newly-discounted-gigabyte-ultrawide-49-aorus-oled-monitor-for-just-969/"><u>Unleash Immersive Gaming with the Newly Discounted Gigabyte Ultrawide 49 Aorus OLED Monitor for Just $969!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-top-tier-electronics-navigate-with-toms-authoritative-guide/"><u>Unveiling Top-Tier Electronics: Navigate With Tom's Authoritative Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-top-5-microphones-compatible-with-macos/"><u>[New] Top 5 Microphones Compatible with MacOS</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-embrace-authenticity-your-style-journey-begins-here/"><u>[Updated] 2024 Approved Embrace Authenticity Your Style Journey Begins Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amds-newest-arsenal-the-launch-of-ryzen-9-5900xt-and-ryzen-7-5800xt-available-for-349-and-249-providing-superior-value-over-the-prior-generation-ryzen-5000-52/"><u>AMD's Newest Arsenal: The Launch of Ryzen 9 5900XT and Ryzen 7 5800XT – Available for $349 & $249, Providing Superior Value Over the Prior Generation Ryzen 5000 Series</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/compatible-dell-inspiron-15-device-drivers-ensuring-optimal-performance-with-windows-11/"><u>Compatible Dell Inspiron 15 Device Drivers: Ensuring Optimal Performance with Windows 11</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/discover-the-best-free-3d-animation-apps-for-android-iphone-and-ipad-for-2024/"><u>Discover the Best Free 3D Animation Apps for Android, iPhone, and iPad for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-enjoy-barcelona-2024-olympiad-from-home-a-comprehensive-guide-to-live-streaming/"><u>How to Enjoy Barcelona 2024 Olympiad From Home - A Comprehensive Guide to Live Streaming</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-xiaomi-redmi-note-13-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Xiaomi Redmi Note 13 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intels-latest-desktop-processors-may-exhibit-elevated-heating-issues-maximum-operational-temps-increased/"><u>Intel's Latest Desktop Processors May Exhibit Elevated Heating Issues: Maximum Operational Temps Increased?</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96506042-9781633845794-thoughts-i-met-on-the-highway/"><u>Thoughts I Met On the Highway | Free Book</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-silent-laptops-solutions-for-audio-problems/"><u>Troubleshooting Silent Laptops: Solutions for Audio Problems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/windows-compatible-thunderbolt-drivers-secure-and-fast-installation-tutorials-included/"><u>Windows-Compatible Thunderbolt Drivers - Secure and Fast Installation Tutorials Included</u></a></li>
 </ul></div>
 

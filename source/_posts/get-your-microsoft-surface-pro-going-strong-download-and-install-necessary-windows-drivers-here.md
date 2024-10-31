@@ -1,7 +1,7 @@
 ---
 title: Get Your Microsoft Surface Pro Going Strong – Download and Install Necessary Windows Drivers Here!
-date: 2024-08-26T08:09:02.725Z
-updated: 2024-08-27T08:09:02.725Z
+date: 2024-10-25T16:15:07.464Z
+updated: 2024-10-31T01:35:49.996Z
 tags:
   - win11
   - win10
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/3a6450d38ce892c7535205c29733ff7dff27b71eb
 1. **[Download HP OfficeJet 6970 Pro driver manually](https://tools.techidaily.com/drivereasy/download/)**
 2. **[Update HP OfficeJet 6970 Pro driver automatically](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Download HP OfficeJet 6970 Pro driver manually
 
  The HP manufacturer provides the driver software for their printers, so you can manually download the printer driver you need from the HP support website.
@@ -42,9 +49,23 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-265.png)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) You’ll see the driver download list. Click the**Download** button under the recommended driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-266.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Once downloaded, double click the file and follow the on-screen instructions to finish the installation.
 
@@ -52,9 +73,6 @@ Here’s what you need to do:
 
  If this method doesn’t work for you, don’t worry. Move on to the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Update HP OfficeJet 6970 Pro driver automatically
 
  If you don’t have the time, patience, or computer skills, you can update your HP OfficeJet 6970 Pro driver automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -69,9 +87,6 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-268.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the**Update** button next to a flagged HP printer to automatically download the correct version of this driver, then you can manually install it (you can do this with the**Free** version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or outdated on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – You’ll be prompted to upgrade when you click**Update All** ).
@@ -79,8 +94,12 @@ Here’s what you need to do:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-270.png)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4) Once updated, restart your computer to take effect.
 
  If you come across any problem with Driver Easy, please feel free to contact our support team at[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
@@ -97,8 +116,6 @@ Here’s what you need to do:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -106,4 +123,19 @@ Here’s what you need to do:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-techniques-for-uploading-original-posts-again/"><u>[Updated] In 2024, Techniques for Uploading Original Posts Again</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/a-comprehensive-look-at-a-miniaturized-yet-multi-talented-chrome-os-device-zdnet/"><u>A Comprehensive Look at a Miniaturized yet Multi-Talented Chrome OS Device | ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-ultimate-holiday-promotions-for-dell-computers-and-accessories-with-our-curated-guide-to-deals-at-retail-giants-like-best-buy-amazon-and-more-featu41/"><u>Discover Ultimate Holiday Promotions for Dell Computers and Accessories with Our Curated Guide to Deals at Retail Giants Like Best Buy, Amazon & More | Featured</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/effortless-flv-to-mp3-transformation-a-3-step-guide-for-perfect-audio-conversions/"><u>Effortless FLV to MP3 Transformation: A 3-Step Guide for Perfect Audio Conversions</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhanced-graphics-and-functionality-setting-up-windows-on-steam-deck/"><u>Enhanced Graphics & Functionality: Setting Up Windows on Steam Deck</u></a></li>
+<li><a href="https://driver-error.techidaily.com/extensive-device-drivers-collection-windows-10-7/"><u>Extensive Device Drivers Collection (Windows 10, 7)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/first-steps-in-telegram-marketing-an-initiation-handbook-for-2024/"><u>First Steps in Telegram Marketing An Initiation Handbook for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-not-vibrating-on-silent-or-ring-mode-8-fixes-you-can-try/"><u>IPhone Not Vibrating on Silent or Ring Mode? 8 Fixes You Can Try</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/learn-the-secrets-of-maintaining-continuous-mac-operation-and-avoiding-unwanted-sleep/"><u>Learn the Secrets of Maintaining Continuous Mac Operation and Avoiding Unwanted Sleep</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revolutionary-2-in-1-tech-marvel-surprises-with-overlooked-office-capabilities-expert-insights-from-zdnet/"><u>Revolutionary 2-in-1 Tech Marvel Surprises with Overlooked Office Capabilities | Expert Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-tech-and-video-game-bargains-on-prime-day-why-you-shouldnt-miss-out-oct-24-zdnet/"><u>Top-Rated Tech and Video Game Bargains on Prime Day: Why You Shouldn't Miss Out - Oct '24 (ZDNet)</u></a></li>
+<li><a href="https://windows11.techidaily.com/turning-on-windows-11-desktop-widget-tools/"><u>Turning On Windows 11 Desktop Widget Tools</u></a></li>
+</ul></div>
 

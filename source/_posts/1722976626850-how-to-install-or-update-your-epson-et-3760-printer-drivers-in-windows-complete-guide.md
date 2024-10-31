@@ -1,7 +1,7 @@
 ---
 title: How to Install or Update Your Epson ET-3760 Printer Drivers in Windows - Complete Guide!
-date: 2024-08-26T08:04:38.669Z
-updated: 2024-08-27T08:04:38.669Z
+date: 2024-10-27T06:33:54.999Z
+updated: 2024-10-30T20:47:25.719Z
 tags:
   - win11
   - win10
@@ -44,6 +44,13 @@ Updating your printer driver can:
 1. [**Update my Epson printer driver manually**](https://tools.techidaily.com/drivereasy/download/)
 2. [**Update my Epson printer driver automatically (Recommended)**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Update my Epson printer driver manually
 
 **A WORD OF WARNING** : Downloading the wrong driver or installing it incorrectly will compromise our PC’s stability and even cause the whole system to crash. So please proceed at your own peril. If you’re not comfortable playing around with drivers, or worrying about any risks in the process, jump to [**Method 2**](https://tools.techidaily.com/drivereasy/download/) .
@@ -52,15 +59,17 @@ Before heading to download the latest driver package from**Epson**‘s official 
 
 1. On your keyboard, press   **the Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and **R** at the same time. Then copy & paste **devmgmt.msc**  into the box and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
-2. Double-click on **Printer queues** .  
+
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+2. Double-click on **Printer queues** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1a5b86a48f2.jpg)
 3. Right-click on**your Epson printer**  and click **Uninstall device** .
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now let’s get started with the manual Epson driver download & install procedure:
 
@@ -68,15 +77,17 @@ Before heading to download the latest driver package from**Epson**‘s official 
 2. Enter**the model of your Epson printer** and click**Search** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb8391737cc4.png)
 3. Click**the link for your product** among the search results.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Make sure**the detected Operating System is correct** . Then click**Drivers and Utilities Combo Package** \>**Download** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb839f55c7e4.jpg)
 5. Double-click on the downloaded file and follow the instructions on the wizard to finish the install.
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. **Restart** your computer for the changes to take effect.
 
 ---
@@ -93,14 +104,16 @@ Before heading to download the latest driver package from**Epson**‘s official 
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2b09636ab48.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb83b9f0aa46.jpg)  
 You can also click **Update**  to do it for free if you like, but it’s partly manual.
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 4. **Restart** your computer for the changes to take effect.
 
 ---
@@ -115,8 +128,6 @@ You can also click **Update**  to do it for free if you like, but it’s partly 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,4 +135,26 @@ You can also click **Update**  to do it for free if you like, but it’s partly 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-free-scape-discovering-the-artistic-no-money-backdrops-of-tiktok/"><u>[New] In 2024, FREE-Scape Discovering the Artistic No-Money Backdrops of TikTok</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-full-screen-fiasco-resolved-in-obs/"><u>[New] In 2024, Full Screen Fiasco Resolved in Obs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1-effortless-video-editing-mastering-mobile-trims-and-cuts-on-android/"><u>1. Effortless Video Editing: Mastering Mobile Trims & Cuts on Android</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1-top-5-benefits-of-switching-from-wired-to-wireless-earphones/"><u>1. Top 5 Benefits of Switching From Wired to Wireless Earphones</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/achieving-desktop-efficiency-on-the-go-with-seamless-smartphone-app-organization/"><u>Achieving Desktop Efficiency on the Go with Seamless Smartphone App Organization</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/affordable-smartphone-upgrade-the-snapdragon-7plus-gen-2-powering-mid-range-devices/"><u>Affordable Smartphone Upgrade: The Snapdragon 7+ Gen 2 Powering Mid-Range Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/bringing-apples-innovation-to-android-tips-for-emulating-the-iphones-dynamic-island-experience/"><u>Bringing Apple's Innovation to Android: Tips for Emulating the iPhone's Dynamic Island Experience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/convert-the-earths-radius-from-miles-to-kilometers-and-calculate-its-circumference-r-3960-miles-3960-times-160934-km-approx-63825-km-so-c-approx-2-times-3143/"><u>Convert the Earth's Radius From Miles to Kilometers and Calculate Its Circumference: $R = 3960$ Miles $= 3960 Times 1.60934$ Km $ Approx 6382.5$ Km, so $C Approx 2 Times 3.14 Times 6382.5$ Km $ Approx 40074$ Kilometers.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/creating-separate-accounts-a-step-by-step-guide-to-setting-up-multi-user-profiles-in-android/"><u>Creating Separate Accounts: A Step-by-Step Guide to Setting up Multi-User Profiles in Android</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-apples-strategic-choice-no-exclamation-marks-on-their-site-unveiling-the-reasons-zdnet/"><u>Discover Apple's Strategic Choice: No Exclamation Marks on Their Site - Unveiling the Reasons | ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-least-attractive-smartphones-ever-created-a-ranking-of-the-5-most-unsightly-devices/"><u>Discover the Least Attractive Smartphones Ever Created: A Ranking of the 5 Most Unsightly Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/does-the-google-pixel-operate-on-stock-android-os/"><u>Does the Google Pixel Operate on Stock Android OS?</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/expanding-reach-crafting-winning-tiktok-marketing-plans/"><u>Expanding Reach Crafting Winning TikTok Marketing Plans</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-get-royalty-free-clip-art/"><u>How to Get Royalty Free Clip Art?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-from-apple-iphone-14-plus-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account From Apple iPhone 14 Plus without Password?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-the-fixes-get-your-windows-10-audio-working-again/"><u>Mastering the Fixes: Get Your Windows 10 Audio Working Again</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-guide-to-the-finest-budget-tvs-under-1k-insider-reviewed-zdnet/"><u>Ultimate Guide to the Finest Budget TVs (Under $1K) - Insider Reviewed | ZDNet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Motorola Moto G84 5G? | Dr.fone</u></a></li>
+</ul></div>
 

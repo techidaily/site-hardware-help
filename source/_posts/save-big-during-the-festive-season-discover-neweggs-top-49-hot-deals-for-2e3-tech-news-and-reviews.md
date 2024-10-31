@@ -1,7 +1,7 @@
 ---
 title: "Save Big During the Festive Season: Discover Newegg's Top 49 Hot Deals for 2E3 | Tech News & Reviews"
-date: 2024-10-18T07:21:16.463Z
-updated: 2024-10-25T00:08:32.819Z
+date: 2024-10-25T20:52:12.751Z
+updated: 2024-10-30T23:38:37.183Z
 tags:
   - laptops
 categories:
@@ -83,6 +83,13 @@ Asus/ZDNET
 * [Asus Chromebook Plus CX34 for $432](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Chromebook-1920x1080-Processor-CX3402CBA-DH386-WH%2Fdp%2FB0CGJGZZ1L%2Fref%3Dsxin%5F15%5Fpa%5Fsp%5Fsearch%5Fthematic%5Fsspa%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C49702d9e-4494-4b49-bf59-45b2282eb06a%7Cdtp&dtb=1): Asus' stylish CX34 Chromebook Plus comes with a bit more local storage than most Chromebooks (256GB) as well as an ultra-thin form factor and over 10 hours of battery life.
 * [HP Chromebook 14 for $189 (Save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Chromebook-Graphics-Keyboard-14a-na0226nr%2Fdp%2FB09SVSBVP1%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C49702d9e-4494-4b49-bf59-45b2282eb06a%7Cdtp&dtb=1): It doesn't get much more budget than this. HP's 14-inch Chromebook comes with just 4GB of RAM, so it's perfect as a backup machine or secondary travel device.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Prime Day MacBook deals
 
 Kyle Kucharski/ZDNET
@@ -91,13 +98,6 @@ Kyle Kucharski/ZDNET
 * [Apple MacBook Air (M3) for $899 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-2024-MacBook-13-inch-Laptop%2Fdp%2FB0CX23V2ZK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C49702d9e-4494-4b49-bf59-45b2282eb06a%7Cdtp&dtb=1): If you want to purchase one of Apple's latest MacBook Air products, you can save $200 on the [2024 version](https://www.zdnet.com/article/m3-macbook-air-review/), powered by an M3 chip -- the lowest price of the year. Don't forget to apply the coupon.
 * [Apple MacBook Pro (M3) for $1,400 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core%2Fdp%2FB0CM5JV268%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C49702d9e-4494-4b49-bf59-45b2282eb06a%7Cdtp&dtb=1): The [MacBook Pro (M3)](https://www.zdnet.com/article/m3-macbook-pro-buying-advice/) is one of the best-performing laptops on the market, and it's $200 off -- make sure you add the coupon offer on the page.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Prime Day HP laptop deals
 
 HPZDNET
@@ -105,13 +105,6 @@ HPZDNET
 * [HP Envy x360 2-in-1 for $845 (save $50)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-2-1-Touch-Screen-i7-16GB%2Fdp%2FB0CZ37N6DL%2Fref%3Dsr%5F1%5F3%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C49702d9e-4494-4b49-bf59-45b2282eb06a%7Cdtp&dtb=1): We recently had a chance to go [hands-on with HP's newest version of the Envy x360 2-in-1](https://www.zdnet.com/article/ive-tested-dozens-of-2-in-1-laptops-this-one-hits-all-the-right-marks/), and praised the laptop for its gorgeous display and all-around optimization. If that laptop looked interesting to you, but you want to save some money, the previous version is on sale on Amazon for just $845 for the 16GB, 2TB version.
 * [HP Victus 15.6-inch laptop for $599 (Save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Display-i5-12450H-Dedicated-15-fa1029nr%2Fdp%2FB0CVNJ7LLN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C49702d9e-4494-4b49-bf59-45b2282eb06a%7Cdtp&dtb=1): This is a great price for a 15-inch laptop designed for cloud gaming and light creative work. It's got an Nvidia GeForce RTX 2050 dedicated graphics card and a144Hz Full-HD display.
 * [HP 14 inch Laptop for $349 (Save $120)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Generation-i3-1215U-Graphics-14-dq5009nr%2Fdp%2FB0CS3XPZNH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C49702d9e-4494-4b49-bf59-45b2282eb06a%7Cdtp&dtb=1): This budget laptop features a modest suite of hardware but covers all the basics for an inexpensive but capable and portable machine.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Prime Day Lenovo deals
 
@@ -129,6 +122,13 @@ Kyle Kucharski/ZDNET
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## More Prime Day 2024 laptop deals
 
 Kyle Kucharski/ZDNET
@@ -137,24 +137,30 @@ Kyle Kucharski/ZDNET
 * [Microsoft Surface Pro 9 for $2,049 (save $651)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Tablet-High-Performance-Pre-Installed%2Fdp%2FB0C5MW8R35%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C49702d9e-4494-4b49-bf59-45b2282eb06a%7Cdtp&dtb=1): It doesn't get more ultraportable than Microsoft's Surface Pro series of laptops, and the 13-inch Surface Pro 9 tablet is currently 20% off the regular price for just $2,149\. For that price, you're getting a powerful Intel Core i7 processor, a 1TB SSD, and more than 15 hours of battery life.
 * [Asus VivoBook 16 for $479 (save $120)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-VivoBook-Laptop-WUXGA-1920%2Fdp%2FB0BT6NKLQR%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C49702d9e-4494-4b49-bf59-45b2282eb06a%7Cdtp&dtb=1): One of the most versatile and well-rounded laptops on the market is also one of the most affordable. The Vivobook 16 is designed to handle a variety of use cases with ease, and for just $479 you can't go wrong with its 1TB of storage, Windows 11, and solid selection of ports.
 
-## FAQs
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## FAQs
 
 ### When is Amazon Prime Day 2024?
 
 Amazon Prime Day officially ran from July 16 to July 17, but sometimes deals continue afterward.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### What's the best gaming laptop deal on Prime Day?
@@ -171,16 +177,22 @@ At ZDNET, we only write about deals our team members would want to buy -- device
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we recommend. These recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### When will these deals expire?
 
 Prime Day 2024 has ended, so deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on a deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What are the best Prime Day 2024 deals still available?
 
@@ -245,19 +257,19 @@ And the best deals still available from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-fb-stream-downloading-on-different-operating-systems/"><u>[Updated] FB Stream Downloading on Different Operating Systems</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-initiating-conversations-on-instagram-live/"><u>2024 Approved Initiating Conversations on Instagram Live</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amds-latest-zen-4-architecture-outperforms-older-zen-5-boosting-gaming-benchmarks-ryzen-7-7800x3d-beats-ryzen-9-9900x-by-up-to-23/"><u>AMD's Latest Zen 4 Architecture Outperforms Older Zen 5, Boosting Gaming Benchmarks: Ryzen 7 7800X3D Beats Ryzen 9 9900X by Up to 23%</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-surface-book-2-drivers-a-simple-guide/"><u>Download and Update Surface Book 2 Drivers: A Simple Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/french-retailer-discloses-amd-ryzen-9-processors-price-european-ryzen-nine-9900x-nearly-750-deal/"><u>French Retailer Discloses AMD Ryzen 9 Processors' Price: European Ryzen Nine 9900X Nearly $750 Deal</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-scansnap-driver-for-windows-made-easy-with-this-simple-guide/"><u>Get the Newest ScanSnap Driver for Windows Made Easy with This Simple Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-samsung-galaxy-a25-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Samsung Galaxy A25 5G Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-turn-video-to-sound-youtube-to-mp3-with-appleos/"><u>In 2024, Turn Video to Sound YouTube to MP3 with AppleOS</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-animate-like-a-pro-top-8-software-options-for-mac-and-windows/"><u>New In 2024, Animate Like a Pro Top 8 Software Options for Mac and Windows</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/professional-video-intros-no-cost-for-2024/"><u>Professional Video Intros, No Cost for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1723807962856-the-complete-walkthrough-to-initiate-safe-mode-on-windows-10-learn-with-pictures/"><u>The Complete Walkthrough to Initiate Safe Mode on Windows 10 - Learn With Pictures!</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-thermaltake-massive-tm-laptop-cooling-pad-insight-a-wealth-of-pros-with-a-pricey-tag/"><u>The Thermaltake Massive TM Laptop Cooling Pad Insight: A Wealth of Pros with a Pricey Tag</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-samsung-galaxy-f54-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Samsung Galaxy F54 5G Phone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshoot-and-upgrade-your-d-link-drivers-for-windows-efficiently-and-effectively/"><u>Troubleshoot and Upgrade Your D-Link Drivers for Windows Efficiently & Effectively</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-optimal-drone-cameras-film-and-snapshot-heroes-10/"><u>[Updated] In 2024, Optimal Drone Cameras Film & Snapshot Heroes #10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1-unlocking-performance-why-gpus-are-indifferent-to-pci-express-versions/"><u>1. Unlocking Performance: Why GPUs Are Indifferent to PCI Express Versions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-quick-setup-obs-and-zoom-coexistence-made-simple/"><u>2024 Approved Quick Setup OBS & Zoom Coexistence Made Simple</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-tucked-into-narratives-a-review-of-evening-storytelling-videos/"><u>2024 Approved Tucked Into Narratives A Review of Evening Storytelling Videos</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/2024-ultimate-microsd-card-selection-the-best-picks-for-optimal-performance/"><u>2024 Ultimate MicroSD Card Selection: The Best Picks for Optimal Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/9i-notebook-and-elite-power-banks-today/"><u>9I Notebook & Elite Power Banks Today</u></a></li>
+<li><a href="https://win11.techidaily.com/continuous-edge-strategies-for-windows-11-users/"><u>Continuous Edge: Strategies for Windows 11 Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/first-steps-in-the-field-of-prompt-creation/"><u>First Steps in the Field of Prompt Creation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshooting-kodis-videots-playback-errors-and-transforming-ts-media-into-compatible-formats/"><u>Troubleshooting Kodi's Video_TS Playback Errors and Transforming TS Media Into Compatible Formats</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-unleash-the-audio-best-mp4-to-mp3-converters-for-music-lovers/"><u>Updated In 2024, Unleash the Audio Best MP4 to MP3 Converters for Music Lovers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/why-samsungs-collaboration-with-ubreakifix-falls-short-of-expectations/"><u>Why Samsung's Collaboration with uBreakiFix Falls Short of Expectations</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/why-you-should-avoid-the-suitcase-phonograph-best-options-explained/"><u>Why You Should Avoid the Suitcase Phonograph - Best Options Explained</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11s-photo-wizardry-made-easy-mastering-slideshow-creation-and-spot-repair/"><u>Windows 11'S Photo Wizardry Made Easy: Mastering Slideshow Creation & Spot Repair</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/zen-5-processors-amd-brings-next-gen-performance-to-laptops-and-desktop-computers/"><u>Zen 5 Processors: AMD Brings Next-Gen Performance to Laptops and Desktop Computers</u></a></li>
 </ul></div>
 

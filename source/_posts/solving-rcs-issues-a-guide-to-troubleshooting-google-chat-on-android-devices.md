@@ -1,7 +1,7 @@
 ---
 title: "Solving RCS Issues: A Guide to Troubleshooting Google Chat on Android Devices"
-date: 2024-09-13T17:33:24.739Z
-updated: 2024-09-15T19:06:15.869Z
+date: 2024-10-28T03:16:07.314Z
+updated: 2024-10-31T00:44:44.154Z
 tags:
   - android
 categories:
@@ -49,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/a787c6d843bcaac6bb60600aaa2f37966d7c97dba
 
 ![A screenshot of the Chat features menu showing a Connected status](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot_2023-11-08-15-05-30-12_0ce57feeccaa51fb7deed04b4dbda235.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If it's not connected, however, then it's time to start troubleshooting. Stay in this menu, though—it's where you'll start.
 
  While the following solutions are listed as "options," they're designed to be executed in sequential order. They're laid out from easiest and least destructive to hardest and most aggressive, so start with the first one!
@@ -61,13 +68,20 @@ thumbnail: https://thmb.techidaily.com/a787c6d843bcaac6bb60600aaa2f37966d7c97dba
 
 ![A screenshot of Android's restart menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot_2023-11-08-15-10-08-65_0ce57feeccaa51fb7deed04b4dbda235.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When it boots back up, use the directions above to jump back into the RCS Chats menu. Tap the "Turn On RCS Chats" toggle and see if it connects. With a little luck, that did the trick. But if not, keep reading.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Option Two: Clear Storage for Messages
@@ -78,13 +92,6 @@ thumbnail: https://thmb.techidaily.com/a787c6d843bcaac6bb60600aaa2f37966d7c97dba
 
 ![A screenshot of Android's Quick Setting menu, showing the Airplane Mode toggle](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2023-11-08_16-20-40.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Tap the gear icon to jump into the Settings menu.
 
 ![Android's notification shade wit the setting button highlighted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot_2023-11-08-15-12-13-39_0ce57feeccaa51fb7deed04b4dbda235.jpg) 
@@ -93,31 +100,18 @@ thumbnail: https://thmb.techidaily.com/a787c6d843bcaac6bb60600aaa2f37966d7c97dba
 
 ![Android's Settings menu with the Messages app highlighted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot_2023-11-08-15-13-28-12_fc704e6b13c4fb26bf5e411f75da84f2.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Open the storage submenu and tap "Clear Data" or "Clear Storage."
 
 ![The Storage and cache entry](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot_2023-11-08-15-15-13-27_fc704e6b13c4fb26bf5e411f75da84f2.jpg) 
 
- Disable Airplane Mode, restart your phone, and then re-check RCS status using the method outlined above. If it reconnects, congratulations—you're good to go. If not, well, it's time to keep trying.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Disable Airplane Mode, restart your phone, and then re-check RCS status using the method outlined above. If it reconnects, congratulations—you're good to go. If not, well, it's time to keep trying.
 
 ##  Option Three: Clear Storage for Carrier Services
 
@@ -151,9 +145,29 @@ thumbnail: https://thmb.techidaily.com/a787c6d843bcaac6bb60600aaa2f37966d7c97dba
 
 ![Searching for reset network settings in the android settings app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot_2023-11-08-15-34-44-60_fc704e6b13c4fb26bf5e411f75da84f2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Choose "Reset Network Settings" again.
 
 ![The reset options menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot_2023-11-08-15-35-17-65_fc704e6b13c4fb26bf5e411f75da84f2.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  A warning will pop up to let you know that this will erase all network settings—a necessary evil. Tap the "Reset Network Settings" button.
 
@@ -183,13 +197,20 @@ thumbnail: https://thmb.techidaily.com/a787c6d843bcaac6bb60600aaa2f37966d7c97dba
 
 ![disabling RCS on the server side using Google's web tool](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2023-11-08_15-39-15.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After verifying your phone number, Chat/RCS should be completely disabled so you can at least send and receive messages over SMS/MMS.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Keep Trying to Re-enable Chat Features if You Still Want to Use RCS
@@ -211,5 +232,18 @@ thumbnail: https://thmb.techidaily.com/a787c6d843bcaac6bb60600aaa2f37966d7c97dba
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-10-leading-ai-named-generators-boosting-podcast-titles/"><u>[New] 10 Leading AI Named Generators Boosting Podcast Titles</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-7-ideal-monitors-for-digital-artists/"><u>[Updated] 7 Ideal Monitors for Digital Artists</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-composing-news-wrap-up-scripts/"><u>[Updated] In 2024, Composing News Wrap-Up Scripts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/accidentally-downgraded-to-windows-home-retrieve-your-professional-license-now-pcworld-insights/"><u>Accidentally Downgraded to Windows Home? Retrieve Your Professional License Now! | PCWorld Insights</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-harnessing-the-power-of-look-up-tables-in-film-grading/"><u>In 2024, Harnessing the Power of Look-Up Tables in Film Grading</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-idt-high-definition-audio-codec-driver-issues-on-windows-10/"><u>Resolving IDT High Definition Audio Codec Driver Issues on Windows 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/score-big-with-savings-the-8tb-samsung-t5-ssd-at-just-36-off-on-amazon-insights/"><u>Score Big with Savings! The 8TB Samsung T5 SSD at Just 36% Off on Amazon | Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-pick-the-ultimate-lightweight-laptop-for-seamless-remote-work-reviewed/"><u>Top Pick: The Ultimate Lightweight Laptop for Seamless Remote Work - Reviewed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unleashing-the-power-of-dual-os-a-comprehensive-review-of-lenovos-convertible-windows-and-android-laptop-zdnet/"><u>Unleashing the Power of Dual-OS: A Comprehensive Review of Lenovo's Convertible Windows & Android Laptop [ZDNet]</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrade-your-apple-m3-laptops-and-imacs-unlocking-the-power-of-macos-sierra-with-ease/"><u>Upgrade Your Apple M3 Laptops and iMacs: Unlocking the Power of macOS Sierra with Ease!</u></a></li>
+<li><a href="https://windows11.techidaily.com/what-is-ftdibussys-on-windows-and-why-does-it-disable-memory-integrity/"><u>What Is ftdibus.sys on Windows and Why Does It Disable Memory Integrity?</u></a></li>
+</ul></div>
 

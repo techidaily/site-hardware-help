@@ -1,7 +1,7 @@
 ---
 title: Discover the Ultimate Selection of Dell Deals for Black Friday/Cyber Monday at Major Online and In-Store Outlets
-date: 2024-10-22T23:10:22.132Z
-updated: 2024-10-25T02:17:02.258Z
+date: 2024-10-30T02:27:17.615Z
+updated: 2024-10-30T23:39:30.919Z
 tags:
   - laptops
 categories:
@@ -95,13 +95,6 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6FJGWK9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C253dc173-9417-4fb0-8bbe-5a70cdc1d144%7Cdtp&dtb=1) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best Cyber Monday Dell laptop deals
 
 * [Dell G15 gaming laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-G15-5535-Gaming-Laptop%2Fdp%2FB0CJGBMD42%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C253dc173-9417-4fb0-8bbe-5a70cdc1d144%7Cdtp&dtb=1): $900 (save $250)
@@ -128,15 +121,22 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell SE2422HX 24-inch monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-inch-Monitor-1920-1080%2Fdp%2FB096MXR34N%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C253dc173-9417-4fb0-8bbe-5a70cdc1d144%7Cdtp&dtb=1): $80 (save $50)
 * [Dell 32-inch 4K monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-SE3223Q-31-5-inch-Monitor-Gray%2Fdp%2FB0B2GRMGFL%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C253dc173-9417-4fb0-8bbe-5a70cdc1d144%7Cdtp&dtb=1): $248 (save $117)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When is Cyber Monday 2023?
 
 Cyber Monday happens each year on the Monday following Black Friday. This year, Cyber Monday is today, November 27.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When was Black Friday 2023?
@@ -146,16 +146,10 @@ Black Friday 2023 was on November 24, 2023\.
 Black Friday is always the day after Thanksgiving, which was November 23 this year.
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How did we choose these Cyber Monday deals?
@@ -165,10 +159,10 @@ ZDNET only writes about deals we want to buy -- devices and products we desire, 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What are the best Cyber Monday deals?
@@ -241,22 +235,24 @@ ZDNET's experts have been searching for Cyber Monday deals across sites like Ama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-unlock-instagrams-hidden-features-voice-modification/"><u>[New] In 2024, Unlock Instagram's Hidden Features Voice Modification</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-vivo-y36i-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Vivo Y36i | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Nokia 150 (2023) | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/catch-your-favorite-dell-s32gaming-monitor-at-an-unbeatable-price-just-229-top-ranked-quality-guaranteed/"><u>Catch Your Favorite Dell S32^Gaming Monitor at an Unbeatable Price: Just $229 – Top-Ranked Quality Guaranteed</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/cutting-edge-gaming-technology-tcls-breakthrough-4k-monitor-with-a-rapid-1000-hz-upgrade/"><u>Cutting-Edge Gaming Technology: TCL's Breakthrough 4K Monitor with a Rapid 1,000 Hz Upgrade</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/dasungs-colorful-new-addition-to-the-market-a-849-12-inch-flexible-touchscreen-paperlike-monitor/"><u>Dasung's Colorful New Addition to the Market: A $849, 12-Inch Flexible Touchscreen Paperlike Monitor</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-the-new-low-price-of-samsung-odyssey-g50a-27-inch-qhd-ips-monitor-only-255-on-amazon/"><u>Discover the New Low Price of Samsung Odyssey G50A 27-Inch QHD IPS Monitor - Only $255 on Amazon</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-the-power-of-electronics-with-expert-reviews-on-toms-hardware/"><u>Discover the Power of Electronics with Expert Reviews on Tom's Hardware</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-top-gadgets-and-reviews-by-toms-hardware-experts/"><u>Discover Top Gadgets and Reviews by Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discovering-the-latest-in-tech-insights-from-toms-hardware-experts/"><u>Discovering the Latest in Tech - Insights From Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/dive-deep-into-hardware-with-toms-technology-analysis/"><u>Dive Deep Into Hardware with Tom's Technology Analysis</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-smileslice-studio-memomaestrospace/"><u>In 2024, SmileSlice Studio MemoMaestroSpace</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-streamers-selection-most-popular-livestream-software-and-devices/"><u>In 2024, Streamer's Selection Most Popular Livestream Software and Devices</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-streaming-fb-video-content-on-television-devices/"><u>In 2024, Streaming FB Video Content On Television Devices</u></a></li>
-<li><a href="https://win-net.techidaily.com/software-de-clonage-de-disques-par-excellence-comment-installer-et-lancer-efficacement-grace-a-gpt-technologie/"><u>Software De Clonage De Disques Par Excellence: Comment Installer Et Lancer Efficacement Grâce À GPT-Technologie</u></a></li>
-<li><a href="https://win-updates.techidaily.com/text-messaging-a-gateway-for-smartphone-intrusion-discover-what-malwarefox-has-found-out/"><u>Text Messaging: A Gateway for Smartphone Intrusion? Discover What MalwareFox Has Found Out</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-vexing-visualization-distinguishing-genuine-ai-representations/"><u>The Vexing Visualization: Distinguishing Genuine AI Representations</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-premier-picks-the-best-11-audio-recorders-guide/"><u>[Updated] In 2024, Premier Picks The Best 11 Audio Recorders Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-top-video-editors-aiding-in-app-dev-creation/"><u>2024 Approved Top Video Editors Aiding in App Dev Creation</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/best-no-cost-dvd-software-for-windows-10-users-your-ultimate-download-guide/"><u>Best No-Cost DVD Software for Windows 10 Users: Your Ultimate Download Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-amd-smbus-drivers-fast-step-by-step-guide/"><u>Download and Update AMD SMBus Drivers Fast: Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-newest-drivers-for-nvidia-geforce-rtx-2nok-compatible-with-win10-win7-and-win8/"><u>Download the Newest Drivers for NVIDIA GeForce RTX 2Nok: Compatible with Win10, Win7 & Win8</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-download-of-canon-lide-110-series-usb-wireless-printer-software-compatible-with-windows/"><u>Easy Download of Canon LiDE 110 Series USB Wireless Printer Software Compatible with Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-and-install-camera-driver-packages-on-windows-11-10-8-and-7-complete-tutorial/"><u>Get and Install Camera Driver Packages on Windows 11, 10, 8 & 7 – Complete Tutorial</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-realme-c53-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Realme C53 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-poco-x6-pro-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Poco X6 Pro online without jailbreak</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-asus-proart-329q-4k-monitor-capabilities/"><u>In 2024, Exploring the Asus ProArt 329Q 4K Monitor Capabilities</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/kindle-time-update-tips-ensuring-accurate-timing-for-your-paperwhite-device/"><u>Kindle Time Update Tips: Ensuring Accurate Timing for Your Paperwhite Device</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-amd-vega-64-graphics-card-drivers-for-windows-step-by-step-downloading-and-update-instructions/"><u>Latest AMD Vega 64 Graphics Card Drivers for Windows: Step-by-Step Downloading and Update Instructions</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-5-best-online-tone-generators-free-and-simple/"><u>New 5 Best Online Tone Generators Free & Simple</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/official-asus-support-free-download-for-xonar-dgx-controller-software-update/"><u>Official ASUS Support - Free Download for Xonar DGX Controller Software Update</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-12-pro-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone 12 Pro Prevention & Solution</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/resolving-the-260ci-bluetooth-device-link-errors/"><u>Resolving the 260Ci Bluetooth Device Link Errors</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-installation-of-arduino-drivers-in-your-windows-environment-a-comprehensive-walkthrough/"><u>Seamless Installation of Arduino Drivers in Your Windows Environment: A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-for-reversing-loadlibrary-misload-on-windows/"><u>Techniques for Reversing LoadLibrary Misload on Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723262312779-the-new-intel-kingpin-core-i7-14700k-shines-with-a-7-single-core-supremacy-over-competitor-core-ultra-7-arrow-lake-chip-dominates-benchmarks/"><u>The New Intel Kingpin: Core I7-14700K Shines with a 7% Single-Core Supremacy over Competitor Core Ultra 7 - Arrow Lake Chip Dominates Benchmarks</u></a></li>
 </ul></div>
 

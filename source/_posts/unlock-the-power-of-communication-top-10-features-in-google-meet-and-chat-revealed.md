@@ -1,7 +1,7 @@
 ---
 title: "Unlock the Power of Communication: Top 10 Features in Google Meet and Chat Revealed"
-date: 2024-09-08T17:55:05.203Z
-updated: 2024-09-15T21:17:01.639Z
+date: 2024-10-29T04:50:59.534Z
+updated: 2024-10-31T04:24:10.178Z
 tags:
   - android
 categories:
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/fe07e4a07925d03fd4feb686ae505e57245e98882
 
  "Messages for Web" allows you to use the app from a web browser on your computer. This is a built-in feature that doesn't require any hacky workarounds or third-party apps. All you have to do is go to "Device Pairing" from the menu in the Messages app on your phone. Then, you'll scan the QR code that's shown at [messages.google.com/web](http://messages.google.com/web) on your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Automatically Delete OTPs (One-Time Passwords)
 
 ![Screenshots showing how to enable "auto-delete OTPs" in Google Messages.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/screenshot_2023-10-27-13-30-46-78_0ce57feeccaa51fb7deed04b4dbda235.jpg) 
@@ -42,22 +49,16 @@ thumbnail: https://thmb.techidaily.com/fe07e4a07925d03fd4feb686ae505e57245e98882
 
  To turn this on, open the Messages Settings and go to "Message Organization." Here, you'll see an option titled "Auto-delete OTPs after 24 hours." As the name says, the app will attempt to automatically remove OTPs after they've been in your inbox for 24 hours. In my experience, this doesn't always work, but some is better than none.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Schedule Text Messages to Send Later
 
 ![Scheduling options for Google Messages.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/screenshot_2023-10-27-13-38-32-02_0ce57feeccaa51fb7deed04b4dbda235.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Forgetting to wish someone a happy birthday or to tell them something important at a specific time is a great way to get egg on your face. Thankfully, the Messages app can help with that. You can simply write a text message at your convenience and then [schedule it to be sent at the desired time](https://video-ai-editor.techidaily.com/updated-in-2024-after-effects-vs-premiere-pro-understanding-their-unique-strengths-and-weaknesses/).
 
@@ -75,38 +76,31 @@ thumbnail: https://thmb.techidaily.com/fe07e4a07925d03fd4feb686ae505e57245e98882
 
 ![The starred messages section in Google Messages.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/screenshot_2023-10-27-13-57-43-28_0ce57feeccaa51fb7deed04b4dbda235.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Some messages are so funny or important that you may want to save them. Rather than searching or scrolling through hundreds of messages, the [Messages app allows you to "star" those messages](https://fix-guide.techidaily.com/how-to-use-special-features-virtual-location-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/) to easily find them later on.
 
  The feature is simple but quite useful. Similar to Gmail, you can "star" any text message, and it gets saved to the "Starred" category. To find starred messages, tap the search button at the top of the app and select "Starred." People do not get notified if you star a message.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Pin Conversations to the Top
 
 ![The pin icon in the top bar of Google Messages.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/screenshot_2023-10-27-14-01-30-66_0ce57feeccaa51fb7deed04b4dbda235.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  It's easy for the conversation list to get messy if you chat with a lot of people. Wouldn't it be nice if you could keep some conversations permanently at the top? You can do that very thing by pinning conversations.
 
  The Messages app allows you to [pin up to five conversations to the top of the list](https://smart-video-editing.techidaily.com/updated-movie-mastery-unlocked-easy-tips-and-tricks-for-filmmakers-for-2024/). All you have to do is long-press a conversation and tap the pin icon in the top bar. To unpin, do the same thing and tap the pin icon again. Now your favs are always up top.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Hear Text Messages Read Out Loud
 
@@ -120,20 +114,27 @@ thumbnail: https://thmb.techidaily.com/fe07e4a07925d03fd4feb686ae505e57245e98882
 
 ![Screenshots showing how to share your location in Google Messages.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/screenshot_2023-10-27-14-10-18-67_0ce57feeccaa51fb7deed04b4dbda235.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The rigamarole of telling someone where you are and when you'll arrive somewhere can be completely avoided, thanks to smartphones. The Messages app has a built-in Google Maps feature that allows you to [quickly send your location to someone.](https://fox-boxes.techidaily.com/updated-symphony-for-statuses-whatsapps-melodic-feature/) 
 
  To use this handy feature, tap the plus button in the text box bar in a conversation. You'll see a few different things to send here—GIFs, stickers, files, etc—but the one you want is "Location." A map will open with some options, and when you tap "Send," a Google Maps link will be sent to your friend.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Block Text Messages
 
 ![Reporting a text message as spam or blocking.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/screenshot_2023-10-27-14-29-51-75_0ce57feeccaa51fb7deed04b4dbda235.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Whether it's spam or unwanted messages from someone you know, we all get annoying text messages ([SMS](https://network-issues.techidaily.com/nvidia-patch-rtx210-win11-driver-update/)) from time to time. The good news is it's extremely simple to [block text messages with the Messages app](https://techtrends.techidaily.com/guide-ensuring-your-email-address-securely-listed-online/).
 
@@ -142,6 +143,13 @@ thumbnail: https://thmb.techidaily.com/fe07e4a07925d03fd4feb686ae505e57245e98882
 ##  Enable RCS Features
 
 ![RCS toggles in the Google Messages app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/screenshot_2023-10-27-14-22-20-50_0ce57feeccaa51fb7deed04b4dbda235.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [RCS](https://screen-activity-recording.techidaily.com/updated-2024-approved-ideal-chat-and-meetup-tools-for-large-groups/)is the long-awaited successor to SMS, and it's [available on the majority of Android devices nowadays](https://vp-tips.techidaily.com/updated-2024-approved-key-10-plug-ins-for-elevating-your-fcp-workflow/). In short, RCS makes text messaging more like instant messaging. You can see when someone has read your message, it shows when someone is typing, and media can be shared at much higher quality, among other things.
 
@@ -162,5 +170,21 @@ thumbnail: https://thmb.techidaily.com/fe07e4a07925d03fd4feb686ae505e57245e98882
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-convenient-procedures-for-recording-screen-chats-for-2024/"><u>[New] Convenient Procedures for Recording Screen Chats for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-dive-into-dynamic-editing-windows-xp-edition-guide-for-2024/"><u>[Updated] Dive Into Dynamic Editing Windows XP Edition Guide for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-hdr-photoshop-how-to-create-hdr-images-in-photoshop-like-a-pro/"><u>[Updated] HDR Photoshop How to Create HDR Images in Photoshop Like a Pro</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhancing-device-functionality-how-to-seamlessly-integrate-additional-ports-into-macbook-and-ipad-pro-units-zdnet-insights/"><u>Enhancing Device Functionality: How to Seamlessly Integrate Additional Ports Into MacBook and iPad Pro Units | ZDNET Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-reviews-and-insights-discover-the-best-work-trip-tablets-beyond-microsoft-and-lenovo-brands-zdnets-latest-findings/"><u>Expert Reviews & Insights: Discover the Best Work-Trip Tablets Beyond Microsoft and Lenovo Brands | ZDNET's Latest Findings</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-strategy-unseen-graphics-cards-on-pcs/"><u>Fix Strategy: Unseen Graphics Cards on PCs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/identifying-and-resolving-high-sound-levels-in-your-ps4-system/"><u>Identifying & Resolving High Sound Levels in Your PS4 System</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-6-must-have-tools-for-successful-game-streaming-for-2024/"><u>New 6 Must-Have Tools for Successful Game Streaming for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/slash-your-tech-expenses-the-remarkable-50-gadget-that-saves-big-bucks-insights-from-zdnet/"><u>Slash Your Tech Expenses: The Remarkable $50 Gadget That Saves Big Bucks – Insights From ZDNet</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-downloading-and-updating-your-sata-drivers-on-pcs-with-windows-os/"><u>Step-by-Step Guide: Downloading & Updating Your SATA Drivers on PCs with Windows OS</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/this-is-the-easiest-way-to-learn-latin-online/"><u>This Is The Easiest Way To Learn Latin Online</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-pick-hand-tools-every-diy-enthusiast-needs-this-holiday-season-insights-from-zdnet/"><u>Top Pick Hand Tools Every DIY Enthusiast Needs This Holiday Season - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-samsungs-latest-copilotplus-innovations-enhanced-ai-capabilities-showcased-in-the-new-pc-series-insights-from-zdnet/"><u>Unveiling Samsung's Latest Copilot+ Innovations: Enhanced AI Capabilities Showcased in the New PC Series - Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/be-yielding-the-manual-to-merging-media-with-moolah-for-2024/"><u>YouTube Yielding The Manual to Merging Media with Moolah for 2024</u></a></li>
+</ul></div>
 

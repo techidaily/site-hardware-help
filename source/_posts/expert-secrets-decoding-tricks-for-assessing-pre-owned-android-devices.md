@@ -1,7 +1,7 @@
 ---
 title: "Expert Secrets: Decoding Tricks for Assessing Pre-Owned Android Devices"
-date: 2024-09-09T16:15:45.093Z
-updated: 2024-09-10T16:15:45.093Z
+date: 2024-10-24T17:02:57.563Z
+updated: 2024-10-31T04:56:13.895Z
 tags:
   - android
 categories:
@@ -9,26 +9,8 @@ categories:
 thumbnail: https://thmb.techidaily.com/c6a00ed9bc739f2f19c543f786366f0b15e1dcc95bf3f36705f1220c5880cb1d.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Expert Secrets: Decoding Tricks for Assessing Pre-Owned Android Devices
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [Why You Should Be Using Secret Codes to Test Used Phones](https://on-screen-recording.techidaily.com/in-2024-the-ultimate-guide-to-your-first-adobe-presenter-video/)
@@ -48,12 +30,6 @@ thumbnail: https://thmb.techidaily.com/c6a00ed9bc739f2f19c543f786366f0b15e1dcc95
 
  Used phones sometimes have faulty hardware that might escape basic inspection. That’s why I recommend running top-to-bottom diagnostics on the phone before you hand over the cash. Thankfully, Android phones have secret codes for doing just that.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Why You Should Be Using Secret Codes to Test Used Phones
 
  A few years back, I bought a second-hand Android phone whose fingerprint scanner stopped working after a while. It worked as expected during the initial purchase, but when I brought it home, it wouldn’t pick up my fingerprint. Turns out, the scanner only stays active a short while after rebooting the phone. In retrospect, I should have learned [whether used phones are worth buying](https://screen-mirroring-recording.techidaily.com/new-ultimate-guide-from-script-writing-to-final-audio-in-videos/) in the first place.
@@ -66,18 +42,6 @@ thumbnail: https://thmb.techidaily.com/c6a00ed9bc739f2f19c543f786366f0b15e1dcc95
 
  The testing tools contain hidden settings that aren’t available in the regular settings app. To launch them, you need to punch a secret code into the dialler app. Since these tools aren’t user-facing, the codes are not officially made public.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Where to Find the Codes
 
  Some of the codes can be slightly different depending on the manufacturer of your phone. We'll be using a Redmi phone in this guide, which shares the same code with Xiamo and POCO phones. Here are a few of the codes for popular Android brands to open the "Diagnostics Mode."
@@ -89,25 +53,33 @@ thumbnail: https://thmb.techidaily.com/c6a00ed9bc739f2f19c543f786366f0b15e1dcc95
 
  You can find the code for your device by searching for “secret Android codes + the device brand name.” Look for codes that trigger diagnostics mode, engineering mode, or CIT tools. Once you have the code, you can run tests on each hardware component. All that might sound overwhelming, but this guide will walk you through every single step.
 
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Testing the Hardware
 
  To start, type the diagnostic code into the phone’s dialler app, and it will automatically take you to the testing tools. This will likely look different depending on your phone model, but similar options should be available.
 
 ![Secret Android code for diagnostics entered into the dialler.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/cis-code.png) 
 
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Hidden settings for testing Android hadware.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1716229820401.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close 
 
@@ -119,12 +91,6 @@ Close
 
 ![Hardware info page revealing the IMEI numbers on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/info.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![IMEI test results with a clean IMEI number.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/imei-check.png) 
 
 Close 
@@ -145,13 +111,14 @@ Close
 
 ![Different vibration motor modes being tested on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1716229820357.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Test the Screen
 
@@ -169,54 +136,31 @@ Close
 
 ![Testing screen colors on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screen-2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close 
 
  Once you’ve made sure that the colors are showing up consistently, tap “Pass.” And with that, you’ve successfully tested the display.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Simulate a Fake Call
 
  The best way to test the receiver and the mic is just to make an actual call. But if you don’t have a SIM card handy, simulating a call is the next best thing. Simply tap “Receiver,” hold the phone up to your ear, and tap the numbers read aloud to you. Tap “Pass” to load the speakerphone test.
 
 ![Tapping the receiver menu item to trigger the fake phone call test on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/call.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Testing the speakerphone on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/call-2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Close 
 
  Once again, you’ll press the numbers read out loud to you. Mark it “Pass,” and you’ll get the mic test. Say something close to the mic and see if the phone picks up the sound.
@@ -224,23 +168,18 @@ Close
 ![Testing the phone mic on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/call-3.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Test the Charging Port and Headset Port
 
  Newer premium phones don’t have those anymore, but 3.5mm headphone ports are still common among budget Android phones. Tap “Headset Test” and connect a wired headset. It’ll automatically record ambient sound using the headset mic and play it back through the headset. You can also test the headset buttons here. Take the headset out to complete the test.
 
 ![Testing the headset port on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/headset.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Testing the headset port on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/headset-2.jpg) 
 
 Close 
@@ -255,12 +194,6 @@ Close
 
  If the current reading is below 1A, the cable itself might be faulty, so I recommend testing with a different cable just to make sure.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Test the Sensors
 
  Testing the [fingerprint scanner](https://fox-http.techidaily.com/2024-approved-the-editors-approach-to-declining-audio-tracks-gradually/) is pretty straightforward. Just tap the “Fingerprint Sensor Check” and check if it comes back green. This phone has a faulty fingerprint reader, which returns a red result. You can also tap “Fingerprint input test,” enroll your fingerprint, and test if it’s read correctly.
@@ -268,11 +201,12 @@ Close
 ![Highlighted menu item for the fingerprint sensor test.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/fingerprint.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![Fingerprint sensor test results showing a faulty sensor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1716229820169.jpg) 
 
 ![Testing fingerprint enrollment on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/fingerprint-3.jpg) 
@@ -287,94 +221,54 @@ Close
 
 ![Arrow highlighting a successful proximity sensor test on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/prox-3.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close 
 
  To test the [accelerometer](https://on-screen-recording.techidaily.com/in-2024-top-ps3-emulators-your-gateway-to-classic-games/), just tap “Accelerometer” and note if the readings are changing.
 
 ![Arrow highlighting the the accelerometer test button on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/acc.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Accelerometer test in progress on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/accelerometer.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close 
 
  The light sensor automatically controls your screen brightness. To test it, tap “Light Sensor,” bring the phone close to a source of light, and wait for the DAC value to change.
 
 ![Triggering the light sensor test on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/light.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Successful light sensor test on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/light-2.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close 
 
  To test the Wi-Fi and Bluetooth, just tap Wi-Fi AP Scan, and it’ll automatically check the Wi-Fi and Bluetooth hardware. Ensure that you see four “Pass” tags on the Wi-Fi and Bluetooth menus.
 
 ![Menu item for launching the automatic Wi-Fi and Bluetooth test on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/wifi.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Automatic Wi-Fi and Bluetooth test in progress on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/wifi-2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Pass tags indicating successful Wi-Fi and Bluetooth hardware checks on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/wifi-3.jpg) 
 
 Close 
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Test Battery Health
 
  You’ll need a separate code to check the battery's health. On Xiaomi, Redmi, and Poco devices, open the dialler app and type \*#\*#6485#\*#\*. Once again, you can search “battery health secret code + the phone’s brand name” to find the right code for the device you’re testing.
 
 ![Secret code for checking battery health entered in the Android phone dialler app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/battery-code.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Battery info page containing details about battery health on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/battery.jpg) 
 
 Close 
@@ -387,8 +281,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -396,4 +288,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-top-5-avant-garde-creators-in-digital-media/"><u>[Updated] 2024 Approved Top 5 Avant-Garde Creators in Digital Media</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-mastering-insta-lives-guide-to-downloads-and-creative-techniques/"><u>[Updated] In 2024, Mastering Insta Lives Guide to Downloads & Creative Techniques</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-ideal-video-displays-the-best-5-for-playstation-5/"><u>2024 Approved Ideal Video Displays The Best 5 for PlayStation 5</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amazon-prime-day-deals-apples-m2-macbook-air-available-at-a-steal-for-749-exclusive-insights-from-zdnet/"><u>Amazon Prime Day Deals: Apple's M2 MacBook Air Available at a Steal for $749 - Exclusive Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-steps-to-clear-out-apps-from-a-samsung-television/"><u>Easy Steps to Clear Out Apps From a Samsung Television</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-xiaomi-redmi-k70-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Xiaomi Redmi K70 to iPod | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unlocking-asmrs-hidden-layers/"><u>In 2024, Unlocking ASMR's Hidden Layers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-unveiling-igtv-insights-key-measures-for-effective-content/"><u>In 2024, Unveiling IGTV Insights Key Measures for Effective Content</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-analysis-of-the-sturdy-panasonic-toughbook-g2-notebook-customizable-compact-laptop-reviewed/"><u>In-Depth Analysis of the Sturdy Panasonic Toughbook G2 Notebook | Customizable, Compact Laptop Reviewed</u></a></li>
+<li><a href="https://techtrends.techidaily.com/latest-m3-macbook-pro-updates-and-pricing-unveiling-the-new-features/"><u>Latest M3 MacBook Pro Updates & Pricing | Unveiling the New Features</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/most-sought-after-under-1000-laptops-of-2024-in-depth-analysis-and-comparisons-expert-opinions-from-zdnet/"><u>Most Sought-After Under-$1,000 Laptops of 2024: In-Depth Analysis and Comparisons | Expert Opinions From ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/prime-deals-alert-snap-up-the-discounted-749-apple-m2-macbook-air-for-octobers-shopping-extravaganza-featured/"><u>Prime Deals Alert! Snap Up the Discounted $749 Apple M2 MacBook Air for October's Shopping Extravaganza - Featured</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Oppo A58 4G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/tiny-tech-marvels-discover-the-remarkable-capabilities-of-this-compact-8-in-1-adapter-beyond-its-affordable-price-tag-review/"><u>Tiny Tech Marvels: Discover the Remarkable Capabilities of This Compact 8-in-1 Adapter Beyond Its Affordable Price Tag Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-98-unmissable-cyber-monday-offers-of-2022-detailed-guide-by-zdnet/"><u>Top 98 Unmissable Cyber Monday Offers of 2022 - Detailed Guide by ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/transform-your-home-office-how-the-hp-copilotplus-boosts-remote-work-efficiency-insights-from-zdnet/"><u>Transform Your Home Office: How the HP Copilot+ Boosts Remote Work Efficiency | Insights From ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrade-your-apple-m3-macbook-pro-and-imac-to-the-latest-macos-sierra-with-ease/"><u>Upgrade Your Apple M3 MacBook Pro and iMac to the Latest MacOS Sierra with Ease</u></a></li>
+</ul></div>
 

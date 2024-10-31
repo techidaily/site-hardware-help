@@ -1,7 +1,7 @@
 ---
 title: "Power User Essentials: The Dual Highlights of the Latest Lenovo Notebook Reviewed on ZDNet"
-date: 2024-10-18T19:50:25.233Z
-updated: 2024-10-25T02:29:17.860Z
+date: 2024-10-29T22:18:53.387Z
+updated: 2024-10-31T04:58:02.274Z
 tags:
   - laptops
 categories:
@@ -73,16 +73,10 @@ To maintain performance and reduce heat, Asus has equipped the Vivobook S14 with
 Another thing to note is that the machine's battery life is just passable. I tested the laptop by running a non-stop YouTube video at 720p and 50% brightness until it died. The Vivobook S14 lasted about six hours before it went completely dark. So don't expect the laptop to last you through a full day of tasks without needing to charge it in between. I should mention that this test took place without Battery Saver. Having that feature turned on will extend the battery life, even if it's only by a little.
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -121,17 +115,19 @@ You can purchase the Vivobook S14 off [Best Buy for $1,200](https://shop-links.c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-applications-of-virtual-reality/"><u>[New] Applications of Virtual Reality</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-ringtune-guide-downloading-and-cutting-tamil-melodies-for-2024/"><u>[New] RingTune Guide Downloading and Cutting Tamil Melodies for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-facebooks-potential-in-health-marketing/"><u>[Updated] Mastering Facebook's Potential in Health Marketing</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortlessly-update-wireless-adapter-drivers-free-download-options/"><u>Effortlessly Update Wireless Adapter Drivers - Free Download Options</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722977058877-fast-track-to-fun-downloading-thrustmaster-t160-stealth-plus-gamepad-drivers-today/"><u>Fast Track to Fun: Downloading Thrustmaster T160 Stealth Plus Gamepad Drivers Today</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/guide-to-activate-gpu-for-enhanced-gaming-experience-in-cyberpunk-2077-on-windows-10-machines/"><u>Guide to Activate GPU for Enhanced Gaming Experience in Cyberpunk 2077 on Windows 10 Machines</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Xiaomi Redmi Note 13 Pro+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-samsung-galaxy-a15-4g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Samsung Galaxy A15 4G Phone?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-poco-x6-pro-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Poco X6 Pro Screen | Dr.fone</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/secrets-of-successful-youtube-video-repetition-unveiled-for-2024/"><u>Secrets of Successful YouTube Video Repetition Unveiled for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-updating-and-downloading-the-newest-epson-ds-510-printer-software-for-windows-users/"><u>Step by Step Guide to Updating and Downloading the Newest Epson DS-510 Printer Software for Windows Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-update-and-download-dell-laptop-model-d3100-drivers/"><u>Step by Step Tutorial: Update & Download DELL Laptop Model D3100 Drivers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-elite-hd-video-preservation-devices/"><u>[Updated] 2024 Approved Elite HD Video Preservation Devices</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-top-tier-seo-strategies-to-elevate-your-podcast-rankings/"><u>[Updated] 2024 Approved Top-Tier SEO Strategies to Elevate Your Podcast Rankings</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-ultimate-list-innovative-youtube-channel-names-for-modern-vloggers-maximum-length-156-characters/"><u>[Updated] Ultimate List Innovative Youtube Channel Names For Modern Vloggers (Maximum Length 156 Characters)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-cutting-edge-of-cinematography-kinemasters-zoom-excellence/"><u>2024 Approved The Cutting Edge of Cinematography Kinemaster’s Zoom Excellence</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-tecno-spark-20c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/can-googles-pixel-survive-amongst-the-dominance-of-ipads/"><u>Can Google's Pixel Survive Amongst the Dominance of iPads?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/capture-moments-better-with-an-improved-phone-camera-heres-how-to-choose/"><u>Capture Moments Better with an Improved Phone Camera - Here's How to Choose</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comparing-samsung-pay-and-google-pay-key-features-and-benefits/"><u>Comparing Samsung Pay and Google Pay: Key Features & Benefits</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/creative-camera-adventures-for-children-with-preloved-mobile-phones/"><u>Creative Camera Adventures for Children with Preloved Mobile Phones</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/debunking-the-top-5-common-misconceptions-about-android/"><u>Debunking the Top 5 Common Misconceptions About Android</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-safely-delete-photos-from-icloud-while-preserving-iphone-versions/"><u>How to Safely Delete Photos From iCloud While Preserving iPhone Versions</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-make-eye-zoom-transition-effect-with-filmora/"><u>New In 2024, How to Make Eye Zoom Transition Effect with Filmora</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-motorola-moto-g84-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Motorola Moto G84 5G | Dr.fone</u></a></li>
 </ul></div>
 

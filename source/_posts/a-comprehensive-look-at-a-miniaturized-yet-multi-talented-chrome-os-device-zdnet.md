@@ -1,7 +1,7 @@
 ---
 title: A Comprehensive Look at a Miniaturized yet Multi-Talented Chrome OS Device | ZDNET
-date: 2024-10-22T23:49:49.166Z
-updated: 2024-10-24T23:56:19.965Z
+date: 2024-10-29T03:42:04.375Z
+updated: 2024-10-30T17:53:14.001Z
 tags:
   - laptops
 categories:
@@ -36,10 +36,10 @@ Google Chrome is known as a bit of a [resource hog](https://www.zdnet.com/articl
 In an attempt to make the browser a bit less of a drain on the batteries of portable devices, Google has rolled out a new feature called Energy Saver mode. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to enable Energy Saver mode on Google Chrome
@@ -47,22 +47,15 @@ In an attempt to make the browser a bit less of a drain on the batteries of port
 It's currently an experimental feature that's not enabled by default, so you'll need to enable it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Requirements
 
 First, you need to be running version 108 or higher of Google Chrome on Windows, Mac, Linux, or Chromebooks. This version is rolling out to users as of Tuesday, Nov. 29\. 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. Check your Chrome browser version
 
@@ -75,10 +68,16 @@ If you are not yet running version 108 or higher, you need to update.
 **Also:** [**The best Cyber Monday Chromebook deals still available**](https://www.zdnet.com/article/cyber-monday-chromebook-deals-november-28-2022/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Enable the experimental feature
@@ -104,6 +103,13 @@ The "Enable the battery saver mode feature in the settings" flag in Google Chrom
 Adrian Kingsley-Hughes/ZDNET
 
 Find the flag, change the drop-down menu for the flag to Enabled**,** and then click Restart to apply the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Select when the battery saver feature will activate
 
@@ -161,22 +167,18 @@ If you want to roll this setting back, head back to the "Enable the battery save
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-leveraging-google-trends-data-for-idea-genesis-in-videography/"><u>[Updated] 2024 Approved Leveraging Google Trends Data for Idea Genesis in Videography</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-boosting-remote-work-engagement-with-4-tactics/"><u>[Updated] Boosting Remote Work Engagement with 4 Tactics</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-integrating-secondary-shots-tips-and-tricks/"><u>[Updated] In 2024, Integrating Secondary Shots Tips and Tricks</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-vivo-v30-lite-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Vivo V30 Lite 5G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862795214-curve-up-your-gaming-setup-unbeatable-price-on-the-24-inch-acer-nitro-at-81/"><u>Curve Up Your Gaming Setup: Unbeatable Price on the 24-Inch Acer Nitro at $81!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862790349-dell-xps-13s-dynamic-leap-with-lgs-latest-oled-technology-now-mass-produced/"><u>Dell XPS 13'S Dynamic Leap with LG’s Latest OLED Technology – Now Mass Produced</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-logitech-g920-mouse-drivers-on-your-pc-compatible-with-win11-win10-win8-and-win7/"><u>How to Get Logitech G920 Mouse Drivers on Your PC - Compatible with Win11, Win10, Win8 & Win7</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Itel P55 5G | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Oppo Reno 8T 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/overhauling-custom-power-plans-in-windows/"><u>Overhauling Custom Power Plans in Windows</u></a></li>
-<li><a href="https://win-dash.techidaily.com/techkey-universal-bluetooth-adapter-supported-by-windows-11-7-and-8-drivers/"><u>Techkey Universal Bluetooth Adapter Supported by Windows 11, 7 and 8 Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862786377-title-in-depth-performance-analysis-of-the-asus-rog-strix-xg27acs-at-an-unmatched-180hz-for-gamers/"><u>Title: In-Depth Performance Analysis of the Asus ROG Strix XG27ACS at an Unmatched 180Hz for Gamers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862807807-transform-your-gameplay-score-the-acer-nitro-27-inch-gaming-monitor-at-an-amazing-price/"><u>Transform Your Gameplay: Score the Acer Nitro 27-Inch Gaming Monitor at an Amazing Price</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unlocking-technology-secrets-with-toms-hardware-hub/"><u>Unlocking Technology Secrets with Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-cutting-edge-devices-on-toms-hardware-review-platform/"><u>Unveiling Cutting-Edge Devices on Tom's Hardware Review Platform</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-new-technology-insights-from-toms-hardware/"><u>Unveiling New Technology: Insights From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-the-latest-gadgets-with-tom-comprehensive-reviews-and-ratings/"><u>Unveiling the Latest Gadgets with Tom - Comprehensive Reviews & Ratings</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-create-youtube-intros-and-end-cards-free-and-easy/"><u>[Updated] 2024 Approved How to Create YouTube Intros & End Cards - Free and Easy</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unleash-the-potential-of-youtube-videos-through-strategic-chapters-and-segments/"><u>[Updated] Unleash the Potential of YouTube Videos Through Strategic Chapters and Segments</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amds-ryzen-9000-hit-by-delay-chipmaker-halts-shipments-for-intense-quality-assurance-checks-promises-august-launch/"><u>AMD's Ryzen 9000 Hit by Delay: Chipmaker Halts Shipments for Intense Quality Assurance Checks, Promises August Launch</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-guide-updating-your-mp280-printers-driver-for-windows-11-8-and-7/"><u>Complete Guide: Updating Your MP280 Printer's Driver for Windows 11, 8 & 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-setup-for-your-linksys-ae1200-router-instant-access-to-the-newest-drivers/"><u>Effortless Setup for Your Linksys AE1200 Router - Instant Access to the Newest Drivers</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/how-to-view-facebook-stories-anonymously2-for-2024/"><u>How to View Facebook Stories Anonymously2 for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-color-laserjet-pro-m477-driver-software-quick-download-guide-for-easy-setup-and-use/"><u>HP Color LaserJet Pro M477 Driver Software – Quick Download Guide for Easy Setup and Use</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ideal-hosts-elevating-youtube-video-audiences-for-2024/"><u>Ideal Hosts Elevating YouTube Video Audiences for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-oppo-find-x6-pro-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Oppo Find X6 Pro to iPod | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-perfecting-zoom-techniques-for-tiktok-engagement/"><u>In 2024, Perfecting Zoom Techniques for TikTok Engagement</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/overcome-csr8510-a10-graphics-card-drivers-challenges-in-windows-step-by-step-fixes/"><u>Overcome CSR8510 A10 Graphics Card Drivers Challenges in Windows: Step-by-Step Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-tutorial-to-eliminate-lag-in-street-fighter-6-for-enhanced-pc-play-experience/"><u>Step-by-Step Tutorial to Eliminate Lag in Street Fighter 6 for Enhanced PC Play Experience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ctbt-prohibits-all-nuclear-explosions-for-both-civilian-and-military-purposes-but-has-yet-to-enter-into-force-requiring-ratification-by-specific-countri87/"><u>The CTBT Prohibits All Nuclear Explosions for Both Civilian and Military Purposes but Has yet to Enter Into Force, Requiring Ratification by Specific Countries that Have Not Occurred</u></a></li>
 </ul></div>
 

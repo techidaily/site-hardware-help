@@ -1,7 +1,7 @@
 ---
 title: Discover the Ultimate List of Premier Game Bargains for Prime Day 2#4 - Sweeping Deals Still Up for Grabs | ZDNET Insights
-date: 2024-10-24T04:52:09.299Z
-updated: 2024-10-25T02:43:38.218Z
+date: 2024-10-24T06:49:48.441Z
+updated: 2024-10-31T05:03:17.662Z
 tags:
   - laptops
 categories:
@@ -80,6 +80,19 @@ The latest version of the Nintendo Switch features a 7-inch OLED screen for bett
 
 [View now at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FNintendo-Switch-OLED-Sw-Oled-Model-w-White-Joy-Con-Powever-Bundle-Import-Edition%2F3835757820%3Fathbdg%3DL2000&subId1=zd-__COM_CLICK_ID__-dtp) 
 
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Prime Day 2024 PlayStation 5 deals still available
 
 ZDNET
@@ -93,6 +106,13 @@ ZDNET
 * [Pacific Drive deluxe edition for $29 (save $11)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPacific-Drive-Deluxe-PS5-PlayStation-5%2Fdp%2FB0CNVGGZRL%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccf9d71b0-2fd4-4124-9bb6-4888895c85a0%7Cdtp&dtb=1): Explore and scavenge your way through the Pacific Northwest to repair and upgrade your possibly possessed car and unravel the mysteries of the Olympic Exclusion Zone.
 * [Victrix Pro FS-12 fight stick for $320 (save $70)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FVictrix-FS-12-Arcade-Fight-PlayStation-5%2Fdp%2FB0B3VP2M12%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccf9d71b0-2fd4-4124-9bb6-4888895c85a0%7Cdtp&dtb=1): A pro-level arcade stick for serious fighting game enthusiasts and eSports professionals.
 * [Corsair Void RGB Elite wireless headset for $70 (save $40)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCorsair-Wireless-Premium-Headset-Surround%2Fdp%2FB07XF2TGGK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccf9d71b0-2fd4-4124-9bb6-4888895c85a0%7Cdtp&dtb=1): This gaming headset features 7.1CH surround sound and an integrated mic certified for use with Discord voice chat.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Prime Day Xbox Series X|S deals still available
 
@@ -110,10 +130,10 @@ ZDNET
 * [FYY Switch game case for $8 (save $5)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSwitch-Nintendo-Holder-Portable-Silicone-Lining%2Fdp%2FB0B6GTJLSG%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccf9d71b0-2fd4-4124-9bb6-4888895c85a0%7Cdtp&dtb=1): This case can hold up to 24 Switch games and 48 microSD cards.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Prime Day 2024 PC gaming deals still available
@@ -131,13 +151,6 @@ Best Buy
 * [HyperX SoloCast USB mic for $33 (save $27 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHyperX-SoloCast-Microphone-Tap-Mute%2Fdp%2FB08KFL3SFV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccf9d71b0-2fd4-4124-9bb6-4888895c85a0%7Cdtp&dtb=1): The SoloCast is a great USB mic for creators and gamers looking for quality voice chat and recording.
 * [Razer Kiyo Pro for $102 (save $88 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRazer-Kiyo-Streaming-Webcam-High-Performance%2Fdp%2FB08T1MWX6J%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccf9d71b0-2fd4-4124-9bb6-4888895c85a0%7Cdtp&dtb=1): The Razer Kiyo Pro can record in 1080p at 60fps and is compatible with OBS, Twitch, YouTube, and Zoom.
 * [Asus ROG Spatha X wireless gaming mouse for $100 (save $50 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-ROG-Wireless-Magnetic-Programmable%2Fdp%2FB09726KT4R%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccf9d71b0-2fd4-4124-9bb6-4888895c85a0%7Cdtp&dtb=1): The Asus ROG Spatha X has 12 programmable buttons and ROG micro switches rated for a lifetime of 70 million clicks.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## More Prime Day gaming deals still available
 
@@ -179,10 +192,10 @@ Taylor Clemons/Arcade1Up/Midway/ZDNET
 Amazon's biggest sales event of the year, Prime Day 2024 -- which ended yesterday - -delivered major discounts across various product categories, including phones, laptops, TVs, audio, and more. While the best deals were available for Prime members only, sellers often mark down products for non-Prime members to take advantage of. The event officiallytook place on July 16 and July 17.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Are gaming devices and accessories really cheaper on Prime Day?
@@ -192,13 +205,6 @@ Most gaming items go on sale at steep discounts around the end-of-year holiday s
 You can also save big during other summer sales events like the Steam Summer Sale (which ends today at 10 am Pacific/1 pm Eastern), PlayStation's Essential Picks and Games Under $15 sales, and Microsoft offering Xbox Game Pass Ultimate for both PC and console for just $1 for the first 14 days. Many developers and publishers offer rolling sales and discounts throughout the year on storefronts like Steam, Epic, and Origin. So make sure to check your wishlist often to see if you can snag a few games at a discount. If you're looking to pick up new, or at least new-to-you accessories like controllers, don't be afraid to pick up a pre-owned or refurbished model.
 
 Used hardware can be a great value, as long as you practice due diligence and read all descriptions of the item's condition and any warranty or return/exchange terms in case you run into issues. Also, when you're buying pre-owned, make sure you're not buying third-party accessories as you'll have a harder time finding replacement parts or even reliable customer service as some brands may already be defunct.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  How did we choose these Prime Day deals?
 
@@ -238,18 +244,16 @@ Prime Day is Amazon's most popular flagship seasonal savings event, typically in
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-offline-access-top-quality-fb-videos-at-home/"><u>[Updated] 2024 Approved Offline Access Top Quality FB Videos at Home</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ace-gamers-deal-the-ultimate-combo-of-power-and-savings-msi-bravo-laptop-with-rtx-4060-under-1k/"><u>Ace Gamers’ Deal: The Ultimate Combo of Power and Savings - MSI Bravo Laptop with RTX 4060 Under $1K!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/apple-unveils-a-time-traveling-tech-marvel-retrofitted-1994-powerbook-with-modern-ipad-screen-and-latest-macbook-pro-internals/"><u>Apple Unveils a Time-Traveling Tech Marvel: Retrofitted 1994 PowerBook with Modern iPad Screen and Latest MacBook Pro Internals</u></a></li>
-<li><a href="https://win-popular.techidaily.com/brace-yourself-for-billable-windows-11-patches-next-years-update-pricing-revealed-tech-insight-at-zdnet/"><u>Brace Yourself for Billable Windows 11 Patches: Next Year's Update Pricing Revealed | Tech Insight at ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/comparing-performance-leaders-how-intel-core-i7-258-v-stands-up-to-the-ryzen-phoenix-on-bapco-charts/"><u>Comparing Performance Leaders: How Intel Core I7-258 V Stands Up to the Ryzen 'Phoenix' On BAPCO Charts</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-top-hardware-picks-with-toms-expert-advice-for-your-pc-needs/"><u>Discover Top Hardware Picks with Tom’s Expert Advice for Your PC Needs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/essential-hardware-know-how-for-enthusiasts-curated-by-tom/"><u>Essential Hardware Know-How for Enthusiasts, Curated by Tom</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862721549-get-your-hands-on-the-high-end-dell-g16-gaming-laptop-for-only-949-limited-time-offer/"><u>Get Your Hands on the High-End Dell G16 Gaming Laptop for Only $949 - Limited Time Offer</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/in-depth-guide-mastering-the-art-of-full-scale-data-deletion-from-your-ios-gadget/"><u>In-Depth Guide: Mastering the Art of Full-Scale Data Deletion From Your iOS Gadget</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-13-ricette-di-fotografia-video-metodi-essenziali-per-diverse-situazioni-di-shooting/"><u>Top 13 Ricette Di Fotografia Video: Metodi Essenziali per Diverse Situazioni Di Shooting</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/ultimate-drone-list-to-maximize-gopro-video-quality/"><u>Ultimate Drone List to Maximize GoPro Video Quality</u></a></li>
-<li><a href="https://change-location.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Vivo Y55s 5G (2023)? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-command-line-trick-shutdown-apps-en-mass/"><u>Windows Command Line Trick: Shutdown Apps En Mass</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-accelerating-instagram-videos-quick-tips-for-2024/"><u>[New] Accelerating Instagram Videos Quick Tips for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-creating-captivating-slideshows-on-the-social-media-giant/"><u>[New] In 2024, Creating Captivating Slideshows on the Social Media Giant</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1-dell-unveils-new-portable-gaming-laptop-perfect-office-companion-revealed-on-zdnet/"><u>1. Dell Unveils New Portable Gaming Laptop: Perfect Office Companion Revealed on ZDNet!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-a-beginners-tutorial-on-using-luts-in-ar/"><u>2024 Approved A Beginner's Tutorial on Using LUTs in AR</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-oppo-a1-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Oppo A1 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/bringing-retro-tech-jargon-back-to-life-with-affordable-laptops-a-closer-look/"><u>Bringing Retro Tech Jargon Back to Life with Affordable Laptops - A Closer Look</u></a></li>
+<li><a href="https://blog-min.techidaily.com/conversion-de-archivos-webm-a-3gp-gratis-en-linea-con-movavi/"><u>Conversión De Archivos WebM a 3GP Gratis en Línea Con Movavi</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-guide-getting-audio-devices-recognized-in-windows-11-media-player/"><u>Fix Guide: Getting Audio Devices Recognized in Windows 11 Media Player</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-powerhouse-hp-victus-15-for-just-530-top-gaming-performance-meets-great-savings-at-best-buy-zdnet-review/"><u>Get the Powerhouse HP Victus 15 for Just $530: Top Gaming Performance Meets Great Savings at Best Buy | ZDNET Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/snag-the-best-value-in-vr-metas-quest-3-goes-on-sale-with-a-whopping-512gb-card-prime-day-edition-deals-be-gone/"><u>Snag the Best Value in VR: Meta's Quest 3 Goes On Sale with a Whopping 512GB Card, Prime Day Edition Deals Be Gone!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-verdict-the-ultimate-guide-to-the-compact-and-multi-purpose-chromebook-on-testing/"><u>Top Verdict: The Ultimate Guide to the Compact & Multi-Purpose Chromebook on Testing</u></a></li>
 </ul></div>
 

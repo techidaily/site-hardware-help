@@ -1,7 +1,7 @@
 ---
 title: "Protect Your Privacy: Avoid Untrusted Techies Accessing Your Files - New Research Reveals Risks"
-date: 2024-10-18T08:58:45.453Z
-updated: 2024-10-25T08:19:00.304Z
+date: 2024-10-29T03:33:01.824Z
+updated: 2024-10-31T04:30:47.205Z
 tags:
   - laptops
 categories:
@@ -42,13 +42,6 @@ For a recap of all the products unveiled during Apple's "Scary Fast" event -- an
 
 ## What products did get announced
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## M3 chips in all sizes
 
 June Wan/ZDNET
@@ -70,10 +63,10 @@ Much like the M2 processors that classify Apple's latest Mac computers by perfor
 * M3 Max: Starting at 16 main processing cores (12 performance and four efficiency) and 40 graphics cores, and now supports up to 128GB of unified memory
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. 14-inch and 16-inch MacBook Pro
@@ -92,6 +85,13 @@ What hasn't changed is the form factors of the new MacBook Pros, with Liquid Ret
 
 The 14- and 16-inch MacBook Pros are available for preorder right now, starting at $1,599 and $2,499, respectively, with the M3 and M3 Pro models seeing earlier ship times (as soon as next week), and the M3 Max models being slated for late November.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. iMac with M3
 
 Jason Hiner/ZDNET
@@ -103,13 +103,6 @@ It's hard to believe that the oh-so-colorful 24-inch iMac is more than 900 days 
 Apple says the M3 chip allows the new 24-inch iMac to perform at twice the speeds of its M1 predecessor, and the difference is larger compared to Intel-based models. Otherwise, the design of the new iMac is about the same as the last, with a 1080p FaceTime camera, a six-speaker sound system, a 4.5K retina display that ramps up to 500 nits of brightness, and Apple's Neural Engine and Media Engine for creative workflows.
 
 The 24-inch iMac is now available for preorder starting at $1,299 and will begin shipping next week.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What products didn't get announced
 
@@ -124,16 +117,10 @@ It's not unreasonable to assume that it may be the end of the line for Apple's f
 If there was any time for the company to further the gap between its old laptops and the new, Apple's "Scary Fast" event just made the most sense.
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Magic Keyboard and Mouse with USB-C
@@ -145,6 +132,13 @@ With the iPhone being the last major product to transition over from Lightning t
 **Also: [Best USB-C chargers and accessories for iPhone 15 Pro: Expert tested](https://www.zdnet.com/article/best-usb-c-and-wireless-chargers-and-accessories-for-iphone-15-pro/)**
 
 With the new 24-inch iMac, Apple will continue to bundle Lightning-equipped Magic Keyboard and Mouse peripherals, giving some users reasons to retain their cables.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to rewatch Apple's 'Scary Fast' event
 
@@ -180,18 +174,22 @@ The keynote presentation began on Monday, Oct. 30, 2023, at 5 p.m. PT (8 p.m. ET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-navigating-instagrams-video-time-policy/"><u>[Updated] Navigating Instagram's Video Time Policy</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Oppo F25 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-on-iphone-13-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock On iPhone 13 - 4 Easy Ways</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/code-28-error-woes-heres-your-ultimate-windows-hack-for-a-smooth-fix/"><u>Code 28 Error Woes? Here's Your Ultimate Windows Hack for a Smooth Fix</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/tly-download-youtube-videos-for-2024/"><u>Directly Download YouTube Videos for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-epson-es-400-scandriver-on-windows-complete-guide/"><u>Download & Install Epson ES-400 ScanDriver on Windows: Complete Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-asus-bluetooth-drivers-installation-tutorials-and-update-info/"><u>Effortless ASUS Bluetooth Drivers: Installation Tutorials & Update Info</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/enhanced-print-controls-available-the-newest-release-of-the-brother-hl-2240-printer-driver-for-windows-systems/"><u>Enhanced Print Controls Available: The Newest Release of the Brother HL-2240 Printer Driver for Windows Systems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/explore-the-secrets-of-crafting-contagious-content-on-youtube-learn-with-us/"><u>Explore the Secrets of Crafting Contagious Content on YouTube – Learn with Us!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-epson-l3n150-driver-software-for-your-windows-pc-win10-win8-win7/"><u>Get the Latest Epson L3n150 Driver Software for Your Windows PC (Win10, Win8, Win7)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-logitech-g35-audio-device-up-to-date-compatible-drivers-for-win-7810/"><u>Get Your Logitech G35 Audio Device Up-to-Date: Compatible Drivers for Win 7/8/10</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/1715860657362-in-2024-learn-to-record-mac-display-like-a-pro/"><u>In 2024, Learn to Record MAC Display Like a Pro!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-computer-components-your-guide-to-cutting-edge-gadgets/"><u>Tom's Computer Components: Your Guide to Cutting-Edge Gadgets</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-crafting-engaging-youtube-thumbnails-a-step-by-step-guide/"><u>[New] Crafting Engaging YouTube Thumbnails A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-efficient-video-calls-made-easy-linking-zoom-with-gmail/"><u>[Updated] 2024 Approved Efficient Video Calls Made Easy Linking Zoom with Gmail</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-expertly-slice-your-videos-macs-finest-mp4-applications/"><u>[Updated] In 2024, Expertly Slice Your Videos Mac's Finest MP4 Applications</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-understanding-your-absence-on-snapchat/"><u>[Updated] In 2024, Understanding Your Absence on Snapchat</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-pathway-to-smart-youtube-frames-free-methods-inside-for-2024/"><u>[Updated] The Pathway to Smart YouTube Frames (Free Methods Inside!) For 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/google-play-store-experience-on-amazon-fire-devices-a-comprehensive-overview/"><u>Google Play Store Experience on Amazon Fire Devices: A Comprehensive Overview</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/guide-to-updating-a-google-pixel-device-via-sideload-no-ota-required/"><u>Guide to Updating a Google Pixel Device via Sideload - No OTA Required</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/guide-disabling-consent-requests-for-deleting-images-in-google-photos/"><u>Guide: Disabling Consent Requests for Deleting Images in Google Photos</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/guide-switching-from-tabs-to-separate-windows-on-google-chrome-for-android-devices/"><u>Guide: Switching From Tabs to Separate Windows on Google Chrome for Android Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/introducing-the-advanced-features-of-samsungs-new-galaxy-watch-6-equipped-with-improved-chipset-and-running-on-wear-os-4/"><u>Introducing the Advanced Features of Samsung's New Galaxy Watch 6 - Equipped with Improved Chipset & Running on Wear OS 4</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/introducing-the-new-oneplus-11-a-rocky-launch-amidst-high-expectations/"><u>Introducing the New OnePlus 11: A Rocky Launch Amidst High Expectations</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/introducing-the-new-oneplus-tab-2-advanced-snapdragon-processor-meets-stunning-3k-resolution-screen/"><u>Introducing the New OnePlus Tab 2 - Advanced Snapdragon Processor Meets Stunning 3K Resolution Screen</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/maximum-usage-duration-how-many-years-will-your-android-device-last/"><u>Maximum Usage Duration: How Many Years Will Your Android Device Last?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-performance-issues-how-to-stop-code-vein-lagging/"><u>Overcoming Performance Issues: How to Stop Code Vein Lagging?</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/siemens-ag/"><u>Siemens AG</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-7-best-mac-video-viewing-tools-for-2024/"><u>Top 7 Best Mac Video Viewing Tools for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/top-screencast-software-on-the-market-bandicam-vs-camtasia/"><u>Top Screencast Software on the Market Bandicam Vs. Camtasia</u></a></li>
 </ul></div>
 

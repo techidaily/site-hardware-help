@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Review of the Newly Released M3 MacBook Air: How Apple's Affordable AI Device Is Changing the Game | Insights"
-date: 2024-10-21T07:38:11.086Z
-updated: 2024-10-25T07:49:17.224Z
+date: 2024-10-29T04:36:42.948Z
+updated: 2024-10-30T16:09:14.021Z
 tags:
   - laptops
 categories:
@@ -44,6 +44,13 @@ One more thing to keep in mind if you're considering buying the 15-inch M3 MacBo
 
 **Also:** [**MacBook Pro (M3 Max) review: A desktop-class laptop for an AI-powered age**](https://www.zdnet.com/article/macbook-pro-m3-max-review/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Specifications
 
 ---
@@ -67,18 +74,18 @@ The ability to run two external monitors with the lid closed is one of the M3 Ma
 
 Jason Hiner/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How I tested the M3 MacBook Air
 
 In terms of qualitative testing, I wrote this article on the M3 MacBook Air and used my daily work applications -- Slack, Microsoft Outlook, Google Drive, and ZDNET's CMS. I also used Adobe Lightroom for processing photos, including AI features. I fired up YouTube in Safari to play the song Eclipse from the Dune 2 soundtrack as a way to test the audio quality of the built-in speakers. I also played the 2021 Dune movie in 4K from my library in the Apple TV Plus app to test the display quality of the M3 MacBook Air. I expect there will be a lot more AI testing to do after WWDC 2024 in June when Apple is likely to unveil its generative AI tools.
 
 For quantitive testing, I followed the same routine I used in my [review of the MacBook Pro with M3 Max](https://www.zdnet.com/article/macbook-pro-m3-max-review/). I used Cinebench to benchmark the M3 MacBook Air against other popular Macs I've tested over the past couple years. I also used Adobe Lightroom's AI-powered "Denoise" feature as a real-world test because it's a feature I use constantly when processing product photos and so any time savings there can result in tangible productivity gains. As you can see in the charts below, the M3 MacBook Air performed very well in the Cinebench benchmarks, compared to it M2 predecessor. But, it only scored marginally better than the M2 model in my real-world Lightroom test. I'd like to do more tests with other AI workflows and update this review over time, especially after WWDC 2024.
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### AI test: Adobe Lightroom Denoise (lower is better)
 
@@ -109,10 +116,10 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Cinebench CPU/GPU benchmark (higher is better)
@@ -157,6 +164,13 @@ Jason Hiner/ZDNET
 
 **Neural engine to power through AI tasks:** According to Apple's internal tests, the neural engine in the M3 MacBook Air offers a 60% improvement in performance over the previous generation M2 MacBook Air. As you can see in my real-world AI test above using the Denoise feature in Adobe Lightroom, I didn't see that kind of lift. Nevertheless, it's possible the Adobe software isn't optimized for M3 yet. And the overall benchmark improvements provide encouragement that this machine could be ready for more. A big test will be when Apple releases its own generative AI features later this year. It feels like this product is anticipating that, and could already be optimized for it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What I'd like to see in the next model
 
 **A USB-C port on the right side:** With the M3 MacBook Air becoming more and more of a pro-capable laptop, the biggest thing that it needs is more expansion ports. The two USB-C 4 / Thunderbolt 3 ports limit the amount of pro-level things you can do with the machine without using cumbersome expansion docks and hubs. The fact that both of the USB-C ports are on the left side can also be awkward and inconvenient at times. Apple could solve both problems by simply adding one more USB-C port to the right side of the M3 MacBook Air. 
@@ -173,13 +187,6 @@ Jason Hiner/ZDNET
 
 **Better built-in sound:** One of the main things you give up by going with the M3 MacBook Air versus the MacBook Pro models is that you get a much inferior set of built-in speakers. The strong base and excellent sound clarity of the MacBook Pro models are made possible by the speakers on either side of the keyboard, while sound comes from the hinge area on the M3 MacBook Air. The result is that you have much lower fidelity sound that is a bit mushy and thin. You can overcome this, of course, by simply listening through a pair of quality headphones like the [AirPods Pro 2nd-gen](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWRXH8B%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C50276359-6a51-4b98-bbea-d068e899a313%7Cdtp&dtb=1) or the [Sony WF-1000XM5 earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C33XXS56%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C50276359-6a51-4b98-bbea-d068e899a313%7Cdtp&dtb=1). But there are always going to be times when you want and need to use the built-in speakers.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Final thought
 
 At first glance, it may seem odd that Apple is releasing the upgraded [M3 MacBook Air](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-m3&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) lineup just nine months after the 15-inch M2 version was [first unveiled at Apple WWDC in June 2023](https://www.zdnet.com/video/apple-wwdc-2023-every-product-revealed-vision-pro-15-inch-macbook-air-more/). But, this is a good thing. For the 13-inch and 15-inch MacBook Air models, this is an incremental upgrade that brings them up to date with [the new M3 processors that Apple announced last fall](https://www.zdnet.com/article/everything-apple-announced-at-its-october-scary-fast-event-m3-macbook-pro-24-inch-imac-more/) and continues them on their trajectory to be more capable and more of the light professional-grade laptops that many people can use to handle all of their work. 
@@ -189,13 +196,6 @@ That keeps mainstream Mac laptops at a more approachable price and allows the Ma
 Up close with the M3 MacBook Air 15-inch in Midnight.
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -243,20 +243,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-help.techidaily.com/install-now-ultimate-guide-to-downloading-qualcomm-and-atheros-bluetooth-30-ar3011-driver/"><u>[Install Now] Ultimate Guide to Downloading Qualcomm & Atheros Bluetooth 3.0 AR3011 Driver</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-easy-steps-to-record-skype-on-both-platforms/"><u>[New] 2024 Approved Easy Steps to Record Skype on Both Platforms</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-mastering-the-art-of-creating-an-original-tiktok-hashtag/"><u>[New] 2024 Approved Mastering the Art of Creating an Original TikTok Hashtag</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-navigate-the-digital-landscape-effective-use-of-screen-sharing-on-skype-at-home/"><u>[New] 2024 Approved Navigate the Digital Landscape Effective Use of Screen Sharing on Skype at Home</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-navigating-through-linkedin-account-termination-procedures/"><u>[New] In 2024, Navigating Through LinkedIn Account Termination Procedures</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-from-audio-to-words-on-youtube-a-comprehensible-free-guide/"><u>[Updated] In 2024, From Audio to Words on YouTube A Comprehensible Free Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-subtlety-in-chords-pc-and-mac-music-settings/"><u>2024 Approved Subtlety in Chords PC & Mac Music Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/advanced-tips-for-converting-heic-images-to-jpeg-in-windows-11/"><u>Advanced Tips for Converting HEIC Images to JPEG in Windows 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/complete-guide-to-set-up-your-hp-mfp-m42ebfw-printer-with-updated-drivers-on-win10-win11-and-win7/"><u>Complete Guide to Set Up Your HP MFP M42ebfw Printer with Updated Drivers on Win10, Win11 & Win7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-guide-to-revamping-lenovo-power-management-drivers/"><u>Effortless Guide to Revamping Lenovo Power Management Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/fix-no-disk-found-error-for-ssds-protect-your-files-with-our-method/"><u>Fix No Disk Found Error for SSDs: Protect Your Files with Our Method</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/heat-treatments-like-annealing-can-improve-ductility-by-reducing-internal-stresses-in-metals/"><u>Heat Treatments Like Annealing Can Improve Ductility by Reducing Internal Stresses in Metals.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/netgear-wnas3100-drivers-quick-download-and-latest-firmware-version/"><u>Netgear WNAS3100 Drivers: Quick Download and Latest Firmware Version</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/swift-installation-guide-linksys-ae2500-wireless-router-drivers-on-linuxubuntu/"><u>Swift Installation Guide: Linksys AE2500 Wireless Router Drivers on Linux/Ubuntu</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/unlocking-an-icloud-locked-ipad-and-iphone-xr-by-drfone-ios/"><u>Unlocking an iCloud Locked iPad and iPhone XR</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-xbox-one-zoom-integration-essential-tips-for-2024/"><u>[Updated] Xbox One Zoom Integration Essential Tips for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/classic-fanfare-fix/"><u>Classic Fanfare Fix</u></a></li>
+<li><a href="https://windows11.techidaily.com/disabling-automatic-shutdown-timer-on-windows/"><u>Disabling Automatic Shutdown Timer on Windows</u></a></li>
+<li><a href="https://win-help.techidaily.com/guida-rapido-come-clonare-windows-11-in-un-ssd-usb-per-avviare-facilmente-il-sistema/"><u>Guida Rapido: Come Clonare Windows 11 in Un SSD USB per Avviare Facilmente Il Sistema</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-gt-neo-5-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/nvidia-rtx-games-performance-unmet-quick-fix/"><u>Nvidia RTX Games Performance Unmet - Quick Fix</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-vivo-y02t-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Vivo Y02T and Browser | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-transferring-android-applications-to-sd-card/"><u>Step-by-Step Guide: Transferring Android Applications to SD Card</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-strategies-for-securing-your-android-smartphone/"><u>Step-by-Step Strategies for Securing Your Android Smartphone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/streamlining-android-interface-design-tips-for-enhancing-usability-among-older-adults/"><u>Streamlining Android Interface Design: Tips for Enhancing Usability Among Older Adults</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/switching-to-dark-interface-settings-in-androids-microsoft-office-suite/"><u>Switching to Dark Interface Settings in Android's Microsoft Office Suite</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-case-for-extra-tactile-controls-a-look-at-increasing-button-count-on-smartphones/"><u>The Case for Extra Tactile Controls: A Look at Increasing Button Count on Smartphones</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-rising-demand-why-choose-pure-unmodified-android-experience/"><u>The Rising Demand: Why Choose Pure, Unmodified Android Experience?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-non-functional-voice-chat-in-call-of-duty-modern-warfare/"><u>Troubleshooting Guide: Fixing Non-Functional Voice Chat in Call of Duty Modern Warfare</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/your-words-powered-by-ai-free-of-cost/"><u>Your Words Powered by AI, Free of Cost</u></a></li>
 </ul></div>
 

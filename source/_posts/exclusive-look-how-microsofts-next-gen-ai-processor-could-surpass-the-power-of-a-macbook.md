@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Look: How Microsoft’s Next-Gen AI Processor Could Surpass the Power of a MacBook"
-date: 2024-10-20T00:57:01.501Z
-updated: 2024-10-25T04:06:17.966Z
+date: 2024-10-27T00:18:07.360Z
+updated: 2024-10-30T18:14:35.637Z
 tags:
   - laptops
 categories:
@@ -95,10 +95,10 @@ A total of five vents on the m18 R2 allow for maximum internal airflow. Addition
 In fact, one thing I noticed about the m18 R2 is that it never really felt hot to the touch at all. Both the keyboard and the wrist rest (above where the battery is housed) remained only slightly warm, suggesting that the fans were in fact doing their job effectively, which I'm glad for, given the sound they generate. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -108,16 +108,10 @@ In fact, one thing I noticed about the m18 R2 is that it never really felt hot t
 However, this is also quite a large laptop, so although it's portable, it isn't exactly carry-and-go, and it isn't a machine that you can leave unplugged for hours at a time. Pricing can easily rise toward the higher end too, but the cutting-edge technology solidifies the m18 R2 as something that will be near the top of the laptop market for a while. 
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -154,20 +148,18 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-4-effective-ways-to-snip-screens-on-chromebook/"><u>[Updated] 2024 Approved 4 Effective Ways to Snip Screens On Chromebook</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-unlock-the-secrets-of-stellar-snaps-and-snapchat-boomers/"><u>[Updated] 2024 Approved Unlock the Secrets of Stellar Snaps and Snapchat Boomers</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-initiate-flip-reverse-video-display-on-vlc-software-for-2024/"><u>[Updated] Initiate Flip Reverse Video Display on VLC Software for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-power-of-free-enhancing-your-obs-studio-projects-using-luts/"><u>[Updated] The Power of Free Enhancing Your OBS Studio Projects Using LUTs</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-unveiling-the-secrets-of-youtube-video-dimensions-and-resolution/"><u>[Updated] Unveiling the Secrets of YouTube Video Dimensions & Resolution</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-premium-selection-of-budget-friendly-4k-projectors/"><u>2024 Approved Premium Selection of Budget-Friendly 4K Projectors</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/dive-deep-into-the-world-of-high-performance-laptops-with-our-review-of-the-asus-zenbook-s1-6-where-we-thoroughly-examine-and-test-its-capabilities-when-pow16/"><u>Dive Deep Into the World of High-Performance Laptops with Our Review of the Asus Zenbook S1 6, Where We Thoroughly Examine and Test Its Capabilities when Powered by the Advanced AMD Ryzen AI 9 HX 370 CPU.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/dive-into-the-game-world-grab-lenovos-powerhouse-legion-slim-5-rtx-4060-gpu-at-an-unbeatable-price-of-899/"><u>Dive Into the Game World: Grab Lenovo's Powerhouse Legion Slim 5, RTX 4060 GPU at an Unbeatable Price of $899</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/dive-into-the-world-of-computing-with-toms-hardware-solutions/"><u>Dive Into the World of Computing with Tom’s Hardware Solutions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-instructions-for-registering-a-new-oculus-quest-and-quest-2-account-on-metas-platform/"><u>Easy Instructions for Registering a New Oculus Quest and Quest 2 Account on Meta's Platform</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exclusive-deal-get-the-hp-omen-transcend-14-laptop-with-rtx-gpu-and-oled-display-at-300-off/"><u>Exclusive Deal: Get the HP Omen Transcend 14 Laptop with RTX GPU & OLED Display at $300 Off</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/experience-enhanced-computing-discover-all-available-laptops-with-microsoft-copilot-and-snapdragon-elite-technology/"><u>Experience Enhanced Computing: Discover All Available Laptops with Microsoft Copilot and Snapdragon Elite Technology</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/experience-extended-multi-day-battery-life-on-the-latest-laptops-from-acer-dell-hp-and-lenovo-new-1-099-snapdragon-x-and-windows-copilotplus-pcs-available-n3/"><u>Experience Extended 'Multi-Day Battery Life' On the Latest Laptops From Acer, Dell, HP & Lenovo: New $1, 099 Snapdragon X and Windows Copilot+ PCs Available Now</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-momentum-masters-youtubes-freshly-watched-hits/"><u>In 2024, Momentum Masters Youtube’s Freshly Watched Hits</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlock-the-potential-of-your-ipad-free-ipados-18-update-available-with-new-innovations-and-pricing-insights/"><u>Unlock the Potential of Your iPad: Free IPadOS 18 Update Available with New Innovations and Pricing Insights!</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-crafting-captivating-unboxing-reels-top-tips-for-success-on-instagram/"><u>[New] In 2024, Crafting Captivating Unboxing Reels Top Tips for Success on Instagram</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-youtube-broadcast-wirecast-streaming-guide/"><u>[Updated] Mastering YouTube Broadcast WireCast Streaming Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-instantaneous-aspect-alteration-for-visual-content/"><u>2024 Approved Instantaneous Aspect Alteration for Visual Content</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/decoding-hardware-with-tom-your-guide-to-next-gen-devices/"><u>Decoding Hardware with Tom: Your Guide to Next-Gen Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723262409149-dive-into-tech-with-toms-hardware-the-ultimate-guide-for-enthusiasts/"><u>Dive Into Tech with Tom's Hardware - The Ultimate Guide for Enthusiasts!</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/facebook-media-extractor-mp3-focus-for-2024/"><u>Facebook Media Extractor – MP3 Focus for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-free-qualcomm-atheros-ar938x-driver-instantly-here/"><u>Get Your Free Qualcomm Atheros AR938X Driver Instantly Here</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-access-your-iphone-8-plus-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your iPhone 8 Plus When You Forget the Passcode?</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-oppo-a78-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Oppo A78 Without Password | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-id-from-iphone-12-without-password-by-drfone-ios/"><u>In 2024, How to Remove Apple ID from iPhone 12 without Password?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/optimize-your-pc-for-windows-11-with-the-latest-intel-iris-xe-g7-graphics-driver/"><u>Optimize Your PC for Windows 11 with the Latest Intel Iris Xe G7 Graphics Driver</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/realtek-rtl8188cu-wi-fi-drivers-compatible-with-windows-10-and-nativet-to-windows-7-download-now/"><u>Realtek RTL8188CU Wi-Fi Drivers: Compatible with Windows 10 & Nativet to Windows 7 - Download Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/tackling-hp-monitor-driver-complications-across-windows-platforms-including-windows-11-8-and-7/"><u>Tackling HP Monitor Driver Complications Across Windows Platforms, Including Windows 11, 8 & 7</u></a></li>
 </ul></div>
 

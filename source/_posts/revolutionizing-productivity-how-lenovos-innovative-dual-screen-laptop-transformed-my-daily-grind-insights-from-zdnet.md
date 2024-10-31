@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Productivity: How Lenovo's Innovative Dual-Screen Laptop Transformed My Daily Grind - Insights From ZDNet"
-date: 2024-10-23T17:36:14.692Z
-updated: 2024-10-24T22:31:34.633Z
+date: 2024-10-25T06:31:44.309Z
+updated: 2024-10-30T22:35:11.050Z
 tags:
   - laptops
 categories:
@@ -41,10 +41,16 @@ A laptop with two screens is perhaps one of the tamest designs it has come up wi
 It's given me a chance to revisit the idea of having two screens on my laptop, and once again, it's tempting me to switch away from my boring-in-comparison MacBook Pro.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specifications (as reviewed)
@@ -62,10 +68,16 @@ It's given me a chance to revisit the idea of having two screens on my laptop, a
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Living with a dual-screen laptop
@@ -108,13 +120,6 @@ To power the Yoga Book 9i, Lenovo includes an 80W battery that's rated for about
 
 Charging the laptop is as straightforward as it comes. There's a Rapid Charge adapter in the box that gives you about two hours of runtime with just 15 minutes of charging. I found this mostly to be true, although you have to shut the lid if you want charging speeds to really pick up.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Evaluating Lenovo's dual-screen software
 
 With such unique hardware, Lenovo had to build unique software for Windows 11 so that it behaves properly and gives you extra functionality.
@@ -135,6 +140,13 @@ It's weird; I've had apps like Chrome and Spotify show up on the lower display w
 
 I'll give Lenovo credit, the new Yoga Book 9i feels smoother than the old one did. I don't notice as much scruff or weird glitches with the software, and the bundled Bluetooth keyboard doesn't produce nearly as many double-key entries as before. Still, it's not a perfect experience, which is something to keep in mind if you're going to spend $2,000 on a laptop.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## One thing to keep in mind
 
 Having a laptop with two screens means you'll have to lug around a separate keyboard, mouse, and kickstand, all three of which (plus a stylus) come in the box. It's a lot of separate things you have to remember to bring, and I'm going to be honest with you, it can be inconvenient.
@@ -146,10 +158,10 @@ When I'm working on my MacBook or -- quite frankly -- any other laptop in my ars
 Of course, you'll eventually get used to it, but it'll never be as convenient as shutting your laptop lid and moving on with your day.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -190,22 +202,21 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-dominate-the-digital-space-youtube-leadership/"><u>[New] In 2024, Dominate the Digital Space YouTube Leadership</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-ultimate-screen-recorder-pro-win11-edition-for-2024/"><u>[New] Ultimate Screen Recorder Pro - Win11 Edition for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-bandicam-screen-recorder-review-for-2024/"><u>[Updated] Bandicam Screen Recorder Review for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-xiaomi-redmi-note-13-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Xiaomi Redmi Note 13 5G Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/choosing-your-preferred-package-manager-for-windows-devices/"><u>Choosing Your Preferred Package Manager for Window's Devices</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-galaxy-z-fold-5-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Galaxy Z Fold 5</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-iphone-15-plus-from-backup-when-itunes-backup-is-corrupt-or-not-compatible-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore iPhone 15 Plus from Backup when iTunes Backup is Corrupt or not compatible | Stellar</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-haunting-horrors-the-ultimate-list-of-engaging-zombie-games/"><u>In 2024, Haunting Horrors The Ultimate List of Engaging Zombie Games</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-gear-expert-reviews-and-insights/"><u>Tom's Tech Gear: Expert Reviews and Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-hub-a-comprehensive-guide-to-advanced-computer-systems/"><u>Tom's Tech Hub: A Comprehensive Guide to Advanced Computer Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-review-comprehensive-insights-on-hardware-solutions/"><u>Tom's Tech Review: Comprehensive Insights on Hardware Solutions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-expert-guidance-on-computer-components-and-systems/"><u>Tom's Tech: Expert Guidance on Computer Components and Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-ranked-gaming-headphones-and-headsets-of-2/"><u>Top-Ranked Gaming Headphones & Headsets of 2</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723964487162-transform-your-gameplay-get-asus-rog-strix-scope-ii-gaming-keyboard-at-only-69/"><u>Transform Your Gameplay: Get ASUS ROG Strix Scope II Gaming Keyboard at Only $69!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/type-effortlessly-on-the-go-discover-sanwa-supplys-new-usb-foot-pedals-for-hands-free-typing/"><u>Type Effortlessly on the Go: Discover Sanwa Supply's New USB Foot Pedals for Hands-Free Typing</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unlocking-the-potential-of-your-pc-toms-comprehensive-hardware-insights/"><u>Unlocking the Potential of Your PC: Tom's Comprehensive Hardware Insights</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-discover-the-best-video-blur-tools-for-iphone-and-android-users/"><u>Updated In 2024, Discover the Best Video Blur Tools for iPhone and Android Users</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/1716069438416-new-2024-approved-step-by-step-instructions-on-initiating-a-cross-platform-skype-conversation-with-ease/"><u>[New] 2024 Approved Step-by-Step Instructions on Initiating a Cross-Platform Skype Conversation with Ease.</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-free-online-services-for-youtube-subtitles-download/"><u>[New] In 2024, Free Online Services for YouTube Subtitles Download</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-tips-for-transforming-twitter-videos-into-audio-songs-mp3/"><u>[Updated] 2024 Approved Tips for Transforming Twitter Videos Into Audio Songs (MP3)</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/apples-masterpiece-unveiled-a-deep-dive-into-the-215-4k-imac-review/"><u>Apple's Masterpiece Unveiled: A Deep Dive Into the 21.5 4K iMac Review!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722970930437-download-asrock-ab350-pro4-windows-drivers-complimentary-access-and-easy-setup-tips/"><u>Download ASRock AB350 Pro4 Windows Drivers - Complimentary Access and Easy Setup Tips!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-insights-from-toms-computer-review-top-picks-for-enthusiasts/"><u>Expert Insights From Tom's Computer Review - Top Picks for Enthusiasts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-gpt-as-a-writing-checker/"><u>Exploring GPT as a Writing Checker</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-m-audio-fast-track-ultra-driver-installer-at-no-cost/"><u>Get Your M-Audio Fast Track Ultra Driver Installer at No Cost</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-fetch-the-newest-canoscan-lide-220-drivers-step-by-step-instructions/"><u>How to Fetch the Newest CanoScan LiDE 220 Drivers: Step-by-Step Instructions</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-samsung-galaxy-f34-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Samsung Galaxy F34 5G via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-guide-how-to-update-or-download-surface-book-2-drivers/"><u>Quick Guide: How to Update or Download Surface Book 2 Drivers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/raucous-reels-crafting-7-comedy-storylines-for-social-media-stars-for-2024/"><u>Raucous Reels Crafting 7 Comedy Storylines for Social Media Stars for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/resolving-hp-beats-sound-card-issues-on-windows-10-8-and-7-a-comprehensive-fix-guide/"><u>Resolving HP Beats Sound Card Issues on Windows 10, 8 & 7 – A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/secure-your-perfect-audio-experience-microsoft-windows-drivers-downloads-available-now/"><u>Secure Your Perfect Audio Experience: Microsoft Windows Drivers Downloads Available Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-update-your-vga-drivers-for-enhanced-display-quality/"><u>Step-by-Step: Update Your VGA Drivers for Enhanced Display Quality</u></a></li>
 </ul></div>
 

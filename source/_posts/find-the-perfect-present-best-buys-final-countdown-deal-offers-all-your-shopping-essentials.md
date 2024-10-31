@@ -1,7 +1,7 @@
 ---
 title: "Find the Perfect Present: Best Buy’s Final Countdown Deal Offers All Your Shopping Essentials"
-date: 2024-10-20T03:33:46.390Z
-updated: 2024-10-25T05:20:11.150Z
+date: 2024-10-24T02:15:46.010Z
+updated: 2024-10-31T02:13:48.373Z
 tags:
   - laptops
 categories:
@@ -42,13 +42,6 @@ For a recap of all the products unveiled during Apple's "Scary Fast" event -- an
 
 ## What products did get announced
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## M3 chips in all sizes
 
 June Wan/ZDNET
@@ -70,10 +63,10 @@ Much like the M2 processors that classify Apple's latest Mac computers by perfor
 * M3 Max: Starting at 16 main processing cores (12 performance and four efficiency) and 40 graphics cores, and now supports up to 128GB of unified memory
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. 14-inch and 16-inch MacBook Pro
@@ -104,20 +97,14 @@ Apple says the M3 chip allows the new 24-inch iMac to perform at twice the speed
 
 The 24-inch iMac is now available for preorder starting at $1,299 and will begin shipping next week.
 
-## What products didn't get announced
-
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## What products didn't get announced
 
 ## 1\. 13-inch MacBook Pro
 
@@ -128,6 +115,13 @@ There were murmurs that the M3-fication of MacBook Pros would include Apple's lo
 It's not unreasonable to assume that it may be the end of the line for Apple's final MacBook with a Touch Bar, as its most recent refresh happened nearly a year and a half ago when the company simply swapped out its M1 chip for an M2\. The design of the 13-inch MacBook Pro remains inferior to even the MacBook Air, which fields a notched design and a keyboard that's less prone to defects.
 
 If there was any time for the company to further the gap between its old laptops and the new, Apple's "Scary Fast" event just made the most sense.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Magic Keyboard and Mouse with USB-C
 
@@ -140,10 +134,10 @@ With the iPhone being the last major product to transition over from Lightning t
 With the new 24-inch iMac, Apple will continue to bundle Lightning-equipped Magic Keyboard and Mouse peripherals, giving some users reasons to retain their cables.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to rewatch Apple's 'Scary Fast' event
@@ -180,20 +174,20 @@ The keynote presentation began on Monday, Oct. 30, 2023, at 5 p.m. PT (8 p.m. ET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-stop-blank-screen-problems-with-obs-applications/"><u>[New] 2024 Approved Stop Blank Screen Problems with OBS Applications</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-oceanic-visionaries-selecting-the-top-5-cameras-for-2024/"><u>[New] Oceanic Visionaries Selecting the Top 5 Cameras for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-expert-techniques-for-swift-mac-screenshotting-using-shortcuts/"><u>2024 Approved Expert Techniques for Swift Mac Screenshotting Using Shortcuts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-broadcom-bluetooth-driver-on-windows-1087-devices/"><u>How to Install Broadcom Bluetooth Driver on Windows 10/8/7 Devices</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-idevice-screen-recording-techniques-for-youtube/"><u>In 2024, Mastering iDevice Screen Recording Techniques for YouTube</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Honor Magic 5 Lite | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-from-iphone-12-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide from iPhone 12 iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-tech-knowledge-with-expert-analysis-on-toms-hardware/"><u>Mastering Tech Knowledge with Expert Analysis on Tom's Hardware</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-high-tech-choices-with-toms-wise-selection/"><u>Navigating High-Tech Choices with Tom's Wise Selection</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-the-digital-landscape-strategies-and-reviews-by-toms-hardware/"><u>Navigating the Digital Landscape: Strategies and Reviews by Tom's Hardware</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/oled-screen-revolution-sustains-momentum-with-predicted-134m-unit-shipments-throughout-current-fiscal-year/"><u>OLED Screen Revolution Sustains Momentum with Predicted 1.34M Unit Shipments Throughout Current Fiscal Year</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/pioneering-reviews-in-the-world-of-technology-by-toms-computer-insights/"><u>Pioneering Reviews in the World of Technology by Tom's Computer Insights</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/protecting-privacy-in-conversational-agents-understanding-model-inversion-vulnerabilities/"><u>Protecting Privacy in Conversational Agents: Understanding Model Inversion Vulnerabilities</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/score-the-best-deal-on-a-high-quality-gaming-screen-get-the-sceptre-24-inch-curved-monitor-at-just-79/"><u>Score the Best Deal on a High-Quality Gaming Screen - Get the Sceptre 24 Inch Curved Monitor at Just $79!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-and-fixing-the-dreaded-steam-error-code-130-successfully/"><u>Troubleshooting and Fixing the Dreaded Steam Error Code 130 Successfully</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-best-screen-recorder-for-chromebook-for-2024/"><u>[New] Best Screen Recorder for Chromebook for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-facebook-newsletter-the-most-recent-changes-for-2024/"><u>[New] Facebook Newsletter - The Most Recent Changes for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-100-safe-audio-download-techniques-from-youtube/"><u>[Updated] 100% Safe Audio Download Techniques From YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-convenient-method-to-design-original-shorts-thumbnails/"><u>[Updated] 2024 Approved Convenient Method to Design Original Shorts Thumbnails</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-voice-versus-video-making-the-right-media-selection-for-2024/"><u>[Updated] Voice Versus Video Making the Right Media Selection for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/analyzing-amds-latest-performance-steep-decline-in-gaming-income-by-59-massive-data-center-profit-leap-of-115/"><u>Analyzing AMD's Latest Performance: Steep Decline in Gaming Income by 59%; Massive Data Center Profit Leap of 115%</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723262403477-asus-makes-history-with-the-first-ever-rog-nuc-combines-cutting-edge-core-ultra-9-and-stunning-rtx-4070-graphics-at-an-unbeatable-starting-price-of-1629/"><u>Asus Makes History with the First-Ever ROG NUC - Combines Cutting-Edge Core Ultra 9 and Stunning RTX 4070 Graphics at an Unbeatable Starting Price of $1,629!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-instantly-upgrade-to-the-latest-hp-drivers/"><u>Download & Instantly Upgrade to the Latest HP Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-epson-xp-245-printer-drivers-compatible-with-windows-7-8-and-10/"><u>Download Epson XP-245 Printer Drivers: Compatible with Windows 7, 8 & 10</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-vivo-y78plus-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Vivo Y78+ to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-overcome-amd-rx-560-drivers-trouble-on-windows-operating-systems-windows-111087-guide/"><u>How to Overcome AMD RX 560 Drivers Trouble on Windows Operating Systems: Windows 11/10/8/7 Guide</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-6s-plusipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone 6s Plus/iPad | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-intel-usb-30-drivers-now-available-for-windows-11-users/"><u>Latest Intel USB 3.0 Drivers Now Available for Windows 11 Users!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/new-linux-update-halts-snapdragon-x-elite-gpu-by-default-due-to-lack-of-verified-oem-key-signing-processes-available/"><u>New Linux Update Halts Snapdragon X Elite GPU by Default - Due to Lack of Verified OEM Key Signing Processes Available</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-does-image-recognition-fail-in-your-iphones-visual-search/"><u>Why Does Image Recognition Fail in Your iPhone's Visual Search?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fast Mac Guidance: Steps to Take When Laptop Cooling Fans Constantly Run - Insights"
-date: 2024-10-22T23:24:49.058Z
-updated: 2024-10-25T00:54:17.074Z
+date: 2024-10-23T20:46:29.812Z
+updated: 2024-10-30T21:04:38.208Z
 tags:
   - laptops
 categories:
@@ -38,13 +38,6 @@ If you're running a resource-heavy application such as Photoshop, or have a brow
 
 Another heavy load for MacBooks is using [external monitors](https://www.zdnet.com/article/best-monitor/), because these stress the GPU, which in turn means that the fans need to run more often. Not reassured? Keep reading. 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Is your Mac hot or not?
 
 I recommend installing a temperature monitor. The app that I recommend is [TG Pro](https://www.tunabellysoftware.com/tgpro/). This app not only logs the temperatures of various components, but also allows you to take control of the system fans manually. 
@@ -57,11 +50,25 @@ The TG Pro Mac software in action.
 
 Adrian Kingsley-Hughes/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Reboot
 
 Still worried? Then I'd suggest a reboot.
 
 It's possible that an application -- or maybe even the operating system -- has crashed and is going rogue. The quickest way to fix this is with a reboot.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Reset your Intel-based Mac
 
@@ -70,10 +77,10 @@ If you're still experiencing this problem and you don't think that it's normal (
 Don't worry, it's a lot easier than it sounds -- oh, and you won't lose any data doing this!
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Reset SMC (System Management Controller)
@@ -86,27 +93,20 @@ This one tip can fix a whole raft of Mac issues. However, how you go about doing
 
 **Also:** [**How to make your MacBook battery run all day**](https://www.zdnet.com/article/how-to-make-your-macbook-battery-last-all-day/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Reset PRAM (Parameter RAM)
 
 To reset the PRAM you need to hold down COMMAND and OPTION and P and R while powering on the system. Here's another of those times when a spare arm (or an assistant) comes in handy! Keep holding down the four buttons for about 20 seconds, and you'll hear [the "WALL-E" startup chime](https://www.youtube.com/watch?v=bBmM4VM8Bv8) or see the Apple logo a couple of times. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Restart your Apple Silicon Mac
 
 For these newer M1- and M2-powered Macs, resetting the SMC and PRAM doesn't work, and all Apple recommends doing is restarting the computer.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Oh, one more thing ... dust!
 
@@ -148,19 +148,14 @@ Hold the nozzle an inch or so away from the vents and only use the suction brief
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-navigating-the-odds-comprehensive-take-on-vegas-pro-2021/"><u>[New] 2024 Approved Navigating the Odds Comprehensive Take on Vegas Pro 2021</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-5-best-snipping-tools-for-pc-for-2024/"><u>[Updated] 5 Best Snipping Tools for Pc for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-idealized-panzoid-blueprints-collection/"><u>2024 Approved Idealized Panzoid Blueprints Collection</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/ace-your-laughs-kinemaster-for-top-memes-for-2024/"><u>Ace Your Laughs KineMaster for Top Memes for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/beat-the-lag-effective-ways-to-stop-fortnite-from-freezing-on-your-pc-this-year/"><u>Beat the Lag: Effective Ways to Stop Fortnite From Freezing on Your PC This Year</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/chronic-headaches-with-neurological-deficits-can-be-associated-with-tumors-strokes-or-demyelinating-diseases-like-multiple-sclerosis/"><u>Chronic Headaches with Neurological Deficits Can Be Associated with Tumors, Strokes, or Demyelinating Diseases Like Multiple Sclerosis</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/expert-analysis-reveals-recurring-crash-problems-with-intel-powered-laptop-computers/"><u>Expert Analysis Reveals Recurring Crash Problems with Intel-Powered Laptop Computers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-download-compatible-drivers-and-setup-software-for-logitech-wireless-mice-on-windows-1087/"><u>Free Download: Compatible Drivers and Setup Software for Logitech Wireless Mice on Windows 10/8/7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-update-your-logitech-c92e-webcam-driver-for-windows-versions-11-10-and-8/"><u>How to Update Your Logitech C92e Webcam Driver for Windows Versions: 11, 10 and 8</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-xiaomi-redmi-note-12t-pro-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Xiaomi Redmi Note 12T Pro FRP</u></a></li>
-<li><a href="https://games-able.techidaily.com/securing-reliable-wireless-performance-on-ps5/"><u>Securing Reliable Wireless Performance on PS5</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/standardized-youtube-images-made-accessible-3-easy-ways-to-download-for-2024/"><u>Standardized YouTube Images Made Accessible 3 Easy Ways to Download for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-to-install-sound-blaster-z-drivers-on-modern-windows-os/"><u>Step-by-Step Tutorial to Install Sound Blaster Z Drivers on Modern Windows OS</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-definitive-guide-to-upgrading-your-corsair-gaming-headset-drivers-in-microsoft-windows/"><u>The Definitive Guide to Upgrading Your Corsair Gaming Headset Drivers in Microsoft Windows</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/uick-editing-incorporating-jump-cuts-in-video-content/"><u>[New] Quick Editing Incorporating Jump Cuts in Video Content</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-new-horizons-in-electronics-with-toms-hardware-hub/"><u>Discover New Horizons in Electronics with Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722968401699-effortless-installation-hp-envy-5660-drivers-get-them-now/"><u>Effortless Installation: HP Envy 5660 Drivers - Get Them Now!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/master-the-solution-overcoming-msodll-file-missing-problems-in-office-applications/"><u>Master the Solution: Overcoming Mso.dll File Missing Problems in Office Applications</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/next-gen-ryzen-cpus-arrive-elevating-performance-with-advanced-strix-halo-integration-and-kraken-point-support/"><u>Next-Gen Ryzen CPUs Arrive, Elevating Performance with Advanced Strix Halo Integration and Kraken Point Support</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/original-vocal-augmented-reality-platform/"><u>Original Vocal Augmented Reality Platform</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-iphone-issues-quickly-a-comprehensive-guide-to-leveraging-apples-app-for-assistance/"><u>Solving iPhone Issues Quickly: A Comprehensive Guide to Leveraging Apple's App for Assistance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-with-download-for-gigabytes-z370p-d3-system-controller-driver/"><u>Ultimate Guide with Download for Gigabyte's Z370P D3 System Controller Driver</u></a></li>
 </ul></div>
 

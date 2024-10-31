@@ -1,7 +1,7 @@
 ---
 title: Optimize Your Chromebook's Internet Experience by Adjusting DNS Servers - Tips & Benefits Explained
-date: 2024-10-24T02:46:40.292Z
-updated: 2024-10-24T20:30:32.131Z
+date: 2024-10-26T17:20:36.237Z
+updated: 2024-10-30T16:04:03.295Z
 tags:
   - laptops
 categories:
@@ -36,32 +36,25 @@ Google Chrome is known as a bit of a [resource hog](https://www.zdnet.com/articl
 In an attempt to make the browser a bit less of a drain on the batteries of portable devices, Google has rolled out a new feature called Energy Saver mode. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to enable Energy Saver mode on Google Chrome
 
 It's currently an experimental feature that's not enabled by default, so you'll need to enable it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Requirements
 
 First, you need to be running version 108 or higher of Google Chrome on Windows, Mac, Linux, or Chromebooks. This version is rolling out to users as of Tuesday, Nov. 29\. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Check your Chrome browser version
@@ -73,6 +66,13 @@ _chrome://settings/help_
 If you are not yet running version 108 or higher, you need to update.
 
 **Also:** [**The best Cyber Monday Chromebook deals still available**](https://www.zdnet.com/article/cyber-monday-chromebook-deals-november-28-2022/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Enable the experimental feature
 
@@ -99,16 +99,10 @@ Adrian Kingsley-Hughes/ZDNET
 Find the flag, change the drop-down menu for the flag to Enabled**,** and then click Restart to apply the changes.
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Select when the battery saver feature will activate
@@ -167,17 +161,21 @@ If you want to roll this setting back, head back to the "Enable the battery save
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-efficiently-implementing-youtube-end-screens/"><u>[New] In 2024, Efficiently Implementing Youtube End Screens</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-lightweight-recording-tool-windows-compatible/"><u>[Updated] In 2024, Lightweight Recording Tool, Windows Compatible</u></a></li>
-<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-realme-12-pro-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Realme 12 Pro 5G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/cutting-edge-communication-strategies-merging-slack-with-filmoras-capabilities/"><u>Cutting-Edge Communication Strategies Merging Slack with Filmora's Capabilities</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/experience-top-tier-performance-with-the-discounted-dell-16-inch-g16-laptop-only-949/"><u>Experience Top-Tier Performance with the Discounted Dell 16-Inch G16 Laptop - Only $949!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-computer-gadgets-with-toms-hardware-insights/"><u>Exploring Computer Gadgets with Tom's Hardware Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/flying-lotuss-ultimate-creation-the-self-sustained-3d-printer-crafted-aio-desktop-from-a-modified-laptop-frame/"><u>Flying Lotus's Ultimate Creation: The Self-Sustained, 3D Printer-Crafted AIO Desktop From a Modified Laptop Frame</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Xiaomi Redmi K70 Pro? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/in-depth-analysis-of-cutting-edge-hardware-on-tomtech-review/"><u>In-Depth Analysis of Cutting-Edge Hardware on TomTech Review</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/in-depth-look-at-the-razer-blade-14-impressive-specs-with-an-elegant-build-and-hefty-price-tag/"><u>In-Depth Look at the Razer Blade 14: Impressive Specs with an Elegant Build and Hefty Price Tag</u></a></li>
-<li><a href="https://media-tips.techidaily.com/understanding-airplay-technology-a-beginners-guide/"><u>Understanding AirPlay Technology: A Beginner's Guide</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-oppo-a1x-5g-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Oppo A1x 5G Device</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-leveraging-famebit-strategies-for-effective-youtube-sponsors/"><u>[New] 2024 Approved Leveraging FameBit Strategies for Effective YouTube Sponsors</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-top-five-new-facebook-features-you-should-know/"><u>[Updated] 2024 Approved Top Five New Facebook Features You Should Know</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-facebooks-premier-video-extraction-tools-for-iphone-and-ipad/"><u>[Updated] In 2024, Facebook's Premier Video Extraction Tools for iPhone & iPad</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-xiaomi-redmi-k70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/a-comprehensible-guide-to-updating-razers-bios-driver-for-pc-users/"><u>A Comprehensible Guide to Updating Razer's BIOS Driver for PC Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/decoding-tech-trends-a-look-into-toms-gadget-analysis/"><u>Decoding Tech Trends: A Look Into Tom's Gadget Analysis</u></a></li>
+<li><a href="https://games-able.techidaily.com/delve-deeper-into-fallouts-universe-through-games/"><u>Delve Deeper Into Fallout's Universe Through Games</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/diy-guide-digitizing-vhs-content-into-dvd-format-on-your-desktop-system/"><u>DIY Guide: Digitizing VHS Content Into DVD Format on Your Desktop System</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-fixes-for-your-elgato-hd60-driver-troubles-step-by-step-solutions/"><u>Easy Fixes for Your Elgato HD60 Driver Troubles - Step-by-Step Solutions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-device-drivers-manually-in-windows-without-an-internet-connection/"><u>Installing Device Drivers Manually in Windows Without an Internet Connection</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-m-audio-fast-track-driver-software-for-windows-117881-users/"><u>Latest M-Audio Fast Track Driver Software for Windows 11/7/8/8.1 Users</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/lecture-transcription-at-zero-expense/"><u>Lecture Transcription at Zero Expense</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-computer-components-a-deep-dive-by-toms-electronics-guru/"><u>Mastering Computer Components - A Deep Dive by Tom's Electronics Guru</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/qualcomm-ceo-confirms-rollout-of-high-end-snapdragon-x-equipped-computers-priced-at-700-usd-for-next-year/"><u>Qualcomm CEO Confirms Rollout of High-End, Snapdragon X Equipped Computers Priced at 700 USD for Next Year</u></a></li>
+<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-oppo-f25-pro-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Oppo F25 Pro 5G Black and White | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-computer-hardware-insights/"><u>Tom's Computer Hardware Insights</u></a></li>
 </ul></div>
 

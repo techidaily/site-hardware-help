@@ -1,7 +1,7 @@
 ---
 title: Choosing Between the M3 and M2 MacBook Air - Expert Comparison by ZDNet
-date: 2024-10-20T20:57:52.518Z
-updated: 2024-10-24T16:45:04.655Z
+date: 2024-10-26T20:30:55.667Z
+updated: 2024-10-31T02:28:43.174Z
 tags:
   - laptops
 categories:
@@ -50,19 +50,6 @@ But if you have the M1 MacBook Pro, the question of upgrading becomes a little t
 
 Jason Cipriani/ZDNET
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  1\. You need more battery life
 
 While you might expect the newest device to have the [better battery life](https://www.zdnet.com/article/how-to-make-your-macbook-battery-last-all-day/), the extra processing power does take a toll. In terms of pure battery life, the M1 beats the M3 by a decent margin. For general use, the M1 has up to 17 hours while the M3 only makes it to 12\. Solely on streaming, the gap lessens a little at 20 hours compared to 18\. 
@@ -70,6 +57,13 @@ While you might expect the newest device to have the [better battery life](https
 **Also: [MacBook Pro vs MacBook Air: How to decide which Apple laptop to buy](https://www.zdnet.com/article/macbook-air-vs-macbook-pro-how-to-decide-which-apple-laptop-to-buy/)**
 
 Now, it's worth noting that most people do use their MacBooks plugged in, and going more than half a day without access to an outlet is pretty rare. But, in the event that you often find yourself in situations where a power supply isn't readily available and you work very long days, the M1 should be your choice. This is, of course, by Apple's numbers.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  2\. You're doing mostly web-based work or don't need the absolute fastest option
 
@@ -93,13 +87,6 @@ The M1 and M2 versions of the MacBook Pro had a 13-inch option, but that choice 
 
 [Buy the M1 MacBook Pro View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-14-inch-10%E2%80%91core-16%E2%80%91core%2Fdp%2FB09JQWSQK7%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb8a46bf4-2454-4fc8-ab97-fbd92c896998%7Cdtp&dtb=1)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  You should buy the M3 MacBook Pro if...
 
 Buy a MacBook Pro with an M3 Pro chip on sale now.
@@ -107,10 +94,16 @@ Buy a MacBook Pro with an M3 Pro chip on sale now.
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  1\. You're working outside or in other very bright environments
@@ -126,16 +119,10 @@ While there's very little the M3 can do that the M1 just can't, the biggest diff
 If you're working in a very fast-paced environment (say, live sports or entertainment) and seconds make the difference, it might be worth springing for the M3\. Of course, you'll likely only notice the performance difference when dealing with high-end graphics and video. But power users will be right at home with the M3.
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  3\. You want a new-conditioned laptop
@@ -143,6 +130,13 @@ If you're working in a very fast-paced environment (say, live sports or entertai
 It's been almost three years since Apple launched its M1-powered systems, so the chances of you finding one in brand-new condition today are rare. Instead, the fresher MacBook Pro with M3 chip is guaranteed to be available at your local Apple store, third-party retailers, and more. You can also expect [better deals on the M3 model](https://www.zdnet.com/article/buy-a-new-macbook-pro-with-m3-pro-chip-for-200-off-right-now/) going into the holiday shopping season. For the M1, it's buying a second-hand device or keeping your fingers crossed that somewhere on the internet is still selling one in pristine condition.
 
 [Buy the MacBook Pro M3 View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core%2Fdp%2FB0CM5KC8X7%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb8a46bf4-2454-4fc8-ab97-fbd92c896998%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -178,18 +172,20 @@ It's been almost three years since Apple launched its M1-powered systems, so the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-enhancing-stardew-experience-discovering-the-top-7-modifications/"><u>[New] 2024 Approved Enhancing Stardew Experience Discovering the Top 7 Modifications</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-free-thumbnail-extract-from-youtube-videos-today/"><u>[New] 2024 Approved Free Thumbnail Extract From YouTube Videos Today</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-building-profitable-collaborations-with-brands-on-youtube/"><u>[Updated] Building Profitable Collaborations with Brands on Youtube</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-professional-content-creation-tools-review-studio-vs-beta/"><u>[Updated] Professional Content Creation Tools Review Studio Vs. Beta</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-streamlining-sales-with-snapchats-marketing-features/"><u>2024 Approved Streamlining Sales with Snapchat's Marketing Features</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/clonezilla-zum-kopieren-von-grossen-festplatten-auf-kleine-ssds-technik-vergleicht-and-erleichtert/"><u>Clonezilla Zum Kopieren Von Großen Festplatten Auf Kleine SSDs: Technik Vergleicht & Erleichtert</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/comment-corriger-et-restaurer-loutil-mis-a-jour-windows-dans-windows-10-ou-11-une-approche-methodique-avec-6-solutions-differentes/"><u>Comment Corriger Et Restaurer L'outil Mis À Jour Windows Dans Windows 10 Ou 11 : Une Approche Méthodique Avec 6 Solutions Différentes</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-infinix-note-30-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Infinix Note 30? Fixed | Dr.fone</u></a></li>
-<li><a href="https://win-unique.techidaily.com/premium-django-dashboard-experience-using-bootstrap-4-by-creative-tim-upgrade-to-pro-version-now/"><u>Premium Django Dashboard Experience Using Bootstrap 4 by Creative Tim – Upgrade to PRO Version Now!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-review-the-ultimate-guide-to-the-latest-in-computer-components/"><u>Tom's Tech Review: The Ultimate Guide to the Latest in Computer Components</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-reviews-comprehensive-insights-into-computer-hardware/"><u>Tom's Tech Reviews: Comprehensive Insights Into Computer Hardware</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-reviews-expert-insights-on-computer-components-and-gadgets-t17238642572639/"><u>Tom's Tech Reviews: Expert Insights on Computer Components and Gadgets</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-reviews-in-depth-analysis-and-performance-insights/"><u>Tom's Tech Reviews: In-Depth Analysis and Performance Insights</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/10-leading-biz-youtube-sites-why-they-rule-for-2024/"><u>10 Leading Biz YouTube Sites Why They Rule for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/clear-communication-test-your-mic-on-pc/"><u>Clear Communication: Test Your Mic on PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fast-and-easy-installation-of-microsoft-ergo-keyboard-4000-drivers-download-now/"><u>Fast & Easy Installation of Microsoft Ergo Keyboard 4000 Drivers - Download Now!</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-dfu-mode-on-apple-iphone-11-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-xiaomi-redmi-12-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Xiaomi Redmi 12 5G to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-motorola-moto-g04-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Motorola Moto G04 to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/innovative-solutions-exceeding-standard-fbx-recorders-for-2024/"><u>Innovative Solutions Exceeding Standard FBX Recorders for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-geforce-rtx-3080-ti-graphics-card-driver-for-win-11107-free-download-available-now/"><u>Latest GeForce RTX 3080 Ti Graphics Card Driver for Win 11/10/7 – Free Download Available Now</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/mastering-the-art-of-making-dormant-facebook-vids-pop-up-again/"><u>Mastering the Art of Making Dormant Facebook Vids Pop Up Again</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/nvidia-geforce-210-drivers-update-for-windows-10/"><u>NVIDIA GeForce 210 Drivers Update for Windows 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-correcting-your-synaptic-keyboardmouse-driver-woes-in-w11/"><u>Step-by-Step Guide: Correcting Your Synaptic Keyboard/Mouse Driver Woes in W11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-on-installing-the-latest-driver-for-your-intel-centrino-advanced-n-6000-series-wifi-adapter/"><u>Step-by-Step Tutorial on Installing the Latest Driver for Your Intel Centrino Advanced-N 6000 Series WiFi Adapter</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-how-to-get-your-asus-touchpad-running-on-windows-11/"><u>Step-by-Step Tutorial: How to Get Your ASUS Touchpad Running on Windows 11</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-your-guide-to-latest-computer-gadgets/"><u>Tom's Tech Insights - Your Guide to Latest Computer Gadgets</u></a></li>
 </ul></div>
 

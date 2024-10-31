@@ -1,7 +1,7 @@
 ---
 title: "Apple M3 MacBook Air Unveiled: Affordable AI-Powered Laptop for Everyone - Exclusive ZDNet Coverage"
-date: 2024-10-19T22:56:54.702Z
-updated: 2024-10-25T00:58:57.057Z
+date: 2024-10-24T01:01:17.117Z
+updated: 2024-10-31T06:13:22.990Z
 tags:
   - laptops
 categories:
@@ -57,16 +57,10 @@ Kyle Kucharski/ZDNET
 Besides the Smart Share features, there are four different "modes" that activate various features. You can toggle each feature on or off individually, to avoid being bombarded with different prompts. Here are the most impactful ones I saw during my time trying the new laptops.
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Shield Mode
@@ -75,10 +69,16 @@ Besides the Smart Share features, there are four different "modes" that activate
 * The VPN auto-launch feature will start your preferred VPN automatically upon connecting to any public Wi-Fi network, a handy function if you spend a lot of time working in coffee shops.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Attention Mode
@@ -88,10 +88,10 @@ Besides the Smart Share features, there are four different "modes" that activate
 Kyle Kucharski/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Collaboration Mode
@@ -99,10 +99,10 @@ Kyle Kucharski/ZDNET
 * Designed mostly for virtual meetings, activating this mode enables your preset camera features, such as background blur, low light enhancer, or touch ups.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Wellness Mode
@@ -147,22 +147,21 @@ We'll definitely be doing some additional testing of the smart modes when we get
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/oost-engagement-on-youtube-by-adding-emojis-for-2024/"><u>[New] Boost Engagement on YouTube by Adding Emojis for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-simplified-methods-to-record-gotomeeting-chats-for-2024/"><u>[New] Simplified Methods to Record GoToMeeting Chats for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-extract-youtube-trailers-and-more/"><u>[Updated] 2024 Approved How to Extract YouTube Trailers & More</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/5-easy-ways-to-transfer-contacts-from-apple-iphone-6s-to-android-drfone-by-drfone-transfer-from-ios/"><u>5 Easy Ways to Transfer Contacts from Apple iPhone 6s to Android | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amds-renoir-surpasses-expectations-with-unprecedented-6666mhz-ddr4-clock-speed/"><u>AMD's Renoir Surpasses Expectations with Unprecedented 6666MHz DDR4 Clock Speed</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-soundtracks-blending-beats-with-video-on-windows-11/"><u>Crafting Soundtracks Blending Beats with Video on Windows 11</u></a></li>
-<li><a href="https://win-forum.techidaily.com/free-diy-guide-converting-dvds-into-avi-format-with-movavi/"><u>FREE DIY Guide: Converting DVDs Into AVI Format with Movavi</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/intels-confidence-booster-guaranteed-protection-on-overclocked-10th-gen-comet-lake-processors/"><u>Intel's Confidence Booster: Guaranteed Protection on Overclocked 10Th Gen Comet Lake Processors</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/maximizing-performance-ultimate-guide-to-overclocking-your-intel-12th-gen-alder-lake-processor/"><u>Maximizing Performance: Ultimate Guide to Overclocking Your Intel 12Th Gen Alder Lake Processor</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/msi-counterfeit-pedal-infused-with-virus-the-danger-of-overrun-byproduct-application/"><u>MSI Counterfeit Pedal Infused with Virus: The Danger of Overrun Byproduct Application</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-the-tech-world-with-toms-hardware-experts-your-guide-to-cutting-edge-devices/"><u>Navigating the Tech World with Tom's Hardware Experts - Your Guide to Cutting-Edge Devices</u></a></li>
-<li><a href="https://win-answers.techidaily.com/nba-2k21-pc-crashes-heres-how-you-can-solve-the-problem/"><u>NBA 2K21 PC Crashes? Here's How You Can Solve the Problem</u></a></li>
-<li><a href="https://article-tips.techidaily.com/outshine-filmora-a-roundup-of-the-best-tablets-for-image-tweaking-for-2024/"><u>Outshine Filmora A Roundup of the Best Tablets for Image Tweaking for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-in-depth-reviews-and-comparisons/"><u>Tom's Tech Insights: In-Depth Reviews and Comparisons</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-reviews-unveiling-the-latest-computer-gadgets/"><u>Tom's Tech Reviews: Unveiling the Latest Computer Gadgets</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-infinix-hot-40i-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Infinix Hot 40i Device</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/world-record-thermal-runoff-achieved-by-splave-with-ryzene-9-3900xt-and-liquid-nitrogen-cooling/"><u>World Record Thermal Runoff Achieved by Splave with Ryzene 9 3900XT and Liquid Nitrogen Cooling</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-counteracting-loss-of-live-streams-on-twitch-for-2024/"><u>[New] Counteracting Loss of Live Streams on Twitch for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-digital-diaries-top-picks-for-personal-recorders/"><u>[New] In 2024, Digital Diaries Top Picks for Personal Recorders</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-staying-pure-hearted-amidst-the-ruse-of-ratings-and-likes/"><u>[New] In 2024, Staying Pure-Hearted Amidst the Ruse of Ratings and Likes</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/outubes-income-leap-at-500-subs-count/"><u>[New] YouTube's Income Leap at 500 Subs Count</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-superbackground-cleanup-suite-for-2024/"><u>[Updated] SuperBackground Cleanup Suite for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-ultimate-guide-enjoy-tweets-in-stunning-hd-quality-for-2024/"><u>[Updated] Ultimate Guide Enjoy Tweets in Stunning HD Quality for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/geforce-rtx-3080-drivers-installation-guide-for-windows-10-8-and-7-users/"><u>GeForce RTX 3080 Drivers: Installation Guide for Windows 10, 8 & 7 Users</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-vivo-y100t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-entertaining-videoland-audit/"><u>In 2024, Entertaining Videoland Audit</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intel-13th-gen-processors-face-significant-return-challenges-retailers-report-a-surge-in-rmas-over-amd/"><u>Intel 13Th Gen Processors Face Significant Return Challenges: Retailers Report a Surge in RMAs Over AMD</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-easy-asus-z370-e-driver-downloads-enhanced-performance-and-stability/"><u>Quick & Easy ASUS Z370-E Driver Downloads: Enhanced Performance and Stability</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/resolved-fixing-dts-audio-not-available-on-your-selected-sound-hardware/"><u>Resolved: Fixing 'DTS Audio Not Available' On Your Selected Sound Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-solution-for-when-your-usb-sticks-are-ignored-by-windows-10/"><u>Step-by-Step Solution for When Your USB Sticks Are Ignored by Windows 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-review-in-depth-hardware-analysis/"><u>Tom's Tech Review: In-Depth Hardware Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722967167762-ultimate-compatibility-with-your-devices-update-tp-link-tl-ub400-bluetooth-adapter-driver-here/"><u>Ultimate Compatibility with Your Devices: Update TP-Link TL-UB400 Bluetooth Adapter Driver Here!</u></a></li>
 </ul></div>
 

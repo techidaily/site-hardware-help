@@ -1,7 +1,7 @@
 ---
 title: How LG's Cutting-Edge Gram Pro Laptops Outshine Apple's MacBook Air in Performance, Portability, and Battery Life | ZDNet Insights
-date: 2024-10-23T03:50:40.632Z
-updated: 2024-10-25T01:35:48.028Z
+date: 2024-10-28T03:10:29.865Z
+updated: 2024-10-31T00:19:15.184Z
 tags:
   - laptops
 categories:
@@ -43,10 +43,10 @@ There I was, with two relatively large-sized, ultraportable laptops and a digita
 The LG Gram Pro 16 2-in-1 had already set the mark at 3.04 pounds. Then came the 15-inch MacBook Air, clocking in at 3.51 pounds. A slight sigh of relief could be felt behind me. How exactly does LG achieve this weight? They're chalking it up to the nano-magnesium alloy construction, which feels more plasticky than the MacBook's all-aluminum build, but which is noticeably lighter in the hand, especially when I moved the laptops around for pictures.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. It's all about the use of space
@@ -60,10 +60,10 @@ The curvatures of the LG Gram Pro edges also mean that the company can fit more 
 As someone who still relies on legacy devices, such as hard drives, that have USB-A ports, the presence of the standard and added flexibility of the Gram makes it a better productivity laptop for me. It also helps to have the HDMI slot for when you're traveling and want to connect to a hotel TV or monitor.
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. OLED makes all the difference
@@ -77,10 +77,10 @@ Don't get me wrong, the Liquid Retina (IPS) display on the 15-inch MacBook Air i
 LG offers the new Gram Pro laptops in IPS and OLED variants, but the latter versions that I tested at the venue were noticeably sharper and more color-accurate. It helped that LG had set black wallpapers on the demo units, which made the individual icons and self-emissive pixels pop a little more.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -119,20 +119,22 @@ LG prices its [OLED Gram Pro laptops](https://shop-links.co/link/?exclusive=1&pu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-elevating-instagram-posts-with-perfectly-sized-videos/"><u>2024 Approved Elevating Instagram Posts with Perfectly Sized Videos</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/acer-nitro-5-driver-refresh-tutorial-for-enhanced-performance/"><u>Acer Nitro 5 Driver Refresh Tutorial for Enhanced Performance</u></a></li>
-<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Tecno Pop 7 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-epson-wf-3520-printer-drivers-for-windows-latest-version/"><u>Download and Install Epson WF-3520 Printer Drivers for Windows - Latest Version</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-canon-mg2520-printer-drivers-on-windows-step-by-step-guide/"><u>Download and Update Canon MG2520 Printer Drivers on Windows: Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-latest-dell-wireless-network-drivers-for-windows-7-systems/"><u>Download Latest Dell Wireless Network Drivers for Windows 7 Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/eliminate-steam-startup-issues-a-step-by-step-guide-with-7-key-fixes/"><u>Eliminate Steam Startup Issues: A Step-by-Step Guide with 7 Key Fixes</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/enhance-your-sound-experience-how-to-update-corsair-headset-drivers-for-windows-1011/"><u>Enhance Your Sound Experience: How to Update Corsair Headset Drivers for Windows 10/11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-hands-on-the-logitech-g-pro-controller-windows-111087-supported-download/"><u>Get Your Hands on the Logitech G Pro Controller - Windows 11/10/8/7 Supported Download</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-upgrade-your-lenovo-camera-hardware-components-with-windows-7-supported-drivers/"><u>How to Upgrade Your Lenovo Camera Hardware Components with Windows 7 Supported Drivers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-from-still-life-to-stirring-storytelling/"><u>In 2024, From Still Life to Stirring Storytelling</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-perfecting-professional-productions-using-vimeos-tools/"><u>In 2024, Perfecting Professional Productions Using Vimeo's Tools</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-bypassing-icloud-activation-lock-from-apple-iphone-8-by-drfone-ios/"><u>The Ultimate Guide to Bypassing iCloud Activation Lock from Apple iPhone 8</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-xiaomi-redmi-13c-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Xiaomi Redmi 13C to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/-ventures-youtube-shorts-or-tiktok-in-2024/"><u>Video Ventures YouTube Shorts or TikTok, In 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-harnessing-the-power-of-real-time-social-interaction-on-fb-stories/"><u>[New] 2024 Approved Harnessing the Power of Real-Time Social Interaction on FB Stories</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-mastery-over-instagrams-integration-with-music-emoji-features/"><u>[New] In 2024, Mastery Over Instagram's Integration with Music Emoji Features</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-the-art-of-instagram-video-bordering-for-2024/"><u>[New] Mastering the Art of Instagram Video Bordering for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-store-complete-online-interface/"><u>[New] Store Complete Online Interface</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/1-efficaci-soluzioni-per-risolvere-i-tuoi-problemi/"><u>1. Efficaci Soluzioni per Risolvere I Tuoi Problemi</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/error-404-the-pages-youre-looking-for-cant-be-displayed/"><u>Error 404: The Pages You're Looking For Can't Be Displayed</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-entering-the-metaverse-discovering-6-rich-examples/"><u>In 2024, Entering the Metaverse Discovering 6 Rich Examples</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/in-2024-top-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online/"><u>In 2024, Top 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online</u></a></li>
+<li><a href="https://facebook.techidaily.com/saturation-point-is-facebook-there-now/"><u>Saturation Point – Is Facebook There Now?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-sharing-mobile-apps-among-android-gadgets/"><u>Step-by-Step Guide to Sharing Mobile Apps Among Android Gadgets</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-enabling-and-using-your-phones-guest-user-feature/"><u>Step-by-Step Guide: Enabling and Using Your Phone's Guest User Feature</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-how-to-recover-accidentally-deleted-texts-on-your-android-device/"><u>Step-by-Step Guide: How to Recover Accidentally Deleted Texts on Your Android Device</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-overcoming-access-issues-with-voice-typing-feature-in-google-keyboard/"><u>Step-by-Step Guide: Overcoming Access Issues with Voice Typing Feature in Google Keyboard</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/tech-hack-mastering-quick-screen-captures-using-just-a-tap-on-your-android-smartphones-rear/"><u>Tech Hack: Mastering Quick Screen Captures Using Just a Tap on Your Android Smartphone's Rear</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-top-3-benefits-of-equipping-smartphones-with-dual-usb-c-connectors/"><u>The Top 3 Benefits of Equipping Smartphones with Dual USB-C Connectors</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-6-beneficial-ways-to-use-your-samsung-dex-a-comprehensive-guide/"><u>Top 6 Beneficial Ways to Use Your Samsung DeX - A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-recommended-android-file-manager-apps-better-options-than-default/"><u>Top Recommended Android File Manager Apps: Better Options Than Default</u></a></li>
 </ul></div>
 

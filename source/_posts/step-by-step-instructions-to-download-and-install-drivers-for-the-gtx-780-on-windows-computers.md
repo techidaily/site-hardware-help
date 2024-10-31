@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Instructions to Download & Install Drivers for the GTX 780 on Windows Computers
-date: 2024-08-26T08:08:40.437Z
-updated: 2024-08-27T08:08:40.437Z
+date: 2024-10-24T22:29:25.297Z
+updated: 2024-10-30T20:35:04.076Z
 tags:
   - win11
   - win10
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 
  Driver updates often feature some major bug fixes and performance boost, that’s why we recommend you to update your driver.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to download and update your HP Scanjet driver
 
 Here’re 2 ways you can download and update your HP Scanjet driver:
@@ -32,9 +39,6 @@ Here’re 2 ways you can download and update your HP Scanjet driver:
 1. **[Download the HP Scanjet driver manually](https://tools.techidaily.com/drivereasy/download/)**
 2. **[Download and update the HP Scanjet driver automatically (Recommended)](https://www.drivereasy.com/knowledge/hp-scanjet-drivers-download-and-update-on-windows/#option2)**
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ### Option 1: Download the HP Scanjet driver manually
 
  Manufacturers always release the drivers for their product on the**official website** . So, to manually install/update the driver for HP Scanjet, follow these steps:
@@ -47,27 +51,25 @@ Here’re 2 ways you can download and update your HP Scanjet driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-06_12-23-46-1200x727.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) If you aren’t using Windows 10 64-bit,**choose your OS** first.
 
  We recommend downloading**HP ScanJet Pro 3000 s3 Full Feature Software and Driver** , just so you’ll enable all the features of your scanner.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-06_12-25-10-1200x752.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
  4) Once you’ve downloaded the driver,**double-click** to open the file and follow the on-screen instruction to install.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-06_12-32-40-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When you complete the installation process, connect your HP Scanjet to the computer and see if it’s running.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ### Option 2: Download and update the HP Scanjet driver automatically (Recommended)
 
  1)**Connect** HP Scanjet to your computer.
@@ -79,8 +81,12 @@ Here’re 2 ways you can download and update your HP Scanjet driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-04_17-40-32-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  4) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the**Pro version** of Driver Easy to do this, so you’ll be prompted to upgrade. Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
   
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
@@ -88,8 +94,18 @@ Here’re 2 ways you can download and update your HP Scanjet driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-04_18-45-37-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -104,8 +120,6 @@ Here’re 2 ways you can download and update your HP Scanjet driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -113,4 +127,21 @@ Here’re 2 ways you can download and update your HP Scanjet driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-top-tiktok-titans-to-motivate-you-every-day/"><u>[New] In 2024, Top TikTok Titans to Motivate You Every Day</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-convert-fb-videos-to-mp4-no-cost-high-definition-available/"><u>[Updated] In 2024, Convert FB Videos to MP4 - No Cost, High Definition Available</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-how-to-use-whiteboard-in-zoom-meeting-desktopiosandroid/"><u>[Updated] In 2024, How to Use Whiteboard in Zoom Meeting [Desktop/iOS/Android]</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-unboxing-marketing-strategy/"><u>[Updated] In 2024, Unboxing Marketing Strategy</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-iphone-ringtone-updates/"><u>Mastering iPhone Ringtone Updates</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/october-prime-day-deals-apples-m2-powered-macbook-air-available-at-a-steal-for-just-749-exclusive-insights-from-zdnet/"><u>October Prime Day Deals: Apple's M2-Powered MacBook Air Available at a Steal for Just $749 – Exclusive Insights From ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-fixes-for-apex-legends-launch-problems-troubleshoot-now/"><u>Quick Fixes for Apex Legends Launch Problems - Troubleshoot Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revive-your-past-mastering-data-recovery-techniques-on-outdated-laptops-with-forgotten-passwords/"><u>Revive Your Past: Mastering Data Recovery Techniques on Outdated Laptops with Forgotten Passwords</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revolutionize-your-workspace-with-zdnets-latest-tech-the-ultra-hd-100-ar-laptop-display-that-eliminates-external-screens/"><u>Revolutionize Your Workspace with ZDNet's Latest Tech - The Ultra HD 100 AR Laptop Display That Eliminates External Screens!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/snag-your-essential-lenovo-workstation-at-a-1000-deal-this-october-prime-day-expert-recommendation/"><u>Snag Your Essential Lenovo Workstation at a $1,000 Deal This October Prime Day – Expert Recommendation</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-7-plus-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of Apple iPhone 7 Plus</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-linux-laptop-picks-for-2-indepth-analysis-by-tech-gurus/"><u>Top-Rated Linux Laptop Picks for 2# - InDepth Analysis by Tech Gurus</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unparalleled-business-tablet-beyond-microsoft-and-lenovo-an-expert-review-revealed/"><u>Unparalleled Business Tablet Beyond Microsoft and Lenovo: An Expert Review Revealed</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-top-rated-split-screen-video-creators-for-mobile-phones/"><u>Updated In 2024, Top-Rated Split Screen Video Creators for Mobile Phones</u></a></li>
+</ul></div>
 

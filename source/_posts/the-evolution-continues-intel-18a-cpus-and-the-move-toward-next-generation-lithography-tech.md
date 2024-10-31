@@ -1,7 +1,7 @@
 ---
 title: "The Evolution Continues: Intel 18A CPUs and the Move Toward Next Generation Lithography Tech"
-date: 2024-08-26T08:05:48.432Z
-updated: 2024-08-27T08:05:48.432Z
+date: 2024-10-27T17:07:16.564Z
+updated: 2024-10-30T16:43:00.936Z
 tags:
   - cpu
 categories:
@@ -39,14 +39,11 @@ AMD's upcoming Ryzen 9 9950X Zen 5 flagship, which will compete against the[best
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -55,8 +52,30 @@ AMD's upcoming Ryzen 9 9950X Zen 5 flagship, which will compete against the[best
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/rafting-cool-youtube-previews-in-imovie-easily/"><u>[New] Crafting Cool YouTube Previews in iMovie Easily</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-premier-platforms-identifying-the-finest-ps2-emulation-tools-for-android-for-2024/"><u>[New] Premier Platforms Identifying the Finest PS2 Emulation Tools for Android for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-proper-techniques-for-easy-iphone-screen-recording/"><u>[Updated] In 2024, Proper Techniques for Easy iPhone Screen Recording</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-supreme-performance-mods-ranking-the-best-srt-converters/"><u>[Updated] Supreme Performance Mods Ranking the Best SRT Converters</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/brother-mfc-j480dw-driver-installation-for-windows-operating-systems-a-step-by-step-guide/"><u>Brother MFC J480DW Driver Installation for Windows Operating Systems: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722977622063-download-and-install-thrustmaster-t150-drivers-in-a-flash/"><u>Download & Install Thrustmaster T150 Drivers in a Flash</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-newly-updated-corsair-h80i-v2-graphics-card-cooler-drivers/"><u>Download the Newly Updated Corsair H80i V2 Graphics Card Cooler Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/essential-printing-downloading-the-right-drivers-for-ricoh-mp-c3003/"><u>Essential Printing: Downloading the Right Drivers for Ricoh MP C3003</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-logitech-driving-force-gt-wheel-software-downloads-for-pc-compatible-with-windows-7-10-and-11/"><u>Free Logitech Driving Force GT Wheel Software Downloads for PC - Compatible with Windows 7, 10 & 11</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-a-comprehensive-analysis-mycams-video-capture-technology/"><u>In 2024, A Comprehensive Analysis MyCam's Video Capture Technology</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Vivo V29? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/production-error-leads-to-possible-delay-in-launching-the-new-amd-ryzen-9000-processors-mistakenly-marked-ryzen-7-chip-appears-consequences-for-ryzen-5-960025/"><u>Production Error Leads to Possible Delay in Launching the New AMD Ryzen 9000 Processors: Mistakenly Marked Ryzen 7 Chip Appears; Consequences for Ryzen 5 9600X Still Under Evaluation</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-realme-gt-3-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Realme GT 3</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-gaming-mice-secure-logitech-g-pro-driver-software-now/"><u>Top-Rated Gaming Mice - Secure Logitech G Pro Driver Software Now!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-is-an-artificers-conversation-bot-and-its-growing-demand/"><u>What Is an Artificer's Conversation Bot & Its Growing Demand</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/your-complete-insiders-handbook-on-instagram-reels/"><u>Your Complete Insider's Handbook on Instagram Reels</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+

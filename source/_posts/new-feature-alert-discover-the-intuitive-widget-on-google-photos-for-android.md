@@ -1,7 +1,7 @@
 ---
 title: "New Feature Alert: Discover the Intuitive Widget on Google Photos for Android"
-date: 2024-09-09T16:16:00.772Z
-updated: 2024-09-10T16:16:00.772Z
+date: 2024-10-30T05:08:27.201Z
+updated: 2024-10-31T03:12:44.848Z
 tags:
   - android
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/4e09b5e1cc338687bdb5629756ebeeb2fe654043864239ecb486e820200a0bb1.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## New Feature Alert: Discover the Intuitive Widget on Google Photos for Android
 
 Google Assistant-powered Smart Displays can do a lot of powerful things, but people also just love the [simple photo frame feature](https://tech-hub.techidaily.com/can-chatgpts-humor-bring-a-giggle-exploring-the-power-of-ai-in-comedy/). If you use Google Photos on Android, you can get a similar effect on your home screen.
@@ -29,42 +23,18 @@ Related: [How to Use Your Google Nest Hub as a Digital Photo Frame](https://tech
 
 ![Tap and hold on blank space.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/Screenshot_20210901-102129.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Select "Widgets" from the menu. This may look slightly different depending on your device.
 
 ![Select "Widgets."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/Screenshot_20210901-102132.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Scroll through the list of widgets and look for the "Photos." The widget is called "Your Memories." Tap and hold the widget, then drag it around your home screen. Release your finger to drop it.
 
 ![Drag the Photos widget to your home screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/Screenshot_20210901-102157.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After the widget is placed, most home screen launchers will allow you to resize it. Tap and hold the widget to bring up the resizing handles.
 
 ![Resize the widget.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/Screenshot_20210901-102414.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  That's all there is to it. The widget shows the title of the Memory it's pulling the photo from, such as "This Week 1 Year Ago," or the date the photo was taken. It's a great way to [see your Google Photos](https://facebook-video-content.techidaily.com/mastering-wirecast-for-facebook-live-broadcasts-for-2024/) without committing to one as your wallpaper.
 
 Related: [How to Manage and Free up Google Photos Storage Space](https://facebook-video-content.techidaily.com/mastering-wirecast-for-facebook-live-broadcasts-for-2024/)
@@ -75,8 +45,6 @@ Related: [How to Manage and Free up Google Photos Storage Space](https://faceboo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -84,4 +52,25 @@ Related: [How to Manage and Free up Google Photos Storage Space](https://faceboo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-best-youtube-to-gif-makers-you-should-use-online-and-desktop/"><u>[New] In 2024, Best YouTube To GIF Makers You Should Use (Online & Desktop)</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-secrets-to-profit-from-tiktok-in-just-8-ways/"><u>[Updated] 2024 Approved Secrets to Profit From TikTok in Just 8 Ways</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-vivo-y27s-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Vivo Y27s without App | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/all-purpose-satechi-usb-c-hub-offers-multiple-ports-and-hdmi-at-150-usd-a-comprehensive-review-by-techradar/"><u>All-Purpose Satechi USB-C Hub Offers Multiple Ports & HDMI at 150 USD: A Comprehensive Review by TechRadar</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/best-of-the-best-the-ultimate-list-of-copilotplus-integrated-gaming-and-business-lattices-showcased-at-ifa-2024-zdnet/"><u>Best of the Best: The Ultimate List of Copilot+ Integrated Gaming and Business Lattices Showcased at IFA 2024 | ZDNET</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210079081-dell-usb-failure-discover-effective-solutions-and-get-it-working-again/"><u>Dell USB Failure? Discover Effective Solutions and Get It Working Again</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-itel-p55plus-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-mastering-social-media-marketing-essential-24-trend-alerts/"><u>In 2024, Mastering Social Media Marketing Essential '24 Trend Alerts</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-nokia-130-music-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Nokia 130 Music Location | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/secure-your-online-activities-with-nordvpn-and-microsoft-office-suite-get-the-duo-for-only-40-today/"><u>Secure Your Online Activities with NordVPN & Microsoft Office Suite - Get the Duo for Only $40 Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-prime-day-pre-sale-game-bargains-exclusive-offers-ahead-of-october-2024-insights/"><u>Top Prime Day Pre-Sale Game Bargains: Exclusive Offers Ahead of October 2024 - Insights</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "XPS 16 Powerhouse Unleashed: When Dell Outperforms Apple's MacBook Pro in Battle of Titans | TechSpot"
-date: 2024-10-20T17:50:45.136Z
-updated: 2024-10-25T01:10:12.929Z
+date: 2024-10-28T16:32:52.352Z
+updated: 2024-10-30T22:28:57.750Z
 tags:
   - laptops
 categories:
@@ -57,10 +57,10 @@ In the box, you'll find three pieces that come together to create the ExpertBook
 These pieces click in place by way of some pretty strong magnets, and the hinges on the kickstand are tight, which is one for the pro card. However, the strange purple and gray cloth cover that served as a case (the back sides of the kickstand and keyboard) were frayed at the edges, making it look cheap and ready to unravel at any minute. That could have been a product of the device being a review unit, but I have no way of knowing.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -68,6 +68,13 @@ These pieces click in place by way of some pretty strong magnets, and the hinges
 [The best keyboards From mechanical to minimal, we compare the top options.  Read now](https://www.zdnet.com/article/best-keyboard/)
 
 I received a 10.5" version of the device, and -- because of that diminutive size -- the keyboard felt really tight (and I have smallish hands). Even after using the keyboard for a week, I couldn't get accustomed to the tightly packed keys and the small trackpad. Combine that with the cheap feel of the keys and the keyboard is a pretty hard sell. This might not be the case with larger models, but the 10.5" version certainly suffered.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Performance
 
@@ -80,10 +87,10 @@ And then there's Windows 11\. But being a hard-core, long-time [Linux user](http
 **Also:** [**Cool things you can do on a Linux desktop that you can't do with MacOS or Windows**](https://www.zdnet.com/article/cool-things-you-can-do-with-the-linux-desktop-that-you-cant-do-with-macos-or-windows/) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Are there any pros?
@@ -101,22 +108,15 @@ Image: Jack Wallen
 The only caveat to that is you'll need to strip both pieces from the tablet (keyboard and kickstand back) to shed weight because the tablet is heavy. Granted, I'm accustomed to using very light [Android tablets](https://www.zdnet.com/article/best-android-tablet/), so hefting about a tablet as heavy as the ExpertBook Detachable isn't exactly something I'd want to do long-term. Even so, the tablet mode for the ExpertBook Detachable is pretty nice.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The price
 
 The price for the ExpertBook Detachable is $599.00, but the big question is, should you buy it? If you ask me, the answer is no. With the combination of the cheap keyboard, the heavy tablet, the low performance, and Windows 11, this small device just doesn't cut it.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -158,21 +158,24 @@ If I were looking for an alternative to the ASUS ExpertBook Detachable, I'd go w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-social-media-sovereigns-ranked-by-youtube-subscribers/"><u>[New] 2024 Approved Social Media Sovereigns Ranked by YouTube Subscribers</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-audiovisual-alchemy-transforming-powerpoint-into-engagement/"><u>[New] In 2024, Audiovisual Alchemy Transforming PowerPoint Into Engagement</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-retro-to-modern-radeon-transition-for-2024/"><u>[New] Retro to Modern Radeon Transition for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-how-to-post-tweets-on-facebook-for-2024/"><u>[Updated] How to Post Tweets on Facebook for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-why-are-facebook-recommended-videos-vanishing/"><u>[Updated] In 2024, Why Are Facebook Recommended Videos Vanishing?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-laugh-out-loud-a-step-by-step-meme-building/"><u>2024 Approved Laugh Out Loud A Step-by-Step Meme Building</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/cutting-edge-tech-reviews-by-tom-your-go-to-resource/"><u>Cutting Edge Tech Reviews by Tom - Your Go-To Resource</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/decoding-hardware-mysteries-wisdom-from-toms-experience/"><u>Decoding Hardware Mysteries: Wisdom From Tom's Experience</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-high-performance-pc-gear-with-toms-system-guides/"><u>Discover High-Performance PC Gear with Tom's System Guides</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-the-future-of-gaming-monitors-as-acer-launches-three-oled-panels-including-ultra-fast-27-inch-predator-x2n-u-f3/"><u>Discover the Future of Gaming Monitors as Acer Launches Three OLED Panels, Including Ultra-Fast 27-Inch Predator X2n U F3</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/elite-performance-meets-luxury-design-comprehensive-review-of-the-gigabyte-aorus-fo32u2p-oled-monitor-for-gamers/"><u>Elite Performance Meets Luxury Design: Comprehensive Review of the Gigabyte AORUS FO32U2P OLED Monitor for Gamers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/experience-gaming-excellence-acquire-the-stunning-acer-nitro-27-inch-at-an-unbeatable-149/"><u>Experience Gaming Excellence: Acquire the Stunning Acer Nitro, 27-Inch, at an Unbeatable $149!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/experience-next-level-display-the-new-low-latency-high-resolution-120n-modos-paper-monitor-unveiled-all-in-open-source/"><u>Experience Next-Level Display: The New Low-Latency, High-Resolution 120N Modos Paper Monitor Unveiled - All in Open Source</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-nokia-c110-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Nokia C110 Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/spin-innovator-pack-for-2024/"><u>Spin Innovator Pack for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unearth-hidden-bugs-invest-time-for-cash-with-openais-rewards-program/"><u>Unearth Hidden Bugs: Invest Time for Cash with OpenAI’s Rewards Program</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-enhance-your-instagram-stories-with-a-blend-of-pictures-a-beginners-guide/"><u>[New] 2024 Approved Enhance Your Instagram Stories with a Blend of Pictures A Beginner's Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pro-level-acid-review-and-beyond-comparisons/"><u>[New] Pro-Level ACID Review and Beyond Comparisons</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-connecting-twitter-videos-with-facebook-friends/"><u>[Updated] In 2024, Connecting Twitter Videos with Facebook Friends</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-the-essentials-of-making-professional-level-facebook-reels/"><u>2024 Approved The Essentials of Making Professional-Level Facebook Reels</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-unlocking-the-secrets-of-seamless-video-and-picture-upload-w11/"><u>2024 Approved Unlocking the Secrets of Seamless Video & Picture Upload W11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/jpg-arw-arwjpg/"><u>網路自助無限 JPG到 ARW 格式轉換 - 動美娃 ARW/JPG 更改工具</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/beat-audio-sync-problems-with-this-comprehensive-fix-guide/"><u>Beat Audio Sync Problems with This Comprehensive Fix Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhancing-mac-osx-experience-by-changing-folders-appearance/"><u>Enhancing Mac OSX Experience by Changing Folder's Appearance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/essential-guide-to-downloading-and-updating-sas-drivers-on-windows-1087/"><u>Essential Guide to Downloading and Updating SAS Drivers on Windows 10/8/7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-the-world-of-electronics-tips-from-toms-hardware/"><u>Exploring the World of Electronics - Tips From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-logitech-g510-mouse-software-installer-for-win-7810/"><u>Free Logitech G510 Mouse Software Installer for Win 7/8/10</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-fix-intel-hd-graphics-e-620-driver-troubles-under-windows-environment/"><u>How to Fix Intel HD Graphics E 620 Driver Troubles Under Windows Environment</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722973371050-improve-wireless-performance-with-updated-network-adapter-drivers-download-now/"><u>Improve Wireless Performance with Updated Network Adapter Drivers - Download Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722976698118-instant-access-secure-canon-mf4800-drivers-start-printing-today/"><u>Instant Access: Secure Canon MF4800 Drivers – Start Printing Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/overcoming-driver-errors-successfully-connect-your-lg-printer-with-windows-os-versions-1187/"><u>Overcoming Driver Errors: Successfully Connect Your LG Printer with Windows OS (Versions 11/8/7)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rapid-recovery-fixing-apex-crashes-effortlessly/"><u>Rapid Recovery: Fixing Apex Crashes Effortlessly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-now-optimal-geforce-rtx-amoji-3090-graphics-card-drivers-for-windows-os/"><u>Update Now: Optimal GeForce RTX Amoji 3090 Graphics Card Drivers for Windows OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/utilize-a-minimalistic-set-design-where-objects-onstage-symbolize-key-components-of-the-hydrogen-fuel-cell-technology/"><u>Utilize a Minimalistic Set Design Where Objects Onstage Symbolize Key Components of the Hydrogen Fuel Cell Technology</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/zexmte-bluetooth-adapter-obtain-official-drivers-compatible-with-windows-10-8-and-7-today/"><u>Zexmte Bluetooth Adapter: Obtain Official Drivers Compatible with Windows 10, 8 & 7 Today!</u></a></li>
 </ul></div>
 
