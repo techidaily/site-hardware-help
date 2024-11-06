@@ -1,7 +1,7 @@
 ---
 title: "Say Goodbye to MacBook Air: Discover the Ultra-Light, Highly Functional Windows PC on ZDNet"
-date: 2024-10-24T23:06:02.223Z
-updated: 2024-10-30T16:26:13.745Z
+date: 2024-10-30T18:34:00.891Z
+updated: 2024-11-05T22:29:56.619Z
 tags:
   - laptops
 categories:
@@ -91,10 +91,10 @@ You can also navigate any element of the OS like you would a browser, by swiping
 Finally, the battery life is quite good. Lenovo advertises over 12 hours of use, but I got a little over 10 in my testing. The physical size of the device is going to prevent the 29WHr battery from going much beyond the 10- to 12-hour mark. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -131,15 +131,24 @@ The [Lenovo Chromebook Duet 11-inch](https://shop-links.co/link/?url=https%3A%2F
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-unleash-your-creativity-on-youtube-live-from-smartphone/"><u>[New] 2024 Approved Unleash Your Creativity on YouTube Live From Smartphone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/capturing-breathtaking-photos-with-iphone-hdr/"><u>Capturing Breathtaking Photos with iPhone HDR</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722971531592-effortless-setup-get-samsung-c460-driver-installed-today/"><u>Effortless Setup: Get Samsung C460 Driver Installed Today</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-thunderbolt-support-programs-for-your-pc-on-windows/"><u>Get the Latest Thunderbolt Support Programs for Your PC on Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-logitech-g-pro-wireless-mouse-drivers-for-windows-systems-updated-download-now/"><u>Get Your Logitech G Pro Wireless Mouse Drivers for Windows Systems Updated - Download Now!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-vivo-s18-pro-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Vivo S18 Pro</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-seamlessly-integrate-keyspan-usa-19hs-drivers-with-your-windows-system/"><u>How to Seamlessly Integrate Keyspan USA-19HS Drivers with Your Windows System</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-asus-rog-phone-8-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Asus ROG Phone 8 Pro Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/live-streaming-mastery-with-manycam-virtual-backgrounds-and-remote-webcams/"><u>Live Streaming Mastery with ManyCam: Virtual Backgrounds & Remote Webcams</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-ranked-fongo-reviews-for-canadian-residents-seeking-affordable-voip-services/"><u>Top Ranked Fongo Reviews for Canadian Residents Seeking Affordable VOIP Services</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-cut-beyond-youtube-unveiling-the-top-5-video-editor-options/"><u>[Updated] In 2024, Cut Beyond Youtube Unveiling the Top 5 Video Editor Options</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-optimizing-your-podcasts-rss-feed-performance-and-structure-for-2024/"><u>[Updated] Optimizing Your Podcast's RSS Feed Performance and Structure for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-best-of-the-day-in-anime-youtubes-premium-channel-selection/"><u>[Updated] The Best of the Day in Anime YouTube's Premium Channel Selection</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-microsoft-windows-bluetooth-driver-for-windows-11-10-and-earlier-versions/"><u>Download & Update Microsoft Windows Bluetooth Driver for Windows 11, 10, and Earlier Versions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-logitech-g510-software-for-windows-os-versions-7810-free-of-charge/"><u>Download Logitech G510 Software for Windows OS Versions 7/8/10 Free of Charge</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-system-download-the-most-recent-graphics-and-chipset-drivers-for-gigabytes-aorus-z370/"><u>Enhance Your System: Download the Most Recent Graphics and Chipset Drivers for Gigabyte's AORUS Z370</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-hp-laserjet-p1006-drivers-for-windows-and-mac-os-x/"><u>Get the Latest HP LaserJet P1006 Drivers for Windows and Mac OS X</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-hp-printer-software-for-windows-10-and-windows-11-users/"><u>Get the Newest HP Printer Software for Windows 10 and Windows 11 Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-obtain-and-install-brother-hl-l2340dw-printer-drivers-on-windows-pcs/"><u>How to Obtain and Install Brother HL-L2340DW Printer Drivers on Windows PCs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-officejet-pro-8740-drivers-download-compatible-with-windows-11-10-and-8/"><u>HP Officejet Pro 8740 Drivers Download: Compatible with Windows 11, 10 & 8</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harnessing-the-full-potential-of-windows-11s-auto-hdr-feature/"><u>In 2024, Harnessing the Full Potential of Windows 11'S Auto HDR Feature</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-live-commerce-next-chapter-can-ai-unlock-its-true-potential/"><u>New Live Commerce Next Chapter Can AI Unlock Its True Potential?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-fix-effective-techniques-for-downloading-and-configuring-your-dell-mouse-driver/"><u>Quick Fix: Effective Techniques for Downloading and Configuring Your Dell Mouse Driver</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/selecting-the-most-versatile-european-language-germanfrench/"><u>Selecting the Most Versatile European Language: German/French</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/speedy-setup-tutorial-latest-version-of-wacom-intuos-brush-manager/"><u>Speedy Setup Tutorial: Latest Version of Wacom Intuos Brush Manager</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/top-rated-no-cost-software-for-secure-external-hdd-backups-get-yours-now/"><u>Top Rated No-Cost Software for Secure External HDD Backups - Get Yours Now!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/unveiling-obs-screen-recorder-functionality-deeply-for-2024/"><u>Unveiling OBS Screen Recorder Functionality Deeply for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtube-star-level-stabilization-tools-listed-for-2024/"><u>YouTube Star-Level Stabilization Tools Listed for 2024</u></a></li>
 </ul></div>
 

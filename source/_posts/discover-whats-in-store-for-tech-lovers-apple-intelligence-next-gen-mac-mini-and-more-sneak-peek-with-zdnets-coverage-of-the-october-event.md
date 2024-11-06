@@ -1,7 +1,7 @@
 ---
 title: "Discover What’s in Store for Tech Lovers: Apple Intelligence, Next-Gen Mac Mini and More! Sneak Peek with ZDNET's Coverage of the October Event"
-date: 2024-10-29T02:31:43.329Z
-updated: 2024-10-31T02:15:55.613Z
+date: 2024-11-01T17:20:12.842Z
+updated: 2024-11-05T22:36:00.594Z
 tags:
   - laptops
 categories:
@@ -41,10 +41,10 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -60,10 +60,10 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -77,10 +77,16 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -123,19 +129,24 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-enhance-visibility-11-must-know-youtube-video-seo-tactics-for-2024/"><u>[New] Enhance Visibility 11 Must-Know YouTube Video SEO Tactics for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-execute-flawless-wirecast-broadcasts-on-youtube/"><u>[Updated] How to Execute Flawless WireCast Broadcasts on YouTube</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-ultra-hd-monitors-with-superior-video-capture-capabilities-for-2024/"><u>[Updated] Ultra HD Monitors with Superior Video Capture Capabilities for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-identifying-a-user-writes-silent-unseen-snapshots/"><u>2024 Approved Identifying a User' Writes Silent, Unseen Snapshots</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-realme-v30-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Realme V30 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/adjusting-win-11-context-menu-to-omit-additional-entry/"><u>Adjusting Win 11 Context Menu to Omit Additional Entry</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-d3d11-hardware-error-in-w11w10-environments/"><u>Fixing D3D11 Hardware Error in W11/W10 Environments</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-officejet-pro-8740-driver-download-for-windows-11-10-and-8-get-installed-now/"><u>HP OfficeJet Pro 8740 Driver Download for Windows 11, 10 & 8 – Get Installed Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-pagewide-pro-477dw-driver-installation-files-for-windows-11-and-earlier-versions/"><u>HP PAGEWIDE Pro 477DW Driver Installation Files for Windows 11 and Earlier Versions</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-a34-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy A34 5G Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/installing-the-latest-nvidia-geforce-rtx-1080-driver-for-windows-11-a-step-by-step-guide/"><u>Installing the Latest Nvidia GeForce RTX 1080 Driver for Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-setup-with-lexars-usb-drivers-start-using-now/"><u>Quick Setup with Lexar's USB Drivers - Start Using Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-installing-hp-deskjet-2600-printer-drivers-on-modern-windows-versions-windows-7-8-and-10/"><u>Step-by-Step Tutorial: Installing HP Deskjet 2600 Printer Drivers on Modern Windows Versions (Windows 7, 8 & 10)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-your-brother-hl-l2350dw-printer-software-easily-online/"><u>Update Your Brother HL-L2350DW Printer Software Easily Online</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-dj-beats-unleashed-high-fidelity-templates-downloaded-easily/"><u>[New] 2024 Approved DJ Beats Unleashed High-Fidelity Templates Downloaded Easily</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-essential-insight-into-the-best-6-harnesses-for-gopro-headsets/"><u>[New] Essential Insight Into The Best 6 Harnesses for GoPro Headsets</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-how-to-make-a-game-streaming-video-with-ai-portrait/"><u>2024 Approved How to Make a Game Streaming Video With AI Portrait</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/como-generar-una-copia-de-seguridad-de-tu-pc-usando-la-funcion-de-imagen-del-sistema-en-windows-similar-problem-for-the-united-states-audience/"><u>Cómo Generar Una Copia De Seguridad De Tu PC Usando La Función De Imagen Del Sistema en Windows # Similar Problem for the United States Audience:</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-sound-blaster-z-drivers-on-windows-11-step-by-step-guide/"><u>Download & Install Sound Blaster Z Drivers on Windows 11: Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enhancing-soundscapes-mastering-audacitys-crossfade-feature/"><u>Enhancing Soundscapes Mastering Audacity's Crossfade Feature</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/find-and-install-logitech-m525-controls-and-updates-for-seamless-usage/"><u>Find and Install Logitech M525 Controls & Updates for Seamless Usage</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-intel-usb-30-device-up-and-running-on-windows-10-free-drivers-available/"><u>Get Your Intel USB 3.0 Device Up & Running on Windows 10: Free Drivers Available!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/how-to-change-your-voice-on-instagram-for-2024/"><u>How to Change Your Voice on Instagram for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-fix-windows-11-usb-detection-issues-a-step-by-step-guide/"><u>How to Fix Windows 11 USB Detection Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-unveiling-the-finest-9-free-youtube-brand-tools-online/"><u>In 2024, Unveiling the Finest 9 Free YouTube Brand Tools Online</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-new-insignia-bluetooth-adapter-software-on-your-windows-machine/"><u>Install New Insignia Bluetooth Adapter Software on Your Windows Machine</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722958751322-latest-acer-display-driver-software-free-download-now/"><u>Latest Acer Display Driver Software Free Download Now!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/latest-lg-360-camera-features-and-review-for-2024/"><u>Latest LG 360 Camera Features and Review for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-nvidia-rtx-3080-ti-graphics-card-driver-for-windows-users-win-1087/"><u>Latest NVIDIA RTX 3080 Ti Graphics Card Driver for Windows Users (Win 10/8/7)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-graphic-enhancements-updating-your-drivers-on-windows-11/"><u>Mastering Graphic Enhancements: Updating Your Drivers on Windows 11</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/narrative-enhancements-the-process-of-infusing-text-into-your-video-content/"><u>Narrative Enhancements The Process of Infusing Text Into Your Video Content</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-fixes-to-your-logitech-c615s-driver-woes-troubleshoot-with-ease/"><u>Quick Fixes to Your Logitech C615's Driver Woes – Troubleshoot with Ease!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/secure-and-speed-up-printer-f4770n-with-new-driver/"><u>Secure & Speed Up Printer F4770N with New Driver</u></a></li>
 </ul></div>
 

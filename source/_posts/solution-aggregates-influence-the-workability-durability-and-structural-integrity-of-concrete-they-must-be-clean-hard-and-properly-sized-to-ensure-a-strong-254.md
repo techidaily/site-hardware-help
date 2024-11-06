@@ -1,7 +1,7 @@
 ---
 title: "Solution: Aggregates Influence the Workability, Durability, and Structural Integrity of Concrete. They Must Be Clean, Hard, and Properly Sized to Ensure a Strong Bond with Cement and Proper Distribution Throughout the Mix for Consistent Performance."
-date: 2024-08-26T08:03:59.148Z
-updated: 2024-08-27T08:03:59.148Z
+date: 2024-10-30T21:19:40.884Z
+updated: 2024-11-05T16:39:15.998Z
 tags:
   - win11
   - win10
@@ -41,15 +41,26 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-317.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-318.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 2 – Update GTX 1660 Ti drivers manually
 
  Here’s your guide to updating your **GTX 1660 Ti** driver manually:
@@ -72,24 +83,28 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-323-1024x393.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
  3) Click**DOWNLOAD** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-326.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4) Click DOWNLOAD again to start the download.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-327.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  5) Double-click on the downloaded file and follow the on-screen instructions to finish the install.
 
  6) Restart your computer for the changes to take effect even if you’re not asked to.
@@ -108,8 +123,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -117,4 +130,21 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-reimagined-analysis-new-developments-in-sonys-s6500-bdhd-for-2024/"><u>[New] Reimagined Analysis New Developments in Sony's S6500 BD/HD for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-six-simple-ways-to-ease-vr-headset-nausea/"><u>[New] Six Simple Ways to Ease VR Headset Nausea</u></a></li>
+<li><a href="https://windows11.techidaily.com/choosing-your-win-software-downloader-choco-versus-wslm/"><u>Choosing Your Win Software Downloader: Choco Versus WSLM</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-ai-tools-for-accurate-and-convenient-notes-recording/"><u>Essential AI Tools for Accurate and Convenient Notes Recording</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-the-latest-in-tech-at-ces-2023-twisting-rotating-screens-and-advanced-3d-visuals-insights/"><u>Exploring the Latest in Tech at CES 2023: Twisting, Rotating Screens and Advanced 3D Visuals Insights</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-common-photo-errors-on-windows-1011/"><u>Fixing Common Photo Errors on Windows 10/11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-one-chromebook-outlasts-them-all-in-battery-life-a-closer-look-from-zdnets-rigorous-testing/"><u>How One Chromebook Outlasts Them All in Battery Life, a Closer Look From ZDNet's Rigorous Testing</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/secure-your-meta-quest-512gb-deal-at-an-unbeatable-rate-the-ultimate-vr-bargain-of-the-moment-cnet/"><u>Secure Your Meta Quest 지상 - 512GB Deal at an Unbeatable Rate: The Ultimate VR Bargain of the Moment | CNET</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-the-asus-ax6000-rt-ax88u-harnessing-the-power-of-a-superior-smart-wi-fi-evolution-in-home-networking/"><u>The Ultimate Guide to the Asus AX6000 (RT-AX88U): Harnessing the Power of a Superior Smart Wi-Fi Evolution in Home Networking</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-6-in-1-usb-c-port-expansion-kit-upgrade-from-faulty-wires-with-a-superior-solution/"><u>Top 6-in-1 USB-C Port Expansion Kit: Upgrade From Faulty Wires with a Superior Solution</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/transform-your-work-setup-discover-the-best-budget-friendly-lenovo-laptops-tailored-for-hybrid-roles/"><u>Transform Your Work Setup: Discover the Best Budget-Friendly Lenovo Laptops Tailored for Hybrid Roles</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/uncover-your-missing-wi-fi-adapter-choices-in-windows-11-now-solved/"><u>Uncover Your Missing Wi-Fi Adapter Choices in Windows 11 - Now Solved</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlock-deep-gaming-audio-bliss-save-big-with-the-top-rated-speakers-now-60-discounted-on-amazon-insights/"><u>Unlock Deep Gaming Audio Bliss: Save Big with the Top-Rated Speakers Now 60% Discounted on Amazon Insights</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-enhanced-capabilities-of-dji-phantom-4-pro-v20-on-the-brink-of-drone-perfection/"><u>Unveiling the Enhanced Capabilities of DJI Phantom 4 Pro v2.0 - On The Brink Of Drone Perfection</u></a></li>
+</ul></div>
 

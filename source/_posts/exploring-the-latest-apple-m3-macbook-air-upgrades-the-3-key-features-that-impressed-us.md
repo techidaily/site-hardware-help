@@ -1,7 +1,7 @@
 ---
 title: Exploring the Latest Apple M3 MacBook Air Upgrades – The 3 Key Features That Impressed Us
-date: 2024-10-25T05:21:05.664Z
-updated: 2024-10-31T03:51:28.567Z
+date: 2024-10-30T17:32:54.341Z
+updated: 2024-11-05T19:01:46.801Z
 tags:
   - laptops
 categories:
@@ -51,10 +51,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Apple also wants you to know that it's _been_ in the [AI PC race](https://www.zdnet.com/article/what-is-an-ai-pc-and-should-you-buy-one/) since the very beginning, with just about every Mac model now carrying neural engines for machine learning. The new MacBook Air is "the best consumer laptop for AI," the company touts in its Monday press release, but we'll have to see for ourselves when we put the 13- and 15-inch models through the wringer soon.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. I can finally recommend the Midnight color
@@ -66,10 +66,10 @@ AI aside, there is one subtle design change to the new MacBooks that I really di
 Considering how easy it was to get smudges and marks on the original Midnight color of the MacBook Air -- which made lighter hue options look like rockstars -- this is a welcome change. Having fumbled with the MacBooks for a quick 10-minute photo-op, the fingerprints were noticeable, though not as bad as I remembered on the M2 Air. For me, this makes the Midnight variant recommendable again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Dual-monitor support is a bigger deal than it seems
@@ -112,15 +112,16 @@ All in all, the changes to the newest line of MacBook Air feel subtle on paper b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-behind-glasses-and-screens-vrs-evolutionary-tale-for-2024/"><u>[New] Behind Glasses and Screens VR’s Evolutionary Tale for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-figma-mastery-techniques-to-eliminate-disruptive-backdrops/"><u>2024 Approved Figma Mastery Techniques to Eliminate Disruptive Backdrops</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341711051-budget-nvme-overclocking-ready-check-out-the-premium-uphere-m201-heatsink-at-only-5/"><u>Budget NVMe Overclocking Ready? Check Out the Premium UpHere M201 Heatsink at Only $5!</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/comprehensive-list-of-leading-no-cost-video-chat-apps-iosandroid-for-2024/"><u>Comprehensive List of Leading No-Cost Video Chat Apps (iOS/Android) for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-geforce-gtx-980-ti-drivers-for-windows-and-mac/"><u>Get the Latest GeForce GTX 980 Ti Drivers for Windows and Mac</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-hp-officejet-pro-8620-drivers-installed-in-a-flash-windows-edition/"><u>Get the Latest HP OfficeJet Pro 8620 Drivers Installed in a Flash - Windows Edition</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/intel-wifi-5000-series-centrino-ah74ah73-pcie-network-adapter-drivers-free-download/"><u>Intel WiFi 5000 Series Centrino AH74/AH73 PCIe Network Adapter Drivers Free Download</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/realtek-rtl8723be-driver-troubleshooting-a-comprehensive-solution-guide/"><u>Realtek RTL8723BE Driver Troubleshooting: A Comprehensive Solution Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-how-to-get-new-devices-running-on-windows-without-network-access/"><u>Step-by-Step: How to Get New Devices Running on Windows without Network Access</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-art-of-anticipation-elevating-the-unboxing-experience/"><u>The Art of Anticipation Elevating the Unboxing Experience</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/he-pathway-to-youtube-prosperity-a-comprehensive-guide/"><u>[New] The Pathway to YouTube Prosperity - A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/diy-tech-tips-how-to-design-and-implement-a-personalized-shutdown-symbol-for-windows-er-10/"><u>DIY Tech Tips: How To Design and Implement a Personalized Shutdown Symbol for Windows Er 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-current-amd-ryzen-graphics-card-drivers-for-optimal-performance/"><u>Download Current AMD Ryzen Graphics Card Drivers for Optimal Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-latest-amd-processor-drivers-for-windows-systems/"><u>Download the Latest AMD Processor Drivers for Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-guide-update-and-optimize-your-lenovo-webcam-on-windows-n-based-pcs/"><u>Easy Guide: Update and Optimize Your Lenovo Webcam on Windows N-Based PCs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-microsoft-bluetooth-drivers-free-download-and-updates-for-windows-10-11-8-and-7/"><u>Latest Microsoft Bluetooth Drivers: Free Download and Updates for Windows 10, 11, 8 & 7</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-tiktok-audio-transform-into-phone-ringtones/"><u>Mastering TikTok Audio Transform Into Phone Ringtones</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-unable-to-connect-to-microsoft-exchange-challenge-in-outlook/"><u>Overcoming the Unable to Connect to Microsoft Exchange Challenge in Outlook</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-downloading-and-updating-the-latest-amd-radeon-hd-7870-graphics-card-drivers-on-windows-10-operating-system/"><u>Step-by-Step Guide to Downloading and Updating the Latest AMD Radeon HD 7870 Graphics Card Drivers on Windows 10 Operating System</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-color-correction-basics-s-log-footage/"><u>Updated In 2024, Color Correction Basics (S-LOG Footage)</u></a></li>
 </ul></div>
 

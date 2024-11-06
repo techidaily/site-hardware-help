@@ -1,7 +1,7 @@
 ---
 title: Exploring the Accuracy of McAfee's New AI-Powered Deepfake Voice Detector
-date: 2024-10-24T19:06:29.992Z
-updated: 2024-10-31T05:23:10.943Z
+date: 2024-11-01T20:05:00.765Z
+updated: 2024-11-05T20:01:27.085Z
 tags:
   - laptops
 categories:
@@ -38,10 +38,10 @@ Here's everything that the company announced during its October event.
 **Also: [How did Microsoft manage to get it right with Surface?](https://www.zdnet.com/article/how-did-microsoft-manage-to-get-it-right-with-surface/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Surface Laptop 5 gets a splash of color
@@ -59,6 +59,13 @@ What's different about the new Surface Laptop starts with the 12th-generation In
 [Buy the Surface Laptop 5 View now at Microsoft](https://www.microsoft.com/en-us/store/configure/Surface-Laptop-5/8XN49V61S1BN?)
 
 The Surface Laptop 5 will be available in select markets beginning on Oct. 25 with a [starting price of $999](https://www.microsoft.com/en-us/store/configure/Surface-Laptop-5/8XN49V61S1BN?) for the i5, 8GB of RAM, and 256GB model. The laptop will be available in classic Platinum, Black, and Sandstone colorways, as well as a new leafy "Sage" option. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Goodbye Surface Pro X, hello Surface Pro 9
 
@@ -79,10 +86,10 @@ Not-so-big news: The rest is a standard Surface Pro affair; 2-in-1 design with a
 As far as pricing goes, the Intel-based Surface Pro 9 starts at [$999](https://www.microsoft.com/en-us/store/configure/Surface-Pro-9/93VKD8NP4FVK?) (i5, 8GB RAM, 128GB), and the ARM-based model starts at [$1,299](https://www.microsoft.com/en-us/store/configure/Surface-Pro-9/93VKD8NP4FVK?) (SQ3, 8GB RAM, 128GB). The former comes in Platinum, Graphite, Forest, and Sapphire, while the latter only comes in Platinum. Preorders start today. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The aptly-named Surface Studio 2+
@@ -100,16 +107,10 @@ For all the performance gains that you're getting, Microsoft is making you pay t
 [Buy the Surface Studio 2+ View now at Microsoft](https://www.microsoft.com/en-us/store/configure/Surface-Studio-2/8VLFQC3597K4?)
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Microsoft Presenter+ and Audio Dock
@@ -123,13 +124,6 @@ Releasing alongside the new Surface products are the Microsoft Presenter+ and Mi
 **More: [Microsoft's new accessories are geared toward the hybrid era of work](https://www.zdnet.com/article/microsofts-new-accessories-are-geared-toward-the-hybrid-era-of-work/)**
 
 The Microsoft Audio Dock is both a docking station with four ports (HDMI, 2x USB-C, and USB-A) and a speaker for audio input and output. For $249, which is not cheap for either of its two functions, Microsoft promises "premium sound" and noise-reducing microphones that will help you "be heard clearly in your next online meeting."
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Microsoft Designer takes on Canva
 
@@ -177,22 +171,19 @@ Microsoft officials say that Designer is targeted at consumers more than anyone 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-navigate-away-from-bot-influenced-metrics/"><u>[New] 2024 Approved Navigate Away From Bot-Influenced Metrics</u></a></li>
-<li><a href="https://discover-best.techidaily.com/dvd-mp3-dvd-mp3/"><u>最佳 DVD 转 MP3 转换器软件 - 快速提取 DVD 中的音频，将其编码为 MP3</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/como-transformar-archivos-flv-a-mpeg-online-sin-costo-guia-de-movavi/"><u>Cómo Transformar Archivos FLV a MPEG Online Sin Costo: Guía De Movavi</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/comprehensive-walkthrough-for-bulk-tiktok-download/"><u>Comprehensive Walkthrough for Bulk TikTok Download</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-intel-nvme-driver-software-now-fast-and-simple-steps/"><u>Download Intel NVMe Driver Software Now - Fast and Simple Steps</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-installation-brother-mfc-7360n-driver-software-update-for-windows-10-8-and-ebx/"><u>Easy Installation: Brother MFC-7360N Driver Software Update for Windows 10, 8 & Ebx</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-and-swift-download-for-hp-stream-printer-drivers-step-by-step/"><u>Effortless & Swift Download for HP Stream Printer Drivers - Step by Step</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/find-and-download-compatible-broadcom-drivers-for-windows-11-8-or-windows-7-computers/"><u>Find and Download Compatible Broadcom Drivers for Windows 11, 8, or Windows 7 Computers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722975023271-get-faster-performance-update-targus-displaylink-drivers-for-windows-1187-now/"><u>Get Faster Performance: Update Targus DisplayLink Drivers for Windows 11/8/7 Now</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/high-definition-film-viewing-with-moviebox-compatible-with-pcs-running-windows-11/"><u>High-Definition Film Viewing with MovieBox - Compatible with PCs Running Windows 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/improve-sound-quality-essential-windows-7-driver-updates-available-now/"><u>Improve Sound Quality: Essential Windows 7 Driver Updates Available Now</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/mastering-video-import-and-export-in-adobe-premiere-pro/"><u>Mastering Video Import and Export in Adobe Premiere Pro</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/optimizing-story-video-playback-rate-on-instagram-app-for-2024/"><u>Optimizing Story Video Playback Rate on Instagram App for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722977378894-safe-and-fast-installation-of-sadeheadset-drivers-for-windows-enhance-your-listening-experience-now/"><u>Safe and Fast Installation of SadeHeadset Drivers for Windows: Enhance Your Listening Experience Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-getting-the-newest-epson-ds-510-drivers-installed-on-a-windows-system/"><u>Step by Step Guide to Getting the Newest Epson DS-510 Drivers Installed on a Windows System</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/step-by-step-guide-to-optimal-screen-casting-via-meet/"><u>Step-by-Step Guide to Optimal Screen Casting via Meet</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/bes-evergreen-most-watched-video-catalog/"><u>YouTube's Evergreen Most-Watched Video Catalog</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-amplify-your-voice-expert-insights-on-podcast-editing-in-garageband/"><u>[New] Amplify Your Voice Expert Insights on Podcast Editing in GarageBand</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-audio-outliers-best-sound-distortion-apps-for-your-device-for-2024/"><u>[New] Audio Outliers Best Sound Distortion Apps for Your Device for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-master-the-melodies-secrets-to-adding-soundtracks-on-insta/"><u>[Updated] In 2024, Master the Melodies Secrets to Adding Soundtracks on Insta</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-the-best-free-srt-translator-tools-expert-insight/"><u>[Updated] Navigating the Best Free SRT Translator Tools – Expert Insight</u></a></li>
+<li><a href="https://extra-information.techidaily.com/bridging-the-gap-an-introduction-to-av1/"><u>Bridging the Gap An Introduction to AV1</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-instructions-to-install-and-use-the-nexiq-usb-link-2-driver-suite/"><u>Complete Instructions to Install and Use the Nexiq USB-Link 2 Driver Suite</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-logitech-g35-microphone-drivers-compatible-with-windows-7-8-and-10/"><u>Download Logitech G35 Microphone Drivers - Compatible with Windows 7, 8 & 10</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-samsung-galaxy-s23-fe-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-oppo-find-x7-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Oppo Find X7 Phone?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-real-time-tips-to-dominate-twitter-broadcasts/"><u>In 2024, Real-Time Tips to Dominate Twitter Broadcasts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-the-latest-microsoft-surface-pro-4-drivers-for-seamless-performance-on-windows-systems/"><u>Installing the Latest Microsoft Surface Pro 4 Drivers for Seamless Performance on Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-nvidia-geforce-rtx-2080-super-graphics-driver-download-for-windows-10-and-11/"><u>Latest NVIDIA GeForce RTX 2080 Super Graphics Driver Download for Windows 10 & 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-xiaomi-13-ultra-by-drfone-android/"><u>Universal Unlock Pattern for Xiaomi 13 Ultra</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/updating-your-computers-hid-compatible-pointing-device-software/"><u>Updating Your Computer's HID-Compatible Pointing Device Software</u></a></li>
 </ul></div>
 

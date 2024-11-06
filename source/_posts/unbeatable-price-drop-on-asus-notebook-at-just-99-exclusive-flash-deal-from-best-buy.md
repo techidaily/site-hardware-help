@@ -1,7 +1,7 @@
 ---
 title: Unbeatable Price Drop on ASUS Notebook at Just $99 - Exclusive Flash Deal From Best Buy
-date: 2024-10-28T23:04:09.531Z
-updated: 2024-10-31T01:25:05.236Z
+date: 2024-10-29T21:42:56.279Z
+updated: 2024-11-05T19:11:35.677Z
 tags:
   - laptops
 categories:
@@ -77,16 +77,16 @@ The X360 Chromebook from HP is unique in that, as the name implies, it has a 360
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Chromebook-14-Inch-Touchscreen-14b-ca0010nr%2Fdp%2FB07VZ39199%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9fb0e542-53ea-48ca-ab44-8928fa9786b3%7Cdtp&dtb=1) 
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How did we choose these holiday deals?
@@ -96,10 +96,10 @@ ZDNET only writes about deals we want to buy -- devices and products we desire, 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is the best Chromebook?
@@ -107,16 +107,10 @@ We also looked over customer reviews to find out what matters to real people who
 In our roundup of [the best Chromebook laptops](https://www.zdnet.com/article/best-chromebook-laptop/), the HP Dragonfly Pro took the top spot. While it's on the more expensive end compared to other Chromebook, it packs enough features, performance, and storage space to warrant the price. With fantastic battery life and a bright touchscreen on top of all that, it's easily the top Chromebook you can buy.
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Where can I find the best holiday deals?
@@ -184,22 +178,24 @@ ZDNET's experts have been searching for holiday deals across sites like Amazon, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-master-streaming-with-obs-studio-android-edition-for-2024/"><u>[New] Master Streaming with OBS Studio - Android Edition for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-dive-into-zoom-meeting-basics/"><u>[Updated] 2024 Approved Dive Into Zoom Meeting Basics</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-hype-generator-chief-architect/"><u>[Updated] 2024 Approved Hype Generator Chief Architect</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-facebooks-free-sound-library-download-for-2024/"><u>[Updated] Facebook's Free Sound Library Download for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-perfect-timeline-control-with-top-20-tweet-management-apps/"><u>[Updated] In 2024, Perfect Timeline Control with Top 20 Tweet Management Apps</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-design-best-practices-for-engaging-youtube-thumbnails/"><u>2024 Approved Design Best Practices for Engaging YouTube Thumbnails</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722977831507-download-the-microsoft-wireless-mouse-5000-driver-easily-today/"><u>Download the Microsoft Wireless Mouse 5000 Driver Easily Today!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-laserjet-pro-mfp-m12-fn-step-by-step-guide-to-download-and-install-drivers/"><u>HP LaserJet Pro MFP M12^ FN: Step-by-Step Guide to Download and Install Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/killer-network-driver-update-available-free-download-and-installation-guide-for-windows-11-8-and-e7/"><u>Killer Network Driver Update Available: Free Download & Installation Guide for Windows 11, 8 and E7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/lenovo-docking-station-revamp-a-comprehensive-update-process-walkthrough/"><u>Lenovo Docking Station Revamp: A Comprehensive Update Process Walkthrough</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/resolved-tp-wn722n-wifi-adapter-unrecognized-on-windows-systems/"><u>Resolved: TP-WN722N WiFi Adapter Unrecognized on Windows Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/resolved-troubleshooting-and-repairing-csr-a10-graphics-driver-glitches-in-your-window-pc/"><u>Resolved: Troubleshooting and Repairing CSR A10 Graphics Driver Glitches in Your Window PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/simple-steps-to-integrate-a-subwoofer-into-your-samsung-bar-speaker-setup/"><u>Simple Steps to Integrate a Subwoofer Into Your Samsung Bar Speaker Setup</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-instructions-to-download-updated-targus-displaylink-drivers-for-windows-1087/"><u>Step-by-Step Instructions to Download Updated Targus DisplayLink Drivers for Windows 10/8/7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/stream-with-ease-using-logitech-hd-pro-cx3070-download-the-right-drivers-for-your-os/"><u>Stream with Ease Using Logitech HD Pro CX3070: Download the Right Drivers for Your OS!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-8-innovative-dall-e-3-ai-art-creation-cues/"><u>Top 8 Innovative DALL-E 3 AI Art Creation Cues</u></a></li>
-<li><a href="https://driver-download.techidaily.com/updating-your-pcs-sound-drivers-tips-for-windows-11-10-and-7-users/"><u>Updating Your PC's Sound Drivers: Tips for Windows 11, 10 & 7 Users</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-macos-sierra-switching-back-to-os-x-el-capitan/"><u>[Updated] MacOS Sierra Switching Back To OS X El Capitan</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-swift-video-editing-made-easy-with-top-iosdesktop-apps-8/"><u>[Updated] Swift Video Editing Made Easy with Top iOS/Desktop Apps #8</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-capture-perfection-dive-into-top-12-websites-offering-stock-photos-without-cost/"><u>2024 Approved Capture Perfection Dive Into Top 12 Websites Offering Stock Photos Without Cost</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boosting-content-quality-with-chatgpt-a-comprehamendous-guide-for-innovation/"><u>Boosting Content Quality with ChatGPT - A Comprehamendous Guide for Innovation</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/brother-hl-l2n760d-series-download-windows-driver-and-installation-guide/"><u>Brother HL-L2n760d Series: Download Windows Driver and Installation Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/destiny-2-community-patch-2024-the-ultimate-fix-for-the-infamous-broccoli-bug/"><u>Destiny 2 Community Patch 2024: The Ultimate Fix for the Infamous Broccoli Bug</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-logitech-momo-steering-wheel-software-drivers-pc-compatible/"><u>Download Logitech MOMO Steering Wheel Software Drivers - PC Compatible</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-methods-for-sharing-steam-game-cards-online/"><u>Easy Methods for Sharing Steam Game Cards Online</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/efficiently-resolve-compatibility-errors-in-your-i2c-hid-device-interface/"><u>Efficiently Resolve Compatibility Errors in Your I2C HID Device Interface</u></a></li>
+<li><a href="https://facebook.techidaily.com/elevate-operations-designating-an-admin-on-facebook/"><u>Elevate Operations: Designating an Admin on Facebook</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-gameplay-update-acer-predator-helios-300-graphics-card-drivers/"><u>Enhance Your Gameplay: Update Acer Predator Helios 300 Graphics Card Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-latest-hp-z440-tower-workstation-graphics-card-driver-software/"><u>How to Get Latest HP Z440 Tower Workstation Graphics Card Driver Software</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-sonic-and-the-hedgehog-switch-edition-top-10/"><u>In 2024, Sonic and the Hedgehog Switch Edition (Top 10)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-xiaomi-redmi-k70-pro-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Xiaomi Redmi K70 Pro Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/optimize-your-gaming-download-and-update-nvidias-geforce-rtx-3070-driver-on-windows-platforms/"><u>Optimize Your Gaming: Download & Update NVIDIA's GeForce RTX 3070 Driver on Windows Platforms</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/solution-available-advanced-wireless-network-driver-downloads-awaiting-your-clicks/"><u>Solution Available: Advanced Wireless Network Driver Downloads Awaiting Your Clicks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-finding-downloading-and-updating-windows-sata-drivers/"><u>Step-by-Step Tutorial: Finding, Downloading, and Updating Windows SATA Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/swift-setup-improved-nahimic-driver-for-seamless-installation-and-performance/"><u>Swift Setup: Improved Nahimic Driver for Seamless Installation and Performance</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/0-fearful-video-blogs-overcoming-each-challenge/"><u>Top 10 Fearful Video Blogs Overcoming Each Challenge</u></a></li>
 </ul></div>
 

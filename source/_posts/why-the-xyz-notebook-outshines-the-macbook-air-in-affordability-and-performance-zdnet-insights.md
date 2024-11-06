@@ -1,7 +1,7 @@
 ---
 title: Why the XYZ Notebook Outshines the MacBook Air in Affordability and Performance | ZDNet Insights
-date: 2024-10-27T18:42:02.853Z
-updated: 2024-10-31T01:59:25.383Z
+date: 2024-10-31T23:05:27.428Z
+updated: 2024-11-05T18:53:15.523Z
 tags:
   - laptops
 categories:
@@ -91,16 +91,10 @@ You can also navigate any element of the OS like you would a browser, by swiping
 Finally, the battery life is quite good. Lenovo advertises over 12 hours of use, but I got a little over 10 in my testing. The physical size of the device is going to prevent the 29WHr battery from going much beyond the 10- to 12-hour mark. 
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -137,22 +131,16 @@ The [Lenovo Chromebook Duet 11-inch](https://shop-links.co/link/?url=https%3A%2F
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/updated-transforming-tiktok-to-pop-with-top-gif-tools/"><u>[Updated] Transforming TikTok to Pop with Top GIF Tools</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Samsung Galaxy S24+ | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-full-range-virtual-sphere-review/"><u>2024 Approved Full Range Virtual Sphere Review</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/discover-7-best-free-macos-compatible-tiktok-tools-for-2024/"><u>Discover 7 Best Free, MacOS Compatible TikTok Tools for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-newly-released-hp-officejet-3670-software-drivers-2024-version/"><u>Download the Newly Released HP OfficeJet 3670 Software Drivers (2024 Version)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-install-automatically-detected-download-of-amd-drivers/"><u>Easy Install: Automatically Detected Download of AMD Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-instructions-to-acquire-and-setup-new-wifi-drivers-for-your-asus-device/"><u>Easy Instructions to Acquire and Setup New WiFi Drivers for Your ASUS Device</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-hp-deskjet-ink-advantage-3520-drivers-downloads-quick-start-guide/"><u>Free HP Deskjet Ink Advantage 3520 Drivers Downloads – Quick Start Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-most-recent-evga-driver-software-for-your-windows-system/"><u>Get the Most Recent EVGA Driver Software for Your Windows System</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-download-and-install-toshiba-copier-software-on-windows-computers/"><u>How to Download & Install Toshiba Copier Software on Windows Computers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-fix-driver-compatibility-for-your-hp-officejet-pro-6978-printer/"><u>How to Fix Driver Compatibility for Your HP OfficeJet Pro 6978 Printer</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722971477713-hp-deskjet-3050a-driver-free-download-and-update-for-windows/"><u>HP Deskjet 3050A Driver – Free Download & Update for Windows</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-prime-audio-alteration-tech-for-influencer-marketers/"><u>In 2024, Prime Audio Alteration Tech for Influencer Marketers</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-review-of-the-aging-netgear-c30er-cable-modem-and-router-combo/"><u>In-Depth Review of the Aging Netgear C30er Cable Modem and Router Combo</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-bluetooth-connectivity-on-windows-10-top-solutions-and-advice/"><u>Mastering Bluetooth Connectivity on Windows 10 - Top Solutions & Advice</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/optimize-your-social-presence-with-efficient-fb-covers-for-2024/"><u>Optimize Your Social Presence with Efficient FB Covers for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcome-installation-hurdles-successful-steps-to-fix-discord-errors/"><u>Overcome Installation Hurdles: Successful Steps to Fix Discord Errors</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-alternative-recreation-in-the-firstrow-rankings-for-2024/"><u>[New] Alternative Recreation in the Firstrow Rankings for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-augmenting-visual-appeal-implementing-black-bar-and-box-on-fb-for-2024/"><u>[New] Augmenting Visual Appeal Implementing Black Bar & Box on FB for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-the-essential-checklist-for-selecting-the-best-hdr-cameras/"><u>[Updated] The Essential Checklist for Selecting the Best HDR Cameras</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-official-logitech-brio-camera-drivers-for-windows-1087-installation-guide-and-tips/"><u>Download the Official Logitech Brio Camera Drivers for Windows 10/8/7: Installation Guide & Tips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-usb-webcam-installation-download-top-quality-drivers-today/"><u>Effortless USB Webcam Installation: Download Top-Quality Drivers Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-asus-usb-bt500-compatible-with-bluetooth-50-for-windows-11-10-and-8-drivers/"><u>Free Download: Asus USB-BT500 Compatible with Bluetooth 5.0 for Windows 11, 10 & 8 – Drivers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-winx-dvd-ripper-effortless-conversion-from-dvd-to-mp4avi-for-ios-and-android-devices/"><u>Free WinX DVD Ripper: Effortless Conversion From DVD to MP4/AVI for iOS & Android Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-updated-epson-wf-3620-driver-software-for-windows-operating-systems-including-windows-1187/"><u>Get Updated Epson WF-3620 Driver Software for Windows Operating Systems Including Windows 11/8/7</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-vivo-t2-pro-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Vivo T2 Pro 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-charting-the-course-from-scale-to-submillions-in-youtube/"><u>In 2024, Charting the Course From Scale to Submillions in Youtube</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlocking-impressive-hdr-potential-with-our-tutorial/"><u>Unlocking Impressive HDR Potential with Our Tutorial</u></a></li>
 </ul></div>
 

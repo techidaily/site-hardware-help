@@ -1,7 +1,7 @@
 ---
 title: "The Rise of the AI Era: Why Microsoft's Surface Pro and Laptop Outshine Apple’s Offerings | ZDNET Insight"
-date: 2024-10-28T20:27:37.792Z
-updated: 2024-10-30T21:46:26.493Z
+date: 2024-10-31T19:54:50.847Z
+updated: 2024-11-05T22:30:07.953Z
 tags:
   - laptops
 categories:
@@ -70,6 +70,13 @@ You don't have to use a physical SIM card thanks to the Pro 8's support for an e
 
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best tablets (aren't all iPads) Choosing the best tablet can be tricky. Yes, the top picks include the Apple iPad and iPad Pro, but we also love the Samsung Galaxy Tab S8 Ultra, Microsoft Surface Go 3, and others.  Read now](https://www.zdnet.com/article/best-tablet/)
@@ -85,13 +92,6 @@ I already had the combo kit, so that's what I've been using during my testing.
 Regardless of which keyboard you pick up, all of them have a slot for a Surface Slim Pen 2 above the keyboard. When it's folded up, the pen rests against the Pro 8's bottom bezel. It wirelessly charges the pen, so it's constantly ready for use. 
 
 Overall, I love the design of the Pro 8\. I've actually found myself using it as a tablet more than I do the iPad Pro simply because the kickstand is built into the housing. There isn't another cover or case I have to manage. It's fantastic. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## But can it replace an iPad Pro?
 
@@ -136,6 +136,19 @@ I realize that the Pro 8 is running a full-fledged operating system in Windows 1
 
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
 
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## There are still many things the iPad Pro does better
 
 Jason Cipriani/ZDNet
@@ -149,10 +162,16 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -167,20 +186,13 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQ
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
@@ -220,17 +232,24 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-how-to-take-screenshots-on-windows-5-methods-for-2024/"><u>[New] How to Take Screenshots on Windows [5 Methods] for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-top-accessories-to-elevate-your-sj4000-experience/"><u>[Updated] In 2024, Top Accessories to Elevate Your SJ4000 Experience</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/delving-deeper-into-ai-security-risks-the-operational-mechanism-of-prompt-injection/"><u>Delving Deeper Into AI Security Risks: The Operational Mechanism of Prompt Injection</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-updated-intel-iris-xe-driver-for-optimal-performance-on-windows-11/"><u>Download Updated Intel Iris Xe Driver for Optimal Performance on Windows 11</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/enhance-your-sports-viewing-experience-with-youtube-tvs-multiview-feature/"><u>Enhance Your Sports Viewing Experience with YouTube TV's MultiView Feature</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/extend-your-iphones-lifespan-effective-solutions-for-boosting-battery-performance/"><u>Extend Your iPhone's Lifespan: Effective Solutions for Boosting Battery Performance</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-atheros-driver-software-for-windows-systems-here/"><u>Get the Latest Atheros Driver Software for Windows Systems Here</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-nokia-c110-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Nokia C110 | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-graphics-driver-software-for-nvidias-rtx-2070-super-card-on-windows-platforms/"><u>Latest Graphics Driver Software for NVIDIA's RTX 2070 Super Card on Windows Platforms</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722965580565-latest-konica-minolta-driver-downloads-compatible-with-windows-11-10-8-and-7-get-started-now/"><u>Latest Konica Minolta Driver Downloads Compatible with Windows 11, 10, 8, and 7 – Get Started Now!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-intel-dynamic-platform-and-thermal-framework-driver-setup-fixed/"><u>Mastering Intel Dynamic Platform & Thermal Framework Driver Setup: Fixed!</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/top-4-strategies-microsoft-must-adopt-to-prevent-copilot-from-following-in-cortanas-footsteps/"><u>Top 4 Strategies Microsoft Must Adopt to Prevent Copilot From Following in Cortana's Footsteps</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-discover-instagrams-free-filter-options-with-smart-searching-techniques/"><u>[New] In 2024, Discover Instagram's FREE Filter Options with Smart Searching Techniques</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/he-formula-to-fame-elevating-subscriber-numbers-on-youtube/"><u>[New] The Formula to Fame Elevating Subscriber Numbers on Youtube</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-exemplary-6-online-communities-for-corporate-growth/"><u>[Updated] In 2024, Exemplary 6 Online Communities for Corporate Growth</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/adapting-to-the-end-of-adobe-flash-solutions-for-unsupported-content/"><u>Adapting to the End of Adobe Flash: Solutions for Unsupported Content</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-latest-epson-xp-330-driver-for-optimal-printing-performance/"><u>Download the Latest Epson XP-330 Driver for Optimal Printing Performance</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-download-of-hp-officejet-5740-printer-software/"><u>Effortless Download of HP OfficeJet 5740 Printer Software!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-guide-get-your-corsair-void-pro-drivers-installed-on-windows/"><u>Effortless Guide: Get Your Corsair Void Pro Drivers Installed on Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-amd-ryzen-5-2400g-graphics-card-software-here-fast-free-and-reliable/"><u>Get the Newest AMD Ryzen 5 2400G Graphics Card Software Here - Fast, Free, and Reliable</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-laserjet-5200-printer-driver-comprehensive-download-guide-for-windows-users/"><u>HP LaserJet 5200 Printer Driver: Comprehensive Download Guide for Windows Users</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-from-iphone-6-plus-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock From iPhone 6 Plus - 4 Easy Ways</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-nokia-xr21-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Nokia XR21 Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-the-latest-hid-standard-mice-driver-update/"><u>Install the Latest, HID-Standard Mice Driver Update</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/lg-k92-5g-smartphone-assessment-is-the-upgrade-truly-essential/"><u>LG K92 5G Smartphone Assessment: Is the Upgrade Truly Essential?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/nvidia-geforce-gt-730-drivers-download-quickly-and-easily/"><u>NVIDIA GeForce GT 730 Drivers Download. Quickly & Easily</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-on-acquiring-and-setting-up-epson-xp-830-drivers/"><u>Step-by-Step Tutorial on Acquiring and Setting Up Epson XP-830 Drivers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/tailor-your-devices-alerts-with-custom-android-sounds/"><u>Tailor Your Device's Alerts with Custom Android Sounds</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-download-guide-set-up-logitech-racing-wheels-for-gaming-on-windows-operating-systems-7810/"><u>Ultimate Download Guide: Set Up Logitech Racing Wheels For Gaming on Windows Operating Systems (7/8/10)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrade-your-screen-experience-free-driver-downloads-for-targus-displaylink-on-win11-8-and-7/"><u>Upgrade Your Screen Experience – Free Driver Downloads for Targus DisplayLink on Win11, 8 & 7</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1726029340620-wonderfox-dvd-ripper-pro/"><u>WonderFox DVD Ripper Pro 無料トライアルへの簡単入門 - ユーザ登録手順</u></a></li>
 </ul></div>
 

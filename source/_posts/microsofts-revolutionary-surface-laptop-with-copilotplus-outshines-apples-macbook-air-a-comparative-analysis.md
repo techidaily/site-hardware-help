@@ -1,7 +1,7 @@
 ---
 title: "Microsoft's Revolutionary Surface Laptop with Copilot+ Outshines Apple's MacBook Air: A Comparative Analysis"
-date: 2024-10-30T00:05:59.155Z
-updated: 2024-10-30T17:50:04.510Z
+date: 2024-11-03T18:03:05.863Z
+updated: 2024-11-05T18:23:58.450Z
 tags:
   - laptops
 categories:
@@ -47,16 +47,10 @@ Having a dedicated Copilot key certainly adds to this burdenless experience. As 
 Perhaps the most important aspect of these new Copilot+ AI features is that they operate [on-device](https://www.zdnet.com/article/5-top-mobile-trends-in-2024-on-device-ai-the-new-smartphone-and-more/#:~:text=to%20take%20shape.-,1.%20On%2Ddevice%20AI%20puts%20the%20%27smart%27%20in%20smartphone,-The%20new%20Samsung) \-- based on local data, providing more private, secure, and faster processing capabilities. To everyday users, this may not be as significant. If, however, keeping your personal data protected (and away from any [remote cloud servers](https://www.zdnet.com/article/ai-is-changing-cybersecurity-and-businesses-must-wake-up-to-the-threat/)) is a priority, you'll feel a little better using the AI features on these new Copilot+ PCs.
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Windows Hello feels faster than ever
@@ -72,10 +66,10 @@ Comparing my M3 MacBook Air with the Surface Laptop is not exactly an apples-to-
 The best part is that Windows Hello automatically triggers when I lift the laptop lid open, and it's able to scan my face even in dimmer environments thanks to the IR camera.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Touchscreen support
@@ -91,10 +85,16 @@ For example, the new Cocreator tool in Paint requires you to both write a prompt
 While I've always found touchscreen functionality to be more beneficial on larger screens, using the smaller [13.8-inch Surface Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Touchscreen-Snapdragon-Sapphire%2Fdp%2FB0CXKYTQS2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cdce94952-9462-4f8b-a8a9-5180b078bf69%7Cdtp&dtb=1) feels more like a 2-in-1 tablet. When my typing space is confined, like on a bus, plane, or crowded café, being able to simply reach over and tap, swipe, and drag elements on the screen is very helpful and intuitive. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bonus: Benchmarks (for now)
@@ -136,18 +136,22 @@ For the following benchmark tests, the higher the score, the better.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-smart-shopping-tips-economical-gopro-cameras/"><u>[New] 2024 Approved Smart Shopping Tips Economical GoPro Cameras</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-elevate-your-editing-game-with-speed-control-skills/"><u>[New] In 2024, Elevate Your Editing Game with Speed Control Skills</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-productivity-in-duality-employment-and-video-creation/"><u>[Updated] In 2024, Productivity in Duality Employment & Video Creation</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-real-time-aspect-adaptation-for-designers/"><u>[Updated] Real-Time Aspect Adaptation for Designers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amd-driver-installation-optimizing-performance-across-multiple-windows-versions/"><u>AMD Driver Installation: Optimizing Performance Across Multiple Windows Versions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-video-converter-for-playstation-portable-ensure-compatibility-with-psp-friendly-formats/"><u>Best Video Converter for PlayStation Portable: Ensure Compatibility with PSP-Friendly Formats</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-drivers-for-your-epson-v500-scanner/"><u>Get the Latest Drivers for Your Epson V500 Scanner</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/global-momentum-resumes-anticipated-sales-of-39-million-motherboards-post-pandemic/"><u>Global Momentum Resumes: Anticipated Sales of 39 Million Motherboards Post-Pandemic</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Honor 80 Pro Straight Screen Edition? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-install-the-latest-version-of-sas-driver-for-windows-os-xpvista7/"><u>How to Install the Latest Version of SAS Driver for Windows OS (XP/Vista/7)</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-poco-x6-pro-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Poco X6 Pro Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/insignia-ns-pcy5bma2-driver-download-guide-for-windows-users-w11-w10-w7-supported/"><u>Insignia NS-PCY5BMA2 Driver Download Guide for Windows Users - W11, W10, W7 Supported</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-the-necessary-hp-deskjet-2652-drivers-on-windows-version-111087/"><u>Install the Necessary HP DeskJet 2652 Drivers on Windows (Version 11/10/8/7)</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-multi-platform-mastery-delivering-content-to-youtube-and-others/"><u>[New] In 2024, Multi-Platform Mastery Delivering Content to YouTube & Others</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/aster-the-art-of-time-stamp-addition-for-better-viewership/"><u>[New] Master the Art of Time Stamp Addition for Better Viewership</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-how-to-live-stream-to-facebook-from-dji-drone-for-2024/"><u>[Updated] How to Live Stream to Facebook From DJI Drone for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-step-into-the-world-of-youtube-transcription-a-comprehensive-no-fee-guide/"><u>[Updated] Step Into the World of YouTube Transcription A Comprehensive No-Fee Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-the-latest-hp-deskjet-2540-printer-drivers/"><u>Download and Install the Latest HP DeskJet 2540 Printer Drivers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/efficient-techniques-screen-recording-in-google-meet/"><u>Efficient Techniques Screen Recording in Google Meet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-installation-amd-vega-graphics-card-updates-and-downloads-perfected/"><u>Effortless Installation: AMD Vega Graphics Card Updates & Downloads Perfected!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/explore-popular-networking-sites-connect-on-facebook-tweet-with-twitter-share-on-instagram-and-vlog-on-youtube/"><u>Explore Popular Networking Sites: Connect on Facebook, Tweet with Twitter, Share on Instagram and Vlog on Youtube</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-logitech-rx250-driver-update-works-on-windows-7-to-10/"><u>Get Your Logitech RX250 Driver Update - Works on Windows 7 to 10</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-split-screen-audio-logging/"><u>In 2024, Split Screen Audio Logging</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-nvidia-geforce-game-ready-driver-update-for-windows-pcs/"><u>Latest NVIDIA GeForce Game Ready Driver Update for Windows PCs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/rtx-2080-super-graphics-card-drivers-download-and-update-guide-for-windows-11/"><u>RTX 2080 Super Graphics Card Drivers Download & Update Guide for Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-connectivity-with-techkey-bluetooth-adapter-free-windows-driver-downloads-now-available/"><u>Seamless Connectivity with Techkey Bluetooth Adapter - FREE Windows Driver Downloads Now Available</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/simplified-microsoft-driver-update-process-for-windows-1187-users/"><u>Simplified Microsoft Driver Update Process for Windows 11/8/7 Users</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/starting-simple-a-practical-approach-to-becoming-an-e-review-expert/"><u>Starting Simple A Practical Approach to Becoming an E-Review Expert</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-instructions-updating-and-downloading-epson-all-in-one-printer-ds-51/"><u>Step-by-Step Instructions: Updating and Downloading Epson All-in-One Printer DS-51</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/warframe-update-woes-heres-how-to-correctly-resolve-the-notorious-update-failure/"><u>Warframe Update Woes? Here's How to Correctly Resolve the Notorious Update Failure</u></a></li>
 </ul></div>
 

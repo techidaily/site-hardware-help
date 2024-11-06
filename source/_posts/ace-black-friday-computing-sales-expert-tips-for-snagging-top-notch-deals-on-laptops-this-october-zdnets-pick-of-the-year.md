@@ -1,7 +1,7 @@
 ---
 title: "Ace Black Friday Computing Sales: Expert Tips for Snagging Top-Notch Deals on Laptops This October - ZDNET's Pick of the Year!"
-date: 2024-10-26T00:02:10.603Z
-updated: 2024-10-31T06:18:12.615Z
+date: 2024-10-30T17:19:53.505Z
+updated: 2024-11-05T18:27:20.632Z
 tags:
   - laptops
 categories:
@@ -76,13 +76,6 @@ Microsoft's 2024 Surface Laptop is a fast, lightweight laptop with a fantastic b
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Windows-Touchscreen-Snapdragon%2Fdp%2FB0CXKQYNPD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8f760df1-a9e4-46e4-85d2-5c9b6db3c0a2%7Cdtp&dtb=1) 
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best laptops for students
 
 Dell/ZDNET
@@ -107,6 +100,13 @@ Asus/ZDNET
 * [Asus Zenbook Duo Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Zenbook-Certified-Graphics-UX8406MA-PS99T%2Fdp%2FB0CRD6PJDF%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8f760df1-a9e4-46e4-85d2-5c9b6db3c0a2%7Cdtp&dtb=1) for $1,503 ($196 off): Asus' Duo is a game-changing machine with its dual 14-inch OLED displays and powerful hardware, allowing for a wide range of configurations that creatives will love.
 * [Microsoft Surface Laptop Snapdragon X Elite](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Windows-Touchscreen-Snapdragon%2Fdp%2FB0CXL68236%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8f760df1-a9e4-46e4-85d2-5c9b6db3c0a2%7Cdtp&dtb=1) for $1,560 ($139 off): The higher-end Copilot+ certified laptop with the 12-core Snapdragon X Elite chip and 1TB of storage is also still on sale following October Prime Day.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## More October Prime Day 2024 laptop deals
 
 Kyle Kucharski/ZDNET
@@ -116,6 +116,13 @@ Kyle Kucharski/ZDNET
 * [Acer Nitro 16](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHexa-Core-GeForce-Display-Backlit-AN16-41-R148%2Fdp%2FB0D3VJXSWK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8f760df1-a9e4-46e4-85d2-5c9b6db3c0a2%7Cdtp&dtb=1) for $799 (save $200): This mid-range gaming laptop has a 16-inch display with a 165Hz refresh rate and is built with an Nvidia GeForce RTX 4050 graphics card.
 * [Acer Swift Go 14](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Facer-Display-Experiences-Processor-SFG14-72T-718K%2Fdp%2FB0CNDTGC77%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8f760df1-a9e4-46e4-85d2-5c9b6db3c0a2%7Cdtp&dtb=1) for $699 (save $300): This lightweight laptop features an Intel Core Ultra 7 155H CPU, Intel Arc graphics, 16GB of RAM, and a 512GB SSD.
 * [HP 17-inch Touch Laptop](https://qvc.uikc.net/c/159047/565130/9368?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.qvc.com%2Fhp-17-touch-laptop-intel-n200-4gb-ram-128gb-ssd-w-hp-mouse-%2526-ms365.product.E324465.html&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for $479 (Save $80): For a large-screen laptop with touch capabilities, HP's 17-inch Touch comes in a variety of bold colorways, and is bundled with a mouse in this QVC deal. This is a solid choice for users who want a large screen to play media, but only need a basic hardware configuration.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Best Buy laptop deals
 
@@ -136,10 +143,10 @@ Kyle Kucharski/ZDNET
 Amazon Prime Day event lasts from Tuesday, Oct. 8 through Wednesday, Oct. 9, but there are noteworthy deals before and after those days as well. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Are laptops really cheaper on Prime Day?
@@ -147,10 +154,10 @@ Amazon Prime Day event lasts from Tuesday, Oct. 8 through Wednesday, Oct. 9, but
 Amazon hasn't historically been the premiere destination for laptop deals, but the ones it lists for Prime Day have been too good to ignore. The MacBook deals, for example, were pretty major when they first dropped, since Apple is notorious for being restrictive about sales. The deals on Prime Day have gotten better each year, with more and more manufacturers participating with a broader range of devices. 
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How did we choose these October Prime Day deals?
@@ -164,13 +171,6 @@ When compiling the list of the best deals, we considered the following:
 * **Price**: Naturally, the price point of our recommended laptops has to include a worthwhile discount. While some discounts are small in relation to an overall price tag - for example, $30 off a $150 device - and other discounts are in the hundreds of dollars, we wanted to ensure that in any case, it's value for money.
 * **Features**: We included a range of laptops with features sure to appeal to you, including different screen sizes, processors, memory options, and storage. Furthermore, these laptops include varying levels of security, parental lock options, and display resolutions.
 * **Use cases**: At ZDNET, we also took into account different use cases. You might be in the market for a budget-friendly, basic laptop for a child, for example, or you may need a future-proof laptop suitable for work. Or, it might be a gaming device you're after. So, we have compiled a set of recommendations based on different purposes.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### What are the best October Prime Day 2024 deals?
 
@@ -238,24 +238,22 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-innovative-youtube-channel-titles-the-key-to-successful-blogging-and-filmmaking-no-more-than-156-characters/"><u>[New] 2024 Approved Innovative YouTube Channel Titles The Key to Successful Blogging & Filmmaking (No More than 156 Characters)</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-mastering-instagram-unfollow-detection/"><u>[New] 2024 Approved Mastering Instagram Unfollow Detection</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/iy-digital-storytelling-making-moving-pictures-on-your-smartphone/"><u>[New] DIY Digital Storytelling Making Moving Pictures on Your Smartphone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-crafting-content-that-captivates-and-grows-your-audience-for-2024/"><u>[Updated] Crafting Content That Captivates and Grows Your Audience for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-professional-framing-adding-bb-and-letterbox-overlays-to-fb-videos/"><u>[Updated] In 2024, Professional Framing Adding BB and Letterbox Overlays to FB Videos</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discovering-high-performance-gear-on-toms-hardware-site/"><u>Discovering High-Performance Gear on Tom's Hardware Site</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722968416950-download-and-setup-brother-hl-3170cdw-driver-software-in-minutes/"><u>Download & Setup: Brother HL-^3170cdw Driver Software in Minutes</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-setup-for-logitech-g402-mx-anywhere-unifying-receiver/"><u>Download and Setup for Logitech G402 MX Anywhere Unifying Receiver</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-latest-nvidia-geforce-rtx-3080-ti-drivers-compatible-with-windows-10-8-and-7/"><u>Download Latest NVIDIA GeForce RTX 3080 Ti Drivers: Compatible with Windows 10, 8 & 7</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-on-your-iphone-13-pro-max-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password On your iPhone 13 Pro Max</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ensure-perfect-printing-secure-official-ds-530-drivers-for-windows-10-x64/"><u>Ensure Perfect Printing: Secure Official DS-530 Drivers for Windows 10 X64</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/essential-acer-touchpad-driver-upgrades-for-seamless-windows-11-experience-download-today/"><u>Essential Acer Touchpad Driver Upgrades for Seamless Windows 11 Experience - Download Today!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/experience-secure-access-like-never-before-download-for-advanced-fingerprint-recognition-drivers-now-ready-to-download/"><u>Experience Secure Access Like Never Before: [DOWNLOAD] for Advanced Fingerprint Recognition Drivers Now Ready to Download</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-download-latest-version-of-gigabyte-network-adapter-drivers/"><u>Free Download: Latest Version of Gigabyte Network Adapter Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722973953441-get-the-perfect-fit-epson-wf-2630-drivers-compatible-with-your-windows-os-version-download-here/"><u>Get the Perfect Fit: Epson WF-2630 Drivers Compatible with Your Window's OS Version - Download Here!</u></a></li>
-<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-oneplus-ace-2v-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked OnePlus Ace 2V Phone | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-software-upgrade-find-and-install-hp-laserjet-pro-m404n-drivers/"><u>Latest Software Upgrade: Find and Install HP LaserJet Pro M404n Drivers</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-technological-savings-amazons-exclusive-prime-day-offers-june-2024/"><u>Top Technological Savings: Amazon's Exclusive Prime Day Offers, June 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-syncing-your-chromecast-remote-with-streaming-devices/"><u>Ultimate Guide to Syncing Your Chromecast Remote with Streaming Devices</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-best-mac-options-to-replace-bandicam/"><u>[Updated] In 2024, Best Mac Options to Replace Bandicam</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-plotting-precise-promotional-reels/"><u>[Updated] Plotting Precise Promotional Reels</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/10-full-driver-download-for-windows-11-81-and-earlier-versions-free/"><u>10 Full Driver Download for Windows 11, 8.1, and Earlier Versions - Free</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/auditory-appeal-modifying-voices-in-instagrams-storytelling/"><u>Auditory Appeal Modifying Voices in Instagram's Storytelling</u></a></li>
+<li><a href="https://os-tips.techidaily.com/best-free-call-log-apps-top-picks-for-managing-phone-conversations-on-iphone-models-xs-xr-x-and-older-versions/"><u>Best Free Call Log Apps: Top Picks for Managing Phone Conversations on iPhone Models XS, XR, X, and Older Versions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bluetooth-beats-backed-up-solving-stuttering-sound-issues-in-windows-1011-systems/"><u>Bluetooth Beats Backed Up: Solving Stuttering Sound Issues in Windows 10/11 Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-latest-logitech-g510-driver-for-enhanced-performance-on-windows-os/"><u>Download the Latest Logitech G510 Driver for Enhanced Performance on Windows OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-installation-of-canon-color-imageclass-mf812cdw-printer-driver-for-window-users/"><u>Easy Installation of Canon Color ImageCLASS MF812Cdw Printer Driver for Window Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-installation-of-toshiba-printer-drivers-on-windows-operating-system/"><u>Easy Installation of Toshiba Printer Drivers on Windows Operating System</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fast-track-to-updated-acer-audio-drivers-a-user-friendly-guide/"><u>Fast Track to Updated Acer Audio Drivers: A User-Friendly Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-started-with-corsair-k70-find-and-install-software-drivers-easily/"><u>Get Started with Corsair K70 - Find & Install Software Drivers Easily</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-lava-storm-5g-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Lava Storm 5G</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/infusing-life-into-jujutsu-kaisen-with-tiktok-videos/"><u>Infusing Life Into Jujutsu Kaisen with TikTok Videos</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intel-usb-30-driver-download-guide-compatible-with-windows-11/"><u>Intel USB 3.0 Driver Download Guide: Compatible with Windows 11</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-merge-videos-without-watermarks-7-top-picks/"><u>New Merge Videos Without Watermarks 7 Top Picks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-intermittent-wireless-mouse-issues-in-windows-10-and-11-expert-solutions-unveiled/"><u>Resolving Intermittent Wireless Mouse Issues in Windows 10 and 11: Expert Solutions Unveiled</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-on-swiftly-improving-synaptics-ps2-trackpad-performance-via-drivers/"><u>Step-by-Step Tutorial on Swiftly Improving Synaptics PS/2 Trackpad Performance via Drivers</u></a></li>
 </ul></div>
 

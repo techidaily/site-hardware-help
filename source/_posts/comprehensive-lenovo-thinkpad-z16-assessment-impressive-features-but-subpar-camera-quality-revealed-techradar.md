@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Lenovo ThinkPad Z16 Assessment: Impressive Features but Subpar Camera Quality Revealed | TechRadar"
-date: 2024-10-28T19:50:16.256Z
-updated: 2024-10-30T18:04:44.769Z
+date: 2024-10-31T18:38:15.575Z
+updated: 2024-11-05T17:51:23.786Z
 tags:
   - laptops
 categories:
@@ -63,6 +63,13 @@ While Framework previously sold models with Windows 11 and BYOOS (bring your own
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How's the design?
 
 If you've seen a Framework laptop before, then the Chromebook edition's design shouldn't come as a surprise. In fact, the hardware on the ChromeOS model is practically the same as the other two that the company sells, and I'm not complaining. It's got a sleek, unibody appearance with silver brushed throughout. The matte treatment is sufficient enough to hide fingerprints and smudges while still feeling soft and polished like that of other $1,000+ laptops. 
@@ -72,6 +79,13 @@ The only differentiator between this and other Framework models is the standard 
 Not a lot to complain about with the Framework laptop's look. Maybe a matte black option?
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Featured reviews
 
@@ -99,10 +113,10 @@ Lastly, the 3:2, 2256x1504 display on the Framework Chromebook is color-vibrant,
 **Review: [The HP Elite Dragonfly Chromebook has no business being this good](https://www.zdnet.com/article/hp-elite-dragonfly-chromebook-review/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Customizing the Framework
@@ -131,13 +145,6 @@ The company makes it easy to find the exact component that you need by labeling 
 
 **Also: [With Samsung's Self-Repair program, you can fix your broken screen at will](https://www.zdnet.com/article/samsung-launches-self-repair-program-so-you-can-fix-that-broken-screen-at-will/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How does it handle daily tasks?
 
 Hardware aside, the ChromeOS experience on the new Framework is as expected. It's a clean, resourceful, and easy-to-learn operating system that continues to expand in features month after month. There's a stigma that Chromebooks are too minimal, given they lack support for professional apps and services like Adobe Photoshop and Premiere Pro. But, unless such programs are essential to your workflow, you won't find yourself missing them when using the laptop for internet browsing, streaming movies and shows, and even [playing games on the cloud](https://www.zdnet.com/home-and-office/home-entertainment/three-of-the-biggest-pc-makers-are-redefining-gaming-with-chromebooks/). 
@@ -157,10 +164,10 @@ A singular cooling fan is found inside. It's audible under strenuous workloads b
 June Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Battery and charging
@@ -172,19 +179,6 @@ Framework bundles a modular (surprise, surprise) 60W charger in the box that use
 **Also: [This fast-charger is a USB and HDMI hub, too](https://www.zdnet.com/home-and-office/this-fast-charger-is-a-usb-and-hdmi-hub-too/)**
 
 [Buy the Framework Chromebook $963 at Frame](https://frame.work/products/laptop-chromebook-12-gen-intel/configuration/edit)
-
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bottom line
 
@@ -230,24 +224,20 @@ With a [starting price of $963](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5F
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-in-depth-instructions-installing-countdown-clocks-in-obs/"><u>[Updated] 2024 Approved In-Depth Instructions Installing Countdown Clocks in OBS</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/advance-repair-for-bad-and-corrupt-video-files-of-motorola-moto-g-5g-2023-by-stellar-video-repair-mobile-video-repair/"><u>Advance Repair for Bad and Corrupt Video Files of Motorola Moto G 5G (2023)</u></a></li>
-<li><a href="https://discover-best.techidaily.com/best-11-high-quality-pc-audio-recording-devices-top-picks/"><u>Best 11 High-Quality PC Audio Recording Devices - Top Picks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/clarifying-auditory-data-handling-wasd-in-windows-os/"><u>Clarifying Auditory Data Handling: WASD in Windows OS</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/find-the-latest-ricoh-printer-drivers-and-quick-setup-instructions-for-windows-systems/"><u>Find the Latest Ricoh Printer Drivers & Quick Setup Instructions for Windows Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/geforce-rtx-3080-ti-fresh-drivers-available-for-windows-users-win-11107/"><u>GeForce RTX 3080 Ti - Fresh Drivers Available for Windows Users (Win 11/10/7)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-fast-and-reliable-wifi-intuitive-steps-to-install-updated-intel-ac-3160-driver/"><u>Get Fast & Reliable WiFi: Intuitive Steps to Install Updated Intel AC 3160 Driver</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-amd-radeon-pro-w5700-driver-updates-for-compatible-windows-versions/"><u>Get the Latest AMD Radeon Pro W5700 Driver Updates for Compatible Windows Versions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722968828492-get-your-hp-deskjet-2652-windows-111087-driver-software-here/"><u>Get Your HP DeskJet 2652 Windows 11/10/8/7 Driver Software Here!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-resolve-an-hdcp-mistake-a-comprehensive-guide-with-expert-advice/"><u>How to Resolve an HDCP Mistake: A Comprehensive Guide with Expert Advice</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/installing-canon-mx340-driver-on-windows-11-8-or-7-step-by-step-guide-and-download-links/"><u>Installing Canon MX340 Driver on Windows 11, 8 or 7: Step-by-Step Guide and Download Links</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/maximizing-print-quality-downloading-the-newest-epson-wf-7720-driver-on-windows/"><u>Maximizing Print Quality: Downloading the Newest Epson WF-7720 Driver on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-common-winx-update-errors/"><u>Overcoming Common WinX Update Errors</u></a></li>
-<li><a href="https://facebook.techidaily.com/platform-policy-enforcement-properly-temporarily-suspend-trump/"><u>Platform Policy Enforcement: Properly Temporarily Suspend Trump</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/seamless-download-microsoft-wireless-mouse-navigate-to-the-driver-section-get-your-setup-complete/"><u>Seamless Download: Microsoft Wireless Mouse Navigate to the Driver Section | Get Your Setup Complete!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toshiba-driver-downloads-and-updates-for-windows-a-step-by-step-guide-to-optimize-performance/"><u>Toshiba Driver Downloads & Updates for Windows: A Step-by-Step Guide to Optimize Performance</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-the-ce-34878-0-error-on-your-playstation-4/"><u>Troubleshooting Guide: Fixing the CE-34878-0 Error on Your PlayStation 4</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/visual-vault-verifier/"><u>Visual Vault Verifier</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/be-cash-flow-8-simple-money-making-tips/"><u>YouTube Cash Flow 8 Simple Money-Making Tips</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-turn-fb-hd-videos-into-high-quality-mp4-free-online-method-unveiled/"><u>[New] 2024 Approved Turn FB HD Videos Into High-Quality MP4 – Free Online Method Unveiled</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-essential-software-for-live-video-recording/"><u>[New] Essential Software for Live Video Recording</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-universal-strategies-for-screen-capturing-on-diverse-devices/"><u>[Updated] 2024 Approved Universal Strategies for Screen Capturing on Diverse Devices</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-convenient-alias-adjustment-in-google-meet-devices-for-2024/"><u>[Updated] Convenient Alias Adjustment in Google Meet Devices for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-navigating-live-broadcast-platforms-simplified/"><u>[Updated] Navigating Live Broadcast Platforms Simplified</u></a></li>
+<li><a href="https://blog-min.techidaily.com/google-chrome-7/"><u>最高のGoogle Chromeビデオキャプチャツール: 使いやすさと機能性で評価した7つの推奨品</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/affordable-and-efficient-tp-link-re200-ac750-wi-fi-booster-in-depth-product-analysis/"><u>Affordable & Efficient TP-Link RE200 AC750 Wi-Fi Booster: In-Depth Product Analysis</u></a></li>
+<li><a href="https://blog-min.techidaily.com/comparing-language-services-can-chatgpt-outperform-google-translate-in-translation-quality/"><u>Comparing Language Services: Can ChatGPT Outperform Google Translate in Translation Quality?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-logitechs-webcam-drivers-at-no-cost-on-windows-systems/"><u>Download Logitech's Webcam Drivers at No Cost on Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-securely-obtain-and-setup-dells-wd19-driver-software-today/"><u>How to Securely Obtain & Setup Dell's WD19 Driver Software Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722973643041-instant-access-to-arduino-mega-2560-drivers-download-options-here/"><u>Instant Access to Arduino Mega 2560 Drivers - Download Options Here!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-correcting-compatibility-concerns-with-i2c-hid-drivers/"><u>Step-by-Step Guide to Correcting Compatibility Concerns with I2C HID Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/trouble-free-steps-to-correct-hp-envy-7640-printer-drivers/"><u>Trouble-Free Steps to Correct HP ENVY 7640 Printer Drivers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-and-rectifying-the-mmi-2-issue-on-your-phones-sim-card/"><u>Understanding & Rectifying the MMI 2 Issue on Your Phone’s SIM Card</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/updating-your-logitech-m310-mouse-drivers-a-step-by-step-guide/"><u>Updating Your Logitech M310 Mouse Drivers: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

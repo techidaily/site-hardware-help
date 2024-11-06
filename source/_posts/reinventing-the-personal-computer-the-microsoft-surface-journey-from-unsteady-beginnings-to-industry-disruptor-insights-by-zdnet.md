@@ -1,7 +1,7 @@
 ---
 title: "Reinventing the Personal Computer: The Microsoft Surface Journey From Unsteady Beginnings to Industry Disruptor - Insights by ZDNet"
-date: 2024-10-28T16:21:16.280Z
-updated: 2024-10-30T17:09:09.821Z
+date: 2024-10-29T16:59:51.585Z
+updated: 2024-11-05T19:38:31.648Z
 tags:
   - laptops
 categories:
@@ -37,6 +37,19 @@ Here's everything that the company announced during its October event.
 
 **Also: [How did Microsoft manage to get it right with Surface?](https://www.zdnet.com/article/how-did-microsoft-manage-to-get-it-right-with-surface/)**
 
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Surface Laptop 5 gets a splash of color
 
 Microsoft Surface Laptop 5 in Sage.
@@ -54,10 +67,10 @@ What's different about the new Surface Laptop starts with the 12th-generation In
 The Surface Laptop 5 will be available in select markets beginning on Oct. 25 with a [starting price of $999](https://www.microsoft.com/en-us/store/configure/Surface-Laptop-5/8XN49V61S1BN?) for the i5, 8GB of RAM, and 256GB model. The laptop will be available in classic Platinum, Black, and Sandstone colorways, as well as a new leafy "Sage" option. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Goodbye Surface Pro X, hello Surface Pro 9
@@ -79,10 +92,10 @@ Not-so-big news: The rest is a standard Surface Pro affair; 2-in-1 design with a
 As far as pricing goes, the Intel-based Surface Pro 9 starts at [$999](https://www.microsoft.com/en-us/store/configure/Surface-Pro-9/93VKD8NP4FVK?) (i5, 8GB RAM, 128GB), and the ARM-based model starts at [$1,299](https://www.microsoft.com/en-us/store/configure/Surface-Pro-9/93VKD8NP4FVK?) (SQ3, 8GB RAM, 128GB). The former comes in Platinum, Graphite, Forest, and Sapphire, while the latter only comes in Platinum. Preorders start today. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The aptly-named Surface Studio 2+
@@ -100,10 +113,10 @@ For all the performance gains that you're getting, Microsoft is making you pay t
 [Buy the Surface Studio 2+ View now at Microsoft](https://www.microsoft.com/en-us/store/configure/Surface-Studio-2/8VLFQC3597K4?)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Microsoft Presenter+ and Audio Dock
@@ -117,13 +130,6 @@ Releasing alongside the new Surface products are the Microsoft Presenter+ and Mi
 **More: [Microsoft's new accessories are geared toward the hybrid era of work](https://www.zdnet.com/article/microsofts-new-accessories-are-geared-toward-the-hybrid-era-of-work/)**
 
 The Microsoft Audio Dock is both a docking station with four ports (HDMI, 2x USB-C, and USB-A) and a speaker for audio input and output. For $249, which is not cheap for either of its two functions, Microsoft promises "premium sound" and noise-reducing microphones that will help you "be heard clearly in your next online meeting."
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Microsoft Designer takes on Canva
 
@@ -171,17 +177,19 @@ Microsoft officials say that Designer is targeted at consumers more than anyone 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-unlock-the-power-of-youtube-frames-without-financial-cost/"><u>[New] 2024 Approved Unlock the Power of YouTube Frames Without Financial Cost</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-online-oasis-youtubes-finest-yoga-retreats/"><u>[New] In 2024, Online Oasis YouTube's Finest Yoga Retreats</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-exploring-mycams-video-recording-quality-and-efficiency-for-2024/"><u>[Updated] Exploring MyCam's Video Recording Quality and Efficiency for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amd-rx-590-driver-installation-and-update-tutorial-for-windows-users/"><u>AMD RX 590 Driver Installation and Update Tutorial for Windows Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-access-to-nvidia-drivers-download-options-for-windows-1078-users/"><u>Easy Access to Nvidia Drivers: Download Options for Windows 10/7/8 Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-guide-installing-canon-printerscanner-drivers-on-windows-systems/"><u>Easy Guide: Installing Canon Printer/Scanner Drivers on Windows Systems</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/fix-showbox-issues-on-ios-devices-top-free-alternatives-available/"><u>Fix Showbox Issues on iOS Devices - Top Free Alternatives Available</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-laserjet-p1006-driver-and-utility-downloads-for-smooth-printing-experience/"><u>HP LaserJet P1006 Driver and Utility Downloads for Smooth Printing Experience</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Realme 12+ 5G | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Tecno Pop 8 | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722965354778-speedy-solution-obtain-your-brother-hl-3170cdw-drivers-today/"><u>Speedy Solution: Obtain Your Brother HL-3170CDW Drivers Today!</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/triple-tactic-tracker-how-to-scrutinize-your-subscriber-earnings-on-googles-platform-youtube-for-2024/"><u>Triple Tactic Tracker How to Scrutinize Your Subscriber Earnings on Google's Platform, YouTube for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-comparative-analysis-is-pickup-the-best-editor-for-your-android-device-for-2024/"><u>[New] Comparative Analysis Is PickUp The Best Editor for Your Android Device for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-switching-from-snippet-to-live-play-in-yt/"><u>[New] Switching From Snippet to Live Play in YT</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-intel-iris-graphics-540-driver-quickly-and-easily/"><u>[UPDATE] Intel Iris Graphics 540 Driver | Quickly & Easily</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-explore-innovative-ways-for-sound-capture-in-modern-windows-11-pcs/"><u>[Updated] Explore Innovative Ways for Sound Capture in Modern Windows 11 PCs</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-unparalleled-20-anime-series-themes/"><u>[Updated] In 2024, Unparalleled 20 Anime Series Themes</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-mastering-the-art-of-disconnecting-from-your-old-linkedin-account/"><u>[Updated] Mastering the Art of Disconnecting From Your Old LinkedIn Account</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-nvidia-1080-graphics-driver-for-windows-11-quick-and-simple-steps/"><u>Download NVIDIA 1080 Graphics Driver for Windows 11: Quick and Simple Steps</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-the-right-network-drivers-for-your-hp-system-on-win10win8win7/"><u>How to Get the Right Network Drivers for Your HP System on Win10/Win8/Win7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-laserjet-1018-driver-installation-easy-guide-and-download-links/"><u>HP LaserJet 1018 Driver Installation: Easy Guide & Download Links</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-sunset-symphony-cinematic-darkening-in-pro/"><u>In 2024, Sunset Symphony Cinematic Darkening in Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/neutralize-non-meeting-prerequisites-signs-in-win11/"><u>Neutralize Non-Meeting Prerequisites Signs in Win11</u></a></li>
+<li><a href="https://win-lab.techidaily.com/recuperacao-gratuita-de-arquivos-apagados-no-windows-11-passo-a-passo/"><u>Recuperação Gratuita De Arquivos Apagados No Windows 11 - Passo-a-Passo</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Huawei Nova Y71? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722963325618-the-femoral-artery-is-a-continuation-of-the-external-iliac-artery-and-becomes-the-popliteal-artery-behind-the-knee/"><u>The Femoral Artery Is a Continuation of the External Iliac Artery and Becomes the Popliteal Artery Behind the Knee.</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Exploring Value and Performance: Insights From an Expert on Microsoft's Affordable Surface Pro 11 - A Comprehensive Review"
-date: 2024-10-25T04:26:30.025Z
-updated: 2024-10-30T16:34:04.993Z
+date: 2024-11-03T22:49:02.458Z
+updated: 2024-11-05T17:14:21.364Z
 tags:
   - laptops
 categories:
@@ -44,13 +44,6 @@ My original plan was to use the new Surface Pro as a secondary mobile device, wh
 
 How did this happen? Let's dive in.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The experience is familiar
 
 This laptop is a radical shift in the Windows ecosystem, but it doesn't feel all that different from its predecessors. In fact, it's almost indistinguishable from the Intel-powered Surface Pro 9 that's sitting on my desk alongside it. The slim bezels around the displays of the two devices are nearly the same dimensions. The new device, at 1.9 pounds, is the same weight as the Surface Pro 9 and is a few ounces heavier than the Surface Pro X, although that's not something you really notice until you have to lug it through an airport as you rush to make a connection. The Type Cover from the older Surface Pro clicked into place on the Surface Pro 11, exactly as expected.
@@ -64,10 +57,10 @@ The big difference is that this next-gen device is extremely cool and quiet. Aft
 Of course, this new device also embodies everything you like and/or dislike about the Surface Pro design. If you're expecting a radical shift that will suddenly make the kickstand comfortable in your lap, I'm sorry to report you will be disappointed. If, however, you're comfortable with that design, you'll find this iteration completely familiar.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Battery life is a huge win
@@ -87,10 +80,10 @@ Screenshot by Ed Bott/ZDNET
 At an average of more than 10 hours of actual, observed battery life, this Surface Pro is able to run for well over twice as long as my Intel-based Surface Pro 9\. That's also at least as long as the [M2 MacBook Air](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/) in my office.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Compatibility is good but not perfect
@@ -129,6 +122,19 @@ I had no hardware problems to speak of. My 10-year-old Logitech C930 webcam just
 
 Your mileage may vary, of course, especially if you have exotic hardware like video capture cards and ancient multifunction printers that require custom driver packs and won't work with the in-box Windows drivers. Thankfully, I have none of those.
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The AI story is incomplete
 
 Every PC in the Copilot+ line includes a powerful neural processing unit designed to accelerate AI-based activities. Because I didn't spring for Microsoft's pricey new [Flex Keyboard](https://www.microsoft.com/en-us/d/surface-pro-flex-keyboard-with-slim-pen/93fzrmtgj6jw) and stuck with my old Type Cover, I didn't get a dedicated Copilot key. Instead, I had to run the [Copilot app](https://www.zdnet.com/article/microsoft-is-turning-windows-copilot-into-a-regular-app-and-heres-why-youll-like-it/), which works exactly like it does on any other Windows 11 PC. If it was chatting faster, I didn't notice.
@@ -150,10 +156,10 @@ The real question is whether those features are powerful enough to make you swit
 Even if you avoid the AI features completely, though, there's more than enough power in this [budget PC](https://www.zdnet.com/article/best-laptops-under-500/). Plus, as long as your apps and hardware requirements aren't exotic, you'll appreciate its cool, quiet operation.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -200,22 +206,15 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-best-4k-hdtv-monitors-for-gameplay-excellence-for-2024/"><u>[New] Best 4K HDTV Monitors for Gameplay Excellence for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-digital-chromatic-conventions-in-media-production-for-2024/"><u>[New] Digital Chromatic Conventions in Media Production for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-expert-strategies-for-efficient-whatsapp-use/"><u>[Updated] 2024 Approved Expert Strategies for Efficient WhatsApp Use</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-monetization-milestone-the-500-subscriber-trick-for-2024/"><u>[Updated] Monetization Milestone The 500-Subscriber Trick for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-next-level-mac-cam-apps-avoiding-the-bandicamp-route/"><u>2024 Approved Next-Level Mac Cam Apps Avoiding the Bandicamp Route</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-latest-binge-worthy-shows-streaming-now-on-max/"><u>Discover the Latest Binge-Worthy Shows Streaming Now on Max</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-netgear-wireless-network-adapter-drivers-free-latest-version/"><u>Download & Update NETGEAR Wireless Network Adapter Drivers - Free Latest Version</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-asus-atk0110-acpi-drivers-for-free-step-by-step-guide/"><u>Download ASUS ATK0110 ACPI Drivers for Free: Step-by-Step Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Itel P55 | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-intel-rst-rapid-storage-technology-driver-install-boost-your-drive-efficiency-today/"><u>Latest Intel RST (Rapid Storage Technology) Driver Install - Boost Your Drive Efficiency Today!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/seamless-corsair-driver-upgrade-a-comprehensive-guide-for-windows-users/"><u>Seamless Corsair Driver Upgrade: A Comprehensive Guide for Windows Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/speedy-and-hassle-free-downloads-getting-your-elgato-drivers-installed-now/"><u>Speedy and Hassle-Free Downloads: Getting Your Elgato Drivers Installed Now!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/speedy-and-hassle-free-wacom-driver-installation/"><u>Speedy and Hassle-Free Wacom Driver Installation</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-phone-stores-where-to-find-the-perfect-mobile-device/"><u>Top Phone Stores: Where to Find the Perfect Mobile Device</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-fixes-for-startech-driver-errors-on-various-windows-versions-including-11-8-and-7/"><u>Ultimate Fixes for StarTech Driver Errors on Various Windows Versions Including 11, 8 & 7</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/video-format-mastery-best-practices-for-instagram-for-2024/"><u>Video Format Mastery Best Practices for Instagram for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722975283795-whats-new-updated-control-software-for-logitech-extreme-3d-gaming-keyboard/"><u>What's New: Updated Control Software for Logitech Extreme 3D Gaming Keyboard!</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-beginners-tutorial-composing-youtube-video-content/"><u>[New] 2024 Approved Beginner's Tutorial Composing YouTube Video Content</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-essential-fb-video-ad-techniques-the-20-best-tactics/"><u>2024 Approved Essential FB Video Ad Techniques The 20 Best Tactics</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ableton-tricks-to-subtly-lower-track-amplitude-for-2024/"><u>Ableton Tricks to Subtly Lower Track Amplitude for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-for-smooth-functioning-canon-printer-mg2900-drivers/"><u>Download & Update for Smooth Functioning: Canon Printer MG2900 Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-instructions-installing-the-latest-scansnap-ix500-driver-update-for-optimal-windows-integration/"><u>Easy Instructions: Installing the Latest ScanSnap iX500 Driver Update for Optimal Windows Integration</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-honor-magic-vs-2-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Honor Magic Vs 2 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Oppo A56s 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/successful-installation-and-updating-of-huion-tablet-software-on-windows-systems/"><u>Successful Installation and Updating of Huion Tablet Software on Windows Systems</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210817133-9781250902740-the-magic-of-tarot/"><u>The Magic of Tarot | Free Book</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-to-the-latest-dolby-digital-drivers-supports-windows-11-10-and-81/"><u>Update to the Latest Dolby Digital Drivers: Supports Windows 11, 10 and 8.1</u></a></li>
 </ul></div>
 

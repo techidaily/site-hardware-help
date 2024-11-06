@@ -1,7 +1,7 @@
 ---
 title: ZDNet Unveils the Most Adaptable and Powerful 2-in-1 for Professionals by Lenovo
-date: 2024-10-24T02:37:50.160Z
-updated: 2024-10-31T06:26:10.162Z
+date: 2024-10-30T16:35:56.487Z
+updated: 2024-11-05T18:38:45.286Z
 tags:
   - laptops
 categories:
@@ -79,10 +79,10 @@ Cesar Cadenas/ZDNET
 And for one of the best qualities of this laptop: battery life is absolutely phenomenal. I [performed our usual test](https://www.zdnet.com/article/how-we-test-laptops/) of running a YouTube livestream at 720p and 50% brightness. At its peak, the Surface Pro lasted just under 13 hours on a single charge. That's just shy of Microsoft's purported 14-hour battery life. In practical usage, this is a device that will easily last multiple days on a single charge. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -121,17 +121,24 @@ Prices for the device start at $999.99\. My review unit with the 12-core Snapdra
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-tiktoks-voyage-to-twitter-success-stories/"><u>[New] 2024 Approved TikTok's Voyage to Twitter Success Stories</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-how-android-flips-video-frames-for-the-ages/"><u>[Updated] How Android Flips Video Frames for the Ages</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-instagram-launch-your-live-session-for-2024/"><u>[Updated] Mastering Instagram Launch Your Live Session for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/craft-your-own-film-finale-templates-no-cost-for-2024/"><u>Craft Your Own Film Finale Templates, No Cost for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/few-shot-learning-capability/"><u>Few-Shot Learning Capability</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-updated-geforce-rtx-2070-graphics-card-drivers-for-windows-1187-systems/"><u>Get Updated Geforce RTX 2070 Graphics Card Drivers for Windows 11/8/7 Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-hp-laserjet-p1006-drivers-here/"><u>Get Your HP LaserJet P1006 Drivers Here</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-htc-u23-pro-is-unlocked-by-drfone-android/"><u>How To Check if Your HTC U23 Pro Is Unlocked</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-huawei-p60-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Huawei P60 FRP Bypass</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-oculus-device-drivers-for-all-windows-versions-111087-get-them-here/"><u>Latest Oculus Device Drivers for All Windows Versions (11/10/8/7) - Get Them Here</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-sas-driver-updates-and-downloads-compatible-with-windows-11-8-and-7/"><u>Latest SAS Driver Updates & Downloads: Compatible with Windows 11, 8, and 7</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/the-perfect-end-youtube-outro-essentials-and-top-creators/"><u>The Perfect End YouTube Outro Essentials & Top Creators</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-best-online-bunches-of-premium-quality-vector-icons-for-2024/"><u>[New] Best Online Bunches of Premium-Quality Vector Icons for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-essential-steps-for-instagram-chat-novices/"><u>[New] Essential Steps for Instagram Chat Novices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-focused-gaming-recordings-software-for-2024/"><u>[New] Focused Gaming Recordings Software for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-screenrec-for-lactops-your-step-by-step-guide/"><u>[New] ScreenRec for Lactops Your Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-iphone-camera-techniques-for-quality-shots/"><u>[Updated] 2024 Approved IPhone Camera Techniques for Quality Shots</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-beginners-guide-to-use-lunapic-photo-editor/"><u>[Updated] A Beginner's Guide to Use Lunapic Photo Editor</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722968978433-approach-explain-the-rationale-behind-trial-mixing-before-full-scale-application/"><u>Approach: Explain the Rationale Behind Trial Mixing Before Full-Scale Application.</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210812834-9781761038556-cristaloterapia/"><u>Cristaloterapia | Free Book</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-epson-l3150-driver-software-on-windows-10-8-and-7-free-update/"><u>Get the Latest Epson L3150 Driver Software on Windows 10, 8 & 7 - Free Update</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722978324816-get-the-newest-intel-wi-fi-6-ax200-drivers-compatible-with-windows-11-and-10-free-update-now/"><u>Get the Newest Intel Wi-Fi 6 AX200 Drivers Compatible with Windows 11 & 10 - Free Update Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/guide-to-updating-windows-drivers-offline-for-seamless-operations/"><u>Guide to Updating Windows Drivers Offline for Seamless Operations</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mp4-files-on-galaxy-a15-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How do you play MP4 files on Galaxy A15 5G?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-configure-streamlabs-on-your-mac-using-obs/"><u>In 2024, Configure Streamlabs on Your Mac Using OBS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-updated-graphics-and-system-drivers-for-lenovo-legion-5-pro-laptop/"><u>Install Updated Graphics and System Drivers for Lenovo Legion 5 Pro Laptop</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installation-guide-epson-ds-530-printer-drivers-for-windows-11-x64-get-your-software-now/"><u>Installation Guide: Epson DS-530 Printer Drivers for Windows 11 (X64) – Get Your Software Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722974496240-secure-and-quick-download-of-hp-designjet-500-drivers-start-printing-today/"><u>Secure and Quick Download of HP DesignJet 500 Drivers - Start Printing Today!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/trustworthy-downloads-of-lenovos-updated-bluetooth-drivers-compatible-with-win-710/"><u>Trustworthy Downloads of Lenovo's Updated Bluetooth Drivers Compatible with Win 7/10</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/unlock-the-power-of-broadcasts-how-to-master-youtube-and-twitch-using-obs-for-2024/"><u>Unlock the Power of Broadcasts How to Master YouTube & Twitch Using OBS for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlocking-the-full-potential-of-your-logitech-mx-master-step-by-step-guide/"><u>Unlocking the Full Potential of Your Logitech MX Master: Step-by-Step Guide</u></a></li>
 </ul></div>
 

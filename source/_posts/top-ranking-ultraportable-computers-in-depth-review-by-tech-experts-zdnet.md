@@ -1,7 +1,7 @@
 ---
 title: Top-Ranking Ultraportable Computers - In Depth Review by Tech Experts | ZDNet
-date: 2024-10-24T19:20:14.899Z
-updated: 2024-10-30T23:43:36.467Z
+date: 2024-11-01T22:38:11.171Z
+updated: 2024-11-05T23:46:51.765Z
 tags:
   - laptops
 categories:
@@ -47,6 +47,13 @@ Cons
 
 ## Apple MacBook Air M3
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Best lightweight laptop overall
 
 The resounding success of Apple's M2 MacBook Air was only improved upon with its successor, the M3 MacBook Air, and is our pick for best overall lightweight laptop. Available in a 13-inch and 15-inch display size, the MacBook Air is thin, light, and incredibly compact for the amount of power it has. At just barely over three pounds, the MacBook Air can be slipped into virtually any bag and go with you wherever you go.
@@ -76,19 +83,25 @@ Cons
 * Loud fans
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Acer Swift Go 14
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Best lightweight laptop for AI
@@ -118,6 +131,13 @@ Cons
 * Comes pre-loaded with bloatware
 
 ## Asus ROG Zephyrus G14
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best lightweight laptop for gaming
 
@@ -150,13 +170,6 @@ Cons
 
 ## LG Gram Pro 17
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Best lightweight laptop with a 17" display
 
 The LG Gram Pro 17 takes portability to the extreme. At just half an inch thick and weighing barely over three pounds, the Gram Pro 17 not only holds a Guinness record, but achieved something that at one time was thought to be impossible for a 17" laptop.
@@ -186,20 +199,14 @@ Cons
 * Battery life is not the best
 * Expensive
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Lenovo ThinkPad X1 Carbon
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best lightweight laptop for work
 
@@ -239,6 +246,13 @@ The best lightweight laptop for you depends on what you want to get out of it. L
 | LG Gram Pro 17                      | The lightest, thinnest 17-inch laptop on the market, no matter the cost.                 |
 | Lenovo X1 Carbon                    | A durable, powerful laptop for work.                                                     |
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How we test lightweight laptops
 
 Kyle Kucharski/ZDNET
@@ -264,10 +278,10 @@ These laptops all offer solid performance in their own right, but paired with th
 * **Price:** Cost is an important factor and will make or break many consumers' choices. The reality is that ultraportability does come at a cost, as none of these laptops would be considered "budget" by any rate. The Acer Swift Go 14, however, is still quite affordable, starting at $800, though upgrades will move that number more in line with the others on this list.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why does having a lightweight laptop matter?
@@ -286,19 +300,6 @@ Most laptops today weigh between two and a half and five pounds, with a five-pou
 
 The heaviest laptops on this list are the Asus ROG Zephyrus G14 and the 15-inch MacBook Air M3, each weighing just 3.3 pounds. In the laptop world, that's light. 
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What slim laptop backpack do we recommend?
 
 We love lightweight laptops because they're easy to carry around. But the backpack you carry it in is just as important. There are many great backpacks out there for transporting your laptop, but here are a few we recommend.
@@ -314,13 +315,6 @@ While every computing platform has its loyal supporters, most people end up usin
 **Also:** **[Comparing the best Macs: Is a MacBook or Mac Studio right for you?](https://www.zdnet.com/article/best-mac/)** 
 
 All Windows devices listed here meet the requirements for Windows 11\. If you purchase a device with Windows 10 installed, you will be able to upgrade to Windows 11 if you choose to do so. Note that after October 14, 2025, Windows 10 support will end, and there will be no further security patches or feature updates.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Are there alternative lightweight laptops worth considering?
 
@@ -368,18 +362,14 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-ultimate-online-video-snatcher-download-favorites-instantly/"><u>[Updated] In 2024, Ultimate Online Video Snatcher Download Favorites Instantly</u></a></li>
-<li><a href="https://extra-information.techidaily.com/chucklechisel-designing-memes-in-adobe/"><u>ChuckleChisel Designing Memes in Adobe</u></a></li>
-<li><a href="https://fox-links.techidaily.com/dissecting-uav-technology-operation-design-and-use/"><u>Dissecting UAV Technology Operation, Design, and Use</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-latest-updates-for-canoscan-lide-220-software/"><u>Download and Latest Updates for CanoScan LiDE 220 Software</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-ralink-network-drivers-on-windows-easy-step-by-step-guide/"><u>Download and Update Ralink Network Drivers on Windows: Easy Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-fix-startech-device-drivers-on-windows-11-8-and-7-complete-guide/"><u>How to Fix StarTech Device Drivers on Windows 11, 8 & 7 - Complete Guide</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Meizu 21 | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-the-installation-of-intel-dynamic-and-thermal-framework-fixes-for-common-failures/"><u>Mastering the Installation of Intel Dynamic & Thermal Framework: Fixes for Common Failures</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-the-no-fingerprint-detection-error-on-windows/"><u>Overcoming the No Fingerprint Detection Error on Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-and-effortless-install-of-acer-predator-xb271hu-graphics-drivers-get-started-now/"><u>Quick & Effortless Install of Acer Predator XB271HU Graphics Drivers – Get Started Now</u></a></li>
-<li><a href="https://win-help.techidaily.com/responding-to-facebook-security-breach-a-guide-with-5-key-actions/"><u>Responding to Facebook Security Breach: A Guide with 5 Key Actions</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/table-choices-top-free-online-intros/"><u>Unbeatable Choices Top Free Online Intros</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-the-secrets-quickly-change-your-characters-vocal-tone-pubg-for-2024/"><u>Unlocking the Secrets Quickly Change Your Character's Vocal Tone (PUBG) for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-crafting-artful-depth-of-field-with-modern-tools/"><u>[New] Crafting Artful Depth of Field with Modern Tools</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-unveiling-the-power-of-screen-capture-showmores-review-breakdown-for-2024/"><u>[New] Unveiling the Power of Screen Capture ShowMore's Review Breakdown for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-tweet-visionary-free-transformation-of-youtube-vids-into-tweenish-graphics/"><u>[Updated] Tweet Visionary Free Transformation of YouTube Vids Into Tweenish Graphics</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-killer-e2500-gigabit-ethernet-driver-today/"><u>Get Your Killer E2500 Gigabit Ethernet Driver Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-repair-xbox-input-device-drivers-on-various-windows-versions-including-11-8-and-7/"><u>How to Repair Xbox Input Device Drivers on Various Windows Versions Including 11, 8 & 7</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Oppo Reno 9A? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigate-your-way-to-the-nearest-ev-charging-station-using-google-maps/"><u>Navigate Your Way to the Nearest EV Charging Station Using Google Maps</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-instructions-installing-lenovo-x1-carbon-drivers-on-pcs-with-windows-10-and-7/"><u>Step-by-Step Instructions: Installing Lenovo X1 Carbon Drivers on PCs with Windows 10 and 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-guide-successfully-connecting-a-wd-ses-drive-using-updated-usb-devices-from-2011-forward/"><u>Troubleshooting Guide: Successfully Connecting a WD SES Drive Using Updated USB Devices From 2011 Forward</u></a></li>
 </ul></div>
 

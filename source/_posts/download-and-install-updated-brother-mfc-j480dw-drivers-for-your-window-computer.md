@@ -1,7 +1,7 @@
 ---
 title: Download and Install Updated Brother MFC-J480DW Drivers for Your Window Computer
-date: 2024-08-26T08:00:41.957Z
-updated: 2024-08-27T08:00:41.957Z
+date: 2024-11-03T18:38:22.171Z
+updated: 2024-11-05T16:02:50.436Z
 tags:
   - win11
   - win10
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/3a45d2f58796a5984d88b42acb22f94c8f8721b15
 2. [Download the driver from Canon official](https://tools.techidaily.com/drivereasy/download/)
 3. [Update the driver automatically](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 1\. Update your Canon printer driver via Device Manager
 
  Although Windows Update doesn’t always deliver the latest driver ([**Learn Why…**](https://tools.techidaily.com/drivereasy/download/) ), you can try updating your Canon MF743CDW driver easily using this method:
@@ -32,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/3a45d2f58796a5984d88b42acb22f94c8f8721b15
 1) Right-click the Start menu bar and select Device Manager.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Double-click the Printers group to expand this category. Then right-click your Canon MF743CDW printer and select**Update driver** .
 
@@ -41,9 +55,6 @@ thumbnail: https://thmb.techidaily.com/3a45d2f58796a5984d88b42acb22f94c8f8721b15
 
  4) Windows will try finding the “latest” driver for your printer. But if it shows no available updates, you may need to try the next method below or choose to update the driver automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  (the **[Pro Version](https://tools.techidaily.com/drivereasy/download/)**  comes with a 30-day free trial).
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 2\. Download the driver from Canon official
 
  If the Windows Update doesn’t give you the latest version of the Canon MF743CDW driver, you can always find a new driver on the product information page.
@@ -54,23 +65,28 @@ thumbnail: https://thmb.techidaily.com/3a45d2f58796a5984d88b42acb22f94c8f8721b15
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Scroll down the page and select the correct driver for your operating system.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4) Once downloaded, run the driver file and complete the installation.
 
 5) Restart your PC for the changes to take full effect.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Option 3\. Download the driver automatically
 
  If you don’t have the time, patience, or skills to update your driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -85,16 +101,10 @@ thumbnail: https://thmb.techidaily.com/3a45d2f58796a5984d88b42acb22f94c8f8721b15
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/scan.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Click the **Update** button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/cdw.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 4) Restart your computer for the changes to take effect.
@@ -117,8 +127,6 @@ thumbnail: https://thmb.techidaily.com/3a45d2f58796a5984d88b42acb22f94c8f8721b15
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +134,16 @@ thumbnail: https://thmb.techidaily.com/3a45d2f58796a5984d88b42acb22f94c8f8721b15
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-xsplit-archive-in-depth-game-splits-for-2024/"><u>[Updated] XSplit Archive In-Depth Game Splits for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/benchmarking-lg-gram-pro-vs-macbook-air-surprising-advantages-that-challenge-the-status-quo-pcworldreviews/"><u>Benchmarking LG Gram Pro Vs. MacBook Air: Surprising Advantages That Challenge the Status Quo | PCWorldReviews</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/enhance-system-speed-moving-from-windows-8-to-11/"><u>Enhance System Speed: Moving From Windows 8 To 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-long-lasting-performance-with-our-reliable-laptop-battery-backup-discounted-price-available/"><u>Experience Long-Lasting Performance with Our Reliable Laptop Battery Backup - Discounted Price Available</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/fast-track-speeding-up-vimeo-videos/"><u>Fast Track Speeding Up Vimeo Videos</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/improving-chrome-os-together-a-guide-on-providing-valuable-user-feedback/"><u>Improving Chrome OS Together: A Guide on Providing Valuable User Feedback</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nubia-z50-ultra-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Nubia Z50 Ultra Bootloader Easily</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-ranked-notebooks-unveiled-at-ces-2024-a-comprehensive-guide/"><u>Top-Ranked Notebooks Unveiled at CES 2024: A Comprehensive Guide</u></a></li>
+</ul></div>
 

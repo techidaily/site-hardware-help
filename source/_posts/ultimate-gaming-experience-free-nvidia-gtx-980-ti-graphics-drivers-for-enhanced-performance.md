@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Gaming Experience: Free Nvidia GTX 980 Ti Graphics Drivers for Enhanced Performance"
-date: 2024-08-26T08:00:18.314Z
-updated: 2024-08-27T08:00:18.314Z
+date: 2024-10-31T17:25:38.254Z
+updated: 2024-11-05T17:25:20.380Z
 tags:
   - win11
   - win10
@@ -48,11 +48,22 @@ thumbnail: https://thmb.techidaily.com/23c1e788c86a1fe74b0e576c3c163c7e8cc36d0f7
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c10cc911df20.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. **Restart**   your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Option 2: Update your AMD Vega **drivers**  manually
 
  AMD keeps updating drivers. To get them, you need to go to AMD’s official website, find the drivers corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.
@@ -62,19 +73,26 @@ thumbnail: https://thmb.techidaily.com/23c1e788c86a1fe74b0e576c3c163c7e8cc36d0f7
 1. Go to **[AMD’s official website](https://www.amd.com/en)**  and click the**DRIVERS & SUPPORT** section.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c10cdb049159.jpg)
 2. Under the**or select your product from the list** section, click**Graphics** ,**Radeon™ RX Vega Series** , and**Radeon™ RX Vega Series** . Then select**your model** from the Vega series family and click**SUBMIT** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c10cf88229fe.jpg)
 3. Select**your OS** .  
+
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c10cff3a9435.jpg)
 4. Click**DOWNLOAD** in**the first result** to make sure you download the latest release.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 5. Run the downloaded file to finish the install.
 6. **Restart** your computer for the changes to take effect.
 
@@ -90,8 +108,6 @@ thumbnail: https://thmb.techidaily.com/23c1e788c86a1fe74b0e576c3c163c7e8cc36d0f7
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -99,4 +115,16 @@ thumbnail: https://thmb.techidaily.com/23c1e788c86a1fe74b0e576c3c163c7e8cc36d0f7
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-google-vs-others-a-comparison-in-ar-stickers/"><u>2024 Approved Google Vs. Others A Comparison in AR Stickers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-brother-hl-2270dw-printer-drivers-latest-updates-and-downloads-for-windows/"><u>Free Brother HL-2270DW Printer Drivers: Latest Updates and Downloads for Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-roccat-mouse-software-controller/"><u>Free Download: Roccat Mouse Software Controller</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-lenovo-thinkpad-drivers-with-ease-100-safe-download-and-update-process/"><u>Get the Latest Lenovo ThinkPad Drivers with Ease – 100% Safe Download and Update Process</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Stop Google Chrome from Tracking Your Location On Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-vegas-or-premiere-choosing-the-best-video-editing-software-for-your-needs/"><u>New 2024 Approved Vegas or Premiere? Choosing the Best Video Editing Software for Your Needs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-simple-guide-how-to-update-your-pcs-battery-drivers-on-windows/"><u>Quick & Simple Guide: How To Update Your PC's Battery Drivers On Windows</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-magsafe-accessories-comprehensive-analysis-by-tech-gurus-zdnet/"><u>Top-Rated MagSafe Accessories : Comprehensive Analysis by Tech Gurus - ZDNet</u></a></li>
+</ul></div>
 

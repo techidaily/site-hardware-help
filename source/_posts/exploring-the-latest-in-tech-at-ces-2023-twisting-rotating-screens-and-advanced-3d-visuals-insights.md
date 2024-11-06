@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Latest in Tech at CES 2023: Twisting, Rotating Screens and Advanced 3D Visuals Insights"
-date: 2024-10-26T21:24:41.349Z
-updated: 2024-10-31T05:28:14.764Z
+date: 2024-11-03T17:08:03.298Z
+updated: 2024-11-05T22:25:56.964Z
 tags:
   - laptops
 categories:
@@ -48,6 +48,13 @@ In addition to a new line of [eco-friendly laptops for workers and students](htt
 
 Check the [high-end specs of the Vibe CX34 Chromebook here](https://www.zdnet.com/article/asus-new-vibe-cx34-gaming-chromebook-brings-some-high-end-specs/).
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The year of the smart toilet sensor
 
 Withings
@@ -63,10 +70,10 @@ MSI
 Fans of the [MSI gaming laptop family](https://us.msi.com/), rejoice -- new models of fan favorites like the Stealth, Pulse, Raider, and Vector laptops were announced this morning. You should be able to preorder these gaming powerhouses shortly.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Roku and Hisense offer new models and upgrades
@@ -87,13 +94,6 @@ Check out the article version of the interview [here](https://www.zdnet.com/arti
 
 **Also:** [**What's in the tech bag ZDNET's EIC takes to CES?**](https://www.zdnet.com/article/what-tech-is-in-the-ces-2023-bag-of-zdnets-editor-in-chief/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## HP focuses on sustainability and hybrid work with new laptops
 
 HP
@@ -102,13 +102,6 @@ While HP dropped new Dragonfly Pro chromebooks and laptops, it also debuted a se
 
 Read about [new HP laptops are coming to shoppers' carts here](https://www.zdnet.com/article/laptops-chromebooks-all-in-one-pcs-and-more-take-a-look-at-hps-hybrid-focused-device-portfolio/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Track your feathered friends with the Bird Buddy smart feeder
 
 Bird Buddy
@@ -116,6 +109,13 @@ Bird Buddy
 You're used to indoor appliances with smart features, but now with the Bird Buddy hummingbird feeder, you'll be able to track who's coming to snack at your feeding stations. Don't worry -- while they're not squirrel-proof, they're designed to handle a visit from both feathered and furry friends.
 
 Read more about the [Bird Buddy smart feeders featured this year](https://www.zdnet.com/home-and-office/yard-outdoors/ces-2023-this-new-smart-bird-feeder-can-capture-up-close-images-of-hummingbirds/).
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## HyperX debuts new gaming mice
 
@@ -126,10 +126,10 @@ Gamers can also pick up a new gaming mouse thanks to the announced Pulsefire Has
 Get the details on the [Pulsefire Haste 2 and Clutch Gladiate Xbox controller](https://www.zdnet.com/home-and-office/home-entertainment/hyperxs-ces-2023-lineup-includes-haste-2-mice-clutch-gladiate-xbox-controller/).
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AMD announces Ryzen 7040 series
@@ -178,21 +178,24 @@ If you want the best of the news, you can see the highlights of [Day 1 of CES 20
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-effortlessly-manage-followers-with-top-twitter-cleanup-apps/"><u>[Updated] Effortlessly Manage Followers with Top Twitter Cleanup Apps</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-transforming-mac-screenshot-file-extensions/"><u>[Updated] In 2024, Transforming Mac Screenshot File Extensions</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/7-steps-to-sensational-surprise-revelation/"><u>7 Steps to Sensational Surprise Revelation</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/best-logiteche-gaming-controller-setup-for-windows-os/"><u>Best Logiteche Gaming Controller Setup for Windows OS</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/compatible-driver-installation-guide-for-hps-docking-solutions-thunderbolt-g2-with-120230w-adapters/"><u>Compatible Driver Installation Guide for HP's Docking Solutions: Thunderbolt G2 with 120/230W Adapters</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-driver-downloads-for-lenovo-x1-carbon-perfect-for-windows-10-and-7-users/"><u>Effortless Driver Downloads for Lenovo X1 Carbon - Perfect for Windows 10 & 7 Users</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-assessment-the-capabilities-and-innovations-of-rca-video-doorbell-security-system/"><u>Expert Assessment: The Capabilities and Innovations of RCA Video Doorbell Security System</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-techkey-bluetooth-adapter-up-and-running-on-windows-11-7-and-8/"><u>Get Your Techkey Bluetooth Adapter Up and Running on Windows 11, 7 & 8</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro to others devices? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-reno-8t-5g-phone-without-pin-by-drfone-android/"><u>How to Unlock Oppo Reno 8T 5G Phone without PIN</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-infinix-smart-7-hd-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Infinix Smart 7 HD is off? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/microsoft-fixes-compatible-controller-battery-driver-glitches-for-better-power-management/"><u>Microsoft Fixes Compatible Controller Battery Driver Glitches for Better Power Management</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-vsdc-video-editor-for-mac-not-working-try-these-alternatives-for-2024/"><u>New VSDC Video Editor for Mac Not Working? Try These Alternatives for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/perfect-picture-creation-discover-these-top-5-android-editors-for-2024/"><u>Perfect Picture Creation Discover These Top 5 Android Editors for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/seamless-wifi-driver-updates-for-a-robust-windows-7-experience/"><u>Seamless WiFi Driver Updates for a Robust Windows 7 Experience</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/success-story-implementing-essential-printer-and-scanner-drivers-in-windows-10-os/"><u>Success Story: Implementing Essential Printer & Scanner Drivers in Windows 10 OS</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-resolve-instagram-video-glitches-today/"><u>[Updated] 2024 Approved Resolve Instagram Video Glitches Today</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-scripting-a-powerful-tiktok-outro-statement/"><u>[Updated] 2024 Approved Scripting a Powerful TikTok Outro Statement</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-boost-your-creative-output-mastering-template-centric-video-making-for-tiktok/"><u>[Updated] In 2024, Boost Your Creative Output Mastering Template-Centric Video Making for TikTok</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-from-sideways-to-symmetry-a-guide-to-flipping-images-and-spreading-engagement/"><u>[Updated] In 2024, From Sideways to Symmetry A Guide to Flipping Images and Spreading Engagement</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-the-ultimate-guide-for-enthusiasts-on-screenshotting-with-zd-software/"><u>2024 Approved The Ultimate Guide for Enthusiasts on Screenshotting with ZD Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-guide-install-updated-drivers-for-your-hp-ink-advantage-jet-3700/"><u>Complete Guide: Install Updated Drivers for Your HP Ink Advantage Jet 3700</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-instructions-to-update-the/"><u>Comprehensive Instructions to Update The</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-upgrade-toshiba-laptop-graphics-drivers-on-windows/"><u>Download & Upgrade Toshiba Laptop Graphics Drivers on Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/efficiently-install-updated-hp-officejet-pro-8720-drivers-on-your-windows-pc/"><u>Efficiently Install Updated HP OfficeJet Pro 8720 Drivers on Your Windows PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722957695826-get-the-most-up-to-date-realtek-card-software-for-windows-10-free/"><u>Get the Most Up-to-Date Realtek Card Software for Windows 10 Free!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-logitech-mk70-wireless-mouse-latest-software-version-secure-download-and-update-options/"><u>Get Your Logitech MK70 Wireless Mouse Latest Software Version - Secure Download & Update Options</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/guide-to-overcome-connectivity-issues-in-windows-7-with-driver-fixes/"><u>Guide to Overcome Connectivity Issues in Windows 7 with Driver Fixes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-timing-the-tune-in-ideal-podcast-launches/"><u>In 2024, Timing the Tune-In Ideal Podcast Launches</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-hp-spectre-x360-driver-downloads-for-windows/"><u>Latest HP Spectre X360 Driver Downloads for Windows</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/maximize-your-networking-experience-with-the-asus-ax6000-rt-ax88u-our-comprehensive-review-on-the-latest-smart-wi-fi-6-device/"><u>Maximize Your Networking Experience with The Asus AX6000 RT-AX88U - Our Comprehensive Review on the Latest Smart Wi-Fi 6 Device</u></a></li>
+<li><a href="https://network-issues.techidaily.com/qualcomm-networking-atheros-qca61x4-driver-armistice-in-windows-11/"><u>Qualcomm Networking: Atheros QCA61x4 Driver Armistice in Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/review-of-ugreen-nexode-rg-quick-charger-an-in-depth-analysis-of-an-all-in-one-device-recharger/"><u>Review of Ugreen Nexode RG Quick Charger: An In-Depth Analysis of an All-In-One Device Recharger</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-infinix-hot-40-pro-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Infinix Hot 40 Pro Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-tips-overcoming-realtek-universal-drivers-challenges/"><u>Troubleshooting Tips: Overcoming Realtek Universal Drivers Challenges</u></a></li>
 </ul></div>
 

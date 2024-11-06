@@ -1,7 +1,7 @@
 ---
 title: "Dell Unveils New Lightweight Gaming Laptop: A Perfect Blend of Power and Portability for Professionals | ZDNet"
-date: 2024-10-27T19:02:50.895Z
-updated: 2024-10-31T00:59:00.066Z
+date: 2024-11-02T22:27:11.050Z
+updated: 2024-11-05T19:27:11.150Z
 tags:
   - laptops
 categories:
@@ -71,10 +71,16 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -113,24 +119,16 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-new-dimensions-choose-the-best-vr-headsets-for-metaverse/"><u>[New] Exploring New Dimensions Choose the Best VR Headsets for Metaverse</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-assessment-of-vlc-screen-recording/"><u>[Updated] In 2024, Assessment of VLC Screen Recording</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-backyard-blogs-to-billion-sub-youtube-channel/"><u>[Updated] In 2024, From Backyard Blogs to Billion-Sub YouTube Channel</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-mirrored-moments-with-iphone-photography-expertise/"><u>[Updated] Mirrored Moments with iPhone Photography Expertise</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-transform-images-on-the-fly-the-best-overlay-apps-for-android-and-iphone/"><u>[Updated] Transform Images on the Fly – The Best Overlay Apps for Android & iPhone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-finns-fiscal-flow-income-insights-from-youtube-icon/"><u>2024 Approved Finn's Fiscal Flow Income Insights From YouTube Icon</u></a></li>
-<li><a href="https://games-able.techidaily.com/achieve-discord-mastery-mac-installation-tips/"><u>Achieve Discord Mastery: Mac Installation Tips</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-the-dell-dell-latitude-d3100-laptop-driver-with-simple-steps/"><u>Download and Update the DELL Dell Latitude D3100 Laptop Driver with Simple Steps</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ensure-smooth-functionality-of-your-brother-mfc-j480dw-by-updating-windows-drivers-here/"><u>Ensure Smooth Functionality of Your Brother MFC-J480dw by Updating Windows Drivers Here</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-hp-officejet-pro-8610-drivers-you-need-compatible-with-various-windows-versions/"><u>Get the HP Officejet Pro 8610 Drivers You Need: Compatible with Various Windows Versions!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-validity-fingerprint-sensor-ready-step-by-step-downloadable-drivers-for-instant-setup/"><u>Get Your Validity Fingerprint Sensor Ready: Step-by-Step Downloadable Drivers for Instant Setup</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-download-and-install-current-drivers-for-ryzen-3-2200g/"><u>How to Download and Install Current Drivers for Ryzen 3 2200G</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-fix-and-download-compatible-mouse-software-for-windows-7-systems/"><u>How to Fix and Download Compatible Mouse Software for Windows 7 Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-fix-difficulties-with-csr8510-a10-drivers-under-windows-comprehensive-solutions-unveiled/"><u>How to Fix Difficulties with CSR8510 A10 Drivers Under Windows - Comprehensive Solutions Unveiled</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Infinix Hot 30 5G | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-motorola-moto-g73-5g-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Motorola Moto G73 5G Is Unlocked</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/premier-playwright-gateway/"><u>Premier Playwright Gateway</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-and-easy-guide-to-surface-drivers-downloading-and-updating/"><u>Quick and Easy Guide to Surface Drivers Downloading & Updating</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-installing-kyocera-printer-drivers-on-windows-systems/"><u>The Ultimate Guide to Installing KYOCERA Printer Drivers on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-ways-to-get-the-most-out-of-the-windows-11-taskbar/"><u>7 Ways to Get the Most Out Of the Windows 11 Taskbar</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/brother-hl-c8650cdw-driver-download-fast-and-easy-instructions/"><u>Brother HL-C8650CDW Driver Download - Fast and Easy Instructions</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/capturing-whatsapp-call-data-a-compreayers-guide/"><u>Capturing WhatsApp Call Data A Compreayer's Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-nvidia-quadro-drivers-for-windows-10-compatible-and-optimized/"><u>Download NVIDIA Quadro Drivers for Windows 10: Compatible and Optimized</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-13-pro-max-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 13 Pro Max Without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/improve-internet-connection-speed-update-windows-driver-for-fast-usb-30-ethernet-adapter/"><u>Improve Internet Connection Speed - Update Windows Driver for Fast USB 3.0 Ethernet Adapter</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-push-boundaries-top-windows-10-innovations-in-games-and-apps/"><u>In 2024, Push Boundaries Top Windows 10 Innovations in Games and Apps</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/learn-to-leverage-kinemasters-features-for-maximum-gaming-fun-then-compare/"><u>Learn to Leverage KineMaster's Features for Maximum Gaming Fun, Then Compare</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ralink-rt3290-wireless-card-overcoming-driver-issues-on-windows-11-8-and-7-platforms/"><u>Ralink RT3290 Wireless Card: Overcoming Driver Issues on Windows 11, 8 & 7 Platforms</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-non-existent-basic-printer-driver-in-windows-10-operating-system/"><u>Troubleshooting Non-Existent Basic Printer Driver in Windows 10 Operating System</u></a></li>
 </ul></div>
 

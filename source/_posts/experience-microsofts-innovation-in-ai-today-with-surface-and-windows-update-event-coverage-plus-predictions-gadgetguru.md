@@ -1,7 +1,7 @@
 ---
 title: Experience Microsoft's Innovation in AI Today with Surface and Windows Update - Event Coverage + Predictions | GadgetGuru
-date: 2024-10-29T20:35:24.868Z
-updated: 2024-10-30T19:49:56.728Z
+date: 2024-10-30T23:10:34.475Z
+updated: 2024-11-05T21:44:12.018Z
 tags:
   - laptops
 categories:
@@ -41,16 +41,10 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -66,10 +60,10 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -83,16 +77,10 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -135,18 +123,22 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-setting-up-zoom-like-a-pro/"><u>[New] 2024 Approved Setting Up Zoom Like a Pro</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-step-by-step-guide-to-bordering-instagram-footage/"><u>[New] Step-by-Step Guide to Bordering Instagram Footage</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-optimize-youtube-submission-swift-rendering-and-uploading-methods/"><u>[Updated] Optimize YouTube Submission - Swift Rendering and Uploading Methods</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Infinix Note 30 VIP | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-updated-geforce-rtx-sator-3080-driver-for-optimal-performance-on-win10-8-and-7/"><u>Download Updated GeForce RTX ˈSATOR-3080 Driver for Optimal Performance on Win10, 8 & 7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-download-updated-printer-drivers-for-brother-hl-2280dw-on-all-windows-platforms/"><u>Easy Download: Updated Printer Drivers for Brother HL 2280DW on All Windows Platforms</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/fix-and-update-secure-your-wi-fi-with-the-latest-wireless-driver-software/"><u>Fix & Update: Secure Your Wi-Fi with the Latest Wireless Driver Software</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-download-compatible-hp-spectre-x360-driver-pack-for-windows/"><u>Free Download: Compatible HP Spectre X360 Driver Pack for Windows</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-15-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset iPhone 15 Plus? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Vivo V27 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Vivo Y78t | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/samsungs-latest-gem-the-galaxy-z-fold-6-anticipated-launch-dates-cost-estimates-and-feature-rundown/"><u>Samsung's Latest Gem: The Galaxy Z Fold 6 - Anticipated Launch Dates, Cost Estimates, and Feature Rundown</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-your-dell-g1graphics-card-driver-for-optimal-performance-in-windows/"><u>Update Your Dell G1([Graphics Card] Driver) for Optimal Performance in Windows</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-unleash-creativity-in-youtube-video-editing-with-adobe-premiere/"><u>[New] In 2024, Unleash Creativity in YouTube Video Editing with Adobe Premiere</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-laugh-ledger-the-ultimate-list-of-hilarious-tweets-for-2024/"><u>[New] Laugh Ledger The Ultimate List of Hilarious Tweets for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-top-smartphones-for-seamless-gear-vr-experience-for-2024/"><u>[New] Top Smartphones for Seamless Gear VR Experience for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-master-the-art-of-broadcasting-optimal-cameras-for-your-twitch-channel/"><u>[Updated] 2024 Approved Master the Art of Broadcasting Optimal Cameras For Your Twitch Channel</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-capturing-life-in-high-quality-with-xiaomis-mi-11-screens/"><u>[Updated] Capturing Life in High Quality with Xiaomi's Mi 11 Screens</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-industry-standard-guide-implementing-stopwatches-in-video-streaming-software-for-2024/"><u>[Updated] Industry Standard Guide Implementing Stopwatches in Video Streaming Software for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-honor-100-pro-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Honor 100 Pro to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asus-wifi-driver-downloading-guide-for-improved-connectivity/"><u>ASUS Wifi Driver Downloading Guide for Improved Connectivity</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-guide-securing-samsung-adb-driver-files-online/"><u>Complete Guide: Securing Samsung ADB Driver Files Online</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-installation-guide-intel-ac-7260-dual-band-wifi-card-driver-download/"><u>Effortless Installation Guide: Intel AC 7260 Dual Band WiFi Card Driver Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-epson-v700-printing-software-for-windows-os-versions-7-to-10/"><u>Get the Latest Epson V700 Printing Software for Windows OS Versions 7 to 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-logitech-g510-working-on-any-pc-driver-downloads-for-win-7-10/"><u>Get Your Logitech G510 Working on Any PC – Driver Downloads for Win 7-10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-11-without-apple-password-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 11 Without Apple Password? | Stellar</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-from-apple-iphone-x-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server From Apple iPhone X</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-update-techniques-keeping-your-ati-graphics-card-on-point-with-driver-maintenance/"><u>Latest Update Techniques: Keeping Your ATI Graphics Card on Point with Driver Maintenance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/newest-dolby-certified-audio-drivers-for-windows-users-download-for-windows-11-10-and-81/"><u>Newest Dolby-Certified Audio Drivers for Windows Users: Download for Windows 11, 10 & 8.1</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/speedy-access-to-new-hp-stream-device-drivers-download-now/"><u>Speedy Access to New HP Stream Device Drivers – Download Now!</u></a></li>
 </ul></div>
 

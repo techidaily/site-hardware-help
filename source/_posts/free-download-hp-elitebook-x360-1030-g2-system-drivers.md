@@ -1,7 +1,7 @@
 ---
 title: "Free Download: HP EliteBook X360 1030 G2 System Drivers"
-date: 2024-08-26T08:01:36.516Z
-updated: 2024-08-27T08:01:36.516Z
+date: 2024-11-02T22:37:34.928Z
+updated: 2024-11-05T18:10:59.018Z
 tags:
   - win11
   - win10
@@ -34,8 +34,18 @@ OR
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/download-hp-elitebook-x360-1030-g2-drivers/#op2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Option 1 –** **Download and install the driver manually**
 
  To manually update your HP Stream drivers, you’ll need to go to the manufacturer’s website and search for your device, then download the install it into your computer.
@@ -43,24 +53,27 @@ OR
 1. Go to the [HP Support page](https://support.hp.com/us-en/drivers) and click **Laptop** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/hp1.jpg)
 2. Enter your serial number or click **Let HP detect your product** .  
+
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/hp2.jpg)
 3. Find your product and go to your product page.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 4. Click **All Drivers** , select the driver that you need to download.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/hp.jpg)
 5. Run the downloaded file and follow the on-screen instructions to finish it.
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Option 2 – Automatically update drivers**
 
  If you don’t have time or patience to manually update your HP Stream drivers, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -76,8 +89,12 @@ OR
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/11-2.jpg)
 4. Restart your computer to take effect.
+
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
@@ -93,8 +110,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -102,4 +117,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-podcast-pioneers-effortless-livestream-tips/"><u>[New] 2024 Approved Podcast Pioneers Effortless Livestream Tips</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-paws-and-play-androids-animal-simulator-choices/"><u>[Updated] 2024 Approved Paws and Play Android’s Animal Simulator Choices</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-quickeye-ff-plugins/"><u>2024 Approved QuickEye FF Plugins</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/boost-your-storage-at-zero-extra-charge-embrace-enhanced-tech-with-an-lg-gram-style-laptop-today-exclusive-offer/"><u>Boost Your Storage at Zero Extra Charge: Embrace Enhanced Tech with an LG Gram-Style Laptop Today - Exclusive Offer !</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-the-best-of-both-worlds-premium-screen-quality-with-enduring-performance-on-a-leading-laptop-revealed/"><u>Exploring the Best of Both Worlds – Premium Screen Quality with Enduring Performance on a Leading Laptop, Revealed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-the-lenovo-thinkpad-z1-grove-from-underwhelming-webcam-to-stellar-features-zdnet-review/"><u>Exploring the Lenovo ThinkPad Z1 Grove: From Underwhelming Webcam to Stellar Features | ZDNET Review</u></a></li>
+<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-on-iphone-11-pro-max-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email On iPhone 11 Pro Max? Heres the Best Fixes</u></a></li>
+<li><a href="https://change-location.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hp-driver-inaccessible-windows-1011-trouble/"><u>HP Driver Inaccessible - Windows 10/11 Trouble</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/introducing-the-latest-framework-update-laptop-model-13-with-enhanced-amd-graphics-for-gamers-discover-the-revolutionary-modular-design/"><u>Introducing the Latest Framework Update: Laptop Model 13 with Enhanced AMD Graphics for Gamers - Discover the Revolutionary Modular Design!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/just-one-step-from-perfection-discover-the-impressive-3600-laptop-that-almost-meets-all-your-needs-insights-by-zdnet/"><u>Just One Step From Perfection: Discover the Impressive $3,600 Laptop That Almost Meets All Your Needs - Insights by ZDNet</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-high-performance-hardware-with-tomtechspotlight/"><u>Navigating the World of High-Performance Hardware with TomTechSpotlight</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/scooping-up-the-best-vr-bargain-metas-new-deal-on-512gb-quest-3-makes-waves-this-october-prime-day-zdnet-insights/"><u>Scooping Up the Best VR Bargain? Meta's New Deal on 512GB Quest 3 Makes Waves This October Prime Day | ZDNET Insights</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/sturdy-and-cost-effective-cheetah-arms-tv-rating-guide/"><u>Sturdy & Cost-Effective: Cheetah Arms TV Rating Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/sync-your-sound-instagrams-musical-world-for-2024/"><u>Sync Your Sound Instagram's Musical World for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-17-unbeatable-cyber-monday-bargains-exclusive-discounts-on-televisions-headsets-and-audio-systems-dont-miss-out/"><u>Top 17 Unbeatable Cyber Monday Bargains: Exclusive Discounts on Televisions, Headsets & Audio Systems - Don't Miss Out!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-cyber-week-pc-bargains-your-ultimate-guide-to-savings-in-oct-2024-insights/"><u>Top Cyber Week PC Bargains: Your Ultimate Guide to Savings in Oct. 2024 Insights</u></a></li>
+</ul></div>
 

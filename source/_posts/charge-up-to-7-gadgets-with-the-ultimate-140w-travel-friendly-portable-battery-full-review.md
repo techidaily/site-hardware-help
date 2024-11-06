@@ -1,7 +1,7 @@
 ---
 title: Charge Up to 7 Gadgets with the Ultimate 140W Travel-Friendly Portable Battery - Full Review
-date: 2024-10-25T22:01:57.199Z
-updated: 2024-10-30T22:15:54.539Z
+date: 2024-10-29T19:20:31.683Z
+updated: 2024-11-05T18:04:42.186Z
 tags:
   - laptops
 categories:
@@ -41,10 +41,10 @@ One of the banks I received to review was from the company, Baeseus. Baeseus has
 [ZDNET Recommends Baseus 140W Portable Charger This portable charger packs a 24000mAh battery for plenty of charges. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBaseus-Portable-Charger-24000mAh-Charging%2Fdp%2FB0CH8D2YHZ%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C316244a2-5103-45f4-b113-fe9dcb8b435b%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The specs
@@ -59,10 +59,10 @@ One of the banks I received to review was from the company, Baeseus. Baeseus has
 * 18-month warranty.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## My experience
@@ -90,10 +90,10 @@ One thing to keep in mind is that I charged the tablet with the slower-charged U
 According to the specs, the power bank allows for fast charging of an iPhone 15 Pro Max to 56% and a MacBook Pro 16" laptop to 55% in just 30 minutes. My MacBook Pro is a 13" with an M1 chip and I was able to go from 63-100% in about 20 minutes. Of course, using the fast charge with the MacBook Pro alone consumed about 25% of the charge from the bank. It's pretty easy to conclude that if you're only charging phones, you'll get even more life from a full charge.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -132,17 +132,24 @@ Although it took considerable time to get this bank to a full charge, the result
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-harmonyhook-screen-recordings-a-review/"><u>[Updated] 2024 Approved HarmonyHook Screen Recordings A Review</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-art-of-affiliate-marketing-in-the-instagram-era/"><u>[Updated] 2024 Approved The Art of Affiliate Marketing in the Instagram Era</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-perfecting-live-broadcasts-with-streamlabs-obs-tips/"><u>2024 Approved Perfecting Live Broadcasts with Streamlabs OBS Tips</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comprehensive-review-the-mighty-and-robust-radpower-radcity-5plus-bike-experience/"><u>Comprehensive Review: The Mighty and Robust RadPower RadCity 5+ Bike Experience</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-lenovo-x260-thinkpad-driver-updates-for-windows-10-free-downloads-available-now/"><u>Get the Latest Lenovo X260 (ThinkPad) Driver Updates for Windows 10 - Free Downloads Available Now</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-overcome-pc-crashes-in-pathfinder-wrath-of-the-righteous-solved-and-explained/"><u>How to Overcome PC Crashes in Pathfinder: Wrath of the Righteous - Solved and Explained!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-building-blocks-for-a-thriving-design-career/"><u>In 2024, Building Blocks for a Thriving Design Career</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/jaunt-vr-uncovered-a-comprehensive-look/"><u>Jaunt VR Uncovered A Comprehensive Look</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/seamless-installation-get-the-latest-amd-radeon-rx-6800-xt-drivers-now/"><u>Seamless Installation: Get the Latest AMD Radeon RX 6800 XT Drivers Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-or-install-secure-the-newest-amd-smbus-drivers-in-a-flash/"><u>Update or Install? Secure the Newest AMD SMBus Drivers in a Flash!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-your-epson-l3150-printer-driver-on-windows-version-compatibility-with-11-8-and-7/"><u>Update Your Epson L3150 Printer Driver on Windows - Version Compatibility with 11, 8 and 7</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-realme-c55-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Realme C55 Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-crafting-the-future-revolutionary-tools-for-3d-modelers/"><u>[New] Crafting the Future Revolutionary Tools for 3D Modelers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-end-credits-designed-for-you-free-top-6-suggestions/"><u>[Updated] 2024 Approved End Credits Designed for You Free Top 6 Suggestions</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-choosing-the-right-platform-a-look-at-vimeo-youtube-and-dailymotion-for-2024/"><u>[Updated] Choosing the Right Platform A Look at Vimeo, YouTube & DailyMotion for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-ati-radeon-hd-3450-driver-download-quick-and-effortless-update-process/"><u>AMD ATI Radeon HD 3450 Driver Download: Quick & Effortless Update Process</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asus-usb-bt500-bluetooth-drivers-download-compatible-with-win-11108/"><u>Asus USB-BT500 Bluetooth Drivers: Download Compatible with Win 11/10/8</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/capture-and-broadcast-seamlessly-using-manycam-the-ultimate-choice-for-virtual-camcorder-and-online-recording-solution/"><u>Capture & Broadcast Seamlessly Using ManyCam: The Ultimate Choice for Virtual Camcorder & Online Recording Solution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/concern-is-rising-that-equities-have-become-and-too-expensive-to-be-worth-bunk-in-the-long-run-despite-recent-gains2/"><u>Concern Is Rising that Equities Have Become and Too Expensive to Be Worth Bunk in the Long Run, Despite Recent Gains.[^2]</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-setup-guide-canon-dr-c225-drivers-for-windows-10-8-and-latest-version/"><u>Download & Setup Guide: Canon DR-C225 Drivers for Windows 10, 8 & Latest Version</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/efficiently-join-excel-tables-techniques-for-integrating-multiple-columns/"><u>Efficiently Join Excel Tables: Techniques for Integrating Multiple Columns</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-visual-experience-with-the-newest-intel-iris-xe-windows-10-11-driver-pack/"><u>Enhance Your Visual Experience with the Newest Intel Iris Xe Windows 10, 11 Driver Pack</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975108421-eveo-wireless-adapter-driver-update-secure-it-now-for-free/"><u>EVEO Wireless Adapter Driver Update - Secure It Now for Free</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/gigabyte-z370p-motherboard-ultimate-driver-download/"><u>Gigabyte Z370P Motherboard Ultimate Driver Download</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-tag-someone-on-facebook-3-different-ways/"><u>How to Tag Someone on Facebook: 3 Different Ways</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-earning-at-age-ten-the-extraordinary-financial-rise-of-ryan-kaji/"><u>In 2024, Earning at Age Ten The Extraordinary Financial Rise of Ryan Kaji</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-file-sync-up-the-5-fundamental-ways-for-your-computer-upload/"><u>In 2024, File Sync-Up The 5 Fundamental Ways for Your Computer Upload</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/resolving-corsair-h115i-graphics-card-drivers-on-windows-8-10-and-11/"><u>Resolving Corsair H115i Graphics Card Drivers on Windows 8, 10 & 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-driver-and-setup-tutorial-for-logitech-c27e-webcam-in-windows-11/"><u>Ultimate Driver & Setup Tutorial for Logitech C27e Webcam in Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-installing-logitech-rx250-driver-for-multiple-windows-versions-7-8-and-10/"><u>Ultimate Guide: Installing Logitech RX250 Driver for Multiple Windows Versions (7, 8 & 10)</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-wont-play-mov-videos-how-to-fix-by-aiseesoft-video-converter-play-mov-on-android/"><u>Xiaomi won't play MOV videos, how to fix ?</u></a></li>
 </ul></div>
 

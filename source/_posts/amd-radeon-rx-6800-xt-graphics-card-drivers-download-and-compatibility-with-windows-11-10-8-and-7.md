@@ -1,7 +1,7 @@
 ---
 title: "AMD Radeon RX 6800 XT Graphics Card Drivers: Download & Compatibility with Windows 11, 10, 8, and 7"
-date: 2024-08-26T07:59:59.452Z
-updated: 2024-08-27T07:59:59.452Z
+date: 2024-11-04T16:39:44.506Z
+updated: 2024-11-05T18:10:42.763Z
 tags:
   - win11
   - win10
@@ -48,6 +48,13 @@ OR
 
  It’s always easy and time-saving to update your device drivers with Driver Easy. If you’re familiar with computer hardware, you could also try the manual method below.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Option 2 – Download and install the driver manually
 
  AMD keeps updating its GPU drivers for general improvements, bug fixes and compatibility with the latest games like Cyberpunk 2077 and CoD Black Ops Cold War. To get them manually, simply follow the instruction below:
@@ -56,8 +63,23 @@ OR
 2. Scroll to the search section. Then, select**Graphics** \>**AMD Radeon 6000 Series** \>**AMD Radeon 6900 Series** \>**AMD Radeon RX 6900 XT** , and click**Submit** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-6900xt-1.jpg)
 3. Choose the correct operating system and click the**Download** button next to your desired driver.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-6900xt-2.jpg)
 4. After the download finishes, double-click the file and follow the wizard to install the driver.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Restart your computer and test the powerhouse performance of AMD RX 6900 XT with an up-to-date driver.
 
@@ -75,8 +97,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -84,8 +104,17 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-selecting-perfect-unboxing-tunes-a-guide/"><u>[Updated] 2024 Approved Selecting Perfect Unboxing Tunes A Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-mastering-the-art-of-disabling-youtube-shorts/"><u>[Updated] In 2024, Mastering the Art of Disabling YouTube Shorts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/big-sur-unveiled-your-guide-to-a-flawless-mac-os-shift-for-2024/"><u>Big Sur Unveiled Your Guide to a Flawless Mac OS Shift for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/getting-the-most-out-of-sound-blaster-z-seamless-driver-download-for-windows-10-users/"><u>Getting the Most Out of Sound Blaster Z: Seamless Driver Download for Windows 10 Users</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-start-seamless-downloading-of-elgatos-driving-software/"><u>Quick-Start: Seamless Downloading of Elgato's Driving Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-infinite-load-screen-problems-in-valorant-a-complete-guide/"><u>Resolving the Infinite Load Screen Problems in VALORANT - A Complete Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-easy-linksys-ae1200-driver-download-for-immediate-use/"><u>Step-by-Step: Easy Linksys AE1200 Driver Download for Immediate Use</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/top-10-best-free-online-platforms-for-watching-movies-without-hesitation/"><u>Top 10 Best Free Online Platforms for Watching Movies Without Hesitation</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/western-digital-ses-usb-drive-driver-installation-for-newer-pcs-2011-onwards/"><u>Western Digital SES USB Drive Driver Installation for Newer PCs (2011 Onwards)</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

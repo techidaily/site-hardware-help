@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Scoring Amazing Game Discounts on Prime Day Oct '24 - TechRadar
-date: 2024-10-25T07:02:32.617Z
-updated: 2024-10-31T06:16:21.669Z
+date: 2024-11-02T18:00:58.457Z
+updated: 2024-11-05T21:45:53.283Z
 tags:
   - laptops
 categories:
@@ -80,13 +80,6 @@ The latest version of the Nintendo Switch features a 7-inch OLED screen for bett
 
 [View now at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FNintendo-Switch-OLED-Sw-Oled-Model-w-White-Joy-Con-Powever-Bundle-Import-Edition%2F3835757820%3Fathbdg%3DL2000&subId1=zd-__COM_CLICK_ID__-dtp) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Prime Day 2024 PlayStation 5 deals still available
 
 ZDNET
@@ -101,13 +94,6 @@ ZDNET
 * [Victrix Pro FS-12 fight stick for $320 (save $70)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FVictrix-FS-12-Arcade-Fight-PlayStation-5%2Fdp%2FB0B3VP2M12%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf918a468-446d-4e3d-81e3-f78d869a7fb5%7Cdtp&dtb=1): A pro-level arcade stick for serious fighting game enthusiasts and eSports professionals.
 * [Corsair Void RGB Elite wireless headset for $70 (save $40)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCorsair-Wireless-Premium-Headset-Surround%2Fdp%2FB07XF2TGGK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf918a468-446d-4e3d-81e3-f78d869a7fb5%7Cdtp&dtb=1): This gaming headset features 7.1CH surround sound and an integrated mic certified for use with Discord voice chat.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Prime Day Xbox Series X|S deals still available
 
 * [Redfall standard edition for $20 (save $50 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRedfall-Standard-Xbox-X%2Fdp%2FB0BT3DSGSQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf918a468-446d-4e3d-81e3-f78d869a7fb5%7Cdtp&dtb=1): You can use an arsenal of weapons, traps, and gadgets to hunt the hordes of vampires that have taken over Boston.
@@ -118,16 +104,23 @@ ZDNET
 * [Tropico 6 next-gen edition for $25 (save $35)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FTropico-6-Next-Gen-Xbox-X%2Fdp%2FB09RNC89RV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf918a468-446d-4e3d-81e3-f78d869a7fb5%7Cdtp&dtb=1): This version of Tropico 6 includes the base game plus a digital soundtrack, new character skins, new transportation and infrastructure, and The Llama of Wall Street DLC.
 * [Razer Kaira Pro wireless headset for $90 (save $50)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRazer-Kaira-Wireless-Gaming-Headset-Xbox%2Fdp%2FB08LRV49W8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf918a468-446d-4e3d-81e3-f78d869a7fb5%7Cdtp&dtb=1): A wireless gaming headset officially licensed for use with the Xbox Series X|S.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Prime Day 2024 Nintendo Switch deals still available
 
 * [Lexar 1TB microSDXC for $74 (save $58)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLexar-Compatible-Nintendo-Switch-Smartphones-LMSPLAY001T-BNNNU%2Fdp%2FB08T8LL7G8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf918a468-446d-4e3d-81e3-f78d869a7fb5%7Cdtp&dtb=1): Instantly add 1TB of storage to your Nintendo Switch for downloading large games and organizing your digital library.
 * [FYY Switch game case for $8 (save $5)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSwitch-Nintendo-Holder-Portable-Silicone-Lining%2Fdp%2FB0B6GTJLSG%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf918a468-446d-4e3d-81e3-f78d869a7fb5%7Cdtp&dtb=1): This case can hold up to 24 Switch games and 48 microSD cards.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Prime Day 2024 PC gaming deals still available
@@ -179,18 +172,25 @@ Taylor Clemons/Arcade1Up/Midway/ZDNET
 * [Lenovo Legion 16 gaming laptop for $1,100 (save $1,120 at Walmart)](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLenovo-Legion-16-Gaming-Laptop-AMD-Ryzen-7-6800H-NVIDIA-GeForce-RTX-3070-8-GB-1TB-SSD-Windows-11-Home-82RG0046US%2F1917115835&subId1=zd-__COM_CLICK_ID__-dtp): This gaming laptop from Lenovo features a 16-inch, 2560 x 1600 resolution display as well as a 14-hour battery life and an Nvidia GeForce RTX 3070 graphics card.
 * [LG UltraGear 39-inch OLED curved monitor for $900 (save $600 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flg-ultragear-39-oled-curved-wqhd-240hz-0-03ms-freesync-and-nvidia-g-sync-compatible-gaming-monitor-with-hdr400-black%2F6575398.p%3FskuId%3D6575398&publisher%5Fslug=zdnet&article%5Fname=the%2070%20best%20prime%20day%202024%20gaming%20deals%20still%20available&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-amazon-prime-day-gaming-deals-still-available%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This gaming monitor features a refresh rate of 240Hz, a 0.03ms response time, and support for both Nvidia G-Sync and AMD FreeSync VRR.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQs
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### When was Amazon Prime Day 2024?
 
 Amazon's biggest sales event of the year, Prime Day 2024 -- which ended yesterday - -delivered major discounts across various product categories, including phones, laptops, TVs, audio, and more. While the best deals were available for Prime members only, sellers often mark down products for non-Prime members to take advantage of. The event officiallytook place on July 16 and July 17.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Are gaming devices and accessories really cheaper on Prime Day?
 
@@ -238,20 +238,18 @@ Prime Day is Amazon's most popular flagship seasonal savings event, typically in
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-silent-to-clear-the-ultimate-guide-to-professional-audio-recording-for-2024/"><u>[Updated] Silent to Clear The Ultimate Guide to Professional Audio Recording for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/brother-hl2280dw-driver-software-download-supports-win11-win10-win8-and-win7/"><u>Brother HL2280DW Driver Software Download - Supports Win11, Win10, Win8 & Win7</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-windows-11-nvidia-cp-not-opening-problem/"><u>Fixing Windows 11: Nvidia CP Not Opening Problem</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-ricoh-mp-c3003-printing-solutions-driver-downloads-available-now/"><u>Get Your Ricoh MP C3003 Printing Solutions - Driver Downloads Available Now!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-repair-and-restore-your-compromised-windows-store-cache/"><u>How to Repair and Restore Your Compromised Windows Store Cache</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Motorola Edge 2023? | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-essentials-of-narrowing-virtual-room-spaces/"><u>In 2024, The Essentials of Narrowing Virtual Room Spaces</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/keep-your-canon-mx490-running-smoothly-with-the-newest-windows-compatible-drivers-heres-how/"><u>Keep Your Canon MX490 Running Smoothly with the Newest Windows-Compatible Drivers - Here's How!</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/prime-video-game-editors-simplified-top-picks-for-newbies-for-2024/"><u>Prime Video Game Editors Simplified Top Picks for Newbies for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-itel-s23-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Itel S23 | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/solution-the-first-step-is-to-obtain-cultures-from-the-infected-site-and-send-them-for-antibiotic-sensitivity-testing-before-initiating-treatment-this-will-288/"><u>Solution: The First Step Is to Obtain Cultures From the Infected Site and Send Them for Antibiotic Sensitivity Testing Before Initiating Treatment. This Will Guide Targeted Therapy Based on the Specific Resistance Patterns of the Bacteria Present</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/steal-the-show-top-steelseries-drivers-and-settings-for-windows-11-get-it-here/"><u>Steal the Show: Top SteelSeries Drivers & Settings for Windows 11 - Get It Here</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-erasing-your-conversations-with-chatgpt/"><u>Step-by-Step Guide: Erasing Your Conversations with ChatGPT</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transformative-file-conversion-your-quick-srt-to-text-txt-guide-for-2024/"><u>Transformative File Conversion Your Quick SRT to Text (TXT) Guide for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/upgrade-to-the-most-recent-tp-link-80211ac-wifi-driver-compatible-with-windows-versions-1187/"><u>Upgrade to the Most Recent TP-Link 802.11Ac WiFi Driver - Compatible with Windows Versions 11/8/7</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-how-to-locate-your-youtube-fanbase/"><u>[New] How to Locate Your YouTube Fanbase</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-photographic-soundtracking-online/"><u>[New] Photographic Soundtracking Online</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-10-chucklesome-tiktok-riddles/"><u>[Updated] 10 Chucklesome TikTok Riddles</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unlocking-creativity-in-youtube-video-splitting-for-2024/"><u>[Updated] Unlocking Creativity in YouTube Video Splitting for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-guide-forcibly-removing-stubborn-folders-in-windows-11-with-revo-uninstaller/"><u>Complete Guide: Forcibly Removing Stubborn Folders in Windows 11 with Revo Uninstaller</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-hp-designjet-t620-printer-software-and-drivers/"><u>Free Download: HP Designjet T620 Printer Software & Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-official-asus-dvd-drivers-compatible-with-all-models/"><u>Free Download: Official ASUS DVD Drivers - Compatible with All Models</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/startup-to-stardom-with-youtube-seo-basics/"><u>From Startup to Stardom with YouTube SEO Basics</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-version-of-huion-drivers-for-your-windows-computer-easily/"><u>Get the Latest Version of Huion Drivers for Your Windows Computer Easily</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-zebra-printer-driver-software-for-your-windows-pc-here/"><u>Get the Newest Zebra Printer Driver Software for Your Windows PC Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-elitebook-840-g3-driver-downloads-how-to-easily-update-your-system/"><u>HP EliteBook 840 G3 Driver Downloads: How to Easily Update Your System</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722973597595-quick-install-download-hp-officejet-5740-printer-drivers-today/"><u>Quick Install: Download HP OfficeJet 5740 Printer Drivers Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-walkthrough-to-set-up-new-wd-ses-device-drivers-after-2011/"><u>Ultimate Walkthrough to Set Up New WD SES Device Drivers After 2011</u></a></li>
 </ul></div>
 

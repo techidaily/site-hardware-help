@@ -1,7 +1,7 @@
 ---
 title: "Affordable Alternative to MacBook Air: A Highly-Rated Windows Laptop with Equal Capabilities | ZDNet"
-date: 2024-10-24T01:07:51.973Z
-updated: 2024-10-30T16:38:33.448Z
+date: 2024-11-01T22:41:33.384Z
+updated: 2024-11-05T21:05:15.214Z
 tags:
   - laptops
 categories:
@@ -81,10 +81,10 @@ I have been integrating Copilot into my workflow as I learn more about how to us
 The Surface's battery life has been fantastic, too. I get over 15 hours of use from a single charge, and it has yet to fully deplete to zero by the time I call a benchmarking test. The combination of smart design with meaningful trade-offs is what gives this laptop its marathon battery life, and opens it up for a variety of use cases from a creator or productivity perspective. Basically, this is a laptop you can work remotely with for the whole day without a charger.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -94,10 +94,10 @@ I mentioned this before, but the direction that Microsoft took with this laptop 
 The Surface Laptop is a flagship mid-range device that's well-rounded enough to take on a variety of roles. Despite a few trade-offs, it's everything it should be for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -134,18 +134,16 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-ultimate-guide-to-optimizing-video-quality-in-mobile-broadcasts-for-2024/"><u>[New] Ultimate Guide to Optimizing Video Quality in Mobile Broadcasts for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unique-book-trail-showcases/"><u>[New] Unique Book Trail Showcases</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-hp-laserjet-printer-software-and-drivers-for-windows-7-users-at-no-cost/"><u>Download HP LaserJet Printer Software & Drivers for Windows 7 Users at No Cost</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/exploring-the-leading-non-microsoft-office-solutions-of-2024/"><u>Exploring the Leading Non-Microsoft Office Solutions of 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/fine-tuning-your-obs-live-feeds-for-facebook-audience/"><u>Fine-Tuning Your OBS Live Feeds for Facebook Audience</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-usb-30-driver-for-your-windows-operating-system-here/"><u>Get the Newest USB 3.0 Driver for Your Windows Operating System Here</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-konica-minolta-printing-driver-for-compatible-windows-versions-11-10-8-7/"><u>Get Your Konica Minolta Printing Driver for Compatible Windows Versions (11, 10, 8, 7)</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/hit-the-battlefields-pc-release-of-god-of-war-fps-now-available/"><u>Hit the Battlefields: PC Release of God of War FPS Now Available</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722976406740-latest-brother-mfc-9130cw-drivers-for-windows-get-them-here/"><u>Latest Brother MFC-9130CW Drivers for Windows: Get Them Here!</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-the-solution-for-when-witcher-3-wild-hunt-fails-to-open/"><u>Mastering the Solution for When Witcher 3: Wild Hunt Fails to Open</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/overcoming-bluetooth-challenges-in-windows-10-your-step-by-step-manual/"><u>Overcoming Bluetooth Challenges in Windows 10 - Your Step-by-Step Manual</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-and-resolving-the-401-forbidden-issue-on-your-site/"><u>Troubleshooting and Resolving the 401 Forbidden Issue on Your Site</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722960599880-updated-hp-scanjet-drivers-available-compatible-with-windows-11-8-and-7-get-your-download-here/"><u>Updated HP Scanjet Drivers Available: Compatible with Windows 11, 8 & 7 - Get Your Download Here</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/astering-channel-promotion-youtubes-featured-channels-guide/"><u>[New] Mastering Channel Promotion YouTube's Featured Channels Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-expert-insights-into-youtube-thumbnail-design/"><u>[Updated] 2024 Approved Expert Insights Into YouTube Thumbnail Design</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-lenovo-x1-carbon-drivers-compatible-with-windows-11-and-7-simple-steps/"><u>Download Lenovo X1 Carbon Drivers: Compatible with Windows 11 and 7 - Simple Steps</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722971414831-get-your-thrustmaster-t300-driving-experience-installers-for-windows-10-and-11-available-now/"><u>Get Your Thrustmaster T300 Driving Experience: Installers for Windows 10 & 11 Available Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-install-logitech-pro-gaming-wheels-on-windows-7810-drivers-and-setup-guide/"><u>How to Install Logitech Pro Gaming Wheels on Windows 7/8/10 - Drivers and Setup Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-screen-casting-features-in-vlc-examined/"><u>In 2024, Screen Casting Features in VLC Examined</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-guide-to-sharing-audio-with-youtube/"><u>In 2024, The Ultimate Guide to Sharing Audio with YouTube</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-windows-updates-enhance-performance-with-new-usb-30-ethernet-driver/"><u>Latest Windows Updates: Enhance Performance with New USB 3.0 Ethernet Driver</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-fix-for-crafters-download-essential-arduino-drivers-compatible-with-your-windows-system/"><u>Quick Fix for Crafters: Download Essential Arduino Drivers Compatible with Your Windows System</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/solving-the-mystery-of-minecrafts-error-code-1-in-windows/"><u>Solving the Mystery of Minecraft's Error Code 1 in Windows</u></a></li>
 </ul></div>
 
