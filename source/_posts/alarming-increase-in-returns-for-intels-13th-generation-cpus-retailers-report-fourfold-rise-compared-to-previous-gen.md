@@ -1,7 +1,7 @@
 ---
 title: Alarming Increase in Returns for Intel's 13Th Generation CPUs - Retailers Report Fourfold Rise Compared to Previous Gen
-date: 2024-08-19T12:34:16.514Z
-updated: 2024-08-20T12:34:16.514Z
+date: 2024-11-13T20:05:46.337Z
+updated: 2024-11-15T22:56:35.737Z
 tags:
   - cpu
 categories:
@@ -39,6 +39,13 @@ Intel has[announced that it has found the root](https://community.intel.com/t5/P
 
  Intel has not issued a recall of its processors; sources close to the matter tell us that isn't expected. We have both of Intel's statements below.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Intel statement on 13th- and 14th-Gen instability
 
  _"Based on extensive analysis of Intel Core 13th/14th Gen desktop processors returned to us due to instability issues, we have determined that elevated operating voltage is causing instability issues in some 13th/14th Gen desktop processors. Our analysis of returned processors confirms that the elevated operating voltage is stemming from a microcode algorithm resulting in incorrect voltage requests to the processor."_
@@ -48,9 +55,12 @@ Intel has[announced that it has found the root](https://community.intel.com/t5/P
  _"Intel is committed to making this right with our customers, and we continue asking any customers currently experiencing instability issues on their Intel Core 13th/14th Gen desktop processors reach out to Intel Customer Support for further assistance."_
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Intel statement on via oxidation
 
 **Short answer:** We can confirm there was a via Oxidation manufacturing issue (addressed back in 2023) but it is not related to the instability issue.
@@ -59,14 +69,11 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  _For the Instability issue, we are delivering a microcode patch which addresses exposure to elevated voltages which is a key element of the Instability issue. We are currently validating the microcode patch to ensure the instability issues for 13th/14th Gen are addressed. -_ Intel representative[via Reddit](https://www.reddit.com/r/intel/comments/1e9mf04/comment/lefz09c/) .
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -75,4 +82,18 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-help.techidaily.com/a-week-of-wonders-on-a-split-ergonomic-keyboard-an-insightful-tale-from-zdnet-perspective/"><u>A Week of Wonders on a Split Ergonomic Keyboard - An Insightful Tale From ZDNET Perspective</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/blueprinting-breathtaking-film-prologues-for-2024/"><u>Blueprinting Breathtaking Film Prologues for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/everything-to-know-about-apple-id-password-requirements-for-apple-iphone-15-pro-max-by-drfone-ios/"><u>Everything To Know About Apple ID Password Requirements For Apple iPhone 15 Pro Max</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/find-the-best-gaming-discounts-on-prime-day-oct-2024-expert-insights-and-deals-zdnet/"><u>Find the Best Gaming Discounts on Prime Day Oct 2024: Expert Insights and Deals | ZDNET</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-hdcp-error-on-your-screen-solutions-explored-and-implemented/"><u>Fixing HDCP Error on Your Screen: Solutions Explored and Implemented</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-display-apple-iphone-12-screen-on-pc-easily-drfone-by-drfone-ios/"><u>How to Display Apple iPhone 12 Screen on PC Easily? | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-best-camera-apps-to-shoot-and-record-videos-on-iphone-and-andriod-phones/"><u>In 2024, Best Camera Apps to Shoot and Record Videos on iPhone and Andriod Phones</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/innovative-dual-function-the-lenovo-convertible-laptoptablet-that-impresses-in-testing-insights-from-zdnet/"><u>Innovative Dual-Function: The Lenovo Convertible Laptop/Tablet That Impresses in Testing - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/power-users-dream-top-2-standout-features-of-the-new-lenovo-laptop-review/"><u>Power User's Dream: Top 2 Standout Features of the New Lenovo Laptop Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-october-2024-pre-black-friday-gamer-bargains-where-to-find-them/"><u>Top October 2024 Pre-Black Friday Gamer Bargains: Where to Find Them</u></a></li>
+</ul></div>
 

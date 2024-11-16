@@ -1,7 +1,7 @@
 ---
 title: How to Install or Upgrade Your PC's PL2303 Drivers on Windows
-date: 2024-08-26T07:58:42.552Z
-updated: 2024-08-27T07:58:42.552Z
+date: 2024-11-08T17:48:14.334Z
+updated: 2024-11-16T01:55:15.688Z
 tags:
   - win11
   - win10
@@ -45,8 +45,12 @@ Updating your printer driver can:
 2. [**Update my Epson printer driver automatically (Recommended)**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 1: Update my Epson printer driver manually
 
 **A WORD OF WARNING** : Downloading the wrong driver or installing it incorrectly will compromise our PC’s stability and even cause the whole system to crash. So please proceed at your own peril. If you’re not comfortable playing around with drivers, or worrying about any risks in the process, jump to [**Method 2**](https://tools.techidaily.com/drivereasy/download/) .
@@ -55,13 +59,7 @@ Before heading to download the latest driver package from**Epson**‘s official 
 
 1. On your keyboard, press   **the Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and **R** at the same time. Then copy & paste **devmgmt.msc**  into the box and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Double-click on **Printer queues** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1a5b86a48f2.jpg)
 3. Right-click on**your Epson printer**  and click **Uninstall device** .
 
@@ -71,16 +69,23 @@ Before heading to download the latest driver package from**Epson**‘s official 
 2. Enter**the model of your Epson printer** and click**Search** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb8391737cc4.png)
 3. Click**the link for your product** among the search results.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Make sure**the detected Operating System is correct** . Then click**Drivers and Utilities Combo Package** \>**Download** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb839f55c7e4.jpg)
 5. Double-click on the downloaded file and follow the instructions on the wizard to finish the install.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. **Restart** your computer for the changes to take effect.
 
 ---
@@ -97,12 +102,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2b09636ab48.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb83b9f0aa46.jpg)  
 You can also click **Update**  to do it for free if you like, but it’s partly manual.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. **Restart** your computer for the changes to take effect.
 
 ---
@@ -117,8 +134,6 @@ You can also click **Update**  to do it for free if you like, but it’s partly 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +141,17 @@ You can also click **Update**  to do it for free if you like, but it’s partly 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-ideal-devices-for-capturing-stellar-videos-on-the-move/"><u>[New] Ideal Devices for Capturing Stellar Videos on the Move</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-aesthetic-instagram-panoramas-for-2024/"><u>[Updated] Aesthetic Instagram Panoramas for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/gaming-and-streaming-beast-unveiled-a-detailed-look-at-the-nighthawk-rax120/"><u>Gaming & Streaming Beast Unveiled: A Detailed Look at the Nighthawk RAX120</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hybrid-work-made-easy-uncover-lenovos-finest-laptop-at-an-exceptional-1000-markdown-expert-insights/"><u>Hybrid Work Made Easy: Uncover Lenovo's Finest Laptop at an Exceptional $1,000 Markdown | Expert Insights</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-honor-play-40c-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Honor Play 40C to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-metaverse-engagement-examples/"><u>In 2024, In-Depth Metaverse Engagement Examples</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-to-do-if-your-iphone-xs-max-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>In 2024, What to do if your iPhone XS Max has bad ESN or blacklisted IMEI?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/reconfiguring-your-macs-command-key-a-step-by-step-guide/"><u>Reconfiguring Your Mac's Command Key: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ideal-selection-of-6-ssds-to-boost-your-console-and-pc-game-experience-explore-with-zdnet/"><u>The Ideal Selection of 6 SSDs to Boost Your Console and PC Game Experience | Explore with ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-perfect-blend-of-power-and-mobility-dells-new-ultraportable-gaming-laptops-take-to-work-with-ease-zdnet-insights/"><u>The Perfect Blend of Power & Mobility: Dell's New Ultraportable Gaming Laptops Take to Work with Ease | ZDNet Insights</u></a></li>
+</ul></div>
 

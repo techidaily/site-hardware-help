@@ -1,7 +1,7 @@
 ---
 title: "Must-Have 2024 MacBook Gadgets: Highly Recommended Picks From ZDNet's Specialists"
-date: 2024-10-31T18:01:30.388Z
-updated: 2024-11-05T16:52:02.301Z
+date: 2024-11-13T02:21:18.877Z
+updated: 2024-11-16T00:41:00.109Z
 tags:
   - laptops
 categories:
@@ -44,6 +44,13 @@ My original plan was to use the new Surface Pro as a secondary mobile device, wh
 
 How did this happen? Let's dive in.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The experience is familiar
 
 This laptop is a radical shift in the Windows ecosystem, but it doesn't feel all that different from its predecessors. In fact, it's almost indistinguishable from the Intel-powered Surface Pro 9 that's sitting on my desk alongside it. The slim bezels around the displays of the two devices are nearly the same dimensions. The new device, at 1.9 pounds, is the same weight as the Surface Pro 9 and is a few ounces heavier than the Surface Pro X, although that's not something you really notice until you have to lug it through an airport as you rush to make a connection. The Type Cover from the older Surface Pro clicked into place on the Surface Pro 11, exactly as expected.
@@ -57,16 +64,10 @@ The big difference is that this next-gen device is extremely cool and quiet. Aft
 Of course, this new device also embodies everything you like and/or dislike about the Surface Pro design. If you're expecting a radical shift that will suddenly make the kickstand comfortable in your lap, I'm sorry to report you will be disappointed. If, however, you're comfortable with that design, you'll find this iteration completely familiar.
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Battery life is a huge win
@@ -84,13 +85,6 @@ In real-world usage, the Surface Pro 11 battery lasts twice as long as an equiva
 Screenshot by Ed Bott/ZDNET
 
 At an average of more than 10 hours of actual, observed battery life, this Surface Pro is able to run for well over twice as long as my Intel-based Surface Pro 9\. That's also at least as long as the [M2 MacBook Air](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/) in my office.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Compatibility is good but not perfect
 
@@ -129,10 +123,10 @@ I had no hardware problems to speak of. My 10-year-old Logitech C930 webcam just
 Your mileage may vary, of course, especially if you have exotic hardware like video capture cards and ancient multifunction printers that require custom driver packs and won't work with the in-box Windows drivers. Thankfully, I have none of those.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The AI story is incomplete
@@ -156,10 +150,10 @@ The real question is whether those features are powerful enough to make you swit
 Even if you avoid the AI features completely, though, there's more than enough power in this [budget PC](https://www.zdnet.com/article/best-laptops-under-500/). Plus, as long as your apps and hardware requirements aren't exotic, you'll appreciate its cool, quiet operation.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -206,21 +200,22 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-eco-filmmaking-simplified-youtubes-green-screen-wonders-for-2024/"><u>[New] Eco-Filmmaking Simplified YouTube's Green Screen Wonders for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-optimizing-tiktok-video-batch-downloads/"><u>[New] Optimizing TikTok Video Batch Downloads</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-expert-secrets-for-effective-ipad-sound-capture/"><u>[Updated] Expert Secrets for Effective iPad Sound Capture</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/boost-your-pc-editing-game-with-inshot-techniques/"><u>Boost Your PC Editing Game with Inshot Techniques</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723009735557-crusader-kings-ii-not-starting-here-are-the-solutions/"><u>Crusader Kings II Not Starting? Here Are The Solutions!</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/how-to-cut-off-and-terminate-your-tiktok-identity/"><u>How to Cut Off and Terminate Your TikTok Identity</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-realme-11-pro-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Realme 11 Pro Safely | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/non-competitive-front-row-fun-ranking-the-top-ten-for-2024/"><u>Non-Competitive Front Row Fun Ranking the Top Ten for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-beaver-state-strikes-back-how-oregons-new-law-challenges-restrictive-manufacturer-policies-like-apples-parts-lockdown/"><u>The Beaver State Strikes Back: How Oregon's New Law Challenges Restrictive Manufacturer Policies Like Apple's Parts Lockdown</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-taptap-revolutionizing-the-quest-for-premium-mobile-game-experiences/"><u>Unveiling TapTap: Revolutionizing the Quest for Premium Mobile Game Experiences</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-the-worlds-five-most-eyesore-mobile-phones-an-exploration-into-design-failures-throughout-history/"><u>Unveiling the World's Five Most Eyesore Mobile Phones: An Exploration Into Design Failures Throughout History</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/upcycling-electronics-how-a-discarded-tablet-can-benefit-animal-companions/"><u>Upcycling Electronics: How a Discarded Tablet Can Benefit Animal Companions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/usb-c-speed-comparison-how-fast-is-usb-c-gen-31-compared-to-usb-c-gen-20-for-android-devices/"><u>USB-C Speed Comparison: How Fast Is USB-C Gen 3.1 Compared to USB-C Gen 2.0 for Android Devices?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/value-comparison-samsung-galaxy-tab-s9-fe-vs-apples-ipad-10gen-who-wins-the-middle-market/"><u>Value Comparison: Samsung Galaxy Tab S9 FE Vs. Apple's iPad 10Gen - Who Wins the Middle Market?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/why-and-how-to-duplicate-mobile-apps-on-your-android-device-the-complete-walkthrough/"><u>Why and How to Duplicate Mobile Apps on Your Android Device – The Complete Walkthrough</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/why-choosing-samsung-dex-over-a-desktop-makes-perfect-sense-uncover-the-top-10-benefits/"><u>Why Choosing Samsung DeX Over a Desktop Makes Perfect Sense: Uncover the Top 10 Benefits!</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-essential-tips-for-storing-snapchat-videos-on-devices/"><u>[New] In 2024, Essential Tips for Storing Snapchat Videos on Devices</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/conquer-communication-with-unbeatable-linguistic-savings-this-year/"><u>Conquer Communication with Unbeatable Linguistic Savings This Year</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/deterrence-theory-plays-a-critical-role-in-maintainebeing-both-a-proliferation-catalyst-and-a-hindrance-to-disarmament-efforts/"><u>Deterrence Theory Plays a Critical Role in Maintainebeing Both a Proliferation Catalyst and a Hindrance to Disarmament Efforts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722978490565-download-intel-processor-drivers-fast-and-simple-get-them-now/"><u>Download Intel Processor Drivers Fast and Simple - Get Them Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-to-install-validity-fingerprint-sensor-software-download-secure-your-device-now/"><u>Easy-to-Install Validity Fingerprint Sensor Software Download – Secure Your Device Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722969067240-get-the-latest-creative-soundblaster-driver-software-on-windows-11-heres-how/"><u>Get the Latest Creative SoundBlaster Driver Software on Windows 11 – Here's How!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-download-updated-nvidia-quadro-rtx-8000-drivers-for-windows-users-on-win-10-8-or-7-platforms/"><u>How to Download Updated Nvidia Quadro RTX 8000 Drivers for Windows Users on Win 10, 8 or 7 Platforms</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-the-newest-canon-mg322-graphics-driver-from-official-site/"><u>How to Get the Newest Canon MG3#22 Graphics Driver From Official Site</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, List of Pokémon Go Joysticks On Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-mastering-instagram-stardom-in-just-nine-easy-tips/"><u>In 2024, Mastering Instagram Stardom in Just Nine Easy Tips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/maximize-graphics-improve-gameplay-with-a-refreshed-asus-radeon-rx-970-pro/"><u>Maximize Graphics: Improve Gameplay with a Refreshed Asus Radeon RX 970 PRO</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-green-screen-magic-in-fcp-x-a-beginners-guide-to-chroma-keying-for-2024/"><u>New Green Screen Magic in FCP X A Beginners Guide to Chroma Keying for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/outperforming-the-finance-market-elevate-success-using-abbyy-strategies/"><u>Outperforming the Finance Market: Elevate Success Using ABBYY Strategies</u></a></li>
+<li><a href="https://fox-http.techidaily.com/sleepy-screenplays-for-nights-end-for-2024/"><u>Sleepy Screenplays for Night's End for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/steelseries-gaming-mice-software-and-driver-download-instructions/"><u>SteelSeries Gaming Mice: Software and Driver Download Instructions</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-wireless-gaming-headsets-for-your-nintendo-switch-the-2024-guide-to-choosing-the-right-pair/"><u>Ultimate Wireless Gaming Headsets for Your Nintendo Switch: The 2024 Guide to Choosing the Right Pair</u></a></li>
+<li><a href="https://common-error.techidaily.com/wi-fi-not-working-learn-how-to-restore-your-lost-internet-connection-here/"><u>Wi-Fi Not Working? Learn How To Restore Your Lost Internet Connection Here</u></a></li>
 </ul></div>
 

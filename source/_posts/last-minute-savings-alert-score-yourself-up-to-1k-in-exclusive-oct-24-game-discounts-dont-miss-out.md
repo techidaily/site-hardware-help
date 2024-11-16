@@ -1,7 +1,7 @@
 ---
 title: Last-Minute Savings Alert! Score Yourself Up to $1K in Exclusive Oct '24 Game Discounts - Don't Miss Out!
-date: 2024-10-31T16:37:41.682Z
-updated: 2024-11-05T17:53:59.409Z
+date: 2024-11-15T00:26:09.678Z
+updated: 2024-11-15T17:05:40.756Z
 tags:
   - laptops
 categories:
@@ -118,13 +118,6 @@ ZDNET
 * [Logitech G F710 wireless gamepad for $30 (save $20)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLogitech-Wireless-Nano-Receiver-Controller-Vibration%2Fdp%2FB0041RR0TW%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C71abd3e2-5fd4-4e3f-a2d2-b3d583157b7a%7Cdtp&dtb=1): A basic gamepad for PC gaming that uses 2.4GHz connectivity and dual-motor vibration so you can feel feedback for every in-game action like punches in fighting games or crashes in racing sims.
 * [AMD Ryzen 9 5900X for $215 (save $355)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAMD-Ryzen-5900X-24-Thread-Processor%2Fdp%2FB08164VTWH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C71abd3e2-5fd4-4e3f-a2d2-b3d583157b7a%7Cdtp&dtb=1): A high-end gaming CPU with 12 cores, 24 threads, and a maximum clock speed of 4.8GHz.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## October Prime Day PlayStation 5 deals still available
 
 ZDNET
@@ -152,10 +145,16 @@ ZDNET
 * [Starfield standard edition for $40 (save $30)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FStarfield-Standard-Xbox-X%2Fdp%2FB0C7PN2L5V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C71abd3e2-5fd4-4e3f-a2d2-b3d583157b7a%7Cdtp&dtb=1): Bethesda's latest action RPG has players exploring more than 1,000 planets to gather resources and allies.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## October Prime Day Nintendo deals still available
@@ -175,6 +174,13 @@ Nintendo/ZDNET
 * [Pokemon Scarlet/Violet dual pack for $103 (save $17 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FPokemon-Scarlet-Pokemon-Violet-Dual-Pack-Nintendo-Switch%2F1545999884%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This bundle includes copies of both Pokemon Scarlet and Violet, which is perfect for pokedex completionists and collectors alike.
 * [Pokemon Shining Pearl for $44 (save $16)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FPokemon-Shining-Pearl-Nintendo-Nintendo-Switch%2F890677903%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This remaster of Pokemon Pearl features all-new graphics, game modes, and mechanics for players returning to the Sinnoh region as well as fans visiting for the first time.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## October Prime Day gaming PC deals still available
 
 Kyle Kucharski/ZDNET
@@ -186,6 +192,13 @@ Kyle Kucharski/ZDNET
 * [Alienware Aurora R16 for $1,800 (save $400 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Falienware-aurora-r16-desktop-intel-core-i7-processor-14700kf-nvidia-geforce-rtx-4070-super-32gb-memory-1tb-sdd-black%2F6577352.p%3FskuId%3D6577352&publisher%5Fslug=zdnet&article%5Fname=best%20october%20prime%20day%202024%20gaming%20deals%20still%20available%3A%20last%20chance%20to%20save%20up%20to%20%241%2C000&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-10-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Alienware's flagship gaming PC with a 14th gen Intel Core i7 CPU, RTX 4070 Super GPU, 32GB of RAM, and a 1TB SSD.
 * [MSI Aegis RS for $1,700 (save $400 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmsi-aegis-rs-gaming-desktop-intel-core-i7-14700f-32gb-memory-nvidia-geforce-rtx-4070-ti-super-2tb-ssd-black%2F6574690.p%3FskuId%3D6574690&publisher%5Fslug=zdnet&article%5Fname=best%20october%20prime%20day%202024%20gaming%20deals%20still%20available%3A%20last%20chance%20to%20save%20up%20to%20%241%2C000&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-10-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end gaming and content creation desktop with an Intel Core i7-14700F CPU, Nvidia RTX 4070 Ti Super GPU, 32GB of RAM, and a 2TB SSD.
 * [Lenovo Legion Tower 5i for $1,600 (save $400 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-legion-tower-5i-gaming-desktop-intel-core-i7-14700f-32gb-memory-nvidia-geforce-rtx-4070-super-1tb-ssd-storm-grey%2F6576778.p%3FskuId%3D6576778&publisher%5Fslug=zdnet&article%5Fname=best%20october%20prime%20day%202024%20gaming%20deals%20still%20available%3A%20last%20chance%20to%20save%20up%20to%20%241%2C000&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-10-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A mid-range gaming and content creation desktop with a 14th gen Intel Core i7 processor, 1TB SSD storage drive, 32GB of RAM, and an Nvidia RTX 4070 Super graphics card.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## October Prime Day gaming laptop deals still available
 
@@ -207,10 +220,10 @@ Samsung/ZDNET
 * [Acer Nitro 24-inch monitor for $100 (save $73)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAcer-Monitor-FreeSync-Technology-ZeroFrame%2Fdp%2FB0B6DFG1FQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C71abd3e2-5fd4-4e3f-a2d2-b3d583157b7a%7Cdtp&dtb=1): A great gaming monitor with 1080p resolution, a 165Hz refresh rate, and AMD FreeSync Premium VRR support.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## October Prime Day PC gaming accessories deals still available
@@ -218,6 +231,13 @@ Samsung/ZDNET
 * [Logitech G560 speaker system for $160 (save $40)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLogitech-LIGHTSYNC-Gaming-Speakers-Lighting%2Fdp%2FB07B2WLS17%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C71abd3e2-5fd4-4e3f-a2d2-b3d583157b7a%7Cdtp&dtb=1): A high-end speaker system for PC and console gaming with 7.1CH surround sound DTS:X Ultra audio, and RGB lighting.
 * [Corsair Scimitar Elite RGB wireless for $100 (save $30)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCORSAIR-SCIMITAR-ELITE-WIRELESS-Gaming%2Fdp%2FB0CCVYHZ9N%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C71abd3e2-5fd4-4e3f-a2d2-b3d583157b7a%7Cdtp&dtb=1): A wireless mouse designed for MOBAs and MMOs with 16 programmable buttons and a 150-hour battery life.
 * [HyperX QuadCast USB mic for $85 (save $55)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHyperX-QuadCast-Condenser-Microphone-Anti-Vibration%2Fdp%2FB07NZZZ746%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C71abd3e2-5fd4-4e3f-a2d2-b3d583157b7a%7Cdtp&dtb=1): This USB microphone has an integrated shock mount and is certified for use with Discord.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## October Prime Day graphics card deals still available
 
@@ -227,13 +247,6 @@ Samsung/ZDNET
 * [Gigabyte GeForce RTX 4070 Ti Super Windforce Max OC Edition for $770 (save $130 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FGIGABYTE-GeForce-RTX-4070-Ti-SUPER-WINDFORCE-MAX-OC-16G-Graphics-Card-3x-WINDFORCE-Fans-16GB-256-bit-GDDR6X-GV-N407TSWF3MAX-OC-16GD-Video-Card%2F6941118252&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end Nvidia RTX 40 Series graphics card with 16GB of VRAM, triple cooling fans, and dual BIOS controls.
 
 ## FAQs
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### When was Amazon Prime Day 2024?
 
@@ -246,13 +259,6 @@ Games, consoles, and accessories can and do go on sale during Prime Day, though 
 ### How did we choose these Prime Day deals?
 
 I only chose deals on games that have been critically and commercially well-received, as well as accessories and peripherals from well-known and reputable brands like Razer and Logitech. I also only included deals that offered at least a 15 percent discount.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the best October Prime Day 2024 deals?
 
@@ -319,24 +325,16 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-artful-annotation-distortion-techniques/"><u>[New] Artful Annotation Distortion Techniques</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-exploring-the-power-of-visual-effects-in-editing/"><u>[Updated] In 2024, Exploring the Power of Visual Effects in Editing</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-transform-your-live-streaming-best-practices-in-obs-studio-for-2024/"><u>[Updated] Transform Your Live Streaming Best Practices in OBS Studio for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-secure-and-stream-youtube-in-firefoxchrome/"><u>2024 Approved Secure & Stream YouTube in Firefox/Chrome</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-the-ultimate-top-12-tycoons-your-gateway-to-game-dominance/"><u>2024 Approved The Ultimate Top 12 Tycoons - Your Gateway to Game Dominance</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-logitech-gaming-mouse-g602-drivers-and-software-for-windows-pcs/"><u>Download Logitech Gaming Mouse (G602) Drivers & Software for Windows PCs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-fix-installing-latest-drivers-for-your-scansnap-ix500-using-windows-software/"><u>Easy Fix: Installing Latest Drivers for Your ScanSnap iX500 Using Windows Software</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-download-of-dell-displayport-to-usb-c-converter-software-for-windows-computers/"><u>Free Download of Dell DisplayPort to USB-C Converter Software for Windows Computers</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Infinix Note 30i | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-gopro-hero-10-secrets-for-perfect-slow-motion-shots/"><u>In 2024, GoPro Hero 10 Secrets for Perfect Slow Motion Shots</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mirthful-methods-building-humor-in-a-click/"><u>In 2024, Mirthful Methods Building Humor in a Click</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/installing-logitech-g27-drivers-available-for-win11-win10-and-windows-7-platforms/"><u>Installing Logitech G27: Drivers Available for Win11, Win10 & Windows 7 Platforms</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/into-the-abyss-and-beyond-shadowbearer-vs-daybeam-for-2024/"><u>Into the Abyss and Beyond Shadowbearer Vs Daybeam for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/qualcomm-atheros-ar938x-driver-downloads-secure-and-easy/"><u>Qualcomm Atheros AR938X Driver Downloads - Secure and Easy</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/resolving-hp-beats-audio-driver-problems-on-windows-10-8-and-7-fix-guide/"><u>Resolving HP Beats Audio Driver Problems on Windows 10, 8 & 7 - Fix Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/seamless-process-of-downloading-and-upgrading-samsung-laptop-drivers-for-windows-systems/"><u>Seamless Process of Downloading & Upgrading Samsung Laptop Drivers for Windows Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-repairing-windows-7-network-adapter-driver-woes-now-fixed/"><u>Step-by-Step Guide to Repairing Windows 7 Network Adapter Driver Woes - NOW FIXED!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-your-hp-officejet-pro-9015-driver-with-this-free-download/"><u>Update Your HP OfficeJet Pro 9015 Driver with This Free Download</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/what-is-the-bert-natural-language-processing-model-and-how-does-it-differ-from-gpt/"><u>What Is the BERT Natural Language Processing Model and How Does It Differ From GPT?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-expert-recommendations-best-phonespcs-for-chatting-online/"><u>[New] 2024 Approved Expert Recommendations Best Phones/PCs for Chatting Online</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-ultimate-guide-to-best-internet-recording-tools-2023/"><u>[New] 2024 Approved Ultimate Guide to Best Internet Recording Tools 2023</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-the-top-8-windows-screen-recording-applications/"><u>[Updated] The Top 8 Windows Screen Recording Applications</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/320-for-a-high-quality-used-128gb-microsoft-surface-laptop-exclusive-offer-covered-by-zdnet/"><u>$320 for a High-Quality Used 128GB Microsoft Surface Laptop | Exclusive Offer Covered by ZDNET</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Honor Magic5 Ultimate? | Dr.fone</u></a></li>
+<li><a href="https://solve-news.techidaily.com/fast-track-tips-crafting-compelling-shorts-for-your-ig-audience/"><u>Fast-Track Tips: Crafting Compelling Shorts for Your IG Audience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/score-the-ultimate-audio-experience-for-gamers-discover-30-off-premium-speaker-systems-at-amazon-reviewed-by-zdnet/"><u>Score the Ultimate Audio Experience for Gamers – Discover 30% Off Premium Speaker Systems at Amazon, Reviewed by ZDNet!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-ranking-windows-ultimate-laptop-guide-comprehensive-reviews-by-experts/"><u>Top-Ranking Windows Ultimate Laptop Guide - Comprehensive Reviews by Experts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-the-finest-touchscreen-notebooks-thoroughly-examined-and-critiqued-by-professionals-cybertech-insights/"><u>Ultimate Guide to the Finest Touchscreen Notebooks - Thoroughly Examined and Critiqued by Professionals | CyberTech Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/watching-netflix-on-a-game-boy-feasible-with-the-nintendo-switch/"><u>Watching Netflix on a Game Boy - Feasible With the Nintendo Switch?</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/worldwide-celebrations-a-tapestry-of-easter-speeches/"><u>Worldwide Celebrations: A Tapestry of Easter Speeches</u></a></li>
 </ul></div>
 

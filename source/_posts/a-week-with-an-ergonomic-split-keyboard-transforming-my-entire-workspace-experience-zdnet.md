@@ -1,7 +1,7 @@
 ---
 title: A Week with an Ergonomic Split Keyboard - Transforming My Entire Workspace Experience | ZDNET
-date: 2024-11-03T22:34:27.687Z
-updated: 2024-11-05T19:41:31.034Z
+date: 2024-11-12T05:09:46.918Z
+updated: 2024-11-15T17:58:02.445Z
 tags:
   - laptops
 categories:
@@ -107,10 +107,10 @@ The cost of these products might be a barrier for some, especially when combined
 Additionally, the $99 price tag for the pair of magnetic keyboard stands seems a little hard for me to justify. But if you're committed to a premium take on innovative ergonomics, Nuio's lineup is one of the best on the market. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -149,19 +149,22 @@ The price point for these peripherals is a little steep, particularly when you c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-witty-visuals-crafting-kapwings-laughs-for-2024/"><u>[Updated] Witty Visuals Crafting Kapwing's Laughs for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-realme-c67-4g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Realme C67 4G Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-tecno-spark-20c-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Tecno Spark 20C</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/alarming-increase-in-returns-for-intels-13th-generation-cpus-retailers-report-fourfold-rise-compared-to-previous-gen/"><u>Alarming Increase in Returns for Intel's 13Th Generation CPUs - Retailers Report Fourfold Rise Compared to Previous Gen</u></a></li>
-<li><a href="https://fox-info.techidaily.com/designing-mesmerizing-photo-collage-mosaics/"><u>Designing Mesmerizing Photo Collage Mosaics</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-geforce-rtx-3080-driver-now-compatible-with-windows-1187-systems/"><u>Get the Newest GeForce RTX 3080 Driver Now! Compatible with Windows 11/8/7 Systems</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-flip-side-to-visual-storytelling-how-to-rotate-your-images-on-instagram/"><u>In 2024, The Flip-Side to Visual Storytelling How to Rotate Your Images on Instagram</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/lenovos-ultimate-guide-to-updating-and-securing-your-windows-710-bluetooth-drivers-trustworthy-download-options/"><u>Lenovo's Ultimate Guide to Updating and Securing Your Windows 7/10 Bluetooth Drivers - Trustworthy Download Options</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/llvm-compiler-abandons-3dnow-instruction-set-marking-a-technological-shift-for-amd/"><u>LLVM Compiler Abandons 3DNow! Instruction Set, Marking a Technological Shift for AMD</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-video-storytelling-adding-narration-step-by-step-for-2024/"><u>Mastering Video Storytelling Adding Narration Step-by-Step for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/problem-solved-correcting-login-keyboard-connectivity-issues/"><u>Problem Solved: Correcting Login Keyboard Connectivity Issues</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/retaining-fl1-chip-style-in-new-zen-vee-cpus-future-refreshes-to-feature-advanced-rtx-graphics/"><u>Retaining FL1 Chip Style in New Zen Vee CPUs – Future Refreshes to Feature Advanced RTX Graphics?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-solutions-stabilizing-slime-rancher-gameplay-on-pc-systems/"><u>Step-by-Step Solutions: Stabilizing Slime Rancher Gameplay on PC Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-modern-hardware-by-toms-experts/"><u>The Ultimate Guide to Modern Hardware by Tom's Experts</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-decoding-the-marketplace-where-to-invest-in-monetized-channels/"><u>[New] In 2024, Decoding the Marketplace Where to Invest in Monetized Channels</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-mirrored-worldviews-on-insta-discover-100-reflective-captions-for-2024/"><u>[Updated] Mirrored Worldviews on Insta - Discover 100 Reflective Captions for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-obs-broadcasting-directly-on-instagram-for-2024/"><u>[Updated] OBS Broadcasting Directly on Instagram for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-vega-56-graphics-card-driver-installation-updates-and-downloads-for-windows/"><u>AMD Vega 56 Graphics Card Driver Installation: Updates and Downloads for Windows</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-realme-11-5g-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Realme 11 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/crashing-woes-continue-for-intel-notebook-cpus-reports-indicate-troubling-pattern-of-failures-during-tests/"><u>Crashing Woes Continue for Intel Notebook CPUs, Reports Indicate Troubling Pattern of Failures During Tests</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-install-latest-driver-download-for-your-hp-ink-advantage-deskjet-3755-compatible-with-windows-os/"><u>Easy Install: Latest Driver Download for Your HP Ink Advantage DeskJet 3755 - Compatible with Windows OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/eliminate-your-hp-speaker-troubles-on-windows-1187-with-these-proven-fixes/"><u>Eliminate Your HP Speaker Troubles on Windows 11/8/7 with These Proven Fixes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-gaming-with-updated-acer-predator-helios-300-graphics-driver-upgrades/"><u>Enhance Your Gaming with Updated Acer Predator Helios 300 Graphics Driver Upgrades</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-vivo-t2-5g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Vivo T2 5G to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/improve-roblox-online-pace-on-machine/"><u>Improve Roblox Online Pace on Machine</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intel-to-tackle-cpu-malfunction-problems-by-addressing-high-voltage-concerns-anticipate-patch-in-august/"><u>Intel to Tackle CPU Malfunction Problems by Addressing High Voltage Concerns: Anticipate Patch in August</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leveraging-generative-tech-without-errors/"><u>Leveraging Generative Tech Without Errors</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/lg-screen-driver-fixes-compatible-solutions-for-widows-11-7-and-81-systems/"><u>LG Screen Driver Fixes: Compatible Solutions for Widows 11, 7 & 8.1 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-issues-with-mac-computer-mouse-connectivity-and-functionality/"><u>Resolving Issues with Mac Computer Mouse Connectivity and Functionality</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revamping-audio-performance-a-cross-platform-method-for-driver-update-in-win11win10win7/"><u>Revamping Audio Performance: A Cross-Platform Method for Driver Update in Win11/Win10/Win7</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-rich-world-of-assassins-creed-valhalla-a-gripping-tale-through-medieval-norsemen-history/"><u>Unveiling the Rich World of Assassin’s Creed: Valhalla - A Gripping Tale Through Medieval Norsemen History</u></a></li>
 </ul></div>
 

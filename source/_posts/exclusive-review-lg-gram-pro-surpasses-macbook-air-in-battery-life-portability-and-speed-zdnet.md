@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Review: LG Gram Pro Surpasses MacBook Air in Battery Life, Portability & Speed | ZDNet"
-date: 2024-11-04T21:56:26.045Z
-updated: 2024-11-05T23:28:57.565Z
+date: 2024-11-11T00:57:05.283Z
+updated: 2024-11-15T19:32:05.145Z
 tags:
   - laptops
 categories:
@@ -69,10 +69,16 @@ Asus' Vivobook Pro 15 does a good job playing media. Hi-res videos look stunning
 In line with my initial impression, the device is a little on the bulky side, but the extra heft is not a big deal because it's lightweight and the extra room allows for a wide array of ports. You get two USB-Cs, a pair of USB-A inputs that support transfer speeds of up to 5GBPS, HDMI, an ethernet port, and an SD card slot.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -111,18 +117,18 @@ If you want something more powerful, I suggest checking out the MSI Creator Z16 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-capture-and-create-first-edits-in-lunapic-photo-editor/"><u>[New] In 2024, Capture & Create First Edits in LunaPic Photo Editor</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-premium-portable-recording-the-15-camcorders/"><u>2024 Approved Premium Portable Recording The #15 Camcorders</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-honor-magic-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Honor Magic 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-asus-rog-phone-7-ultimate-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Asus ROG Phone 7 Ultimate to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-rapid-accessibility-of-instagram-videos-and-stories/"><u>In 2024, Rapid Accessibility of Instagram Videos and Stories</u></a></li>
-<li><a href="https://facebook.techidaily.com/revolutionizing-behavioral-therapy-isbms-evidence-backed-cbt-methods/"><u>Revolutionizing Behavioral Therapy: ISBM's Evidence-Backed CBT Methods</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/solutions-to-unfreeze-your-iphone-15-or-14-during-the-data-transfer-process/"><u>Solutions to Unfreeze Your iPhone 15 or 14 During the Data Transfer Process</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/struggling-with-frequent-android-app-shutdowns-explore-these-9-effective-remedies/"><u>Struggling with Frequent Android App Shutdowns? Explore These 9 Effective Remedies</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/superior-android-alerts-why-they-exceed-iphones-offering-by-a-long-shot/"><u>Superior Android Alerts: Why They Exceed iPhone's Offering by a Long Shot</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-advantages-of-using-foldable-technology-in-laptops-over-smartphones/"><u>The Advantages of Using Foldable Technology in Laptops Over Smartphones</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-5-benefits-of-choosing-a-google-phone-with-android-os/"><u>Top 5 Benefits of Choosing a Google Phone with Android OS</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-5-mobile-apps-for-accurate-plant-recognition-on-android-devices/"><u>Top 5 Mobile Apps for Accurate Plant Recognition on Android Devices</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-free-movie-streaming-apps-for-your-phone-watch-anytime-anyplace/"><u>Top Free Movie Streaming Apps for Your Phone: Watch Anytime, Anyplace</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-breakdown-of-ad-revenue-average-income-for-youtube-vids/"><u>[New] 2024 Approved Breakdown of Ad Revenue Average Income for YouTube Vids?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-overcoming-video-limitations-on-instagram-platform/"><u>[Updated] 2024 Approved Overcoming Video Limitations on Instagram Platform</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-complete-process-for-selecting-top-online-photo-edits/"><u>2024 Approved The Complete Process for Selecting Top Online Photo Edits</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ensure-compatibility-how-to-download-and-install-kyocera-printer-drivers-on-windows/"><u>Ensure Compatibility: How to Download and Install KYOCERA Printer Drivers on Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-gadgets-with-tom-the-ultimate-guide-to-hardware-comparison/"><u>Exploring Gadgets with Tom: The Ultimate Guide to Hardware Comparison</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-quickly-fix-the-missing-library-issue-in-windows/"><u>How to Quickly Fix the Missing Library Issue in Windows</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Tecno Pova 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-rise-to-the-top-mastering-youtube-descriptions-with-customizable-templates/"><u>In 2024, Rise to the Top Mastering YouTube Descriptions with Customizable Templates</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-computer-components-tips-and-reviews-by-toms-hardware/"><u>Mastering Computer Components - Tips & Reviews by Tom's Hardware</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/step-by-step-guide-converting-mp4-videos-into-xvid-format/"><u>Step-by-Step Guide: Converting MP4 Videos Into Xvid Format</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-fast-track-to-downloading-and-setting-up-corsair-void-pro-drivers-in-windows/"><u>The Fast Track to Downloading and Setting Up Corsair Void Pro Drivers in Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-solving-issues-with-non-functional-steam-voice-chat/"><u>Troubleshooting Tips: Solving Issues with Non-Functional Steam Voice Chat</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/whats-new-in-logitech-extreme-3d-pro-mouse-software-recent-update-overview/"><u>What's New in Logitech Extreme 3D Pro Mouse Software: Recent Update Overview</u></a></li>
 </ul></div>
 

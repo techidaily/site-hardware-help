@@ -1,7 +1,7 @@
 ---
 title: "Update Arduino USB Drivers: Step-by-Step Guide for Windows Users"
-date: 2024-08-26T07:55:13.715Z
-updated: 2024-08-27T07:55:13.715Z
+date: 2024-11-09T01:00:45.255Z
+updated: 2024-11-15T23:34:52.174Z
 tags:
   - win11
   - win10
@@ -25,6 +25,13 @@ If you’re using Arduino products to create your own work but failed to connect
 
  That’s why most of the problems can be solved by installing/updating drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to download Arduino Nano driver?
 
 There are two ways you can update your Arduino Nano drivers.
@@ -35,6 +42,19 @@ OR
 
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/how-to-download-and-install-arduino-nano-driver-in-windows-solved/#op2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Option 1 –** **Download and install the driver manually**
 
  The screenshots below are from Windows 10, but the steps are also valid for other Windows system.
@@ -43,28 +63,16 @@ OR
 2. Click **Windows Installer, for Windows XP and up** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/ar.jpg)
 3. Click**Just Download** . The driver .exe installation file would then be downloaded automatically.  
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/just.jpg)
 4. On your keyboard, hold down the **Windows logo key** \+ **Pause** . Then click **Device Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/device.jpg)
 5. Find and **right-click** your **Arduino Uno software** . Probably it’s listed under the **Other devices** section due to the problem. Then select **Update driver** .  
  Select **Browse my computer for driver software** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9725918e348.png)
 6. Click the **Browse…** icon. Another window appears: go to the folder with the Arduino nano driver that you just downloaded. Select the drivers folder, then **OK** \> **Next** .
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you don’t have the time, patience or computer skills to update your Arduino Uno driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Move onto **Option 2** then.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### **Option 2 – Automatically update drivers**
 
  If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -77,15 +85,24 @@ OR
 2. Run Driver Easy, then click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12a.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/nano.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
  Hope this article will meet your need. If you have any question, please leave comments below, we’ll try our best to help.
@@ -98,8 +115,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -107,4 +122,16 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-utilizing-b-roll-for-enhanced-storytelling/"><u>[Updated] 2024 Approved Utilizing B-Roll for Enhanced Storytelling</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-6-ways-to-increase-audience-retention-on-youtube/"><u>[Updated] In 2024, 6 Ways To Increase Audience Retention on YouTube</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ing-allure-in-online-visuals-for-beauty/"><u>Crafting Allure in Online Visuals for Beauty</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210503041-9781633412767-finding-the-fool/"><u>Finding the Fool | Free Book</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-xiaomi-redmi-note-12-pro-4g-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Xiaomi Redmi Note 12 Pro 4G Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/prepping-for-new-semester-save-big-on-student-deals-for-laptops-and-tablets-from-samsung-zdnet/"><u>Prepping For New Semester? Save Big on Student Deals for Laptops & Tablets From Samsung | ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revolutionizing-productivity-how-lenovos-new-dual-screen-laptop-transformed-my-daily-grind-insights-from-zdnet/"><u>Revolutionizing Productivity: How Lenovo’s New Dual-Screen Laptop Transformed My Daily Grind - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-perfect-companion-for-remote-work-an-experts-guide-to-lightweight-laptops-that-excel-in-productivity/"><u>The Perfect Companion for Remote Work: An Expert's Guide to Lightweight Laptops That Excel in Productivity</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-laptops-for-seamless-video-editing-in-depth-tests-and-reviews-by-tech-experts/"><u>Top-Rated Laptops for Seamless Video Editing: In-Depth Tests & Reviews by Tech Experts</u></a></li>
+</ul></div>
 

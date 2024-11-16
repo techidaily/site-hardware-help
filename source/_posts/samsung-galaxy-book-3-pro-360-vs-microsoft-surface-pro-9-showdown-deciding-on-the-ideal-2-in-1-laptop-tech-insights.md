@@ -1,7 +1,7 @@
 ---
 title: "Samsung Galaxy Book 3 Pro 360 Vs. Microsoft Surface Pro 9 Showdown: Deciding on the Ideal 2-in-1 Laptop | Tech Insights"
-date: 2024-11-01T17:09:37.478Z
-updated: 2024-11-05T19:44:18.785Z
+date: 2024-11-15T01:42:25.642Z
+updated: 2024-11-16T01:27:20.180Z
 tags:
   - laptops
 categories:
@@ -61,10 +61,10 @@ That said, I've been testing the 12th Gen Intel model (i7, 16GB RAM, 256GB), and
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## If it ain't broke...
@@ -104,10 +104,10 @@ My main call out here is the difference in USB-C technology. If you're planning 
 **Review: [Microsoft Surface Pro 8 for Business](https://www.zdnet.com/article/microsoft-surface-pro-8-for-business-review/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Performance: Intel or Arm?
@@ -136,6 +136,13 @@ With the Arm-based model, the Surface Pro 9 gets a Neural Processing Unit (NPU) 
 
 **Also: [The best webcams for work and play](https://www.zdnet.com/article/best-webcam/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery life
 
 Again, Microsoft only sent me the 12th Gen Intel variant to review so I can only speak to its endurance numbers, though I fully expect the [SQ3 model](https://www.zdnet.com/article/arm-processors-everything-you-need-to-know-now/), with its more efficient operation, to be even more promising. From my near-week of use, I averaged six hours of battery life per charge on the Surface Pro 9\. Keep in mind that that's with 120Hz permanently on -- I'll admit, I'm one of those, "Once you go 120Hz, you can't go back" users -- and brightness set to about 65%. In my opinion, that's a solid B-tier as far as endurance numbers go.
@@ -143,10 +150,10 @@ Again, Microsoft only sent me the 12th Gen Intel variant to review so I can only
 [Buy the Microsoft Surface Pro 9 $919 at Walmart](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F1458165054&subId1=zd-__COM_CLICK_ID__-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -154,13 +161,6 @@ Again, Microsoft only sent me the 12th Gen Intel variant to review so I can only
 By now you may be wondering, "Is there anything wrong with the [Surface Pro 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Lightweight-Processor-Multi-Tasking%2Fdp%2FB0B9PXN3CT%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C684e302d-9e69-4240-9a98-aaac2bbac955%7Cdtp&dtb=1)?" And to that, I say, "No, and yes." My quibble with the newest flagship two-in-one is that, at a time when competitors like [Lenovo](https://www.zdnet.com/article/lenovo-ifa-announcements/) and [Asus](https://www.zdnet.com/article/asus-zenbook-pro-14-duo-oled-ux8402-review/) are redefining the PC experience, Microsoft -- the Windows maker -- is hardly trying to reinvent the wheel, building for comfort instead. 
 
 That's not to say that the Surface Pro 9 is a bad product; it'll most definitely earn a spot in our [year-end rankings](https://www.zdnet.com/article/best-2-in-1-laptop/). I'm just finding it harder and harder to justify the tablet-laptop hybrid, especially when you factor in the cost of the [$279 keyboard and Slim Pen 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Signature-Keyboard-Slim%2Fdp%2FB09DK21NK7%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C684e302d-9e69-4240-9a98-aaac2bbac955%7Cdtp&dtb=1) bundle, and the fact that most users eyeing this particular model will probably opt for, at least, 256GB of storage. That puts the [Surface Pro 9](https://click.linksynergy.com/deeplink?id=IokOf8qagZo&mid=24542&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&murl=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fstore%2Fconfigure%2FSurface-Pro-9%2F93VKD8NP4FVK) firmly in the $1,400 territory, where Apple's [M1 and M2-powered laptops dominate](https://www.zdnet.com/article/apple-macbook-air-m2-2022-review/).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -200,21 +200,17 @@ That's not to say that the Surface Pro 9 is a bad product; it'll most definitely
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook.techidaily.com/1719153008473-hashed-hay-a-novel-animal-pet-naming-trend/"><u>'Hashed Hay': A Novel Animal Pet Naming Trend.</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-prime-20-opening-melodies-in-animation/"><u>[New] 2024 Approved Prime 20 Opening Melodies in Animation</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-adept-adjustments-mastering-the-chromatic-dance/"><u>[Updated] 2024 Approved Adept Adjustments Mastering the Chromatic Dance</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-assembling-channel-summaries-that-attract/"><u>[Updated] 2024 Approved Assembling Channel Summaries That Attract</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/an-intro-to-macs-5-leading-snipping-software-choices-for-2024/"><u>An Intro to Mac's 5 Leading Snipping Software Choices for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/beat-the-boot-screen-essential-fixes-to-solve-forza-horizon-4-not-launching-problems-latest-guide/"><u>Beat the Boot Screen: Essential Fixes to Solve Forza Horizon 4 Not Launching Problems - Latest Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/direct-download-methods-for-newcomers-to-windows/"><u>Direct Download Methods for Newcomers to Windows</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-from-iphone-13-mini-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out From iPhone 13 mini How to Bypass?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/in-depth-razer-aether-monitor-light-bar-analysis-beyond-the-game-night-illumination/"><u>In-Depth Razer Aether Monitor Light Bar Analysis - Beyond the Game Night Illumination</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/in-depth-review-of-the-ecoflow-delta-pro-3-the-ultimate-battery-solution-for-uninterrupted-homesteads/"><u>In-Depth Review of the EcoFlow Delta Pro 3: The Ultimate Battery Solution for Uninterrupted Homesteads</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/introducing-asus-revolutionary-nuc-tiny-pc-lineup-featuring-advanced-rtx-4000-gpu-technology/"><u>Introducing ASUS' Revolutionary NUC Tiny PC Lineup Featuring Advanced RTX 4000 GPU Technology</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/laptop-vs-chromebook-uncovering-key-distinctions/"><u>Laptop Vs. Chromebook: Uncovering Key Distinctions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-the-art-of-interpretation-key-insights-into-gpu-test-scores/"><u>Mastering the Art of Interpretation: Key Insights Into GPU Test Scores</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/on-the-go-security-excellence-with-expressvpn-aircove-go-an-in-depth-analysis/"><u>On-the-Go Security Excellence with ExpressVPN Aircove Go: An In-Depth Analysis</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/overcoming-the-urge-understanding-why-you-keep-buying-new-headsets/"><u>Overcoming the Urge: Understanding Why You Keep Buying New Headsets</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/user-experience-and-features-in-depth-look-at-the-google-nest-doorbell-with-batteries/"><u>User Experience & Features: In-Depth Look at the Google Nest Doorbell with Batteries</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-extensive-investigation-into-gecatas-recorder-tech-for-2024/"><u>[Updated] Extensive Investigation Into Gecata's Recorder Tech for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-updated-geforce-rtx-2070-driver-for-multiple-winsrs-10-8-and-7-systems-supported/"><u>Download Updated Geforce RTX 2070 Driver for Multiple WinSrs: 10, 8, and 7 Systems Supported!</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-from-your-iphone-13-mini-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID From Your iPhone 13 mini</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Motorola Moto G84 5G? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-samsung-galaxy-m34-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Samsung Galaxy M34 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-samsung-phone-connections-how-to-update-your-usb-driver-seamlessly/"><u>Mastering Samsung Phone Connections: How to Update Your USB Driver Seamlessly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-installation-of-insignias-usb-vga-adapter-drivers-included/"><u>Quick Installation of Insignia's USB VGA Adapter: Drivers Included</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-resolution-for-realtek-alc887-audio-driver-glitches-on-pc/"><u>Step-by-Step Resolution for Realtek ALC887 Audio Driver Glitches on PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-gadget-hub-navigating-through-top-notch-hardware-by-tom/"><u>The Ultimate Gadget Hub: Navigating Through Top-Notch Hardware by Tom</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-vivo-t2-5g-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Vivo T2 5G Phones</u></a></li>
+<li><a href="https://win-blog.techidaily.com/what-to-do-when-alan-wake-2-doesnt-launch-as-scheduled/"><u>What to Do When Alan Wake 2 Doesn't Launch as Scheduled?</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-s-excellence-achieving-perfect-blue-ray/"><u>XBox S Excellence - Achieving Perfect Blue-Ray</u></a></li>
 </ul></div>
 

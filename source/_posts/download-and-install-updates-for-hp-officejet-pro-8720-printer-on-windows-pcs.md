@@ -1,7 +1,7 @@
 ---
 title: Download & Install Updates for HP OfficeJet Pro 8720 Printer on Windows PCs
-date: 2024-08-26T07:54:41.808Z
-updated: 2024-08-27T07:54:41.808Z
+date: 2024-11-12T01:15:01.151Z
+updated: 2024-11-16T06:06:22.181Z
 tags:
   - win11
   - win10
@@ -38,6 +38,13 @@ Wondering whether or not to update the driver for your **HP OfficeJet Pro 8720**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb955c3ee3c.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a171125168.jpg)
@@ -47,8 +54,12 @@ Wondering whether or not to update the driver for your **HP OfficeJet Pro 8720**
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Option 2: Update your HP OfficeJet Pro 8720 **printer**  driver manually
 
 **Warning** : Downloading the wrong driver or installing it incorrectly can compromise our PC’s stability and even cause the whole system to crash. So please proceed at your own peril.
@@ -56,33 +67,26 @@ Wondering whether or not to update the driver for your **HP OfficeJet Pro 8720**
 1. Go to **[HP’s official website for driver downloads](https://support.hp.com/hk-en/drivers)**  , and click **Printer** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17620c2da6d.jpg)
 2. Type **HP OfficeJet Pro 8720** into the box and click **Submit** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a01155946b.png)
 3. Make sure the selected operating system is **the right version for your Windows OS** (Windows 10, 64-bit in my example) and click **Download** in**the first result** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a0206ca291.jpg)
 4. Run the wizard and follow the onscreen instructions to finish the install.
+
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 5. Restart your computer for the changes to take effect.
 
 ---
@@ -97,8 +101,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -106,4 +108,21 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/urning-viewers-into-vendors-mastery-of-youtube-income-streams-for-2024/"><u>[New] Turning Viewers Into Vendors Mastery of YouTube Income Streams for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-instagram-live-broadcasting-unseen-and-unknown/"><u>2024 Approved Instagram Live Broadcasting Unseen and Unknown</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-script-innovation-place-for-2024/"><u>Best Script Innovation Place for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/constructive-methods-for-cultivating-collaborative-communities-fb/"><u>Constructive Methods for Cultivating Collaborative Communities (FB)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-ideal-laptop-for-your-creative-workflow-professional-ratings-and-in-depth-analysis-exclusive/"><u>Discover the Ideal Laptop for Your Creative Workflow: Professional Ratings & In-Depth Analysis Exclusive</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-premier-notebooks-showcased-at-ces-2024-according-to-zdnets-analysis/"><u>Discover the Premier Notebooks Showcased at CES 2024, According to ZDNet's Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/dont-miss-out-get-the-powerful-8tb-samsung-t5-ssd-for-36-less-at-amazon-featured/"><u>Don't Miss Out! Get the Powerful 8TB Samsung T5 SSD for 36% Less at Amazon, Featured</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-oppo-find-x6-pro-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Oppo Find X6 Pro?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/prime-day-exclusive-apple-unveils-affordable-m2-macbook-air-at-only-749-tech-news-from-zdnet/"><u>Prime Day Exclusive: Apple Unveils Affordable M2 MacBook Air at Only $749 - Tech News From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/snag-the-hp-victus-15-gaming-notebook-unbeatable-price-of-just-530-on-sale-at-best-buy-tech-roundup/"><u>Snag the HP Victus 15 Gaming Notebook: Unbeatable Price of Just $530 on Sale at Best Buy Tech Roundup</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/the-ultimate-list-of-macs-best-screen-recorders-ranked-for-2024/"><u>The Ultimate List of Mac's Best Screen Recorders Ranked for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/understanding-the-updates-a-deep-dive-into-android-12l/"><u>Understanding the Updates: A Deep Dive Into Android 12L</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/winxvideo-expert-guide-video-editing-techniques-for-enhancement-recording-processing-compression-and-conversion/"><u>Winxvideo Expert Guide: Video Editing Techniques for Enhancement, Recording, Processing, Compression & Conversion</u></a></li>
+</ul></div>
 

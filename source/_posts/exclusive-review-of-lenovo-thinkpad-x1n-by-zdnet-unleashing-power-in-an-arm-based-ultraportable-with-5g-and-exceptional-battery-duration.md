@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Review of Lenovo ThinkPad X1n by ZDNET: Unleashing Power in an Arm-Based Ultraportable with 5G & Exceptional Battery Duration"
-date: 2024-11-03T20:27:24.377Z
-updated: 2024-11-05T18:04:34.839Z
+date: 2024-11-13T21:23:52.716Z
+updated: 2024-11-15T16:06:18.451Z
 tags:
   - laptops
 categories:
@@ -66,10 +66,10 @@ For connections, you're limited to two USB-C (3.2 Gen 2) ports on the left side,
 You can access the innards of the ThinkPad X13s by removing six screws and prising off the bottom cover, although upgrade options are limited. We did poke around inside our first review unit, which arrived with no functioning Wi-Fi and no access to the webcam, to no avail. Our second review unit worked just fine. For all its thin-and-lightness, the ThinkPad X13s is [MIL-STD-810H](https://en.wikipedia.org/wiki/MIL-STD-810)\-tested and should cope with the rigours of a mobile professional's routine. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Features
@@ -83,10 +83,10 @@ There are three screen options, all IPS panels with WUXGA (1920 x 1200) resoluti
 As well as the biometric authentication methods noted earlier, the ThinkPad X13s includes internal security features such as a discrete TPM 2.0 chip, Microsoft's [Pluton TPM architecture](https://learn.microsoft.com/en-us/windows/security/information-protection/pluton/pluton-as-tpm) running on the Snapdragon 8cx Gen 3's SPU (Secure Processing Unit) and a self-healing BIOS. 
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Performance & battery life
@@ -118,10 +118,10 @@ Thermal camera images of the ThinkPad X13s under load.
 Images: Charles McLellan / ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Conclusions
@@ -175,10 +175,10 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -226,14 +226,19 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-from-basic-to-breathtaking-elevating-your-instagram-edits-for-2024/"><u>[New] From Basic to Breathtaking Elevating Your Instagram Edits for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-snappy-narratives-on-the-social-scene/"><u>[Updated] 2024 Approved Snappy Narratives on the Social Scene</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-sell-more-grow-faster-discover-how-these-15-facebook-apps-can-help/"><u>2024 Approved Sell More, Grow Faster Discover How These 15 Facebook Apps Can Help</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-ultimate-idevice-video-recording-guide/"><u>2024 Approved Ultimate iDevice Video Recording Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amd-epycs-turin-chip-shatters-records-with-128-cores-exceeding-108k-points-in-multi-threaded-benchmark/"><u>AMD EPYC's Turin Chip Shatters Records with 128 Cores: Exceeding 108K Points in Multi-Threaded Benchmark</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/compatible-drivers-for-gigabyte-gc-wb867d-inputoutput-hub-get-them-here/"><u>Compatible Drivers for Gigabyte GC-WB867D Input/Output Hub - Get Them Here</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/enhance-gaming-performance-install-the-new-geforce-rtx-3080-driver-on-windows-1187/"><u>Enhance Gaming Performance: Install the New GeForce RTX 3080 Driver on Windows (11/8/7)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-windows-driver-update-download-msi-gs65-drivers-now/"><u>Latest Windows Driver Update - Download MSI GS65 Drivers Now</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-infinix-smart-8-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Infinix Smart 8 to Gmail | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-direct-connectivity-pairing-pc-images-with-iphone-for-2024/"><u>[New] Direct Connectivity Pairing PC Images with iPhone for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-radiant-rendering-the-graders-artistic-journey/"><u>[New] In 2024, Radiant Rendering The Grader's Artistic Journey</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-rapid-growth-on-instagram-the-like-video-duo-power-for-2024/"><u>[Updated] Rapid Growth on Instagram The Like-Video Duo Power for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-oppo-k11-5g-frp-bypass-by-drfone-android/"><u>About Oppo K11 5G FRP Bypass</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975477348-enhance-your-online-experience-fresh-wireless-driver-downloads-at-your-fingertps/"><u>Enhance Your Online Experience: Fresh Wireless Driver Downloads at Your Fingertps</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-your-dell-devices-network-driver-on-windows-n/"><u>How to Get Your Dell Device's Network Driver on Windows N</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-dive-deep-into-vivacut-editor-review-and-tutorial/"><u>In 2024, Dive Deep Into VivaCut Editor Review & Tutorial</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-your-step-by-step-path-to-a-top-facebook-music-video/"><u>In 2024, Your Step-by-Step Path to a Top Facebook Music Video</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reactivate-your-windows-11-explore-with-ease/"><u>Reactivate Your Windows 11 Explore with Ease</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-high-cpu-load-issues-in-the-windows-driver-framework/"><u>Resolving High CPU Load Issues in the Windows Driver Framework</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-in-depth-hardware-reviews-and-news/"><u>Tom's Tech Insights: In-Depth Hardware Reviews and News</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-a-comprehensive-guide-to-computer-hardware/"><u>Tom's Tech: A Comprehensive Guide to Computer Hardware</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-creating-your-new-x-previously-known-as-twitter-profile/"><u>Ultimate Guide: Creating Your New X (Previously Known as Twitter) Profile</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/updated-drivers-available-ensure-full-functionality-of-your-logitech-k35n-wireless-keyboard/"><u>Updated Drivers Available: Ensure Full Functionality of Your Logitech K35n Wireless Keyboard</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Adapting Office Technology for Artificial Intelligence: The Future of Working Devices - Insights"
-date: 2024-10-31T23:49:37.330Z
-updated: 2024-11-05T20:26:03.743Z
+date: 2024-11-12T03:44:59.128Z
+updated: 2024-11-16T05:08:33.261Z
 tags:
   - laptops
 categories:
@@ -65,10 +65,10 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -80,10 +80,10 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -136,24 +136,16 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-elevate-your-video-game-the-best-of-8-mirrorless-cams/"><u>[New] 2024 Approved Elevate Your Video Game The Best of 8 Mirrorless Cams</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-degrees-matter-rotating-videos-for-social-glory-for-2024/"><u>[New] Degrees Matter Rotating Videos for Social Glory for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-bridging-the-gap-facebook-to-television-screenplay/"><u>[Updated] In 2024, Bridging the Gap Facebook to Television Screenplay</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-beginners-pathway-photos-transformed-into-videos-via-pixiz/"><u>2024 Approved Beginner's Pathway Photos Transformed Into Videos via Pixiz</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-vivo-y36i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Vivo Y36i | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/bridging-the-gap-luts-from-cg-central-to-movie-colors/"><u>Bridging the Gap Luts From CG Central to Movie Colors</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/canons-economical-wireless-inkjet-printer-for-just-49-revealed-by-zdnet/"><u>Canon's Economical Wireless Inkjet Printer for Just $49, Revealed by ZDNET!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/maximize-functionality-invest-in-independent-appliances-a-standard-fridge-and-an-ipad-not-just-a-smart-fridge/"><u>Maximize Functionality: Invest in Independent Appliances - A Standard Fridge & an iPad, Not Just a Smart Fridge</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/maximizing-visibility-tips-and-tricks-for-easily-zooming-in-on-screens-with-an-android-smartphone-or-tablet/"><u>Maximizing Visibility: Tips and Tricks for Easily Zooming in on Screens with an Android Smartphone or Tablet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/new-feature-alert-discover-the-intuitive-widget-on-google-photos-for-android/"><u>New Feature Alert: Discover the Intuitive Widget on Google Photos for Android</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/optimize-available-space-on-android-devices-with-these-8-proven-methods/"><u>Optimize Available Space on Android Devices with These 8 Proven Methods</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/preserve-battery-longevity-on-android-with-personalized-recharge-reminders/"><u>Preserve Battery Longevity on Android with Personalized Recharge Reminders</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/revive-your-aging-android-device-8-proven-lifespan-extending-techniques/"><u>Revive Your Aging Android Device: 8 Proven Lifespan Extending Techniques</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/revolutionizing-mobile-shopping-the-impending-improvements-you-can-expect-from-google-play-store/"><u>Revolutionizing Mobile Shopping: The Impending Improvements You Can Expect From Google Play Store</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/silence-your-tap-tapping-keys-universal-methods-to-mute-keyboard-noises/"><u>Silence Your Tap-Tapping Keys: Universal Methods to Mute Keyboard Noises</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/step-by-step-guide-to-setting-up-the-ghettos-aurora-build-on-kodi-version-19-the-matrix-edition/"><u>Step-by-Step Guide to Setting Up the Ghetto's Aurora Build on Kodi Version 19 - The Matrix Edition</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/steps-to-disable-auto-rotate-feature-on-android-devices/"><u>Steps to Disable Auto-Rotate Feature on Android Devices</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/streamline-metadata-ranking-of-7-leading-online-youtube-tag-extractors-for-2024/"><u>Streamline Metadata Ranking of 7 Leading Online Youtube Tag Extractors for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2682533-9781515410133-the-mental-equivalent/"><u>The Mental Equivalent | Free Book</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-perfecting-your-fisheye-lens-techniques-stepwise/"><u>2024 Approved Perfecting Your Fisheye Lens Techniques Stepwise</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-the-ultimate-plan-for-streamlining-your-video-queue-on-youtube/"><u>2024 Approved The Ultimate Plan for Streamlining Your Video Queue on YouTube</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/epson-et-4550-driver-download-and-install-for-windows-easy-and-fast/"><u>Epson ET-4550 Driver Download & Install for Windows – Easy & Fast</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/epson-gt-s50-printing-software-download-windows-7810-supported-versions-available/"><u>Epson GT-S50 Printing Software Download: Windows 7/8/10 Supported Versions Available</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-color-laserjet-pro-m4n-series-professional-printer-drivers-installed-easily/"><u>HP Color LaserJet Pro M4n Series: Professional Printer Drivers Installed Easily</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-se-2020-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone SE (2020)? Learn All 4 Methods</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-windows-update-failed-with-error-0x80240017-expert-strategies-revealed/"><u>Overcoming 'Windows Update Failed with Error 0X80240017': Expert Strategies Revealed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-guide-downloading-and-installing-acer-predator-xb271h-monitor-drivers/"><u>Quick Guide: Downloading and Installing Acer Predator XB271H Monitor Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-fixing-and-downloading-mouse-drivers-in-windows-7/"><u>Step-by-Step Tutorial: Fixing & Downloading Mouse Drivers in Windows 7</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/trasformare-i-file-wma-in-mp4-online-gratuito-converti-con-eccellenza-con-movavi/"><u>Trasformare I File WMA in MP4 Online Gratuito - Converti Con Eccellenza Con Movavi</u></a></li>
+<li><a href="https://discover-great.techidaily.com/prostoj-sposob-klonirovaniya-zhestkogo-diska-v-windows-11-legkaya-nastrojka-s-funkciej-zagruzki/"><u>Простой Способ Клонирования Жесткого Диска В Windows 11: Легкая Настройка С Функцией Загрузки</u></a></li>
 </ul></div>
 

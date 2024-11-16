@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions for USB Recognition Problems on Windows 10 Computers
-date: 2024-08-19T12:30:42.036Z
-updated: 2024-08-20T12:30:42.036Z
+date: 2024-11-13T23:08:08.545Z
+updated: 2024-11-15T16:52:22.863Z
 tags:
   - win11
   - win10
@@ -42,6 +42,13 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-121.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the Ralink RT3290 driver for now, simply click on the**Update** button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-122.png)
@@ -55,8 +62,12 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Option 2: Download and update your Ralink RT3290 driver manually (For Windows 8/7 Only)**
 
  Ralink Technology, Corp. was acquired by MediaTek in 2011, so you can no longer find the official website of Ralink. But luckily, the driver can still be found in **[mediatek.com](https://www.mediatek.com/) .**
@@ -72,8 +83,12 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-118.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) After knowing the version of your Windows operating system, you should now search for the driver online. You can either find your own way to the official website of MediaTek, or you can simply click[https://www.mediatek.com/](https://www.mediatek.com/) .
 
  4) There’s a search bar at the top of the website. Type**RT3290** , and then hit**Enter** on your keyboard.
@@ -93,8 +108,12 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-117.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  When you double-click**devcon64.exe** , you’ll be prompted to decompress the folders. Select**Extract all** .
 
  10) Click**Browse…** to select a destination and check the**Show extracted files when complete** box. On completion, click**Extract** .
@@ -128,8 +147,6 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +154,16 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-picture-perfect-instagram-carousel/"><u>[Updated] In 2024, Picture-Perfect Instagram Carousel</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-how-irobots-latest-innovation-the-self-maintaining-roomba-keeps-its-own-mop-spotless-for-effortless-cleaning-solutions/"><u>Discover How iRobot's Latest Innovation, The Self-Maintaining Roomba, Keeps Its Own Mop Spotless for Effortless Cleaning Solutions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-reasons-you-may-require-a-left-side-number-pad-attachment-for-your-keyboard/"><u>Discover the Reasons You May Require a Left-Side Number Pad Attachment for Your Keyboard!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discovering-the-high-end-chromebook-selection-by-acer-top-tier-devices-for-everyone/"><u>Discovering the High-End Chromebook Selection by Acer: Top-Tier Devices for Everyone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/drone-shipping-suspension-at-walmart-impact-on-operations-in-ca-az-sc/"><u>Drone Shipping Suspension at Walmart: Impact on Operations in CA, AZ, SC</u></a></li>
+<li><a href="https://fox-info.techidaily.com/gimp-tutorial-mastering-filters-and-layers-for-2024/"><u>GIMP Tutorial Mastering Filters & Layers for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-free-video-editing-software-top-5-imovie-alternatives-this-year-for-2024/"><u>New Free Video Editing Software Top 5 iMovie Alternatives This Year for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rtx210-driver-upgrade-nvidias-win11-improvement/"><u>RTX210 Driver Upgrade: NVIDIA's Win11 Improvement</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-cutting-edge-mkv-trimmers-for-mac-top-picks-2023/"><u>Updated In 2024, Cutting-Edge MKV Trimmers for Mac Top Picks 2023</u></a></li>
+</ul></div>
 

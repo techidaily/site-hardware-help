@@ -1,7 +1,7 @@
 ---
 title: My Struggle with the Surface Laptop Go 3 - How Microsoft Missed the Mark on User Experience
-date: 2024-10-29T16:57:04.910Z
-updated: 2024-11-05T21:22:59.745Z
+date: 2024-11-15T03:52:54.973Z
+updated: 2024-11-16T05:10:59.292Z
 tags:
   - laptops
 categories:
@@ -45,10 +45,10 @@ My original plan was to use the new Surface Pro as a secondary mobile device, wh
 How did this happen? Let's dive in.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The experience is familiar
@@ -80,10 +80,10 @@ Screenshot by Ed Bott/ZDNET
 At an average of more than 10 hours of actual, observed battery life, this Surface Pro is able to run for well over twice as long as my Intel-based Surface Pro 9\. That's also at least as long as the [M2 MacBook Air](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/) in my office.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Compatibility is good but not perfect
@@ -123,10 +123,10 @@ I had no hardware problems to speak of. My 10-year-old Logitech C930 webcam just
 Your mileage may vary, of course, especially if you have exotic hardware like video capture cards and ancient multifunction printers that require custom driver packs and won't work with the in-box Windows drivers. Thankfully, I have none of those.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The AI story is incomplete
@@ -150,10 +150,10 @@ The real question is whether those features are powerful enough to make you swit
 Even if you avoid the AI features completely, though, there's more than enough power in this [budget PC](https://www.zdnet.com/article/best-laptops-under-500/). Plus, as long as your apps and hardware requirements aren't exotic, you'll appreciate its cool, quiet operation.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -200,19 +200,15 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/updated-the-road-to-impressive-3d-text-artistry-in-photoshop/"><u>[Updated] The Road to Impressive 3D Text Artistry in Photoshop</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exclusive-roundup-securing-premium-cpu-deals-from-leading-brands-amd-intel/"><u>Exclusive Roundup: Securing Premium CPU Deals From Leading Brands (AMD, Intel)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-hp-laserjet-p1007-driver-version-instantly-safe-and-easy-update/"><u>Get the Newest HP LaserJet P1007 Driver Version Instantly | Safe and Easy Update</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-vivo-t2x-5g-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Vivo T2x 5G</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-leverage-both-platforms-youtube-and-facebook-integration/"><u>In 2024, Leverage Both Platforms YouTube and Facebook Integration</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Realme 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-knowledge-through-toms-authoritative-articles/"><u>Mastering Hardware Knowledge Through Tom's Authoritative Articles</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-and-easy-procedure-updating-drivers-on-a-sata-ahci-controller-device/"><u>Quick & Easy Procedure: Updating Drivers on a SATA AHCI Controller Device</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/resolved-troubleshooting-when-your-igfxem-module-wont-start-expert-advice-here/"><u>Resolved: Troubleshooting When Your iGFXem Module Won't Start - Expert Advice Here!</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/seamlessly-integrate-your-qnap-nas-with-google-drive-a-simple-guide/"><u>Seamlessly Integrate Your QNAP NAS with Google Drive: A Simple Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategizing-the-enablement-of-powershell-script-running/"><u>Strategizing the Enablement of PowerShell Script Running</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-review-domain-unveiling-the-best-in-hardware-innovations/"><u>Tom’s Review Domain: Unveiling the Best in Hardware Innovations</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-eliminate-unwanted-noise-from-your-speakers-in-5-steps/"><u>Troubleshooting Guide: Eliminate Unwanted Noise From Your Speakers in 5 Steps</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-the-potential-of-amd-zen-5-in-depth-review-and-benchmarks-for-ryzen-9000-ai-300-tech-and-future-graphics-with-rdna-35-and-xdna-integration/"><u>Unveiling the Potential of AMD Zen 5: In-Depth Review and Benchmarks for Ryzen 9000, AI 300 Tech, and Future Graphics with RDNA 3.5 & XDNA Integration</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-preventing-non-displayed-images-in-youtubes-shorts/"><u>2024 Approved Preventing Non-Displayed Images in YouTubes Shorts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-how-the-newly-released-749-thinkbook-could-become-the-ultimate-windows-laptop-of-2024-insights/"><u>Discover How the Newly Released $749 ThinkBook Could Become the Ultimate Windows Laptop of 2024: Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-unmissable-steep-discounts-for-gamers-october-2024-prime-deals-showcased/"><u>Discover Unmissable Steep Discounts for Gamers: October 2024 Prime Deals Showcased</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exporting-your-final-video-from-adobe-after-effects-as-an-mp4-file-with-or-without-media-encoder/"><u>Exporting Your Final Video From Adobe After Effects as an MP4 File - With or Without Media Encoder</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-reno-11f-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo Reno 11F 5G to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Poco X5? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/massive-savings-alert-snag-lenovos-13-inch-thinkpad-x1-gen-3-tablet-for-just-1900-off-this-black-friday-zdnet-deal-of-the-year/"><u>Massive Savings Alert! Snag Lenovo's 13-Inch ThinkPad X1 Gen 3 Tablet for Just $1,900 Off This Black Friday - ZDNET Deal of the Year!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tailored-transformation-crafting-a-personalized-chatgpt/"><u>Tailored Transformation: Crafting a Personalized ChatGPT</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-for-making-taskmanager-top-priority-window/"><u>Techniques for Making TaskManager Top-Priority Window</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-16-unbeatable-christmas-season-offers-on-hewlett-packard-products-zdnet/"><u>Top 16 Unbeatable Christmas Season Offers on Hewlett Packard Products - ZDNet</u></a></li>
 </ul></div>
 

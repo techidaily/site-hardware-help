@@ -1,7 +1,7 @@
 ---
 title: FBI Exposes Dangers of Data-Theft via 'Juice Jacking' Devices in Public Areas – Learn How to Securely Charge Your Phone | ZDNet
-date: 2024-10-29T20:21:22.391Z
-updated: 2024-11-05T17:12:10.869Z
+date: 2024-11-12T22:54:17.953Z
+updated: 2024-11-15T18:36:32.833Z
 tags:
   - laptops
 categories:
@@ -125,6 +125,13 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple%2Fnew-ipad-pro-m4%2Fpcmcat1715092665904.c%3Fid%3Dpcmcat1715092665904&publisher_slug=itechdaily19598&exclusive=1) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  More Apple deals
 
 [Walmart: Save up to $1,200 on the new iPhone 15 series View now at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fcol%2Fnew-iphone&subId1=zd-__COM_CLICK_ID__-dtp)
@@ -157,6 +164,13 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [Discounts for students, teachers, educators at Apple View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fus-edu%2Fstore&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apple accessory deals
 
 [Apple Pencil (1st-gen) deal for $79 (save $20) $79 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Pencil-1st-Generation-Adapter%2Fdp%2FB0BJLG69QR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C904717af-a1e9-4853-aec6-2ece67df5521%7Cdtp&dtb=1)
@@ -171,13 +185,6 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [Apple Lightning to 3.5 mm headphone jack adapter deal for $8 (save $2) $8 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Lightning-to-3-5-mm-Headphone-Jack-Adapter%2F54738078%3Fathbdg%3DL1103&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Can I buy an iPhone without a plan?
 
 Yes, but you must ensure that your new iPhone is not locked to a specific carrier. You can buy unlocked iPhones, both new and pre-owned, from sources including Apple itself, Amazon, Best Buy, and Walmart.
@@ -186,25 +193,11 @@ Yes, but you must ensure that your new iPhone is not locked to a specific carrie
 
 Apple's AirTag, a tracking device that connects to your account and allows you to find lost objects such as your keys, is Apple's cheapest product. Typically, a single AirTag retails for $29, whereas you can also purchase four-packs for around $99 outside of sales and promotions. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is there a monthly fee for Apple iPads?
 
 This depends on the type of iPad you decide to purchase. If you opt for a Wi-Fi-only iPad -- regardless of whether you have bought a classic iPad, iPad mini, or iPad Pro -- then there will be no monthly fee or subscription. 
 
 However, if you choose an iPad with Wi-Fi and cellular connectivity, then you will need to pay for a mobile data plan to take advantage of the iPad's cellular features. 
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How did we choose these Apple deals?
 
@@ -218,6 +211,13 @@ Factors influencing our recommendations include:
 * **Use cases**: We have included a range of Apple devices on sale suitable for different uses, including work, study, entertainment, and sports.
 * **Variety**: Here at ZDNET, we want to provide you with various products and accessories in the Apple ecosystem. We've selected deals spanning laptops and smartphones to smartwatches and more.
 * **Availability**: If we come across a great Apple deal but only a few units are in stock unless it is a stellar saving you only see once in a blue moon, we will discount it and select a product with better stock levels instead.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What are the best deals right now?
 
@@ -241,10 +241,10 @@ ZDNET has been scouring the sale to find the best deals by category:
 * [The best deals under $30](https://www.zdnet.com/home-and-office/deals-under-30/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will these deals expire?
@@ -291,22 +291,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-elite-apps-leading-video-grabber-programs-for-mac/"><u>[New] In 2024, Elite Apps Leading Video Grabber Programs for Mac</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-ultimate-guide-to-remote-podcast-recording-for-2024/"><u>[New] Ultimate Guide to Remote Podcast Recording for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-mastering-distance-remote-podcast-broadcast-for-2024/"><u>[Updated] Mastering Distance Remote Podcast Broadcast for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-xiaomi-redmi-note-13-proplus-5g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Xiaomi Redmi Note 13 Pro+ 5G</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/itunesbpm/"><u>簡易步驟：利用iTunes管理及回復音樂BPM資料</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-latest-intel-uhd-graphics-drivers-for-windows-1011/"><u>Download and Install Latest Intel UHD Graphics Drivers for Windows 10/11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-updated-geforce-rtx-3070-drivers-for-enhanced-gaming-on-windows-11-or-10-step-by-step-guide/"><u>Download Updated GeForce RTX 3070 Drivers for Enhanced Gaming on Windows 11 or 10 - Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/downloading-the-latest-nvidia-geforce-rtx-2text-truncated/"><u>Downloading the Latest NVIDIA GeForce RTX 2([Text Truncated])</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-steps-to-download-your-epson-et-2750-printer-driver-for-microsoft-windows-systems/"><u>Easy Steps to Download Your Epson ET-2750 Printer Driver for Microsoft Windows Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-sound-card-driver-downloads-compatible-with-windows-os/"><u>Free Sound Card Driver Downloads Compatible with Windows OS</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Nokia 130 Music | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-transfer-your-apple-iphone-11-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Transfer your Apple iPhone 11 Apps to New iPhone | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/keyboard-techniques-to-effectively-modify-software-sizes-in-win11/"><u>Keyboard Techniques to Effectively Modify Software Sizes in Win11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-ultimate-resource-for-building-pcs-insights-from-toms-hardware/"><u>The Ultimate Resource for Building PCs - Insights From Tom's Hardware</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ultimate-guide-to-converting-movies-and-clips-into-high-quality-mp4-for-iphone-viewing/"><u>Ultimate Guide to Converting Movies and Clips Into High-Quality MP4 for iPhone Viewing</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-new-innovations-with-toms-computer-diary/"><u>Unveiling New Innovations with Tom's Computer Diary</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/upgrade-to-a-fresh-cpu-by-trading-in-your-old-one-at-newegg-compensation-starting-at-220-for-ryzen-and-300-for-intel-models-ryzen-7-i9-14900k/"><u>Upgrade to a Fresh CPU by Trading In Your Old One at Newegg: Compensation Starting at $220 for Ryzen & $300 for Intel Models (Ryzen 7, I9-14900K)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-capture-and-save-everything-on-your-screen/"><u>[New] 2024 Approved Capture & Save Everything on Your Screen</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-easy-to-implement-opening-sequences-for-you/"><u>[New] Easy-to-Implement Opening Sequences for You</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-leveraging-facebook-for-automatic-video-views-for-2024/"><u>[New] Leveraging Facebook for Automatic Video Views for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-leveraging-googles-board-tools-for-smooth-online-engagement-on-all-platforms-for-2024/"><u>[Updated] Leveraging Google's Board Tools for Smooth Online Engagement on All Platforms for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-professional-ppt-recording-tactics-and-tricks/"><u>[Updated] Professional PPT Recording Tactics and Tricks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-streaming-to-savings-preserving-your-internet-tunes/"><u>2024 Approved From Streaming to Savings Preserving Your Internet Tunes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/advancing-computational-frontiers-the-inside-scoop-on-amds-zen-5-architecture-delving-into-ryzen-9000-capabilities-ai-benchmarking-with-the-ai-300-and-cutti19/"><u>Advancing Computational Frontiers: The Inside Scoop on AMD's Zen 5 Architecture - Delving Into Ryzen 9000 Capabilities, AI Benchmarking with the AI 300, and Cutting-Edge GPU Upgrades in RDNA 3.5 & XDNA Technologies</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722974180355-download-and-set-up-corsair-void-pro-drivers-on-windows-simple-steps/"><u>Download and Set Up Corsair Void Pro Drivers on Windows - Simple Steps!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-updated-amd-rx-6700-xt-graphics-card-driver-for-various-windows-versions/"><u>Download Updated AMD RX 6700 XT Graphics Card Driver for Various Windows Versions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/epson-l3150-printer-driver-download-and-installation-guide-for-windows-1187/"><u>Epson L3150 Printer Driver Download and Installation Guide for Windows 11/8/7</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/getting-started-with-snapchats-new-spotlight-for-2024/"><u>Getting Started with Snapchat's New Spotlight for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-seamlessly-install-intels-advanced-wireless-ac-7260-network-driver-on-your-device/"><u>How to Seamlessly Install Intel's Advanced Wireless-AC 7260 Network Driver on Your Device!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-successfully-download-and-update-logitechs-mk710-mouse-drivers/"><u>How to Successfully Download and Update Logitech's MK710 Mouse Drivers</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-non-detection-of-razers-by-synapse-in-windows-11/"><u>Resolving Non-Detection of Razers by Synapse in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/speedy-mic-checks-ultimate-guide-to-effortless-microphone-testing/"><u>Speedy Mic Checks: Ultimate Guide to Effortless Microphone Testing</u></a></li>
 </ul></div>
 

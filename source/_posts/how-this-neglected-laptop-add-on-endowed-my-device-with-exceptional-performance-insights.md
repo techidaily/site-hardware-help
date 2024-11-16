@@ -1,7 +1,7 @@
 ---
 title: "How This Neglected Laptop Add-On Endowed My Device with Exceptional Performance: Insights"
-date: 2024-11-04T16:56:07.691Z
-updated: 2024-11-05T22:30:47.780Z
+date: 2024-11-15T04:04:03.876Z
+updated: 2024-11-15T17:50:57.862Z
 tags:
   - laptops
 categories:
@@ -58,10 +58,16 @@ But it's not the power that had me smitten with this laptop, nor was it the fact
 Let me explain. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The display
@@ -77,10 +83,10 @@ The image doesn't do the tiny bezel of the Aon S1 justice.
 Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The keyboard and touchpad
@@ -94,10 +100,10 @@ Jack Wallen/ZDNET
 As far as the touchpad goes, it's quite good. At roughly 5 1/8-inch X 3 5/16-inch, it's more than large enough and feels glassy and smooth. Even better, the response is fantastic. There's zero lag and the cursor moves about with ease. Again, this is hardware to rival the MacBook Pro -- which is saying quite a bit. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Performance
@@ -113,10 +119,16 @@ I installed Docker and MicroK8s and then deployed [Portainer](https://www.zdnet.
 The Aon S1 ran [Ubuntu Desktop Linux 22.04](https://www.zdnet.com/article/ubuntu-22-04-the-linux-desktop-for-work/) like a champ. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The conclusion
@@ -169,19 +181,14 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/treamline-your-songs-on-youtube-platform-for-2024/"><u>[New] Streamline Your Songs on Youtube Platform for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-navigating-zoom-meetings-on-windows-10/"><u>[Updated] Navigating Zoom Meetings on Windows 10</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-shot-recording-camcorders-for-the-hunt/"><u>2024 Approved Ultimate Shot-Recording Camcorders for the Hunt</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpts-podcast-insight-into-affordable-tech/"><u>ChatGPT’s Podcast Insight Into Affordable Tech</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/comprehensive-guide-to-eufys-solocam-s340-the-ultimate-solar-activated-motion-alert-system-reviewed/"><u>Comprehensive Guide to Eufy's Solocam S340: The Ultimate Solar-Activated Motion Alert System Reviewed</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/enhance-security-oversight-with-blinks-advanced-camera-management-solutions/"><u>Enhance Security Oversight with Blink's Advanced Camera Management Solutions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ensure-uninterrupted-melodies-amidst-raindrops-4-expert-tips-to-perfect-your-shower-serenade-experience/"><u>Ensure Uninterrupted Melodies Amidst Raindrops: 4 Expert Tips to Perfect Your Shower Serenade Experience</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/examining-the-capabilities-of-switchbot-universal-remote-one-hub-or-too-many-limitations/"><u>Examining the Capabilities of SwitchBot Universal Remote – One Hub or Too Many Limitations?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-cut-costs-on-your-computer-build-tips-for-saving-money-on-processors/"><u>How to Cut Costs on Your Computer Build: Tips for Saving Money on Processors</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/huge-savings-alert-get-the-ideal-ultrawide-monitor-at-a-stunning-600-off-in-samsungs-exclusive-sale-event/"><u>Huge Savings Alert: Get the Ideal Ultrawide Monitor at a Stunning $600 Off in Samsung's Exclusive Sale Event</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-motorola-edgeplus-2023-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Motorola Edge+ (2023) Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/tame-the-lag-beast-modern-fixes-for-a-seamless-fallout-nflow-experience-guide/"><u>Tame the Lag Beast: Modern Fixes for a Seamless Fallout Nflow Experience (Guide)</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ultimate-comic-strip-editor/"><u>Ultimate Comic Strip Editor</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/updated-what-is-ai-background-generator/"><u>Updated What Is AI Background Generator?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-plex-vs-studio-prodigies-for-2024/"><u>[Updated] Plex vs Studio Prodigies for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-insightful-ways-of-gathering-photographic-elements/"><u>2024 Approved Insightful Ways of Gathering Photographic Elements</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-voice-tactics-for-playstation-45-gamers/"><u>2024 Approved Voice Tactics for PlayStation 4/5 Gamers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/access-the-most-recent-driver-version-for-enhanced-amd-radeon-rx-480-graphics/"><u>Access the Most Recent Driver Version for Enhanced AMD Radeon RX 480 Graphics!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-radeon-rx-480-seamless-driver-installation-and-enhanced-visual-experience/"><u>AMD Radeon RX 480 - Seamless Driver Installation and Enhanced Visual Experience</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-samsung-galaxy-m34-5g-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Samsung Galaxy M34 5G to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-your-corsair-k70-mouse-drivers-complete-downloading-guide-and-resources/"><u>Install Your Corsair K70 Mouse Drivers: Complete Downloading Guide and Resources</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-the-digital-realm-through-toms-hardware-guides/"><u>Navigating the Digital Realm Through Tom's Hardware Guides</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/why-you-cant-miss-the-epic-rpg-adventure-in-yakuza-like-a-dragon/"><u>Why You Can't Miss the Epic RPG Adventure in 'Yakuza: Like A Dragon'</u></a></li>
 </ul></div>
 

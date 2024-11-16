@@ -1,7 +1,7 @@
 ---
 title: "HP's Finest Seasonal Bargains: Your Guide to the Ultimate Holiday Savings at ZDNet"
-date: 2024-10-30T21:28:09.279Z
-updated: 2024-11-06T00:06:29.573Z
+date: 2024-11-09T03:32:55.099Z
+updated: 2024-11-15T16:11:28.132Z
 tags:
   - laptops
 categories:
@@ -31,13 +31,6 @@ If you're shopping for a great deal on tech for this holiday season, ZDNET is tr
 * [Dell 14-inch portable monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-Dual-Screen-Productivity-Switching-Connectivity%2Fdp%2FB0C8LM4ZZD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0046b43f-55f5-4ae8-9820-c0ec4a0269e4%7Cdtp&dtb=1) for $274 (save $91)
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## More Dell holiday deals
 
@@ -96,6 +89,13 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6FJGWK9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0046b43f-55f5-4ae8-9820-c0ec4a0269e4%7Cdtp&dtb=1) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Best Dell laptop holiday deals
 
 * [Dell G15 gaming laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-G15-5535-Gaming-Laptop%2Fdp%2FB0CJGBMD42%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0046b43f-55f5-4ae8-9820-c0ec4a0269e4%7Cdtp&dtb=1): $1,000 (save $150)
@@ -103,6 +103,19 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell Inspiron 5635](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-Inspiron-5000-5635-Laptop%2Fdp%2FB09BW611ZP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0046b43f-55f5-4ae8-9820-c0ec4a0269e4%7Cdtp&dtb=1): $836 (save $163)
 * [Dell Inspiron 16 Plus](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Flinks%2F9041660%2Ftype%2Fdlg%2Fsid%2Fzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%2Fhttps%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-laptops%2Finspiron-16-plus-laptop%2Fspd%2Finspiron-16-7630-laptop%2Fusichbts7630gbkt): $1,100 (save $350)
 * [Dell XPS 13 9310 13.4-inch touch laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-XPS-9310-Laptop-Touchscreen%2Fdp%2FB09PR52BHK%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0046b43f-55f5-4ae8-9820-c0ec4a0269e4%7Cdtp&dtb=1) for $1,071 (save $429)
+
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Best Dell desktop holiday deals
 
@@ -114,10 +127,10 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell OptiPlex 3000 Desktop](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fdell-optiplex-3000-student-home-office%252Fp%252F1VK-0001-6EUX9) for $1,200 (save $440)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Best Dell monitor holiday deals
@@ -127,10 +140,10 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell 27-inch 4K FreeSync monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-S2721QS-Ultra-Thin-DisplayPort-Certified%2Fdp%2FB08DQWG3JG%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0046b43f-55f5-4ae8-9820-c0ec4a0269e4%7Cdtp&dtb=1) for $297 (save $33)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How did we choose these holiday deals?
@@ -138,13 +151,6 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the best holiday deals?
 
@@ -218,18 +224,22 @@ Here are the top deals by category we've found so far:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/rime-audio-solutions-for-creators/"><u>[New] Prime Audio Solutions for Creators</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-internet-idols-index-10-most-subscribed-global-creators/"><u>[Updated] Internet Idols Index 10 Most Subscribed Global Creators</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-health-conscious-recipes-using-ai-how-effective-is-chatgpt-as-a-cooking-tutor/"><u>Discover Health-Conscious Recipes Using AI: How Effective Is ChatGPT as a Cooking Tutor?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-install-drivers-for-your-xbox-360-gaming-pad-online/"><u>How To Install Drivers For Your Xbox 360 Gaming Pad Online</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-install-latest-usb-bluetooth-adapter-software-on-pc/"><u>How to Install Latest USB Bluetooth Adapter Software on PC</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-6-to-windows-10-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 6 to Windows 10? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-update-the-bmc-firmware-on-a-dell-idrac-server/"><u>How to Update the BMC Firmware on a Dell iDRAC Server</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Samsung Galaxy F54 5G | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-vivo-v30-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Vivo V30 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-gateway-to-youtube-stardom-via-studio-expertise/"><u>In 2024, The Gateway to YouTube Stardom via Studio Expertise</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-incorporating-your-drivers-license-into-iphone-wallet-instructions-vary-by-state-tips-and-tricks-from-zdnet/"><u>Step-by-Step Guide: Incorporating Your Driver's License Into iPhone Wallet (Instructions Vary by State) - Tips & Tricks From ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-secure-your-connection-with-updated-broadcom-gigabit-ethernet-driver-for-windows-11/"><u>Step-by-Step: Secure Your Connection with Updated Broadcom Gigabit Ethernet Driver for Windows 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-ranked-gaming-rigs-of-2024-the-ultimate-buyers-guide/"><u>Top-Ranked Gaming Rigs of 2024: The Ultimate Buyer's Guide</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-discover-top-platforms-for-youtube-brand-partnerships/"><u>[New] Discover Top Platforms for YouTube Brand Partnerships</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-broadcasting-with-breeze-tips-for-fb-video-sharing/"><u>[Updated] Broadcasting with Breeze Tips for FB Video Sharing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-score-selection-service-enhancing-media-pieces/"><u>[Updated] Score Selection Service Enhancing Media Pieces</u></a></li>
+<li><a href="https://solve-help.techidaily.com/comprehensive-guide-transforming-aax-files-into-mp3-format-all-your-questions-answered/"><u>Comprehensive Guide: Transforming AAX Files Into MP3 Format - All Your Questions Answered!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-how-the-new-macbook-pro-with-advanced-m2-pro-processor-transforms-your-computing-experience-expert-review/"><u>Discover How the New MacBook Pro with Advanced M2 Pro Processor Transforms Your Computing Experience – Expert Review</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/enhancing-visual-appeal-the-ultimate-guide-to-editing-instagram-videos/"><u>Enhancing Visual Appeal The Ultimate Guide to Editing Instagram Videos</u></a></li>
+<li><a href="https://win-special.techidaily.com/find-your-fix-top-tips-and-strategies-for-problem-solving/"><u>Find Your Fix: Top Tips and Strategies for Problem-Solving</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixes-for-the-c1900101-setup-complication-during-win10-install/"><u>Fixes for the C1900101 Setup Complication During Win10 Install</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-vivo-y27-5g-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Vivo Y27 5G Through Google Earth?</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-sweeping-the-audio-board-top-strategies-for-sound-excellence-at-home-film-edition-2023/"><u>In 2024, Sweeping the Audio Board Top Strategies for Sound Excellence at Home (Film Edition, 2023)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/shop-smart-grab-the-8tb-samsung-t5-at-unbeatable-prices-now-just-36-off-on-amazon-insights/"><u>Shop Smart: Grab the 8TB Samsung T5 at Unbeatable Prices, Now Just 36% Off on Amazon | Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/slash-your-budget-snag-a-discounted-razer-blade-15-from-walmart-before-memorial-day-insights-and-deals-by-zdnet/"><u>Slash Your Budget: Snag a Discounted Razer Blade 15 From Walmart Before Memorial Day - Insights & Deals by ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-ranking-tested-and-reviewed-ultimate-guide-and-quality/"><u>Top-Ranking, Tested & Reviewed, Ultimate Guide, and Quality.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/transform-your-work-experience-unveiling-intels-groundbreaking-ai-processor-for-next-gen-laptops/"><u>Transform Your Work Experience: Unveiling Intel's Groundbreaking AI Processor for Next-Gen Laptops</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unleash-your-gaming-potential-grab-the-rare-opportunity-to-save-57-on-the-high-performance-gigabyte-aero-16-zdnet-deals/"><u>Unleash Your Gaming Potential: Grab the Rare Opportunity to Save 57% on the High-Performance Gigabyte Aero 16 | ZDNET Deals</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unleashing-the-power-of-sound-top-tier-affordable-gaming-headsets-now-30-discounted-on-amazon-featured-by-zdnet/"><u>Unleashing the Power of Sound: Top-Tier Affordable Gaming Headsets Now 30% Discounted on Amazon - Featured by ZDNet!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/zdnets-ultimate-list-of-the-most-reliable-chromebooks-for-academics-expert-insights-and-evaluations/"><u>ZDNet's Ultimate List of the Most Reliable Chromebooks for Academics - Expert Insights and Evaluations</u></a></li>
 </ul></div>
 

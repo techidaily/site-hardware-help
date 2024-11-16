@@ -1,7 +1,7 @@
 ---
 title: Easy Instructions to Enhance Your Epson XP-640 with Newest Windows Driver Update
-date: 2024-08-19T12:30:28.926Z
-updated: 2024-08-20T12:30:28.926Z
+date: 2024-11-10T00:06:01.229Z
+updated: 2024-11-16T06:34:25.516Z
 tags:
   - win11
   - win10
@@ -43,14 +43,34 @@ thumbnail: https://thmb.techidaily.com/c0f93108181366d1b09090c17e7518417597848be
 5. Click **the downward triangle**  to view the details of that driver. Then you can click **the download button**  to download that driver. If you want to download multiple drivers, you can also click **the plus button**  to add it to your downloads list first.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap671.png)
 6. Click **My downloads list**  to view all the drivers you want to download.  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap672.png)
 7. Click **the Download button**  . Then follow the on-screen instruction to download these driver files.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap673.png)
 8. After all the driver files are downloaded on your X1 Carbon, double-click the driver files one by one and follow the on-screen instructions to install the updated driver files on your X1 Carbon.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 2: Download and update the drivers for your Lenovo X1 Carbon automatically
 
  If you don’t have the time, patience or computer skills to download and update the drivers for your Lenovo X1 Carbon manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .  You don’t need to know exactly what system your X1 Carbon is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all** .
@@ -61,14 +81,16 @@ thumbnail: https://thmb.techidaily.com/c0f93108181366d1b09090c17e7518417597848be
 2. Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap674.png)
 3. Click **Update**  next to any device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.** You get **full support**  and a **30-day money back**  guarantee).  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap675.png)  
  You can do it for free if you like, but it’s partly manual.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
  If you need assistance, please contact**Driver Easy’s support team** at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  Please leave your comment below if you have any questions or suggestions!
@@ -83,8 +105,6 @@ thumbnail: https://thmb.techidaily.com/c0f93108181366d1b09090c17e7518417597848be
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -92,4 +112,21 @@ thumbnail: https://thmb.techidaily.com/c0f93108181366d1b09090c17e7518417597848be
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/visioncaptor-new-era-of-screen-recorders-unveiled-for-2024/"><u>'VisionCaptor' New Era of Screen Recorders Unveiled for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-explore-the-best-10-vectors-online-archives/"><u>[Updated] Explore the Best 10 Vectors Online Archives</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-infinite-possibilities-on-a-track-top-5-racing-simulators-reviewed/"><u>[Updated] In 2024, Infinite Possibilities on a Track Top 5 Racing Simulators Reviewed</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-storage-solutions-ps5s-top-10-external-units-for-2024/"><u>[Updated] Storage Solutions PS5's Top 10 External Units for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-the-evolved-examination-of-sony-bdp-s3700/"><u>2024 Approved The Evolved Examination of Sony BDP-S3700</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fix-and-improve-performance-a-complete-guide-to-intels-optane-drivers-download-and-update-process-in-windows/"><u>Fix & Improve Performance: A Complete Guide to Intels Optane Drivers Download and Update Process in Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-new-brother-hl-2270dw-driver-for-your-windows-pc-step-by-step-download-tutorial/"><u>Get the New Brother HL- 2270DW Driver for Your Windows PC – Step by Step Download Tutorial</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/guide-complet-pour-lutilisation-de-rsync-sous-windows-11-tutorials-et-solutions-dalternative/"><u>Guide Complet Pour L'Utilisation De Rsync Sous Windows 11: Tutorials Et Solutions D'Alternative</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-spectacular-time-lapses-with-gopro-hero5-black/"><u>In 2024, Crafting Spectacular Time-Lapses with GoPro Hero5 Black</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-easy-installation-of-scansnap-software-on-your-pc/"><u>Quick & Easy Installation of ScanSnap Software on Your PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ryzen-ai-9-hx-370-vs-intel-single-core-showdown-wins-with-zen-5-advantage-bests-core-ultra-7-and-rivals/"><u>Ryzen AI 9 HX 370 Vs. Intel: Single-Core Showdown Wins with Zen 5 Advantage - Bests Core Ultra 7 & Rivals</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Vivo Y28 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723262325418-the-aftermath-of-zen-5s-initial-ryzen-9000-die-failure-a-deep-dive-into-cracked-dice-and-residual-solder-evidence/"><u>The Aftermath of Zen 5'S Initial Ryzen 9000 Die Failure - A Deep Dive Into Cracked Dice & Residual Solder Evidence</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ltimate-collection-of-youtube-beauty-icons-to-admire/"><u>The Ultimate Collection of YouTube Beauty Icons to Admire</u></a></li>
+</ul></div>
 

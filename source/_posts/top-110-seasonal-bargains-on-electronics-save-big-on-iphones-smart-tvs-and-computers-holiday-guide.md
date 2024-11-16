@@ -1,7 +1,7 @@
 ---
 title: Top 110 Seasonal Bargains on Electronics - Save Big on iPhones, Smart TVs & Computers Holiday Guide
-date: 2024-11-04T19:29:25.715Z
-updated: 2024-11-05T16:53:33.432Z
+date: 2024-11-11T22:38:01.225Z
+updated: 2024-11-15T16:02:18.231Z
 tags:
   - laptops
 categories:
@@ -62,6 +62,13 @@ Maria Diaz/ZDNET
 * [Kasa Smart Plug Ultra Mini (2 pack)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FKasa-Smart-Required-Certified-EP10P2%2Fdp%2FB091FXQQMQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C64a20af7-8389-48d7-8a23-37d516af0c68%7Cdtp&dtb=1): $12 (save $8 at Amazon)
 * [Windows 11 Pro](https://www.stacksocial.com/sales/microsoft-windows-11-pro?utm%5Fsource%3Dzdnet.com%26utm%5Fmedium%3Dreferral%26utm%5Fcampaign%3Dmicrosoft-windows-11-pro%26utm%5Fterm%3Dscsf-572750%26utm%5Fcontent%3Da0x1P000004Im9wQAC%26scsonar%3D1%26aid%3Da-ceempx7z&sa=D&source=docs&ust=1686856045303167&usg=AOvVaw3GdVuYpgozg%5FgfSi8QlrTM): $25 (save $175 at Stack Social)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Best holiday deals under $50
 
 Artie Beaty/ZDNET
@@ -71,13 +78,6 @@ Artie Beaty/ZDNET
 * [Anker Nano Power Bank (30W)](https://click.linksynergy.com/deeplink?id=IokOf8qagZo&mid=43469&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&murl=https%3A%2F%2Fwww.anker.com%2Fproducts%2Fa1259-built-in-cable-power-bank-10000mah): $40 (save $10 with on-site coupon)
 * [Sonic Origins Plus, PlayStation 5](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSonic-Origins-Plus-PlayStation-5%2Fdp%2FB0BZFCRLDW%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C64a20af7-8389-48d7-8a23-37d516af0c68%7Cdtp&dtb=1): $28 (save $12 at Amazon)
 * [Fossil Men's Ingram Leather RFID-Blocking Bifold Wallet](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FFossil-Mens-Bifold-Wallet-Black%2Fdp%2FB018ZMVPQC%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C64a20af7-8389-48d7-8a23-37d516af0c68%7Cdtp&dtb=1): $30 (save $30 at Amazon)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Best holiday deals under $100
 
@@ -90,6 +90,13 @@ June Wan/ZDNET
 * [Costco membership](https://www.stacksocial.com/sales/costco-1-year-gold-star-membership-a-40-digital-costco-shop-card?utm%5Fsource=zdnet.com&utm%5Fmedium=referral&utm%5Fcampaign=costco-1-year-gold-star-membership-30-costco-card&utm%5Fterm=scsf-566150&utm%5Fcontent=a0x1P0000058Tp1QAE&scsonar=1&aid=a-ceempx7z): $60 (get a free $40 gift card at Stack Social)
 * [DeWalt 20V Max 1/2 inch cordless drill with battery and charger](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDEWALT-Cordless-Battery-Included-DCD777D1%2Fdp%2FB0C3TGRLLM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C64a20af7-8389-48d7-8a23-37d516af0c68%7Cdtp&dtb=1): $99 (save $60 at Amazon)
 * [Canon Ivy 2 Mini Photo Printer](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BGM5XPQZ%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C64a20af7-8389-48d7-8a23-37d516af0c68%7Cdtp&dtb=1): $69 (save $30 at Amazon)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Best holiday deals under $200
 
@@ -133,10 +140,10 @@ Jason Hiner/ZDNET
 * [Apple iPad Air (M1 chip, 10.9-inch, 64GB, Wi-Fi + Cellular):](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-iPad-Air-5th-Generation%2Fdp%2FB09V3JWQKB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C64a20af7-8389-48d7-8a23-37d516af0c68%7Cdtp&dtb=1) $650 (save $100 at Amazon)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Best holiday robot vacuum deals
@@ -167,19 +174,6 @@ June Wan/ZDNET
 * [TCL 55-inch Q6 QLED Fire TV](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FTCL-55-Inch-55Q650F-Streaming-Television%2Fdp%2FB0C1J581SJ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C64a20af7-8389-48d7-8a23-37d516af0c68%7Cdtp&dtb=1): $350 (save $150 at Amazon)
 * [Amazon Fire TV Omni QLED 55-inch](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fintroducing-amazon-fire-tv-55-inch-omni-qled-series-smart-tv%2Fdp%2FB09N6ZRH6C%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C64a20af7-8389-48d7-8a23-37d516af0c68%7Cdtp&dtb=1): $450 (save $150 at Amazon)
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best holiday smartwatch deals
 
 Matthew Miller/ZDNET
@@ -201,6 +195,13 @@ Jada Jones/ZDNET
 * [Google Pixel Buds Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FGoogle-Pixel-Buds-Pro-Headphones%2Fdp%2FB0B1NGPY94%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C64a20af7-8389-48d7-8a23-37d516af0c68%7Cdtp&dtb=1): $120 (save $80 at Amazon)
 * [Sennheiser HD 650 stereo reference headphones](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F310010-REG%2FSennheiser%5FHD%5F650%5FHD650%5FReference%5FClass.html): $400 (save $100 at B&H Photo)
 * [Samsung Galaxy Buds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Wireless-Bluetooth-Wing-Tip-Assistant%2Fdp%2FB0CF7GYNW2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C64a20af7-8389-48d7-8a23-37d516af0c68%7Cdtp&dtb=1): $70 (save $30 at Amazon)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Best holiday phone deals
 
@@ -226,10 +227,10 @@ Jason Hiner/ZDNET
 * [Lenovo LOQ Tower Intel Edition](https://go.shopyourlikes.com/pi/bc82422a965d3574bb1afda3dd1ab5b7fb336893?afId=614548&afCampaignId=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&afCreativeId=2993&afPlacementId=2): $650 (save $380 at Lenovo)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Best holiday tablet deals
@@ -248,13 +249,6 @@ Maria Diaz/ZDNET
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the best holiday deals?
 
@@ -324,22 +318,22 @@ ZDNET's experts have been searching for holiday deals across sites like Amazon, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-screenflow-exploration-a-mac-focused-journey-through-video-editing/"><u>[New] In 2024, ScreenFlow Exploration A Mac-Focused Journey Through Video Editing</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-maximizing-your-mac-preview-experience-step-by-step/"><u>[New] Maximizing Your Mac Preview Experience Step-by-Step</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/he-ultimate-list-of-preferred-youtube-video-formats-for-2024/"><u>[New] The Ultimate List of Preferred YouTube Video Formats for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastering-cost-effective-techniques-in-text-animations/"><u>[Updated] Mastering Cost-Effective Techniques in Text Animations</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-dive-deep-into-video-creation-with-these-top-12-vlogger-friendly-cameras/"><u>2024 Approved Dive Deep Into Video Creation with These Top 12 Vlogger-Friendly Cameras</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-light-it-right-elevating-your-youtube-video-presence/"><u>2024 Approved Light It Right Elevating Your YouTube Video Presence</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/direct-download-the-ultimate-behringer-usb-audio-controller-drivers/"><u>Direct Download – The Ultimate Behringer USB Audio Controller Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-asus-bluetooth-drivers-with-simple-updates-streamlined-compatibility/"><u>Download ASUS Bluetooth Drivers with Simple Updates: Streamlined Compatibility</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-download-gigabyte-sound-card-software/"><u>Free Download: Gigabyte Sound Card Software</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/gtx-1650-super-graphics-card-drivers-free-download-and-compatibility-with-windows-11/"><u>GTX 1650 Super Graphics Card Drivers: Free Download & Compatibility with Windows 11</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/how-to-achieve-slick-sound-segmentation-in-premiere/"><u>How to Achieve Slick Sound Segmentation in Premiere</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Vivo T2 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-the-setup-a-guide-to-downloading-and-installing-arduino-nano-drivers-on-your-windows-computer/"><u>Mastering the Setup: A Guide to Downloading and Installing Arduino Nano Drivers on Your Windows Computer</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/sades-headset-drivers-download-for-windows-100-safe/"><u>Sades Headset Drivers Download for Windows [100% Safe]</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/upcoming-amd-zen-5-fire-series-cpus-maintain-fl1-chip-design-implications-for-next-gen-rtx-40-graphics-in-refreshed-laptops/"><u>Upcoming AMD Zen 5 Fire Series CPUs Maintain FL1 Chip Design: Implications for Next-Gen RTX 40 Graphics in Refreshed Laptops</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-your-canoscan-lide-220-scanner-step-by-step-guide-to-latest-software/"><u>Update Your CanoScan LiDE 220 Scanner - Step-By-Step Guide To Latest Software</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/visionary-6-eco-friendly-minecraft-mansions-for-2024/"><u>Visionary 6 Eco-Friendly Minecraft Mansions for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-digital-filmmakers-guide-converting-avi-media-to-compact-gif-format-in-filmora/"><u>[Updated] 2024 Approved Digital Filmmakers' Guide Converting AVI Media to Compact GIF Format in Filmora</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-deciding-on-itop-recorder-an-indispensable-tool/"><u>[Updated] Deciding on ITop Recorder - An Indispensable Tool?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-breaking-through-with-stunning-hdr-portrait-shots/"><u>[Updated] In 2024, Breaking Through with Stunning HDR Portrait Shots</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/3-ways-to-export-contacts-from-apple-iphone-6-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>3 Ways to Export Contacts from Apple iPhone 6 to Excel CSV & vCard Easily | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/creazione-di-un-server-dlna-su-un-computer-basato-su-windows-10-guida-dettagliata/"><u>Creazione Di Un Server DLNA Su Un Computer Basato Su Windows 10: Guida Dettagliata</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/decoding-microsofts-new-releases-a-detailed-insight-into-octobers-surface-event-as-reported-by-zdnet/"><u>Decoding Microsoft’s New Releases: A Detailed Insight Into October’s Surface Event as Reported by ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-hidden-gem-in-your-asus-laptop-that-youre-not-using-enough-according-to-zdnet/"><u>Discover the Hidden Gem in Your Asus Laptop That You're Not Using Enough, According to ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-review-testing-all-latest-artificial-intelligence-enhancements-in-copilotplus-for-desktops-are-they-worth-the-buzz/"><u>Exclusive Review: Testing All Latest Artificial Intelligence Enhancements in Copilot+ for Desktops - Are They Worth the Buzz?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-cutting-edge-ai-capabilities-on-new-devices-discover-the-features-of-microsofts-surface-pro-10-and-laptop-6-zdnet/"><u>Experience Cutting-Edge AI Capabilities on New Devices - Discover the Features of Microsoft's Surface Pro 10 and Laptop 6 | ZDNET</u></a></li>
+<li><a href="https://program-issues.techidaily.com/get-your-discord-overlays-back-with-simple-steps-a-step-by-step-guide/"><u>Get Your Discord Overlays Back with Simple Steps - A Step-by-Step Guide!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-infinix-note-30-pro-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Infinix Note 30 Pro</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/samsung-copilotplus-reviewed-why-it-deserves-your-attention-as-the-premier-deal-for-windows-enthusiasts-zdnet-insights/"><u>Samsung Copilot+ Reviewed: Why It Deserves Your Attention as the Premier Deal for Windows Enthusiasts | ZDNET Insights</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-ultimate-hitchhikers-guide-to-youtube-playlists-for-2024/"><u>The Ultimate Hitchhiker's Guide to YouTube Playlists for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/transform-your-productivity-with-lenovos-innovative-ai-enhanced-thinkpads-what-business-users-need-to-know-zdnet-exclusive-report/"><u>Transform Your Productivity with Lenovo's Innovative AI-Enhanced ThinkPads – What Business Users Need to Know | ZDNET Exclusive Report</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-walmart-bargains-pre-holiday-season-expert-picks-to-save-big-on-prime-day-and-beyond/"><u>Ultimate Walmart Bargains Pre-Holiday Season: Expert Picks to Save Big on Prime Day & Beyond!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upcoming-treasures-from-the-big-tech-treehouse-unveiling-of-apples-new-m4-mac-mini-enhanced-ipad-lineup-and-latest-innovations-at-octobers-special-event-the16/"><u>Upcoming Treasures From the Big Tech Treehouse: Unveiling of Apple’s New M4 Mac Mini, Enhanced iPad Lineup, and Latest Innovations at October's Special Event - The Insightful Guide by ZDNet</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/blogging-victory-surviving-ten-frequent-phobias-for-2024/"><u>Videoblogging Victory Surviving Ten Frequent Phobias for 2024</u></a></li>
 </ul></div>
 

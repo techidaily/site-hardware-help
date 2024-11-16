@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Gaming Audio: Top-Rated Speakers Now Up to 30%% Discounted on Amazon | ZDNet Tech Review"
-date: 2024-11-02T17:50:35.641Z
-updated: 2024-11-05T22:19:56.746Z
+date: 2024-11-14T17:11:26.579Z
+updated: 2024-11-15T16:49:18.142Z
 tags:
   - laptops
 categories:
@@ -71,10 +71,10 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -86,16 +86,10 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -132,24 +126,22 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-combining-youtube-videos-for-seamless-playback/"><u>[New] 2024 Approved Combining YouTube Videos for Seamless Playback</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ow-to-blur-faces-or-objects-in-youtube-videos/"><u>[New] How to Blur Faces or Objects in YouTube Videos</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/edia-mosaic-maker-for-2024/"><u>[New] Media Mosaic Maker for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-harness-the-power-of-fb-lives-selecting-the-top-5-downloading-apps/"><u>[Updated] Harness the Power of FB Lives Selecting the Top 5 Downloading Apps</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-boosting-revenue-with-youtube-short-videos-a-complete-plan/"><u>2024 Approved Boosting Revenue with YouTube Short Videos – A Complete Plan</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722965298269-fixing-csr8510-a10-driver-problems-on-windows-systems-now-resolved/"><u>Fixing CSR8510 A10 Driver Problems on Windows Systems - Now Resolved!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-toshiba-laptop-drivers-compatible-with-windows-software/"><u>Get the Latest Toshiba Laptop Drivers Compatible with Windows Software</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-install-the-latest-drivers-for-your-epson-xp-640-on-a-pc-with-windows-os/"><u>How to Install the Latest Drivers for Your Epson XP-640 on a PC with Windows OS</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-nubia-red-magic-8s-proplus-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Nubia Red Magic 8S Pro+ Device SIM</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-lava-agni-2-5g-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Lava Agni 2 5G to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/linksys-wusb6300-driver-download-and-setup-instructions-for-beginners/"><u>Linksys WUSB6300 Driver Download & Setup Instructions for Beginners</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/master-discocast-your-discord-recorder-handbook-for-2024/"><u>Master DiscoCast Your Discord Recorder Handbook for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722978550614-positive-externalities-occur-when-a-transaction-has-beneficial-effects-on-uninvolved-third-parties-such-as-education/"><u>Positive Externalities Occur when a Transaction Has Beneficial Effects on Uninvolved Third Parties, Such as Education.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/precision-in-personal-health-chatgpts-plan-writing/"><u>Precision in Personal Health: ChatGPT's Plan-Writing</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-installing-the-latest-amd-drivers-for-windows-users-10-11-and-7/"><u>Step-by-Step Guide: Installing the Latest AMD Drivers for Windows Users (10, 11 & 7)</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/iques-for-emptying-youtubes-keep-queue/"><u>Techniques for Emptying YouTube's Keep Queue</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/thrustmaster-t150-mastery-secure-the-right-driver-software-now-for-optimal-performance/"><u>Thrustmaster T150 Mastery - Secure the Right Driver Software Now for Optimal Performance</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-the-latest-in-tech-exploring-toms-hardware-insights/"><u>Unveiling the Latest in Tech: Exploring Tom's Hardware Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-the-zen-5-flagship-ryzen-9-9950x-tested-to-its-limits-with-blender-at-max-settings/"><u>Unveiling the Zen 5 Flagship - Ryzen 9 9950X Tested to Its Limits with Blender at Max Settings</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-finding-fame-on-insta-month-by-month-guide-to-reaching-the-million-mark/"><u>[New] In 2024, Finding Fame on Insta Month by Month Guide to Reaching the Million Mark</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-streamlining-the-capture-process-in-competitive-rl-gaming/"><u>[New] Streamlining the Capture Process in Competitive RL Gaming</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-economical-360-cameras-for-quality-videography-for-2024/"><u>[Updated] Economical 360° Cameras for Quality Videography for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1716777291859-updated-how-to-reverse-videos-on-android/"><u>[Updated] How to Reverse Videos on Android?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-set-of-gigabyte-z370p-motherboard-drivers-download-now/"><u>Complete Set of Gigabyte Z370P Motherboard Drivers – Download Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-m3-macbook-air-analysis-how-apples-revolutionary-ai-powered-laptop-is-changing-the-game-zdnet/"><u>Comprehensive M3 MacBook Air Analysis: How Apple's Revolutionary AI-Powered Laptop Is Changing the Game | ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-and-rapid-download-of-your-ft23nr-serial-communication-device-drivers/"><u>Easy and Rapid Download of Your FT23nR Serial Communication Device Drivers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-personal-health-with-chatgpt-top-9-applications/"><u>Enhancing Personal Health with ChatGPT: Top 9 Applications</u></a></li>
+<li><a href="https://video-capture.techidaily.com/farmers-fantasy-top-10-game-simulations-unveiled/"><u>Farmers' Fantasy Top 10 Game Simulations Unveiled</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722963327911-how-to-obtain-and-install-the-newest-asus-xonar-dgx-drivers-today/"><u>How to Obtain and Install the Newest ASUS Xonar DGx Drivers Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-hp-scanjet-printer-drivers-download-compatible-with-windows-1087/"><u>Latest HP Scanjet Printer Drivers Download: Compatible with Windows 10/8/7</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/monthly-earnings-from-youtube-as-a-content-creator-for-2024/"><u>Monthly Earnings From YouTube as a Content Creator for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-digital-frontiers-with-toms-hardware-insights-t17238642572173/"><u>Navigating Digital Frontiers with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-the-world-of-computing-equipment-tips-from-toms-hardware/"><u>Navigating the World of Computing Equipment: Tips From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-installing-your-logitech-mx-master-mouse-driver/"><u>Step-by-Step Guide: Installing Your Logitech MX Master Mouse Driver</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-tutorial-getting-the-right-driver-for-your-samsung-960-evo-m2-in-windows-environments/"><u>Ultimate Tutorial: Getting the Right Driver for Your Samsung 960 EVO M.2 In Windows Environments</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlocking-performance-top-picks-from-toms-computing-insights/"><u>Unlocking Performance: Top Picks From Tom's Computing Insights</u></a></li>
 </ul></div>
 

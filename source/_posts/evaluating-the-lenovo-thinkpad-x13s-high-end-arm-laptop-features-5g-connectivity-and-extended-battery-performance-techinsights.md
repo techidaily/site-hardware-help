@@ -1,7 +1,7 @@
 ---
 title: "Evaluating the Lenovo ThinkPad X13s: High-End ARM Laptop Features 5G Connectivity & Extended Battery Performance - TechInsights"
-date: 2024-10-30T22:42:10.908Z
-updated: 2024-11-05T17:40:09.845Z
+date: 2024-11-12T02:27:55.835Z
+updated: 2024-11-15T16:25:39.832Z
 tags:
   - laptops
 categories:
@@ -66,10 +66,10 @@ For connections, you're limited to two USB-C (3.2 Gen 2) ports on the left side,
 You can access the innards of the ThinkPad X13s by removing six screws and prising off the bottom cover, although upgrade options are limited. We did poke around inside our first review unit, which arrived with no functioning Wi-Fi and no access to the webcam, to no avail. Our second review unit worked just fine. For all its thin-and-lightness, the ThinkPad X13s is [MIL-STD-810H](https://en.wikipedia.org/wiki/MIL-STD-810)\-tested and should cope with the rigours of a mobile professional's routine. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Features
@@ -83,10 +83,10 @@ There are three screen options, all IPS panels with WUXGA (1920 x 1200) resoluti
 As well as the biometric authentication methods noted earlier, the ThinkPad X13s includes internal security features such as a discrete TPM 2.0 chip, Microsoft's [Pluton TPM architecture](https://learn.microsoft.com/en-us/windows/security/information-protection/pluton/pluton-as-tpm) running on the Snapdragon 8cx Gen 3's SPU (Secure Processing Unit) and a self-healing BIOS. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Performance & battery life
@@ -118,16 +118,10 @@ Thermal camera images of the ThinkPad X13s under load.
 Images: Charles McLellan / ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Conclusions
@@ -181,10 +175,10 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -232,16 +226,18 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-optimizing-your-xbox-experience-with-advanced-screen-capture-methods-for-2024/"><u>[New] Optimizing Your Xbox Experience with Advanced Screen Capture Methods for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-comprehensive-playbook-for-self-branded-content-creators/"><u>[New] The Comprehensive Playbook for Self-Branded Content Creators</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-elevate-your-campaigns-innovative-approaches-to-fb-video-ads/"><u>[Updated] In 2024, Elevate Your Campaigns Innovative Approaches to FB Video Ads</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-mastering-the-art-of-sound-in-tiktok-videos/"><u>[Updated] In 2024, Mastering the Art of Sound in TikTok Videos</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/brother-l2700dw-driver-setup-and-download-instructions-for-windows-pcs/"><u>Brother L2700DW Driver Setup & Download Instructions for Windows PCs</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/exploratory-extension-tripod-the-best-for-adventures/"><u>Exploratory Extension Tripod: The Best for Adventures</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-updated-installing-hp-officejet-4655-printer-software/"><u>Get Updated: Installing HP Officejet 4655 Printer Software</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/intel-quick-storage-solutions-fresh-driver-downloads-for-optimal-pc-functionality/"><u>Intel Quick Storage Solutions: Fresh Driver Downloads for Optimal PC Functionality</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-definitive-guide-to-installing-the-latest-zebra-zp450-driver-software/"><u>The Definitive Guide to Installing the Latest Zebra ZP450 Driver Software</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-insightful-tutorials-on-pc-components-and-software/"><u>Tom's Insightful Tutorials on PC Components & Software</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-iphone-hacks-for-capturing-stunning-skyline-shots/"><u>Top iPhone Hacks for Capturing Stunning Skyline Shots</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-top-offline-iphone-and-ipad-games-fun-without-wi-fi/"><u>[New] Top Offline iPhone & iPad Games – Fun Without Wi-Fi</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-ultimate-eye-candy-for-digital-performances/"><u>2024 Approved Ultimate Eye Candy for Digital Performances</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/boosting-chromeos-development-the-importance-of-sharing-feedback-and-how-it-benefits-everyone/"><u>Boosting ChromeOS Development: The Importance of Sharing Feedback and How It Benefits Everyone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/day-three-highlights-from-ces-202n-exclusive-htc-and-google-reveals-and-more-must-read-tech-news-zdnet/"><u>Day Three Highlights From CES 202N: Exclusive HTC & Google Reveals & More Must-Read Tech News - ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-the-revolutionary-lenovo-yoga-book-9i-the-pioneering-laptop-with-dual-oled-screens-explore-more/"><u>Experience the Revolutionary Lenovo Yoga Book 9I: The Pioneering Laptop with Dual OLED Screens - Explore More</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-your-complete-reference-to-durecorders-features/"><u>In 2024, Your Complete Reference to DuRecorder’s Features</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-the-demand-for-ai-expertise-in-hiring-how-your-capabilities-matter-zdnet/"><u>Navigating the Demand for AI Expertise in Hiring: How Your Capabilities Matter | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/noctua-enhances-sff-computing-introducing-the-nh-l12sx77-low-profile-cpu-cooler-for-optimal-ram-placement-and-superior-vrm-temperature-control/"><u>Noctua Enhances SFF Computing: Introducing the NH-L12Sx77 Low-Profile CPU Cooler for Optimal Ram Placement & Superior VRM Temperature Control</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/peak-performance-powerhouses-gadgets-galore-for-2024/"><u>Peak Performance Powerhouses, Gadgets Galore for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-prime-day-tech-bargains-exclusive-october-2024-laptops-on-sale-discovered/"><u>Top Prime Day Tech Bargains: Exclusive October 2024 Laptops on Sale - Discovered</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/top-tips-to-stream-rust-like-a-pro-for-2024/"><u>Top Tips to Stream Rust Like a Pro for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upcoming-harsh-climate-boosts-prospects-for-shoppers-puts-pressure-on-computer-producers/"><u>Upcoming Harsh Climate Boosts Prospects for Shoppers, Puts Pressure on Computer Producers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/upconversion-unveiled-sdr-to-hdri-a-complete-guide-for-2024/"><u>Upconversion Unveiled SDR to HDRI - A Complete Guide for 2024</u></a></li>
 </ul></div>
 

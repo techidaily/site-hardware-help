@@ -1,7 +1,7 @@
 ---
 title: "Mega Deals at Best Buy's Milestone Event: Save Big on Tech Gadgets Including Tablets, Watches & Computers – Insights From ZDNet"
-date: 2024-11-01T22:14:42.309Z
-updated: 2024-11-05T20:12:41.949Z
+date: 2024-11-10T00:46:50.803Z
+updated: 2024-11-16T04:51:47.793Z
 tags:
   - laptops
 categories:
@@ -41,10 +41,10 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -60,10 +60,10 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -77,10 +77,10 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -123,18 +123,18 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-elite-ipad-speech-recording-tools-3/"><u>[New] 2024 Approved Elite iPad Speech Recording Tools #3</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-screenshot-success-a-guide-to-capturing-your-display/"><u>[Updated] 2024 Approved Screenshot Success A Guide to Capturing Your Display</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-frontier-gadgets-galore-top-10-vr-accessories/"><u>[Updated] Frontier Gadgets Galore Top 10 VR Accessories</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/avoid-gaming-crashes-on-intel-13th-and-14th-gen-cpus-with-new-in-game-warning-comprehebate-your-system-now/"><u>Avoid Gaming Crashes on Intel 13Th and 14Th Gen CPUs with New In-Game Warning – Comprehebate Your System Now!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/brother-mfc-j480dw-driver-installation-for-windows-operating-systems-a-step-by-step-guide/"><u>Brother MFC J480DW Driver Installation for Windows Operating Systems: A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-amds-newest-tech-the-french-release-of-ryzen-9-cpus-with-the-ryzen-9-9900x-at-649/"><u>Discover AMD's Newest Tech: The French Release of Ryzen 9 CPUs, with the Ryzen 9 9900X at €649</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-newly-updated-corsair-h80i-v2-graphics-card-cooler-drivers/"><u>Download the Newly Updated Corsair H80i V2 Graphics Card Cooler Drivers</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/dvdandwinx-dvd-copy-pro2dvd1dvd-r/"><u>DVD抽出&圧縮ガイド：WinX DVD Copy Proで2層DVD片面のデータを1層DVD-Rに移行可能か？</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/focus-on-details-masterful-close-up-techniques-for-gaming-for-2024/"><u>Focus on Details Masterful Close-Up Techniques for Gaming for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Honor Play 8T | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-your-iphone-xs-full-potential/"><u>In 2024, Unlock Your iPhone X's Full Potential</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/production-error-leads-to-possible-delay-in-launching-the-new-amd-ryzen-9000-processors-mistakenly-marked-ryzen-7-chip-appears-consequences-for-ryzen-5-960025/"><u>Production Error Leads to Possible Delay in Launching the New AMD Ryzen 9000 Processors: Mistakenly Marked Ryzen 7 Chip Appears; Consequences for Ryzen 5 9600X Still Under Evaluation</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-gaming-mice-secure-logitech-g-pro-driver-software-now/"><u>Top-Rated Gaming Mice - Secure Logitech G Pro Driver Software Now!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-shooting-for-beginners-best-cams-reviewed-2024-edition/"><u>[Updated] Shooting for Beginners Best Cams Reviewed 2024 Edition</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-striking-the-right-balance-essential-thumbnail-size-tips/"><u>[Updated] Striking the Right Balance Essential Thumbnail Size Tips</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-proven-techniques-for-amplifying-tiktok-unboxing-success/"><u>2024 Approved Proven Techniques for Amplifying TikTok Unboxing Success</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-tips-for-maximizing-iphone-xs-cinematic-shots/"><u>2024 Approved Top Tips for Maximizing iPhone X's Cinematic Shots</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-oppo-find-n3-flip-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Oppo Find N3 Flip to iPhone | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/advancing-business-acumen-with-process-intelligence-insights-from-the-abbyy-perspective/"><u>Advancing Business Acumen with Process Intelligence – Insights From the ABBYY Perspective</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-freeze-comprehensive-solutions-for-steam-malfunctions/"><u>Beat the Freeze: Comprehensive Solutions for Steam Malfunctions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-tutorial-with-steps-to-securely-downloading-the-focusrite-scarlett-solo-software-for-windows-users/"><u>Complete Tutorial with Steps to Securely Downloading the Focusrite Scarlett Solo Software for Windows Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-finest-movie-streaming-replacements-exploring-the-best-7-dvd-rentals-of-202/"><u>Discover the Finest Movie Streaming Replacements: Exploring the Best 7 DVD Rentals of 202</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-latest-evga-graphics-card-drivers-on-windows-pc/"><u>Download & Install Latest EVGA Graphics Card Drivers on Windows PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-latest-hp-pagewide-pro-477dw-printer-drivers-for-windows-11-10-and-8/"><u>Download the Latest HP PageWide Pro 477DW Printer Drivers for Windows 11, 10 & 8</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-your-newest-nvidia-gpu-drivers-for-win7-win8-and-win10-systems/"><u>Download Your Newest Nvidia GPU Drivers for Win7, Win8 & Win10 Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-upgrade-your-wireless-drivers-and-software-on-windows-11-and-10/"><u>How to Upgrade Your Wireless Drivers & Software on Windows 11 and 10</u></a></li>
 </ul></div>
 

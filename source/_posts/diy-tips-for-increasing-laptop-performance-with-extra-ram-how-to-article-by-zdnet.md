@@ -1,7 +1,7 @@
 ---
 title: DIY Tips for Increasing Laptop Performance with Extra RAM - How-To Article by ZDNet
-date: 2024-10-30T23:36:52.174Z
-updated: 2024-11-05T18:55:25.287Z
+date: 2024-11-08T18:55:39.268Z
+updated: 2024-11-15T22:58:11.664Z
 tags:
   - laptops
 categories:
@@ -49,10 +49,10 @@ It consists of three parts:
 The idea is that it allows you to combine your smartphone with your laptop or tablet to allow the two to work together more efficiently. And the light is for those situations where you're in front of the screen, but there just isn't enough light on you.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Edge mount
@@ -82,10 +82,16 @@ The adhesive pad is really strong.
 Adrian Kingsley-Hughes/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Edge wireless charger
@@ -109,10 +115,10 @@ Adrian Kingsley-Hughes/ZDNET
 Made of CNC aluminum, the Edge wireless charger is stylish and super-practical. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Edge light
@@ -134,10 +140,10 @@ Adrian Kingsley-Hughes/ZDNET
 **Also:** [**The 5 best phone ring lights**](https://www.zdnet.com/article/best-phone-ring-light/) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The bottom line
@@ -178,22 +184,20 @@ The build quality is excellent and this is a kit that will give you years of ser
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-broadcast-your-google-meet-directly-to-youtubes-stage-for-2024/"><u>[New] Broadcast Your Google Meet Directly to YouTube's Stage for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-in-depth-guide-to-selective-zoom-in-virtual-classrooms-google-meet/"><u>2024 Approved In-Depth Guide to Selective Zoom in Virtual Classrooms (Google Meet)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amd-radeon-hd-driver-download-optimize-your-windows-experience/"><u>AMD Radeon HD Driver Download: Optimize Your Windows Experience</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-list-elite-video-on-demand-services-in-24/"><u>Comprehensive List: Elite Video on Demand Services in '24</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/discovering-the-worlds-most-popular-shorter-videos-free-for-2024/"><u>Discovering the World's Most Popular Shorter Videos (FREE) for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722965699674-download-and-install-official-dell-wd19-driver-software/"><u>Download & Install: Official Dell WD19 Driver Software</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/elevate-your-tech-experience-launch-of-intels-new-ultra-series-processors-based-on-innovative-lunar-lake-design-set-to-arrive-early-september/"><u>Elevate Your Tech Experience: Launch of Intel's New Ultra Series Processors, Based on Innovative Lunar Lake Design – Set to Arrive Early September</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/expert-guide-finding-and-installing-the-right-drivers-for-your-hp-thunderbolt-g2-dock-whether-you-need-120w-or-230w-power-support/"><u>Expert Guide: Finding and Installing the Right Drivers for Your HP Thunderbolt G2 Dock - Whether You Need 120W or 230W Power Support</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/facebooks-viral-content-wave-leading-videos-of-2023/"><u>Facebook's Viral Content Wave - Leading Videos of 2023</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-wacom-intuos-art-graphics-tablet-driver-download-now/"><u>Get the Latest Wacom Intuos Art Graphics Tablet Driver – Download Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-hands-on-the-newest-logitech-wireless-racing-wheel-program-windows-users-guide/"><u>Get Your Hands on the Newest Logitech Wireless Racing Wheel Program - Windows Users' Guide</u></a></li>
-<li><a href="https://win-tips.techidaily.com/guia-paso-a-paso-para-actualizarreparar-windows-10-o-11-usando-el-simbolo-del-sistema/"><u>Guía Paso a Paso Para Actualizar/Reparar Windows 10 O 11 Usando El Símbolo Del Sistema</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/secure-the-latest-epson-xp-42n-driver-free-download-and-installation-instructions/"><u>Secure the Latest Epson XP-42n Driver - Free Download and Installation Instructions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-microsoft-driver-update-process-for-windows-operating-systems-10-8-and-easier/"><u>Step-by-Step Microsoft Driver Update Process for Windows Operating Systems (10, 8 & Easier)</u></a></li>
-<li><a href="https://win-blog.techidaily.com/top-5-techniques-for-creating-amazing-collages-with-ease-guided-by-movavi/"><u>Top 5 Techniques for Creating Amazing Collages with Ease - Guided by Movavi</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unraveling-the-mystery-why-does-ascent-keep-failing-on-your-windows-computer/"><u>Unraveling the Mystery: Why Does Ascent Keep Failing on Your Windows Computer?</u></a></li>
-<li><a href="https://techidaily.com/windows-11-dvd-ripping-tutorial-quick-and-effortless-methods/"><u>Windows 11 DVD Ripping Tutorial - Quick and Effortless Methods!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-average-to-spectacular-mastering-dynamic-range-portraits/"><u>[New] From Average to Spectacular Mastering Dynamic Range Portraits</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-passive-watchers-to-profit-youtube-monetization-for-2024/"><u>[New] From Passive Watchers To Profit YouTube Monetization for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-harnessing-the-power-of-youtube-subtitles-a-guide-with-3-techniques-for-2024/"><u>[New] Harnessing the Power of YouTube Subtitles A Guide with 3 Techniques for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-how-to-fix-obs-full-screen-not-working-issue/"><u>[New] In 2024, How To Fix OBS Full Screen Not Working Issue?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-essential-guide-incorporating-visual-annotations-in-edits/"><u>[Updated] 2024 Approved Essential Guide Incorporating Visual Annotations in Edits</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-mastering-avi-to-gif-filmora-guide-for-pcmac/"><u>[Updated] Mastering AVI to GIF Filmora Guide for PC/Mac</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ces-2023-highlights-from-day-two-top-tech-unveilings-featured/"><u>CES 2023 Highlights From Day Two: Top Tech Unveilings Featured</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/editing-raw-photos-on-a-budget-discover-the-power-of-darktable-for-mac-os-xlinux-users/"><u>Editing RAW Photos on a Budget? Discover the Power of Darktable for Mac OS X/Linux Users!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-advice-discover-the-best-2-in-1-laptops-for-effortless-transition-between-academics-and-leisure/"><u>Expert Advice: Discover the Best 2-in-1 Laptops for Effortless Transition Between Academics and Leisure</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/prime-savings-alert-top-discounts-on-black-friday-2023-shop-smart/"><u>Prime Savings Alert: Top Discounts on Black Friday 2023 - Shop Smart</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revamp-your-surfing-experience-why-upgrading-google-chrome-soon-matters-insights-from-zdnet/"><u>Revamp Your Surfing Experience: Why Upgrading Google Chrome Soon Matters - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revolutionary-all-in-one-product-of-2023-the-secret-office-edge-you-might-be-missing-spotlight-on-zdnet/"><u>Revolutionary All-in-One Product of 2023: The Secret Office Edge You Might Be Missing | Spotlight on ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/switching-from-apple-to-microsoft-a-firsthand-review-of-the-surface-pro-and-laptop-duo-zdnet/"><u>Switching From Apple to Microsoft: A Firsthand Review of the Surface Pro & Laptop Duo | ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-smoothly-acquiring-and-implementing-the-latest-ios-version-on-your-iphone-or-ipad/"><u>The Ultimate Guide to Smoothly Acquiring and Implementing the Latest iOS Version on Your iPhone or iPad</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unearth-the-secret-of-laptop-desktop-transformation-a-revolutionary-dock-unveiled/"><u>Unearth the Secret of Laptop-Desktop Transformation: A Revolutionary Dock Unveiled</u></a></li>
 </ul></div>
 

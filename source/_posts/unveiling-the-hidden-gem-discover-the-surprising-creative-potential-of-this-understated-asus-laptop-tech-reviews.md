@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Hidden Gem: Discover the Surprising Creative Potential of This Understated Asus Laptop | Tech Reviews"
-date: 2024-10-31T22:40:46.187Z
-updated: 2024-11-05T17:24:14.847Z
+date: 2024-11-11T01:10:27.736Z
+updated: 2024-11-16T01:59:05.592Z
 tags:
   - laptops
 categories:
@@ -64,10 +64,16 @@ I've been testing the base [$2,200 variant](https://shop-links.co/link/?url=http
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Textbook design, period.
@@ -86,13 +92,6 @@ Doing so also exposes two flaws of the Galaxy Book 3 Ultra: the wobbliness and g
 
 Will you notice the shaking when you're laser-focused on what's being displayed? Probably not. Would a matte display have served better for viewing comfort? Absolutely.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Live by the display…
 
 Believe it or not, I still consider the Galaxy Book 3 Ultra's display to be one of its key selling points. You're looking at a 16-inch, 120Hz, 3K, AMOLED display, with [most of its tech carried over](https://www.zdnet.com/article/samsung-display-brings-advanced-smartphone-oled-touch-tech-to-notebooks/) from the sharp, great-looking panels from Samsung's high-end smartphones. The colors on the laptop are, to say the least, punchy, visually distinctive, and plenty bright for most environments. Gaming and multimedia consumption are an absolute treat on the Galaxy Book.
@@ -106,10 +105,10 @@ The thin bezels make the 16-inch display a little more manageable.
 June Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The best use of space?
@@ -126,6 +125,13 @@ June Wan/ZDNET
 
 Another thing that I don't love is the trackpad. While massive, the new trackpad is not only off-centered but doesn't register presses on the upper half of it. As a result, there were plenty of times when the laptop would register a double tap as a single tap and vice versa. Keep in mind that I was coming from the MacBook Pro and have been absolutely spoiled by its Force Touch trackpad.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## A dedicated graphics card matters
 
 The day-to-day performance of the Galaxy Book 3 Ultra has been admirable. My typical workflow revolves around three desktops – one with Slack, Microsoft Outlook, and some form of media playback, another consisting of a content management system and all the tabs I need for research, and the last being either Adobe Photoshop or Premiere Pro for editing. Then, there's the occasional video call.
@@ -141,13 +147,6 @@ With a discrete GPU, the Galaxy Book absolutely breezes through my usual photo a
 **Also: [The 12 best laptops for every budget](https://www.zdnet.com/article/best-laptop/)**
 
 On a standard workday, I averaged about six and a half hours of usage per charge, which is not bad but not great either. On days that involved more video editing, downloading files, and a bit of gaming (because that's what you do when you have a dedicated GPU in a laptop), I watched as the battery percentage dropped 20% every hour.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The benchmark results are in...
 
@@ -174,6 +173,13 @@ In fact, all the product photos in this review were captured by the [Galaxy S23 
 ## Bottom line
 
 Ultimately, the Galaxy Book 3 Ultra [starts at $2,200](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fcomputing%2Fgalaxy-book3-ultra%2Fbuy%2F%3F&publisher_slug=itechdaily19598&exclusive=1) for the Intel Core i7, Nvidia GeForce RTX 4050, 16GB of RAM, and 512GB of storage configuration. That's a big price for a big laptop, but if we're comparing it with its closest Apple alternative, then Samsung is undercutting the [16-inch MacBook Pro (M2)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BSHF7LLL%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C07697e1f-c06e-4c15-b2ea-0f8024c04589%7Cdtp&dtb=1) by about $300\. And in Samsung's defense, it's giving you a lot for the money, including a dedicated graphics card, one of the best-looking laptop displays on the market, and an uncompromising keyboard experience. The only notable shortcomings are the glossy screen, the obnoxiously large trackpad, and the moderate battery life.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Should I buy one?
 
@@ -227,24 +233,20 @@ While the two alternatives above are more subtle by design, the Asus ZenBook 14 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-craft-superior-canon-chrono-series/"><u>[New] Craft Superior Canon Chrono Series</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-download-mp3-from-social-network-posts-for-2024/"><u>[New] Download Mp3 From Social Network Posts for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-streamerease-screen-recording-on-win11/"><u>[Updated] In 2024, StreamerEase Screen Recording on Win11</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-innovative-education-prime-15-youtube-science-outlets/"><u>[Updated] Innovative Education Prime 15 YouTube Science Outlets</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-pixels-to-percussion-composing-visuals-in-video-for-2024/"><u>[Updated] Pixels to Percussion Composing Visuals in Video for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/download-the-ultimate-netflix-video-converter-free-tutorial-on-transforming-netflix-streams-into-mp4mov-formats/"><u>Download the Ultimate Netflix Video Converter: Free Tutorial on Transforming Netflix Streams Into MP4/MOV Formats</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-oppo-reno-8t-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Oppo Reno 8T Phone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-poco-m6-pro-4g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Poco M6 Pro 4G to Gmail | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-infinix-hot-40i-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Infinix Hot 40i FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-pick-best-ultrawide-displays-for-gamers/"><u>Top Pick: Best Ultrawide Displays for Gamers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unconventional-but-effective-why-you-can-safely-run-electronics-through-the-dishwasher/"><u>Unconventional but Effective - Why You Can Safely Run Electronics Through the Dishwasher!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/understanding-the-critical-differences-between-wireless-networks-and-the-worldwide-web-for-enhanced-connectivity/"><u>Understanding the Critical Differences Between Wireless Networks and the Worldwide Web for Enhanced Connectivity</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unlock-the-full-potential-my-ultimate-guide-to-maximizing-your-ring-doorbell-experience/"><u>Unlock the Full Potential: My Ultimate Guide to Maximizing Your Ring Doorbell Experience</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unlocking-superior-power-transfer-our-in-depth-review-of-hyperjuises-240w-silicone-usb-c-cable-why-it-deserves-a-spot-in-your-gadget-collection/"><u>Unlocking Superior Power Transfer: Our In-Depth Review of HyperJuise's 240W Silicone USB-C Cable – Why It Deserves a Spot in Your Gadget Collection</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unresponsive-homekit-gadgets-heres-how-to-restore-functionality-quickly/"><u>Unresponsive HomeKit Gadgets? Here's How to Restore Functionality Quickly!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-the-powerhouse-inside-the-stunning-design-an-in-depth-review-of-the-dell-xps-16-9640/"><u>Unveiling the Powerhouse Inside the Stunning Design - An In-Depth Review of the Dell XPS 16 (9640)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/upgrade-legacy-stereo-systems-with-wiims-innovative-high-tech-streaming-solution-for-ultra-performance/"><u>Upgrade Legacy Stereo Systems with WiiM's Innovative High-Tech Streaming Solution for Ultra Performance!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/upgrade-your-home-lighting-discover-govees-stylish-floor-lamp-2-and-pro-versions-for-elegance/"><u>Upgrade Your Home Lighting: Discover Govee's Stylish Floor Lamp 2 & Pro Versions for Elegance</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/why-having-just-one-charger-isnt-enough-discover-the-advantages-of-extra-power-banks-now/"><u>Why Having Just One Charger Isn't Enough - Discover the Advantages of Extra Power Banks Now!</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-unlocking-asmrs-hidden-layers/"><u>[New] 2024 Approved Unlocking ASMR's Hidden Layers</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-samsung-galaxy-xcover-7-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Samsung Galaxy XCover 7 Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-lenovo-thinkpad-x1-carbon-drivers-compatible-with-windows-11-and-7/"><u>Download Lenovo ThinkPad X1 Carbon Drivers: Compatible with Windows 11 and 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/effortless-dvd-management-with-winx-dvd-author-the-best-free-solution-for-windows-pcs/"><u>Effortless DVD Management with WinX DVD Author: The Best Free Solution for Windows PCs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/essential-z370p-d3-motherboard-drivers-secure-and-fast-download-options/"><u>Essential Z370P D3 Motherboard Drivers – Secure & Fast Download Options</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-high-performance-gadgets-with-toms-hardware-experts/"><u>Exploring High-Performance Gadgets with Tom's Hardware Experts</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-poco-m6-pro-5g-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Poco M6 Pro 5G</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-a-vloggers-guide-to-camera-lenses/"><u>In 2024, A Vlogger's Guide To Camera Lenses</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-premier-media-transformer-mp4-)-fb/"><u>In 2024, Premier Media Transformer MP4 -> FB</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722963963389-install-official-iphone-support-software-on-your-windows-11-pc-now/"><u>Install Official iPhone Support Software on Your Windows 11 PC Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-the-latest-ch3ebusch-g-chip-driver-version-on-windows-11-pcs/"><u>Installing the Latest CH3ebusch G Chip Driver Version on Windows 11 PCs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/montblanc-launches-high-end-1300-smartwatch-with-wear-os-does-it-meet-expectations-yet/"><u>Montblanc Launches High-End $1,300 Smartwatch with Wear OS: Does It Meet Expectations Yet?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-the-world-of-computing-with-toms-guidance/"><u>Navigating the World of Computing with Tom's Guidance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/rediscovered-site-section-the-wonderfox-corner-is-back/"><u>Rediscovered Site Section: The 'WonderFox' Corner Is Back!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-troubleshoot-and-fix-realtek-alc887-sound-card-drivers-on-your-pc/"><u>Step-by-Step Guide to Troubleshoot and Fix Realtek ALC887 Sound Card Drivers on Your PC</u></a></li>
 </ul></div>
 

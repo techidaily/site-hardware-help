@@ -1,7 +1,7 @@
 ---
 title: Top 24 Unbeatable Christmas Bargains on Computers From Deloitte Deals at Retail Giants Like Best Buy & Amazon
-date: 2024-10-31T23:42:02.248Z
-updated: 2024-11-05T17:35:13.718Z
+date: 2024-11-13T03:09:03.924Z
+updated: 2024-11-15T23:24:54.822Z
 tags:
   - laptops
 categories:
@@ -31,13 +31,6 @@ If you're shopping for a great deal on tech for this holiday season, ZDNET is tr
 * [Dell 14-inch portable monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-Dual-Screen-Productivity-Switching-Connectivity%2Fdp%2FB0C8LM4ZZD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc1a716bc-9ffa-4cbb-b099-bded869a03ff%7Cdtp&dtb=1) for $274 (save $91)
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## More Dell holiday deals
 
@@ -96,6 +89,13 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6FJGWK9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc1a716bc-9ffa-4cbb-b099-bded869a03ff%7Cdtp&dtb=1) 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Best Dell laptop holiday deals
 
 * [Dell G15 gaming laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-G15-5535-Gaming-Laptop%2Fdp%2FB0CJGBMD42%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc1a716bc-9ffa-4cbb-b099-bded869a03ff%7Cdtp&dtb=1): $1,000 (save $150)
@@ -103,13 +103,6 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell Inspiron 5635](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-Inspiron-5000-5635-Laptop%2Fdp%2FB09BW611ZP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc1a716bc-9ffa-4cbb-b099-bded869a03ff%7Cdtp&dtb=1): $836 (save $163)
 * [Dell Inspiron 16 Plus](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Flinks%2F9041660%2Ftype%2Fdlg%2Fsid%2Fzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%2Fhttps%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-laptops%2Finspiron-16-plus-laptop%2Fspd%2Finspiron-16-7630-laptop%2Fusichbts7630gbkt): $1,100 (save $350)
 * [Dell XPS 13 9310 13.4-inch touch laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-XPS-9310-Laptop-Touchscreen%2Fdp%2FB09PR52BHK%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc1a716bc-9ffa-4cbb-b099-bded869a03ff%7Cdtp&dtb=1) for $1,071 (save $429)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Best Dell desktop holiday deals
 
@@ -121,10 +114,10 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell OptiPlex 3000 Desktop](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fdell-optiplex-3000-student-home-office%252Fp%252F1VK-0001-6EUX9) for $1,200 (save $440)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Best Dell monitor holiday deals
@@ -133,6 +126,13 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell SE2422HX 24-inch monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-inch-Monitor-1920-1080%2Fdp%2FB096MXR34N%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc1a716bc-9ffa-4cbb-b099-bded869a03ff%7Cdtp&dtb=1): $100 (save $30)
 * [Dell 27-inch 4K FreeSync monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-S2721QS-Ultra-Thin-DisplayPort-Certified%2Fdp%2FB08DQWG3JG%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc1a716bc-9ffa-4cbb-b099-bded869a03ff%7Cdtp&dtb=1) for $297 (save $33)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How did we choose these holiday deals?
 
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
@@ -140,10 +140,10 @@ ZDNET only writes about deals we want to buy -- devices and products we desire, 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What are the best holiday deals?
@@ -218,20 +218,20 @@ Here are the top deals by category we've found so far:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-unlock-flawless-video-thumbnails-instantly/"><u>[Updated] 2024 Approved Unlock Flawless Video Thumbnails Instantly</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-metaverse-mayhem-top-10-sci-fi-movies-breaking-boundaries/"><u>[Updated] In 2024, Metaverse Mayhem Top 10 Sci-Fi Movies Breaking Boundaries</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-navigating-the-complexities-of-obs-a-beginners-guide/"><u>[Updated] In 2024, Navigating the Complexities of OBS A Beginner’s Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-language-top-8-free-and-accurate-srt-translators/"><u>[Updated] Unlocking Language Top 8 Free & Accurate SRT Translators</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-game-up-your-content-with-these-effective-freefire-video-hashtags/"><u>2024 Approved Game Up Your Content with These Effective FreeFire Video Hashtags</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/google-play-store-experience-on-amazon-fire-devices-a-comprehensive-overview/"><u>Google Play Store Experience on Amazon Fire Devices: A Comprehensive Overview</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/guide-to-updating-a-google-pixel-device-via-sideload-no-ota-required/"><u>Guide to Updating a Google Pixel Device via Sideload - No OTA Required</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/guide-disabling-consent-requests-for-deleting-images-in-google-photos/"><u>Guide: Disabling Consent Requests for Deleting Images in Google Photos</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/guide-switching-from-tabs-to-separate-windows-on-google-chrome-for-android-devices/"><u>Guide: Switching From Tabs to Separate Windows on Google Chrome for Android Devices</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-freememogen-your-guide-to-free-memes/"><u>In 2024, FreeMemoGen Your Guide to FREE Memes</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-discover-whats-new-in-the-advanced-insights-of-the-galaxy-watch-active-2/"><u>In-Depth Analysis: Discover What’s New in the Advanced Insights of the Galaxy Watch Active 2</u></a></li>
-<li><a href="https://blog-min.techidaily.com/instantaneous-hd-video-transforming-with-movavis-w64-no-cost-software/"><u>Instantaneous HD Video Transforming with Movavi's W64 - No Cost Software!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/introducing-the-advanced-features-of-samsungs-new-galaxy-watch-6-equipped-with-improved-chipset-and-running-on-wear-os-4/"><u>Introducing the Advanced Features of Samsung's New Galaxy Watch 6 - Equipped with Improved Chipset & Running on Wear OS 4</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/introducing-the-new-oneplus-11-a-rocky-launch-amidst-high-expectations/"><u>Introducing the New OnePlus 11: A Rocky Launch Amidst High Expectations</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/simplified-playlist-crafting-for-youtube-fans-on-desktop-and-mobile-devices/"><u>Simplified Playlist Crafting for YouTube Fans on Desktop & Mobile Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-from-trip-diary-to-hype-inducing-haul-the-editors-playbook/"><u>[New] In 2024, From Trip Diary to Hype-Inducing Haul The Editor's Playbook</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-become-audio-prodigy-installing-vrecorder-made-ahead-for-2024/"><u>[Updated] Become Audio-Prodigy - Installing VRecorder Made Ahead for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-streamlining-virtual-meetings-in-google-mail/"><u>[Updated] In 2024, Streamlining Virtual Meetings in Google Mail</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-delving-into-the-heart-of-apples-m1-processor/"><u>2024 Approved Delving Into the Heart of Apple's M1 Processor</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-empowerment-in-entertainment-top-10-inspirational-women/"><u>2024 Approved Empowerment in Entertainment Top 10 Inspirational Women</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-beginners-guide-to-understanding-youtube-responses-for-2024/"><u>A Beginner's Guide to Understanding YouTube Responses for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/differing-approaches-to-intels-enhanced-processor-warranty-disparities-uncovered-by-recent-market-research/"><u>Differing Approaches to Intel's Enhanced Processor Warranty: Disparities Uncovered by Recent Market Research</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-hp-laserjet-pro-m428fdw-printer-drivers-supports-win-1087xpvista/"><u>Download & Install HP LaserJet Pro M428fdw Printer Drivers - Supports Win 10/8/7/XP/Vista</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-latest-epson-wf-3640-printer-drivers-for-your-windows-pc/"><u>Download the Latest Epson WF-3640 Printer Drivers for Your Windows PC</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-honor-x9a-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-updates-for-hp-deskjet-ink-advantage-printer-model-3520/"><u>Get the Latest Updates for HP Deskjet Ink Advantage Printer Model 3520</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/improve-video-quality-freshly-released-usb-to-hdmi-driver-patches-available-for-download/"><u>Improve Video Quality: Freshly Released USB-to-HDMI Driver Patches Available for Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-hp-printer-driver-updates-for-windows-11-systems/"><u>Latest HP Printer Driver Updates for Windows 11 Systems</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/tutorial-esencial-mejores-tecnicas-para-rotar-en-grados-videos-mp4-manten-la-calidad-intacta/"><u>Tutorial Esencial: Mejores Técnicas Para Rotar en Grados Vídeos MP4 Mantén La Calidad Intacta</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-honor-90-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Honor 90 Device</u></a></li>
 </ul></div>
 

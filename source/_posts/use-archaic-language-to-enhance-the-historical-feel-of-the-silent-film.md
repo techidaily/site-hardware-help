@@ -1,7 +1,7 @@
 ---
 title: Use Archaic Language to Enhance the Historical Feel of the Silent Film.
-date: 2024-11-01T19:37:27.939Z
-updated: 2024-11-05T19:58:16.717Z
+date: 2024-11-15T01:32:02.516Z
+updated: 2024-11-16T04:43:24.191Z
 tags:
   - laptops
 categories:
@@ -65,10 +65,10 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -80,10 +80,10 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -136,18 +136,20 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-captivating-viewers-with-youtubes-visual-polishing-for-2024/"><u>[Updated] Captivating Viewers with Youtube's Visual Polishing for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-perfecting-live-broadcasts-with-streamlabs-obs-tips/"><u>[Updated] In 2024, Perfecting Live Broadcasts with Streamlabs OBS Tips</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-kitchen-to-screen-unveiling-the-top-7-cooking-film-tricks/"><u>2024 Approved From Kitchen to Screen Unveiling the Top 7 Cooking Film Tricks</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-the-highest-honors-in-computex-202-how-to-geeks-expert-selection/"><u>Discover the Highest Honors in Computex 202지 - How-To Geek's Expert Selection</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discovering-simplicity-and-vibrancy-in-the-kobo-clara-colour-ereader-review/"><u>Discovering Simplicity and Vibrancy in The Kobo Clara Colour eReader Review</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/emerging-issue-latest-roku-tv-series-encounter-technical-bugs/"><u>Emerging Issue: Latest Roku TV Series Encounter Technical Bugs</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/get-noticed-the-ultimate-guide-to-crafting-viral-tiktok-captions/"><u>Get Noticed The Ultimate Guide to Crafting Viral TikTok Captions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-hot-is-too-hot-for-your-gpu-defining-the-optimal-temperature-spectrum/"><u>How Hot Is Too Hot for Your GPU: Defining the Optimal Temperature Spectrum</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-huawei-nova-y71-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Huawei Nova Y71 Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/in-depth-analysis-eufys-advanced-smartbot-the-omni-s1-pro-reviewed/"><u>In-Depth Analysis: Eufy's Advanced Smartbot - the Omni S1 Pro Reviewed!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionary-colored-thermal-compound-with-nano-diamonds-meet-cooler-masters-latest-ai-thermal-paste-in-cryofuze-5/"><u>Revolutionary Colored Thermal Compound with Nano-Diamonds: Meet Cooler Master’s Latest ‘AI Thermal Paste’ in CryoFuze 5</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-eliminate-exception-breaking-point-on-microsoft-os/"><u>Steps to Eliminate Exception Breaking Point on Microsoft OS</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/what-makes-ai-chatbots-a-preferred-tech-choice/"><u>What Makes AI Chatbots a Preferred Tech Choice?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-capturing-contentment-a-practical-guide-to-daily-vlogging/"><u>[New] 2024 Approved Capturing Contentment A Practical Guide to Daily Vlogging</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-clubbing-essentials-top-rated-dj-template-vids/"><u>[Updated] In 2024, Clubbing Essentials Top-Rated DJ Template Vids</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/5-important-considerations-when-selecting-a-previously-owned-ipad-device/"><u>5 Important Considerations When Selecting a Previously Owned iPad Device</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-vivo-y100-5g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Vivo Y100 5G PC | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-asus-touchpad-driver-download-and-installation-tips-for-windows-11-users/"><u>Effortless ASUS Touchpad Driver Download & Installation Tips for Windows 11 Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-pc-upgraded-install-latest-nvidia-geforce-rtx-2060-gpu-drivers/"><u>Get Your PC Upgraded: Install Latest Nvidia GeForce RTX 2060 GPU Drivers</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-xiaomi-13t-pro-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Xiaomi 13T Pro To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-scale-up-snaps-no-loss-in-detail/"><u>In 2024, Scale Up Snaps - No Loss in Detail</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-strategies-for-smooth-clear-sound-in-zoom-powered-podcasts/"><u>In 2024, Strategies for Smooth, Clear Sound in Zoom-Powered Podcasts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/next-gen-powerhouse-amds-flagship-zen-5-processor-dominates-rendering-tests-outshining-ryzen-9-7950x-by-24/"><u>Next-Gen Powerhouse: AMD’s Flagship Zen 5 Processor Dominates Rendering Tests, Outshining Ryzen 9 7950X by 24%</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/resolving-realtek-alc887-sound-card-problems-on-your-windows-pc/"><u>Resolving Realtek ALC887 Sound Card Problems on Your Windows PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-acquiring-and-updating-your-hid-keyboards-software/"><u>Step-by-Step Guide: Acquiring & Updating Your HID Keyboard's Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-upgrading-targus-graphics-card-drivers-for-windows-operating-systems/"><u>Step-by-Step Guide: Upgrading Targus Graphics Card Drivers for Windows Operating Systems</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-the-art-of-flipping-photo-shades-for-2024/"><u>Unveiling the Art of Flipping Photo Shades for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/video-health-protocol-hd-content-revival/"><u>Video Health Protocol: HD Content Revival</u></a></li>
 </ul></div>
 

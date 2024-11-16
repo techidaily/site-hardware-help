@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Truth Behind the Hype: ASUS ExpertBook B3's Performance Gaps Critically Reviewed by ZDNet"
-date: 2024-11-04T21:30:07.234Z
-updated: 2024-11-05T20:00:52.419Z
+date: 2024-11-15T00:02:49.095Z
+updated: 2024-11-15T17:56:17.537Z
 tags:
   - laptops
 categories:
@@ -57,10 +57,10 @@ In the box, you'll find three pieces that come together to create the ExpertBook
 These pieces click in place by way of some pretty strong magnets, and the hinges on the kickstand are tight, which is one for the pro card. However, the strange purple and gray cloth cover that served as a case (the back sides of the kickstand and keyboard) were frayed at the edges, making it look cheap and ready to unravel at any minute. That could have been a product of the device being a review unit, but I have no way of knowing.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -70,10 +70,10 @@ These pieces click in place by way of some pretty strong magnets, and the hinges
 I received a 10.5" version of the device, and -- because of that diminutive size -- the keyboard felt really tight (and I have smallish hands). Even after using the keyboard for a week, I couldn't get accustomed to the tightly packed keys and the small trackpad. Combine that with the cheap feel of the keys and the keyboard is a pretty hard sell. This might not be the case with larger models, but the 10.5" version certainly suffered.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Performance
@@ -87,10 +87,10 @@ And then there's Windows 11\. But being a hard-core, long-time [Linux user](http
 **Also:** [**Cool things you can do on a Linux desktop that you can't do with MacOS or Windows**](https://www.zdnet.com/article/cool-things-you-can-do-with-the-linux-desktop-that-you-cant-do-with-macos-or-windows/) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Are there any pros?
@@ -108,10 +108,10 @@ Image: Jack Wallen
 The only caveat to that is you'll need to strip both pieces from the tablet (keyboard and kickstand back) to shed weight because the tablet is heavy. Granted, I'm accustomed to using very light [Android tablets](https://www.zdnet.com/article/best-android-tablet/), so hefting about a tablet as heavy as the ExpertBook Detachable isn't exactly something I'd want to do long-term. Even so, the tablet mode for the ExpertBook Detachable is pretty nice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The price
@@ -158,14 +158,16 @@ If I were looking for an alternative to the ASUS ExpertBook Detachable, I'd go w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-get-ready-to-download-best-ios-apps-transforming-fb-videos/"><u>[New] In 2024, Get Ready to Download Best iOS Apps Transforming FB Videos</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-pro-3-cam-exploration-a-deep-dive-into-ions-latest-offer/"><u>2024 Approved Pro 3 Cam Exploration A Deep Dive Into ION's Latest Offer</u></a></li>
-<li><a href="https://win11.techidaily.com/easy-access-steps-into-windows-11s-user-authorization-space/"><u>Easy Access: Steps Into Windows 11'S User Authorization Space</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/inside-out-the-nikon-d7500-experience/"><u>Inside Out The Nikon D7500 Experience</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/maximizing-performance-by-expanding-storage-on-your-android-smartphone-why-it-matters/"><u>Maximizing Performance by Expanding Storage on Your Android Smartphone: Why It Matters</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/move-beyond-ms-phone-link-with-our-exceptional-mobile-connectivity-app/"><u>Move Beyond MS Phone Link with Our Exceptional Mobile Connectivity App</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimize-your-pc-gameplay-resolving-fps-drops-and-hiccups-in-counter-strike-2/"><u>Optimize Your Pc Gameplay: Resolving Fps Drops and Hiccups in Counter Strike 2</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/parental-supervision-in-the-digital-age-how-google-family-link-can-help-safeguard-your-childs-online-experience/"><u>Parental Supervision in the Digital Age: How Google Family Link Can Help Safeguard Your Child's Online Experience</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/pixel-smartwatch-integrates-trending-apple-watch-capability/"><u>Pixel Smartwatch Integrates Trending Apple Watch Capability</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/critical-considerations-when-leveraging-chatgpt-for-emotional-well-being/"><u>Critical Considerations When Leveraging ChatGPT for Emotional Well-Being</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/direct-links-msi-sound-drivers-compatible-with-windows-versions/"><u>Direct Links: MSI Sound Drivers Compatible with Windows Versions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/end-zoom-issues-once-and-for-all-optimizing-your-experience-on-windows-1110/"><u>End Zoom Issues Once and For All: Optimizing Your Experience on Windows 11/10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722967788754-ensure-optimal-performance-with-newly-released-msi-gs65-windows-drivers-download-here/"><u>Ensure Optimal Performance with Newly Released MSI GS65 Windows Drivers – Download Here!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-asrock-motherboards-up-to-date-essential-driver-downloads-and-tips/"><u>Get Your ASRock Motherboards Up-to-Date: Essential Driver Downloads and Tips</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Samsung Galaxy M14 5G? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-from-iphone-12-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud from iPhone 12 Safe and Legal</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-top-tier-mobile-and-desktop-player-for-avis/"><u>In 2024, Top-Tier Mobile and Desktop Player for AVIs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-the-newest-geforce-rtx-3070-ti-drivers-optimized-for-win-11-8-and-7-operating-systems/"><u>Install the Newest GeForce RTX 3070 Ti Drivers - Optimized for Win 11, 8 & 7 Operating Systems</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-motorola-defy-2-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Motorola Defy 2 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unable-to-load-devices-wudfrd-driver-event-id-219/"><u>Unable to Load Device's WudfRd Driver (Event ID: 219)</u></a></li>
 </ul></div>
 

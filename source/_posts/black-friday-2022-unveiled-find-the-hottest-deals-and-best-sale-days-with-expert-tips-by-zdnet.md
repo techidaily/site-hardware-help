@@ -1,7 +1,7 @@
 ---
 title: "Black Friday 2022 Unveiled: Find the Hottest Deals and Best Sale Days with Expert Tips by ZDNET"
-date: 2024-10-31T19:58:53.441Z
-updated: 2024-11-05T17:46:56.606Z
+date: 2024-11-08T18:12:44.904Z
+updated: 2024-11-16T01:01:44.279Z
 tags:
   - laptops
 categories:
@@ -88,6 +88,13 @@ The Alienware x16 R2 is built with an Intel Core Ultra 9 processor, Nvidia GeFor
 
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Falienware-x16-r2-240hz-gaming-laptop-intel-core-ultra-9-processor-nvidia-geforce-rtx-4070-32gb-memory-1-tb-ssd-lunar-silver%2F6576921.p%3FskuId%3D6576921&publisher_slug=itechdaily19598&exclusive=1) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## More October Prime Day 2024 gaming deals
 
 ZDNET
@@ -101,13 +108,6 @@ ZDNET
 * [Logitech G915 Lightspeed mechanical gaming keyboard for $160 (save $90)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLogitech-Wireless-Mechanical-Keyboard-Tactile%2Fdp%2FB07NY9ZRZG%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C00c55e01-892c-49da-b2c2-ae45c780735e%7Cdtp&dtb=1): A low-profile mechanical gaming keyboard with 2.4GHz and Bluetooth wireless connectivity.
 * [Arcade1Up Attack From Mars electronic pinball table for $499 (save $150)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FArcade-William-Bally-Attack-Mars-Pinball%2Fdp%2FB0998S48N2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C00c55e01-892c-49da-b2c2-ae45c780735e%7Cdtp&dtb=1): A fully-digital pinball table featuring a classic William Bally "Attack From Mars" theme.
 * [Arcade1Up Street Fighter II Champion Turbo Legacy Edition cabinet for $399 (save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FARCADE1UP-Capcom-Fighter-Champion-Machine%2Fdp%2FB0B94VCWG3%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C00c55e01-892c-49da-b2c2-ae45c780735e%7Cdtp&dtb=1): A Wi-Fi enabled, retro-inspired arcade cabinet featuring 14 different games to play head-to-head against online players or friends in-person.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## October Prime Day PlayStation 5 deals
 
@@ -123,13 +123,6 @@ ZDNET
 * [Razer quick charging station for PS5 controllers in blue for $25 (save $15 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Frazer-quick-charging-stand-for-ps5-controllers-blue%2F6520072.p%3FskuId%3D6520072&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A USB-C charging stand for keeping your extra controllers powered up and at-the-ready.
 * [God of War Ragnarok standard edition for $40 (save $29 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FGod-of-War-Ragnar-k-Standard-Edition-Playstation-5%2F1336533270%3FclassType%3DVARIANT%26athbdg%3DL1102&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): The sequel to the hit GoW 2018 follows Kratos and his son Atreus as they traverse the realms to gather allies and stop the gods from going to war.
 * [The Last of Us Part 1 standard edition for $46 (save $24 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FThe-Last-of-Us-Part-I-PlayStation-5%2F1643604134%3FclassType%3DVARIANT&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Experience the award-winning story of Ellie and Joel as they make their way to Denver and the Fireflies through hordes of dangerous, fungus-infected zombies.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## October Prime Day Xbox Series X|S deals
 
@@ -203,10 +196,10 @@ Lenovo
 * [Alienware m18 R2 for $3,400 (save $600 at Dell)](https://www.dpbolvw.net/click-9041660-15734614?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-computer-laptops%2Falienware-m18-r2-gaming-laptop%2Fspd%2Falienware-m18-r2-laptop%2Fuseashctom18r204&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end gaming laptop with an Nvidia GeForce RTX 4090 GPU, Intel Core i9-14900K CPU, 64GB of RAM, 4TB of storage, and an 18-inch QHD+ display.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## October Prime Day gaming monitor deals
@@ -220,10 +213,16 @@ Samsung/ZDNET
 * [Acer Predator X27U for $680 (save $320 at B&H Photo)](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1772478-REG%2Facer%5Fum%5Fhxxaa%5F001%5Fpredator%5Fx27u%5F27%5Fgaming.html%2Fspecs): A 27-inch gaming monitor with a 240Hz refresh rate, 1440p resolution, a 0.03ms response time, and support for AMD FreeSync Premium Pro VRR.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## October Prime Day PC gaming accessories deals
@@ -240,10 +239,10 @@ Samsung/ZDNET
 * [Asus TUF Nvidia GeForce RTX 3080 Ti for $925 (save $472 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FTUF-NVIDIA-GeForce-RTX-3080-TI-Graphic-Card-12-GB-GDDR6-384-bit-Bus-Width-PCI-Express-4-0-DisplayPort-HDMI%2F994157887%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) Nvidia's high-end 30 Series graphics card offers 12GB of VRAM, military-grade capacitors for better power efficiency, and support for up to 4 displays.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQs
@@ -255,6 +254,13 @@ Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, wi
 ### Are games, consoles, and accessories really cheaper on Prime Day?
 
 Games, consoles, and accessories can and do go on sale during Prime Day, though not every brand or manufacturer may participate. Some brands may have competing sales at other retailers or on their own direct-sale sites, which is great news for anyone who likes to compare discounts to make sure they're getting the best deal possible.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How did we choose these Prime Day deals?
 
@@ -290,24 +296,24 @@ I only chose deals on games that have been critically and commercially well-rece
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/volving-tactics-for-crafting-immersive-mukbang-sessions/"><u>[New] Evolving Tactics for Crafting Immersive Mukbang Sessions</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-unlocking-videos-with-a-click-ios-apps-rising-in-the-rankings-on-fb-downloader-list/"><u>2024 Approved Unlocking Videos with a Click IOS Apps Rising in the Rankings on FB Downloader List</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/3-cpu-series/"><u>3 CPU Series</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/affordable-entry-into-twitch-broadcasting-possibly-utilizing-your-existing-gear/"><u>Affordable Entry Into Twitch Broadcasting - Possibly Utilizing Your Existing Gear!</u></a></li>
-<li><a href="https://article-helps.techidaily.com/balancing-ambient-sound-on-windowsos-x-machines-for-2024/"><u>Balancing Ambient Sound on Windows/OS X Machines for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/budget-friendly-beats-solo-in-ear-headphones-balancing-cost-and-quality/"><u>Budget-Friendly Beats Solo In-Ear Headphones: Balancing Cost and Quality</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-motorola-moto-g-stylus-5g-2023-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Motorola Moto G Stylus 5G (2023) Phones with/without a PC</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/integrating-chatgpt-into-your-3d-print-workflow-for-enhanced-efficiency/"><u>Integrating ChatGPT Into Your 3D Print Workflow for Enhanced Efficiency</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/subscribe-now-or-miss-out-on-youtubes-best-features/"><u>Subscribe Now or Miss Out on YouTube's Best Features?</u></a></li>
-<li><a href="https://win-top.techidaily.com/tutorial-trouvez-facilement-vos-fichiers-perdus-sur-windows-et-mac-os-x/"><u>Tutorial : Trouvez Facilement Vos Fichiers Perdus Sur Windows Et Mac OS X</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ultimate-spots-for-discovering-rich-gold-text-effects/"><u>Ultimate Spots for Discovering Rich, Gold Text Effects</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/understanding-your-televisions-hdmi-arc-a-detailed-guide/"><u>Understanding Your Television's HDMI-ARC: A Detailed Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unleash-immersive-game-sounds-in-depth-analysis-of-sony-wireless-earbuds-for-gamers-featuring-superior-latency-performance/"><u>Unleash Immersive Game Sounds – In-Depth Analysis of Sony Wireless Earbuds for Gamers, Featuring Superior Latency Performance</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unlocking-apps-enabling-google-play-store-on-an-amazon-fire-tablet-a-comprehensive-tutorial/"><u>Unlocking Apps: Enabling Google Play Store on an Amazon Fire Tablet - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-your-access-troubleshooting-chatgpt-errors/"><u>Unlocking Your Access: Troubleshooting ChatGPT Errors</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-cooler-masters-latest-power-supply-units-a-leap-to-an-impressive-2000-watt-capacity/"><u>Unveiling Cooler Master's Latest Power Supply Units: A Leap to an Impressive 2000 Watt Capacity</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/why-everyone-desired-a-rear-projection-television-despite-their-notorious-shortcomings/"><u>Why Everyone Desired a Rear-Projection Television Despite Their Notorious Shortcomings</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/will-shifting-xbox-processor-to-arm-technology-boost-performance-and-future-proof-console-gaming/"><u>Will Shifting Xbox Processor to ARM Technology Boost Performance and Future-Proof Console Gaming?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-optimizing-ps4-games-for-live-capture-in-obs/"><u>[New] In 2024, Optimizing PS4 Games for Live Capture in OBS</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-transform-your-imagination-into-reality-with-top-animation-software/"><u>[New] Transform Your Imagination Into Reality with Top Animation Software</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-tailor-videos-for-impact-on-instagram-feed-for-2024/"><u>[Updated] Tailor Videos for Impact on Instagram Feed for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-acid-pro-revisited-exploring-equivalent-tools/"><u>2024 Approved ACID Pro Revisited Exploring Equivalent Tools</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-advanced-tips-with-toms-electronic-compass/"><u>Discover Advanced Tips with Tom's Electronic Compass</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722969172748-download-and-install-the-latest-epson-wf-3620-printer-drivers-on-windows-11-8-or-7/"><u>Download and Install the Latest Epson WF-3620 Printer Drivers on Windows 11, 8 or 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-focusrite-scarlett-2i4-driver-software-compatible-with-windows-pcs/"><u>Free Download: Focusrite Scarlett 2I4 Driver Software Compatible with Windows PCs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/free-online-tool-how-to-convert-wmv-files-to-mp4-format-on-macos-and-windows-11/"><u>Free Online Tool: How to Convert WMV Files to MP4 Format on macOS and Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722973398534-get-the-latest-brother-hl-l2360dw-driver-software-for-your-printer-here/"><u>Get the Latest Brother HL-L2360DW Driver Software for Your Printer Here</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-how-to-loop-youtube-videos-on-tv/"><u>In 2024, How to Loop YouTube Videos on TV</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/new-version-available-canon-pixma-ts3322-driver-update-and-installation-guide/"><u>New Version Available: Canon PIXMA TS3322 Driver Update and Installation Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-easy-installation-guide-displaylink-drivers-for-windows-10/"><u>Quick & Easy Installation Guide: DisplayLink Drivers for Windows 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-fixing-a-broken-steamvr-system-swiftly/"><u>Step-by-Step Guide to Fixing a Broken SteamVR System Swiftly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-updating-your-lenovo-docking-stations-drivers/"><u>Step-by-Step Guide: Updating Your Lenovo Docking Station's Drivers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tailoring-text-features-in-ae-compositions/"><u>Tailoring Text Features in AE Compositions</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/unleash-creativity-in-snaps-15-innovative-posting-techniques/"><u>Unleash Creativity in Snaps 15 Innovative Posting Techniques</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-powerhouse-new-release-epic-5-with-an-astounding-512mb-l3-cache-and-128-cores/"><u>Unveiling the Powerhouse: New Release Epic 5 with an Astounding 512MB L3 Cache and 128 Cores</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722978462322-update-your-logitech-m325-driver-seamlessly-free-download-guide-inside/"><u>Update Your Logitech M325 Driver Seamlessly - Free Download Guide Inside!</u></a></li>
 </ul></div>
 

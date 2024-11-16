@@ -1,7 +1,7 @@
 ---
 title: "Top-Ranking Student Laptops: In-Depth Tests & Reviews by Tech Experts | ZDNet"
-date: 2024-11-03T23:28:16.572Z
-updated: 2024-11-05T20:36:26.290Z
+date: 2024-11-10T19:58:58.948Z
+updated: 2024-11-16T05:01:23.344Z
 tags:
   - laptops
 categories:
@@ -27,10 +27,10 @@ We prioritized machines that scored well in durability, portability, and of cour
 At ZDNET, we've [thoroughly tested the best laptops for college](https://www.zdnet.com/article/how-we-test-laptops/) to help you pick the right one, no matter what you're studying. Our pick for the best laptop for college overall goes to the [Apple MacBook Air M3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX24JRLR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf96a2647-48a5-4f5e-a08f-e6332b6f1289%7Cdtp&dtb=1). In terms of portability, sleek form factor, and a solid battery life, the MacBook Air M3 is as light as it is powerful, and is future-proofed to last the duration of a multi-year degree program. It might not be the best pick for you, however, so we included other options that round out the spectrum of most common use cases. 
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The best laptop for college in 2024
@@ -48,20 +48,14 @@ Cons
 * Limited ports
 * Uninspiring speakers
 
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Apple MacBook Air M3
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best college laptop overall
 
@@ -155,7 +149,27 @@ Cons
 * Has a tendency to run warm
 * Bloatware
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Asus ROG Zephyrus G14
+
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best college laptop for gaming
 
@@ -184,19 +198,6 @@ Cons
 
 ## Lenovo Yoga Book 9i
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Best 2-in-1 convertible laptop for college
 
 In a sea of laptops that all look more or less the same, the Lenovo Yoga Book 9i dares to do something drastically different. Armed with two 13.3-inch touchscreen displays that can be configured in different ways, the Yoga Book 9i is the best choice for students that need a flexible 2-in-1 laptop and performance to boot.
@@ -211,6 +212,13 @@ There are a few considerations, however. First, the $2,000 price tag puts it at 
 
 Show Expert Take Show less 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What is the best laptop for college?
 
 The best laptop for college in 2024 is the [Apple MacBook Air M3](https://www.zdnet.com/article/m3-macbook-air-review/). Portable, powerful, and with a long-lasting battery, the MacBook Air M3 is a versatile workhorse that you can throw in a bag and take with you anywhere you go. The M3's 8-core CPU and 10-core GPU is armed to take whatever tasks your major requires of you, and the entire package weighs just 2.7 pounds.
@@ -222,13 +230,6 @@ The best laptop for college in 2024 is the [Apple MacBook Air M3](https://www.zd
 | Acer Aspire Go 15           | $299              | Intel Core i3-N305, Intel UHD        | 8GB, 128GB                  | 3.75             |
 | Asus ROG Zephyrus G14       | $1,600            | AMD Ryzen 9, GeForce RTX 4070        | 32GB, 1TB SSD               | 3.3              |
 | Lenovo YogaBook 9i          | $1,999            | Intel Core Ultra 155U, Intel Iris Xe | 16GB, 512GB                 | 3.15             |
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Which is the right laptop for college for you?
 
@@ -259,10 +260,16 @@ We use a combination of methods to test laptops here at ZDNET. First, we acquire
 Ultimately, our goal is to break down the capabilities of each and every laptop we test into digestible terms that real people can find useful. There is a lot of noise and confusion when it comes to navigating the laptop and computer consumer market, so we hope to bring an intuitive element to the whole process by leveraging our team's decades of experience. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Factors to consider when choosing a laptop for college
@@ -283,13 +290,6 @@ While every computing platform has its loyal supporters, most people end up usin
 **Also: [The best security keys you can buy: Expert tested](https://www.zdnet.com/article/best-security-key/)**
 
 All Windows devices listed here meet the requirements for Windows 11\. If you purchase a device with Windows 10 installed, you will be able to upgrade to Windows 11 if you choose to do so. Note that after October 14, 2025, Windows 10 support will end, and there will be no further security patches or feature updates.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What's the difference between a Chromebook and a Windows or Mac laptop?
 
@@ -343,21 +343,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/riority-picks-high-rated-graphics-cards-for-seamless-playback-for-2024/"><u>[New] Priority Picks High-Rated Graphics Cards for Seamless Playback for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-ultimate-tune-master-app-for-android-for-2024/"><u>[New] Ultimate Tune Master App for Android for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-blizzard-of-champions-highlighting-snowboard-cross-excellence-22-olympics/"><u>[Updated] Blizzard of Champions Highlighting Snowboard Cross Excellence, '22 Olympics</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-how-to-optimize-your-social-media-presence-post-facebook-change/"><u>[Updated] In 2024, How to Optimize Your Social Media Presence Post-Facebook Change</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-the-artisans-approach-to-profiling-brilliance/"><u>[Updated] In 2024, The Artisan's Approach to Profiling Brilliance</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/canon-mf4500-user-guide-and-driver-installation-step-by-step/"><u>Canon MF4500 User Guide and Driver Installation Step by Step</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/downloading-and-updating-your-dell-latitude-e6nano-e6430s-driver-software-for-windows-made-simple/"><u>Downloading & Updating Your Dell Latitude E6nano E6430's Driver Software for Windows Made Simple</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Vivo Y17s? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/methodology-for-modifying-the-usb-serial-bridge-control-program-on-pc/"><u>Methodology for Modifying the USB-Serial Bridge Control Program on PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mfc42dll-error-fixes-a-comprehensive-tutorial-to-restore-system-functionality/"><u>MFC42.DLL Error Fixes: A Comprehensive Tutorial to Restore System Functionality</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/seamless-setup-tutorial-secure-your-brother-mfc-l2700dw-printer-drivers-for-windows-installation/"><u>Seamless Setup Tutorial: Secure Your Brother MFC-L2700DW Printer Drivers for Windows Installation</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-checklist-for-finding-film-specialists-for-2024/"><u>The Ultimate Checklist for Finding Film Specialists for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-review-comprehensive-guide-to-latest-gadgets/"><u>Tom's Tech Review: Comprehensive Guide to Latest Gadgets</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-samsung-galaxy-z-fold-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshoot-and-solve-logitech-c615-driver-complications-in-no-time/"><u>Troubleshoot and Solve Logitech C615 Driver Complications in No Time</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unbeatable-deal-amd-ryzen-5-7600x-cpu-drops-to-a-bargain-174-on-newegg/"><u>Unbeatable Deal: AMD Ryzen 5 7600X CPU Drops to a Bargain $174 on Newegg</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-curated-top-picks-top-6-mac-video-capture-tools/"><u>[New] In 2024, Curated Top Picks Top 6 Mac Video Capture Tools</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-the-edge-of-gaming-technology-samsung-ue590-monitor-for-2024/"><u>[New] The Edge of Gaming Technology Samsung UE590 Monitor for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-gameplay-with-the-latest-drivers-upgrading-your-geforce-rtx-2080-ti/"><u>Enhance Gameplay with the Latest Drivers: Upgrading Your GeForce RTX 2080 Ti</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/expert-guide-to-overcoming-instagrams-video-obstacles/"><u>Expert Guide to Overcoming Instagram's Video Obstacles</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fast-track-installing-wacom-intuos-pro-software-on-your-pc-running-windows-10/"><u>Fast Track: Installing Wacom Intuos Pro Software on Your PC Running Windows 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-started-with-your-hp-zbook-15-g3-comprehensive-driver-downloads-and-setup-tutorial-for-windows-users/"><u>Get Started with Your HP ZBook 15 G3: Comprehensive Driver Downloads & Setup Tutorial for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-the-newest-lenovo-software-and-hardware-drivers-for-your-windows-10-device/"><u>How to Get the Newest Lenovo Software and Hardware Drivers for Your Windows 10 Device</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-prestigious-directory-free-visuals-hubs-galore-online/"><u>In 2024, Prestigious Directory FREE Visuals Hubs Galore Online</u></a></li>
+<li><a href="https://facebook.techidaily.com/innovative-approaches-for-striking-fb-cover-pics/"><u>Innovative Approaches for Striking FB Cover Pics</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-acer-display-driver-software-free-download-now/"><u>Latest Acer Display Driver Software Free Download Now</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-mavericks-os-x-the-best-way-to-edit-mp4-videos/"><u>New In 2024, Mavericks OS X The Best Way to Edit MP4 Videos</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211010395-9781088244036-the-flight-of-the-seagull/"><u>The Flight of the Seagull | Free Book</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722963010748-update-to-the-newest-dell-wireless-network-driver-version-instantly/"><u>Update to the Newest Dell Wireless Network Driver Version Instantly!</u></a></li>
 </ul></div>
 

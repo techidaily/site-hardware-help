@@ -1,7 +1,7 @@
 ---
 title: Quick & Simple Setup Tutorial for Wacom Intuos Pro on Windows 11
-date: 2024-08-26T07:58:57.854Z
-updated: 2024-08-27T07:58:57.854Z
+date: 2024-11-14T04:26:01.498Z
+updated: 2024-11-15T19:27:45.594Z
 tags:
   - win11
   - win10
@@ -36,8 +36,12 @@ OR
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/how-to-download-and-install-arduino-nano-driver-in-windows-solved/#op2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Option 1 –** **Download and install the driver manually**
 
  The screenshots below are from Windows 10, but the steps are also valid for other Windows system.
@@ -48,20 +52,19 @@ OR
 3. Click**Just Download** . The driver .exe installation file would then be downloaded automatically.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/just.jpg)
 4. On your keyboard, hold down the **Windows logo key** \+ **Pause** . Then click **Device Manager** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/device.jpg)
 5. Find and **right-click** your **Arduino Uno software** . Probably it’s listed under the **Other devices** section due to the problem. Then select **Update driver** .  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Select **Browse my computer for driver software** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9725918e348.png)
 6. Click the **Browse…** icon. Another window appears: go to the folder with the Arduino nano driver that you just downloaded. Select the drivers folder, then **OK** \> **Next** .
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  If you don’t have the time, patience or computer skills to update your Arduino Uno driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Move onto **Option 2** then.
 
@@ -77,15 +80,30 @@ OR
 2. Run Driver Easy, then click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12a.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/nano.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
  Hope this article will meet your need. If you have any question, please leave comments below, we’ll try our best to help.
@@ -98,8 +116,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -107,4 +123,20 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-say-goodbye-to-boring-photos-addons-for-iphones-and-android-screenshots/"><u>[New] In 2024, Say Goodbye to Boring Photos – Addons for iPhones and Android Screenshots</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-hitting-your-targets-with-these-8-social-media-planners/"><u>2024 Approved Hitting Your Targets with These 8 Social Media Planners</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/achieving-holistic-health-setting-clear-targets-with-chatgpt/"><u>Achieving Holistic Health: Setting Clear Targets with ChatGPT</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/elite-selection-of-the-finest-windows-laptop-models-for-202cuh-comprehensive-performance-analysis-and-editors-picks/"><u>Elite Selection of the Finest Windows Laptop Models for 202Cuh: Comprehensive Performance Analysis & Editor's Picks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/epic-deal-alert-secure-the-hp-victus-15-gaming-laptop-for-only-515-at-best-buys-prime-day-event-expert-analysis-by-zdnet/"><u>Epic Deal Alert: Secure the HP Victus 15 Gaming Laptop for Only $515 at Best Buy's Prime Day Event - Expert Analysis by ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/explore-the-new-generation-of-samsung-copilotplus-pc-with-advanced-ai-capabilities-highlighted/"><u>Explore the New Generation of Samsung Copilot+ PC with Advanced AI Capabilities | Highlighted</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Vivo S17t? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/seamless-wmv-to-mp4-conversion-without-costs-ideal-for-mac-and-windows-10-users/"><u>Seamless WMV-to-MP4 Conversion Without Costs - Ideal for Mac and Windows 10 Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-6-advantages-of-choosing-a-chromebook-the-ultimate-device-for-everyone-insights-from-zdnet/"><u>Top 6 Advantages of Choosing a Chromebook: The Ultimate Device for Everyone - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/transform-your-phone-into-a-dual-display-device-with-this-smart-laptop-stand-insights/"><u>Transform Your Phone Into a Dual-Display Device with This Smart Laptop Stand - Insights</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-helldivers-2-crashes-on-pc-with-these-reliable-methods/"><u>Troubleshoot Helldivers 2 Crashes on PC with These Reliable Methods</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlocking-innovation-the-hidden-brilliance-of-the-749-acer-laptop-top-pick-for-tech-enthusiasts/"><u>Unlocking Innovation: The Hidden Brilliance of the $749 Acer Laptop - Top Pick for Tech Enthusiasts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-covert-connectedness-do-you-own-a-mac-or-ipad-with-integrated-home-automation-radio/"><u>Unveiling the Covert Connectedness: Do You Own a Mac or iPad with Integrated Home Automation Radio?</u></a></li>
+</ul></div>
 

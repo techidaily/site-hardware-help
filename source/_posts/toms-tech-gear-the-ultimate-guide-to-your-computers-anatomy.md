@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Gear: The Ultimate Guide to Your Computer's Anatomy"
-date: 2024-08-26T07:54:49.776Z
-updated: 2024-08-27T07:54:49.776Z
+date: 2024-11-09T00:54:23.282Z
+updated: 2024-11-15T17:45:45.763Z
 tags:
   - cpu
 categories:
@@ -39,14 +39,11 @@ AMD’s near-ancient 3DNow! instructions have faded even further into obscurity.
 
  Developers who need to write for old AMD processors can still use 3DNow! instructions in Assembly, including inline Assembly code with LLVM. Other than that, anything related to 3DNow! should be considered deprecated and no longer used.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -55,8 +52,32 @@ AMD’s near-ancient 3DNow! instructions have faded even further into obscurity.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-expert-strategies-for-choosing-valheim-crops/"><u>[New] 2024 Approved Expert Strategies for Choosing Valheim Crops</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-skyrocketing-fb-engagement-masterful-seo-techniques-explored/"><u>[New] In 2024, Skyrocketing FB Engagement Masterful SEO Techniques Explored</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-slash-length-amplify-impact-youtube-video-editing/"><u>[New] In 2024, Slash Length, Amplify Impact YouTube Video Editing</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-optimal-obs-configuration-for-budget-pcs/"><u>[New] Optimal OBS Configuration for Budget PCs</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-popular-youtube-to-mp3-converter-programs-ideal-replacements-for-keepvid/"><u>2. Popular YouTube-to-MP3 Converter Programs: Ideal Replacements for Keepvid</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-heartfelt-goodbyes-free-or-subscribed-video-endings/"><u>2024 Approved Heartfelt Goodbyes Free or Subscribed Video Endings</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/2024s-ultimate-guide-to-streaming-mic-selection-by-experts-zdnet/"><u>2024'S Ultimate Guide to Streaming Mic Selection by Experts - ZDNet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/become-a-better-self-the-20-best-exercising-soundtracks-for-2024/"><u>Become a Better Self The 20 Best Exercising Soundtracks for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fast-and-simple-guide-linking-laptop-to-tv-seamlessly-tips/"><u>Fast & Simple Guide: Linking Laptop to TV Seamlessly - Tips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/grab-your-discounted-m1-macbook-air-today-save-200-see-deals/"><u>Grab Your Discounted M1 MacBook Air Today - Save $200! See Deals</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/huge-savings-alert-get-your-lenovo-pro-laptops-for-up-to-50-less-before-october-prime-day-gadget-news-hub/"><u>Huge Savings Alert: Get Your Lenovo Pro Laptops for Up to 50% Less Before October Prime Day | Gadget News Hub</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/save-big-this-black-friday-exclusive-offer-on-dell-inspiron-16-inch-2-in-1-laptop-for-250-less-find-your-deal-at-znet/"><u>Save Big This Black Friday: Exclusive Offer on Dell Inspiron 16-Inch 2-in-1 Laptop for $250 Less | Find Your Deal at Znet</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+

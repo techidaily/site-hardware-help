@@ -1,7 +1,7 @@
 ---
 title: "The Big Unveilings at CES 2023 Day 3: Special Focus on HTC, Google Announcements, and Top Industry Stories"
-date: 2024-11-04T18:10:18.928Z
-updated: 2024-11-05T21:12:56.739Z
+date: 2024-11-11T06:10:41.397Z
+updated: 2024-11-15T20:47:11.405Z
 tags:
   - laptops
 categories:
@@ -26,13 +26,6 @@ In case you haven't heard, it's CES 2023 week. Hundreds of companies descend upo
 
 Below, we've rounded up the biggest launches throughout the day.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Lenovo reveals a two-in-one OLED laptop
 
 Lenovo
@@ -42,10 +35,10 @@ While the company also [entered the smart tablet market today](https://www.zdnet
 [Check out the specs here](https://www.zdnet.com/article/lenovos-eye-catching-yoga-book-9i-is-the-worlds-first-dual-oled-screen-laptop/). You can also [see it up close with our YouTube short](https://www.youtube.com/shorts/2saeSjw4tbI), courtesy of ZDNET expert June Wan.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Ring adds new car dash cams
@@ -64,6 +57,13 @@ Already a staple in Google-connected cars, Android Auto will see an expansion wi
 
 [Catch the details of Google's announcement here](https://www.zdnet.com/article/soon-youll-be-able-to-make-whatsapp-calls-with-android-auto/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Motorola gets ahead of MWC with its new ThinkPhone
 
 June Wan/ZDNET
@@ -73,10 +73,10 @@ Most smartphone companies hold out for MWC in February, but this year, Motorola'
 [Check out his thoughts here](https://www.zdnet.com/article/i-went-hands-on-with-motorolas-thinkphone-and-its-surprisingly-good/).
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Razer unveils Project Carol and the Edge
@@ -112,10 +112,10 @@ The Hapta tool announced by L'Oréal will help bring inclusivity to the beauty w
 [Read about the award-winning prototype here](https://www.zdnet.com/article/loreal-wins-two-awards-for-inclusive-beauty-tech-at-ces-2023/).
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Stellantis announces a fully electric Ram truck
@@ -162,18 +162,20 @@ CEO Carlos Tavares announced the fully electric Ram 1500 Revolution this afterno
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-symphony-space-recordings-downloads-for-study/"><u>[New] In 2024, Symphony Space Recordings, Downloads for Study</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-revolutionary-ideas-to-empower-your-webcam-for-2024/"><u>[New] Revolutionary Ideas to Empower Your Webcam for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-fundamentals-of-earnings-on-youtube/"><u>[Updated] In 2024, The Fundamentals of Earnings on YouTube</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-mobile-filming-tools-for-tourists/"><u>2024 Approved Mobile Filming Tools for Tourists</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/amazing-builds-the-best-of-block-city-homes-for-2024/"><u>Amazing Builds The Best of Block City Homes for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/artful-alterations-crafting-distorted-images-to-dazzle/"><u>Artful Alterations Crafting Distorted Images to Dazzle</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-setup-of-soundmax-driver-software-on-your-windows-device-direct-download-link/"><u>Easy Setup of SoundMAX Driver Software on Your Windows Device - Direct Download Link</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-steps-to-update-your-logitech-m310-mouses-compatibility-and-performance-via-new-drivers/"><u>Easy Steps to Update Your Logitech M310 Mouse's Compatibility and Performance via New Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-microsoft-bluetooth-driver-software-updates-for-various-windows-versions/"><u>Get the Latest Microsoft Bluetooth Driver Software Updates for Various Windows Versions</u></a></li>
-<li><a href="https://driver-error.techidaily.com/install-missing-hardware-drivers-for-your-pc-a-comprehensive-guide-to-windows-1087/"><u>Install Missing Hardware Drivers for Your PC: A Comprehensive Guide to Windows 10/8/7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-fixes-overcoming-usb-communication-challenges-between-lg-gadgets-and-windows-systems/"><u>Step-by-Step Fixes: Overcoming USB Communication Challenges Between LG Gadgets and Windows Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-keeping-your-lenovo-t420-drivers-up-to-date-in-windows/"><u>Step-by-Step Guide: Keeping Your Lenovo T420 Drivers Up to Date in Windows</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/unlocking-an-icloud-locked-ipad-and-apple-iphone-xs-by-drfone-ios/"><u>Unlocking an iCloud Locked iPad and Apple iPhone XS</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-prime-video-sets-for-live-broadcasts-2023/"><u>[New] Prime Video Sets for Live Broadcasts 2023</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-comparative-study-twitch-and-youtube-in-streaming-land/"><u>[Updated] Comparative Study Twitch & YouTube in Streaming Land</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-interactive-display-decode-for-2024/"><u>[Updated] Interactive Display Decode for 2024</u></a></li>
+<li><a href="https://win-webster.techidaily.com/bootstrap-4-material-design-admin-interface-get-your-free-project-from-material-dashboard-by-creative-tim/"><u>Bootstrap 4 Material Design Admin Interface - Get Your Free Project From Material Dashboard by Creative Tim</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/canon-dr-c225-driver-download-for-windows-operating-systems-windows-11-10-and-8/"><u>Canon DR-C225 Driver Download for Windows Operating Systems - Windows 11, 10 & 8</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-canon-mf4800-printer-drivers-for-optimal-performance/"><u>Download & Install Canon MF4800 Printer Drivers for Optimal Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-installation-of-elgato-drivers-step-by-step-download-tutorial/"><u>Effortless Installation of Elgato Drivers - Step by Step Download Tutorial</u></a></li>
+<li><a href="https://fox-http.techidaily.com/hidden-insights-for-importer-mastery-on-windows-10/"><u>Hidden Insights for Importer Mastery on Windows 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-your-toshiba-laptops-drivers-in-windows-easily/"><u>How to Update Your Toshiba Laptop's Drivers in Windows Easily</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Infinix Smart 8 HD? | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-how-to-buy-1-million-youtube-views-safely-from-trusted-providers/"><u>In 2024, How to Buy 1 Million YouTube Views Safely From Trusted Providers</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/leading-apps-to-recover-missing-contact-details-on-ios-devices/"><u>Leading Apps to Recover Missing Contact Details on iOS Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/logitech-g29-driver-download-for-windows-11117/"><u>Logitech G29 Driver Download for Windows 11/11/7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-guide-to-downloading-and-updating-synaptics-drivers-on-your-pc/"><u>Quick Guide to Downloading and Updating Synaptics Drivers on Your PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722969224757-simple-guide-installing-corsair-drivers-on-your-pc-without-hitches/"><u>Simple Guide: Installing Corsair Drivers on Your PC Without Hitches!</u></a></li>
 </ul></div>
 

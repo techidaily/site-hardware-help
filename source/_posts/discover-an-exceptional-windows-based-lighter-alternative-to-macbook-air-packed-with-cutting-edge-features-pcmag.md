@@ -1,7 +1,7 @@
 ---
 title: Discover an Exceptional Windows-Based Lighter Alternative to MacBook Air, Packed with Cutting-Edge Features | PCMag
-date: 2024-11-01T17:45:27.750Z
-updated: 2024-11-05T22:52:02.153Z
+date: 2024-11-08T19:50:14.991Z
+updated: 2024-11-16T01:26:21.566Z
 tags:
   - laptops
 categories:
@@ -91,10 +91,10 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -133,20 +133,18 @@ All things considered, the starting price of $1,299 is quite competitive for thi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-enhance-your-vlogs-pacing-using-jump-cuts/"><u>[New] In 2024, How to Enhance Your Vlog's Pacing Using Jump Cuts</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-comprehensible-path-to-proficient-greenscreen-in-kinemaster/"><u>[New] The Comprehensible Path to Proficient Greenscreen in KineMaster</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-how-to-make-free-intros-for-youtube-plustemplates/"><u>[Updated] How to Make Free Intros for YouTube? [+Templates]</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-intriguing-stories-flourishing-channels-top-3-techniques/"><u>[Updated] Intriguing Stories, Flourishing Channels Top 3 Techniques</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-unleash-creativity-in-instagram-with-looping-tricks-for-2024/"><u>[Updated] Unleash Creativity in Instagram with Looping Tricks for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-unlocking-the-art-of-video-capturing-everywhere/"><u>[Updated] Unlocking the Art of Video Capturing Everywhere</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1-discover-the-top-8-amazing-features-of-a-smart-home-hub-with-home-assistant/"><u>1. Discover the Top 8 Amazing Features of a Smart Home Hub with Home Assistant</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/budget-friendly-strategies-for-creating-your-own-intelligent-house/"><u>Budget-Friendly Strategies for Creating Your Own Intelligent House</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/cut-costs-without-compromise-opt-for-affordable-graphics-card-alternatives/"><u>Cut Costs Without Compromise - Opt for Affordable Graphics Card Alternatives</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-14-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone 14 Properly</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/maximize-space-with-samsungs-enhanced-flash-drive-technology-for-larger-data-storage/"><u>Maximize Space with Samsung's Enhanced Flash Drive Technology for Larger Data Storage</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/microsoft-introduces-first-ever-arm-based-windows-desktops-powered-by-qualcomm/"><u>Microsoft Introduces First-Ever Arm-Based Windows Desktops Powered by Qualcomm</u></a></li>
-<li><a href="https://fox-info.techidaily.com/transform-your-snapchat-pics-with-playful-cartoon-lens/"><u>Transform Your Snapchat Pics with Playful Cartoon Lens</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/transforming-your-android-tablet-into-a-portable-laptop-alternative/"><u>Transforming Your Android Tablet Into a Portable Laptop Alternative</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/uncovering-stealthy-strategies-the-top-8-secret-methods-for-cable-free-mobile-charging/"><u>Uncovering Stealthy Strategies: The Top 8 Secret Methods for Cable-Free Mobile Charging</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-breaking-boundaries-top-10-novel-facebook-memes-for-2024/"><u>[New] Breaking Boundaries Top 10 Novel Facebook Memes for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exclusive-roundup-10-essential-cost-free-iphone-selfie-editors/"><u>2024 Approved Exclusive Roundup 10 Essential, Cost-Free iPhone Selfie Editors</u></a></li>
+<li><a href="https://common-error.techidaily.com/addressing-freezing-during-windows-11-updates-best-fixes-and-techniques/"><u>Addressing Freezing During Windows 11 Updates: Best Fixes & Techniques</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-driver-upgrades-for-your-hp-printer-on-windows-10-or-11/"><u>Get the Newest Driver Upgrades for Your HP Printer on Windows 10 or 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-create-unique-ringtone-experiences-on-iphone/"><u>How to Create Unique Ringtone Experiences on iPhone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-1-live-music-broadcasts/"><u>In 2024, Top 1 Live Music Broadcasts</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-unleashing-windows-11s-full-visual-potential-with-automatic-hdr-mode/"><u>In 2024, Unleashing Windows 11'S Full Visual Potential with Automatic HDR Mode</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-driver-installation-guide-for-brother-mfc-380dw-on-pcs-with-windows-os/"><u>Latest Driver Installation Guide for Brother MFC-#380DW on PCs with Windows OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/lenovo-ideapad-100-driver-installation-and-updates-a-comprehensive-guide-for-windows-11-users/"><u>Lenovo IdeaPad 100 Driver Installation & Updates: A Comprehensive Guide for Windows 11 Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/steps-to-updating-the-drivers-of-your-intel-centrino-ae-8905/"><u>Steps to Updating the Drivers of Your Intel Centrino AE-8905</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/top-5-tecno-pova-5-pro-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Tecno Pova 5 Pro Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-mp4-encoder-software-del-2023-un-passo-passo-per-ottimizzare-i-tuoi-file-video/"><u>Top MP4 Encoder Software Del 2023: Un Passo-Passo per Ottimizzare I Tuoi File Video</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlocking-performance-with-toms-component-corner/"><u>Unlocking Performance with Tom's Component Corner</u></a></li>
 </ul></div>
 

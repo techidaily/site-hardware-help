@@ -1,7 +1,7 @@
 ---
 title: Download Updated Intel Z370 Chipset Drivers - Optimize Your Gigabyte PURIFY Performance
-date: 2024-08-19T12:31:16.325Z
-updated: 2024-08-20T12:31:16.325Z
+date: 2024-11-12T19:23:46.787Z
+updated: 2024-11-15T20:01:51.946Z
 tags:
   - win11
   - win10
@@ -24,6 +24,13 @@ If you have a Gigabyte motherboard, accidentally format your computer and can’
 
  That’s why when you meet problems, you need to download the related driver to solve it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to download the Gigabyte ethernet driver?
 
 There are two ways you can update your Gigabyte ethernet drivers.
@@ -35,8 +42,12 @@ OR
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/download-gigabyte-ethernet-driver/#op2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Option 1 –** **Download and install the driver manually**
 
 **1)** Find your Gigabyte motherboard model name.
@@ -51,13 +62,27 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/lan-1024x410.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **4)** Download the ethernet driver and install it manually.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Option 2 – Automatically update drivers**
 
  If you don’t have the time, patience or computer skills to update the driver manually, you can do it automatically with Driver Easy.
@@ -69,16 +94,9 @@ OR
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2019/08/11.1.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/11-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
  We hope you find the above information helps. And if you have any ideas, suggestions, or questions, feel free to leave a comment below.
@@ -91,8 +109,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -100,4 +116,19 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://unlock-android.techidaily.com/5-solutions-for-tecno-spark-20-unlock-without-password-by-drfone-android/"><u>5 Solutions For Tecno Spark 20 Unlock Without Password</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/8-free-instagram-to-mp4-converters-you-can-try-onlinewindowsmac/"><u>8 Free Instagram to MP4 Converters You Can Try [Online/Windows/Mac]</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cloud-storage-expenses-made-simple-comparison-guide/"><u>Cloud Storage Expenses Made Simple Comparison Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comparing-smartwatch-giants-why-fitbit-sense-offers-a-superior-approach-to-personal-wellness-against-the-apple-watch/"><u>Comparing Smartwatch Giants: Why Fitbit Sense Offers a Superior Approach to Personal Wellness Against the Apple Watch</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-oppo-find-n3-flip-by-drfone-android/"><u>In 2024, How to Bypass FRP on Oppo Find N3 Flip?</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/speed-up-your-ukrainian-skills-with-short-regular-sessions-106-chars/"><u>Speed Up Your Ukrainian Skills with Short, Regular Sessions (106 Chars)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-journey-swiv-universal-charger-reviewed-more-than-meets-the-eye-beyond-simple-travel-convenience/"><u>The Journey Swiv Universal Charger Reviewed: More Than Meets the Eye Beyond Simple Travel Convenience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-nostalgic-return-how-beige-computers-are-making-a-modern-day-resurgence/"><u>The Nostalgic Return: How Beige Computers Are Making A Modern-Day Resurgence</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-necessary-electronics-for-todays-on-the-move-professionals/"><u>The Ultimate Guide to Necessary Electronics for Today's On-the-Move Professionals</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/transforming-gaming-experience-with-a-curved-ultrawide-display/"><u>Transforming Gaming Experience with a Curved Ultrawide Display</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/transforming-your-space-why-home-assistant-is-the-ultimate-smart-home-solution/"><u>Transforming Your Space: Why Home Assistant Is the Ultimate Smart Home Solution</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-stop-the-random-silence-correcting-windows-11-sound-glitches/"><u>Ultimate Guide: Stop the Random Silence - Correcting Windows 11 Sound Glitches</u></a></li>
+</ul></div>
 

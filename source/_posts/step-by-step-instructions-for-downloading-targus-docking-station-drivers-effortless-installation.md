@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Instructions for Downloading Targus Docking Station Drivers - Effortless Installation!
-date: 2024-08-26T07:55:25.190Z
-updated: 2024-08-27T07:55:25.190Z
+date: 2024-11-14T17:11:55.872Z
+updated: 2024-11-15T18:10:59.794Z
 tags:
   - win11
   - win10
@@ -43,6 +43,13 @@ OR
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap40.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ). Or if you just want to update the Targus Docking Station driver for now, hit the**Update** button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-361.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:** you can do it for free if you like, but it’s partly manual.
 
  If you have any problems when using Driver Easy to update your driver, please feel free to email us at**<support@drivereasy.com>** .
@@ -51,10 +58,6 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### Option 2: Manually update your Targus Docking Station driver
 
  If you feel like updating your Targus Docking Station driver manually, here’s the simple and useful guide for you.
@@ -63,30 +66,47 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. In the top right of this web page, click**Support** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-365.png)
 3. Select**Drivers & Manuals** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-367.png)
 4. Type the**model name** or**serial number** of your Targus device into the search box to locate the corresponding drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-368.png) Alternatively, you may select**Category** and then**Product** to look for the drivers of your Docking Station.![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-160.png)
-5. After locating the corresponding driver for your product, click on the**Download** button below.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-372.png)
+
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+5. After locating the corresponding driver for your product, click on the**Download** button below.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-372.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Right-click on the file (with a ZIP extension) you’ve just downloaded to open the context menu. Then click**Extract All…** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-375.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. In the pop-up window, click**Browse…** and choose a destination folder where you want to decompress the file. Then, click**Extract** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-376.png)
 8. Wait till the decompression process finishes. Then**copy** the full path of the destination folder. (The path will be different based on your choice in the last step. )![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-20_15-47-31.png)
 9. On your keyboard, press the **Windows Logo Key** and **R**  at the same time to open the**Run**  box. Type **devmgmt.msc** and click **OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap13-2.png)
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 10. In the**Device Manager** window, locate your Targus Docking Station and then right-click on it to open the context menu. Select**Update driver** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap14-1.png)
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 11. If prompted, click**Browse my computer for driver software** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-384.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 12. **Paste** the full path copied in**Step 8** onto the address bar. Remember to check the **Include subfolders** box. Then hit the **Next** button.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-387.png)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 13. Now Windows will search for the driver and install it automatically. When everything’s done, click**Finish** . Then **restart** your computer for the changes to take effect even if you’re not asked to.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ---
 
@@ -100,8 +120,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -109,4 +127,17 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-premier-5-web-video-capture-tech/"><u>[New] 2024 Approved Premier 5 Web Video Capture Tech</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-cutting-edge-content-creation-mastering-how-to-trim-videos-in-real-time-on-vimeo/"><u>[Updated] 2024 Approved Cutting-Edge Content Creation Mastering How to Trim Videos in Real Time on Vimeo</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-step-by-step-guide-to-high-quality-zoom-recordings-for-podcasters/"><u>[Updated] 2024 Approved Step-by-Step Guide to High-Quality Zoom Recordings for Podcasters</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-ultimate-list-of-walmarts-must-have-christmas-offers-for-exceptional-discounts-zdnet/"><u>Discover the Ultimate List of Walmart's Must-Have Christmas Offers for Exceptional Discounts - ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-deal-alert-secure-a-nearly-50-discount-on-the-samsung-t5-ssd-from-amazon-in-time-for-pre-prime-day-shopping/"><u>Exclusive Deal Alert: Secure a Nearly 50% Discount on the Samsung T5 SSD From Amazon in Time for Pre-Prime Day Shopping!</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-premier-9-video-calls-prioritizing-security-in-smes/"><u>In 2024, Premier 9 Video Calls Prioritizing Security in SMEs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/inside-the-lenovo-ideapads-capabilities-for-gamers-how-hardware-impacts-cloud-gaming-experience-a-detailed-analysis-by-zdnet/"><u>Inside the Lenovo IdeaPad's Capabilities for Gamers: How Hardware Impacts Cloud Gaming Experience – A Detailed Analysis by ZDNET</u></a></li>
+<li><a href="https://win-blog.techidaily.com/launch-success-the-power-of-duo-dynamics-unveiled/"><u>Launch Success: The Power of Duo Dynamics Unveiled</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/metaverse-vs-multimetaverse-key-distinctions-and-comparison/"><u>Metaverse Vs. Multimetaverse Key Distinctions and Comparison</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/rugged-resilience-meets-portability-in-depth-panasonic-toughbook-g2-evaluation-on-zdnet/"><u>Rugged Resilience Meets Portability: In-Depth Panasonic Toughbook G2 Evaluation on ZDNet</u></a></li>
+</ul></div>
 

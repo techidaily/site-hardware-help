@@ -1,7 +1,7 @@
 ---
 title: "Breaking Boundaries with Custom-Made Toughness: Exploring a New Era of Rugged Computing Not Defined by Getac | Innovative Reviews"
-date: 2024-10-31T20:13:56.086Z
-updated: 2024-11-05T17:57:13.001Z
+date: 2024-11-12T03:36:39.213Z
+updated: 2024-11-16T05:22:04.621Z
 tags:
   - laptops
 categories:
@@ -39,10 +39,10 @@ Jason Hiner/ZDNET
 There's no actual new functionality in these chips; it's like comparing a Lamborghini (or a Tesla Model S "Plaid") from a few years ago with 600HP to one with 1000HP. Impressive performance boost, yes, but what's the actual impact for the average end-user? We can still only legally drive 65 mph/105 kph on most crowded highways in North America -- we need the application autobahn to fully take advantage of them.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## GPU optimization and AI improvements, but where are the apps?
@@ -54,10 +54,10 @@ The enhancements in GPU optimization and improved and increased AI cores in the 
 In the long term, these improvements will also likely trickle down into the [Vision Pro headset](https://www.zdnet.com/article/i-tried-apple-vision-pro-and-its-far-ahead-of-where-i-expected/) and, potentially, [iPad Pro](https://www.zdnet.com/article/ipad-pro-2022-review/). However, where do the apps take advantage of these on the consumer side? Yes, some Pro apps and some 3D games can today, but that's a relatively small part of Apple's target market today. And let's face it, the PC is still the gaming king, for now.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Generative AI question
@@ -75,10 +75,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Don't discount the low-end Macbook as an industry disruptor
@@ -92,10 +92,10 @@ I know of many professionals who aren't content creation types who spend a lot o
 We should also consider what impact the lower-end M3 systems are going to have on an already weakened Wintel market. Firstly, any M1 and M2 Mac machines already in the retail channel that were already very competitive with the Intel machines being offered by other manufacturers will drop in price significantly and will apply even more pressure, additionally decimating Intel's relevancy in many market segments.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## This is ultimately an Intel-killing play
@@ -140,22 +140,24 @@ The M3 chips aren't merely a product release; they are Apple's bold statement of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-top-10-free-youtube-subtitle-extractors-and-downloaders/"><u>[New] Top 10 Free YouTube Subtitle Extractors & Downloaders</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-optimize-your-iphone-for-gif-saving-and-playing-like-a-pro/"><u>[Updated] In 2024, Optimize Your iPhone for GIF Saving & Playing Like a Pro</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-understanding-and-utilizing-facebooks-live-feature-a-complete-overview/"><u>2024 Approved Understanding and Utilizing Facebook's Live Feature A Complete Overview</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/acer-laptop-trackpad-drivers-for-windows-11-download-now/"><u>Acer Laptop Trackpad Drivers for Windows 11 - Download Now!</u></a></li>
-<li><a href="https://howto.techidaily.com/app-wont-open-on-your-nubia-z50-ultra-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Nubia Z50 Ultra? Here Are All Fixes | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722973434644-complete-driver-downloads-for-your-lenovo-t430-on-windows-1087-made-easy/"><u>Complete Driver Downloads for Your Lenovo T430 on Windows 10/8/7 Made Easy!</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-vivo-v30-lite-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Vivo V30 Lite 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-installation-of-newest-nvidia-drivers-on-your-windows-10-pc/"><u>Effortless Installation of Newest NVIDIA Drivers on Your Windows 10 PC</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-synaptic-touchpad-drivers-free-downloads-and-updates/"><u>Effortless Synaptic Touchpad Drivers: Free Downloads and Updates</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-latest-hp-all-in-one-deskjet-3755-driver-for-windows-10-8-and-7-now-available/"><u>Get Your Latest HP All-in-One DeskJet 3755 Driver for Windows 10, 8 & 7 - Now Available!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-windows-10-ready-quick-guide-to-downloading-sound-blaster-z-drivers/"><u>Get Your Windows 10 Ready: Quick Guide to Downloading Sound Blaster Z Drivers</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-seconds-needed-to-watch-an-hd-20mb-video/"><u>In 2024, Seconds Needed to Watch an HD 20MB Video</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-logitech-audio-drivers-for-microsoft-windows-operating-systems-win10-win8-and-win7-downloads/"><u>Latest Logitech Audio Drivers for Microsoft Windows Operating Systems: Win10, Win8 & Win7 Downloads</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/master-artificial-intelligence-in-browsing-the-ultimate-list-of-etop-7-chatgpt-extensions-for-chrome/"><u>Master Artificial Intelligence in Browsing: The Ultimate List of eTop 7 ChatGPT Extensions for Chrome</u></a></li>
-<li><a href="https://extra-information.techidaily.com/real-time-sharing-iphone-video-and-image-crafting/"><u>Real-Time Sharing IPhone Video & Image Crafting</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/the-art-of-advertising-a-guide-to-profit-making-on-vimeo/"><u>The Art of Advertising A Guide to Profit-Making on Vimeo</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-review-comprehensive-insights-on-latest-hardware/"><u>Tom's Tech Review: Comprehensive Insights on Latest Hardware</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-master-device-agnostic-recording-techniques-for-youtube-live-streams/"><u>[New] In 2024, Master Device-Agnostic Recording Techniques for YouTube Live Streams</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-understanding-why-your-shorts-thumbnails-dont-show-up/"><u>[New] In 2024, Understanding Why Your Shorts' Thumbnails Don't Show Up</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-mastering-youtube-titulos-con-algoritmos-for-2024/"><u>[New] Mastering YouTube Títulos Con Algoritmos for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-no-credit-calls-unlocking-free-tools-for-iphone-photo-blurring/"><u>[New] No Credit Calls Unlocking Free Tools for iPhone Photo Blurring</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-comical-creation-quick-tips-for-meme-mastery-for-2024/"><u>[Updated] Comical Creation Quick Tips for Meme Mastery for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-from-raw-footage-to-mov-windows-10-filming-techniques/"><u>[Updated] From Raw Footage to MOV Windows 10 Filming Techniques</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-say-no-to-latency-turn-on-av1-in-youtube-settings/"><u>2024 Approved Say No to Latency Turn On AV1 in YouTube Settings</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-how-the-newly-released-749-thinkbook-could-become-the-ultimate-windows-laptop-of-2024-insights-from-zdnet/"><u>Discover How the Newly Released $749 ThinkBook Could Become the Ultimate Windows Laptop of 2024: Insights From ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-why-im-still-enamored-with-lgs-featherlight-gram-pro-17-and-its-companion-model-during-prime-day-savings-event/"><u>Discover Why I'm Still Enamored with LG's Featherlight Gram Pro 17 & Its Companion Model During Prime Day Savings Event</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-pre-prime-day-sales-alert-top-offers-from-walmart/"><u>Exclusive Pre-Prime Day Sales Alert! Top Offers From Walmart</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/find-your-ideal-iphone-at-record-prices-exclusive-roundup-of-july-2024-promotions-as-reviewed/"><u>Find Your Ideal iPhone at Record Prices! Exclusive Roundup of July 2024 Promotions as Reviewed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/huge-discount-alert-samsung-4tb-portable-ssd-t5-now-available-on-amazon-for-nearly-half-the-original-price-zdnets-exclusive/"><u>Huge Discount Alert: Samsung 4TB Portable SSD T5 Now Available on Amazon for Nearly Half the Original Price - ZDNet's Exclusive</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-vivo-s18-pro-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Vivo S18 Pro PC | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/innovative-uses-of-chatgpt-that-can-transform-your-remote-working-experience/"><u>Innovative Uses of ChatGPT That Can Transform Your Remote Working Experience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/last-call-top-game-discounts-on-best-prime-day-in-oct-24-up-to-1k-savings-await-zdnet/"><u>Last Call: Top Game Discounts on Best Prime Day in Oct '24 - Up To $1K Savings Await! | ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/live-streaming-microsofts-next-gen-ai-showcase-on-surface-and-windows-get-ready-now-zdnet/"><u>Live Streaming Microsoft's Next-Gen AI Showcase on Surface & Windows - Get Ready Now! | ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/study-reveals-privacy-risks-protect-your-personal-files-from-intrusive-tech-support/"><u>Study Reveals Privacy Risks: Protect Your Personal Files From Intrusive Tech Support</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-new-era-of-productivity-on-the-go-how-hps-cutting-edge-chromebooks-elevate-work-and-study-experience-as-revealed-by-zdnet/"><u>The New Era of Productivity on the Go: How HP's Cutting-Edge Chromebooks Elevate Work and Study Experience, as Revealed by ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-quality-metas-512gb-quest-3-offer-the-ultimate-october-prime-day-steal-for-vr-enthusiasts-find-out-why-at-zdnet/"><u>Top-Quality Meta's 512GB Quest 3 Offer: The Ultimate October Prime Day Steal for VR Enthusiasts - Find Out Why at ZDNet</u></a></li>
 </ul></div>
 

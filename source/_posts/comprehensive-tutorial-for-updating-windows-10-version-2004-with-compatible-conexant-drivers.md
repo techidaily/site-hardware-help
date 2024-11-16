@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Tutorial for Updating Windows 10 (Version 2004) with Compatible Conexant Drivers
-date: 2024-08-19T12:31:46.339Z
-updated: 2024-08-20T12:31:46.339Z
+date: 2024-11-12T19:31:42.005Z
+updated: 2024-11-15T20:19:10.945Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/a399a44beb5899ba48cdf59ba448623d828236f52
 3. [Update Conexant audio driver](https://tools.techidaily.com/drivereasy/download/)
 4. [Edit Local Group Policy](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Disable automatic driver updates
 
  Conexant is older and incompatible with the Windows 10 default drivers, so this fix aims to block its automatic driver update to let your update the Windows 10 new version.
@@ -39,17 +46,28 @@ thumbnail: https://thmb.techidaily.com/a399a44beb5899ba48cdf59ba448623d828236f52
 4. Scroll down and click**Advanced system settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_15-53-56.jpg)
 5. In the**Hardware** tab, click**Device Installation Settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_15-46-45.jpg)
 6. Click**No** **\> Save Changes** in the pop-up window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_15-45-45.jpg)
 7. Try to update Windows.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If this fix doesn’t work, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Fix 2: Uninstall Conexant audio driver
 
  If you can’t block Conexant driver, disable it and uninstall it would be another choice.
@@ -58,14 +76,15 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Type**devmgmt.msc** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/open-device-manager.png)
 3. Click**Sound, video and game controllers** .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 4. Right-click on Conexant and click**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_15-57-09.jpg)
 5. Follow the onscreen instructions to finish the process.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Reboot the computer and update Windows after the process. If it’s not working, move to the next fix.
@@ -82,9 +101,14 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Type**devmgmt.msc** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/open-device-manager.png)
 3. Click**Sound, video and game controllers** .
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Right-click on Conexant and click**Update driver** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_15-58.jpg)
 5. Click**Search automatically for driver** .  
@@ -109,18 +133,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ### Fix 4: Edit Local Group Policy
 
  By editing registry to disable the Windows driver installation has solve the issue for some users. But you’d better backup your files before doing this for potential risks.
@@ -138,17 +162,27 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 8. Type**gpedit.msc** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/local_group_policy_editor.jpg)
 9. Click **Computer Configuration > Administrative Templates > System > Device Installation > Device Installation R** **estrictions** .
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 10. Right-click **Prevent installation of devices that match any of these device IDs** in the right panel and click**Edit** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_16-56-14.jpg)
 11. Click**Enable** then click the**Show…** button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_16-59-51.jpg)
 12. Paste the Hardware IDs you got from**Step 6** in the blank space, then click**OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_17-01-14.jpg)
 13. Update Windows to check.
 
@@ -164,8 +198,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -173,4 +205,20 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ed-youtube-comment-finder-you-should-try-for-2024/"><u>[Updated] YouTube Comment Finder You Should Try for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/a-laptop-above-the-rest-discovering-excellence-in-durability-features-and-hardware-techradar-review/"><u>A Laptop Above the Rest: Discovering Excellence in Durability, Features, and Hardware | TechRadar Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-unbeatable-july-2e24-bargains-for-laptops-with-our-comprehensive-guide-picks/"><u>Discover Unbeatable July 2E24 Bargains for Laptops with Our Comprehensive Guide Picks</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/expert-tips-for-restoring-your-link-to-destiny-2-online-game-servers-solved/"><u>Expert Tips for Restoring Your Link to Destiny 2 Online Game Servers (SOLVED)</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-lava-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Lava Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/1723077426560-minecraft-user-manual-the-best-all-age-sandbox-experience-ever/"><u>Minecraft User Manual: The Best All-Age Sandbox Experience Ever!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/peak-engagement-title-conjurer/"><u>Peak Engagement Title Conjurer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/skyrocket-your-productivity-with-this-versatile-10-in-1-multi-device-charging-solution-save-35-today-techradar/"><u>Skyrocket Your Productivity with This Versatile 10-in-1 Multi-Device Charging Solution - Save 35% Today | TechRadar</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-ranking-gaming-notebooks-comparative-review-of-razer-acer-msi-and-additional-brands-by-zdnet/"><u>Top-Ranking Gaming Notebooks : Comparative Review of Razer, Acer, MSI & Additional Brands by ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-gaming-audio-top-rated-speakers-now-up-to-30-discounted-on-amazon-zdnet-tech-review/"><u>Unbeatable Gaming Audio: Top-Rated Speakers Now Up to 30% Discounted on Amazon | ZDNet Tech Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlock-the-secret-how-new-lenovo-laptops-revolutionize-iphone-file-sharing-exclusive-features-revealed-by-zdnet/"><u>Unlock the Secret: How New Lenovo Laptops Revolutionize iPhone File Sharing - Exclusive Features Revealed by ZDNet!</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/weaving-worthy-movie-openings-for-2024/"><u>Weaving Worthy Movie Openings for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Tecno Camon 20 Pro 5G? | Dr.fone</u></a></li>
+</ul></div>
 

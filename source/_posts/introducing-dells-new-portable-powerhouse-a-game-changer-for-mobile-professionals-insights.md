@@ -1,7 +1,7 @@
 ---
 title: "Introducing Dell's New Portable Powerhouse: A Game Changer for Mobile Professionals - Insights"
-date: 2024-11-01T20:43:00.896Z
-updated: 2024-11-05T17:34:15.600Z
+date: 2024-11-08T17:29:15.533Z
+updated: 2024-11-16T04:47:49.452Z
 tags:
   - laptops
 categories:
@@ -71,10 +71,16 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -113,22 +119,22 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-smartly-craft-your-podcast-title-with-these-tools/"><u>[New] Smartly Craft Your Podcast Title with These Tools</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-the-definitive-list-of-cam-covers-for-secure-shopping/"><u>[Updated] The Definitive List of Cam Covers for Secure Shopping</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-iconic-imagery-stories-a-deep-dive/"><u>2024 Approved Iconic Imagery Stories A Deep Dive</u></a></li>
-<li><a href="https://win-dash.techidaily.com/brother-mfc-j480dw-installing-the-most-recent-windows-drivers/"><u>Brother MFC-J480DW: Installing the Most Recent Windows Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-kyocera-printer-drivers-on-your-windows-pc/"><u>Download & Install KYOCERA Printer Drivers on Your Windows PC</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-logitechs-latest-wireless-mouse-software-for-pc/"><u>Download Logitech's Latest Wireless Mouse Software for PC</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-brother-mfc-7860dw-printer-drivers-latest-version-available-now/"><u>Free Brother MFC-7860DW Printer Drivers - Latest Version Available Now!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-nvidia-display-driver-for-windows-10-users-windows-11-7-and-8-versions-available/"><u>Get Your NVIDIA Display Driver for Windows 10 Users: Windows 11, 7 & 8 Versions Available!</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/guida-esclusiva-tutti-i-passaggi-per-la-riparazione-dei-dvd-difettosi/"><u>Guida Esclusiva: Tutti I Passaggi per La Riparazione Dei DVD Difettosi</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-13-pro-max-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone 13 Pro Max Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/modern-seismic-design-codes-incorporate-factors-like-material-ductility-redundancy-and-energy-dissipating-devices-to-reduce-the-risk-of-these-failure-modes-328/"><u>Modern Seismic Design Codes Incorporate Factors Like Material Ductility, Redundancy, and Energy-Dissipating Devices to Reduce the Risk of These Failure Modes During an Earthquake.</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/or-an-independent-creation/"><u>Or an Independent Creation?</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/preview-techniques-for-your-digital-content-before-going-public-on-the-internet/"><u>Preview Techniques for Your Digital Content Before Going Public on the Internet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-and-easy-installation-guide-microsoft-ergo-4k-keyboard-drivers/"><u>Quick & Easy Installation Guide: Microsoft Ergo 4K Keyboard Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-instrucuions-finding-and-installing-lenovo-t420-drivers-in-windows-effortlessly/"><u>Step-by-Step Instrucuions: Finding & Installing Lenovo T420 Drivers in Windows Effortlessly</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshooting-and-fixing-arduino-uno-compatibility-with-windows-systems/"><u>Troubleshooting and Fixing Arduino Uno Compatibility with Windows Systems</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-in-this-article-we-are-going-to-take-you-through-some-of-the-best-time-lapse-video-editing-software-you-can-find-on-the-market/"><u>Updated 2024 Approved In This Article, We Are Going to Take You Through some of the Best Time-Lapse Video Editing Software, You Can Find on the Market</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-leading-the-pack-in-instagram-content-crafting-puzzle-feeds/"><u>[New] 2024 Approved Leading the Pack in Instagram Content Crafting Puzzle Feeds</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-social-sharing-simplified-uploading-immersive-mobile-photography/"><u>[New] 2024 Approved Social Sharing Simplified Uploading Immersive Mobile Photography</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-archive-all-highlights-no-limit-savers-available/"><u>[Updated] 2024 Approved Archive All Highlights No Limit Savers Available</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-step-by-step-guide-for-elevating-your-youtube-feedback-with-emojis/"><u>[Updated] In 2024, Step-by-Step Guide for Elevating Your Youtube Feedback with Emojis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/adapting-office-equipment-for-the-age-of-artificial-intelligence-insights/"><u>Adapting Office Equipment for the Age of Artificial Intelligence: Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/beware-of-real-computer-bug-issues-reports-of-bedbugs-in-student-chromebooks-rising-again-tech-news-on-zdnet/"><u>Beware of Real Computer Bug Issues: Reports of Bedbugs in Student Chromebooks Rising Again | Tech News on ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/beyond-thinkpads-a-comprehensive-guide-to-choosing-the-ideal-2-in-1-laptop-for-business-efficiency-zdnet-insights/"><u>Beyond ThinkPads: A Comprehensive Guide to Choosing the Ideal 2-in-1 Laptop for Business Efficiency | ZDNET Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/cyber-monday-blowout-top-laptop-coolers-at-unbeatable-prices-find-the-best/"><u>Cyber Monday Blowout: Top Laptop Coolers at Unbeatable Prices – Find the Best</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fast-fixes-for-modifying-apple-macos-trackpad-illumination-settings-expert-tips-and-tricks/"><u>Fast Fixes for Modifying Apple MacOS Trackpad Illumination Settings - Expert Tips and Tricks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamlining-post-production-with-luts-in-ae/"><u>In 2024, Streamlining Post-Production with LUTs in AE</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/microsofts-surface-laptop-with-copilotplus-outshines-macbook-air-in-three-key-areas-discover-how/"><u>Microsoft's Surface Laptop with Copilot+ Outshines MacBook Air in Three Key Areas - Discover How !</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719169318737-revolutionize-game-boy-handhents-on-your-mobile-device/"><u>Revolutionize Game Boy Handhents on Your Mobile Device!</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/spark-interest-10-innovative-highlight-ideas-to-try-now-for-2024/"><u>Spark Interest 10 Innovative Highlight Ideas to Try Now for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-featherlight-champion-of-ultrabooks-lg-gram-pro-17-steals-my-heart-plus-dont-miss-out-on-the-lightweight-model-in-depth-review-and-sale-alert-for-prime-34/"><u>The Featherlight Champion of Ultrabooks, LG Gram Pro 17, Steals My Heart (Plus Don't Miss Out on the Lightweight Model!) | In-Depth Review and Sale Alert for Prime Day!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-airtag-enhancements-featuring-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated AirTag Enhancements Featuring Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unleashing-potential-in-windows-10-with-lenovo/"><u>Unleashing Potential in Windows 10 with Lenovo</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlock-savings-with-the-ultimate-guide-to-prime-day-worthy-laptops-in-october-2024-zdnet/"><u>Unlock Savings with the Ultimate Guide to Prime Day-Worthy Laptops in October 2024 | ZDNET</u></a></li>
 </ul></div>
 

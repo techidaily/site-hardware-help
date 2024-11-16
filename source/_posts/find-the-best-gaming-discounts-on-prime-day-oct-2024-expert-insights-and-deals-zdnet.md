@@ -1,7 +1,7 @@
 ---
 title: "Find the Best Gaming Discounts on Prime Day Oct 2024: Expert Insights and Deals | ZDNET"
-date: 2024-11-01T20:32:20.411Z
-updated: 2024-11-05T20:54:11.642Z
+date: 2024-11-10T02:20:08.673Z
+updated: 2024-11-15T22:01:31.582Z
 tags:
   - laptops
 categories:
@@ -100,10 +100,10 @@ The Alienware x16 R2 is built with an Intel Core Ultra 9 processor, Nvidia GeFor
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Falienware-x16-r2-240hz-gaming-laptop-intel-core-ultra-9-processor-nvidia-geforce-rtx-4070-32gb-memory-1-tb-ssd-lunar-silver%2F6576921.p%3FskuId%3D6576921&publisher_slug=itechdaily19598&exclusive=1) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## More October Prime Day 2024 gaming deals
@@ -121,19 +121,6 @@ ZDNET
 * [Samsung T9 4TB portable SSD for $300 (save $250)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Portable-Professionals-MU-PG4T0B-AM%2Fdp%2FB0CHFSZX9W%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cea375ddd-14c9-4ebb-8422-ded7d0c12c60%7Cdtp&dtb=1): The Samsung T9 has an integrated thermal guard to help dissipate waste heat and protect delicate electronics from damage. It also works with Samsung's Magician Software for automatic firmware updates, data encryption, and SSD health monitoring.
 * [MSI Claw 512GB for $642 (save $108)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMSI-Claw-Gaming-Handheld-Thunderbolt%2Fdp%2FB0CXG3DBQV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cea375ddd-14c9-4ebb-8422-ded7d0c12c60%7Cdtp&dtb=1): Built with an Intel Core Ultra 7 CPU, 16GB of RAM, a 512GB SSD, and a 7-inch display, the MSI Claw rivals the Steam Deck handheld gaming PC in power and performance.
 * [Amazon eero Pro 6E mesh Wi-Fi router 3-pack for $350 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-eero-Wi-Fi-router-newest%2Fdp%2FB091G64GVK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cea375ddd-14c9-4ebb-8422-ded7d0c12c60%7Cdtp&dtb=1): This mesh Wi-Fi system is rated for up to 2,000 square feet of coverage and supports both wireless and hardwired Ethernet connectivity at 1.6 Gbps and 2.5Gbps, respectively.
-
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## October Prime Day PlayStation 5 deals
 
@@ -192,10 +179,10 @@ Nintendo/ZDNET
 * [Nintendo Switch Joy-Con in neon purple and neon orange for $66 (save $14 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FNintendo-Switch-Joy-Con-Pair-Neon-Purple-and-Neon-Orange%2F921709016%3FclassType%3DVARIANT%26athbdg%3DL1600&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Grab an extra Joy-Con controller for your Nintendo Switch to keep gaming while your other controller charges.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## October Prime Day gaming PC deals
@@ -212,6 +199,13 @@ Kyle Kucharski/ZDNET
 * [HP Omen 45L for $2,200 (save $800 at HP)](https://www.tkqlhce.com/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fomen-by-hp-45l-gaming-desktop-gt22-2085t-pc&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end gaming PC built with a 14th generation Intel Core i7 CPU, GeForce RTX 4080 Super GPU, 16GB of RAM, and a 1TB SSD.
 * [HP Victus 15L desktop for $480 (save $370 at HP)](https://www.tkqlhce.com/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fvictus-by-hp-15l-gaming-desktop-tg02-0325m-59a32av-1&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An entry-level gaming desktop built with an AMD Ryzen 5 5600G processor, AMD Radeon RX 6400 GPU, 8GB of RAM, and a 256GB SSD.
 * [Alienware Aurora R16 for $3,700 (save $1,000 at Dell)](https://www.dpbolvw.net/click-9041660-15734614?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdesktop-computers%2Falienware-aurora-r16-gaming-desktop%2Fspd%2Falienware-aurora-r16-desktop%2Fuseapctor16icc2&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Alienware's flagship gaming desktop is built with a 14th gen Intel Core i9 CPU, Nvidia GeForce RTX 4090 graphics card, 64GB of RAM, and 4TB of storage.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## October Prime Day gaming laptop deals
 
@@ -242,6 +236,13 @@ Samsung/ZDNET
 * [Razer DeathStalker V2 Pro TKL wireless keybaord for $160 (save $60 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Frazer-deathstalker-v2-pro-tkl-wireless-optical-linear-switch-gaming-keyboard-with-low-profile-design-black%2F6512382.p%3FskuId%3D6512382&publisher%5Fslug=zdnet&article%5Fname=best%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-05-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A mini, tenkey-less keyboard with optical linear switches and a low-profile design.
 * [Roccat Vulcan II Mini Air for $64 (save $116 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Froccat-vulcan-ii-mini-air-65-wireless-optical-mechanical-gaming-keyboard-with-rgb-illumination-black%2F6547284.p%3FskuId%3D6547284&publisher%5Fslug=zdnet&article%5Fname=best%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-05-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A mini, tenkey-less mechanical keyboard with optical switches, RGB backlighting, and USB-C charging.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## October Prime Day graphics card deals
 
 * [Asus TUF Nvidia GeForce RTX 4070 Ti for $750 (save $110 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-nvidia-geforce-rtx-4070-ti-tuf-overclock-12gb-gddr6x-pci-express-4-0-graphics-card-black%2F6529351.p%3FskuId%3D6529351&publisher%5Fslug=zdnet&article%5Fname=best%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-05-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This GPU offers 12GB of VRAM, support for up to 4 displays, and 8K video output.
@@ -252,13 +253,6 @@ Samsung/ZDNET
 
 ## FAQs
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### When is Amazon Prime Day 2024?
 
 Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, will run through October 8 and 9\. Some brands may offer discounts and coupons ahead of the official sale. And other retailers like [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2F&publisher_slug=itechdaily19598&exclusive=1) and [Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fdeals%3FathAsset%3DeyJhdGhjcGlkIjoiMmU5ZjFjZmMtOTVhZC00NDlhLWEyNzgtZTU3ZTZlOTFjZmEwIn0%3D%26athena%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp) are running their own, rival sales at the same time. Which is great news for anyone who likes to compare discounts and prices to make sure they're getting the absolute best deal possible. 
@@ -267,16 +261,16 @@ Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, wi
 
 Games, consoles, and accessories can and do go on sale during Prime Day, though not every brand or manufacturer may participate. Some brands may have competing sales at other retailers or on their own direct-sale sites, which is great news for anyone who likes to compare discounts to make sure they're getting the best deal possible.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How did we choose these Prime Day deals?
 
 I only chose deals on games that have been critically and commercially well-received, as well as accessories and peripherals from well-known and reputable brands like Razer and Logitech. I also only included deals that offered at least a 15 percent discount.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What are the best October Prime Day 2024 deals?
 
@@ -343,17 +337,24 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-investigating-top-viewed-comments/"><u>[New] Investigating Top Viewed Comments</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-master-multi-screen-video-streaming-with-microsoft-edges-pip-for-2024/"><u>[New] Master Multi-Screen Video Streaming with Microsoft Edge's PIP for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-the-power-of-asmr-discovering-its-advantages/"><u>2024 Approved The Power of ASMR Discovering Its Advantages</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-epson-artisan-1430-11108/"><u>Get Your Epson Artisan 지도 1430의 드라이버 - 윈도 11/10/8용 무료 다운로더</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-hands-on-the-latest-qualcomm-atheros-ar3011-bluetooth-v3-driver-now/"><u>Get Your Hands on the Latest Qualcomm Atheros AR3011 Bluetooth V3 Driver Now!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/guiding-steps-for-effective-gopro-time-lapse-capture/"><u>Guiding Steps for Effective GoPro Time-Lapse Capture</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-correct-the-issue-when-applicationexe-halts-execution/"><u>How to Correct the Issue When 'Application.exe' Halts Execution</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-audio-drivers-free-download-quickly-and-easily/"><u>HP Audio Drivers | Free Download | Quickly & Easily</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-professional-precision-flip-canon-photos-from-basic-to-advanced-with-luts/"><u>In 2024, Professional Precision Flip Canon Photos From Basic to Advanced with LUTs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-official-windows-drivers-for-hp-deskjet-ink-advantage-printer-series-3050/"><u>Install Official Windows Drivers for HP Deskjet Ink Advantage Printer Series 3050</u></a></li>
-<li><a href="https://games-able.techidaily.com/step-into-stories-browser-world-quests/"><u>Step Into Stories: Browser World Quests</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/video-metadata-made-easy-8-best-mac-editors/"><u>Video Metadata Made Easy 8 Best Mac Editors</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-excellence-collective-in-multimedia-sensation/"><u>[New] 2024 Approved Excellence Collective in Multimedia Sensation</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-bandicam-unveiled-the-complete-review/"><u>[New] In 2024, Bandicam Unveiled The Complete, Review</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-pro-free-photo-workspace-discover-the-best-editing-suites-for-2024/"><u>[New] Pro Free Photo Workspace Discover the Best Editing Suites for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-xiaomi-redmi-13c-5g-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Xiaomi Redmi 13C 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beyond-bose-and-sonos-discovering-the-ultimate-speaker-system-for-a-transcendent-sound-journey-expert-insights-from-zdnet/"><u>Beyond Bose & Sonos: Discovering the Ultimate Speaker System for a Transcendent Sound Journey | Expert Insights From ZDNET</u></a></li>
+<li><a href="https://win-net.techidaily.com/customizing-flipbook-with-your-corporate-insignia-in-the-application-interface/"><u>Customizing FlipBook with Your Corporate Insignia in the Application Interface</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-ways-to-upgrade-your-lenovo-docks-compatibility-with-latest-drivers/"><u>Effortless Ways to Upgrade Your Lenovo Dock's Compatibility with Latest Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/find-and-fix-issues-with-the-elan-smbus-driver-for-windows-a-comprehensive-update-guide/"><u>Find and Fix Issues with the Elan SMBus Driver for Windows: A Comprehensive Update Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/getting-new-hp-printer-drivers-for-a-seamless-windows-11-experience/"><u>Getting New HP Printer Drivers for a Seamless Windows 11 Experience</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-15-plus-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 15 Plus to the Previous iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-solve-lg-device-not-recognized-issue-for-windows-10-8-and-7-users/"><u>How to Solve 'LG Device Not Recognized' Issue for Windows 10, 8 & 7 Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-top-notch-drivers-on-your-msi-b3n-motherboard-download-compatible-with-windows-10-and-windows-e7-the-new-tomahawk-variant/"><u>Install Top-Notch Drivers on Your MSI B3n Motherboard: Download Compatible with Windows 10 and Windows E7 - The New Tomahawk Variant</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-updates-lenovo-thunderbolt-3-docking-station-software/"><u>Latest Updates: Lenovo Thunderbolt 3 Docking Station Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastery-of-components-toms-authoritative-hardware-evaluations/"><u>Mastery of Components: Tom's Authoritative Hardware Evaluations</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/redefining-mobility-amds-revolutionary-zen-5-cpu-packs-desktop-level-strength-at-a-slimmer-115w-introducing-ryzen-strix-halo-the-ultimate-gaming-machine-wit37/"><u>Redefining Mobility: AMD's Revolutionary Zen 5 CPU Packs Desktop-Level Strength at a Slimmer 115W - Introducing Ryzen Strix Halo, the Ultimate Gaming Machine with 16 Cores and RDNA Graphics Evolution</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/simple-guide-microsoft-drivers-installation-and-updates-for-windows-10-8-and-7/"><u>Simple Guide: Microsoft Drivers Installation & Updates for Windows 10, 8, and 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-reviews-comprehensive-guide-to-cutting-edge-hardware/"><u>Tom's Tech Reviews: Comprehensive Guide to Cutting-Edge Hardware</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/virtual-playground-the-ultimate-samsung-gear-vr-list/"><u>Virtual Playground The Ultimate Samsung Gear VR List</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/watermark-free-video-editing-top-14-free-tools-for-2024/"><u>Watermark-Free Video Editing Top 14 Free Tools for 2024</u></a></li>
 </ul></div>
 

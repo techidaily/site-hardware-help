@@ -1,7 +1,7 @@
 ---
 title: "Efficiently Update or Install New Drivers for Brother MFC-L2690DW: Step-by-Step Tutorial"
-date: 2024-08-19T12:31:10.745Z
-updated: 2024-08-20T12:31:10.745Z
+date: 2024-11-09T19:36:38.027Z
+updated: 2024-11-15T19:57:12.483Z
 tags:
   - win11
   - win10
@@ -23,6 +23,13 @@ thumbnail: https://thmb.techidaily.com/6c7b51dcfdae2a8da726c75853a324eb9a3939b33
 
  Updating drivers is beneficial to the stability of your hardware devices, whether it is a printer, video card, or audio output device. By rolling out new drivers, original equipment manufacturers (OEM) improve the functionality of their products and correct technical issues reported by users. Therefore, if you ever encounter any problems relating to your graphics card (such as game crashing), try to update the corresponding driver and see whether that gets you out of trouble. Or if you want to make the most of your GPU, keeping the drivers up to date is also important.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to update the Intel Iris Plus Graphics 640 driver
 
 To update the Intel Iris Plus Graphics 640 driver, you have two options:
@@ -35,9 +42,6 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ### Option 1 – Automatically update the driver
 
  If you don’t have the time, patience or computer skills to update your Intel Iris Plus Graphics 640 driver manually,**you can do it automatically with** **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -49,18 +53,14 @@ OR
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-19_18-00-07-1.jpg)
 3. Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update Intel Iris Plus Graphics 640 driver, simply click the**Update**  button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-24_12-24-30.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **Note:** you can do it for free if you like, but it’s partly manual.
 
  If you have any problems when using Driver Easy to update your driver, please feel free to email us at**<support@drivereasy.com>** . We are always here to help.
@@ -68,8 +68,12 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Option 2 – Update the driver manually
 
 If you opt for updating the driver manually, here’s the procedure:
@@ -77,14 +81,16 @@ If you opt for updating the driver manually, here’s the procedure:
 1. Click **[here](https://downloadcenter.intel.com/product/98911/Intel-Iris-Plus-Graphics-640)**  to visit the download page of Intel Iris Plus Graphics 640 driver.
 2. Click**Intel® Graphics – Windows® 10 DCH Drivers** .![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-24_12-31-07.jpg)
 3. Pay attention to the left section and click the**download** button below the**EXE** file available for download. (You can otherwise download the ZIP file. Note that it’s compressed so you’ll need to extract it before installing the driver on PC.)  
+
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Also, if you want to download a certain version of drivers, you can click the desired one beneath**Other Versions** .![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-24_12-33-59.jpg)
 4. Once you’ve downloaded the correct file, double-click on it and follow the onscreen instructions to install the driver.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 5. **Reboot** your PC for the changes to take effect.
 
 ---
@@ -101,8 +107,6 @@ If you opt for updating the driver manually, here’s the procedure:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -110,4 +114,20 @@ If you opt for updating the driver manually, here’s the procedure:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-flamenco-finch-frolic/"><u>[New] Flamenco Finch Frolic</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/dive-into-innovation-top-rated-gadgets-reviewed-by-toms-hardware-experts/"><u>Dive Into Innovation: Top Rated Gadgets Reviewed by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/evaluating-the-withings-scanwatch-light-striking-balance-between-vintage-charm-and-smart-technology/"><u>Evaluating the Withings ScanWatch Light: Striking Balance Between Vintage Charm & Smart Technology</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-bargains-alert-secure-your-macbook-air-trending-tiktok-inspired-backpacks-affordable-webcams-and-more/"><u>Exclusive Bargains Alert: Secure Your MacBook Air, Trending TikTok-Inspired Backpacks, Affordable Webcams & More</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-tech-offers-affordable-surveillance-cameras-high-capacity-power-banks-by-anker-and-elite-gaming-headsets-from-razer/"><u>Exclusive Tech Offers: Affordable Surveillance Cameras, High-Capacity Power Banks by Anker and Elite Gaming Headsets From Razer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-gaming-on-the-go-the-asus-rog-ally-now-runs-on-steamos-by-valve/"><u>Experience Gaming on the GO: The ASUS ROG Ally Now Runs on SteamOS by Valve!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-next-gen-storage-beyond-nvme-the-evolution-of-ssd-technology/"><u>Exploring Next-Gen Storage: Beyond NVMe - The Evolution of SSD Technology</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/gemini-retains-identity-not-a-new-google-assistant-rival/"><u>Gemini Retains Identity - Not a New Google Assistant Rival</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-samsung-galaxy-s23plus-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Samsung Galaxy S23+</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-introducing-tips-on-how-to-convert-and-download-4k-video-in-mp4-format-or-any-other-video-formats-like-avi-mov-and-wmv-for-2024/"><u>New Introducing Tips on How to Convert and Download 4K Video in MP4 Format or Any Other Video Formats Like AVI, MOV and WMV for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/styling-your-taskbar-positioning-this-pc-on-the-desktop/"><u>Styling Your Taskbar: Positioning 'This PC' On The Desktop</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-mastering-color-grading-in-final-cut-pro-2023/"><u>Updated Mastering Color Grading in Final Cut Pro 2023</u></a></li>
+</ul></div>
 

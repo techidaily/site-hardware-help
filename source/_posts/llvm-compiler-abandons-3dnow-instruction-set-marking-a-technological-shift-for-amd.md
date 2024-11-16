@@ -1,7 +1,7 @@
 ---
 title: LLVM Compiler Abandons 3DNow! Instruction Set, Marking a Technological Shift for AMD
-date: 2024-08-19T12:34:14.285Z
-updated: 2024-08-20T12:34:14.285Z
+date: 2024-11-11T05:37:10.272Z
+updated: 2024-11-15T19:54:03.301Z
 tags:
   - cpu
 categories:
@@ -42,14 +42,11 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -58,8 +55,25 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-crafting-the-perfect-introduction-15-viral-youtube-video-intros/"><u>[New] In 2024, Crafting the Perfect Introduction 15 Viral YouTube Video Intros</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-efficient-techniques-for-capturing-google-voice-calls/"><u>[Updated] Efficient Techniques for Capturing Google Voice Calls</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-evaluation-of-fb-video-shapes-for-2024/"><u>[Updated] Evaluation of FB Video Shapes for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-simplified-social-syncing-from-instagram-to-facebook-for-2024/"><u>[Updated] Simplified Social Syncing From Instagram To Facebook for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/ensuring-seamless-capture-of-online-teams-gatherings-for-2024/"><u>Ensuring Seamless Capture of Online Teams' Gatherings for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-deal-alert-experience-ultimate-game-audio-with-the-top-rated-speakers-now-discounted-at-best-buy-zdnet/"><u>Exclusive Deal Alert! Experience Ultimate Game Audio with the Top-Rated Speakers Now Discounted at Best Buy - Zdnet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-deal-save-60-on-your-top-pick-of-apples-magsafe-chargers-limited-time-offer/"><u>Exclusive Deal: Save $60 on Your Top Pick of Apple's MagSafe Chargers - Limited Time Offer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-converting-various-audio-and-video-files-with-easy-methods/"><u>Step-by-Step Guide: Converting Various Audio and Video Files with Easy Methods</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/superior-extra-memory-solution-for-sony-a7c-for-2024/"><u>Superior Extra Memory Solution for Sony A7C for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-picks-the-ideal-thinkpad-models-for-hybrid-professionals-excluding-the-latest-release-insights/"><u>Top Picks: The Ideal ThinkPad Models for Hybrid Professionals, Excluding the Latest Release - Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-laptops-for-professional-video-editors-comprehensive-reviews-by-tech-experts/"><u>Top-Rated Laptops for Professional Video Editors: Comprehensive Reviews by Tech Experts</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+

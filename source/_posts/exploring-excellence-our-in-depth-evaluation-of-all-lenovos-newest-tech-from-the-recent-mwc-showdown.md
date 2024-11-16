@@ -1,7 +1,7 @@
 ---
 title: "Exploring Excellence: Our In-Depth Evaluation of All Lenovo's Newest Tech From the Recent MWC Showdown"
-date: 2024-11-01T21:11:18.460Z
-updated: 2024-11-05T18:30:56.315Z
+date: 2024-11-13T17:32:11.001Z
+updated: 2024-11-16T01:10:14.643Z
 tags:
   - laptops
 categories:
@@ -27,10 +27,10 @@ Dell's XPS 14 is seeing some big discounts at Best Buy right now for the higher-
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -74,10 +74,10 @@ Even with this upgraded card, this is not a [gaming laptop](https://www.zdnet.co
 The lack of an HDMI port and full-sized SD card reader is a strange design choice as both would further carve out an identity as a premium-looking laptop for visual creatives. Luckily, the XPS 14 does come with a USB-C dongle that helps get most creative jobs done.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specifications comparison
@@ -106,16 +106,10 @@ I've talked a little about messing around with the [function keys in other machi
 On the Dell XPS 14, the function row is so minimal that it doesn't even have physical keys at all; there is no haptic feedback or physical indication of a key being pressed, you're just interacting with a little LED icon, and that is a design choice that certainly won't be for everyone. While working with the XPS 14, I never really got used to having the Home, End, and Delete keys associated with these "lights" and found myself preferring simply having these attached to physical inputs. 
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -127,16 +121,10 @@ This is not a scrappy, unpretentious workhorse, but rather a premium, ultra-mode
 ---
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -173,22 +161,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-elite-20-unprotected-open-access-pubg-montages/"><u>[New] 2024 Approved Elite 20 Unprotected, Open-Access PUBG Montages</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-smart-exposure-the-ultimate-guide-to-hdr-tech-in-cameras/"><u>[New] Mastering Smart Exposure The Ultimate Guide to HDR Tech in Cameras</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-ultra-fast-picture-reader-for-windows-11/"><u>[Updated] Ultra-Fast Picture Reader for Windows 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/enable-or-disable-permanent-screen-visibility-in-android-settings/"><u>Enable or Disable Permanent Screen Visibility in Android Settings</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-the-ultimate-snapdragon-8-gen-2-devices-the-leading-android-phones/"><u>Exploring the Ultimate Snapdragon 8 Gen 2 Devices: The Leading Android Phones</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/extend-your-android-devices-battery-life-a-comprehensive-guide/"><u>Extend Your Android Device's Battery Life: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/final-closure-barnes-and-noble-ends-support-for-aging-nook-devices/"><u>Final Closure: Barnes & Noble Ends Support for Aging Nook Devices</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-early-access-to-the-new-asus-zenfone-9-shop-and-reserve-at-amazon-today/"><u>Get Early Access to the New ASUS Zenfone 9 - Shop and Reserve at Amazon Today!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/google-the-moment-is-now-for-crafting-an-ultimate-weather-application/"><u>Google: The Moment Is Now for Crafting an Ultimate Weather Application</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/googles-latest-wearable-gets-just-a-triennial-refresh-schedule/"><u>Google's Latest Wearable Gets Just a Triennial Refresh Schedule</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-does-android-determine-both-accurate-and-rough-location-data/"><u>How Does Android Determine Both Accurate and Rough Location Data?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-on-apple-iphone-6-without-password-by-drfone-ios/"><u>How to Delete iCloud Account On Apple iPhone 6 without Password?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-online-here-are-6-easy-ways-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE Online? Here are 6 Easy Ways</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-perfecting-drone-captured-imagery-a-gimbal-journey/"><u>In 2024, Perfecting Drone-Captured Imagery A Gimbal Journey</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ize-views-with-these-top-20-thumbnail-fonts/"><u>Maximize Views with These Top 20 Thumbnail Fonts</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>The Best 8 VPN Hardware Devices Reviewed On Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210124296-9781783254347-the-numinous-cosmic-year/"><u>The Numinous Cosmic Year | Free Book</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-8-best-mirrorless-cameras-for-vlogging-for-2024/"><u>[New] 8 Best Mirrorless Cameras for Vlogging for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-effortless-free-capture-of-your-android-world-for-2024/"><u>[New] Effortless Free Capture of Your Android World for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-mastering-mobile-captions-ios-and-androids-leading-helpers/"><u>[New] In 2024, Mastering Mobile Captions IOS & Android's Leading Helpers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-pioneering-playgrounds-of-action-adventure-classics-top-10-for-2024/"><u>[New] Pioneering Playgrounds of Action-Adventure Classics (Top 10) for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-banner-templates-and-makers-for-youtube-for-2024/"><u>[Updated] Free Banner Templates & Makers for YouTube for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-perfect-your-podcast-secrets-for-compelling-opening-videos/"><u>[Updated] Perfect Your Podcast Secrets for Compelling Opening Videos</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/class-action-litigation-unfolds-for-intel-amid-cpu-reliability-controversies/"><u>Class Action Litigation Unfolds for Intel Amid CPU Reliability Controversies</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-steps-for-installing-latest-epson-printer-software-in-windows-10/"><u>Easy Steps for Installing Latest Epson Printer Software in Windows 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-setup-get-samsung-c460-driver-installed-today/"><u>Effortless Setup: Get Samsung C460 Driver Installed Today!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fixing-mbox2-driver-issues-free-downloads-and-updates-for-windows-users/"><u>Fixing MBox2 Driver Issues: Free Downloads and Updates for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-drivers-for-amd-radeon-hd-7870-free-download-guide-on-windows-10/"><u>Get the Newest Drivers for AMD Radeon HD 7870 - Free Download Guide on Windows 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-updated-msi-bluetooth-software-for-windows-1110-systems/"><u>Get Your Updated MSI Bluetooth Software for Windows 11/10 Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/getting-started-with-kyocera-printing-download-and-setup-drivers-on-windows/"><u>Getting Started with KYOCERA Printing: Download and Setup Drivers on Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-hardware-analysis-and-reviews-from-toms-tech-team/"><u>In-Depth Hardware Analysis and Reviews From Tom's Tech Team</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-your-hp-sound-devices-free-fast-track-setup-for-optimal-performance/"><u>Install Your HP Sound Devices Free: Fast Track Setup for Optimal Performance</u></a></li>
+<li><a href="https://media-tips.techidaily.com/master-the-art-of-music-blending-a-step-by-step-guide-with-visuals-simplified/"><u>Master the Art of Music Blending: A Step-by-Step Guide with Visuals, Simplified</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/pro-tiktok-cutting-tools-for-smartphones-for-2024/"><u>Pro TikTok Cutting Tools for Smartphones for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-lava-storm-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Lava Storm 5G Phone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-tech-bargains-during-amazons-biggest-sale-of-the-year/"><u>Top Tech Bargains During Amazon's Biggest Sale of the Year</u></a></li>
 </ul></div>
 

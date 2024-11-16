@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Installation Process: How to Get WD SES Drives Up and Running with Recent USB Drivers"
-date: 2024-08-26T07:58:30.025Z
-updated: 2024-08-27T07:58:30.025Z
+date: 2024-11-11T20:56:44.851Z
+updated: 2024-11-15T18:00:52.105Z
 tags:
   - win11
   - win10
@@ -36,8 +36,12 @@ OR
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/how-to-download-and-install-arduino-nano-driver-in-windows-solved/#op2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Option 1 –** **Download and install the driver manually**
 
  The screenshots below are from Windows 10, but the steps are also valid for other Windows system.
@@ -46,25 +50,30 @@ OR
 2. Click **Windows Installer, for Windows XP and up** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/ar.jpg)
 3. Click**Just Download** . The driver .exe installation file would then be downloaded automatically.  
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/just.jpg)
 4. On your keyboard, hold down the **Windows logo key** \+ **Pause** . Then click **Device Manager** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/device.jpg)
 5. Find and **right-click** your **Arduino Uno software** . Probably it’s listed under the **Other devices** section due to the problem. Then select **Update driver** .  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Select **Browse my computer for driver software** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9725918e348.png)
 6. Click the **Browse…** icon. Another window appears: go to the folder with the Arduino nano driver that you just downloaded. Select the drivers folder, then **OK** \> **Next** .
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 
  If you don’t have the time, patience or computer skills to update your Arduino Uno driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Move onto **Option 2** then.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Option 2 – Automatically update drivers**
 
@@ -78,15 +87,17 @@ The ultimate burning program for all your needs!</a>
 2. Run Driver Easy, then click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12a.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/nano.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
  Hope this article will meet your need. If you have any question, please leave comments below, we’ll try our best to help.
@@ -99,8 +110,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -108,4 +117,20 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-filters-to-feeds-optimizing-your-360-video-for-youtube-publishing/"><u>[New] 2024 Approved From Filters to Feeds Optimizing Your 360 Video for YouTube Publishing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-optimal-cost-free-image-refinement-toolkit/"><u>[New] Optimal, Cost-Free Image Refinement Toolkit</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/product-name-the-revolutionary-accessory-for-upgrading-to-dual-twin-4k-displays-on-any-laptop-regardless-of-inbuilt-capabilities-zdnet/"><u>[Product Name]: The Revolutionary Accessory for Upgrading to Dual Twin 4K Displays on Any Laptop, Regardless of Inbuilt Capabilities | ZDNET</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-boost-engagement-stream-live-from-twitch-embed-on-fb-for-2024/"><u>[Updated] Boost Engagement Stream Live From Twitch, Embed on FB for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-maximizing-youtube-revenue-understanding-adsense-payments-per-thousand-views/"><u>[Updated] In 2024, Maximizing Youtube Revenue Understanding AdSense Payments per Thousand Views</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-leading-vr-gear-for-drone-operators/"><u>2024 Approved Leading VR Gear for Drone Operators</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-unparalleled-audio-top-rated-gaming-speakers-now-discounted-on-amazon-insights-from-a-seasoned-reviewer/"><u>Experience Unparalleled Audio: Top-Rated Gaming Speakers Now Discounted on Amazon - Insights From a Seasoned Reviewer</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/guida-passo-passo-reimpostazione-della-configurazione-precedente-in-windows-11/"><u>Guida Passo-Passo: Reimpostazione Della Configurazione Precedente in Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/huge-discount-alert-samsung-4tb-portable-ssd-t5-now-available-on-amazon-up-to-50-off-tech-news/"><u>Huge Discount Alert: Samsung 4TB Portable SSD T5 Now Available on Amazon - Up To 50% Off! | Tech News</u></a></li>
+<li><a href="https://games-able.techidaily.com/identifying-issues-in-steams-remote-gaming-setup/"><u>Identifying Issues in Steam's Remote Gaming Setup</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/is-the-lenovo-yoga-book-9i-the-breakthrough-for-dual-screen-laptop-innovation-weve-been-waiting-for-explore/"><u>Is the Lenovo Yoga Book 9I the Breakthrough for Dual-Screen Laptop Innovation We've Been Waiting For? - Explore</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-through-change-how-workplace-technology-will-transform-in-response-to-ai-progress-a-deep-dive-by-zdnet/"><u>Navigating Through Change: How Workplace Technology Will Transform in Response to AI Progress – A Deep Dive by ZDNET</u></a></li>
+<li><a href="https://article-helps.techidaily.com/top-8-metaverse-vr-experiences-and-headsets/"><u>Top 8 Metaverse VR Experiences & Headsets</u></a></li>
+</ul></div>
 

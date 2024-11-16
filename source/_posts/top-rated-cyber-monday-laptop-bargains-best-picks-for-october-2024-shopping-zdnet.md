@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Cyber Monday Laptop Bargains: Best Picks for October 2024 Shopping - ZDNet"
-date: 2024-11-01T21:07:21.347Z
-updated: 2024-11-05T19:03:10.467Z
+date: 2024-11-14T17:40:56.819Z
+updated: 2024-11-15T21:26:32.744Z
 tags:
   - laptops
 categories:
@@ -77,10 +77,10 @@ Microsoft's 2024 Surface Laptop is a fast, lightweight laptop with a fantastic b
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Windows-Touchscreen-Snapdragon%2Fdp%2FB0CXKQYNPD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C07196d14-0ec8-40f7-b05f-cbfc092288f2%7Cdtp&dtb=1) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Best laptops for students
@@ -101,18 +101,18 @@ Asus/ZDNET
 * [MSI Thin 15](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMSI-Thin-144Hz-Gaming-Laptop%2Fdp%2FB0BT3CD75G%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C07196d14-0ec8-40f7-b05f-cbfc092288f2%7Cdtp&dtb=1) (2023) for $920 ($79 off) - As its name implies, the Thin 15 is an ultraportable gaming machine with an Intel Core i7 processor and Nvidia RTX 4050 graphics card along with a 15.6-inch, 144Hz display. Last year's version is a solid gaming option under that $1,000 price point.
 * [Asus TUF Gaming A15 (2024)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Display-NVIDIA%C2%AE-GeForce-FA506NF-ES51%2Fdp%2FB0CRDF25TQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C07196d14-0ec8-40f7-b05f-cbfc092288f2%7Cdtp&dtb=1) for $599 ($100 off) - The TUF line of laptops features solid gaming hardware along with military-grade durability. The A15 is a solid gaming laptop that fits this description to a T, marked way down to a competitive price for 8GB of RAM, 512GB of storage, and an Nvidia GeForce RTX 2050 graphics card.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best laptops for photo editing
 
 * [Acer Chromebook Spin 714](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FChromebook-CP714-1WN-53M9-i5-1235U-1920x1200-Keyboard%2Fdp%2FB0BJH9LGK8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C07196d14-0ec8-40f7-b05f-cbfc092288f2%7Cdtp&dtb=1) for $545 ($227 off): If you're looking for a good sale price on a convertible 2-in-1, Acer's Chromebook Spin 714 brings all the light efficiency of a Chromebook to a portable form factor. This is a great editing device if you often use Google Photos. Also, with a new purchase, you get Gemini Advanced, 2TB of cloud storage, and more free for three months.
 * [Asus Zenbook Duo Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Zenbook-Certified-Graphics-UX8406MA-PS99T%2Fdp%2FB0CRD6PJDF%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C07196d14-0ec8-40f7-b05f-cbfc092288f2%7Cdtp&dtb=1) for $1,503 ($196 off): Asus' Duo is a game-changing machine with its dual 14-inch OLED displays and powerful hardware, allowing for a wide range of configurations that creatives will love.
 * [Microsoft Surface Laptop Snapdragon X Elite](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Windows-Touchscreen-Snapdragon%2Fdp%2FB0CXL68236%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C07196d14-0ec8-40f7-b05f-cbfc092288f2%7Cdtp&dtb=1) for $1,560 ($139 off): The higher-end Copilot+ certified laptop with the 12-core Snapdragon X Elite chip and 1TB of storage is also still on sale following October Prime Day.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## More October Prime Day 2024 laptop deals
 
@@ -123,6 +123,13 @@ Kyle Kucharski/ZDNET
 * [Acer Nitro 16](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHexa-Core-GeForce-Display-Backlit-AN16-41-R148%2Fdp%2FB0D3VJXSWK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C07196d14-0ec8-40f7-b05f-cbfc092288f2%7Cdtp&dtb=1) for $799 (save $200): This mid-range gaming laptop has a 16-inch display with a 165Hz refresh rate and is built with an Nvidia GeForce RTX 4050 graphics card.
 * [Acer Swift Go 14](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Facer-Display-Experiences-Processor-SFG14-72T-718K%2Fdp%2FB0CNDTGC77%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C07196d14-0ec8-40f7-b05f-cbfc092288f2%7Cdtp&dtb=1) for $699 (save $300): This lightweight laptop features an Intel Core Ultra 7 155H CPU, Intel Arc graphics, 16GB of RAM, and a 512GB SSD.
 * [HP 17-inch Touch Laptop](https://qvc.uikc.net/c/159047/565130/9368?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.qvc.com%2Fhp-17-touch-laptop-intel-n200-4gb-ram-128gb-ssd-w-hp-mouse-%2526-ms365.product.E324465.html&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for $479 (Save $80): For a large-screen laptop with touch capabilities, HP's 17-inch Touch comes in a variety of bold colorways, and is bundled with a mouse in this QVC deal. This is a solid choice for users who want a large screen to play media, but only need a basic hardware configuration.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Best Buy laptop deals
 
@@ -137,10 +144,10 @@ Kyle Kucharski/ZDNET
 * [Acer Chromebook Spin 714](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Facer-chromebook-spin-714-intel-evo-laptop-14-1610-wuxga-1920-x-1200-touch-intel-core-i5-1335u-8gb-ram-256gb-ssd-steel-gray%2F6541841.p%3FskuId%3D6541841&publisher_slug=itechdaily19598&exclusive=1) for $499 (save $200): A budget-friendly 2-in-1 laptop that's perfect for students with a 14-inch touchscreen display, 8GB of RAM, and 256GB SSD.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQs
@@ -164,19 +171,6 @@ When compiling the list of the best deals, we considered the following:
 * **Price**: Naturally, the price point of our recommended laptops has to include a worthwhile discount. While some discounts are small in relation to an overall price tag - for example, $30 off a $150 device - and other discounts are in the hundreds of dollars, we wanted to ensure that in any case, it's value for money.
 * **Features**: We included a range of laptops with features sure to appeal to you, including different screen sizes, processors, memory options, and storage. Furthermore, these laptops include varying levels of security, parental lock options, and display resolutions.
 * **Use cases**: At ZDNET, we also took into account different use cases. You might be in the market for a budget-friendly, basic laptop for a child, for example, or you may need a future-proof laptop suitable for work. Or, it might be a gaming device you're after. So, we have compiled a set of recommendations based on different purposes.
-
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### What are the best October Prime Day 2024 deals?
 
@@ -244,14 +238,20 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-minute-by-minute-fortnite-tile-methods/"><u>[New] 2024 Approved Minute-by-Minute Fortnite Tile Methods</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-harmonious-hush-managing-music-on-pc-mac/"><u>[Updated] Harmonious Hush Managing Music on PC, Mac</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-audience-hooks-writing-captivating-podcast-descriptions/"><u>2024 Approved Audience Hooks Writing Captivating Podcast Descriptions</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-graphic-wizardry-from-novice-to-industry-success-story/"><u>2024 Approved Graphic Wizardry From Novice to Industry Success Story</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effective-remedies-for-ralink-rt3290-driver-issues-on-windows-tips-for-win10-8-and-7-users/"><u>Effective Remedies for Ralink RT3290 Driver Issues on Windows: Tips for Win10, 8 & 7 Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-up-to-date-hp-laserjet-1320-drivers-on-your-windows-device-free-download/"><u>Install Up-to-Date HP LaserJet 1320 Drivers on Your Windows Device - FREE Download!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-arduino-usb-drivers-compatible-with-windows-os/"><u>Latest Arduino USB Drivers Compatible with Windows OS</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/master-multicam-editing-with-manycam-transform-any-device-into-a-professional-virtual-camera-for-seamless-livestreams/"><u>Master Multicam Editing with ManyCam - Transform Any Device Into a Professional Virtual Camera for Seamless Livestreams</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722965103884-step-by-step-guide-how-to-download-nvidia-1080-drivers-for-windows-10-fast/"><u>Step-by-Step Guide: How to Download NVIDIA 1080 Drivers for Windows 10 Fast</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-vimeos-video-segments-the-chapter-creation-handbook/"><u>[New] 2024 Approved Vimeo's Video Segments The Chapter Creation Handbook</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/749-apple-macbook-air-with-m2-chip-now-available-during-amazons-prime-day-zdnet-coverage/"><u>$749 Apple MacBook Air with M2 Chip Now Available During Amazon's Prime Day - ZDNet Coverage</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-integrating-textual-descriptions-into-videos-on-photos-windows-11/"><u>2024 Approved Integrating Textual Descriptions Into Videos on Photos (Windows 11)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ace-the-sales-of-october-prime-day-2024-top-discounted-buys-still-in-stock-zdnet-insights/"><u>Ace the Sales of October Prime Day 2024: Top Discounted Buys Still in Stock | ZDNET Insights</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoid-game-breaking-interruptions-fixed-steams-error-code-e84/"><u>Avoid Game-Breaking Interruptions: Fixed Steam’s Error Code E84</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/effective-strategies-for-reading-out-loud-to-audiences-using-flippingbooks-tools/"><u>Effective Strategies for Reading Out Loud to Audiences Using FlippingBook's Tools</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expertly-chosen-best-wireless-mice-available/"><u>Expertly Chosen Best Wireless Mice Available</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/forget-me-not-techniques-for-accessing-locked-data-on-vintage-computers-tips-and-tricks/"><u>Forget-Me-Not Techniques for Accessing Locked Data on Vintage Computers - Tips & Tricks</u></a></li>
+<li><a href="https://win-blog.techidaily.com/god-of-war-comes-to-life-with-a-new-first-person-shooter-gameplay-now-on-pc/"><u>God of War Comes to Life with a New First-Person Shooter Gameplay - Now on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/nvidia-streamlines-pc-application-suite-for-enhanced-user-experience/"><u>NVIDIA Streamlines PC Application Suite for Enhanced User Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-3d-printing-an-in-depth-look-at-bambu-labs-top-model-the-x1-carbon/"><u>Revolutionizing 3D Printing - An In-Depth Look at Bambu Lab's Top Model, The X1-Carbon</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/secure-your-razer-blade-15-notebook-for-just-749-this-memorial-day-deals-exclusive-to-walmart-shoppers/"><u>Secure Your Razer Blade 15 Notebook for Just $749 This Memorial Day - Deals Exclusive to Walmart Shoppers!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/slash-your-costs-snag-an-acer-gaming-pc-below-650-exclusively-at-newegg-insights-from-zdnet/"><u>Slash Your Costs: Snag an Acer Gaming PC Below $650 Exclusively at Newegg – Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-significance-of-understanding-their-interaction-with-crop-rotation-practices-for-sustainable-agriculture/"><u>The Significance of Understanding Their Interaction with Crop Rotation Practices for Sustainable Agriculture</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlock-epic-gaming-deals-over-450-in-games-with-intel-arc-gpu-pc-bundles-explore-the-options/"><u>Unlock Epic Gaming Deals: Over $450 in Games with Intel Arc GPU PC Bundles - Explore the Options</u></a></li>
 </ul></div>
 

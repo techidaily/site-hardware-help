@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Security Keys : Industry Experts' Choices Reviewed"
-date: 2024-11-03T21:08:18.076Z
-updated: 2024-11-05T19:57:28.188Z
+date: 2024-11-12T16:31:00.459Z
+updated: 2024-11-15T23:21:22.669Z
 tags:
   - laptops
 categories:
@@ -30,13 +30,6 @@ ZDNET's favorite security key is the [Yubico YubiKey 5 NFC](https://buy.geni.us/
 
 ZDNET has tested many security keys throughout the years and frequently tracks market developments and changes. We often use security keys ourselves and lean upon our personal experience to shape our recommendations. Below, you will find our top picks for security keys today. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Best security keys of 2024
 
 Show less 
@@ -50,13 +43,6 @@ Pros
 Cons 
 * Expensive, especially if you need two
 * Technical knowledge may be required
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Yubico YubiKey 5 NFC
 
@@ -87,13 +73,20 @@ Cons
 * No NFC so no support for iPhone and Android
 * Doesn't support macOS logins
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Thetis Fido U2F Security Key
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Best security key for durability
@@ -122,6 +115,19 @@ Pros
 Cons 
 * Expensive
 * No NFC compatibility
+
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Yubico YubiKey 5 Nano
 
@@ -180,14 +186,14 @@ Cons
 * No support for macOS and ChromeOS
 * May need to download additional drivers
 
-## Kensington Verimark Fingerprint Key
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Kensington Verimark Fingerprint Key
 
 ### The best security key for biometrics
 
@@ -215,6 +221,13 @@ Pros
 Cons 
 * No biometrics
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Google Titan security key
 
 ### The best multi-platform security key
@@ -230,13 +243,6 @@ Titan security keys are compatible with Google's Advanced Protection Program, a 
 **Google Titan security key f** **eatures:** FIDO-certified security key | USB-A/NFC, USB-C/NFC | USB-C to USB-A adapter | Supports 250 passkeys | Works with Google's Advanced Protection Program
 
 Show Expert Take Show less 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What is the best security key?
 
@@ -293,16 +299,10 @@ Our main criteria for selecting these security keys are:
 * **Price point**: The cost of your next security key is an important factor to consider. As they are physical, we recommend that you pick up two, just in case one ends up lost. As a result, we wanted to ensure this was affordable.
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What are security keys and how do they work?
@@ -316,22 +316,15 @@ The FIDO Alliance consortium has developed open standards for authentication pro
 Devices that are FIDO certified allow users to quickly sign into their accounts using physical keys or biometric passkeys, and have also achieved FIDO protection and security standards. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why are security keys better than SMS-based 2FA?
 
 SMS is open to SIM hijacking, while a physical key cannot be copied or the data intercepted. Think about it this way: 2FA verification codes sent via SMS messaging may be intercepted if your smartphone has been infected with malware, including spyware, but unless an attacker has your physical security key in their hand, they cannot grab the code required to access your account.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How many security keys do I need?
 
@@ -344,6 +337,13 @@ Security keys are one of the best authentication methods on the market today and
 ## How do security keys prevent phishing?
 
 In layman's terms, security keys use encryption and security tokens that only work on genuine websites rather than fake phishing domains. Public and private keys work together to authenticate a user session, but the private key is held on the physical device, reducing the attack surface. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Are there alternative security keys worth considering?
 
@@ -393,18 +393,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/rofit-potential-unveiled-making-money-via-youtube-for-2024/"><u>[New] Profit Potential Unveiled Making Money via YouTube for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-essential-film-techniques-on-youtube-by-future-visionaries/"><u>[Updated] 2024 Approved Essential Film Techniques on YouTube by Future Visionaries</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-zooming-in-enhance-your-tiktok-videos/"><u>2024 Approved Zooming In Enhance Your TikTok Videos</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/cookiebot-enhanced-optimize-your-site-with-cutting-edge-analytics-tools/"><u>Cookiebot-Enhanced: Optimize Your Site with Cutting-Edge Analytics Tools</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/cost-effective-tp-link-wireless-ac750-wifi-booster-assessment-the-best-budget-option/"><u>Cost-Effective TP-Link Wireless AC750 WiFi Booster Assessment - The Best Budget Option?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-setup-guide-logitech-driving-simulator-for-windows-7-8-and-10-systems/"><u>Download & Setup Guide: Logitech Driving Simulator for Windows 7, 8 and 10 Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-windows-system-up-to-speed-with-geforce-gtx-460-driver-download/"><u>Get Your Windows System Up to Speed with GeForce GTX 460 Driver Download</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-15-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for iPhone 15 With 7 Methods</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-shorter-path-cutting-video-duration-on-youtube/"><u>In 2024, The Shorter Path Cutting Video Duration on YouTube</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722972167331-seamlessly-update-or-install-your-dell-speaker-drivers-now/"><u>Seamlessly Update or Install Your Dell Speaker Drivers Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-evolution-continues-intel-18a-cpus-and-the-move-toward-next-generation-lithography-tech/"><u>The Evolution Continues: Intel 18A CPUs and the Move Toward Next Generation Lithography Tech</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/tutorial-getting-your-logitech-mx-master-laptop-mouse-drivers-installed/"><u>Tutorial: Getting Your Logitech MX Master Laptop Mouse Drivers Installed</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-nokia-c22-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Nokia C22 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transform-your-imagery-with-these-mobile-montage-leaders/"><u>[New] Transform Your Imagery with These Mobile Montage Leaders</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-motorola-edge-40-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Motorola Edge 40 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-updated-acer-trackpad-drivers-compatible-with-windows-10-free-downloads/"><u>Get Updated Acer Trackpad Drivers Compatible with Windows 10 – Free Downloads</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-easily-update-or-download-drivers-for-ralink-devices-on-windows-computers/"><u>How to Easily Update or Download Drivers for Ralink Devices on Windows Computers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/revolutionize-your-photo-editing-skills-with-pixlr-insights/"><u>Revolutionize Your Photo Editing Skills with Pixlr Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/secure-boot-and-trusted-execution-technology-txt/"><u>Secure Boot and Trusted Execution Technology (TXT):</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-the-mystery-configuring-unknown-speakers-in-windows-11-made-easy/"><u>Solve the Mystery: Configuring Unknown Speakers in Windows 11 Made Easy</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722972430452-speedy-setup-obtaining-your-thrustmaster-fcs-logitech-g25-racing-wheel-drives-in-minutes/"><u>Speedy Setup: Obtaining Your Thrustmaster FCS Logitech G25 Racing Wheel Drives in Minutes!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723262322471-this-title-highlights-the-exceptional-performance-of-the-epyc-9755-turin-chip-emphasizing-its-success-and-dominance-on-multi-threading-tasks/"><u>This Title Highlights the Exceptional Performance of the EPYC 9755 Turin Chip, Emphasizing Its Success and Dominance on Multi-Threading Tasks</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-a-guide-on-starting-private-live-streams-on-youtube-for-2024/"><u>Updated A Guide on Starting Private Live Streams on YouTube for 2024</u></a></li>
+<li><a href="https://win-news.techidaily.com/wie-sichert-man-effektiv-windows-server/"><u>Wie Sichert Man Effektiv Windows Server</u></a></li>
 </ul></div>
 

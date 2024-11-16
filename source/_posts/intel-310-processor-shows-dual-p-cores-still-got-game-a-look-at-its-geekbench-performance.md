@@ -1,7 +1,7 @@
 ---
 title: "Intel 310 Processor Shows Dual-P Cores Still Got Game: A Look at Its Geekbench Performance"
-date: 2024-08-19T12:32:40.693Z
-updated: 2024-08-20T12:32:40.693Z
+date: 2024-11-10T19:19:21.625Z
+updated: 2024-11-16T03:52:24.261Z
 tags:
   - cpu
 categories:
@@ -45,14 +45,11 @@ Several Intel motherboard partners have announced BIOS updates to patch the micr
 
  Tom's Hardware has already reached out to Intel about the new BIOS updates to confirm if these updates will make it safe to run the affected chips at regular power levels. We are also testing the available BIOS updates to see how they affect system performance, so be sure to check back with us to stay up to date.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -61,8 +58,33 @@ Several Intel motherboard partners have announced BIOS updates to patch the micr
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-tailoring-your-linkedin-url/"><u>[New] Tailoring Your LinkedIn URL</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-from-average-to-spectacular-mastering-dynamic-range-portraits/"><u>[Updated] 2024 Approved From Average to Spectacular Mastering Dynamic Range Portraits</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-the-in-depth-study-of-audafreedomaudiotools/"><u>[Updated] 2024 Approved The In-Depth Study of AudaFreedomAudioTools</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-pro-level-video-edits-made-simple-in-windows-11/"><u>[Updated] Pro-Level Video Edits Made Simple in Windows 11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/your-brand-name-your-go-to-source-for-cutting-edge-hardware-insights/"><u>[Your Brand Name] – Your Go-To Source for Cutting-Edge Hardware Insights</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-nokia-g22-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Nokia G22 to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/affordable-powerhouse-computing-unveiling-the-new-nvidia-40-series-gpu-in-acer-machines-according-to-zdnet/"><u>Affordable Powerhouse Computing: Unveiling the New Nvidia 40 Series GPU in Acer Machines, According to ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/budget-friendly-13-in-1-docking-station-with-double-4k-hdmi-ports-only-49-the-ultimate-tech-bargain/"><u>Budget-Friendly 13-in-1 Docking Station with Double 4K HDMI Ports Only $49 - The Ultimate Tech Bargain!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-fixes-eradicating-the-persistent-camera-error-0xa00f4244-on-windows-1011/"><u>Comprehensive Fixes: Eradicating the Persistent 'Camera Error 0xA00F4244' On Windows 10/11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-cyber-monday-deals-countdown-save-on-electronics-with-our-top-17-picks-from-tv-to-surround-sound-systems-zdnet/"><u>Exclusive Cyber Monday Deals Countdown: Save on Electronics with Our Top 17 Picks From TV to Surround Sound Systems | ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-ahead-of-the-curve-with-apples-new-799-m2-macbook-air-before-octobers-prime-day-rush-tech-insights/"><u>Get Ahead of the Curve with Apple's New $799 M2 MacBook Air Before October’s Prime Day Rush | Tech Insights</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-chuckling-chords-crafting-top-tier-meme-content/"><u>In 2024, Chuckling Chords Crafting Top-Tier Meme Content</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-rings-rhythm-versus-screen-time-symphony/"><u>In 2024, The Ring's Rhythm Versus Screen Time Symphony</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/snatch-up-an-hp-victus-15-gaming-laptop-at-a-steal-just-515-during-targeted-tech-promo-days-insights/"><u>Snatch Up an HP Victus 15 Gaming Laptop at a Steal - Just $515 During Targeted Tech Promo Days! Insights</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210168549-9781647018047-through-the-eyes-of-nisey/"><u>Through the Eyes of Nisey | Free Book</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-speaker-system-in-testing-now-just-100-find-out-why-its-a-game-changer-and-get-it-for-half-price-at-best-buy-in-depth-analysis-on-zdnet/"><u>Top Speaker System in Testing Now Just $100 - Find Out Why It's a Game-Changer and Get It for Half Price at Best Buy | In-Depth Analysis on ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-webcams-for-live-broadcasts-comprehensive-reviews-by-tech-pros-zdnet/"><u>Top-Rated Webcams for Live Broadcasts : Comprehensive Reviews by Tech Pros - ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbelievable-deal-alert-top-tier-gaming-audio-experience-now-just-150-less-on-amazon-exclusively-featured-by-zdnet/"><u>Unbelievable Deal Alert: Top-Tier Gaming Audio Experience Now Just $150 Less on Amazon - Exclusively Featured by ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unparalleled-viewing-experience-asus-unveils-a-stunningly-vibrant-oled-screen-amongst-top-tested-laptops/"><u>Unparalleled Viewing Experience: ASUS Unveils a Stunningly Vibrant OLED Screen Amongst Top-Tested Laptops</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+

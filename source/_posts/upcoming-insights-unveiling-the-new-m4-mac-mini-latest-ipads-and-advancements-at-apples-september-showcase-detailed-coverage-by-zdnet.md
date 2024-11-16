@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Insights: Unveiling the New M4 Mac Mini, Latest iPads & Advancements at Apple's September Showcase – Detailed Coverage by ZDNet"
-date: 2024-11-04T20:13:32.723Z
-updated: 2024-11-05T23:55:23.277Z
+date: 2024-11-09T16:02:54.790Z
+updated: 2024-11-15T17:36:50.115Z
 tags:
   - laptops
 categories:
@@ -41,10 +41,10 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -60,10 +60,10 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -77,16 +77,10 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -129,21 +123,19 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-exploring-8-youtube-fitness-hacks-that-energize-audiences/"><u>[Updated] Exploring 8 YouTube Fitness Hacks That Energize Audiences</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-perfect-pair-merging-your-youtube-video-library/"><u>[Updated] Perfect Pair Merging Your YouTube Video Library</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unraveling-rtmp-streams-overcoming-premieres-export-hurdle/"><u>2024 Approved Unraveling RTMP Streams Overcoming Premiere's Export Hurdle</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/download-and-use-movie-maker-on-windows-11/"><u>Download and Use Movie Maker on Windows 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-nvidia-1080-drivers-for-windows-10-quick-and-easy-steps/"><u>Download NVIDIA 1080 Drivers for Windows 10: Quick and Easy Steps!</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-infinix-gt-10-pro-device-sim-by-drfone-android/"><u>Easily Unlock Your Infinix GT 10 Pro Device SIM</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-canon-mp280-driver-for-your-windows-pc-windows-1187-supported/"><u>Get the Latest Canon MP280 Driver for Your Windows PC (Windows 11/8/7 Supported)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722974832319-hassle-free-guide-to-mounting-your-targus-desk-dock-station-now/"><u>Hassle-Free Guide to Mounting Your Targus Desk Dock Station Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-new-tp-link-wifi-card-driver-software-compatible-with-windows-10-8-and-7-get-it-here/"><u>Install New TP-Link WiFi Card Driver Software | Compatible with Windows 10, 8 & 7 - Get It Here</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/passaggio-innanzitutto-sposta-windows-10-da-uno-a-piu-sistemi-operativi-con-facilita/"><u>Passaggio Innanzitutto: Sposta Windows 10 Da Uno a Più Sistemi Operativi Con Facilità!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-overcome-issues-with-hitman-3-initial-launch-failure-on-windows/"><u>Resolved: Overcome Issues with Hitman 3 Initial Launch Failure on Windows</u></a></li>
-<li><a href="https://facebook.techidaily.com/second-lifes-future-role-amidst-the-metaverse-evolution/"><u>Second Life's Future Role Amidst The Metaverse Evolution</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1722997351873-troubleshooting-lol-launch-issues-top-solutions/"><u>Troubleshooting LoL Launch Issues: Top Solutions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unpacking-the-power-of-zen-ebrachiate-in-depth-analysis-of-ryzen-9000-ai-300-benchmarks-and-advanced-gpu-tech/"><u>Unpacking the Power of Zen Ebrachiate: In-Depth Analysis of Ryzen 9000, AI 300 Benchmarks, and Advanced GPU Tech</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-arduino-usb-drivers-step-by-step-guide-for-windows-users/"><u>Update Arduino USB Drivers: Step-by-Step Guide for Windows Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-your-canon-mx922-printer-drivers-on-windows-pcs-step-by-step-guide/"><u>Update Your Canon MX922 Printer Drivers on Windows PCs - Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-advanced-tutorial-exploiting-googles-automatic-transcription-features/"><u>[New] 2024 Approved Advanced Tutorial Exploiting Google's Automatic Transcription Features</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-crafting-and-channelizing-imovie-productions-on-youtube/"><u>[Updated] In 2024, Crafting and Channelizing iMovie Productions on YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-art-of-voice-manipulation-in-ps-console-titles/"><u>[Updated] The Art of Voice Manipulation in PS Console Titles</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-windows-11-essential-mastery-guide/"><u>[Updated] Windows 11 Essential Mastery Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-seamless-social-sharing-upload-a-twt/"><u>2024 Approved Seamless Social Sharing Upload a Twt</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diy-guide-to-getting-started-with-your-new-echo-dot/"><u>DIY Guide to Getting Started with Your New Echo Dot</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-instructions-to-download-and-maintain-hid-keyboard-drivers/"><u>Easy Instructions to Download and Maintain HID Keyboard Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/freshly-released-nvidia-quadro-rtx-driver-update-supports-win-10-8-7/"><u>Freshly Released: Nvidia Quadro RTX Driver Update - Supports Win 10, 8, 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-nvidia-geforce-rtx-1080-driver-update-on-windows-10-made-easy/"><u>Get the Latest NVIDIA Geforce RTX 1080 Driver Update on Windows 10 Made Easy</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-samsung-phones-adb-software-on-the-go/"><u>Get Your Samsung Phone's ADB Software on the Go!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-wi-fi-drivers-in-windows-11-and-windows-10/"><u>How to Update Wi-Fi Drivers in Windows 11 and Windows 10</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-velocity-victories-olympics-year-2022/"><u>In 2024, Velocity Victories Olympics, Year 2022</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solve-windows-issue-file-explorer-failsafe-mode/"><u>Solve Windows Issue: File Explorer Failsafe Mode</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-the-ultimate-guide-to-free-public-domain-video-downloads/"><u>Updated In 2024, The Ultimate Guide to Free Public Domain Video Downloads</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Experiencing the Extraordinary: How a $3K Dell Gaming Rig Turned Expectations Upside Down"
-date: 2024-10-31T00:12:26.006Z
-updated: 2024-11-05T18:15:16.671Z
+date: 2024-11-12T22:43:08.852Z
+updated: 2024-11-15T19:22:12.088Z
 tags:
   - laptops
 categories:
@@ -95,10 +95,10 @@ There are a total of five vents on the m18 R2, allowing for maximum internal air
 In fact, one thing I noticed about the m18 R2 is that it never really felt hot to the touch at all. Both the keyboard and the wrist rest (above where the battery is housed) remained only slightly warm, suggesting that the fans were in fact doing their job effectively, which I'm glad for, given the sound they generate. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -137,18 +137,22 @@ However, this is also quite a large laptop, so although it's portable, it isn't 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-conquering-the-art-of-snapchats-boomerang-creation/"><u>[New] 2024 Approved Conquering the Art of Snapchat's Boomerang Creation</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-discovering-best-phone-based-asmr-experiences/"><u>[New] 2024 Approved Discovering Best Phone-Based ASMR Experiences</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/utting-edge-editing-a-roadmap-for-high-quality-youtube-sounds/"><u>[New] Cutting-Edge Editing A Roadmap for High-Quality YouTube Sounds</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-iphone-savvy-techniques-for-storing-and-streaming-animated-images/"><u>2024 Approved IPhone-Savvy Techniques for Storing and Streaming Animated Images</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/adobe-cloud-storage-demystified-features-functionality-and-alternatives-reviewed/"><u>Adobe Cloud Storage Demystified Features, Functionality, and Alternatives Reviewed</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amd-ryzen-9000-discounted-shop-at-best-buy-for-lower-than-ryzen-70/"><u>AMD Ryzen 9000 Discounted: Shop at Best Buy for Lower-than-Ryzen 70</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-oppo-k11x-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Oppo K11x Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/essential-nvidia-quadro-driver-update-for-enhanced-windows-10-performance/"><u>Essential NVIDIA Quadro Driver Update for Enhanced Windows 10 Performance</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-nvidia-graphics-drivers-for-windows-11-simple-download-process/"><u>Get the Latest NVIDIA Graphics Drivers for Windows 11 - Simple Download Process!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-beginners-pathway-photos-transformed-into-videos-via-pixiz/"><u>In 2024, Beginner's Pathway Photos Transformed Into Videos via Pixiz</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-iphone-13-mini-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking iPhone 13 mini Passcode without a Computer</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722961309247-install-up-to-date-pl2303-driver-software-on-your-pc-free-download/"><u>Install Up-to-Date PL2303 Driver Software on Your PC - Free Download!</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/techniques-for-duplicating-top-gun-movies-1986-and-2022-from-dvd/"><u>Techniques for Duplicating 'Top Gun' Movies (1986 & 2022) From DVD</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-clear-the-chaos-edit-and-cull-your-bulky-tiktok-collections/"><u>[New] 2024 Approved Clear the Chaos Edit & Cull Your Bulky TikTok Collections</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-image-improvement-masterclass-top-apps-decoded/"><u>[New] 2024 Approved Image Improvement Masterclass - Top Apps Decoded</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-leading-video-chatting-software-for-teams/"><u>[Updated] 2024 Approved Leading Video Chatting Software for Teams</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-the-new-standard-how-does-av1-outperform-vp9/"><u>[Updated] 2024 Approved The New Standard How Does AV1 Outperform VP9?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-terras-treasures-selecting-the-top-mapping-games/"><u>[Updated] Terra's Treasures Selecting the Top Mapping Games</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-evaluation-the-powerhouse-performance-of-the-ibuypower-y60-desktop/"><u>Comprehensive Evaluation: The Powerhouse Performance of the iBUYPOWER Y60 Desktop</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/corsair-logitech-k55-peripheral-setup-guide-download-and-updates/"><u>Corsair Logitech K55 Peripheral Setup Guide – Download & Updates</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-the-latest-in-computer-gear-with-toms-hardware-experts/"><u>Exploring the Latest in Computer Gear with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-nvidia-rtx-3070-ti-drivers-for-windows-1087-official-download/"><u>Free NVIDIA RTX 3070 Ti Drivers for Windows 10/8/7: Official Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-drivers-for-your-amd-radeon-r9-on-windows-10/"><u>Get the Latest Drivers for Your AMD Radeon R9 on Windows 10</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/1716308700778-how-to-make-a-photo-video-with-pixiz/"><u>How to Make a Photo Video with Pixiz ?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-apple-iphone-x-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock On your Apple iPhone X</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/iphone-or-samsung-galaxy-an-ultimate-comparison-for-your-next-purchase/"><u>IPhone or Samsung Galaxy: An Ultimate Comparison for Your Next Purchase</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ryzen-cu9-supercharge-upgrade-unlock-extra-250-mhz-skyrocket-core-performance-by-27-score-higher-on-geekbench/"><u>Ryzen Cu9 Supercharge Upgrade - Unlock Extra 250 MHz, Skyrocket Core Performance by 27%, Score Higher on Geekbench</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/secure-your-system-with-amds-official-gpio-driver-now-available/"><u>Secure Your System with AMD's Official GPIO Driver - Now Available!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-best-way-to-download-and-setup-asus-router-drivers-a-comprehensive-guide/"><u>The Best Way to Download & Setup ASUS Router Drivers: A Comprehensive Guide</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/virtual-voyage-speak-a-foreign-language-effortlessly/"><u>Virtual Voyage: Speak a Foreign Language Effortlessly</u></a></li>
 </ul></div>
 

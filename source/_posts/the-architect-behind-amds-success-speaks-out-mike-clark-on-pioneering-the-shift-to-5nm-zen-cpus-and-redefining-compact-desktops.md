@@ -1,7 +1,7 @@
 ---
 title: The Architect Behind AMD's Success Speaks Out - Mike Clark on Pioneering the Shift to 5Nm Zen CPUs and Redefining Compact Desktops
-date: 2024-08-26T07:56:22.464Z
-updated: 2024-08-27T07:56:22.464Z
+date: 2024-11-10T21:38:41.150Z
+updated: 2024-11-16T06:06:26.725Z
 tags:
   - cpu
 categories:
@@ -42,14 +42,11 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -58,8 +55,33 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-the-complete-screen-recorders-playbook/"><u>[New] 2024 Approved The Complete Screen Recorder's Playbook</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-ultimate-audio-treasures-for-video-crafting/"><u>[New] In 2024, Ultimate Audio Treasures for Video Crafting</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/audiophiles-collection-of-drama-writing-for-2024/"><u>Audiophile's Collection of Drama Writing for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-prime-locations-for-high-quality-smartphone-deals-near-you/"><u>Discover Prime Locations for High-Quality Smartphone Deals Near You</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-unbeatable-july-2e24-bargains-for-laptops-with-our-comprehensive-guide-picks/"><u>Discover Unbeatable July 2E24 Bargains for Laptops with Our Comprehensive Guide Picks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discovering-the-ultimate-blend-of-size-and-utility-in-our-latest-chromebook-test-tech-insights/"><u>Discovering the Ultimate Blend of Size and Utility in Our Latest Chromebook Test | Tech Insights</u></a></li>
+<li><a href="https://techtrends.techidaily.com/engaging-mobile-adventures-top-apps-inspired-by-classic-titles-like-the-room-and-myst/"><u>Engaging Mobile Adventures: Top Apps Inspired by Classic Titles Like 'The Room' & 'Myst'</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-error-code-0xc0000098-on-windows/"><u>How to Fix Error Code 0Xc0000098 on Windows</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-nubia-z50s-pro-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Nubia Z50S Pro to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-motorola-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Motorola FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-huawei-p60-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/limburgse-gratis-bestandenhertalen-software-voor-usb-apparaatjes-onder-windows-1087-de-allerbelovendste-keuze/"><u>Limburgse Gratis Bestandenhertalen Software Voor USB-Apparaatjes Onder Windows 10/8/7 - De Allerbelovendste Keuze!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/monitor-at-best-buy-for-prime-day-zdnet-insider-tips/"><u>Monitor at Best Buy for Prime Day | ZDNET Insider Tips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/skyrocket-your-productivity-with-this-versatile-10-in-1-multi-device-charging-solution-save-35-today-techradar/"><u>Skyrocket Your Productivity with This Versatile 10-in-1 Multi-Device Charging Solution - Save 35% Today | TechRadar</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-picks-for-optimal-black-friday-laptop-offers-zdnets-guide-for-october-2024/"><u>Top Picks for Optimal Black Friday Laptop Offers - ZDNet's Guide for October 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-ranking-gaming-notebooks-comparative-review-of-razer-acer-msi-and-additional-brands-by-zdnet/"><u>Top-Ranking Gaming Notebooks : Comparative Review of Razer, Acer, MSI & Additional Brands by ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-portability-meets-power-the-mini-chromebook-that-delivers-big-on-functionality-a-review/"><u>Ultimate Portability Meets Power: The Mini-Chromebook That Delivers Big on Functionality - A Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-gaming-audio-top-rated-speakers-now-up-to-30-discounted-on-amazon-zdnet-tech-review/"><u>Unbeatable Gaming Audio: Top-Rated Speakers Now Up to 30% Discounted on Amazon | ZDNet Tech Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlock-the-secret-how-new-lenovo-laptops-revolutionize-iphone-file-sharing-exclusive-features-revealed-by-zdnet/"><u>Unlock the Secret: How New Lenovo Laptops Revolutionize iPhone File Sharing - Exclusive Features Revealed by ZDNet!</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
