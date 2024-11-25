@@ -1,7 +1,7 @@
 ---
 title: Unbeatable Savings on iDevices in July 2024 – iPhones, Apple Watches & iPads at Great Prices! Discover All You Need to Know - ZDNet
-date: 2024-11-14T06:32:35.478Z
-updated: 2024-11-16T04:19:13.561Z
+date: 2024-11-20T16:29:00.272Z
+updated: 2024-11-25T16:04:44.077Z
 tags:
   - laptops
 categories:
@@ -25,6 +25,10 @@ Below, you'll find the best sales and discounts on Apple products, including Mac
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best Apple deals of July 2024
 
@@ -157,13 +161,6 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [Discounts for students, teachers, educators at Apple View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fus-edu%2Fstore&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Apple accessory deals
 
 [Apple Pencil (1st-gen) deal for $79 (save $20) $79 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Pencil-1st-Generation-Adapter%2Fdp%2FB0BJLG69QR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cea6e66ee-5e0c-4994-abd7-15d28d1bc292%7Cdtp&dtb=1)
@@ -179,32 +176,19 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 [Apple Lightning to 3.5 mm headphone jack adapter deal for $8 (save $2) $8 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Lightning-to-3-5-mm-Headphone-Jack-Adapter%2F54738078%3Fathbdg%3DL1103&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can I buy an iPhone without a plan?
 
 Yes, but you must ensure that your new iPhone is not locked to a specific carrier. You can buy unlocked iPhones, both new and pre-owned, from sources including Apple itself, Amazon, Best Buy, and Walmart.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is the cheapest Apple product?
 
 Apple's AirTag, a tracking device that connects to your account and allows you to find lost objects such as your keys, is Apple's cheapest product. Typically, a single AirTag retails for $29, whereas you can also purchase four-packs for around $99 outside of sales and promotions. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is there a monthly fee for Apple iPads?
@@ -226,6 +210,10 @@ Factors influencing our recommendations include:
 * **Variety**: Here at ZDNET, we want to provide you with various products and accessories in the Apple ecosystem. We've selected deals spanning laptops and smartphones to smartwatches and more.
 * **Availability**: If we come across a great Apple deal but only a few units are in stock unless it is a stellar saving you only see once in a blue moon, we will discount it and select a product with better stock levels instead.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What are the best deals right now?
 
 ZDNET has been scouring the sale to find the best deals by category: 
@@ -246,6 +234,10 @@ ZDNET has been scouring the sale to find the best deals by category:
 * [The best iPhone deals](https://www.zdnet.com/article/iphone-deals/)
 * [The best TV deals](https://www.zdnet.com/home-and-office/home-entertainment/tv-deals/)
 * [The best deals under $30](https://www.zdnet.com/home-and-office/deals-under-30/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will these deals expire?
 
@@ -291,22 +283,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-peeking-behind-the-curtain-of-virtual-reality-pros-and-cons/"><u>[New] Peeking Behind the Curtain of Virtual Reality Pros & Cons</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-swift-modification-youtube-aspect-ratio-on-mac/"><u>[Updated] In 2024, Swift Modification YouTube Aspect Ratio on MAC</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-reviving-memories-with-instagram-reposts/"><u>2024 Approved Reviving Memories with Instagram Reposts</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-hp-m452dn-printer-drivers-for-optimal-performance/"><u>Download and Install HP M452dn Printer Drivers for Optimal Performance</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-nvidia-graphics-drivers-compatible-with-windows-11-7-and-8/"><u>Download NVIDIA Graphics Drivers: Compatible with Windows 11, 7 & 8</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-most-recent-driver-software-for-brother-hl-2240-on-windows-computers/"><u>Download the Most Recent Driver Software for Brother HL-2240 on Windows Computers</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/effective-ways-to-present-your-business-details-using-flash-flipbook-with-flipbuilder/"><u>Effective Ways to Present Your Business Details Using Flash FlipBook with FlipBuilder</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exclusive-offer-advanced-drives-for-msi-z370-a-pro-immediate-access-inside/"><u>Exclusive Offer: Advanced Drives for MSI Z370-A PRO - Immediate Access Inside!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-download-ultimate-guide-to-installing-intel-usb-30-drivers-on-windows-10/"><u>Free Download: Ultimate Guide to Installing Intel USB 3.0 Drivers on Windows 10</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Poco M6 Pro 4G? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-10-ultimate-high-res-4k-mirrorless-cams/"><u>In 2024, 10 Ultimate High-Res 4K Mirrorless Cams</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/logitech-g-prodigy-g402-drivers-and-downloads-get-started-now/"><u>Logitech G Prodigy (G402) Drivers & Downloads – Get Started Now</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/motorola-one-reviewed-an-attractive-budget-friendly-option-against-the-iphone-price-tag/"><u>Motorola One Reviewed: An Attractive, Budget-Friendly Option Against the iPhone Price Tag</u></a></li>
-<li><a href="https://fox-http.techidaily.com/must-try-top-5-mac-streaming-applications/"><u>Must-Try Top 5 Mac Streaming Applications</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/parental-guides-to-the-6-highest-rated-study-support-apps/"><u>Parental Guides to the 6 Highest Rated Study Support Apps</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-installing-updated-hp-officejet-pro-8620-drivers-on-windows/"><u>Step-by-Step Guide to Installing Updated HP OfficeJet Pro 8620 Drivers on Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/up-to-date-amd-rx-5700-xt-graphics-card-driver-downloads-supporting-windows-111087-platforms/"><u>Up-to-Date AMD RX 5700 XT Graphics Card Driver Downloads Supporting Windows 11/10/8/7 Platforms</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-leveraging-likes-and-shares-for-viral-content/"><u>[Updated] 2024 Approved Leveraging Likes and Shares for Viral Content</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-apple-books-application-analysis/"><u>Comprehensive Apple Books Application Analysis</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/discover-the-best-complimentary-tools-for-windows-1110-media-ripping-full-versions-available/"><u>Discover the Best Complimentary Tools for Windows 11/10 Media Ripping - Full Versions Available !</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/find-and-install-logitech-m525-controls-and-updates-for-seamless-usage/"><u>Find and Install Logitech M525 Controls & Updates for Seamless Usage</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-intel-usb-30-device-up-and-running-on-windows-10-free-drivers-available/"><u>Get Your Intel USB 3.0 Device Up & Running on Windows 10: Free Drivers Available!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-motorola-g24-power-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Motorola G24 Power to Outlook | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Xiaomi Redmi Note 12 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-new-insignia-bluetooth-adapter-software-on-your-windows-machine/"><u>Install New Insignia Bluetooth Adapter Software on Your Windows Machine</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-nvidia-rtx-3080-ti-graphics-card-driver-for-windows-users-win-1087/"><u>Latest NVIDIA RTX 3080 Ti Graphics Card Driver for Windows Users (Win 10/8/7)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-graphic-enhancements-updating-your-drivers-on-windows-11/"><u>Mastering Graphic Enhancements: Updating Your Drivers on Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-fixes-to-your-logitech-c615s-driver-woes-troubleshoot-with-ease/"><u>Quick Fixes to Your Logitech C615's Driver Woes – Troubleshoot with Ease!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/updating-your-intel-riser-driver-to-enhance-system-performance-in-windows-111087/"><u>Updating Your Intel Riser Driver to Enhance System Performance in Windows 11/10/8/7</u></a></li>
 </ul></div>
 

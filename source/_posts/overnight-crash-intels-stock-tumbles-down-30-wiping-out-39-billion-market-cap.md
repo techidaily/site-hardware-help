@@ -1,7 +1,7 @@
 ---
 title: "Overnight Crash: Intel's Stock Tumbles Down 30%%, Wiping Out $39 Billion Market Cap"
-date: 2024-08-19T12:23:29.001Z
-updated: 2024-08-20T12:23:29.001Z
+date: 2024-11-21T16:31:14.656Z
+updated: 2024-11-25T16:22:36.919Z
 tags:
   - cpu
 categories:
@@ -27,6 +27,10 @@ _"There has been no change to the sales embargo of the 5000XT,"_ an AMD represen
 
  The Ryzen 9 5900XT, on the other hand, should provide a significant upgrade over the current[Ryzen 9 5900X](https://www.tomshardware.com/reviews/amd-ryzen-9-5950x-5900x-zen-3-review) . Weirdly, AMD chose that model name since the Ryzen 9 5900XT is closer to the[Ryzen 9 5950X](https://www.tomshardware.com/reviews/amd-ryzen-9-5950x-5900x-zen-3-review) than the Ryzen 9 5900X. The Ryzen 9 5900XT wields the same 16 Zen 3 cores as the former in addition to the 64MB L3 cache and 105W TDP. The Ryzen 9 5900XT has a 100 MHz lower base and boost clock than the Ryzen 9 5950X.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -37,14 +41,11 @@ _"There has been no change to the sales embargo of the 5000XT,"_ an AMD represen
 
  AMD has kept the pricing under wraps for the Ryzen 9 5900XT and the Ryzen 7 5800XT. However, we should know tomorrow how much the new refreshed chips cost. Don't forget to double back for our review of the two processors and two new 5000XT SKUs.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -53,8 +54,18 @@ _"There has been no change to the sales embargo of the 5000XT,"_ an AMD represen
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-how-to-post-twitter-videos-on-snapchat/"><u>[New] How to Post Twitter Videos on Snapchat?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-updated-software-for-asus-wireless-adapter-model-pce-ac68/"><u>Download Updated Software for ASUS Wireless Adapter Model PCE-AC68</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-installation-guide-for-epson-wf-3540-drivers-compatible-with-all-windows-versions/"><u>Easy Installation Guide for Epson WF-3540 Drivers: Compatible with All Windows Versions</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-script-execution-with-newly-minted-run-software/"><u>Elevate Script Execution with Newly Minted Run Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/essential-guide-to-finding-and-updating-ch340g-usb-to-serial-communication-drivers-for-your-windows-10-pc/"><u>Essential Guide to Finding & Updating CH340G USB-to-Serial Communication Drivers for Your Windows 10 PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fixing-your-intel-dynamic-platform-and-thermal-framework-driver-errors-dptf-step-by-step/"><u>Fixing Your Intel Dynamic Platform & Thermal Framework Driver Errors (DPTF) [Step-by-Step]</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/free-video-openings-that-stand-out-today/"><u>Free Video Openings That Stand Out Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-canon-pixma-mx920-driver-for-windows-systems-here/"><u>Get Your Canon PIXMA MX920 Driver for Windows Systems Here!</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-removing-device-from-apple-id-for-your-apple-iphone-xs-by-drfone-ios/"><u>In 2024, Removing Device From Apple ID For your Apple iPhone XS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-making-your-minecraft-lan-multiplayer-work-perfectly/"><u>Step-by-Step Solution: Making Your Minecraft LAN Multiplayer Work Perfectly</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-19-free-video-compression-tools-of-2024-compatible-with-windows-and-mac/"><u>Top 19 Free Video Compression Tools of 2024 - Compatible with Windows and Mac</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

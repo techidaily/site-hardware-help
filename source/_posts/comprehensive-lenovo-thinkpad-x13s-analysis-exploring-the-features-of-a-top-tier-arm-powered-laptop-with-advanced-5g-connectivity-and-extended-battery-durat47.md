@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Lenovo ThinkPad X13s Analysis: Exploring the Features of a Top-Tier ARM-Powered Laptop with Advanced 5G Connectivity and Extended Battery Duration - Insights"
-date: 2024-11-15T03:17:58.515Z
-updated: 2024-11-15T22:53:16.728Z
+date: 2024-11-20T16:32:32.926Z
+updated: 2024-11-25T16:10:24.365Z
 tags:
   - laptops
 categories:
@@ -45,6 +45,10 @@ Image: Charles McLellan / ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Design
 
 Lenovo's ThinkPads rarely stray far from the familiar black livery with red and silver accents, and the ThinkPad X13s is no exception. The chassis, which is made of magnesium-aluminium (top) and [GFRP](https://en.wikipedia.org/wiki/Fibre-reinforced%5Fplastic) (bottom), is Thunder Black in colour, with branding on the lid and wrist rest, the iconic red TrackPoint embedded in the keyboard, and three buttons above the trackpad. Lenovo says that 90% of the magnesium used in the chassis is recycled, as is 97% of the plastic in the speaker enclosure, while 90% of the packaging is recycled and/or sustainable. 
@@ -66,10 +70,7 @@ For connections, you're limited to two USB-C (3.2 Gen 2) ports on the left side,
 You can access the innards of the ThinkPad X13s by removing six screws and prising off the bottom cover, although upgrade options are limited. We did poke around inside our first review unit, which arrived with no functioning Wi-Fi and no access to the webcam, to no avail. Our second review unit worked just fine. For all its thin-and-lightness, the ThinkPad X13s is [MIL-STD-810H](https://en.wikipedia.org/wiki/MIL-STD-810)\-tested and should cope with the rigours of a mobile professional's routine. 
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Features
@@ -83,10 +84,7 @@ There are three screen options, all IPS panels with WUXGA (1920 x 1200) resoluti
 As well as the biometric authentication methods noted earlier, the ThinkPad X13s includes internal security features such as a discrete TPM 2.0 chip, Microsoft's [Pluton TPM architecture](https://learn.microsoft.com/en-us/windows/security/information-protection/pluton/pluton-as-tpm) running on the Snapdragon 8cx Gen 3's SPU (Secure Processing Unit) and a self-healing BIOS. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Performance & battery life
@@ -118,10 +116,7 @@ Thermal camera images of the ThinkPad X13s under load.
 Images: Charles McLellan / ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Conclusions
@@ -175,10 +170,7 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -226,24 +218,20 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-transforming-mobile-devices-into-business-and-personal-video-platforms/"><u>[New] In 2024, Transforming Mobile Devices Into Business & Personal Video Platforms</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-recordingrealm-expedition-unveiling-snapcastpro-2023-for-2024/"><u>[New] RecordingRealm Expedition Unveiling 'SnapCastPro' 2023 for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-transform-your-shots-into-dynamic-works-of-art-with-motion-blur-techniques/"><u>[Updated] Transform Your Shots Into Dynamic Works of Art with Motion Blur Techniques</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-stepwise-guide-to-youtube-video-enhancement-in-imovie/"><u>2024 Approved Stepwise Guide to YouTube Video Enhancement in iMovie</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/decreasing-decibels-a-step-by-step-guide-to-softening-sound-in-premiere-pro/"><u>Decreasing Decibels A Step-by-Step Guide to Softening Sound in Premiere Pro</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-install-guide-epson-workforce-ds-30-printer-driver-on-windows-7-8-and-10/"><u>Easy Install Guide: Epson WorkForce DS-30 Printer Driver on Windows 7, 8 & 10</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-tutorial-installing-the-latest-corsair-sound-card-software-for-windows-users/"><u>Easy Tutorial: Installing the Latest Corsair Sound Card Software for Windows Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-downloads-compatible-bluetooth-drivers-for-dell-computers-on-windows/"><u>Free Downloads: Compatible Bluetooth Drivers for Dell Computers on Windows</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Nokia XR21 | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-top-9-secure-virtual-meeting-solutions-for-startups/"><u>In 2024, Top 9 Secure Virtual Meeting Solutions for Startups</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Honor 100 | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-the-latest-techkey-bluetooth-driver-on-windows-11-7-or-nvitek-2023-win7810/"><u>Install the Latest Techkey Bluetooth Driver on Windows 11, 7 or Nvitek-2023-Win7/8/10</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/intel-iris-plus-graphics-655-driver-for-windows-11-11/"><u>Intel Iris Plus Graphics 655 Driver for Windows 11, 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-canon-mg3022-driver-software-free-download-with-step-by-step-setup-instructions/"><u>Latest Canon MG3022 Driver Software Free Download with Step-by-Step Setup Instructions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/swift-installation-guide-for-thrustmaster-t150-controller-drivers/"><u>Swift Installation Guide for ThrustMaster T150 Controller Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshooting-guide-fixing-a-non-functional-samsung-blu-ray-player/"><u>Troubleshooting Guide: Fixing a Non-Functional Samsung Blu-Ray Player</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-reducing-cyberpunk-2077s-excessive-cpu-consumption/"><u>Troubleshooting Guide: Reducing Cyberpunk 2077'S Excessive CPU Consumption</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-your-wacom-sketch-tablet-software-get-the-newest-wacom-cintiq-13hd-drivers-here/"><u>Update Your Wacom Sketch Tablet Software - Get the Newest Wacom Cintiq 13HD Drivers Here!</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-skin-perfection-without-the-price-tag-fcpx-plugin-free-tutorial/"><u>Updated In 2024, Skin Perfection without the Price Tag FCPX Plugin-Free Tutorial</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722971690098-amd-radeon-pro-w5700-latest-driver-version-available-for-windows-users/"><u>AMD Radeon Pro W5700 - Latest Driver Version Available for Windows Users!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/approach-explain-how-the-wc-ratio-affects-concrete-properties/"><u>Approach: Explain How the W/C Ratio Affects Concrete Properties</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-ai-communicator-showdown-gpt-or-bing-leads/"><u>Best AI Communicator Showdown - GPT or Bing Leads?</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/elevating-views-amplifying-impact-a-youtube-case-study/"><u>Elevating Views, Amplifying Impact A Youtube Case Study</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expansion-plans-new-markets-products-or-production-facilities-on-the-horizon/"><u>Expansion Plans: New Markets, Products, or Production Facilities on the Horizon.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-driving-force-software-for-logitech-g29-wheel-in-compatibility-with-all-windows-versions/"><u>Get the Latest Driving Force Software for Logitech G29 Wheel in Compatibility with All Windows Versions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-fix-unable-to-access-dts-sound-issues-with-external-speakers/"><u>How to Fix 'Unable to Access DTS Sound' Issues with External Speakers</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-xiaomi-civi-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intel-dptf-driver-setup-troubleshooting-a-step-by-step-success-story/"><u>Intel DPTF Driver Setup Troubleshooting: A Step-by-Step Success Story</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/iphones-secret-to-quick-cost-free-red-eye-removal-revealed/"><u>IPhone's Secret to Quick, Cost-Free Red-Eye Removal Revealed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-waveform-overlaps-the-crossfade-method/"><u>Mastering Waveform Overlaps The Crossfade Method</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-stutters-on-xiaomi-and-stops-randomly-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV stutters on Xiaomi and stops randomly</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/price-tag-shooting-your-next-music-video/"><u>Price Tag Shooting Your Next Music Video</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-wildlife-photographers-dream-nikon-coolpix-p1000/"><u>The Ultimate Wildlife Photographer's Dream: Nikon COOLPIX P1000</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-logitech-g13-direct-links-to-downloading-the-necessary-software/"><u>Update Your Logitech G13: Direct Links to Downloading the Necessary Software</u></a></li>
 </ul></div>
 

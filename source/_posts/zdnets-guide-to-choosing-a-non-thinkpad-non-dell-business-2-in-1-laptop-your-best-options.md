@@ -1,7 +1,7 @@
 ---
 title: ZDNet's Guide to Choosing a Non-ThinkPad, Non-Dell Business 2-in-1 Laptop - Your Best Options
-date: 2024-11-09T05:52:06.064Z
-updated: 2024-11-16T06:38:09.152Z
+date: 2024-11-20T16:29:07.974Z
+updated: 2024-11-25T16:12:11.181Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Ed Bott/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -79,10 +83,7 @@ Cesar Cadenas/ZDNET
 And for one of the best qualities of this laptop: battery life is absolutely phenomenal. I [performed our usual test](https://www.zdnet.com/article/how-we-test-laptops/) of running a YouTube livestream at 720p and 50% brightness. At its peak, the Surface Pro lasted just under 13 hours on a single charge. That's just shy of Microsoft's purported 14-hour battery life. In practical usage, this is a device that will easily last multiple days on a single charge. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -121,20 +122,20 @@ Prices for the device start at $999.99\. My review unit with the 12-core Snapdra
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-hidden-highlight-harvester-for-2024/"><u>[New] Hidden Highlight Harvester for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/aximize-youtube-savvy-unified-streams-for-enthusiasts-for-2024/"><u>[New] Maximize YouTube Savvy Unified Streams for Enthusiasts for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/d-link-powerline-kit-unveiled-swift-installation-rapid-file-sharing-insights/"><u>D-Link Powerline Kit Unveiled: Swift Installation, Rapid File Sharing Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/dell-inspiron-15-drivers-for-windows-11/"><u>Dell Inspiron 15 Drivers for Windows 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-elgato-driver-installation-fast-hassle-free-downloads/"><u>Easy Elgato Driver Installation - Fast, Hassle-Free Downloads</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-tricks-to-download-and-install-epson-xp-830s-printing-software/"><u>Easy Tricks to Download and Install Epson XP-830's Printing Software</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ensure-smooth-printing-downloading-and-updating-the-canon-mg3000-drivers/"><u>Ensure Smooth Printing: Downloading & Updating the Canon MG3000 Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-nvidia-geforce-rtx-1080-drivers-on-windows-11-effortless-download-process/"><u>Get the Latest Nvidia GeForce RTX 1080 Drivers on Windows 11 - Effortless Download Process</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/immersive-dying-light-co-op-adventure-first-person-parkour-and-survival-gameplay/"><u>Immersive Dying Light Co-Op Adventure: First-Person Parkour & Survival Gameplay</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-honor-magic-vs-2-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Honor Magic Vs 2 to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-craft-an-attractive-animation-from-any-video-a-comprehensive-youtube-to-gif-guide/"><u>In 2024, Craft an Attractive Animation From Any Video - A Comprehensive Youtube-to-GIF Guide</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-next-gen-learning-vrs-educational-impact/"><u>In 2024, Next-Gen Learning VR's Educational Impact</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/intel-wifi-ac-3160-card-instant-setup-guide-with-latest-driver-update/"><u>Intel WiFi AC 3160 Card: Instant Setup Guide with Latest Driver Update</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/level-up-your-pc-download-ultimate-z2-carbon-graphics-cards/"><u>Level-Up Your PC: Download Ultimate Z2^ Carbon Graphics Cards 🚀</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/professioneller-medienubertragungsspezialist-winx-mediatrans-ideal-fur-hochwertige-datenubertragungen-auf-ios-geraten-zum-pc/"><u>Professioneller Medienübertragungsspezialist: WinX MediaTrans – Ideal Für Hochwertige Datenübertragungen Auf iOS Geräten Zum PC</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-journey-into-the-future-with-youtubes-top-vr-cinematography/"><u>[New] 2024 Approved Journey Into the Future with YouTube’s Top VR Cinematography</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-photoshop-picmaster-guide-and-assessment/"><u>[New] Photoshop PicMaster Guide & Assessment</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-foremost-zooid-beginnings-guide/"><u>[Updated] Foremost Zooid Beginnings Guide</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/1726030464050-mp410/"><u>「最優秀のMP4動画変換ツールを見つける：安心で無料オプションが豊富な10選」</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-comprehensive-hdr-mastery-for-breathtaking-portraits/"><u>2024 Approved Comprehensive HDR Mastery for Breathtaking Portraits</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/bluetooth-50-asus-usb-bt500-drivers-compatible-with-windows-11108/"><u>Bluetooth 5.0 Asus USB-BT500 Drivers - Compatible with Windows 11/10/8</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-installation-of-hp-envy-56e-drivers-get-them-now/"><u>Effortless Installation of HP Envy 56E Drivers – Get Them Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722973394495-flexural-bending-failure-occurs-when-bending-moments-exceed-material-capacity-leading-to-cracking-and-deformation-of-beams-and-columns/"><u>Flexural (Bending) Failure Occurs when Bending Moments Exceed Material Capacity, Leading to Cracking and Deformation of Beams and Columns</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-tecno-spark-10-5g-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Tecno Spark 10 5G to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-gratis-vector-design-and-illustration-sites-online/"><u>In 2024, Top Gratis Vector Design & Illustration Sites Online</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intel-driver-utility-how-to-find-and-download-the-latest-version/"><u>Intel Driver Utility: How To Find And Download The Latest Version</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-the-art-of-keyboard-usage-on-your-steam-deck-gaming-console/"><u>Master the Art of Keyboard Usage on Your Steam Deck Gaming Console</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-guide-microsoft-drivers-downloading-and-updating-on-windows-11-8-and-7/"><u>Quick Guide: Microsoft Drivers Downloading and Updating on Windows 11, 8 & 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722956790544-resolved-issues-with-the-igfxem-module-now-fixed/"><u>Resolved: Issues with the IgfxEM Module Now Fixed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-crafting-exceptional-instagram-ringtone-alerts-a-compreeved-guide-for-2024/"><u>The Art of Crafting Exceptional Instagram Ringtone Alerts A Compreeved Guide for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Capturing Screenshots Seamlessly on Dell, Lenovo, and Mac - ZDNet"
-date: 2024-11-13T18:37:46.781Z
-updated: 2024-11-15T19:29:14.754Z
+date: 2024-11-19T16:12:42.718Z
+updated: 2024-11-25T16:15:50.530Z
 tags:
   - laptops
 categories:
@@ -26,31 +26,29 @@ Let us show you how to quickly and easily take a screenshot on everything from a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to take screenshots on any laptop
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Requirements
 
 You'll need your laptop and, in some cases, basic image editing software. The entire process should two minutes or less, depending on which method and operating system you're using.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Screenshotting on Windows-based laptops
 
 While the process for taking a screenshot on every laptop varies somewhat, the biggest differences will be between Windows-based laptops, like those made by Dell, Lenovo, and others, and those made by Apple, which run MacOS. Let's cover Windows-based laptops first.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Option 1: The old fashioned way**
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. Use your Print Screen key
 
@@ -61,6 +59,10 @@ In any case, it should be easy to find by looking for the key marked **Prt**, **
 The button can be just about anywhere, so just look for something that looks as similar as possible to the legend on this one.
 
 Michael Gariffo/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Paste your screenshot
 
@@ -76,13 +78,6 @@ Michael Gariffo/ZDNET
 
 ### **Option 2: The Snipping Tool and Win+Shift+S**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Open the Snipping Tool or press Win+Shift+S
 
 Windows also includes a [one-stop tool for taking screenshots](https://www.zdnet.com/article/how-to-screenshot-on-windows/) or capturing individual windows or portions of windows. It's called the Snipping Tool and its full menu can be accessed by opening your start menu and typing in "snip." Alternatively, you can skip directly to the capture functionality it offers by pressing **Win+Shift+S.**
@@ -94,13 +89,6 @@ The main difference in using Windows+Shift+S is that windows won't automatically
 The Windows 11 version of the basic Snipping Tool menu and its icon.
 
 Michael Gariffo/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Screenshotting on Macs
 
@@ -127,10 +115,7 @@ There sure is. For Mac users, we've already covered [how to capture recordings o
 At ZDNET [we like Pixlr](https://pixlr.com/). It's a free web app that handles most of the basic tasks you'll want to apply to your screenshots, including cropping, resizing, and adding text. It even includes some more advanced effects like a liquify tool. If you need something even more advanced, but only occasionally, we have [a guide on using Adobe's free trial](https://www.zdnet.com/article/how-to-get-photoshop-for-free/) program to get short-term access to Photoshop.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why does \[insert on-screen item here\] look weird in my screenshot?
@@ -172,19 +157,24 @@ There's a few reasons why things can look strange in your screenshots. Animated 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-uniting-melodies-and-images-with-youtube-music-for-video-projects/"><u>[New] In 2024, Uniting Melodies & Images with YouTube Music for Video Projects</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-complete-walkthrough-for-android-audio-personalization/"><u>[Updated] The Complete Walkthrough for Android Audio Personalization</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-seamless-blending-of-voice-and-text-in-powerpoint-decks/"><u>2024 Approved Seamless Blending of Voice and Text in PowerPoint Decks</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/complete-walkthrough-updating-the-epson-ds-510-driver-on-windows-with-simple-steps/"><u>Complete Walkthrough: Updating the Epson DS-510 Driver on Windows with Simple Steps</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-guide-installing-new-hp-printer-drivers-for-windows-11-systems/"><u>Easy Guide: Installing New HP Printer Drivers for Windows 11 Systems</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/enhancing-your-chat-experience-with-customized-whatsapp-tones/"><u>Enhancing Your Chat Experience with Customized WhatsApp Tones</u></a></li>
-<li><a href="https://tools.techidaily.com/flipbuilder/products/"><u>Flipbuilder's Products</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-toshiba-laptop-drivers-compatible-with-windows-systems-instantly/"><u>Get the Newest Toshiba Laptop Drivers Compatible with Windows Systems Instantly</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-honor-x50-gt-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Honor X50 GT? | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-obtain-logitech-m525-drivers-and-software-easy-step-by-step-guide/"><u>How to Obtain Logitech M525 Drivers & Software: Easy Step-by-Step Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-formula-for-booming-subscriber-counts-in-youtubers-world/"><u>In 2024, The Formula for Booming Subscriber Counts in Youtubers' World</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Vivo Y27s | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-how-to-get-the-newest-dell-latitude-e6ns-windows-drivers-resolved/"><u>Step-by-Step Tutorial: How to Get the Newest Dell Latitude E6n's Windows Drivers [RESOLVED]</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-guide-updating-graphics-and-chipset-drivers-on-your-dell-xps-15-running-windows/"><u>Ultimate Guide: Updating Graphics & Chipset Drivers on Your Dell XPS 15 Running Windows</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-streamlining-your-watch-time-on-instagram-mobiledesktop/"><u>[Updated] 2024 Approved Streamlining Your Watch Time on Instagram (Mobile/Desktop)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-perfecting-your-performance-logging-the-ultimate-guide-for-capturing-roblox-on-a-mac-for-2024/"><u>[Updated] Perfecting Your Performance Logging The Ultimate Guide for Capturing Roblox on a Mac for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-unlock-youtubes-potential-key-strategies-from-creator-studio-manual-for-2024/"><u>[Updated] Unlock YouTube's Potential Key Strategies From Creator Studio Manual for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamlined-multitasking-in-safari-with-pip/"><u>2024 Approved Streamlined Multitasking in Safari with PIP</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-permission-errors-on-windows-systems/"><u>Bypassing Permission Errors on Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-canon-printer-driver-for-windows-10/"><u>Download & Install Canon Printer Driver for Windows 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-keep-up-to-date-with-the-latest-zebra-zp45amo-drivers-an-easy-step-by-step-guide-to-optimal-printing-performance/"><u>Download and Keep Up-to-Date with the Latest Zebra ZP45amo Drivers – An Easy, Step by Step Guide to Optimal Printing Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-intels-high-performance-iris-xe-graphic-card-driver-for-windows-users/"><u>Download Intel's High-Performance Iris Xe Graphic Card Driver for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-fixes-for-asus-maximus-x-hero-driver-update-issues-get-started-now/"><u>Easy Fixes for ASUS Maximus X Hero Driver Update Issues - Get Started Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-download-and-install-the-newest-amd-radeon-r5-drivers-on-your-windows-pc/"><u>How to Download and Install the Newest AMD Radeon R5 Drivers on Your Windows PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-update-or-download-sony-vaio-drivers-for-your-windows-device/"><u>How to Update or Download Sony VAIO Drivers for Your Windows Device</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-best-hd-visual-recorders-available/"><u>In 2024, Best HD Visual Recorders Available</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/masterclass-review-unpacking-the-features-of-android-lightroom/"><u>Masterclass Review Unpacking the Features of Android Lightroom</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamlessly-upgrade-your-microsoft-drivers-for-windows-11-8-and-7-download-and-setup-tips/"><u>Seamlessly Upgrade Your Microsoft Drivers for Windows 11, 8 & 7 – Download and Setup Tips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-download-and-update-logitech-drivers-for-windows/"><u>Step-by-Step Tutorial: Download and Update Logitech Drivers for Windows</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-tips-for-creating-highly-sharable-insta-unpacked-content/"><u>Top Tips for Creating Highly Sharable Insta Unpacked Content</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/updated-printer-drivers-epson-gt-s50-suitable-for-windows-os-7-to-10/"><u>Updated Printer Drivers: Epson GT S50 Suitable for Windows OS 7 to 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/windows-11-compatible-broadcom-network-adapters-driver-download-and-troubleshooting-tips/"><u>Windows 11 Compatible Broadcom Network Adapters: Driver Download and Troubleshooting Tips</u></a></li>
 </ul></div>
 

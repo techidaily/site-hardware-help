@@ -1,7 +1,7 @@
 ---
 title: "Amazing Value: The Ultimate Non-ThinkPad, Non-MacBook Workhorse for Enhanced Productivity - Save $300 on Prime Day Review"
-date: 2024-11-11T20:42:20.910Z
-updated: 2024-11-15T20:16:02.497Z
+date: 2024-11-19T16:34:44.448Z
+updated: 2024-11-25T16:16:23.123Z
 tags:
   - laptops
 categories:
@@ -20,6 +20,10 @@ Kyle Kucharski/ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What's the Amazon Prime Day deal?
 
 Amazon's October Prime Day event is here, and with its arrival, many laptops are seeing big discounts across the board. The [Asus Vivobook S 15](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Snapdragon-X1E-78-100-Processor-S5507QAD-PS96%2Fdp%2FB0CWJY4YWF%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6e10cc6f-7a1c-4f05-a13e-f2c647fb3cc1%7Cdtp&dtb=1) is seeing a $300 discount, dropping from $1,300 to $1,000\. It's the first Asus Copilot Plus PC and comes highly recommended for its performance.
@@ -29,10 +33,7 @@ Amazon's October Prime Day event is here, and with its arrival, many laptops are
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -106,10 +107,7 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -148,22 +146,24 @@ All things considered, the [sale price of $1,099](https://www.awin1.com/awclick.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-facebook-insights-how-to-use-it-for-beginners-easily/"><u>[New] Facebook Insights How to Use It for Beginners Easily</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-overcome-youtube-tweet-buffer-in-chromebook/"><u>[Updated] 2024 Approved Overcome YouTube Tweet Buffer in Chromebook</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-cutting-edge-av-producers-compendium-online/"><u>2024 Approved Cutting-Edge AV Producers' Compendium Online</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/chuckling-chords-crafting-top-tier-meme-content/"><u>Chuckling Chords Crafting Top-Tier Meme Content</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/complete-tutorial-for-evga-windows-operating-system-driver-installation/"><u>Complete Tutorial for EVGA Windows Operating System Driver Installation</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-guide-to-successfully-installing-new-versions-of-amd-radeon-drivers/"><u>Easy Guide to Successfully Installing New Versions of AMD Radeon Drivers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/enhance-your-videos-with-winxvideo-ai-professional-upscaling-stabilizing-converting-editing-and-recording-tools/"><u>Enhance Your Videos with WinxVideo AI: Professional Upscaling, Stabilizing, Converting, Editing & Recording Tools</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-download-and-install-the-newest-driver-for-canon-mx9n2-printer-in-windows/"><u>How to Download and Install the Newest Driver for Canon MX9n2 Printer in Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-install-logitech-driving-force-gt-steering-wheel-on-your-pc-with-windows-71011-step-by-step-guide/"><u>How to Install Logitech Driving Force GT Steering Wheel on Your PC with Windows 7/10/11 – Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-repair-and-fix-the-realtek-wi-fi-driver-compatibility-with-windows-111n7-systems-solved/"><u>How to Repair and Fix the Realtek Wi-Fi Driver Compatibility with Windows 11/1N/7 Systems [Solved]</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/include-omega-3-rich-foods/"><u>Include Omega-3 Rich Foods:</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-official-techkey-bluetooth-driver-seamless-connection-on-windows-1078-devices/"><u>Install Official Techkey Bluetooth Driver: Seamless Connection on Windows 10/7/8 Devices</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-display-performance-with-hp-updates/"><u>Optimize Display Performance with HP Updates</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/premium-fb-videograbber-suite-high-quality-downloads-fast-and-secure/"><u>Premium FB Videograbber Suite High-Quality Downloads, Fast & Secure</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-your-canon-mp560-printer-drivers-with-ease-quick-download-tutorial/"><u>Update Your Canon MP560 Printer Drivers with Ease - Quick Download Tutorial</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/video-tutorial-steps-to-transfer-emails-from-recovered-edb-mailboxes-to-an-active-exchange-server/"><u>Video Tutorial: Steps to Transfer Emails From Recovered EDB Mailboxes to an Active Exchange Server</u></a></li>
-<li><a href="https://howto.techidaily.com/xiaomi-redmi-12-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi 12 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-unlock-free-power-learn-to-edit-videos-on-vimeo-for-2024/"><u>[New] Unlock FREE Power Learn to Edit Videos on Vimeo for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-10-igtv-talents-ready-to-take-off/"><u>[Updated] In 2024, 10 IGTV Talents Ready to Take Off</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-mic-selection-made-easy-optimal-picks-for-vloggers-educators-and-more/"><u>[Updated] Mic Selection Made Easy Optimal Picks for Vloggers, Educators & More</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-strategizing-visibility-for-podcasts-through-design/"><u>2024 Approved Strategizing Visibility for Podcasts Through Design</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722973711357-amd-radeon-rx-6900-xt-graphics-card-drivers-compatible-with-windows-11-10-8-and-7-download-now/"><u>AMD Radeon RX 6900 XT Graphics Card Drivers: Compatible with Windows 11, 10, 8 & 7 – Download Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/canon-mx-series-driver-update-get-enhanced-performance-with-fresh-mx492-software-for-windows/"><u>Canon MX Series Driver Update: Get Enhanced Performance with Fresh MX492 Software for Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/disabling-apples-emergency-broadcast-messages-on-your-iphone/"><u>Disabling Apple's Emergency Broadcast Messages on Your iPhone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-hp-laserjet-pro-mfp-m428fdw-driver-for-latest-and-legacy-windows-systems/"><u>Download HP LaserJet Pro MFP M428fdw Driver for Latest and Legacy Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effective-solutions-for-intels-csr8510-and-a10-driver-conflicts-within-windows-environment/"><u>Effective Solutions for Intel's CSR8510 and A10 Driver Conflicts Within Windows Environment</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/epson-l3110-compatible-printer-drivers-available-now-for-windows-11107-get-your-free-downloads-here/"><u>Epson L3110 Compatible Printer Drivers Available Now for Windows 11/10/7 - Get Your Free Downloads Here!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-from-iphone-13-pro-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even From iPhone 13 Pro If Youve Tried Everything</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-or-fix-xbox-accessory-drivers-in-various-windows-environments/"><u>How to Update or Fix Xbox Accessory Drivers in Various Windows Environments</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ring-hashtags-for-six-figure-youtube-growth/"><u>Mastering Hashtags for Six-Figure YouTube Growth</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1829876-9781501104725-my-life-after-death/"><u>My Life After Death | Free Book</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premium-computing-solutions-on-desktops/"><u>Premium Computing Solutions on Desktops</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/simple-guide-to-downloading-and-updating-amd-ryzen-graphics-drivers/"><u>Simple Guide to Downloading and Updating AMD Ryzen Graphics Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-to-the-latest-version-of-sapphire-gpu-drivers-on-windows-computers/"><u>Update to the Latest Version of Sapphire GPU Drivers on Windows Computers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722971669620-update-your-konica-minolta-printer-with-the-right-windows-111087-drivers/"><u>Update Your Konica Minolta Printer with the Right Windows 11/10/8/7 Drivers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-to-do-when-you-encounter-an-nspr4dll-file-not-found-issue/"><u>What to Do When You Encounter an Nspr4.dll File Not Found Issue</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Highlights From Apple's October Showcase: Discover the New M4 Mac Mini, Latest iPads, Enhanced Siri & Beyond"
-date: 2024-11-13T04:52:19.088Z
-updated: 2024-11-15T23:37:01.625Z
+date: 2024-11-19T16:35:14.219Z
+updated: 2024-11-25T16:33:39.477Z
 tags:
   - laptops
 categories:
@@ -28,6 +28,10 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. M4 Macs
 
 Kerry Wan/ZDNET
@@ -41,10 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -60,10 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -77,10 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -123,19 +118,24 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-help.techidaily.com/solved-amd-rx-560-driver-issue-on-windows-111087/"><u>[Solved] AMD RX 560 Driver Issue on Windows 11/10/8/7</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-iphone-laughs-and-lightheartedness/"><u>[Updated] In 2024, IPhone Laughs & Lightheartedness</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-visual-wonders-the-10-list-of-exceptional-4k-for-macs-for-2024/"><u>[Updated] Visual Wonders The #10 List of Exceptional 4K for Macs for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/android-in-virtual-reality-streamlining-the-viewing-experience/"><u>Android in Virtual Reality Streamlining the Viewing Experience</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/complete-guide-to-bypassing-drm-protection-on-ebooks-epub-pdf-azw/"><u>Complete Guide to Bypassing DRM Protection on eBooks (ePUB, PDF, AZW)</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/cyberpower-685avrg-ups-unit-an-essential-overview-for-smooth-operations-during-outages/"><u>Cyberpower 685AVRG UPS Unit: An Essential Overview for Smooth Operations During Outages</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/diy-image-editing-vanish-subjects-from-photos-effortlessly-without-adobe/"><u>DIY Image Editing: Vanish Subjects From Photos Effortlessly without Adobe</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-epson-tm-t88v-printer-drivers-for-windows-latest-version/"><u>Download and Update EPSON TM-T88V Printer Drivers for Windows - Latest Version</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722974384488-easy-access-to-thrustmaster-t150-controller-drivers-download-now/"><u>Easy Access to Thrustmaster T150 Controller Drivers – Download Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-canon-mg3000-printer-software-and-latest-firmware-updates/"><u>Free Canon MG3000 Printer Software and Latest Firmware Updates</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-intel-iris-xe-graphics-driver-update-now-compatible-with-windows-11/"><u>Get Your Intel® Iris XE Graphics Driver Update Now – Compatible with Windows 11</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-thriving-livestreams-strategies-for-beginners-with-low-followers/"><u>In 2024, Thriving Livestreams Strategies for Beginners with Low Followers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/obtain-pl2303-compatible-driver-software-for-your-windows-machine/"><u>Obtain PL2303 Compatible Driver Software for Your Windows Machine</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-classpnpsys-driver-issues-on-windows-10-and-windows-7-a-comprehensive-guide/"><u>Resolving CLASSPNP.SYS Driver Issues on Windows 10 & Windows 7: A Comprehensive Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-entrepreneurs-guide-to-snapchat-e-commerce-for-2024/"><u>[New] The Entrepreneur's Guide to Snapchat E-Commerce for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-samsung-m2070-driver-quickly-and-easily/"><u>[UPDATE] Samsung M2070 Driver | Quickly & Easily</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-recording-multiplesecondary-monitors/"><u>[Updated] Recording Multiple/Secondary Monitors</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-vivo-y78t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-guide-free-reliable-lenovo-wireless-drivers-update-for-windows-operating-systems-win710/"><u>Complete Guide: Free, Reliable Lenovo Wireless Drivers Update for Windows Operating Systems (Win7/10)</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/dive-into-vimeos-free-premium-and-pro-plans-and-their-benefits-for-2024/"><u>Dive Into Vimeo's Free, Premium & Pro Plans and Their Benefits for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-linksys-ae2500-drivers-fast-step-by-step-guide/"><u>Download Linksys AE2500 Drivers Fast: Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fast-and-simple-download-of-samsung-c460-printer-drivers-get-installed-now/"><u>Fast and Simple Download of Samsung C460 Printer Drivers - Get Installed Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-updated-realtek-gpu-drivers-for-windows-11/"><u>Free Download: Updated Realtek GPU Drivers for Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-brother-mfc-7360n-printer-up-to-speed-driver-downloads-and-updates-for-windows-users/"><u>Get Your Brother MFC-7360N Printer Up to Speed: Driver Downloads & Updates for Windows Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/hardware-harmony-choosing-between-directx-11-and-12/"><u>Hardware Harmony: Choosing Between DirectX 11 & 12</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-note-12-5g-phone-without-password-by-drfone-android/"><u>How To Unlock Xiaomi Redmi Note 12 5G Phone Without Password?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-maximizing-the-impact-of-outdoor-videos-live-streams-via-periscopefacebook/"><u>In 2024, Maximizing the Impact of Outdoor Videos Live Streams via Periscope/Facebook</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722972029542-install-new-drivers-for-your-linksys-ea7300-router-enhanced-stability-and-speed/"><u>Install New Drivers for Your Linksys EA7300 Router - Enhanced Stability and Speed</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-powershell-script-execution-policy-landscape/"><u>Navigating the PowerShell Script Execution Policy Landscape</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722968028407-nvidia-quadro-rtx-4000-drivers-download-and-update/"><u>NVIDIA Quadro RTX 4000 Drivers – Download & Update</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722968495683-speedy-samsung-m2070fw-driver-installation-direct-links-inside/"><u>Speedy Samsung M2070FW Driver Installation – Direct Links Inside</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-cant-i-take-a-full-page-screenshot-in-safari-solutions-inside/"><u>Why Can't I Take a Full Page Screenshot in Safari? Solutions Inside</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Poco X5 Pro | Dr.fone</u></a></li>
 </ul></div>
 

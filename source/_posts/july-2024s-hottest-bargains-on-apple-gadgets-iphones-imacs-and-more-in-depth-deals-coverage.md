@@ -1,7 +1,7 @@
 ---
 title: "July 2024'S Hottest Bargains on Apple Gadgets: IPhones, iMacs, and More | In-Depth Deals Coverage"
-date: 2024-11-11T06:39:17.155Z
-updated: 2024-11-16T06:57:58.068Z
+date: 2024-11-22T16:29:21.657Z
+updated: 2024-11-25T16:28:58.011Z
 tags:
   - laptops
 categories:
@@ -51,6 +51,10 @@ This list will be updated throughout the month, so check back to find the latest
 19. [HP Victus 15L gaming desktop](https://www.awin1.com/cread.php?awinmid=7168&awinaffid=423585&clickref=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&ued=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fvictus-by-hp-15l-gaming-desktop-tg02-0346st-49n24av-1): $480 (save $400 at HP)
 20. [Roku Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09T4VZDYV%2Fref%3Dcm%5Fgf%5Fadbo%5Fd%5Fp0%5Fe0%5Fqd0%5Ffu24jf571EvEqYFicc8R%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cea9c0743-e722-41c7-a688-1e24d2e92b65%7Cdtp&dtb=1): $90 (save $10 at Amazon)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best holiday deals under $25
 
 Maria Diaz/ZDNET
@@ -72,13 +76,6 @@ Artie Beaty/ZDNET
 * [Sonic Origins Plus, PlayStation 5](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSonic-Origins-Plus-PlayStation-5%2Fdp%2FB0BZFCRLDW%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cea9c0743-e722-41c7-a688-1e24d2e92b65%7Cdtp&dtb=1): $28 (save $12 at Amazon)
 * [Fossil Men's Ingram Leather RFID-Blocking Bifold Wallet](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FFossil-Mens-Bifold-Wallet-Black%2Fdp%2FB018ZMVPQC%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cea9c0743-e722-41c7-a688-1e24d2e92b65%7Cdtp&dtb=1): $30 (save $30 at Amazon)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best holiday deals under $100
 
 June Wan/ZDNET
@@ -90,6 +87,10 @@ June Wan/ZDNET
 * [Costco membership](https://www.stacksocial.com/sales/costco-1-year-gold-star-membership-a-40-digital-costco-shop-card?utm%5Fsource=zdnet.com&utm%5Fmedium=referral&utm%5Fcampaign=costco-1-year-gold-star-membership-30-costco-card&utm%5Fterm=scsf-566150&utm%5Fcontent=a0x1P0000058Tp1QAE&scsonar=1&aid=a-ceempx7z): $60 (get a free $40 gift card at Stack Social)
 * [DeWalt 20V Max 1/2 inch cordless drill with battery and charger](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDEWALT-Cordless-Battery-Included-DCD777D1%2Fdp%2FB0C3TGRLLM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cea9c0743-e722-41c7-a688-1e24d2e92b65%7Cdtp&dtb=1): $99 (save $60 at Amazon)
 * [Canon Ivy 2 Mini Photo Printer](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BGM5XPQZ%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cea9c0743-e722-41c7-a688-1e24d2e92b65%7Cdtp&dtb=1): $69 (save $30 at Amazon)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best holiday deals under $200
 
@@ -133,10 +134,7 @@ Jason Hiner/ZDNET
 * [Apple iPad Air (M1 chip, 10.9-inch, 64GB, Wi-Fi + Cellular):](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-iPad-Air-5th-Generation%2Fdp%2FB09V3JWQKB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cea9c0743-e722-41c7-a688-1e24d2e92b65%7Cdtp&dtb=1) $650 (save $100 at Amazon)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best holiday robot vacuum deals
@@ -168,16 +166,7 @@ June Wan/ZDNET
 * [Amazon Fire TV Omni QLED 55-inch](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fintroducing-amazon-fire-tv-55-inch-omni-qled-series-smart-tv%2Fdp%2FB09N6ZRH6C%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cea9c0743-e722-41c7-a688-1e24d2e92b65%7Cdtp&dtb=1): $450 (save $150 at Amazon)
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best holiday smartwatch deals
@@ -188,13 +177,6 @@ Matthew Miller/ZDNET
 * [Fitbit Versa 4 + Fitbit Premium](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Ffitbit-versa-4-fitness-smartwatch-graphite%2F6514032.p%3FskuId%3D6514032&publisher_slug=itechdaily19598&exclusive=1): $150 (save $50 at Best Buy)
 * [Samsung Galaxy Watch 5 Pro](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-galaxy-watch5-pro-titanium-smartwatch-45mm-bt-black%2F6510873.p%3FskuId%3D6510873&publisher_slug=itechdaily19598&exclusive=1): $370 (save $80 at Best Buy)
 * [Amazfit Bip 3 Urban Edition Smartwatch](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FAmazfit-Bip-3-Urban-Edition-Smart-Watch-Health-Fitness-Tracker-Black%2F1499566467&subId1=zd-__COM_CLICK_ID__-dtp): $35 (save $27 at Walmart)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Best holiday headphones deals
 
@@ -221,13 +203,6 @@ Jason Hiner/ZDNET
 * [Samsung Galaxy A54 128GB](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Factory-Unlocked-Android-Smartphone%2Fdp%2FB0BSLR2L5R%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cea9c0743-e722-41c7-a688-1e24d2e92b65%7Cdtp&dtb=1): $399 (save $50 at Amazon)
 * [Samsung Galaxy S23 FE 256GB](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Unlocked-Smartphone-Processor-Graphite%2Fdp%2FB0CD8NF62Z%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cea9c0743-e722-41c7-a688-1e24d2e92b65%7Cdtp&dtb=1): $560 (save $100 at Amazon)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best holiday laptop deals
 
 Jason Hiner/ZDNET
@@ -239,6 +214,10 @@ Jason Hiner/ZDNET
 * [Lenovo Legion Pro 7i](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1745684-REG%2Flenovo%5F82wq002tus%5F16%5Flegion%5Fpro%5F7.html): $2,599 (save $700 at B&H Photo)
 * [Lenovo LOQ Tower Intel Edition](https://go.shopyourlikes.com/pi/bc82422a965d3574bb1afda3dd1ab5b7fb336893?afId=614548&afCampaignId=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&afCreativeId=2993&afPlacementId=2): $650 (save $380 at Lenovo)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best holiday tablet deals
 
 Maria Diaz/ZDNET
@@ -249,6 +228,10 @@ Maria Diaz/ZDNET
 * [Samsung Galaxy Tab S6 Lite](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-galaxy-tab-s6-lite-2022-10-4-64gb-wi-fi-oxford-gray%2F6506325.p%3FskuId%3D6506325&publisher_slug=itechdaily19598&exclusive=1): $200 (save $150 at Best Buy)
 * [Samsung Galaxy Tab A8](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-galaxy-tab-a8-10-5-64gb-wi-fi-gray%2F6492905.p%3FskuId%3D6492905&publisher_slug=itechdaily19598&exclusive=1): $200 (save $80 at Best Buy)
 * [Samsung Galaxy Tab S6 Lite](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Android-Lasting-Included-Speakers%2Fdp%2FB09WYWJ46K%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cea9c0743-e722-41c7-a688-1e24d2e92b65%7Cdtp&dtb=1): $200 (save $150 at Amazon)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How did we choose these holiday deals?
 
@@ -324,22 +307,17 @@ ZDNET's experts have been searching for holiday deals across sites like Amazon, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-clearer-streams-youtube-video-borderless-adjustment/"><u>[New] 2024 Approved Clearer Streams YouTube Video Borderless Adjustment</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-harmonize-your-preferences-how-to-create-an-engaging-youtube-playlist-for-2024/"><u>[New] Harmonize Your Preferences How to Create an Engaging YouTube Playlist for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-shifting-paradigms-non-youtube-video-hosts/"><u>2024 Approved Shifting Paradigms Non-Youtube Video Hosts</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On OnePlus 12 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-motorola-moto-g73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Motorola Moto G73 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-latest-hp-wireless-network-adapter-drivers-for-windows-pcs/"><u>Download the Latest HP Wireless Network Adapter Drivers for Windows PCs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortlessly-upgrade-your-amd-smbus-driver-quick-download-guide-inside/"><u>Effortlessly Upgrade Your AMD SMBus Driver: Quick Download Guide Inside</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-new-nvidia-rtx-2080-driver-update-for-multiple-windows-versions-including-10-7-and-8/"><u>Get the New NVIDIA RTX 2080 Driver Update for Multiple Windows Versions Including 10, 7 & 8</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-add-cinematic-shake-to-images-using-ps/"><u>In 2024, Add Cinematic Shake to Images Using PS</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-integrating-comfort-with-efficiency-modern-approaches-to-office-design/"><u>In 2024, Integrating Comfort with Efficiency Modern Approaches to Office Design</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-cyberpunk-2077-analysis-a-game-with-brilliance-marred-by-glitches/"><u>In-Depth Cyberpunk 2077 Analysis: A Game with Brilliance Marred by Glitches</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-focusrite-scarlett-2i4-sound-card-drivers-on-your-windows-system-today/"><u>Install Focusrite Scarlett 2I4 Sound Card Drivers on Your Windows System Today</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/lenovo-t430-essential-driver-pack-download-and-guide-for-all-windows-users/"><u>Lenovo T430 Essential Driver Pack - Download & Guide for All Windows Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722958535246-qualcomm-atheros-ar938x-chipset-free-drivers-downloaded-with-simple-steps/"><u>Qualcomm Atheros AR938X Chipset: Free Drivers Downloaded with Simple Steps!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/seamless-method-to-overcome-lenovo-hardware-interface-driver-issues/"><u>Seamless Method to Overcome Lenovo Hardware Interface Driver Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-a-productive-win-11-taskbar/"><u>The Ultimate Guide to a Productive Win 11 Taskbar</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-your-vga-drivers-today-free-downloads-available-here/"><u>Update Your VGA Drivers Today – Free Downloads Available Here</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-launching-winning-steps-for-an-epic-youtube-gaming-channel/"><u>[New] 2024 Approved Launching Winning Steps for an Epic YouTube Gaming Channel</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-streamlining-twitters-video-transfer-to-fb-network/"><u>[Updated] Streamlining Twitters Video Transfer to FB Network</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/8-reasons-why-teachers-should-embrace-ai-instead-of-fearing-it/"><u>8 Reasons Why Teachers Should Embrace AI Instead of Fearing It</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/crafting-compelling-examples-podcast-summaries-for-2024/"><u>Crafting Compelling Examples Podcast Summaries for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-honor-x50iplus-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Honor X50i+</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-studio.techidaily.com/mastering-the-art-of-problem-solving-essential-skills-and-methods/"><u>Mastering the Art of Problem Solving: Essential Skills and Methods</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/msis-enhanced-overclocking-and-stability-drivers-free-download-for-x470-motherboard-users/"><u>MSI's Enhanced Overclocking and Stability Drivers: Free Download for X470 Motherboard Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/official-downloads-for-brother-mfc-9130cw-drivers-and-software/"><u>Official Downloads for Brother MFC-9130CW Drivers and Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-upgrade-to-modern-displaylink-driver-for-your-windows-10-system/"><u>Seamless Upgrade to Modern DisplayLink Driver for Your Windows 10 System</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/simple-steps-to-get-the-latest-dell-monitor-driver-updates-instantly/"><u>Simple Steps to Get the Latest Dell Monitor Driver Updates Instantly</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-picks-for-gaming-displays-on-xbox-series-x-console-for-2024/"><u>Top Picks for Gaming Displays on Xbox Series X Console for 2024</u></a></li>
 </ul></div>
 

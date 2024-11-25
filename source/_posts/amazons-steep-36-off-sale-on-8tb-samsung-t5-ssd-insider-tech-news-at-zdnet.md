@@ -1,7 +1,7 @@
 ---
 title: Amazon's Steep 36%% Off Sale on 8TB Samsung T5 SSD | Insider Tech News at ZDNet
-date: 2024-11-09T05:18:02.081Z
-updated: 2024-11-16T05:38:32.963Z
+date: 2024-11-21T16:33:25.533Z
+updated: 2024-11-25T16:22:40.846Z
 tags:
   - laptops
 categories:
@@ -26,6 +26,10 @@ With a truly impressive amount of storage space, you'll get read and write speed
 **Read more:** **[SSD vs. HDD: What's the difference, and which should you buy?](https://www.zdnet.com/article/ssd-vs-hdd-whats-the-difference-and-which-should-you-buy/)** 
 
 Along with great read and write speeds and more reliable data transfers, the [Samsung T5 Evo](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Portable-External-MU-PH8T0S-AM%2Fdp%2FB0CMDGGJTZ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C2deb3452-13e5-4a2d-9261-e81e96455d49%7Cdtp&dtb=1) also features 256-bit AES encryption to keep your personal data and sensitive information safe from unauthorized access. Its outer casing is drop- and shock-resistant and can withstand falls up to six feet, making it perfect for on-location photographers and other mobile professionals who need a tough storage drive for offloading raw photos from camera storage or transferring important projects and documents between their home office and mobile work location. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -61,25 +65,22 @@ While the Amazon listing for the Samsung T5 Evo portable SSD does not have a cou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-complete-handbook-enhancing-productivity-using-mobizen-recorder/"><u>[New] Complete Handbook Enhancing Productivity Using Mobizen Recorder</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-ultimate-drivers-delight-5-top-race-games/"><u>[Updated] 2024 Approved Ultimate Driver's Delight 5 Top Race Games</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-spotting-the-signs-of-an-snapchat-account-closure/"><u>[Updated] Spotting the Signs of an Snapchat Account Closure</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1-best-manycam-app-ultimate-live-streaming-and-virtual-camera-solutions/"><u>1. Best ManyCam App: Ultimate Live Streaming and Virtual Camera Solutions</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-from-beginner-to-pro-transforming-windows-videos-with-minimal-tools/"><u>2024 Approved From Beginner to Pro Transforming Windows Videos with Minimal Tools</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-amd-rx-480-driver-version-instantly/"><u>Get the Latest AMD RX 480 Driver Version Instantly</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-lenovo-x26-thin-client-thinkpad-driver-updates-for-your-windows-11-pc/"><u>Get the Latest Lenovo X26# Thin Client (ThinkPad) Driver Updates for Your Windows 11 PC</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-get-your-nvidia-3d-vision-drivers-updated-for-free-on-windows-pcs/"><u>How to Get Your Nvidia 3D Vision Drivers Updated for Free on Windows PCs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-compatible-gpu-drivers-download-for-nvidia-quadro-rtx-8000-on-win7win8win10/"><u>Latest Compatible GPU Drivers: Download for NVIDIA Quadro RTX 8000 on Win7/Win8/Win10</u></a></li>
-<li><a href="https://solve-help.techidaily.com/resizing-and-cloning-your-hard-drive-moving-content-from-hdd-to-smallerlarger-ssds-in-up-to-four-simple-steps/"><u>Resizing and Cloning Your Hard Drive: Moving Content From HDD to Smaller/Larger SSDs in Up to Four Simple Steps</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-ultimate-video-upgrade-pathway-sdr-to-hdri-transformation-techniques/"><u>The Ultimate Video Upgrade Pathway SDR to HDRI Transformation Techniques</u></a></li>
-<li><a href="https://win-online.techidaily.com/uitleggen-voor-het-terugbeantwoorden-op-hoe-herstellen-van-verwijderde-gegevens-van-usb/"><u>Uitleggen Voor Het Terugbeantwoorden Op 'Hoe Herstellen Van Verwijderde Gegevens Van USB?'</u></a></li>
-<li><a href="https://win-help.techidaily.com/windows-11-megacloner-pro-seamless-software-replication-tool/"><u>Windows 11 MegaCloner Pro: Seamless Software Replication Tool</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-dissecting-the-components-of-mixed-reality/"><u>[Updated] In 2024, Dissecting the Components of Mixed Reality</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722969021490-download-official-canon-imageclass-mf4800-drivers-here/"><u>Download Official Canon ImageCLASS MF4800 Drivers Here</u></a></li>
+<li><a href="https://techidaily.com/easy-mac-vpn-setup-guide-secure-your-connection-with-simple-steps/"><u>Easy Mac VPN Setup Guide: Secure Your Connection with Simple Steps</u></a></li>
+<li><a href="https://win-blog.techidaily.com/experts-disclose-secrets-to-resolving-star-wars-squadrons-gameplay-interruptions/"><u>Experts Disclose Secrets to Resolving STAR WARS Squadrons Gameplay Interruptions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/find-the-latest-windows-compatible-drivers-to-support-your-hp-deskjet-2755e/"><u>Find the Latest Windows Compatible Drivers to Support Your HP DeskJet 2755E</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/first-steps-in-the-ai-world-engage-with-our-top-9-communities/"><u>First Steps in the AI World: Engage With Our Top 9 Communities</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/how-do-i-make-my-video-perfectly-fit-instagram-in-2024/"><u>How Do I Make My Video Perfectly Fit Instagram, In 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-obtain-and-install-dell-network-adapter-software-on-windows-n7/"><u>How to Obtain and Install Dell Network Adapter Software on Windows N7</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-advanced-systems-for-tracking-human-manoeuvres/"><u>In 2024, Advanced Systems for Tracking Human Manoeuvres</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-apple-iphone-13-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on Apple iPhone 13</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-epson-xp-430-printer-drivers-a-step-by-step-guide-for-windows/"><u>Install Epson XP-430 Printer Drivers: A Step-by-Step Guide for Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-guide-compatible-logitech-driving-force-gt-controller-on-windows-operating-systems-7-11/"><u>Install Guide: Compatible Logitech Driving Force GT Controller on Windows Operating Systems (7-11)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intel-iris-xe-drivers-for-windows-11-fast-download-and-installation-guide/"><u>Intel Iris Xe Drivers for Windows 11: Fast Download and Installation Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mp4-video-repair-tool-repair-corrupt-damaged-unplayable-video-files-of-honor-by-stellar-video-repair-mobile-video-repair/"><u>MP4 Video Repair Tool - Repair corrupt, damaged, unplayable video files of Honor</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-made-easy-updating-standard-sata-and-ahci-controllers/"><u>Troubleshooting Made Easy: Updating Standard SATA and AHCI Controllers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-amd-rx-480-gpu-drivers-with-these-simple-steps/"><u>Update Your AMD RX 480 GPU Drivers with These Simple Steps</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-the-cream-of-the-crop-top-android-apps-on-google-play-for-2024/"><u>Updated The Cream of the Crop Top Android Apps on Google Play for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

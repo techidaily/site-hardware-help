@@ -1,7 +1,7 @@
 ---
 title: TeamGeek Dual Screen Laptop Accessory Sale - Cut Costs by $120 | ZDNet Exclusive!
-date: 2024-11-13T03:51:21.128Z
-updated: 2024-11-15T20:22:50.877Z
+date: 2024-11-20T16:15:12.153Z
+updated: 2024-11-25T16:36:33.510Z
 tags:
   - laptops
 categories:
@@ -37,6 +37,10 @@ This laptop isn't solely for business professionals. Everybody can enjoy the dev
 
 Right now is the best time to buy this device. The [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C33d8b115-5353-48ee-93ba-d7db0255209a%7Cdtp&dtb=1) is currently on sale at Amazon for $1,500\. That is almost $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C33d8b115-5353-48ee-93ba-d7db0255209a%7Cdtp&dtb=1) is much more expensive, but I recommend it as an alternative if you can afford it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When will this deal expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on this deal, but don't fret -- we're constantly finding new chances to score savings and sharing them with you at ZDNET.com. 
@@ -71,37 +75,19 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-downloading-twitters-animated-content-simplified-for-2024/"><u>[New] Downloading Twitter's Animated Content Simplified for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-lenovo-thunderbolt-3-dock-drivers/"><u>[UPDATE] Lenovo Thunderbolt 3 Dock Drivers</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-locking-out-youtube-channels-on-computers-and-phones/"><u>2024 Approved Locking Out Youtube Channels on Computers and Phones</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/adjustment-of-corticosteroid-therapy-with-careful-assessment-to-reduce-their-use-balancing-anti-inflammatory-needs-and-minimizing-immunosuppression/"><u>Adjustment of Corticosteroid Therapy with Careful Assessment to Reduce Their Use, Balancing Anti-Inflammatory Needs and Minimizing Immunosuppression.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/asus-notebook-drivers-free-download-and-update-instructions/"><u>ASUS Notebook Drivers: Free Download and Update Instructions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-sony-vaio-driver-software-for-your-windows-pc/"><u>Download & Install Sony Vaio Driver Software for Your Windows PC</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-installation-guide-download-your-usb-camera-drivers-today/"><u>Easy Installation Guide: Download Your USB Camera Drivers Today!</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/expertise-unlocked-the-definitive-tutorial-on-using-toshibas-recovery-disk-creator/"><u>Expertise Unlocked: The Definitive Tutorial on Using Toshiba's Recovery Disk Creator</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-capabilities-of-next-gen-llama-technology/"><u>Exploring the Capabilities of Next-Gen Llama Technology</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-qualcomm-atheros-ar3011-drivers-download-bluetooth-30-support/"><u>Free Qualcomm Atheros AR3011 Drivers - Download Bluetooth 3.0 Support</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-samsung-960-evo-drive-software-for-windows-installation-instructions/"><u>Get the Latest Samsung 960 EVO Drive Software for Windows: Installation Instructions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-hp-officejet-pro-e8715-driver-for-windows-11108-free-download-now/"><u>Get Your HP OfficeJet Pro E8715 Driver for Windows 11/10/8 - Free Download Now!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-gionee-f3-pro-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Gionee F3 Pro to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Infinix Smart 7 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Samsung Galaxy A54 5G? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-sas-driver-updates-available-for-windows-11-8-and-7-systems/"><u>Latest SAS Driver Updates Available for Windows 11, 8, and 7 Systems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/not-just-a-phase-disproving-global-cooling-claims/"><u>Not Just a Phase: Disproving Global Cooling Claims</u></a></li>
-<li><a href="https://article-tips.techidaily.com/rhythmic-reflections-in-photo-cinema-for-2024/"><u>Rhythmic Reflections in Photo Cinema for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-the-mp3-to-mp4-conversion-workflow-a-comprehensive-2023-update/"><u>Updated 2024 Approved The MP3-to-MP4 Conversion Workflow A Comprehensive 2023 Update</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-cutting-edge-cloud-notes-with-mematic/"><u>[New] 2024 Approved Cutting-Edge Cloud Notes with Mematic</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-secrets-to-capturing-your-iphone-7-screen/"><u>[New] 2024 Approved Secrets to Capturing Your iPhone 7 Screen</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-improving-remote-work-communications-with-4-strategies/"><u>[New] Improving Remote Work Communications with #4 Strategies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-box-tastic-finds-discover-the-best-sites-for-boxes-at-steals/"><u>2024 Approved Box-Tastic Finds! Discover the Best Sites for Boxes at Steals</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-flashing-lights-of-olympic-speed/"><u>2024 Approved Flashing Lights of Olympic Speed</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/a-step-by-step-path-to-authentic-selfie-verification-on-ig-for-2024/"><u>A Step-by-Step Path to Authentic Selfie Verification on IG for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-amd-radeon-hd-graphics-driver-for-windows-7-latest-version-available/"><u>Download AMD Radeon HD Graphics Driver for Windows 7 – Latest Version Available</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722960475045-effortless-installation-fresh-surface-book-2-drivers-at-your-fingertips/"><u>Effortless Installation: Fresh Surface Book 2 Drivers at Your Fingertips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fast-and-simple-guide-to-downloading-hp-officejet-5740-drivers/"><u>Fast & Simple Guide to Downloading HP OfficeJet 5740 Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-color-laserjet-pro-mfp-m477-downloading-the-correct-printer-drivers/"><u>HP Color LaserJet Pro MFP M477: Downloading the Correct Printer Drivers</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-iphone-14-pro-max-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My iPhone 14 Pro Max when Phone is Broken?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/maximize-your-lenovo-thinkpad-performance-with-thunderbolt-3-expansion-card-installation/"><u>Maximize Your Lenovo ThinkPad Performance with Thunderbolt 3 Expansion Card Installation</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/uniting-creative-minds-a-guide-to-selecting-youtube-pairings-for-2024/"><u>Uniting Creative Minds A Guide to Selecting YouTube Pairings for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

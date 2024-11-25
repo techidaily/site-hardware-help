@@ -1,7 +1,7 @@
 ---
 title: Save Big with Premium Applesauce Deals - Get Your Hands on the Latest IPhones, Apple Watches, and More for Less | ZDNET
-date: 2024-11-12T20:21:51.969Z
-updated: 2024-11-15T23:23:44.172Z
+date: 2024-11-19T16:02:42.522Z
+updated: 2024-11-25T16:09:10.442Z
 tags:
   - laptops
 categories:
@@ -125,6 +125,10 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple%2Fnew-ipad-pro-m4%2Fpcmcat1715092665904.c%3Fid%3Dpcmcat1715092665904&publisher_slug=itechdaily19598&exclusive=1) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  More Apple deals
 
 [Walmart: Save up to $1,200 on the new iPhone 15 series View now at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fcol%2Fnew-iphone&subId1=zd-__COM_CLICK_ID__-dtp)
@@ -157,6 +161,10 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [Discounts for students, teachers, educators at Apple View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fus-edu%2Fstore&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple accessory deals
 
 [Apple Pencil (1st-gen) deal for $79 (save $20) $79 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Pencil-1st-Generation-Adapter%2Fdp%2FB0BJLG69QR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C66a5fe7a-c555-45ca-bd36-3308ffd7141c%7Cdtp&dtb=1)
@@ -172,16 +180,7 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 [Apple Lightning to 3.5 mm headphone jack adapter deal for $8 (save $2) $8 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Lightning-to-3-5-mm-Headphone-Jack-Adapter%2F54738078%3Fathbdg%3DL1103&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can I buy an iPhone without a plan?
@@ -189,28 +188,22 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 Yes, but you must ensure that your new iPhone is not locked to a specific carrier. You can buy unlocked iPhones, both new and pre-owned, from sources including Apple itself, Amazon, Best Buy, and Walmart.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the cheapest Apple product?
 
 Apple's AirTag, a tracking device that connects to your account and allows you to find lost objects such as your keys, is Apple's cheapest product. Typically, a single AirTag retails for $29, whereas you can also purchase four-packs for around $99 outside of sales and promotions. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is there a monthly fee for Apple iPads?
 
 This depends on the type of iPad you decide to purchase. If you opt for a Wi-Fi-only iPad -- regardless of whether you have bought a classic iPad, iPad mini, or iPad Pro -- then there will be no monthly fee or subscription. 
 
 However, if you choose an iPad with Wi-Fi and cellular connectivity, then you will need to pay for a mobile data plan to take advantage of the iPad's cellular features. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How did we choose these Apple deals?
 
@@ -245,13 +238,6 @@ ZDNET has been scouring the sale to find the best deals by category:
 * [The best iPhone deals](https://www.zdnet.com/article/iphone-deals/)
 * [The best TV deals](https://www.zdnet.com/home-and-office/home-entertainment/tv-deals/)
 * [The best deals under $30](https://www.zdnet.com/home-and-office/deals-under-30/)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## When will these deals expire?
 
@@ -297,18 +283,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-ultimate-list-top-8-fb-movies-to-download-in-23-for-2024/"><u>[New] Ultimate List Top 8 FB Movies to Download in '23 for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-accelerated-conversion-of-yt-content-for-mac-screens/"><u>[Updated] In 2024, Accelerated Conversion of YT Content for MAC Screens</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/complete-guide-finding-and-installing-official-toshiba-drivers-for-your-windows-operating-system/"><u>Complete Guide: Finding and Installing Official Toshiba Drivers for Your Windows Operating System</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-the-mechanics-a-look-at-7-popular-gpt-integration-tools/"><u>Decoding the Mechanics: A Look at 7 Popular GPT-([Integration]) Tools</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/efficient-downloads-of-lenovo-x1-carbon-drivers-perfect-for-windows-107-systems-a-step-by-step-tutorial/"><u>Efficient Downloads of Lenovo X1 Carbon Drivers - Perfect for Windows 10/7 Systems: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-logitech-c525-hd-camera-drivers-for-pc-ultimate-guide-and-download/"><u>Free Logitech C525 HD Camera Drivers for PC: Ultimate Guide and Download</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-nvidia-geforce-940mx-graphics-card-driver/"><u>Get the Latest Nvidia GeForce 940MX Graphics Card Driver</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-in-depth-analysis-kinemaster-app-transform-your-gaming-world/"><u>In 2024, In-Depth Analysis KineMaster App - Transform Your Gaming World</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/logitech-g35-headset-software-easy-installation-guide-for-windows-7-10-users/"><u>Logitech G35 Headset Software: Easy Installation Guide for Windows 7-10 Users</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/professional-sticker-cleansing-for-videos-for-2024/"><u>Professional Sticker Cleansing for Videos for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-to-install-wacom-intuos-pro-on-windows-nt-easily/"><u>Step-by-Step Tutorial to Install Wacom Intuos Pro on Windows nT Easily</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-top-notch-gadgets-and-pcs-with-toms-detailed-reviews/"><u>Unveiling Top-Notch Gadgets & PCs with Tom’s Detailed Reviews</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-advanced-editing-eliminating-audio-tracks-in-imovie-productions/"><u>Updated 2024 Approved Advanced Editing Eliminating Audio Tracks in iMovie Productions</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-step-by-step-reposting-on-instagram-for-2024/"><u>[New] Step-by-Step Reposting on Instagram for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-oneplus-open-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://discover-data.techidaily.com/comment-reinitialiser-correctement-windows-11-sans-risquer-de-perte-de-vos-progiciels-et-donnees/"><u>Comment Réinitialiser Correctement Windows 11 Sans Risquer De Perte De Vos Progiciels Et Données</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-canon-mx492-printer-drivers-for-windows-complete-guide/"><u>Download & Update: Canon MX492 Printer Drivers for Windows - Complete Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-logitech-gaming-wheel-drivers-compatible-with-win-10-win-11-and-win-7/"><u>Download Logitech Gaming Wheel Drivers - Compatible with Win 10, Win 11 & Win 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-guide-to-downloading-and-updating-your-lenovo-display-driver/"><u>Easy Guide to Downloading & Updating Your Lenovo Display Driver</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-instructions-get-the-newest-usb-bluetooth-adapter-software-on-windows/"><u>Easy Instructions: Get the Newest USB Bluetooth Adapter Software on Windows</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-realme-12-pro-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Realme 12 Pro 5G Quickly | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/icloud-and-whatsapp-ensuring-seamless-data-backup-on-ios-devices/"><u>ICloud and WhatsApp: Ensuring Seamless Data Backup on iOS Devices</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-quick-mac-screenshot-methods-a-comprehensive-list/"><u>In 2024, Quick Mac Screenshot Methods A Comprehensive List</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-official-hp-laserjet-p1102w-drivers-on-your-pc-running-windows-111087/"><u>Install Official HP LaserJet P1102w Drivers on Your PC Running Windows 11/10/8/7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-updates-get-nvidia-quadro-rtx-ebx-driver-for-win-11-8-and-7-systems/"><u>Latest Updates: Get NVIDIA Quadro RTX Ebx Driver for Win 11, 8 and 7 Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-downloading-and-setting-up-magic-mouse-for-windows-users/"><u>Step-by-Step Guide to Downloading and Setting Up Magic Mouse for Windows Users</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/the-ultimate-guide-how-to-convert-dvd-movies-into-digital-files-on-your-computer/"><u>The Ultimate Guide: How to Convert DVD Movies Into Digital Files on Your Computer</u></a></li>
+<li><a href="https://fox-that.techidaily.com/turbocharge-your-iphones-safari-browser-top-4-tips-for-better-performance/"><u>Turbocharge Your iPhone's Safari Browser - Top 4 Tips for Better Performance!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-pc-how-to-secure-the-newest-sound-blaster-z-driver-for-windows-11/"><u>Update Your PC: How To Secure The Newest Sound Blaster Z Driver for Windows 11</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/vuephoto-masterclass-and-evaluation/"><u>VuePhoto Masterclass and Evaluation</u></a></li>
 </ul></div>
 

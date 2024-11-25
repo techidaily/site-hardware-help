@@ -1,7 +1,7 @@
 ---
 title: Highlights and Breakthroughs of CES 2Eblog_idkDay One | Gizmodo
-date: 2024-11-10T21:25:34.805Z
-updated: 2024-11-15T23:04:26.591Z
+date: 2024-11-24T16:04:23.969Z
+updated: 2024-11-25T16:17:55.424Z
 tags:
   - laptops
 categories:
@@ -28,6 +28,10 @@ Over the past 12 months, this relentless pursuit of technological innovation has
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. On-device AI will be a win for everyone
 
 June Wan/ZDNET
@@ -43,10 +47,7 @@ Running AI applications locally yields four major advantages: 1) All information
 "The idle power consumption of a single fully populated AI-accelerated server can approach one kilowatt of power while the peak power consumption can approach several kilowatts of power. This number multiplies by the number of servers required to run a generative AI model and the number of times a model is run, which is increasing exponentially," says Jim McGregor, Principal Analyst at [TIRIAS Research](https://www.tiriasresearch.com/). On-device AI solves this problem by keeping most, if not all, of the friction within our devices -- which will be plenty capable come next year.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Generative AI for professional workflows
@@ -62,10 +63,7 @@ Some tools include [Wix's AI Site Generator](https://www.zdnet.com/article/this-
 Such workloads, especially as companies fine-tune these large language models, often require pushing the GPUs (graphics processing units) and RAM in computers and servers to the max, setting a precedent for an AI arms race between the world's largest semiconductor companies -- Intel, AMD, Nvidia, and Qualcomm included. Expect more "for AI" computers, chipsets, and fancy comparison charts in 2024.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Wireless TVs take cord-cutting to the extreme
@@ -83,10 +81,7 @@ Naturally, one of the big questions with wireless TVs is how latency factors int
 That said, wireless TVs are certainly not priced for the mainstream; the Displace TV lists for $4,499, and the LG OLED M will run you upwards of $35,000\. But for your closest look at a future without cords and cables dangling off walls, this may well be the best place to start.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. A Copilot for every PC user
@@ -102,10 +97,7 @@ The vision was straightforward; with a single click from the taskbar, more than 
 At the base level, Copilot on Windows 11 can save users dozens of clicks every day, now that the AI assistant can help navigate those sophisticated location paths to tweak display resolutions, set dark theme timers, and do other mundane tasks. For businesses and enterprises, Copilot will be capable of [tackling cybersecurity threats](https://www.zdnet.com/article/boosting-cybersecurity-microsofts-ai-driven-security-copilot-unveiled-at-ignite-2023/), from risk identification with machine learning algorithms to automated response mechanisms for near-instant defense.
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Pinching the air will become normal
@@ -150,22 +142,18 @@ The big question with pinching is how multidimensional such a basic gesture can 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-harnessing-the-power-of-software-for-seamless-vimeo-video-downloads/"><u>[New] In 2024, Harnessing the Power of Software for Seamless Vimeo Video Downloads</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/recision-cuts-at-a-touch-select-the-best-short-form-editors/"><u>[New] Precision Cuts at a Touch Select the Best Short Form Editors</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-the-art-of-video-thumbnail-making-for-popular-content/"><u>[Updated] In 2024, The Art of Video Thumbnail Making for Popular Content</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/brother-scanner-driver-upgrades-fresh-release-for-optimal-windows-performance/"><u>Brother Scanner Driver Upgrades – Fresh Release for Optimal Windows Performance</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/fixing-connection-problems-resolving-ralink-rt3290-wifi-driver-woes-on-windows-11-8-and-nvda/"><u>Fixing Connection Problems: Resolving Ralink RT3290 WiFi Driver Woes on Windows 11, 8 & Nvda</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/fixing-windows-11-bluetooth-connectivity-problems-solutions/"><u>Fixing Windows 11 Bluetooth Connectivity Problems - Solutions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-logitech-sound-card-drivers-now-supported-by-win11-and-earlier-versions/"><u>Get Logitech Sound Card Drivers Now - Supported by Win11 and Earlier Versions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-nokia-xr21-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Nokia XR21</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-laserjet-pro-mfp-m12-fn-step-by-step-guide-to-download-and-install-drivers/"><u>HP LaserJet Pro MFP M12^ FN: Step-by-Step Guide to Download and Install Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-hp-officejet-4650-drivers-and-support-for-windows-computers-free-downloads/"><u>Latest HP OfficeJet 4650 Drivers & Support for Windows Computers - Free Downloads</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-optimization-elite-fixes-for-improving-frames-per-second-fps-in-escape-from-tarkov/"><u>Mastering Optimization: Elite Fixes for Improving Frames Per Second (FPS) in Escape From Tarkov</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-top-rated-free-dvd-players-for-windows-10-the-ultimate-guide/"><u>New In 2024, Top-Rated Free DVD Players for Windows 10 The Ultimate Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/resolved-tp-wn722n-wifi-adapter-unrecognized-on-windows-systems/"><u>Resolved: TP-WN722N WiFi Adapter Unrecognized on Windows Systems</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/revving-through-ruins-a-motorcyclists-review-of-the-zombie-world-in-days-gone/"><u>Revving Through Ruins: A Motorcyclist's Review of the Zombie World in 'Days Gone'</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-zte-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track ZTE Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-to-the-latest-drivers-for-your-geforce-rtx-1660-super-gpu/"><u>Update to the Latest Drivers for Your GeForce RTX 1660 Super GPU</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/visionary-sites-showcasing-immersive-3d-and-glossy-text/"><u>Visionary Sites Showcasing Immersive 3D and Glossy Text</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-maximizing-profile-visibility-in-snapchat-spotlights/"><u>[Updated] 2024 Approved Maximizing Profile Visibility in Snapchat Spotlights</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-echoes-in-images-selfie-with-your-x-phone/"><u>2024 Approved Echoes in Images Selfie with Your X Phone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-setup-with-the-latest-epson-wf-2750-printer-drivers-download-today/"><u>Easy Setup with the Latest Epson WF-2750 Printer Drivers - Download Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effective-solutions-for-common-errors-in-pci-secure-transaction-controller-handling/"><u>Effective Solutions for Common Errors in PCI Secure Transaction Controller Handling</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-pc-gaming-experience-get-the-latest-nvidia-driver/"><u>Enhance Your PC Gaming Experience: Get the Latest Nvidia Driver</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-amd-ati-radeon-hd-3450-driver-software-instantly/"><u>Get the Newest AMD ATI Radeon HD 3450 Driver Software Instantly</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-mastering-tiktok-with-its-top-7-emojis-a-beginners-handbook/"><u>In 2024, Mastering TikTok with Its Top 7 Emojis A Beginner's Handbook</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-driver-updates-solve-your-startech-device-issues-in-windows-11-8-or-7/"><u>Mastering Driver Updates: Solve Your StarTech Device Issues in Windows 11, 8 or 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/optimize-your-workspace-with-easy-driver-updates-for-microsofts-sculpt-ergonomic-keyboard/"><u>Optimize Your Workspace With Easy Driver Updates for Microsoft's Sculpt Ergonomic Keyboard</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/1728473544310-pst/"><u>PSTファイルにおける効果的なデータ増分バックアップ手順</u></a></li>
+<li><a href="https://blog-min.techidaily.com/the-ultimate-guide-transforming-your-blu-ray-collection-into-crystal-clear-mp4-videos-in-6-easy-steps/"><u>The Ultimate Guide: Transforming Your Blu-Ray Collection Into Crystal Clear MP4 Videos in 6 Easy Steps</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/tt560-review-fast-dependable-lighting-at-your-fingertips/"><u>TT560 Review: Fast, Dependable Lighting at Your Fingertips</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/unleash-the-power-of-reverse-how-to-edit-tiktok-videos-like-a-pro-for-2024/"><u>Unleash the Power of Reverse How to Edit TikTok Videos Like a Pro for 2024</u></a></li>
 </ul></div>
 

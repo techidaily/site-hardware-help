@@ -1,7 +1,7 @@
 ---
 title: Dolphins' Social Learning Capabilities and Their Ability to Understand Abstract Concepts Such as Mirror Self-Recognition.
-date: 2024-11-14T02:45:45.374Z
-updated: 2024-11-16T00:04:08.841Z
+date: 2024-11-24T16:35:20.384Z
+updated: 2024-11-25T16:20:31.556Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Cesar Cadenas/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -79,10 +83,7 @@ I also need to mention a couple of things that may be dealbreakers for you. Firs
 Also, be aware the IdeaPad Pro 5i comes with a bunch of bloatware. The laptop's 1TB of storage is more like 880GB, if you take into account all the apps Lenovo preinstalled.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -92,16 +93,7 @@ Also, be aware the IdeaPad Pro 5i comes with a bunch of bloatware. The laptop's 
 If you're looking for a less expensive 16-inch laptop, [Lenovo's Yoga 7i](https://www.zdnet.com/article/this-699-lenovo-laptop-made-me-a-believer-in-the-2-in-1-form-factor-and-its-on-sale-for-memorial-day/) is several hundred dollars cheaper, although you're trading in the impressive OLED screen for one that's much more low-key. If you want an OLED laptop in a slightly less expensive package, check out the [Acer Swift X 14](https://www.zdnet.com/article/i-tested-acers-swift-x-laptop-and-its-performance-surprised-me-in-3-ways/). 
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -148,17 +140,21 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-to-affordable-innovative-ae-templates/"><u>2024 Approved The Ultimate Guide to Affordable, Innovative AE Templates</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-setup-asus-pcb-control-software-for-windows/"><u>Download & Setup ASUS PCB Control Software for Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-nvme-drivers-installed-in-windows-a-comprehensive-guide/"><u>Get the Latest NVMe Drivers Installed in Windows - A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-seamlessly-get-and-improve-the-elan-smbus-driver-on-your-windows-pc/"><u>How to Seamlessly Get and Improve the ELAN SMBus Driver on Your Windows PC</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Apple iPhone 13 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-transform-canon-photos-gratuitous-fundamentals-plus-optional-lut-expansion/"><u>In 2024, Transform Canon Photos Gratuitous Fundamentals + Optional LUT Expansion</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlock-full-potential-mac-plus-obs-plus-streamlabs/"><u>In 2024, Unlock Full Potential Mac + OBS + Streamlabs</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/master-of-catchphrase-design-for-2024/"><u>Master of Catchphrase Design for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/master-the-art-of-mpeg-restoration-top-techniques-for-video-recovery-success/"><u>Master the Art of MPEG Restoration - Top Techniques for Video Recovery Success</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/seamless-connectivity-a-step-by-step-tutorial-for-your-surface-dock-driver-installation/"><u>Seamless Connectivity: A Step-by-Step Tutorial for Your Surface Dock Driver Installation</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/speedy-troubleshooting-guide-for-logitech-c615-connection-issues/"><u>Speedy Troubleshooting Guide for Logitech C615 Connection Issues</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-the-power-of-stories-in-youtube-expansion/"><u>[New] In 2024, The Power of Stories in YouTube Expansion</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-ranking-the-top-12-streamlined-screen-swivel-cams-for-content/"><u>[Updated] In 2024, Ranking the Top 12 Streamlined Screen-Swivel Cams for Content</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-ultimate-screenrecorder-comprehensive-step-by-step-guide-for-2024/"><u>[Updated] Ultimate ScreenRecorder Comprehensive, Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-maximizing-roi-with-targeted-market-research-strategies/"><u>2024 Approved Maximizing ROI with Targeted Market Research Strategies</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-adobe-premiere-pro-extensions-free-and-essential-downloads/"><u>Best Adobe Premiere Pro Extensions Free and Essential Downloads</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-amd-rx-480-gpu-drivers-with-simplicity/"><u>Download and Update AMD RX 480 GPU Drivers with Simplicity</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-new-magicard-rio-pro-driver-now-compatible-with-windows-10817/"><u>Download the New Magicard Rio Pro Driver Now - Compatible with Windows 10/8.1/7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-find-and-install-the-best-audio-drivers-for-windows-7/"><u>How to Find and Install the Best Audio Drivers for Windows 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-install-up-to-date-drivers-for-your-canon-mg3022-printer/"><u>How to Install Up-to-Date Drivers for Your Canon MG3022 Printer</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-realme-c53-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Realme C53? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-asus-pce-ac68-wifi-driver-downloads-available/"><u>Latest ASUS PCE-AC68 WiFi Driver Downloads Available</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-installing-latest-arduino-usb-drivers-for-windows-users/"><u>Step-by-Step Guide: Installing Latest Arduino USB Drivers for Windows Users</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-to-reducing-frame-drops-and-lag-in-dota-2/"><u>Ultimate Guide to Reducing Frame Drops and Lag in Dota 2</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-pc-with-the-latest-amd-radeon-pro-w5700-drivers-windows-11-10-and-7-support/"><u>Update Your PC with the Latest AMD Radeon Pro W5700 Drivers (Windows 11, 10 & 7 Support)</u></a></li>
 </ul></div>
 

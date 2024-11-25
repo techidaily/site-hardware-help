@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Secrets of Innovation: A Close Look at the Hidden Features and Covert TrackPoint Function on Ultraportable Lenovo Laptops | GadgetGenius"
-date: 2024-11-10T21:59:01.739Z
-updated: 2024-11-15T22:09:37.561Z
+date: 2024-11-21T16:14:42.105Z
+updated: 2024-11-25T16:01:56.329Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Cesar Cadenas/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -73,10 +77,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -115,21 +116,16 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-activate-windows-xp-movie-creation-toolkit/"><u>[New] Activate Windows XP Movie Creation Toolkit</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-craft-professional-text-the-best-affects-extensions-revealed/"><u>[New] Craft Professional Text The Best Affects Extensions Revealed</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-ipad-based-time-lapse-videos/"><u>[Updated] 2024 Approved The Ultimate Guide to iPad-Based Time-Lapse Videos</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-integrated-guide-for-mobile-and-pc-session-records-for-2024/"><u>[Updated] Integrated Guide for Mobile & PC Session Records for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722976333497-canon-pro-100-printer-drivers-for-windows-easy-installation-guide/"><u>Canon PRO 100 Printer Drivers for Windows: Easy Installation Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-hp-laserjet-1018-printer-drivers-and-software-free-guide/"><u>Download HP LaserJet 1018 Printer Drivers & Software - FREE Guide</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/effortless-ps4-saves-transfer-two-cost-free-strategies-for-using-an-exterior-hard-disk/"><u>Effortless PS4 Saves Transfer: Two Cost-Free Strategies for Using an Exterior Hard Disk</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Infinix Note 30i? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quickly-get-the-latest-sound-driver-version-installed/"><u>Quickly Get the Latest Sound Driver Version Installed</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/satellite-savior-uncover-4-reasons-why-starlink-beats-the-rest/"><u>Satellite Savior? Uncover 4 Reasons Why Starlink Beats the Rest</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722956247693-someone-will-have-their-rights-violated/"><u>Someone Will Have Their Rights Violated</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-instructions-download-and-set-up-your-new-epson-xp-400-printing-software/"><u>Step-by-Step Instructions: Download and Set Up Your New Epson XP-400 Printing Software</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-fresh-wi-fi-driver-installation-on-windows-7-machines/"><u>Step-by-Step Tutorial: Fresh Wi-Fi Driver Installation on Windows 7 Machines</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210418609-9781956896282-the-game-of-lovelife/"><u>The Game of Love/Life | Free Book</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshoot-and-reinstall-ralink-drivers-a-complete-walkthrough-for-windows-systems/"><u>Troubleshoot and Reinstall Ralink Drivers: A Complete Walkthrough for Windows Systems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-pixel-buds-pro-2-get-the-lowdown-on-release-date-price-forecast-features-and-rumors/"><u>Unveiling Pixel Buds Pro 2? Get the Lowdown on Release Date, Price Forecast, Features & Rumors.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-and-fast-new-version-of-vga-drivers-free-download-for-optimal-performance/"><u>[Latest & Fast] New Version of VGA Drivers - Free Download for Optimal Performance</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-innovative-practices-in-creating-powerful-youtube-summaries/"><u>[New] Innovative Practices in Creating Powerful YouTube Summaries</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-visual-storytelling-with-vsco-a-complete-guide/"><u>[Updated] 2024 Approved Visual Storytelling with VSCO A Complete Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-a-tale-of-two-approaches-polite-vs-aggressive-asking/"><u>[Updated] A Tale of Two Approaches Polite vs Aggressive Asking</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-step-by-step-perfectly-sharing-your-photography-on-youtube/"><u>[Updated] Step-by-Step Perfectly Sharing Your Photography on YouTube</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-spinning-stars-olympic-ice-celebrations/"><u>2024 Approved Spinning Stars Olympic Ice Celebrations</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-msi-speakers-and-headphones-up-to-date-with-new-drivers-windows/"><u>Get Your MSI Speakers & Headphones Up-to-Date with New Drivers [Windows]</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-poco-c55-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Poco C55 to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-updated-geforce-rtx-2070-graphics-card-drivers-on-windows-systems/"><u>Installing Updated GeForce RTX 2070 Graphics Card Drivers on Windows Systems</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/prime-selections-cutting-edge-iphone-tune-makers-for-2024/"><u>Prime Selections Cutting-Edge iPhone Tune Makers for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-start-how-to-find-and-install-the-right-toshiba-printer-drivers-on-windows-systems/"><u>Quick Start: How to Find & Install the Right Toshiba Printer Drivers on Windows Systems</u></a></li>
 </ul></div>
 

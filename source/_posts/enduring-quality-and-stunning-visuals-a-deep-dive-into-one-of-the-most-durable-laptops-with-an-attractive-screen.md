@@ -1,7 +1,7 @@
 ---
 title: "Enduring Quality and Stunning Visuals: A Deep Dive Into One of the Most Durable Laptops with an Attractive Screen"
-date: 2024-11-09T05:14:29.670Z
-updated: 2024-11-16T06:09:51.919Z
+date: 2024-11-20T16:36:18.887Z
+updated: 2024-11-25T16:11:18.732Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Cesar Cadenas/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -79,16 +83,7 @@ I also need to mention a couple of things that may be dealbreakers for you. Firs
 Also, be aware the IdeaPad Pro 5i comes with a bunch of bloatware. The laptop's 1TB of storage is more like 880GB, if you take into account all the apps Lenovo preinstalled.
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -98,16 +93,7 @@ Also, be aware the IdeaPad Pro 5i comes with a bunch of bloatware. The laptop's 
 If you're looking for a less expensive 16-inch laptop, [Lenovo's Yoga 7i](https://www.zdnet.com/article/this-699-lenovo-laptop-made-me-a-believer-in-the-2-in-1-form-factor-and-its-on-sale-for-memorial-day/) is several hundred dollars cheaper, although you're trading in the impressive OLED screen for one that's much more low-key. If you want an OLED laptop in a slightly less expensive package, check out the [Acer Swift X 14](https://www.zdnet.com/article/i-tested-acers-swift-x-laptop-and-its-performance-surprised-me-in-3-ways/). 
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -154,22 +140,14 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-accelerated-attention-on-instagram-the-like-video-method/"><u>[New] 2024 Approved Accelerated Attention on Instagram - The Like-Video Method</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-cross-play-away-in-apex-legends-optimal-platform-selection-and-disabling-for-2024/"><u>[Updated] Cross-Play Away in Apex Legends Optimal Platform Selection & Disabling for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-keep-it-steady-photo-and-video-clarity/"><u>[Updated] Keep It Steady Photo & Video Clarity</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/a-comprehensible-approach-uploading-snapchat-images-offline-for-2024/"><u>A Comprehensible Approach Uploading Snapchat Images Offline for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/android-time-lapse-perfection-secrets-revealed/"><u>Android Time-Lapse Perfection Secrets Revealed</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/direct-link-to-nvidia-rtx-3080-graphics-card-driver-compatible-with-windows-versions/"><u>Direct Link to NVIDIA RTX 3080 Graphics Card Driver - Compatible with Windows Versions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722976034149-effortless-installation-of-nahimic-audio-drivers-latest-update/"><u>Effortless Installation of Nahimic Audio Drivers - Latest Update!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722965669166-effortlessly-update-your-windows-device-with-the-latest-synaptics-drivers-heres-how/"><u>Effortlessly Update Your Windows Device with the Latest Synaptics Drivers – Here's How!</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/-the-world-of-online-promotion-exclusive-free-youtube-banner-access-in-2024/"><u>Enter the World of Online Promotion Exclusive Free YouTube Banner Access, In 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/find-and-install-the-latest-update-brother-hl-l2300d-printer-drivers-now-available/"><u>Find & Install the Latest Update: Brother HL-L2300D Printer Drivers Now Available</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-rtx-2nvidia-2060-super-drivers-compatible-with-both-windows-10-and-11-free-download/"><u>Get the Newest RTX 2Nvidia 2060 Super Drivers: Compatible with Both Windows 10 and 11 - FREE Download</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-hands-on-the-latest-hp-deskjet-2755e-driver-for-windows-systems-download-now/"><u>Get Your Hands on the Latest HP DeskJet 2755E Driver for Windows Systems (Download Now)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722973431047-get-your-windows-pc-optimized-with-amds-newest-chip-drivers/"><u>Get Your Windows PC Optimized with AMD's Newest Chip Drivers</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/in-2024-unleash-your-creativity-top-free-video-makers-users/"><u>In 2024, Unleash Your Creativity Top Free Video Makers Users</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/right-orientation-fix-in-win7-mode/"><u>Right Orientation Fix in Win7 Mode</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-for-downloading-and-updating-synaptics-device-drivers-in-windows/"><u>Step-by-Step Tutorial for Downloading and Updating Synaptics Device Drivers in Windows</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/windows-11-media-player-free-download-exclusive-insider-secrets-unveiled/"><u>Windows 11 Media Player Free Download - Exclusive Insider Secrets Unveiled</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-enhancing-googles-speech-to-text-capabilities-effectively/"><u>[Updated] Enhancing Google's Speech-to-Text Capabilities Effectively</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamline-your-slide-show-enable-voice-input-with-powerpoint/"><u>2024 Approved Streamline Your Slide Show Enable Voice Input with PowerPoint</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asus-wifi-driver-downloading-guide-for-improved-connectivity/"><u>ASUS Wifi Driver Downloading Guide for Improved Connectivity</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/auras-visionary-digital-frames-reviewing-the-future/"><u>Aura's Visionary Digital Frames - Reviewing the Future</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-installation-guide-intel-ac-7260-dual-band-wifi-card-driver-download/"><u>Effortless Installation Guide: Intel AC 7260 Dual Band WiFi Card Driver Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-epson-v700-printing-software-for-windows-os-versions-7-to-10/"><u>Get the Latest Epson V700 Printing Software for Windows OS Versions 7 to 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-logitech-g510-working-on-any-pc-driver-downloads-for-win-7-10/"><u>Get Your Logitech G510 Working on Any PC – Driver Downloads for Win 7-10</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-asus-rog-phone-8-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Asus ROG Phone 8 Location | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-visual-vault-verifier/"><u>In 2024, Visual Vault Verifier</u></a></li>
 </ul></div>
 

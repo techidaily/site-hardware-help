@@ -1,7 +1,7 @@
 ---
 title: $255 Chromebook Steals at October's Prime Day - Unbelievable Discount Revealed !
-date: 2024-11-12T18:40:57.740Z
-updated: 2024-11-15T23:17:05.800Z
+date: 2024-11-24T16:40:04.735Z
+updated: 2024-11-25T16:41:03.453Z
 tags:
   - laptops
 categories:
@@ -65,6 +65,10 @@ Things like online content creation, streaming movies and TV shows, and attendin
 
 The portability of the Flex 3i is the cherry on top. Compared to the [16-inch MacBook Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-Laptop-12%E2%80%91core-19%E2%80%91core%2Fdp%2FB0BSHF7LLL%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6a23d446-4280-491c-a75d-db3a607ff2eb%7Cdtp&dtb=1) that I usually lug around, the Lenovo weighs less than three pounds and it's as backpack-friendly as laptops come.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 For $349, I challenge you to find a laptop with more functionality and benefits than the [Lenovo Flex 3i Chromebook](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-3i-Chromebook-Everyday-Notebook%2Fdp%2FB0BSJ46KY9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6a23d446-4280-491c-a75d-db3a607ff2eb%7Cdtp&dtb=1). I'm not saying this is the [best laptop on the market](https://www.zdnet.com/article/best-laptop/), but it would've easily been at the top of my buying list if I was still in college, and that's coming from someone who's had all the experiences with buying $300 laptops.
@@ -99,25 +103,14 @@ For $349, I challenge you to find a laptop with more functionality and benefits 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/updated-unleash-artistry-a-curated-list-of-premium-3d-animation-software/"><u>[Updated] Unleash Artistry A Curated List of Premium 3D Animation Software</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-capturing-chats-on-fb-messenger-instructions-and-tips/"><u>2024 Approved Capturing Chats on FB Messenger Instructions and Tips</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/apples-financial-forecast-the-unpredictable-path-of-the-apple-card-as-cash-reserves-surpass-a-decade-long-milestone/"><u>Apple's Financial Forecast: The Unpredictable Path of the Apple Card as Cash Reserves Surpass a Decade-Long Milestone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/complete-step-by-step-tutorial-to-downloading-and-setting-up-your-epson-workforce-ds30-printer-driver-for-windows-1187/"><u>Complete Step-by-Step Tutorial to Downloading and Setting Up Your Epson WorkForce DS30 Printer Driver for Windows 11/8/7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-new-hp-deskjet-3755a-all-in-one-printer-drivers-compatible-with-windows-1087/"><u>Download the New HP DeskJet 3755A All-in-One Printer Drivers Compatible with Windows 10/8/7</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/galaxy-book-3-pro-360-vs-surface-pro-cuarta-generacion-cual-es-la-mejor-tableta-2-en-1-para-ti/"><u>Galaxy Book 3 Pro 360 Vs. Surface Pro Cuarta Generación: ¿Cuál Es La Mejor Tableta 2-en-1 Para Ti?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-nvidia-geforce-rtx-1660-super-driver-updates-installed-easily/"><u>Get the Newest NVIDIA GeForce RTX 1660 Super Driver Updates Installed Easily!</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-on-apple-iphone-6s-plus-smoothly-by-drfone-ios/"><u>How To Remove iCloud On Apple iPhone 6s Plus Smoothly</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-the-art-of-updating-startech-drivers-in-windows-11-8-and-7-solved-issues/"><u>Mastering the Art of Updating StarTech Drivers in Windows 11, 8 and 7: Solved Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-1drive-errors-on-windows-11/"><u>Resolving 1Drive Errors on Windows 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/simple-setup-how-to-get-microsoft-keyboard-4000-driver-software-quickly/"><u>Simple Setup: How to Get Microsoft Keyboard 4000 Driver Software Quickly</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-updating-your-logitech-c920-webcam-for-windows-users/"><u>Step-by-Step Guide: Updating Your Logitech C920 Webcam for Windows Users</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/s-edge-over-youtube-what-the-data-says-for-2024/"><u>Vimeo’s Edge Over YouTube? What the Data Says for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-7-key-strategies-for-perfect-macro-video-shooting/"><u>[New] 2024 Approved 7 Key Strategies for Perfect Macro Video Shooting</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-glowing-mastery-step-by-step-to-brighten-android-videos/"><u>[Updated] Glowing Mastery Step-by-Step to Brighten Android Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mental-marathon-best-trivia-videos-online/"><u>[Updated] Mental Marathon Best Trivia Videos Online</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-epson-l3150-drivers-for-optimal-performance-on-windows-operating-systems/"><u>Get the Newest Epson L3150 Drivers for Optimal Performance on Windows Operating Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-refresh-your-pcs-audio-hardware-drivers-for-windows-versions-11-10-and-7/"><u>How to Refresh Your PC's Audio Hardware Drivers for Windows Versions 11, 10 & 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/magicard-rio-pro-driver-software-updated-downloads-for-modern-operating-systems-including-windows-7plus/"><u>Magicard Rio Pro Driver Software: Updated Downloads for Modern Operating Systems Including Windows 7+</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-fix-how-to-update-synaptics-ps2-touchpad-drivers-instantly/"><u>Quick Fix: How to Update Synaptics PS/2 Touchpad Drivers Instantly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/smooth-gaming-experience-with-the-newest-sapphire-gpu-drivers-free-downloads-and-setup-for-windows-machines/"><u>Smooth Gaming Experience with the Newest Sapphire GPU Drivers - Free Downloads and Setup for Windows Machines</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/top-picks-comprehensive-list-of-no-cost-webm-streaming-tools/"><u>Top Picks Comprehensive List of No-Cost WebM Streaming Tools</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

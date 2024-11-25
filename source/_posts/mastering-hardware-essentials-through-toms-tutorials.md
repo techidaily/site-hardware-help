@@ -1,7 +1,7 @@
 ---
 title: Mastering Hardware Essentials Through Tom's Tutorials
-date: 2024-08-19T12:28:27.270Z
-updated: 2024-08-20T12:28:27.270Z
+date: 2024-11-23T16:00:08.050Z
+updated: 2024-11-25T16:13:21.259Z
 tags:
   - desktop
 categories:
@@ -35,6 +35,10 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
  Lastly, the new Legion systems come with a standard 32GB DDR5-5600 dual-channel RAM and 1TB[PCIe Gen4 storage](https://www.tomshardware.com/reviews/best-ssds,3891.html) . Again, upgrades shouldn’t be a problem in the future with SODIMMs presumably used for RAM, and two M.2 slots and two SATA ports available for storage.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -53,8 +57,6 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -62,8 +64,23 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-the-essential-list-7-leading-generators-for-nft-artworks/"><u>[New] In 2024, The Essential List 7 Leading Generators for NFT Artworks</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-compreeved-guide-to-creating-stellar-youtube-outros/"><u>[Updated] In 2024, Compreeved Guide to Creating Stellar YouTube Outros</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/boosting-chrome-os-a-step-by-step-guide-on-providing-valuable-feedback-to-developers-insights-from-zdnet/"><u>Boosting Chrome OS: A Step-by-Step Guide on Providing Valuable Feedback to Developers - Insights From ZDNet</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-realme-narzo-60-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-breakdown-all-the-latest-from-apples-thrilling-october-reveal-and-hidden-surprises-a-closer-look-by-zdnet/"><u>Comprehensive Breakdown: All the Latest From Apple's Thrilling October Reveal and Hidden Surprises - A Closer Look by ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficiently-altering-windows-group-policies/"><u>Efficiently Altering Windows Group Policies</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-the-lenovo-130s-laptop-balancing-restricted-capabilities-and-remarkable-user-experience/"><u>Exploring the Lenovo 130S Laptop: Balancing Restricted Capabilities and Remarkable User Experience</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Oppo F23 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-infinix-note-30-vip-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Infinix Note 30 VIP to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-chrome-os-upgrade-introduces-windows-11-features-to-chromebook-users-zdnet-insights/"><u>Latest Chrome OS Upgrade Introduces Windows 11 Features to Chromebook Users - ZDNet Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/section-2a-explaining-photoelectric-effect-sensors/"><u>Section 2A: Explaining Photoelectric Effect Sensors</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/secure-the-best-value-premium-laptops-for-black-friday-and-cyber-monday-2024-insights/"><u>Secure the Best Value - Premium Laptops for Black Friday & Cyber Monday 2024 Insights</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/simple-guide-converting-iphone-messages-into-text-documents/"><u>Simple Guide: Converting iPhone Messages Into Text Documents</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/spontaneous-shutdown-of-windows-machine/"><u>Spontaneous Shutdown of Windows Machine</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-using-and-evaluating-the-highly-functional-dell-inspiron-a-comprehensive-review-by-zdnet/"><u>The Ultimate Guide to Using and Evaluating the Highly Functional Dell Inspiron - A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-6-advantages-of-choosing-a-chromebook-the-ultimate-laptop-solution-for-everyone-insights-from-zdnet/"><u>Top 6 Advantages of Choosing a Chromebook: The Ultimate Laptop Solution for Everyone - Insights From ZDNet</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->

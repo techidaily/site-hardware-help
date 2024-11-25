@@ -1,7 +1,7 @@
 ---
 title: Master the Art of Reviving Classic DVD Films for Your Latest Apple M-Series Mac - Tips & Tricks by ZDNet Experts
-date: 2024-11-09T06:11:06.868Z
-updated: 2024-11-15T20:30:15.408Z
+date: 2024-11-23T16:02:14.889Z
+updated: 2024-11-25T16:31:49.334Z
 tags:
   - laptops
 categories:
@@ -17,6 +17,10 @@ If you're shopping for the [best laptop](https://www.zdnet.com/article/best-lapt
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -43,14 +47,11 @@ Cons
 * Only 60Hz refresh rate
 * No discrete graphics card
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Lenovo Yoga 9i
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best overall battery life laptop
 
@@ -77,6 +78,10 @@ Cons
 
 ## HP Spectre x360
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best 2-in-1 battery life laptop
 
 **CPU:** Intel Core i7-10750H | **GPU:** Nvidia GeForce GTX 1650 Ti | **RAM:** 16GB | **Storage:** 1TB SSD | **Display size:** 15.6-inches | **Resolution:** 4K | **Refresh rate:** 120Hz | **Battery life:** 11.5 hours 
@@ -101,10 +106,7 @@ Cons
 * Not user upgradeable once configured
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Samsung Chromebook 4+
@@ -131,14 +133,11 @@ Cons
 * No RGB lighting
 * Screen is somewhat dim at 250 nits
 
-## Dell G15
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Dell G15
 
 ### Best battery life laptop for gaming
 
@@ -171,19 +170,6 @@ Cons
 The Acer Swift 3X isn't exactly a "budget" laptop, but it is one of the more affordable on this list and available overall. And even though it has a more budget-friendly price, that doesn't mean that it has skimped out on features and components. It's built with an 11th gen Intel Core i7 processor, integrated Intel Iris Xe Max graphics, 16GB of RAM, and a 1TB SSD for plenty of power, memory, and storage for work projects, browsing the web, and streaming movies, shows, and music. Acer claims that the Swift 3X's battery can give you an astounding 17.5 hours of use on a full charge, but [our testing](https://www.zdnet.com/product/acer-swift-3x-sf314-510g-767y-14-core-i7-1165g7-16-gb-ram-1-024-tb-ssd-us-international/) got us closer to 14 hours; which is still very, very impressive. A built-in fingerprint reader gives you added security for your work and personal data, while Thunderbolt 4 connections allow for ultra-fast data transfers, device charging, and external display connections when you need more space to work. It also supports Wi-Fi 6 and Bluetooth for faster wireless internet speeds and wireless peripheral connections so you can stay up-to-date with work, in contact with friends and family, and up-to-speed on the latest Netflix and Prime Video releases.
 
 Show Expert Take Show less 
-
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What is the best battery life laptop?
 
@@ -218,10 +204,7 @@ Aside from price and battery life, I tried to choose a variety of laptops to sui
 It all depends on what you're going to use the laptop for. Gaming laptops are considered to have "excellent" battery lives when you can get 3 or 4 hours out of them while playing games. For laptops intended for home, school, or office work, it's reasonable to expect your battery to last between 8 and 10 hours. Though it is possible to find models with significantly longer battery lives, which are great if you want to use your laptop while on a business flight or watch a movie in bed.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can I use my laptop while it's charging?
@@ -229,10 +212,7 @@ It all depends on what you're going to use the laptop for. Gaming laptops are co
 Absolutely! You can do everything on a laptop while it's charging that you can when it's unplugged. My advice would be to not leave it plugged in after the battery reaches full charge, since this can actually damage the battery and lead to a diminished battery life.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to improve laptop battery life?
@@ -281,15 +261,18 @@ There are plenty of options out there if you're prioritizing battery life over o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/updated-join-anytime-easy-zoom-integration-with-android-devices/"><u>[Updated] Join Anytime Easy Zoom Integration with Android Devices</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-the-art-of-podcast-hooks-compelling-beginnings-for-2024/"><u>[Updated] The Art of Podcast Hooks Compelling Beginnings for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-adding-drama-to-videos-strikethrough-for-emphasis-and-clarity/"><u>2024 Approved Adding Drama to Videos Strikethrough for Emphasis and Clarity</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amd-radeon-rx-590-driver-download-and-install-for-windows/"><u>AMD Radeon RX 590 Driver Download and Install for Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/complimentary-upgrade-to-enhanced-hp-deskjet-3050a-printing-software-for-pc-users-running-windows/"><u>Complimentary Upgrade to Enhanced HP Deskjet 3050A Printing Software for PC Users Running Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722956629737-download-brother-hl-2280dw-printer-drivers-compatible-with-windows-11-10-8-and-7/"><u>Download Brother HL-2280DW Printer Drivers: Compatible with Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-oppo-f25-pro-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Oppo F25 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/learn-to-navigate-two-screens-for-superior-streaming-on-netflix/"><u>Learn to Navigate Two Screens for Superior Streaming on Netflix</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/operate-srt-audio-on-windowsmacos-for-2024/"><u>Operate SRT Audio on Windows/macOS for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-guide-updating-ati-graphics-card-drivers-on-your-pc/"><u>Ultimate Guide: Updating ATI Graphics Card Drivers on Your PC</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-crafting-a-visual-identity-a-guide-to-perfect-pfp-on-discord/"><u>[New] 2024 Approved Crafting a Visual Identity A Guide to Perfect Pfp on Discord</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-the-tech-whizs-guide-to-recording-games-on-win10/"><u>[New] 2024 Approved The Tech Whiz's Guide to Recording Games on Win10</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harnessing-famebits-secrets-to-thrive-with-key-channel-sponsors/"><u>[Updated] In 2024, Harnessing FameBit's Secrets to Thrive with Key Channel Sponsors</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-master-controls-navigating-the-world-of-switch-pro-and-steam-gaming/"><u>[Updated] In 2024, Master Controls Navigating the World of Switch Pro and Steam Gaming</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722967112781-approach-combine-knowledge-of-temperature-effects-on-curing-with-appropriate-measures-to-mitigate-extreme-conditions/"><u>Approach: Combine Knowledge of Temperature Effects on Curing with Appropriate Measures to Mitigate Extreme Conditions.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-corsair-void-pro-driver-simple-steps-for-windows/"><u>Download and Install Corsair Void Pro Driver: Simple Steps for Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-installation-how-to-update-or-download-the-epson-wf-3520-driver-for-windows-systems/"><u>Easy Installation: How to Update or Download the Epson WF 3520 Driver for Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/getting-your-windows-computer-up-and-running-in-no-time-with-corsair-driver-download/"><u>Getting Your Windows Computer Up and Running in No Time With Corsair Driver Download</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-streamlining-screen-captures-on-mi-11-lite/"><u>In 2024, Streamlining Screen Captures on Mi 11 Lite</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-the-art-of-softening-dynamics-in-fl-studio-soundscape/"><u>Mastering the Art of Softening Dynamics in FL Studio Soundscape</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/my-journey-from-pricey-tech-to-cost-efficient-xr-glasses-how-i-swapped-my-expensive-apple-and-meta-devices-for-affordable-innovation/"><u>My Journey From Pricey Tech to Cost-Efficient XR Glasses: How I Swapped My Expensive Apple and Meta Devices for Affordable Innovation</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-get-your-epson-xp-830-up-and-running-with-driver-installation-made-simple/"><u>Step-by-Step Tutorial: Get Your Epson XP-830 Up and Running with Driver Installation Made Simple</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-scanner-models-dominating-the-market/"><u>Top-Rated Scanner Models Dominating the Market</u></a></li>
 </ul></div>
 

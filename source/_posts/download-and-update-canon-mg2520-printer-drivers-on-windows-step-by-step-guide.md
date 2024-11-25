@@ -1,7 +1,7 @@
 ---
 title: "Download and Update Canon MG2520 Printer Drivers on Windows: Step-by-Step Guide"
-date: 2024-08-19T12:27:20.221Z
-updated: 2024-08-20T12:27:20.221Z
+date: 2024-11-18T16:23:12.678Z
+updated: 2024-11-25T16:13:26.941Z
 tags:
   - win11
   - win10
@@ -23,11 +23,19 @@ thumbnail: https://thmb.techidaily.com/5584d777e110cbdbb48713bd82133ccfd2417ed4b
 
  If your Canon printer is not working properly as it should be, for instance, you see the certain errors when trying to print, the printer’s status is offline, you should really consider getting your printer driver updated.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes to update Canon MG2520 driver
 
 1. [Update printer driver manually](https://tools.techidaily.com/drivereasy/download/)
 2. [Update printer driver automatically](https://tools.techidaily.com/drivereasy/download/)
 3. [Update printer driver in Device Manager](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update printer driver manually
 
@@ -47,9 +55,6 @@ thumbnail: https://thmb.techidaily.com/5584d777e110cbdbb48713bd82133ccfd2417ed4b
 
  This is time consuming. If this method doesn’t work for you, don’t worry. We have other solutions for you to try.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Update printer driver automatically
 
  Manually downloading and installing the Canon MG2520 driver requires time and computer skills. If you don’t have patience, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -65,8 +70,9 @@ thumbnail: https://thmb.techidaily.com/5584d777e110cbdbb48713bd82133ccfd2417ed4b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afaaa3085ce8.png)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged printer driver to automatically download the correct version the this driver (you can do this with the**FREE** version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**_Update All_** ).
@@ -74,15 +80,13 @@ thumbnail: https://thmb.techidaily.com/5584d777e110cbdbb48713bd82133ccfd2417ed4b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afaaca85fc07.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4) Restart your computer to make it take effect.
 
 This is rather easy to update your Canon MG2520 printer driver, right?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3: Update printer driver in Device Manager
 
  You can also update the Canon MG2520 driver via Device Manager on your computer.
@@ -95,20 +99,18 @@ This is rather easy to update your Canon MG2520 printer driver, right?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af53ac9c34f3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3) Double click**Printers** to expand it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af26e71b4a11.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Right click on your**Printer** (it can be displayed as**Unknown device** ), and select**Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af26ed419e84.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
  5) Choose**Search automatically for updated driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af26efde74b2.png)
@@ -128,8 +130,6 @@ This is rather easy to update your Canon MG2520 printer driver, right?
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +137,23 @@ This is rather easy to update your Canon MG2520 printer driver, right?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-buyers-best-guide-to-virtual-reality-cameras/"><u>[New] Buyer's Best Guide to Virtual Reality Cameras</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-messages-from-apple-iphone-7-plus-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Messages from Apple iPhone 7 Plus to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/complete-iphone-file-restoration-for-mac-bring-back-deleted-images-videos-and-contact-info/"><u>Complete iPhone File Restoration for Mac: Bring Back Deleted Images, Videos & Contact Info</u></a></li>
+<li><a href="https://techtrends.techidaily.com/correcting-the-d3dx9-missing-error-a-comprehensive-guide/"><u>Correcting The D3DX9 Missing Error - A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discounted-price-snag-a-high-quality-hp-156-touchscreen-laptop-for-just-230-insider-info/"><u>Discounted Price: Snag a High-Quality HP 15.6 Touchscreen Laptop for Just $230 - Insider Info !</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-offer-alert-grab-the-top-hp-156-touchscreen-notebook-at-an-unbelievable-price-of-230-see-inside-on-zdnet/"><u>Exclusive Offer Alert! Grab the Top HP 15.6” Touchscreen Notebook at an Unbelievable Price of $230 – See Inside on ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722882495989-foldable-iphones-preview-of-potential-prices-release-dates-and-specs-while-we-sort-fact-from-fiction-in-latest-gossip/"><u>Foldable iPhones: Preview of Potential Prices, Release Dates and Specs While We Sort Fact From Fiction in Latest Gossip.</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/from-behind-the-scenes-creating-10-facebook-videos/"><u>From Behind the Scenes Creating #10 Facebook Videos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/grid-gurus-find-the-ultimate-photo-organizing-apps-for-2024/"><u>Grid Gurus Find the Ultimate Photo Organizing Apps for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/popular-photographs-their-narratives-unveiled/"><u>Popular Photographs Their Narratives Unveiled</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/potential-for-budget-macbooks-on-the-horizon-as-apple-aims-to-compete-with-googles-chromebooks-reports-and-analysis/"><u>Potential for Budget MacBooks on the Horizon as Apple Aims to Compete with Google's Chromebooks - Reports & Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/prime-day-preview-score-an-unbeatable-deal-on-amazon-snap-up-the-highly-recommended-laptops-enjoying-a-massive-500-savings/"><u>Prime Day Preview: Score an Unbeatable Deal on Amazon - Snap up the Highly Recommended Laptops , Enjoying a Massive $50^0 Savings!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-samsung-galaxy-fit-critique-a-smart-choice-for-the-fitness-enthusiasts-wrist/"><u>Top Samsung Galaxy Fit Critique – A Smart Choice for the Fitness Enthusiast's Wrist</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbiased-vpn-comparisons-for-2astery-the-best-of-the-year-2024-reviewed/"><u>Unbiased VPN Comparisons for 2Astery! The Best of the Year 2024 Reviewed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/which-is-better-a-comprehensive-review-of-apples-m3-vs-m1-macbook-pro-upgrade-worth-or-status-quo/"><u>Which Is Better? A Comprehensive Review of Apple’s M3 Vs. M1 MacBook Pro – Upgrade Worth or Status Quo?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/why-hps-new-spectre-x360-deserves-a-spot-among-top-laptops-of-the-year-expert-insights/"><u>Why HP's New Spectre X360 Deserves a Spot Among Top Laptops of the Year - Expert Insights</u></a></li>
+</ul></div>
 

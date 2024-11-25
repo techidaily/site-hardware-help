@@ -1,7 +1,7 @@
 ---
 title: Exclusive Cyber Deals Alert! Discover Premium Laptops for Less Than $500 and a Sweet Bonus Offer at Only $99 | CNET
-date: 2024-11-12T20:04:32.866Z
-updated: 2024-11-16T05:39:32.460Z
+date: 2024-11-24T16:35:22.732Z
+updated: 2024-11-25T16:07:41.599Z
 tags:
   - laptops
 categories:
@@ -15,9 +15,17 @@ thumbnail: https://thmb.techidaily.com/8dc75739a23faa00dc51d8707591eb801ba8ab3b3
 
 Image: Samsung
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [![04-bf-cm.png](https://www.zdnet.com/a/img/resize/954e855aae296b0590d40ff6eba4167fd27f3d67/2022/11/29/2911e8eb-1a11-4aa3-8ff7-015c7e854046/04-bf-cm.png?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best Black Friday and Cyber Monday tech deals still available If you missed out on this year's mega sale events, no problem. ZDNET is rounding up the best tech deals still available, right here.  Read now](https://www.zdnet.com/collection/cyber-monday/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Offering a sleek two-in-one design, Samsung's 13.3-inch Galaxy Book 2 360 provides you with both the functionality of a clamshell laptop and the portability of a tablet –all wrapped up in the same convertible package.
 
@@ -63,27 +71,22 @@ This is just one of many Cyber Monday deals – and you can keep up to date with
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-streaming-success-recording-roblox-on-apple-devices/"><u>[New] 2024 Approved Streaming Success Recording Roblox on Apple Devices</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-digital-diaries-of-daily-displays-fb-live-downloads/"><u>[New] In 2024, Digital Diaries of Daily Displays FB Live Downloads</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-the-most-trending-twitch-originals-from-amazon-prime/"><u>[Updated] 2024 Approved The Most Trending Twitch Originals From Amazon Prime</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/1-free-fixes-for-corrupted-movies-restore-mov-file-quality/"><u>1. Free Fixes for Corrupted Movies: Restore .MOV File Quality</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-edited-essence-unlocking-techniques-for-visual-impact/"><u>2024 Approved The Edited Essence Unlocking Techniques for Visual Impact</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/canon-mg2520-windows-drivers-free-downloads-and-updates-available/"><u>Canon MG2520 Windows Drivers - Free Downloads and Updates Available!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-fast-ultimate-steps-for-linksys-ae120er-firmware-installation/"><u>Download Fast: Ultimate Steps for Linksys AE120er Firmware Installation</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ensure-seamless-gaming-the-recent-update-of-nvidias-geforce-210-drivers-on-windows-11-platforms/"><u>Ensure Seamless Gaming: The Recent Update of Nvidia's GeForce 210 Drivers on Windows 11 Platforms</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-amd-radeon-hd-graphics-drivers-for-windows-systems/"><u>Get the Latest AMD Radeon HD Graphics Drivers for Windows Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-dynawatch-drivers-for-your-windows-computer-free-download/"><u>Get the Newest Dynawatch Drivers for Your Windows Computer – Free Download</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722975523617-hassle-free-printer-configuration-secure-your-samsung-m2070fw-drivers-today/"><u>Hassle-Free Printer Configuration: Secure Your Samsung M2070FW Drivers Today</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-address-and-solve-csr8510-a10-drivers-compatibility-with-windows-a-comprehensive-guide/"><u>How To Address and Solve CSR8510 A10 Drivers Compatibility with Windows: A Comprehensive Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-samsung-galaxy-a14-4g-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Samsung Galaxy A14 4G Phone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/magixs-image-ordering-an-assessment-for-2024/"><u>MAGIX's Image Ordering An Assessment for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-from-iphone-14-plus-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes From iPhone 14 Plus?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-linksys-ae1200-driver-quickly-and-easily/"><u>[DOWNLOAD] Linksys AE1200 Driver | Quickly & Easily</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-best-youtube-video-reverser-online/"><u>[New] Best YouTube Video Reverser Online</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-mastering-slow-motion-a-guide-to-photo-editing-tools-for-2024/"><u>[New] Mastering Slow-Motion A Guide to Photo Editing Tools for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-revolutionize-your-podcast-reach-with-smart-seo/"><u>[New] Revolutionize Your Podcast Reach with Smart SEO</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-how-to-make-picture-in-picture-videos-on-mac-os-sierra/"><u>2024 Approved How to Make Picture in Picture Videos on Mac OS Sierra</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-mastering-webcam-recording-for-slideshows/"><u>2024 Approved Mastering Webcam Recording for Slideshows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-lenovo-x1-carbon-latest-drivers-compatible-with-windows-11-and-7-simple-steps/"><u>Download Lenovo X1 Carbon Latest Drivers: Compatible with Windows 11 and 7 - Simple Steps</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-ultimate-validity-fingerprint-sensor-software-fast-and-simple-installation/"><u>Download the Ultimate Validity Fingerprint Sensor Software: Fast and Simple Installation!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722977567812-ensure-top-performance-with-newest-hp-laserjet-pro-m404n-printer-drivers-download-today/"><u>Ensure Top Performance with Newest HP LaserJet Pro M404n Printer Drivers - Download Today!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-logitech-speaker-installers-for-win10-win7-and-win8/"><u>Free Logitech Speaker Installers for Win10, Win7 & Win8</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-samsung-galaxy-m34-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Samsung Galaxy M34 For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/o-quickly-and-easily-share-a-youtube-playlist/"><u>How to Quickly And Easily Share A YouTube Playlist</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/improve-your-internet-experience-update-wireless-drivers-on-windows-11-and-10-devices/"><u>Improve Your Internet Experience: Update Wireless Drivers on Windows 11 and 10 Devices</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-sync-across-platforms-downloading-and-storing-gifs-from-facebook/"><u>In 2024, Sync Across Platforms Downloading and Storing GIFs From Facebook</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-the-latest-realtek-device-drivers-on-your-windows-10-pc/"><u>Install the Latest Realtek Device Drivers on Your Windows 10 PC</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96369034-9781446358221-psychic-experiences/"><u>Psychic Experiences | Free Book</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-easy-asus-laptop-touchpad-driver-installation-guide-for-windows-10/"><u>Quick and Easy ASUS Laptop Touchpad Driver Installation Guide for Windows 10</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

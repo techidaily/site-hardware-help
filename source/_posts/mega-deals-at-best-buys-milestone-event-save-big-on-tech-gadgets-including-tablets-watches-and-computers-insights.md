@@ -1,7 +1,7 @@
 ---
 title: "Mega Deals at Best Buy's Milestone Event: Save Big on Tech Gadgets Including Tablets, Watches & Computers – Insights"
-date: 2024-11-10T01:08:06.018Z
-updated: 2024-11-16T04:58:16.500Z
+date: 2024-11-18T16:21:49.992Z
+updated: 2024-11-25T16:18:29.129Z
 tags:
   - laptops
 categories:
@@ -62,6 +62,10 @@ Maria Diaz/ZDNET
 * [Kasa Smart Plug Ultra Mini (2 pack)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FKasa-Smart-Required-Certified-EP10P2%2Fdp%2FB091FXQQMQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cea9c0743-e722-41c7-a688-1e24d2e92b65%7Cdtp&dtb=1): $12 (save $8 at Amazon)
 * [Windows 11 Pro](https://www.stacksocial.com/sales/microsoft-windows-11-pro?utm%5Fsource%3Dzdnet.com%26utm%5Fmedium%3Dreferral%26utm%5Fcampaign%3Dmicrosoft-windows-11-pro%26utm%5Fterm%3Dscsf-572750%26utm%5Fcontent%3Da0x1P000004Im9wQAC%26scsonar%3D1%26aid%3Da-ceempx7z&sa=D&source=docs&ust=1686856045303167&usg=AOvVaw3GdVuYpgozg%5FgfSi8QlrTM): $25 (save $175 at Stack Social)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best holiday deals under $50
 
 Artie Beaty/ZDNET
@@ -84,13 +88,6 @@ June Wan/ZDNET
 * [DeWalt 20V Max 1/2 inch cordless drill with battery and charger](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDEWALT-Cordless-Battery-Included-DCD777D1%2Fdp%2FB0C3TGRLLM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cea9c0743-e722-41c7-a688-1e24d2e92b65%7Cdtp&dtb=1): $99 (save $60 at Amazon)
 * [Canon Ivy 2 Mini Photo Printer](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BGM5XPQZ%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cea9c0743-e722-41c7-a688-1e24d2e92b65%7Cdtp&dtb=1): $69 (save $30 at Amazon)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best holiday deals under $200
 
 Maria Diaz/ZDNET
@@ -101,10 +98,7 @@ Maria Diaz/ZDNET
 * [Bose SoundLink Flex Bluetooth Speaker](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB099TJGJ91%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cea9c0743-e722-41c7-a688-1e24d2e92b65%7Cdtp&dtb=1): $119 (save $30 at Amazon)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best holiday deals under $500
@@ -167,13 +161,6 @@ June Wan/ZDNET
 * [TCL 55-inch Q6 QLED Fire TV](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FTCL-55-Inch-55Q650F-Streaming-Television%2Fdp%2FB0C1J581SJ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cea9c0743-e722-41c7-a688-1e24d2e92b65%7Cdtp&dtb=1): $350 (save $150 at Amazon)
 * [Amazon Fire TV Omni QLED 55-inch](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fintroducing-amazon-fire-tv-55-inch-omni-qled-series-smart-tv%2Fdp%2FB09N6ZRH6C%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cea9c0743-e722-41c7-a688-1e24d2e92b65%7Cdtp&dtb=1): $450 (save $150 at Amazon)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best holiday smartwatch deals
 
 Matthew Miller/ZDNET
@@ -182,6 +169,10 @@ Matthew Miller/ZDNET
 * [Fitbit Versa 4 + Fitbit Premium](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Ffitbit-versa-4-fitness-smartwatch-graphite%2F6514032.p%3FskuId%3D6514032&publisher_slug=itechdaily19598&exclusive=1): $150 (save $50 at Best Buy)
 * [Samsung Galaxy Watch 5 Pro](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-galaxy-watch5-pro-titanium-smartwatch-45mm-bt-black%2F6510873.p%3FskuId%3D6510873&publisher_slug=itechdaily19598&exclusive=1): $370 (save $80 at Best Buy)
 * [Amazfit Bip 3 Urban Edition Smartwatch](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FAmazfit-Bip-3-Urban-Edition-Smart-Watch-Health-Fitness-Tracker-Black%2F1499566467&subId1=zd-__COM_CLICK_ID__-dtp): $35 (save $27 at Walmart)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best holiday headphones deals
 
@@ -195,6 +186,10 @@ Jada Jones/ZDNET
 * [Google Pixel Buds Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FGoogle-Pixel-Buds-Pro-Headphones%2Fdp%2FB0B1NGPY94%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cea9c0743-e722-41c7-a688-1e24d2e92b65%7Cdtp&dtb=1): $120 (save $80 at Amazon)
 * [Sennheiser HD 650 stereo reference headphones](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F310010-REG%2FSennheiser%5FHD%5F650%5FHD650%5FReference%5FClass.html): $400 (save $100 at B&H Photo)
 * [Samsung Galaxy Buds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Wireless-Bluetooth-Wing-Tip-Assistant%2Fdp%2FB0CF7GYNW2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cea9c0743-e722-41c7-a688-1e24d2e92b65%7Cdtp&dtb=1): $70 (save $30 at Amazon)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best holiday phone deals
 
@@ -219,6 +214,10 @@ Jason Hiner/ZDNET
 * [Lenovo Legion Pro 7i](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1745684-REG%2Flenovo%5F82wq002tus%5F16%5Flegion%5Fpro%5F7.html): $2,599 (save $700 at B&H Photo)
 * [Lenovo LOQ Tower Intel Edition](https://go.shopyourlikes.com/pi/bc82422a965d3574bb1afda3dd1ab5b7fb336893?afId=614548&afCampaignId=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&afCreativeId=2993&afPlacementId=2): $650 (save $380 at Lenovo)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best holiday tablet deals
 
 Maria Diaz/ZDNET
@@ -231,16 +230,7 @@ Maria Diaz/ZDNET
 * [Samsung Galaxy Tab S6 Lite](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Android-Lasting-Included-Speakers%2Fdp%2FB09WYWJ46K%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cea9c0743-e722-41c7-a688-1e24d2e92b65%7Cdtp&dtb=1): $200 (save $150 at Amazon)
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we choose these holiday deals?
@@ -248,13 +238,6 @@ Maria Diaz/ZDNET
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the best holiday deals?
 
@@ -324,20 +307,21 @@ ZDNET's experts have been searching for holiday deals across sites like Amazon, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-elite-digital-image-grabbers/"><u>[New] 2024 Approved Elite Digital Image Grabbers</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-which-screen-recorder-excels-obs-or-fraps/"><u>[New] 2024 Approved Which Screen Recorder Excels OBS or Fraps?</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-compre-omprehensive-razer-video-cam-test/"><u>[New] Compre Omprehensive Razer Video Cam Test</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-assessing-your-video-streaming-needs-to-subscribe-or-not-to-subscribe/"><u>[Updated] Assessing Your Video Streaming Needs To Subscribe or Not to Subscribe?</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-color-calibration-transitioning-from-traditional-rgb-to-srgb/"><u>[Updated] Color Calibration Transitioning From Traditional Rgb to Srgb</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amd-sata-controller-driver-download-for-windows/"><u>AMD SATA Controller Driver Download for Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/canon-d530-firmware-downloads-improve-camera-performance-with-the-latest-version/"><u>Canon D530 Firmware Downloads – Improve Camera Performance with the Latest Version</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-download-latest-epson-wf-7710-printer-drivers-for-windows-10-81-8-and-7/"><u>Free Download: Latest Epson WF-7710 Printer Drivers for Windows 10, 8.1, 8 & 7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-most-out-of-your-printer-update-the-driver-for-epson-wf-7720-on-windows/"><u>Get the Most Out of Your Printer - Update the Driver for Epson WF-7720 on Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-steelseries-keyboard-upgraded-free-driver-software/"><u>Get Your SteelSeries Keyboard Upgraded - Free Driver Software</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Vivo V30 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mlb-the-show-server-problem-patched-and-ready-for-players/"><u>MLB The Show 'Server Problem' Patched and Ready for Players</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/seamless-firmware-and-driver-setup-for-your-netgear-wna3100-wi-fi-router/"><u>Seamless Firmware & Driver Setup for Your Netgear WNA3100 Wi-Fi Router</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/sneak-peek-at-the-upcoming-samsung-z-flip-generation-7-price-forecasts-availability-timeline-and-technical-rumors-unveiled/"><u>Sneak Peek at the Upcoming Samsung Z Flip Generation 7: Price Forecasts, Availability Timeline, and Technical Rumors Unveiled</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-tutorial-how-to-install-the-latest-driver-for-your-corsair-sound-equipment-in-windows/"><u>Ultimate Tutorial: How to Install the Latest Driver for Your Corsair Sound Equipment in Windows</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-avoid-legal-pitfalls-pre-upload-video-copyright-on-tiktok/"><u>[Updated] In 2024, Avoid Legal Pitfalls Pre-Upload Video Copyright on TikTok</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-to-follow-guide-update-and-downloading-drivers-for-lenovo-thinkpad-t420-on-windows/"><u>Easy-to-Follow Guide: Update & Downloading Drivers for Lenovo ThinkPad T420 on Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-installation-guide-for-usb-camera-software/"><u>Effortless Installation Guide for USB Camera Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fast-install-guide-downloading-official-microsoft-ergonomic-kb-4000-drivers/"><u>Fast Install Guide: Downloading Official Microsoft Ergonomic KB 4000 Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-started-fast-free-easycap-drivers-downloads-here/"><u>Get Started Fast: Free EasyCap Drivers Downloads Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-eveo-bluetooth-connection-software-and-drivers-click-to-download-now/"><u>Get the Latest Eveo Bluetooth Connection Software & Drivers - Click to Download Now</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-oppo-reno-11f-5g-screen-sharing-drfone-by-drfone-android/"><u>How To Do Oppo Reno 11F 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-inside-look-at-youtubes-digital-media-oasis/"><u>In 2024, Inside Look at YouTube's Digital Media Oasis</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-snapchat-highlight-101-usage-techniques/"><u>In 2024, Snapchat Highlight 101 Usage Techniques</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-top-10-best-hexacopter-drones/"><u>In 2024, Top 10 Best Hexacopter Drones</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-tecno-spark-10-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Tecno Spark 10 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-up-to-date-logitech-g910-mouse-software-on-your-windows-device-today/"><u>Install Up-to-Date Logitech G910 Mouse Software on Your Windows Device Today</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-through-fresh-twitter-conspiracies-the-inception-of-meta-verification-and-a-deep-dive-into-chatgpt/"><u>Navigating Through Fresh Twitter Conspiracies: The Inception of Meta Verification & A Deep Dive Into ChatGPT-</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/solved-troubleshooting-and-fixing-csr8510-a10-driver-problems-on-windows-systems/"><u>Solved: Troubleshooting and Fixing CSR8510 A10 Driver Problems on Windows Systems</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/unveiling-youtubes-hidden-feature-stop-snippet-viewing-for-2024/"><u>Unveiling YouTube's Hidden Feature Stop Snippet Viewing for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-to-advanced-nvidia-graphics-drivers-for-smooth-performance-in-windows-nativess-direct-download-options/"><u>Update to Advanced NVIDIA Graphics Drivers for Smooth Performance in Windows Nativess: Direct Download Options</u></a></li>
 </ul></div>
 

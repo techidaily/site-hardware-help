@@ -1,7 +1,7 @@
 ---
 title: Unlocking the Details of Intel's Prolonged Assurance Plan for Their New Core Series (I5, I7, I9) - Generations 13 to 14
-date: 2024-08-19T12:25:13.916Z
-updated: 2024-08-20T12:25:13.916Z
+date: 2024-11-21T16:31:34.393Z
+updated: 2024-11-25T16:23:58.500Z
 tags:
   - cpu
 categories:
@@ -27,6 +27,10 @@ With AI PC hype at a fever pitch, chip vendors Intel, AMD, and Qualcomm are enga
 
  The Cixin P1 is a very unique processor. While it does not fulfill Beijing's goals of being a fully home-grown processor because it uses Arm CPU and GPU designs, the chip is specifically designed for the needs of the Chinese market and stands ready to enjoy some level of success. It also sadly does not meet[Microsoft](https://www.tomshardware.com/tag/microsoft) 's arbitrary "AI PC" requirements. The P1's NPU on its own is only 30 TOPS — shy of the 40 TOPS target — though it's likely that Cixin could not care less about Windows Copilot+ certification.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -37,14 +41,11 @@ With AI PC hype at a fever pitch, chip vendors Intel, AMD, and Qualcomm are enga
 
  Cixin is a very young company, first established in 2021, that has been growing thanks to investments from 15-20 public and private investment partners listed on its website. This freshness to the Chinese tech scene may limit widespread adoption early on, so we'll have to wait and see if Cixin manages to succeed in the huge, hungry tech market seeking[separation from U.S. interference](https://www.tomshardware.com/tech-industry/manufacturing/china-commerce-minister-frustrated-by-us-interfering-in-international-lithography-exports-via-third-countries) .
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -53,8 +54,24 @@ With AI PC hype at a fever pitch, chip vendors Intel, AMD, and Qualcomm are enga
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-key-screen-snapping-programs-for-content-sharing/"><u>[New] Key Screen-Snapping Programs for Content Sharing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-art-and-science-behind-vr-experience-makers/"><u>[New] The Art and Science Behind VR Experience Makers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-how-to-securely-document-whatsapp-discussions/"><u>2024 Approved How to Securely Document WhatsApp Discussions</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/4-things-you-must-know-about-apple-iphone-11-activation-lock-by-drfone-ios/"><u>4 Things You Must Know About Apple iPhone 11 Activation Lock</u></a></li>
+<li><a href="https://win11.techidaily.com/confirming-the-active-state-in-windows-11/"><u>Confirming the Active State in Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-latest-microsoft-innovations-surface-pro-10-and-laptop-ebrimae-arrive-packed-with-enhanced-ai-capabilities-insights-from-zdnet/"><u>Discover the Latest Microsoft Innovations: Surface Pro 10 & Laptop Ebrimae Arrive, Packed with Enhanced AI Capabilities - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-new-chromeos-update-how-windows-11-functionality-enhances-your-chromebook-experience-zdnet/"><u>Discover the New ChromeOS Update: How Windows 11 Functionality Enhances Your Chromebook Experience | ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/elite-list-of-2024s-finest-oled-notebooks-thoroughly-analyzed-and-critiqued-cnet/"><u>Elite List of 2024'S Finest OLED Notebooks: Thoroughly Analyzed and Critiqued | CNET</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-tecno-spark-10-5g-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Tecno Spark 10 5G Device</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-unleash-your-creative-potential-with-these-top-apps/"><u>In 2024, Unleash Your Creative Potential with These Top Apps</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/inoculation-with-native-fungi-if-necessary-soils-can-be-treated-with-commercial-preparations-of-native-mycorrhizal-inoculants-to-bolster-existing-population83/"><u>Inoculation with Native Fungi: If Necessary, Soils Can Be Treated with Commercial Preparations of Native Mycorrhizal Inoculants to Bolster Existing Populations and Help Establish Associations with Newly Planted Crops Within a Rotation System.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-password-free-logins-with-troublesome-winpin/"><u>Mastering Password-Free Logins with Troublesome WinPIN</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revolutionizing-creative-workflows-comprehensive-guide-to-the-latest-2023-apple-m2-max-macbook-pro-16-expert-review-by-zdnet/"><u>Revolutionizing Creative Workflows: Comprehensive Guide to the Latest 2023 Apple M2 Max MacBook Pro (16) - Expert Review by ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/scoop-the-ultimate-bargains-on-high-performance-laptops-in-october-tips-and-tricks/"><u>Scoop the Ultimate Bargains on High-Performance Laptops in October! Tips & Tricks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-16-affordable-hp-laptops-for-the-festive-season-exclusive-offers/"><u>Top 16 Affordable HP Laptops for the Festive Season - Exclusive Offers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-linux-distros-perfect-for-newbies-thoroughly-tested-and-evaluated-by-professionals-revealed/"><u>Top Rated Linux Distros Perfect for Newbies: Thoroughly Tested & Evaluated by Professionals - Revealed</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/web-windows-10-voice-recorder/"><u>Webミーティングの録音手引: Windows 10 Voice Recorder使用法</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->

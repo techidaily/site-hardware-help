@@ -1,7 +1,7 @@
 ---
 title: "Cyber Monday Steals: Snag the Lenovo ThinkPad L14 Gen 3 at an Unbeatable 77%% Discount - In Stock Now!"
-date: 2024-11-08T22:38:15.313Z
-updated: 2024-11-15T21:32:31.010Z
+date: 2024-11-22T16:31:01.894Z
+updated: 2024-11-25T16:10:49.826Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Taylor Clemons/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET takeaways
 
@@ -71,10 +75,7 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -86,10 +87,7 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -126,21 +124,19 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-freedom-in-sound-extracting-audio-magic-with-pazera/"><u>[New] 2024 Approved Freedom in Sound Extracting Audio Magic with Pazera</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-visualizing-your-vision-the-art-of-using-luts-in-photos/"><u>[New] 2024 Approved Visualizing Your Vision The Art of Using LUTs in Photos</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-web-enhancer-facebook-story-keeper-for-2024/"><u>[New] Web Enhancer Facebook Story Keeper for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-itel-s23-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Itel S23 | Dr.fone</u></a></li>
-<li><a href="https://win-community.techidaily.com/comment-renommer-avec-succes-un-document-dans-un-autre-programme-astuces-rapides-et-efficaces/"><u>Comment Renommer Avec Succès Un Document Dans Un Autre Programme : Astuces Rapides Et Efficaces</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-driver-upgrade-for-scansnap-ix500-users-on-the-windows-platform/"><u>Effortless Driver Upgrade for ScanSnap iX500 Users on the Windows Platform</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/exclusive-breakdown-why-the-xbox-one-elite-series-2-is-a-legendary-gamepad/"><u>Exclusive Breakdown: Why the Xbox One Elite Series 2 Is a Legendary Gamepad</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-most-out-of-your-gpu-update-your-nvidia-geforce-gtx-1660-ti-driver-for-optimal-gaming-results/"><u>Get the Most Out of Your GPU: Update Your NVIDIA GeForce GTX 1660 Ti Driver for Optimal Gaming Results</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-get-the-latest-canon-dr-c225-driver-on-your-windows-pc-windows-11108/"><u>How to Get the Latest Canon DR-C225 Driver on Your Windows PC (Windows 11/10/8)</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-oppo-f23-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Oppo F23 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-iphone-12-pro-lock-screen-drfone-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From iPhone 12 Pro Lock Screen | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/installing-broadcom-bluetooth-drivers-in-windows-step-by-step-guide/"><u>Installing Broadcom Bluetooth Drivers in Windows - Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-compatible-drivers-for-your-canon-mx490-printer-download-and-update-instructions-for-windows-users/"><u>Latest Compatible Drivers for Your Canon MX490 Printer: Download and Update Instructions for Windows Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-guide-to-fast-and-hassle-free-scansnap-s510-drivers-installation/"><u>Latest Guide to Fast and Hassle-Free ScanSnap S510 Drivers Installation</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-downloading-and-installing-canon-cb5150-printer-driver-for-microsoft-windows/"><u>Step-by-Step Guide: Downloading and Installing Canon CB5150 Printer Driver for Microsoft Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/windows-users-discover-the-latest-driver-updates-for-your-brother-scanners-now-available/"><u>Windows Users! Discover the Latest Driver Updates for Your Brother Scanners Now Available</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-flair-up-your-stories-and-feeds-instagrams-simplified-method-of-sharing-gifs-for-2024/"><u>[New] Flair Up Your Stories & Feeds Instagram's Simplified Method of Sharing GIFs for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-gastronomy-gurus-the-elite-of-food-vlogs/"><u>[Updated] Gastronomy Gurus The Elite of Food Vlogs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/defending-against-the-flipzero-threat-on-tesla-vehicles-essential-safety-measures/"><u>Defending Against the FlipZero Threat on Tesla Vehicles: Essential Safety Measures</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/efficient-network-troubleshooting-with-tracert-a-comprehensive-manual-for-windows-users/"><u>Efficient Network Troubleshooting with 'Tracert': A Comprehensive Manual for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/elevate-game-graphics-with-newly-updated-geforce-rtx-2080-ti-drivers-play-without-limits/"><u>Elevate Game Graphics with Newly Updated GeForce RTX 2080 Ti Drivers – Play Without Limits!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/enhance-website-performance-with-powerful-cookiebot-solutions/"><u>Enhance Website Performance with Powerful Cookiebot Solutions</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-picture-perfection-choosing-the-best-camera-positions-on-iphone/"><u>In 2024, Picture Perfection Choosing the Best Camera Positions on iPhone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-fix-how-to-safely-obtain-and-enhance-your-amd-ryzen-drivers/"><u>Quick Fix: How to Safely Obtain & Enhance Your AMD Ryzen Drivers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resetting-your-macs-wi-fi-and-bluetooth-configuration-a-detailed-tutorial/"><u>Resetting Your Mac's Wi-Fi and Bluetooth Configuration – A Detailed Tutorial</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-1-step-solution-to-installing-the-canon-pro-100-for-windows-users/"><u>The Ultimate 1-Step Solution to Installing the Canon PRO 100 for Windows Users</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/top-picks-for-professional-video-opening-tools-for-2024/"><u>Top Picks for Professional Video Opening Tools for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-brother-hl-l2350dw-printer-with-our-step-by-step-driver-installation-tutorial/"><u>Update Your Brother HL-L2350DW Printer with Our Step-by-Step Driver Installation Tutorial</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-razer-naga-mouse-software-on-a-windows-pc-a-step-by-step-guide/"><u>Update Your Razer Naga Mouse Software on a Windows PC: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

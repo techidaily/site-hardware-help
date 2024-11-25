@@ -1,7 +1,7 @@
 ---
 title: "DIY Laptop Enhancement: How to Successfully Increase RAM for Better Performance"
-date: 2024-11-10T06:05:08.577Z
-updated: 2024-11-15T18:06:17.870Z
+date: 2024-11-21T16:00:22.466Z
+updated: 2024-11-25T16:02:43.712Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Dell/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -95,16 +99,7 @@ A total of five vents on the m18 R2 allow for maximum internal airflow. Addition
 In fact, one thing I noticed about the m18 R2 is that it never really felt hot to the touch at all. Both the keyboard and the wrist rest (above where the battery is housed) remained only slightly warm, suggesting that the fans were in fact doing their job effectively, which I'm glad for, given the sound they generate. 
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,10 +109,7 @@ In fact, one thing I noticed about the m18 R2 is that it never really felt hot t
 However, this is also quite a large laptop, so although it's portable, it isn't exactly carry-and-go, and it isn't a machine that you can leave unplugged for hours at a time. Pricing can easily rise toward the higher end too, but the cutting-edge technology solidifies the m18 R2 as something that will be near the top of the laptop market for a while. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -154,24 +146,16 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-dash.techidaily.com/download-now-newest-epson-l310-driver-version-compatible-with-windows-11-10-and-windows-7/"><u>[Download Now]: Newest Epson L310 Driver Version Compatible with Windows 11, 10 & Windows 7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/immediate-access-hp-photosmart-7520/"><u>[Immediate Access] - HP Photosmart 지원자체: 7520 기기 드라이버</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-free-voice-modification-tools-enhance-your-auditory-presentation/"><u>[Updated] Free Voice Modification Tools – Enhance Your Auditory Presentation</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-amplify-your-channel-popularity-instantly/"><u>[Updated] In 2024, Amplify Your Channel Popularity Instantly</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-everyday-epics-in-a-lens-tips-to-avoid-common-mistakes/"><u>2024 Approved Everyday Epics in a Lens Tips to Avoid Common Mistakes</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amd-driver-installation-optimizing-performance-across-multiple-windows-versions/"><u>AMD Driver Installation: Optimizing Performance Across Multiple Windows Versions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/find-and-download-compatible-sound-blaster-z-drivers-for-your-windows-11-system/"><u>Find & Download Compatible Sound Blaster Z Drivers for Your Windows 11 System</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-drivers-for-your-epson-v500-scanner/"><u>Get the Latest Drivers for Your Epson V500 Scanner</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-install-the-latest-version-of-sas-driver-for-windows-os-xpvista7/"><u>How to Install the Latest Version of SAS Driver for Windows OS (XP/Vista/7)</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-the-activation-lock-on-your-ipad-and-iphone-14-pro-without-apple-account-by-drfone-ios/"><u>In 2024, How to Remove the Activation Lock On your iPad and iPhone 14 Pro without Apple Account</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/insignia-ns-pcy5bma2-driver-download-guide-for-windows-users-w11-w10-w7-supported/"><u>Insignia NS-PCY5BMA2 Driver Download Guide for Windows Users - W11, W10, W7 Supported</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-the-necessary-hp-deskjet-2652-drivers-on-windows-version-111087/"><u>Install the Necessary HP DeskJet 2652 Drivers on Windows (Version 11/10/8/7)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/installing-and-configuring-razer-mice-drivers-on-windows-systems-fast-and-effortless-guide/"><u>Installing and Configuring Razer Mice Drivers on Windows Systems: Fast & Effortless Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-common-green-screen-hiccups-in-video-editing/"><u>Overcoming Common Green Screen Hiccups in Video Editing</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-frequent-game-interruptions-your-ultimate-fix-for-a-stable-fortnite-experience/"><u>Overcoming Frequent Game Interruptions: Your Ultimate Fix for a Stable Fortnite Experience</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/secure-communication-uncover-3-chatbot-privacy-pitfalls/"><u>Secure Communication? Uncover 3 Chatbot Privacy Pitfalls</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-nokia-c12-plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Nokia C12 Plus | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-21st-century-challenges-like-climate-change-pandemics-and-cyber-warfare-demand-new-solutions-that-extend-beyond-the-scope-of-liberal-capitalism/"><u>The 21St-Century Challenges Like Climate Change, Pandemics, and Cyber Warfare Demand New Solutions that Extend Beyond the Scope of Liberal Capitalism</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-savvy-shoppers-toms-computer-components-review/"><u>The Ultimate Resource for Savvy Shoppers: Tom's Computer Components Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-logitech-g510-software-for-windows-os-versions-7810-free-of-charge/"><u>Download Logitech G510 Software for Windows OS Versions 7/8/10 Free of Charge</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-system-upgraded-download-corsair-icue-software-for-windows-11-and-10/"><u>Get Your System Upgraded: Download Corsair iCUE Software for Windows 11 & 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-obtain-and-install-brother-hl-l2340dw-printer-drivers-on-windows-pcs/"><u>How to Obtain and Install Brother HL-L2340DW Printer Drivers on Windows PCs</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Xiaomi 13T? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-officejet-pro-8740-drivers-download-compatible-with-windows-11-10-and-8/"><u>HP Officejet Pro 8740 Drivers Download: Compatible with Windows 11, 10 & 8</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-from-iphone-6s-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud From iPhone 6s Smoothly</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/1721471620799-iphone-screen-not-turning-off-promptly-discover-how-to-fix-this-annoyance/"><u>IPhone Screen Not Turning Off Promptly? Discover How to Fix This Annoyance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-fix-effective-techniques-for-downloading-and-configuring-your-dell-mouse-driver/"><u>Quick Fix: Effective Techniques for Downloading and Configuring Your Dell Mouse Driver</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rethink-windows-11-the-top-10-best-replacement-software/"><u>Rethink Windows 11: The Top 10 Best Replacement Software</u></a></li>
+<li><a href="https://video-capture.techidaily.com/saving-your-whatsapp-chat-history-with-confidence/"><u>Saving Your WhatsApp Chat History with Confidence</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamline-content-creation-leading-after-effects-plugins-for-2024/"><u>Streamline Content Creation Leading After Effects Plugins for 2024</u></a></li>
 </ul></div>
 

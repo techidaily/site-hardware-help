@@ -1,7 +1,7 @@
 ---
 title: "The Official Arrival of a Powerful Competitor to Strix Point Ryzen Cpu's: Discover the AMD Ryzen AI 9 HX 375"
-date: 2024-08-19T12:26:53.237Z
-updated: 2024-08-20T12:26:53.237Z
+date: 2024-11-19T16:21:54.885Z
+updated: 2024-11-25T16:02:26.680Z
 tags:
   - cpu
 categories:
@@ -31,6 +31,10 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
 
  With all these technologies working in tandem, the overclocker achieved an idle frequency of 5.86 GHz. In stress testing, the maximum single-thread clock speed was 5.758 GHz, with a maximum multi-core frequency of 5.454 GHz operating at 95.2 degrees Celsius at a package power of 172.1 watts.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,14 +45,11 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
 
  SkatterBencher's 5.8 GHz and 6 GHz overclocks represent the highest on the new 9700X. Der8auer and Overclocking.com showcased their respective overclocks on the 9700X but could only eke out 5.4G Hz. The main difference was that both outlets did manual overclocks, whereas SkatterBencher used AMD's plethora of overclocking tools, enabling them to hit higher frequencies.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -57,8 +58,24 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-beginners-guide-to-video-capture-with-logitech-cam/"><u>[New] Beginner's Guide to Video Capture with Logitech Cam</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-drones-uncovered-the-top-pre-purchase-checklist-for-buyers-for-2024/"><u>[New] Drones Uncovered The Top Pre-Purchase Checklist for Buyers for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-no-cost-yield-assessment-apps-for-videos/"><u>[New] In 2024, No-Cost Yield Assessment Apps for Videos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-navigating-ig-videos-successfully-building-an-efficient-marketing-blueprint/"><u>[Updated] Navigating IG Videos Successfully Building an Efficient Marketing Blueprint</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1k-sale-alert-your-ideal-work-from-anywhere-laptop-by-lenovo-as-endorsed/"><u>$1K Sale Alert! Your Ideal Work-From-Anywhere Laptop by Lenovo as Endorsed</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/defeating-the-error-steps-to-ensure-call-of-duty-black-ops-4-proper-launch/"><u>Defeating the Error: Steps to Ensure Call of Duty: Black Ops 4 Proper Launch</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-latest-microsoft-innovations-surface-pro-10-and-laptop-ebrimae-arrive-packed-with-enhanced-ai-capabilities-insights-from-zdnet/"><u>Discover the Latest Microsoft Innovations: Surface Pro 10 & Laptop Ebrimae Arrive, Packed with Enhanced AI Capabilities - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-new-chromeos-update-how-windows-11-functionality-enhances-your-chromebook-experience-zdnet/"><u>Discover the New ChromeOS Update: How Windows 11 Functionality Enhances Your Chromebook Experience | ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-the-smart-innovations-of-dells-best-value-laptop-an-insightful-analysis/"><u>Experience the Smart Innovations of Dell's Best-Value Laptop – An Insightful Analysis</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ideal-image-to-animation-suite-for-macwindows-users/"><u>Ideal Image-to-Animation Suite for Mac/Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/inoculation-with-native-fungi-if-necessary-soils-can-be-treated-with-commercial-preparations-of-native-mycorrhizal-inoculants-to-bolster-existing-population83/"><u>Inoculation with Native Fungi: If Necessary, Soils Can Be Treated with Commercial Preparations of Native Mycorrhizal Inoculants to Bolster Existing Populations and Help Establish Associations with Newly Planted Crops Within a Rotation System.</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/maximizing-inner-illumination-with-natures-glow/"><u>Maximizing Inner Illumination with Nature's Glow</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revolutionizing-creative-workflows-comprehensive-guide-to-the-latest-2023-apple-m2-max-macbook-pro-16-expert-review-by-zdnet/"><u>Revolutionizing Creative Workflows: Comprehensive Guide to the Latest 2023 Apple M2 Max MacBook Pro (16) - Expert Review by ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-16-affordable-hp-laptops-for-the-festive-season-exclusive-offers/"><u>Top 16 Affordable HP Laptops for the Festive Season - Exclusive Offers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-linux-distros-perfect-for-newbies-thoroughly-tested-and-evaluated-by-professionals-revealed/"><u>Top Rated Linux Distros Perfect for Newbies: Thoroughly Tested & Evaluated by Professionals - Revealed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-resolve-sluggish-startup-problems-in-windows-7/"><u>Troubleshoot & Resolve Sluggish Startup Problems in Windows 7</u></a></li>
+<li><a href="https://solve-info.techidaily.com/windows-10-update-impact-on-data-risque-de-suppression-effectuee-automatiquement/"><u>Windows 10 Update Impact on Data: Risque De Suppression Effectuée Automatiquement?</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

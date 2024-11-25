@@ -1,7 +1,7 @@
 ---
 title: "Best Buy's Prime Day Exclusive: Save on the HP Victus 15 at Just $515 - Your Ultimate Guide to Top Gaming Performance"
-date: 2024-11-13T23:45:18.151Z
-updated: 2024-11-15T22:23:24.628Z
+date: 2024-11-24T16:19:36.292Z
+updated: 2024-11-25T16:20:17.069Z
 tags:
   - laptops
 categories:
@@ -24,6 +24,10 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 **Also: [The best budget gaming laptops: Expert tested](https://www.zdnet.com/article/best-budget-gaming-laptop/)** 
 
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -59,24 +63,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Infinix Note 30 VIP | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/breaking-down-the-font-inclusion-process-in-ae/"><u>Breaking Down the Font Inclusion Process in AE</u></a></li>
-<li><a href="https://win-forum.techidaily.com/exploring-the-giants-of-social-media-from-facebook-to-youtube-and-beyond/"><u>Exploring the Giants of Social Media: From Facebook to YouTube and Beyond!</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/flv-video-editing-on-a-shoestring-best-free-options-for-2024/"><u>FLV Video Editing on a Shoestring Best Free Options for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-amateur-vlogs-to-professional-gopro-cinematography-excellence-for-2024/"><u>From Amateur Vlogs to Professional GoPro Cinematography Excellence for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-20-essential-methods-for-face-blurring-in-images/"><u>In 2024, 20 Essential Methods for Face Blurring in Images</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Samsung Galaxy A05? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/installation-guide-downloading-and-updating-logitech-g203-drivers-for-multiple-windows-os/"><u>Installation Guide: Downloading and Updating Logitech G203 Drivers for Multiple Windows OS</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/revolutionize-your-gaming-with-the-latest-release-for-logitech-extreme-3d-pro-drivers/"><u>Revolutionize Your Gaming with the Latest Release for Logitech Extreme 3D Pro Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/simple-update-guide-how-to-change-your-standard-sata-ahci-controller-drivers/"><u>Simple Update Guide: How to Change Your Standard SATA AHCI Controller Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-setting-up-and-customizing-corsair-mouse-software/"><u>Step by Step Guide: Setting Up and Customizing Corsair Mouse Software</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-steps-making-your-airpods-seamlessly-sync-with-multiple-iphonesipads/"><u>Troubleshooting Steps: Making Your AirPods Seamlessly Sync with Multiple iPhones/iPads</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-best-photo-and-video-display-apps-from-ix-to-ios12/"><u>[New] Best Photo & Video Display Apps From IX to IOS12</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-breaking-into-the-elite-6-steps-for-becoming-an-instagram-certified-account/"><u>[New] In 2024, Breaking Into the Elite 6 Steps for Becoming an Instagram Certified Account</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-speedy-shots-that-captivate-audiences-for-2024/"><u>[New] Speedy Shots That Captivate Audiences for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-rip-and-save-the-best-youtube-download-software/"><u>[Updated] 2024 Approved Rip & Save The Best YouTube Download Software</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-start-with-snapseed-a-foundation-for-image-editing/"><u>[Updated] Start with Snapseed A Foundation for Image Editing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-your-channels-potential-the-cost-analysis/"><u>[Updated] Unlocking Your Channel's Potential The Cost Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/brother-hl-l2300d-drivers-download-and-update-today/"><u>Brother HL-L2300D Drivers: Download and Update Today!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comparing-aurora-and-competitors-dynamic-range-effects-for-2024/"><u>Comparing Aurora and Competitors' Dynamic Range Effects for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/direct-link-to-dell-certified-bluetooth-drivers-for-all-windows-versions/"><u>Direct Link to Dell-Certified Bluetooth Drivers for All Windows Versions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-how-to-downloading-and-installing-magic-mouse-windows-compatibility-software-for-seamless-use/"><u>Easy How-To: Downloading and Installing Magic Mouse Windows Compatibility Software for Seamless Use</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-tips-overcoming-compatibility-challenges-with-hp-beats-sound-cards-in-windows-11-8-and-7-environments/"><u>Expert Tips: Overcoming Compatibility Challenges with HP Beats Sound Cards in Windows 11, 8 & 7 Environments</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-right-driver-ultimate-downloads-for-your-epson-scanner/"><u>Get the Right Driver - Ultimate Downloads for Your Epson Scanner</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-8-plus-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 8 Plus Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-visuals-with-lgs-premium-65-inch-oled-c9-smart-tv-a-comprehensive-4k-experience/"><u>Mastering Visuals with LG's Premium 65-Inch OLED C9 Smart TV - A Comprehensive 4K Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-10-installation-issue-fixing-error-code-80240020/"><u>Resolving Windows 10 Installation Issue: Fixing Error Code 80240020</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/rtx-2080-latest-graphics-card-driver-update-for-windows-1178-systems/"><u>RTX 2080 Latest Graphics Card Driver Update for WIndows 11/7/8 Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-integration-of-updated-rndis-usb-connectivity-on-your-windows-pc/"><u>Seamless Integration of Updated RNDIS USB Connectivity on Your Windows PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/simple-steps-install-intels-dual-band-ac-7260-wifi-driver-with-no-hassle/"><u>Simple Steps: Install Intel's Dual Band AC 7260 WiFi Driver With No Hassle!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/tp-link-ub400-access-free-driver-downloads-and-update-instructions-for-optimal-performance/"><u>TP-Link UB400: Access Free Driver Downloads & Update Instructions for Optimal Performance</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

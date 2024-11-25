@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Exclusive Review: Get the Ultimate Gaming Speaker System for Half Price at Amazon!"
-date: 2024-11-12T21:06:00.832Z
-updated: 2024-11-16T06:48:45.367Z
+date: 2024-11-21T16:27:47.931Z
+updated: 2024-11-25T16:15:15.811Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Taylor Clemons/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET takeaways
 
@@ -77,16 +81,7 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -98,10 +93,7 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -138,24 +130,20 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-top-20-budget-conscious-video-editing-applications/"><u>[New] Top 20 Budget-Conscious Video Editing Applications</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-the-ultimate-list-of-ios-solutions-to-play-your-favorite-psp-games/"><u>[Updated] In 2024, The Ultimate List of iOS Solutions to Play Your Favorite PSP Games</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/digital-distribution-center-winx-dvd-ripper-and-video-editing-tools-available-online/"><u>Digital Distribution Center: WinX DVD Ripper & Video Editing Tools Available Online</u></a></li>
-<li><a href="https://fox-access.techidaily.com/discover-the-finest-android-and-iphone-photo-overlays-at-no-cost-for-2024/"><u>Discover the Finest Android & iPhone Photo Overlays at No Cost for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-newly-updated-hp-officejet-njw-4500-printer-driver-software-for-optimal-performance/"><u>Download the Newly Updated HP OfficeJet Njw 4500 Printer Driver Software for Optimal Performance</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easily-upgrade-to-newest-amd-radeon-r9-200-series-driver-on-windows-os/"><u>Easily Upgrade to Newest AMD Radeon R9 200 Series Driver on Windows OS</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ensure-smooth-networking-downloading-and-updating-netgear-wi-fi-card-drivers/"><u>Ensure Smooth Networking: Downloading & Updating NETGEAR Wi-Fi Card Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722976628485-get-the-latest-asus-pce-ac68-device-driver-software-here/"><u>Get the Latest ASUS PCE-AC68 Device Driver Software Here</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-prolong-windows-10-restart-time-while-tasks-run/"><u>How to Prolong Windows 10 Restart Time While Tasks Run</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722974594665-improve-gaming-experience-with-new-updates-on-amd-rx-amoledr-480-drivers/"><u>Improve Gaming Experience with New Updates on AMD RX Amoled(R) 480 Drivers!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-itel-a05s-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Itel A05s? Try These Fixes</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-innovative-ways-to-capture-authenticity-in-customer-reviews/"><u>In 2024, Innovative Ways to Capture Authenticity in Customer Reviews</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-image-curves-in-adobe-photoshop/"><u>In 2024, Mastering Image Curves in Adobe Photoshop</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-the-latest-logitech-keyboard-driver-for-enhanced-windows-11-performance/"><u>Install the Latest Logitech Keyboard Driver for Enhanced Windows 11 Performance</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-error-landscape-top-6-chatgpt-hurdles-and-remedies/"><u>Navigating Error Landscape: Top 6 ChatGPT Hurdles & Remedies</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/nvidia-quadro-graphics-drivers-for-win10-direct-download-from-official-site/"><u>Nvidia Quadro Graphics Drivers for Win10 - Direct Download From Official Site</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-guide-downloading-and-setting-up-your-logitech-wireless-keyboard-on-windows-11/"><u>Quick Guide: Downloading and Setting Up Your Logitech Wireless Keyboard on Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-tutorial-how-to-get-and-set-up-intel-network-drivers-for-windows-systems/"><u>Step-by-Step Tutorial: How to Get and Set Up Intel Network Drivers for Windows Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-your-brother-mfc-copier-7860dw-free-driver-software-for-windows-users/"><u>Update Your Brother MFC-Copier-7860DW: Free Driver Software for Windows Users</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-game-on-the-ultimate-guide-to-superior-offline-ios-fun/"><u>[New] 2024 Approved Game On The Ultimate Guide to Superior Offline iOS Fun</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-enhancing-insta-videos-3-simple-border-techniques-for-2024/"><u>[New] Enhancing Insta Videos 3 Simple Border Techniques for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-sow-and-reap-rivalries-farming-games-to-remember/"><u>2024 Approved Sow & Reap Rivalries Farming Games to Remember</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-your-iphone-experience-by-merging-ai-talents-of-chatgpt-and-siri/"><u>Boost Your iPhone Experience by Merging AI Talents of ChatGPT and Siri</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722971631570-brother-hl2280dw-driver-downloads-for-windows-111087-install-now/"><u>Brother HL2280DW Driver Downloads for Windows 11/10/8/7 – Install Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/compatible-epson-ds-30-printing-software-downloads-for-windows-platform-versions-8-and-107/"><u>Compatible Epson DS-30 Printing Software Downloads for Windows Platform Versions 8 and 10/7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-best-performing-intel-network-driver-compatible-with-windows-11-10-and-7/"><u>Get the Best Performing Intel Network Driver Compatible with Windows 11, 10 & 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-windows-device-ready-with-new-hp-wi-fi-driver-software/"><u>Get Your Windows Device Ready with New HP Wi-Fi Driver Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-find-and-apply-the-latest-huion-tablet-driver-version-on-your-computer/"><u>How to Find and Apply the Latest Huion Tablet Driver Version on Your Computer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-play-pokemon-go/"><u>How to Play ‘Pokémon Go’</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-outlook-issue-on-your-pc/"><u>Overcoming Outlook Issue on Your PC</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/pioneering-the-virtual-landscape-with-metaverse-marketing/"><u>Pioneering the Virtual Landscape with Metaverse Marketing</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-tips-getting-the-hp-laserjet-pro-m402n-driver-up-and-running-on-windows-machines/"><u>Quick Tips: Getting the HP LaserJet Pro M402n Driver Up and Running on Windows Machines</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-realme-12-5g-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Realme 12 5G Device</u></a></li>
 </ul></div>
 

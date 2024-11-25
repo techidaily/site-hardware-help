@@ -1,7 +1,7 @@
 ---
 title: "Huge Savings Alert: Microsoft Surface Pro 8 Drops by $600 Following Cyber Weekend – Shop Now at Best Prices!"
-date: 2024-11-13T17:20:53.984Z
-updated: 2024-11-16T04:42:09.500Z
+date: 2024-11-20T16:28:56.105Z
+updated: 2024-11-25T16:01:43.315Z
 tags:
   - laptops
 categories:
@@ -22,6 +22,10 @@ With an Intel i7 processor, 16 GB of RAM, and a 256 GB SSD, this computer can co
 [![Microsoft Surface Pro 8](https://www.zdnet.com/a/img/resize/9759632d08d37a8ff72fa27e2a7fba73bc17043f/2022/05/05/3cef6d5b-f985-4f0d-8b4d-5dc3134b9473/surface-pro-8-for-business-2.jpg?auto=webp&fit=crop&height=172.5&width=294) Microsoft Surface Pro 8 $1,140 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Pro-8-13-Touchscreen%2Fdp%2FB09DK7ZWMP%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7784ecf4-7758-4ed3-9a35-f1e98a1dfd35%7Cdtp&dtb=1)
 
 Though this deal is valid for the graphite device only, you can purchase the [detachable keyboard](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Pro-Signature-Keyboard%2Fdp%2FB09DKCMZFK%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7784ecf4-7758-4ed3-9a35-f1e98a1dfd35%7Cdtp&dtb=1) and [pen](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMetapen-Microsoft-Surface-VivoBook-Students%2Fdp%2FB0B1CS1XK2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7784ecf4-7758-4ed3-9a35-f1e98a1dfd35%7Cdtp&dtb=1) on Amazon for $150 and $21 respectively. But, if you wanted to purchase the [Platinum-colored Surface Pro 8](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Pro-8-13-Touchscreen%2Fdp%2FB09DJSF748%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7784ecf4-7758-4ed3-9a35-f1e98a1dfd35%7Cdtp&dtb=1), you can purchase that for just $30 more than this model.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -63,37 +67,24 @@ Though the original listed price is rarely what you can secure this product at, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-exploringexcellentcameraspost-mycam/"><u>[New] ExploringExcellentCamerasPost-MyCam</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-pro-techniques-for-professional-iphone-shots/"><u>[New] Pro Techniques for Professional Iphone Shots</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-video-posting-pathway-for-twitter-and-tumblr-users/"><u>[New] Video Posting Pathway for Twitter & Tumblr Users</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-waveforms-and-windows-mac-sound-recording/"><u>[New] Waveforms and Windows Mac Sound Recording</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-free-3d-text-psd-goldmine-top-selections/"><u>[Updated] Free 3D Text PSD Goldmine - Top Selections</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/canoscan-lide-1230-scanner-software-downloads-and-updates/"><u>CanoScan LiDE 1230 Scanner Software Downloads and Updates</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-hp-scanjet-drivers-now-fully-supported-on-windows-11-8-and-7/"><u>Get the Latest HP Scanjet Drivers Now! Fully Supported on Windows 11, 8 & 7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722976268154-get-your-steelseries-game-controllers-upgraded-windows-10-compatible-driver-pack-available-now/"><u>Get Your SteelSeries Game Controllers Upgraded: Windows 10 Compatible Driver Pack Available Now!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-get-the-latest-amd-radeon-hd-graphics-card-drivers-for-windows-seven-users/"><u>How to Get the Latest AMD Radeon HD Graphics Card Drivers for Windows Seven Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-microsoft-teams-microphone-failures-on-pc-with-windows-1110/"><u>How to Resolve Microsoft Teams Microphone Failures on PC with Windows 11/10</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-beyond-the-lens-innovative-ideas-for-youtube-video-creation/"><u>In 2024, Beyond the Lens Innovative Ideas for YouTube Video Creation</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Infinix Note 30 Pro | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Samsung Galaxy S24+ | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-making-an-impact-on-youtube-tips-on-banners-and-art-dimensions/"><u>In 2024, Making an Impact on YouTube Tips on Banners and Art Dimensions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-updated-gigabyte-z370-precise-motherboard-drivers-for-optimal-performance/"><u>Install Updated Gigabyte Z370 Precise Motherboard Drivers for Optimal Performance</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/simple-steps-install-and-update-your-asus-bluetooth-drivers-with-our-guide/"><u>Simple Steps: Install and Update Your ASUS Bluetooth Drivers with Our Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/solution-steps-for-when-windows-fails-to-identify-your-tl-wn7221-n-wifi-adapter/"><u>Solution Steps for When Windows Fails to Identify Your TL-WN722^1 N WiFi Adapter</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshoot-and-update-printing-devices-on-windows-11-missing-driver-solutions/"><u>Troubleshoot & Update Printing Devices on Windows 11 – Missing Driver Solutions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unlock-professional-sound-with-free-behringer-driver-software/"><u>Unlock Professional Sound with Free Behringer Driver Software!</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-unleash-your-full-potential-top-ideas-for-productive-podcast-sessions/"><u>[New] 2024 Approved Unleash Your Full Potential Top Ideas for Productive Podcast Sessions</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-instant-insight-method-for-punctuation-of-timelines-in-images/"><u>[New] In 2024, Instant Insight Method for Punctuation of Timelines in Images</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-rethinking-recipes-squared-up-tutorials-for-youtube-and-facebook-success/"><u>[New] Rethinking Recipes Squared-Up Tutorials for YouTube and Facebook Success</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-tips-to-develop-captivating-vlogs-a-scriptwriting-approach/"><u>[Updated] 2024 Approved Tips to Develop Captivating Vlogs A Scriptwriting Approach</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-turbocharging-your-instagram-footage-for-2024/"><u>[Updated] Turbocharging Your Instagram Footage for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-high-fidelity-feat-hero5-black-vs-hero4-silver-edition-battle/"><u>2024 Approved High-Fidelity Feat Hero5 Black vs Hero4 Silver Edition Battle</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-users-heres-how-to-download-and-setup-blockchain-drivers-on-windows-systems/"><u>AMD Users! Here's How to Download and Setup Blockchain Drivers on Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722963182604-download-and-update-asus-vg248qe-graphics-card-drivers-on-windows-simplified-steps/"><u>Download & Update Asus VG248QE Graphics Card Drivers on Windows - Simplified Steps</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-compatible-nvidia-geforce-gtx-1080-graphics-drivers-tailored-for-windows-7-computers/"><u>Get Compatible Nvidia GeForce GTX 1080 Graphics Drivers Tailored for Windows 7 Computers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975442884-get-your-bcm20702a0-drivers-on-windows-in-a-flash/"><u>Get Your BCM20702A0 Drivers on Windows in a Flash</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-canon-dr-c225-driver-for-windows-11108-free-download-guide/"><u>Get Your Canon DR-C225 Driver for Windows 11/10/8 - Free Download Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-speedy-and-smooth-wacom-intuos-tablet-driver-configuration-steps/"><u>How To: Speedy and Smooth Wacom Intuos Tablet Driver Configuration Steps</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210680785-9781800990609-let-it-go/"><u>Let It Go | Free Book</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-compatibility-fixing-hydro-series-h100i-v2-drivers-for-windows-machines/"><u>Mastering Compatibility: Fixing Hydro Series H100i v2 Drivers for Windows Machines</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-morphvox-transformation-top-techniques-revealed/"><u>Mastering MorphVOX Transformation Top Techniques Revealed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pioneering-therapy-infusing-gpt-into-cognitive-techniques/"><u>Pioneering Therapy: Infusing GPT Into Cognitive Techniques</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/simplify-your-pc-maintennance-with-this-essential-tutorial-updatedownload-sata-drivers-for-windows/"><u>Simplify Your PC Maintennance with This Essential Tutorial: Update/Download SATA Drivers for Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/streamline-your-creative-workflow-instant-wacom-intuos-tablet-driver-configuration/"><u>Streamline Your Creative Workflow: Instant Wacom Intuos Tablet Driver Configuration</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/watchos-11-unveiling-exciting-new-enhancements-for-your-apple-watch-top-highlights-revealed/"><u>WatchOS 11: Unveiling Exciting New Enhancements for Your Apple Watch – Top Highlights Revealed</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

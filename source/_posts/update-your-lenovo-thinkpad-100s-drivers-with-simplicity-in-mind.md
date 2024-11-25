@@ -1,7 +1,7 @@
 ---
 title: Update Your Lenovo Thinkpad 100S Drivers with Simplicity in Mind
-date: 2024-08-19T12:29:40.988Z
-updated: 2024-08-20T12:29:40.988Z
+date: 2024-11-21T16:09:01.718Z
+updated: 2024-11-25T16:01:54.487Z
 tags:
   - win11
   - win10
@@ -36,14 +36,29 @@ thumbnail: https://thmb.techidaily.com/8bc720ee0adbf09ae88a648a38e027832e102c5d3
 
 1. On your keyboard, press   **the Windows logo key  ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and **R**  at the same time. Then copy & paste **devmgmt.msc** into the box and click   **OK**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Double-click on **Printer queues** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1a5b86a48f2.jpg)
 3. Right-click on **Brother MFC 7360N** and click **Uninstall device** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Head to **[Brother’s official website Support & Downloads page](http://support.brother.com/g/b/countrytop.aspx?c=us&lang=en)**  and click**Product Search** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f9dbc2b1f.jpg)
 5. Type **MFC 7360N** into the**Search by Model Name** box and click**Search** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b92163d78f96.jpg)
 6. Click**Downloads** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b92169633e75.jpg)
 7. Select **your Windows OS**   and **OS version** . Then click**Search** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b921713414d6.jpg)
@@ -55,11 +70,12 @@ thumbnail: https://thmb.techidaily.com/8bc720ee0adbf09ae88a648a38e027832e102c5d3
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b861455df55e.jpg)
 11. Restart your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### Method 2: Update your Brother MFC7360N driver automatically (Recommended)
 
  If you don’t have the time, patience or computer skills to update your Killer network  driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -72,13 +88,11 @@ thumbnail: https://thmb.techidaily.com/8bc720ee0adbf09ae88a648a38e027832e102c5d3
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5aefd675a7c.jpg)
 3. You can upgrade to[**the Pro version**](https://tools.techidaily.com/drivereasy/download/) and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b92188ba032e.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. **Restart**   your computer for the changes to take effect.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you have any problems while using **Driver Easy** , feel free to contact our support team at **<support@drivereasy.com>** . Be sure to attach **the URL of this article**  for more expedient and efficient guidance. ?
@@ -96,8 +110,6 @@ thumbnail: https://thmb.techidaily.com/8bc720ee0adbf09ae88a648a38e027832e102c5d3
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -105,4 +117,18 @@ thumbnail: https://thmb.techidaily.com/8bc720ee0adbf09ae88a648a38e027832e102c5d3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-choosing-the-right-video-sharing-platform-tiktok-vs-youtubes-shorts/"><u>[New] In 2024, Choosing the Right Video Sharing Platform TikTok vs YouTubes' Shorts?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-expert-tips-activating-or-deactivating-youtube-comments-for-2024/"><u>[Updated] Expert Tips Activating or Deactivating YouTube Comments for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/correcting-windows-setup-files-that-arent-working-properly/"><u>Correcting Windows Setup Files That Aren't Working Properly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-scoop-on-the-best-budget-friendly-2-in-1-laptops-before-prime-day-ignoring-lenovo-and-dell-brands-zdnet-reviews/"><u>Exclusive Scoop on the Best Budget-Friendly 2-in-1 Laptops Before Prime Day, Ignoring Lenovo and Dell Brands | ZDNET Reviews</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-techs-new-frontier-highlights-and-must-see-releases-at-ces-2023-featured-by-zdnet/"><u>Exploring Tech's New Frontier: Highlights and Must-See Releases at CES 2023, Featured by ZDNet</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-how-to-screen-record-on-xiaomi-11t-mi-11mi-11-lite/"><u>In 2024, How to Screen Record on Xiaomi 11T/ Mi 11/Mi 11 Lite</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-apple-iphone-8-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen Apple iPhone 8 In Different Conditionsin</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-realme-gt-3-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Realme GT 3</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/lost-your-passwords-a-step-by-step-guide-to-retrieve-files-from-a-locked-old-laptop/"><u>Lost Your Passwords? A Step-by-Step Guide to Retrieve Files From a Locked Old Laptop</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/prime-day-goldmine-unbeatable-best-buy-offers-for-the-upcoming-october-prime-day-2024-zdnet-highlights/"><u>Prime Day Goldmine: Unbeatable Best Buy Offers for the Upcoming October Prime Day 2024 | ZDNet Highlights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-starter-linux-os-proven-quality-and-features-by-industry-experts-your-ultimate-guide/"><u>Top-Rated Starter Linux OS: Proven Quality & Features by Industry Experts - Your Ultimate Guide!</u></a></li>
+</ul></div>
 

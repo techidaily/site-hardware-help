@@ -1,7 +1,7 @@
 ---
 title: Benchmark Dev Reveals Strong Performance of Snapdragon X CPU, Captures 6.5%% of Past Month's Geekbench N Data
-date: 2024-08-19T12:27:45.762Z
-updated: 2024-08-20T12:27:45.762Z
+date: 2024-11-19T16:15:50.730Z
+updated: 2024-11-25T16:07:29.475Z
 tags:
   - cpu
 categories:
@@ -38,6 +38,10 @@ Intel is continuing the trend of replacing its entry-level processors with the g
 
  The 310's power rating is unknown, however based on the Intel Processor 300's base power of 46W, we suspect the 310 will be the same. If so, power consumption will also be a big differentiation between the two chips, with the i3-13100 able to suck down 60W at a minimum and up to 110W through Intel's modern PL1/PL2 system.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -48,14 +52,11 @@ Intel is continuing the trend of replacing its entry-level processors with the g
 
  Pricing and availability are unknown, but now that its existence has been revealed, we can expect this chip to debut soon.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -64,8 +65,26 @@ Intel is continuing the trend of replacing its entry-level processors with the g
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-a-tech-savvy-approach-securely-storing-snapchat-photos-on-devices/"><u>[Updated] In 2024, A Tech-Savvy Approach Securely Storing Snapchat Photos on Devices</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-art-of-facebook-video-coverage-standout-tips-and-tricks-for-2024/"><u>[Updated] The Art of Facebook Video Coverage Standout Tips & Tricks for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/2024-ultimate-selection-leading-security-keys-vetted-by-professionals/"><u>2024 Ultimate Selection: Leading Security Keys Vetted by Professionals</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-unexpected-power-trick-of-this-comprehensive-12-in-1-thunderbolt-station-for-windows-devices-zdnet/"><u>Discover the Unexpected Power Trick of This Comprehensive 12-in-1 Thunderbolt Station for Windows Devices | ZDNet</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-fixes-for-issues-with-clownfish-voice-transformation-equipment-malfunctions/"><u>Effective Fixes for Issues with Clownfish Voice Transformation Equipment Malfunctions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/exploring-magix-media-pack/"><u>Exploring MAGIX Media Pack</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-eradicating-pending-videos-on-your-youtube-queue-for-2024/"><u>Guide Eradicating Pending Videos on Your YouTube Queue for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/immersive-demo-of-lenovos-cutting-edge-auto-swivel-laptop-at-ifa-2024-what-zdnet-found-intriguing/"><u>Immersive Demo of Lenovo's Cutting-Edge Auto-Swivel Laptop at IFA 2024 – What ZDNet Found Intriguing</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/macbook-showdown-determining-your-ideal-machine-between-air-and-pro-variants-with-tips/"><u>MacBook Showdown: Determining Your Ideal Machine Between Air and Pro Variants with Tips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mega-cyber-monday-offer-450-off-13-samsung-galaxy-book2-360-tech-deals/"><u>Mega Cyber Monday Offer - $450 Off 13 Samsung Galaxy Book2 360 | Tech Deals</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-the-most-popular-online-video-editors-for-chromebook-users-for-2024/"><u>New The Most Popular Online Video Editors for Chromebook Users for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pesticide-information-project-of-california-school-of-veterinary-medicine-at-uc-davis-2013-herbicides-general-information-and-mode-of-action-retrieved-from-470/"><u>Pesticide Information Project of California, School of Veterinary Medicine at UC Davis (2013). Herbicides: General Information and Mode of Action. Retrieved From http://ipm.ucanr.edu/PMG/PEER/html/herbi_glyphosate.html</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-iphones-phantom-touch-issue-with-these-10-effective-strategies/"><u>Solve Your iPhone's Phantom Touch Issue with These 10 Effective Strategies</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-ranking-ultimate-guide-to-windows-laptops-in-depth-tests-and-reviews-by-tech-experts/"><u>Top-Ranking Ultimate Guide to Windows Laptops - In-Depth Tests & Reviews by Tech Experts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/travelgizmos2024-exploring-the-must-have-devices-for-smart-travelers-featured-by-zdnet/"><u>TravelGizmos2024: Exploring the Must-Have Devices for Smart Travelers Featured by ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unleash-power-and-portability-discover-our-editors-choice-for-all-day-battery-life-in-ultraportable-laptops/"><u>Unleash Power & Portability: Discover Our Editor's Choice for All-Day Battery Life in Ultraportable Laptops</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unraveling-the-mystery-of-driver-52-troubles/"><u>Unraveling the Mystery of Driver #52 Troubles</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-unlock-filmora-for-free-legit-and-secure-download-options-for-2024/"><u>Updated Unlock Filmora for Free Legit and Secure Download Options for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/zdnet-review-reveals-asus-superior-oled-display-triumphs-over-hundreds-of-rivals/"><u>ZDNet Review Reveals Asus' Superior OLED Display Triumphs Over Hundreds of Rivals</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->

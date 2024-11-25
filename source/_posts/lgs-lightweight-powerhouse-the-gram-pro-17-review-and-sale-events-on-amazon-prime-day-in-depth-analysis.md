@@ -1,7 +1,7 @@
 ---
 title: "LG's Lightweight Powerhouse: The Gram Pro 17 Review and Sale Events on Amazon Prime Day | In-Depth Analysis"
-date: 2024-11-13T16:55:15.516Z
-updated: 2024-11-16T03:19:27.026Z
+date: 2024-11-22T16:15:41.025Z
+updated: 2024-11-25T16:19:48.380Z
 tags:
   - laptops
 categories:
@@ -20,6 +20,10 @@ Cesar Cadenas/ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What's the Amazon Prime Day deal?
 
 Amazon's October Prime Day sales event has officially kicked off, and the two configurations of LG's Gram Pro 17 are seeing huge discounts. The model with the Intel Arc GPU has had its price tag cut by $500, going from $2,200 to $1,700, while the Nvidia RYX 3050 version has gone down by around $300\. The latter now costs $2,196 instead of $2,500.
@@ -29,16 +33,7 @@ Amazon's October Prime Day sales event has officially kicked off, and the two co
 ---
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -90,10 +85,7 @@ The other part of this keyboard I'm not a fan of is its shallow design. The keys
 If you're someone that doesn't do a lot of typing, and are looking for an ultra-portable laptop with a stunning display, this laptop could fit that ticket nicely. It's seemingly designed to look cool, go wherever you go, and bring a solid suite of hardware with it. Video creators that do a lot of in-the-field video editing, for example might love having this amount of processing power in such a lightweight package. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -136,22 +128,24 @@ For similar options, check out our [Best Laptops for Graphics Designers](https:/
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-help.techidaily.com/download-wireless-network-adapter-drivers-quickly-and-easily/"><u>[DOWNLOAD] Wireless Network Adapter Drivers | Quickly & Easily</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-addicted-to-boomerangs-mastering-ig-loop-artistry/"><u>[New] 2024 Approved Addicted to Boomerangs Mastering IG Loop Artistry</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-benq-bl2711u-reviewed-the-apex-of-27-high-definition-monitoring-technology-for-2024/"><u>[New] BenQ BL2711U Reviewed - The Apex of 27” High-Definition Monitoring Technology for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mastering-documentary-script-artistry/"><u>[New] Mastering Documentary Script Artistry</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-power-supplies-for-hero5-official-and-alternative-models/"><u>2024 Approved Ultimate Power Supplies for Hero5 Official & Alternative Models</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-epson-l3110-driver-for-modern-operating-systems-windows-11107-compatible/"><u>Download Epson L3110 Driver for Modern Operating Systems: Windows 11/10/7 Compatible</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-nvidia-quadro-drivers-for-windows-10-latest-version-and-compatibility-guide/"><u>Download NVIDIA Quadro Drivers for Windows 10: Latest Version & Compatibility Guide</u></a></li>
-<li><a href="https://article-helps.techidaily.com/embrace-new-dimensions-step-by-step-on-your-vr-journey/"><u>Embrace New Dimensions Step-by-Step on Your VR Journey</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-overcome-corsair-h115i-driver-challenges-in-recent-windows-versions/"><u>How to Overcome Corsair H115i Driver Challenges in Recent Windows Versions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-lenovo-x1-carbon-drivers-download-manual-for-windows-10-and-ebootable-in-windows-7/"><u>Latest Lenovo X1 Carbon Drivers - Download Manual for Windows 10 & Ebootable in Windows 7</u></a></li>
-<li><a href="https://change-location.techidaily.com/list-of-pokemon-go-joysticks-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-the-ultimate-primer-on-the-wave-editor-pivotal-components-audit-reports-and-tutorials/"><u>New 2024 Approved The Ultimate Primer on the Wave Editor Pivotal Components, Audit Reports, and Tutorials</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-fixes-how-to-seamlessly-update-scansnap-ix500-software-in-windows/"><u>Quick Fixes: How to Seamlessly Update ScanSnap iX500 Software in Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-logitech-mx-stream-driver-download-tutorial/"><u>Step-by-Step Logitech MX Stream Driver Download Tutorial</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-surprising-strengths-and-limitations-of-the-compact-apple-iphone-12-mini/"><u>The Surprising Strengths and Limitations of the Compact Apple iPhone 12 Mini</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-rated-servers-and-equipment-cabinets-the-ultimate-guide-for-2nd4/"><u>Top-Rated Servers & Equipment Cabinets - The Ultimate Guide for 2nD4</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshooting-tips-downloading-and-setting-up-your-dell-mouse-driver-correctly/"><u>Troubleshooting Tips - Downloading and Setting Up Your Dell Mouse Driver Correctly</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-essential-screen-recording-software-a-comprehensive-analysis/"><u>[New] In 2024, Essential Screen Recording Software A Comprehensive Analysis</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagram-storytelling-mastery-crafting-a-dynamic-marketing-plan/"><u>[New] Instagram Storytelling Mastery Crafting a Dynamic Marketing Plan</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-instagrams-silent-frames-no-more-a-sound-fix-for-2024/"><u>[Updated] Instagram's Silent Frames No More – A Sound Fix for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-reimagining-vrs-uncharted-territories/"><u>2024 Approved Reimagining VR's Uncharted Territories</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/winx-dvd-ripper-and/"><u>快速練成：WinX DVD Ripper & 影片切換器的線上技術支援指南</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722973628434-download-and-update-wi-fi-drivers-on-windows-7-simple-steps/"><u>Download and Update Wi-Fi Drivers on Windows 7 - Simple Steps</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-fixes-to-update-your-lenovo-ideapad-100-device-compatible-drivers-for-windows-10/"><u>Easy Fixes to Update Your Lenovo IdeaPad 100 Device – Compatible Drivers for Windows 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-access-to-latest-intel-chipset-software-start-the-download-here/"><u>Effortless Access to Latest Intel Chipset Software - Start the Download Here!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-realtek-rtl81drivers-for-your-pc-on-windows-107/"><u>Get the Latest Realtek RTL81#Drivers for Your PC on Windows 10/7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-easily-get-and-update-your-mbox2-drivers-on-windows-computers-today/"><u>How To Easily Get And Update Your MBox2 Drivers On Windows Computers Today!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-infinix-smart-8-plus-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Infinix Smart 8 Plus to PC? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/improving-blog-commentaries-with-ai-wisdom/"><u>Improving Blog Commentaries with AI Wisdom</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-tapping-into-the-telegraphic-trend-maximizing-your-telegram-presence/"><u>In 2024, Tapping Into the Telegraphic Trend Maximizing Your Telegram Presence</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-lenovo-x1-carbon-system-updates-and-driver-downloads-compatible-with-windows-11-and-windows-7/"><u>Latest Lenovo X1 Carbon System Updates and Driver Downloads Compatible with Windows 11 & Windows 7</u></a></li>
+<li><a href="https://win-community.techidaily.com/overcome-transfer-failed-message-due-to-low-space-on-your-iphone/"><u>Overcome 'Transfer Failed' Message Due to Low Space on Your iPhone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-start-with-easycap-professional-drivers-for-free-download/"><u>Quick Start with EasyCap - Professional Drivers for Free Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-downloading-the-latest-hp-deskjet-ink-advantage-3520-driver-improve-your-printing-experience/"><u>Step-by-Step Guide to Downloading the Latest HP Deskjet Ink Advantage 3520 Driver – Improve Your Printing Experience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/successful-mbox-2-driver-installation-and-updates-on-windows-a-step-by-step-guide/"><u>Successful MBox 2 Driver Installation and Updates on Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-lg-usb-drivers-for-windows-operating-systems-windows-10-8-and-7/"><u>Troubleshooting LG USB Drivers for Windows Operating Systems (Windows 10, 8, and 7)</u></a></li>
 </ul></div>
 

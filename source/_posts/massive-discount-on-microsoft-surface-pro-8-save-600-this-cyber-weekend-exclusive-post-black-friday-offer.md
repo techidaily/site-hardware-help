@@ -1,7 +1,7 @@
 ---
 title: Massive Discount on Microsoft Surface Pro 8 - Save $600 This Cyber Weekend! Exclusive Post-Black Friday Offer
-date: 2024-11-10T06:15:26.145Z
-updated: 2024-11-15T18:56:26.915Z
+date: 2024-11-19T16:31:31.509Z
+updated: 2024-11-25T16:18:07.595Z
 tags:
   - laptops
 categories:
@@ -22,6 +22,10 @@ The [Lenovo 13" ThinkPad X1 Gen 3 tablet](https://buy.geni.us/Proxy.ashx?TSID=36
 [![Lenovo 13" ThinkPad X1 Gen 3 tablet (save $1928)](https://www.zdnet.com/a/img/resize/d15dba8be58eb90e22be5f870ce8f9f31263b046/2022/11/09/bcba1ad3-bb8d-42a7-aea1-ffcbaba348e8/224.jpg?auto=webp&fit=crop&height=172.5&width=294) Lenovo 13" ThinkPad X1 Gen 3 tablet (save $1928) $950 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Tablet-3rd-Gen%2Fdp%2FB07CYYY71S%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C296c26f0-18b4-49db-bccd-f923e832356c%7Cdtp&dtb=1)
 
 The [Lenovo 13" ThinkPad X1 Gen 3 tablet](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Tablet-3rd-Gen%2Fdp%2FB07CYYY71S%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C296c26f0-18b4-49db-bccd-f923e832356c%7Cdtp&dtb=1) comes with a 13" QHD+ (3000 x 2000) IPS anti-reflective display, an 8th-generation Intel Core i7 processor (1.90GHz, up to 4.20GHz with Turbo Boost), 8GB RAM, 256GB SSD storage, Intel UHD 620 Graphics, a rear and front-facing camera, and a ThinkPad Pen Pro stylus. Furthermore, there are two Thunderbolt ports and a fingerprint reader.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -67,22 +71,21 @@ Stocks are low. If you use the **X1TABDEAL** e-coupon, you are limited to up to 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-boost-your-tiktok-game-best-free-edits-for-mac-users-top-10/"><u>[New] In 2024, Boost Your TikTok Game - Best Free Edits for Mac Users (Top 10)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/7620-printer-drivers-in-windows/"><u>7620 Printer Drivers in Windows</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/discover-the-best-video-capture-tools-for-windows-users/"><u>Discover the Best Video Capture Tools for Windows Users</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/evaluating-the-performance-and-features-of-a-battery-operated-google-nest-doorbell/"><u>Evaluating the Performance and Features of a Battery Operated Google Nest Doorbell</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-gigabyte-nic-drivers-here-immediate-download-available/"><u>Get Your Gigabyte NIC Drivers Here - Immediate Download Available!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-hp-speakers-up-and-running-with-our-free-driver-downloads/"><u>Get Your HP Speakers Up and Running with Our Free Driver Downloads!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-smoothly-get-the-dell-mouse-driver-installed-common-problems-solved/"><u>How To Smoothly Get the Dell Mouse Driver Installed: Common Problems Solved</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-tecno-pop-8-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Tecno Pop 8 to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On OnePlus Ace 2V | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/quicktime-magic-precise-timelapse-shots-with-samsung-for-2024/"><u>Quicktime Magic Precise Timelapse Shots with Samsung for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ial-up-beats-easy-audio-posting-to-youtubes-for-2024/"><u>[New] Dial-Up Beats Easy Audio Posting to YouTubes for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/asy-steps-how-to-master-the-best-of-9-free-youtube-logomakers/"><u>[New] Easy Steps How to Master the Best of 9 Free YouTube Logomakers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-eye-catching-video-ad-campaigns-top-creators-exposed-for-2024/"><u>[New] Eye-Catching Video Ad Campaigns Top Creators Exposed for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-unveiling-effective-techniques-for-setting-up-and-gauging-fbs-instream-ads/"><u>[Updated] 2024 Approved Unveiling Effective Techniques for Setting Up and Gauging FB's Instream Ads</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-streaming-mastery-ioss-no1-freepluspaid-movie-apps-guide/"><u>2024 Approved Streaming Mastery IOS's No.1, FREE+Paid Movie Apps Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-free-music-organizer-software-on-iphone-your-ultimate-guide/"><u>Best Free Music Organizer Software on iPhone – Your Ultimate Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722966637496-broadcom-network-adapter-driver-update-for-windows-11-now-fixed/"><u>Broadcom Network Adapter Driver Update for Windows 11 - Now Fixed</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/discover-the-best-software-solutions-for-fixing-damaged-pictures-pcmac/"><u>Discover the Best Software Solutions for Fixing Damaged Pictures (PC/Mac)</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/factors-contributing-to-the-wii-us-marked-achievement-in-gaming/"><u>Factors Contributing to the Wii U's Marked Achievement in Gaming</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722960487814-fmri-can-map-cognitive-functions-helping-to-preserve-these-areas-during-surgical-interventions-such-as-tumor-resection-or-epilepsy-surgery/"><u>FMRI Can Map Cognitive Functions, Helping to Preserve These Areas During Surgical Interventions Such as Tumor Resection or Epilepsy Surgery.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-game-ready-geforce-driver-from-nvidia-on-your-windows-system-download-here/"><u>Get the Latest Game Ready GeForce Driver From NVIDIA on Your Windows System – Download Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-laserjet-pro-mfp-m428fdw-driver-downloads-for-windows-11107-systems/"><u>HP LaserJet Pro MFP M42ˈ8fdw Driver Downloads for Windows 11/10/7 Systems</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-itel-p55-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Itel P55 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-official-epson-scanner-drivers-for-improved-performance-and-compatibility/"><u>Install Official Epson Scanner Drivers for Improved Performance & Compatibility</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-updated-thunderbolt-driver-packages-optimize-connectivity-on-windows-computers-now/"><u>Install Updated Thunderbolt Driver Packages – Optimize Connectivity on Windows Computers Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-guide-for-downloading-hp-laserjet-pro-mfp-m127fn-printer-drivers/"><u>Troubleshooting Guide for Downloading HP LaserJet Pro MFP M127FN Printer Drivers</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

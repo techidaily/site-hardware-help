@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Delights at Apple's October Showcase: Unveiling the M4 Mac Mini & New iPads with Enhanced AI Capabilities"
-date: 2024-11-12T02:06:25.447Z
-updated: 2024-11-15T19:27:18.448Z
+date: 2024-11-21T16:26:44.788Z
+updated: 2024-11-25T16:24:36.844Z
 tags:
   - laptops
 categories:
@@ -28,6 +28,10 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. M4 Macs
 
 Kerry Wan/ZDNET
@@ -41,10 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -60,10 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -77,10 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -123,20 +118,22 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-elevate-snappy-moments-with-convenient-voice-customization-tips/"><u>[New] Elevate Snappy Moments with Convenient Voice Customization Tips</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/olishing-audio-in-home-recordings-on-youtube/"><u>[New] Polishing Audio in Home Recordings on YouTube</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-channel-triumphs-with-trending-hashtags-for-2024/"><u>[Updated] Channel Triumphs with Trending Hashtags for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/achieve-optimal-health-outcomes-by-collaborating-with-chatgpt-for-personalized-goal-setting-strategies/"><u>Achieve Optimal Health Outcomes by Collaborating with ChatGPT for Personalized Goal-Setting Strategies</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-driver-downloads-for-realteks-rtl81andampcu-wireless-adapter-compatible-with-windows-10-7/"><u>Easy Driver Downloads for Realtek's RTL81^&amp;CU Wireless Adapter Compatible with Windows 10, 7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-fixes-how-to-get-the-latest-d-link-driver-updates-for-windows-computers/"><u>Easy Fixes: How to Get the Latest D-Link Driver Updates for Windows Computers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-tutorial-installing-newest-windows-drivers-for-usb-bluetooth-adapters/"><u>Easy Tutorial: Installing Newest Windows Drivers for USB Bluetooth Adapters</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/experience-ultimate-simulation-with-logitech-momo-wheel-download-guide-for-pc-gamers/"><u>Experience Ultimate Simulation with Logitech MOMO Wheel - Download Guide for PC Gamers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/maintaining-a-fresh-look-for-your-macbook-pro-essential-strategies-unveiled/"><u>Maintaining a Fresh Look for Your MacBook Pro: Essential Strategies Unveiled</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/maximize-transfer-speeds-with-the-newest-usb-30-ethernet-card-driver-update-for-windows-computers/"><u>Maximize Transfer Speeds with the Newest USB 3.0 Ethernet Card Driver Update for Windows Computers</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/revive-your-cortana-top-techniques-for-resolving-common-glitches/"><u>Revive Your Cortana: Top Techniques for Resolving Common Glitches</u></a></li>
-<li><a href="https://driver-download.techidaily.com/seamless-integration-incorporating-your-western-digital-ses-usb-device-with-current-windows-systems-and-drivers/"><u>Seamless Integration: Incorporating Your Western Digital SES USB Device with Current Windows Systems and Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/speedy-hp-envy-section-1-advanced-problem-on-heat-exchanger-flow-arrangements/"><u>Speedy HP ENVY # Section 1: Advanced Problem on Heat Exchanger Flow Arrangements</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/steps-to-refresh-the-usb-serial-port-converter-device-driver/"><u>Steps to Refresh the USB Serial Port Converter Device Driver</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/-free-custom-youtube-branding-tools-online/"><u>Top 9 FREE Custom YouTube Branding Tools Online</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-navigating-authentic-growth-proven-youtube-view-strategies/"><u>[New] 2024 Approved Navigating Authentic Growth Proven YouTube View Strategies</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-making-every-gift-discovery-special/"><u>[Updated] 2024 Approved Making Every Gift Discovery Special</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-sportswomens-scorecard-poker-analysis/"><u>[Updated] SPORTSWOMEN'S SCORECARD Poker Analysis</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-essential-learning-managing-incremental-sound-gain/"><u>2024 Approved Essential Learning Managing Incremental Sound Gain</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-innovations-for-crafting-striking-fb-video-ads/"><u>2024 Approved Innovations for Crafting Striking FB Video Ads</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-leveraging-the-power-of-windows-11s-auto-hdr-enhancement/"><u>2024 Approved Leveraging the Power of Windows 11'S Auto HDR Enhancement</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asus-pce-ac56-driver-update-guide-ensuring-seamless-connectivity-for-windows-operating-systems/"><u>ASUS PCE-AC56 Driver Update Guide: Ensuring Seamless Connectivity for Windows Operating Systems</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-xiaomi-redmi-k70-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Xiaomi Redmi K70 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-access-to-ricoh-mp-c3003-printing-solutions-driver-downloads-available-now/"><u>Easy Access to Ricoh MP C3003 Printing Solutions: Driver Downloads Available Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/efficiently-update-your-printer-canon-mg3620-driver-download-tips-and-tricks/"><u>Efficiently Update Your Printer - Canon MG3620 Driver Download Tips & Tricks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-guide-to-downloading-and-upgrading-your-hid-keyboards-software/"><u>Effortless Guide to Downloading & Upgrading Your HID Keyboard's Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-hp-officejet-5740-ready-simple-driver-downloads-steps/"><u>Get Your HP OfficeJet #5740 Ready: Simple Driver Downloads Steps</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-infinix-zero-30-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Infinix Zero 30 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726028373415-powerpoint/"><u>PowerPoint統合動画の再生失敗原因解明＆修正手順</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/successful-connexant-driver-integration-for-windows-11-version-2004-upgrade/"><u>Successful Connexant Driver Integration for Windows 11 Version 2004 Upgrade</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/successful-installation-of-mbox-nano-driver-pack-for-windows-complete-tutorial/"><u>Successful Installation of MBox Nano Driver Pack for Windows - Complete Tutorial</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-complete-walkthrough-for-ftdi-driver-update-in-windows-environments/"><u>The Complete Walkthrough for FTDI Driver Update in Windows Environments</u></a></li>
 </ul></div>
 

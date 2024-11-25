@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Apple M2 Chip: Comprehensive Guide and Insights on Its Performance - ZDNet"
-date: 2024-11-13T16:23:40.679Z
-updated: 2024-11-15T21:21:24.433Z
+date: 2024-11-20T16:20:55.920Z
+updated: 2024-11-25T16:06:52.985Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Ed Bott/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -44,13 +48,6 @@ My original plan was to use the new Surface Pro as a secondary mobile device, wh
 
 How did this happen? Let's dive in.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The experience is familiar
 
 This laptop is a radical shift in the Windows ecosystem, but it doesn't feel all that different from its predecessors. In fact, it's almost indistinguishable from the Intel-powered Surface Pro 9 that's sitting on my desk alongside it. The slim bezels around the displays of the two devices are nearly the same dimensions. The new device, at 1.9 pounds, is the same weight as the Surface Pro 9 and is a few ounces heavier than the Surface Pro X, although that's not something you really notice until you have to lug it through an airport as you rush to make a connection. The Type Cover from the older Surface Pro clicked into place on the Surface Pro 11, exactly as expected.
@@ -64,10 +61,7 @@ The big difference is that this next-gen device is extremely cool and quiet. Aft
 Of course, this new device also embodies everything you like and/or dislike about the Surface Pro design. If you're expecting a radical shift that will suddenly make the kickstand comfortable in your lap, I'm sorry to report you will be disappointed. If, however, you're comfortable with that design, you'll find this iteration completely familiar.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Battery life is a huge win
@@ -87,10 +81,7 @@ Screenshot by Ed Bott/ZDNET
 At an average of more than 10 hours of actual, observed battery life, this Surface Pro is able to run for well over twice as long as my Intel-based Surface Pro 9\. That's also at least as long as the [M2 MacBook Air](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/) in my office.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Compatibility is good but not perfect
@@ -129,6 +120,10 @@ I had no hardware problems to speak of. My 10-year-old Logitech C930 webcam just
 
 Your mileage may vary, of course, especially if you have exotic hardware like video capture cards and ancient multifunction printers that require custom driver packs and won't work with the in-box Windows drivers. Thankfully, I have none of those.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The AI story is incomplete
 
 Every PC in the Copilot+ line includes a powerful neural processing unit designed to accelerate AI-based activities. Because I didn't spring for Microsoft's pricey new [Flex Keyboard](https://www.microsoft.com/en-us/d/surface-pro-flex-keyboard-with-slim-pen/93fzrmtgj6jw) and stuck with my old Type Cover, I didn't get a dedicated Copilot key. Instead, I had to run the [Copilot app](https://www.zdnet.com/article/microsoft-is-turning-windows-copilot-into-a-regular-app-and-heres-why-youll-like-it/), which works exactly like it does on any other Windows 11 PC. If it was chatting faster, I didn't notice.
@@ -150,10 +145,7 @@ The real question is whether those features are powerful enough to make you swit
 Even if you avoid the AI features completely, though, there's more than enough power in this [budget PC](https://www.zdnet.com/article/best-laptops-under-500/). Plus, as long as your apps and hardware requirements aren't exotic, you'll appreciate its cool, quiet operation.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -200,19 +192,22 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-top-10-high-quality-photography-lenses-for-2024/"><u>[New] Top 10 High-Quality Photography Lenses for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-discovering-artistic-expression-top-film-tips-on-youtube/"><u>[Updated] In 2024, Discovering Artistic Expression Top Film Tips on YouTube</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/comprehensive-guide-to-downloading-intels-official-network-drivers-for-windows-platforms/"><u>Comprehensive Guide to Downloading Intel's Official Network Drivers for Windows Platforms</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-canon-imageclass-dr-c225-printer-drivers-compatible-with-windows-11-10-and-8/"><u>Download Canon ImageCLASS DR-C225 Printer Drivers: Compatible with Windows 11, 10 & 8</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/experience-reimagined-expert-review-on-apple-ipad-air-2019-a-true-multimedia-marvel/"><u>Experience Reimagined: Expert Review on Apple iPad Air (2019) – A True Multimedia Marvel</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-download-gigabyte-sound-card-drivers/"><u>Free Download: Gigabyte Sound Card Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/fresh-off-the-server-newest-versions-of-hp-universal-printer-drivers-for-windows-users/"><u>Fresh Off the Server: Newest Versions of HP Universal Printer Drivers for Windows Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-steelseries-drivers-installed-on-your-windows-device-full-tutorial/"><u>Get the Latest SteelSeries Drivers Installed on Your Windows Device: Full Tutorial</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-chatgpt-received-a-new-voice-through-openai-for-command-based-engagements/"><u>How ChatGPT Received a New 'Voice' Through OpenAI for Command-Based Engagements</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-the-definitive-ranking-of-11-top-audio-capture-gadgets/"><u>In 2024, The Definitive Ranking of 11 Top Audio Capture Gadgets</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-geforce-rtx-3090-drivers-optimized-for-windows-10-8-and-7-machines/"><u>Install GeForce RTX 3090 Drivers: Optimized for Windows 10, 8 & 7 Machines</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-d500-experience-achieving-excellence-with-4k-hd/"><u>The D500 Experience Achieving Excellence with 4K HD</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/tips-and-tricks-to-attract-product-sponsors-to-your-youtube-channel/"><u>Tips and Tricks to Attract Product Sponsors to Your Youtube Channel</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ultimate-guide-for-elevating-videos-from-basic-sdr-to-breathtaking-hdr-splendor-for-2024/"><u>Ultimate Guide for Elevating Videos From Basic SDR to Breathtaking HDR Splendor for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-dive-into-the-world-of-cosmetics-launching-a-beauty-channel/"><u>[New] In 2024, Dive Into the World of Cosmetics Launching a Beauty Channel</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-maximize-learning-free-tools-for-online-video-texts/"><u>[New] Maximize Learning Free Tools for Online Video Texts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-master-your-digital-creations-selecting-top-7-nft-generating-platforms/"><u>2024 Approved Master Your Digital Creations - Selecting Top 7 NFT-Generating Platforms</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-intel-hd-graphics-drivers-on-windows-1011/"><u>Download & Install Intel HD Graphics Drivers on Windows 10/11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-today-the-essential-hp-officejet-pro-7520-printer-software-package/"><u>Download Today: The Essential HP OfficeJet Pro 7520 Printer Software Package</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-instructions-to-install-epson-et-4550-printer-software-for-windows-systems/"><u>Easy Instructions to Install Epson ET-4550 Printer Software for Windows Systems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/einfach-umwandeln-hd-video-von-dvd-auf-mp4-fur-perfekte-bildklarheit/"><u>Einfach Umwandeln: HD-Video Von DVD Auf MP4 Für Perfekte Bildklarheit</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-obscure-to-owned-taking-control-of-your-username-in-windows-11/"><u>From Obscure to Owned: Taking Control of Your UserName in Windows 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-navigating-zoom-settings-for-top-notch-audio-capture/"><u>In 2024, Navigating ZOOM Settings for Top-Notch Audio Capture</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-toshiba-nb205-s746-dynadock-windows-driver-software-and-upgrade-instructions/"><u>Latest Toshiba NB205-S746 DynaDock Windows Driver Software and Upgrade Instructions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/master-the-art-of-refreshing-your-pcs-graphic-capabilities-in-windows-11-a-beginner-friendly-guide/"><u>Master the Art of Refreshing Your PC's Graphic Capabilities in Windows 11: A Beginner-Friendly Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-guide-free-download-of-hp-sound-card-drivers-for-seamless-performance/"><u>Quick Guide: FREE Download of HP Sound Card Drivers for Seamless Performance</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-troubleshooting-lag-and-stutter-in-half-life-alyx-pc-fixes/"><u>Solved: Troubleshooting Lag & Stutter in Half-Life: Alyx - PC Fixes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-to-the-newest-drivers-for-your-msi-x470-motherboard-today/"><u>Update to the Newest Drivers for Your MSI X470 Motherboard Today</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-beginner-friendly-video-editing-software-top-free-options/"><u>Updated Beginner-Friendly Video Editing Software Top Free Options</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/xbox-360-gamepad-drivers-free-downloads-available/"><u>Xbox 360 Gamepad Drivers: Free Downloads Available</u></a></li>
 </ul></div>
 

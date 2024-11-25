@@ -1,7 +1,7 @@
 ---
 title: "Live the Microsoft Surface & Windows Intelligence Gathering: Tips, Forecasts & How-To for Your Live Experience"
-date: 2024-11-11T22:52:13.576Z
-updated: 2024-11-16T05:29:50.155Z
+date: 2024-11-20T16:26:53.289Z
+updated: 2024-11-25T16:11:48.417Z
 tags:
   - laptops
 categories:
@@ -24,6 +24,10 @@ After months of [speculation](https://www.zdnet.com/article/microsofts-october-1
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Featured
 
 * [How to use Android's emergency satellite texting if you lose cell signal](https://www.zdnet.com/article/how-to-use-androids-emergency-satellite-texting-if-you-lose-cell-signal/)
@@ -38,10 +42,7 @@ Here's everything that the company announced during its October event.
 **Also: [How did Microsoft manage to get it right with Surface?](https://www.zdnet.com/article/how-did-microsoft-manage-to-get-it-right-with-surface/)**
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Surface Laptop 5 gets a splash of color
@@ -61,10 +62,7 @@ What's different about the new Surface Laptop starts with the 12th-generation In
 The Surface Laptop 5 will be available in select markets beginning on Oct. 25 with a [starting price of $999](https://www.microsoft.com/en-us/store/configure/Surface-Laptop-5/8XN49V61S1BN?) for the i5, 8GB of RAM, and 256GB model. The laptop will be available in classic Platinum, Black, and Sandstone colorways, as well as a new leafy "Sage" option. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Goodbye Surface Pro X, hello Surface Pro 9
@@ -85,6 +83,10 @@ Not-so-big news: The rest is a standard Surface Pro affair; 2-in-1 design with a
 
 As far as pricing goes, the Intel-based Surface Pro 9 starts at [$999](https://www.microsoft.com/en-us/store/configure/Surface-Pro-9/93VKD8NP4FVK?) (i5, 8GB RAM, 128GB), and the ARM-based model starts at [$1,299](https://www.microsoft.com/en-us/store/configure/Surface-Pro-9/93VKD8NP4FVK?) (SQ3, 8GB RAM, 128GB). The former comes in Platinum, Graphite, Forest, and Sapphire, while the latter only comes in Platinum. Preorders start today. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The aptly-named Surface Studio 2+
 
 The Surface Studio 2+ looks nearly identical to the Surface Studio 2.
@@ -100,16 +102,7 @@ For all the performance gains that you're getting, Microsoft is making you pay t
 [Buy the Surface Studio 2+ View now at Microsoft](https://www.microsoft.com/en-us/store/configure/Surface-Studio-2/8VLFQC3597K4?)
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft Presenter+ and Audio Dock
@@ -123,13 +116,6 @@ Releasing alongside the new Surface products are the Microsoft Presenter+ and Mi
 **More: [Microsoft's new accessories are geared toward the hybrid era of work](https://www.zdnet.com/article/microsofts-new-accessories-are-geared-toward-the-hybrid-era-of-work/)**
 
 The Microsoft Audio Dock is both a docking station with four ports (HDMI, 2x USB-C, and USB-A) and a speaker for audio input and output. For $249, which is not cheap for either of its two functions, Microsoft promises "premium sound" and noise-reducing microphones that will help you "be heard clearly in your next online meeting."
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Microsoft Designer takes on Canva
 
@@ -177,20 +163,24 @@ Microsoft officials say that Designer is targeted at consumers more than anyone 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-how-to-create-captivating-videos-an-introduction-to-fb-reels-for-2024/"><u>[New] How to Create Captivating Videos An Introduction to FB Reels for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-how-to-see-what-you-just-watched-on-facebook-for-2024/"><u>[New] How to See What You Just Watched on Facebook for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-latest-geforce-rtx-1660-super-graphics-card-drivers/"><u>Download and Install Latest GeForce RTX 1660 Super Graphics Card Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-logitech-t630-mouse-drivers-compatible-with-win-7-8-and-10/"><u>Download Logitech T630 Mouse Drivers: Compatible with Win 7, 8 & 10</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/tlessly-engage-with-an-array-of-available-youtube-content/"><u>Effortlessly Engage with an Array of Available YouTube Content</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/enhancing-narratives-a-guide-to-using-b-roll/"><u>Enhancing Narratives A Guide to Using B-Roll</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-video-graphics-driver-updates-download-now/"><u>Get the Latest Video Graphics Driver Updates - Download Now!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-targus-displaylink-driver-software-for-windows-users-compatible-with-11-8-and-groovy-oldies-free-downloads/"><u>Get the Newest Targus DisplayLink Driver Software for Windows Users – Compatible with 11, 8 & Groovy Oldies - Free Downloads</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-windows-10-ready-essential-usb-c-drivers-download/"><u>Get Your Windows 10 Ready: Essential USB-C Drivers Download</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-tozo-t6-not-working-on-windows-11/"><u>How to Fix Tozo T6 Not Working on Windows 11</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-from-apple-iphone-8-plus-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled From Apple iPhone 8 Plus? 7 Mehtods You Cant-Miss</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/in-depth-examination-of-item-specifications-and-characteristics/"><u>In-Depth Examination of Item Specifications and Characteristics</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-ricoh-mp-c3003-printer-drivers-easy-guide-and-links/"><u>Install Ricoh MP C3003 Printer Drivers: Easy Guide and Links</u></a></li>
-<li><a href="https://win-forum.techidaily.com/revouninstaller-guide-mastering-android-11s-one-time-app-permissions/"><u>RevoUninstaller Guide: Mastering Android 11'S One-Time App Permissions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/speedy-and-hassle-free-downloads-getting-your-elgato-drivers-installed-now/"><u>Speedy and Hassle-Free Downloads: Getting Your Elgato Drivers Installed Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-latest-nvidia-geforce-rtx-3060-ti-drivers-compatible-with-windows-11/"><u>[Free Download] Latest NVIDIA GeForce RTX 3060 Ti Drivers Compatible with Windows 11</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-direct-entry-into-your-channel-simplifying-the-follow-button-creation/"><u>[New] 2024 Approved Direct Entry Into Your Channel Simplifying the Follow Button Creation</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-saga-selection-the-top-10-best-action-adventure-games/"><u>[Updated] Saga Selection The Top 10 Best Action-Adventure Games</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-premier-robotic-companions-online/"><u>2024 Approved Premier Robotic Companions Online</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/winx-dvd-ripper-platinum-achieve-unmatched-32x-speeds-for-dvd-extraction-in-windows-11-environments/"><u>官網 WinX DVD Ripper Platinum: Achieve Unmatched 32X Speeds for DVD Extraction in Windows 11 Environments</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/canon-mg36n-driver-downloads-and-updates-how-to-keep-your-printer-running-flawlessly/"><u>Canon MG36n Driver Downloads & Updates – How to Keep Your Printer Running Flawlessly</u></a></li>
+<li><a href="https://techtrends.techidaily.com/come-farlo-esegui-il-copia-del-dvd-da-cominciare-su-unisciti-usb-drive-al-tuo-pc-gratuitamente/"><u>Come Farlo: Esegui Il Copia Del DVD 'Da Cominciare' Su Unisciti USB Drive Al Tuo PC Gratuitamente</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Samsung Galaxy M54 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effective-fixes-for-realtek-8811au-networking-adapter-driver-errors/"><u>Effective Fixes for Realtek 8811AU Networking Adapter Driver Errors</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-downloads-find-the-perfect-bluetooth-driver-for-your-toshiba-computer/"><u>Free Downloads: Find the Perfect Bluetooth Driver for Your Toshiba Computer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-logitech-momowheels-gamepad-dedicated-steering-wheel-controller-download-for-windows/"><u>Free Logitech MomoWheels Gamepad - Dedicated Steering Wheel Controller Download for Windows</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/minecraft-branding-tools-download-for-2024/"><u>Free Minecraft Branding Tools Download for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-gigabyte-ethernet-card-driver-here-free-downloads-available/"><u>Get Your Gigabyte Ethernet Card Driver Here - Free Downloads Available!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-photosmart-7520-free-printing-software-download/"><u>HP Photosmart 7520 - Free Printing Software Download</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-on-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID on iPhone 13 Pro Max</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-a38-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo A38 Phone FRP Lock</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/samsung-960-evo-nvme-driver-installation-for-windows-a-comprehensive-tutorial/"><u>Samsung 960 EVO NVMe Driver Installation for Windows: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://fox-access.techidaily.com/scrutinizing-video-edits-is-inshot-the-champion-for-2024/"><u>Scrutinizing Video Edits Is InShot The Champion for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-epson-wf-7easy-print-driver-for-windows-108/"><u>Update Your Epson WF-7easy Print Driver for Windows 10/8</u></a></li>
 </ul></div>
 

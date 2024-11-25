@@ -1,7 +1,7 @@
 ---
 title: "A Week with an Ergonomic Split Keyboard: How This Change Ruined My Love for Traditional Input Devices - A ZDNet Perspective"
-date: 2024-11-15T00:06:52.504Z
-updated: 2024-11-15T22:51:57.549Z
+date: 2024-11-19T16:08:08.289Z
+updated: 2024-11-25T16:23:24.330Z
 tags:
   - laptops
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/b1b8ad1f82349ebf2764ddbc134fc39036adf7776
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -107,16 +111,7 @@ The cost of these products might be a barrier for some, especially when combined
 Additionally, the $99 price tag for the pair of magnetic keyboard stands seems a little hard for me to justify. But if you're committed to a premium take on innovative ergonomics, Nuio's lineup is one of the best on the market. 
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -155,18 +150,14 @@ The price point for these peripherals is a little steep, particularly when you c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-top-2024-cloud-sync-tools-for-android-devices/"><u>[New] Top 2024 Cloud Sync Tools for Android Devices</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-propel-your-social-impact-with-strategic-facebook-video-ads/"><u>[Updated] In 2024, Propel Your Social Impact with Strategic Facebook Video Ads</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/building-blocks-of-virtual-experience-terminology/"><u>Building Blocks of Virtual Experience Terminology</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-latest-thunderbolt-3-drivers-for-windows-10-8-and-7/"><u>Download & Install Latest Thunderbolt 3 Drivers for Windows 10, 8, & 7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-guide-updating-your-amd-smbus-controller-drivers/"><u>Easy Guide: Updating Your AMD Smbus Controller Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-tutorial-refresh-samsung-monitor-drivers-in-windows-pcs/"><u>Easy Tutorial: Refresh Samsung Monitor Drivers in Windows PCs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/epson-ds-530-driver-update-install-on-windows-11-64-bit-step-by-step-guide/"><u>Epson DS-530 Driver Update: Install on Windows 11 (64-Bit) – Step by Step Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-infinix-note-30-5g-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Infinix Note 30 5G</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-facebook-media-optimization-for-television-use/"><u>In 2024, Facebook Media Optimization for Television Use</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ost-recording-choices-top-11-vlogger-essentials-for-2024/"><u>Low-Cost Recording Choices Top 11 Vlogger Essentials for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/simple-steps-updating-your-intel-graphics-driver-made-easy/"><u>Simple Steps: Updating Your Intel Graphics Driver Made Easy</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/steelseries-gaming-mouse-drivers-free-download-now/"><u>SteelSeries Gaming Mouse Drivers - Free Download Now!</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/switchs-prime-capture-technology-picks-for-2024/"><u>Switch's Prime Capture Technology Picks for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-best-in-class-no-charging-switch-replicas/"><u>[Updated] 2024 Approved Best-in-Class, No-Charging Switch Replicas</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-haute-couture-at-home-makeup-tools-and-techniques/"><u>[Updated] In 2024, Haute Couture at Home Makeup, Tools & Techniques</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-guide-to-posting-twitter-clips-on-facebook-platform-for-2024/"><u>[Updated] The Guide to Posting Twitter Clips on Facebook Platform for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-procure-no-cost-visual-aids-from-prominent-4-youtube-feeds/"><u>2024 Approved Procure No-Cost Visual Aids From Prominent 4 Youtube Feeds</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-epson-ds-530-printer-driver-for-windows-10-x64-compatibility-guide-and-installation/"><u>Download Epson DS-530 Printer Driver for Windows 10 X64: Compatibility Guide & Installation</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/find-the-newest-drivers-install-epson-workforce-wf-7640-all-in-one-printer-update/"><u>Find the Newest Drivers: Install Epson WorkForce WF-7640 All-in-One Printer Update</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-of-charge-quick-install-hp-sound-driver-downloads-get-started-now/"><u>Free of Charge: Quick-Install HP Sound Driver Downloads - Get Started Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-best-sound-quality-download-scarlett-2i4-drivers-for-windows-now/"><u>Get the Best Sound Quality: Download Scarlett 2I4 Drivers for Windows Now</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovation-and-performance-the-best-nintendo-switch-docks-of-2024/"><u>Innovation & Performance: The Best Nintendo Switch Docks of 2024</u></a></li>
 </ul></div>
 

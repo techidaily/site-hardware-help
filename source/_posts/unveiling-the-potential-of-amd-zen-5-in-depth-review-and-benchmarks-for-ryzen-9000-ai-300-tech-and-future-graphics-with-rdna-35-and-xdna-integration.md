@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Potential of AMD Zen 5: In-Depth Review and Benchmarks for Ryzen 9000, AI 300 Tech, and Future Graphics with RDNA 3.5 & XDNA Integration"
-date: 2024-08-19T12:24:11.962Z
-updated: 2024-08-20T12:24:11.962Z
+date: 2024-11-22T16:29:01.342Z
+updated: 2024-11-25T16:24:26.673Z
 tags:
   - cpu
 categories:
@@ -34,6 +34,10 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  Speaking of substantial performance advantages of AMD's Zen 5, we cannot omit the single-thread performance of AMD's Ryzen 9000-series processors with 16 cores. Based on leaked CPU-Z benchmark results we have seen so far, the Ryzen 9 9950X is about 15% faster in single-thread workloads. It is about 9% faster in multi-thread workloads than the Ryzen 9 7950X, which is generally in line with performance advantage estimates demonstrated by AMD.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -42,14 +46,11 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -58,8 +59,22 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-best-virtual-background-for-google-meet-video-call/"><u>[New] Best Virtual Background for Google Meet Video Call</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-revitalizing-screenshots-the-ultimate-top-10-iphoneandroid-sticker-tools/"><u>2024 Approved Revitalizing Screenshots - The Ultimate Top 10 iPhone/Android Sticker Tools</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/budget-friendly-webcam-picks-zdnets-ultimate-guide-to-value-buys/"><u>Budget-Friendly Webcam Picks - ZDNet's Ultimate Guide to Value Buys</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-to-fix-call-of-duty-warzones-dev-error-e-on-various-platforms/"><u>Effective Solutions to Fix Call of Duty: Warzone's Dev Error E on Various Platforms</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-browsing-post-windows-installation/"><u>Effortless Browsing Post-Windows Installation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-tips-for-instant-driver-updates-on-windows-11/"><u>Expert Tips for Instant Driver Updates on Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-best-laptop-recommended-at-an-amazon-blowout-price-save-500-pre-prime-day-sale-limited-time-offer/"><u>Get the Best Laptop Recommended at an Amazon Blowout Price, Save $500 Pre-Prime Day Sale - Limited Time Offer!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/immediate-discount-secure-200-off-on-todays-deal-for-m1-macbook-air-exclusive-offer/"><u>Immediate Discount: Secure $200 Off on Today's Deal for M1 MacBook Air - Exclusive Offer</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-comprehensively-understanding-and-mastering-win10s-zoom-use/"><u>In 2024, Comprehensively Understanding and Mastering Win10's Zoom Use</u></a></li>
+<li><a href="https://techtrends.techidaily.com/in-depth-solutions-for-handling-libxml2dll-not-detected-bugs-without-a-glitch/"><u>In-Depth Solutions for Handling 'Libxml2.dll Not Detected' Bugs Without a Glitch</u></a></li>
+<li><a href="https://review-topics.techidaily.com/lava-agni-2-5g-video-recovery-recover-deleted-videos-from-lava-agni-2-5g-by-fonelab-android-recover-video/"><u>Lava Agni 2 5G Video Recovery - Recover Deleted Videos from Lava Agni 2 5G</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/massive-hp-cyber-savings-event-unveiled-secure-laptops-monitors-and-more-at-astounding-discounts-up-to-71-off/"><u>Massive HP Cyber Savings Event Unveiled! Secure Laptops, Monitors & More at Astounding Discounts Up to 71% Off!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/sale-alert-samsung-4tb-t5-solid-state-drive-now-available-on-amazon-with-up-to-50-discount-insights/"><u>Sale Alert: Samsung 4TB T5 Solid State Drive Now Available on Amazon with Up to 50% Discount - Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/silence-the-noise-a-step-by-step-guide-to-turn-off-notifications-for-certain-apps-on-chromebook-lifewire/"><u>Silence the Noise: A Step-by-Step Guide to Turn Off Notifications for Certain Apps on Chromebook | Lifewire</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->

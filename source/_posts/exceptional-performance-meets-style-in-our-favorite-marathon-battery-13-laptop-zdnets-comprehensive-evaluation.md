@@ -1,7 +1,7 @@
 ---
 title: Exceptional Performance Meets Style in Our Favorite Marathon-Battery 13 Laptop - ZDNET's Comprehensive Evaluation
-date: 2024-11-14T22:20:35.900Z
-updated: 2024-11-15T20:25:46.926Z
+date: 2024-11-23T16:22:02.508Z
+updated: 2024-11-25T16:12:17.790Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Kyle Kucharski/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -124,10 +128,7 @@ Kyle Kucharski/ZDNET
 In the end, both are solid choices, but the battery life on the unit with the Snapdragon is impossible to ignore. That, and the fact that this is a forward-looking device with AI functionality.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -166,20 +167,19 @@ I'd recommend this laptop to freelancers, remote and hybrid workers, and anyone 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-becoming-a-star-spectator-on-the-social-stage/"><u>[New] Becoming a Star Spectator on the Social Stage</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-transform-videos-with-tiktok-effects/"><u>[New] Transform Videos with TikTok Effects</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-4-ways-to-set-up-your-youtube-talking-head-shots/"><u>[Updated] 2024 Approved 4 Ways To Set Up Your YouTube Talking-Head Shots</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/compatible-logitech-g920-driver-software-optimize-your-pc-now/"><u>Compatible Logitech G920 Driver Software - Optimize Your PC Now!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/deciphering-the-mystery-making-your-usb-device-visible-to-windows-10-again/"><u>Deciphering the Mystery: Making Your USB Device Visible to Windows 10 Again</u></a></li>
-<li><a href="https://win-able.techidaily.com/diagnosing-and-repairing-farming-simulator-22-not-starting-dilemma/"><u>Diagnosing and Repairing 'Farming Simulator 22' Not Starting Dilemma</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/epson-l3150-printer-drivers-download-and-updates-for-windows-1187/"><u>Epson L3150 Printer Drivers: Download and Updates for Windows 11/8/7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-canoscan-lide-123-drivers-find-and-install-updates-today/"><u>Free CanoScan LiDE 123 Drivers: Find and Install Updates Today!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/from-lecture-halls-to-video-streaming-snagging-your-discount-on-youtube-premium-as-a-student/"><u>From Lecture Halls to Video Streaming: Snagging Your Discount on YouTube Premium as a Student</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-controllers-up-and-running-quickly-download-the-newest-xbox-wireless-adapters/"><u>Get Your Controllers Up & Running Quickly - Download the Newest Xbox Wireless Adapters!</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/hands-on-testimony-of-samsungs-latest-earbuds-the-galaxy-budsplus/"><u>Hands-On Testimony of Samsung's Latest Earbuds - The Galaxy Buds+</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-recording-voice-overs-in-fcp-like-a-pro-top-tips-and-tricks/"><u>New Recording Voice Overs in FCP Like a Pro Top Tips & Tricks</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/new-release-nvidia-geforce-rtx-3080-ti-drivers-compatible-with-windows-1187-download-latest-update/"><u>New Release: NVIDIA GeForce RTX 3080 Ti Drivers Compatible with Windows 11/8/7 - Download Latest Update</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/professional-secrets-to-flawless-photo-cropping-online/"><u>Professional Secrets to Flawless Photo Cropping Online</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/updated-nvidia-rtx-2060-drivers-now-available-enhance-your-experience-on-windows-111087/"><u>Updated NVIDIA RTX 2060 Drivers Now Available - Enhance Your Experience on Windows 11/10/8/7</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-digital-diaries-blending-visuals-with-audio-threads/"><u>[New] Digital Diaries Blending Visuals with Audio Threads</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-leveraging-instagram-stories-with-ease-and-flair/"><u>[New] In 2024, Leveraging Instagram Stories with Ease and Flair</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-become-a-freelance-transcriber-tips-and-tricks-for-youtube-content/"><u>[Updated] In 2024, Become a Freelance Transcriber Tips and Tricks for YouTube Content</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-quintessential-conclusion-to-vr-adventures/"><u>[Updated] Quintessential Conclusion to VR Adventures</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-radeon-rx-580-driver-software-fast-simple-downloads-and-updates/"><u>AMD Radeon RX 580 Driver Software - Fast, Simple Downloads & Updates</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/comprehensive-tutorial-upgrading-your-epson-xp-400-with-the-latest-drivers/"><u>Comprehensive Tutorial: Upgrading Your Epson XP-400 with the Latest Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ensure-seamless-compatibility-download-logitech-g920-drivers-now-supports-windows-11-10-8-and-windows-7-platform/"><u>Ensure Seamless Compatibility: Download Logitech G920 Drivers Now - Supports Windows 11, 10, 8 and Windows 7 Platform</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/freebuy-one-lut-bundle-for-canon-pros-for-2024/"><u>Free/Buy-One-LUT Bundle for Canon Pros for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Apple iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-the-latest-all-in-one-printer-drivers-for-hp-deskjet-3755-supported-on-windows-vistaxp/"><u>Install the Latest All-in-One Printer Drivers for HP DeskJet 3755 – Supported on Windows Vista/XP</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/resolving-ralink-rt3290-drivers-problems-on-windows-11-8-and-7-a-comprehensive-guide/"><u>Resolving Ralink RT3290 Drivers Problems on Windows 11, 8 & 7: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-hp-printer-software-for-windows-11-easy-guide-and-links-to-download/"><u>Update Your HP Printer Software for Windows 11: Easy Guide and Links to Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722969412894-z2-the-best-pc-upgrade-get-your-intel-z270-gaming-pro-carbon-motherboard-now/"><u>Z2 The Best PC Upgrade: Get Your Intel Z270 Gaming Pro Carbon Motherboard Now</u></a></li>
 </ul></div>
 

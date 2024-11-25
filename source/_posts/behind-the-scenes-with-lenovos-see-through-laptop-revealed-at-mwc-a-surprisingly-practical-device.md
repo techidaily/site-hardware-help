@@ -1,7 +1,7 @@
 ---
 title: Behind-the-Scenes with Lenovo's See-Through Laptop Revealed at MWC - A Surprisingly Practical Device
-date: 2024-11-12T16:25:52.089Z
-updated: 2024-11-15T19:21:14.013Z
+date: 2024-11-24T16:11:12.712Z
+updated: 2024-11-25T16:34:09.462Z
 tags:
   - laptops
 categories:
@@ -39,6 +39,10 @@ This laptop isn't solely for business professionals, though. It's well-rounded e
 
 Right now is the best time to buy the [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C93ad522f-aa72-4f69-82dd-66843a909b18%7Cdtp&dtb=1) since it's currently on sale at Amazon for $1,498 which is a little over $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C93ad522f-aa72-4f69-82dd-66843a909b18%7Cdtp&dtb=1) is much more expensive, but I do recommend it as an alternative if you can afford it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When will this deal expire?
 
 Since October Prime Day has already wrapped up, we're not entirely sure how long these sales will continue, but if you've got your eye on a new machine, we recommend acting fast. 
@@ -73,26 +77,22 @@ Since October Prime Day has already wrapped up, we're not entirely sure how long
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-recode-video-files-to-audio-outputs-for-2024/"><u>[New] Recode Video Files to Audio Outputs for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-unlock-the-full-potential-of-your-sims-4-videos-for-2024/"><u>[Updated] Unlock the Full Potential of Your Sims 4 Videos for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-enhancing-viewing-experience-mastering-netflix-floating-window/"><u>2024 Approved Enhancing Viewing Experience Mastering Netflix Floating Window</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-unveiling-anonymous-access-to-instagram-story-content-on-desktopstablets-and-smartphones-no-cost/"><u>2024 Approved Unveiling Anonymous Access to Instagram Story Content on Desktops/Tablets & Smartphones (No Cost)</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/boosting-your-content-a-guide-to-instagram-video-fame-for-2024/"><u>Boosting Your Content A Guide to Instagram Video Fame for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-guide-downloading-and-activating-your-magic-mouse-software-on-windows/"><u>Easy Guide: Downloading and Activating Your Magic Mouse Software on Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-methods-for-installing-latest-drivers-on-dell-xps-15-running-windows-os/"><u>Easy Methods for Installing Latest Drivers on Dell XPS # 15 Running Windows OS</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-installation-get-the-latest-surface-book-driver-updates-now/"><u>Effortless Installation: Get the Latest Surface Book Driver Updates Now!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-hp-pagewide-pro-ebp477dw-driver-for-windows-11108-systems/"><u>Get the Latest HP PageWide Pro Ebp477dw Driver for Windows 11/10/8 Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-update-your-logitech-g602-wireless-mouse-essential-windows-software-and-drivers/"><u>How to Update Your Logitech G602 Wireless Mouse: Essential Windows Software & Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-newest-version-of-lenovos-thunderbolt-3-usb-c-dock-drivers/"><u>Install Newest Version of Lenovo's Thunderbolt ^3 USB-C Dock Drivers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/noise-problem-solved-get-your-world-of-warcraft-game-sounds-back/"><u>Noise Problem Solved! Get Your World of Warcraft Game Sounds Back</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-a-malfunctioning-lucidsound-ls30-mic/"><u>Troubleshooting Steps for a Malfunctioning LucidSound LS30 Mic</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210405363-9781737281801-truth-of-beauty/"><u>Truth of Beauty | Free Book</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-custom-logo-blueprints-draw-your-identity-from-free-formats/"><u>[New] In 2024, Custom Logo Blueprints Draw Your Identity From Free Formats</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-m1-dominance-video-editors-rejoice-in-seamless-experience-for-2024/"><u>[New] M1 Dominance Video Editors Rejoice in Seamless Experience for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-top-10-collage-apps-for-android-top-picks/"><u>[New] Top 10 Collage Apps for Android (Top Picks)</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-fresh-concepts-for-youtube-channels-inspiration-at-its-peak/"><u>[Updated] Fresh Concepts for YouTube Channels Inspiration at Its Peak</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-web-conferences-archival/"><u>[Updated] In 2024, Web Conferences Archival</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-complete-guide-to-zooms-top-free-and-paid-transcribers-for-virtual-meetings-for-2024/"><u>[Updated] The Complete Guide to Zoom's Top Free & Paid Transcribers for Virtual Meetings for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-aquatic-enhancements-for-gopro-footage/"><u>[Updated] Ultimate Aquatic Enhancements for GoPro Footage</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-your-epson-perfection-v39-drivers-to-work-with-windows-7-8-or-10-operating-systems/"><u>Download and Update Your Epson Perfection V39 Drivers to Work with Windows 7, 8 or 10 Operating Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-ultimate-guide-to-installing-killer-e2500-gige-network-card-drivers/"><u>Free Download: Ultimate Guide to Installing Killer E2500 GigE Network Card Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-fetch-latest-updates-for-your-dell-d3100-graphics-device-driver/"><u>How to Fetch Latest Updates for Your DELL D3100 Graphics Device Driver</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-the-newest-microsoft-bluetooth-driver-compatible-with-win-111087-download-and-setup-guide/"><u>How to Get the Newest Microsoft Bluetooth Driver Compatible with Win 11/10/8/7: Download and Setup Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722956723692-lenovo-x23ebk-secure-driver-downloads-at-lightning-speed/"><u>Lenovo X23ebk: Secure Driver Downloads at Lightning Speed!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/lenovos-official-bluetooth-driver-software-secure-download-and-upgrade-to-the-latest-version-for-windows-710-operating-systems/"><u>Lenovo's Official Bluetooth Driver Software: Secure Download and Upgrade to the Latest Version for Windows 7/10 Operating Systems</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastery-start-essence-of-storyline-development-for-2024/"><u>Mastery Start Essence of Storyline Development for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-fresh-vga-driver-downloads-for-enhanced-display-performance/"><u>Step-by-Step Guide: Fresh VGA Driver Downloads for Enhanced Display Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-game-speed-in-roblox-a-review/"><u>Unlocking Game Speed in Roblox: A Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/up-to-date-hp-laserjet-m506-drivers-free-downloads-and-installation-guide/"><u>Up-to-Date HP LaserJet M506 Drivers: Free Downloads & Installation Guide</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

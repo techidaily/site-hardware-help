@@ -1,7 +1,7 @@
 ---
 title: Install Canon TS6222X All-in-One Printer Driver on Your Windows PC
-date: 2024-08-19T12:26:17.418Z
-updated: 2024-08-20T12:26:17.418Z
+date: 2024-11-22T16:09:23.082Z
+updated: 2024-11-25T16:23:03.920Z
 tags:
   - win11
   - win10
@@ -36,15 +36,34 @@ thumbnail: https://thmb.techidaily.com/e7857315bad256fdc5741086fa363d0007b6f6fca
 2. Click**System** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/windows-settings-system-sound-1.jpg)
 3. In the left panel, scroll down to find**About** , then click it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Scroll down and click**Advanced system settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_15-53-56.jpg)
 5. In the**Hardware** tab, click**Device Installation Settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_15-46-45.jpg)
 6. Click**No** **\> Save Changes** in the pop-up window.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_15-45-45.jpg)
 7. Try to update Windows.
 
 If this fix doesn’t work, move to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Uninstall Conexant audio driver
 
@@ -57,10 +76,6 @@ If this fix doesn’t work, move to the next fix.
 4. Right-click on Conexant and click**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_15-57-09.jpg)
 5. Follow the onscreen instructions to finish the process.
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 
  Reboot the computer and update Windows after the process. If it’s not working, move to the next fix.
 
@@ -81,9 +96,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 5. Click**Search automatically for driver** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/search-automatically-for-updated-driver-software.jpg)
 6. Follow the onscreen instructions to finish the process.
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
 #### 2\. Download from manufacturer
 
@@ -103,17 +115,20 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Edit Local Group Policy
 
  By editing registry to disable the Windows driver installation has solve the issue for some users. But you’d better backup your files before doing this for potential risks.
@@ -125,30 +140,27 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 4. Right-click on Conexant and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_15-59.jpg)
 5. In the**Details** tab, choose**Hardware Ids** under Property.
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. You’ll see a list of hardware IDs, right-click the shorter one and click**Copy** . Then paste it somewhere you can get it easily.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_16-41-14.jpg)
 7. Press the**Windows logo key + R** together to open the Run box.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 8. Type**gpedit.msc** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/local_group_policy_editor.jpg)
 9. Click **Computer Configuration > Administrative Templates > System > Device Installation > Device Installation R** **estrictions** .
 10. Right-click **Prevent installation of devices that match any of these device IDs** in the right panel and click**Edit** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_16-56-14.jpg)
 11. Click**Enable** then click the**Show…** button.  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_16-59-51.jpg)
 12. Paste the Hardware IDs you got from**Step 6** in the blank space, then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_17-01-14.jpg)
 13. Update Windows to check.
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -163,8 +175,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -172,4 +182,20 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-conquering-low-end-webcams-for-stellar-video-quality-for-2024/"><u>[New] Conquering Low-End WebCams for Stellar Video Quality for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-secure-seamless-youtube-watching-across-devices-and-browsers/"><u>[New] In 2024, Secure Seamless YouTube Watching Across Devices and Browsers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-the-complete-how-to-for-free-countdown-timers-for-2024/"><u>[New] The Complete How-To for Free Countdown Timers for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-discovering-the-tech-marvel-in-apples-m1-max-clip/"><u>2024 Approved Discovering the Tech Marvel in Apple's M1 Max Clip</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-unveiling-the-most-reliable-9-mic-devices-for-recording/"><u>2024 Approved Unveiling the Most Reliable 9 Mic Devices for Recording</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/beyond-the-ordinary-why-this-remarkably-sturdy-and-tailorable-laptop-outshines-getacs-in-real-user-reviews-insights/"><u>Beyond the Ordinary: Why This Remarkably Sturdy and Tailorable Laptop Outshines Getacs in Real User Reviews Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/budget-friendly-notebook-reintroduces-famous-tech-phrase-shaking-up-industry-conversations-again/"><u>Budget-Friendly Notebook Reintroduces Famous Tech Phrase, Shaking Up Industry Conversations Again.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-troubleshooting-guide-reviving-your-malfunctioning-usb-connectors/"><u>Effortless Troubleshooting Guide: Reviving Your Malfunctioning USB Connectors</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-immersed-in-savings-with-metas-premium-512gb-oculus-quest-deal-leading-vr-sale-of-the-season-on-zdnet/"><u>Get Immersed in Savings with Meta’s Premium 512GB Oculus Quest Deal – Leading VR Sale of the Season on ZDNet!</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-oppo-find-x7-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-on-apple-iphone-xr-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID on Apple iPhone XR</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-itel-p40-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Itel P40 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/savings-alert-secure-an-8tb-samsung-t5-external-ssd-deal-with-a-36-discount-on-amazon/"><u>Savings Alert: Secure an 8TB Samsung T5 External SSD Deal with a 36% Discount on Amazon</u></a></li>
+</ul></div>
 

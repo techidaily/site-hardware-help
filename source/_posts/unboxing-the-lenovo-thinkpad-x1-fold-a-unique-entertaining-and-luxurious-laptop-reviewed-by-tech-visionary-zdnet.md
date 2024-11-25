@@ -1,7 +1,7 @@
 ---
 title: Unboxing the Lenovo ThinkPad X1 Fold - A Unique, Entertaining and Luxurious Laptop Reviewed by Tech Visionary | ZDNET
-date: 2024-11-08T22:17:19.838Z
-updated: 2024-11-16T06:43:21.400Z
+date: 2024-11-22T16:29:10.600Z
+updated: 2024-11-25T16:05:21.686Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Max Buondonno/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -39,10 +43,7 @@ The new version has an improved design, upgraded specs, and a similarly high ask
 [ZDNET RECOMMENDS Lenovo ThinkPad X1 Fold With a huge 16.3-inch foldable screen and a durable design, the ThinkPad X1 Fold is an interesting look at the future of laptops. View at Bhphotovideo](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1795356-REG%2Flenovo%5F21es001wus%5F16%5F3%5Fthinkpad%5Fx1%5Ffold.html)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications (as reviewed)
@@ -121,16 +122,7 @@ Surprisingly, Windows 11 runs well on the ThinkPad X1 Fold, with one huge except
 It's usable, sure, but it's a very weird bug that's likely caused by the weird form factor of the X1 Fold. It's hard for Windows to figure out when you want to use it as a tablet and when you want to use it as a laptop. The only time it gets it right is when you use the device in clamshell mode.
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -169,21 +161,21 @@ I'm not going to lie, I'll miss the X1 Fold when I send my review unit back. Hav
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-boosting-your-content-quality-essential-tips-for-youtube-users/"><u>[Updated] 2024 Approved Boosting Your Content Quality Essential Tips for YouTube Users</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-shockingly-fast-crafting-a-google-image-collaboration-for-2024/"><u>[Updated] Shockingly Fast Crafting a Google Image Collaboration for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-the-ultimate-microphone-recordings-list-9-reviews-of-choice/"><u>[Updated] The Ultimate Microphone Recordings List 9 Reviews of Choice</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discover-exceptional-value-in-fitness-tech-the-complete-lowdown-on-the-fitbit-versa-lites-capabilities-and-cost-efficiency/"><u>Discover Exceptional Value in Fitness Tech: The Complete Lowdown on the Fitbit Versa Lite's Capabilities and Cost Efficiency</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-elo-touch-screen-driver-software-for-pc-compatible-with-windows-os/"><u>Download Elo Touch Screen Driver Software for PC - Compatible with Windows OS</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-updated-gpu-drivers-nvidia-rtx-2060-super-for-windows-11-systems/"><u>Download Updated GPU Drivers: Nvidia RTX 2060 Super for Windows 11 Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-installation-of-validity-fingerprint-sensor-driver-secure-and-easy-download/"><u>Effortless Installation of Validity Fingerprint Sensor Driver – Secure & Easy [DOWNLOAD]</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-methods-for-transforming-mp4-videos-into-vob-codec-for-dvd-making-ntsc-and-pal/"><u>Effortless Methods for Transforming MP4 Videos Into VOB Codec for DVD Making (NTSC & PAL)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-setup-for-your-xbox-with-official-wireless-driver-downloads/"><u>Effortless Setup for Your Xbox with Official Wireless Driver Downloads</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/enhance-audio-quality-get-high-quality-fx-in-2024/"><u>Enhance Audio Quality, Get High-Quality FX, In 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/fast-and-simple-download-of-bcm20702a0-drivers-for-windows/"><u>Fast & Simple Download of BCM20702A0 Drivers for Windows</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-honor-100-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Honor 100 Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-total-zen-closing-virtual-horizons/"><u>In 2024, Total Zen Closing Virtual Horizons</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/iphone-15-pro-max-shopping-spree-for-only-one-cent-on-amazon-discover-this-unbelievable-steal/"><u>IPhone 15 Pro Max Shopping Spree for Only One Cent on Amazon? Discover This Unbelievable Steal!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-your-lenovo-docking-station-a-step-by-step-driver-guide/"><u>Update Your Lenovo Docking Station: A Step-by-Step Driver Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-your-netgear-a61-00-wireless-adapter-driver-for-windows-pcs/"><u>Update Your Netgear A61 00 Wireless Adapter Driver for Windows PCs</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-mastering-virtual-worlds-compreenas-top-8-metaverse-headgear/"><u>[New] 2024 Approved Mastering Virtual Worlds Compreenas Top 8 Metaverse Headgear</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-optimizing-video-creation-in-obs-studio-for-2024/"><u>[New] Optimizing Video Creation in OBS Studio for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/dvditunes-macx-itunes-dvd-ripper/"><u>DVDからiTunes動画への変換: MacX iTunes DVD Ripperを使った手順</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-methods-for-keeping-your-audio-technica-drivers-current-and-functional/"><u>Easy Methods for Keeping Your Audio Technica Drivers Current and Functional</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fast-and-simple-download-acme-bluetooth-drivers/"><u>Fast & Simple Download: Acme Bluetooth Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-and-easy-hp-officejet-pro-8715-driver-download-for-windows-operating-systems-win10-win11-win8/"><u>Free and Easy: HP Officejet Pro 8715 Driver Download for Windows Operating Systems (Win10, Win11, Win8)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-most-out-of-your-money-with-lenovos-chromebook-plus-for-499-a-game-changer-in-affordable-computing-zdnet/"><u>Get the Most Out of Your Money with Lenovo's Chromebook Plus for $499 - A Game-Changer in Affordable Computing! | ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-hp-officejet-5255-software-for-optimal-performance/"><u>Get the Newest HP OfficeJet 5255 Software for Optimal Performance</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-xiaomi-14-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Xiaomi 14 Unlock Without Password</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/leading-secured-email-solutions-the-five-best-picks/"><u>Leading Secured Email Solutions: The Five Best Picks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/simple-steps-installing-the-latest-epson-drivers-on-your-windows-pc/"><u>Simple Steps: Installing the Latest Epson Drivers on Your Windows PC!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/simplified-installation-of-amd-ryzen-5-2600-graphics-drivers-download-and-setup-tutorial/"><u>Simplified Installation of AMD Ryzen 5 2600 Graphics Drivers - Download & Setup Tutorial</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-how-to-easily-keep-your-lenovo-pc-drivers-current/"><u>Step-by-Step: How to Easily Keep Your Lenovo PC Drivers Current</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-steps-to-resolve-onedrive-server-crashes/"><u>Swift Steps to Resolve OneDrive Server Crashes</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-honor-magic5-ultimate-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Honor Magic5 Ultimate without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unlock-your-watch-list-10-best-free-youtube-extractors-for-2024/"><u>Unlock Your Watch List 10 Best Free YouTube Extractors for 2024</u></a></li>
 </ul></div>
 

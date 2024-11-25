@@ -1,7 +1,7 @@
 ---
 title: "Labor Day Sale Alert: Save Big on Dell Tech Gear (Monitors, PCs) Perfect for Back to School | ZDNET Exclusive Deals"
-date: 2024-11-13T04:19:30.063Z
-updated: 2024-11-16T04:47:41.117Z
+date: 2024-11-24T16:09:57.121Z
+updated: 2024-11-25T16:13:59.025Z
 tags:
   - laptops
 categories:
@@ -22,6 +22,10 @@ If you're shopping for a great deal on tech for this holiday season, ZDNET is tr
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best Dell holiday deals
 
 * [Dell Inspiron 15 3520 Intel Core i5 touch laptop](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fdell-inspiron-15-3520-touch-laptop-intel-core-i5-8gb-memory-256gb-ssd-carbon-black%2F6553026.p%3FskuId%3D6553026&publisher_slug=itechdaily19598&exclusive=1) for $350 (save $250)
@@ -31,13 +35,6 @@ If you're shopping for a great deal on tech for this holiday season, ZDNET is tr
 * [Dell 14-inch portable monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-Dual-Screen-Productivity-Switching-Connectivity%2Fdp%2FB0C8LM4ZZD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C633c1e14-3612-4406-b43d-fca0ef134ba2%7Cdtp&dtb=1) for $274 (save $91)
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## More Dell holiday deals
 
@@ -96,6 +93,10 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6FJGWK9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C633c1e14-3612-4406-b43d-fca0ef134ba2%7Cdtp&dtb=1) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best Dell laptop holiday deals
 
 * [Dell G15 gaming laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-G15-5535-Gaming-Laptop%2Fdp%2FB0CJGBMD42%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C633c1e14-3612-4406-b43d-fca0ef134ba2%7Cdtp&dtb=1): $1,000 (save $150)
@@ -103,13 +104,6 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell Inspiron 5635](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-Inspiron-5000-5635-Laptop%2Fdp%2FB09BW611ZP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C633c1e14-3612-4406-b43d-fca0ef134ba2%7Cdtp&dtb=1): $836 (save $163)
 * [Dell Inspiron 16 Plus](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Flinks%2F9041660%2Ftype%2Fdlg%2Fsid%2Fzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%2Fhttps%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-laptops%2Finspiron-16-plus-laptop%2Fspd%2Finspiron-16-7630-laptop%2Fusichbts7630gbkt): $1,100 (save $350)
 * [Dell XPS 13 9310 13.4-inch touch laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-XPS-9310-Laptop-Touchscreen%2Fdp%2FB09PR52BHK%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C633c1e14-3612-4406-b43d-fca0ef134ba2%7Cdtp&dtb=1) for $1,071 (save $429)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Best Dell desktop holiday deals
 
@@ -121,10 +115,7 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell OptiPlex 3000 Desktop](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fdell-optiplex-3000-student-home-office%252Fp%252F1VK-0001-6EUX9) for $1,200 (save $440)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Dell monitor holiday deals
@@ -134,16 +125,7 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell 27-inch 4K FreeSync monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-S2721QS-Ultra-Thin-DisplayPort-Certified%2Fdp%2FB08DQWG3JG%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C633c1e14-3612-4406-b43d-fca0ef134ba2%7Cdtp&dtb=1) for $297 (save $33)
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we choose these holiday deals?
@@ -151,6 +133,10 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the best holiday deals?
 
@@ -224,22 +210,20 @@ Here are the top deals by category we've found so far:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-optimize-iphoneandroid-video-quality-in-online-platforms/"><u>[New] In 2024, Optimize iPhone/Android Video Quality in Online Platforms</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-enhance-images-androidandiphones-top-10-freeware-overlays/"><u>[Updated] Enhance Images Android&iPhone's Top 10 Freeware Overlays</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-lava-yuva-2-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Lava Yuva 2</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/complete-guide-to-downloading-updated-drivers-for-your-toshiba-notebook-windows/"><u>Complete Guide to Downloading Updated Drivers for Your Toshiba Notebook (Windows)</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/crafting-compelling-instagram-stories-a-guide-to-scaled-visuals/"><u>Crafting Compelling Instagram Stories A Guide to Scaled Visuals</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-infinix-smart-8-hd-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Infinix Smart 8 HD Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-graphics-card-driver-for-rtx-2070-super-on-windows-11/"><u>Download and Update Graphics Card Driver for RTX 2070 Super on Windows 11</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-honor-x50-gt-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Honor X50 GT | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-easily-set-up-and-download-focusrite-scarlett-nano-usb-interface-with-windows-software/"><u>How to Easily Set Up and Download Focusrite Scarlett Nano USB Interface with Windows Software</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722964725001-install-newest-reliable-wireless-card-drivers-now/"><u>Install Newest Reliable Wireless Card Drivers Now!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-updating-your-pcs-processor-drivers-on-windows/"><u>Step-by-Step Guide: Updating Your PC's Processor Drivers on Windows</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-ultimate-compilation-of-top-tier-free-iphone-composition-software/"><u>The Ultimate Compilation of Top-Tier Free iPhone Composition Software</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-10-download-snapchat-ringtones-websites/"><u>Top 10 Download Snapchat Ringtones Websites</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/two-people-using-one-account-is-that-feasible-on-spotify/"><u>Two People Using One Account – Is That Feasible On Spotify?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/up-to-date-driver-pack-for-hp-scanjet-enhance-windows-10-8-and-7/"><u>Up-to-Date Driver Pack for HP Scanjet: Enhance Windows 10, 8 & 7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/upgrade-your-canon-eos-digital-rebel-xs-d530-with-the-newest-software-patches/"><u>Upgrade Your Canon EOS Digital Rebel XS (D530) with the Newest Software Patches</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/windows-10-compatible-ch340-usb-to-serial-adapter-drivers-download-and-update-instructions/"><u>Windows 10 Compatible CH3#40 USB to Serial Adapter Drivers - Download and Update Instructions</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-the-new-age-of-income-generation-for-youtube-visionaries/"><u>[Updated] 2024 Approved The New Age of Income Generation for YouTube Visionaries</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-oneplus-ace-2v-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/becoming-an-expert-at-obs-studio-android-focus-for-2024/"><u>Becoming an Expert at OBS Studio Android Focus for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-for-smooth-functioning-canon-printer-mg2900-drivers/"><u>Download & Update for Smooth Functioning: Canon Printer MG2900 Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-instructions-installing-the-latest-scansnap-ix500-driver-update-for-optimal-windows-integration/"><u>Easy Instructions: Installing the Latest ScanSnap iX500 Driver Update for Optimal Windows Integration</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/efficiently-create-dvd-clones-and-iso-images-using-winx-dvd-copy-a-comprehensive-guide/"><u>Efficiently Create DVD Clones and ISO Images Using WinX DVD Copy - A Comprehensive Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/failed-to-play-hevc-files-on-xiaomi-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Failed to play HEVC files on Xiaomi</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719580989032-lifetime-language-pass-your-0-investment-today/"><u>Lifetime Language Pass - Your $0 Investment Today</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/photo-prospectus-top-10-professional-lens-choices-for-2024/"><u>Photo Prospectus Top 10 Professional Lens Choices for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722974018532-seamless-printing-with-the-samsung-c460-download-its-essential-drivers-here/"><u>Seamless Printing with the Samsung C460? Download Its Essential Drivers Here!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-fix-ssd-not-showing-up-error-without-data-loss/"><u>Step by Step Fix SSD Not Showing Up Error (without Data Loss)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/successful-installation-and-updating-of-huion-tablet-software-on-windows-systems/"><u>Successful Installation and Updating of Huion Tablet Software on Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-to-the-latest-dolby-digital-drivers-supports-windows-11-10-and-81/"><u>Update to the Latest Dolby Digital Drivers: Supports Windows 11, 10 and 8.1</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrade-to-the-latest-hp-deskjet-2700-printer-driver-version-download-guide-2024/"><u>Upgrade to the Latest HP DeskJet 2700 Printer Driver Version - Download Guide 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/warzone-pc-error-fix-guide-resolving-version-50-and-31-game-disc-reading-troubleshoots/"><u>Warzone PC Error Fix Guide - Resolving Version 5.0 and 3.1 Game Disc Reading Troubleshoots</u></a></li>
 </ul></div>
 

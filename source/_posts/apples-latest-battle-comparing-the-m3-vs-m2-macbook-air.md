@@ -1,7 +1,7 @@
 ---
 title: "Apple's Latest Battle: Comparing the M3 Vs. M2 MacBook Air"
-date: 2024-11-11T03:53:15.610Z
-updated: 2024-11-15T23:15:36.778Z
+date: 2024-11-22T16:34:10.818Z
+updated: 2024-11-25T16:00:50.102Z
 tags:
   - laptops
 categories:
@@ -28,6 +28,10 @@ That's right. Apple said the "A" word, and it's not being shy about it, as my af
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Apple is _officially_ in the AI PC race
 
 Kerry Wan/ZDNET
@@ -51,10 +55,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Apple also wants you to know that it's _been_ in the [AI PC race](https://www.zdnet.com/article/what-is-an-ai-pc-and-should-you-buy-one/) since the very beginning, with just about every Mac model now carrying neural engines for machine learning. The new MacBook Air is "the best consumer laptop for AI," the company touts in its Monday press release, but we'll have to see for ourselves when we put the 13- and 15-inch models through the wringer soon.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. I can finally recommend the Midnight color
@@ -66,10 +67,7 @@ AI aside, there is one subtle design change to the new MacBooks that I really di
 Considering how easy it was to get smudges and marks on the original Midnight color of the MacBook Air -- which made lighter hue options look like rockstars -- this is a welcome change. Having fumbled with the MacBooks for a quick 10-minute photo-op, the fingerprints were noticeable, though not as bad as I remembered on the M2 Air. For me, this makes the Midnight variant recommendable again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Dual-monitor support is a bigger deal than it seems
@@ -112,24 +110,16 @@ All in all, the changes to the newest line of MacBook Air feel subtle on paper b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-stand-out-in-a-crowd-with-these-10-youtube-theme-innovators/"><u>[New] 2024 Approved Stand Out in a Crowd with These 10 YouTube Theme Innovators</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-top-portable-audio-choices-decoded/"><u>[New] In 2024, Top Portable Audio Choices Decoded</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-unveiling-the-most-advanced-websites-for-customizable-text-design/"><u>[New] In 2024, Unveiling the Most Advanced Websites for Customizable Text Design</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-real-time-broadcast-logging-made-simple-for-2024/"><u>[Updated] Real-Time Broadcast Logging Made Simple for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-unleash-creativity-unlimited-samples-of-50-youtube-banners-for-free-in-2024/"><u>[Updated] Unleash Creativity Unlimited Samples of 50 YouTube Banners for Free, In 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/brother-l2350dw-laser-printer-software-upgrade-free-downloads/"><u>Brother L2350DW Laser Printer Software Upgrade - Free Downloads</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722970966029-brother-mfc-7360n-update-and-install-printer-drivers-on-windows-1087-with-ease/"><u>Brother MFC 7360N - Update & Install Printer Drivers on Windows 10/8/7 with Ease!</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/channel-up-your-earning-potential-with-youtube-shorts-strategy/"><u>Channel Up Your Earning Potential with YouTube Shorts Strategy</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-toshiba-printer-software-for-windows-complete-guide/"><u>Download & Update Toshiba Printer Software for Windows: Complete Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/dts-audio-not-found-troubleshooting-steps-for-missing-sound-device/"><u>DTS Audio Not Found: Troubleshooting Steps for Missing Sound Device</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-nvme-driver-installation-for-windows-users-everything-you-need-to-know/"><u>Easy NVMe Driver Installation for Windows Users: Everything You Need to Know</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/evga-graphics-driver-setup-and-download-for-windows-pcs/"><u>EVGA Graphics Driver Setup & Download for Windows PCs</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-xiaomi-mix-fold-3-by-drfone-android/"><u>In 2024, How to Bypass FRP from Xiaomi Mix Fold 3?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-logitech-brio-hd-camera-driver-for-windows-10-and-11-users/"><u>Latest Logitech BRIO HD Camera Driver for Windows 10 & 11 Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/secure-and-speedy-brother-hl-3170cdw-drivers-downloads-user-friendly/"><u>Secure and Speedy Brother HL-3170cdw Drivers Downloads | User Friendly</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-activating-and-using-razer-mouse-drivers-in-windows/"><u>Step-by-Step Tutorial: Activating and Using Razer Mouse Drivers in Windows</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/strategies-to-enhance-testimonial-credibility-and-impact-for-2024/"><u>Strategies to Enhance Testimonial Credibility and Impact for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/windows-11-feature-highlight-reel-for-2024/"><u>Windows 11 Feature Highlight Reel for 2024</u></a></li>
-<li><a href="https://win-top.techidaily.com/top-10-seo-agentstv-v-bristole-otlichnyj-vybor-dlya-prodvizheniya-vashego-biznesa/"><u>Топ-10 SEO Агентств В Бристоле - Отличный Выбор Для Продвижения Вашего Бизнеса</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-proven-picks-leading-capture-cards-for-enthusiast-streamers/"><u>[New] 2024 Approved Proven Picks Leading Capture Cards for Enthusiast Streamers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-heart-of-adventure-polaroid-cubeplus-video-analysis/"><u>[New] The Heart of Adventure Polaroid Cube+ Video Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-epson-l3150-driver-update-for-pcs-running-windows-1187-free-downloads-available/"><u>Get the Newest Epson L3150 Driver Update for PCs Running Windows 11/8/7 - Free Downloads Available</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722978308586-get-your-toshiba-usb-bluetooth-software-here/"><u>Get Your Toshiba USB Bluetooth Software Here!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-se-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone SE</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-pagewide-pro-477dw-drivers-secure-and-easy-installation-guide-for-windows-11-10-and-8/"><u>HP PageWide Pro 477DW Drivers: Secure and Easy Installation Guide for Windows 11, 10 & 8</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-top-5-best-action-cameras-for-hunting/"><u>In 2024, Top 5 Best Action Cameras for Hunting</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-iphone-14-pro-max-passcode-without-a-computer-drfone-by-drfone-ios/"><u>In 2024, Unlocking iPhone 14 Pro Max Passcode without a Computer | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mpeg-video-converter-pro-advanced-free-tool-for-seamless-video-format-conversions/"><u>MPEG Video Converter Pro: Advanced Free Tool for Seamless Video Format Conversions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/optimizing-performance-overcoming-intel-hd-graphics-63-drivers-challenges-on-windows-machines/"><u>Optimizing Performance: Overcoming Intel HD Graphics 63# Drivers' Challenges on Windows Machines</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-getting-your-corsair-void-pro-drivers-installed-on-windows/"><u>Step-by-Step Tutorial: Getting Your Corsair Void Pro Drivers Installed on Windows!</u></a></li>
 </ul></div>
 

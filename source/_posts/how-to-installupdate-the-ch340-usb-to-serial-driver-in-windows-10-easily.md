@@ -1,7 +1,7 @@
 ---
 title: How to Install/Update the CH340 USB-to-Serial Driver in Windows 10 Easily
-date: 2024-08-19T12:26:54.319Z
-updated: 2024-08-20T12:26:54.319Z
+date: 2024-11-18T16:05:37.745Z
+updated: 2024-11-25T16:04:18.248Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ OR
 
 **[Option 2 – Automatically (recommended):](https://www.drivereasy.com/knowledge/canon-pixma-pro-100-driver-download-and-update-in-windows-10-7-and-8-1/#option2)**  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even you’re a computer newbie.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 1 – Download and install the driver manually
 
  As a printer manufacturer, Canon provides printer drivers for their products on the website. To get the Canon PIXMA Pro 100 driver:
@@ -41,6 +45,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-109.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) On the product page, click the**Drivers & Downloads** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-110.png)
@@ -49,7 +57,15 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-111-1024x299.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) After downloading, double click the downloaded file to run and follow the on-screen instructions to install the driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Option 2 – Automatically update the driver
 
@@ -64,6 +80,10 @@ OR
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-112.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
@@ -85,8 +105,6 @@ Note: you can do it for free if you like, but it’s partly manual.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -94,22 +112,26 @@ Note: you can do it for free if you like, but it’s partly manual.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-premium-mac-graphics-collector/"><u>[New] In 2024, Premium Mac Graphics Collector</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-screen-capture-showdown-is-obs-better-than-fraps-in-2024/"><u>[New] Screen Capture Showdown Is OBS Better Than Fraps, In 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-premium-audio-modification-solutions-magically-effective/"><u>[Updated] 2024 Approved Premium Audio Modification Solutions Magically Effective</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/adapting-employee-tech-tools-for-future-success-amidst-rising-ai-trends-insights-from-zdnet/"><u>Adapting Employee Tech Tools for Future Success Amidst Rising AI Trends - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/budget-friendly-powerhouse-discover-the-best-2-in-1-notebook-not-lenovo-or-dell-available-now-cheaper-than-ever-pre-prime-day-zdnet/"><u>Budget-Friendly Powerhouse: Discover the Best 2-in-1 Notebook (Not Lenovo or Dell) Available Now, Cheaper Than Ever Pre-Prime Day | ZDNET</u></a></li>
+<li><a href="https://win-webster.techidaily.com/discover-the-power-of-emeditor-a-comprehensive-review-and-tutorial/"><u>Discover the Power of EmEditor: A Comprehensive Review and Tutorial</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experts-insights-on-owning-an-affordable-surface-pro-11-top-3-lessons/"><u>Experts' Insights on Owning an Affordable Surface Pro 11 - Top 3 Lessons</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-zte-nubia-z60-ultra-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of ZTE Nubia Z60 Ultra Through Google Earth?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-lava-storm-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Lava Storm 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/neweggs-ultimate-holiday-deals-list-save-big-on-electronics-and-more-discover-the-best-offers/"><u>Newegg's Ultimate Holiday Deals List : Save Big on Electronics and More – Discover the Best Offers!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/refurbished-microsoft-surface-laptop-128gb-buy-now-at-just-320/"><u>Refurbished Microsoft Surface Laptop (128GB) - Buy Now at Just $320</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/reviving-firestick-remotes-easy-techniques-to-overcome-common-glitches/"><u>Reviving Firestick Remotes: Easy Techniques to Overcome Common Glitches</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/slash-your-costs-snag-an-acer-gaming-pc-below-650-exclusively-at-newegg-insights/"><u>Slash Your Costs: Snag an Acer Gaming PC Below $650 Exclusively at Newegg – Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-16-unbeatable-hp-offers-for-the-festive-season/"><u>Top 16 Unbeatable HP Offers for the Festive Season</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-prime-day-game-sales-of-october-2024-where-to-find-the-best-bargains-techradar/"><u>Top Prime Day Game Sales of October 2024: Where to Find the Best Bargains | TechRadar</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-discounted-notebooks-during-amazons-fall-prime-event-october-2024-edition-gadgetzone/"><u>Top-Rated Discounted Notebooks During Amazon's Fall Prime Event - October 2024 Edition | GadgetZONE</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/windows-live-movie-maker-tutorial-splitting-videos-made-easy/"><u>Windows Live Movie Maker Tutorial Splitting Videos Made Easy</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->

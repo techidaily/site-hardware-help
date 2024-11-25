@@ -1,7 +1,7 @@
 ---
 title: "TravelGizmos2024: Exploring the Must-Have Devices for Smart Travelers Featured by ZDNET"
-date: 2024-11-11T18:38:41.933Z
-updated: 2024-11-16T01:08:18.004Z
+date: 2024-11-23T16:06:53.781Z
+updated: 2024-11-25T16:12:14.857Z
 tags:
   - laptops
 categories:
@@ -73,20 +73,11 @@ Cons
 * No NFC so no support for iPhone and Android
 * Doesn't support macOS logins
 
-## Thetis Fido U2F Security Key
-
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Thetis Fido U2F Security Key
 
 ### Best security key for durability
 
@@ -115,14 +106,11 @@ Cons
 * Expensive
 * No NFC compatibility
 
-## Yubico YubiKey 5 Nano
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Yubico YubiKey 5 Nano
 
 ### Best security key for travel
 
@@ -180,19 +168,14 @@ Cons
 * May need to download additional drivers
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Kensington Verimark Fingerprint Key
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The best security key for biometrics
 
@@ -221,13 +204,6 @@ Cons
 * No biometrics
 
 ## Google Titan security key
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### The best multi-platform security key
 
@@ -258,6 +234,10 @@ As testers of security keys over the years, we recommend the Yubico YubiKey 5 NF
 
 Note: Prices and compatibility information may vary based on location and specific devices. This table is based on the information provided in the given descriptions and is subject to change.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What's the right security key for you?
 
 It all boils down to which features you prioritize and your budget. Since having two security keys is recommended for added security, with one in use and the other as a backup, choosing a more affordable option could be cost-effective. 
@@ -273,6 +253,10 @@ However, investing in a higher-end brand may be wise if you already use security
 | Kensington Verimark Fingerprint Key | A simple USB-A security key with built-in biometrics. This key is discreet, compact, and user-friendly, although it has limited compatibility.                   |
 | Google Titan security key           | An affordable, multi-platform key suitable for Chrome-supporting services, Android, and iOS apps that can store up to 250 passkeys.                              |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Factors to consider when choosing a security key
 
 Security keys are an investment in time and money and so it is best to select the right one for you before you begin the process of connecting one to your online accounts. While you're deciding what security key is right for you, consider the following factors:
@@ -283,13 +267,6 @@ Security keys are an investment in time and money and so it is best to select th
 * **Connectivity:** Hardware-based security keys use different forms of connectivity, so you should consider what type works best for you, whether USB-based, Bluetooth, or NFC.
 * **Hardware**: You might need hardware that complies with particular standards or has specific ports for connecting to your devices, so check on your key's specifications prior to purchase.
 * **Price**: Choose a security key that matches your budget.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How were these security keys chosen?
 
@@ -308,6 +285,10 @@ Our main criteria for selecting these security keys are:
 
 A security key is a physical device that generates a unique code used with a password to authenticate your identity when logging into a website or application. It uses public-key cryptography and is more secure than traditional 2FA methods.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What does FIDO mean?
 
 The FIDO Alliance consortium has developed open standards for authentication protocols. The authentication standard is based on public key cryptography. 
@@ -318,28 +299,12 @@ Devices that are FIDO certified allow users to quickly sign into their accounts 
 
 SMS is open to SIM hijacking, while a physical key cannot be copied or the data intercepted. Think about it this way: 2FA verification codes sent via SMS messaging may be intercepted if your smartphone has been infected with malware, including spyware, but unless an attacker has your physical security key in their hand, they cannot grab the code required to access your account.
 
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How many security keys do I need?
 
 We recommend purchasing at least two -- one that you use day-to-day and one to keep as a backup. For example, you can keep one in your home office or attached to a keychain if you're on the road, while one is stashed safely away to cover you if you lose your primary key. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can security keys be hacked?
@@ -351,16 +316,7 @@ Security keys are one of the best authentication methods on the market today and
 In layman's terms, security keys use encryption and security tokens that only work on genuine websites rather than fake phishing domains. Public and private keys work together to authenticate a user session, but the private key is held on the physical device, reducing the attack surface. 
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Are there alternative security keys worth considering?
@@ -411,20 +367,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-how-to-organize-a-virtual-gathering-using-zoom-on-android/"><u>[New] How to Organize a Virtual Gathering Using Zoom on Android</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harnessing-the-power-of-filmora-for-youtube-video-promotions/"><u>[New] In 2024, Harnessing the Power of Filmora for YouTube Video Promotions</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-techniques-for-non-linear-eq-curves/"><u>[New] Techniques for Non-Linear EQ Curves</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/comprehensively-covering-the-top-tweets-cleanse-apps-for-2024/"><u>Comprehensively Covering the Top Tweets Cleanse Apps for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/declutter-for-growth-optimize-with-win11-tiny/"><u>Declutter for Growth: Optimize With Win11 Tiny</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-update-for-amd-gpus-auto-detecting-driver-download-tool/"><u>Easy Update for AMD GPUs: Auto-Detecting Driver Download Tool</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722971531592-effortless-setup-get-samsung-c460-driver-installed-today/"><u>Effortless Setup: Get Samsung C460 Driver Installed Today</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-install-new-thrustmaster-t300-drivers-on-your-pc-a-guide-for-windows-1110/"><u>How to Install New Thrustmaster T300 Drivers on Your PC: A Guide for Windows 11/10</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-seamlessly-integrate-keyspan-usa-19hs-drivers-with-your-windows-system/"><u>How to Seamlessly Integrate Keyspan USA-19HS Drivers with Your Windows System</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-secure-your-canon-d530s-optimal-functioning-with-latest-driver-downloads/"><u>How To Secure Your Canon D530's Optimal Functioning With Latest Driver Downloads</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-a60s-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Itel A60s Phone with Broken Screen</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-printer-driver-download-get-the-latest-software/"><u>HP Printer Driver Download: Get the Latest Software</u></a></li>
-<li><a href="https://fox-info.techidaily.com/iphone-tips-efficiently-trim-and-modify-videos-for-2024/"><u>IPhone Tips Efficiently Trim and Modify Videos for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/premium-web-resources-curated-alarm-tones-for-2024/"><u>Premium Web Resources Curated Alarm Tones for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/zebra-zp450-driver-downloading-and-updating-made-simple-follow-this-in-depth-stepwise-process/"><u>Zebra ZP450 Driver Downloading and Updating Made Simple: Follow This In-Depth, Stepwise Process</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-make-every-snap-count-with-these-top-tips/"><u>[New] 2024 Approved Make Every Snap Count with These Top Tips</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-decrypting-the-significance-the-purpose-of-blue-icons-on-fb-messages/"><u>[Updated] 2024 Approved Decrypting the Significance The Purpose of Blue Icons on FB Messages</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-insiders-list-google-pixel-tone-sources/"><u>[Updated] In 2024, Insider's List Google Pixel Tone Sources</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722966782220-boost-your-pc-with-easy-to-install-intel-nvme-drivers-start-here/"><u>Boost Your PC with Easy-to-Install Intel NVMe Drivers – Start Here!</u></a></li>
+<li><a href="https://win11.techidaily.com/bound-windows-login-with-ms-account-essentials/"><u>Bound Windows Login with MS Account Essentials</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dive-into-11-effective-methods-to-overcome-windows-11-bluescreen/"><u>Dive Into 11 Effective Methods to Overcome Windows 11 Bluescreen</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-latest-geforce-rtx-3070-ti-drivers-for-win-10-8-and-7-systems-official-nvidia-release/"><u>Download Latest GeForce RTX 3070 Ti Drivers for Win 10, 8 & 7 Systems - Official NVIDIA Release</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-tips-for-resolving-issues-with-hp-monitor-drivers-under-windows-1187-systems/"><u>Easy Tips for Resolving Issues with HP Monitor Drivers Under Windows 11/8/7 Systems</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-itel-p40-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Itel P40 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/perfected-audio-for-windows-for-2024/"><u>Perfected Audio for Windows for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/perpetual-display-documentation-firms/"><u>Perpetual Display Documentation Firms</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/tech-guide-finding-the-latest-toshiba-driver-software-for-windows-devices/"><u>Tech Guide: Finding the Latest Toshiba Driver Software for Windows Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-hp-speaker-issues-fixing-the-beats-audio-driver-on-windows-11-8-and-7/"><u>Troubleshooting HP Speaker Issues: Fixing the Beats Audio Driver on Windows 11, 8 & 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-or-download-the-latest-microsoft-sound-drivers-for-windows-systems/"><u>Update or Download the Latest Microsoft Sound Drivers for Windows Systems</u></a></li>
 </ul></div>
 

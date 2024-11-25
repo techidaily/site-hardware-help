@@ -1,7 +1,7 @@
 ---
 title: "Silence the Noise: A Step-by-Step Guide to Turn Off Notifications for Certain Apps on Chromebook | Lifewire"
-date: 2024-11-12T02:37:29.972Z
-updated: 2024-11-15T18:15:58.292Z
+date: 2024-11-24T16:35:53.789Z
+updated: 2024-11-25T16:30:13.345Z
 tags:
   - laptops
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/ea90fc8c45e04f560568c92780cb489093bd55fc4
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -91,10 +95,7 @@ You can also navigate any element of the OS like you would a browser, by swiping
 Finally, the battery life is quite good. Lenovo advertises over 12 hours of use, but I got a little over 10 in my testing. The physical size of the device is going to prevent the 29WHr battery from going much beyond the 10- to 12-hour mark. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -131,18 +132,16 @@ The [Lenovo Chromebook Duet 11-inch](https://shop-links.co/link/?url=https%3A%2F
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-bebops-visionary-feathered-future-examined/"><u>[New] Bebop's Visionary Feathered Future Examined</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-streamline-your-gaming-with-xbox-screen-recorders/"><u>[New] Streamline Your Gaming with Xbox Screen Recorders</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/complete-tutorial-for-setting-up-your-wd-ses-drive-with-latest-drivers-in-modern-windows-os/"><u>Complete Tutorial for Setting Up Your WD SES Drive with Latest Drivers in Modern Windows OS</u></a></li>
-<li><a href="https://games-able.techidaily.com/curbing-device-freeze-error-0x887a0006-in-windows-xp11/"><u>Curbing Device Freeze (Error 0X887A0006) in Windows XP/11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-amd-radeon-r9-graphics-card-drivers-on-windows/"><u>Download and Install AMD Radeon R9 Graphics Card Drivers on Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ensure-optimal-performance-with-focusrite-scarlett-18i20-windows-driver-download/"><u>Ensure Optimal Performance with Focusrite Scarlett 18I20 Windows Driver Download</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-designjet-500-driver-setup-secure-and-fast-downloads-now-available/"><u>HP DesignJet 500 Driver Setup - Secure and Fast Downloads Now Available</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-deskjet-ink-advantage-printer-find-the-official-3520-drivers-here/"><u>HP Deskjet Ink Advantage Printer - Find the Official 3520 Drivers Here!</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-vivo-y78-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Vivo Y78 5G Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://fox-http.techidaily.com/optimal-routines-to-alter-track-tempoplay-in-spotify-for-2024/"><u>Optimal Routines to Alter Track Tempoplay in Spotify for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-solutions-resolving-common-problems-with-i2c-human-interface-device-drivers/"><u>Quick Solutions: Resolving Common Problems with I2C Human Interface Device Drivers</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/secrets-to-compelling-presentations-ppt-on-mobile-and-desktop-gmeet/"><u>Secrets to Compelling Presentations PPT on Mobile & Desktop GMeet</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/techniques-for-increasing-youtube-video-size/"><u>Techniques for Increasing YouTube Video Size</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-breakdown-of-essential-video-effects-in-tiktok-editing/"><u>[Updated] Breakdown of Essential Video Effects in TikTok Editing</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-charting-the-course-for-youtube-keyword-mastery/"><u>[Updated] In 2024, Charting the Course for YouTube Keyword Mastery</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-key-digital-platforms-enhance-your-youtube-traffic/"><u>2024 Approved Key Digital Platforms Enhance Your YouTube Traffic</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-rx-480-how-to-seamlessly-download-and-update-your-video-cards-drivers/"><u>AMD RX 480 - How to Seamlessly Download & Update Your Video Cards Drivers!</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/digital-drawing-board-how-to-convert-videos-into-cartoons-and-animations-for-2024/"><u>Digital Drawing Board How to Convert Videos Into Cartoons and Animations for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-hd-video-cameras-unveiled/"><u>In 2024, Top HD Video Cameras Unveiled</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/organize-and-download-fb-links-optimized-tools-for-23/"><u>Organize and Download FB Links Optimized Tools for '23</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-simple-guide-updating-dell-inspiron-7000-series-gpucpu-drivers/"><u>Quick & Simple Guide: Updating Dell Inspiron 7000 Series GPU/CPU Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/simple-methods-to-download-and-set-up-the-dell-mouse-driver-correctly/"><u>Simple Methods to Download and Set Up the Dell Mouse Driver Correctly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-updating-and-downloading-canon-mg2900-printing-software/"><u>Step-by-Step Guide: Updating & Downloading Canon MG2900 Printing Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toshiba-dynadock-drivers-download-and-update-in-windows/"><u>Toshiba Dynadock Drivers Download & Update in Windows</u></a></li>
 </ul></div>
 

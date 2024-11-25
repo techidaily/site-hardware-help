@@ -1,7 +1,7 @@
 ---
 title: "Exploring Lenovo's Innovative ThinkPad X1 Fold: The Quirkiest & Priciest Gadget Experience on ZDNet"
-date: 2024-11-10T21:51:07.546Z
-updated: 2024-11-15T16:00:36.269Z
+date: 2024-11-22T16:39:21.636Z
+updated: 2024-11-25T16:29:46.428Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Max Buondonno/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -39,10 +43,7 @@ The new version has an improved design, upgraded specs, and a similarly high ask
 [ZDNET RECOMMENDS Lenovo ThinkPad X1 Fold With a huge 16.3-inch foldable screen and a durable design, the ThinkPad X1 Fold is an interesting look at the future of laptops. View at Bhphotovideo](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1795356-REG%2Flenovo%5F21es001wus%5F16%5F3%5Fthinkpad%5Fx1%5Ffold.html)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications (as reviewed)
@@ -121,10 +122,7 @@ Surprisingly, Windows 11 runs well on the ThinkPad X1 Fold, with one huge except
 It's usable, sure, but it's a very weird bug that's likely caused by the weird form factor of the X1 Fold. It's hard for Windows to figure out when you want to use it as a tablet and when you want to use it as a laptop. The only time it gets it right is when you use the device in clamshell mode.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -163,21 +161,24 @@ I'm not going to lie, I'll miss the X1 Fold when I send my review unit back. Hav
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-remove-default-podcasts-from-your-spotify-feed/"><u>[New] 2024 Approved Remove Default Podcasts From Your Spotify Feed</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-faster-viewing-experience-for-instagram-feed-for-2024/"><u>[New] Faster Viewing Experience for Instagram Feed for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-the-potential-of-multi-stream-video-on-microsoft-edge/"><u>2024 Approved Unlocking the Potential of Multi-Stream Video on Microsoft Edge</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amd-radeon-vega-64-driver-downloads-latest-version-compatible-with-windows-os-fixed/"><u>AMD Radeon Vega 64 Driver Downloads: Latest Version Compatible with Windows OS - FIXED</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722971666732-download-premium-behringer-audio-drives-at-no-cost-elevate-your-music-production-today/"><u>Download Premium Behringer Audio Drives at No Cost - Elevate Your Music Production Today!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-download-now-zebra-gk420d-printer-drive-simple-installation-process/"><u>Get the [DOWNLOAD Now] Zebra GK420d Printer Drive - Simple Installation Process</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-nvidia-quadro-rtx-4000-drivers-step-by-step-download-and-setup/"><u>Get the Newest NVIDIA Quadro RTX 4000 Drivers: Step-by-Step Download and Setup</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Honor Play 7T? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-successfully-install-or-update-canon-mg2520-printer-drivers-for-windows-machines/"><u>How to Successfully Install or Update Canon MG2520 Printer Drivers for Windows Machines</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Realme GT 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/hing-a-successful-vlog-a-guide-to-profitability-for-2024/"><u>Launching a Successful Vlog A Guide to Profitability for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/maximize-efficiency-get-the-best-out-of-your-laserjet-on-win10/"><u>Maximize Efficiency: Get the Best Out of Your Laserjet on Win10</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/nvidia-geforce-optimized-drivers-for-windows-download-now/"><u>NVIDIA GeForce Optimized Drivers for Windows - Download Now!</u></a></li>
-<li><a href="https://win-great.techidaily.com/unable-to-locate-the-webpage-see-why-youre-encountering-a-page-not-found-error/"><u>Unable to Locate the Webpage - See Why You're Encountering a 'Page Not Found' Error</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-the-updated-parrot-ar-drone-experience-for-2024/"><u>Unveiling The Updated Parrot AR Drone Experience for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-your-dell-g1graphics-card-driver-for-optimal-performance-in-windows/"><u>Update Your Dell G1([Graphics Card] Driver) for Optimal Performance in Windows</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-captureelite-pro-windows-enhanced-for-2024/"><u>[Updated] CaptureElite Pro Windows Enhanced for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-unlocking-the-chest-of-free-fcp-for-2024/"><u>[Updated] Unlocking the Chest of Free FCP for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-nvidia-1080-graphics-driver-for-windows-11-quick-and-simple-steps/"><u>Download NVIDIA 1080 Graphics Driver for Windows 11: Quick and Simple Steps</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-instructions-for-acquiring-and-setting-up-magic-mouse-software-on-your-windows-device/"><u>Easy Instructions for Acquiring and Setting Up Magic Mouse Software on Your Windows Device</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-way-to-install-the-latest-ati-radeon-drivers-for-enhanced-performance-in-windows/"><u>Easy Way to Install the Latest ATI Radeon Drivers for Enhanced Performance in Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-amd-rx-48e-gpu-software-quick-and-easy-driver-updates/"><u>Get the Latest AMD RX 48E GPU Software: Quick and Easy Driver Updates</u></a></li>
+<li><a href="https://tools.techidaily.com/hdsentinel/products/"><u>Hdsentinel's Products</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-diagnose-and-solve-right-side-problems-with-the-wrath-of-the-righteous-game-controller/"><u>How to Diagnose and Solve Right Side Problems with the Wrath of the Righteous Game Controller</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-laserjet-1018-driver-installation-easy-guide-and-download-links/"><u>HP LaserJet 1018 Driver Installation: Easy Guide & Download Links</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/inating-success-brightening-up-your-youtube-videos-for-2024/"><u>Illuminating Success Brightening Up Your YouTube Videos for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/inside-scoop-google-pixel-fold-2-anticipated-price-point-release-window-and-expected-hardware-upgrades/"><u>Inside Scoop: Google Pixel Fold 2 - Anticipated Price Point, Release Window & Expected Hardware Upgrades</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/no-emojis-on-twitter-linuss-leaks-trojan-explained-and-chatbot-glitches-highlighted/"><u>No Emojis on Twitter, Linus’s Leaks, Trojan Explained, & ChatBot Glitches Highlighted</u></a></li>
+<li><a href="https://win11.techidaily.com/overcome-sign-in-setbacks-with-microsoft-store-troubleshooting/"><u>Overcome Sign-In Setbacks with Microsoft Store Troubleshooting</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-fix-revamping-sata-ahci-hard-drive-controllers-with-effortless-updates/"><u>Quick Fix: Revamping SATA AHCI Hard Drive Controllers with Effortless Updates</u></a></li>
+<li><a href="https://review-topics.techidaily.com/realme-bypass-tools-to-bypass-lock-screenrealme-11-proplus-by-drfone-android-unlock-android-unlock/"><u>Realme Bypass Tools to Bypass Lock Screen(Realme 11 Pro+)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722963325618-the-femoral-artery-is-a-continuation-of-the-external-iliac-artery-and-becomes-the-popliteal-artery-behind-the-knee/"><u>The Femoral Artery Is a Continuation of the External Iliac Artery and Becomes the Popliteal Artery Behind the Knee.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/up-to-date-sound-blaster-z-drivers-for-seamless-experience-on-windows-11-click-to-download/"><u>Up-to-Date Sound Blaster Z Drivers for Seamless Experience on Windows 11 – Click to Download!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-system-newest-drivers-for-nvidias-gtx-1650-super-on-windows-11-available-to-download/"><u>Update Your System: Newest Drivers for Nvidia's GTX 1650 Super on Windows 11 Available to Download</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/be-sub4sub-does-it-really-work/"><u>YouTube Sub4Sub Does It Really Work?</u></a></li>
 </ul></div>
 

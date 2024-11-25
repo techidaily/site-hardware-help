@@ -1,7 +1,7 @@
 ---
 title: "Cyber Monday Sale Alert: Snag an HP Pavilion for Just $450, Marked Down to Half Price on Black Friday's Best Tech Bargains - Featured by ZDNet"
-date: 2024-11-08T23:15:57.721Z
-updated: 2024-11-15T23:02:08.671Z
+date: 2024-11-21T16:03:20.324Z
+updated: 2024-11-25T16:25:09.275Z
 tags:
   - laptops
 categories:
@@ -24,6 +24,10 @@ HP includes an AMD Radeon RX 6550M graphics card and a screen capable of a 144Hz
 **Also: [The best budget gaming laptops: Expert tested](https://www.zdnet.com/article/best-budget-gaming-laptop/)** 
 
 With 8GB of RAM, a 512GB SSD, and an AMD Ryzen 5 7000 series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -59,31 +63,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/rom-vids-to-dollars-navigating-youtubes-monetization-landscape/"><u>[New] From Vids to Dollars Navigating YouTube's Monetization Landscape</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-build-a-showstopper-iphone-photomosaic-with-ease-and-fun/"><u>[New] How to Build a Showstopper iPhone Photomosaic with Ease and Fun</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/2024-j-pop-mp3/"><u>2024年の新案: J-POP MP3曲を免費中継ダウンロード手順ガイド</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-lenovo-x1-carbon-drivers-compatible-with-windows-10-and-7-easy-installation-steps/"><u>Download Lenovo X1 Carbon Drivers: Compatible with Windows 10 and 7 - Easy Installation Steps</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/find-and-install-canon-mf8500c-printer-drivers-compatible-with-multiple-windows-versions/"><u>Find and Install Canon MF8500C Printer Drivers: Compatible with Multiple Windows Versions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-lenovo-ideapad-100-drivers-for-windows-10-download-guide-and-update-instructions/"><u>Get the Newest Lenovo IdeaPad 100 Drivers for Windows 10 - Download Guide and Update Instructions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-address-the-ssleay32dll-not-found-issue-in-microsoft-office-applications/"><u>How to Address the 'Ssleay32.dll' Not Found Issue in Microsoft Office Applications</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-seamlessly-update-your-dell-sound-cards-driver-for-optimal-performance/"><u>How to Seamlessly Update Your Dell Sound Card's Driver for Optimal Performance</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-swiftly-and-permanently-discard-a-partition-on-windows-pc/"><u>How to Swiftly and Permanently Discard a Partition on Windows PC</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-all-in-one-printer-compatibility-with-windows-free-drivers-available/"><u>HP All-in-One Printer Compatibility with Windows - Free Drivers Available</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-tecno-pop-8-by-drfone-android/"><u>In 2024, How to Bypass FRP on Tecno Pop 8?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-t-mobile-apple-iphone-7-plus-online-without-sim-card-by-drfone-ios/"><u>In 2024, How to Unlock T-Mobile Apple iPhone 7 Plus online without SIM Card?</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-samsungs-latest-masterpiece-the-galaxy-tab-s4-for-android-users/"><u>In-Depth Analysis: Samsung's Latest Masterpiece, The Galaxy Tab S4 for Android Users</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-pc-maintenence-crafting-a-restore-point-for-windows-8-and-81-systems/"><u>Mastering PC Maintenence: Crafting a Restore Point for Windows 8 and 8.1 Systems</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/mbot-by-makeblock-robotics-a-comprehensive-diy-kit-review-build-and-program-your-own-fun-robot/"><u>MBot by Makeblock Robotics - A Comprehensive DIY Kit Review, Build & Program Your Own Fun Robot</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/revamp-your-clicks-updating-logitech-m310s-drivers-a-step-by-step-guide/"><u>Revamp Your Clicks: Updating Logitech M310's Drivers - A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-downloading-and-setting-up-your-canon-dr-c225-for-windows-11108-users/"><u>Step-by-Step Guide: Downloading and Setting Up Your Canon DR-C225 for Windows 11/10/8 Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-ultimate-resource-for-fresh-d-link-driver-downloads-and-upgrades-on-windows-systems/"><u>The Ultimate Resource for Fresh D-Link Driver Downloads and Upgrades on Windows Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/updating-epson-xp-640-drivers-a-step-by-step-guide-for-windows-users/"><u>Updating Epson XP-640 Drivers: A Step-by-Step Guide for Windows Users</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-channel-prominence-mastery-a-comprehensive-youtube-guide/"><u>[New] In 2024, Channel Prominence Mastery A Comprehensive YouTube Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-key-tips-to-capture-youtube-streams-effectively-for-2024/"><u>[New] Key Tips to Capture YouTube Streams Effectively for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-smartphone-and-tablet-companion-best-gba-simulators-for-2024/"><u>[Updated] Smartphone & Tablet Companion Best GBA Simulators for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/direct-link-fresh-driver-updates-for-gigabytes-z370p-model/"><u>Direct Link: Fresh Driver Updates for Gigabyte's Z370P Model</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-upgrade-the-hp-laserjet-p1606dn-printer-driver-on-windows/"><u>Download & Upgrade the HP LaserJet P1606dn Printer Driver on Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-master-your-audio-workspace-setting-up-the-focusrite-scarlett-2i4-on-a-windows-machine/"><u>Download and Master Your Audio Workspace: Setting up the Focusrite Scarlett 2I4 on a Windows Machine</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-hp-thunderbolt-g2-dock-drivers-free-download-120w-and-230w-support-software/"><u>Get the Latest HP Thunderbolt G2 Dock Drivers Free - Download 120W and 230W Support Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-samsung-m2020-drivers-easily-direct-links-for-download/"><u>Install Samsung M2020 Drivers Easily - Direct Links for Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-the-official-driver-for-your-insignia-vgausb-adapter-a-step-by-step-guide/"><u>Installing the Official Driver for Your Insignia VGA/USB Adapter: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/instant-access-amd-ryzen-5-2600-quick-and-easy-method/"><u>Instant Access: AMD Ryzen 지팬 5 2600의 드라이버를 저장하세요 | Quick & Easy Method</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210003938-9781761034930-magickal-seduction/"><u>Magickal Seduction | Free Book</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/optimized-with-cookiebot-technology-for-smarter-user-experience-and-analytics/"><u>Optimized With Cookiebot Technology for Smarter User Experience and Analytics</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-compatibility-with-newly-released-surface-dock-drivers-update-now/"><u>Seamless Compatibility with Newly Released Surface Dock Drivers - Update Now!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-list-of-top-5-no-cost-disc-authoring-tools-for-cross-platform-use/"><u>The Ultimate List of Top 5 No-Cost Disc Authoring Tools for Cross-Platform Use</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-virtual-reality-gear-comprehensive-testing-and-reviews-by-specialists-zdnet/"><u>Top-Rated Virtual Reality Gear : Comprehensive Testing and Reviews by Specialists | ZDNet</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/king-the-power-of-hashtags-in-youtube-gaming-culture-for-2024/"><u>Unlocking the Power of Hashtags in YouTube Gaming Culture for 2024</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-drivers-with-windows-device-manager-on-windows-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning drivers with Windows Device Manager on Windows 10 & 7</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

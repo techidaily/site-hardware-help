@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Lenovo ThinkPad Z16 Analysis: Subpar Camera Quality Meets Exceptional Performance - A ZDNet Insight"
-date: 2024-11-10T20:50:23.386Z
-updated: 2024-11-16T03:48:13.167Z
+date: 2024-11-23T16:27:49.974Z
+updated: 2024-11-25T16:24:20.002Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Cesar Cadenas/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -79,16 +83,7 @@ I also need to mention a couple of things that may be dealbreakers for you. Firs
 Also, be aware the IdeaPad Pro 5i comes with a bunch of bloatware. The laptop's 1TB of storage is more like 880GB, if you take into account all the apps Lenovo preinstalled.
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -98,10 +93,7 @@ Also, be aware the IdeaPad Pro 5i comes with a bunch of bloatware. The laptop's 
 If you're looking for a less expensive 16-inch laptop, [Lenovo's Yoga 7i](https://www.zdnet.com/article/this-699-lenovo-laptop-made-me-a-believer-in-the-2-in-1-form-factor-and-its-on-sale-for-memorial-day/) is several hundred dollars cheaper, although you're trading in the impressive OLED screen for one that's much more low-key. If you want an OLED laptop in a slightly less expensive package, check out the [Acer Swift X 14](https://www.zdnet.com/article/i-tested-acers-swift-x-laptop-and-its-performance-surprised-me-in-3-ways/). 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -148,18 +140,17 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-ordinary-to-outstanding-crafting-unique-shorts-thumbnails-for-2024/"><u>[New] From Ordinary to Outstanding Crafting Unique Shorts Thumbnails for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-top-5-facebook-videos-that-hook-us-all/"><u>[Updated] In 2024, Top 5 Facebook Videos That Hook Us All</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On HTC U23 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-now-updated-intel-centrino-advanced-n-6200-series-driver-for-seamless-connectivity/"><u>Download Now: Updated Intel Centrino Advanced-N 6200 Series Driver for Seamless Connectivity</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-fixes-for-your-browsers-sudden-shift-to-a-black-screen/"><u>Easy Fixes for Your Browser's Sudden Shift to a Black Screen</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/easy-fixes-when-playing-back-cublood-bloods-not-working-properly-on-different-windows-os/"><u>Easy Fixes When Playing Back cuBlood Bloods Not Working Properly on Different Windows OS</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-guide-to-installing-intels-usb-30-driver-on-windows-11-systems/"><u>Easy Guide to Installing Intel's USB 3.0 Driver on Windows 11 Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-setup-guide-download-and-install-epson-xp-410-printer-drivers-for-windows-systems/"><u>Easy Setup Guide: Download and Install Epson XP-410 Printer Drivers for Windows Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-install-the-latest-epson-ds-sle-for-windows-pcs-complete-step-by-step-instructions/"><u>How to Install the Latest Epson DS-ˈsɪlə for Windows PCs: Complete Step-by-Step Instructions</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On OnePlus Nord 3 5G? | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/review-of-the-elgato-game-capture-neo-the-ultimate-straightforward-solution-for-gaming-footage/"><u>Review of the Elgato Game Capture Neo: The Ultimate, Straightforward Solution for Gaming Footage</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unlimited-access-to-freshly-released-asus-atk0110-acpi-drivers-grab-yours-for-free/"><u>Unlimited Access to Freshly Released ASUS ATK0110 ACPI Drivers – Grab Yours for Free</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/windows-compatible-amd-radeon-hd-6350-driver-download-keeping-your-system-up-to-date/"><u>Windows Compatible AMD Radeon HD 6350 Driver Download: Keeping Your System Up-to-Date</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-a-deep-dive-into-panasonics-hx-a1-camera-features/"><u>[New] In 2024, A Deep Dive Into Panasonic's HX-A1 Camera Features</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-ultimate-9-listing-best-virtual-microphones-recorders-2023/"><u>[New] Ultimate 9 Listing Best Virtual Microphones Recorders 2023</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-nurturing-nature-in-the-metropolis-a-new-paradigm-for-cities/"><u>[Updated] Nurturing Nature in the Metropolis A New Paradigm for Cities</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-ultimate-screen-recorder-guide-for-the-creative-mac-user/"><u>[Updated] The Ultimate Screen Recorder Guide for the Creative Mac User</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adapt-windows-sleep-timer-to-suit-you/"><u>Adapt Window's Sleep Timer to Suit You</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/decoding-the-mystery-of-smooth-iphone-images-four-ways-for-2024/"><u>Decoding the Mystery of Smooth iPhone Images (Four Ways) for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-your-konica-minolta-printer-drivers-now-supported-on-windows-111087-systems/"><u>Download Your Konica Minolta Printer Drivers Now! Supported on Windows 11/10/8/7 Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-epson-l3e-3150-driver-for-windows-10-8-and-7-free-downloads-available/"><u>Get the Latest Epson L3e-3150 Driver for Windows 10, 8 & 7 - Free Downloads Available!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-version-of-csr-bluetooth-drivers-available-for-free/"><u>Latest Version of CSR Bluetooth Drivers Available for Free</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723014789080-nvidia-hd-audio-not-working-heres-how-to-restore-your-sound/"><u>NVIDIA HD Audio Not Working? Here’s How to Restore Your Sound!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-setup-new-hid-keyboard-driver-download-and-upgrade-guide/"><u>Seamless Setup: New HID Keyboard Driver Download and Upgrade Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-epson-xp-420-drivers-free-downloads-available-here/"><u>Update Your Epson XP 420 Drivers - Free Downloads Available Here!</u></a></li>
 </ul></div>
 

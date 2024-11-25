@@ -1,7 +1,7 @@
 ---
 title: "Discover the Ultimate List of Best Laptop Deals From HP to Razer: Prime Day Savings Galore Exclusive!"
-date: 2024-11-11T21:17:10.606Z
-updated: 2024-11-15T16:24:34.415Z
+date: 2024-11-18T16:19:56.220Z
+updated: 2024-11-25T16:08:22.379Z
 tags:
   - laptops
 categories:
@@ -47,13 +47,6 @@ Please refer to the table of contents to quickly navigate our categories**.**
 * [Segway Ninebot D40X electric kick scooter](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsegway-ninebot-d40x-electric-kick-scooter-plus-seat-w-23-6-mi-max-operating-range-18-6-mph-max-speed-grey%2F6502748.p%3FskuId%3D6502748&publisher_slug=itechdaily19598&exclusive=1) for $650 (save $200) at Best Buy
 * [Beats Solo3 wireless headphones](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fbeats-by-dr-dre-solo-the-beats-icon-collection-wireless-on-ear-headphones-matte-black%2F6383124.p%3FskuId%3D6383124&publisher_slug=itechdaily19598&exclusive=1) for $130 (save $70) at Best Buy
 * [Fire HD 10 tablet](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB08XMBMW3H%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C02c6a691-cb7f-4260-9fef-f0ae6aeb6788%7Cdtp&dtb=1) for $220 (save $50) at Amazon
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Best Cyber Monday TV deals**
 
@@ -115,6 +108,10 @@ Image: ZDNET
 * [2022 Apple 11-inch iPad Pro, 128GB, with WiFi and Cellular](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLF3QVN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C02c6a691-cb7f-4260-9fef-f0ae6aeb6788%7Cdtp&dtb=1) for $899 (save $100) at Amazon
 * [Wacom Intuos Pro Medium Bluetooth Graphics Drawing Tablet](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FWacom-Digital-Graphic-Drawing-PTH660%2Fdp%2FB01MQU5LW7%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C02c6a691-cb7f-4260-9fef-f0ae6aeb6788%7Cdtp&dtb=1) for $240 (save $26) at Amazon
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Best Cyber Monday gaming deals**
 
 Get a jump on your Christmas list with these awesome deals on gaming laptops, PCs, consoles, and accessories. Retailers like Amazon, Best Buy, and Target all have huge discounts on everything you need to create the ultimate gaming space in your home. 
@@ -169,10 +166,7 @@ Sherin Shibu
 * [Apple TV HD 32GB](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-TV-HD-32GB-2nd-Generation%2F525801397&subId1=zd-__COM_CLICK_ID__-dtp) for $59 (save $40) at Walmart
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Best Cyber Monday headphone deals**
@@ -195,6 +189,10 @@ Sony
 * [Sony WH-CH510 wireless headphones](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSony-WH-CH510-Wireless-Headphones-WHCH510%2Fdp%2FB07WSKKYPR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C02c6a691-cb7f-4260-9fef-f0ae6aeb6788%7Cdtp&dtb=1) for $38 (save $22) at Amazon
 * [Beats Fit Pro](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fbeats-by-dr-dre-beats-fit-pro-true-wireless-noise-cancelling-in-ear-earbuds-black%2F6397391.p%3F&publisher_slug=itechdaily19598&exclusive=1) for $180 (save $20) at Best Buy
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Best Cyber Monday smartphone deals**
 
 If you held off on upgrading your smartphone until the holiday shopping season, your patience is finally being rewarded. These are the best Black Friday deals that will save you hundreds on prime-time handsets. We've scoured the digital catalogs of the most popular retailers to gather the best mobile deals below. Read on and start saving. 
@@ -207,13 +205,6 @@ Samsung
 
 * [Samsung Galaxy S21 FE (128GB) smartphone](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09BFSTTNK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C02c6a691-cb7f-4260-9fef-f0ae6aeb6788%7Cdtp&dtb=1) for $400 (save $300) at Amazon
 * [Google Pixel 6a](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FGoogle-Pixel-6a-Smartphone-Megapixel%2Fdp%2FB0B3PQPNKS%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C02c6a691-cb7f-4260-9fef-f0ae6aeb6788%7Cdtp&dtb=1) for $360 (save $89) at Amazon
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Best Cyber Monday smartwatch deals**
 
@@ -287,34 +278,13 @@ We've shopped online just as much as you, but we're experts at finding tech deal
 
 **\*** Except for Apple products and other devices that seldom go on sale.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## When was Black Friday 2022?
 
 Black Friday takes place every year on the day after Thanksgiving. This year, Black Friday 2022 fell on Friday, Nov. 25\. But, honestly, Black Friday is no longer just a 24-hour event. It's morphed into weeks of early bird deals, doorbusters, and even sales that start in October. 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## When was Cyber Monday 2022?
 
 Black Friday and Cyber Monday are synonymous with big sales that kick off the holiday shopping season. While Black Friday deals started in October this year and can include brick-and-mortar stores and online retailers, Cyber Monday sales are primarily online and can extend Black Friday an entire week -- ultimately turning into Cyber Week. Cyber Monday is always the Monday after Thanksgiving, so this year it falls on Nov. 28.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the best Cyber Monday 2022 deals still available?
 
@@ -325,16 +295,7 @@ ZDNET scoured Cyber Monday sales to find the best deals this year, and many are 
 Our experts split out the best deals by retailer, brand, and category, which you can see below. 
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Cyber Monday deals still available by retailer**
@@ -346,12 +307,20 @@ Our experts split out the best deals by retailer, brand, and category, which you
 * [The best Cyber Monday 2022 deals at Walmart](https://www.zdnet.com/article/walmart-cyber-monday-deals-still-available-november-30-2022/)
 * [Top early Cyber Monday 2022 deals at Best Buy](https://www.zdnet.com/article/best-buy-cyber-monday-deals-still-available-november-30-2022/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Cyber Monday deals still available by brand**
 
 * [The best Cyber Monday 2022 Apple deals](https://www.zdnet.com/article/apple-cyber-monday-deals-still-available-november-30-2022/)
 * [The best Cyber Monday 2022 Samsung deals](https://www.zdnet.com/article/samsung-cyber-monday-deals-still-available-november-30-2022/)
 * [The best Cyber Monday 2022 Dell deals](http://zdnet.com/article/dell-cyber-monday-deals-still-available-november-30-2022/)
 * [The best Cyber Monday 2022 HP deals](https://www.zdnet.com/home-and-office/hp-cyber-monday-deals-still-available-november-30-2022/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Cyber Monday deals still available by category**
 
@@ -378,6 +347,10 @@ Our experts split out the best deals by retailer, brand, and category, which you
  Here are some of the cheapest deals we found that are still available:
 
 * [The best Cyber Monday 2022 deals under $30](https://www.zdnet.com/home-and-office/best-cyber-monday-deals-under-30-still-available-november-30-2022/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Cyber Monday live blog deals still available**
 
@@ -425,24 +398,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/charting-a-course-through-youtubes-maker-domain/"><u>Charting a Course Through YouTube's Maker Domain</u></a></li>
-<li><a href="https://games-able.techidaily.com/delving-into-the-essentials-for-high-end-gaming-setups/"><u>Delving Into the Essentials for High-End Gaming Setups</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/into-a-stream-of-9-full-length-festive-flicks-no-charge-for-2024/"><u>Dive Into a Stream of 9 Full-Length Festive Flicks - No Charge for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-easy-update-surface-drivers-made-simple/"><u>Download & Easy Update: Surface Drivers Made Simple</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/fantasy-realms-awaits-ultimate-list-of-no-cost-rpgs-for-2024/"><u>Fantasy Realms Awaits Ultimate List of No-Cost RPGs for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-oculus-device-up-to-date-with-free-driver-downloads-windows-111087/"><u>Get Your Oculus Device Up-to-Date with Free Driver Downloads (Windows 11/10/8/7)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hassle-free-downloading-and-update-of-epson-printer-drivers-on-your-windows-machine/"><u>Hassle-Free Downloading and Update of Epson Printer Drivers on Your Windows Machine</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-envy-t5055-driver-software-easy-and-speedy-download-options/"><u>HP Envy T5055 Driver Software: Easy and Speedy Download Options</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-jumping-into-group-video-calls-the-zoom-way-on-android/"><u>In 2024, Jumping Into Group Video Calls The Zoom Way on Android</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-sweep-the-chorus-techniques-for-efficiently-eliminating-vocals-from-musical-pieces-with-audacity/"><u>In 2024, Sweep the Chorus Techniques for Efficiently Eliminating Vocals From Musical Pieces with Audacity</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-the-update-process-how-to-optimize-motherboard-drivers-in-windows/"><u>Mastering the Update Process: How to Optimize Motherboard Drivers in Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722967623247-resolved-free-downloads-of-updated-wireless-card-drivers/"><u>Resolved! Free Downloads of Updated Wireless Card Drivers.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/speedy-improvements-for-your-device-how-to-effortlessly-update-synaptics-touchpad-software/"><u>Speedy Improvements for Your Device: How to Effortlessly Update Synaptics Touchpad Software</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-setting-up-your-wd-ses-drive-via-usb-driver-on-windows-post-2e11/"><u>Step-by-Step Guide: Setting Up Your WD SES Drive via USB Driver on Windows (Post-2e11)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/successful-installation-mbox2-driver-updates-and-downloads-for-windows-no-more-issues/"><u>Successful Installation: MBox2 Driver Updates & Downloads for Windows - No More Issues</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-evolution-of-communication-inside-google-hangouts/"><u>The Evolution of Communication: Inside Google Hangouts</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-rise-of-populism-and-authoritarian-regimes-in-democratic-nations-suggests-history-may-not-have-reached-its-end-point-yet/"><u>The Rise of Populism and Authoritarian Regimes in Democratic Nations Suggests History May Not Have Reached Its End Point Yet</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unleashing-wealth-the-ultimate-13-step-guide-for-newbies-on-reddit/"><u>Unleashing Wealth The Ultimate 13-Step Guide for Newbies on Reddit</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/weaving-stories-together-chatgpt-and-ai-illustration-in-dungeons-and-dragons/"><u>Weaving Stories Together: ChatGPT & AI Illustration in Dungeons & Dragons</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-streamlining-in-stream-ads-on-facebook-your-step-by-step-playbook/"><u>[New] In 2024, Streamlining In-Stream Ads on Facebook Your Step-by-Step Playbook</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-maximizing-4k-imaging-top-lens-choices/"><u>[New] Maximizing 4K Imaging Top Lens Choices</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-top-6-networks-fueling-business-innovation-and-growth/"><u>[Updated] In 2024, Top 6 Networks Fueling Business Innovation and Growth</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-incorporating-backgrounds-a-filmmakers-guide/"><u>[Updated] Incorporating Backgrounds A Filmmaker's Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-logitech-speakers-support-software-for-windows-10-11-7-and-8/"><u>Download Logitech Speakers Support Software for Windows 10, 11, 7 & 8</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-new-sas-driver-for-your-windows-pc-supports-windows-1087-systems/"><u>Get the New SAS Driver for Your Windows PC - Supports Windows 10/8/7 Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-for-rectifying-windows-11-search-box-malfunctions/"><u>Methods for Rectifying Windows 11 Search Box Malfunctions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/overcome-asus-ac56-driver-challenges-a-step-by-step-guide-for-multiple-windows-operating-systems/"><u>Overcome ASUS AC56 Driver Challenges: A Step-by-Step Guide for Multiple Windows Operating Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-updating-your-audio-technica-sound-card-drivers/"><u>Step-by-Step Guide: Updating Your Audio Technica Sound Card Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-instructions-for-downloading-your-hp-thunderbolt-g2-docking-stations-driver-suite-120w230w/"><u>Step-by-Step Instructions for Downloading Your HP Thunderbolt G2 Docking Station's Driver Suite (120W/230W)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-revamp-your-lenovo-docking-station-with-the-latest-drivers/"><u>Step-by-Step Tutorial: Revamp Your Lenovo Docking Station with the Latest Drivers</u></a></li>
 </ul></div>
 

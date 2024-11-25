@@ -1,7 +1,7 @@
 ---
 title: Expert Insights on Gadgets From Tom's Hardware Hub
-date: 2024-08-19T12:25:01.938Z
-updated: 2024-08-20T12:25:01.938Z
+date: 2024-11-20T16:03:35.733Z
+updated: 2024-11-25T16:16:26.123Z
 tags:
   - cpu
 categories:
@@ -23,6 +23,10 @@ AMD has listed the new Ryzen 5 9600X for pre-order on its[Canadian Amazon store]
   
  AMD showed the Ryzen 5 9600X crushing Intel's Core i5-14600K by 22% in productivity[benchmarks](https://www.tomshardware.com/tag/benchmark) and 11% in gaming at its Zen 5 Tech Day, with an 88W peak power draw versus Intel's 181W. A lead of this margin for almost half of the power shows strong performance for the bottom of AMD's Zen 5 desktop CPU slate, though as always we need to take manufacturer benchmarks with a spoonful of salt. If AMD prices Ryzen 5 9600X below $300 (which we suspect it will, eventually), it becomes a shoo-in for[our best value CPU](https://www.tomshardware.com/reviews/best-cpus,3986.html#section-value-best-cpu-for-gaming-200-to-250) , a spot currently held by the Ryzen 5 7600X.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -37,8 +41,6 @@ AMD has listed the new Ryzen 5 9600X for pre-order on its[Canadian Amazon store]
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -46,8 +48,22 @@ AMD has listed the new Ryzen 5 9600X for pre-order on its[Canadian Amazon store]
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-from-novice-to-pro-the-complete-guide-to-greenscreen-in-kinemaster/"><u>[New] In 2024, From Novice to Pro The Complete Guide to Greenscreen in KineMaster</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-iphone-techniques-for-seamless-image-to-pdf-conversion-for-2024/"><u>[New] IPhone Techniques for Seamless Image-to-PDF Conversion for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-beating-the-blues-of-overly-green-a-mac-video-editors-handbook-for-2024/"><u>[Updated] Beating the Blues of Overly Green A Mac Video Editor's Handbook for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pro-photographers-choices-ranking-the-top-6-4k-dslrs/"><u>2024 Approved Pro Photographers’ Choices Ranking the Top 6 4K DSLRs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/2024s-ultimate-laptop-guide-in-depth-testing-and-expert-analysis-powered/"><u>2024'S Ultimate Laptop Guide: In-Depth Testing & Expert Analysis | Powered</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amazon-prime-day-deal-apples-m2-powered-macbook-air-now-just-749-your-ultimate-guide-to-savings/"><u>Amazon Prime Day Deal: Apple's M2-Powered MacBook Air Now Just $749 - Your Ultimate Guide to Savings!</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-the-art-of-incorporating-b-roll-in-video-production/"><u>In 2024, The Art of Incorporating B Roll in Video Production</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/integrating-b-roll-effectively-without-distraction/"><u>Integrating B Roll Effectively Without Distraction</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/score-a-steal-with-the-new-apple-m3-macbook-pro-save-an-extra-200-at-amazons-seasonal-sale-revealed/"><u>Score a Steal with the New Apple M3 MacBook Pro: Save an Extra $200 at Amazon's Seasonal Sale, Revealed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/score-the-best-october-deal-with-metas-512gb-quest-vr-headset-at-half-price-on-prime-day-coverage/"><u>Score the Best October Deal with Meta's 512GB Quest VR Headset at Half Price on Prime Day Coverage</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/tiny-videos-deciphered-crucial-elements-for-2024/"><u>Tiny Videos Deciphered Crucial Elements for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-value-metas-latest-512gb-quest-3-bundle-claims-spot-as-top-current-vr-headset-promo-on-zdnet/"><u>Unbeatable Value: Meta's Latest 512GB Quest 3 Bundle Claims Spot as Top Current VR Headset Promo on ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/uncovering-the-top-underappreciated-dual-purpose-device-for-your-workspace-a-2023-review-from-zdnet/"><u>Uncovering the Top Underappreciated Dual-Purpose Device for Your Workspace: A 2023 Review From ZDNet</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/flac-to-mp36/"><u>オンラインですぐに使えるFLAC to MP3コンバーターリストトップ6選</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->

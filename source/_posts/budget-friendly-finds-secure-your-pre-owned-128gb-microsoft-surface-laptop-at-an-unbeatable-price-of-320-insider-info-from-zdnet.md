@@ -1,7 +1,7 @@
 ---
 title: "Budget-Friendly Finds: Secure Your Pre-Owned 128GB Microsoft Surface Laptop at an Unbeatable Price of $320 | Insider Info From ZDNet"
-date: 2024-11-13T16:14:22.218Z
-updated: 2024-11-15T16:01:59.081Z
+date: 2024-11-21T16:34:36.505Z
+updated: 2024-11-25T16:29:49.590Z
 tags:
   - laptops
 categories:
@@ -17,9 +17,17 @@ StackCommerce
 
 _The following content is brought to you  partners. If you buy a product featured here, we may earn an affiliate commission or other compensation._
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [![surfacelaptop4rumors.jpg](https://www.zdnet.com/a/img/resize/a3c4608a44be85775a0e3ed8231bdbc5a96a64bb/2021/04/07/b01eaac1-9368-4ab6-87c6-12317046ff37/surfacelaptop4rumors.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best Surface PCs Microsoft's lineup of Surface PCs now covers a wide range of hardware factors and price points -- and every model is Windows 11-ready.  Read now](https://www.zdnet.com/article/best-surface-pc/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 It's hard to imagine anyone keeping a five-year-old smartphone for heavy use these days, but laptops? That's another story completely. There are many older models out there that are just as effective today as they were when they came out. That's why refurbished laptops make a great choice for budget-conscious buyers, and we're featuring several of the best picks from around the web on our [Deals page](https://www.zdnet.com/deals/). One of the top selections: This [Microsoft Surface Laptop](https://stacksocial.com/sales/surface-laptop-1-i5-7200u-8gb-w10-pro-refurb-128gb?utm%5Fsource=zdnet.com&utm%5Fmedium=referral&utm%5Fcampaign=surface-laptop-1-i5-7200u-8gb-w10-pro-refurb-128gb&utm%5Fterm=scsf-556405&utm%5Fcontent=a0x1P000004yVyTQAU&scsonar=1&aid=a-ceempx7z), certified refurbished at a price that's more than $200 off the original MSRP.
 
@@ -64,26 +72,19 @@ Right now, ZDNet readers can take home this [2017 Surface Laptop in silver for $
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-unlock-audience-favorites-3-powerful-tales/"><u>[New] 2024 Approved Unlock Audience Favorites 3 Powerful Tales</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-perfect-your-video-pacing-with-these-snapchat-tips/"><u>[New] Perfect Your Video Pacing with These Snapchat Tips</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-direct-sharing-twitch-live-links-for-facebook-friends/"><u>[Updated] Direct Sharing Twitch Live Links for Facebook Friends</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-optimize-clarity-mastering-close-up-techniques-in-videoleap/"><u>[Updated] Optimize Clarity Mastering Close-Up Techniques in Videoleap</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/1726029915239-7/"><u>「オススメの7つの無料ツールとサイト:パソコン上で簡単に動画字幕設定が可能!」</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/brother-hl-l2370dw-printer-drivers-download-latest-version-now/"><u>Brother HL-L2370DW Printer Drivers: Download Latest Version Now</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/declutter-your-inbox-effortlessly-learn-the-key-strategy-without-complicated-settings-zdnet/"><u>Declutter Your Inbox Effortlessly - Learn the Key Strategy without Complicated Settings | ZDNET</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-driver-downloads-and-updates-for-surface-book-get-started-now/"><u>Effortless Driver Downloads & Updates for Surface Book - Get Started Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-hp-m477-printer-up-and-running-official-driver-downloads-available-now/"><u>Get Your HP M477 Printer Up and Running: Official Driver Downloads Available Now</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-aggregate-attention-masterful-telegram-advertising-approaches/"><u>In 2024, Aggregate Attention Masterful Telegram Advertising Approaches</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-file-write-access-blockade-in-winos/"><u>Unlocking File Write Access Blockade in WINOS</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-razer-naga-software-a-step-by-step-guide-for-windows-users/"><u>Update Razer Naga Software: A Step-by-Step Guide for Windows Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/upgrade-to-excellence-with-the-latest-epson-xp-440-printer-drivers-download-here/"><u>Upgrade to Excellence with the Latest Epson XP-440 Printer Drivers - Download Here!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/whats-new-in-the-world-of-logitech-extreme-3d-advanced-control-software/"><u>What's New in the World of Logitech Extreme 3D Advanced Control Software</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-quick-start-combining-mac-obs-and-streamlabs-power/"><u>[New] Quick Start Combining Mac, OBS & Streamlabs Power</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-laughter-layouts-design-meme-magic-on-kapwing-for-2024/"><u>[Updated] Laughter Layouts Design Meme Magic on Kapwing for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-set-up-the-latest-hp-printer-software-on-your-pc/"><u>Download & Set Up the Latest HP Printer Software on Your PC</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/easy-tutorial-for-integrating-google-photo-collections-into-iphone-gallery-as-of-2024/"><u>Easy Tutorial for Integrating Google Photo Collections Into iPhone Gallery as of 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ensure-smooth-playback-with-the-newest-asus-optical-drive-drivers/"><u>Ensure Smooth Playback with the Newest ASUS Optical Drive Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-windows-10-and-11-updates-for-your-geforce-rtx-ebytes-3070-graphics-card/"><u>Get the Latest Windows 10 & 11 Updates for Your GeForce RTX Ebytes 3070 Graphics Card</u></a></li>
+<li><a href="https://review-topics.techidaily.com/issues-playing-mkv-video-on-moto-g34-5g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Issues playing MKV video on Moto G34 5G</u></a></li>
+<li><a href="https://fox-where.techidaily.com/mastering-hyper-v-replication-your-ultimate-step-by-step-installation-tutorial/"><u>Mastering Hyper-V Replication: Your Ultimate Step-by-Step Installation Tutorial</u></a></li>
+<li><a href="https://win-able.techidaily.com/persona-5-strikers-fixed-dealing-with-unwanted-black-screens-on-your-gaming-setup/"><u>Persona 5 Strikers Fixed! Dealing with Unwanted Black Screens on Your Gaming Setup</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-straightforward-windows-setup-of-insignia-graphics-card-drivers/"><u>Quick & Straightforward Windows Setup of Insignia Graphics Card Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/samsung-m2020-driver-download-latest-version/"><u>Samsung M2020 Driver Download - Latest Version</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210399147-9789388760898-the-power-of-awareness/"><u>The Power of Awareness | Free Book</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/the-ultimate-checklist-to-increase-likes-on-your-tiktok-videos/"><u>The Ultimate Checklist to Increase Likes on Your TikTok Videos</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/zebra-gk420d-printer-driver-download-fast-and-simple-installation/"><u>Zebra GK420D Printer Driver Download: Fast and Simple Installation</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

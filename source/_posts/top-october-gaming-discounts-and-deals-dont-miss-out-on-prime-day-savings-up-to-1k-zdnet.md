@@ -1,7 +1,7 @@
 ---
 title: Top October Gaming Discounts & Deals - Don't Miss Out on Prime Day Savings Up to $1K! (ZDNET)
-date: 2024-11-14T20:16:01.431Z
-updated: 2024-11-16T03:23:54.357Z
+date: 2024-11-20T16:05:37.874Z
+updated: 2024-11-25T16:21:56.664Z
 tags:
   - laptops
 categories:
@@ -119,10 +119,7 @@ ZDNET
 * [AMD Ryzen 9 5900X for $215 (save $355)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAMD-Ryzen-5900X-24-Thread-Processor%2Fdp%2FB08164VTWH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C597f940d-d62a-4e93-9306-0e014bce7897%7Cdtp&dtb=1): A high-end gaming CPU with 12 cores, 24 threads, and a maximum clock speed of 4.8GHz.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day PlayStation 5 deals still available
@@ -168,6 +165,10 @@ Nintendo/ZDNET
 * [Pokemon Scarlet/Violet dual pack for $103 (save $17 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FPokemon-Scarlet-Pokemon-Violet-Dual-Pack-Nintendo-Switch%2F1545999884%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This bundle includes copies of both Pokemon Scarlet and Violet, which is perfect for pokedex completionists and collectors alike.
 * [Pokemon Shining Pearl for $44 (save $16)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FPokemon-Shining-Pearl-Nintendo-Nintendo-Switch%2F890677903%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This remaster of Pokemon Pearl features all-new graphics, game modes, and mechanics for players returning to the Sinnoh region as well as fans visiting for the first time.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## October Prime Day gaming PC deals still available
 
 Kyle Kucharski/ZDNET
@@ -181,10 +182,7 @@ Kyle Kucharski/ZDNET
 * [Lenovo Legion Tower 5i for $1,600 (save $400 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-legion-tower-5i-gaming-desktop-intel-core-i7-14700f-32gb-memory-nvidia-geforce-rtx-4070-super-1tb-ssd-storm-grey%2F6576778.p%3FskuId%3D6576778&publisher%5Fslug=zdnet&article%5Fname=best%20october%20prime%20day%202024%20gaming%20deals%20still%20available%3A%20last%20chance%20to%20save%20up%20to%20%241%2C000&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-10-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A mid-range gaming and content creation desktop with a 14th gen Intel Core i7 processor, 1TB SSD storage drive, 32GB of RAM, and an Nvidia RTX 4070 Super graphics card.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day gaming laptop deals still available
@@ -197,10 +195,7 @@ Lenovo
 * [Alienware m18 for $1,750 (save $800 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Falienware-m18-fhd-480hz-gaming-laptop-amd-ryzen-9-32gb-memory-nvidia-geforce-rtx-4070-1tb-ssd-windows-11-pro-dark-metallic-moon%2F6543535.p%3FskuId%3D6543535&publisher%5Fslug=zdnet&article%5Fname=best%20october%20prime%20day%202024%20gaming%20deals%20still%20available%3A%20last%20chance%20to%20save%20up%20to%20%241%2C000&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-10-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Alienware's high-end gaming laptop has an 18-inch display with an impressive 480Hz refresh rate. It's built with an AMD Ryzen 9 7000 series CPU, 32GB of RAM, a 1TB SSD, and Nvidia RTX 4070.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day gaming monitor deals still available
@@ -219,13 +214,6 @@ Samsung/ZDNET
 * [Corsair Scimitar Elite RGB wireless for $100 (save $30)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCORSAIR-SCIMITAR-ELITE-WIRELESS-Gaming%2Fdp%2FB0CCVYHZ9N%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C597f940d-d62a-4e93-9306-0e014bce7897%7Cdtp&dtb=1): A wireless mouse designed for MOBAs and MMOs with 16 programmable buttons and a 150-hour battery life.
 * [HyperX QuadCast USB mic for $85 (save $55)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHyperX-QuadCast-Condenser-Microphone-Anti-Vibration%2Fdp%2FB07NZZZ746%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C597f940d-d62a-4e93-9306-0e014bce7897%7Cdtp&dtb=1): This USB microphone has an integrated shock mount and is certified for use with Discord.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## October Prime Day graphics card deals still available
 
 * [Asus TUF Nvidia GeForce RTX 4070 Ti for $750 (save $110 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-nvidia-geforce-rtx-4070-ti-tuf-overclock-12gb-gddr6x-pci-express-4-0-graphics-card-black%2F6529351.p%3FskuId%3D6529351&publisher%5Fslug=zdnet&article%5Fname=best%20october%20prime%20day%202024%20gaming%20deals%20still%20available%3A%20last%20chance%20to%20save%20up%20to%20%241%2C000&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-10-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This GPU offers 12GB of VRAM, support for up to 4 displays, and 8K video output.
@@ -243,16 +231,13 @@ Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, ra
 
 Games, consoles, and accessories can and do go on sale during Prime Day, though not every brand or manufacturer may participate. Some brands may have competing sales at other retailers or on their own direct-sale sites, which is great news for anyone who likes to compare discounts to make sure they're getting the best deal possible.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How did we choose these Prime Day deals?
 
 I only chose deals on games that have been critically and commercially well-received, as well as accessories and peripherals from well-known and reputable brands like Razer and Logitech. I also only included deals that offered at least a 15 percent discount.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the best October Prime Day 2024 deals?
 
@@ -319,22 +304,14 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-essential-steps-to-overcome-fb-video-transmission-failure-iosandroid/"><u>[Updated] 2024 Approved Essential Steps to Overcome FB Video Transmission Failure (iOS/Android)</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-examining-instagrams-per-video-content-restrictions/"><u>[Updated] In 2024, Examining Instagram's Per-Video Content Restrictions</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-transform-your-content-3-effective-techniques-for-youtube-reaction-magic/"><u>[Updated] Transform Your Content 3 Effective Techniques for YouTube Reaction Magic</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-srt-editing-on-macos-a-comprehensive-guide/"><u>2024 Approved Mastering SRT Editing on macOS A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/anthropics-smart-photo-editor-expert-appraisal-and-insights/"><u>Anthropics Smart Photo Editor: Expert Appraisal and Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/find-and-install-samsung-nvme960-evo-driver-a-comprehensive-guide-for-windows-users/"><u>Find and Install Samsung Nvme960 EVO Driver - A Comprehensive Guide for Windows Users</u></a></li>
-<li><a href="https://video-capture.techidaily.com/firecapture-pro-for-ff/"><u>FireCapture Pro for FF</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-logitech-headset-software-instantly-for-optimal-performance/"><u>Get the Newest Logitech Headset Software Instantly for Optimal Performance</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/keeping-your-connectivity-smooth-how-to-install-latest-wireless-drivers-on-microsoft-oses/"><u>Keeping Your Connectivity Smooth: How to Install Latest Wireless Drivers on Microsoft OSes</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/premier-pupshotter-a-comprehensive-look-at-furbo/"><u>Premier Pupshotter – A Comprehensive Look at Furbo</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-setup-for-hp-officejet-n5740-download-compatible-drivers-here/"><u>Quick Setup for HP OfficeJet N5740: Download Compatible Drivers Here</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/revitalize-your-dell-computer-step-by-step-instructions-for-downloading-and-updating-the-wireless-network-adapter-driver/"><u>Revitalize Your Dell Computer: Step-by-Step Instructions for Downloading and Updating the Wireless Network Adapter Driver</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshoot-your-brother-mfc-7360n-on-windows-drivers-download-for-widows-1187/"><u>Troubleshoot Your Brother MFC-7360N on Windows: Drivers Download for Widows 11/8/7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshooting-and-installing-epson-xp-410-printer-drivers-for-windows-systems/"><u>Troubleshooting & Installing: Epson XP-410 Printer Drivers for Windows Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshooting-tips-how-to-fix-your-logitech-g433-microphone-issues/"><u>Troubleshooting Tips: How to Fix Your Logitech G433 Microphone Issues</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/ultimate-selection-of-image-refurbishment-programs-for-cherished-photographs/"><u>Ultimate Selection of Image Refurbishment Programs for Cherished Photographs</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-top-20-best-twitter-unfollowers-and-tools/"><u>[Updated] In 2024, Top 20 Best Twitter Unfollowers & Tools</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-smart-mp4-transformer-for-immediate-fb-embedding/"><u>[Updated] Smart MP4 Transformer for Immediate FB Embedding</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asus-monitor-driver-updates-instantly-safe-and-fast-downloads/"><u>Asus Monitor Driver Updates Instantly – Safe & Fast Downloads</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-m-audio-fast-track-drivers-compatible-with-windows-117881-free/"><u>Download M-Audio Fast Track Drivers Compatible with Windows 11/7/8/8.1 - Free</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-steps-to-get-the-latest-sound-blaster-z-drivers-compatible-with-windows-11/"><u>Easy Steps to Get the Latest Sound Blaster Z Drivers Compatible with Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/hidden-dangers-in-conversing-with-chatgpt/"><u>Hidden Dangers in Conversing With ChatGPT</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Vivo V30 Pro? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/improve-gaming-experience-quick-and-effortless-downloads-for-amd-vega-graphics-drivers/"><u>Improve Gaming Experience: Quick and Effortless Downloads for AMD Vega Graphics Drivers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-secret-to-affordable-ipad-pro-prices-before-prime-day-insider-tips/"><u>Unlocking the Secret to Affordable iPad Pro Prices Before Prime Day – Insider Tips</u></a></li>
 </ul></div>
 

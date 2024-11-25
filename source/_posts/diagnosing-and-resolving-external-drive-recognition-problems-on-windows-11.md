@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Resolving External Drive Recognition Problems on Windows 11
-date: 2024-08-19T12:27:52.655Z
-updated: 2024-08-20T12:27:52.655Z
+date: 2024-11-21T16:21:32.114Z
+updated: 2024-11-25T16:20:37.425Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Option 1: Download and update your Ralink RT3290 driver automatically (Recommended)**
 
  If you don’t have the time, patience or computer skills to update the Ralink RT3290 driver manually, you can do it automatically with[](https://tools.techidaily.com/drivereasy/download/) **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -42,9 +46,17 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-121.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the Ralink RT3290 driver for now, simply click on the**Update** button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-122.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
 
@@ -55,8 +67,9 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Option 2: Download and update your Ralink RT3290 driver manually (For Windows 8/7 Only)**
 
  Ralink Technology, Corp. was acquired by MediaTek in 2011, so you can no longer find the official website of Ralink. But luckily, the driver can still be found in **[mediatek.com](https://www.mediatek.com/) .**
@@ -71,9 +84,6 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-118.png)
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) After knowing the version of your Windows operating system, you should now search for the driver online. You can either find your own way to the official website of MediaTek, or you can simply click[https://www.mediatek.com/](https://www.mediatek.com/) .
 
  4) There’s a search bar at the top of the website. Type**RT3290** , and then hit**Enter** on your keyboard.
@@ -93,8 +103,9 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-117.png)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When you double-click**devcon64.exe** , you’ll be prompted to decompress the folders. Select**Extract all** .
 
  10) Click**Browse…** to select a destination and check the**Show extracted files when complete** box. On completion, click**Extract** .
@@ -128,8 +139,6 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +146,18 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-shrink-it-down-youtubes-video-trimming-process/"><u>[Updated] Shrink It Down YouTube's Video Trimming Process</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-vivo-y27-4g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Vivo Y27 4G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/beyond-the-ordinary-why-this-remarkably-sturdy-and-tailorable-laptop-outshines-getacs-in-real-user-reviews-insights/"><u>Beyond the Ordinary: Why This Remarkably Sturdy and Tailorable Laptop Outshines Getacs in Real User Reviews Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/budget-friendly-notebook-reintroduces-famous-tech-phrase-shaking-up-industry-conversations-again/"><u>Budget-Friendly Notebook Reintroduces Famous Tech Phrase, Shaking Up Industry Conversations Again.</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-honor-70-lite-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Honor 70 Lite 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-immersed-in-savings-with-metas-premium-512gb-oculus-quest-deal-leading-vr-sale-of-the-season-on-zdnet/"><u>Get Immersed in Savings with Meta’s Premium 512GB Oculus Quest Deal – Leading VR Sale of the Season on ZDNet!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/savings-alert-secure-an-8tb-samsung-t5-external-ssd-deal-with-a-36-discount-on-amazon/"><u>Savings Alert: Secure an 8TB Samsung T5 External SSD Deal with a 36% Discount on Amazon</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-step-by-step-for-adding-a-link-in-your-tiktok-bios/"><u>The Ultimate Step-by-Step for Adding a Link in Your TikTok Bios</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-apple-m2-chip-comprehensive-guide-and-insights-on-its-performance-zdnet/"><u>Unveiling the Apple M2 Chip: Comprehensive Guide and Insights on Its Performance - ZDNet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/weekly-tech-insights-exclusive-look-at-latest-windows-laptops-and-hidden-spotify-strategies/"><u>Weekly Tech Insights: Exclusive Look at Latest Windows Laptops & Hidden Spotify Strategies</u></a></li>
+</ul></div>
 

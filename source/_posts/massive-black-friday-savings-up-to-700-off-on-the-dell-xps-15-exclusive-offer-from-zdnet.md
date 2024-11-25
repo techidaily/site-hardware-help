@@ -1,7 +1,7 @@
 ---
 title: "Massive Black Friday Savings: Up To $700 Off on the Dell XPS 15 - Exclusive Offer From ZDNet"
-date: 2024-11-09T00:25:39.540Z
-updated: 2024-11-16T03:07:57.176Z
+date: 2024-11-21T16:21:59.689Z
+updated: 2024-11-25T16:18:13.981Z
 tags:
   - laptops
 categories:
@@ -101,13 +101,6 @@ The Alienware x16 R2 is built with an Intel Core Ultra 9 processor, Nvidia GeFor
 
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Falienware-x16-r2-240hz-gaming-laptop-intel-core-ultra-9-processor-nvidia-geforce-rtx-4070-32gb-memory-1-tb-ssd-lunar-silver%2F6576921.p%3FskuId%3D6576921&publisher_slug=itechdaily19598&exclusive=1) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## More October Prime Day 2024 gaming deals still available
 
 ZDNET
@@ -126,10 +119,7 @@ ZDNET
 * [AMD Ryzen 9 5900X for $215 (save $355)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAMD-Ryzen-5900X-24-Thread-Processor%2Fdp%2FB08164VTWH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1e6555b8-bef6-4902-a796-8b5bdf93be3c%7Cdtp&dtb=1): A high-end gaming CPU with 12 cores, 24 threads, and a maximum clock speed of 4.8GHz.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day PlayStation 5 deals still available
@@ -207,10 +197,7 @@ Samsung/ZDNET
 * [Acer Nitro 24-inch monitor for $100 (save $73)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAcer-Monitor-FreeSync-Technology-ZeroFrame%2Fdp%2FB0B6DFG1FQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1e6555b8-bef6-4902-a796-8b5bdf93be3c%7Cdtp&dtb=1): A great gaming monitor with 1080p resolution, a 165Hz refresh rate, and AMD FreeSync Premium VRR support.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day PC gaming accessories deals still available
@@ -219,6 +206,10 @@ Samsung/ZDNET
 * [Corsair Scimitar Elite RGB wireless for $100 (save $30)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCORSAIR-SCIMITAR-ELITE-WIRELESS-Gaming%2Fdp%2FB0CCVYHZ9N%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1e6555b8-bef6-4902-a796-8b5bdf93be3c%7Cdtp&dtb=1): A wireless mouse designed for MOBAs and MMOs with 16 programmable buttons and a 150-hour battery life.
 * [HyperX QuadCast USB mic for $85 (save $55)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHyperX-QuadCast-Condenser-Microphone-Anti-Vibration%2Fdp%2FB07NZZZ746%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1e6555b8-bef6-4902-a796-8b5bdf93be3c%7Cdtp&dtb=1): This USB microphone has an integrated shock mount and is certified for use with Discord.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## October Prime Day graphics card deals still available
 
 * [Asus TUF Nvidia GeForce RTX 4070 Ti for $750 (save $110 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-nvidia-geforce-rtx-4070-ti-tuf-overclock-12gb-gddr6x-pci-express-4-0-graphics-card-black%2F6529351.p%3FskuId%3D6529351&publisher%5Fslug=zdnet&article%5Fname=best%20october%20prime%20day%202024%20gaming%20deals%20still%20available%3A%20last%20chance%20to%20save%20up%20to%20%241%2C000&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-10-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This GPU offers 12GB of VRAM, support for up to 4 displays, and 8K video output.
@@ -226,24 +217,19 @@ Samsung/ZDNET
 * [MSI Ventus GeForce RTX 4060 Ti for $430 (save $70 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FMSI-Ventus-GeForce-RTX-4060-Ti-16GB-GDDR6-PCI-Express-4-0-x8-ATX-Video-Card-RTX-4060-Ti-VENTUS-2X-BLACK-16G-OC%2F1508015956&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An Nivida 40 Series GPU with 16GB of DDR6 VRAM and support for up to 4 displays.
 * [Gigabyte GeForce RTX 4070 Ti Super Windforce Max OC Edition for $770 (save $130 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FGIGABYTE-GeForce-RTX-4070-Ti-SUPER-WINDFORCE-MAX-OC-16G-Graphics-Card-3x-WINDFORCE-Fans-16GB-256-bit-GDDR6X-GV-N407TSWF3MAX-OC-16GD-Video-Card%2F6941118252&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end Nvidia RTX 40 Series graphics card with 16GB of VRAM, triple cooling fans, and dual BIOS controls.
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### When was Amazon Prime Day 2024?
 
 Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, ran through October 8 and 9\. And other retailers like [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2F&publisher_slug=itechdaily19598&exclusive=1) and [Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fdeals%3FathAsset%3DeyJhdGhjcGlkIjoiMmU5ZjFjZmMtOTVhZC00NDlhLWEyNzgtZTU3ZTZlOTFjZmEwIn0%3D%26athena%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp) were running their own, rival sales at the same time. And even though the sale itself is over, you can still find lots of great deals and discounts.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Are games, consoles, and accessories really cheaper on Prime Day?
 
@@ -252,13 +238,6 @@ Games, consoles, and accessories can and do go on sale during Prime Day, though 
 ### How did we choose these Prime Day deals?
 
 I only chose deals on games that have been critically and commercially well-received, as well as accessories and peripherals from well-known and reputable brands like Razer and Logitech. I also only included deals that offered at least a 15 percent discount.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the best October Prime Day 2024 deals?
 
@@ -325,18 +304,17 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-crafting-meaningful-communication-in-the-comment-section/"><u>[New] 2024 Approved Crafting Meaningful Communication in the Comment Section</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-a-new-era-of-creativity-pinpointing-the-best-10-budget-friendly-video-art-communities-on-youtube/"><u>2024 Approved A New Era of Creativity Pinpointing the Best 10 Budget-Friendly Video Art Communities on YouTube</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-becoming-an-srt-creation-virtuoso-a-complete-manual/"><u>2024 Approved Becoming an SRT Creation Virtuoso A Complete Manual</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amd-radeon-r9-series-quick-start-to-downloading-and-installing-drivers-on-windows/"><u>AMD Radeon R9 Series: Quick Start to Downloading & Installing Drivers on Windows</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/confrontation-of-dusk-defender-and-dawn-protector-for-2024/"><u>Confrontation of Dusk Defender and Dawn Protector for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722974426339-download-intelligent-cpu-drives-swiftly-and-simply/"><u>Download Intelligent CPU Drives Swiftly and Simply!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-solutions-for-logitech-c615-drivers-no-more-hassles/"><u>Effortless Solutions for Logitech C615 Drivers - No More Hassles!</u></a></li>
-<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-motorola-razr-40-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Motorola Razr 40 Ultra | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-hp-deskjet-2755e-drivers-installed-for-windows-pcs-steps-and-links/"><u>Get Your HP DeskJet 2755E Drivers Installed for Windows PCs – Steps & Links!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Realme GT 5? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-soundscape-integration-for-statements/"><u>In 2024, Soundscape Integration for Statements</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/officially-verified-drivers-for-realteks-rtl8188cu-wireless-adapter-compatible-with-windows-10-and-7-systems/"><u>Officially Verified Drivers for Realtek's RTL8188CU Wireless Adapter - Compatible with Windows 10 & 7 Systems</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/vertical-or-horizontal-facebook-video-tactic-for-2024/"><u>Vertical or Horizontal Facebook Video Tactic for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-leveraging-engagement-for-higher-facebook-profile-visibility/"><u>[New] 2024 Approved Leveraging Engagement for Higher Facebook Profile Visibility</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-rounded-overview-googles-podcast-application-demystified/"><u>[New] 2024 Approved Rounded Overview Google's Podcast Application Demystified</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-video-creation-the-complete-review-of-sj-cam-s6/"><u>[New] Mastering Video Creation The Complete Review of SJ-CAM S6</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/boost-performance-learn-how-to-install-new-drivers-for-your-logitech-m310-mouse/"><u>Boost Performance: Learn How to Install New Drivers for Your Logitech M310 Mouse</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-realme-gt-5-pro-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Realme GT 5 Pro Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-840-g3-user-manual-how-to-download-and-set-up-drivers/"><u>HP 840 G3 User Manual: How to Download and Set Up Drivers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-streaming-google-meet-to-youtube-a-compreenas-step-by-step-guide/"><u>In 2024, Streaming Google Meet to YouTube - A Compreenas Step-by-Step Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-samsung-galaxy-a34-5g-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Samsung Galaxy A34 5G</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/optimize-your-gaming-setup-logitech-driving-force-pro-driver-for-windows-operating-systems/"><u>Optimize Your Gaming Setup: Logitech Driving Force Pro Driver for Windows Operating Systems</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/plants-vs-zombies-battle-for-neighborville-review/"><u>Plants Vs. Zombies: Battle for Neighborville Review</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-p40plus-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on P40+ without backup.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-sound-blaster-roar-to-work-with-windows-groovy-gaming-on-your-pc-get-new-versions-now/"><u>Update Your Sound Blaster Roar to Work with Windows Groovy Gaming on Your PC! Get New Versions Now.</u></a></li>
 </ul></div>
 

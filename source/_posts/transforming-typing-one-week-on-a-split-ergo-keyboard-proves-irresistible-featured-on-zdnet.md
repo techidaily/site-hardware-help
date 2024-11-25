@@ -1,7 +1,7 @@
 ---
 title: "Transforming Typing: One Week on a Split Ergo-Keyboard Proves Irresistible | Featured on ZDNet"
-date: 2024-11-10T23:46:34.139Z
-updated: 2024-11-15T20:28:57.299Z
+date: 2024-11-22T16:06:18.297Z
+updated: 2024-11-25T16:17:43.750Z
 tags:
   - laptops
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/cd939fa7a6d55f7872fb793de3dd6a0a1cf42f10f
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -107,10 +111,7 @@ The cost of these products might be a barrier for some, especially when combined
 Additionally, the $99 price tag for the pair of magnetic keyboard stands seems a little hard for me to justify. But if you're committed to a premium take on innovative ergonomics, Nuio's lineup is one of the best on the market. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -149,15 +150,21 @@ The price point for these peripherals is a little steep, particularly when you c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-help.techidaily.com/save-your-pc-up-to-date-driver-pack-for-all-windows-versions-from-qcom-chipsets/"><u>[SAVE YOUR PC]: Up-to-Date Driver Pack for All Windows Versions From QCOM Chipsets</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-isolate-frames-as-photos-in-windows-11/"><u>2024 Approved How to Isolate Frames as Photos in Windows 11</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/best-free-iphone-13-pro-max-imei-checker-by-drfone-ios/"><u>Best Free iPhone 13 Pro Max IMEI Checker</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/tials-for-professionals-advanced-strategies-in-video-tagging-for-2024/"><u>Essentials for Professionals Advanced Strategies in Video Tagging for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-itel-p40-by-drfone-android/"><u>How to Bypass FRP from Itel P40?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Itel P55 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-sapphire-graphics-card-drivers-windows-edition-free-download/"><u>Latest Sapphire Graphics Card Drivers: Windows Edition - FREE Download</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/magicard-rio-pro-driver-fresh-release-download-now-for-compatible-windows-operating-systems/"><u>Magicard Rio Pro Driver: Fresh Release! Download Now for Compatible Windows Operating Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/new-leak-suggests-apple-pushes-back-launch-of-ai-capabilities-to-october-insights-from-zdnet/"><u>New Leak Suggests Apple Pushes Back Launch of AI Capabilities to October - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unlock-high-quality-webcams-on-windows-free-logitech-driver-downloads-available-now/"><u>Unlock High-Quality Webcams on Windows: Free Logitech Driver Downloads Available Now</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-age-of-empires-unleashed-exploring-the-7-greatest-battles/"><u>[New] Age of Empires Unleashed Exploring the 7 Greatest Battles</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-video-framing-mastery-letterbox-technique-for-social-media-content/"><u>[Updated] 2024 Approved Video Framing Mastery Letterbox Technique for Social Media Content</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-odd-angle-intrigue-of-instagram-video-postings/"><u>2024 Approved The Odd-Angle Intrigue of Instagram Video Postings</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-hp-officejet-pro-8610-printer-drivers-compatible-with-windows-10-8-7-xp-and-vista/"><u>Download & Update HP Officejet Pro 8610 Printer Drivers: Compatible with Windows 10, 8, 7, XP & Vista</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-newest-tp-link-network-adapter-software-for-windows-1187-users/"><u>Download Newest TP-Link Network Adapter Software for Windows 11/8/7 Users</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/dvd-winx-dvd-ripper-platinum-dvd/"><u>DVD コピーを強化した【公式】WinX DVD Ripper Platinum - 常に進化する無料ダウンロード版 DVD リッピングソフトで、ご利用いただけます。</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-dell-wireless-network-adapter-driver-software/"><u>Get the Latest Dell Wireless Network Adapter Driver Software</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ssing-imovies-capabilities-for-youtube-video-perfection-for-2024/"><u>Harnessing iMovie's Capabilities for YouTube Video Perfection for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-fine-tuning-team-call-aesthetics-pre-and-post-customization/"><u>In 2024, Fine-Tuning Team Call Aesthetics Pre & Post Customization</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-how-to-record-a-timelapse-video-on-ipad/"><u>In 2024, How to Record a Timelapse Video on iPad</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-windows-display-driver-updates-download-and-installation-guide/"><u>Latest Windows Display Driver Updates: Download and Installation Guide</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/microsoft-surface-pro-7-reviewed-a-comforting-update-with-steady-performance-gains/"><u>Microsoft Surface Pro 7 Reviewed – A Comforting Update with Steady Performance Gains</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-guide-downloading-and-keeping-your-synaptic-drivers-updated-for-windows/"><u>Quick Guide: Downloading and Keeping Your Synaptic Drivers Updated for Windows!</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/simple-guide-removing-windows-11-updates-effortlessly/"><u>Simple Guide: Removing Windows 11 Updates Effortlessly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-instructions-how-to-update-razer-naga-mouse-drivers-in-windows-1011/"><u>Step-by-Step Instructions: How to Update Razer Naga Mouse Drivers in Windows 10/11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/winning-against-windows-11s-usb-recognition-problems-effective-fixes-explained/"><u>Winning Against Windows 11'S USB Recognition Problems: Effective Fixes Explained</u></a></li>
 </ul></div>
 

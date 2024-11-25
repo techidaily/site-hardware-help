@@ -1,7 +1,7 @@
 ---
 title: Select Your Graphics Card Model, Which Is GeForce RTX 3060 Ti in This Case.
-date: 2024-08-19T12:25:57.385Z
-updated: 2024-08-20T12:25:57.385Z
+date: 2024-11-19T16:28:19.585Z
+updated: 2024-11-25T16:29:40.664Z
 tags:
   - win11
   - win10
@@ -45,9 +45,17 @@ OR
 
 ![This image has an empty alt attribute; its file name is image-226.png](https://images.drivereasy.com/wp-content/uploads/2019/05/image-226.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ). Or if you just want to update the Synaptics PS/2 Port Touchpad driver for now, simply click the**Update** button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-227.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
 
@@ -59,9 +67,17 @@ OR
 
  If you feel like updating your Synaptics PS/2 Port Touchpad driver manually, here’s the simple and useful guide for you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Update your driver via official websites
 
  Synaptics have made an announcement on their official website that the corresponding drivers for TouchPad devices are “customized and supported by notebook manufacturers to meet specific driver requirements for their individual products.” So if you want to download the driver from official websites and then install it by yourself, you’ll need to visit the site of your notebook manufacturer. For instance, if you’re using a Dell laptop, you should go directly to Dell’s website and download the driver from it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Update your driver via Device Manager
 
@@ -73,42 +89,28 @@ Here’re the steps to update your driver via Device Manager:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap13.png)
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Here comes the window of**Device Manager** . Double-click on the**Mice and other pointing devices** category to expand its drop-down list. Then right-click**Synaptics PS/2 Port Touchpad** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-230.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) In the context menu of Synaptics PS/2 Port Touchpad, select**Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-231.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
  4) Click**Search automatically for updated driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-232.png)
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5) Wait till the download and installation process finishes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-233.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-234.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  6) Click **Close** when it’s all done.
 
  7) Now your driver has been updated by Windows successfully. Don’t forget to restart your computer for the changes to take effect even if you’re not asked to.
@@ -126,8 +128,6 @@ Here’re the steps to update your driver via Device Manager:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +135,20 @@ Here’re the steps to update your driver via Device Manager:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-facebook-vault-convert-videos-to-mp4-in-seconds/"><u>[New] In 2024, Facebook Vault Convert Videos to MP4 in Seconds</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-audio-anomaly-top-disruptive-music-apps-for-iosandroid/"><u>[Updated] Audio Anomaly Top Disruptive Music Apps for iOS/Android</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-merge-worlds-easily-linking-instagram-and-facebook-accounts/"><u>2024 Approved Merge Worlds Easily Linking Instagram & Facebook Accounts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-professional-streaming-made-easy-your-guide-to-zoom-and-youtube-integration/"><u>2024 Approved Professional Streaming Made Easy Your Guide to Zoom and YouTube Integration</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/anticipated-announcements-at-apples-upcoming-october-showcase-unveiling-of-the-m4-mac-mini-innovative-ipad-features-enhanced-siri-capabilities-and-exclusive92/"><u>Anticipated Announcements at Apple's Upcoming October Showcase: Unveiling of the M4 Mac Mini, Innovative iPad Features, Enhanced Siri Capabilities & Exclusive Revelations | TechSpectrum</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/cutting-edge-storage-savings-alert-secure-your-8tb-samsung-t5-ssd-at-an-unbeatable-36-off-on-amazon-expert-analysis/"><u>Cutting-Edge Storage Savings Alert: Secure Your 8TB Samsung T5 SSD at an Unbeatable 36% Off on Amazon – Expert Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/power-user-delight-exploring-key-highlights-of-the-new-lenovo-laptop/"><u>Power User Delight: Exploring Key Highlights of the New Lenovo Laptop</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/premium-screen-recorders-roundup-for-2024/"><u>Premium Screen Recorders Roundup for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-the-application-was-unable-to-start-in-win1011/"><u>Solving The Application Was Unable to Start in Win10/11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-transferring-your-dvd-collection-onto-huawei-smartphones-and-tablets/"><u>Step-by-Step Guide: Transferring Your DVD Collection Onto Huawei Smartphones & Tablets</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-prime-days-tech-bargains-the-ultimate-guide-to-buying-computers-in-october-2024-insights/"><u>Top Prime Days Tech Bargains: The Ultimate Guide to Buying Computers in October 2024 - Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-the-leading-touchscreen-laptops-in-depth-analysis-and-ratings-zdnet/"><u>Ultimate Guide to the Leading Touchscreen Laptops: In-Depth Analysis & Ratings | ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-october-offer-alert-snag-the-latest-meta-quest-3-vr-at-a-bargain-512-storage-capacity-why-this-beats-any-prime-day-discount/"><u>Unbeatable October Offer Alert: Snag the Latest Meta Quest 3 VR at a Bargain $512 Storage Capacity – Why This Beats Any Prime Day Discount!</u></a></li>
+</ul></div>
 

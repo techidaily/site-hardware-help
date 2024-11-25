@@ -1,7 +1,7 @@
 ---
 title: "$799 Deal Alert: Grab Your New M1 MacBook Air This Amazon Prime Day (October) Featured by ZDNet"
-date: 2024-11-11T22:44:23.139Z
-updated: 2024-11-15T23:56:55.115Z
+date: 2024-11-24T16:24:12.831Z
+updated: 2024-11-25T16:28:10.893Z
 tags:
   - laptops
 categories:
@@ -43,6 +43,10 @@ AI-powered laptops are the future, and right now, manufacturers are putting thei
 
 Most people don't need top-of-the-line AI integration just yet. The reality is that day-to-day workflows for most people are still reliant on powerful, reliable laptops that can tackle whatever you throw at it, and the [M2 MacBook Air](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B3CDZLTB%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5a370dbf-c888-4eee-9995-02aedd2cb6a8%7Cdtp&dtb=1) is a machine that fulfills exactly that need, while being light as air. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When will this deal expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on this deal, but don't fret -- we're constantly finding new chances to score savings and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
@@ -77,25 +81,17 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-game-on-and-store-more-top-5-ssd-reviews-for-xbox-for-2024/"><u>[New] Game On & Store More Top 5 SSD Reviews for Xbox for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/mxfmp46/"><u>無料で簡単！MXFファイルをMP4へ変換するための6つのコツ</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-acer-trackpad-drivers-for-windows-10-users-download-now/"><u>Get the Newest Acer TrackPad Drivers for Windows 10 Users – Download Now!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-gigabyte-ethernet-controller-up-to-date-with-this-free-driver-package/"><u>Get Your Gigabyte Ethernet Controller Up-to-Date with This Free Driver Package!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hassle-free-driver-update-for-brother-mfc-7360n-on-windows-10-8-and-7-download-now/"><u>Hassle-Free Driver Update for Brother MFC-7360N on Windows 10, 8 & 7 - Download Now</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-elevate-content-on-instagram-master-the-art-of-animation-in-stories/"><u>In 2024, Elevate Content on Instagram Master the Art of Animation in Stories</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-guide-updating-your-windows-system-with-new-ricoh-printer-drivers/"><u>Latest Guide: Updating Your Windows System with New Ricoh Printer Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722972754251-ryzen-cpu-firmware-updates-get-your-latest-drivers-here/"><u>Ryzen CPU Firmware Updates - Get Your Latest Drivers Here</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-fixes-for-realtek-network-adapter-errors-on-windows-11-10-and-7-platforms/"><u>Step-by-Step Fixes for Realtek Network Adapter Errors on Windows 11, 10 & 7 Platforms</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-authoritative-ranking-how-netgears-orbi-tops-todays-best-mesh-wifi-systems/"><u>The Authoritative Ranking: How Netgear's Orbi Tops Today's Best Mesh WiFi Systems</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-ultimate-breakdown-decoding-comprehensiveness-of-xvideo-hub-review-for-2024/"><u>The Ultimate Breakdown Decoding Comprehensiveness of XVideo Hub Review for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/transform-your-love-game-top-tips-for-irresistible-tinder-profiles-for-2024/"><u>Transform Your Love Game Top Tips for Irresistible Tinder Profiles for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/your-guide-to-the-newest-innovations-at-apples-wwdc-2025/"><u>Your Guide to the Newest Innovations at Apple's WWDC 2025</u></a></li>
+<li><a href="https://article-files.techidaily.com/fixed-how-do-i-convert-zip-file-into-srt-file-in-2024/"><u>[Fixed!] How Do I Convert Zip File Into Srt File, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-finding-prominent-comment-spotlights/"><u>[New] 2024 Approved Finding Prominent Comment Spotlights</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-leading-free-art-pages-for-easy-no-cost-illustrations/"><u>[Updated] Leading Free Art Pages for Easy, No-Cost Illustrations</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/10-premier-igtv-horizontal-video-editors/"><u>10 Premier IGTV Horizontal Video Editors</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-expert-analysis-of-srt-unpacking-its-significance/"><u>2024 Approved Expert Analysis of SRT Unpacking Its Significance</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/beyond-basic-editing-innovative-use-of-luts-for-photography/"><u>Beyond Basic Editing Innovative Use of LUTs for Photography</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-netgear-a6100-drivers-for-windows-systems/"><u>Download & Update: Netgear A6100 Drivers for Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-guide-to-download-and-install-the-epson-gt-s50-driver-on-windows-7810-step-by-step-tutorials-available/"><u>Easy Guide to Download and Install the Epson GT S50 Driver on Windows 7/8/10 - Step by Step Tutorials Available</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-installation-get-your-latest-amd-ati-radeon-hd-graphics-card-drivers-installed-today/"><u>Effortless Installation: Get Your Latest AMD ATI Radeon HD Graphics Card Drivers Installed Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-hands-on-the-latest-sound-blaster-audigy-fx-drivers-free-downloads-available/"><u>Get Your Hands on the Latest Sound Blaster Audigy FX Drivers - Free Downloads Available!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-tecno-spark-20-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/official-canon-printer-drivers-for-windows-1087-easy-installation-steps/"><u>Official Canon Printer Drivers for Windows 10/8/7: Easy Installation Steps</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

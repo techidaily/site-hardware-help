@@ -1,7 +1,7 @@
 ---
 title: "Score Big Savings for Gamers: Top-Tier Speaker System Now $150 Off at Amazon, According to ZDNet's In-Depth Review!"
-date: 2024-11-13T00:51:00.656Z
-updated: 2024-11-15T22:47:24.484Z
+date: 2024-11-24T16:27:56.667Z
+updated: 2024-11-25T16:08:59.542Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Taylor Clemons/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET takeaways
 
@@ -77,10 +81,7 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -92,10 +93,7 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -132,22 +130,20 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-the-ultimate-guide-to-cost-free-cgi-mastery-via-4-youtube-experts-insights/"><u>[New] 2024 Approved The Ultimate Guide to Cost-Free CGI Mastery via 4 YouTube Experts' Insights</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-learning-the-pixiz-method-for-photo-based-video-crafting-for-2024/"><u>[New] Learning the Pixiz Method for Photo-Based Video Crafting for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/remium-video-recorder-for-cutting-edge-youtube-content-for-2024/"><u>[New] Premium Video Recorder for Cutting-Edge YouTube Content for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hashing-it-out-best-tags-to-transform-views-and-profit/"><u>[Updated] 2024 Approved Hashing It Out Best Tags to Transform Views & Profit</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-harness-the-hype-tactics-to-supercharge-your-social-media-status/"><u>2024 Approved Harness the Hype Tactics to Supercharge Your Social Media Status</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-configure-hp-deskjet-scan-application-on-windows-machines/"><u>Download & Configure HP Deskjet Scan Application on Windows Machines</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-update-with-latest-lenovo-t430-drivers-compatible-with-all-versions-of-windows/"><u>Effortless Update with Latest Lenovo T430 Drivers Compatible With All Versions of Windows</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/te-your-views-degrees-of-rotation-on-youtube-a-2023-guide/"><u>Elevate Your Views Degrees of Rotation on YouTube - A 2023 Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ensure-optimal-compatibility-new-driver-downloads-for-xbox-360-controllers/"><u>Ensure Optimal Compatibility: New Driver Downloads for Xbox 360 Controllers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/epson-l3150-printer-driver-download-and-update-for-windows-1087-free/"><u>Epson L3150 Printer Driver Download and Update for Windows 10/8/7 - Free</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-free-qualcomm-chipset-drivers-now-supports-win11-to-win7-operating-systems/"><u>Get Your Free Qualcomm Chipset Drivers Now - Supports Win11 to Win7 Operating Systems!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/guide-to-successfully-installing-new-versions-of-epson-ds-510-printer-driver-on-windows-machines/"><u>Guide to Successfully Installing New Versions of Epson DS-510 Printer Driver on Windows Machines</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-infinix-note-30-vip-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Infinix Note 30 VIP?</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-the-ultimate-mac-toolkit-capturing-netflix-views/"><u>In 2024, The Ultimate Mac Toolkit Capturing Netflix Views</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/in-2024-video-editing-essentials-import-edit-and-export-in-adobe-premiere-2023/"><u>In 2024, Video Editing Essentials Import, Edit, and Export in Adobe Premiere 2023</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/n-drivers-on-windows-1087-quick-guide/"><u>N Drivers on Windows 10/8/7 - Quick Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/revamping-your-clicks-a-comprehensive-tutorial-on-logitech-m310-mouse-drivers-update/"><u>Revamping Your Clicks: A Comprehensive Tutorial on Logitech M310 Mouse Drivers Update</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-advancing-well-being-with-facebook-campaign-insights/"><u>[New] Advancing Well-Being with Facebook Campaign Insights</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-masterclass-adding-subtitles-as-chapter-indicators-on-youtube/"><u>[New] Masterclass Adding Subtitles as Chapter Indicators on YouTube</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-from-followers-to-fame-on-instagram-expert-advice-and-real-outcomes/"><u>[Updated] From Followers to Fame on Instagram Expert Advice and Real Outcomes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-minimize-time-maximize-results-with-this-srt-to-txt-hack/"><u>[Updated] Minimize Time, Maximize Results with This SRT to TXT Hack</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-perfecting-motion-capture-in-a-canon-lens/"><u>[Updated] Perfecting Motion Capture in a Canon Lens</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-top-voice-transformation-tools-for-personal-use-for-2024/"><u>[Updated] Top Voice Transformation Tools for Personal Use for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-free-and-paid-canvas-creations-apps-for-pc-users/"><u>Best Free & Paid Canvas Creations Apps for PC Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-logitech-g35-usb-headphones-drivers-latest-version-for-win-7-810-supported/"><u>Free Logitech G35 USB Headphones Drivers - Latest Version for Win 7, 8/10 Supported</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-amd-radeon-pro-w5700-driver-for-win11107-systems-today/"><u>Get the Newest AMD Radeon Pro W5700 Driver for Win11/10/7 Systems Today!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-complimentary-m-audio-fast-track-ultra-drivers-now-and-elevate-your-audio-game/"><u>Get Your Complimentary M-Audio Fast Track Ultra Drivers Now and Elevate Your Audio Game!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intel-nuc-driver-updates-simplified-expert-techniques-for-speed-and-ease/"><u>Intel NUC Driver Updates Simplified - Expert Techniques for Speed and Ease</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722966230555-seamless-setup-fetch-the-latest-hp-stream-printing-drivers-instantly/"><u>Seamless Setup: Fetch the Latest HP Stream Printing Drivers Instantly!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/securely-update-your-corsair-keyboard-to-the-latest-version-on-windows-free-driver-downloads-available-now/"><u>Securely Update Your Corsair Keyboard to the Latest Version on Windows – FREE Driver Downloads Available Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-successfully-downloading-and-installing-the-arduino-nano-board-software-on-a-windows-pc/"><u>Step-by-Step Guide: Successfully Downloading & Installing the Arduino Nano Board Software on a Windows PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-lava-yuva-2-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Lava Yuva 2 to Gmail | Dr.fone</u></a></li>
 </ul></div>
 

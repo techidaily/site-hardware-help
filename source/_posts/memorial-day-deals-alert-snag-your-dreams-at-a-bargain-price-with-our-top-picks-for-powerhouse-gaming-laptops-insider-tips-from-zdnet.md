@@ -1,7 +1,7 @@
 ---
 title: Memorial Day Deals Alert! Snag Your Dreams at a Bargain Price with Our Top Picks for Powerhouse Gaming Laptops | Insider Tips From ZDNet
-date: 2024-11-09T20:19:54.748Z
-updated: 2024-11-16T02:02:18.270Z
+date: 2024-11-20T16:02:00.509Z
+updated: 2024-11-25T16:04:03.074Z
 tags:
   - laptops
 categories:
@@ -133,13 +133,6 @@ ZDNET
 * [WD Black SN850X 4TB SSD for $264 (save $436)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FWD%5FBLACK-SN850X-Internal-Gaming-Solid%2Fdp%2FB0B7CQ2CHH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0a026785-49e5-4e22-855b-e7c6f4fddcc2%7Cdtp&dtb=1): Instantly add 4TB of storage to your PS5 console for large game downloads and save files.
 * [Metal Gear Solid: Master Collection Vol. 1 for $19 (save $21)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMetal-Gear-Solid-Collection-PlayStation-5%2Fdp%2FB0C93LL82B%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0a026785-49e5-4e22-855b-e7c6f4fddcc2%7Cdtp&dtb=1): Get all three of the original MGS games for the PS1 in a single collection.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## October Prime Day Xbox Series X|S deals
 
 * [Xbox Elite Series 2 Core wireless controller for $140 (save $40 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FElite-2-Controller-Black-Xbox-One%2Fdp%2FB07SFKTLZM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0a026785-49e5-4e22-855b-e7c6f4fddcc2%7Cdtp&dtb=1): A premium-grade wireless controller for the Xbox Series X|S. It also works with PC, Android, and iOS mobile devices.
@@ -152,13 +145,6 @@ ZDNET
 * [Razer Wolverine V2 Chroma for $109 (save $36)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRazer-Wolverine-Chroma-Gaming-Controller-x%2Fdp%2FB09CKFSRK7%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0a026785-49e5-4e22-855b-e7c6f4fddcc2%7Cdtp&dtb=1): A wired, pro-style controller for the Xbox Series X|S console featuring RGB lighting, programmable buttons, and an ergonomic design for marathon gaming.
 * [Razer universal quick charging stand for $19 (save $31)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRazer-Universal-Quick-Charging-Stand-x%2Fdp%2FB09J1LMVW9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0a026785-49e5-4e22-855b-e7c6f4fddcc2%7Cdtp&dtb=1): A USB charging stand for your Xbox controllers to keep them at-the-ready.
 * [Starfield standard edition for $40 (save $30)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FStarfield-Standard-Xbox-X%2Fdp%2FB0C7PN2L5V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0a026785-49e5-4e22-855b-e7c6f4fddcc2%7Cdtp&dtb=1): Bethesda's latest action RPG has players exploring more than 1,000 planets to gather resources and allies.
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## October Prime Day Nintendo deals
 
@@ -189,6 +175,10 @@ Kyle Kucharski/ZDNET
 * [Corsair Vengeance i7500 for $1,360 (save $340)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCorsair-Vengeance-i7500-Gaming-PC%2Fdp%2FB0CY37V72Q%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0a026785-49e5-4e22-855b-e7c6f4fddcc2%7Cdtp&dtb=1): A mid-range gaming and content creation PC with a GeForce RTX 4060 graphics card, Intel Core i5-14600KF CPU, 32GB of RAM, and a 1TB SSD.
 * [Alienware Aurora R16 for $1,780 (save $420)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAlienware-Aurora-R16-Gaming-Desktop%2Fdp%2FB0CKLYZHTF%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0a026785-49e5-4e22-855b-e7c6f4fddcc2%7Cdtp&dtb=1): A high-end gaming PC with a GeForce RTX 4070 graphics card, 32GB of RAM, a 1TB SSD, and 13th generation Intel Core i9 CPU.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## October Prime Day gaming laptop deals
 
 Lenovo
@@ -209,16 +199,7 @@ Samsung/ZDNET
 * [Acer Nitro 24-inch monitor for $100 (save $73)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAcer-Monitor-FreeSync-Technology-ZeroFrame%2Fdp%2FB0B6DFG1FQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0a026785-49e5-4e22-855b-e7c6f4fddcc2%7Cdtp&dtb=1): A great gaming monitor with 1080p resolution, a 165Hz refresh rate, and AMD FreeSync Premium VRR support.
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day PC gaming accessories deals
@@ -228,6 +209,10 @@ Samsung/ZDNET
 * [Corsair Scimitar Elite RGB wireless for $90 (save $40)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCORSAIR-SCIMITAR-ELITE-WIRELESS-Gaming%2Fdp%2FB0CCVYHZ9N%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0a026785-49e5-4e22-855b-e7c6f4fddcc2%7Cdtp&dtb=1): A wireless mouse designed for MOBAs and MMOs with 16 programmable buttons and a 150-hour battery life.
 * [HyperX QuadCast USB mic for $90 (save $50)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHyperX-QuadCast-Condenser-Microphone-Anti-Vibration%2Fdp%2FB07NZZZ746%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0a026785-49e5-4e22-855b-e7c6f4fddcc2%7Cdtp&dtb=1): This USB microphone has an integrated shock mount and is certified for use with Discord.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## October Prime Day graphics card deals
 
 * [Asus TUF Nvidia GeForce RTX 4070 Ti for $750 (save $110 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-nvidia-geforce-rtx-4070-ti-tuf-overclock-12gb-gddr6x-pci-express-4-0-graphics-card-black%2F6529351.p%3FskuId%3D6529351&publisher%5Fslug=zdnet&article%5Fname=best%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024%3A%20last%20chance%20to%20save%20up%20to%20%241%2C000&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-09-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This GPU offers 12GB of VRAM, support for up to 4 displays, and 8K video output.
@@ -236,29 +221,23 @@ Samsung/ZDNET
 * [Gigabyte GeForce RTX 4070 Ti Super Windforce Max OC Edition for $770 (save $177 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FGIGABYTE-GeForce-RTX-4070-Ti-SUPER-WINDFORCE-MAX-OC-16G-Graphics-Card-3x-WINDFORCE-Fans-16GB-256-bit-GDDR6X-GV-N407TSWF3MAX-OC-16GD-Video-Card%2F6941118252&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end Nvidia RTX 40 Series graphics card with 16GB of VRAM, triple cooling fans, and dual BIOS controls.
 * [XFX Speedster Merc3 19 RX 7800 XT for $430 (save $90 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXFX-Speedster-MERC319-Graphics-RX-78TMERCB9%2Fdp%2FB0CGM93HJD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0a026785-49e5-4e22-855b-e7c6f4fddcc2%7Cdtp&dtb=1): This AMD graphics card has 16GB of VRAM, three cooling fans, and a max clock speed of 2565MHz.
 
-## FAQs
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## FAQs
 
 ### When is Amazon Prime Day 2024?
 
 Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, will run through October 8 and 9\. Some brands may offer discounts and coupons ahead of the official sale. And other retailers like [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2F&publisher_slug=itechdaily19598&exclusive=1) and [Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fdeals%3FathAsset%3DeyJhdGhjcGlkIjoiMmU5ZjFjZmMtOTVhZC00NDlhLWEyNzgtZTU3ZTZlOTFjZmEwIn0%3D%26athena%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp) are running their own, rival sales at the same time. That's great news for anyone who likes to compare discounts and prices to make sure they're getting the absolute best deal possible. 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Are games, consoles, and accessories really cheaper on Prime Day?
 
 Games, consoles, and accessories can and do go on sale during Prime Day, though not every brand or manufacturer may participate. Some brands may have competing sales at other retailers or on their own direct-sale sites, which is great news for anyone who likes to compare discounts to make sure they're getting the best deal possible.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How did we choose these Prime Day deals?
 
@@ -329,24 +308,17 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-free-top-10-vr-360-video-players-for-pc/"><u>[New] FREE Top 10 VR (360 Video) Players for PC</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-creating-seamless-zoom-experiences/"><u>[New] In 2024, Creating Seamless Zoom Experiences</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-windows-11-gamers-guide-to-immaculate-game-recording-for-2024/"><u>[New] Windows 11 Gamers' Guide to Immaculate Game Recording for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-expert-tips-for-maximizing-visual-impact-via-google-meet-filters-and-masks/"><u>[Updated] 2024 Approved Expert Tips for Maximizing Visual Impact via Google Meet Filters & Masks</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/achieve-smooth-sounds-in-no-time-updating-your-acer-audio-drivers-made-simple/"><u>Achieve Smooth Sounds in No Time: Updating Your Acer Audio Drivers Made Simple</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-your-sound-blaster-z-drivers-on-windows-groovy-10-quick-and-easy-tips/"><u>Download and Update Your Sound Blaster Z Drivers on Windows Groovy 10 - Quick & Easy Tips!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-guide-finding-and-downloading-samsung-printer-software-for-windows-users/"><u>Easy Guide: Finding and Downloading Samsung Printer Software for Windows Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-dell-thunderbolt-16-docking-station-driver-downloads-and-latest-updates/"><u>Free Dell Thunderbolt 16 Docking Station Driver Downloads & Latest Updates</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/harnessing-data-with-cookiebot-optimize-user-experience-and-drive-engagement/"><u>Harnessing Data with Cookiebot: Optimize User Experience & Drive Engagement</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-infinix-zero-30-5g-lock-screen-password-by-drfone-android/"><u>How To Change Infinix Zero 30 5G Lock Screen Password?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-update-your-computer-with-intels-usb-30-drivers-on-windows-11/"><u>How to Update Your Computer with Intel's USB 3.0 Drivers on Windows 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/solving-intel-hd-graphics-630-drivers-problems-on-your-windows-pc-a-complete-guide/"><u>Solving Intel HD Graphics 630 Drivers Problems on Your Windows PC: A Complete Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/startechs-ultimate-guide-to-downloading-usb-compatible-vga-drivers/"><u>StarTech's Ultimate Guide to Downloading USB-Compatible VGA Drivers</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-samsung-galaxy-a34-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Samsung Galaxy A34 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/the-new-scene-for-gamers-a-comprehensive-review-of-watch-dogs-legion/"><u>The New Scene for Gamers: A Comprehensive Review of 'Watch Dogs: Legion'</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-science-of-how-virtual-assistants-talk-like-us-exploring-conversation-simulation-in-ai/"><u>The Science of How Virtual Assistants Talk Like Us: Exploring Conversation Simulation in AI</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722972057728-the-ultimate-solution-to-restarting-your-igfxem-module-no-more-problems/"><u>The Ultimate Solution to Restarting Your iGFXem Module - No More Problems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/trouble-with-stadia-heres-how-to-restore-your-headset-connection/"><u>Trouble with Stadia? Here's How to Restore Your Headset Connection!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-drivers-for-your-brother-mfc-j480dw-on-windows-systems-easily/"><u>Update Drivers for Your Brother MFC- J480DW on Windows Systems Easily</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-unveiling-the-secrets-of-instagrams-musical-emoji-usage/"><u>[New] Unveiling the Secrets of Instagram's Musical Emoji Usage</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-beyond-capture-understanding-mycams-advanced-features-for-2024/"><u>[Updated] Beyond Capture – Understanding MyCam's Advanced Features for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-brother-hl-l2360dw-driver-software-for-your-printer-here/"><u>Get the Latest Brother HL-L2360DW Driver Software for Your Printer Here!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-obtain-the-latest-canon-mf450-direct-download-pages/"><u>How to Obtain the Latest Canon MF450지도립 패치: Direct Download Pages</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-apex-capture-vs-lumen-hub/"><u>In 2024, Apex Capture VS Lumen Hub</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-nokia-g310-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Nokia G310</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/secure-your-logitech-g402-gamepad-download-drivers-and-setup-instructions/"><u>Secure Your Logitech G402 Gamepad - Download Drivers & Setup Instructions</u></a></li>
+<li><a href="https://fox-where.techidaily.com/step-by-step-tutorial-on-creating-durable-hardcovers-for-your-personal-flipbooks-at-home-flipmastery-with-flipbuildercom/"><u>Step-by-Step Tutorial on Creating Durable Hardcovers for Your Personal FlipBooks at Home [FlipMastery with FlipBuilder.com]</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-activating-gesture-navigation-in-ms-edge-windows-11/"><u>Tips: Activating Gesture Navigation in MS Edge (Windows 11)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-to-newest-epson-wf-7710-drivers-compatible-with-windows-os-download-here/"><u>Update to Newest Epson WF-7710 Drivers – Compatible with Windows OS: Download Here</u></a></li>
 </ul></div>
 

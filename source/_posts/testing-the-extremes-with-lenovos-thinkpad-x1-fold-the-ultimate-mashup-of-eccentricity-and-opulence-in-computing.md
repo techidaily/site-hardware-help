@@ -1,7 +1,7 @@
 ---
 title: Testing the Extremes with Lenovo's ThinkPad X1 Fold – The Ultimate Mashup of Eccentricity and Opulence in Computing
-date: 2024-11-14T05:56:16.690Z
-updated: 2024-11-15T23:29:53.482Z
+date: 2024-11-18T16:31:33.734Z
+updated: 2024-11-25T16:37:04.782Z
 tags:
   - laptops
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://www.zdnet.com/a/img/resize/855c3ab8d3d73da842a5e2e960b5160c90
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -91,10 +95,7 @@ You can also navigate any element of the OS like you would a browser, by swiping
 Finally, the battery life is quite good. Lenovo advertises over 12 hours of use, but I got a little over 10 in my testing. The physical size of the device is going to prevent the 29WHr battery from going much beyond the 10- to 12-hour mark. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -131,20 +132,17 @@ The [Lenovo Chromebook Duet 11-inch](https://shop-links.co/link/?url=https%3A%2F
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/updated-earning-potential-in-beauty-blogging/"><u>[Updated] Earning Potential in Beauty Blogging</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-securing-every-frame-best-practices-for-vimeo-record-use-for-2024/"><u>[Updated] Securing Every Frame Best Practices for Vimeo Record Use for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-the-ultimate-checklist-for-crafting-distinctive-youtube-short-videos/"><u>2024 Approved The Ultimate Checklist for Crafting Distinctive YouTube Short Videos</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-latest-magicard-rio-professional-driving-simulator-optimized-for-windows-10-81-and-7/"><u>Download the Latest Magicard Rio Professional Driving Simulator - Optimized for Windows 10, 8.1 & 7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-installation-of-hp-envy-t-5660-driver-software-get-your-download-here/"><u>Effortless Installation of HP ENVY T 5660 Driver Software - Get Your Download Here!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-epson-wf-3620-drivers-for-seamless-printing-on-your-windows-pc-windows-1187/"><u>Get the Newest Epson WF-3620 Drivers for Seamless Printing on Your Windows PC (Windows 11/8/7)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-dell-devices-wireless-connection-up-and-running-download-the-latest-wifi-driver/"><u>Get Your Dell Device's Wireless Connection Up and Running: Download the Latest WiFi Driver</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-logitech-k350-working-with-these-easy-to-install-driver-downloads/"><u>Get Your Logitech K350 Working with These Easy-to-Install Driver Downloads</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-asus-rog-phone-8-pro-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Asus ROG Phone 8 Pro Phones with/without a PC</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ignite-your-creative-journey-blending-photography-and-videos-through-pixiz-for-2024/"><u>Ignite Your Creative Journey Blending Photography & Videos Through Pixiz for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-essential-guide-to-iphone-voice-recording-techniques/"><u>In 2024, Essential Guide to iPhone Voice Recording Techniques</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-realtek-audio-driver-downloads-for-windows-11-10-and-7/"><u>Latest Realtek Audio Driver Downloads for Windows 11, 10 & 7</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-fixing-the-non-functional-usb-mouse-and-keyboard-on-windows-7/"><u>Resolved: Fixing the Non-Functional USB Mouse & Keyboard on Windows 7</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ng-strategies-maximize-video-impact-from-youtube-to-facebook-for-2024/"><u>Sharing Strategies Maximize Video Impact From YouTube to Facebook for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-review-of-sharks-latest-innovation-the-hands-free-cleaning-masterpiece-featured-on-zdnet/"><u>Ultimate Review of Shark’s Latest Innovation: The Hands-Free Cleaning Masterpiece - Featured on ZDNet!</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-revolutionize-your-channels-thumbnails-with-these-tools/"><u>[New] 2024 Approved Revolutionize Your Channel's Thumbnails with These Tools</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-top-20-instagram-video-exporters-online-windows-mac-edition/"><u>[New] Top 20 Instagram Video Exporters Online, Windows, Mac Edition</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-the-ultimate-guide-to-picking-powerful-yt-thumbnails/"><u>[Updated] In 2024, The Ultimate Guide to Picking Powerful YT Thumbnails</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-step-by-step-to-stunning-snaps-with-snapseed/"><u>[Updated] Step-by-Step to Stunning Snaps with Snapseed</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-sketchsphere-complete-evaluation-24-edition/"><u>2024 Approved SketchSphere Complete Evaluation '24 Edition</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-hp-officejet-5740-drivers-in-minutes-easy-steps-inside/"><u>Download & Install HP OfficeJet 5740 Drivers in Minutes – Easy Steps Inside</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-latest-asus-atk0110-acpi-control-panel-modules-for-free/"><u>Download the Latest ASUS ATK0110 ACPI Control Panel Modules for Free</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-guide-updating-your-dell-webcam-driver-accurately/"><u>Easy Guide: Updating Your Dell Webcam Driver Accurately</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-the-most-recent-realtek-bluetooth-driver-for-windows-11-10-users-direct-downloads/"><u>How to Get the Most Recent RealTek Bluetooth Driver for Windows 11, 10 Users: Direct Downloads</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-effortless-driver-installation-for-your-microsoft-comfortable-keyboard-4000/"><u>Step-by-Step: Effortless Driver Installation for Your Microsoft Comfortable Keyboard 4000</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-poco-x6-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Poco X6 Location | Dr.fone</u></a></li>
 </ul></div>
 

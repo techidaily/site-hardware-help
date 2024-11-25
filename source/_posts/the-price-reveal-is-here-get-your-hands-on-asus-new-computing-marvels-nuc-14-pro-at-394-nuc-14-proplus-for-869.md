@@ -1,7 +1,7 @@
 ---
 title: The Price Reveal Is Here! Get Your Hands on Asus' New Computing Marvels - NUC 14 Pro at $394, NUC 14 Pro+ for $869
-date: 2024-08-19T12:25:54.159Z
-updated: 2024-08-20T12:25:54.159Z
+date: 2024-11-20T16:25:52.481Z
+updated: 2024-11-25T16:24:48.696Z
 tags:
   - desktop
 categories:
@@ -41,6 +41,10 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
  We caught a first glimpse of the AtomMan X7 Ti[at CES 2024](https://www.tomshardware.com/desktops/mini-pcs/minisforum-first-intel-core-ultra-mini-pc-amd-rx-7600M-xt-mini-pc) when it was showcased with other interesting new computers like the Minisforum HX200G, Mini Workstation MS-01, and the[V3 tablet](https://www.tomshardware.com/tablets/minisforum-v3-tablet-arrives-the-worlds-first-amd-ryzen-7-8840u-powered-surface-clone) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,14 +53,11 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -65,8 +66,22 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-boosting-obs-streams-direct-to-facebook-feed/"><u>[New] Boosting OBS Streams Direct to Facebook Feed</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-wildlife-wonders-at-fingertips-top-mobile-simulators/"><u>[Updated] In 2024, Wildlife Wonders at Fingertips Top Mobile Simulators</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-the-gamers-playbook-4-essential-steps-for-recording-games/"><u>2024 Approved The Gamer's Playbook 4 Essential Steps for Recording Games</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-x-sync-studio-platform-personal-computing/"><u>2024 Approved X-Sync Studio Platform, Personal Computing</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/affordable-alternative-best-windows-laptops-beating-macbook-air-prices-and-now-discounted-insights/"><u>Affordable Alternative: Best Windows Laptops Beating MacBook Air Prices & Now Discounted - Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-a-smooth-transition-to-hps-windows-free-life-with-the-new-chromebook-insights/"><u>Discover a Smooth Transition to HP's Windows-Free Life with the New Chromebook - Insights</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/essential-steps-preparing-your-ipad-for-resale-or-gifting-a-comprehensive-guide/"><u>Essential Steps: Preparing Your iPad for Resale or Gifting - A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/frugal-flight-experts-choice-under-500-drone-guide/"><u>Frugal Flight Experts' Choice Under $500 Drone Guide</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/hdd-to-ssdwindows-11/"><u>HDD to SSD変換：Windows 11で最も簡単な方法とその利点</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-nokia-c12-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Nokia C12?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hunt-for-the-best-bargains-find-them-here-neweggs-ultimate-2023-holiday-sale-picks-revealed/"><u>Hunt for the Best Bargains? Find Them Here: Newegg's Ultimate 2023 Holiday Sale Picks Revealed</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-now-windows-compatible-drivers-for-your-realtek-8188ee-wireless-network-adapter/"><u>Install Now: Windows-Compatible Drivers for Your Realtek 8188EE Wireless Network Adapter</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/save-36-on-8tb-samsung-t5-solid-state-drive-available-now-deep-discounts-and-deals-on-amazon/"><u>Save 36% on 8TB Samsung T5 Solid State Drive Available Now - Deep Discounts & Deals on Amazon</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/transform-your-cluttered-desk-into-a-tech-haven-explore-the-ultimate-11-in-1-docking-station-at-44-off-featured-by-zdnet/"><u>Transform Your Cluttered Desk Into a Tech Haven: Explore the Ultimate 11-in-1 Docking Station at 44% Off | Featured by ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlocking-productivity-discover-the-top-underappreciated-dual-function-device-in-offices-today/"><u>Unlocking Productivity: Discover the Top Underappreciated Dual-Function Device in Offices Today</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->

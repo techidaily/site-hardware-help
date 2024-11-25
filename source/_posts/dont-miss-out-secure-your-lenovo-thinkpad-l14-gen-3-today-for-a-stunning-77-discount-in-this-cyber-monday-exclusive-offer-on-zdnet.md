@@ -1,7 +1,7 @@
 ---
 title: Don't Miss Out! Secure Your Lenovo ThinkPad L14 Gen 3 Today for a Stunning 77%% Discount in This Cyber Monday Exclusive Offer on ZDNET.
-date: 2024-11-14T03:56:47.680Z
-updated: 2024-11-15T17:24:38.579Z
+date: 2024-11-21T16:01:16.751Z
+updated: 2024-11-25T16:36:37.338Z
 tags:
   - laptops
 categories:
@@ -100,16 +100,7 @@ The Alienware x16 R2 is built with an Intel Core Ultra 9 processor, Nvidia GeFor
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Falienware-x16-r2-240hz-gaming-laptop-intel-core-ultra-9-processor-nvidia-geforce-rtx-4070-32gb-memory-1-tb-ssd-lunar-silver%2F6576921.p%3FskuId%3D6576921&publisher_slug=itechdaily19598&exclusive=1) 
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## More October Prime Day 2024 gaming deals
@@ -144,6 +135,10 @@ ZDNET
 * [Dead Island 2 standard edition for $20 (save $27 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FDead-Island-2-PlayStation-5%2F5212541857%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Hack and slash your way through Hell-A as one of 6 characters as you fight to survive the hordes of zombies and escape the city with your friends alive.
 * [Madden NFL 25 for $48 (save $23)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMadden-NFL-25-PlayStation-5%2Fdp%2FB0D3PGHSM3%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb662dba8-6b2d-475c-892e-8f5b404df949%7Cdtp&dtb=1): The latest entry in the popular franchise features physics-based tackling, a rebalanced player system, and refreshed franchise mode.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## October Prime Day Xbox Series X|S deals
 
 * [Xbox Elite Series 2 Core wireless controller for $140 (save $40 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FElite-2-Controller-Black-Xbox-One%2Fdp%2FB07SFKTLZM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb662dba8-6b2d-475c-892e-8f5b404df949%7Cdtp&dtb=1): A premium-grade wireless controller for the Xbox Series X|S. It also works with PC, Android, and iOS mobile devices.
@@ -160,13 +155,6 @@ ZDNET
 * [Dragon's Dogma 2 standard edition for $44 (save $12 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FDragon-s-Dogma-2-Xbox-Series-X%2F5262667261%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An action RPG sequel to 2012's Dragon's Dogma featuring a deep class system and skill tree, AI-controlled squad mates for taking on tougher enemies and large-scale battles, and a day-night cycle that changes creature encounters and their strength.
 * [Join Xbox Game Pass Ultimate for $1 (then $19.99 per month)](https://www.xbox.com/en-US/xbox-game-pass#join): Get access to hundreds of PC and Xbox Series X|S games for cloud gaming support, monthly free games, and exclusive discounts.
 * [Corsair Virtuoso RGB Wireless XT wireless gaming headset for $195 (save $75 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCORSAIR-VIRTUOSO-WIRELESS-High-Fidelity-Bluetooth%2Fdp%2FB09BXZKNDB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb662dba8-6b2d-475c-892e-8f5b404df949%7Cdtp&dtb=1): A high-end wireless gaming headset with Dolby Atmos support, iCUE RGB lighting control, and a broadcast-grade microphone.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## October Prime Day Nintendo deals
 
@@ -189,13 +177,6 @@ Nintendo/ZDNET
 * [Pokemon Shining Pearl for $44 (save $16)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FPokemon-Shining-Pearl-Nintendo-Nintendo-Switch%2F890677903%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This remaster of Pokemon Pearl features all new graphics, game modes, and mechanics for players returning to the Sinnoh region as well as fans visiting for the first time.
 * [Nintendo Switch Joy-Con in neon purple and neon orange for $66 (save $14 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FNintendo-Switch-Joy-Con-Pair-Neon-Purple-and-Neon-Orange%2F921709016%3FclassType%3DVARIANT%26athbdg%3DL1600&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Grab an extra Joy-Con controller for your Nintendo Switch to keep gaming while your other controller charges.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## October Prime Day gaming PC deals
 
 Kyle Kucharski/ZDNET
@@ -212,10 +193,7 @@ Kyle Kucharski/ZDNET
 * [Alienware Aurora R16 for $3,700 (save $1,000 at Dell)](https://www.dpbolvw.net/click-9041660-15734614?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdesktop-computers%2Falienware-aurora-r16-gaming-desktop%2Fspd%2Falienware-aurora-r16-desktop%2Fuseapctor16icc2&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Alienware's flagship gaming desktop is built with a 14th gen Intel Core i9 CPU, Nvidia GeForce RTX 4090 graphics card, 64GB of RAM, and 4TB of storage.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day gaming laptop deals
@@ -237,6 +215,10 @@ Samsung/ZDNET
 * [Samsung Odyssey Neo G8 32-inch curved monitor for $800 (save $500 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-odyssey-neo-g8-32-curved-4k-uhd-freesync-premium-pro-g-sync-compatible-240hz-1ms-gaming-monitor-black%2F6507933.p%3FskuId%3D6507933&publisher%5Fslug=zdnet&article%5Fname=best%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-06-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This 32-inch display support both AMD FreeSync Premium Pro and Nvidia G-Sync VRR, a 240Hz refresh rate, a 1ms response time, and 4K resolution.
 * [Acer Predator X27U for $680 (save $320 at B&H Photo)](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1772478-REG%2Facer%5Fum%5Fhxxaa%5F001%5Fpredator%5Fx27u%5F27%5Fgaming.html%2Fspecs): A 27-inch gaming monitor with a 240Hz refresh rate, 1440p resolution, a 0.03ms response time, and support for AMD FreeSync Premium Pro VRR.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## October Prime Day PC gaming accessories deals
 
 * [SanDisk Extreme Pro 4TB portable SSD for $340 (save $138 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsandisk-extreme-pro-portable-4tb-external-usb-c-nvme-ssd-black%2F6522095.p%3FskuId%3D6522095&publisher%5Fslug=zdnet&article%5Fname=best%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-06-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An ultra-tough portable SSD compatible with Windows and Mac computers and backed by a 5-year warranty.
@@ -254,16 +236,13 @@ Samsung/ZDNET
 
 ## FAQs
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### When is Amazon Prime Day 2024?
 
 Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, will run through October 8 and 9\. Some brands may offer discounts and coupons ahead of the official sale. And other retailers like [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2F&publisher_slug=itechdaily19598&exclusive=1) and [Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fdeals%3FathAsset%3DeyJhdGhjcGlkIjoiMmU5ZjFjZmMtOTVhZC00NDlhLWEyNzgtZTU3ZTZlOTFjZmEwIn0%3D%26athena%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp) are running their own, rival sales at the same time. Which is great news for anyone who likes to compare discounts and prices to make sure they're getting the absolute best deal possible. 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Are games, consoles, and accessories really cheaper on Prime Day?
 
@@ -338,17 +317,24 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-how-to-upload-longer-videos-to-instagram-on-mac-for-2024/"><u>[New] How to Upload Longer Videos to Instagram on Mac for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-the-key-to-engaging-audiences-instagram-video-descriptions/"><u>[New] In 2024, The Key to Engaging Audiences Instagram Video Descriptions</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-unleashing-creativity-crafting-compelling-fb-video-campaigns-for-2024/"><u>[New] Unleashing Creativity Crafting Compelling FB Video Campaigns for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/common-problems-and-solutions-for-non-functional-windows-11-spotlight-images/"><u>Common Problems and Solutions for Non-Functional Windows 11 Spotlight Images</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-drivers-and-install-logitech-g402-gaming-mouse-software-now/"><u>Download Drivers & Install Logitech G402 Gaming Mouse Software Now!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-install-software-for-your-new-gigabyte-gc-wb867d-i-video-card-download-here/"><u>Easy Install: Software for Your New Gigabyte GC-WB867D-I Video Card - Download Here</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-tecno-pova-5-pro-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Tecno Pova 5 Pro to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-tecno-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Tecno ?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/panasonic-hx-a1-revolutionizing-wearable-cameras-for-the-outdoors/"><u>Panasonic HX-A1 Revolutionizing Wearable Cameras for the Outdoors</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/the-ultimate-guide-to-effective-screen-recording-with-tunefab-for-2024/"><u>The Ultimate Guide to Effective Screen Recording with Tunefab for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshooting-guide-linksys-wusb6300-drivers-finding-and-installing-them-correctly/"><u>Troubleshooting Guide: Linksys WUSB6300 Drivers - Finding and Installing Them Correctly</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-and-install-new-display-drivers-for-your-windows-pc/"><u>Update and Install New Display Drivers for Your Windows PC</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-dawn-of-distinctive-filmmaking-with-vr/"><u>[New] The Dawn of Distinctive Filmmaking with VR</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-sword-and-fairy-7-keeps-crashing-on-pc/"><u>[SOLVED] Sword and Fairy 7 Keeps Crashing on PC</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-todays-biggest-bites-the-top-youtube-hits/"><u>[Updated] In 2024, Today’s Biggest Bites The Top YouTube Hits</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722968666200-characters-must-speak-in-rhyming-couplets-with-their-dialogue-containing-exact-phrases-from-siegels-quotes-eg-there-are-no-moving-parts/"><u>Characters Must Speak in Rhyming Couplets, with Their Dialogue Containing Exact Phrases From Siegel's Quotes (E.g., There Are No Moving Parts.)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-guide-to-downloading-and-updating-drivers-for-your-epson-wf-3720/"><u>Easy Guide to Downloading and Updating Drivers for Your Epson WF-3720</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-to-follow-tutorial-for-fetching-and-upgrading-huion-tablet-software-on-windows-platforms/"><u>Easy-to-Follow Tutorial for Fetching and Upgrading Huion Tablet Software on Windows Platforms</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-installation-intels-official-bluetooth-drivers-for-windows-7-available-now/"><u>Effortless Installation: Intel's Official Bluetooth Drivers for Windows 7 Available Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-latest-windows-compatible-bluetooth-adapter-driver-here/"><u>Get Your Latest Windows-Compatible Bluetooth Adapter Driver Here!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/getting-the-latest-atheros-driver-software-installed-in-windows-os/"><u>Getting the Latest Atheros Driver Software Installed in Windows OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-easily-get-the-latest-hp-laserjet-pro-m402n-printer-software-on-your-windows-device/"><u>How to Easily Get the Latest HP LaserJet Pro M402n Printer Software on Your Windows Device</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-engage-with-openais-bug-bounty-scheme-everything-you-need-to-know/"><u>How to Engage with OpenAI's Bug Bounty Scheme: Everything You Need to Know</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-12-pro-5g-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your 12 Pro 5G?</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-apple-iphone-xs-max-location-by-number-drfone-by-drfone-virtual-ios/"><u>How to Track Apple iPhone XS Max Location by Number | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/learn-to-turn-your-photos-into-their-opposites/"><u>Learn to Turn Your Photos Into Their Opposites</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-hp-envy-5660-driver-installation-for-easy-upgrades/"><u>Step-by-Step Guide to HP Envy 5660 Driver Installation for Easy Upgrades</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/targeted-ads-spreading-awareness-in-the-medical-sphere/"><u>Targeted Ads Spreading Awareness in the Medical Sphere</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-your-vision-into-reality-windows-11-video-creation-for-2024/"><u>Transform Your Vision Into Reality Windows 11 Video Creation for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722959304784-update-your-windows-compatible-creative-camera-drivers-download-now/"><u>Update Your Windows-Compatible Creative Camera Drivers - Download Now!</u></a></li>
 </ul></div>
 

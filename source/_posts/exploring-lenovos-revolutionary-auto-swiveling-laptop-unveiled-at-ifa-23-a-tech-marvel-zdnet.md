@@ -1,7 +1,7 @@
 ---
 title: Exploring Lenovo's Revolutionary Auto-Swiveling Laptop Unveiled at IFA 2#3 - A Tech Marvel! | ZDNet
-date: 2024-11-09T19:24:58.671Z
-updated: 2024-11-16T03:37:21.042Z
+date: 2024-11-20T16:29:36.479Z
+updated: 2024-11-25T16:12:52.676Z
 tags:
   - laptops
 categories:
@@ -40,6 +40,10 @@ Here are some of the most interesting features I saw during my hands-on briefing
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Smart Share
 
 One of the more immediately useful features I saw is the new Smart Share function. Simply giving your laptop a good whack with your phone activates a window that brings up a handful of your most recent photos that you can simply drag and drop onto your computer.
@@ -57,10 +61,7 @@ Kyle Kucharski/ZDNET
 Besides the Smart Share features, there are four different "modes" that activate various features. You can toggle each feature on or off individually, to avoid being bombarded with different prompts. Here are the most impactful ones I saw during my time trying the new laptops.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Shield Mode
@@ -69,10 +70,7 @@ Besides the Smart Share features, there are four different "modes" that activate
 * The VPN auto-launch feature will start your preferred VPN automatically upon connecting to any public Wi-Fi network, a handy function if you spend a lot of time working in coffee shops.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Attention Mode
@@ -82,10 +80,7 @@ Besides the Smart Share features, there are four different "modes" that activate
 Kyle Kucharski/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Collaboration Mode
@@ -93,10 +88,7 @@ Kyle Kucharski/ZDNET
 * Designed mostly for virtual meetings, activating this mode enables your preset camera features, such as background blur, low light enhancer, or touch ups.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Wellness Mode
@@ -141,21 +133,22 @@ We'll definitely be doing some additional testing of the smart modes when we get
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-the-editors-edge-exploring-the-best-of-youtube-video-tools/"><u>[New] 2024 Approved The Editor's Edge Exploring the Best of YouTube Video Tools</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-decoding-the-language-of-asmr-videos-for-2024/"><u>[New] Decoding the Language of ASMR Videos for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-elite-videochats-enabling-online-meeting-excellence/"><u>[Updated] In 2024, Elite Videochats Enabling Online Meeting Excellence</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-simplifying-massive-media-swap-iphone-to-mac-file-relocation/"><u>[Updated] Simplifying Massive Media Swap IPhone-to-Mac File Relocation</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-tecno-camon-20-premier-5g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Tecno Camon 20 Premier 5G to Roku | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/inside-look-at-apples-october-revelations-and-hidden-details-what-to-expect-following-their-speedy-unveiling/"><u>Inside Look at Apple's October Revelations & Hidden Details: What to Expect Following Their Speedy Unveiling</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/laptop-revelation-how-i-discovered-a-superior-lightweight-alternative-to-the-macbook-air-on-zdnet/"><u>Laptop Revelation! How I Discovered a Superior Lightweight Alternative to the MacBook Air on ZDNET</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/laptop-shopping-hotlist-top-discounts-and-offers-for-july-2n2024-on-zdnet/"><u>Laptop Shopping Hotlist: Top Discounts & Offers for July 2N,2024 on ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/remote-working-made-effortless-with-the-best-lightweight-laptops-on-the-market-according-to-a-seasoned-tech-guru-zdnet-reviews/"><u>Remote Working Made Effortless with the Best Lightweight Laptops on the Market, According to a Seasoned Tech Guru | ZDNET Reviews</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-coredll-file-not-found-step-by-step-troubleshooting-guide/"><u>Resolving 'Core.dll' File Not Found: Step-by-Step Troubleshooting Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/snag-the-hp-victus-15-gaming-laptop-for-a-steal-only-515-during-best-buy-prime-day-sale-insights/"><u>Snag the HP Victus 15 Gaming Laptop for a Steal - Only $515 During Best Buy Prime Day Sale | Insights</u></a></li>
-<li><a href="https://article-files.techidaily.com/swift-guide-eliminating-images-backdrops-with-affinity-photo-for-2024/"><u>Swift Guide Eliminating Images' Backdrops with Affinity Photo for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-test-picks-the-ultimate-crowd-favorite-laptop-featuring-robust-performance-and-hardware-insights-from-zdnet/"><u>Top Test Picks: The Ultimate Crowd Favorite Laptop Featuring Robust Performance and Hardware - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-video-editing-laptops-in-depth-reviews-and-comparisons-by-tech-experts/"><u>Top-Rated Video Editing Laptops: In-Depth Reviews & Comparisons by Tech Experts</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ultimate-energy-kits-for-hero5-official-and-alternative-products/"><u>Ultimate Energy Kits for Hero5 - Official & Alternative Products</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-instagram-its-features-and-functionality-explained/"><u>Unveiling Instagram: Its Features and Functionality Explained</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-unlock-potential-innovating-with-effective-instagram-video-loops/"><u>[New] Unlock Potential Innovating with Effective Instagram Video Loops</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-unlocking-creative-expression-an-in-depth-guide-to-snapchat-filters/"><u>[New] Unlocking Creative Expression An In-Depth Guide to Snapchat Filters</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-comprehensive-techniques-for-moving-media-from-iphones/"><u>[Updated] Comprehensive Techniques for Moving Media From iPhones</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/achieve-a-superior-gaming-experience-on-your-dell-g3-by-refreshing-system-drivers/"><u>Achieve a Superior Gaming Experience on Your Dell G3 by Refreshing System Drivers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/bioshock-2-advanced-remastered-release-correcting-past-errors-for-a-seamless-experience/"><u>Bioshock 2: Advanced Remastered Release - Correcting Past Errors for a Seamless Experience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/canon-mf7e-3s-series-get-your-windows-driver-downloads-now/"><u>Canon MF7e-3s Series - Get Your Windows Driver Downloads Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-internet-speed-updating-ethernet-adapter-drivers-for-usb-30-in-windows-os/"><u>Enhance Your Internet Speed: Updating Ethernet Adapter Drivers for USB 3.0 in Windows OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fix-guide-for-amd-rx-560-graphics-card-on-various-windows-versions-111087/"><u>Fix Guide for AMD RX 560 Graphics Card on Various Windows Versions (11/10/8/7)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-logitech-hd-webcam-drivers-for-enhanced-video-quality-on-windows-11/"><u>Get the Latest Logitech HD Webcam Drivers for Enhanced Video Quality on Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-nvidia-geforce-rtx-3090-drivers-compatible-with-windows-1087/"><u>Get the Latest NVIDIA GeForce RTX 3090 Drivers: Compatible with Windows 10/8/7</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-elevate-your-youtube-presence-featuring-essential-channels-tutorial/"><u>In 2024, Elevate Your Youtube Presence Featuring Essential Channels Tutorial</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-art-of-angle-alteration-mastering-the-rotation-ritual-on-instagram/"><u>In 2024, The Art of Angle Alteration Mastering the Rotation Ritual on Instagram</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-canon-pixma-mg5520-printer-drivers-for-windows-systems/"><u>Installing Canon Pixma MG5520 Printer Drivers for Windows Systems</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/screen-spectrum-your-gateway-to-gameplay-for-2024/"><u>Screen Spectrum Your Gateway to Gameplay for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-downloading-and-using-your-logitech-k400plus-mouse-driver/"><u>Step-by-Step Guide to Downloading and Using Your Logitech K400+ Mouse Driver</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-your-guide-to-all-things-tech/"><u>Tom's Hardware - Your Guide to All Things Tech</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-guide-fixing-issues-with-realtek-rtl873b-drivers-on-your-pc/"><u>Troubleshooting Guide: Fixing Issues with Realtek RTL87#3B Drivers on Your PC</u></a></li>
 </ul></div>
 

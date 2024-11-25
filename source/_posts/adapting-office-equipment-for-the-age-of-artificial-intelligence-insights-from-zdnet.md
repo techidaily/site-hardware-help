@@ -1,7 +1,7 @@
 ---
 title: "Adapting Office Equipment for the Age of Artificial Intelligence: Insights From ZDNet"
-date: 2024-11-13T19:10:37.183Z
-updated: 2024-11-16T06:20:12.076Z
+date: 2024-11-19T16:01:13.858Z
+updated: 2024-11-25T16:26:09.789Z
 tags:
   - laptops
 categories:
@@ -29,6 +29,10 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
 
@@ -65,10 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -80,10 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -136,16 +134,22 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-achieving-excellent-illumination-on-youtube-videos-for-2024/"><u>[Updated] Achieving Excellent Illumination on YouTube Videos for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-boosting-story-reach-through-linked-profile-ties/"><u>2024 Approved Boosting Story Reach Through Linked Profile Ties</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-the-full-potential-of-zoom-on-your-google-meet-calls/"><u>2024 Approved Unlocking the Full Potential of Zoom on Your Google Meet Calls</u></a></li>
-<li><a href="https://discover-best.techidaily.com/buy-now-comparing-value-of-dvds-blu-ray-discs-and-digital-media-formats-for-your-viewing-pleasure/"><u>Buy Now: Comparing Value of DVDs, Blu-Ray Discs, and Digital Media Formats for Your Viewing Pleasure</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/download-the-premier-collection-of-freeware-dvd-rippers-windows-1011-full-versions/"><u>Download the Premier Collection of Freeware DVD Rippers (Windows 10/11 Full Versions)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722972620414-free-audio-control-panels-and-driver-downloads-specifically-designed-for-windows-aturity-model-in-healthcare-information-technology/"><u>Free Audio Control Panels & Driver Downloads Specifically Designed for Windows Aturity Model in Healthcare Information Technology,</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-amd-radeon-rx-480-driver-updates-free-downloads/"><u>Get the Latest AMD Radeon RX 480 Driver Updates - Free Downloads!</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-from-iphone-6s-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons From iPhone 6s? Find the Best Solution Here</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-lava-yuva-2-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Lava Yuva 2</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/intels-official-wifi-driver-installation-pack-for-windows-users/"><u>Intel's Official WiFi Driver Installation Pack for Windows Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-on-downloading-and-setting-up-your-epson-xp-830-drivers/"><u>Step-by-Step Tutorial on Downloading and Setting Up Your Epson XP-830 Drivers</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-audio-visual-innovators-group/"><u>[New] 2024 Approved Audio-Visual Innovators Group</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-effortless-resolution-of-macs-green-screen-problem-for-youtubers/"><u>[New] 2024 Approved Effortless Resolution of Mac's Green Screen Problem for YouTubers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-laughterlink-join-now-and-start-your-journey/"><u>[New] 2024 Approved LaughterLink Join Now & Start Your Journey</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-diving-into-video-quality-dslr-vs-mirrorless-cameras/"><u>[New] In 2024, Diving Into Video Quality DSLR vs Mirrorless Cameras</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722976627986-achieve-peak-gaming-with-the-newly-released-nvidia-geforce-game-ready-windows-driver-free-access/"><u>Achieve Peak Gaming with the Newly Released NVIDIA GeForce Game-Ready Windows Driver – Free Access</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-setup-guide-samsung-sm961-m2-ssd-drivers-on-windows/"><u>Download & Setup Guide: Samsung SM961 M.2 SSD Drivers on Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-drivers-simplify-your-experience-with-amd-radeon-rx-470/"><u>Download & Update Drivers: Simplify Your Experience with AMD Radeon RX 470</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-latest-drivers-for-your-insignia-ethernet-to-usb-adapter-today/"><u>Download the Latest Drivers for Your Insignia Ethernet-to-USB Adapter Today!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-steps-download-the-most-recent-amd-gpio-driver-today/"><u>Easy Steps: Download the Most Recent AMD GPIO Driver Today</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/facile-duplication-de-commentaires-pour-windows-server-2019-guide-ultime/"><u>Facile Duplication De Commentaires Pour Windows Server 2019: Guide Ultime</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guia-paso-a-paso-como-eliminar-y-recortar-archivos-de-video-mp4-sin-coste-alguno-desde-tu-computadora-o-servicio-online/"><u>Guía Paso a Paso: Cómo Eliminar Y Recortar Archivos De Video MP4 Sin Coste Alguno Desde Tu Computadora O Servicio Online</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-efficiently-set-up-and-use-logitech-mx-master-mouse-drivers-and-features/"><u>How to Efficiently Set Up and Use Logitech MX Master Mouse Drivers & Features</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-6s-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 6s</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/rise-to-the-top-mobile-youtubing-without-million-subscriber-status/"><u>Rise to the Top Mobile YouTubing Without Million-Subscriber Status</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-installation-of-atheros-network-hardware-drivers-on-pcs/"><u>Step-by-Step Installation of Atheros Network Hardware Drivers on PCs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-elgato-hd60-drivers-a-step-by-step-guide-to-swift-repairs/"><u>Troubleshooting Elgato HD60 Drivers: A Step-by-Step Guide to Swift Repairs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrade-to-next-gen-networking-usb-30-card-drivers-updated-for-windows-computers/"><u>Upgrade to Next-Gen Networking: USB 3.0 Card Drivers Updated for Windows Computers</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Tech Giant AMD Faces Gaming Revenue Drop of Nearly 60%%, but Data Centers Deliver a Whopping 115%% Jump
-date: 2024-08-19T12:24:00.695Z
-updated: 2024-08-20T12:24:00.695Z
+date: 2024-11-19T16:03:08.360Z
+updated: 2024-11-25T16:19:51.148Z
 tags:
   - cpu
 categories:
@@ -23,6 +23,10 @@ _Path of Titans_ now clearly reveals to gamers the exact problems with Raptor La
 
  Intel is closer than ever to finally knocking out this instability problem for good. The chipmaker announced a few days ago that it discovered the[root cause](https://www.tomshardware.com/pc-components/cpus/intel-finally-announces-a-solution-for-cpu-crashing-errors-claims-elevated-voltages-are-the-root-cause-fix-coming-by-mid-august) of the crashing issues surrounding elevated voltages that can cause irreversible degradation to Raptor Lake and Raptor Lake Refresh processors. Intel will provide a new microcode update by mid-August to fix this voltage problem and prevent undamaged parts from degrading beyond repair. Intel has officially said this, but there are contrasting[reports](https://www.tomshardware.com/pc-components/cpus/leaked-internal-reports-allegedly-reveal-intels-instability-problems-are-not-over-elevated-voltages-could-be-only-one-of-the-causes-of-cpu-crashing) that elevated voltages are just one root cause affecting the instability phenomena.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -31,14 +35,11 @@ _Path of Titans_ now clearly reveals to gamers the exact problems with Raptor La
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -47,8 +48,24 @@ _Path of Titans_ now clearly reveals to gamers the exact problems with Raptor La
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/1716098051655-new-facebook-videos-vertical-or-horizontal/"><u>[New] Facebook Videos Vertical or Horizontal?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-ultimate-guide-to-editbox-suite-reviewed/"><u>[New] Ultimate Guide to EditBox Suite, Reviewed</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-behind-the-scenes-of-music-enhanced-snapchats/"><u>[Updated] Behind the Scenes of Music-Enhanced Snapchats</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-discover-the-full-spectrum-of-yis-action-photography-for-2024/"><u>[Updated] Discover the Full Spectrum of Yi's Action Photography for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-youtubes-prime-stream-essential-tech-equipment-guide-for-creators/"><u>2024 Approved YouTube's Prime Stream Essential Tech, Equipment Guide for Creators</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/achieve-highest-video-quality-with-ideal-rate-factor-settings-on-handbrake-for-various-formats-dvd-blu-ray-4k/"><u>Achieve Highest Video Quality with Ideal Rate Factor Settings on Handbrake for Various Formats (DVD, Blu-Ray, 4K)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/affordable-laptop-revives-popular-term-from-techs-past-era-insights-from-zdnet/"><u>Affordable Laptop Revives Popular Term From Tech's Past Era: Insights From ZDNet</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/aprende-nombres-comunes-a-fauna-espanola/"><u>Aprende Nombres Comunes a Fauna Española</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/dont-miss-out-exclusive-best-buy-prime-day-october-2023-deals-unveils-the-must-haves/"><u>Don't Miss Out: Exclusive Best Buy Prime Day October 2023 Deals Unveils the Must-Haves!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/essential-upgrades-for-your-rig-advanced-cooling-solutions-every-power-user-must-know-about-pcmag/"><u>Essential Upgrades for Your Rig: Advanced Cooling Solutions Every Power User Must Know About | PCMag</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-lava-blaze-2-pro-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Lava Blaze 2 Pro in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-step-by-step-guide-to-perfectly-timed-video-loops-on-ig/"><u>In 2024, Step-by-Step Guide to Perfectly Timed Video Loops on IG</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/is-it-possible-to-move-your-windows-os-upgrade-from-an-aging-laptop-or-desktop-to-a-newer-device/"><u>Is It Possible to Move Your Windows OS Upgrade From an Aging Laptop or Desktop to a Newer Device?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/lenovo-ideapad-duet-(80-discount-get-chromebook-savings-with-zdnet-exclusive/"><u>Lenovo IdeaPad Duet <$80 Discount - Get Chromebook Savings with ZDNet Exclusive!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unleash-ultimate-visuals-with-the-best-laptop-screen-available-today-exclusive-sale-covered/"><u>Unleash Ultimate Visuals with the Best Laptop Screen Available Today – Exclusive Sale Covered !</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-premier-notebooks-of-2024-comprehensive-analysis-and-expert-reviews/"><u>Unveiling the Premier Notebooks of 2024: Comprehensive Analysis and Expert Reviews</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/why-this-top-recommended-windows-laptop-matches-macbook-airs-performance-at-a-lower-price-zdnet/"><u>Why This Top-Recommended Windows Laptop Matches MacBook Air's Performance at a Lower Price | ZDNet</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->

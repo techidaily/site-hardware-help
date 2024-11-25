@@ -1,7 +1,7 @@
 ---
 title: "Surface Shopping Hack: How I Landed a Bargain with an Affordable Surface Pro, According to ZDNet Experts"
-date: 2024-11-13T01:47:09.571Z
-updated: 2024-11-16T02:30:16.710Z
+date: 2024-11-20T16:18:32.257Z
+updated: 2024-11-25T16:18:38.511Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Ed Bott/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -44,6 +48,10 @@ My original plan was to use the new Surface Pro as a secondary mobile device, wh
 
 How did this happen? Let's dive in.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The experience is familiar
 
 This laptop is a radical shift in the Windows ecosystem, but it doesn't feel all that different from its predecessors. In fact, it's almost indistinguishable from the Intel-powered Surface Pro 9 that's sitting on my desk alongside it. The slim bezels around the displays of the two devices are nearly the same dimensions. The new device, at 1.9 pounds, is the same weight as the Surface Pro 9 and is a few ounces heavier than the Surface Pro X, although that's not something you really notice until you have to lug it through an airport as you rush to make a connection. The Type Cover from the older Surface Pro clicked into place on the Surface Pro 11, exactly as expected.
@@ -57,16 +65,7 @@ The big difference is that this next-gen device is extremely cool and quiet. Aft
 Of course, this new device also embodies everything you like and/or dislike about the Surface Pro design. If you're expecting a radical shift that will suddenly make the kickstand comfortable in your lap, I'm sorry to report you will be disappointed. If, however, you're comfortable with that design, you'll find this iteration completely familiar.
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Battery life is a huge win
@@ -86,10 +85,7 @@ Screenshot by Ed Bott/ZDNET
 At an average of more than 10 hours of actual, observed battery life, this Surface Pro is able to run for well over twice as long as my Intel-based Surface Pro 9\. That's also at least as long as the [M2 MacBook Air](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/) in my office.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Compatibility is good but not perfect
@@ -128,13 +124,6 @@ I had no hardware problems to speak of. My 10-year-old Logitech C930 webcam just
 
 Your mileage may vary, of course, especially if you have exotic hardware like video capture cards and ancient multifunction printers that require custom driver packs and won't work with the in-box Windows drivers. Thankfully, I have none of those.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The AI story is incomplete
 
 Every PC in the Copilot+ line includes a powerful neural processing unit designed to accelerate AI-based activities. Because I didn't spring for Microsoft's pricey new [Flex Keyboard](https://www.microsoft.com/en-us/d/surface-pro-flex-keyboard-with-slim-pen/93fzrmtgj6jw) and stuck with my old Type Cover, I didn't get a dedicated Copilot key. Instead, I had to run the [Copilot app](https://www.zdnet.com/article/microsoft-is-turning-windows-copilot-into-a-regular-app-and-heres-why-youll-like-it/), which works exactly like it does on any other Windows 11 PC. If it was chatting faster, I didn't notice.
@@ -156,16 +145,7 @@ The real question is whether those features are powerful enough to make you swit
 Even if you avoid the AI features completely, though, there's more than enough power in this [budget PC](https://www.zdnet.com/article/best-laptops-under-500/). Plus, as long as your apps and hardware requirements aren't exotic, you'll appreciate its cool, quiet operation.
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -212,22 +192,20 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-proven-youtube-tactics-for-maximum-impact-heres-what-you-need-to-know/"><u>[New] 2024 Approved Proven YouTube Tactics for Maximum Impact – Here's What You Need to Know</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-front-seat-escapades-beyond-athletic-viewing/"><u>[New] Front Seat Escapades Beyond Athletic Viewing</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-best-freefire-youtube-hashtags-and-tips-for-youtube-gaming-videos/"><u>[Updated] In 2024, Best FreeFire YouTube Hashtags and Tips For YouTube Gaming Videos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-sony-bdp-s6700-review-updated/"><u>[Updated] Sony BDP-S6700 Review - Updated</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/comprehensive-walkthrough-installing-asus-wireless-network-card-drivers-on-windows/"><u>Comprehensive Walkthrough: Installing ASUS Wireless Network Card Drivers on Windows</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/crafting-visual-stories-the-art-of-using-gopro-for-time-lapses-for-2024/"><u>Crafting Visual Stories The Art of Using GoPro for Time-Lapses for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722977870557-easy-installation-get-your-free-hp-drivers-now/"><u>Easy Installation: Get Your Free HP Drivers Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-setup-how-to-update-your-microsoft-ergo-keyboard-drivers/"><u>Effortless Setup: How to Update Your Microsoft Ergo Keyboard Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-acer-wireless-drivers-instant-and-easy-installation-guide/"><u>Free Acer Wireless Drivers - Instant and Easy Installation Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-sm-bus-controller-software-compatible-with-windows-111087-full-download/"><u>Free SM Bus Controller Software: Compatible with Windows 11/10/8/7 – Full Download</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-quick-and-simple-methods-integrating-clownfish-sounds-into-pc-speech/"><u>In 2024, Quick & Simple Methods Integrating Clownfish Sounds Into PC Speech</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/is-apples-m3-chip-replacing-m1-and-m2-optimal-time-for-upgrading-and-reasons/"><u>Is Apple's M3 Chip Replacing M1 & M2: Optimal Time for Upgrading and Reasons</u></a></li>
-<li><a href="https://extra-information.techidaily.com/make-a-stir-in-the-app-ingenious-bio-strategies-to-captivate-swipes/"><u>Make a Stir in the App - Ingenious Bio Strategies to Captivate Swipes</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/one-arm-wonders-keeping-photos-steady/"><u>One Arm Wonders Keeping Photos Steady</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/resolving-scandisk-errors-on-windows-systems-a-comprehensive-fix-guide/"><u>Resolving ScanDisk Errors on Windows Systems: A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/safely-download-and-install-sades-headset-drivers-compatible-with-windows-os/"><u>Safely Download and Install Sades Headset Drivers Compatible with Windows OS</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-downloading-and-setting-up-epson-xp-430-drivers-for-windows-users/"><u>Step-by-Step Tutorial: Downloading and Setting Up Epson XP-430 Drivers for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-now-top-ranked-free-qualcomm-atheros-bluetooth-30-driver-software-ar3011-version/"><u>[Download Now]: Top-Ranked Free Qualcomm Atheros Bluetooth 3.0 Driver Software - AR3011 Version</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-uninterrupted-video-with-proper-obs-settings/"><u>[New] In 2024, Uninterrupted Video with Proper OBS Settings</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-vids-in-verse-strategies-for-effective-twitter-video-downloads-for-2024/"><u>[New] Vids in Verse Strategies for Effective Twitter Video Downloads for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-simplified-systems-for-saving-screen-calls/"><u>[Updated] 2024 Approved Simplified Systems for Saving Screen Calls</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asus-maximus-x-hero-driver-maintenance-made-simple-and-swift-update-procedures-inside/"><u>ASUS Maximus X Hero Driver Maintenance Made Simple and Swift – Update Procedures Inside</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-latest-hp-wireless-network-drivers-for-your-windows-pc/"><u>Download the Latest HP Wireless Network Drivers for Your Windows PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-process-to-obtain-and-enhance-microsoft-drivers-in-windows-1187-systems/"><u>Effortless Process to Obtain & Enhance Microsoft Drivers in Windows 11/8/7 Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-logitech-t630-mouse-drivers-compatible-with-windows-7-8-and-10/"><u>Free Logitech T630 Mouse Drivers: Compatible with Windows 7, 8 & 10</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-vivo-y55s-5g-2023-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Vivo Y55s 5G (2023) Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-your-disabled-apple-iphone-11-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>In 2024, Unlock Your Disabled Apple iPhone 11 Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-zebra-printer-driver-updates-and-downloads-for-windows-users/"><u>Latest Zebra Printer Driver Updates & Downloads for Windows Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mac-users-handbook-seamless-video-slicing-and-trimming-using-movavi-pro-video-editor/"><u>Mac Users’ Handbook: Seamless Video Slicing and Trimming Using Movavi Pro Video Editor</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/movavis-data-protection-terms-and-conditions-understanding-your-privacy-rights/"><u>Movavi's Data Protection Terms and Conditions: Understanding Your Privacy Rights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-downloading-logitech-g402-controller-software/"><u>Step-by-Step Tutorial: Downloading Logitech G402 Controller Software</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/the-ultimate-guide-combining-mkv-videos-captions-and-soundtracks/"><u>The Ultimate Guide: Combining MKV Videos, Captions, and Soundtracks</u></a></li>
 </ul></div>
 

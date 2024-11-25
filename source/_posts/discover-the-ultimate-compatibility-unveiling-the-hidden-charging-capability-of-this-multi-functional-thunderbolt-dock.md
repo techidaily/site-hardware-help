@@ -1,7 +1,7 @@
 ---
 title: "Discover the Ultimate Compatibility: Unveiling the Hidden Charging Capability of This Multi-Functional Thunderbolt Dock"
-date: 2024-11-12T16:32:54.942Z
-updated: 2024-11-16T00:25:12.876Z
+date: 2024-11-19T16:22:39.928Z
+updated: 2024-11-25T16:07:16.021Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Cesar Cadenas/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -69,16 +73,7 @@ Asus' Vivobook Pro 15 does a good job playing media. Hi-res videos look stunning
 In line with my initial impression, the device is a little on the bulky side, but the extra heft is not a big deal because it's lightweight and the extra room allows for a wide array of ports. You get two USB-Cs, a pair of USB-A inputs that support transfer speeds of up to 5GBPS, HDMI, an ethernet port, and an SD card slot.
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -117,20 +112,17 @@ If you want something more powerful, I suggest checking out the MSI Creator Z16 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-assessing-camera-multicam-systems-in-modern-living-spaces-for-2024/"><u>[Updated] Assessing Camera Multicam Systems in Modern Living Spaces for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-streaming-stats-how-much-does-pewdiepie-earn/"><u>[Updated] In 2024, Streaming Stats How Much Does PewDiePie Earn?</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-precision-video-capturing-on-mac-for-snapshares/"><u>[Updated] Precision Video Capturing on Mac for Snapshares</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-the-ultimate-selection-of-apps-to-tame-your-feed-for-2024/"><u>[Updated] The Ultimate Selection of Apps to Tame Your Feed for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/boosting-visual-appeal-in-tiktok-videos-for-2024/"><u>Boosting Visual Appeal in TikTok Videos for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/defending-himself/"><u>Defending Himself</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-the-official-driver-for-your-steelseries-mouse/"><u>Download & Install the Official Driver for Your SteelSeries Mouse</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722973395727-download-and-update-intel-reliable-array-raid-controller-drivers-for-windows-111087/"><u>Download & Update Intel Reliable Array (RAID) Controller Drivers for Windows 11/10/8/7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/expert-guide-overcoming-universal-realtek-hd-driver-compatibility-issues/"><u>Expert Guide: Overcoming Universal Realtek HD Driver Compatibility Issues</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-infinix-hot-40i-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Infinix Hot 40i Devices</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-update-and-install-thinkpad-t420s-drivers-for-smooth-windows-t-10-experience/"><u>How to Update and Install ThinkPad T420s Drivers for Smooth Windows T 10 Experience</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-update-or-install-hp-universal-printing-applications-ufd/"><u>How to Update or Install HP Universal Printing Applications (UFD)</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211239396-9781088163535-initiation-human-and-solar/"><u>Initiation, Human and Solar | Free Book</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/macdatarescue-roundup-discovering-8-top-rated-apps/"><u>MacDataRescue Roundup: Discovering 8 Top-Rated Apps</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722959583005-master-the-update-fresh-drivers-for-hp-elitebook-query-solve-the-equation-x-plus-5-x2/"><u>Master the Update: Fresh Drivers for HP EliteBook # Query: Solve the Equation $X + 5 = X^2$.</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-time-traveling-tactics-top-7-historic-battles-reimagined/"><u>[New] Time-Traveling Tactics Top 7 Historic Battles Reimagined</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-infinite-rotation-video-anchors/"><u>[Updated] Infinite Rotation Video Anchors</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-sharpening-vision-in-depth-hdr-techniques-in-photoshop/"><u>2024 Approved Sharpening Vision In-Depth HDR Techniques in PhotoShop</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/9-best-phone-monitoring-apps-for-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>9 Best Phone Monitoring Apps for Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/advanced-visual-treatment-adding-effects-on-videos-pcmobile-for-2024/"><u>Advanced Visual Treatment Adding Effects on Videos (PC/Mobile) for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-nokia-150-2023-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Nokia 150 (2023)?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-successfully-install-the-latest-epson-driver-software-for-windows-10/"><u>How to Successfully Install the Latest Epson Driver Software for Windows 10</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-samsung-galaxy-a15-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Samsung Galaxy A15 5G to Another | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/magicard-rio-pro-driver-fresh-download-now-available-for-windows-users-windows-10-81-7/"><u>Magicard Rio Pro Driver: Fresh Download Now Available for Windows Users (Windows 10 / 8.1 / 7)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-easy-logitech-drivers-downloads-for-windows-pcs/"><u>Quick and Easy Logitech Drivers Downloads for Windows PCs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/sandisk-driver-downloads-made-simple-perfect-for-windows-11-users/"><u>SanDisk Driver Downloads Made Simple: Perfect for Windows 11 Users!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722977854520-step-by-step-guide-to-get-the-latest-amd-vega-graphics-card-drivers-for-seamless-gaming/"><u>Step-by-Step Guide to Get the Latest AMD Vega Graphics Card Drivers – For Seamless Gaming</u></a></li>
 </ul></div>
 

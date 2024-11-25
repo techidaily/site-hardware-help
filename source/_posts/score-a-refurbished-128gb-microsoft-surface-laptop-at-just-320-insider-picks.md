@@ -1,7 +1,7 @@
 ---
 title: Score a Refurbished 128GB Microsoft Surface Laptop at Just $320 - Insider Picks!
-date: 2024-11-13T04:53:37.955Z
-updated: 2024-11-16T02:10:12.958Z
+date: 2024-11-22T16:10:34.368Z
+updated: 2024-11-25T16:12:34.108Z
 tags:
   - laptops
 categories:
@@ -17,9 +17,17 @@ StackCommerce
 
 _The following content is brought to you  partners. If you buy a product featured here, we may earn an affiliate commission or other compensation._
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [![surfacelaptop4rumors.jpg](https://www.zdnet.com/a/img/resize/a3c4608a44be85775a0e3ed8231bdbc5a96a64bb/2021/04/07/b01eaac1-9368-4ab6-87c6-12317046ff37/surfacelaptop4rumors.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best Surface PCs Microsoft's lineup of Surface PCs now covers a wide range of hardware factors and price points -- and every model is Windows 11-ready.  Read now](https://www.zdnet.com/article/best-surface-pc/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 It's hard to imagine anyone keeping a five-year-old smartphone for heavy use these days, but laptops? That's another story completely. There are many older models out there that are just as effective today as they were when they came out. That's why refurbished laptops make a great choice for budget-conscious buyers, and we're featuring several of the best picks from around the web on our [Deals page](https://www.zdnet.com/deals/). One of the top selections: This [Microsoft Surface Laptop](https://stacksocial.com/sales/surface-laptop-1-i5-7200u-8gb-w10-pro-refurb-128gb?utm%5Fsource=zdnet.com&utm%5Fmedium=referral&utm%5Fcampaign=surface-laptop-1-i5-7200u-8gb-w10-pro-refurb-128gb&utm%5Fterm=scsf-556405&utm%5Fcontent=a0x1P000004yVyTQAU&scsonar=1&aid=a-ceempx7z), certified refurbished at a price that's more than $200 off the original MSRP.
 
@@ -64,28 +72,16 @@ Right now, ZDNet readers can take home this [2017 Surface Laptop in silver for $
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-navigating-like-a-pro-with-telegram-web-for-2024/"><u>[New] Navigating Like a Pro with Telegram Web for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ext-level-shooting-lens-selections-for-online-creators-for-2024/"><u>[New] Next-Level Shooting Lens Selections for Online Creators for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-best-budget-friendly-digital-screen-reader/"><u>[Updated] Best Budget-Friendly Digital Screen Reader</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-download-mastery-quick-tiktok-video-retrieval/"><u>2024 Approved Download Mastery Quick TikTok Video Retrieval</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/a-deep-dive-into-processing-speeds-unraveling-why-chatgpt-4-lags-behind-chatgpt-nternals-35-in-response-time/"><u>A Deep Dive Into Processing Speeds: Unraveling Why ChatGPT-4 Lags Behind ChatGPT-Nternals 3.5 in Response Time</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722976077682-efficient-printing-with-the-new-hp-laserjet-p1006-driver-software-free-download-available-now/"><u>Efficient Printing with the New HP LaserJet P1006 Driver Software - Free Download Available Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-updates-for-your-hp-deskjet-ink-advantage-prise-2540-secure-driver-downloads-here/"><u>Effortless Updates for Your HP Deskjet Ink Advantage Prise 2540 - Secure Driver Downloads Here!</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/expert-guide-to-handling-data-execution-prevention-errors-in-windows-10-tips-for-effective-recovery-and-resolution/"><u>Expert Guide to Handling Data Execution Prevention Errors in Windows 10: Tips for Effective Recovery and Resolution</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/expert-tips-for-diagnosing-and-mending-driver-errors-on-your-hp-monitor-across-multiple-windows-editions/"><u>Expert Tips for Diagnosing and Mending Driver Errors on Your HP Monitor Across Multiple Windows Editions</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210293544-9781644164556-god-is-always-in-my-shadow/"><u>God Is Always In My Shadow | Free Book</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-battling-the-invisible-screen-on-social-media-a-chromesafari-guide/"><u>In 2024, Battling the Invisible Screen on Social Media A Chrome/Safari Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/intel-ax200-wi-fi-6-card-updated-drivers-available-for-download-on-win11win10/"><u>Intel AX200 Wi-Fi 6 Card: Updated Drivers Available for Download on Win11/Win10</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/secure-your-high-quality-audio-with-free-focusrite-scarlett-2i2-windows-drivers/"><u>Secure Your High-Quality Audio with Free Focusrite Scarlett 2I2 Windows Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-fix-dealing-with-realtek-wifi-driver-issues-on-windows-operating-systems/"><u>Step-by-Step Fix: Dealing with RealTek WiFi Driver Issues on Windows Operating Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/tackling-the-issue-of-excessive-cpu-use-by-svchostexe-in-windows-11-solution-strategies/"><u>Tackling the Issue of Excessive CPU Use by svchost.exe in Windows 11 – Solution Strategies</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshooting-hp-screen-driver-errors-for-windows-operating-systems-win-11-win-8-win-7/"><u>Troubleshooting HP Screen Driver Errors for Windows Operating Systems (Win 11 / Win 8 / Win 7)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-high-res-gaming-the-best-screen-capture-options/"><u>[Updated] High-Res Gaming The Best Screen Capture Options</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-battle-between-youtubes-copyright-clause-and-cc-license/"><u>2024 Approved The Battle Between YouTube’s Copyright Clause & CC License</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-canon-pixma-mx490-printer-drivers-on-windows/"><u>Download & Update Canon PIXMA MX490 Printer Drivers on Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fast-and-easy-ft232r-usb-to-serial-converter-drivers-get-them-now/"><u>Fast & Easy FT232R USB to Serial Converter Drivers - Get Them Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-of-latest-amd-radeon-r5-drivers-compatible-with-windows-111087/"><u>Free Download of Latest AMD Radeon R5 Drivers Compatible with Windows 11/10/8/7</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-breaking-boundaries-with-6-top-rated-nft-services/"><u>In 2024, Breaking Boundaries with 6 Top-Rated NFT Services</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-new-version-of-intels-wi-fi-6-ax200-drivers-for-windows-1011-systems/"><u>Install New Version of Intel's Wi-Fi 6 (AX200) Drivers for Windows 10/11 Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/overcoming-the-challenges-of-intel-hd-graphics-630-on-windows-a-step-by-step-solution/"><u>Overcoming the Challenges of Intel HD Graphics 630 on Windows: A Step-by-Step Solution</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshooting-silent-davinci-resolve-projects-top-strategies-and-solutions/"><u>Troubleshooting Silent DaVinci Resolve Projects: Top Strategies and Solutions</u></a></li>
+<li><a href="https://change-location.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Samsung Galaxy A25 5G? | Dr.fone</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

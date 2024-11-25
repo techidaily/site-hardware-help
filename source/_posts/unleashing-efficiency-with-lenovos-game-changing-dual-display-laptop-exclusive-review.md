@@ -1,7 +1,7 @@
 ---
 title: Unleashing Efficiency with Lenovo's Game-Changing Dual-Display Laptop | Exclusive Review
-date: 2024-11-12T06:23:59.919Z
-updated: 2024-11-16T05:14:40.411Z
+date: 2024-11-19T16:18:15.565Z
+updated: 2024-11-25T16:20:01.479Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Kerry Wan/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -41,10 +45,7 @@ A laptop with two screens is perhaps one of the tamest designs it has come up wi
 It's given me a chance to revisit the idea of having two screens on my laptop, and once again, it's tempting me to switch away from my boring-in-comparison MacBook Pro.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications (as reviewed)
@@ -60,6 +61,10 @@ It's given me a chance to revisit the idea of having two screens on my laptop, a
 | Price                 | Starting at [$1,980](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-12-Core-i7-1360P-Fingerprint-Thunderbolt4%2Fdp%2FB0CR9S1KFL%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3063c541-0a07-494c-8996-37e9adf54d26%7Cdtp&dtb=1) |
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Living with a dual-screen laptop
 
@@ -81,13 +86,6 @@ There's a lot that the dual-screen design of the Yoga Book 9i enables, and the v
 
 Switching back to my single-screen MacBook Pro was, to put it lightly, tough. I missed having all the extra screen real estate and the ability to have two full documents open side-by-side while writing. I felt limited in a way that I wasn't expecting, which says a lot about how effective Lenovo's dual-screen design is.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How does it perform?
 
 The twin 13.3-inch OLED displays look exceptional with deep black levels, vibrant colors, and 400 nits of brightness (a.k.a. enough for most lighting situations). They each sport 2.8K resolutions, so everything looks crisp, and Lenovo even includes 16:10 aspect ratios so you get a bit extra vertical room. They're also Dolby Vision certified. I have zero complaints about these screens, besides the fact they only have 60Hz refresh rates.
@@ -107,13 +105,6 @@ The verdict? It's a speedy machine. The Core Ultra processor feels snappier than
 To power the Yoga Book 9i, Lenovo includes an 80W battery that's rated for about seven to eight hours of usage on a full charge. [In my testing](https://www.zdnet.com/article/how-we-test-laptops/), I was able to get to about seven hours of usage before it conked out, which is perfectly fine since 1.) this laptop has two screens and 2.) some pricier laptops like the [Surface Laptop Studio 2](https://www.zdnet.com/article/microsoft-surface-laptop-studio-2-review/) can't get anywhere near that.
 
 Charging the laptop is as straightforward as it comes. There's a Rapid Charge adapter in the box that gives you about two hours of runtime with just 15 minutes of charging. I found this mostly to be true, although you have to shut the lid if you want charging speeds to really pick up.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Evaluating Lenovo's dual-screen software
 
@@ -135,6 +126,10 @@ It's weird; I've had apps like Chrome and Spotify show up on the lower display w
 
 I'll give Lenovo credit, the new Yoga Book 9i feels smoother than the old one did. I don't notice as much scruff or weird glitches with the software, and the bundled Bluetooth keyboard doesn't produce nearly as many double-key entries as before. Still, it's not a perfect experience, which is something to keep in mind if you're going to spend $2,000 on a laptop.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## One thing to keep in mind
 
 Having a laptop with two screens means you'll have to lug around a separate keyboard, mouse, and kickstand, all three of which (plus a stylus) come in the box. It's a lot of separate things you have to remember to bring, and I'm going to be honest with you, it can be inconvenient.
@@ -146,10 +141,7 @@ When I'm working on my MacBook or -- quite frankly -- any other laptop in my ars
 Of course, you'll eventually get used to it, but it'll never be as convenient as shutting your laptop lid and moving on with your day.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -190,24 +182,18 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-professional-insights-top-10-capture-cards-for-youtube-enthusiasts/"><u>[New] In 2024, Professional Insights Top 10 Capture Cards for YouTube Enthusiasts</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-unveiling-the-most-shared-stock-photos-and-backstories/"><u>[New] In 2024, Unveiling the Most Shared Stock Photos & Backstories</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-initiating-an-entrepreneurial-journey-with-just-a-click-on-mobile-devices/"><u>[Updated] 2024 Approved Initiating an Entrepreneurial Journey with Just a Click on Mobile Devices</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-expert-advice-on-editing-away-backgrounds/"><u>[Updated] Expert Advice on Editing Away Backgrounds</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-leading-tools-to-uncover-trending-tags-on-fb-twt-and-ig-sites/"><u>2024 Approved Leading Tools to Uncover Trending Tags on FB, Twt & IG Sites</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/dell-sm-bus-controller-software-enhancement-tips-and-procedures/"><u>Dell SM Bus Controller Software Enhancement Tips and Procedures</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722976511329-download-and-update-free-wi-fi-drivers-compatible-with-windows-7-simple-steps/"><u>Download & Update: Free Wi-Fi Drivers Compatible with Windows 7 - Simple Steps</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-instantly-ultimate-usb-webcam-drivers-get-set-up-fast/"><u>Download Instantly: Ultimate USB Webcam Drivers - Get Set Up Fast</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/find-and-install-updated-targus-displaylink-drivers-a-comprehensive-guide-for-windows-users/"><u>Find and Install Updated Targus DisplayLink Drivers: A Comprehensive Guide for Windows Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722958692600-get-your-canon-mx49n-printer-up-to-date-with-new-windows-drivers-here/"><u>Get Your Canon MX49n Printer Up-to-Date with New Windows Drivers Here</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-discord-fatal-javascript-error-in-windows-10-and-11/"><u>How to Fix the Discord Fatal Javascript Error in Windows 10 & 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-seamlessly-update-standard-sataahci-driver-software-quickly/"><u>How to Seamlessly Update Standard SATA/AHCI Driver Software Quickly</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-iphone-12-pro-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass iPhone 12 Pro Passcode Easily Video Inside</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-hp-and-chromebook-guide-to-live-video-capture/"><u>In 2024, HP & Chromebook Guide to Live Video Capture</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-hp-audio-driver-updates-available-at-no-cost-download-now/"><u>Quick HP Audio Driver Updates Available at No Cost – Download Now!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/resolved-windows-11-now-comes-with-built-in-printer-and-scanner-support/"><u>Resolved: Windows 11 Now Comes With Built-In Printer And Scanner Support</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simplify-your-inbox-clear-out-clutter-with-this-simple-email-hack-no-new-accounts-required-zdnet/"><u>Simplify Your Inbox: Clear Out Clutter with This Simple Email Hack (No New Accounts Required) | ZDNet</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-slow-startup-issues-in-star-wars-battlefront-ii-for-pc-players/"><u>Troubleshooting Slow Startup Issues in Star Wars: Battlefront II for PC Players</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-and-install-hp-elitebook-8460p-drivers-on-windows-a-step-by-step-guide/"><u>Update and Install HP EliteBook 8460P Drivers on Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-navigating-the-process-of-verifying-your-youtube-id/"><u>[New] 2024 Approved Navigating the Process of Verifying Your YouTube ID</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effective-solutions-for-handling-amd-fx-8350-graphics-driver-issues-in-windows/"><u>Effective Solutions for Handling AMD FX 8350 Graphics Driver Issues in Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-your-acer-monitors-drivers-tips-tricks-and-reliable-sources/"><u>How to Update Your Acer Monitor's Drivers: Tips, Tricks & Reliable Sources</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-your-toshiba-laptop-drivers-on-a-windows-computer/"><u>How to Update Your Toshiba Laptop Drivers on a Windows Computer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-deskjet-3755-printer-driver-downloads-latest-version-for-windows-1187-available-now/"><u>HP DeskJet 3755 Printer Driver Downloads - Latest Version for Windows 11/8/7 Available Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-driver-compatibility-downloads-quick-and-easy-installation-process/"><u>HP Driver Compatibility Downloads - Quick & Easy Installation Process</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-essential-knowledge-for-optimal-valheim-harvest/"><u>In 2024, Essential Knowledge for Optimal Valheim Harvest</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-quintessential-fps-experiences-ranked-by-fun-factor/"><u>In 2024, Quintessential FPS Experiences Ranked by Fun Factor</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-vdsc-vidmaster-tale-a-comprehensive-evaluation/"><u>In 2024, VDSC VidMaster Tale A Comprehensive Evaluation</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-pc-issues-a-guide-to-stabilizing-overwatch-2-performance-and-eliminating-crashes/"><u>Overcoming PC Issues - A Guide to Stabilizing Overwatch 2 Performance and Eliminating Crashes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/revolutionize-your-livestreams-with-manycams-advanced-virtual-webcam-tech/"><u>Revolutionize Your Livestreams with ManyCam's Advanced Virtual Webcam Tech</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/streamlined-process-for-quick-windows-driver-fixes-and-upgrades/"><u>Streamlined Process for Quick Windows Driver Fixes & Upgrades!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/transform-your-livestreams-discover-the-power-of-manycam-for-digital-camera-alternatives-and-online-broadcasting-tools/"><u>Transform Your Livestreams: Discover the Power of ManyCam for Digital Camera Alternatives and Online Broadcasting Tools</u></a></li>
 </ul></div>
 

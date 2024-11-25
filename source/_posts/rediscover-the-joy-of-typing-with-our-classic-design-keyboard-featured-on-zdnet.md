@@ -1,7 +1,7 @@
 ---
 title: Rediscover the Joy of Typing with Our Classic-Design Keyboard, Featured on ZDNET
-date: 2024-11-13T17:03:05.738Z
-updated: 2024-11-15T20:13:06.369Z
+date: 2024-11-23T16:05:19.402Z
+updated: 2024-11-25T16:29:17.819Z
 tags:
   - laptops
 categories:
@@ -55,6 +55,10 @@ Matthew Miller/ZDNET
 
 As with most of these Keychron mechanical keyboards, you can customize your experience with the VIA software that supports key mapping, shortcuts, macro commands, and more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The Keychron Q5 Pro offers a similar experience in a 96% layout that is a bit narrower than the Q6 Pro. It seems that each new model that Keychron delivers inspires me to replace a previous model. I'm planning to use the [Q6 Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FKeychron-Mechanical-Programmable-Hot-Swappable-Linux-Black%2Fdp%2FB0C49L6BBL%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cdab454e2-c2cd-4135-a5ad-e46c39964b63%7Cdtp&dtb=1) as my primary keyboard due to all of the functionality and space that is provided. I haven't experienced any issues using the keyboard, and also love the way it sounds with the banana switches. I can always change out the switches too -- that's one of the benefits of most mechanical keyboards.
@@ -93,31 +97,20 @@ Mechanical keyboards provide a nostalgic typing experience that many people enjo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-ryan-kaji-youthful-wealth-through-internet-popularity/"><u>[New] In 2024, Ryan Kaji Youthful Wealth Through Internet Popularity</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-innovative-techniques-in-digital-display-recording-for-2024/"><u>[Updated] Innovative Techniques in Digital Display Recording for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-aerial-vehicles-deciphered-how-they-fly-and-communicate/"><u>2024 Approved Aerial Vehicles Deciphered How They Fly & Communicate</u></a></li>
-<li><a href="https://article-posts.techidaily.com/charting-the-course-to-cash-how-much-does-pewdopeep-make-for-2024/"><u>Charting the Course to Cash How Much Does PewDoPeep Make for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-your-essential-hp-p1006-printer-drivers-for-seamless-operation-and-support/"><u>Download Your Essential HP P1006 Printer Drivers for Seamless Operation and Support</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/effortless-transition-the-definitive-guide-for-flawless-dell-system-upgrades/"><u>Effortless Transition: The Definitive Guide for Flawless Dell System Upgrades</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-honor-v-purse-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Honor V Purse Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-download-and-install-thunderbolt-drivers-on-your-windows-machine/"><u>How to Download and Install Thunderbolt Drivers on Your Windows Machine</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-easily-update-ralink-network-adapter-drivers-on-windows-a-step-by-step-guide/"><u>How to Easily Update Ralink Network Adapter Drivers on Windows: A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-tecno-pop-7-pro-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Tecno Pop 7 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/master-the-art-of-tailoring-your-own-spreadsheets-in-excel-easily/"><u>Master the Art of Tailoring Your Own Spreadsheets in Excel Easily!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-lenovo-legion-5-pro-a-guide-to-install-correct-laptop-drivers/"><u>Mastering Lenovo Legion 5 Pro: A Guide to Install Correct Laptop Drivers</u></a></li>
-<li><a href="https://win11.techidaily.com/navigate-through-external-monitor-setup-without-sluggishness/"><u>Navigate Through External Monitor Setup Without Sluggishness</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/new-patch-released-basic-printer-and-scanner-integration-with-windows-11-os/"><u>New Patch Released: Basic Printer and Scanner Integration with Windows 11 OS</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/simple-guide-installing-and-updating-your-scansnap-ix500-printer-software-on-windows/"><u>Simple Guide: Installing & Updating Your ScanSnap iX500 Printer Software on Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/steelseries-arctis-5-headset-software-setup-guide-and-driver-download/"><u>SteelSeries Arctis 5 Headset Software Setup: Guide and Driver Download</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-methodical-path-to-discovering-hidden-youtube-footage-for-2024/"><u>The Methodical Path to Discovering Hidden YouTube Footage for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toshiba-windows-compatible-driver-download-for-optimal-printing-performance/"><u>Toshiba Windows Compatible Driver Download for Optimal Printing Performance</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/updating-graphics-drivers-the-amd-way-compatible-with-windows-10-8-and-vista/"><u>Updating Graphics Drivers: The AMD Way - Compatible with Windows 10, 8 & Vista</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-expert-advice-for-embedding-youtube-playlists-with-ease/"><u>[New] 2024 Approved Expert Advice for Embedding YouTube Playlists with Ease</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pushing-boundaries-merging-hdr-photos-with-lightroom/"><u>2024 Approved Pushing Boundaries Merging HDR Photos with Lightroom</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/brilliance-in-display-top-5-for-grading-professionals-for-2024/"><u>Brilliance in Display TOP 5 for Grading Professionals for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-honor-90-gt-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Honor 90 GT</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-tutorial-for-downloading-dell-wd19-drivers/"><u>Complete Tutorial for Downloading Dell WD19 Drivers</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/cooling-systems-essential-for-performance/"><u>Cooling Systems: Essential for Performance</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/enhanced-traffic-capture-with-cookiebot-technology/"><u>Enhanced Traffic Capture with Cookiebot Technology</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722959258743-fix-hp-envy-7640-driver-issues-easily/"><u>Fix HP ENVY 7640 Driver Issues. Easily!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-logitech-m525-setup-compatible-drivers-and-software-for-pcmac-systems/"><u>Get Logitech M525 Setup: Compatible Drivers & Software for PC/Mac Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-new-intel-ax200-network-adapter-driver-for-windows-and-macos/"><u>Get the New Intel AX200 Network Adapter Driver for Windows and MacOS</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-realme-12-5g-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-now-latest-realtek-display-adapter-drivers-compatible-with-windows-11/"><u>Install Now: Latest Realtek Display Adapter Drivers Compatible with Windows 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/resolve-your-apple-iphone-11-keeps-asking-for-outlook-password-by-drfone-ios/"><u>Resolve Your Apple iPhone 11 Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722971973375-seamlessly-update-your-lenovo-thinkpad-t420-with-the-newest-windows-driver-software-expert-instructions-here/"><u>Seamlessly Update Your Lenovo ThinkPad T420 with the Newest Windows Driver Software - Expert Instructions Here</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-watch-dvds-on-windows-10-for-free-the-best-players-for-2024/"><u>Updated Watch DVDs on Windows 10 for Free The Best Players for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Cyber Monday Exclusive: Apple's New M2 Chip Powered 13-Inch MacBook Air Hits Record Lifetime Low Prices on Black Friday"
-date: 2024-11-10T17:13:12.705Z
-updated: 2024-11-16T03:40:48.464Z
+date: 2024-11-23T16:30:25.468Z
+updated: 2024-11-25T16:17:03.672Z
 tags:
   - laptops
 categories:
@@ -30,6 +30,10 @@ The [Microsoft Surface Pro 8](https://www.microsoft.com/en-us/store/configure/Su
 The lowest price point available is $799 for a platinum model with an Intel Evo Core i5 processor, 8GB RAM, and 128GB SSD storage. However, if you want more power in your device, you can still save on a Surface Pro 8 equipped with an Intel Evo Core i7 processor, 16GB RAM, and 1TB SSD storage -- normally priced at [$2,199, but now available for $1,899](https://www.microsoft.com/en-us/store/configure/Surface-Pro-8/8qwcrtq8v8xg?crosssellid=&selectedColor=86888a&ranMID=24542&ranEAID=IokOf8qagZo&ranSiteID=IokOf8qagZo-B8WOUfFT3AkbKuRP5V7sZg&epi=IokOf8qagZo-B8WOUfFT3AkbKuRP5V7sZg&irgwc=1&OCID=AID2200057%5Faff%5F7593%5F1243925&tduid=%28ir%5F%5Frnj6nxuqhgkfbk2ptnk2gyq6jn2xcxb9cey3r6on00%29%287593%29%281243925%29%28IokOf8qagZo-B8WOUfFT3AkbKuRP5V7sZg%29%28%29&irclickid=%5Frnj6nxuqhgkfbk2ptnk2gyq6jn2xcxb9cey3r6on00).
 
 **Read on:** [Microsoft Surface Pro 8 for Business review: Still in love](https://www.zdnet.com/article/microsoft-surface-pro-8-for-business-review/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -73,34 +77,18 @@ ZDNET is also keeping an eye out for other tablet deals on the market in the run
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-syncing-images-pc-to-iphone-file-sharing/"><u>[Updated] In 2024, Syncing Images PC-to-iPhone File Sharing</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-turning-popular-sounds-on-tiktok-into-personal-cellphone-alarms-for-2024/"><u>[Updated] Turning Popular Sounds on TikTok Into Personal Cellphone Alarms for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-straightforward-approach-turn-video-upside-down-with-vlc/"><u>2024 Approved Straightforward Approach Turn Video Upside Down with VLC</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/combining-multiple-jpeg-photos-a-comprehensive-guide-to-creating-a-single-pdf/"><u>Combining Multiple JPEG Photos: A Comprehensive Guide to Creating a Single PDF</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-m-audio-fast-track-drivers-supports-windows-11-7-8-and-81/"><u>Download and Install M-Audio Fast Track Drivers: Supports Windows 11, 7, 8 & 8.1</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-newest-intel-iris-plus-graphics-drivers-v396546-for-windows-10-and-11/"><u>Download the Newest Intel Iris Plus Graphics Drivers (v39.6546) for Windows 10 and 11</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effortless-driver-update-process-for-asus-bluetooth-connectivity-solutions/"><u>Effortless Driver Update Process for ASUS Bluetooth Connectivity Solutions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/find-and-install-high-quality-audio-drivers-for-windows-computers/"><u>Find & Install High-Quality Audio Drivers for Windows Computers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/gambling/"><u>Gambling</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-amd-radeon-rx-amoledo-470-graphics-card-driver-software-for-your-pc-quick-and-easy/"><u>Get the Newest AMD Radeon RX Amoledo 470 Graphics Card Driver Software for Your PC, Quick & Easy</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-game-ready-nvidia-drivers-for-your-windows-gaming-system/"><u>Get the Newest Game-Ready NVIDIA Drivers for Your Windows Gaming System</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-iphone-14-pro-passcode-without-a-computer-drfone-by-drfone-ios/"><u>In 2024, Unlocking iPhone 14 Pro Passcode without a Computer | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/obtain-your-qualcomm-atheros-ar93-8x-drivers-without-cost-quick-and-safe-download/"><u>Obtain Your Qualcomm Atheros AR93 8X Drivers Without Cost – Quick & Safe Download</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/professionelle-recovery-dienstleistungen-fur-ihre-canon-dslr-bildwiedergabereparatur/"><u>Professionelle Recovery Dienstleistungen Für Ihre Canon DSLR - Bildwiedergabereparatur</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/step-by-step-guide-recording-audio-on-the-internet-today-for-2024/"><u>Step-by-Step Guide Recording Audio on the Internet Today for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/virtual-adventure-awaits-with-these-top-12-pc-clickers/"><u>Virtual Adventure Awaits with These Top 12 PC Clickers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-unveiling-techniques-for-high-quality-ps3-game-capture/"><u>[New] 2024 Approved Unveiling Techniques for High-Quality PS3 Game Capture</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ridging-youtube-and-imovie-with-seamless-audio-transfer-for-2024/"><u>[New] Bridging YouTube and iMovie with Seamless Audio Transfer for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/lobal-viewership-kings-youtubes-viral-royalty-for-2024/"><u>[New] Global Viewership Kings YouTube's Viral Royalty for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-uninterrupted-video-with-proper-obs-settings/"><u>[Updated] Uninterrupted Video with Proper OBS Settings</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-samsung-galaxy-f15-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Samsung Galaxy F15 5G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/epson-xp-245-driver-download-guide-compatible-with-multiple-windows-operating-systems/"><u>Epson XP-245 Driver Download Guide: Compatible with Multiple Windows Operating Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-geforce-rtx-2070-graphics-card-driver-for-widnows-1187-systems/"><u>Get the Latest Geforce RTX 2070 Graphics Card Driver for Widnows 11/8/7 Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-install-updated-epson-l3150-printer-drivers-on-windows-operating-systems-windows-1087/"><u>How to Install Updated Epson L3150 Printer Drivers on Windows Operating Systems (Windows 10/8/7)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-focusrite-scarlett-18i20-drivers-on-your-pc-windows-compatible-downloads-available-now/"><u>Install Focusrite Scarlett 18I20 Drivers on Your PC: Windows Compatible Downloads Available Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-proprietary-drivers-for-lenovo-legion-5-pro-16ach6h-laptop/"><u>Installing Proprietary Drivers for Lenovo Legion 5 Pro (16ACH6H) Laptop</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/listen-up-here-are-13-true-crime-stories-to-keep-you-hooked/"><u>Listen Up! Here Are 13 True Crime Stories to Keep You Hooked</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/streamline-your-youtube-experience-creating-custom-subscription-bar-with-filmora-for-2024/"><u>Streamline Your YouTube Experience Creating Custom Subscription Bar with Filmora for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Oppo K11 5G | Dr.fone</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

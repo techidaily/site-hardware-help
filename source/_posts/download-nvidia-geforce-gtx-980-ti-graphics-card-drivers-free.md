@@ -1,7 +1,7 @@
 ---
 title: Download Nvidia GeForce GTX 980 Ti Graphics Card Drivers - Free
-date: 2024-08-19T12:27:34.776Z
-updated: 2024-08-20T12:27:34.776Z
+date: 2024-11-23T16:25:14.080Z
+updated: 2024-11-25T16:19:41.697Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/fe5fb2202d31ead27c9d026582d857fbe91d9882c
 
  Keeping your graphics driver to the latest version can not only unlock the best gaming performance, but also keep your graphics card always in good condition. **If you’re looking for the latest RTX 3070 Ti driver, you’ve come to the right place.** In this article, you’ll learn two methods to download and update your Geforce RTX 3070 Ti driver for your Windows PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **There are two methods to update your graphics driver:**
 
 [**Method 1** **– Automatically (Recommended):**](https://www.drivereasy.com/knowledge/geforce-rtx-3070-ti-driver-download-update-win-10-8-7/#m1)
@@ -30,6 +34,10 @@ Or
 
 [**Method 2** **– Manually:**](https://tools.techidaily.com/drivereasy/download/)
  You can update your Geforce RTX 3070 Ti driver on your own. This requires some time, patience, and sometimes even computer skills.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Update your Geforce RTX 3070 Ti driver automatically
 
@@ -49,8 +57,9 @@ Or
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Download and install your Geforce RTX 3070 Ti driver manually
 
  You can download the updated driver file for your Geforce RTX 3070 Ti graphics card from the official website of **[NVIDIA](https://tools.techidaily.com/drivereasy/download/)**  . Here is how to do it:
@@ -59,14 +68,18 @@ Or
 2. Under **Option 1** , for “Product Type”, select **GeForce** ; for “Product Series”, select **GeForce RTX 30 Series** ; for “Product”, select **Geforce RTX 3070 Ti** . Then select the Operating System according to the Windows operating system you’re currently using (If you don’t know which Windows OS you’re using, see [ How to check Windows version \[Easily\]](https://tools.techidaily.com/drivereasy/download/) ). Then select your language and click **SEARCH** .  
 ![Download RTX 3070 Ti driver manually](https://images.drivereasy.com/wp-content/uploads/2021/06/Download-RTX-3070-Ti-driver-manually.jpg)
 3. Click the **DOWNLOAD** button to download the driver file.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Download RTX 3070 Ti driver manually 1](https://images.drivereasy.com/wp-content/uploads/2021/06/Download-RTX-3070-Ti-driver-manually-1.jpg)
 4. **Double-click** the downloaded driver file and follow the on-screen instructions to install the updated driver on your PC.
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Restart your computer for the changes to take effect.
 
 ---
@@ -84,8 +97,6 @@ Or
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -93,4 +104,24 @@ Or
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-top-tweet-talent-showdown-1-10-edition/"><u>[New] 2024 Approved Top Tweet Talent Showdown #1-#10 Edition</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-a-glimpse-into-virtual-frontiers-with-jaunt-vr-for-2024/"><u>[New] A Glimpse Into Virtual Frontiers with Jaunt VR for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-decoding-canvas-best-kept-secrets-for-stunning-images/"><u>[Updated] Decoding Canva's Best-Kept Secrets for Stunning Images</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-filmoras-quick-start-approach-for-youtube-trailers/"><u>[Updated] In 2024, Filmora's Quick-Start Approach for YouTube Trailers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/3k-dell-gaming-laptop-review-surprising-performance-and-cutting-edge-tech-on-zdnet/"><u>$3K Dell Gaming Laptop Review: Surprising Performance and Cutting-Edge Tech on ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-lenovo-thinkpad-x13s-analysis-exploring-the-features-of-a-top-tier-arm-powered-laptop-with-advanced-5g-connectivity-and-extended-battery-durat47/"><u>Comprehensive Lenovo ThinkPad X13s Analysis: Exploring the Features of a Top-Tier ARM-Powered Laptop with Advanced 5G Connectivity and Extended Battery Duration - Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-how-much-youll-save-with-the-latest-price-drop-of-300-off-the-asus-vivobook-pro-at-amazon-according-to-zdnet-experts/"><u>Discover How Much You'll Save with the Latest Price Drop of $300 Off the Asus VivoBook Pro at Amazon, According to ZDNet Experts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/diy-laptop-enhancement-how-to-successfully-increase-ram-for-better-performance/"><u>DIY Laptop Enhancement: How to Successfully Increase RAM for Better Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experts-picks-the-most-innovative-travel-gadgets-featured/"><u>Experts' Picks: The Most Innovative Travel Gadgets Featured</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hands-on-with-lenovos-revolutionary-auto-swivel-laptop-at-ifa-202eplusrk-the-full-review-cnet/"><u>Hands-On with Lenovo’s Revolutionary Auto-Swivel Laptop at IFA 202E+rk - The Full Review | CNET</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-honor-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Honor?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-honor-100-pro-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Honor 100 Pro Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-nokia-xr21-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Nokia XR21 Data? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-nord-ce-3-lite-5g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock OnePlus Nord CE 3 Lite 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/last-minute-discounts-secure-your-gaming-gear-for-up-to-1-the-best-october-2024-prime-day-bargains-still-waiting/"><u>Last-Minute Discounts: Secure Your Gaming Gear for Up to $1, the Best October 2024 Prime Day Bargains Still Waiting!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-touchscreen-notebooks-in-depth-analysis-and-reviews-by-tech-experts/"><u>Top-Rated Touchscreen Notebooks: In-Depth Analysis & Reviews by Tech Experts</u></a></li>
+<li><a href="https://windows11.techidaily.com/unblock-windows-task-scheduler-issues-quickly/"><u>Unblock Windows Task Scheduler Issues Quickly</u></a></li>
+</ul></div>
 

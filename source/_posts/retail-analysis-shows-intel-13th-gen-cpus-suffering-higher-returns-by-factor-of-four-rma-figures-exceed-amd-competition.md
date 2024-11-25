@@ -1,7 +1,7 @@
 ---
 title: Retail Analysis Shows Intel 13Th Gen CPUs Suffering Higher Returns by Factor of Four - RMA Figures Exceed AMD Competition
-date: 2024-08-19T12:24:52.515Z
-updated: 2024-08-20T12:24:52.515Z
+date: 2024-11-23T16:11:07.742Z
+updated: 2024-11-25T16:06:04.164Z
 tags:
   - cpu
 categories:
@@ -34,6 +34,10 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  Speaking of substantial performance advantages of AMD's Zen 5, we cannot omit the single-thread performance of AMD's Ryzen 9000-series processors with 16 cores. Based on leaked CPU-Z benchmark results we have seen so far, the Ryzen 9 9950X is about 15% faster in single-thread workloads. It is about 9% faster in multi-thread workloads than the Ryzen 9 7950X, which is generally in line with performance advantage estimates demonstrated by AMD.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -42,14 +46,11 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -58,8 +59,17 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-filmora-tutorials-simple-steps-to-a-dynamic-youtube-subscribe-button/"><u>[New] 2024 Approved Filmora Tutorials Simple Steps to a Dynamic YouTube Subscribe Button</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-screenrecorderpro-a-detailed-analysis-of-video-capture-software-for-2024/"><u>[New] ScreenRecorderPro A Detailed Analysis of Video Capture Software for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-streamline-your-apple-devices-with-easy-recording-for-2024/"><u>[Updated] Streamline Your Apple Devices with Easy Recording for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-unveiling-simple-sync-obs-plus-zoom-journey-for-2024/"><u>[Updated] Unveiling Simple Sync OBS + Zoom Journey for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-epic-playground-the-top-10-alternatives-to-grand-theft-auto-v/"><u>2024 Approved Epic Playground The Top 10 Alternatives to Grand Theft Auto V</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-underappreciated-office-gem-in-our-top-pick-for-best-2-in-1-devices-of-the-year-exclusive-review-on-zdnet/"><u>Discover the Underappreciated Office Gem in Our Top Pick for Best 2-in-1 Devices of the Year - Exclusive Review on ZDNet!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/nvidia-gaming-laptop-deals-unleashed-dont-miss-the-amazon-prime-day-2n24-savings-zdnet-insights/"><u>NVIDIA Gaming Laptop Deals Unleashed: Don't Miss the Amazon Prime Day 2N24 Savings - ZDNET Insights!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/score-big-with-an-8tb-samsung-t5-ssd-at-amazon-huge-savings-beyond-prime-day-deals/"><u>Score Big with an 8TB Samsung T5 SSD at Amazon - Huge Savings Beyond Prime Day Deals</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-durability-showdown-how-our-4k-tested-laptop-outperforms-the-dell-latitude/"><u>Ultimate Durability Showdown: How Our $4K Tested Laptop Outperforms the Dell Latitude!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/videocutter-expertise-full-evaluation/"><u>VideoCutter Expertise – Full Evaluation</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->

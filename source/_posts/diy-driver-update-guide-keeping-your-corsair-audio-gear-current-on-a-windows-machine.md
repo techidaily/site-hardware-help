@@ -1,7 +1,7 @@
 ---
 title: "DIY Driver Update Guide: Keeping Your Corsair Audio Gear Current on a Windows Machine"
-date: 2024-08-19T12:29:22.841Z
-updated: 2024-08-20T12:29:22.841Z
+date: 2024-11-22T16:04:59.334Z
+updated: 2024-11-25T16:05:52.480Z
 tags:
   - win11
   - win10
@@ -38,15 +38,26 @@ It’s essential to keep the drivers for your Canon products up to date so as to
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa3c58d6f96.jpg)
 3. Click **Update All** to automatically download and install the correct version of **_ALL_**  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa45fe434fd.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Option 2: Update your Canon driver manually**
 
  Canon keeps updating drivers. To get them, you need to go to Canon’s official website, find the drivers corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.
@@ -60,21 +71,20 @@ Before heading to download the latest driver package from **Canon**  ‘s offici
 3. Type**the name** of your Canon product and click**Go** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa46ed741fe.jpg)
 4. Click**DRIVERS & DOWNLOADS** under your model name. (Here I take PIXMA PRO-10 as an example.)  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa47aad220c.jpg)
 5. Make sure **the detected Windows version is the right variant of your Windows OS** and click**SELECT** in**the first** result to make sure to download the latest driver release.  
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa4841af5d5.jpg)
 6. Click**DOWNLOAD** .
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 7. Run the downloaded file and follow the on-screen instructions to finish the install. You might want to consult the download & install manual executable file if needed.
 8. Restart your computer for the changes to take effect.
 
@@ -90,8 +100,6 @@ Before heading to download the latest driver package from **Canon**  ‘s offici
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -99,4 +107,18 @@ Before heading to download the latest driver package from **Canon**  ‘s offici
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-initial-cinematic-recording-dissection/"><u>[New] Initial Cinematic Recording Dissection</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-leveraging-keywords-for-peak-marketing-results/"><u>[Updated] Leveraging Keywords for Peak Marketing Results</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/2024-ultimate-selection-leading-security-keys-vetted-by-professionals/"><u>2024 Ultimate Selection: Leading Security Keys Vetted by Professionals</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-primer-to-installation-of-the-java-sdkjdk-on-windows-11/"><u>A Primer to Installation of the Java SDK/JDK on Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-unexpected-power-trick-of-this-comprehensive-12-in-1-thunderbolt-station-for-windows-devices-zdnet/"><u>Discover the Unexpected Power Trick of This Comprehensive 12-in-1 Thunderbolt Station for Windows Devices | ZDNet</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-lava-agni-2-5g-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from Lava Agni 2 5G</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/elite-laptop-lineup-for-2amo-thoroughly-analyzed-and-critiqued-by-specialists-zdnet/"><u>Elite Laptop Lineup for 2Amo: Thoroughly Analyzed & Critiqued by Specialists | ZDNet</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-xiaomi-redmi-note-13-pro-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Xiaomi Redmi Note 13 Pro 5G FRP</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-videographic-success-stories-for-client-praise/"><u>In 2024, Mastering Videographic Success Stories for Client Praise</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-streaming-microphones-an-expert-review-zdnet/"><u>Top-Rated Streaming Microphones : An Expert Review - ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-usb-hub-bargain-alert-the-adonit-nest-for-efficient-wfh-starts-at-just-65-exclusive-zdnet-offer/"><u>Unbeatable USB Hub Bargain Alert: The Adonit Nest for Efficient WFH Starts at Just $65 - Exclusive ZDNet Offer!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Get the HP Victus 15 Gaming Laptop at a Steal - Just $515 During Best Buy's Prime Day Sale![ZDNet
-date: 2024-11-12T06:47:48.291Z
-updated: 2024-11-15T21:34:28.369Z
+date: 2024-11-18T16:27:34.901Z
+updated: 2024-11-25T16:22:46.222Z
 tags:
   - laptops
 categories:
@@ -24,6 +24,10 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 **Also: [The best budget gaming laptops: Expert tested](https://www.zdnet.com/article/best-budget-gaming-laptop/)** 
 
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -59,27 +63,21 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-mastering-instagram-reels-a-ninjas-guide/"><u>[New] Mastering Instagram Reels A Ninja's Guide</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-upgrading-igtv-thumbnails-a-comprehensive-walkthrough/"><u>[New] Upgrading IGTV Thumbnails A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-ornate-asian-dwellings-for-your-next-build-off/"><u>[Updated] In 2024, Ornate Asian Dwellings for Your Next Build-Off</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/complete-guide-for-canon-mf4500-software-download-and-installation/"><u>Complete Guide for Canon MF4500 Software Download & Installation</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/deadly-dominance-the-quintessential-zombie-gameplay-for-2024/"><u>Deadly Dominance The Quintessential Zombie Gameplay for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722959378627-download-m-audio-fast-track-drivers-compatible-with-windows-10-7-8-and-81/"><u>Download M-Audio Fast Track Drivers Compatible with Windows 10, 7, 8, and 8.1</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-installation-of-asus-pcb-driver-software-on-your-windows-machine/"><u>Easy Installation of ASUS PCB Driver Software on Your Windows Machine</u></a></li>
-<li><a href="https://facebook.techidaily.com/elevate-your-online-appeal-with-strategic-profiles/"><u>Elevate Your Online Appeal with Strategic Profiles</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-xiaomi-mix-fold-3-using-video-repair-utility-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Corrupt video files of Xiaomi Mix Fold 3 using Video Repair Utility?</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-nokia-c22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Nokia C22 | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-get-the-newest-microsoft-bluetooth-driver-update-on-your-pc-windows-10-11-8-7/"><u>How to Get the Newest Microsoft Bluetooth Driver Update on Your PC (Windows 10, 11, 8, 7)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722967387911-install-your-m-audio-sound-card-free-drivers-for-win-107881-download-today/"><u>Install Your M-Audio Sound Card – Free Drivers for Win 10/7/8/8.1 - Download Today</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-from-slow-to-go-speeding-up-videos-in-quicktime-player-for-2024/"><u>New From Slow to Go Speeding Up Videos in QuickTime Player for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722956663668-nvidia-geforce-rtx-3080-ti-driver-downloads-for-windows-11-8-and-7-latest-update-available/"><u>NVIDIA GeForce RTX 3080 Ti Driver Downloads for Windows 11, 8 & 7 - Latest Update Available!</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/cost-movie-previews-download-youtube-cover-arts-easy/"><u>Zero-Cost Movie Previews Download YouTube Cover Arts Easy</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-downloading-fb-audio-nuggets/"><u>[New] 2024 Approved Downloading FB Audio Nuggets</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-recording-lenovo-fast-and-fuss-free-tips/"><u>[Updated] 2024 Approved Recording Lenovo Fast and Fuss-Free Tips</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-discovering-the-worlds-most-popular-shorter-videos-free/"><u>[Updated] In 2024, Discovering the World's Most Popular Shorter Videos (FREE)</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-elevating-your-youtube-stream-the-wirecast-way/"><u>2024 Approved Elevating Your YouTube Stream The WireCast Way</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-installation-windows-insignia-driver-downloads-at-lightning-speed/"><u>Effortless Installation: Windows Insignia Driver Downloads at Lightning Speed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-pick-of-the-day-top-video-editing-applications-reviewed/"><u>Essential Pick of the Day: Top Video Editing Applications Reviewed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-gigabyte-sound-card-drivers-for-optimal-performance/"><u>Free Download: Gigabyte Sound Card Drivers for Optimal Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/guide-to-seamlessly-integrating-your-wacom-intuos-pro-with-windows-10-system/"><u>Guide to Seamlessly Integrating Your Wacom Intuos Pro with Windows 10 System</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/how-to-grab-free-and-safe-vlc-with-minimal-risk-for-macos-users-for-2024/"><u>How to Grab Free and Safe VLC with Minimal Risk for macOS Users for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/instagram-videos-wandering-why-angles-change-in-2024/"><u>Instagram Videos Wandering - Why Angles Change, In 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-rtl81-cu-network-adapter-driver-for-windows-xpvista710-free-update-now/"><u>Latest RTL81 Cu Network Adapter Driver for Windows [XP/Vista/7/10] - Free Update Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/lenovo-x1-carbon-driver-downloads-compatible-with-both-windows-10-and-7-systems-quick-setup-instructions/"><u>Lenovo X1 Carbon Driver Downloads: Compatible with Both Windows 10 and 7 Systems - Quick Setup Instructions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movavi-jpeg-pef/"><u>Movavi JPEG 到 PEF 免費網路過渡工具 - 線上無限制使用</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722965895379-resolve-your-hp-envy-7640-driver-issues-instantly-expert-tips-inside/"><u>Resolve Your HP ENVY 7640 Driver Issues Instantly – Expert Tips Inside</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/simplify-your-system-smooth-and-fast-windows-updates/"><u>Simplify Your System: Smooth and Fast Windows Updates</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

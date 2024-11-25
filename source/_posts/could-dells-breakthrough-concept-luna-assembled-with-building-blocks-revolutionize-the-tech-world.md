@@ -1,7 +1,7 @@
 ---
 title: Could Dell’s Breakthrough Concept Luna, Assembled with Building Blocks, Revolutionize the Tech World?
-date: 2024-11-14T19:50:37.211Z
-updated: 2024-11-15T21:29:18.358Z
+date: 2024-11-19T16:38:22.916Z
+updated: 2024-11-25T16:34:28.456Z
 tags:
   - laptops
 categories:
@@ -20,6 +20,10 @@ In pursuit of sustainable product design, Dell has highlighted how it's using te
 Some Dell laptops, like the [2017 Latitude E5270](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-Latitude-Dual-Core-Bluetooth-Professional%2Fdp%2FB077NP77PD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C84ad7279-10ad-4aca-9cd3-28d3b0bb065a%7Cdtp&dtb=1), have [a repairability score of 10 out of 10](https://www.ifixit.com/laptop-repairability) from right to repair advocate iFixit. Dell's Concept Luna laptop, which it unveiled last December, aims to go further with a design that has just four screws with minimal adhesives and soldering to hold internal components in place. 
 
 **Also:** [**There's a long cold winter ahead for PC makers. That could be good news for PC buyers**](https://www.zdnet.com/article/theres-a-long-cold-winter-ahead-for-pc-makers-that-could-be-good-news-for-pc-buyers/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -77,28 +81,18 @@ Dell's device is still a concept -- and thus not for sale. But some vendors have
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-the-gamers-roadmap-navigating-a-successful-youtube-channel/"><u>[New] 2024 Approved The Gamers' Roadmap Navigating a Successful YouTube Channel</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-unlocking-team-potential-expert-tips-on-slack-and-filmora-integration/"><u>[New] 2024 Approved Unlocking Team Potential Expert Tips on Slack and Filmora Integration</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-exciting-auto-play-hits-for-children/"><u>[New] Exciting Auto-Play Hits for Children</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-broaden-viewership-with-simultaneous-yt-and-twitch-broadcasts/"><u>2024 Approved Broaden Viewership with Simultaneous YT & Twitch Broadcasts</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-how-to-remove-filmora-watermark-withwithout-paying/"><u>2024 Approved How to Remove Filmora Watermark With/Without Paying?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/brother-mfc-7360n-ready-in-a-click-fresh-drivers-for-windows-users-windows-11-8-and-7-supported/"><u>Brother MFC-7360N Ready in a Click! Fresh Drivers for Windows Users - Windows 11, 8 & 7 Supported.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/complete-your-hp-device-setup-download-the-official-network-drivers-for-windows-versions-1078/"><u>Complete Your HP Device Setup: Download the Official Network Drivers for Windows Versions 10/7/8</u></a></li>
-<li><a href="https://blog-min.techidaily.com/discover-the-top-4-free-and-clean-no-watermark-video-conversion-services-online/"><u>Discover the Top 4 FREE and CLEAN (No Watermark) Video Conversion Services Online</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-guide-to-updating-and-downloading-the-hp-laserjet-1320-driver-for-windows-users/"><u>Easy Guide to Updating and Downloading the HP LaserJet 1320 Driver for Windows Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/firestick-users-guide-to-accessing-fandango-films-at-home/"><u>Firestick Users' Guide to Accessing Fandango Films at Home</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-google-pixel-8-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Google Pixel 8 Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-windows-drivers-for-your-msi-gs65-secure-and-easy-installation-steps/"><u>Latest Windows Drivers for Your MSI GS65 - Secure and Easy Installation Steps</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-guide-combining-videos-using-windows-media-player-and-best-alternatives/"><u>Step-by-Step Guide: Combining Videos Using Windows Media Player & Best Alternatives</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-getting-your-epson-xp-410-ready-with-the-latest-windows-driver-downloads/"><u>Step-by-Step Tutorial: Getting Your Epson XP-410 Ready with the Latest Windows Driver Downloads</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshooting-and-resolving-issues-in-realteks-rtl8723be-driver-configuration/"><u>Troubleshooting and Resolving Issues in Realtek's RTL8723BE Driver Configuration</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-your-hid-compatible-pointing-device-drivers/"><u>Update Your HID-Compatible Pointing Device Drivers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-where-to-stream-what-to-watch-twitchs-challenge-to-youtube/"><u>2024 Approved Where To Stream, What to Watch? Twitch's Challenge to YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/aligning-chrome-and-system-time-windows-sync-tips/"><u>Aligning Chrome and System Time (Windows Sync Tips)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asus-touchpad-driver-download-for-windows-11-quickly-and-easily/"><u>ASUS Touchpad Driver Download for Windows 11 Quickly & Easily</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/direct-live-broadcasting-obs-to-instagram/"><u>Direct Live Broadcasting OBS to Instagram</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722959155228-ensure-peak-performance-downloading-updated-canon-pixma-ts3322-drivers-today/"><u>Ensure Peak Performance: Downloading Updated Canon PIXMA TS3322 Drivers Today</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-guide-to-unlock-your-nokia-by-drfone-android/"><u>Full Guide to Unlock Your Nokia</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-compatible-brother-hl-2240-driver-for-your-pc-with-windows-os/"><u>Get the Newest Compatible Brother HL-2240 Driver for Your PC with Windows OS</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-eliminate-jitters-stabilizing-techniques-for-gopro-video/"><u>In 2024, Eliminate Jitters Stabilizing Techniques for GoPro Video</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-the-complexities-of-health-marketing-on-fb/"><u>Navigating the Complexities of Health Marketing on FB</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforma-tu-fotografia-raw-a-png-de-manera-gratuita-y-facil-con-la-ayuda-de-movavi/"><u>Transforma Tu Fotografía RAW a PNG De Manera Gratuita Y Fácil Con La Ayuda De Movavi</u></a></li>
+<li><a href="https://facebook.techidaily.com/unraveling-new-antitrust-regulations-and-their-impact/"><u>Unraveling New Antitrust Regulations and Their Impact</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/windows-users-guide-to-downloading-and-updating-the-hp-elitebook-8460p-drivers-faqs-and-solutions/"><u>Windows Users Guide to Downloading and Updating the HP Elitebook 8460P Drivers - FAQs & Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/workplace-shift-will-ai-overtake-jobs/"><u>Workplace Shift: Will AI Overtake Jobs?</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

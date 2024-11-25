@@ -1,7 +1,7 @@
 ---
 title: Discover the Ultimate Alternative to Dell XPS & MacBook for Business Trips with These 13-Inch Laptops
-date: 2024-11-14T21:26:17.993Z
-updated: 2024-11-15T17:47:20.931Z
+date: 2024-11-18T16:31:14.662Z
+updated: 2024-11-25T16:20:13.331Z
 tags:
   - laptops
 categories:
@@ -22,9 +22,17 @@ And if you're looking to get started as a gaming content creator, there are plen
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best budget gaming laptop right now?
 
 As an avid gamer myself, my pick for the best budget gaming laptop is the [Asus TUF A15](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-tuf-gaming-a15-15-6-fhd-144hz-gaming-laptop-amd-ryzen-7-8gb-ddr5-memory-nvidia-geforce-rtx-3050-ti-512gb-pcie-ssd%2F6501561.p%3F&publisher_slug=itechdaily19598&exclusive=1), packing a 144Hz refresh rate, 12-hour battery life, and Dolby Atmos audio. Read on for the rest of our picks for the best cheap gaming laptops available now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The best budget gaming laptops of 2024
 
@@ -43,13 +51,6 @@ Cons
 * No VRR support
 
 ## Asus TUF A15
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best budget gaming laptop overall
 
@@ -102,14 +103,11 @@ Cons
 * Only supports up to 32GB RAM
 * Only supports Crucial brand components
 
-## Acer Nitro 5
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Acer Nitro 5
 
 ### Best budget gaming laptop for beginners
 
@@ -134,6 +132,10 @@ Pros
 Cons 
 * On the heavy side at almost 5 pounds
 * Can't customize keyboard backlight color
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## MSI Bravo 15
 
@@ -163,20 +165,10 @@ Cons
 * No DisplayPort output for external montiors
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Lenovo Legion Pro 5i Gen 8
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best budget gaming laptop under $1500
 
@@ -204,13 +196,6 @@ My pick for the best budget gaming laptop is the Asus TUF A15\. Not only is it p
 
  \*Lowest price at the time of writing. Please note that prices may vary based on retailer and available promotions, sales, or discounts.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Which budget gaming laptop is right for you?
 
 Tech specs are usually overrated when picking a PC, but not when it comes to gaming systems. Purchasing a cheap gaming laptop is definitely a case where you have to get the most bang for the fewest bucks without sacrificing your gaming experience. It's a careful balance, though, as doubling your RAM or getting a better graphics card will impact your budget. 
@@ -227,6 +212,10 @@ Two other important considerations are weight and battery life, neither of which
 | MSI Bravo 15                         | A budget-friendly and AMD-based gaming laptop. The MSI Bravo 15 is built with an AMD Ryzen 7 5800H CPU and an AMD Radeon RX 6500M graphics card.                                                   |
 | Lenovo Legion Pro 5i Gen 8           | A budget-friendly and Intel-based gaming laptop. The Lenovo Legion Pro 5i Gen 8 can be configured with up to a 13th-generation Intel Core i7 CPU and an RTX 4070 graphics card.                    |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Factors to consider when choosing a budget gaming laptop:
 
 Obviously, price is key when it comes to budget gaming laptops, so we kept the list of models as close to or below $1,000 as possible. These laptops are from well-known brands available through major retailers like Amazon, Best Buy, and Walmart, as well as their own online stores. 
@@ -239,13 +228,6 @@ Other factors critical to making the list that we recommend considering when cho
 * **Graphics card:** Contrary to popular belief, you don't have to have the latest, most powerful GPU to get the most out of your favorite games or new releases. And if you're working on a smaller budget, opting for an older graphics card can make a big difference in budget.
 * **Storage:** A 500GB capacity should be more than enough to handle everything; however, you can upgrade the laptop with a larger drive later on. Keep in mind that storage space determines game download capacity. While you can set up external drives to accommodate, choosing a base storage drive with plenty of room for your operating system, game library, and essential programs like web browsers and office suites is important.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How did I choose these budget gaming laptops?
 
 As an avid PC gamer myself, I understand what budget-conscious gamers are looking for when shopping for a new laptop. When researching and testing each laptop featured on this list, I kept things in mind that I would look for when shopping for a personal upgrade, like:
@@ -253,6 +235,10 @@ As an avid PC gamer myself, I understand what budget-conscious gamers are lookin
 * **Brand integrity:** It may be tempting to snap up that $400 laptop from that weird Amazon seller with the alphabet soup name. But what you save isn't worth the headache of dealing with nonexistent customer service, long overseas shipping times, or possible fraud. It's best to stick to trusted, verified brands and sellers like MSI, Asus, Acer, and Dell.
 * **End-user upgrades:** Upgrading a laptop is a bit trickier than a desktop, since you need laptop-specific components. But PC gamers can save a decent chunk of change by purchasing a lower-end laptop and dropping in better components like more RAM, larger storage SSDs, or better graphics cards later.
 * **RAM and storage caps:** Not all gaming laptops are created equal. If you plan on upgrading your rig yourself at a later date, it's important to make note of the upper limits of how much memory and storage a model will support. Because nothing is worse than wasting money on hardware you can't use.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are budget gaming laptops worth it?
 
@@ -263,13 +249,6 @@ If you're alright with your laptop having an older GPU or are comfortable upgrad
 ## Is there such a thing as "too much RAM"?
 
 Yes, actually. For most games, you won't need more than 16GB of RAM. And while some models support up to 32, 64, or even 128GB, chances are that unless you're going to also use your laptop for things like video editing or 3D modeling and rendering, you're just spending money to show off at that point. [How much RAM you need](https://www.zdnet.com/article/how-much-ram-does-your-windows-11-pc-need/) will depend on what you want to get out of your gaming experience, but most people won't need more than 16GB.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What's the difference between an SSD and an HDD?
 
@@ -325,21 +304,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-the-essence-of-luts-mastering-photo-color-dynamics/"><u>[New] In 2024, The Essence of LUTs Mastering Photo Color Dynamics</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-buzzfeed-gurus-flashing-with-snapchat/"><u>[Updated] 2024 Approved BuzzFeed Gurus Flashing with Snapchat</u></a></li>
-<li><a href="https://blog-min.techidaily.com/winx-dvd-backup/"><u>「オンラインでWinX DVD Backupソフトウェアセットを手に入れる方法」</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722965322872-canon-mf4800-drivers-get-your-free-download-here/"><u>Canon MF4800 Drivers: Get Your Free Download Here</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/code-guarantee-plan/"><u>Code Guarantee Plan</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-razer-chroma-enabled-naga-mouse-drivers-for-windows/"><u>Download & Update: Razer Chroma-Enabled Naga Mouse Drivers for Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-huion-graphics-tablet-drivers-for-windows-pcs/"><u>Download Huion Graphics Tablet Drivers for Windows PCs</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/flawless-frames-the-10-best-websites-for-wallpapers-on-your-pc-for-2024/"><u>Flawless Frames The 10 Best Websites for Wallpapers on Your PC for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/four-easy-solutions-to-restore-active-icloud-settings-on-iphoneipad/"><u>Four Easy Solutions to Restore Active iCloud Settings on iPhone/iPad</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Motorola Moto G73 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-crucial-steps-in-archiving-lol-matchups/"><u>In 2024, Crucial Steps in Archiving LOL Matchups</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/keep-your-lenovo-ideapad-100-running-smoothly-on-windows-11-with-the-latest-driver-updates/"><u>Keep Your Lenovo IdeaPad 100 Running Smoothly on Windows 11 with the Latest Driver Updates</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-driver-updates-a-focus-on-ati-for-windows-users/"><u>Mastering Driver Updates: A Focus on ATI for Windows Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/maximize-gaming-experience-on-windows-amo-with-the-new-steelseries-engine-download/"><u>Maximize Gaming Experience on Windows Amo with the New SteelSeries Engine Download</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/nvidia-display-driver-download-for-windows-1078/"><u>Nvidia Display Driver Download for Windows 10/7/8</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-doom-eternal-why-it-wont-launch-and-how-to-fix-it/"><u>Troubleshooting DOOM Eternal - Why It Won't Launch and How to Fix It</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-camera-connoisseurs-hits-the-best-6-of-the-years-4k-cameras/"><u>[Updated] Camera Connoisseurs' Hits The Best 6 of the Year's 4K Cameras</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-explore-the-best-free-youtube-video-editor-apps-for-android/"><u>[Updated] Explore the Best Free YouTube Video Editor Apps for Android</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/5-solutions-for-tecno-spark-20-proplus-unlock-without-password-by-drfone-android/"><u>5 Solutions For Tecno Spark 20 Pro+ Unlock Without Password</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/apple-iphone-xr-screen-mirroring-you-must-know-drfone-by-drfone-ios/"><u>Apple iPhone XR Screen Mirroring You Must Know | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhance-your-valheim-experience-overcoming-high-ping-problems-on-windows-machines/"><u>Enhance Your Valheim Experience: Overcoming High Ping Problems on Windows Machines</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-hp-laserjet-p1606dn-driver-version-for-seamless-printing-on-your-pc/"><u>Get the Newest HP LaserJet P1606dn Driver Version for Seamless Printing on Your PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-epson-xp-330-up-and-running-drivers-installed-in-minutes/"><u>Get Your Epson XP-330 Up and Running: Drivers Installed in Minutes!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-logitech-racing-wheel-set-up-installation-guides-for-win7810-systems/"><u>Get Your Logitech Racing Wheel Set Up: Installation Guides for Win7/8/10 Systems</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/haptic-feedback-and-vr-for-medicine-for-2024/"><u>Haptic Feedback and VR for Medicine for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-evga-gpu-drivers-step-by-step-tutorial-for-windows-users/"><u>Installing EVGA GPU Drivers: Step-by-Step Tutorial for Windows Users</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-make-mpeg2-files-smaller-a-step-by-step-guide-with-virtualdub/"><u>New Make MPEG2 Files Smaller A Step-by-Step Guide with VirtualDub</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722977442547-qualcomm-atheros-ar938x-quick-and-easy-access-to-your-free-drivers/"><u>Qualcomm Atheros AR938X: Quick & Easy Access to Your Free Drivers!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722977015578-seamless-transition-to-windows-11-with-new-nvidia-drivers-heres-how/"><u>Seamless Transition to Windows 11 with New NVIDIA Drivers - Here's How</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/soundmax-driver-software-downloads-and-setup-tutorials-for-windows-users/"><u>SoundMAX Driver Software Downloads & Setup Tutorials for Windows Users</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-tech-enthusiasts-toms-comprehve-review-showcase/"><u>The Ultimate Resource for Tech Enthusiasts: Tom's Comprehve Review Showcase</u></a></li>
 </ul></div>
 

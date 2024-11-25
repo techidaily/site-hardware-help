@@ -1,7 +1,7 @@
 ---
 title: "2024 Ultimate Selection: Leading Security Keys Vetted by Professionals"
-date: 2024-11-08T23:23:24.497Z
-updated: 2024-11-15T19:37:15.882Z
+date: 2024-11-21T16:10:55.564Z
+updated: 2024-11-25T16:33:21.436Z
 tags:
   - laptops
 categories:
@@ -30,13 +30,6 @@ ZDNET's favorite security key is the [Yubico YubiKey 5 NFC](https://buy.geni.us/
 
 ZDNET has tested many security keys throughout the years and frequently tracks market developments and changes. We often use security keys ourselves and lean upon our personal experience to shape our recommendations. Below, you will find our top picks for security keys today. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Best security keys of 2024
 
 Show less 
@@ -50,13 +43,6 @@ Pros
 Cons 
 * Expensive, especially if you need two
 * Technical knowledge may be required
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Yubico YubiKey 5 NFC
 
@@ -87,6 +73,10 @@ Cons
 * No NFC so no support for iPhone and Android
 * Doesn't support macOS logins
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Thetis Fido U2F Security Key
 
 ### Best security key for durability
@@ -116,13 +106,14 @@ Cons
 * Expensive
 * No NFC compatibility
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Yubico YubiKey 5 Nano
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best security key for travel
@@ -152,13 +143,6 @@ Cons
 * Only supports FIDO protocols
 
 ## Yubico Security Key C NFC
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best security key for businesses
 
@@ -216,10 +200,7 @@ Cons
 * No biometrics
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Google Titan security key
@@ -253,6 +234,10 @@ As testers of security keys over the years, we recommend the Yubico YubiKey 5 NF
 
 Note: Prices and compatibility information may vary based on location and specific devices. This table is based on the information provided in the given descriptions and is subject to change.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What's the right security key for you?
 
 It all boils down to which features you prioritize and your budget. Since having two security keys is recommended for added security, with one in use and the other as a backup, choosing a more affordable option could be cost-effective. 
@@ -279,13 +264,6 @@ Security keys are an investment in time and money and so it is best to select th
 * **Hardware**: You might need hardware that complies with particular standards or has specific ports for connecting to your devices, so check on your key's specifications prior to purchase.
 * **Price**: Choose a security key that matches your budget.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How were these security keys chosen?
 
 Extensive research has been conducted on every security key that is listed here across a wide range of devices and services. In some cases, this includes testing the keys on different operating systems, web browsers, and services to ensure they work smoothly and efficiently.
@@ -299,6 +277,10 @@ Our main criteria for selecting these security keys are:
 * **Security features**: Naturally, the security features of a security key are paramount. We considered each device's support for different authentication protocols alongside security measures including passwordless authentication.
 * **Price point**: The cost of your next security key is an important factor to consider. As they are physical, we recommend that you pick up two, just in case one ends up lost. As a result, we wanted to ensure this was affordable.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What are security keys and how do they work?
 
 A security key is a physical device that generates a unique code used with a password to authenticate your identity when logging into a website or application. It uses public-key cryptography and is more secure than traditional 2FA methods.
@@ -309,35 +291,33 @@ The FIDO Alliance consortium has developed open standards for authentication pro
 
 Devices that are FIDO certified allow users to quickly sign into their accounts using physical keys or biometric passkeys, and have also achieved FIDO protection and security standards. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why are security keys better than SMS-based 2FA?
 
 SMS is open to SIM hijacking, while a physical key cannot be copied or the data intercepted. Think about it this way: 2FA verification codes sent via SMS messaging may be intercepted if your smartphone has been infected with malware, including spyware, but unless an attacker has your physical security key in their hand, they cannot grab the code required to access your account.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How many security keys do I need?
 
 We recommend purchasing at least two -- one that you use day-to-day and one to keep as a backup. For example, you can keep one in your home office or attached to a keychain if you're on the road, while one is stashed safely away to cover you if you lose your primary key. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Can security keys be hacked?
 
 Security keys are one of the best authentication methods on the market today and they have very little exploitable attack surface, making them difficult to 'hack' in any way. While there are cases of keys being cloned for academic purposes, as security keys are not constantly connected to the Internet, you don't have to worry about the most common attack vectors having any impact on them. Just keep your key in a safe place.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How do security keys prevent phishing?
 
 In layman's terms, security keys use encryption and security tokens that only work on genuine websites rather than fake phishing domains. Public and private keys work together to authenticate a user session, but the private key is held on the physical device, reducing the attack surface. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Are there alternative security keys worth considering?
 
@@ -387,15 +367,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-essential-tips-for-xbox-live-streaming-setup/"><u>[New] 2024 Approved Essential Tips for Xbox Live Streaming Setup</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-dive-into-advanced-3d-text-creation-in-photosophy/"><u>[New] In 2024, Dive Into Advanced 3D Text Creation in PHOTOSOPHY</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-guide-canon-mg2520-printer-drivers-for-pc/"><u>Download & Update Guide: Canon MG2520 Printer Drivers for PC</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effective-strategies-leveraging-chatgpt-in-academic-writing-and-research/"><u>Effective Strategies: Leveraging ChatGPT in Academic Writing and Research</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-apple-iphone-15-pro-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On Apple iPhone 15 Pro</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-graphics-driver-updates-for-nvidia-geforce-rtx-30-series-and-earlier-install-guide-for-windows-1011/"><u>Latest Graphics Driver Updates for NVIDIA GeForce RTX™ 30-Series and Earlier: Install Guide for Windows 10/11</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-streamline-your-workflow-quick-and-easy-gopro-video-editing-tips/"><u>New In 2024, Streamline Your Workflow Quick and Easy GoPro Video Editing Tips</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/seamless-internet-connection-install-and-update-intel-dual-band-wireless-ac-3160-driver-now/"><u>Seamless Internet Connection: Install and Update Intel Dual Band Wireless-AC 3160 Driver Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-instructions-effortlessly-install-the-freshly-updated-samsung-m2070-printer-drivers/"><u>Step-by-Step Instructions: Effortlessly Install the [Freshly Updated] Samsung M2070 Printer Drivers</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/ultimate-auditory-interface-win-for-2024/"><u>Ultimate Auditory Interface, WIN for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-pro-level-editing-10-must-have-applications-for-insta-videos/"><u>2024 Approved Pro-Level Editing 10 Must-Have Applications for Insta Videos</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-hp-deskjet-ink-advantage-3630-software-for-windows-111087-start-printing-now/"><u>Download and Install HP Deskjet Ink Advantage 3630 Software for Windows 11/10/8/7 - Start Printing Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-guide-update-and-optimize-your-lenovo-webcam-on-windows-n-based-pcs/"><u>Easy Guide: Update and Optimize Your Lenovo Webcam on Windows N-Based PCs</u></a></li>
+<li><a href="https://fox-that.techidaily.com/easy-steps-to-access-professional-tech-aid-on-your-iphone-via-apples-official-app/"><u>Easy Steps to Access Professional Tech Aid on Your iPhone via Apple’s Official App</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-cannot-write-to-disc-troubleshooting-steam-installation-problems/"><u>Fixing 'Cannot Write to Disc': Troubleshooting Steam Installation Problems</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-dynamic-video-grading-the-premium-selection-of-cine-luts-for-gopro/"><u>In 2024, Dynamic Video Grading The Premium Selection of Cine LUTs for Gopro</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-microsoft-bluetooth-drivers-free-download-and-updates-for-windows-10-11-8-and-7/"><u>Latest Microsoft Bluetooth Drivers: Free Download and Updates for Windows 10, 11, 8 & 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/non-commercial-balloons-such-as-hot-air-balloons-and-gas-balloons-that-meet-the-requirements-set-out-in-casr-part-91-general-operating-and-flight-rules-subp110/"><u>Non Commercial Balloons, Such as Hot Air Balloons and Gas Balloons, that Meet the Requirements Set Out in CASR Part 91 – General Operating & Flight Rules (Subpart 6)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/successful-installation-huion-tablet-software-updates-and-downloads-on-windows/"><u>Successful Installation: Huion Tablet Software Updates and Downloads on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/tech-insights-exploring-toms-hardware-innovations/"><u>Tech Insights: Exploring Tom's Hardware Innovations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-soloists-path-to-trending-podcasts-for-2024/"><u>The Soloist's Path to Trending Podcasts for 2024</u></a></li>
 </ul></div>
 

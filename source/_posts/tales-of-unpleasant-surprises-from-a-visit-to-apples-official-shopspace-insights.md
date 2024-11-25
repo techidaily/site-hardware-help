@@ -1,7 +1,7 @@
 ---
 title: Tales of Unpleasant Surprises From a Visit to Apple's Official Shopspace - Insights
-date: 2024-11-08T19:22:49.595Z
-updated: 2024-11-15T20:23:21.452Z
+date: 2024-11-19T16:38:45.603Z
+updated: 2024-11-25T16:01:42.859Z
 tags:
   - laptops
 categories:
@@ -23,6 +23,10 @@ I'm actually quite emotional.
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### more Technically Incorrect
 
@@ -48,16 +52,7 @@ Instead, there were at least 30 customers inside.
 What was going on? Why were these people here? What was wrong with them? Hadn't they slept? Hadn't they heard?
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What have we got? We've got bad news
@@ -99,10 +94,7 @@ I wasn't seeing a lack of demand for these phones -- or for anything other than 
 **Also:** [**I put the Apple Watch Ultra through the Tough Mudder. Here's how it held up**](https://www.zdnet.com/article/apple-watch-ultra-review/) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## I needed some Air
@@ -122,10 +114,7 @@ So what could I do but go back to the iPhone table? This time a different custom
 "Or, if you order on our website, you could get it by, let's see, October 4," said the salesman.
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tell me something good
@@ -180,24 +169,16 @@ Well, maybe a little. It's not as if I'm demanding, is it?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-basic-to-breakthrough-content-crafting-the-top-10-simplest-youtube-projects/"><u>[New] 2024 Approved Basic to Breakthrough Content Crafting the Top 10 Simplest YouTube Projects</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-the-ultimate-guide-to-skyrocketing-subscriber-count-on-igtv/"><u>[New] The Ultimate Guide to Skyrocketing Subscriber Count on IGTV</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-downloading-your-youtube-watch-lists-step-by-step/"><u>[Updated] 2024 Approved Downloading Your YouTube Watch Lists Step by Step</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-your-path-to-picture-perfection-with-snapseed/"><u>[Updated] 2024 Approved Your Path to Picture Perfection with Snapseed</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-tips-for-quickly-and-securely-scrape-gifs-from-social-networking-sites-like-fb/"><u>2024 Approved Tips for Quickly and Securely Scrape GIFs From Social Networking Sites Like FB</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-your-corsair-virtuoso-when-it-stops-working/"><u>Diagnosing and Repairing Your Corsair Virtuoso When It Stops Working</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-canon-mx492-printer-drivers-for-windows-operating-systems/"><u>Download and Install Canon MX492 Printer Drivers for Windows Operating Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-ultimate-guide-to-installing-a-validity-fingerprint-sensor-fast-and-simple-steps/"><u>Download the Ultimate Guide to Installing a Validity Fingerprint Sensor - Fast and Simple Steps</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/fixing-compatibility-issues-with-intel-hd-graphics-nvidia-on-your-windows-pc-solved/"><u>Fixing Compatibility Issues with Intel HD Graphics nVIDIA on Your Windows PC – Solved</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722976194775-free-corsair-icue-software-downloads-for-windows-users-enhance-your-gaming-setup/"><u>Free Corsair iCUE Software Downloads for Windows Users: Enhance Your Gaming Setup!</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-from-iphone-14-plus-by-drfone-ios/"><u>How To Create an Apple Developer Account From iPhone 14 Plus</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-get-and-update-brother-mfc-l2740dw-windows-drivers-for-free/"><u>How to Get and Update Brother MFC-L2740DW Windows Drivers for Free</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/improve-your-roccat-mouse-experience-with-this-essential-download/"><u>Improve Your Roccat Mouse Experience with This Essential Download</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-vivo-x90s-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Vivo X90S</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/introducing-the-portable-canons-sx620-camera/"><u>Introducing the Portable Canon's SX620 Camera</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-corsair-k5nk55-driver-updates-for-enhanced-performance/"><u>Latest Corsair K5n/K55 Driver Updates for Enhanced Performance</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Oppo Reno 11 5G? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/simple-guide-installing-wacom-intuos-pro-drivers-on-windows-10/"><u>Simple Guide: Installing Wacom Intuos Pro Drivers on Windows 10</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshooting-successfully-completed-solving-the-igfx-module-malfunction/"><u>Troubleshooting Successfully Completed - Solving the iGFX Module Malfunction</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-tips-to-restore-functionality-in-frozen-obs-screen/"><u>[Updated] 2024 Approved Tips to Restore Functionality in Frozen OBS Screen</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/detailed-analysis-and-overview-of-du-recorders-capabilities/"><u>Detailed Analysis and Overview of Du Recorder’s Capabilities</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fixing-your-hp-speaker-glitches-with-simple-steps-on-windows-1087/"><u>Fixing Your HP Speaker Glitches with Simple Steps on Windows 10/8/7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-logitech-g29-racing-controller-setup-for-windows-7-8-and-10-users/"><u>Free Download: Logitech G29 Racing Controller Setup for Windows 7, 8 & 10 Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/gratis-converter-online-para-archivos-asf-a-mp4-con-movavi-transformaciones-sin-costo/"><u>Gratis Converter Online Para Archivos ASF a MP4 Con Movavi: Transformaciones Sin Costo</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-zte-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on ZTE</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/mastering-the-social-media-puzzle-decoding-ig-data-for-enhanced-campaigns/"><u>Mastering the Social Media Puzzle Decoding IG Data for Enhanced Campaigns</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/nvidia-geforce-rtx-2070-super-graphics-card-driver-updates-and-download-instructions-for-windows/"><u>Nvidia GeForce RTX 2070 Super Graphics Card Driver Updates and Download Instructions for Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-to-downloading-the-latest-broadcom-gigabit-driver-on-windows-10-fixed/"><u>Step-by-Step Tutorial to Downloading the Latest Broadcom Gigabit Driver on Windows 10 [FIXED]</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/tp-links-new-network-driver-update-compatible-with-windows-10-8-and-7-get-instant-download/"><u>TP-Link's New Network Driver Update | Compatible with Windows 10, 8, and 7 - Get Instant Download!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/turning-tales-upside-down-iphone-video-guide/"><u>Turning Tales Upside Down IPhone Video Guide</u></a></li>
 </ul></div>
 
