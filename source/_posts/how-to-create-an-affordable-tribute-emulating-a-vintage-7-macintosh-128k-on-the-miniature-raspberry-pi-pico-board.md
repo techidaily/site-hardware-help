@@ -1,7 +1,7 @@
 ---
 title: "How to Create an Affordable Tribute: Emulating a Vintage $7 Macintosh 128K on the Miniature Raspberry Pi Pico Board"
-date: 2024-08-19T10:18:53.477Z
-updated: 2024-08-20T10:18:53.477Z
+date: 2024-12-03T10:49:53.381Z
+updated: 2024-12-05T09:53:33.447Z
 tags:
   - raspberry-pi
 categories:
@@ -35,6 +35,10 @@ The[Raspberry Pi](https://tools.techidaily.com) community never ceases to amaze 
 
  As we said before, this is a work in progress, and plans are in the works for new features. One of the most significant upgrades Spiritual\_Aside\_7859 plans to include is speech recognition so you can verbally communicate with the koala bear assistant. In the meantime, you can see what this[Raspberry Pi project](https://tools.techidaily.com) is capable of over at[Reddit](https://www.reddit.com/r/arduino/comments/1deo04x/ai%5Fassistant) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,8 +53,6 @@ The[Raspberry Pi](https://tools.techidaily.com) community never ceases to amaze 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -58,8 +60,23 @@ The[Raspberry Pi](https://tools.techidaily.com) community never ceases to amaze 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-how-to-use-snap-camera-on-zoom/"><u>[New] How to Use Snap Camera on Zoom?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-step-by-step-ps4-recording-techniques-for-gamers/"><u>[Updated] 2024 Approved Step-by-Step PS4 Recording Techniques for Gamers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-transform-and-edit-videos-like-a-pro-with-these-iphonepc-tools/"><u>[Updated] Transform and Edit Videos Like a Pro With These iPhone/PC Tools</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/avoid-gaming-crashes-on-intel-13th-and-14th-gen-cpus-with-new-in-game-warning-comprehebate-your-system-now/"><u>Avoid Gaming Crashes on Intel 13Th and 14Th Gen CPUs with New In-Game Warning – Comprehebate Your System Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722958451907-compatible-sound-device-software-for-windows-pcs-get-them-here/"><u>Compatible Sound Device Software for Windows PCs - Get Them Here!</u></a></li>
+<li><a href="https://solve-help.techidaily.com/die-top-6-strategien-zum-wiederherstellen-von-windows-10-eine-umfassende-anleitung/"><u>Die Top-6 Strategien Zum Wiederherstellen Von Windows 10: Eine Umfassende Anleitung</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-amds-newest-tech-the-french-release-of-ryzen-9-cpus-with-the-ryzen-9-9900x-at-649/"><u>Discover AMD's Newest Tech: The French Release of Ryzen 9 CPUs, with the Ryzen 9 9900X at €649</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-instal-corsair-void-pro-drivers-on-windows-quick-and-effortless/"><u>Download and Instal Corsair Void Pro Drivers on Windows: Quick & Effortless</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-newly-updated-corsair-h80i-v2-graphics-card-cooler-drivers/"><u>Download the Newly Updated Corsair H80i V2 Graphics Card Cooler Drivers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-ai-driven-blur-between-worlds/"><u>Exploring the AI-Driven Blur Between Worlds</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-download-and-install-logitechs-c525-webcam-software-on-windows/"><u>How to Download & Install Logitech's C525 Webcam Software on Windows</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-nokia-g42-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Nokia G42 5G</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/nikon-coolpix-b500-review/"><u>Nikon COOLPIX B500 Review</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-not-shown-solutions-for-network-print-issues/"><u>Printer Not Shown: Solutions for Network Print Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-setting-up-your-own-gmail-email-address-alternative/"><u>Step-by-Step Guide: Setting Up Your Own Gmail Email Address Alternative</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-gaming-mice-secure-logitech-g-pro-driver-software-now/"><u>Top-Rated Gaming Mice - Secure Logitech G Pro Driver Software Now!</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

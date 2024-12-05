@@ -1,7 +1,7 @@
 ---
 title: "Introducing the Latest Waveshare IoT Development Board: Compatible with Raspberry Pi Zero, Features Cellular Network Support & Tailored MicroPython OS"
-date: 2024-08-19T10:18:25.632Z
-updated: 2024-08-20T10:18:25.632Z
+date: 2024-11-29T22:08:03.079Z
+updated: 2024-12-04T22:38:19.374Z
 tags:
   - raspberry-pi
 categories:
@@ -35,6 +35,10 @@ If you've ever seen the movie_Big_ , you might have wondered what it's like to p
 
  Plans are in the works to add a 3D head to move and add a visual representation for the Voltara fortune teller. If you want to get a closer look at this[Raspberry Pi project](https://tools.techidaily.com) in action, you can check it out over at Kevin McAleer's official[YouTube channel](https://www.youtube.com/watch?v=dWFgN%5FA%5FI1w) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,8 +53,6 @@ If you've ever seen the movie_Big_ , you might have wondered what it's like to p
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -58,8 +60,23 @@ If you've ever seen the movie_Big_ , you might have wondered what it's like to p
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-streamline-your-footage-insta-length-management-on-macos/"><u>[New] Streamline Your Footage Insta-Length Management on macOS</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-bring-imagination-to-life-self-animated-artistry/"><u>[Updated] 2024 Approved Bring Imagination to Life Self-Animated Artistry</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-art-of-digital-alterations-tips-for-text-in-pictures-for-2024/"><u>[Updated] The Art of Digital Alterations Tips for Text in Pictures for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-sparkle-with-screenshots-vlogging-for-value-creation/"><u>2024 Approved Sparkle with Screenshots Vlogging for Value Creation</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-guide-to-updating-your-epson-xp-440-driver-software/"><u>Easy Guide to Updating Your Epson XP-440 Driver Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-hp-elitebook-x360-1030-g2-system-drivers/"><u>Free Download: HP EliteBook X360 1030 G2 System Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975516817-get-your-zexmte-bluetooth-device-up-and-running-on-windows-1178-with-our-latest-driver-update/"><u>Get Your Zexmte Bluetooth Device Up and Running on Windows 11/7/8 with Our Latest Driver Update!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-htc-u23-pro-lock-screen-password-by-drfone-android/"><u>How To Change HTC U23 Pro Lock Screen Password?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-easily-download-and-install-nexiq-usb-data-bridge-software/"><u>How to Easily Download and Install Nexiq USB Data Bridge Software</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/learning-in-your-fifies-a-wise-multilingual-choice/"><u>Learning in Your Fifies: A Wise Multilingual Choice</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-tech-toms-detailed-breakdowns-on-cutting-edge-hardware-products/"><u>Mastering Tech: Tom's Detailed Breakdowns on Cutting-Edge Hardware Products</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/msi-z370-a-pro-driver-suite-secure-your-instant-download-now/"><u>MSI Z370-A PRO Driver Suite – Secure Your Instant Download Now!</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/navigating-post-antitrust-consequences-how-googles-courtroom-setback-reshapes-user-experience-and-shifts-future-search-dynamics-infosphere-blog/"><u>Navigating Post-Antitrust Consequences: How Google's Courtroom Setback Reshapes User Experience and Shifts Future Search Dynamics | InfoSphere Blog</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-edit-like-a-pro-top-free-wmv-video-editors/"><u>New 2024 Approved Edit Like a Pro Top Free WMV Video Editors</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722972880180-seamless-connectivity-downloading-zexmtes-universal-bluetooth-adapter-drivers-for-windows-11-8-and-more/"><u>Seamless Connectivity: Downloading Zexmte's Universal Bluetooth Adapter Drivers for Windows 11, 8 & More</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-guide-to-fixing-squad-microphone-problems/"><u>The Ultimate Guide to Fixing Squad Microphone Problems</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->

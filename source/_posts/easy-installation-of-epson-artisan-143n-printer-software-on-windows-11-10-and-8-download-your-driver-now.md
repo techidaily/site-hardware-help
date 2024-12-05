@@ -1,7 +1,7 @@
 ---
 title: Easy Installation of Epson Artisan 143N Printer Software on Windows 11, 10 and 8 - Download Your Driver Now!
-date: 2024-08-19T12:22:45.718Z
-updated: 2024-08-20T12:22:45.718Z
+date: 2024-11-27T23:10:58.416Z
+updated: 2024-12-05T03:41:47.837Z
 tags:
   - win11
   - win10
@@ -36,10 +36,24 @@ Follow these steps:
 2. Type**devmgmt.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c379a3ed4.jpg)
 3. Find your printer in Device Manager. It can display in**Print queues** ,**Printers** , or**Other devices.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Right click on your**Epson WF 3620 printer** , and click**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c3ac0fc97.png)
 5. If you see a notification popup, check the box next to**Delete the driver software for this device** , then click**Uninstall** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c412411da.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After uninstalling, you can now download the printer driver from official website.
 
@@ -49,6 +63,10 @@ Follow these steps:
 3. In the**Downloads** tab, make sure the detected**Operating System** is correct. Then click**Download** to download the driver package.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c4d2efa90.jpg)
 4. Run the downloaded file and follow the on-screen instructions to finish the installation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This method requires time and computer skills. If this method doesn’t work for you, don’t worry. You can try[method 2](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -64,6 +82,11 @@ Follow these steps:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c53c6a756.jpg)
 3. You can upgrade to the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click**Update All** to automatically download and install the correct version of_**ALL**_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c6040133d.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer to take effect.
@@ -94,8 +117,6 @@ Follow these steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -103,8 +124,22 @@ Follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-elevating-conference-calls-top-3-methods-4-insights/"><u>[New] 2024 Approved Elevating Conference Calls Top 3 Methods, #4 Insights</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ial-in-the-perfect-moment-youtube-optimal-posting/"><u>[New] Dial in the Perfect Moment YouTube Optimal Posting</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-becoming-an-srt-creation-virtuoso-a-complete-manual/"><u>[New] In 2024, Becoming an SRT Creation Virtuoso A Complete Manual</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-facebook-slideshow-maker-how-to-make-a-facebook-slideshow-for-2024/"><u>[Updated] Facebook Slideshow Maker How to Make a Facebook Slideshow for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/anticipated-announcements-at-apples-upcoming-october-unveiling-new-m4-mac-mini-and-ipad-lineup-enhanced-siri-features-and-beyond-tech-insights/"><u>Anticipated Announcements at Apple's Upcoming October Unveiling: New M4 Mac Mini & iPad Lineup, Enhanced Siri Features, and Beyond | Tech Insights</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/celebrating-creativity-otu-samples-freepaid/"><u>Celebrating Creativity OTU Samples (Free/Paid)</u></a></li>
+<li><a href="https://win11.techidaily.com/connect-your-games-across-screens-win-11-and-android-via-google-linkup/"><u>Connect Your Games Across Screens: Win 11 & Android via Google Linkup</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/creating-a-cash-flow-from-content-youtubes-monetization-techniques-for-the-future-for-2024/"><u>Creating a Cash Flow From Content YouTube's Monetization Techniques for the Future for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-lenovos-innovative-convertible-seamlessly-transitioning-from-a-windows-pc-to-an-android-tablet-insights/"><u>Exploring Lenovo's Innovative Convertible: Seamlessly Transitioning From a Windows PC to an Android Tablet | Insights</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-youtube-movie-maker-explained-a-step-by-step-walkthrough/"><u>In 2024, YouTube Movie Maker Explained A Step-by-Step Walkthrough</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mac-mastery-step-by-step-guide-to-changing-your-command-key-settings/"><u>Mac Mastery: Step-by-Step Guide to Changing Your Command Key Settings</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-essential-guide-to-updating-google-chrome-why-its-a-must-do-this-weekend-zdnet-tips-and-tricks/"><u>The Essential Guide to Updating Google Chrome: Why It's a Must-Do This Weekend - ZDNet Tips & Tricks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-6-advantages-of-choosing-a-chromebook-the-ultimate-laptop-solution-for-everyone-insights/"><u>Top 6 Advantages of Choosing a Chromebook: The Ultimate Laptop Solution for Everyone - Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-saving-opportunities-on-octobers-prime-day-game-deals-save-up-to-1000-dont-miss-out/"><u>Top Saving Opportunities on October's Prime Day Game Deals - Save Up to $1,000! Don't Miss Out!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-latest-upgrades-in-samsungs-copilotplus-pc-features-cutting-edge-ai-technology-zdnet/"><u>Unveiling the Latest Upgrades in Samsung’s Copilot+ PC Features Cutting-Edge AI Technology | ZDNet</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

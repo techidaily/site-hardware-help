@@ -1,7 +1,7 @@
 ---
 title: "Up to 1300-Watt Performance: Exploring Cooler Master's High Capacity V Series and Its X Silent Fanless PSUs"
-date: 2024-08-19T10:19:50.113Z
-updated: 2024-08-20T10:19:50.113Z
+date: 2024-11-28T01:36:36.873Z
+updated: 2024-12-05T02:30:55.902Z
 tags:
   - power-supply
 categories:
@@ -18,6 +18,10 @@ Want to build a PC on a budget but need some outstanding performance for the pri
  You can also pick up a power supply for your new build or upgrade your existing PSU with the[Super Flower Leadex V Platinum Pro 850W PSU for $129](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-3375912336607948806%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fsuper-flower-leadex-v-platinum-pro-sf-850f14tp-850w%252Fp%252F1HU-024C-00043) . Use promo code**MKTAMNPMAR27** at checkout for avail of the $30 discount.
 
 See more Real Deals below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## TL;DR — Today’s Best Deals
 
@@ -63,9 +67,6 @@ See more Real Deals below.
 
 [View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB07S98YLHM%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-8780951100740110730-20)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Looking for more deals?
 
 Category
@@ -75,8 +76,9 @@ Category
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/chevron-left.svg "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Back to Hubs & Switches
 
 Brand
@@ -84,8 +86,9 @@ Brand
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Intel
 
  Netgear
@@ -96,9 +99,6 @@ Colour
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
  Black
 
  Copper
@@ -106,6 +106,10 @@ Colour
 Condition
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  New
 
@@ -115,9 +119,6 @@ Price
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 Any Price
 
  Showing 10 of 52 deals
@@ -127,8 +128,9 @@ Any Price
 SORT BY Price (low to high)  Price (high to low) Product Name (A to Z)  Product Name (Z to A)  Retailer name (A to Z)  Retailer name (Z to A) ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [Netgear GS305E](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07PJ7XZ7X%2Fref%3Dasc%5Fdf%5FB07PJ7XZ7X1723888800000%3Ftag%3Dhawk-future-20%26creative%3D395261%26creativeASIN%3DB07PJ7XZ7X%26linkCode%3Dasn%26ascsubtag%3Dtomshardware-us-1310836781021125979-20)
 
 1
@@ -287,8 +289,6 @@ Our Review
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -296,4 +296,26 @@ Our Review
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-simplified-guide-fb-video-to-mp3-audio-transformations-for-2024/"><u>[New] Simplified Guide FB Video to MP3 Audio Transformations for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-top-creators-revolutionizing-virtual-environments-for-2024/"><u>[New] Top Creators Revolutionizing Virtual Environments for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-nokia-130-music-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Nokia 130 Music on Windows??</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-nokia-c300-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Nokia C300 Fingerprint Lock</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-top-tier-mobile-cloud-space-hacks-for-android/"><u>In 2024, Top-Tier Mobile Cloud Space Hacks for Android</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/maximizing-performance-by-expanding-storage-on-your-android-smartphone-why-it-matters/"><u>Maximizing Performance by Expanding Storage on Your Android Smartphone: Why It Matters</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/move-beyond-ms-phone-link-with-our-exceptional-mobile-connectivity-app/"><u>Move Beyond MS Phone Link with Our Exceptional Mobile Connectivity App</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/parental-supervision-in-the-digital-age-how-google-family-link-can-help-safeguard-your-childs-online-experience/"><u>Parental Supervision in the Digital Age: How Google Family Link Can Help Safeguard Your Child's Online Experience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/pixel-smartwatch-integrates-trending-apple-watch-capability/"><u>Pixel Smartwatch Integrates Trending Apple Watch Capability</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/protect-your-privacy-steps-to-resolve-hacked-passwords-with-the-help-of-google-assistant/"><u>Protect Your Privacy: Steps to Resolve Hacked Passwords with the Help of Google Assistant</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revolutionary-self-repairing-oppo-smartphone-batteries-a-glimpse-into-the-future-of-mobile-power/"><u>Revolutionary Self-Repairing Oppo Smartphone Batteries: A Glimpse Into the Future of Mobile Power</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/samsung-phone-battery-lifespan-analysis-and-maintenance-tips/"><u>Samsung Phone Battery Lifespan Analysis and Maintenance Tips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/secure-your-accounts-recovering-password-security-using-google-assistant/"><u>Secure Your Accounts: Recovering Password Security Using Google Assistant</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/selecting-the-ideal-wireless-charging-pad-a-comprehensive-guide/"><u>Selecting the Ideal Wireless Charging Pad: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamlining-video-editing-using-luts-with-obs-studio-for-2024/"><u>Streamlining Video Editing Using LUTs with OBS Studio for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-function-and-significance-of-vcplusplus-packages/"><u>The Function and Significance of VC++ Packages</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-tablet-reviews-and-comparisons-zdnets-comprehensive-guide/"><u>Top Rated Tablet Reviews & Comparisons - ZDNet's Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-out-of-memory-errors-for-a-smoother-gaming-experience-in-rdr2/"><u>Troubleshoot Out-Of-Memory Errors for a Smoother Gaming Experience in RDR2</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-fcp-audio-editing-made-easy-a-tutorial-for-creators/"><u>Updated FCP Audio Editing Made Easy A Tutorial for Creators</u></a></li>
+</ul></div>
 

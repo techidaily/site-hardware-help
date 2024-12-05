@@ -1,7 +1,7 @@
 ---
 title: "Disassembling Dell's Innovative Luna: The Modular Laptop of Tomorrow?"
-date: 2024-11-21T16:47:43.443Z
-updated: 2024-11-25T16:36:22.731Z
+date: 2024-11-29T03:49:51.128Z
+updated: 2024-12-05T06:47:10.962Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -109,7 +109,7 @@ Gaming is not fully supported by Windows on ARM yet, either. Many titles don't w
 This gets to the meat of the issue here. Yes, the CPU is fast and efficient, and the NPU on these processors runs AI-related tasks better than anything else on the market, but the chips are held back by Windows' functionality (at least for now), and this tension between the two will be at the root cause of a lot of issues until the growing pains subside.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -148,16 +148,22 @@ If you're looking for a Copilot+ PC with a better display, you might want to che
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-logo-design-101-tips-to-make-your-podcast-stand-out-for-2024/"><u>[New] Logo Design 101 Tips to Make Your Podcast Stand Out for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-revolutionize-your-virtual-engagements-with-advanced-google-meet-customization-for-2024/"><u>[New] Revolutionize Your Virtual Engagements with Advanced Google Meet Customization for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/canoscan-lide-220-update-and-download-guide-for-optimal-scanning-performance/"><u>CanoScan LiDE 220 Update & Download Guide for Optimal Scanning Performance</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/compatible-windows-programs-for-easy-installation-of-your-brother-hl-l2340dw-printer/"><u>Compatible Windows Programs for Easy Installation of Your Brother HL-L2340DW Printer</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/definitive-guide-to-overcoming-intel-hd-graphics-630-driver-glitches-on-windows-machines/"><u>Definitive Guide to Overcoming Intel HD Graphics 630 Driver Glitches on Windows Machines</u></a></li>
-<li><a href="https://fox-place.techidaily.com/free-video-conversion-optimized-viewing-for-your-samsung-device/"><u>Free Video Conversion: Optimized Viewing for Your Samsung Device</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-epson-wf-3520-printing-software-for-windows-compatible-with-all-versions/"><u>Get the Newest Epson WF 3520 Printing Software for Windows - Compatible with All Versions</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-fix-obs-studio-when-it-wont-record-your-screen-anymore/"><u>How to Fix OBS Studio When It Won't Record Your Screen Anymore</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Poco M6 5G | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/maximizing-your-experience-with-gemini-add-ons-for-googles-bard-tips-and-tricks/"><u>Maximizing Your Experience with Gemini Add-Ons for Google's Bard - Tips and Tricks</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unlocking-full-functionality-a-comprehensive-guide-for-downloading-your-dell-mouse-driver/"><u>Unlocking Full Functionality: A Comprehensive Guide for Downloading Your Dell Mouse Driver</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ecoding-the-revised-youtube-earnings-criteria-for-2024/"><u>[New] Decoding the Revised YouTube Earnings Criteria for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-selecting-sacred-sounds-for-smartphone-ringtones/"><u>[New] Selecting Sacred Sounds for Smartphone Ringtones</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-ranked-guide-to-premium-iosdesktop-video-change-tools-for-2024/"><u>[Updated] Ranked Guide to Premium iOS/Desktop Video Change Tools for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-color-grading-in-final-cut-pro/"><u>2024 Approved How to Color Grading in Final Cut Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/advanced-tips-for-crafting-vhs-images-on-computers-for-2024/"><u>Advanced Tips for Crafting VHS Images on Computers for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-humor-image-processor/"><u>In 2024, Best Humor Image Processor</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-honor-x9b-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Honor X9b? Try These Fixes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-end-of-an-era-how-googles-new-ai-revolutionizes-the-role-of-the-original-google-assistant/"><u>The End of an Era: How Google's New AI Revolutionizes the Role of the Original 'Google Assistant'</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-heat-of-tech-understanding-why-high-performance-phones-stay-cool-unlike-pcs/"><u>The Heat of Tech: Understanding Why High-Performance Phones Stay Cool, Unlike PCs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-13-creative-ideas-reimagining-the-life-of-your-retired-android-device/"><u>Top 13 Creative Ideas: Reimagining the Life of Your Retired Android Device</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/transforming-mobile-photography-a-guide-on-converting-photos-to-pdf-on-android-devices/"><u>Transforming Mobile Photography: A Guide on Converting Photos to PDF on Android Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/trouble-downloading-images-from-gmail-on-your-android-device-discover-the-quick-solutions/"><u>Trouble Downloading Images From Gmail on Your Android Device? Discover the Quick Solutions!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/understanding-burner-phones-benefits-and-situations-for-using-disposable-numbers/"><u>Understanding Burner Phones: Benefits & Situations for Using Disposable Numbers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlocking-customization-how-to-install-and-manage-lock-screen-widgets-on-android-devices/"><u>Unlocking Customization: How to Install and Manage Lock Screen Widgets on Android Devices</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-do-you-know-you-can-add-luts-for-cinematic-color-grading-on-your-smartphones-with-vn-editor-you-can-you-can-add-luts-choose-the-option/"><u>Updated 2024 Approved Do You Know You Can Add LUTs for Cinematic Color Grading on Your Smartphones? With VN Editor You Can, You Can Add LUTs. Choose the Option VN LUTs Free Download</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/virtual-reality-engineering-in-business-applications/"><u>Virtual Reality Engineering in Business Applications</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/why-the-hmd-skyline-stands-out-unparalleled-ease-in-phone-repairs/"><u>Why the HMD Skyline Stands Out: Unparalleled Ease in Phone Repairs</u></a></li>
 </ul></div>
 

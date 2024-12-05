@@ -1,7 +1,7 @@
 ---
 title: "Discover Lenovo's Latest AI-Enhanced ThinkPad Line: The Perfect Match for Professional Workstations, as Featured on ZDNet"
-date: 2024-11-19T16:42:07.775Z
-updated: 2024-11-25T16:44:22.897Z
+date: 2024-11-30T09:10:21.493Z
+updated: 2024-12-05T06:18:06.064Z
 tags:
   - laptops
 categories:
@@ -19,10 +19,6 @@ Kerry Wan/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -44,6 +40,10 @@ A laptop with two screens is perhaps one of the tamest designs it has come up wi
 
 It's given me a chance to revisit the idea of having two screens on my laptop, and once again, it's tempting me to switch away from my boring-in-comparison MacBook Pro.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specifications (as reviewed)
 
 | Dimensions            | 11.78 x 8.03 x 0.63 inches                                                                                                                                                                                                                                                                            |
@@ -59,7 +59,7 @@ It's given me a chance to revisit the idea of having two screens on my laptop, a
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Living with a dual-screen laptop
@@ -83,7 +83,7 @@ There's a lot that the dual-screen design of the Yoga Book 9i enables, and the v
 Switching back to my single-screen MacBook Pro was, to put it lightly, tough. I missed having all the extra screen real estate and the ability to have two full documents open side-by-side while writing. I felt limited in a way that I wasn't expecting, which says a lot about how effective Lenovo's dual-screen design is.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does it perform?
@@ -106,6 +106,10 @@ To power the Yoga Book 9i, Lenovo includes an 80W battery that's rated for about
 
 Charging the laptop is as straightforward as it comes. There's a Rapid Charge adapter in the box that gives you about two hours of runtime with just 15 minutes of charging. I found this mostly to be true, although you have to shut the lid if you want charging speeds to really pick up.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Evaluating Lenovo's dual-screen software
 
 With such unique hardware, Lenovo had to build unique software for Windows 11 so that it behaves properly and gives you extra functionality.
@@ -127,7 +131,7 @@ It's weird; I've had apps like Chrome and Spotify show up on the lower display w
 I'll give Lenovo credit, the new Yoga Book 9i feels smoother than the old one did. I don't notice as much scruff or weird glitches with the software, and the bundled Bluetooth keyboard doesn't produce nearly as many double-key entries as before. Still, it's not a perfect experience, which is something to keep in mind if you're going to spend $2,000 on a laptop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## One thing to keep in mind
@@ -139,10 +143,6 @@ Max Buondonno/ZDNET
 When I'm working on my MacBook or -- quite frankly -- any other laptop in my arsenal, all I have to do is close the lid and load it into my backpack when I'm finished. With the Yoga Book 9i, I have to close the laptop > collapse the kickstand > place the keyboard inside the collapsed kickstand > stack the keyboard/kickstand combo, mouse, and stylus on top of the laptop > shove it all in my bag and pray I can find it later when it's time to go back to work.
 
 Of course, you'll eventually get used to it, but it'll never be as convenient as shutting your laptop lid and moving on with your day.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## ZDNET's buying advice
 
@@ -182,16 +182,18 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-vimeos-zero-dollar-video-editing-pathway/"><u>[New] Vimeo's Zero-Dollar Video Editing Pathway</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-personalizing-communication-sounds-a-comprehensive-guide-for-whatsapp-ringtone-lovers/"><u>[Updated] Personalizing Communication Sounds A Comprehensive Guide for WhatsApp Ringtone Lovers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/blistering-performance-nextorage-releases-revolutionary-m2-2230-ssd-for-handheld-gaming-with-7400mbs-speeds/"><u>Blistering Performance: Nextorage Releases Revolutionary M.2 2230 SSD for Handheld Gaming with 7,400MB/S Speeds</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/crafting-captivating-online-titles-simplified/"><u>Crafting Captivating Online Titles Simplified</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-top-tier-gadgets-with-toms-equipment-guide/"><u>Discover Top-Tier Gadgets with Tom's Equipment Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/end-of-production-intels-200-series-optane-memory-dimms-set-to-cease-shipments-by-late-2nd-26/"><u>End of Production: Intel's 200-Series Optane Memory DIMMs Set to Cease Shipments by Late 2nD 26</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723864256327-get-your-hands-on-sabrents-speedy-rocket-5-ssds-pre-order-begins-at-an-affordable-price-of-190/"><u>Get Your Hands on Sabrent's Speedy Rocket 5 SSDs - Pre-Order Begins at an Affordable Price of $190</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-vivo-y100-5g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Vivo Y100 5G</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/missing-the-mark-apples-latest-ai-showcase-omits-crucial-innovations-awaiting-future-updates/"><u>Missing the Mark: Apple's Latest AI Showcase Omits Crucial Innovations, Awaiting Future Updates?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-definitive-solution-for-when-right-click-stops-working-on-windows-10-computers/"><u>The Definitive Solution for When Right Click Stops Working on Windows 10 Computers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723864256604-unbeatable-deal-on-high-performance-4tb-samsung-990-pro-pcie-40-ssds-only-7-cents-per-gigabyte/"><u>Unbeatable Deal on High-Performance 4TB Samsung 990 Pro PCIe 4.0 SSDs: Only 7 Cents per Gigabyte!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-ballot-box-bonanza-topping-politic-simulations/"><u>[New] In 2024, Ballot Box Bonanza Topping Politic Simulations</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-resolve-twitter-vids-playback-issue/"><u>2024 Approved Resolve Twitter Vids Playback Issue</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-nubia-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Nubia</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/angry-buyer-contests-intels-rma-procedure-insists-on-authenticity-of-core-i9-14900k-cpus-from-retailers/"><u>Angry Buyer Contests Intel's RMA Procedure - Insists on Authenticity of Core I9-14900K CPUs From Retailers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/close-monitoring-for-signs-of-sepsis-and-early-initiation-of-supportive-care-measures-including-fluid-resuscitation-vasopressors-if-indicated-and-organ-supp101/"><u>Close Monitoring for Signs of Sepsis and Early Initiation of Supportive Care Measures Including Fluid Resuscitation, Vasopressors if Indicated, and Organ Support as Necessary</u></a></li>
+<li><a href="https://fox-that.techidaily.com/effective-steps-for-removing-liquid-from-iphone-speakers/"><u>Effective Steps for Removing Liquid From iPhone Speakers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-digital-gadgets-at-toms-computing-world/"><u>Exploring Digital Gadgets at Tom's Computing World</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-intel-irisplus-graphics-card-software-update-for-windows-11/"><u>Get the Latest Intel Iris+ Graphics Card Software Update for Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-epson-v500-working-install-the-latest-scan-software-now/"><u>Get Your Epson V500 Working: Install the Latest Scan Software Now!</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-intercept-text-messages-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>How to Intercept Text Messages on Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/resolving-compatibility-freshly-installed-mouse-software-on-windows-7-machines/"><u>Resolving Compatibility: Freshly Installed Mouse Software on Windows 7 Machines</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/revolutionize-your-viewing-rokus-enhanced-soundscape/"><u>Revolutionize Your Viewing: Roku's Enhanced Soundscape</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-to-know-before-tesla-enters-phone-arena-speculated-pricing-expected-debut-date-and-tech-insights/"><u>What to Know Before Tesla Enters Phone Arena: Speculated Pricing, Expected Debut Date & Tech Insights</u></a></li>
 </ul></div>
 

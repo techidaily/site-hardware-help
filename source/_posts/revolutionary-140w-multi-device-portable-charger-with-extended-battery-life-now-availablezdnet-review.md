@@ -1,7 +1,7 @@
 ---
 title: Revolutionary 140W Multi-Device Portable Charger with Extended Battery Life - Now Available![ZDNet Review]
-date: 2024-11-19T16:00:36.276Z
-updated: 2024-11-25T16:32:37.111Z
+date: 2024-11-27T17:02:15.257Z
+updated: 2024-12-04T18:41:49.255Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ Jack Wallen/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -45,7 +45,7 @@ One of the banks I received to review was from the company, Baeseus. Baeseus has
 [ZDNET Recommends Baseus 140W Portable Charger This portable charger packs a 24000mAh battery for plenty of charges. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBaseus-Portable-Charger-24000mAh-Charging%2Fdp%2FB0CH8D2YHZ%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3594bbf8-78b1-4bd7-99c3-66ac94315a67%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The specs
@@ -60,7 +60,7 @@ One of the banks I received to review was from the company, Baeseus. Baeseus has
 * 18-month warranty.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## My experience
@@ -88,7 +88,7 @@ One thing to keep in mind is that I charged the tablet with the slower-charged U
 According to the specs, the power bank allows for fast charging of an iPhone 15 Pro Max to 56% and a MacBook Pro 16" laptop to 55% in just 30 minutes. My MacBook Pro is a 13" with an M1 chip and I was able to go from 63-100% in about 20 minutes. Of course, using the fast charge with the MacBook Pro alone consumed about 25% of the charge from the bank. It's pretty easy to conclude that if you're only charging phones, you'll get even more life from a full charge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -127,18 +127,16 @@ Although it took considerable time to get this bank to a full charge, the result
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/reaking-down-youtube-revenue-per-million-views/"><u>[New] Breaking Down YouTube Revenue per Million Views</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-live-online-learning-captures-for-2024/"><u>[New] Live Online Learning Captures for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-deciphering-the-block-code-on-snapchat/"><u>[Updated] 2024 Approved Deciphering the Block Code on Snapchat</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-smart-zooms-on-snapchat-enhance-photo-and-video-quality/"><u>2024 Approved Smart Zooms on Snapchat Enhance Photo & Video Quality</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-newest-nvidia-geforce-rtx-3080-ti-drivers-compatible-with-windows-1087/"><u>Download the Newest NVIDIA GeForce RTX 3080 Ti Drivers Compatible with Windows 10/8/7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/fresh-release-rtx-nvidia-2080-super-drivers-for-optimized-performance-on-windows-11/"><u>Fresh Release: RTX Nvidia 2080 Super Drivers for Optimized Performance on Windows 11</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-tecno-spark-10-4g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Tecno Spark 10 4G Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-samsung-galaxy-f54-5g-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Samsung Galaxy F54 5G</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722966742400-install-your-new-asus-speakersound-drivers-now/"><u>Install Your New ASUS Speaker/Sound Drivers Now!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/intels-laptop-processors-face-recurring-malfunctions-investigation-finds-parallels-with-previous-hardware-flaws/"><u>Intel's Laptop Processors Face Recurring Malfunctions: Investigation Finds Parallels with Previous Hardware Flaws</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solving-the-persistent-blue-screen-of-death-in-windows-11-after-updates/"><u>Solving the Persistent 'Blue Screen of Death' In Windows 11 After Updates</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-instructions-for-linksys-wusb6300-driver-download-and-setup-on-windows-systems/"><u>Step-by-Step Instructions for Linksys WUSB6300 Driver Download & Setup on Windows Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-toms-guide-to-cutting-edge-electronics-and-pc-components/"><u>The Tom's Guide to Cutting-Edge Electronics and PC Components</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-securely-preserve-your-instagram-content-on-iphone/"><u>2024 Approved Securely Preserve Your Instagram Content on iPhone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-vivo-s18-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Vivo S18</u></a></li>
+<li><a href="https://win-top.techidaily.com/gunstige-alternativen-zu-seagates-disk-wizard-expertenbewertungen-und-nutzungsanleitungen/"><u>Günstige Alternativen Zu Seagate's Disk Wizard - Expertenbewertungen Und Nutzungsanleitungen</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-pro-level-7-cameras-perfect-for-professional-broadcasting-vloggers/"><u>In 2024, Pro-Level 7 Cameras Perfect for Professional Broadcasting Vloggers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-virtual-speedway-selection-top-5-picks-revealed/"><u>In 2024, Virtual Speedway Selection Top 5 Picks Revealed</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/lenovo-to-global-audience-unveil-your-new-favorite-companion-the-yoga-ai-portable-pc-just-as-reliable-with-a-nod-to-the-legacy-of-the-neo-ultra-line/"><u>Lenovo to Global Audience: Unveil Your New Favorite Companion - The Yoga AI Portable PC – Just as Reliable with a Nod to the Legacy of the Neo Ultra Line</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/pre-order-now-ryzen-5-9600x-in-canada-availability-and-pricing-update/"><u>Pre-Order Now: Ryzen 5 9600X in Canada - Availability & Pricing Update</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-dell-g15-gpu-drivers-downloading-and-installing-on-windows-machines/"><u>Step-by-Step Guide: Dell G15 GPU Drivers Downloading & Installing on Windows Machines</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-updating-your-cpu-drivers-on-windows-pcs/"><u>Step-by-Step Guide: Updating Your CPU Drivers on Windows PCs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722965407730-they-must-account-for-complex-dynamics-such-as-boilingcondensation-and-temperature-glideeby/"><u>They Must Account for Complex Dynamics Such as Boiling/Condensation and Temperature glide.eby</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/why-modern-businesses-cant-resist-our-advanced-thermal-label-printers-a-match-made-for-productivity/"><u>Why Modern Businesses Can't Resist Our Advanced Thermal Label Printers: A Match Made for Productivity</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: SAS Driver Updates and Installation Instructions for Users of Windows 11, 8, and 7
-date: 2024-08-19T12:20:42.289Z
-updated: 2024-08-20T12:20:42.289Z
+date: 2024-12-02T02:52:49.583Z
+updated: 2024-12-04T23:08:01.795Z
 tags:
   - win11
   - win10
@@ -39,6 +39,11 @@ Follow these steps:
 4. Right click on your**Epson WF 3620 printer** , and click**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c3ac0fc97.png)
 5. If you see a notification popup, check the box next to**Delete the driver software for this device** , then click**Uninstall** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c412411da.jpg)
 
  After uninstalling, you can now download the printer driver from official website.
@@ -47,6 +52,11 @@ Follow these steps:
 2. Type**WF-3620** in the search box, and select your printer model.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c49506f41.jpg)
 3. In the**Downloads** tab, make sure the detected**Operating System** is correct. Then click**Download** to download the driver package.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c4d2efa90.jpg)
 4. Run the downloaded file and follow the on-screen instructions to finish the installation.
 
@@ -64,13 +74,27 @@ Follow these steps:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c53c6a756.jpg)
 3. You can upgrade to the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click**Update All** to automatically download and install the correct version of_**ALL**_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c6040133d.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer to take effect.
 
  Note: If you have any problems while using Driver Easy, feel free to contact our support team at[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When should I update Epson WF 3620 driver
 
@@ -94,8 +118,6 @@ Follow these steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -103,8 +125,26 @@ Follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-decoding-the-dos-and-donts-in-posting-content-on-facebook/"><u>[New] 2024 Approved Decoding the Do’s and Don’ts in Posting Content on Facebook</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/rom-concept-to-cut-tape-imovie-steps-for-optimizing-youtube-edits/"><u>[New] From Concept to Cut-Tape IMovie Steps for Optimizing YouTube Edits</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-the-journey-to-facebooks-high-level-status-symbol/"><u>[Updated] In 2024, The Journey to Facebook's High-Level Status Symbol</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-survival-sagas-ultimate-10-roguely-games-for-2024/"><u>[Updated] Survival Sagas Ultimate 10 Roguely Games for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-unlock-youtube-partnership-aim-for-a-10k-views-target/"><u>2024 Approved Unlock YouTube Partnership Aim for a 10K Views Target</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/2024s-ultimate-guide-to-choosing-the-right-linux-laptop-expert-ratings-and-reviews/"><u>2024'S Ultimate Guide to Choosing the Right Linux Laptop: Expert Ratings & Reviews</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/comment-accelerer-le-taux-de-compression-pour-hevch265-sans-compromettre-la-qualite/"><u>Comment Accélérer Le Taux De Compression Pour HEVC/H.265 Sans Compromettre La Qualité ?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/continued-deals-alert-8tb-samsung-portable-drives-hold-steady-at-a-36-cut-after-amazons-prime-extravaganza-expert-analysis-from-zdnet/"><u>Continued Deals Alert: 8TB Samsung Portable Drives Hold Steady at a 36% Cut After Amazon's Prime Extravaganza | Expert Analysis From ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-the-versatility-of-lenovos-hybrid-device-a-windows-and-android-tablet-in-one/"><u>Exploring the Versatility of Lenovo's Hybrid Device: A Windows and Android Tablet in One</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-nubia-red-magic-8s-proplus-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ideal-festive-tokens-for-handy-crafters-master-your-creations-using-these-essential-hammers-expert-tips-by-zdnet/"><u>Ideal Festive Tokens for Handy Crafters: Master Your Creations Using These Essential Hammers | Expert Tips by ZDNET</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-unlock-the-mysteries-of-nighttime-photography-mastery/"><u>In 2024, Unlock the Mysteries of Nighttime Photography Mastery</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/master-class-on-assembling-an-epic-gaming-station-with-expert-advice/"><u>Master Class on Assembling an Epic Gaming Station with Expert Advice</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/microsoft-debuts-next-gen-surface-pro-10-and-laptop-nv6-explore-the-enhanced-ai-capabilities-insights-for-tech-aficionados/"><u>Microsoft Debuts Next-Gen Surface Pro 10 & Laptop Nv6: Explore the Enhanced AI Capabilities - Insights for Tech Aficionados</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/osacronis-universal-restore/"><u>OS再インストール簡単化：Acronis Universal Restoreを使う手順</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/storage-space-used-daily-extended-video-size/"><u>Storage Space Used Daily Extended Video Size</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-best-long-lasting-ultraportable-laptop-tested-as-recommended/"><u>The Best Long-Lasting Ultraportable Laptop Tested , as Recommended</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-future-of-computing-has-arrived-how-intels-new-ai-chip-will-elevate-your-laptop-beyond-imagination-gadget-world/"><u>The Future of Computing Has Arrived: How Intel's New AI Chip Will Elevate Your Laptop Beyond Imagination | Gadget World</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-new-era-of-productivity-microsoft-launches-copilot-and-enhanced-surface-devices-for-business-users-gadgetdigest/"><u>Unveiling the New Era of Productivity: Microsoft Launches Copilot and Enhanced Surface Devices for Business Users | GadgetDigest</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: Discover the Ultra-Affordable MacBook Air Priced Just $280 - Exclusive Scoop and Deals From ZDNet!
-date: 2024-11-23T16:44:39.381Z
-updated: 2024-11-25T16:52:49.048Z
+date: 2024-12-04T02:32:06.595Z
+updated: 2024-12-05T01:25:27.484Z
 tags:
   - laptops
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,24 +81,24 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-next-gen-capture-the-leading-apps-decoded/"><u>[Updated] 2024 Approved Next-Gen Capture The Leading Apps Decoded</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/boost-your-view-count-this-tutorials-top-hit-for-2024/"><u>Boost Your View Count This Tutorial's Top Hit for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/chinas-homegrown-ai-success-mass-production-of-powerful-cixin-p1-processor-with-45-tops-and-advanced-arm-architecture/"><u>China's Homegrown AI Success: Mass Production of Powerful Cixin P1 Processor with 45 TOPS and Advanced Arm Architecture</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-epson-es-400-scandriver-on-windows-complete-guide/"><u>Download & Install Epson ES-400 ScanDriver on Windows: Complete Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-asus-bluetooth-drivers-installation-tutorials-and-update-info/"><u>Effortless ASUS Bluetooth Drivers: Installation Tutorials & Update Info</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/enhanced-print-controls-available-the-newest-release-of-the-brother-hl-2240-printer-driver-for-windows-systems/"><u>Enhanced Print Controls Available: The Newest Release of the Brother HL-2240 Printer Driver for Windows Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-epson-l3n150-driver-software-for-your-windows-pc-win10-win8-win7/"><u>Get the Latest Epson L3n150 Driver Software for Your Windows PC (Win10, Win8, Win7)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-logitech-g35-audio-device-up-to-date-compatible-drivers-for-win-7810/"><u>Get Your Logitech G35 Audio Device Up-to-Date: Compatible Drivers for Win 7/8/10</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-network-interface-driver-downloads-optimize-performance-for-windows-versions-11-7-and-8/"><u>HP Network Interface Driver Downloads: Optimize Performance for Windows Versions 11, 7 & 8</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-itel-p55-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Itel P55?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Motorola Edge 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/is-there-a-twitch-outage-or-are-you-experiencing-individual-streaming-problems/"><u>Is There a Twitch Outage? Or Are You Experiencing Individual Streaming Problems?</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/navigating-screen-capture-in-google-video-conferencing-for-2024/"><u>Navigating Screen Capture in Google Video Conferencing for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/restore-power-effective-solutions-when-ps5-controllers-fail-to-charge/"><u>Restore Power: Effective Solutions When PS5 Controllers Fail to Charge</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solutions-for-resolving-no-rest-for-the-wicked-game-crashes-on-windows/"><u>Solutions for Resolving 'No Rest for the Wicked' Game Crashes on Windows</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-5-crucial-aspects-for-buying-used-laptops-confidently/"><u>The Ultimate Guide: 5 Crucial Aspects for Buying Used Laptops Confidently</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-computer-components-your-guide-to-cutting-edge-gadgets/"><u>Tom's Computer Components: Your Guide to Cutting-Edge Gadgets</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/top-6-straightforward-abodes-blueprints-in-mc-world-for-2024/"><u>Top 6 Straightforward Abodes Blueprints in MC World for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722979080495-update-your-epson-xp-nano-printing-device-with-these-simple-steps-for-downloading-new-drivers/"><u>Update Your Epson XP-Nano Printing Device with These Simple Steps for Downloading New Drivers!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-premier-selection-top-8-webcams-transform-livestreaming/"><u>[New] Premier Selection Top 8 Webcams Transform Livestreaming</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-make-sense-of-iphone-video-repetition-tech/"><u>[Updated] 2024 Approved Make Sense of iPhone Video Repetition Tech</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-art-of-iphone-podcast-listening/"><u>[Updated] The Art of iPhone Podcast Listening</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1-sonos-roam-2-the-enhanced-smart-speaker-with-refined-elegance/"><u>1. Sonos Roam 2: The Enhanced Smart Speaker with Refined Elegance</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-channel-success-infusing-personality-into-templates/"><u>2024 Approved Channel Success Infusing Personality Into Templates</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-nokia-g22-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-vivo-y100t-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Vivo Y100t</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-quick-guide-eliminating-photo-viewer-crashes-on-windows-10/"><u>In 2024, Quick Guide Eliminating Photo Viewer Crashes on Windows 10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/nvidia-gtx-1650-optimized-windows-7-driver/"><u>NVIDIA GTX 1650: Optimized Windows 7 Driver</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-recovering-missing-apple-airpods-effectively/"><u>The Ultimate Guide: Recovering Missing Apple AirPods Effectively</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-reviews-of-the-ecovacs-deebot-t30s-combo-revolutionizing-cleaning-with-its-unique-stair-navigation/"><u>Top Reviews of the Ecovacs Deebot T30S Combo – Revolutionizing Cleaning with Its Unique Stair Navigation</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-bluetooth-transmitters-a-comprehensive-review/"><u>Top-Rated Bluetooth Transmitters : A Comprehensive Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-deals-on-pre-owned-computer-gear-why-now-is-the-perfect-moment/"><u>Unbeatable Deals on Pre-Owned Computer Gear: Why Now Is the Perfect Moment</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlocking-convenience-with-aqara-finding-the-perfect-smart-lock-option-for-your-home/"><u>Unlocking Convenience with Aqara: Finding the Perfect Smart Lock Option for Your Home</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upcoming-patch-resolves-intel-processor-stability-issues/"><u>Upcoming Patch Resolves Intel Processor Stability Issues</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/why-i-choose-2-in-1-convertibles-over-regular-laptops-a-users-perspective/"><u>Why I Choose 2-in-1 Convertibles Over Regular Laptops: A User’s Perspective</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/why-the-debate-over-desktop-enhancements-fails-to-hold-water-in-todays-tech-landscape/"><u>Why the Debate Over Desktop Enhancements Fails to Hold Water in Today's Tech Landscape</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Tecno Pova 5 Pro | Dr.fone</u></a></li>
 </ul></div>
 

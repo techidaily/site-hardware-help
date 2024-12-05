@@ -1,7 +1,7 @@
 ---
 title: Reliability and Warranty
-date: 2024-08-19T10:19:37.551Z
-updated: 2024-08-20T10:19:37.551Z
+date: 2024-12-01T03:00:02.149Z
+updated: 2024-12-05T08:39:39.864Z
 tags:
   - power-supply
 categories:
@@ -26,6 +26,10 @@ See more Real Deals below.
 * **Super Flower Leadex V Platinum PRO 850W PSU:** [**now $129 at Newegg**](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-1204575385719253865%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fsuper-flower-leadex-v-platinum-pro-sf-850f14tp-850w%252Fp%252F1HU-024C-00043) **(was $249)**
 * **Dell G3223D 32-inch USB-C Gaming Monitor:** [**now $299 at Dell**](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-8900246-12578053%3Fsid%3Dtomshardware-us-4397051959775015652%26url%3Dhttps%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-32-usb-c-gaming-monitor-g3223d%2Fapd%2F210-bejf%2Fmonitors-monitor-accessories) **(was $449)**
 * **Netgear 5-Port Gigabit Ethernet Switch:** [**now $14 at Amazon**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB07S98YLHM%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-8422113522705017010-20) **(was $22)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Today’s best deals in detail
 
@@ -64,19 +68,25 @@ See more Real Deals below.
 [View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB07S98YLHM%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-8780951100740110730-20)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Looking for more deals?
 
 Category
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/chevron-left.svg "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Back to Hubs & Switches
 
 Brand
@@ -84,8 +94,9 @@ Brand
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Intel
 
  Netgear
@@ -96,9 +107,6 @@ Colour
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
  Black
 
  Copper
@@ -115,9 +123,6 @@ Price
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 Any Price
 
  Showing 10 of 52 deals
@@ -126,18 +131,6 @@ Any Price
 
 SORT BY Price (low to high)  Price (high to low) Product Name (A to Z)  Product Name (Z to A)  Retailer name (A to Z)  Retailer name (Z to A) ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Netgear GS305E](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07PJ7XZ7X%2Fref%3Dasc%5Fdf%5FB07PJ7XZ7X1723888800000%3Ftag%3Dhawk-future-20%26creative%3D395261%26creativeASIN%3DB07PJ7XZ7X%26linkCode%3Dasn%26ascsubtag%3Dtomshardware-us-1310836781021125979-20)
 
 1
@@ -296,8 +289,6 @@ Our Review
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -305,4 +296,26 @@ Our Review
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-pedagogic-pros-the-finest-lecture-recording-devices-for-instructors/"><u>[New] 2024 Approved Pedagogic Pros The Finest Lecture Recording Devices for Instructors</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/a-reference-population-with-known-phenotypes-and-genotypes-is-essential-for-genomic-prediction-models/"><u>A Reference Population with Known Phenotypes and Genotypes Is Essential for Genomic Prediction Models.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/access-top-hd-karaoke-song-videos-at-no-cost-from-youtube-downloads/"><u>Access Top HD Karaoke Song Videos at No Cost From YouTube Downloads</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-amazonbasics-micro-cut-shredder-12-sheets-reviews-and-ratings/"><u>Comprehensive AmazonBasics Micro-Cut Shredder (12 Sheets) Reviews & Ratings</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-guide-fresh-windows-graphics-driver-installation-steps/"><u>Comprehensive Guide: Fresh Windows Graphics Driver Installation Steps</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/correct-yt-monetization-checklist-maximize-your-earnings-for-2024/"><u>Correct YT Monetization Checklist – Maximize Your Earnings for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-guide-updating-your-logitech-g502-gamepad-mouse-drivers/"><u>Easy Guide: Updating Your Logitech G502 GamePad Mouse Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-tutorial-installing-the-latest-ati-driver-for-windows-systems/"><u>Easy Tutorial: Installing the Latest ATI Driver for Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-improved-compatibility-the-new-brother-hl-2240-driver-for-windows-devices/"><u>Experience Improved Compatibility - The New Brother HL-2240 Driver for Windows Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ideal-display-options-for-an-enhanced-experience-on-ps5-and-xbox-series-sx/"><u>Ideal Display Options for an Enhanced Experience on PS5 and Xbox Series S/X</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-samsung-galaxy-s23-fe-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Samsung Galaxy S23 FE to Another | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Honor X50i+? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-wireless-connections-solving-windows-cuo11-bluetooth-woes/"><u>Mastering Wireless Connections: Solving Windows Cuo11 Bluetooth Woes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/quick-fix-guide-to-the-silent-menace-of-fallout-4-on-personal-computers/"><u>Quick Fix Guide to the Silent Menace of Fallout 4 on Personal Computers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/scrutinizing-vidmas-latest-screen-recording-tech-for-2024/"><u>Scrutinizing Vidma’s Latest Screen Recording Tech for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-downloading-and-installing-intel-usb-30-drivers-on-windows-11-systems/"><u>Step-by-Step Guide to Downloading and Installing Intel USB 3.0 Drivers on Windows 11 Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-setting-up-a-vpn-connection-on-windows-11-tips-and-tricks/"><u>Step-by-Step Guide: Setting Up a VPN Connection on Windows 11 – Tips and Tricks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-instructions-on-downloading-and-installing-your-essential-easycap-drivers-today/"><u>Step-by-Step Instructions on Downloading and Installing Your Essential EasyCap Drivers Today!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-computer-components-with-toms-hardware-experts/"><u>Unveiling Computer Components with Tom's Hardware Experts</u></a></li>
+</ul></div>
 

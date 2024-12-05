@@ -1,7 +1,7 @@
 ---
 title: Will MSI’s Steam Deck Challenge Established Players in the Battle for Handheld Gaming Supremacy? [ZDNet]
-date: 2024-11-21T16:52:53.226Z
-updated: 2024-11-25T16:53:28.940Z
+date: 2024-12-04T00:22:23.841Z
+updated: 2024-12-04T18:07:23.387Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ If you're shopping for a great deal on tech for this holiday season, ZDNET is tr
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Dell holiday deals
@@ -35,10 +35,6 @@ If you're shopping for a great deal on tech for this holiday season, ZDNET is tr
 * [Dell 14-inch portable monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-Dual-Screen-Productivity-Switching-Connectivity%2Fdp%2FB0C8LM4ZZD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0046b43f-55f5-4ae8-9820-c0ec4a0269e4%7Cdtp&dtb=1) for $274 (save $91)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## More Dell holiday deals
 
@@ -97,6 +93,10 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6FJGWK9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0046b43f-55f5-4ae8-9820-c0ec4a0269e4%7Cdtp&dtb=1) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best Dell laptop holiday deals
 
 * [Dell G15 gaming laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-G15-5535-Gaming-Laptop%2Fdp%2FB0CJGBMD42%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0046b43f-55f5-4ae8-9820-c0ec4a0269e4%7Cdtp&dtb=1): $1,000 (save $150)
@@ -104,6 +104,10 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell Inspiron 5635](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-Inspiron-5000-5635-Laptop%2Fdp%2FB09BW611ZP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0046b43f-55f5-4ae8-9820-c0ec4a0269e4%7Cdtp&dtb=1): $836 (save $163)
 * [Dell Inspiron 16 Plus](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Flinks%2F9041660%2Ftype%2Fdlg%2Fsid%2Fzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%2Fhttps%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-laptops%2Finspiron-16-plus-laptop%2Fspd%2Finspiron-16-7630-laptop%2Fusichbts7630gbkt): $1,100 (save $350)
 * [Dell XPS 13 9310 13.4-inch touch laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-XPS-9310-Laptop-Touchscreen%2Fdp%2FB09PR52BHK%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0046b43f-55f5-4ae8-9820-c0ec4a0269e4%7Cdtp&dtb=1) for $1,071 (save $429)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best Dell desktop holiday deals
 
@@ -115,7 +119,7 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell OptiPlex 3000 Desktop](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fdell-optiplex-3000-student-home-office%252Fp%252F1VK-0001-6EUX9) for $1,200 (save $440)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Dell monitor holiday deals
@@ -125,7 +129,7 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell 27-inch 4K FreeSync monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-S2721QS-Ultra-Thin-DisplayPort-Certified%2Fdp%2FB08DQWG3JG%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0046b43f-55f5-4ae8-9820-c0ec4a0269e4%7Cdtp&dtb=1) for $297 (save $33)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we choose these holiday deals?
@@ -133,10 +137,6 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the best holiday deals?
 
@@ -210,22 +210,22 @@ Here are the top deals by category we've found so far:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-captivating-cinematic-experience-elevate-video-quality-with-filters-pc-and-mobile-for-2024/"><u>[New] Captivating Cinematic Experience Elevate Video Quality with Filters (PC & Mobile) for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-streamlining-workflow-fixes-for-adobe-premiere-srt-freeze/"><u>[Updated] Streamlining Workflow Fixes for Adobe Premiere SRT Freeze</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-maximize-your-streams-impact-our-recommendations-for-best-9-filters/"><u>2024 Approved Maximize Your Stream's Impact Our Recommendations for Best 9 Filters</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-srt-innovation-how-technology-shapes-industry-standards/"><u>2024 Approved SRT Innovation How Technology Shapes Industry Standards</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/aws-gravitn4-cpu-benchmark-review-superior-speeds-vs-amd-intel-chips-at-a-lower-price-point/"><u>AWS Gravitn4 CPU Benchmark Review: Superior Speeds Vs. AMD, Intel Chips at a Lower Price Point</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/complete-guide-to-fixing-controller-connection-errors-on-pc-running-win-7-8-or-10/"><u>Complete Guide to Fixing Controller Connection Errors on PC Running Win 7, 8 or 10</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-ricoh-printer-drivers-on-windows-computers/"><u>Download & Install Ricoh Printer Drivers on Windows Computers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/expert-tips-easy-windows-7-webcam-driver-installation-and-setup/"><u>Expert Tips: Easy Windows 7 Webcam Driver Installation and Setup.</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-effectively-send-hardcopies-directly-to-your-computer-screen-a-guide/"><u>How to Effectively Send Hardcopies Directly to Your Computer Screen: A Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-deskjet-2755e-drivers-free-downloads-compatible-with-windows-operating-system/"><u>HP Deskjet 2755E Drivers: Free Downloads Compatible with Windows Operating System</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-on-your-iphone-13-mini-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID On Your iPhone 13 mini</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/installing-latest-drivers-for-your-brother-l2690dw-printer-how-to-guide-and-downloads/"><u>Installing Latest Drivers for Your Brother L2690dw Printer - How to Guide and Downloads</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-driver-downloads-for-the-amd-radeon-pro-w5700-compatible-with-win11win10win7/"><u>Latest Driver Downloads for the AMD Radeon Pro W5700 - Compatible with Win11/Win10/Win7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/master-your-tech-choices-in-depth-guides-by-toms-hardware-experts/"><u>Master Your Tech Choices - In-Depth Guides by Tom's Hardware Experts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionizing-browsing-ai-in-microsofts-bing/"><u>Revolutionizing Browsing: AI in Microsoft's Bing</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-unlock-efficient-video-editing-6-essential-adobe-premiere-pro-tips/"><u>Updated Unlock Efficient Video Editing 6 Essential Adobe Premiere Pro Tips</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/what-are-memes-and-how-do-they-spread-online/"><u>What Are Memes and How Do They Spread Online?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-the-independent-creators-playbook-earning-big-without-ads-on-youtube/"><u>[New] 2024 Approved The Independent Creator’s Playbook Earning Big Without Ads on YouTube</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-dissecting-digital-dynamics-comparative-channel-analysis/"><u>[Updated] Dissecting Digital Dynamics Comparative Channel Analysis</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-perfecting-your-audio-presence-in-video-creations/"><u>[Updated] In 2024, Perfecting Your Audio Presence in Video Creations</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-insert-audio-files-into-powerpoint-sequences-for-2024/"><u>[Updated] Insert Audio Files Into PowerPoint Sequences for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-innovations-boosting-scholarly-exploration/"><u>AI Innovations: Boosting Scholarly Exploration</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beyond-bing-and-chatgpt-when-is-gpt-5-due/"><u>Beyond Bing and ChatGPT: When Is GPT-5 Due?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-ai-help-you-survive-when-lost-in-nature/"><u>Can AI Help You Survive When Lost in Nature?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/overcoming-chatgpt-legal-hurdles-fresh-insights-into-google-news-redesign-and-enhancing-mobile-internet-access-abroad/"><u>Overcoming ChatGPT Legal Hurdles: Fresh Insights Into Google News Redesign & Enhancing Mobile Internet Access Abroad</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-selection-of-2024s-most-innovative-ereaders-on-the-market/"><u>The Ultimate Selection of 2024'S Most Innovative eReaders on the Market</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/tivo-television-sets-set-to-hit-american-markets-in-upcoming-spring-season/"><u>TiVO Television Sets Set to Hit American Markets in Upcoming Spring Season</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-camera-lighting-equipment-for-professional-photoshoots/"><u>Top Rated Camera Lighting Equipment for Professional Photoshoots</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-boomboxes-a-comprehensive-list/"><u>Top-Rated Boomboxes : A Comprehensive List</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-heat-conductive-pastes-a-buyers-guide/"><u>Top-Rated Heat Conductive Pastes : A Buyer's Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/transforming-e-waste-into-riches-the-story-of-a-uk-coin-producer/"><u>Transforming E-Waste Into Riches: The Story of a UK Coin Producer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-choosing-the-leading-bluetooth-converters-for-this-year/"><u>Ultimate Guide to Choosing the Leading Bluetooth Converters for This Year</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-picking-your-ideal-aio-gpucpu-cooling-solution/"><u>Ultimate Guide to Picking Your Ideal AIO GPU/CPU Cooling Solution</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/unveiling-the-best-10-online-background-variant-software-for-2024/"><u>Unveiling the Best 10 Online Background Variant Software for 2024</u></a></li>
 </ul></div>
 

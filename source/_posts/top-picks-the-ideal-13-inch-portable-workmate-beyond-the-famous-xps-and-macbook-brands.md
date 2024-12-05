@@ -1,7 +1,7 @@
 ---
 title: Top Picks - The Ideal 13-Inch Portable Workmate, Beyond the Famous XPS and MacBook Brands
-date: 2024-11-19T16:03:19.614Z
-updated: 2024-11-25T16:51:36.519Z
+date: 2024-12-01T04:29:06.159Z
+updated: 2024-12-04T22:30:02.568Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Ed Bott/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -83,7 +83,7 @@ Cesar Cadenas/ZDNET
 And for one of the best qualities of this laptop: battery life is absolutely phenomenal. I [performed our usual test](https://www.zdnet.com/article/how-we-test-laptops/) of running a YouTube livestream at 720p and 50% brightness. At its peak, the Surface Pro lasted just under 13 hours on a single charge. That's just shy of Microsoft's purported 14-hour battery life. In practical usage, this is a device that will easily last multiple days on a single charge. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -122,22 +122,18 @@ Prices for the device start at $999.99\. My review unit with the 12-core Snapdra
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-help.techidaily.com/download-acer-touchpad-driver-windows-10/"><u>[Download] Acer Touchpad Driver Windows 10</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-masterclass-choosing-the-top-fps-games/"><u>[New] Masterclass Choosing the Top FPS Games</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-building-brands-together-a-guide-to-selecting-youtube-teams-for-2024/"><u>[Updated] Building Brands Together A Guide to Selecting YouTube Teams for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/bokeh-beauty-tips-for-engaging-instagram-stories-for-2024/"><u>Bokeh Beauty Tips for Engaging Instagram Stories for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-lost-alerts-with-these-simple-iphone-tricks/"><u>Discover Lost Alerts with These Simple iPhone Tricks</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ensure-optimal-performance-update-your-sas-drives-on-windows-1187/"><u>Ensure Optimal Performance: Update Your SAS Drives on Windows 11/8/7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-msi-gs65-graphics-and-chipset-drivers-for-your-pc/"><u>Get the Newest MSI GS65 Graphics and Chipset Drivers for Your PC</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-motorola-g24-power-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Motorola G24 Power | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-install-or-renew-razer-naga-mice-drivers-on-windows-computers/"><u>How to Install or Renew Razer Naga Mice Drivers on Windows Computers</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-itel-p40plus-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Itel P40+ to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-logitech-gaming-speaker-t630-on-your-computer-windows-os-guide/"><u>Install Logitech Gaming Speaker T630 on Your Computer - Windows OS Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-realtek-rtl8188cu-wireless-lan-driver-optimized-for-windows-107-devices/"><u>Install Realtek RTL8188CU Wireless LAN Driver: Optimized for Windows 10/7 Devices</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/maximize-online-revenue-monetizing-on-youtube-with-500plus-viewers/"><u>Maximize Online Revenue Monetizing on Youtube with 500+ Viewers</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/top-cameras-for-capturing-sporting-moments-for-2024/"><u>Top Cameras for Capturing Sporting Moments for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-techniques-for-high-quality-screen-recording-and-audio-capture-on-windows-systems/"><u>Top Techniques for High-Quality Screen Recording and Audio Capture on Windows Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722967488495-ultimate-lenovo-thinkpad-driver-downloads-your-assured-source-for-updates-and-safety/"><u>Ultimate Lenovo ThinkPad Driver Downloads – Your Assured Source for Updates & Safety.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unlocking-the-details-of-intels-prolonged-assurance-plan-for-their-new-core-series-i5-i7-i9-generations-13-to-14/"><u>Unlocking the Details of Intel's Prolonged Assurance Plan for Their New Core Series (I5, I7, I9) - Generations 13 to 14</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-globally-renowned-earning-content-creator/"><u>[New] In 2024, Globally Renowned Earning Content Creator</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-realtime-av-enthusiasts-community/"><u>[New] RealTime AV Enthusiasts Community</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-ultimate-guide-to-app-reviews-by-az-capture/"><u>[New] Ultimate Guide to App Reviews by AZ Capture</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-infographic-insight-whats-hot-on-23-social-sphere/"><u>[Updated] In 2024, Infographic Insight What's Hot on '23 Social Sphere</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-pixelation-portraiture-sketching-a-playful-virtual-emblem/"><u>[Updated] In 2024, Pixelation Portraiture Sketching a Playful Virtual Emblem</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/4-things-you-must-know-about-iphone-6s-activation-lock-by-drfone-ios/"><u>4 Things You Must Know About iPhone 6s Activation Lock</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/5-2500u-quick-driver-installation-process/"><u>5 2500U | Quick Driver Installation Process</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722953982951-arduino-mastery-secure-your-mega-2560-drivers-in-a-flash/"><u>Arduino Mastery: Secure Your Mega 2560 Drivers in a Flash!</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-a-lost-apple-iphone-xs-for-free-drfone-by-drfone-virtual-ios/"><u>How to Track a Lost Apple iPhone XS for Free? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-your-iphone-12-pro-max-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>How to Unlock Your iPhone 12 Pro Max Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-canon-ip110-drivers-for-seamless-printing-on-windows-systems-win11win10win8win7-supported/"><u>Install Canon iP110 Drivers for Seamless Printing on Windows Systems - Win11/Win10/Win8/Win7 Supported</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/next-generation-kirin-chip-to-embrace-apple-m-series-and-intel-core-microarchitecture-strategies/"><u>Next-Generation Kirin Chip to Embrace Apple M-Series & Intel Core Microarchitecture Strategies</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-universal-acceptance-that-human-rights-are-fundamental-to-all-societies/"><u>The Universal Acceptance that Human Rights Are Fundamental to All Societies.</u></a></li>
 </ul></div>
 

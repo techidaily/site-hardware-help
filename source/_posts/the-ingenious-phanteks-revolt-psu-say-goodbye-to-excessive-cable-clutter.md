@@ -1,7 +1,7 @@
 ---
 title: The Ingenious Phanteks Revolt PSU - Say Goodbye to Excessive Cable Clutter!
-date: 2024-08-19T10:19:35.427Z
-updated: 2024-08-20T10:19:35.427Z
+date: 2024-12-01T21:08:35.505Z
+updated: 2024-12-05T05:23:59.904Z
 tags:
   - power-supply
 categories:
@@ -20,6 +20,10 @@ Today's deals focus on the container for your favorite PC parts. If you're looki
  If you're already into streaming or perhaps a content producer using an application like Adobe Premier, you have probably already come across many recommendations from people using the Elgato Stream Deck. It's a form of controller that offers fully customizable buttons with an LCD display. You can set up your Stream Deck to have instant access to your favorite shortcuts or use it to seamlessly transition between scenes while streaming on sites like YouTube or Twitch. The[Elgato Stream Deck is currently available for $ 99](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fgp%2Fproduct%2FB06XKNZT1P%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-5998878507752729114-20) on[Amazon](https://tools.techidaily.com) .
 
 See more of Friday's Real Deals below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## TL;DR — Today’s Best Deals
 
@@ -73,13 +77,15 @@ Category
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/chevron-left.svg "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Back to Everything
 
 Brand
@@ -87,8 +93,9 @@ Brand
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Elgato
 
  GIGABYTE
@@ -101,9 +108,6 @@ Colour
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
  Black
 
  White
@@ -112,9 +116,6 @@ Price
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Any Price
 
  Showing 10 of 40 deals
@@ -124,8 +125,9 @@ Any Price
 SORT BY Price (low to high)  Price (high to low) Product Name (A to Z)  Product Name (Z to A)  Retailer name (A to Z)  Retailer name (Z to A) ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [GIGABYTE B650M AORUS Elite AX](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F5057986138&subId1=techidaily-us-5322157473801276840&sharedId=techidaily-us)
 
 1
@@ -284,8 +286,6 @@ Our Review
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -293,4 +293,21 @@ Our Review
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-enhancing-social-engagement-with-zoom-fb-live-streams/"><u>[New] 2024 Approved Enhancing Social Engagement with Zoom-FB Live Streams</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-elevate-your-photo-treasury-in-the-cloud-free-and-paid-storage-for-everyone/"><u>[Updated] Elevate Your Photo Treasury in the Cloud Free & Paid Storage for Everyone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/202-student/"><u>未来的盒子: 202 # Student</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/canon-pixma-mp240-printer-drivers-for-win1187-free-download-links/"><u>Canon Pixma MP240 Printer Drivers for Win11/8/7 - Free Download Links</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/furious-intel-consumer-battles-with-rma-policy-questions-legitimacy-of-recent-core-i9-14900k-purchases/"><u>Furious Intel Consumer Battles with RMA Policy - Questions Legitimacy of Recent Core I9-14900K Purchases</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-4-things-you-must-know-about-apple-iphone-15-plus-activation-lock-by-drfone-ios/"><u>In 2024, 4 Things You Must Know About Apple iPhone 15 Plus Activation Lock</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Oppo Find X7 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/limitless-design-gratuitous-premiere-pro-templates/"><u>Limitless Design Gratuitous Premiere Pro Templates</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-dandd-fun-with-gpt-assisted-strategy/"><u>Maximizing D&D Fun with GPT-Assisted Strategy</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-guide-to-updating-your-intel-dual-band-wireless-ac-31003160-chip-drivers-released/"><u>Quick Guide to Updating Your Intel Dual Band Wireless AC 3100/3160 Chip - Drivers Released!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/razer-naga-mouse-driver-downloads-find-and-update-your-windows-software-today/"><u>Razer Naga Mouse Driver Downloads: Find and Update Your Windows Software Today!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722963938922-spark-advance-the-ignition-must-occur-before-tdc-to-ensure-peak-pressure-occurs-as-the-piston-starts-its-downward-stroke-for-maximum-leverage-power/"><u>Spark Advance: The Ignition Must Occur Before TDC to Ensure Peak Pressure Occurs as the Piston Starts Its Downward Stroke for Maximum Leverage (Power)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-notch-laptop-bargains-in-july-2024-find-your-perfect-match-on-zdnet/"><u>Top Notch Laptop Bargains in July 2024: Find Your Perfect Match on ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/zen-5s-initial-ryzen-9000-die-casualties-revealed-a-closer-look-at-the-damaged-dice-and-residual-solder/"><u>Zen 5'S Initial Ryzen 9000 Die Casualties Revealed: A Closer Look at the Damaged Dice & Residual Solder</u></a></li>
+</ul></div>
 

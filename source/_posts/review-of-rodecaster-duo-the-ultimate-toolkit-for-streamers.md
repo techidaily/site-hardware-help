@@ -1,7 +1,7 @@
 ---
 title: "Review of Rodecaster Duo: The Ultimate Toolkit for Streamers"
-date: 2024-08-19T10:18:07.895Z
-updated: 2024-08-20T10:18:07.895Z
+date: 2024-12-03T06:23:36.129Z
+updated: 2024-12-05T01:53:07.104Z
 tags:
   - peripherals
 categories:
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/e310ec62b9e76066416bdd2ef743a630e77fd957f
 
  The Retro 18 is the perfect companion to the 8BitDo Retro Mechanical Keyboards, with their available colorways and aesthetics matching each other. So, if you’re after a retro build, these are the perfect peripherals for your desk. You can also pair it with[the Lofree Retro Mouse](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FLOFREE-Bluetooth-Connection-Rechargeable-Compatible%2Fdp%2FB0CT9VX5ZM%2F%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1163565040540890099-20) to complete the look, as 8BitDo is yet to release a companion mouse for its retro accessories.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,8 +45,6 @@ thumbnail: https://thmb.techidaily.com/e310ec62b9e76066416bdd2ef743a630e77fd957f
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -50,8 +52,26 @@ thumbnail: https://thmb.techidaily.com/e310ec62b9e76066416bdd2ef743a630e77fd957f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-elevate-video-conferencing-skills-google-meet-aesthetics-guide/"><u>[New] 2024 Approved Elevate Video Conferencing Skills Google Meet Aesthetics Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-top-20-must-have-tools-and-effects-for-your-tiktok-edits/"><u>[Updated] In 2024, Top 20 Must-Have Tools & Effects for Your TikTok Edits</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amazons-spring-deals-score-a-200-discount-on-apples-new-m3-macbook-pro-insights-from-zdnet/"><u>Amazon's Spring Deals: Score a $200 Discount on Apple's New M3 MacBook Pro - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/blowout-offer-grab-the-apple-m2-macbook-air-for-only-749-on-amazons-october-prime-day-insider-tips/"><u>Blowout Offer: Grab the Apple M2 MacBook Air for Only $749 on Amazon's October Prime Day Insider Tips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discovering-the-premier-dual-purpose-device-that-boosts-productivity-the-offices-secret-weapon/"><u>Discovering the Premier Dual-Purpose Device That Boosts Productivity: The Office's Secret Weapon!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/excel-trick-playbook-how-to-display-or-fully-obscure-formulas-within-cells-for-excel-2013/"><u>Excel Trick Playbook: How to Display or Fully Obscure Formulas Within Cells for Excel 2013</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Honor X50i+? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-accelerating-or-slowing-down-your-storys-timeline-on-insta/"><u>In 2024, Accelerating or Slowing Down Your Story's Timeline on Insta</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/instantaneous-inspector-of-images-on-windows/"><u>Instantaneous Inspector of Images on Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/next-gen-innovation-awaits-discover-samsungs-new-galaxy-z-fold-6-cost-and-release-insights-revealed/"><u>Next-Gen Innovation Awaits: Discover Samsung's New Galaxy Z Fold 6 – Cost and Release Insights Revealed!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/save-big-with-our-top-rated-windows-laptops-beating-macbook-air-prices-in-sale-now/"><u>Save Big with Our Top-Rated Windows Laptops, Beating MacBook Air Prices in Sale Now</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/smartest-miniature-tablets-for-2eby-2024-detailed-evaluations-and-rankings-on-zdnet/"><u>Smartest Miniature Tablets for 2Eby 2024: Detailed Evaluations and Rankings on ZDNET</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-xiaomi-redmi-k70e-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Xiaomi Redmi K70E to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-7-standing-desks-of-2023-comprehensive-review-by-zdnet/"><u>Top 7 Standing Desks of 2023: Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-july-2024-laptop-offers-exclusive-savings/"><u>Top July 2024 Laptop Offers: Exclusive Savings</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-pick-metas-exclusive-oct-prime-day-offer-on-the-high-cap-512gb-oculus-quest-3-dont-miss-out/"><u>Top Pick: Meta's Exclusive Oct. Prime Day Offer on the High-CAP 512GB Oculus Quest 3 – Don't Miss Out!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-ranked-work-laptop-uncovered-beyond-the-lenovo-and-macbook-realm-exclusive-insights/"><u>Top-Ranked Work Laptop Uncovered: Beyond the Lenovo and MacBook Realm - Exclusive Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrade-to-a-powerhouse-the-best-299-windows-laptop-for-smart-savers-zdnet/"><u>Upgrade to a Powerhouse: The Best $299 Windows Laptop for Smart Savers | ZDNET</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-update-failure-overcome-error-8007000e-with-ease-and-speed/"><u>Windows Update Failure? Overcome Error 8007000E with Ease and Speed!</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->

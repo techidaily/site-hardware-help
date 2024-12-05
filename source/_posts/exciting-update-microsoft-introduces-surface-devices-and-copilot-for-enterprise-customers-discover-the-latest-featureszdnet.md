@@ -1,7 +1,7 @@
 ---
 title: "Exciting Update: Microsoft Introduces Surface Devices & Copilot for Enterprise Customers - Discover the Latest Features![ZDNet]"
-date: 2024-11-18T16:11:49.899Z
-updated: 2024-11-25T16:52:52.693Z
+date: 2024-12-01T02:38:02.142Z
+updated: 2024-12-04T17:39:08.132Z
 tags:
   - laptops
 categories:
@@ -33,7 +33,7 @@ You'll hear and see more about these branded laptops over the coming weeks, mont
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. More seamless on-device AI features
@@ -51,7 +51,7 @@ Having a dedicated Copilot key certainly adds to this burdenless experience. As 
 Perhaps the most important aspect of these new Copilot+ AI features is that they operate [on-device](https://www.zdnet.com/article/5-top-mobile-trends-in-2024-on-device-ai-the-new-smartphone-and-more/#:~:text=to%20take%20shape.-,1.%20On%2Ddevice%20AI%20puts%20the%20%27smart%27%20in%20smartphone,-The%20new%20Samsung) \-- based on local data, providing more private, secure, and faster processing capabilities. To everyday users, this may not be as significant. If, however, keeping your personal data protected (and away from any [remote cloud servers](https://www.zdnet.com/article/ai-is-changing-cybersecurity-and-businesses-must-wake-up-to-the-threat/)) is a priority, you'll feel a little better using the AI features on these new Copilot+ PCs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Windows Hello feels faster than ever
@@ -67,7 +67,7 @@ Comparing my M3 MacBook Air with the Surface Laptop is not exactly an apples-to-
 The best part is that Windows Hello automatically triggers when I lift the laptop lid open, and it's able to scan my face even in dimmer environments thanks to the IR camera.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Touchscreen support
@@ -83,7 +83,7 @@ For example, the new Cocreator tool in Paint requires you to both write a prompt
 While I've always found touchscreen functionality to be more beneficial on larger screens, using the smaller [13.8-inch Surface Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Touchscreen-Snapdragon-Sapphire%2Fdp%2FB0CXKYTQS2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cdce94952-9462-4f8b-a8a9-5180b078bf69%7Cdtp&dtb=1) feels more like a 2-in-1 tablet. When my typing space is confined, like on a bus, plane, or crowded café, being able to simply reach over and tap, swipe, and drag elements on the screen is very helpful and intuitive. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bonus: Benchmarks (for now)
@@ -125,18 +125,22 @@ For the following benchmark tests, the higher the score, the better.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-maximizing-action-footage-with-gopro-a-comparison-between-max-360-and-hero-11/"><u>[New] In 2024, Maximizing Action Footage with GoPro A Comparison Between Max 360 and Hero 11</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-crafting-compelling-combinations-a-guide-to-creating-your-own-youtube-playlists/"><u>[Updated] 2024 Approved Crafting Compelling Combinations A Guide to Creating Your Own YouTube Playlists</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-a-filmmakers-handbook-mastering-close-up-videography/"><u>2024 Approved A Filmmaker's Handbook Mastering Close-Up Videography</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amd-unveils-the-new-ryzen-ai-9-hx-375-the-succeeding-sibling-to-the-amd-strix-point-ryzen-processors/"><u>AMD Unveils the New Ryzen AI 9 HX 375: The Succeeding Sibling to the AMD Strix Point Ryzen Processors</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/direct-links-to-epson-ds-530-driver-downloads-optimize-your-windows-10-x64-experience/"><u>Direct Links to Epson DS-530 Driver Downloads: Optimize Your Windows 10 (X64) Experience</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-webcam-driver-downloads-and-setup-for-windows-7-systems/"><u>Effortless Webcam Driver Downloads & Setup for Windows 7 Systems</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhancing-academic-studies-with-intelligent-technology-a-five-point-breakdown/"><u>Enhancing Academic Studies with Intelligent Technology: A Five-Point Breakdown</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/fix-hp-officejet-pro-6978-driver-issues/"><u>Fix: HP OfficeJet Pro 6978 Driver Issues</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-get-the-newest-epson-wf-3620-printer-drivers-for-your-windows-pc-10-8-or-7/"><u>How to Get the Newest Epson WF-3620 Printer Drivers for Your Windows PC - 10, 8 or 7</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-titans-of-social-networking-a-look-at-facebook-twitter-instagram-and-youtube/"><u>Navigating the Titans of Social Networking: A Look at Facebook, Twitter, Instagram and YouTube</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ess-upload-routine-from-imovie-to-youtube-video-sharing-for-2024/"><u>Seamless Upload Routine From iMovie to YouTube Video Sharing for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-for-obtaining-the-epson-et-2750-printer-driver-for-windows-users/"><u>Step-by-Step Tutorial for Obtaining the Epson ET-2750 Printer Driver for Windows Users</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-make-movies-for-free-top-online-video-makers-for-2024/"><u>Updated Make Movies for Free Top Online Video Makers for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-love-in-action-top-9-premium-wedding-films-on-youtube-and-vimeo/"><u>[New] Love in Action Top 9 Premium Wedding Films on YouTube and Vimeo</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-seamless-integration-of-obs-studio-with-android-tech/"><u>[New] Seamless Integration of OBS Studio with Android Tech</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-seamless-change-of-screen-capture-types-on-macos-for-2024/"><u>[Updated] Seamless Change of Screen Capture Types on MacOS for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-acquire-excellent-images-at-no-cost-essential-strategies/"><u>2024 Approved Acquire Excellent Images at No Cost Essential Strategies</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-poco-m6-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Poco M6 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-top-tech-insights-visit-our-comprehensive-reviews-and-guides/"><u>Discover Top Tech Insights - Visit Our Comprehensive Reviews & Guides</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/filmography-foundation-answer-hub/"><u>Filmography Foundation Answer Hub</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-hp-deskjet-2700-printer-software-and-driver-updates-now/"><u>Get the Newest HP Deskjet 2700 Printer Software & Driver Updates Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-secure-logitech-m525-drivers-and-software-complete-download-guide/"><u>How to Secure Logitech M525 Drivers & Software: Complete Download Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-dell-g15-driver-software-for-windows-free-download-guide/"><u>Latest Dell G15 Driver Software for Windows: Free Download Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/new-leaks-suggest-intels-stability-issues-persist-beyond-power-fluctuations-uncovered-internal-documents/"><u>New Leaks Suggest Intel’s Stability Issues Persist Beyond Power Fluctuations - Uncovered Internal Documents</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/newegg-introduces-affordable-cpu-buyback-scheme-only-300-for-intels-i9-14900k-and-220-for-amds-ryzen-7-7800x3d/"><u>Newegg Introduces Affordable CPU Buyback Scheme: Only $300 For Intel's I9-14900K and $220 For AMD's Ryzen 7 7800X3D</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-smart-8-pro-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Smart 8 Pro.</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-realme-12-proplus-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Realme 12 Pro+ 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-ultimate-method-for-facetime-screen-record/"><u>The Ultimate Method for FaceTime Screen Record</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-brother-mfc-l2690dw-printer-firmware-free-downloads-available/"><u>Update Your Brother MFC-L2690DW Printer Firmware – Free Downloads Available!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrade-your-logitech-g510-experience-free-driver-downloads-for-windows-operating-systems-7-8-and-10/"><u>Upgrade Your Logitech G510 Experience: Free Driver Downloads for Windows Operating Systems 7, 8 & 10</u></a></li>
 </ul></div>
 

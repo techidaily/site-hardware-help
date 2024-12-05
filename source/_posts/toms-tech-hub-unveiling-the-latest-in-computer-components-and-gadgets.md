@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Hub: Unveiling the Latest in Computer Components and Gadgets"
-date: 2024-08-19T10:19:32.263Z
-updated: 2024-08-20T10:19:32.263Z
+date: 2024-11-29T22:43:32.726Z
+updated: 2024-12-04T19:29:38.672Z
 tags:
   - power-supply
 categories:
@@ -28,6 +28,10 @@ See more of Friday's Real Deals below.
 * **Elgato Stream Deck:** [**now $99 at Amazon**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fgp%2Fproduct%2FB06XKNZT1P%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1065223293966699533-20) **(was $149)**
 * **ASUS ROG Thor 1000W PSU:** [**now $194 at Amazon**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB09SGQ9PPC%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1088334992790324728-20) **(was $359)**
 * **Gigabyte B650M Aorus Elite AX:** [**now $189 at Newegg**](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-6379358999680672387%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fgigabyte-b650m-aorus-elite-ax%252Fp%252FN82E16813145413) **with rebate (was $199)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Today’s best deals in detail
 
@@ -66,10 +70,6 @@ See more of Friday's Real Deals below.
 
 [View Deal](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-2513991122203814191%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fgigabyte-b650m-aorus-elite-ax%252Fp%252FN82E16813145413)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Looking for more deals?
 
 Category
@@ -77,13 +77,11 @@ Category
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/chevron-left.svg "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Back to Everything
 
 Brand
@@ -91,8 +89,9 @@ Brand
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Elgato
 
  GIGABYTE
@@ -106,8 +105,9 @@ Colour
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Black
 
  White
@@ -125,8 +125,9 @@ Any Price
 SORT BY Price (low to high)  Price (high to low) Product Name (A to Z)  Product Name (Z to A)  Retailer name (A to Z)  Retailer name (Z to A) ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [GIGABYTE B650M AORUS Elite AX](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F5057986138&subId1=techidaily-us-5322157473801276840&sharedId=techidaily-us)
 
 1
@@ -285,8 +286,6 @@ Our Review
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -294,4 +293,18 @@ Our Review
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-tutorial-transferring-youtube-videos-to-social-media-facebook-edition/"><u>[New] Tutorial Transferring YouTube Videos to Social Media - Facebook Edition</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-the-ultimate-guide-to-slowing-youtube-videos-37-chars/"><u>[Updated] In 2024, The Ultimate Guide to Slowing YouTube Videos (37 Chars)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-microsoft-bluetooth-drivers-for-windows-compatible-with-win10-win11-win8-and-win7/"><u>Get the Latest Microsoft Bluetooth Drivers for Windows - Compatible with Win10, Win11, Win8, and Win7</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hd-audio-compatibility-restored-by-windows-patch/"><u>HD Audio Compatibility Restored by Windows Patch</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-from-free-to-paid-subscriber-count-surpasses-500/"><u>In 2024, From Free to Paid Subscriber Count Surpasses 500</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-poco-x6-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Poco X6 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/inside-toms-gear-room-exploring-advanced-hardware-solutions/"><u>Inside Tom's Gear Room: Exploring Advanced Hardware Solutions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-pc-builds-with-insights-from-toms-hardware-authority/"><u>Mastering PC Builds with Insights From Tom's Hardware Authority</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722973569471-simplify-your-printing-experience-with-updated-drivers-for-brother-mfc-7360n-on-windows/"><u>Simplify Your Printing Experience with Updated Drivers for Brother MFC-7360N on Windows!</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/stardews-ultimate-customization-guide-the-top-7-mods-listed/"><u>Stardew's Ultimate Customization Guide The Top 7 Mods Listed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722965562607-whats-new-with-logitech-extreme-3d-unveiling-the-recent-update-details/"><u>What's New with Logitech Extreme 3D: Unveiling the Recent Update Details</u></a></li>
+</ul></div>
 

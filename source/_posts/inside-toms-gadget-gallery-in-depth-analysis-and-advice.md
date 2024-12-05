@@ -1,7 +1,7 @@
 ---
 title: "Inside Tom's Gadget Gallery: In-Depth Analysis and Advice"
-date: 2024-08-19T10:17:20.101Z
-updated: 2024-08-20T10:17:20.101Z
+date: 2024-11-29T04:09:03.065Z
+updated: 2024-12-04T19:15:05.211Z
 tags:
   - ram
 categories:
@@ -25,9 +25,17 @@ TeamGroup has introduced its T-Create Expert AI series LPDDR5X CAMM2 memory modu
 
  CAMM2 memory modules are[primarily made](https://tools.techidaily.com) to replace the SO-DIMM form factor for[notebooks](https://tools.techidaily.com) , though we can't rule out them being adopted by other PC form factors. Lenovo is the first notebook maker ready for CAMM2 modules with its[ThinkPad P1 Gen 7](https://tools.techidaily.com) . With Computex 2024 just days away, we should see a plethora of upcoming notebooks using this standard.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Adoption on other computing form factors
 
  Apart from its size advantage, its ability to provide 1.3x more bandwidth compared to standard DDR5 modules at JEDEC speeds, and lowered power consumption, could make CAMM2 an excellent addition to desktops, mini PCs, and maybe handheld devices. This is the case with[MSI and Kingston](https://tools.techidaily.com) , who showed off Fury Impact DDR5 CAMM2 modules on the[MSI](https://tools.techidaily.com) Z790 Project Zero Plus motherboard - a BTF board that[hides its connectors and certain components](https://tools.techidaily.com) on the reverse side of the PCB. There will likely be many other memory makers showing CAMM2 modules, possibly also from Crucial who is the first to introduce[DDR5-based CAMM2 memory in the market](https://tools.techidaily.com) , followed by[Samsung](https://tools.techidaily.com) Electronics whose executive vice president of memory product planning said this form factor is set to gain wide adoption in PCs, laptops and data centers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
@@ -45,8 +53,6 @@ TeamGroup has introduced its T-Create Expert AI series LPDDR5X CAMM2 memory modu
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -54,8 +60,22 @@ TeamGroup has introduced its T-Create Expert AI series LPDDR5X CAMM2 memory modu
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-leading-tag-tracker-software-on-major-platforms-like-fb-tweet-and-insta/"><u>2024 Approved Leading Tag Tracker Software on Major Platforms Like FB, Tweet & Insta</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/8-essential-free-ai-apps-for-email-crafting/"><u>8 Essential Free AI Apps for Email Crafting</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-motorola-moto-g-5g-2023-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Motorola Moto G 5G (2023)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/beyond-copycat-top-5-googles-new-ai-enhancements-for-chromebooks-unveiled/"><u>Beyond Copycat: Top 5 Google's New AI Enhancements for Chromebooks Unveiled</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/corsair-one-pro-review-a-creative-and-efficient-gaming-pc/"><u>Corsair One Pro Review: A Creative and Efficient Gaming PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/cyber-monday-tech-bargains-unlock-savings-on-premium-laptops-under-1k-with-costco-amazon-and-dell-your-guide-at-zdnet/"><u>Cyber Monday Tech Bargains: Unlock Savings on Premium Laptops Under $1K with Costco, Amazon & Dell - Your Guide at ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-the-new-features-in-samsunger-copilotplus-pc-with-cutting-edge-ai-spotlight/"><u>Exploring the New Features in Samsung'er Copilot+ PC with Cutting-Edge AI | Spotlight</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-your-gaming-collection-overcoming-egc-shortcomings/"><u>Fixing Your Gaming Collection: Overcoming EGC Shortcomings</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-infinix-note-30-5g-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Infinix Note 30 5G Phones? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/laptop-reviews-the-stunning-and-durable-device-that-surpassed-all-others-on-our-tests-exclusive-scoop-from-zdnet/"><u>Laptop Reviews: The Stunning and Durable Device That Surpassed All Others on Our Tests - Exclusive Scoop From ZDNet!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/massive-savings-alert-acer-chromebook-with-intel-pentium-n4040-at-staples-for-150-off/"><u>Massive Savings Alert! Acer Chromebook with Intel Pentium N4040 at Staples for $150 Off</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-prime-day-electronics-bargains-best-laptops-to-buy-before-black-friday-zdnet-guide/"><u>Top Prime Day Electronics Bargains: Best Laptops to Buy Before Black Friday - ZDNET Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-perfect-lenovo-machine-for-hybrid-professionals-save-big-with-our-suggested-1000-off-deal-featured-on-zdnet/"><u>Unveiling the Perfect Lenovo Machine for Hybrid Professionals: Save Big with Our Suggested $1,000 Off Deal – Featured on ZDNET</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1725288906404-wmvmp4/"><u>WMVファイルからMP4への自由許諾変換手順</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: The Most Impactful Tech Innovations of 2023 That Changed the Game Forever
-date: 2024-11-24T16:17:19.451Z
-updated: 2024-11-25T16:34:41.798Z
+date: 2024-11-29T16:22:56.671Z
+updated: 2024-12-05T09:12:51.951Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ Over the past 12 months, this relentless pursuit of technological innovation has
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. On-device AI will be a win for everyone
@@ -47,7 +47,7 @@ Running AI applications locally yields four major advantages: 1) All information
 "The idle power consumption of a single fully populated AI-accelerated server can approach one kilowatt of power while the peak power consumption can approach several kilowatts of power. This number multiplies by the number of servers required to run a generative AI model and the number of times a model is run, which is increasing exponentially," says Jim McGregor, Principal Analyst at [TIRIAS Research](https://www.tiriasresearch.com/). On-device AI solves this problem by keeping most, if not all, of the friction within our devices -- which will be plenty capable come next year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Generative AI for professional workflows
@@ -63,7 +63,7 @@ Some tools include [Wix's AI Site Generator](https://www.zdnet.com/article/this-
 Such workloads, especially as companies fine-tune these large language models, often require pushing the GPUs (graphics processing units) and RAM in computers and servers to the max, setting a precedent for an AI arms race between the world's largest semiconductor companies -- Intel, AMD, Nvidia, and Qualcomm included. Expect more "for AI" computers, chipsets, and fancy comparison charts in 2024.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Wireless TVs take cord-cutting to the extreme
@@ -81,7 +81,7 @@ Naturally, one of the big questions with wireless TVs is how latency factors int
 That said, wireless TVs are certainly not priced for the mainstream; the Displace TV lists for $4,499, and the LG OLED M will run you upwards of $35,000\. But for your closest look at a future without cords and cables dangling off walls, this may well be the best place to start.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. A Copilot for every PC user
@@ -97,7 +97,7 @@ The vision was straightforward; with a single click from the taskbar, more than 
 At the base level, Copilot on Windows 11 can save users dozens of clicks every day, now that the AI assistant can help navigate those sophisticated location paths to tweak display resolutions, set dark theme timers, and do other mundane tasks. For businesses and enterprises, Copilot will be capable of [tackling cybersecurity threats](https://www.zdnet.com/article/boosting-cybersecurity-microsofts-ai-driven-security-copilot-unveiled-at-ignite-2023/), from risk identification with machine learning algorithms to automated response mechanisms for near-instant defense.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Pinching the air will become normal
@@ -142,18 +142,17 @@ The big question with pinching is how multidimensional such a basic gesture can 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-learn-youtube-editing-tricks-for-flawless-shortening/"><u>[New] In 2024, Learn YouTube Editing Tricks for Flawless Shortening</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211239545-9781633413450-a-confluence-of-witches/"><u>A Confluence of Witches | Free Book</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/conversion-video-en-ligne-sans-frais-convertir-un-fichier-3g2-a-laide-du-service-gratuit-de-movavi-vers-le-format-mov/"><u>Conversion Vidéo en Ligne Sans Frais - Convertir Un Fichier 3G2 À L'aide Du Service Gratuit De Movavi Vers Le Format MOV</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-if-you-are-struggling-to-figure-out-which-online-video-trimmer-is-for-you-then-here-is-a-list-of-the-10-best-free-online-video-trimmers/"><u>New In 2024, If You Are Struggling to Figure Out Which Online Video Trimmer Is for You, Then Here Is a List of the 10 Best Free Online Video Trimmers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/professional-hacks-increase-frame-rate-on-escape-from-tarkov/"><u>Professional Hacks: Increase Frame Rate on 'Escape From Tarkov'</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Poco X5 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/seize-the-savings-antec-performance-series-p2nc-case-slashed-to-just-71-for-exceptional-value-and-ventilation/"><u>Seize the Savings! Antec Performance Series P2nC Case Slashed to Just $71 for Exceptional Value & Ventilation</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-definitive-technique-for-effective-web-pinging-explained/"><u>The Definitive Technique for Effective Web Pinging Explained</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-hub-comprehensive-guide-to-latest-computer-gear/"><u>Tom's Tech Hub: Comprehensive Guide to Latest Computer Gear</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-pc-build-transformations-at-computex-202nk-innovative-designs-from-alien-encounters-to-motorcycle-themes/"><u>Top PC Build Transformations at Computex 202Nk: Innovative Designs From Alien Encounters to Motorcycle Themes</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unbox-aesthetic-appeal-and-optimal-cooling-with-phanteks-xt-pro-ultra-pc-case-modern-tech-meets-rgb-illumination/"><u>Unbox Aesthetic Appeal & Optimal Cooling with Phanteks' XT Pro Ultra PC Case – Modern Tech Meets RGB Illumination</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-complete-side-visibility-in-xpgs-battlecruiser-ii-desktop-tower-chassis/"><u>Unveiling Complete Side Visibility in XPG’s Battlecruiser II Desktop Tower Chassis</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-every-piece-of-apples-ai-innovations-from-the-latest-wwdc/"><u>Unveiling Every Piece of Apple's AI Innovations From the Latest WWDC</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-64128gb-data-puzzle-solving-video-limits/"><u>[New] In 2024, 64/128GB Data Puzzle Solving Video Limits</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-the-simplest-route-to-podcast-broadcasts/"><u>[Updated] 2024 Approved The Simplest Route to Podcast Broadcasts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-simplified-guide-to-iphone-screen-adjustment/"><u>[Updated] Simplified Guide to iPhone Screen Adjustment</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/als-ice-bucket-challenge-free-downloadable-copy-for-offline-viewing/"><u>ALS Ice Bucket Challenge - Free Downloadable Copy for Offline Viewing</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-latest-epson-wf-2760-printer-drivers-compatible-with-windows-11-10-and-8/"><u>Download the Latest Epson WF-2760 Printer Drivers Compatible with Windows 11, 10 & 8</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-updated-geforce-drivers-enhance-your-experience-on-windows-1011-with-rtx-2080-supers/"><u>Download Updated GeForce Drivers: Enhance Your Experience on Windows 10/11 with RTX 2080 Supers!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-installation-your-guide-to-free-acer-wireless-networking-drivers/"><u>Effortless Installation: Your Guide to Free Acer Wireless Networking Drivers</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-xiaomi-redmi-note-12-pro-4g-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Xiaomi Redmi Note 12 Pro 4G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/modify-text-appearance-on-your-pc-learn-to-change-font-size-via-the-windows-settings-menu/"><u>Modify Text Appearance on Your PC: Learn to Change Font Size via the Windows Settings Menu</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/rework-your-world-with-chatgpt-from-chaos-to-calm-clarity-to-joy/"><u>Rework Your World with ChatGPT: From Chaos to Calm, Clarity to Joy</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/successful-installation-of-mbox-n2-driver-software-for-windows-pcs/"><u>Successful Installation of MBox N2 Driver Software for Windows PCs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/when-combined-with-other-technologies-such-as-turbocharging-and-variable-valve-actuation-di-contributes-significantly-to-modern-engine-performance-and-emiss204/"><u>When Combined with Other Technologies Such as Turbocharging and Variable Valve Actuation, DI Contributes Significantly to Modern Engine Performance and Emissions Standards Compliance.</u></a></li>
 </ul></div>
 

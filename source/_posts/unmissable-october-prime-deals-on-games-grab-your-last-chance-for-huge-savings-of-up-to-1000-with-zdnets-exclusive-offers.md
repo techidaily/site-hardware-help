@@ -1,7 +1,7 @@
 ---
 title: "Unmissable October Prime Deals on Games: Grab Your Last Chance for Huge Savings of up to $1,000 with ZDNET's Exclusive Offers!"
-date: 2024-11-21T16:04:56.826Z
-updated: 2024-11-25T16:50:10.966Z
+date: 2024-12-03T21:17:20.492Z
+updated: 2024-12-04T23:42:23.535Z
 tags:
   - laptops
 categories:
@@ -25,7 +25,7 @@ Major brands like HP, [Samsung](https://www.zdnet.com/article/best-early-prime-d
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Our favorite Amazon October Prime Day gaming deals still available
@@ -122,10 +122,6 @@ ZDNET
 * [Logitech G F710 wireless gamepad for $30 (save $20)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLogitech-Wireless-Nano-Receiver-Controller-Vibration%2Fdp%2FB0041RR0TW%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): A basic gamepad for PC gaming that uses 2.4GHz connectivity and dual-motor vibration so you can feel feedback for every in-game action like punches in fighting games or crashes in racing sims.
 * [AMD Ryzen 9 5900X for $215 (save $355)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAMD-Ryzen-5900X-24-Thread-Processor%2Fdp%2FB08164VTWH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): A high-end gaming CPU with 12 cores, 24 threads, and a maximum clock speed of 4.8GHz.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day PlayStation 5 deals still available
 
 ZDNET
@@ -140,10 +136,6 @@ ZDNET
 * [WD Black SN850X 4TB SSD for $310 (save $390)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FWD%5FBLACK-SN850X-Internal-Gaming-Solid%2Fdp%2FB0B7CQ2CHH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): Instantly add 4TB of storage to your PS5 console for large game downloads and save files.
 * [Metal Gear Solid: Master Collection Vol. 1 for $19 (save $21)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMetal-Gear-Solid-Collection-PlayStation-5%2Fdp%2FB0C93LL82B%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): Get all three of the original MGS games for the PS1 in a single collection.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day Xbox Series X|S deals still available
 
 * [Xbox Elite Series 2 Core wireless controller for $140 (save $40 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FElite-2-Controller-Black-Xbox-One%2Fdp%2FB07SFKTLZM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): A premium-grade wireless controller for the Xbox Series X|S. It also works with PC, Android, and iOS mobile devices.
@@ -155,6 +147,10 @@ ZDNET
 * [Corsair Virtuoso RGB Wireless XT wireless gaming headset for $168 (save $102 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCORSAIR-VIRTUOSO-WIRELESS-High-Fidelity-Bluetooth%2Fdp%2FB09BXZKNDB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): A high-end wireless gaming headset with Dolby Atmos support, iCUE RGB lighting control, and a broadcast-grade microphone.
 * [Razer Wolverine V2 Chroma for $60 (save $90)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRazer-Wolverine-Chroma-Gaming-Controller-x%2Fdp%2FB09CKFSRK7%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): A wired, pro-style controller for the Xbox Series X|S console featuring RGB lighting, programmable buttons, and an ergonomic design for marathon gaming.
 * [Starfield standard edition for $40 (save $30)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FStarfield-Standard-Xbox-X%2Fdp%2FB0C7PN2L5V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): Bethesda's latest action RPG has players exploring more than 1,000 planets to gather resources and allies.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## October Prime Day Nintendo deals still available
 
@@ -185,6 +181,10 @@ Kyle Kucharski/ZDNET
 * [MSI Aegis RS for $1,700 (save $400 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmsi-aegis-rs-gaming-desktop-intel-core-i7-14700f-32gb-memory-nvidia-geforce-rtx-4070-ti-super-2tb-ssd-black%2F6574690.p%3FskuId%3D6574690&publisher%5Fslug=zdnet&article%5Fname=best%20october%20prime%20day%202024%20gaming%20deals%20still%20available%3A%20last%20chance%20to%20save%20up%20to%20%241%2C000&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-10-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end gaming and content creation desktop with an Intel Core i7-14700F CPU, Nvidia RTX 4070 Ti Super GPU, 32GB of RAM, and a 2TB SSD.
 * [Lenovo Legion Tower 5i for $1,600 (save $400 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-legion-tower-5i-gaming-desktop-intel-core-i7-14700f-32gb-memory-nvidia-geforce-rtx-4070-super-1tb-ssd-storm-grey%2F6576778.p%3FskuId%3D6576778&publisher%5Fslug=zdnet&article%5Fname=best%20october%20prime%20day%202024%20gaming%20deals%20still%20available%3A%20last%20chance%20to%20save%20up%20to%20%241%2C000&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-10-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A mid-range gaming and content creation desktop with a 14th gen Intel Core i7 processor, 1TB SSD storage drive, 32GB of RAM, and an Nvidia RTX 4070 Super graphics card.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## October Prime Day gaming laptop deals still available
 
 Lenovo
@@ -211,7 +211,7 @@ Samsung/ZDNET
 * [HyperX QuadCast USB mic for $85 (save $55)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHyperX-QuadCast-Condenser-Microphone-Anti-Vibration%2Fdp%2FB07NZZZ746%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): This USB microphone has an integrated shock mount and is certified for use with Discord.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day graphics card deals still available
@@ -222,10 +222,6 @@ Samsung/ZDNET
 * [Gigabyte GeForce RTX 4070 Ti Super Windforce Max OC Edition for $770 (save $130 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FGIGABYTE-GeForce-RTX-4070-Ti-SUPER-WINDFORCE-MAX-OC-16G-Graphics-Card-3x-WINDFORCE-Fans-16GB-256-bit-GDDR6X-GV-N407TSWF3MAX-OC-16GD-Video-Card%2F6941118252&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end Nvidia RTX 40 Series graphics card with 16GB of VRAM, triple cooling fans, and dual BIOS controls.
 
 ## FAQs
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### When was Amazon Prime Day 2024?
 
@@ -238,6 +234,10 @@ Games, consoles, and accessories can and do go on sale during Prime Day, though 
 ### How did we choose these Prime Day deals?
 
 I only chose deals on games that have been critically and commercially well-received, as well as accessories and peripherals from well-known and reputable brands like Razer and Logitech. I also only included deals that offered at least a 15 percent discount.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the best October Prime Day 2024 deals?
 
@@ -304,22 +304,22 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-windows-11-game-recordings-the-ultimate-guide-to-successful-techniques/"><u>[Updated] In 2024, Windows 11 Game Recordings The Ultimate Guide to Successful Techniques</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1725289278095-2024-5/"><u>2024의 상위 5단계: 무료 비디오 녹화 소프트웨어</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/complete-downloads-for-behringer-speaker-systems-click-now/"><u>Complete Downloads for Behringer Speaker Systems - Click Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortlessly-update-your-pc-with-the-latest-intel-dual-band-ac-aster-driver-v7260/"><u>Effortlessly Update Your PC with the Latest Intel Dual Band AC Aster Driver V7260</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/elevating-your-ppt-experience-tips-for-gmeet-users-laptopstablets-for-2024/"><u>Elevating Your PPT Experience Tips for GMeet Users, Laptops/Tablets for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ensure-seamless-bluetooth-functionality-downloading-drivers-for-techkey-adapter-windows-compatible/"><u>Ensure Seamless Bluetooth Functionality: Downloading Drivers for Techkey Adapter - Windows Compatible</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/epson-l3150-printer-driver-download-and-updates-for-windows-11/"><u>Epson L3150 Printer Driver Download and Updates for Windows 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/expert-guide-overcoming-dell-optiplex-790-driver-conflicts-on-windows-systems/"><u>Expert Guide: Overcoming Dell OptiPlex 790 Driver Conflicts on Windows Systems</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-a-found-apple-iphone-12-pro-by-drfone-ios/"><u>How To Unlock A Found Apple iPhone 12 Pro?</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-streaming-software-spectacle-choosing-between-virusmix-and-castpro/"><u>In 2024, Streaming Software Spectacle Choosing Between VirusMix and CastPro</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-digitize-your-movie-library-converting-dvds-to-modern-file-formats/"><u>New In 2024, Digitize Your Movie Library Converting DVDs to Modern File Formats</u></a></li>
-<li><a href="https://network-issues.techidaily.com/plain-fix-advice-no-current-gfx-with-nvidia/"><u>Plain Fix Advice: No Current GFX with NVIDIA</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/resolved-access-enhanced-wi-fi-performance-with-latest-driver-packs/"><u>Resolved - Access Enhanced Wi-Fi Performance with Latest Driver Packs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-solutions-to-fix-xbox-controller-driver-problems-on-windows-versions-11-8-and-asterisk/"><u>Step-by-Step Solutions to Fix XBOX Controller Driver Problems on Windows Versions 11, 8 & Asterisk</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722960725291-sustainable-manufacturing-practices-and-environmental-impact-mitigation-measures/"><u>Sustainable Manufacturing Practices and Environmental Impact Mitigation Measures.</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-guide-to-premium-wireless-charging-devices-of-2024-features-and-reviews-tested-by-professionals-zdnet/"><u>Ultimate Guide to Premium Wireless Charging Devices of 2024 - Features and Reviews Tested by Professionals | ZDNet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/what-are-pope-franciss-preferred-methods-of-digital-correspondence/"><u>What Are Pope Francis's Preferred Methods of Digital Correspondence?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-diving-deep-into-the-world-of-professional-voice-overs-for-videos/"><u>[New] In 2024, Diving Deep Into the World of Professional Voice Overs for Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-from-standard-to-spectacular-the-transformative-power-of-high-dynamic-range/"><u>[New] In 2024, From Standard to Spectacular The Transformative Power of High Dynamic Range</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-bring-footage-together-ken-burns-technique-for-camtasa-users/"><u>[Updated] Bring Footage Together Ken Burns Technique for Camtasa Users</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-easy-ways-to-get-free-views-on-youtube-alternative-methods-for-2024/"><u>[Updated] Easy Ways To Get Free Views on YouTube! Alternative Methods for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-beginners-blueprint-for-dynamic-illustration/"><u>2024 Approved The Beginner's Blueprint for Dynamic Illustration</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amazon-canada-launches-ryzen-5-9600x-pre-order-evaluating-the-cost-effectiveness/"><u>Amazon Canada Launches Ryzen 5 9600X Pre-Order – Evaluating the Cost Effectiveness</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/best-free-convertor-from-dvd-to-mp3-for-windowsmac-top-5-programs-of-2024/"><u>Best Free Convertor From DVD to MP3 for WINDOWS/MAC: Top 5 Programs of 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-next-gen-hardware-secrets-on-toms-tech-insight-platform/"><u>Discover Next-Gen Hardware Secrets on Tom's Tech Insight Platform</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-mighty-ampere-one-aurora-the-new-512-core-custom-ai-dedicated-processor-with-hbm-memory-integration/"><u>Discover the Mighty Ampere One Aurora: The New 512-Core Custom AI Dedicated Processor with HBM Memory Integration</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-asus-chipset-audio-software-for-amd-and-intel-processors-at-zero-price/"><u>Download Asus Chipset Audio Software for AMD & Intel Processors at Zero Price</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-xbox-360-driver-software-download-now/"><u>Free Xbox 360 Driver Software - Download Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-updated-hp-wi-fi-adapter-software-on-windows-systems-now/"><u>Get Updated HP Wi-Fi Adapter Software on Windows Systems Now</u></a></li>
+<li><a href="https://win-forum.techidaily.com/identifying-and-removing-harmful-android-applications-with-revouninstaller/"><u>Identifying and Removing Harmful Android Applications with RevoUninstaller</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/master-device-agnostic-recording-techniques-for-youtube-live-streams/"><u>Master Device-Agnostic Recording Techniques for YouTube Live Streams</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722974976204-obtain-your-behringer-usb-sound-card-software-start-recording-today/"><u>Obtain Your Behringer USB Sound Card Software - Start Recording Today</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-vivo-s17t-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Vivo S17t to Gmail | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-and-install-rtx-2070-super-gpu-drivers-comprehensive-steps-for-users-of-windows-operating-systems/"><u>Update & Install RTX 2070 Super GPU Drivers: Comprehensive Steps for Users of Windows Operating Systems</u></a></li>
 </ul></div>
 

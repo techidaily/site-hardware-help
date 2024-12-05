@@ -1,7 +1,7 @@
 ---
 title: "Navigating New Electronics with Tom: In-Depth Hardware Analysis"
-date: 2024-08-19T10:19:51.207Z
-updated: 2024-08-20T10:19:51.207Z
+date: 2024-12-02T03:31:18.102Z
+updated: 2024-12-04T23:00:10.191Z
 tags:
   - power-supply
 categories:
@@ -26,6 +26,10 @@ See more Real Deals below.
 * **Super Flower Leadex V Platinum PRO 850W PSU:** [**now $129 at Newegg**](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-1204575385719253865%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fsuper-flower-leadex-v-platinum-pro-sf-850f14tp-850w%252Fp%252F1HU-024C-00043) **(was $249)**
 * **Dell G3223D 32-inch USB-C Gaming Monitor:** [**now $299 at Dell**](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-8900246-12578053%3Fsid%3Dtomshardware-us-4397051959775015652%26url%3Dhttps%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-32-usb-c-gaming-monitor-g3223d%2Fapd%2F210-bejf%2Fmonitors-monitor-accessories) **(was $449)**
 * **Netgear 5-Port Gigabit Ethernet Switch:** [**now $14 at Amazon**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB07S98YLHM%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-8422113522705017010-20) **(was $22)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Today’s best deals in detail
 
@@ -63,23 +67,18 @@ See more Real Deals below.
 
 [View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB07S98YLHM%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-8780951100740110730-20)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ## Looking for more deals?
 
 Category
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/chevron-left.svg "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Back to Hubs & Switches
 
 Brand
@@ -97,8 +96,9 @@ Colour
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Black
 
  Copper
@@ -108,8 +108,9 @@ Condition
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  New
 
  Refurbished
@@ -118,10 +119,6 @@ Price
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 Any Price
 
  Showing 10 of 52 deals
@@ -129,6 +126,10 @@ Any Price
  Filters ☰
 
 SORT BY Price (low to high)  Price (high to low) Product Name (A to Z)  Product Name (Z to A)  Retailer name (A to Z)  Retailer name (Z to A) ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Netgear GS305E](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07PJ7XZ7X%2Fref%3Dasc%5Fdf%5FB07PJ7XZ7X1723888800000%3Ftag%3Dhawk-future-20%26creative%3D395261%26creativeASIN%3DB07PJ7XZ7X%26linkCode%3Dasn%26ascsubtag%3Dtomshardware-us-1310836781021125979-20)
 
@@ -288,8 +289,6 @@ Our Review
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -297,4 +296,24 @@ Our Review
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-easy-methods-for-saving-online-meetings/"><u>[New] 2024 Approved Easy Methods for Saving Online Meetings</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-where-to-find-budget-friendly-gopros-online/"><u>[Updated] 2024 Approved Where to Find Budget-Friendly GoPros Online</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-data-havens-smart-savers-cloud-choices-for-24-for-2024/"><u>[Updated] Data Havens Smart Savers' Cloud Choices for '24 for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-the-ultimate-list-of-bestiary-8-ios-drawing-software-winners/"><u>[Updated] In 2024, The Ultimate List of Bestiary 8 iOS Drawing Software Winners</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-the-ultimate-ranking-top-10-video-conferencing-apps-on-mobile-devices/"><u>[Updated] In 2024, The Ultimate Ranking Top 10 Video Conferencing Apps on Mobile Devices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726027527801-mp4/"><u>「MP4動画読み込み失敗時、ムービーメーカーでどう対処するか？」</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/achieving-seamless-360-streaming-on-facebook-for-2024/"><u>Achieving Seamless 360 Streaming on Facebook for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ar-vr-mr-xr-demystified-a-comprehensive-guide-to-each-technologys-unique-features/"><u>AR, VR, MR, XR Demystified: A Comprehensive Guide to Each Technology's Unique Features</u></a></li>
+<li><a href="https://win-latest.techidaily.com/schritt-fur-schritt-anleitung-wie-wechsle-ich-das-system-auf-eine-kleinere-ssd/"><u>Schritt-Für-Schritt-Anleitung: Wie Wechsle Ich Das System Auf Eine Kleinere SSD?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/set-chatgpt-as-your-go-to-android-voice-companion-simple-steps-inside/"><u>Set ChatGPT as Your Go-To Android Voice Companion – Simple Steps Inside!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/silencing-the-buzz-how-to-deactivate-tactile-feedback-on-an-android-device/"><u>Silencing the Buzz: How to Deactivate Tactile Feedback on an Android Device</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/solving-rcs-issues-a-guide-to-troubleshooting-google-chat-on-android-devices/"><u>Solving RCS Issues: A Guide to Troubleshooting Google Chat on Android Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-configuring-and-accessing-a-virtual-private-network-vpn-app-on-your-android-device/"><u>Step-by-Step Guide: Configuring and Accessing a Virtual Private Network (VPN) App on Your Android Device</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-restoring-defaults-in-your-samsung-devices-connectivity-options/"><u>Step-by-Step Guide: Restoring Defaults in Your Samsung Device's Connectivity Options</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/surge-in-second-hand-smartphone-sales-shows-changing-consumer-behavior/"><u>Surge in Second-Hand Smartphone Sales Shows Changing Consumer Behavior</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/task-killers-unnecessary-learn-proper-app-management-techniques-for-an-optimized-android-experience/"><u>Task Killers Unnecessary? Learn Proper App Management Techniques for an Optimized Android Experience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-list-of-indispensable-devices-for-fixing-your-cell-phones/"><u>The Ultimate List of Indispensable Devices for Fixing Your Cell Phones</u></a></li>
+</ul></div>
 

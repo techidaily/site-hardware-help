@@ -1,7 +1,7 @@
 ---
 title: Score Unbeatable Deals on Festive Favors with Best Buy's End-of-Sale Bonanza | ZDNET
-date: 2024-11-22T16:09:21.223Z
-updated: 2024-11-25T16:48:18.894Z
+date: 2024-11-28T05:47:29.007Z
+updated: 2024-12-04T21:15:45.046Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,16 +63,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-top-5-choices-in-professional-3d-intros/"><u>[New] 2024 Approved Top 5 Choices in Professional 3D Intros</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-non-negotiables-of-beginning-a-youtube-channel/"><u>[New] The Non-Negotiables of Beginning a YouTube Channel</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-go-incognito-your-step-by-step-instagram-live-guide/"><u>2024 Approved Go Incognito Your Step-by-Step Instagram Live Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/cable-matters-unveils-revolutionary-23-thunderbolt-5-with-120gbps-and-240w-power-shop-the-worlds-first-superfast-charger-now/"><u>Cable Matters Unveils Revolutionary $23 Thunderbolt 5 with 120Gbps & 240W Power: Shop the World's First Superfast Charger Now</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/cuddle-time-visuals-evaluation-report/"><u>Cuddle Time Visuals Evaluation Report</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-tech-with-tom-in-depth-hardware-analysis/"><u>Exploring Tech with Tom: In-Depth Hardware Analysis</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-poco-f5-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Poco F5 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-fix-nba-2k23-crashing-problems-on-your-windows-computer-7-effective-methods/"><u>How to Fix NBA 2K23 Crashing Problems on Your Windows Computer - 7 Effective Methods</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-digital-laughter-lab/"><u>In 2024, Digital Laughter Lab</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/low-cost-controller-implicated-in-legal-claims-of-submersible-titan-incident-involving-logitech-device/"><u>Low-Cost Controller Implicated in Legal Claims of Submersible Titan Incident Involving Logitech Device</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/over-a-dozen-wells-fargo-staff-sacked-for-cheating-the-system-with-screen-clicking-tools-and-virtual-keyboards/"><u>Over a Dozen Wells Fargo Staff Sacked for Cheating the System with Screen Clicking Tools & Virtual Keyboards</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/xpert-tips-for-creating-dynamic-youtube-splits/"><u>[New] Expert Tips for Creating Dynamic YouTube Splits</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-professionals-drone-guide-top-5-recommendations-inside/"><u>[New] In 2024, Professionals’ Drone Guide - Top 5 Recommendations Inside</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-the-complete-guide-to-video-content-creation-for-modern-marketers/"><u>[Updated] 2024 Approved The Complete Guide to Video Content Creation for Modern Marketers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-softening-the-edges-a-guide-to-dimmed-audio-in-logic-pro-for-2024/"><u>[Updated] Softening the Edges A Guide to Dimmed Audio in Logic Pro for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-hp-officejet-pro-amoindz-8710-drivers-for-windows-systems-now/"><u>Get the Latest HP OfficeJet Pro Amoindz 8710 Drivers for Windows Systems Now!</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-realme-c55-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-canon-mx340-printer-drivers-on-windows-guides-for-windows-1087-users/"><u>Install Canon MX340 Printer Drivers on Windows: Guides for Windows 10/8/7 Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975494012-instant-access-to-brother-hl-3170cdw-printing-software-download-now/"><u>Instant Access to Brother HL-3170CDW Printing Software – Download Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-canon-pixma-ts3322-printer-software-download-and-updates/"><u>Latest Canon PIXMA TS3322 Printer Software Download and Updates</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-technology-choices-through-toms-wisdom/"><u>Mastering Technology Choices Through Tom's Wisdom</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-the-new-world-connectivity-error-a-comprehensive-guide/"><u>Solving the 'New World Connectivity Error': A Comprehensive Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-why-valheim-fails-to-open-and-how-to-fix-it/"><u>Troubleshooting Guide: Why Valheim Fails to Open and How to Fix It</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/trustworthy-source-for-free-killer-e2200-gigabit-network-interface-card-driver-downloads/"><u>Trustworthy Source for Free Killer E2200 Gigabit Network Interface Card Driver Downloads</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-techniques-to-eliminate-dota-2-lag-expert-advice-from-2024/"><u>Ultimate Troubleshooting Techniques to Eliminate Dota 2 Lag - Expert Advice From 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-tutorial-for-configuring-wd-ses-hardware-with-updated-usb-drivers/"><u>Ultimate Tutorial for Configuring WD SES Hardware with Updated USB Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-latest-in-computer-hardware-with-tom-toms-electronics-blog/"><u>Unveiling the Latest in Computer Hardware with Tom - Tom's Electronics Blog</u></a></li>
 </ul></div>
 

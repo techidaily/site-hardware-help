@@ -1,7 +1,7 @@
 ---
 title: "Nostalgia Unleashed: How To Enable Legacy DVD Playback On The Latest iMac Pro with M Series Chipsets | Wired Magazine"
-date: 2024-11-23T16:14:01.496Z
-updated: 2024-11-25T16:49:12.709Z
+date: 2024-12-01T19:38:46.701Z
+updated: 2024-12-05T10:24:46.776Z
 tags:
   - laptops
 categories:
@@ -44,7 +44,7 @@ Even better, the MacBook Air M3 comes in four sleek colorways, all of which are 
 This is the lowest price we've seen for a top-tier ultraportable machine that's not even a year old. If you've been looking for a good deal to snag a lightweight and snappy MacBook Air, now is the time, as this price isn't going to stick around forever.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,17 +81,20 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/uilding-engaging-learning-experiences-youtube-as-your-classroom-screen-for-2024/"><u>[New] Building Engaging Learning Experiences YouTube as Your Classroom Screen for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-seamless-tiktok-broadcasts-with-zoom-protocols/"><u>[New] Seamless TikTok Broadcasts with Zoom Protocols</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/witching-onoff-comment-functionality-on-youtube-for-2024/"><u>[New] Switching On/Off Comment Functionality on YouTube for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-constructing-youtube-playlists-made-simple/"><u>[Updated] In 2024, Constructing YouTube Playlists Made Simple</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723964507915-2024s-premier-selection-of-raspberry-pi-housing-solutions-find-your-perfect-fit-today/"><u>2024'S Premier Selection of Raspberry Pi Housing Solutions - Find Your Perfect Fit Today</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-toms-gadget-guide-a-deep-dive-into-advanced-technology-products/"><u>Discover Tom's Gadget Guide: A Deep Dive Into Advanced Technology Products</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/fast-and-pricey-how-the-lattepanda-outpaces-raspberry-pis-performance-while-carrying-a-heavier-tag/"><u>Fast & Pricey: How the LattePanda Outpaces Raspberry Pi's Performance While Carrying a Heavier Tag</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ase-views-discover-20-prime-thumbnail-fonts/"><u>Increase Views - Discover 20 Prime Thumbnail Fonts</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/innovative-cyberdore-2064-experience-next-gen-tech-with-enhanced-scroll-wheel-and-raspberry-pi-zero-integration/"><u>Innovative Cyberdore 2064: Experience Next-Gen Tech with Enhanced Scroll Wheel & Raspberry Pi Zero Integration</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/professional-solutions-for-resolving-stop-error-0xc00000e9-on-windows-systems/"><u>Professional Solutions for Resolving Stop Error 0xC00000E9 on Windows Systems</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/steps-to-solve-recurring-errors-and-crashes-in-video-games/"><u>Steps to Solve Recurring Errors and Crashes in Video Games</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/top-3-utilidades-de-respaldo-gratuitas-para-windows-10-guia-ideal-para-nuevos-usuarios/"><u>Top 3 Utilidades De Respaldo Gratuitas Para Windows 10: Guía Ideal Para Nuevos Usuarios</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-enhancing-click-through-high-roi-strategies-for-fb-animatons/"><u>[New] Enhancing Click-Through High-ROI Strategies for FB Animatons</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-dusk-to-dawn-iphone-night-photography-essentials-for-2024/"><u>[Updated] Dusk to Dawn IPhone Night Photography Essentials for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1-three-easy-methods-unveiled-mastering-the-art-of-downloading-loom-video-content/"><u>1. Three Easy Methods Unveiled: Mastering the Art of Downloading Loom Video Content</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-premier-10-drone-teams-for-cinematic-mastery/"><u>2024 Approved Premier 10-Drone Teams for Cinematic Mastery</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/diagnosis-and-remedies-why-is-my-logitech-g433-mic-malfunctioning/"><u>Diagnosis and Remedies: Why Is My Logitech G433 Mic Malfunctioning?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-intel-iris-xe-graphics-g7-driver-version-latest-for-windows-11/"><u>Download Intel Iris Xe Graphics G7 Driver Version [Latest] for Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-updated-intel-iris-graphics-driver-version-for-windows-1011-enhance-your-experience/"><u>Download Updated Intel Iris Graphics Driver Version for Windows 10/11 – Enhance Your Experience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-device-ready-windows-11-supported-usb-c-driver-pack/"><u>Get Your Device Ready: Windows 11 Supported USB-C Driver Pack</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-to-successfully-activate-dolby-audio-driver-for-windows-10-users/"><u>Guide to Successfully Activate Dolby Audio Driver for Windows 10 Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-thunderbolt-docking-station-g2-driver-download-compatible-with-120w230w-models/"><u>HP Thunderbolt Docking Station G2 Driver Download: Compatible with 120W/230W Models</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/improve-your-internet-experience-realtek-rtl81eapv6-driver-compatible-with-windows-117-available-now/"><u>Improve Your Internet Experience – Realtek RTL81EAPV6 Driver Compatible with Windows 11/7, Available Now</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-masterpieces-14-animated-textual-works/"><u>In 2024, Masterpieces 14 Animated Textual Works</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-the-newest-geforce-rtx-3070-ti-drivers-optimized-for-win-11-8-and-7-operating-systems/"><u>Install the Newest GeForce RTX 3070 Ti Drivers - Optimized for Win 11, 8 & 7 Operating Systems</u></a></li>
+<li><a href="https://video-capture.techidaily.com/no-fuss-guide-to-recording-virtual-classes-on-windowsmacos/"><u>No-Fuss Guide to Recording Virtual Classes on Windows/macOS</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/unlock-your-potential-with-these-5-must-have-jillian-michaels-dvd-series-ideal-for-newbies-and-pro-athletes-alike/"><u>Unlock Your Potential with These 5 Must-Have Jillian Michaels DVD Series, Ideal for Newbies and Pro Athletes Alike</u></a></li>
 </ul></div>
 

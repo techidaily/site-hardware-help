@@ -1,7 +1,7 @@
 ---
 title: "Holiday Blowout: Discover the Ultimate List of Affordable HP Deals Curated by Experts at ZDNET"
-date: 2024-11-19T16:47:21.757Z
-updated: 2024-11-25T16:48:07.742Z
+date: 2024-11-28T20:16:14.529Z
+updated: 2024-12-05T09:13:20.999Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ With Black Friday 2023 ending and shoppers looking to Cyber Monday to save money
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Cyber Monday 2023 Dell deals
@@ -44,7 +44,7 @@ With Black Friday 2023 ending and shoppers looking to Cyber Monday to save money
 ---  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## More Cyber Monday 2023 Dell deals
@@ -104,6 +104,10 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6FJGWK9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C253dc173-9417-4fb0-8bbe-5a70cdc1d144%7Cdtp&dtb=1) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best Cyber Monday Dell laptop deals
 
 * [Dell G15 gaming laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-G15-5535-Gaming-Laptop%2Fdp%2FB0CJGBMD42%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C253dc173-9417-4fb0-8bbe-5a70cdc1d144%7Cdtp&dtb=1): $900 (save $250)
@@ -123,10 +127,6 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell OptiPlex 7010](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1764723-REG%2Fdell%5F6f73r%5Foptiplex%5F7010%5Fsmall.html): $699 (save $300)
 * [Dell Inspiron 27 7720 Intel Core i5](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-Inspiron-24-5400-Touchscreen%2Fdp%2FB0BGQSKN8N%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C253dc173-9417-4fb0-8bbe-5a70cdc1d144%7Cdtp&dtb=1): $744 (save $186)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best Cyber Monday Dell monitor deals
 
 * [Dell S2721HS 27-inch monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-S2721HS-Adjustable-Response-FreeSync%2Fdp%2FB09S4ZZMS9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C253dc173-9417-4fb0-8bbe-5a70cdc1d144%7Cdtp&dtb=1): $150 (save $70)
@@ -139,7 +139,7 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 Cyber Monday happens each year on the Monday following Black Friday. This year, Cyber Monday is today, November 27.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When was Black Friday 2023?
@@ -149,7 +149,7 @@ Black Friday 2023 was on November 24, 2023\.
 Black Friday is always the day after Thanksgiving, which was November 23 this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we choose these Cyber Monday deals?
@@ -228,14 +228,17 @@ ZDNET's experts have been searching for Cyber Monday deals across sites like Ama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-the-ultimate-playlist-plan-for-insta/"><u>[New] 2024 Approved The Ultimate Playlist Plan for Insta</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-frosty-olympics-highlights-in-figure-skating/"><u>[New] Frosty Olympics Highlights in Figure Skating</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-essential-guide-to-saving-web-radio-broadcasts/"><u>2024 Approved The Essential Guide to Saving Web Radio Broadcasts</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/dazzling-hardware-transformations-unveiled-at-the-2024-computex-event/"><u>Dazzling Hardware Transformations Unveiled at the 2024 Computex Event</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/from-imovie-to-hollywood-mastering-movie-making-on-mac-for-2024/"><u>From iMovie to Hollywood Mastering Movie Making on Mac for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/guide-preventing-selected-ads-from-showing-up-on-your-youtube-channel/"><u>Guide: Preventing Selected Ads From Showing up on Your YouTube Channel</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/introducing-jonsbos-latest-c6-itx-chassis-design-a-sleek-mesh-clad-computer-tower-with-convenient-handling/"><u>Introducing Jonsbo's Latest C6-ITX Chassis Design: A Sleek, Mesh-Clad Computer Tower with Convenient Handling</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/practical-guide-mastering-noise-reduction-using-be-quiets-dark-base-pro-901/"><u>Practical Guide: Mastering Noise Reduction Using Be Quiet's Dark Base Pro 901</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-enermax-cable-master-er-20-specially-engineered-for-integrated-wire-management/"><u>The Enermax Cable Master Er 20: Specially Engineered for Integrated Wire Management</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-most-popular-firefox-visual-recorders-for-2024/"><u>[New] Most Popular Firefox Visual Recorders for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-streamlining-video-editing-on-windows-11s-movie-maker-for-2024/"><u>[New] Streamlining Video Editing on Windows 11'S Movie Maker for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-the-ultimate-checklist-to-add-audio-to-your-facebook-vids/"><u>2024 Approved The Ultimate Checklist to Add Audio to Your Facebook Vids</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-the-latest-hp-deskjet-ink-advantage-2540-printer-software/"><u>Download & Install the Latest HP Deskjet Ink Advantage 2540 Printer Software</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/echosphere-immersive-language-acquisition-in-vr/"><u>EchoSphere: Immersive Language Acquisition in VR</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-hp-laserjet-p1nsiii-series-drivers-complete-guide-and-download-for-windows-operating-systems/"><u>Get the Newest HP LaserJet P1nsiii Series Drivers - Complete Guide & Download for Windows Operating Systems</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-samsung-galaxy-f15-5g-by-drfone-android/"><u>How to Bypass FRP from Samsung Galaxy F15 5G?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722965057505-latest-release-compatible-drivers-for-tp-links-802nac-adapter-get-them-now/"><u>Latest Release: Compatible Drivers for TP-Link's 802.nAC Adapter - Get Them Now!</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/mastering-design-principles-essential-knowledge-of-yt-banners-and-art/"><u>Mastering Design Principles Essential Knowledge of YT Banners & Art</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/stay-ahead-in-tech-uncover-essential-hardware-insights-on-our-platform/"><u>Stay Ahead in Tech - Uncover Essential Hardware Insights on Our Platform</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/understanding-aspnet-configuration-best-practices-and-tips/"><u>Understanding ASP.NET Configuration: Best Practices and Tips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/updated-rndis-drivers-for-windows-complete-guide-and-downloads/"><u>Updated RNDIS Drivers for Windows: Complete Guide & Downloads</u></a></li>
 </ul></div>
 

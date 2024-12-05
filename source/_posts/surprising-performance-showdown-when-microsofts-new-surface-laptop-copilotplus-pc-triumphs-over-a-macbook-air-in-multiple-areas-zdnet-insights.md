@@ -1,7 +1,7 @@
 ---
 title: "Surprising Performance Showdown: When Microsoft's New Surface Laptop Copilot+ PC Triumphs Over a MacBook Air in Multiple Areas | ZDNET Insights"
-date: 2024-11-20T16:48:24.388Z
-updated: 2024-11-25T16:07:47.353Z
+date: 2024-11-30T10:47:58.867Z
+updated: 2024-12-05T05:42:53.230Z
 tags:
   - laptops
 categories:
@@ -33,7 +33,7 @@ You'll hear and see more about these branded laptops over the coming weeks, mont
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. More seamless on-device AI features
@@ -51,7 +51,7 @@ Having a dedicated Copilot key certainly adds to this burdenless experience. As 
 Perhaps the most important aspect of these new Copilot+ AI features is that they operate [on-device](https://www.zdnet.com/article/5-top-mobile-trends-in-2024-on-device-ai-the-new-smartphone-and-more/#:~:text=to%20take%20shape.-,1.%20On%2Ddevice%20AI%20puts%20the%20%27smart%27%20in%20smartphone,-The%20new%20Samsung) \-- based on local data, providing more private, secure, and faster processing capabilities. To everyday users, this may not be as significant. If, however, keeping your personal data protected (and away from any [remote cloud servers](https://www.zdnet.com/article/ai-is-changing-cybersecurity-and-businesses-must-wake-up-to-the-threat/)) is a priority, you'll feel a little better using the AI features on these new Copilot+ PCs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Windows Hello feels faster than ever
@@ -67,7 +67,7 @@ Comparing my M3 MacBook Air with the Surface Laptop is not exactly an apples-to-
 The best part is that Windows Hello automatically triggers when I lift the laptop lid open, and it's able to scan my face even in dimmer environments thanks to the IR camera.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Touchscreen support
@@ -83,7 +83,7 @@ For example, the new Cocreator tool in Paint requires you to both write a prompt
 While I've always found touchscreen functionality to be more beneficial on larger screens, using the smaller [13.8-inch Surface Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Touchscreen-Snapdragon-Sapphire%2Fdp%2FB0CXKYTQS2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C80779a74-dcf0-4cae-9afc-7e1a9921a8d6%7Cdtp&dtb=1) feels more like a 2-in-1 tablet. When my typing space is confined, like on a bus, plane, or crowded café, being able to simply reach over and tap, swipe, and drag elements on the screen is very helpful and intuitive. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bonus: Benchmarks (for now)
@@ -125,16 +125,19 @@ For the following benchmark tests, the higher the score, the better.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-channel-success-strategy-standard-studio-or-beta-edge/"><u>[New] 2024 Approved Channel Success Strategy Standard Studio or Beta Edge</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-a-practical-approach-to-zoom-meetings/"><u>[New] A Practical Approach to Zoom Meetings</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-enhance-your-story-game-applying-fun-sticker-themes/"><u>2024 Approved Enhance Your Story Game Applying Fun Sticker Themes</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-computer-connection-5-strategies-to-move-files/"><u>In 2024, Computer Connection 5 Strategies to Move Files</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/introducing-asuss-cutting-edge-rog-evangelion-lineup-with-powerhouse-model-asuka/"><u>Introducing ASUS’s Cutting-Edge ROG Evangelion Lineup with Powerhouse Model, Asuka</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-update-intels-suspension-of-the-thunder-bay-multi-chip-module-announced/"><u>Latest Update: Intel's Suspension of the Thunder Bay Multi-Chip Module Announced</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723964472842-snag-a-steelseries-atx-mid-tower-with-massive-savings-undercutting-the-market/"><u>Snag a SteelSeries ATX Mid Tower with Massive Savings Undercutting the Market</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-tom-hardware-guide-in-depth-analysis-of-todays-top-technology-products/"><u>The Tom Hardware Guide: In-Depth Analysis of Today's Top Technology Products</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-reviews-expert-insights-on-hardware/"><u>Tom's Tech Reviews: Expert Insights on Hardware</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-economical-vr-devices-for-the-savvy-user/"><u>Top Economical VR Devices for the Savvy User</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-enhance-listening-pleasure-constructing-a-youtube-playlist/"><u>[Updated] Enhance Listening Pleasure Constructing a YouTube Playlist</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-top-20-zero-cost-pubg-visual-anthologies/"><u>[Updated] In 2024, Top 20 Zero-Cost PUBG Visual Anthologies</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/arrow-lakes-new-champion-intel-core-i7-14700k-triumphs-over-core-ultra-7-in-single-core-battles-with-a-7-lead/"><u>Arrow Lake's New Champion: Intel Core I7-14700K Triumphs Over Core Ultra 7 in Single-Core Battles with a 7% Lead</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-guide-updating-your-windows-n-webcam-drivers-step-by-step/"><u>Easy Guide: Updating Your Windows N Webcam Drivers Step-by-Step</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-improving-delayed-keyboard-input-with-ease/"><u>Effective Solutions for Improving Delayed Keyboard Input with Ease</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-gameplay-how-to-update-dell-g3-graphics-drivers/"><u>Enhance Your Gameplay: How to Update Dell G3 Graphics Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-creative-mixer-audio-software-drivers-for-your-windows-11-device/"><u>Get the Latest Creative Mixer Audio Software Drivers for Your Windows 11 Device</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-updates-for-your-canon-mg2520-windows-compatible-drivers-available-now/"><u>Get the Latest Updates for Your Canon MG2520: Windows Compatible Drivers Available Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-install-samsung-960-evo-nvme-ssd-drivers-on-your-windows-pc/"><u>How to Install Samsung 960 EVO NVMe SSD Drivers on Your Windows PC</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-unlock-free-video-blurring-tools-your-go-to-resource/"><u>New In 2024, Unlock Free Video Blurring Tools Your Go-To Resource</u></a></li>
+<li><a href="https://win11.techidaily.com/personalize-your-keyboard-precise-text-pasting-hotkeys/"><u>Personalize Your Keyboard: Precise Text Pasting Hotkeys</u></a></li>
+<li><a href="https://games-able.techidaily.com/pros-choice-navigating-the-best-40-inch-tv-landscape-of-2024-zdnet-insights/"><u>Pro's Choice: Navigating the Best 40-Inch TV Landscape of 2024 | ZDNET Insights</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/top-rated-screen-capture-software-for-windows-1087-users-full-or-portion-screen-recording-options/"><u>Top-Rated Screen Capture Software for Windows 10/8/7 Users: Full or Portion Screen Recording Options</u></a></li>
+<li><a href="https://win-dash.techidaily.com/troubleshooting-driver-issues-and-updating-your-dell-latitude-e6430-on-a-windows-computer-a-complete-solution/"><u>Troubleshooting Driver Issues & Updating Your Dell Latitude E6430 on a Windows Computer: A Complete Solution</u></a></li>
 </ul></div>
 

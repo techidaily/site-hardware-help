@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Lenovo ThinkPad X13s Analysis: Featuring 5G Connectivity, ARM Architecture & Exceptional Battery Performance - Insights From ZDNet"
-date: 2024-11-18T16:34:55.328Z
-updated: 2024-11-25T16:23:55.639Z
+date: 2024-12-01T05:43:23.421Z
+updated: 2024-12-04T23:28:27.007Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -73,7 +73,7 @@ The ThinkPad X1 2-in-1 performs well in most cases, although it's not necessaril
 It also did well on the benchmark tests I ran, even outperforming the Intel Core i9-9880H. I'm very familiar with the Ultra 7, so I expected solid performance. Indeed, it is because of this familiarity that I was surprised to see this model's price. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -112,21 +112,17 @@ Additionally, keep in mind that adding options like an OLED screen and hardware 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-adobe-tactics-for-dynamic-3d-text-design/"><u>[New] Adobe Tactics for Dynamic 3D Text Design</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-engagement-your-essential-list-of-15-opener-templates/"><u>[Updated] Mastering Engagement Your Essential List of 15 Opener Templates</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-unlocking-video-popularity-a-comprehensive-guide-to-tagging-on-youtube/"><u>[Updated] Unlocking Video Popularity A Comprehensive Guide to Tagging on YouTube</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/asus-lcd-glare-no-more-your-guide-to-a-clearer-view/"><u>ASUS LCD Glare No More: Your Guide to a Clearer View</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/cutting-costs-and-carbon-footprints-essential-guide-to-energy-savings-in-offices-building-green-magazine/"><u>Cutting Costs and Carbon Footprints: Essential Guide to Energy Savings in Offices - Building Green Magazine</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722961239521-easy-synaptic-driver-downloads-and-updates-for-windows-get-started-now/"><u>Easy Synaptic Driver Downloads and Updates for Windows - Get Started Now</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-discord-overlay-not-working-swift-solutions-for-a-smooth-streaming-experience/"><u>Fix Discord Overlay Not Working: Swift Solutions for a Smooth Streaming Experience</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-become-a-pro-editor-in-seconds-canvas-essential-secrets/"><u>In 2024, Become a Pro Editor in Seconds Canva's Essential Secrets</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-iphone-8-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For iPhone 8</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-smooth-transition-of-online-videos-to-tv-screens/"><u>In 2024, Smooth Transition of Online Videos to TV Screens</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/mastering-the-microscope-effect-for-enhanced-video-conferencing-for-2024/"><u>Mastering the Microscope Effect for Enhanced Video Conferencing for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-download-comprehensive-guide-to-installing-ft232-rs-232-drivers/"><u>Quick Download: Comprehensive Guide to Installing FT232 RS-232 Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/successful-guide-downloading-and-updating-d-link-drivers-on-your-windows-pc/"><u>Successful Guide: Downloading and Updating D-Link Drivers on Your Windows PC</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-electronic-chronicles-comprehensive-gear-reviews-and-tips/"><u>Tom's Electronic Chronicles: Comprehensive Gear Reviews and Tips</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-hardware-your-one-stop-tech-review-destination/"><u>Tom's Hardware: Your One-Stop Tech Review Destination</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/zen-5-ryzen-ai-9-hx-surpasses-intel-20-core-and-apple-m3-max-in-passmark-an-in-depth-comparison/"><u>Zen 5 Ryzen AI 9 HX Surpasses Intel 20-Core & Apple M3 Max in PassMark: An In-Depth Comparison</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-exploring-vidma-revolutionizing-the-recording-industry/"><u>[New] Exploring Vidma Revolutionizing the Recording Industry</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-user-friendly-routines-preserving-google-voice-communications-for-2024/"><u>[Updated] User-Friendly Routines Preserving Google Voice Communications for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-the-universe-of-gesture-technology-for-2024/"><u>Exploring the Universe of Gesture Technology for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/find-the-newest-compatible-driver-packages-for-your-nvidia-quadro-rtx-8000-on-windows-os/"><u>Find the Newest Compatible Driver Packages for Your Nvidia Quadro RTX 8000 on Windows OS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hassle-free-fixes-when-your-astro-a20-microphone-wont-work/"><u>Hassle-Free Fixes When Your Astro A20 Microphone Won't Work</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-effortlessly-pair-and-control-your-chromecast-using-its-compatible-remote/"><u>How to Effortlessly Pair and Control Your Chromecast Using Its Compatible Remote</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Xiaomi Civi 3 Disney 100th Anniversary Edition? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intel-13th-gen-processors-face-significant-return-challenges-retailers-report-a-surge-in-rmas-over-amd/"><u>Intel 13Th Gen Processors Face Significant Return Challenges: Retailers Report a Surge in RMAs Over AMD</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/streamlined-guide-to-amd-radeon-rx-groovy-gaming-experience-with-updated-drivers/"><u>Streamlined Guide to AMD Radeon RX Groovy Gaming Experience with Updated Drivers!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/transform-your-gameplay-today-free-steamlink-and-geforce-now-integration-steelseries-engine-for-win10/"><u>Transform Your Gameplay Today: Free [SteamLink & GeForce Now Integration] SteelSeries Engine for Win10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722967167762-ultimate-compatibility-with-your-devices-update-tp-link-tl-ub400-bluetooth-adapter-driver-here/"><u>Ultimate Compatibility with Your Devices: Update TP-Link TL-UB400 Bluetooth Adapter Driver Here!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722976000566-unleash-powerhouse-performance-with-new-z270-gaming-pro-carbon-order-now/"><u>Unleash Powerhouse Performance with New Z270 Gaming Pro Carbon - Order Now</u></a></li>
 </ul></div>
 

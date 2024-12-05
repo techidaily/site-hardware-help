@@ -1,7 +1,7 @@
 ---
 title: "CES 2023 Highlights: Top Tech Unveiled on the Second Day Featured by ZDNet"
-date: 2024-11-24T16:05:58.465Z
-updated: 2024-11-25T16:09:33.422Z
+date: 2024-12-03T08:48:02.431Z
+updated: 2024-12-05T02:59:00.430Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ The first day of [CES 2023](https://www.zdnet.com/topic/ces-2023-the-biggest-tre
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Special Feature
@@ -53,7 +53,7 @@ If you're tired of the kids complaining about not having their video games on ro
 **Read more:** [Nvidia's GeForce Now gaming service is coming to cars](https://www.zdnet.com/article/nvidias-geforce-now-gaming-service-is-coming-to-cars-to-make-rides-more-entertaining/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Acer announces new gaming Predator and Nitro laptops
@@ -65,7 +65,7 @@ From the new Acer Nitro 16 and 17 to the Predator Helios 16 and 18 laptops, Acer
 **Read more:** [Acer's CES 2023 gaming lineup boasts high-end laptops, big and fast monitors](https://www.zdnet.com/home-and-office/home-entertainment/acers-ces-2023-gaming-lineup-boasts-high-end-laptops-big-and-fast-monitors/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## LG adds upgraded OLED TV panels
@@ -76,15 +76,15 @@ The first of the major tech companies to reveal a new TV during CES, LG didn't d
 
 **Read more:** [LG announces new C, G, and Z OLED TV lineups at CES 2023](https://www.zdnet.com/home-and-office/home-entertainment/lgs-2023-tv-lineup-c3-g3-z3-models/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Intel's 13th gen family expands
 
 Intel
 
 Intel may have [dropped the new flagship CPU last September](https://www.zdnet.com/article/how-intel-is-upgrading-everything-about-itself-and-its-products/), but that didn't stop the company from debuting a deluge of speedy new processors today. You'll see the largest improvements in laptops' and chromebooks' chipsets.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Evie debuts a wearable smart ring for women
 
@@ -102,15 +102,15 @@ Ahead of Samsung's First Look event tonight, the tech company announced new addi
 
 **Read more:** [Samsung's Odyssey G9 gaming monitor family to add OLED, 8K models](https://www.zdnet.com/home-and-office/home-entertainment/samsungs-odyssey-g9-gaming-monitor-family-adds-oled-8k-models/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Also announced: Samsung upgrades its TV lines
 
 Samsung
 
 In addition to the Odyssey G9 monitors, Samsung also dropped a plethora of home entertainment TVs, including the QN900C 8K QLED TV, S95C 4K QLED, and S95C 4K OLED panels. For lifestyle-oriented consumers, Samsung also revealed the latest iterations of the Freestyle, The Premium, and The Frame models.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## GE Cync has a new Dynamic Effects line
 
@@ -154,22 +154,14 @@ In the meantime, be sure to check back tomorrow to get the scoop on more announc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-decoding-digital-dazzle-an-initial-journey-into-video-standards/"><u>[New] 2024 Approved Decoding Digital Dazzle An Initial Journey Into Video Standards</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-unleashing-potential-a-guide-to-setting-up-and-analyzing-instream-ads-in-fb/"><u>[Updated] In 2024, Unleashing Potential A Guide to Setting Up & Analyzing Instream Ads in FB</u></a></li>
-<li><a href="https://win-able.techidaily.com/anthem-endless-boot-loop-solution-for-smooth-gaming-experience/"><u>Anthem Endless Boot Loop Solution for Smooth Gaming Experience</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/canon-scanner-driver-downloads-for-window-users-free-easy-to-install-options-available-now/"><u>Canon Scanner Driver Downloads for Window Users: Free, Easy-to-Install Options Available Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/comprehensive-tutorial-for-updating-windows-10-version-2004-with-compatible-conexant-drivers/"><u>Comprehensive Tutorial for Updating Windows 10 (Version 2004) with Compatible Conexant Drivers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/cutting-edge-computer-insights-provided-by-toms-tech-reviewers/"><u>Cutting-Edge Computer Insights Provided by Tom's Tech Reviewers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/expert-advice-on-repairing-a-nonfunctional-logitech-g433-headset-mic/"><u>Expert Advice on Repairing a Nonfunctional Logitech G433 Headset Mic</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-to-resolve-winning-partys-battlenet-launcher-malfunction-on-windows/"><u>Expert Tips to Resolve Winning Party's Battle.net Launcher Malfunction on Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-revive-audio-output-on-an-acer-laptop-with-no-sound-issues/"><u>How to Revive Audio Output on an Acer Laptop with No Sound Issues</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/insignia-printer-drivers-update-optimized-support-for-windows-7-10-and-11-download-now/"><u>Insignia Printer Drivers Update: Optimized Support for Windows 7, 10 & 11 – Download Now!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-the-most-recent-hp-deskjet-3755-all-in-one-printer-driver-compatible-with-windows-11108and-7-systems/"><u>Install the Most Recent HP DeskJet 3755 All-In-One Printer Driver Compatible with Windows 11/10/8/^and 7 Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/installing-your-epson-wf-2750-printer-fresh-software-and-full-functionality/"><u>Installing Your Epson WF-2750 Printer: Fresh Software and Full Functionality</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/nt-tutorial-green-screen-techniques-unveiled/"><u>Instant Tutorial Green Screen Techniques Unveiled</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/official-geforce-gtx-3070-ti-windows-drivers-compatible-with-windows-10-8-and-7/"><u>Official GeForce GTX 3070 Ti Windows Drivers: Compatible with Windows 10, 8 and 7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722961149310-quick-and-easy-installation-guide-for-killer-e2500-1gbe-network-adapter-drivers-download-now/"><u>Quick and Easy Installation Guide for Killer E2500 1GbE Network Adapter Drivers - Download Now</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/two-simple-strategies-for-successfully-uploading-big-files-by-email/"><u>Two Simple Strategies for Successfully Uploading Big Files by Email</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/windows-10-customization-tips-how-to-alter-and-personalize-your-taskbar-colors/"><u>Windows 10 Customization Tips: How to Alter and Personalize Your Taskbar Colors</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-the-best-10-discord-plugins-for-elevated-user-interaction/"><u>[New] The Best 10 Discord Plugins for Elevated User Interaction</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-activating-screen-recording-with-internal-devices-in-huawei-mate-and-p-series-mate-1020-p2010/"><u>[Updated] Activating Screen Recording with Internal Devices in Huawei Mate and P Series (Mate 10/20; P20/10)</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitter-mastery-adding-visuals-to-your-tweet-for-2024/"><u>[Updated] Twitter Mastery Adding Visuals to Your Tweet for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-itel-a60-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Itel A60 Phone</u></a></li>
+<li><a href="https://win-lab.techidaily.com/safeguarding-your-assets-essential-tips-on-avoiding-cyber-threats-in-the-crypto-sphere-insights-by-yl-computing-and-yl-software/"><u>Safeguarding Your Assets: Essential Tips on Avoiding Cyber Threats in the Crypto Sphere - Insights by YL Computing & YL Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-designing-a-user-friendly-smart-home-for-everyone-in-the-household/"><u>Ultimate Guide: Designing a User-Friendly Smart Home for Everyone in the Household</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-deals-on-ultra-fast-smooth-and-reliable-wifi-networks-meet-g309-lightspeed/"><u>Unbeatable Deals on Ultra-Fast, Smooth & Reliable WiFi Networks: Meet G309 LIGHTSPEED</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-differences-between-ultrasonic-and-optical-fingerprint-sensors-find-out-how-they-stack-up/"><u>Unveiling the Differences Between Ultrasonic and Optical Fingerprint Sensors – Find Out How They Stack Up!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrade-any-old-school-window-ac-unit-how-these-two-tools-enable-smart-home-integration/"><u>Upgrade Any Old-School Window A/C Unit: How These Two Tools Enable Smart Home Integration</u></a></li>
 </ul></div>
 

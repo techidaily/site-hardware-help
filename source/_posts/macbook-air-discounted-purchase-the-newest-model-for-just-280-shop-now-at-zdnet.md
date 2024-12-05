@@ -1,7 +1,7 @@
 ---
 title: "MacBook Air Discounted: Purchase the Newest Model for Just $280 – Shop Now at ZDNet!"
-date: 2024-11-21T16:11:06.631Z
-updated: 2024-11-25T16:55:11.645Z
+date: 2024-11-30T04:55:24.421Z
+updated: 2024-12-05T07:36:27.246Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kerry Wan/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the deal?
@@ -31,7 +31,7 @@ Right now, Amazon is selling the [15-inch MacBook Air (M2) for $250 off](https:/
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -107,7 +107,7 @@ The laptop is capable of 4K exports on Adobe Premiere Pro and editing RAW files 
 What I found myself missing when testing the MacBook Air was the 120Hz ProMotion display from the Pro line. All it took was an hour or two before my eyes adapted to the slower, less smooth 60Hz panel, but the larger 15-inch display didn't make the transition easy. In fact, it made the difference more apparent.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -146,21 +146,21 @@ But everything else about it is as good as the current $1,050 price point gets. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-from-concept-to-reality-top-7-gadgets-for-metaverse-success/"><u>[New] From Concept to Reality Top 7 Gadgets for Metaverse Success</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-a-seamless-journey-from-blurred-borders-to-sharp-focus/"><u>[Updated] A Seamless Journey From Blurred Borders to Sharp Focus</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-essentials-of-navigating-ez-grabber-interface/"><u>[Updated] The Essentials of Navigating EZ Grabber Interface</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-simple-way-to-inspect-and-erase-window-logs/"><u>A Simple Way to Inspect & Erase Window Logs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/advanced-gadget-assessments-by-toms-authority-in-the-digital-realm/"><u>Advanced Gadget Assessments by Tom's Authority in the Digital Realm</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/budget-friendly-ais-on-par-with-soras-capabilities/"><u>Budget-Friendly AIs on Par with Sora's Capabilities</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-steps-to-download-and-install-the-hp-m452dn-laserjet-series-driver/"><u>Easy Steps to Download and Install the HP M452dn LaserJet Series Driver</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-upgrade-how-to-install-new-synaptics-pad-drivers/"><u>Effortless Upgrade: How to Install New Synaptics Pad Drivers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-your-work-with-multiple-displays-in-win11/"><u>Elevate Your Work with Multiple Displays in Win11</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-mac-for-apple-iphone-14-plus-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock on Mac For Apple iPhone 14 Plus?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-the-official-windows-driver-for-focusrite-scarlett-2i2-download-now/"><u>Install the Official Windows Driver for Focusrite Scarlett 2I2 - Download Now!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/logitechs-best-offer-complimentary-webcam-driver-downloads-for-window-users/"><u>Logitech's Best Offer: Complimentary Webcam Driver Downloads for Window Users</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/overcoming-windows-dciman32dll-disappearance-problems-with-ease-and-confidence/"><u>Overcoming Windows dciman32.dll Disappearance Problems with Ease and Confidence</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/solving-logitech-f710-driver-problems-in-windows-11-10-8-and-7-a-comprehensive-guide/"><u>Solving Logitech F710 Driver Problems in Windows 11, 10, 8 & 7: A Comprehensive Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/streamline-your-webcam-experience-top-18-tools-for-video-capture-for-2024/"><u>Streamline Your Webcam Experience Top 18 Tools for Video Capture for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/tech-alert-alleged-perfect-crash-rate-for-intels-recent-processors-accusations-fly-from-alderon-games/"><u>Tech Alert: Alleged Perfect Crash Rate for Intel's Recent Processors, Accusations Fly From Alderon Games</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-journey-into-whatsapps-call-ecosystem/"><u>[New] Journey Into WhatsApp's Call Ecosystem</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-mastering-instagram-analytics-top-tools-for-enhanced-performance-insights-for-2024/"><u>[New] Mastering Instagram Analytics Top Tools for Enhanced Performance Insights for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-mastering-instagrams-peak-moments-a-how-to-guide/"><u>[Updated] 2024 Approved Mastering Instagram's Peak Moments A How-To Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-tailoring-trending-topics-to-endings/"><u>2024 Approved Tailoring Trending Topics to Endings</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016887234-audio-malfunction-post-windows-11-update-easy-solutions-unveiled/"><u>Audio Malfunction Post-Windows 11 Update? Easy Solutions Unveiled</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-mp4-trimming-tools-top-picks/"><u>Free MP4 Trimming Tools Top Picks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-paid-ai-enhancement-justifiable-cost-wise/"><u>Is Paid AI Enhancement Justifiable Cost-Wise?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-apple-iphone-7-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your Apple iPhone 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-reasons-to-skip-amazon-when-purchasing-sd-memory-cards/"><u>Top Reasons to Skip Amazon When Purchasing SD Memory Cards</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-ipad-pro-gadgets-and-enhancements-for-2e-2024-edition/"><u>Top-Rated iPad Pro Gadgets and Enhancements for 2E - 2024 Edition</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/transform-cleaning-routines-this-prime-day-unveiling-narwals-advanced-robotic-vacuums-and-automatic-mops-at-irresistible-prices/"><u>Transform Cleaning Routines This Prime Day – Unveiling Narwal's Advanced Robotic Vacuums and Automatic Mops at Irresistible Prices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/transform-your-rooms-mood-with-the-govee-rgbif-pro-floor-lamp-an-in-depth-review-of-aesthetics-and-sound-capabilities/"><u>Transform Your Room's Mood with the Govee RGBIF Pro Floor Lamp - An In-Depth Review of Aesthetics and Sound Capabilities</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-gamers-guide-to-the-msi-optimum-vision-revel-in-qd-oled-brilliance-reviewed/"><u>Ultimate Gamer's Guide to the MSI Optimum Vision: Revel in QD-OLED Brilliance Reviewed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-locating-lost-or-concealed-airtags-and-bluetooth-tracker-devices/"><u>Ultimate Guide to Locating Lost or Concealed AirTags and Bluetooth Tracker Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-ranking-of-the-highest-quality-fire-tv-devices-on-amazon/"><u>Ultimate Ranking of the Highest Quality Fire TV Devices on Amazon</u></a></li>
+<li><a href="https://win-blog.techidaily.com/winning-the-battle-against-paladins-crashes-advanced-tricks-and-fixes-for-gaming-victory/"><u>Winning the Battle Against Paladins Crashes: Advanced Tricks & Fixes for Gaming Victory</u></a></li>
 </ul></div>
 

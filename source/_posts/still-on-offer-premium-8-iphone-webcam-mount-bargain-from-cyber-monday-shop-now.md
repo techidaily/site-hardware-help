@@ -1,7 +1,7 @@
 ---
 title: "Still On Offer: Premium $8 iPhone Webcam Mount Bargain From Cyber Monday - Shop Now"
-date: 2024-11-22T16:26:31.572Z
-updated: 2024-11-25T16:43:33.146Z
+date: 2024-12-02T10:14:26.547Z
+updated: 2024-12-05T08:26:43.082Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ I've seen the likes of Belkin put out [quality iPhone mounts for this purpose](h
 All that's needed to make Continuity Camera happen is a Mac computer running MacOS Ventura, an iPhone running on iOS 16, and a mount to keep the handset afloat. That's where the Elephant Card comes in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -81,22 +81,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-screen-shutter-tips-free-windows-edition-for-2024/"><u>[New] Screen Shutter Tips Free Windows Edition for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-joke-makers-haven-get-it-today/"><u>2024 Approved Joke Makers' Haven - Get It Today</u></a></li>
-<li><a href="https://blog-min.techidaily.com/comparacion-de-dvd-blu-ray-y-archivos-digitales-que-opcion-es-la-mejor-para-ti/"><u>Comparación De DVD, Blu-Ray Y Archivos Digitales: ¿Qué Opción Es La Mejor Para Ti?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/comprehensive-analysis-and-insights-on-the-750w-evga-supernova-power-supply-unit-review/"><u>Comprehensive Analysis and Insights on the 750W Evga Supernova Power Supply Unit Review</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/comprehensive-analysis-of-the-thermaltake-toughpower-gf3-a-new-1350w-atx-v30-psu-review/"><u>Comprehensive Analysis of the Thermaltake Toughpower GF3 - A New 1350W ATX v3.0 PSU Review</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Realme 11X 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-apowersofts-capabilities-tested-against-market-contenders/"><u>In 2024, Apowersoft's Capabilities Tested Against Market Contenders</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Xiaomi 13T | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/installation-guide-epson-et-2750-drivers-compatible-with-windows-os/"><u>Installation Guide: Epson ET-2750 Drivers Compatible with Windows OS</u></a></li>
-<li><a href="https://extra-support.techidaily.com/maximize-visual-impact-smart-zooming-tricks-in-snapchat-for-2024/"><u>Maximize Visual Impact Smart Zooming Tricks in Snapchat for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95703156-9781507204313-the-supernatural-guide-to-the-other-side/"><u>The Supernatural Guide to the Other Side | Free Book</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-a-comprehensive-guide/"><u>Tom's Tech Insights: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unlocking-the-secrets-of-advanced-hardware-with-toms-gear-guides/"><u>Unlocking the Secrets of Advanced Hardware with Tom's Gear Guides</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unraveling-the-world-of-gadgets-with-toms-hardware-your-ultimate-resource/"><u>Unraveling the World of Gadgets with Tom's Hardware - Your Ultimate Resource</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-gadgets-with-tom-authoritative-tutorials-on-pc-hardware/"><u>Unveiling Gadgets with Tom: Authoritative Tutorials on PC Hardware</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/value-for-money/"><u>Value for Money</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/voluntary-recall-alert-oil-leakage-and-fan-belt-sounds-on-enermax-revolution-df-2x-psu-units/"><u>Voluntary Recall Alert: Oil Leakage & Fan Belt Sounds on Enermax Revolution D.F. 2/X PSU Units</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-no-money-no-problem-free-pinterest-video-extractors/"><u>[New] No Money? No Problem! Free Pinterest Video Extractors</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-5-tricks-for-instantly-boosting-youtube-subscribers-for-2024/"><u>[Updated] 5 Tricks for Instantly Boosting YouTube Subscribers for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-danger-lurking-online-spotting-the-falsehood-of-fake-viewers-on-youtube/"><u>2024 Approved Danger Lurking Online Spotting the Falsehood of Fake Viewers on YouTube</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-official-drivers-for-your-epson-v600-printer-today/"><u>Download the Official Drivers for Your Epson V600 Printer Today!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-vivo-t2-5g-by-drfone-android/"><u>How to Bypass FRP from Vivo T2 5G?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-stop-ghost-recon-breakpoint-from-freezing-simple-solutions/"><u>How to Stop Ghost Recon Breakpoint From Freezing - Simple Solutions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-action-camera-boosters-and-their-buyers-guide/"><u>In 2024, Action Camera Boosters and Their Buyer's Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intel-iris-pro-655-gpu-drivers-optimized-for-windows-10-and-windows-11/"><u>Intel Iris Pro 655 GPU Drivers - Optimized for Windows 10 & Windows 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-vivo-s17-pro-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Vivo S17 Pro? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ryzen-zen-5-outshines-core-i7-14700hx-and-apple-m3-max-in-comprehensive-passmark-battle-inside-the-showdown-of-silicon-giants/"><u>Ryzen Zen 5 Outshines Core I7-14700HX & Apple M3 Max in Comprehensive PassMark Battle: Inside the Showdown of Silicon Giants</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/simple-guide-to-lenovo-x1-carbon-drivers-supports-windows-11-and-7-systems/"><u>Simple Guide to Lenovo X1 Carbon Drivers - Supports Windows 11 & 7 Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/snapdragon-x-devices-impress-with-65-share-in-recent-geekbench-6-tests-insights-from-benchmark-dev/"><u>Snapdragon X Devices Impress with 6.5% Share in Recent Geekbench 6 Tests: Insights From Benchmark Dev</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-a-guide-to-building-the-perfect-pc/"><u>Tom's Tech Insights: A Guide to Building the Perfect PC</u></a></li>
 </ul></div>
 

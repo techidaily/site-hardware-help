@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary Discovery: Housekeepers Unearth Original Intel 8008-Based Personal Computers with Limited Memory Capacity"
-date: 2024-08-19T12:19:07.449Z
-updated: 2024-08-20T12:19:07.449Z
+date: 2024-11-28T06:27:26.939Z
+updated: 2024-12-05T02:48:18.123Z
 tags:
   - desktop
 categories:
@@ -49,6 +49,10 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
  Pre-orders for a 32 GB RAM / 1 TB SSD OneXPlayer M1 are already in Japan at JPY142,310 (or around $900). But if you bundle it with the OneXGPU, you get a 10% discount on the eGPU. So, if you’re looking for a small PC you can quickly move around but don’t sacrifice performance and graphical power, you should watch out for the OneXPlayer M1 mini-PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -57,14 +61,11 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -73,8 +74,20 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-earnings-in-the-virtual-playground/"><u>[New] In 2024, Earnings in the Virtual Playground</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-enjoyable-footage-recorder-test/"><u>[Updated] 2024 Approved Enjoyable Footage Recorder Test</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-battlefield-legends-the-ultimate-list-of-top-7-total-war-victories/"><u>[Updated] Battlefield Legends The Ultimate List of Top 7 Total War Victories</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-best-martial-arts-videogames-comparison-mastery-edition-for-2024/"><u>[Updated] Best Martial Arts Videogames Comparison Mastery Edition for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/choosing-the-right-apple-thin-and-light-comparing-m3-vs-m2-macbook-air-the-ultimate-guide-for-buyers/"><u>Choosing the Right Apple Thin-and-Light: Comparing M3 Vs. M2 MacBook Air - The Ultimate Guide for Buyers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/creative-collection-of-swaying-text-styles/"><u>Creative Collection of Swaying Text Styles</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-unheard-of-chatgpt-utilities-to-boost-your-experience/"><u>Discover Unheard-Of ChatGPT Utilities to Boost Your Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-to-keep-manor-lords-running-without-interruption-on-windows-machines/"><u>Expert Tips to Keep Manor Lords Running Without Interruption on Windows Machines</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-most-out-of-your-money-with-lenovos-chromebook-plus-for-499-a-game-changer-in-affordable-computing/"><u>Get the Most Out of Your Money with Lenovo's Chromebook Plus for $499 - A Game-Changer in Affordable Computing!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-much-do-podcasters-earn-on-average/"><u>How Much Do Podcasters Earn on Average?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/last-chance-top-38-must-have-electronics-and-devices-on-sale-this-cyber-monday-score-big-savings-at-costco-gadgetguru/"><u>Last Chance: Top 38 Must-Have Electronics and Devices on Sale This Cyber Monday - Score Big Savings at Costco | GadgetGuru</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-ranked-vpn-solutions-comprehensive-analysis-by-industry-experts-techradar/"><u>Top-Ranked VPN Solutions : Comprehensive Analysis by Industry Experts | TechRadar</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-succeeded-users-can-now-download-and-enjoy-the-ascent-app/"><u>Troubleshooting Succeeded: Users Can Now Download & Enjoy The Ascent App</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

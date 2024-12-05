@@ -1,7 +1,7 @@
 ---
 title: "Discovering a Game-Changer: A Light Laptop That Makes MacBook Air Seem Heavy - GadgetGuru Chronicles"
-date: 2024-11-23T16:51:20.597Z
-updated: 2024-11-25T16:13:46.380Z
+date: 2024-12-02T18:58:41.350Z
+updated: 2024-12-04T23:17:09.182Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -77,7 +77,7 @@ It's entirely possible I encountered some random bug and is not indicative of th
 I did manage to get the Smart Auto feature up and running. It allows users to reallocate resources from different areas of the computer to whatever app you're using at the time to boost performance. Or if you want a certain app to get the boost at all times, Smart Auto also lets you target specific software. It was a nifty little tool that I got a lot of enjoyment out of. You likely will, too.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -118,22 +118,21 @@ For the smaller, 13-inch size that I tested, you can buy the Intel Core Ultra i5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-effortless-view-growth-uncovering-the-best-video-tips-and-hacks/"><u>[New] 2024 Approved Effortless View Growth Uncovering the Best Video Tips and Hacks</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-deciphering-the-world-of-youtube-media-conglomerates-for-2024/"><u>[New] Deciphering the World of YouTube Media Conglomerates for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-the-art-of-monitors-reimagined-an-insight-into-the-z32x/"><u>[Updated] 2024 Approved The Art of Monitors Reimagined An Insight Into the Z32X</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-boost-your-media-creation-skills-a-detailed-walkthrough-of-movie-maker-on-windows-8/"><u>[Updated] Boost Your Media Creation Skills A Detailed Walkthrough of Movie Maker on Windows 8</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/angered-buyer-condemns-intels-cpu-return-procedure-asserts-bought-new-i9-14900k-from-retailers-found-to-be-counterfeit/"><u>Angered Buyer Condemns Intel's CPU Return Procedure - Asserts Bought New I9-14900K From Retailers Found to Be Counterfeit</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-insignia-ethernet-to-usb-driver-installation-instructions/"><u>Free Insignia Ethernet-to-USB Driver Installation Instructions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-get-the-latest-logitech-c920-driver-for-windows-11108-easy-steps/"><u>How to Get the Latest Logitech C920 Driver for Windows 11/10/8 - Easy Steps</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-officejet-pro-e8720-driver-update-and-download-optimize-performance-on-windows-pcs/"><u>HP OfficeJet Pro E8720 Driver Update & Download: Optimize Performance on Windows PCs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/intel-reveals-new-lineup-the-14th-generation-without-efficiency-cores-special-spotlight-on-overclocking-ready-flagship-core-i9-1/"><u>Intel Reveals New Lineup: The 14Th Generation Without Efficiency Cores - Special Spotlight on Overclocking-Ready, Flagship Core I9-1</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-modern-gadgets-expert-advice-from-toms-tech-store/"><u>Mastering Modern Gadgets: Expert Advice From Tom's Tech Store</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-unlock-pro-quality-videos-gopro-quik-editing-on-macbook-made-simple/"><u>New 2024 Approved Unlock Pro-Quality Videos GoPro Quik Editing on MacBook Made Simple</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-cut-costs-not-quality-get-final-cut-pro-with-education-discounts/"><u>New Cut Costs, Not Quality Get Final Cut Pro with Education Discounts</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/resolve-your-apple-iphone-x-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>Resolve Your Apple iPhone X Keeps Asking for Outlook Password | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-definitive-guide-to-high-performance-computing-by-toms-hardware/"><u>The Definitive Guide to High-Performance Computing by Tom's Hardware</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ultimate-free-top-ranked-image-overlays-for-androidandios/"><u>Ultimate FREE Top-Ranked Image Overlays for Android&iOS</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-installing-and-updating-samsung-980-pro-driver-software/"><u>Ultimate Guide to Installing & Updating Samsung 980 PRO Driver Software</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-cartoonify-your-footage-the-ultimate-video-to-cartoon-tutorial/"><u>Updated In 2024, Cartoonify Your Footage The Ultimate Video-to-Cartoon Tutorial</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-tips-for-high-quality-vr-gametime-recordings/"><u>[New] Tips for High-Quality VR Gametime Recordings</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-fix-batman-arkham-knight-crashing-fatal-error/"><u>[Quick Fix] Batman Arkham Knight Crashing/ Fatal Error</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-journey-through-updates-unveiling-lg-bp550-new/"><u>[Updated] Journey Through Updates Unveiling LG BP550 New</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/advanced-sector-solutions-navigating-the-smart-industry/"><u>Advanced Sector Solutions - Navigating the Smart Industry</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/affordable-android-chat-options-rated-top-ten/"><u>Affordable Android Chat Options Rated Top Ten</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-intel-i82579-chipset-drivers-for-free-simple-and-fast-installation-guide/"><u>Download Intel I82579 Chipset Drivers for Free - Simple & Fast Installation Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-samsung-m2020-printer-drivers-complete-guide/"><u>Download Samsung M2020 Printer Drivers: Complete Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-installation-of-ricoh-printer-drivers-for-windows-operating-systems/"><u>Effortless Installation of Ricoh Printer Drivers for Windows Operating Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-updated-epson-l3110-drivers-for-windows-operating-systems-win11107/"><u>Free Download: Updated Epson L3110 Drivers for Windows Operating Systems (Win11/10/7)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-install-updated-drivers-for-your-netgear-wifi-adapter-efficiently/"><u>How to Install Updated Drivers for Your NETGEAR WiFi Adapter Efficiently</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/improve-video-quality-freshly-released-usb-to-hdmi-driver-patches-available-for-download/"><u>Improve Video Quality: Freshly Released USB-to-HDMI Driver Patches Available for Download</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-rethinking-recipes-squared-up-tutorials-for-youtube-and-facebook-success/"><u>In 2024, Rethinking Recipes Squared-Up Tutorials for YouTube and Facebook Success</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-visionary-graphics-best-cards-in-4k-space/"><u>In 2024, Visionary Graphics Best Cards in 4K Space</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/unlocking-the-potential-of-instagrams-filters-a-modern-guide-2e23/"><u>Unlocking the Potential of Instagram's Filters - A Modern Guide (2E23)</u></a></li>
+<li><a href="https://win-help.techidaily.com/unveiling-the-truth-understanding-the-mrbeast-giveaways-hoax-and-protecting-yourself/"><u>Unveiling the Truth: Understanding the MrBeast Giveaways Hoax & Protecting Yourself</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-arduino-hardware-new-usb-driver-options-for-pcs/"><u>Update Your Arduino Hardware: New USB Driver Options for PCs</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: FMRI Can Map Cognitive Functions, Helping to Preserve These Areas During Surgical Interventions Such as Tumor Resection or Epilepsy Surgery
-date: 2024-08-19T12:22:49.045Z
-updated: 2024-08-20T12:22:49.045Z
+date: 2024-12-04T09:24:07.804Z
+updated: 2024-12-04T21:22:47.156Z
 tags:
   - win11
   - win10
@@ -39,17 +39,26 @@ thumbnail: https://thmb.techidaily.com/cbf529e05dd3135fe67a52edb00f230c5ea151216
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap455.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. Click **Update** next to your **Geforce RTX 2080** graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap454-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _You can do it for free if you like, but it’s partly manual._
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Download and install your Geforce RTX 2080 driver manually
 
  You can download the updated driver file for your Geforce RTX 2080 graphics card from the official website of **[NVIDIA](https://tools.techidaily.com/drivereasy/download/)**  . You can follow the steps below:
@@ -61,20 +70,17 @@ _You can do it for free if you like, but it’s partly manual._
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap469.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3\. Click the **DOWNLOAD** button to download the driver file.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap461.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4.**Double-click** the downloaded driver file and follow the on-screen instructions to install the updated driver on your PC.
 
  Be sure to choose the driver that’s **compatible** with the exact model number of your hardware, and your version of Windows.
@@ -88,8 +94,6 @@ _You can do it for free if you like, but it’s partly manual._
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -97,4 +101,17 @@ _You can do it for free if you like, but it’s partly manual._
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-superior-group-multimedia-platforms/"><u>[Updated] 2024 Approved Superior Group Multimedia Platforms</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/best-buy-offers-huge-savings-asus-15-zenbook-slashes-price-by-370-explore-the-deal-on-zdnet/"><u>Best Buy Offers Huge Savings: Asus 15 ZenBook Slashes Price by $370 - Explore the Deal on ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-a-comparable-contender-to-macbook-air-lightweight-and-feature-rich-windows-laptops-unveiled-gadgetsphere-blog/"><u>Discover a Comparable Contender to MacBook Air: Lightweight and Feature-Rich Windows Laptops Unveiled | GadgetSphere Blog</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-this-budget-friendly-laptop-reignites-a-classic-buzzword-in-the-technology-sphere-s-analysis/"><u>How This Budget-Friendly Laptop Reignites a Classic Buzzword in the Technology Sphere 'S Analysis.</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-5-groundbreaking-advice-points-from-successful-marketers-online/"><u>In 2024, 5 Groundbreaking Advice Points From Successful Marketers Online</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/simple-methods-find-individuals-on-facebook-quickly-and-effectively/"><u>Simple Methods: Find Individuals on Facebook Quickly and Effectively</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-acer-swift-edge-evaluation-featuring-the-worlds-leanest-4k-oled-notebook-insights/"><u>The Ultimate Acer Swift Edge Evaluation: Featuring the World's Leanest 4K OLED Notebook - Insights</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-10-audio-problems-heres-how-to-make-your-headphones-work-again/"><u>Windows 10 Audio Problems? Here's How to Make Your Headphones Work Again</u></a></li>
+</ul></div>
 

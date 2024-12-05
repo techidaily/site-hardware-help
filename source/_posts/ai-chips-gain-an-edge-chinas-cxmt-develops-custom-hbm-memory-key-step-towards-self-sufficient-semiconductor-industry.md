@@ -1,7 +1,7 @@
 ---
 title: "AI Chips Gain an Edge: China's CXMT Develops Custom HBM Memory, Key Step Towards Self-Sufficient Semiconductor Industry"
-date: 2024-08-19T10:17:08.377Z
-updated: 2024-08-20T10:17:08.377Z
+date: 2024-12-01T05:19:24.963Z
+updated: 2024-12-04T18:24:14.306Z
 tags:
   - ram
 categories:
@@ -27,6 +27,10 @@ Innotron, the parent company of ChangXin Memory Technologies (CXMT), plans to in
 
  This $2.4 billion investment is a part of China's broader strategy to enhance its semiconductor capabilities in general and advanced packaging technologies in particular. Whether or not this one is going to be a financial success is something that remains to be seen. Given that the U.S. government does not allow the export of advanced components made using American technology to China without a license, it has no other choice but to build its own HBM supply chain.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,8 +45,6 @@ Innotron, the parent company of ChangXin Memory Technologies (CXMT), plans to in
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -50,8 +52,18 @@ Innotron, the parent company of ChangXin Memory Technologies (CXMT), plans to in
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://buynow-info.techidaily.com/5-best-external-blu-ray-drives-for-enhanced-media-experience-2024/"><u>5 Best External Blu-Ray Drives for Enhanced Media Experience - 202^4</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/affordable-laptop-with-stunning-display-ranks-high-among-top-picks-by-experts-at-zdnet/"><u>Affordable Laptop with Stunning Display Ranks High Among Top Picks by Experts at ZDNet</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915359403-banish-windows-explorer-malfunctions-for-good-discover-our-7-fixes-using-revouninstaller/"><u>Banish Windows Explorer Malfunctions for Good - Discover Our 7 Fixes Using RevoUninstaller!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-score-big-on-prime-day-with-the-hp-victus-15-at-just-530-from-best-buy-game-on/"><u>Exclusive: Score Big on Prime Day With The HP Victus 15 at Just $530 From Best Buy - Game On!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/explore-enhanced-performance-with-apples-unveiled-macbook-air-13-inch15-inch-featuring-next-gen-m3-processor-what-has-been-improved/"><u>Explore Enhanced Performance with Apple's Unveiled MacBook Air (13-Inch/15-Inch) Featuring Next-Gen M3 Processor: What Has Been Improved?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-from-your-iphone-6s-plus-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock from your iPhone 6s Plus and iPad</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-stolen-apple-iphone-12-mini-in-different-conditionsin-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Stolen Apple iPhone 12 mini In Different Conditionsin | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/leading-mobile-satisfaction-rankings-apple-maintains-edge-over-competitors-with-samsung-catching-up-reveals-latest-zdnet-survey/"><u>Leading Mobile Satisfaction Rankings: Apple Maintains Edge Over Competitors with Samsung Catching Up, Reveals Latest ZDNet Survey</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-new-kubuntu-focus-ir1e-is-it-worth-powering-your-kde-plasma-desktop-experience-insights/"><u>The New Kubuntu Focus IR1e: Is It Worth Powering Your KDE Plasma Desktop Experience? Insights</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unlimited-conversion-top-5-techniques-to-effortlessly-transcode-h265-to-h264-video-files/"><u>Unlimited Conversion: Top 5 Techniques to Effortlessly Transcode H.265 To H.264 Video Files</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->

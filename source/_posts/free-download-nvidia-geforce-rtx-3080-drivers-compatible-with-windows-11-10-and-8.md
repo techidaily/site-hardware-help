@@ -1,7 +1,7 @@
 ---
 title: "[Free Download] NVIDIA GeForce RTX 3080 Drivers Compatible with Windows 11, 10 & 8"
-date: 2024-08-19T12:21:04.197Z
-updated: 2024-08-20T12:21:04.197Z
+date: 2024-11-29T06:14:03.138Z
+updated: 2024-12-05T08:11:01.428Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/3bd086f6ddbea0000b61dea6630a396d485fdb4d6
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap457.png)
 
  Want to enjoy the best gaming performance with your **Geforce RTX 2080** ? Or do you want to keep it in good condition? If your answer is YES, try updating Geforce RTX 2080 driver to the latest version. By doing it, you can also avoid many unexpected gaming issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **There are two methods to update your Geforce RTX 2080 driver:**
 
@@ -39,17 +43,26 @@ thumbnail: https://thmb.techidaily.com/3bd086f6ddbea0000b61dea6630a396d485fdb4d6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap455.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. Click **Update** next to your **Geforce RTX 2080** graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap454-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _You can do it for free if you like, but it’s partly manual._
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Download and install your Geforce RTX 2080 driver manually
 
  You can download the updated driver file for your Geforce RTX 2080 graphics card from the official website of **[NVIDIA](https://tools.techidaily.com/drivereasy/download/)**  . You can follow the steps below:
@@ -60,16 +73,14 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap469.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
  3\. Click the **DOWNLOAD** button to download the driver file.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap461.png)
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4.**Double-click** the downloaded driver file and follow the on-screen instructions to install the updated driver on your PC.
 
  Be sure to choose the driver that’s **compatible** with the exact model number of your hardware, and your version of Windows.
@@ -83,8 +94,6 @@ _You can do it for free if you like, but it’s partly manual._
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -92,4 +101,22 @@ _You can do it for free if you like, but it’s partly manual._
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-step-by-step-building-your-perfect-youtube-playlist/"><u>[New] Step-by-Step Building Your Perfect YouTube Playlist</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-bring-out-canons-best-enjoy-10-free-luts-and-beyond-selection/"><u>[Updated] Bring Out Canon's Best Enjoy 10 Free LUTs and Beyond Selection</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-expert-insights-into-crafting-dynamic-youtube-shorts-templates/"><u>[Updated] Expert Insights Into Crafting Dynamic YouTube Shorts Templates</u></a></li>
+<li><a href="https://review-topics.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-xiaomi-13-ultra-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Xiaomi 13 Ultra by Name | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/anticipating-the-full-lineup-at-apples-october-showcase-unveiling-of-the-m4-mac-mini-new-ipad-models-advancements-in-siri-and-beyond-insights-from-zdnet/"><u>Anticipating the Full Lineup at Apple's October Showcase: Unveiling of the M4 Mac Mini, New iPad Models, Advancements in Siri & Beyond - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ces-2023s-most-impressive-laptops-revealed-multi-screen-technology-twist-designs-and-cutting-edge-3d-visualization/"><u>CES 2023'S Most Impressive Laptops Revealed: Multi-Screen Technology, Twist Designs & Cutting-Edge 3D Visualization</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/choosing-the-right-apple-thin-and-light-comparing-m3-vs-m2-macbook-air-the-ultimate-guide-for-buyers/"><u>Choosing the Right Apple Thin-and-Light: Comparing M3 Vs. M2 MacBook Air - The Ultimate Guide for Buyers</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/rt-youtube-music-seamlessly-for-mac-users-2023-edition-for-2024/"><u>Convert YouTube Music Seamlessly for Mac Users, 2023 Edition for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-srt-tools-the-most-reliable-high-quality-apps-listed-for-2024/"><u>Free SRT Tools The Most Reliable, High-Quality Apps Listed for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/from-today-to-tomorrow-the-drone-evolution-story-for-2024/"><u>From Today to Tomorrow The Drone Evolution Story for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-iphone-6sipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled iPhone 6s/iPad Without Computer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-100-unbeatable-walmart-holiday-bargains-your-guide-to-savings/"><u>Top 100 Unbeatable Walmart Holiday Bargains: Your Guide to Savings</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-tested-ultraportable-laptop-with-extended-battery-performance-discover-why-it-stands-out-zdnet/"><u>Top Tested Ultraportable Laptop with Extended Battery Performance: Discover Why It Stands Out | ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/transform-your-phone-into-an-extra-display-the-smart-laptop-docking-station-an-insight-by-techradar/"><u>Transform Your Phone Into an Extra Display: The Smart Laptop Docking Station - An Insight by TechRadar</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-future-of-tech-at-apple-october-event-innovative-mac-mini-and-latest-ipads-explored-by-zdnet/"><u>Unveiling the Future of Tech at Apple October Event: Innovative Mac Mini and Latest iPads Explored by ZDNet</u></a></li>
+</ul></div>
 

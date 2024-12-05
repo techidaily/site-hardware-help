@@ -1,7 +1,7 @@
 ---
 title: "Lighter Than a MacBook Air: My Top Picks for Ultra-Portable Laptops - Insights From a Tech Guru"
-date: 2024-11-19T16:58:18.710Z
-updated: 2024-11-25T16:05:27.206Z
+date: 2024-11-28T17:50:58.137Z
+updated: 2024-12-05T05:41:09.707Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -79,7 +79,7 @@ I tested the [IdeaPad Flex 5i's](https://go.shopyourlikes.com/pi/6dcf690a69011d7
 I should warn you that this laptop can run a little warm. The [IdeaPad Flex 5i](https://go.shopyourlikes.com/pi/6dcf690a69011d7d576626ac887f56b098db1cfa?afId=614548&afCampaignId=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&afCreativeId=2993&afPlacementId=2) comes equipped with a 13th Gen Intel Core i3-1315U processor. Its performance won't make the hardware run hot by itself. Instead, the bottom-firing ventilation port likely restricts proper airflow, making things toastier than they should be.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -118,21 +118,20 @@ You can purchase the [IdeaPad Flex 5i on Best Buy for $500](https://shop-links.c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-help.techidaily.com/latest-version-available-hp-scanjet-driver-upgrades-for-smooth-operation-on-windows-11-8-and-7/"><u>[Latest Version Available]: HP Scanjet Driver Upgrades for Smooth Operation on Windows 11, 8 & 7</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-a-new-era-of-capturing-screens-camstudio-2023-reviewed/"><u>[New] In 2024, A New Era of Capturing Screens? CamStudio 2023 Reviewed</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-a-filmmakers-guide-seamless-editing-and-uploading-360-degree-footage-for-youtube/"><u>[Updated] In 2024, A Filmmaker's Guide Seamless Editing & Uploading 360-Degree Footage for YouTube</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-step-by-step-guide-to-skyrocketing-video-views/"><u>[Updated] Step-by-Step Guide to Skyrocketing Video Views</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/best-solutions-for-motorola-network-unlock-by-drfone-android/"><u>Best Solutions for Motorola Network Unlock</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-toms-tech-your-guide-to-the-latest-in-computer-hardware/"><u>Exploring Tom's Tech: Your Guide to the Latest in Computer Hardware</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-realme-narzo-n55-is-unlocked-by-drfone-android/"><u>How To Check if Your Realme Narzo N55 Is Unlocked</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/intel-takes-performance-to-new-heights-the-just-released-granite-rapids-cpus-set-the-bar-higher-with-an-astounding-128-core-architecture-and-unprecedented-566/"><u>Intel Takes Performance to New Heights: The Just-Released Granite Rapids CPUs Set the Bar Higher with An Astounding 128 Core Architecture and Unprecedented 500W TDP</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/maximize-performance-with-the-latest-version-free-steelseries-engine-for-windows-users/"><u>Maximize Performance with the [Latest Version]: Free SteelSeries Engine for Windows Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-solution-for-your-printing-needs-downloading-epson-xp-830-drivers-made-simple/"><u>Quick Solution for Your Printing Needs: Downloading Epson XP-830 Drivers Made Simple</u></a></li>
-<li><a href="https://win11.techidaily.com/revolutionizing-phone-integration-on-windows-11-platforms/"><u>Revolutionizing Phone Integration on Windows 11 Platforms</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/successful-rndis-driver-installation-guide-for-windows-latest-updates-included/"><u>Successful RNDIS Driver Installation Guide for Windows: Latest Updates Included</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-art-of-multi-platform-broadcasting-in-the-digital-age-for-2024/"><u>The Art of Multi-Platform Broadcasting in the Digital Age for 2024</u></a></li>
-<li><a href="https://win-best.techidaily.com/top-11-recorders-de-pantalla-libres-y-premium-para-navegador-web/"><u>Top 11 Recorders De Pantalla Libres Y Premium Para Navegador Web</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-the-beelink-gti14-a-mini-pc-that-supports-external-gpus-through-a-secure-latchable-expansion-slot/"><u>Unveiling the Beelink GTi14: A Mini-PC That Supports External GPUs Through a Secure Latchable Expansion Slot</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-y02t-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y02T Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-best-rated-vr-joysticks-unveiled-for-2024/"><u>[New] Best-Rated VR Joysticks Unveiled for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-low-cost-lift-offs-the-most-affordable-drone-options/"><u>[Updated] Low-Cost Lift-Offs The Most Affordable Drone Options</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-selecting-the-ultimate-5-game-chat-devices-for-2024/"><u>[Updated] Selecting the Ultimate 5 Game Chat Devices for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-nokia-g22-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/462236-9781439178225-dile-adios-a-tus-temores-how-to-overcome-fear/"><u>Dile adiós a tus temores (How to Overcome Fear) | Free Book</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/going-back-to-basics-the-surprising-benefits-of-sticking-with-a-2019-budget-smartphone-into-the-new-year/"><u>Going Back to Basics: The Surprising Benefits of Sticking with a 2019 Budget Smartphone Into the New Year</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/guide-disabling-auto-screen-activation-by-android-notification-alerts/"><u>Guide: Disabling Auto-Screen Activation by Android Notification Alerts</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-step-by-step-guide-to-refine-igtv-titles-and-descs/"><u>In 2024, Step-by-Step Guide to Refine IGTV Titles & Descs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/is-the-leap-from-pixel-7a-to-pixel-8a-justified-by-its-enhanced-specs/"><u>Is the Leap From Pixel 7a to Pixel 8a Justified by Its Enhanced Specs?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/is-the-samsung-galaxy-s23plus-a-worthwhile-update-from-its-predecessors/"><u>Is the Samsung Galaxy S23+ a Worthwhile Update From Its Predecessors?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-android-os-updates-a-comprehensive-guide/"><u>Mastering Android OS Updates - A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/maximize-android-battery-life-the-benefits-of-adaptive-charging-techniques/"><u>Maximize Android Battery Life: The Benefits of Adaptive Charging Techniques</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/maximize-functionality-invest-in-independent-appliances-a-standard-fridge-and-an-ipad-not-just-a-smart-fridge/"><u>Maximize Functionality: Invest in Independent Appliances - A Standard Fridge & an iPad, Not Just a Smart Fridge</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/professionals-picks-the-ultimate-guide-to-superior-streaming-lights-comprehensive-review-by-tech-savants-at-zdnet/"><u>Professional's Picks: The Ultimate Guide to Superior Streaming Lights - Comprehensive Review by Tech Savants at ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/step-by-step-solution-for-fixing-error-code-0x80131500-on-your-microsoft-store-windows-1011/"><u>Step-by-Step Solution for Fixing Error Code 0X80131500 on Your Microsoft Store (Windows 10/11)</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Next-Gen Mobile Memory Revealed by Samsung: LPDDer5X with Blistering Speeds of 10.7Gbps, Tailored for Cutting-Edge AI Applications"
-date: 2024-08-19T10:17:38.795Z
-updated: 2024-08-20T10:17:38.795Z
+date: 2024-12-03T10:55:15.909Z
+updated: 2024-12-04T23:50:56.863Z
 tags:
   - ram
 categories:
@@ -25,9 +25,17 @@ TeamGroup has introduced its T-Create Expert AI series LPDDR5X CAMM2 memory modu
 
  CAMM2 memory modules are[primarily made](https://tools.techidaily.com) to replace the SO-DIMM form factor for[notebooks](https://tools.techidaily.com) , though we can't rule out them being adopted by other PC form factors. Lenovo is the first notebook maker ready for CAMM2 modules with its[ThinkPad P1 Gen 7](https://tools.techidaily.com) . With Computex 2024 just days away, we should see a plethora of upcoming notebooks using this standard.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Adoption on other computing form factors
 
  Apart from its size advantage, its ability to provide 1.3x more bandwidth compared to standard DDR5 modules at JEDEC speeds, and lowered power consumption, could make CAMM2 an excellent addition to desktops, mini PCs, and maybe handheld devices. This is the case with[MSI and Kingston](https://tools.techidaily.com) , who showed off Fury Impact DDR5 CAMM2 modules on the[MSI](https://tools.techidaily.com) Z790 Project Zero Plus motherboard - a BTF board that[hides its connectors and certain components](https://tools.techidaily.com) on the reverse side of the PCB. There will likely be many other memory makers showing CAMM2 modules, possibly also from Crucial who is the first to introduce[DDR5-based CAMM2 memory in the market](https://tools.techidaily.com) , followed by[Samsung](https://tools.techidaily.com) Electronics whose executive vice president of memory product planning said this form factor is set to gain wide adoption in PCs, laptops and data centers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
@@ -45,8 +53,6 @@ TeamGroup has introduced its T-Create Expert AI series LPDDR5X CAMM2 memory modu
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -54,8 +60,26 @@ TeamGroup has introduced its T-Create Expert AI series LPDDR5X CAMM2 memory modu
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-advanced-terraria-modifications-guide/"><u>[New] In 2024, Advanced Terraria Modifications Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-enliven-youtube-images-a-burst-of-neon-flair-for-2024/"><u>[Updated] Enliven YouTube Images A Burst of Neon Flair for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-transform-slide-show-into-video-format/"><u>[Updated] In 2024, Transform Slide Show Into Video Format</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/best-value-in-virtual-escapism-dive-into-metas-premium-512gb-quest-3-bundle-today-expert-tips-from-zdnet/"><u>Best Value in Virtual Escapism? Dive Into Meta's Premium 512GB Quest 3 Bundle Today! | Expert Tips From ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-hidden-gem-a-revolutionary-12-port-thunderbolt-dock-designed-to-empower-windows-pcs-zdnet/"><u>Discover the Hidden Gem: A Revolutionary 12-Port Thunderbolt Dock Designed to Empower Windows PCs | ZDNet</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/econosounds-experience-comprehensive-examination-of-oneplus-buds/"><u>EconoSounds Experience - Comprehensive Examination of OnePlus Buds</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-hdmi-setup-connect-your-laptop-to-tv-in-minutes-with-our-expert-advice-zdnet/"><u>Effortless HDMI Setup: Connect Your Laptop to TV in Minutes with Our Expert Advice | ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/elite-video-editors-ultimate-laptop-selection-for-professionals-in-depth-analysis-and-ratings-by-zdnet-experts/"><u>Elite Video Editors Ultimate Laptop Selection for Professionals - In-Depth Analysis and Ratings by ZDNet Experts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/essential-perks-for-professionals-unveiled-in-latest-lenovo-laptop-review-by-zdnet/"><u>Essential Perks for Professionals Unveiled in Latest Lenovo Laptop Review by ZDNet</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-oppo-reno-11-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Oppo Reno 11 5G to iPad | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/huge-savings-snag-the-discounted-8tb-samsung-t5-nvme-m2-ssd-for-only-36-less-post-prime-deal-alert-on-amazon/"><u>Huge Savings: Snag the Discounted 8TB Samsung T5 NVMe M.2 SSD for Only 36% Less - Post-Prime Deal Alert on Amazon!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Vivo Y100? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-from-your-apple-iphone-8-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock from your Apple iPhone 8 and iPad</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-leading-virtual-reality-enhancements-for-gamers/"><u>In 2024, Leading Virtual Reality Enhancements for Gamers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-mastering-the-art-of-eye-catching-fb-ad-content/"><u>In 2024, Mastering the Art of Eye-Catching FB Ad Content</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-elegoos-latest-creation-neptune-anno-4-max-a-balance-of-bigger-buggy-and-faster-features/"><u>In-Depth Analysis of Elegoo's Latest Creation - Neptune Anno 4 Max: A Balance of Bigger, Buggy and Faster Features</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/reviewing-the-elite-3000-dell-gaming-machine-unveiling-its-revolutionary-extras-that-redefine-playtime/"><u>Reviewing the Elite $3,000 Dell Gaming Machine - Unveiling Its Revolutionary Extras That Redefine Playtime!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-gamers-blueprint-expert-tips-for-assembling-a-powerhouse-gaming-pc-on-zdnet/"><u>The Ultimate Gamer's Blueprint: Expert Tips for Assembling a Powerhouse Gaming PC on ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-savings-discover-the-best-44-deals-for-storing-your-data-this-festive-season-including-ssd-bargains-zdnet-guide-2023/"><u>Ultimate Savings: Discover the Best 44 Deals for Storing Your Data This Festive Season, Including SSD Bargains! - ZDNet Guide 2023</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->

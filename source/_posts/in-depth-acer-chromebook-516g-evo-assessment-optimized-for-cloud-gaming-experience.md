@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Acer Chromebook 516G EVO Assessment: Optimized for Cloud Gaming Experience"
-date: 2024-11-24T16:16:01.355Z
-updated: 2024-11-25T16:24:56.555Z
+date: 2024-11-29T23:15:33.157Z
+updated: 2024-12-04T20:55:06.122Z
 tags:
   - laptops
 categories:
@@ -35,7 +35,7 @@ When Chromebooks first arrived, it took a while for everyone to understand a dev
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -53,7 +53,7 @@ Acer's Chromebook 516 GE aims to be the ideal device for those cloud services by
 **Also:** [**The 5 best Chromebooks for students**](https://www.zdnet.com/article/best-chromebook-for-students/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -68,10 +68,6 @@ Acer's Chromebook 516 GE aims to be the ideal device for those cloud services by
 | Connectivity          | Wi-Fi 6E, 2.5G Ethernet, Bluetooth 5.2                                                                                           |
 | Ports                 | 2 x USB-C 3.2 Gen 2 (supporting DisplayPort over USB-C), 1 x USB-A 3.2 Gen 2, 1 x HDMI, 1 x Ethernet, 1 x 3.5mm combo audio port |
 | Dimensions and weight | 356.58 (W) x 249.67 (D) x 21.3 (H) mm (14.04 x 9.83 x 0.84 inches) \| 3.75lbs                                                    |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Build and ports
 
@@ -104,6 +100,10 @@ The included charger is on the large side for a Chromebook power supply.
 Michael Gariffo/ZDNET
 
 While everything else about the Chromebook felt premium, the charger was contrastingly generic. It did its job of topping up the 65Wh, 9-hour battery well and quickly, but it's larger than you'd expect, and looked a bit dated compared with most other high-end Chromebook models. I opted to use a more compact 140W entry in the [Ugreen GaN charger line](https://www.zdnet.com/home-and-office/smart-office/ugreens-gan-chargers-are-smaller-mightier-and-cooler-than-yours/) during most of my testing. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Performance
 
@@ -150,7 +150,7 @@ Hopefully future updates will bring the performance of Xbox cloud gaming closer 
 [Acer Chromebook 516 GE $559.95 at Walmart](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F1414639532&subId1=zd-__COM_CLICK_ID__-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -166,7 +166,7 @@ Just like all Chromebooks, gaming Chromebooks live or die on the quality of clou
 The saving grace here is that Acer and Nvidia have proven that cloud-based gaming is at the point where relatively inexpensive devices, like a high-end Chromebook, can compete with $1,000-plus machines, at least for just about everyone aside from ultra-competitive, first-person shooter fans. Now we just have to see how long it takes everyone else to catch up or surpass them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -213,20 +213,22 @@ Perhaps an odd fit as an alternative, but Valve's Steam Deck is a different take
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-learn-ipads-screen-sharing-basics/"><u>[New] In 2024, Learn iPad's Screen Sharing Basics</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-step-into-windows-xp-a-filmmakers-companion-for-2024/"><u>[New] Step Into Windows XP A Filmmaker's Companion for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-picture-perfect-with-soundtracked-clips/"><u>[Updated] Picture Perfect with Soundtracked Clips</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ai-chips-gain-an-edge-chinas-cxmt-develops-custom-hbm-memory-key-step-towards-self-sufficient-semiconductor-industry/"><u>AI Chips Gain an Edge: China's CXMT Develops Custom HBM Memory, Key Step Towards Self-Sufficient Semiconductor Industry</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-computer-gear-with-tom-detailed-guides-and-comparisons/"><u>Exploring Computer Gear with Tom - Detailed Guides & Comparisons</u></a></li>
-<li><a href="https://fox-links.techidaily.com/frame-your-images-right-best-tools-and-sites-of-2023-for-2024/"><u>Frame Your Images Right Best Tools & Sites of 2023 for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/future-memory-tech-unveiled-by-samsung-plans-for-3d-dram-and-advanced-stacking-architecture-released/"><u>Future Memory Tech Unveiled by Samsung: Plans for 3D DRAM and Advanced Stacking Architecture Released</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-moto-g-stylus-5g-2023-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Motorola Moto G Stylus 5G (2023) Phone Without Password?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/insights-into-computing-with-tom-expert-hardware-analysis/"><u>Insights Into Computing with Tom - Expert Hardware Analysis</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/maximize-your-build-potential-msi-now-offers-256gb-memory-support-for-both-intel-and-amd-motherboards/"><u>Maximize Your Build Potential: MSI Now Offers 256GB Memory Support for Both Intel and AMD Motherboards</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-in-2024-best-solarmovie-alternatives-watch-movies-free-online/"><u>New In 2024, Best SolarMovie Alternatives-Watch Movies Free Online</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fix-for-microsoft-store-crash-error-0x800704cf-in-windows/"><u>Quick Fix for Microsoft Store Crash: Error 0X800704CF in Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/samsung-announces-upcoming-3d-dram-integration-next-gen-stacked-dram-lines-in-development/"><u>Samsung Announces Upcoming 3D DRAM Integration: Next-Gen Stacked DRAM Lines in Development</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/save-your-fb-pages-download-8-best-tools-online-and-free-for-2024/"><u>Save Your FB Pages Download 8 Best Tools Online & Free for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/staying-ahead-in-storage-tech-samsung-confirms-300plus-layer-v-nand-development-is-right-on-time/"><u>Staying Ahead in Storage Tech: Samsung Confirms 300+ Layer V-NAND Development Is Right on Time</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-maximize-your-photos-with-samsungs-image-enhancers/"><u>[New] How to Maximize Your Photos with Samsung's Image Enhancers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-10-best-inspirational-movies-that-will-make-you-feel-motivated/"><u>[New] In 2024, 10 Best Inspirational Movies That Will Make You Feel Motivated</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-how-to-charm-your-way-into-a-friends-tiktok-show/"><u>[Updated] 2024 Approved How to Charm Your Way Into a Friend’s TikTok Show</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-clearing-up-confusion-a-guide-to-understanding-youtube-strikes/"><u>[Updated] In 2024, Clearing Up Confusion A Guide to Understanding YouTube Strikes</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-revealing-graphic-excellence-our-top-10-design-tool-list/"><u>2024 Approved Revealing Graphic Excellence Our Top 10 Design Tool List</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-streamline-your-videos-10-best-flv-to-youtube-convertors/"><u>2024 Approved Streamline Your Videos 10 Best FLV to YouTube Convertors</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-guide-installing-epson-xp-410-printer-drivers-on-your-pc/"><u>Complete Guide: Installing Epson XP-410 Printer Drivers on Your PC</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-realme-gt-neo-5-se-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Realme GT Neo 5 SE</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-updated-drivers-for-your-hp-network-device-works-with-win11win7win8-systems/"><u>Download Updated Drivers for Your HP Network Device – Works with Win11/Win7/Win8 Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/downloading-and-updating-logitech-g29-wheel-software-for-optimal-performance-on-modern-windows-operating-systems-windows-7-8-and-10/"><u>Downloading and Updating Logitech G29 Wheel Software for Optimal Performance on Modern Windows Operating Systems (Windows 7, 8 & 10)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-the-future-of-computing-with-amds-newest-epyc-5-processor-a-staggering-128-cores-supported-by-a-512-mb-l3-cache-pool/"><u>Experience the Future of Computing with AMD's Newest EPYC 5 Processor: A Staggering 128 Cores Supported by a 512 MB L3 Cache Pool</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-instant-access-to-updated-samsung-m2070fw-drivers-fast-and-simple-download/"><u>Get Instant Access to Updated Samsung M2070FW Drivers - Fast & Simple Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722968127738-get-the-latest-canon-pixma-ts3322-printer-driver-download-now/"><u>Get the Latest Canon PIXMA TS3322 Printer Driver - Download Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-epson-gt-s50-driver-compatible-with-windows-7-to-10/"><u>Get the Latest Epson GT S50 Driver Compatible with Windows 7 to 10</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-trim-avi-videos-like-a-pro-top-tools-for-every-platform/"><u>In 2024, Trim AVI Videos Like a Pro Top Tools for Every Platform</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722978670615-insignia-10100-mbps-ethernet-to-usb-adapter-driver-download-now/"><u>Insignia 10/100 Mbps Ethernet to USB Adapter Driver - Download Now</u></a></li>
+<li><a href="https://techidaily.com/unlock-iphone-14-pro-lock-with-apple-id-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 14 Pro lock with Apple ID</u></a></li>
 </ul></div>
 

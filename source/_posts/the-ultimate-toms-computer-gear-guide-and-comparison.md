@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Tom's Computer Gear Guide & Comparison
-date: 2024-08-19T10:19:12.333Z
-updated: 2024-08-20T10:19:12.333Z
+date: 2024-11-29T16:16:39.852Z
+updated: 2024-12-05T02:14:18.781Z
 tags:
   - power-supply
 categories:
@@ -26,6 +26,10 @@ See more Real Deals below.
 * **Super Flower Leadex V Platinum PRO 850W PSU:** [**now $129 at Newegg**](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-1204575385719253865%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fsuper-flower-leadex-v-platinum-pro-sf-850f14tp-850w%252Fp%252F1HU-024C-00043) **(was $249)**
 * **Dell G3223D 32-inch USB-C Gaming Monitor:** [**now $299 at Dell**](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-8900246-12578053%3Fsid%3Dtomshardware-us-4397051959775015652%26url%3Dhttps%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-32-usb-c-gaming-monitor-g3223d%2Fapd%2F210-bejf%2Fmonitors-monitor-accessories) **(was $449)**
 * **Netgear 5-Port Gigabit Ethernet Switch:** [**now $14 at Amazon**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB07S98YLHM%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-8422113522705017010-20) **(was $22)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Today’s best deals in detail
 
@@ -63,29 +67,24 @@ See more Real Deals below.
 
 [View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB07S98YLHM%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-8780951100740110730-20)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Looking for more deals?
 
 Category
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/chevron-left.svg "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
  Back to Hubs & Switches
 
 Brand
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Intel
 
  Netgear
@@ -96,9 +95,6 @@ Colour
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Black
 
  Copper
@@ -106,6 +102,10 @@ Colour
 Condition
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  New
 
@@ -116,8 +116,9 @@ Price
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Any Price
 
  Showing 10 of 52 deals
@@ -127,8 +128,9 @@ Any Price
 SORT BY Price (low to high)  Price (high to low) Product Name (A to Z)  Product Name (Z to A)  Retailer name (A to Z)  Retailer name (Z to A) ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [Netgear GS305E](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07PJ7XZ7X%2Fref%3Dasc%5Fdf%5FB07PJ7XZ7X1723888800000%3Ftag%3Dhawk-future-20%26creative%3D395261%26creativeASIN%3DB07PJ7XZ7X%26linkCode%3Dasn%26ascsubtag%3Dtomshardware-us-1310836781021125979-20)
 
 1
@@ -287,8 +289,6 @@ Our Review
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -296,4 +296,24 @@ Our Review
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/updated-navigating-zoom-recordings-for-business-success/"><u>[Updated] Navigating Zoom Recordings for Business Success</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-perfecting-photography-with-phantoms-retrograde-technique/"><u>2024 Approved Perfecting Photography with Phantom's Retrograde Technique</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-precision-sculpting-perfect-circles-spheres-in-minecraft-world/"><u>2024 Approved Precision Sculpting Perfect Circles, Spheres in Minecraft World</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-driver-pack-for-your-logitech-racing-wheel-fast-free-download-for-windowsmac-users/"><u>Complete Driver Pack for Your Logitech Racing Wheel - Fast, Free Download for Windows/Mac Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/differing-approaches-by-computer-companies-in-fulfilling-intels-extended-cpu-warranty-during-hardware-malfunctions/"><u>Differing Approaches by Computer Companies in Fulfilling Intel's Extended CPU Warranty During Hardware Malfunctions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-fix-installing-the-latest-broadcom-ethernet-driver-on-windows-11-systems/"><u>Easy Fix: Installing the Latest Broadcom Ethernet Driver on Windows 11 Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-dell-wifi-network-driver-for-windows-7-here/"><u>Get Your Dell WiFi Network Driver For Windows 7 Here</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Infinix Note 30 VIP Racing Edition? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-install-or-update-sapphire-graphics-drivers-on-windows-computers/"><u>How to Install or Update Sapphire Graphics Drivers on Windows Computers</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-honor-magic-6-lite-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Honor Magic 6 Lite to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-x9a-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor X9a to Outlook | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/optimize-your-dell-device-with-latest-system-management-bus-controller-upgrade/"><u>Optimize Your Dell Device with Latest System Management Bus Controller Upgrade</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-download-of-realtek-ethernet-driver-for-microsoft-windows-operating-systems-windows-710/"><u>Quick Download of Realtek Ethernet Driver for Microsoft Windows Operating Systems (Windows 7/10)</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-windows-10s-persistent-update-problem-error-code-0x80070541/"><u>Solving Windows 10'S Persistent Update Problem: Error Code 0X80070541</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-instructions-for-fresh-logitech-m525-software-installation/"><u>Step-by-Step Instructions for Fresh Logitech M525 Software Installation</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-art-of-auditory-alchemy-does-the-magic-voice-modifier-work-seek-alternates-for-2024/"><u>The Art of Auditory Alchemy Does the Magic Voice Modifier Work? Seek Alternates for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unlocking-potential-an-in-depth-look-at-the-open-source-capabilities-of-the-linksys-wrt1900ac-wi-fi-router/"><u>Unlocking Potential: An In-Depth Look at the Open Source Capabilities of the Linksys WRT1900AC Wi-Fi Router</u></a></li>
+</ul></div>
 

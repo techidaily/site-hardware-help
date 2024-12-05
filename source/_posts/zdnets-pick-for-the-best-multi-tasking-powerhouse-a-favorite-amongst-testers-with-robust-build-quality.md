@@ -1,7 +1,7 @@
 ---
 title: ZDNet's Pick for the Best Multi-Tasking Powerhouse - A Favorite Amongst Testers with Robust Build Quality!
-date: 2024-11-18T16:27:17.376Z
-updated: 2024-11-25T16:32:56.146Z
+date: 2024-11-27T21:00:09.941Z
+updated: 2024-12-05T08:28:19.567Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -73,7 +73,7 @@ Asus' Vivobook Pro 15 does a good job playing media. Hi-res videos look stunning
 In line with my initial impression, the device is a little on the bulky side, but the extra heft is not a big deal because it's lightweight and the extra room allows for a wide array of ports. You get two USB-Cs, a pair of USB-A inputs that support transfer speeds of up to 5GBPS, HDMI, an ethernet port, and an SD card slot.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -112,16 +112,18 @@ If you want something more powerful, I suggest checking out the MSI Creator Z16 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-the-beat-of-instagram-music-strategies/"><u>[New] The Beat of Instagram Music Strategies</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-best-chuckle-inducing-edits-on-mobile-platforms/"><u>[Updated] 2024 Approved Best Chuckle-Inducing Edits on Mobile Platforms</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-latest-hp-laserjet-pro-m404n-printer-drivers-faster-reliable-support/"><u>Download the Latest HP LaserJet Pro M404n Printer Drivers - Faster, Reliable Support</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/equality-in-tech-easeus-experts-take/"><u>Equality in Tech EaseUS Experts' Take</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-honor-80-pro-straight-screen-edition-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Honor 80 Pro Straight Screen Edition Phones with/without a PC</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-asus-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Asus?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-path-to-millions-of-views-on-youtube-videos/"><u>In 2024, The Path to Millions of Views on YouTube Videos</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/olympic-rush-short-track-speed-skating-saga/"><u>Olympic Rush Short-Track Speed Skating Saga</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/seamless-logitech-driver-installation-process-for-windows-rapid-and-straightforward-guide/"><u>Seamless Logitech Driver Installation Process for Windows - Rapid & Straightforward Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-process-for-efficient-nvidia-gtx-gigatronix-1660-driver-update/"><u>Step-by-Step Process for Efficient Nvidia GTX ˈGigatronix 1660 Driver Update</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/xbox-adapter-driver-downloads-for-quick-setup-and-hassle-free-usage/"><u>Xbox Adapter Driver Downloads for Quick Setup & Hassle-Free Usage</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-from-beginner-to-expert-in-funimate/"><u>[Updated] In 2024, From Beginner to Expert in Funimate</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-natures-canvas-your-ultimate-guide-to-free-screen-template-downloads/"><u>[Updated] In 2024, Nature's Canvas Your Ultimate Guide to Free Screen Template Downloads</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-immerse-in-pixel-worlds-the-best-pc-vr-playback-titles-compared/"><u>2024 Approved Immerse in Pixel Worlds The Best PC VR Playback Titles Compared</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/a-guide-to-excellence-with-zd-soft-screen-capture/"><u>A Guide to Excellence with ZD Soft Screen Capture</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-sony-xperia-5-v-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Sony Xperia 5 V</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/is-intel-headed-towards-a-fate-similar-to-nokias-decline/"><u>Is Intel Headed Towards a Fate Similar to Nokia's Decline?</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-the-best-of-both-worlds-free-and-paid-3d-animation-software-options/"><u>New 2024 Approved The Best of Both Worlds Free and Paid 3D Animation Software Options</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/overcoming-poor-television-sound-quality-effective-alternatives-and-techniques-available-now/"><u>Overcoming Poor Television Sound Quality: Effective Alternatives and Techniques Available Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/pixel-9-pro-launched-ahead-of-schedule-by-google/"><u>Pixel 9 Pro Launched Ahead of Schedule by Google</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-nokia-c32-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Nokia C32 Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-windows-runtime-errors-fixing-error-0xc00000e9-with-ease/"><u>Troubleshooting Windows Runtime Errors – Fixing Error 0xC00000E9 with Ease</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/understanding-display-clarity-comparing-1080p-144-monitor-showdown-the-clear-distinctions-between-1080p-1440p-and-4k-screens/"><u>Understanding Display Clarity: Comparing 1080P, 144 Monitor Showdown: The Clear Distinctions Between 1080P, 1440P & 4K Screens</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-allure-of-apples-latest-creation-the-high-end-ipad-pro-m4/"><u>Unveiling the Allure of Apple's Latest Creation: The High-End iPad Pro (M4)</u></a></li>
 </ul></div>
 

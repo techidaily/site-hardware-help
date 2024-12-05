@@ -1,7 +1,7 @@
 ---
 title: "Top 38 Unbeatable Cyber Week Deals at Costco: Exclusive Discounts on Televisions, Laptops & Tablets - Shop Now!"
-date: 2024-11-18T16:29:46.459Z
-updated: 2024-11-25T16:04:32.919Z
+date: 2024-11-28T00:16:29.184Z
+updated: 2024-12-04T22:59:25.717Z
 tags:
   - laptops
 categories:
@@ -22,15 +22,15 @@ Black Friday and Cyber Monday just passed, but that doesn't mean you have to giv
 
 [![04-bf-cm.png](https://www.zdnet.com/a/img/resize/954e855aae296b0590d40ff6eba4167fd27f3d67/2022/11/29/2911e8eb-1a11-4aa3-8ff7-015c7e854046/04-bf-cm.png?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best Black Friday and Cyber Monday tech deals still available If you missed out on this year's mega sale events, no problem. ZDNET is rounding up the best tech deals still available, right here.  Read now](https://www.zdnet.com/collection/cyber-monday/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Target has an expansive catalog of items on sale, but we only picked items that have at least a 20% discount since we know there's lots of gift-giving going on. We included all kinds of devices, from smartwatches to TVs and wireless headphones. So, if you're looking for a discount, we've got you covered. 
 
 If you're doing all or most of your holiday shopping at Target, it's important to know that the prices included in this list are how much you'll pay if you buy the item online, and prices will vary if you decide to buy an item in-store. Typically, buying online is cheaper, regardless of whether you then have it shipped or pick it up from the store. 
 
 If you're looking for all holiday deals, our experts searched other major retailers, like [Walmart](https://www.zdnet.com/article/walmart-early-cyber-monday-deals-november-27-2022/), [Costco](https://www.zdnet.com/home-and-office/costco-early-cyber-monday-deals-november-27-2022/), [Best Buy](https://www.zdnet.com/article/best-buy-early-cyber-monday-deals-november-27-2022/), [Amazon](https://www.zdnet.com/article/amazon-early-cyber-monday-deals-november-27-2022/), and [Newegg](https://www.zdnet.com/article/newegg-early-cyber-monday-deals-november-27-2022/) to help you find the [best Cyber Monday deals](https://www.zdnet.com/article/best-early-cyber-monday-deals-november-27-2022/) still available. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Best Target Cyber Monday deals**
 
@@ -70,12 +70,16 @@ Amazon's streaming media player includes 4K viewing, live and free TV channels, 
 [View now at Target](https://shop-links.co/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Famazon-fire-tv-stick-with-4k-ultra-hd-streaming-media-player-and-alexa-voice-remote-2nd-generation%2F-%2FA-54188026%23lnk%3Dsametab&publisher_slug=itechdaily19598&exclusive=1) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Target Cyber Monday Smartwatch Deals**
 
 [Garmin Venu 2S Smartwatch for $300 (save $50) $300 at Garmin](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.garmin.com/en-US/p/707572/pn/010-02429-01)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Target Cyber Monday headphones deals**
 
@@ -87,12 +91,16 @@ Amazon's streaming media player includes 4K viewing, live and free TV channels, 
 
 [Bose QuietComfort 45 wireless bluetooth noise-cancelling headphones for $230 (save $100) $230 at Target](https://shop-links.co/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Fbose-quietcomfort-45-wireless-bluetooth-noise-cancelling-headphones%2F-%2FA-84692788%3Fpreselect%3D82797330%23lnk%3Dsametab&publisher%5Fslug=zdnet&article%5Fname=17%20best%20target%20cyber%20monday%20deals%20still%20available%20in%202022%3A%20tvs%2C%20headphones%2C%20speakers%20on%20sale&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Ftarget-best-holiday-deals-2022%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Target Cyber Monday streaming device deals**
 
 [Roku 4K Streaming Stick with voice control for $25 (save $25) $25 at Target](https://shop-links.co/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Froku-streaming-stick-4k-2021-streaming-device-4k-hdr-dolby-vision-with-voice-remote-and-tv-controls-3820r%2F-%2FA-52709600%23lnk%3Dsametab&publisher%5Fslug=zdnet&article%5Fname=17%20best%20target%20cyber%20monday%20deals%20still%20available%20in%202022%3A%20tvs%2C%20headphones%2C%20speakers%20on%20sale&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Ftarget-best-holiday-deals-2022%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Target Cyber Monday TV deals**
@@ -100,10 +108,6 @@ Amazon's streaming media player includes 4K viewing, live and free TV channels, 
 [Vizio D-Series 40-inch Class 1080p LED HD Smart TV for $200 (save $50) $249.99 at Walmart](https://goto.walmart.com/c/159047/568844/9383?veh=aff&sourceid=imp%5F000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F223245823&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 [Vizio 50-inch Class M6 4K QLED Smart TV for $400 (save $130) $400 at Target](https://shop-links.co/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Fvizio-50-34-class-m6-series-4k-qled-hdr-smart-tv-with-dolby-vision-voice-remote-and-gaming-engine-m50q6-j01%2F-%2FA-86871198%23lnk%3Dsametab&publisher%5Fslug=zdnet&article%5Fname=17%20best%20target%20cyber%20monday%20deals%20still%20available%20in%202022%3A%20tvs%2C%20headphones%2C%20speakers%20on%20sale&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Ftarget-best-holiday-deals-2022%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Target Cyber Monday speaker deals**
 
@@ -114,6 +118,10 @@ Amazon's streaming media player includes 4K viewing, live and free TV channels, 
 [Bose SoundLink Micro bluetooth speaker for $90 (save $30) $90 at Target](https://shop-links.co/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Fbose-soundlink-micro-bluetooth-speaker%2F-%2FA-52980540%3Fpreselect%3D52808617%23lnk%3Dsametab&publisher%5Fslug=zdnet&article%5Fname=17%20best%20target%20cyber%20monday%20deals%20still%20available%20in%202022%3A%20tvs%2C%20headphones%2C%20speakers%20on%20sale&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Ftarget-best-holiday-deals-2022%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 [Google Nest Mini (2nd generation) for $20 (save $29) $20 at Target](https://shop-links.co/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Fgoogle-nest-mini-2nd-generation%2F-%2FA-78589456&publisher%5Fslug=zdnet&article%5Fname=17%20best%20target%20cyber%20monday%20deals%20still%20available%20in%202022%3A%20tvs%2C%20headphones%2C%20speakers%20on%20sale&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Ftarget-best-holiday-deals-2022%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How did we choose Cyber Monday deals at Target?
 
@@ -145,10 +153,6 @@ Our experts split out the best deals by retailer, brand, and category, which you
 * [The best holiday 2022 deals at Target](https://www.zdnet.com/article/target-best-holiday-deals-2022/)
 * [The best holiday 2022 deals at Walmart](https://www.zdnet.com/article/walmart-best-holiday-deals-2022/)
 * [Top early holiday 2022 deals at Best Buy](https://www.zdnet.com/article/best-buy-holiday-deals-2022/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Holiday deals by brand**
 
@@ -182,10 +186,6 @@ Our experts split out the best deals by retailer, brand, and category, which you
  Here are some of the cheapest deals we found:
 
 * [The best holiday 2022 deals under $30](https://www.zdnet.com/home-and-office/best-holiday-deals-under-30-2022/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Cyber Monday live blog deals still available**
 
@@ -235,15 +235,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-effortlessly-engage-with-an-array-of-available-youtube-content/"><u>[New] In 2024, Effortlessly Engage with an Array of Available YouTube Content</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discovering-top-gear-with-toms-hardware-insights/"><u>Discovering Top Gear with Tom's Hardware Insights</u></a></li>
-<li><a href="https://win-great.techidaily.com/how-to-convert-mp4-videos-into-personalized-iphone-ringtones-easily/"><u>How to Convert MP4 Videos Into Personalized iPhone Ringtones Easily</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-keep-your-samsung-mobile-connected-update-its-usb-drivers-today/"><u>How to Keep Your Samsung Mobile Connected: Update Its USB Drivers Today</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-7-best-online-voice-recorders-2023/"><u>In 2024, 7 Best Online Voice Recorders 2023</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Apple iPhone 6s Plus | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722971859410-install-razer-mouse-drivers-on-windows-easily-and-quickly/"><u>Install Razer Mouse Drivers on Windows - Easily & Quickly</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mac-friendly-techniques-a-beginners-guide-to-handling-rar-compression-formats/"><u>Mac Friendly Techniques: A Beginner's Guide to Handling RAR Compression Formats</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-install-xbox-wireless-controller-driver-setup-guide/"><u>Quick Install: Xbox Wireless Controller Driver Setup Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722976614762-update-your-hp-scanjet-printer-drivers-on-windows-1087-free-download/"><u>Update Your [HP Scanjet Printer Drivers] on Windows 10/8/7 - Free Download</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-ecological-architecture-merging-nature-and-city-planning-for-2024/"><u>[New] Ecological Architecture Merging Nature and City Planning for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-exclusive-no-fee-fb-visual-content-craftsman/"><u>[Updated] 2024 Approved Exclusive No-Fee FB Visual Content Craftsman</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-chrome-pip-integration-a-cross-platform-tutorial/"><u>[Updated] Chrome PIP Integration A Cross-Platform Tutorial</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-recovering-individual-snap-secrets/"><u>[Updated] Recovering Individual Snap Secrets</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-samsung-galaxy-m14-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Samsung Galaxy M14 5G Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-atheros-network-adapter-drivers-on-your-windows-pc/"><u>Download and Install Atheros Network Adapter Drivers on Your Windows PC</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/easily-turn-your-mpeg4-videos-into-mp3-audio-with-these-steps-no-cost/"><u>Easily Turn Your MPEG4 Videos Into MP3 Audio with These Steps (No Cost)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/essential-drivers-for-epson-ds-530-compatible-with-windows-10-64-bit/"><u>Essential Drivers for Epson DS-^530 - Compatible With Windows 10 (64-Bit)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-tips-securely-download-sades-headset-drivers-for-windows-without-any-hassle/"><u>Expert Tips: Securely Download Sades Headset Drivers for Windows Without Any Hassle</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-samsung-galaxy-m14-4g-is-unlocked-by-drfone-android/"><u>How To Check if Your Samsung Galaxy M14 4G Is Unlocked</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-t2-pro-5g-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on T2 Pro 5G</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-motorola-edge-40-neo-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Motorola Edge 40 Neo Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-fresh-geforce-rtx-3080-driver-pack-optimize-gaming-on-win-1087/"><u>Install Fresh GeForce RTX 3080 Driver Pack | Optimize Gaming on Win 10/8/7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/j-edgar/"><u>J. Edgar</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-canon-pixma-mg3620-driver-version-available-for-windows-10817-users/"><u>Latest Canon PIXMA MG3620 Driver Version Available for Windows 10/8.1/7 Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-version-of-sound-blaster-audigy-fx-audio-drivers-available-for-download/"><u>Latest Version of Sound Blaster Audigy FX Audio Drivers Available for Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-the-world-of-computing-components-with-toms-expertise/"><u>Navigating the World of Computing Components with Tom's Expertise</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-repairing-csgo-audio-problems/"><u>Troubleshooting and Repairing CS:GO Audio Problems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-latest-in-pc-components-with-toms-hardware-review/"><u>Unveiling the Latest in PC Components with Tom's Hardware Review</u></a></li>
 </ul></div>
 

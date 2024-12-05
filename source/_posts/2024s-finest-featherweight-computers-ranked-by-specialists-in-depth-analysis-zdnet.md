@@ -1,7 +1,7 @@
 ---
 title: 2024'S Finest Featherweight Computers Ranked by Specialists | In-Depth Analysis - ZDNET
-date: 2024-11-20T16:23:23.981Z
-updated: 2024-11-25T16:03:19.114Z
+date: 2024-11-28T17:32:03.676Z
+updated: 2024-12-05T10:07:33.700Z
 tags:
   - laptops
 categories:
@@ -28,10 +28,6 @@ All of the ultraportable laptops on this list sport cutting-edge form factors, a
 
 Our overall top pick for the best lightweight laptop has to go to the [Apple MacBook Air M3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX24JRLR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C668fdd14-62fe-4f5f-ab26-348748ed1dd8%7Cdtp&dtb=1). In terms of portability, sleek form factor, solid battery life, and AI-capabilities, the MacBook Air M3 reigns supreme among the lightest of the light. It might not be the best pick for you, however, so we included other options that round out the spectrum of common use cases. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The best ultraportable laptops of 2024
 
 Show less 
@@ -49,7 +45,15 @@ Cons
 * 8GB of RAM on base model is limiting
 * Built-in speakers could be stronger
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple MacBook Air M3
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best lightweight laptop overall
 
@@ -80,7 +84,7 @@ Cons
 * Loud fans
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Acer Swift Go 14
@@ -112,10 +116,6 @@ Cons
 * Comes pre-loaded with bloatware
 
 ## Asus ROG Zephyrus G14
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best lightweight laptop for gaming
 
@@ -149,7 +149,7 @@ Cons
 ## LG Gram Pro 17
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best lightweight laptop with a 17" display
@@ -181,15 +181,7 @@ Cons
 * Battery life is not the best
 * Expensive
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Lenovo ThinkPad X1 Carbon
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best lightweight laptop for work
 
@@ -204,6 +196,10 @@ It also comes with an 8MP webcam that can shoot in 4K, perfect for presenting a 
 **Lenovo ThinkPad X1 Carbon t** **ech specs:** Intel Core Ultra 7 155H processor | Integrated Intel graphics card | 16GB memory, 1TB SSD | 14-inch OLED display | Up to 8 hours of battery life | 2.47 lbs 
 
 Show Expert Take Show less 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the best lightweight laptop?
 
@@ -229,6 +225,10 @@ The best lightweight laptop for you depends on what you want to get out of it. L
 | LG Gram Pro 17                      | The lightest, thinnest 17-inch laptop on the market, no matter the cost.                 |
 | Lenovo X1 Carbon                    | A durable, powerful laptop for work.                                                     |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How we test lightweight laptops
 
 Kyle Kucharski/ZDNET
@@ -245,10 +245,6 @@ We use a combination of methods to test laptops here at ZDNET. First, we acquire
 
 Ultimately, our goal is to break down the capabilities of each and every laptop we test into digestible terms that real people can find useful. There is a lot of noise and confusion when it comes to navigating the laptop and computer consumer market, so we hope to bring an intuitive element to the whole process by leveraging our team's decades of experience. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Factors to consider when choosing a lightweight laptop
 
 These laptops all offer solid performance in their own right, but paired with their lightweight design, bring a new level of convenience with their portability. Keep in mind that the differences in their weight here are broken down to tenths of a pound, while most people won't even notice much of a difference between two and three pounds. These other factors went into the decision making process: 
@@ -256,6 +252,10 @@ These laptops all offer solid performance in their own right, but paired with th
 * **Display:** All of the laptops evaluated here are the 14" versions, except the Gram Pro 17 of course, which is 17-inches and still one of the lightest.
 * **Battery life:** In order to be considered for this list, I considered machines with better-than-average battery life. This is one metric that will vary significantly based on use case, but all of these laptops will easily last an entire workday (eight hours) on one charge, even while undergoing demanding workloads
 * **Price:** Cost is an important factor and will make or break many consumers' choices. The reality is that ultraportability does come at a cost, as none of these laptops would be considered "budget" by any rate. The Acer Swift Go 14, however, is still quite affordable, starting at $800, though upgrades will move that number more in line with the others on this list.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why does having a lightweight laptop matter?
 
@@ -335,18 +335,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-how-will-instagrams-algorithm-update-transform-feeds/"><u>[New] 2024 Approved How Will Instagram’s Algorithm Update Transform Feeds?</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-the-ultimate-list-of-top-tier-facebook-profile-picture-designers/"><u>[New] In 2024, The Ultimate List of Top-Tier Facebook Profile Picture Designers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amd-ryzen-nine-9950x-surprises-with-top-five-performance-trails-behind-xeon-and-threadripper-in-watercooled-benchmark-trials/"><u>AMD Ryzen Nine-9950X Surprises with Top Five Performance, Trails Behind Xeon and Threadripper in Watercooled Benchmark Trials!</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/tream-100-cutting-edge-learning-yt/"><u>Edu-Stream 100 Cutting-Edge Learning YT</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/epson-wf-2n630n-software-downloads-for-windows-operating-systems-78110-supported/"><u>Epson WF 2N630N Software Downloads for Windows Operating Systems - 7/8.1/10 Supported</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-high-end-asus-monitor-4k-precision-hdr-mastery/"><u>In 2024, High-End ASUS Monitor 4K Precision, HDR Mastery</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-realme-12-5g-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Realme 12 5G</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/new-extended-warranty-period-announced-by-intel-for-gen-13-and-gen-14-processors-amidst-rising-instability-reports/"><u>New Extended Warranty Period Announced by Intel for Gen 13 and Gen 14 Processors Amidst Rising Instability Reports</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolved-steps-to-retrieve-and-install-device-drivers-on-windows-10-8-and-7-systems/"><u>Resolved! Steps to Retrieve and Install Device Drivers on Windows 10, 8 & 7 Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/tech-giant-intels-workforce-slash-exceeding-15-amidst-yield-problems-with-meteor-lake-investors-brace-for-suspended-dividends/"><u>Tech Giant Intel's Workforce Slash Exceeding 15% Amidst Yield Problems with Meteor Lake; Investors Brace for Suspended Dividends</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unlock-ultra-hd-entertainment-comprehensive-2021-apple-tv-4k-review/"><u>Unlock Ultra HD Entertainment: Comprehensive 2021 Apple TV 4K Review</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-or-download-drivers-the-ultimate-guide-for-epson-xp-420-printers/"><u>Update or Download Drivers - The Ultimate Guide for Epson XP 420 Printers</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/1726027020988-youtube/"><u>YouTube鑑賞方法：スマホなしでクロームブックを活用する</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-precision-mixing-techniques-with-logics-audio-fading/"><u>[New] Precision Mixing Techniques with Logic's Audio Fading</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-samsungs-advanced-2023-bd-j5900-reviewed-here/"><u>[New] Samsung's Advanced 2023 BD-J5900 Reviewed Here</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-easy-steps-to-document-video-calls/"><u>2024 Approved Easy Steps to Document Video Calls</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/acer-chromebook-15-review-decent-chromebook-with-a-big-screen/"><u>Acer Chromebook 15 Review: Decent Chromebook With a Big Screen</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-latest-hp-laptop-driver-updates-for-windows/"><u>Download & Install Latest HP Laptop Driver Updates for Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-logitech-g910-mouse-driver-update-and-installation-guide-for-pc-users/"><u>Download the Logitech G910 Mouse Driver: Update and Installation Guide for PC Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-steps-to-get-your-hp-officejet-3830-printing-online-in-windows/"><u>Easy Steps to Get Your HP OfficeJet 3830 Printing Online in Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/elevate-your-gameplay-with-amds-new-titans-the-ryzen-5-9600x-and-ryzen-7-9700x-on-zen-5-in-depth-performance-review/"><u>Elevate Your Gameplay with AMD's New Titans - The Ryzen 5 9600X and Ryzen 7 9700X on Zen 5: In-Depth Performance Review</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-infinix-gt-10-pro-lock-screen-password-by-drfone-android/"><u>How To Change Infinix GT 10 Pro Lock Screen Password?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-ultimate-list-top-10-high-res-4k-cameras-in-smartphones/"><u>In 2024, Ultimate List Top 10 High-Res 4K Cameras in Smartphones</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-epson-ds-530-printer-drivers-on-your-windows-10-x64-pc-get-them-here/"><u>Install Epson DS-^530 Printer Drivers on Your Windows 10 (X64) PC - Get Them Here</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/precision-zooms-for-peak-snapchat-performance-for-2024/"><u>Precision Zooms for Peak Snapchat Performance for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/secure-update-hp-officejet-pro-9015-drivers-downloads/"><u>Secure Update: HP OfficeJet Pro 9015 Drivers Downloads</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/solving-your-hp-screen-driver-complications-on-windows-pc-platforms/"><u>Solving Your HP Screen Driver Complications on Windows PC Platforms</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-tackle-non-functioning-mic-with-xbox/"><u>Strategies to Tackle Non-Functioning Mic with Xbox</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-in-depth-computer-component-reviews/"><u>Tom's Tech Insights: In-Depth Computer Component Reviews</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/visit-the-manufacturers-official-website-to-find-the-most-recent-drivers-compatible-with-your-system-eg-dell-or-hp-download-all-essential-drivers-related-to148/"><u>Visit the Manufacturer's Official Website to Find the Most Recent Drivers Compatible with Your System, E.g., Dell or HP. Download All Essential Drivers Related to USB Ports and Chipset Firmware Updates if Available</u></a></li>
 </ul></div>
 

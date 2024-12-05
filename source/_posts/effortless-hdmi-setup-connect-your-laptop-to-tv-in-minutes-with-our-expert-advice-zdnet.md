@@ -1,7 +1,7 @@
 ---
 title: "Effortless HDMI Setup: Connect Your Laptop to TV in Minutes with Our Expert Advice | ZDNet"
-date: 2024-11-18T16:02:00.767Z
-updated: 2024-11-25T16:11:54.901Z
+date: 2024-12-01T18:46:09.248Z
+updated: 2024-12-05T00:36:01.635Z
 tags:
   - laptops
 categories:
@@ -28,6 +28,10 @@ Let us show you how to quickly and easily take a screenshot on everything from a
 
 ## How to take screenshots on any laptop
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Requirements
 
 You'll need your laptop and, in some cases, basic image editing software. The entire process should two minutes or less, depending on which method and operating system you're using.
@@ -36,14 +40,10 @@ You'll need your laptop and, in some cases, basic image editing software. The en
 
 While the process for taking a screenshot on every laptop varies somewhat, the biggest differences will be between Windows-based laptops, like those made by Dell, Lenovo, and others, and those made by Apple, which run MacOS. Let's cover Windows-based laptops first.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Option 1: The old fashioned way**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Use your Print Screen key
@@ -68,11 +68,11 @@ An example of a screenshot pasted into the Windows 11 version of Microsoft Paint
 
 Michael Gariffo/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Option 2: The Snipping Tool and Win+Shift+S**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Open the Snipping Tool or press Win+Shift+S
 
@@ -90,10 +90,6 @@ Michael Gariffo/ZDNET
 
 The process on Macs uses a less intuitive hotkey, but also doesn't require any software or pasting. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Press Shift+Cmd+3
 
 To take a screenshot on any Mac, including MacBook laptops, just press Shift+Cmd+3\. Unlike Windows, this won't copy the screen to your clipboard, it will actually save the capture as an image file on your desktop using the format "Screen Shot \[date\] at \[time\].png."
@@ -104,19 +100,23 @@ These are the three keys you'll need to press at once on a mac to take a standar
 
 Michael Gariffo/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQ
 
 ### Is there an easy way to record video of my laptop screen too?
 
 There sure is. For Mac users, we've already covered [how to capture recordings of your system](https://www.zdnet.com/article/how-to-take-screenshots-and-screen-recordings-on-your-mac/) using MacOS' built-in QuickTime player. While Windows will soon have a similar, built-in function that's [being added to the Snipping Tool mentioned above](https://www.zdnet.com/article/windows-11s-screenshot-tool-gets-a-screen-recorder/), you can [use the Xbox Game Bar included in Windows 10 and 11](https://www.zdnet.com/article/how-to-record-your-screen-in-windows-with-xbox-game-bar/) in the meantime to record not just your gaming, but any on-screen activity. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What's a good, free image editing software to use on my screenshots?
 
 At ZDNET [we like Pixlr](https://pixlr.com/). It's a free web app that handles most of the basic tasks you'll want to apply to your screenshots, including cropping, resizing, and adding text. It even includes some more advanced effects like a liquify tool. If you need something even more advanced, but only occasionally, we have [a guide on using Adobe's free trial](https://www.zdnet.com/article/how-to-get-photoshop-for-free/) program to get short-term access to Photoshop.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Why does \[insert on-screen item here\] look weird in my screenshot?
 
@@ -157,20 +157,19 @@ There's a few reasons why things can look strange in your screenshots. Animated 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-the-ultimate-guide-to-selecting-text-enhancement-websites/"><u>[New] 2024 Approved The Ultimate Guide to Selecting Text Enhancement Websites</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ontent-distribution-showdown-vimeo-vs-youtubes-and-dailymotions/"><u>[New] Content Distribution Showdown Vimeo vs YouTubes and DailyMotions</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-undead-unleashed-discovering-the-ultimate-zombie-games/"><u>[Updated] In 2024, Undead Unleashed Discovering the Ultimate Zombie Games</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/evolucion-completa-manual-de-uso-para-el-programa-winxdvd/"><u>Evolución Completa: Manual De Uso Para El Programa WinXDVD</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-expedite-visuals-drawing-and-enhancing-with-windows-photos-app/"><u>In 2024, Expedite Visuals Drawing & Enhancing with Windows Photos App</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-call-of-duty-wwiis-windows-black-screen-fault-expert-solutions-unlocked/"><u>Overcoming Call of Duty WWII's Windows Black Screen Fault - Expert Solutions Unlocked</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/ripristina-i-file-persi-da-onedrive-post-sincronizzazione-il-tuo-guida-definitiva/"><u>Ripristina I File Persi Da OneDrive Post-Sincronizzazione: Il Tuo Guida Definitiva</u></a></li>
-<li><a href="https://windows11.techidaily.com/tailoring-your-touch-to-the-world-of-win11-keybindings/"><u>Tailoring Your Touch to the World of Win11 Keybindings</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-quintessential-saga-of-online-communication-delving-into-facebook-twitter-instagram-and-youtube/"><u>The Quintessential Saga of Online Communication: Delving Into Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-insights/"><u>Tom's Tech Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-unveiling-the-latest-in-computer-components-and-gadgets/"><u>Tom's Tech Insights: Unveiling the Latest in Computer Components and Gadgets</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-review-in-depth-insights-on-the-latest-hardware/"><u>Tom's Tech Review: In-Depth Insights on the Latest Hardware</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-review-the-ultimate-guide-to-computer-components-t17238642572617/"><u>Tom's Tech Review: The Ultimate Guide to Computer Components</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-reviews-in-depth-insights-and-evaluations/"><u>Tom's Tech Reviews: In-Depth Insights and Evaluations</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-specs-expert-insights-into-computer-components/"><u>Tom's Tech Specs: Expert Insights Into Computer Components</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nderstanding-and-implementing-cc-licenses-wisely-for-2024/"><u>[New] Understanding & Implementing CC Licenses Wisely for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-dive-into-time-lapse-with-advanced-canon-tactics/"><u>[Updated] Dive Into Time-Lapse with Advanced Canon Tactics</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-pinnacle-panoramics-selecting-the-best-8k-cameras/"><u>[Updated] Pinnacle Panoramics Selecting the Best 8K Cameras</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-path-to-perfect-sims-video-sessions/"><u>[Updated] The Path to Perfect Sims Video Sessions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-token-threshold-what-lies-beyond/"><u>ChatGPT Token Threshold: What Lies Beyond?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-steps-to-download-updated-targus-displaylink-drivers-for-your-windows-system/"><u>Easy Steps to Download Updated Targus DisplayLink Drivers for Your Windows System</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-amd-rx-hem-6800-xt-drivers-compatible-with-multiple-windows-oss-free/"><u>Get the Latest AMD RX Hem 6800 XT Drivers Compatible with Multiple Windows OSs [Free]</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-amd-gpus-ready-for-ethereum-mining-with-the-latest-windows-drivers/"><u>Get Your AMD GPUs Ready for Ethereum Mining with the Latest Windows Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-install-broadcom-bluetooth-adapter-driver-on-windows-11-8-or-7/"><u>How to Install Broadcom Bluetooth Adapter Driver on Windows 11, 8 or 7</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-lava-agni-2-5g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Lava Agni 2 5G</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-chuckle-creation-making-memes-on-kapwing/"><u>In 2024, Chuckle Creation Making Memes on Kapwing</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723262326169-ryzen-cpu-enthusiasts-rejoice-amds-latest-addition-the-powerful-ryzen-ai-9-hx-375-makes-its-debut/"><u>Ryzen CPU Enthusiasts Rejoice: AMD's Latest Addition, the Powerful Ryzen AI 9 HX 375 Makes Its Debut</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-updating-atheros-wireless-drivers-in-windows/"><u>Step-by-Step Guide: Updating Atheros Wireless Drivers in Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unraveling-the-distinctions-gpt-4-gpt-4-turbo-and-gpt-n-variants/"><u>Unraveling the Distinctions: GPT-4, GPT-4 Turbo, and GPT-N Variants</u></a></li>
 </ul></div>
 

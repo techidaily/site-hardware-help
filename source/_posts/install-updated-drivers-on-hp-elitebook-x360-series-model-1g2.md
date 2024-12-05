@@ -1,7 +1,7 @@
 ---
 title: Install Updated Drivers on HP EliteBook X360 Series - Model 1#G2
-date: 2024-08-19T12:22:09.862Z
-updated: 2024-08-20T12:22:09.862Z
+date: 2024-11-28T06:40:46.515Z
+updated: 2024-12-05T06:25:06.483Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/dbece127b3474bfee03fecc83648c4194241691bd
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/intel_iris_plus_graphics.jpg)
 
  Want to download and update the Intel Iris Plus Graphics 655 driver on your computer? You’ve come to the right place! In this post, we’ll show you two easy ways to download and install the driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Two ways to update your driver
 
@@ -46,8 +50,9 @@ thumbnail: https://thmb.techidaily.com/dbece127b3474bfee03fecc83648c4194241691bd
  After updating your drivers, restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 2 – Download and install Intel Iris Plus Graphics 655 driver manually
 
  Intel keeps updating drivers. To get them, you need to go to the Intel download center, find the drivers corresponding with your specific flavor of Windows version (for example, Windows 10 64 bit) and download the driver manually. Here’s how:
@@ -56,25 +61,27 @@ thumbnail: https://thmb.techidaily.com/dbece127b3474bfee03fecc83648c4194241691bd
 2. Under Select Your Product, choose**Graphics** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/intel-graphics.jpg)
 3. In the search box, type**Intel Iris Plus graphics 655** and press**Enter** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/type-655.jpg)
 4. Click**Intel® Graphics – Windows\* DCH Drivers** .  
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/intel-graphics-DCH-drivers.jpg)
 5. Download the latest version of the driver.  
+
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/intel-latest-graphics-driver.jpg)
 6. Once you’ve downloaded the file, double-click on it and follow the on-screen instructions to**install the driver** .
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 7. **Restart your computer** for the changes to take effect.
 
 ---
@@ -89,8 +96,6 @@ thumbnail: https://thmb.techidaily.com/dbece127b3474bfee03fecc83648c4194241691bd
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -98,4 +103,20 @@ thumbnail: https://thmb.techidaily.com/dbece127b3474bfee03fecc83648c4194241691bd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-ideal-steadicams-for-capturing-quality-uav-visuals/"><u>[Updated] In 2024, Ideal Steadicams for Capturing Quality UAV Visuals</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-unveiling-facebooks-secrets-30-insider-tricks-for-growth/"><u>[Updated] Unveiling Facebook's Secrets 30 Insider Tricks for Growth</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024vlciso/"><u>「2024」におけるVLC再生時のISOファイル不正認識:トラブルシューティングガイド</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/a-week-with-an-ergonomic-split-keyboard-how-my-entire-setup-transformed-techradar/"><u>A Week with an Ergonomic Split Keyboard: How My Entire Setup Transformed | TechRadar</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-enhanced-artifice-intelligence-spotlight-on-samsungs-newest-copilotplus-series/"><u>Discover Enhanced Artifice Intelligence: Spotlight on Samsung's Newest Copilot+ Series</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-guide-to-enablingdisabling-multitasking-in-safari-for-2024/"><u>Expert Guide to Enabling/Disabling Multitasking in Safari for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-bebops-avian-acrobatics-a-parrot-revelation/"><u>In 2024, Bebop's Avian Acrobatics – A Parrot Revelation</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-tickle-treasure-trove-uncovering-best-apps-for-memes/"><u>In 2024, Tickle Treasure Trove Uncovering Best Apps for Memes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revamping-atheros-drivers-in-windows-10-easily/"><u>Revamping Atheros Drivers in Windows 10 Easily</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-gaming-laptops-of-2024-showdown-an-in-depth-comparison-of-razer-acer-msi-and-others-tech-insights-by-zdnet/"><u>Top Rated Gaming Laptops of 2024 Showdown: An In-Depth Comparison of Razer, Acer, MSI, and Others | Tech Insights by ZDNet</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-the-chatgpt-ios-application-top-9-solutions/"><u>Troubleshooting the ChatGPT iOS Application: Top 9 Solutions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unraveling-the-success-why-i-cant-leave-home-without-my-new-tangle-free-usb-c-cable-in-my-backpack-zdnet/"><u>Unraveling the Success: Why I Can’t Leave Home Without My New 'Tangle-Free' USB-C Cable in My Backpack | ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-three-stunning-performance-revelations-from-testing-the-acer-swift-x-notebook/"><u>Unveiling Three Stunning Performance Revelations From Testing the Acer Swift X Notebook</u></a></li>
+</ul></div>
 

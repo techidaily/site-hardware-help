@@ -1,7 +1,7 @@
 ---
 title: Holiday, Newegg, Deals, Tech Products, and Sales.
-date: 2024-11-21T16:05:18.955Z
-updated: 2024-11-25T16:54:36.838Z
+date: 2024-12-04T05:25:16.795Z
+updated: 2024-12-05T07:45:09.610Z
 tags:
   - laptops
 categories:
@@ -22,6 +22,10 @@ With Black Friday 2023 ending and shoppers looking to Cyber Monday to save money
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best Cyber Monday 2023 Dell deals
 
 * [Dell OptiPlex 7000 7090 Intel Core i7 desktop](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fdell-optiplex-7090-business-desktops-workstations%252Fp%252F1VK-0001-6G7A2) for $939 (save $230)
@@ -40,7 +44,7 @@ With Black Friday 2023 ending and shoppers looking to Cyber Monday to save money
 ---  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## More Cyber Monday 2023 Dell deals
@@ -112,20 +116,12 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell Precision 3580 mobile workstation](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1770261-REG%2Fdell%5F5d74g%5F15%5F6%5Fprecision%5F3580%5Fmobile.html): $1390 (save $1000)
 * [Dell Inspiron 16 Plus](https://www.anrdoezrs.net/click-9041660-15679772-1700503970000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): $1,000 (save $650)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best Cyber Monday Dell desktop deals
 
 * [Alienware Aurora R15](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAlienware-Aurora-R15-Gaming-Desktop%2Fdp%2FB0C2VX6HN8%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C07076d8d-2e98-49f8-9c3a-c9d513d4d8fe%7Cdtp&dtb=1): $2,520 (save $630)
 * [Alienware Aurora R10](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fp%252F1VK-0001-5Z884%253FItem%253D9SIAA0SJU76104): $2000 (save $500)
 * [Dell OptiPlex 7010](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1764723-REG%2Fdell%5F6f73r%5Foptiplex%5F7010%5Fsmall.html): $699 (save $300)
 * [Dell Inspiron 27 7720 Intel Core i5](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-Inspiron-24-5400-Touchscreen%2Fdp%2FB0BGQSKN8N%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C07076d8d-2e98-49f8-9c3a-c9d513d4d8fe%7Cdtp&dtb=1): $744 (save $186)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best Cyber Monday Dell monitor deals
 
@@ -134,13 +130,13 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell SE2422HX 24-inch monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-inch-Monitor-1920-1080%2Fdp%2FB096MXR34N%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C07076d8d-2e98-49f8-9c3a-c9d513d4d8fe%7Cdtp&dtb=1): $80 (save $50)
 * [Dell 32-inch 4K monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-SE3223Q-31-5-inch-Monitor-Gray%2Fdp%2FB0B2GRMGFL%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C07076d8d-2e98-49f8-9c3a-c9d513d4d8fe%7Cdtp&dtb=1): $248 (save $117)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When is Cyber Monday 2023?
 
 Cyber Monday happens each year on the Monday following Black Friday. This year, Cyber Monday is today, November 27.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When was Black Friday 2023?
 
@@ -149,7 +145,7 @@ Black Friday 2023 was on November 24, 2023\.
 Black Friday is always the day after Thanksgiving, which was November 23 this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we choose these Cyber Monday deals?
@@ -157,6 +153,10 @@ Black Friday is always the day after Thanksgiving, which was November 23 this ye
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the best Cyber Monday deals?
 
@@ -228,22 +228,20 @@ ZDNET's experts have been searching for Cyber Monday deals across sites like Ama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-cutting-edge-imagery-iphones-photo-cropping-techniques/"><u>[New] Cutting Edge Imagery IPhone's Photo Cropping Techniques</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/canon-pixus-mf8500c-find-and-download-the-correct-printer-drivers-for-various-windows-versions-7-81-10/"><u>Canon PIXUS MF8500C: Find and Download the Correct Printer Drivers for Various Windows Versions (7, 8.1, 10)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ensure-seamless-printing-on-all-oses-latest-hp-officejet-pro-8610-drivers-for-win-11-8-7-xp-and-vista/"><u>Ensure Seamless Printing on All OSes - Latest HP Officejet Pro 8610 Drivers for Win 11, 8, 7, XP & Vista</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-update-for-creative-webcam-drivers-now-compatible-with-windows-systems/"><u>Get the Newest Update for Creative Webcam Drivers Now! Compatible with Windows Systems</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-vivo-y100i-power-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Vivo Y100i Power 5G to iPad | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-perfect-your-windowsmac-call-records-with-15plus-tips-for-skype-users/"><u>In 2024, Perfect Your Windows/Mac Call Records with 15+ Tips for Skype Users</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-ultimate-guide-for-iphone-screen-taping/"><u>In 2024, The Ultimate Guide for iPhone Screen Taping</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/installupdate-rtx-2080-video-drivers-on-your-pc-running-windows-11-secure-download-links/"><u>Install/Update RTX 2080 Video Drivers on Your PC Running Windows 11 – Secure Download Links</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>iPogo will be the new iSpoofer On Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-driver-updates-a-user-friendly-approach-for-microsoft-software-on-various-windows-versions/"><u>Mastering Driver Updates: A User-Friendly Approach for Microsoft Software on Various Windows Versions</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/mastering-spotifys-marketplace-for-ultimate-ad-success-for-2024/"><u>Mastering Spotify's Marketplace for Ultimate Ad Success for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-through-tech-world-a-deep-dive-by-toms-hardware-experts/"><u>Navigating Through Tech World: A Deep Dive by Tom's Hardware Experts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/solving-the-problem-effective-strategies-for-repairing-msi-webcams/"><u>Solving the Problem: Effective Strategies for Repairing MSI Webcams</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-successfully-downloading-and-installing-the-arduino-nano-board-drivers-on-a-windows-pc/"><u>Step-by-Step Guide: Successfully Downloading & Installing the Arduino Nano Board Drivers on a Windows PC</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-tecno-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Tecno Phones</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshooting-the-compatibility-of-arduino-uno-with-windows-os/"><u>Troubleshooting the Compatibility of Arduino Uno with Windows OS</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-from-adventure-to-art-editing-gopro-videos-on-mac-made-easy/"><u>Updated 2024 Approved From Adventure to Art Editing GoPro Videos on Mac Made Easy</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-ideal-strategies-for-recording-app-activity/"><u>[New] 2024 Approved Ideal Strategies for Recording App Activity</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-transformative-content-blocks-enhanced-youtube-decks/"><u>[Updated] Transformative Content Blocks Enhanced Youtube Decks</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-vanished-vids-rediscovered-the-ultimate-guide-to-old-youtube-videos-for-2024/"><u>[Updated] Vanished Vids Rediscovered The Ultimate Guide to Old YouTube Videos for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/android-users-manual-how-to-stop-unwanted-automatic-application-updates/"><u>Android Users' Manual: How to Stop Unwanted Automatic Application Updates</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/are-foldable-phones-good-enough-to-replace-traditional-android-tablets-today/"><u>Are Foldable Phones Good Enough to Replace Traditional Android Tablets Today?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/avoid-these-4-apple-gadgets-for-now-expert-advice-from-cnet/"><u>Avoid These 4 Apple Gadgets for Now: Expert Advice From CNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/british-numismatist-transforms-obsolete-technology-into-precious-treasure/"><u>British Numismatist Transforms Obsolete Technology Into Precious Treasure</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/busting-major-android-legends-the-five-greatest-fallacies-revealed/"><u>Busting Major Android Legends: The Five Greatest Fallacies Revealed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/can-i-use-any-stylus-pen-on-my-gadgets-exploring-cross-device-functionality/"><u>Can I Use Any Stylus Pen on My Gadgets? Exploring Cross-Device Functionality</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/can-you-substitute-your-android-tablet-with-a-foldable-smartphone-an-in-depth-comparison/"><u>Can You Substitute Your Android Tablet with a Foldable Smartphone: An In-Depth Comparison</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comparing-pixel-wearables-to-galaxy-smartwatches-is-google-on-par-with-samsungs-innovation-in-timepieces/"><u>Comparing Pixel Wearables to Galaxy Smartwatches: Is Google on Par with Samsung's Innovation in Timepieces?</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-s17-pro-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-6s-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 6s Plus Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-watch-or-iphone-xs-by-drfone-ios/"><u>In 2024, How To Bypass Activation Lock On Apple Watch Or iPhone XS?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205634049-quickly-restore-bluetooth-functionality-on-your-windows-11-pc-easy-methods-inside/"><u>Quickly Restore Bluetooth Functionality on Your Windows 11 PC: Easy Methods Inside</u></a></li>
 </ul></div>
 

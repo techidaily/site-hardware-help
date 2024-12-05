@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Showdown: M3 Vs. M2 MacBook Air - Expert Review on Which Model Reigns Supreme for Users | Digital Trends"
-date: 2024-11-18T16:18:31.050Z
-updated: 2024-11-25T16:25:53.904Z
+date: 2024-11-28T19:10:42.344Z
+updated: 2024-12-05T02:55:06.251Z
 tags:
   - laptops
 categories:
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/48b04798818f256a08d1adf91e6795699ee9e8d50
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The redesigned (13-inch) M2 MacBook Air was so impressive from a design and performance standpoint that ZDNET named it our [Product of the Year for 2022](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/). The [M3 MacBook Air](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-m3&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is a worthy successor, now offered in two sizes, 13-inch and 15-inch. ZDNET has tested both over the past week and has been [impressed enough with their three big upgrades](https://www.zdnet.com/article/apple-m3-macbook-air-hands-on-these-3-new-features-stood-out-to-me-most/) that it makes these new machines an easy buy recommendation for pros and enthusiasts who need more AI power and multiple external monitors. But, there are also some important buying considerations. 
@@ -45,7 +49,7 @@ One more thing to keep in mind if you're considering buying the 15-inch M3 MacBo
 **Also:** [**MacBook Pro (M3 Max) review: A desktop-class laptop for an AI-powered age**](https://www.zdnet.com/article/macbook-pro-m3-max-review/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -71,11 +75,19 @@ The ability to run two external monitors with the lid closed is one of the M3 Ma
 
 Jason Hiner/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How I tested the M3 MacBook Air
 
 In terms of qualitative testing, I wrote this article on the M3 MacBook Air and used my daily work applications -- Slack, Microsoft Outlook, Google Drive, and ZDNET's CMS. I also used Adobe Lightroom for processing photos, including AI features. I fired up YouTube in Safari to play the song Eclipse from the Dune 2 soundtrack as a way to test the audio quality of the built-in speakers. I also played the 2021 Dune movie in 4K from my library in the Apple TV Plus app to test the display quality of the M3 MacBook Air. I expect there will be a lot more AI testing to do after WWDC 2024 in June when Apple is likely to unveil its generative AI tools.
 
 For quantitive testing, I followed the same routine I used in my [review of the MacBook Pro with M3 Max](https://www.zdnet.com/article/macbook-pro-m3-max-review/). I used Cinebench to benchmark the M3 MacBook Air against other popular Macs I've tested over the past couple years. I also used Adobe Lightroom's AI-powered "Denoise" feature as a real-world test because it's a feature I use constantly when processing product photos and so any time savings there can result in tangible productivity gains. As you can see in the charts below, the M3 MacBook Air performed very well in the Cinebench benchmarks, compared to it M2 predecessor. But, it only scored marginally better than the M2 model in my real-world Lightroom test. I'd like to do more tests with other AI workflows and update this review over time, especially after WWDC 2024.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### AI test: Adobe Lightroom Denoise (lower is better)
 
@@ -106,7 +118,7 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Cinebench CPU/GPU benchmark (higher is better)
@@ -151,10 +163,6 @@ Jason Hiner/ZDNET
 
 **Neural engine to power through AI tasks:** According to Apple's internal tests, the neural engine in the M3 MacBook Air offers a 60% improvement in performance over the previous generation M2 MacBook Air. As you can see in my real-world AI test above using the Denoise feature in Adobe Lightroom, I didn't see that kind of lift. Nevertheless, it's possible the Adobe software isn't optimized for M3 yet. And the overall benchmark improvements provide encouragement that this machine could be ready for more. A big test will be when Apple releases its own generative AI features later this year. It feels like this product is anticipating that, and could already be optimized for it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What I'd like to see in the next model
 
 **A USB-C port on the right side:** With the M3 MacBook Air becoming more and more of a pro-capable laptop, the biggest thing that it needs is more expansion ports. The two USB-C 4 / Thunderbolt 3 ports limit the amount of pro-level things you can do with the machine without using cumbersome expansion docks and hubs. The fact that both of the USB-C ports are on the left side can also be awkward and inconvenient at times. Apple could solve both problems by simply adding one more USB-C port to the right side of the M3 MacBook Air. 
@@ -171,10 +179,6 @@ Jason Hiner/ZDNET
 
 **Better built-in sound:** One of the main things you give up by going with the M3 MacBook Air versus the MacBook Pro models is that you get a much inferior set of built-in speakers. The strong base and excellent sound clarity of the MacBook Pro models are made possible by the speakers on either side of the keyboard, while sound comes from the hinge area on the M3 MacBook Air. The result is that you have much lower fidelity sound that is a bit mushy and thin. You can overcome this, of course, by simply listening through a pair of quality headphones like the [AirPods Pro 2nd-gen](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWRXH8B%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6a4cd20f-90e2-4305-8adc-535aae82592c%7Cdtp&dtb=1) or the [Sony WF-1000XM5 earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C33XXS56%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6a4cd20f-90e2-4305-8adc-535aae82592c%7Cdtp&dtb=1). But there are always going to be times when you want and need to use the built-in speakers.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Final thought
 
 At first glance, it may seem odd that Apple is releasing the upgraded [M3 MacBook Air](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-m3&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) lineup just nine months after the 15-inch M2 version was [first unveiled at Apple WWDC in June 2023](https://www.zdnet.com/video/apple-wwdc-2023-every-product-revealed-vision-pro-15-inch-macbook-air-more/). But, this is a good thing. For the 13-inch and 15-inch MacBook Air models, this is an incremental upgrade that brings them up to date with [the new M3 processors that Apple announced last fall](https://www.zdnet.com/article/everything-apple-announced-at-its-october-scary-fast-event-m3-macbook-pro-24-inch-imac-more/) and continues them on their trajectory to be more capable and more of the light professional-grade laptops that many people can use to handle all of their work. 
@@ -184,10 +188,6 @@ That keeps mainstream Mac laptops at a more approachable price and allows the Ma
 Up close with the M3 MacBook Air 15-inch in Midnight.
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -235,24 +235,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-high-def-showdown-top-8k-tvs-rated-and-reviewed/"><u>[New] 2024 Approved High-Def Showdown Top 8K TVs Rated and Reviewed</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-blueprint-for-successful-collaborative-video-production-on-youtube/"><u>[New] The Blueprint for Successful Collaborative Video Production on YouTube</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-top-20-mobiles-perfecting-dji-visual-content-for-2024/"><u>[New] Top 20 Mobiles Perfecting DJi Visual Content for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-comprehensive-guide-for-srt-format-conversions/"><u>[Updated] Comprehensive Guide for SRT Format Conversions</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-brief-bliss-in-photo-collage-crafting-the-google-way/"><u>2024 Approved Brief Bliss in Photo Collage Crafting - The Google Way</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/compatible-canon-dr-c225-drivers-available-here-for-windows-11-10-and-8-systems/"><u>Compatible Canon DR-C225 Drivers Available Here - For Windows 11, 10 & 8 Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-updates-for-hp-officejet-pro-8720-printer-drivers-on-windows-pc/"><u>Download & Install Updates for HP OfficeJet Pro 8720 Printer Drivers on Windows PC</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-asus-usb-bt500-bluetooth-adapter-driver-version-for-windows-11108/"><u>Get the Latest Asus USB-BT500 Bluetooth Adapter Driver (Version for Windows 11/10/8)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722961059325-get-the-latest-hp-officejet-pro-6970-printer-drivers-on-windows-free-download/"><u>Get the Latest HP Officejet Pro ^6970 Printer Drivers on Windows - Free Download!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-intels-data-center-and-semiconductor-units-are-impacting-its-financial-health-the-16-billion-reality/"><u>How Intel’s Data Center and Semiconductor Units Are Impacting Its Financial Health - The $1.6 Billion Reality</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-efficiently-implement-connexent-driver-update-on-windows-11-version-2004/"><u>How To Efficiently Implement Connexent Driver Update on Windows 11 Version 2004</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-on-your-iphone-se-2022-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password On your iPhone SE (2022)</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-tips-to-counteract-obs-fullscreen-woes/"><u>In 2024, Tips to Counteract OBS Fullscreen Woes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/perfect-viewing-sequence-watching-star-trek-movies-from-beginning-to-end/"><u>Perfect Viewing Sequence: Watching Star Trek Movies From Beginning to End</u></a></li>
-<li><a href="https://extra-support.techidaily.com/safest-drone-selections-5-great-options-for-young-ones-for-2024/"><u>Safest Drone Selections 5 Great Options for Young Ones for 2024</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/secure-your-data-with-protected-mode-in-windows-781011-stress-free-privacy/"><u>Secure Your Data with Protected Mode in Windows 7/8/10/11 - Stress-Free Privacy</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/simple-steps-for-updating-your-amd-graphics-driver-with-minimal-hassle/"><u>Simple Steps for Updating Your AMD Graphics Driver with Minimal Hassle</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-on-asus-maximus-x-hero-driver-updates-for-enhanced-performance/"><u>Step-by-Step Tutorial on ASUS Maximus X Hero Driver Updates for Enhanced Performance</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-updating-and-repairing-asus-pce-ac56-drivers-for-windows-users-windows-11-8-and-ps-7/"><u>The Ultimate Guide to Updating and Repairing ASUS PCE-AC56 Drivers for Windows Users (Windows 11, 8 & Ps 7)</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-oppo-find-x6-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Oppo Find X6 Pro Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-installation-guide-hp-laserjet-p1606dn-printer-software-on-windows/"><u>Download & Installation Guide: HP LaserJet P1606dn Printer Software on Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-update-procedure-for-corsair-sound-card-software-on-windows-systems/"><u>Easy Update Procedure for Corsair Sound Card Software on Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-driver-download-for-your-brother-hl-3170cdw-start-now/"><u>Effortless Driver Download for Your Brother HL-3170CDW - Start Now</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-from-apple-iphone-14-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even From Apple iPhone 14 If Youve Tried Everything</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-unraveling-instagrams-complex-world-of-data-a-beginner-to-pro-guide/"><u>In 2024, Unraveling Instagram's Complex World of Data A Beginner to Pro Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/master-your-tech-setup-essential-guides-and-reviews-by-toms-hardware/"><u>Master Your Tech Setup: Essential Guides and Reviews by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722963665351-step-by-step-guide-getting-your-epson-wf-2750-printer-up-and-running/"><u>Step-by-Step Guide: Getting Your Epson WF-2750 Printer Up & Running</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamlight-solutions-best-for-video-illumination-for-2024/"><u>Streamlight Solutions Best for Video Illumination for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/top-photo-tweaking-apps-on-iphones-and-androids-2024s-choice/"><u>Top Photo Tweaking Apps on iPhones & Androids - 2024'S Choice</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-resolving-incorrect-media-detected-on-your-dvd-player/"><u>Troubleshooting Tips: Resolving 'Incorrect Media Detected' On Your DVD Player</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/unlock-your-pcs-potential-with-ease-accessing-control-panel-on-windows-tips-from-yl-software-experts/"><u>Unlock Your PC's Potential with Ease: Accessing Control Panel on Windows – Tips From YL Software Experts</u></a></li>
 </ul></div>
 

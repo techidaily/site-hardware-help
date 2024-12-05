@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Shotgun Method for Snapping Pics of Your PC/Mac Screen: Dell, Lenovo and More - Learn with ZDNET"
-date: 2024-11-22T16:37:53.981Z
-updated: 2024-11-25T16:21:03.522Z
+date: 2024-11-28T03:40:28.549Z
+updated: 2024-12-04T18:33:37.134Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the Amazon Prime Day deal?
@@ -33,7 +33,7 @@ We are a week ahead of Amazon's Prime Big Deal Days sale, and both configuration
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -97,7 +97,7 @@ If you can't tell already, I'm a big fan of the Envy x360, and out of [all the 2
 These issues are prevalent across all 2-in-1 laptops I've tested and are (usually) intermittent enough to not be problems -- but in certain moments, facing non-functioning hardware can be frustrating, and you should keep that in mind.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -109,7 +109,7 @@ Compared to its rivals, HP's model offers a more complete package. Take a look a
 If you're looking for a smaller option, consider [HP's 2024 Spectre x360](https://www.dpbolvw.net/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhp-spectre-x360-2-in-1-laptop-14t-eu000-14-7k635av-1&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), which has a 14-inch display. For something more adventurous, check out the [Lenovo Yoga Book 9i](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLenovo-Yoga-Book-9i-Intel-Laptop-13-3-Glass-155U-Graphics-16GB-1TB-SSD%2F5388081138&subId1=zd-__COM_CLICK_ID__-dtp), which has two displays.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -146,17 +146,20 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-elevating-visual-engagement-transferring-twitter-videos-on-snapchat/"><u>[New] In 2024, Elevating Visual Engagement Transferring Twitter Videos on Snapchat</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-exploring-roku-watching-facebook-live-effortlessly/"><u>[New] In 2024, Exploring Roku Watching Facebook Live Effortlessly</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-palette-strategies-utilizing-color-science-in-art/"><u>[Updated] Palette Strategies Utilizing Color Science in Art</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-seamless-social-integration-twitter-and-facebook-connections/"><u>[Updated] Seamless Social Integration Twitter & Facebook Connections</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-straightstreamerw11-ultra-simple-pc-screenshot-software/"><u>2024 Approved StraightStreamerW11 Ultra-Simple PC Screenshot Software</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/apple-vs-ai-giants-unveiling-the-dominance-of-realm-over-gpt-4-in-next-gen-computing/"><u>Apple vs AI Giants: Unveiling the Dominance of RealM Over GPT-4 in Next-Gen Computing</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-asus-rog-phone-8-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Asus ROG Phone 8.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722965904818-easy-steps-get-your-corsair-void-pro-graphics-card-up-and-running-on-windows/"><u>Easy Steps: Get Your Corsair Void Pro Graphics Card Up & Running on Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-update-or-freshly-install-logitech-c270-camera-drivers-on-windows-1011-download-instructions-and-guide/"><u>How to Update or Freshly Install Logitech C270 Camera Drivers on Windows 10/11 - Download Instructions and Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-snapshot-scribbles-10-top-writing-aids-for-image-capture-iosandroid/"><u>In 2024, Snapshot Scribbles 10 Top Writing Aids for Image Capture (iOS/Android)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/simple-steps-to-upgrade-your-nvidia-geforce-gtx-1660-graphics-drivers/"><u>Simple Steps to Upgrade Your NVIDIA GeForce GTX 1660 Graphics Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-to-fetching-lenovo-x220-essential-drivers/"><u>Step-by-Step Tutorial to Fetching Lenovo X220 Essential Drivers</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-demystifying-creator-studio-a-practical-handbook/"><u>[New] Demystifying Creator Studio A Practical Handbook</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-quick-musical-notes-understanding-youtube-shorts-for-2024/"><u>[Updated] Quick Musical Notes Understanding YouTube Shorts for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/epson-xp-310-driver-download-and-update/"><u>Epson XP 310 Driver Download & Update</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-honor-90-lite-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Honor 90 Lite phone? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/maintaining-optimal-temperatures-for-devices-in-high-heat-conditions/"><u>Maintaining Optimal Temperatures for Devices in High-Heat Conditions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/master-your-typing-experience-with-drop-cstm65-a-fully-customizable-mechanical-keyboard/"><u>Master Your Typing Experience with Drop CSTM65 - A Fully Customizable Mechanical Keyboard</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/izing-income-with-youtube-adsense/"><u>Maximizing Income with YouTube AdSense</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/methods-to-convert-instagram-video-to-mp3-for-2024/"><u>Methods to Convert Instagram Video to Mp3 for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-honor-magic-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revamping-your-home-decor-innovative-uses-for-aged-television-sets/"><u>Revamping Your Home Decor: Innovative Uses for Aged Television Sets</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/review-of-the-satechi-qi2-a-game-changing-foldable-stand-with-robust-desktop-performance-in-a-portable-package/"><u>Review of the Satechi Qi2: A Game-Changing Foldable Stand with Robust Desktop Performance in a Portable Package</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revolutionary-magnetic-case-fans-a-wireless-cord-free-alternative/"><u>Revolutionary Magnetic Case Fans - A Wireless, Cord-Free Alternative</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/samsung-discourages-third-party-phone-repairs/"><u>Samsung Discourages Third-Party Phone Repairs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-whole-home-sound-setup-with-home-automation-a-complete-tutorial/"><u>Seamless Whole-Home Sound Setup with Home Automation - A Complete Tutorial</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/soundsnatcher-recorder-software-overview-for-2024/"><u>SoundSnatcher Recorder Software Overview for 2024</u></a></li>
 </ul></div>
 

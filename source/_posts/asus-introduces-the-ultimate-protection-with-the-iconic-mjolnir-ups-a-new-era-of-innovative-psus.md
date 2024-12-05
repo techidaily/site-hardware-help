@@ -1,7 +1,7 @@
 ---
 title: "Asus Introduces the Ultimate Protection with the Iconic Mjolnir UPS: A New Era of Innovative PSUs"
-date: 2024-08-19T10:19:11.158Z
-updated: 2024-08-20T10:19:11.158Z
+date: 2024-12-04T04:38:00.953Z
+updated: 2024-12-04T21:52:32.905Z
 tags:
   - power-supply
 categories:
@@ -31,6 +31,10 @@ Even if you buy one of the[best power supplies](https://tools.techidaily.com) , 
 
  The power supplies themselves will carry MSRPs of $199, $249 and $399 for the 1,000, 1,200 and 1,600 watt units respectively. The 1,000 and 1,200 watt units will come in black or white while the 1,600 watt one will only be available in black. All three will be available in August.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,8 +53,6 @@ Even if you buy one of the[best power supplies](https://tools.techidaily.com) , 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -58,8 +60,23 @@ Even if you buy one of the[best power supplies](https://tools.techidaily.com) , 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-navigating-and-interpreting-twitter-archives/"><u>[New] 2024 Approved Navigating and Interpreting Twitter Archives</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-simple-steps-for-android-voice-recording-no-root/"><u>[Updated] Simple Steps for Android Voice Recording (No Root)</u></a></li>
+<li><a href="https://win-webster.techidaily.com/capturing-your-screens-a-comprehensive-guide-to-using-windows-11s-inbuilt-recording-features/"><u>Capturing Your Screens: A Comprehensive Guide to Using Windows 11'S Inbuilt Recording Features</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-latest-updates-hp-laserjet-m506-printer-drivers/"><u>Download & Latest Updates: HP LaserJet M506 Printer Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-installation-guide-hl-l2340dw-brother-printer-on-microsoft-windows/"><u>Easy Installation Guide: HL-L2340DW Brother Printer on Microsoft Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-instructions-for-downloading-and-setting-up-arduino-software-on-windows/"><u>Easy Instructions for Downloading and Setting Up Arduino Software on Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722969806578-ercp-with-stent-placement-provides-symptomatic-relief-from-obstructive-jaundice-and-is-often-part-of-palliative-care/"><u>ERCP with Stent Placement Provides Symptomatic Relief From Obstructive Jaundice and Is Often Part of Palliative Care</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207589891-follicular-carcinoma-while-less-common-than-papillary-still-accounts-for-a-significant-percentage-of-all-thyroid-cancers/"><u>Follicular Carcinoma, While Less Common than Papillary, Still Accounts for a Significant Percentage of All Thyroid Cancers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-update-atheros-network-interface-cards-nic/"><u>How to Update Atheros Network Interface Cards (NIC)</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-realme-narzo-60x-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Realme Narzo 60x 5G Location | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-system-diagnostics-a-users-manual-for-windows-11-bios-tools/"><u>Mastering System Diagnostics: A User's Manual for Windows 11 BIOS Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/may-17th-new-york-times-crossword-solutions-unveiling-clues-341/"><u>May 17Th New York Times Crossword Solutions - Unveiling Clues #341</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-family-safety-in-windows-11-for-guardians/"><u>Navigating Family Safety in Windows 11 for Guardians</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-installing-your-nexiq-usb-link-2-device-drivers/"><u>Step by Step Guide: Installing Your Nexiq USB-Link 2 Device Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-resource-for-your-tech-needs-at-toms-electronics-review/"><u>The Ultimate Resource for Your Tech Needs at Tom's Electronics Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unleash-maximum-power-in-your-gameplay-with-the-ideal-gaming-cpus/"><u>Unleash Maximum Power in Your Gameplay with the Ideal Gaming CPUs</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

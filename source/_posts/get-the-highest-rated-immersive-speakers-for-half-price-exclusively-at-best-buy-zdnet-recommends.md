@@ -1,7 +1,7 @@
 ---
 title: Get the Highest Rated Immersive Speakers for Half Price – Exclusively at Best Buy | ZDNET Recommends!
-date: 2024-11-18T16:12:46.844Z
-updated: 2024-11-25T16:35:50.507Z
+date: 2024-12-03T17:07:29.876Z
+updated: 2024-12-04T22:39:04.059Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,19 +63,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-visual-symphony-iosandroid-instagram-collage-app-for-2024/"><u>[New] Visual Symphony IOS/Android Instagram Collage App for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-league-of-legends-crashing-quickly-and-easily/"><u>[SOLVED] | League of Legends Crashing | Quickly & Easily</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-diving-deeper-into-webcam-possibilities/"><u>[Updated] 2024 Approved Diving Deeper Into Webcam Possibilities</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-dive-into-time-lapse-shooting-gopro-unveiled-for-2024/"><u>[Updated] Dive Into Time-Lapse Shooting GoPro Unveiled for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unfolding-the-future-drones-in-modern-and-next-era/"><u>[Updated] Unfolding the Future Drones in Modern and Next Era</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722965047450-download-and-install-the-newest-nvidia-quadro-rtx-s-4000-gpu-drivers-today/"><u>Download and Install the Newest NVIDIA Quadro RTX S 4000 GPU Drivers Today</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722965194100-download-the-driver-package-which-typically-includes-a-setup-file-along-with-necessary-software-tools/"><u>Download the Driver Package, Which Typically Includes a Setup File Along with Necessary Software Tools.</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/enhancing-iphone-photos-in-shadows/"><u>Enhancing iPhone Photos in Shadows</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/explore-the-latest-and-most-exciting-advancements-googles-io-2023-shines-spotlight-on-bard-ai/"><u>Explore the Latest and Most Exciting Advancements: Google's I/O 2023 Shines Spotlight on BARD AI</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-zexmte-bluetooth-adapter-driver-update-for-win-1078-systems/"><u>Get the Latest ZexMTE Bluetooth Adapter Driver Update for Win 10/7/8 Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-hp-officejet-pro-8600-software-for-your-pc/"><u>Get the Newest HP Officejet Pro 8600 Software for Your PC</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-nokia-c300-by-drfone-android/"><u>How to Bypass FRP from Nokia C300?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/securely-update-your-windows-fingerprint-sensor-with-this-essential-driver-software/"><u>Securely Update Your Window's Fingerprint Sensor with This Essential Driver Software</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/the-art-of-timestamped-media-on-the-gotube-platform-for-2024/"><u>The Art of Timestamped Media on the GoTube Platform for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-art-of-anonymity-in-video-hiding-private-data/"><u>[Updated] The Art of Anonymity in Video Hiding Private Data</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-saving-facebook-gifs-on-computer-phone-and-tablet/"><u>2024 Approved Saving Facebook GIFs on Computer, Phone & Tablet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722960957445-download-and-enhance-your-dell-screen-with-effortless-driver-updates/"><u>Download and Enhance Your Dell Screen with Effortless Driver Updates!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-fast-and-secure-epson-scanner-drivers-downloads-at-your-fingertps/"><u>Get Fast and Secure Epson Scanner Drivers: Downloads at Your Fingertps</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/getting-started-fresh-installation-of-drivers-for-xp-pen-tools/"><u>Getting Started: Fresh Installation of Drivers for XP-Pen Tools</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/how-the-xbox-one-x-dominates-todays-console-market-a-comprehensive-review/"><u>How the Xbox One X Dominates Today's Console Market - A Comprehensive Review</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-on-your-apple-iphone-xs-max-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID On Your Apple iPhone XS Max</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-through-high-performance-tech-with-tom-at-the-helm-toms-hardware-haven/"><u>Navigating Through High-Performance Tech with Tom at the Helm - Tom's Hardware Haven</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-1011s-video-driver-restart/"><u>Overcoming Windows 10/11'S Video Driver Restart</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/qualcomm-atheros-ar3011-free-download-of-the-official-bluetooth-30-drivers/"><u>Qualcomm Atheros AR3011: Free Download of the Official Bluetooth 3.0 Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/simplified-guide-to-installing-the-canon-pro-100-driver-for-your-windows-computer/"><u>Simplified Guide to Installing the Canon PRO 100 Driver for Your Windows Computer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-reviews-comprehensive-guide-on-latest-computer-gear/"><u>Tom's Tech Reviews: Comprehensive Guide on Latest Computer Gear</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-fixing-a-non-responsive-wireless-keyboard-on-pc/"><u>Troubleshooting Guide: Fixing a Non-Responsive Wireless Keyboard on PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-historical-web-pages-step-by-step-instructions-on-leveraging-the-wayback-machine/"><u>Unlocking Historical Web Pages: Step-by-Step Instructions on Leveraging the Wayback Machine</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-the-secret-how-the-exclusive-pre-prime-day-offer-on-apples-ipad-pro-outshines-competitors-insights-from-zdnet/"><u>Unlocking the Secret: How the Exclusive Pre-Prime Day Offer on Apple's iPad Pro Outshines Competitors - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-digital-secrets-with-tom-a-deep-dive-into-hardware-tech/"><u>Unveiling Digital Secrets with Tom: A Deep Dive Into Hardware Tech</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-ultimate-guide-to-free-online-glitch-effect-creators/"><u>Updated The Ultimate Guide to Free Online Glitch Effect Creators</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/usb-serial-converter-driver-update-tutorial-easy-steps-inside/"><u>USB Serial Converter Driver Update Tutorial – Easy Steps Inside</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/why-testimonial-videos-boost-brand-credibility-for-2024/"><u>Why Testimonial Videos Boost Brand Credibility for 2024</u></a></li>
 </ul></div>
 

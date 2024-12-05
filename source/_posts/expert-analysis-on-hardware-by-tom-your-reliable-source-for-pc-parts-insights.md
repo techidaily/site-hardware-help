@@ -1,7 +1,7 @@
 ---
 title: "Expert Analysis on Hardware by Tom: Your Reliable Source for PC Parts Insights"
-date: 2024-08-19T10:17:45.274Z
-updated: 2024-08-20T10:17:45.274Z
+date: 2024-12-04T05:34:50.566Z
+updated: 2024-12-05T03:05:16.527Z
 tags:
   - ram
 categories:
@@ -25,6 +25,10 @@ SureCore announced its new SRAM modules for[quantum computing](https://tools.tec
   
  If your head is spinning with talk of qubits and quantum, give our[quantum computers explainer](https://tools.techidaily.com) a read. While quantum computing may yet prove to be the future, today it is still largely theoretical. Even[IBM](https://tools.techidaily.com) 's own recent quantum computing experiments have been outperformed by a 1980s era[Commodore 64](https://tools.techidaily.com) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -39,8 +43,6 @@ SureCore announced its new SRAM modules for[quantum computing](https://tools.tec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -48,8 +50,19 @@ SureCore announced its new SRAM modules for[quantum computing](https://tools.tec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-boost-engagement-syncing-youtube-and-facebook/"><u>[Updated] Boost Engagement Syncing YouTube and Facebook</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-premier-list-visionary-audiovideo-makers-web-for-2024/"><u>[Updated] The Premier List Visionary Audio/Video Makers Web for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/acer-porsche-design-laptop-sale-discounted-price-at-60n-with-savings-of-up-to-800-exclusive-offer-from-zdnet/"><u>Acer Porsche Design Laptop Sale - Discounted Price at $60N with Savings of Up To $800! Exclusive Offer From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/adonit-nest-usb-hub-sale-at-unbeatable-price-now-only-65-the-essential-wfh-device-you-cant-miss/"><u>Adonit Nest USB Hub Sale at Unbeatable Price - Now Only $65! The Essential WFH Device You Can't Miss</u></a></li>
+<li><a href="https://discover-able.techidaily.com/erzeugen-sie-ihr-eigenes-iphone-sicherungsarchiv-keine-hilfe-von-mac-oder-pc-notig/"><u>Erzeugen Sie Ihr Eigenes iPhone-Sicherungsarchiv - Keine Hilfe Von Mac Oder PC Nötig!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/getting-to-know-the-premium-p2715q-a-high-definition-marvel-for-2024/"><u>Getting to Know the Premium P2715Q A High-Definition Marvel for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/guide-dexportation-de-films-vhs-sur-dvd-a-laide-de-votre-ordinateur-portable/"><u>Guide D'exportation De Films VHS Sur DVD À L'aide De Votre Ordinateur Portable</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/huge-savings-snag-the-discounted-hp-victus-15-gaming-laptop-at-just-515-exclusive-prime-day-offer-from-best-buy-tech-advice/"><u>Huge Savings: Snag the Discounted HP Victus 15 Gaming Laptop at Just $515 - Exclusive Prime Day Offer From Best Buy | Tech Advice</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-logitech-brio-webcam-driver-setup-on-windows-platforms-1087/"><u>Step-by-Step Logitech Brio Webcam Driver Setup on Windows Platforms: 10/8/7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-picks-professionals-guide-to-the-ideal-video-editing-laptops-comprehensive-reviews-by-tech-gurus/"><u>Top Picks: Professional's Guide to the Ideal Video Editing Laptops - Comprehensive Reviews by Tech Gurus</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/vlc-player-tips-10-hidden-features/"><u>Vlc Player Tips 10 Hidden Features</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/why-you-should-think-twice-about-pricey-laptops-once-you-experience-lenovos-499-chromebook-plus/"><u>Why You Should Think Twice About Pricey Laptops Once You Experience Lenovo's $499 Chromebook Plus</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->

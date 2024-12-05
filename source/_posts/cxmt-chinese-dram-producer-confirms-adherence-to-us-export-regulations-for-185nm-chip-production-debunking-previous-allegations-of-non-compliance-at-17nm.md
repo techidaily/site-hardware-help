@@ -1,7 +1,7 @@
 ---
 title: "CXMT, Chinese DRAM Producer, Confirms Adherence to US Export Regulations for 18.5Nm Chip Production: Debunking Previous Allegations of Non-Compliance at 17Nm"
-date: 2024-08-19T10:17:58.153Z
-updated: 2024-08-20T10:17:58.153Z
+date: 2024-11-29T17:13:29.206Z
+updated: 2024-12-04T17:26:24.643Z
 tags:
   - ram
 categories:
@@ -27,6 +27,10 @@ Innotron, the parent company of ChangXin Memory Technologies (CXMT), plans to in
 
  This $2.4 billion investment is a part of China's broader strategy to enhance its semiconductor capabilities in general and advanced packaging technologies in particular. Whether or not this one is going to be a financial success is something that remains to be seen. Given that the U.S. government does not allow the export of advanced components made using American technology to China without a license, it has no other choice but to build its own HBM supply chain.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,8 +45,6 @@ Innotron, the parent company of ChangXin Memory Technologies (CXMT), plans to in
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -50,8 +52,17 @@ Innotron, the parent company of ChangXin Memory Technologies (CXMT), plans to in
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-how-to-stream-to-youtube-facebook-twitch-and-over-30-platforms/"><u>[New] In 2024, How to Stream to YouTube, Facebook, Twitch and Over 30 Platforms</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-dialogues-the-key-to-listener-retention/"><u>2024 Approved Innovative Dialogues The Key to Listener Retention</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/affordable-leading-chromeos-screen-recorders-for-2024/"><u>Affordable Leading ChromeOS Screen Recorders for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/save-big-for-enhanced-media-production-exclusive-offer-samsung-display-priced-500-less-only-at-best-buy-coverage/"><u>Save Big for Enhanced Media Production - Exclusive Offer: Samsung Display Priced $500 Less Only at Best Buy Coverage</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/setting-up-personalized-dns-configurations-on-chromebooks-advantages-and-step-by-step-guide/"><u>Setting Up Personalized DNS Configurations on Chromebooks: Advantages & Step-by-Step Guide</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/top-wahl-fur-ssd-datenubertragung-effiziente-migration-mit-transcend-ssd-scope-vs-aomei-backupper/"><u>Top Wahl Für SSD Datenübertragung: Effiziente Migration Mit Transcend, SSD Scope Vs. AOMEI Backupper</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlock-exceptional-savings-on-high-performance-laptops-for-black-friday-2024-expert-tips-and-deals/"><u>Unlock Exceptional Savings on High-Performance Laptops for Black Friday 2024 | Expert Tips & Deals</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-ultimate-deal-how-lenovos-new-thinkbook-at-749-dominates-best-value-windows-laptops/"><u>Unveiling the Ultimate Deal: How Lenovo's New ThinkBook at $749 Dominates Best-Value Windows Laptops</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/xcom-2-windows-stability-guide-how-to-resolve-and-prevent-game-crashes-efficiently/"><u>XCOM 2 Windows Stability Guide: How to Resolve and Prevent Game Crashes Efficiently</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

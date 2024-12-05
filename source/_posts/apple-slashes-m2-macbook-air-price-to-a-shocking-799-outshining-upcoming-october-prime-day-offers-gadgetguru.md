@@ -1,7 +1,7 @@
 ---
 title: Apple Slashes M2 MacBook Air Price to a Shocking $799, Outshining Upcoming October Prime Day Offers | GadgetGuru
-date: 2024-11-22T16:27:25.368Z
-updated: 2024-11-25T16:21:41.203Z
+date: 2024-12-03T05:46:45.628Z
+updated: 2024-12-05T02:35:23.548Z
 tags:
   - laptops
 categories:
@@ -23,10 +23,6 @@ Major brands like HP, [Samsung](https://www.zdnet.com/article/best-early-prime-d
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Our favorite Amazon October Prime Day gaming deals still available
 
@@ -136,6 +132,10 @@ ZDNET
 * [WD Black SN850X 4TB SSD for $310 (save $390)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FWD%5FBLACK-SN850X-Internal-Gaming-Solid%2Fdp%2FB0B7CQ2CHH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca6412e2f-c40a-40a7-81b2-75f8898eda55%7Cdtp&dtb=1): Instantly add 4TB of storage to your PS5 console for large game downloads and save files.
 * [Metal Gear Solid: Master Collection Vol. 1 for $19 (save $21)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMetal-Gear-Solid-Collection-PlayStation-5%2Fdp%2FB0C93LL82B%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca6412e2f-c40a-40a7-81b2-75f8898eda55%7Cdtp&dtb=1): Get all three of the original MGS games for the PS1 in a single collection.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## October Prime Day Xbox Series X|S deals still available
 
 * [Xbox Elite Series 2 Core wireless controller for $140 (save $40 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FElite-2-Controller-Black-Xbox-One%2Fdp%2FB07SFKTLZM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca6412e2f-c40a-40a7-81b2-75f8898eda55%7Cdtp&dtb=1): A premium-grade wireless controller for the Xbox Series X|S. It also works with PC, Android, and iOS mobile devices.
@@ -178,7 +178,7 @@ Kyle Kucharski/ZDNET
 * [Lenovo Legion Tower 5i for $1,600 (save $400 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-legion-tower-5i-gaming-desktop-intel-core-i7-14700f-32gb-memory-nvidia-geforce-rtx-4070-super-1tb-ssd-storm-grey%2F6576778.p%3FskuId%3D6576778&publisher%5Fslug=zdnet&article%5Fname=best%20october%20prime%20day%202024%20gaming%20deals%20still%20available%3A%20last%20chance%20to%20save%20up%20to%20%241%2C000&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-10-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A mid-range gaming and content creation desktop with a 14th gen Intel Core i7 processor, 1TB SSD storage drive, 32GB of RAM, and an Nvidia RTX 4070 Super graphics card.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day gaming laptop deals still available
@@ -201,7 +201,7 @@ Samsung/ZDNET
 * [Acer Nitro 24-inch monitor for $100 (save $73)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAcer-Monitor-FreeSync-Technology-ZeroFrame%2Fdp%2FB0B6DFG1FQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca6412e2f-c40a-40a7-81b2-75f8898eda55%7Cdtp&dtb=1): A great gaming monitor with 1080p resolution, a 165Hz refresh rate, and AMD FreeSync Premium VRR support.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day PC gaming accessories deals still available
@@ -220,20 +220,20 @@ Samsung/ZDNET
 ## FAQs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### When was Amazon Prime Day 2024?
 
 Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, ran through October 8 and 9\. And other retailers like [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2F&publisher_slug=itechdaily19598&exclusive=1) and [Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fdeals%3FathAsset%3DeyJhdGhjcGlkIjoiMmU5ZjFjZmMtOTVhZC00NDlhLWEyNzgtZTU3ZTZlOTFjZmEwIn0%3D%26athena%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp) were running their own, rival sales at the same time. And even though the sale itself is over, you can still find lots of great deals and discounts.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Are games, consoles, and accessories really cheaper on Prime Day?
 
 Games, consoles, and accessories can and do go on sale during Prime Day, though not every brand or manufacturer may participate. Some brands may have competing sales at other retailers or on their own direct-sale sites, which is great news for anyone who likes to compare discounts to make sure they're getting the best deal possible.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How did we choose these Prime Day deals?
 
@@ -304,19 +304,18 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ptimize-for-popularity-top-youtube-seo-devices-unveiled/"><u>[New] Optimize for Popularity Top YouTube SEO Devices Unveiled</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-origami-inspired-miniature-asian-abodes-in-mc/"><u>[Updated] In 2024, Origami-Inspired, Miniature Asian Abodes in MC</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723964489331-59-bargain-alert-get-your-hands-on-the-vintage-8bitdo-famicom-inspired-keyboard-today/"><u>$59 Bargain Alert! Get Your Hands on the Vintage 8BitDo Famicom-Inspired Keyboard Today!</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-learn-to-toggle-picture-in-picture-on-your-ios-youtube-app/"><u>2024 Approved Learn to Toggle Picture-in-Picture on Your iOS YouTube App</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-tecno-camon-20-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Tecno Camon 20 Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/affordable-logitech-f710-blamed-in-court-for-role-in-deep-sea-explorers-disaster/"><u>Affordable Logitech F710 Blamed in Court for Role in Deep-Sea Explorer's Disaster</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/boost-your-pcs-gaming-performance-with-the-fresh-release-of-nvidian-game-ready-windows-drivers/"><u>Boost Your PC's Gaming Performance with the Fresh Release of Nvidia'n Game-Ready Windows Drivers</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/galleryguide-adjusting-post-dimensions-in-instagram/"><u>GalleryGuide Adjusting Post Dimensions in Instagram</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209721137-9781452176734-high-yoga/"><u>High Yoga | Free Book</u></a></li>
-<li><a href="https://techtrends.techidaily.com/improving-your-homes-digital-television-signal-using-a-convenient-indoor-antenna/"><u>Improving Your Home's Digital Television Signal Using a Convenient Indoor Antenna</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723964488313-steal-a-deal-iconic-famicom-style-retro-keyboard-by-8bitdo-now-just-59/"><u>Steal a Deal: Iconic Famicom-Style Retro Keyboard by 8BitDo Now Just $59</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723964490584-stream-or-game-like-a-pro-score-an-unbelievable-audio-package-including-the-rodecaster-duo-and-free-rode-nth-100m-headset-at-a-steal-for-only-374/"><u>Stream or Game Like a Pro! Score an Unbelievable Audio Package, Including the Rodecaster Duo and Free Rode NTH-100M Headset, at a Steal for Only $374.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-hub-in-depth-guides-and-reviews-on-latest-hardware/"><u>Tom's Tech Hub: In-Depth Guides & Reviews on Latest Hardware</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-unraveling-the-world-of-hardware/"><u>Tom's Tech Insights: Unraveling the World of Hardware</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-top-youtube-concepts-for-channel-motivation-and-creativity/"><u>[Updated] Top YouTube Concepts for Channel Motivation and Creativity</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722971524993-amd-radeon-rx-480-seamless-driver-installation-and-enhanced-visual-experience/"><u>AMD Radeon RX 480 - Seamless Driver Installation and Enhanced Visual Experience!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comparing-the-giants-of-silicon-valley-amd-ryzen-9900x-9700x-and-9600x-cinebench-score-analysis-revealed/"><u>Comparing the Giants of Silicon Valley: AMD Ryzen 9900X, 9700X and 9600X Cinebench Score Analysis Revealed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722978439447-download-key-gigabyte-z370p-performance-drivers-here/"><u>Download Key Gigabyte Z370P Performance Drivers Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-downloading-of-canon-mp560-drivers-get-the-latest-version-now/"><u>Effortless Downloading of Canon MP560 Drivers - Get the Latest Version Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/essential-logitech-speakers-driver-pack-for-optimal-performance-on-win-1078/"><u>Essential Logitech Speakers Driver Pack for Optimal Performance on Win 10/7/8</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-tecno-pop-8-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Tecno Pop 8 Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-dissecting-the-advantages-of-hdr-tvs-like-aurora/"><u>In 2024, Dissecting the Advantages of HDR TVs Like Aurora</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-up-to-date-amd-radeon-r9-graphics-card-drivers-for-windows-systems/"><u>Installing Up-to-Date AMD Radeon R9 Graphics Card Drivers for Windows Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-removing-programs-on-a-windows-10-pc/"><u>Step-by-Step Guide: Removing Programs on a Windows 10 PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-for-stable-play-no-more-hearthstone-pc-crashing-issues/"><u>Troubleshooting Guide for Stable Play: No More Hearthstone PC Crashing Issues</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-guide-fixing-windows-11-bluetooth-connectivity-problems/"><u>Troubleshooting Guide: Fixing Windows 11 Bluetooth Connectivity Problems</u></a></li>
 </ul></div>
 

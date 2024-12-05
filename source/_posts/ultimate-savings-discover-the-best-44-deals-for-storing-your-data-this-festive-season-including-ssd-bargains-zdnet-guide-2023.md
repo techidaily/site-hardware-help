@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Savings: Discover the Best 44 Deals for Storing Your Data This Festive Season, Including SSD Bargains! - ZDNet Guide 2023"
-date: 2024-11-24T16:28:30.131Z
-updated: 2024-11-25T16:35:03.838Z
+date: 2024-12-01T07:57:00.461Z
+updated: 2024-12-04T17:26:25.691Z
 tags:
   - laptops
 categories:
@@ -96,14 +96,10 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Low-Blue-Processor-Ethernet-Bluetooth%2Fdp%2FB0CVN88CFX%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Caa345ffb-4886-4da8-9d60-e419ba1affa3%7Cdtp&dtb=1) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternative laptop deals
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Amazon laptop deals
 
@@ -131,10 +127,6 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [HP Chromebook X360 14-inch FHD touchscreen 2-in-1 laptop deal for $279 (save $120) $279 at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FHP-Chromebook-X360-14-inch-FHD-IPS-Touch-2-in-1-Laptop-Intel-Processor-N100-4GB-RAM-64GB-eMMC-Sky-Blue%2F5123764557&subId1=zd-__COM_CLICK_ID__-dtp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best Buy laptop deals
 
 [HP 15.6-inch touchscreen Full HD laptop deal for $630 (save $170) $630 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fhp-15-6-touch-screen-full-hd-laptop-intel-core-i7-16gb-memory-512gb-ssd-natural-silver%2F6550427.p%3FskuId%3D6550427&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
@@ -144,6 +136,10 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 [Lenovo Flex 5i 14-inch FHD touchscreen 2-in-1 laptop deal for $380 (save $170) $380 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-flex-5i-14-fhd-touchscreen-2-in-1-laptop-intel-core-i3-1215u-with-8gb-memory-intel-uhd-graphics-256gb-ssd-storm-grey%2F6571566.p%3FskuId%3D6571566&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 [ASUS Zenbook 14-inch OLED touchscreen laptop deal for $1,300 (save $200) $1,300 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-zenbook-14-120hz-oled-touch-laptop-evo-intel-13-gen-core-i9-with-32gb-memory-nvidia-geforece-rtx-3050-1tb-ssd-gray%2F6548463.p%3FskuId%3D6548463&publisher_slug=itechdaily19598&exclusive=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Apple MacBook deals
 
@@ -156,6 +152,10 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 [Apple MacBook Pro, refurbished, 15-inch, 16GB RAM deal for $800 (save $2,000) $800 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-refurbished-macbook-pro-15-display-with-touch-bar-intel-core-i7-16gb-memory-amd-radeon-pro-560x-512gb-ssd-space-gray%2F6515403.p%3FskuId%3D6515403&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 [Apple MacBook Air, 2023, refurbished, 13.3-inch deal for $340 (save $660) $340 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-geek-squad-certified-refurbished-macbook-air-13-3-display-intel-core-i5-8gb-memory-128gb-flash-storage-silver%2F6530194.p&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How did we choose these laptop deals?
 
@@ -182,23 +182,19 @@ The right specs depend on your needs and how you intend to use your new laptop -
 
 Again, it depends on your needs. Those who _aren't_ gamers can opt for a regular laptop with high specs, but content creators or those who work with heavy editing software should opt for a designer's laptop or a gaming laptop. Not because, of course, you want to have the best gaming specs on the side, but because those laptops come with powerful CPUs, GPUs, and high RAM to handle the heavy requirements that software needs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How much should I pay for a good laptop?
 
 When you're considering your budget for a new laptop, you have to consider what you want to use the device for. 
 
 If you're a gamer who needs a high-spec laptop with a decent graphics card, top-of-the-range display and high refresh rate, you should expect to pay more than $500 - $600 -- and potentially beyond $1,000\. However, if you need a laptop for basic tasks, studying, and streaming, you can easily get away with a basic laptop for a few hundred dollars. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What are the best deals right now?
 
 ZDNET experts split out the latest and greatest deals for you below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best deals by retailer
 
@@ -206,6 +202,10 @@ ZDNET experts split out the latest and greatest deals for you below.
 * [The best Apple deals](https://www.zdnet.com/article/apple-deals/)
 * [The best AT&T deals](https://www.zdnet.com/article/att-deals/)
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best deals by category
 
@@ -257,24 +257,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-from-capture-to-share-reviewing-the-newest-sprout-version/"><u>[Updated] From Capture to Share Reviewing the Newest Sprout Version</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-advanced-techniques-for-simplifying-screen-capture-in-os-x/"><u>[Updated] In 2024, Advanced Techniques for Simplifying Screen Capture in OS X</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-professional-insights-crafting-and-sharing-360-videos-on-fb/"><u>[Updated] Professional Insights Crafting & Sharing 360 Videos on FB</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-quick-guide-temporarily-bypassing-windows-11s-safety-measures/"><u>A Quick Guide: Temporarily Bypassing Windows 11'S Safety Measures</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/elevating-your-online-presence-a-complete-handbook-for-tiktok-name-change/"><u>Elevating Your Online Presence A Complete Handbook for TikTok Name Change</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/get-more-bang-for-your-buck-with-the-acer-predator-orion-5000-review-elite-performance-without-breaking-the-bank/"><u>Get More Bang for Your Buck with the Acer Predator Orion 5000 Review: Elite Performance Without Breaking the Bank</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-years-top-picks-affordable-livestream-software-and-apps-list/"><u>In 2024, Year's Top Picks Affordable Livestream Software and Apps List</u></a></li>
-<li><a href="https://games-able.techidaily.com/microsofts-new-trial-an-ai-powered-assistant-for-xbox-support-explained-insights-from-zdnet/"><u>Microsoft's New Trial: An AI-Powered Assistant for Xbox Support Explained - Insights From ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/quick-solutions-for-when-winhttpdll-is-unavailable-or-lost/"><u>Quick Solutions for When Winhttp.dll Is Unavailable or Lost</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-repair-techniques-for-addressing-stereo-mix-problems-in-audio-systems/"><u>Step-by-Step Repair Techniques for Addressing Stereo Mix Problems in Audio Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-ranked-nvme-solid-state-drives-ultra-fast-storage-upgrades-for-playstation-5/"><u>Top-Ranked NVME Solid State Drives: Ultra-Fast Storage Upgrades for PlayStation 5</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-choosing-an-nvme-ssd-for-steam-decks-optimize-portable-gaming-performance/"><u>Ultimate Guide to Choosing an NVMe SSD for Steam Decks: Optimize Portable Gaming Performance</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unleash-lightning-fast-speeds-with-the-new-msi-spatium-m580-frozr-a-revolutionary-pcie-gen-5-ssd-delivering-up-to-146gbs-read-and-127gbs-write/"><u>Unleash Lightning-Fast Speeds with the New MSI Spatium M580 Frozr: A Revolutionary PCIe Gen 5 SSD Delivering Up to 14.6GB/S Read & 12.7GB/S Write</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unlocking-performance-insights-with-toms-hardware-expertise/"><u>Unlocking Performance Insights with Tom's Hardware Expertise</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-team-groups-latest-innovations-pcie-(-50-ssds-advanced-ssd-coolers-and-ai-ready-portable-ssd-with-bluetooth-at-computex-2024/"><u>Unveiling Team Group's Latest Innovations: PCIe < 5.0 SSDs, Advanced SSD Coolers & AI-Ready Portable SSD With Bluetooth at Computex 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-tech-secrets-your-guide-to-toms-hardware-reviews-and-insights/"><u>Unveiling Tech Secrets: Your Guide to Tom's Hardware Reviews and Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-the-latest-in-computer-hardware-with-toms-gear-reviews/"><u>Unveiling the Latest in Computer Hardware with Tom's Gear Reviews</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-the-latest-in-hardware-a-comprehensive-guide-from-toms-computer-blog/"><u>Unveiling the Latest in Hardware: A Comprehensive Guide From Tom's Computer Blog</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-the-latest-tech-a-guide-to-toms-hardware-solutions/"><u>Unveiling the Latest Tech: A Guide to Tom's Hardware Solutions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-invaluable-resource-for-zero-cost-video-and-photo-providers/"><u>[Updated] Invaluable Resource for Zero-Cost Video and Photo Providers</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/avi-flv/"><u>高速で簡単なアーカイブ・ビデオ (AVI) とフラット・ライク・ビデオ(FLV)間の変換方法 -一括処理ガイド</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/cutting-edge-memes-top-ten-template-showcase-for-2024/"><u>Cutting Edge Memes Top Ten Template Showcase for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-updated-epson-perfection-v39-driver-for-win7810-secure-your-print-jobs/"><u>Download Updated Epson Perfection V39 Driver for Win7/8/10 - Secure Your Print Jobs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/downloadhp-envy-5055-driverseasily-and-quickly/"><u>Download|HP ENVY 5055 Drivers|Easily & Quickly</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-labor-day-deal-grab-your-nintendo-switch-oled-for-just-60-at-walmart-insider-tips-from-zdnet/"><u>Exclusive Labor Day Deal: Grab Your Nintendo Switch OLED for Just $60 at Walmart - Insider Tips From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-installation-packs-for-amd-radeon-hd-on-windows-8-start-here/"><u>Free Installation Packs for AMD Radeon HD on Windows 8 - Start Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/guide-to-acquiring-and-setting-up-toshiba-printing-software-on-windows-machines/"><u>Guide to Acquiring and Setting up Toshiba Printing Software on Windows Machines</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-12-pro-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 Pro Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Xiaomi Redmi Note 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-realme-11-proplus-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Realme 11 Pro+ IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/increased-risk-for-sepsis/"><u>Increased Risk for Sepsis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/inside-toms-computer-world-exploring-new-hardware-innovations/"><u>Inside Tom's Computer World - Exploring New Hardware Innovations</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722955436210-latest-software-secure-the-new-nvidia-quadro-rtx-8000-driver-for-your-win-11-8-or-7-pc-today/"><u>Latest Software: Secure the New Nvidia Quadro RTX #8000 Driver for Your Win 11, 8 or 7 PC Today</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/seamlessly-post-vimeo-to-instagram-for-2024/"><u>Seamlessly Post Vimeo to Instagram for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210594700-9781401967727-spiritual-activator/"><u>Spiritual Activator | Free Book</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-hub-comprehensive-reviews-and-buying-guides/"><u>Tom's Tech Hub: Comprehensive Reviews and Buying Guides</u></a></li>
 </ul></div>
 

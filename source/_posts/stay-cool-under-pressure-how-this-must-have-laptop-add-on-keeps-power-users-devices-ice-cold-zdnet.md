@@ -1,7 +1,7 @@
 ---
 title: "Stay Cool Under Pressure: How This Must-Have Laptop Add-On Keeps Power Users' Devices Ice Cold | ZDNET"
-date: 2024-11-19T16:29:39.750Z
-updated: 2024-11-25T16:44:29.872Z
+date: 2024-11-28T20:45:00.157Z
+updated: 2024-12-05T04:23:59.874Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -73,7 +73,7 @@ Asus' Vivobook Pro 15 does a good job playing media. Hi-res videos look stunning
 In line with my initial impression, the device is a little on the bulky side, but the extra heft is not a big deal because it's lightweight and the extra room allows for a wide array of ports. You get two USB-Cs, a pair of USB-A inputs that support transfer speeds of up to 5GBPS, HDMI, an ethernet port, and an SD card slot.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -112,22 +112,21 @@ If you want something more powerful, I suggest checking out the MSI Creator Z16 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-minimal-shake-cam-for-dynamic-shooting/"><u>[New] 2024 Approved Minimal-Shake Cam for Dynamic Shooting</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-in-depth-minecraft-gameplay-recording-strategies/"><u>[New] In 2024, In-Depth Minecraft Gameplay Recording Strategies</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-capture-chuckles-quickly-efficient-methods-for-exciting-youtube-reaction-videos-3-tips/"><u>[Updated] 2024 Approved Capture Chuckles Quickly Efficient Methods for Exciting YouTube Reaction Videos (3 Tips)</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-elevate-your-livestream-experience-a-list-of-top-6-sound-gadgets/"><u>2024 Approved Elevate Your Livestream Experience A List of Top 6 Sound Gadgets</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/achieve-better-wifi-connectivity-free-realtek-rtl81email-protectedu-driver-software-for-windows-10-and-7-users/"><u>Achieve Better WiFi Connectivity: Free Realtek RTL81([email Protected])u Driver Software for Windows 10 & 7 Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-steps-to-get-your-epson-wf-7710-ready-on-windows-108187-driver-downloads-included/"><u>Easy Steps to Get Your Epson WF-7710 Ready on Windows 10/8.1/8/7 - Driver Downloads Included!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722963852064-enhance-your-systems-audio-with-updated-drivers-for-windows-7-get-them-here/"><u>Enhance Your System's Audio with Updated Drivers for Windows 7 - Get Them Here!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-successfully-download-and-update-toshiba-hardware-drivers-on-a-windows-computer/"><u>How to Successfully Download & Update Toshiba Hardware Drivers on a Windows Computer</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-apple-iphone-12-pro-icloud-activation-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing Apple iPhone 12 Pro iCloud Activation Lock</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Oppo Reno 10 Pro+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-canon-ts6222x-all-in-one-printer-driver-on-your-windows-pc/"><u>Install Canon TS6222X All-in-One Printer Driver on Your Windows PC</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/keep-your-system-up-to-date-microsofts-bluetooth-driver-downloads-and-updates-for-various-windows-versions/"><u>Keep Your System Up-to-Date: Microsoft's Bluetooth Driver Downloads & Updates for Various Windows Versions</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/perfect-planning-how-to-schedule-your-online-teams-virtual-gatherings-google/"><u>Perfect Planning How to Schedule Your Online Team's Virtual Gatherings (Google)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722964523605-realtek-asio-driver-update-for-windows-10-quick-easy-download-steps/"><u>RealTek Asio Driver Update for Windows 10 – Quick, Easy Download Steps</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-definitive-guide-correcting-issues-with-samsung-ssd-drivers-running-on-windows-machines/"><u>The Definitive Guide: Correcting Issues with Samsung SSD Drivers Running on Windows Machines</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-samsung-galaxy-s23-fe-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Samsung Galaxy S23 FE to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-acer-predator-helios-300-drivers-for-better-gaming-experience/"><u>Update Acer Predator Helios 300 Drivers For Better Gaming Experience</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-prime-pick-ultimate-action-cam-mics-guide/"><u>[New] 2024 Approved Prime Pick Ultimate Action Cam Mics Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-free-mac-screenshoter-extraordinaire-for-2024/"><u>[Updated] Free Mac Screenshoter Extraordinaire for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/5-schnelle-und-einfache-methoden-zum-ubertragen-von-dateien-von-ihrem-iphone-auf-den-pc-eine-umfassende-anleitung/"><u>5 Schnelle Und Einfache Methoden Zum Übertragen Von Dateien Von Ihrem iPhone Auf Den PC: Eine Umfassende Anleitung</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/combination-therapy-with-drugs-such-as-vancomycin-or-linezolid-may-be-necessary-for-treating-certain-resistant-infections/"><u>Combination Therapy with Drugs Such as Vancomycin or Linezolid May Be Necessary for Treating Certain Resistant Infections</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fix-and-improve-performance-a-complete-guide-to-intels-optane-drivers-download-and-update-process-in-windows/"><u>Fix & Improve Performance: A Complete Guide to Intels Optane Drivers Download and Update Process in Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-new-brother-hl-2270dw-driver-for-your-windows-pc-step-by-step-download-tutorial/"><u>Get the New Brother HL- 2270DW Driver for Your Windows PC – Step by Step Download Tutorial</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-official-drivers-for-zexmte-bluetooth-usb-device-supports-win-10-7-and-8/"><u>Get the Official Drivers for Zexmtē Bluetooth USB Device - Supports Win 10, 7 & 8</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/golden-age-of-scenario-writing-in-motion-pictures-for-2024/"><u>Golden Age of Scenario Writing in Motion Pictures for 2024</u></a></li>
+<li><a href="https://win-guides.techidaily.com/indispensable-a-comprehensive-list-of-the-best-10-must-have-apps-for-your-windows-10-experience/"><u>Indispensable: A Comprehensive List of the Best 10 Must-Have Apps for Your Windows 10 Experience</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-easy-installation-of-scansnap-software-on-your-pc/"><u>Quick & Easy Installation of ScanSnap Software on Your PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ryzen-ai-9-hx-370-vs-intel-single-core-showdown-wins-with-zen-5-advantage-bests-core-ultra-7-and-rivals/"><u>Ryzen AI 9 HX 370 Vs. Intel: Single-Core Showdown Wins with Zen 5 Advantage - Bests Core Ultra 7 & Rivals</u></a></li>
+<li><a href="https://article-helps.techidaily.com/significant-concepts-in-interactive-tale-design-for-2024/"><u>Significant Concepts in Interactive Tale Design for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-guide-how-to-get-age-of-empires-ii-running-smoothly-on-windows-10/"><u>Solution Guide: How to Get Age of Empires II Running Smoothly on Windows 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723262325418-the-aftermath-of-zen-5s-initial-ryzen-9000-die-failure-a-deep-dive-into-cracked-dice-and-residual-solder-evidence/"><u>The Aftermath of Zen 5'S Initial Ryzen 9000 Die Failure - A Deep Dive Into Cracked Dice & Residual Solder Evidence</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unraveling-the-mystery-behind-the-500-internal-server-blunder/"><u>Unraveling the Mystery Behind the 500 Internal Server Blunder</u></a></li>
 </ul></div>
 

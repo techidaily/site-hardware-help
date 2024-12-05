@@ -1,7 +1,7 @@
 ---
 title: Fractal Design Teases New Raspberry Pi North Case – An Intriguing Computex Revelation with Deeper Insights to Come
-date: 2024-08-19T10:18:40.860Z
-updated: 2024-08-20T10:18:40.860Z
+date: 2024-12-01T10:22:32.322Z
+updated: 2024-12-05T09:11:26.819Z
 tags:
   - raspberry-pi
 categories:
@@ -35,6 +35,10 @@ The[Raspberry Pi](https://tools.techidaily.com) community never ceases to amaze 
 
  As we said before, this is a work in progress, and plans are in the works for new features. One of the most significant upgrades Spiritual\_Aside\_7859 plans to include is speech recognition so you can verbally communicate with the koala bear assistant. In the meantime, you can see what this[Raspberry Pi project](https://tools.techidaily.com) is capable of over at[Reddit](https://www.reddit.com/r/arduino/comments/1deo04x/ai%5Fassistant) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,8 +53,6 @@ The[Raspberry Pi](https://tools.techidaily.com) community never ceases to amaze 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -58,8 +60,17 @@ The[Raspberry Pi](https://tools.techidaily.com) community never ceases to amaze 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-best-8-platforms-for-professional-linux-editing/"><u>[Updated] 2024 Approved Best 8 Platforms for Professional Linux Editing</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-androids-creme-de-la-creme-for-fast-vid-fixing/"><u>[Updated] In 2024, Android's Crème De La Crème for Fast Vid Fixing</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-mastering-video-synchronization-with-obs/"><u>[Updated] Mastering Video Synchronization with OBS</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/convert-your-files-with-movavis-w64-online-tool-quick-simple-and-free/"><u>Convert Your Files with Movavi's W64 Online Tool - Quick, Simple & Free</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722965298269-fixing-csr8510-a10-driver-problems-on-windows-systems-now-resolved/"><u>Fixing CSR8510 A10 Driver Problems on Windows Systems - Now Resolved!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-toshiba-laptop-drivers-compatible-with-windows-software/"><u>Get the Latest Toshiba Laptop Drivers Compatible with Windows Software</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-oppo-find-x7-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722978550614-positive-externalities-occur-when-a-transaction-has-beneficial-effects-on-uninvolved-third-parties-such-as-education/"><u>Positive Externalities Occur when a Transaction Has Beneficial Effects on Uninvolved Third Parties, Such as Education.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tech-troubleshooting-solving-game-freezes-in-windows/"><u>Tech Troubleshooting: Solving Game Freezes in Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-latest-in-tech-exploring-toms-hardware-insights/"><u>Unveiling the Latest in Tech: Exploring Tom's Hardware Insights</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

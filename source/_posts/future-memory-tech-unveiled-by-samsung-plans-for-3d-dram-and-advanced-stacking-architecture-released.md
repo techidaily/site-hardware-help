@@ -1,7 +1,7 @@
 ---
 title: "Future Memory Tech Unveiled by Samsung: Plans for 3D DRAM and Advanced Stacking Architecture Released"
-date: 2024-08-19T10:17:10.470Z
-updated: 2024-08-20T10:17:10.470Z
+date: 2024-12-01T05:47:00.291Z
+updated: 2024-12-04T19:01:48.041Z
 tags:
   - ram
 categories:
@@ -25,6 +25,10 @@ SureCore announced its new SRAM modules for[quantum computing](https://tools.tec
   
  If your head is spinning with talk of qubits and quantum, give our[quantum computers explainer](https://tools.techidaily.com) a read. While quantum computing may yet prove to be the future, today it is still largely theoretical. Even[IBM](https://tools.techidaily.com) 's own recent quantum computing experiments have been outperformed by a 1980s era[Commodore 64](https://tools.techidaily.com) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -39,8 +43,6 @@ SureCore announced its new SRAM modules for[quantum computing](https://tools.tec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -48,8 +50,23 @@ SureCore announced its new SRAM modules for[quantum computing](https://tools.tec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-unblemished-visuals-buying-high-quality-images-for-2024/"><u>[New] Unblemished Visuals Buying High-Quality Images for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/14-duo-oled-ux8402-features-performance-and-drawbacks-unveiled/"><u>14 Duo OLED (UX8402) - Features, Performance & Drawbacks Unveiled</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-boundaries-of-visual-creativity-using-windows-11-tools/"><u>2024 Approved Exploring the Boundaries of Visual Creativity Using Windows 11 Tools</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amazon-sale-alert-top-ranked-gaming-audio-experience-now-discounted-by-nearly-a-third-zdnet-exclusive/"><u>Amazon Sale Alert: Top-Ranked Gaming Audio Experience Now Discounted by Nearly a Third - ZDNet Exclusive</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/final-opportunity-for-incredible-discounts-unbeatable-october-prime-day-2024-gaming-offers-available-now-zdnet/"><u>Final Opportunity for Incredible Discounts! Unbeatable October Prime Day 2024 Gaming Offers Available Now | ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-amazing-screen-quality-for-less-review-of-an-unbeatable-value-lightweight-laptop-with-superior-displays-pcmag/"><u>Get Amazing Screen Quality for Less: Review of an Unbeatable Value Lightweight Laptop with Superior Displays | PCMag</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-software-for-your-tp-link-usb-400-bluetooth-adapter-updates-available/"><u>Get the Latest Software for Your TP-Link USB 400 - Bluetooth Adapter Updates Available</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-chord-and-frame-producing-video-tracks-with-iphones/"><u>In 2024, Chord and Frame Producing Video Tracks with iPhones</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-samsung-galaxy-xcover-6-pro-tactical-edition-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Samsung Galaxy XCover 6 Pro Tactical Edition Devices</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-12-pro-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone 12 Pro</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/smooth-cuts-and-seamless-edits-top-6-mac-videos-editors/"><u>Smooth Cuts and Seamless Edits Top 6 Mac Videos Editors</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-best-laptops-reviewed-apples-revolutionary-macbook-air-with-m2-chip-crowned-by-zdnet/"><u>The Best Laptops Reviewed : Apple's Revolutionary MacBook Air with M2 Chip Crowned by ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-laptops-for-professional-video-editing-in-depth-analysis-and-reviews-by-experts-techradar/"><u>Top-Rated Laptops for Professional Video Editing: In-Depth Analysis & Reviews by Experts | TechRadar</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transforming-ai-communication-how-chatgpt-now-utilizes-voice-recognition-from-openai/"><u>Transforming AI Communication: How ChatGPT Now Utilizes Voice Recognition From OpenAI</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbelievable-deal-get-the-ultimate-sound-experience-with-best-buys-50-discounted-top-tier-speakers-testimonials-inside/"><u>Unbelievable Deal: Get the Ultimate Sound Experience with Best Buy’s 50% Discounted Top-Tier Speakers - Testimonials Inside</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unmissable-deal-alert-top-rated-qled-television-now-at-a-striking-discount-for-labor-day-save-big-on-tech/"><u>Unmissable Deal Alert: Top-Rated QLED Television Now at a Striking Discount for Labor Day - Save Big on Tech!</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->

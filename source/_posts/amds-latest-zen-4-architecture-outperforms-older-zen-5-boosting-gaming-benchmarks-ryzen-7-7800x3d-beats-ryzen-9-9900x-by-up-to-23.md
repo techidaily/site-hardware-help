@@ -1,7 +1,7 @@
 ---
 title: "AMD's Latest Zen 4 Architecture Outperforms Older Zen 5, Boosting Gaming Benchmarks: Ryzen 7 7800X3D Beats Ryzen 9 9900X by Up to 23%%"
-date: 2024-08-19T12:22:53.376Z
-updated: 2024-08-20T12:22:53.376Z
+date: 2024-11-30T19:15:27.914Z
+updated: 2024-12-05T04:10:23.288Z
 tags:
   - cpu
 categories:
@@ -31,6 +31,10 @@ AMD's upcoming Ryzen 9 9950X Zen 5 flagship, which will compete against the[best
 
  The Ryzen 9 9950X's performance is impressive. The CPU leveraged AMD's PBO and Curve Optimizer technologies with speedy RAM. The system utilizes a custom loop to remain cool during the[benchmarks](https://www.tomshardware.com/tag/benchmark) . Extreme overclockers can break world records with this chip once they put it under liquid nitrogen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -39,14 +43,11 @@ AMD's upcoming Ryzen 9 9950X Zen 5 flagship, which will compete against the[best
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -55,8 +56,24 @@ AMD's upcoming Ryzen 9 9950X Zen 5 flagship, which will compete against the[best
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-building-competence-with-lut-software/"><u>[New] In 2024, Building Competence with LUT Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ace-the-game-with-hp-victus-15-at-450-from-best-buy-prime-deals/"><u>Ace the Game with HP Victus 15 at $450 From Best Buy | Prime Deals !</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/elite-selection-of-oled-laptops-comprehensive-reviews-and-ratings-from-industry-experts-cnet/"><u>Elite Selection of OLED Laptops : Comprehensive Reviews and Ratings From Industry Experts | CNET</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-text-to-visualization-the-ultimate-guide-to-using-dall-e-with-chatgpt-4-for-ai-artwork/"><u>From Text to Visualization: The Ultimate Guide to Using DALL-E with ChatGPT-4 for AI Artwork</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-xiaomi-redmi-note-12-proplus-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Xiaomi Redmi Note 12 Pro+ 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-apex-artistry-best-portable-machines-for-uhd-filmmaking/"><u>In 2024, Apex Artistry Best Portable Machines for UHD Filmmaking</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/se-viewing-in-youtube-original-ideas-for-rewinders-for-2024/"><u>Inverse Viewing in YouTube Original Ideas for Rewinders for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/presidents-day-special-sale-alert-get-your-hands-on-a-brand-new-macbook-pro-featuring-the-powerful-m3-pro-chip-at-a-steeply-reduced-price-of-just-200-less-c60/"><u>President’s Day Special Sale Alert! Get Your Hands on a Brand New MacBook Pro Featuring the Powerful M3 Pro Chip at a Steeply Reduced Price of Just $200 Less – Comprehensive Review and Deal Insight</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/testing-lenovos-clearbook-my-impressive-experience-with-the-transparent-notebook-at-mwc/"><u>Testing Lenovo’s ClearBook: My Impressive Experience with the Transparent Notebook at MWC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-high-definition-adventures-winning-with-windows-and-scummvm/"><u>The Ultimate Guide to High Definition Adventures: Winning with Windows & ScummVM</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-15-inch-laptop-picks-for-2eyr2024-comprehensive-testing-and-reviews-by-tech-experts-techtimes/"><u>Top 15-Inch Laptop Picks for 2eYr2024: Comprehensive Testing & Reviews by Tech Experts | Techtimes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-prime-day-video-game-discounts-the-ultimate-october-2024-shopping-guide-zdnet/"><u>Top Prime Day Video Game Discounts: The Ultimate October 2024 Shopping Guide - ZDNet</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/unleash-creativity-the-best-9-gif-recorders-to-preserve-windows-animation-for-2024/"><u>Unleash Creativity The Best 9 GIF Recorders to Preserve Windows Animation for 2024</u></a></li>
+<li><a href="https://techidaily.com/unlock-iphone-xs-screen-lock-without-data-loss-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone XS screen lock without data loss</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/unlock-tailored-user-engagement-with-the-help-of-cookiebot/"><u>Unlock Tailored User Engagement with the Help of Cookiebot</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unmatched-durability-meets-personalization-inside-the-ultimate-laptop-experience-beyond-getac-tech-insights-by-zdnet/"><u>Unmatched Durability Meets Personalization: Inside the Ultimate Laptop Experience Beyond Getac | Tech Insights by ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-ultimate-gaming-laptop-picks-for-2eplus4-an-in-depth-analysis-featuring-razer-acer-and-more-insights-from-zdnet/"><u>Unveiling the Ultimate Gaming Laptop Picks for 2E+4: An In-Depth Analysis Featuring Razer, Acer, and More | Insights From ZDNET</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

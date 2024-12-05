@@ -1,7 +1,7 @@
 ---
 title: Slash Your Budget! Get the MacBook Pro 16-Inch M1 Max From B&H Photo | ZDNET Deal Alert!
-date: 2024-11-18T16:41:35.663Z
-updated: 2024-11-25T16:31:38.060Z
+date: 2024-11-28T00:49:17.322Z
+updated: 2024-12-04T21:27:07.067Z
 tags:
   - laptops
 categories:
@@ -20,7 +20,7 @@ Apple product deals are rare, but this 20% discount on a MacBook Air is unheard 
 **Read the review: [M1 MacBook Air review](https://www.zdnet.com/article/m1-macbook-air-long-term-review/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -28,7 +28,7 @@ Apple product deals are rare, but this 20% discount on a MacBook Air is unheard 
 [![2020-03-19-at-2-39-54-pm.jpg](https://www.zdnet.com/a/img/resize/80ba392bacc4388899c436d9acd4d00f04d5645c/2020/03/19/ff6c9504-c35e-4cb6-a83c-f51c18669916/2020-03-19-at-2-39-54-pm.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best laptop with the longest battery life The laptops on this list can keep you online and working longer when you need to be unplugged.  Read now](https://www.zdnet.com/article/best-battery-life-laptop/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The laptop comes packed with 256GB of storage and 8GB RAM, so you can quickly work through websites, documents, and more. Plus, you can stay focused for hours on end thanks to the long battery life, which lasts up to 18 hours on a single charge. 
@@ -69,20 +69,20 @@ The backlit keyboard enables you to log on in any environment. You can even Face
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2023s-premier-action-cameras-on-motorcycle-gear-guide/"><u>[New] 2023'S Premier Action Cameras on Motorcycle Gear Guide</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-maximize-your-obs-fb-integration-tips/"><u>[New] Maximize Your OBS-FB Integration Tips</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-the-verdict-on-android-photo-editing-does-picku-excel/"><u>[Updated] The Verdict on Android Photo Editing – Does PickU Excel?</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-monetizing-content-understanding-youtubes-cpm/"><u>2024 Approved Monetizing Content Understanding YouTube's CPM</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-realme-narzo-60x-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Realme Narzo 60x 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/capturing-your-screen-on-pc-free-ways-to-do-it-for-2024/"><u>Capturing Your Screen on PC Free Ways to Do It for 2024</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/does-itools-virtual-location-not-work-on-apple-iphone-13-proipad-drfone-by-drfone-virtual-ios/"><u>Does iTools virtual location not work On Apple iPhone 13 Pro/iPad? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-install-multi-version-bluetooth-driver-for-your-pc-running-windows-10-7-or-8/"><u>Easy Install: Multi-Version Bluetooth Driver for Your PC Running Windows 10, 7, or 8</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-driver-update-process-for-microsoft-sculpt-keyboards/"><u>Effortless Driver Update Process for Microsoft Sculpt Keyboards</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/iphone-x-vs-galaxy-comparing-facial-authentication-systems-for-2024/"><u>IPhone X Vs. Galaxy Comparing Facial Authentication Systems for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-version-of-epson-wf-3620-drivers-compatible-with-windows-1087-download-now/"><u>Latest Version of Epson WF-3620 Drivers: Compatible with Windows 10/8/7 - Download Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-download-of-samsungs-updated-usb-drivers-for-optimal-windows-11-performance/"><u>Quick Download of Samsung's Updated USB Drivers for Optimal Windows 11 Performance</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-fix-securing-the-newest-drivers-for-hp-laserjet-pro-m402n-in-a-click-for-windows-users/"><u>Quick Fix: Securing the Newest Drivers for HP LaserJet Pro M402n in a Click – For Windows Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/seamless-scansnap-s11n-setup-how-to-install-and-optimize-speedily/"><u>Seamless Scansnap S11n Setup: How to Install & Optimize Speedily</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/your-ultimate-guide-to-picking-the-best-fit-tablet-sizing-up-options-by-dimensions-and-heaviness/"><u>Your Ultimate Guide to Picking the Best-Fit Tablet: Sizing Up Options by Dimensions & Heaviness</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-transform-your-broadcasts-5-advanced-recording-methods-web/"><u>[Updated] Transform Your Broadcasts 5 Advanced Recording Methods Web</u></a></li>
+<li><a href="https://extra-information.techidaily.com/break-free-from-periscope-unique-mobile-video-apps-for-smartphones/"><u>Break Free From Periscope Unique Mobile Video Apps for Smartphones</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/converting-images-into-harmonious-videography/"><u>Converting Images Into Harmonious Videography</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-vivo-t2-pro-5g-by-drfone-android/"><u>How to Bypass FRP from Vivo T2 Pro 5G?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-8-tips-to-create-attractive-instagram-unboxing-reels/"><u>In 2024, 8 Tips to Create Attractive Instagram Unboxing Reels</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/quadcopter-mechanics-decoded-flight-patterns-and-functionality-for-2024/"><u>Quadcopter Mechanics Decoded Flight Patterns & Functionality for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/samsungs-latest-contender-the-galaxy-buds-3-pro-vs-apples-airpods-pro/"><u>Samsung's Latest Contender: The Galaxy Buds 3 Pro Vs. Apple's AirPods Pro</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/say-goodbye-to-steam-link-woes-explore-smooth-streaming-via-free-alternatives-moonlight-and-sunshine-awaits/"><u>Say Goodbye to Steam Link Woes! Explore Smooth Streaming via Free Alternatives – Moonlight and Sunshine Awaits!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/should-your-portable-computer-come-with-separate-graphic-chips-for-enhanced-performance/"><u>Should Your Portable Computer Come with Separate Graphic Chips for Enhanced Performance?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/sonos-pledges-improvement-reinstating-classic-app-attributes/"><u>Sonos Pledges Improvement, Reinstating Classic App Attributes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/spotting-trouble-6-critical-warnings-that-showcase-bad-computer-cable-arrangement/"><u>Spotting Trouble: 6 Critical Warnings That Showcase Bad Computer Cable Arrangement</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-resolving-tilt-errors-in-your-steam-deck-console/"><u>Step-by-Step Guide: Resolving Tilt Errors in Your Steam Deck Console</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-setting-up-google-play-services-on-your-amazon-fire-device/"><u>Step-by-Step Guide: Setting Up Google Play Services on Your Amazon Fire Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-fix-windows-11-assistive-application/"><u>Strategies to Fix Windows 11 Assistive Application</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-compilation-ringtone-renaissance-sites-for-2024/"><u>Ultimate Compilation Ringtone Renaissance Sites for 2024</u></a></li>
 </ul></div>
 

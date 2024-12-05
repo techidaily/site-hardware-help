@@ -1,7 +1,7 @@
 ---
 title: "New Upgrade: Raspberry Pi's Extended Connectivity Offers Improved Secure Shell Access & Backwards Support for Aged Models"
-date: 2024-08-19T10:18:20.287Z
-updated: 2024-08-20T10:18:20.287Z
+date: 2024-11-30T01:37:38.423Z
+updated: 2024-12-05T06:38:24.521Z
 tags:
   - raspberry-pi
 categories:
@@ -43,6 +43,10 @@ The cool thing about single-board computers like the[Raspberry Pi](https://tools
 
  If you want to get a closer look at this[Raspberry Pi project](https://tools.techidaily.com) in action, check it out over at[YouTube](https://www.youtube.com/watch?v=nJNDy8Mfk90) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -57,8 +61,6 @@ The cool thing about single-board computers like the[Raspberry Pi](https://tools
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -66,8 +68,26 @@ The cool thing about single-board computers like the[Raspberry Pi](https://tools
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-ultimate-guide-to-recording-gaming-with-fraps-for-2024/"><u>[Updated] The Ultimate Guide to Recording Gaming with Fraps for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/accelerate-audio-stream-10-best-mobile-tools-for-2024/"><u>Accelerate Audio Stream 10 Best Mobile Tools for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ace-your-studies-with-the-ultimate-college-laptop-picks-in-depth-analysis-and-expert-ratings-zdnet/"><u>Ace Your Studies with the Ultimate College Laptop Picks: In-Depth Analysis & Expert Ratings - ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/budget-friendly-windows-laptop-showdown-how-acer-and-dell-stack-up-expert-review-by-zdnet/"><u>Budget-Friendly Windows Laptop Showdown: How Acer and Dell Stack Up | Expert Review by ZDNET</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ftdi-bus-error-driver-mismatch-causes-memory-integrity-issue/"><u>FTDI Bus Error: Driver Mismatch Causes Memory Integrity Issue</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-youtube-comment-discovery-a-step-by-step-walkthrough/"><u>In 2024, YouTube Comment Discovery A Step-by-Step Walkthrough</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-the-nintendo-switch-wireless-headset-friendly-with-airpods-integration/"><u>Is The Nintendo Switch Wireless Headset Friendly With AirPods Integration?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/july-2024-exclusive-top-discounts-for-apple-products-get-the-best-deals-on-iphones-watches-and-tablets-zdnet/"><u>July 2024 Exclusive: Top Discounts for Apple Products - Get the Best Deals on iPhones, Watches and Tablets | ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/maximizing-lifespan-expert-tips-on-enhancing-your-laptops-battery-performance-insights-from-zdnet/"><u>Maximizing Lifespan: Expert Tips on Enhancing Your Laptop's Battery Performance - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/prime-day-exclusive-save-460-on-microsoft-surface-pro-cuz-hot-deals/"><u>Prime Day Exclusive: Save $460 on Microsoft Surface Pro Cuz - Hot Deals !</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/programming-prowess-face-off-which-is-superior-chatgpt-or-gemini-for-coding-tasks/"><u>Programming Prowess Face-Off: Which Is Superior, ChatGPT or Gemini for Coding Tasks?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/save-44-the-ultimate-11-in-1-hub-for-a-cleaner-clutter-free-workspace-tech-deals/"><u>Save 44%: The Ultimate 11-in-1 Hub for a Cleaner, Clutter-Free Workspace | Tech Deals</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/streamlined-editing-of-your-tiktok-age-for-2024/"><u>Streamlined Editing of Your TikTok Age for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/surface-book-2-drivers-download-and-update-easily/"><u>Surface Book 2 Drivers Download & Update [Easily]</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-fix-guide-to-overcome-tarkovs-error-103003-issue/"><u>The Ultimate Fix Guide to Overcome Tarkov's Error 103003 Issue</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/this-years-ultimate-multifaceted-workmate-revealing-the-underappreciated-features-that-propel-productivity-zdnet-insights/"><u>This Year’s Ultimate Multifaceted Workmate: Revealing the Underappreciated Features that Propel Productivity | ZDNET Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-3-affordable-laptops-on-cyber-monday-2022-unbeatable-offers-from-costco-amazon-and-dell-zdnet/"><u>Top 3 Affordable Laptops on Cyber Monday 2022: Unbeatable Offers From Costco, Amazon & Dell - ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-list-of-essential-mac-applications-industry-pros-choices-unveiled-by-zdnet/"><u>Ultimate List of Essential Mac Applications : Industry Pro's Choices Unveiled by ZDNet</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

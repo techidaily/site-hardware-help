@@ -1,7 +1,7 @@
 ---
 title: "Core I9-11900K Achieves Historic Milestone: Shatters Expectations at 7.abbbb GHz"
-date: 2024-08-19T10:18:08.940Z
-updated: 2024-08-20T10:18:08.940Z
+date: 2024-11-29T17:39:26.001Z
+updated: 2024-12-04T23:52:08.010Z
 tags:
   - overclocking
 categories:
@@ -35,6 +35,10 @@ Nvidia GeForce RTX 3080 Founders Edition  (Image credit: Tom's Hardware)
 
  Ampere's limited availability and the topic of scalpers will prove to be annoying problems for legit customers. The[GeForce RTX 3090](https://tools.techidaily.com) lands on September 24 and the[GeForce RTX 3070](https://tools.techidaily.com) on October 15\. We'll probably see the same stiuation play out again. The panorama doesn't look favorable at all as[Ampere's supply could be very scarce](https://tools.techidaily.com) until next year.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,8 +53,6 @@ Nvidia GeForce RTX 3080 Founders Edition  (Image credit: Tom's Hardware)
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -58,8 +60,23 @@ Nvidia GeForce RTX 3080 Founders Edition  (Image credit: Tom's Hardware)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-from-doodles-to-dollars-the-graphic-artists-guide/"><u>[New] 2024 Approved From Doodles to Dollars The Graphic Artist's Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-framefusion-creator-for-2024/"><u>[New] FrameFusion Creator for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/arge-display-medium-network-selection-tips-for-2024/"><u>[New] Large Display Medium Network Selection Tips for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-crafting-a-cash-flow-career-with-content-creation-like-ajey-nagar/"><u>[Updated] In 2024, Crafting a Cash-Flow Career with Content Creation Like Ajey Nagar</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-unleashing-the-power-of-whiteboards-in-google-meet-on-diverse-devices-for-seamless-engagement/"><u>[Updated] In 2024, Unleashing the Power of Whiteboards in Google Meet on Diverse Devices for Seamless Engagement</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-best-copilotplus-laptop-picks-from-ifa-2er-2024-including-gaming-models-reviewed-by-tech-experts/"><u>Discover the Best Copilot+ Laptop Picks From IFA 2Er 2024 Including Gaming Models Reviewed by Tech Experts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-deep-affection-in-tech-sales-insights-from-an-apple-vision-pro-representative/"><u>Exploring Deep Affection in Tech Sales: Insights From an Apple Vision Pro Representative</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-successfully-install-battlefield-4-on-your-gaming-computer/"><u>How to Successfully Install Battlefield 4 on Your Gaming Computer</u></a></li>
+<li><a href="https://howto.techidaily.com/itel-s23plus-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel S23+ Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/live-coverage-of-microsofts-surface-and-windows-ai-showcase-key-highlights-and-insights/"><u>Live Coverage of Microsoft's Surface & Windows AI Showcase: Key Highlights & Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/snag-your-dream-laptop-at-a-steal-this-black-friday-hp-envy-x360-2-in-1-touchscreen-goes-for-only-499-after-40-discount-find-top-tech-bargains-on-zdnet/"><u>Snag Your Dream Laptop at a Steal This Black Friday: HP Envy X360 2-in-1 Touchscreen Goes for Only $499 After 40% Discount | Find Top Tech Bargains on ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ideal-remote-work-companion-a-leading-lightweight-laptop-that-exceeds-expectations-according-to-our-experts/"><u>The Ideal Remote Work Companion: A Leading Lightweight Laptop That Exceeds Expectations, According to Our Experts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-100-unbeatable-walmart-bargains-this-season-a-comprehensive-guide-techreview/"><u>Top 100 Unbeatable Walmart Bargains This Season: A Comprehensive Guide | TechReview</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-picks-unbeatable-black-friday-and-cyber-monday-laptop-bargains-for-november-2024-zdnets-ultimate-guide/"><u>Top Picks: Unbeatable Black Friday & Cyber Monday Laptop Bargains for November 2024 - ZDNet's Ultimate Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-recommended-15-inch-laptops-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top Recommended 15-Inch Laptops : Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/unlock-your-ipad-without-a-password-or-using-itunes-easy-diy-solutions/"><u>Unlock Your iPad Without a Password or Using iTunes - Easy DIY Solutions</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

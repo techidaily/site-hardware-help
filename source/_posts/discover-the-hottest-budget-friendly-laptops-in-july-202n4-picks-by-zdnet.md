@@ -1,7 +1,7 @@
 ---
 title: Discover the Hottest Budget-Friendly Laptops in July 202N4 - Picks by ZDNet
-date: 2024-11-18T16:03:13.660Z
-updated: 2024-11-25T16:13:28.056Z
+date: 2024-12-03T07:18:11.234Z
+updated: 2024-12-04T23:49:46.145Z
 tags:
   - laptops
 categories:
@@ -133,6 +133,10 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [ASUS Zenbook 14-inch OLED touchscreen laptop deal for $1,300 (save $200) $1,300 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-zenbook-14-120hz-oled-touch-laptop-evo-intel-13-gen-core-i9-with-32gb-memory-nvidia-geforece-rtx-3050-1tb-ssd-gray%2F6548463.p%3FskuId%3D6548463&publisher_slug=itechdaily19598&exclusive=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Apple MacBook deals
 
 [Apple MacBook Air, 15-inch, M2 chip, 1TB deal for $1,599 (save $300) $1,599 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-macbook-air-15-laptop-m2-chip-16gb-memory-1tb-ssd-midnight%2F6382794.p%3FskuId%3D6382794&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
@@ -144,6 +148,10 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 [Apple MacBook Pro, refurbished, 15-inch, 16GB RAM deal for $800 (save $2,000) $800 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-refurbished-macbook-pro-15-display-with-touch-bar-intel-core-i7-16gb-memory-amd-radeon-pro-560x-512gb-ssd-space-gray%2F6515403.p%3FskuId%3D6515403&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 [Apple MacBook Air, 2023, refurbished, 13.3-inch deal for $340 (save $660) $340 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-geek-squad-certified-refurbished-macbook-air-13-3-display-intel-core-i5-8gb-memory-128gb-flash-storage-silver%2F6530194.p&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How did we choose these laptop deals?
 
@@ -158,7 +166,7 @@ When compiling the list of the best deals, we considered the following:
 * **Use cases**: At ZDNET, we also took into account different use cases. You might be in the market for a budget-friendly, basic laptop for a child, for example, or you may need a future-proof laptop suitable for work. Or, it might be a gaming device you're after. So, we have compiled a set of recommendations based on different purposes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What specifications do I need to look for in a laptop?
@@ -170,17 +178,9 @@ The right specs depend on your needs and how you intend to use your new laptop -
 * **Storage**: For those that focus on lighter laptop use, 256GB of SSD storage will be plenty of space for your laptop. However, if you need more storage for high-resolution photos, videos, or more, you'll want to opt for 512GB of storage or even 1TB.
 * **RAM**: In conjunction with the CPU, RAM is used to help the computer multi-task and is vital to running programs. ZDNET expert Adrian Kingsley-Hughes breaks down [RAM needs here](https://www.zdnet.com/article/how-much-ram-does-your-windows-10-pc-need/), but at minimum, especially for working, you should opt for around 8GB, and gamers will potentially want more.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Do I need a gaming laptop or a "regular" laptop?
 
 Again, it depends on your needs. Those who _aren't_ gamers can opt for a regular laptop with high specs, but content creators or those who work with heavy editing software should opt for a designer's laptop or a gaming laptop. Not because, of course, you want to have the best gaming specs on the side, but because those laptops come with powerful CPUs, GPUs, and high RAM to handle the heavy requirements that software needs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How much should I pay for a good laptop?
 
@@ -188,16 +188,12 @@ When you're considering your budget for a new laptop, you have to consider what 
 
 If you're a gamer who needs a high-spec laptop with a decent graphics card, top-of-the-range display and high refresh rate, you should expect to pay more than $500 - $600 -- and potentially beyond $1,000\. However, if you need a laptop for basic tasks, studying, and streaming, you can easily get away with a basic laptop for a few hundred dollars. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What are the best deals right now?
 
 ZDNET experts split out the latest and greatest deals for you below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best deals by retailer
@@ -206,6 +202,10 @@ ZDNET experts split out the latest and greatest deals for you below.
 * [The best Apple deals](https://www.zdnet.com/article/apple-deals/)
 * [The best AT&T deals](https://www.zdnet.com/article/att-deals/)
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best deals by category
 
@@ -257,22 +257,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-hilarity-and-sobriety-a-list-of-top-10-memetic-spots-on-insta/"><u>[New] Hilarity & Sobriety A List of Top 10 Memetic Spots on Insta</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-spotlight-on-the-top-8-authentic-video-promotion-methods/"><u>[New] In 2024, Spotlight on the Top 8 Authentic Video Promotion Methods</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-a-curated-list-of-happiness-crying-combo-on-instagram-pages/"><u>[Updated] 2024 Approved A Curated List of Happiness-Crying Combo on Instagram Pages</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-the-ultimate-guide-locating-the-heart-of-youtube-video-management/"><u>[Updated] 2024 Approved The Ultimate Guide Locating the Heart of YouTube Video Management</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-sketching-success-a-guide-to-industrys-best-10-vector-apps-for-2024/"><u>[Updated] Sketching Success A Guide to Industry's Best 10 Vector Apps for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-erase-iphone-12-mini-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>3 Ways to Erase iPhone 12 mini When Its Locked Within Seconds | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/brother-mfc-7860dw-find-and-apply-windows-compatible-printer-drivers-here/"><u>Brother MFC-7860DW: Find & Apply Windows Compatible Printer Drivers Here</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-latest-version-canon-printer-software-driver-mg3022/"><u>Download & Latest Version: Canon Printer Software (Driver) MG3022</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-the-latest-lenovo-screen-display-drivers/"><u>Download and Install the Latest Lenovo Screen Display Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722965198668-get-the-latest-dolby-audio-drivers-now-compatible-with-windows-111081/"><u>Get the Latest Dolby Audio Drivers Now - Compatible with Windows 11/10/8.1</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-hp-officejet-pro-6968-installed-with-updated-drivers-free/"><u>Get Your HP OfficeJet Pro 6968 Installed with Updated Drivers [Free]</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-3-smart-and-simple-ways-to-change-home-address-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Smart and Simple Ways to Change Home Address on Apple iPhone 15 Plus | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/issues-playing-mov-videos-on-samsung-galaxy-s23plus-by-aiseesoft-video-converter-play-mov-on-android/"><u>Issues playing MOV videos on Samsung Galaxy S23+</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-intel-network-device-drivers-available-to-install-for-windows-users-11107/"><u>Latest Intel Network Device Drivers Available to Install for Windows Users (11/10/7)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/seamless-connectivity-asus-bt500-bluetooth-adapters-and-their-essential-drivers-for-windows-8-10-and-11/"><u>Seamless Connectivity: Asus BT500 Bluetooth Adapters & Their Essential Drivers for Windows 8, 10 and 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-installing-newest-windows-drivers-for-the-hp-laserjet-printer-model-1320/"><u>Step by Step: Installing Newest Windows Drivers for the HP LaserJet Printer Model 1320</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-install-intel-raid-drivers-on-your-pc-running-windows-support-for-win11win10win8win7/"><u>Step-by-Step Guide to Install Intel RAID Drivers on Your PC Running Windows: Support for Win11/Win10/Win8/Win7</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-level-up-your-instagram-posts-with-expert-edits/"><u>[New] 2024 Approved Level Up Your Instagram Posts with Expert Edits</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-crafting-compelling-game-replays-a-detailed-guide-for-sony-playstation-4/"><u>[Updated] In 2024, Crafting Compelling Game Replays A Detailed Guide for Sony PlayStation 4</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-the-reddit-post-playbook-a-methodical-approach-to-engagement/"><u>2024 Approved The Reddit Post Playbook A Methodical Approach to Engagement</u></a></li>
+<li><a href="https://games-able.techidaily.com/6-ways-to-make-chatgpt-your-perfect-dungeon-master-assistant/"><u>6 Ways to Make ChatGPT Your Perfect Dungeon Master Assistant</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/brother-hl-l2n360dw-printer-driver-download-free-and-easy-installation/"><u>Brother HL-L2n360DW Printer Driver Download - Free & Easy Installation</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-latest-nvidia-geforce-rtx-3080-ti-drivers-compatible-with-windows-1087/"><u>Download Latest NVIDIA GeForce RTX 3080 Ti Drivers - Compatible with Windows 10/8/7</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/freefire-gaming-guide-maximizing-video-impact/"><u>FreeFire Gaming Guide Maximizing Video Impact</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hassle-free-setup-how-to-get-your-scansnap-drivers-updated-in-no-time/"><u>Hassle-Free Setup: How to Get Your ScanSnap Drivers Updated in No Time!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/keeping-your-epson-printer-optimized-driver-update-guide-for-windows-10/"><u>Keeping Your Epson Printer Optimized: Driver Update Guide for Windows 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722976029844-linksys-ae2500-easy-driver-download-boost-your-wi-fi-experience-instantly/"><u>Linksys AE2500 Easy Driver Download - Boost Your Wi-Fi Experience Instantly!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/next-gen-gaming-excellence-comprehensive-analysis-of-the-amd-ryzen-chipset-lineup-zen-5/"><u>Next-Gen Gaming Excellence: Comprehensive Analysis of the AMD Ryzen Chipset Lineup (Zen 5)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/pinnacle-tools-for-subs-to-srt-unveiling-the-top-8-win-and-mac-software-for-2024/"><u>Pinnacle Tools for Subs to SRT Unveiling the Top 8 Win & Mac Software for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/securely-navigating-the-deletion-of-your-chatgpt-records/"><u>Securely Navigating the Deletion of Your ChatGPT Records</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toshiba-satellite-driver-upgrade-guide-compatibility-with-windows-systems/"><u>Toshiba Satellite Driver Upgrade Guide: Compatibility with Windows Systems</u></a></li>
 </ul></div>
 

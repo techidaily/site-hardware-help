@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Gamer's Blueprint: Expert Tips for Assembling a Powerhouse Gaming PC on ZDNet"
-date: 2024-11-19T16:24:18.986Z
-updated: 2024-11-25T16:10:11.762Z
+date: 2024-12-02T10:31:53.529Z
+updated: 2024-12-04T19:49:47.974Z
 tags:
   - laptops
 categories:
@@ -22,6 +22,10 @@ Furthermore, this has been a big year for laptop releases, with lots of new mode
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best laptop under $1,000 right now?
 
 My pick for the best laptop under $1,000 overall is the [M2 MacBook Air](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-13-inch-Storage-Midnight%2Fdp%2FB0CB73MSX4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6e49f6d5-a3c7-4d2b-9f68-1e782b045476%7Cdtp&dtb=1), thanks to its solid performance, portability, and HD display. With the March release of the [M3 MacBook Air](https://www.zdnet.com/article/m3-macbook-air-review/), the previous M2 model received a price cut. This is great news because the device is well known for its portability and awesome performance -- but not for its affordability. Of course, the M2 MacBook Air isn't the only option out there. With this in mind, check out my top picks for the best laptops under $1,000.
@@ -40,7 +44,15 @@ Pros
 Cons 
 * Shorter battery life
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple M2 MacBook Air
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best laptop under $1,000 overall
 
@@ -95,7 +107,7 @@ Cons
 * Dim display
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Lenovo Yoga 7i 2-in1
@@ -129,10 +141,6 @@ Cons
 * Dim display
 
 ## Dell Inspiron 14 Plus 7440
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best 14-inch laptop under $1,000
 
@@ -199,10 +207,6 @@ Processor tested  Intel Core i7-1260P
 
 Graphics tested  Intel Iris Xe Graphics
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Acer Aspire 3
 
 ### Best value laptop under $1,000
@@ -230,10 +234,14 @@ Cons
 * Integrated GPU
 * Poor battery
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Asus Vivobook 15
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best work laptop under $1,000
@@ -281,10 +289,6 @@ Performance-wise, the Surface Pro 9 does pretty well. Buyers originally have the
 
 Show Expert Take Show less 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the best laptop under $1,000?
 
 The best laptop under $1,000 is Apple's M2 MacBook Air. It delivers on multiple fronts: great performance, a nice screen, a lightweight design, and so on. But that doesn't mean you should discount the other options. They're all solid picks. Below is a table where we compare the best laptops by price, their CPU, storage size, and screen size to make the decision process easier.
@@ -303,7 +307,7 @@ With all big decisions comes a lot of research. Thankfully, we did a lot of the 
 | Microsoft Surface Pro 9      | $779                       | 12th Gen Intel Core i7  | 13 inches       | 256 GB           |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which is the right laptop under $1,000 for you?
@@ -323,10 +327,6 @@ Read the chart below to find out which device works best for you.
 | Asus Vivobook 15                             | The best work laptop under $1,000\. It's a lightweight laptop that boasts serious muscle as evident by its 40GB of RAM and 12th-Intel Core CPU.                                     |
 | Microsoft Surface Pro 9                      | A fantastic graphic design laptop. The Surface Pro 9 doubles as a tablet with a stunning hi-res screen, with a battery that can last all day.                                       |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Factors to consider when choosing a laptop under $1,000:
 
 A great laptop doesn't have to cost a fortune. To determine the best laptops under $1,000, there are several factors you need to consider.
@@ -337,7 +337,7 @@ A great laptop doesn't have to cost a fortune. To determine the best laptops und
 * **Price:** Cost is, of course, the most important factor here, so pay attention to that price tag. We find that the best devices range between $500 to $800, depending on the make and model you choose.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we test these laptops?
@@ -355,10 +355,6 @@ To learn more about our laptop testing process, be sure to visit [this extensive
 There isn't a specific brand that is best or the cheapest. It varies a lot of the time. One company might have the best low-cost laptop this year, and in the next year, it'll be another company. That said, there are several brands you should look out for when purchasing a cheap laptop; namely Dell, Acer, Asus, and Lenovo. Models from these frequently show up on this list because they're among the best.
 
 You'll occasionally see a great low-cost device from other famous brands like Apple or lesser known companies. However those deals are rarer. If you want a particular MacBook for example, you'll have to wait until the following year after it releases to see a discount.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Which laptop brand has the least problems?
 
@@ -387,6 +383,10 @@ Additionally, Chromebooks have limited storage space and processing power compar
 The laptops in the list go for under $1,000 consistently. However, finding other devices that go below this price point during big sales is possible. These tend to occur on major holidays or sales events like the 4th of July and Memorial Day. Of course, computers can sell for pennies during the year's biggest sales weekend: Black Friday going into Cyber Monday.
 
 There are a few other times of the year when you can score discounts on devices. Depending on the company, manufacturers may slash prices during the beginning of the year or around October. It's around this time that manufacturers are preparing to launch their new generation of hardware or have already done so. MacBooks, for example, can go for pretty cheap during this time. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are there alternative laptops under $1,000 worth considering?
 
@@ -466,22 +466,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-dissecting-the-functionality-of-burst-in-gopro-filming/"><u>[Updated] 2024 Approved Dissecting the Functionality of Burst in GoPro Filming</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-the-evolution-of-video-capturing-insights-into-the-latest-apeaksoft-software/"><u>[Updated] In 2024, The Evolution of Video Capturing Insights Into the Latest Apeaksoft Software</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/10-best-youtube-makeup-artists-you-should-follow/"><u>10 Best YouTube Makeup Artists You Should Follow</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-youtube-tycoons-earning-the-most/"><u>2024 Approved YouTube Tycoons Earning the Most</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/close-up-clarity-mastering-the-art-of-intense-focus-for-2024/"><u>Close-Up Clarity Mastering the Art of Intense Focus for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/epson-l3110-printer-software-download-compatible-with-windows-11-10-and-7/"><u>Epson L3110 Printer Software Download: Compatible with Windows 11, 10 & 7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/experience-top-notch-performance-samsungs-990-evo-2tb-ssd-at-just-129-unbeatable-discounted-price/"><u>Experience Top-Notch Performance: Samsung's 990 EVO 2TB SSD at Just $129 - Unbeatable Discounted Price</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/experience-unparalleled-performance-the-latest-msi-spatium-m580-frozr-arrives-a-cutting-edge-pcie-50-ssd-boasting-remarkable-speeds-of-up-to-146gbs-read-and1/"><u>Experience Unparalleled Performance - The Latest MSI Spatium M580 Frozr Arrives: A Cutting-Edge PCIe 5.0 SSD Boasting Remarkable Speeds of Up to 14.6GB/S Read & 12.7GB/S Write</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/explore-how-kioxias-innovative-light-speed-ssds-break-barriers-with-cpu-connections-beyond-40m-using-optical-technology/"><u>Explore How Kioxia's Innovative Light-Speed SSDs Break Barriers with CPU Connections Beyond 40M Using Optical Technology</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/explore-the-latest-in-pc-components-with-toms-hardware-insights/"><u>Explore the Latest in PC Components with Tom's Hardware Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-advanced-hardware-with-tom-a-comprehensive-guide/"><u>Exploring Advanced Hardware with Tom - A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-the-latest-in-technology-with-toms-hardware-guides/"><u>Exploring the Latest in Technology with Tom's Hardware Guides</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-the-world-of-pc-components-with-tom-in-depth-hardware-insights/"><u>Exploring the World of PC Components with Tom - In-Depth Hardware Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/go-the-extra-mile-kioxia-unveils-light-speed-communicating-ssd-capable-of-surpassing-40-metre-distance-limits/"><u>Go the Extra Mile: Kioxia Unveils Light-Speed Communicating SSD Capable of Surpassing 40 Metre Distance Limits</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/initiate-your-solo-journey-learning-french-online/"><u>Initiate Your Solo Journey: Learning French Online</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-it-possible-for-ai-chatbots-to-fall-prey-to-human-like-social-engineering-schemes/"><u>Is It Possible for AI Chatbots to Fall Prey to Human-Like Social Engineering Schemes?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-enabling-advanced-boot-mode-in-windows-11/"><u>Step-by-Step Tutorial: Enabling Advanced Boot Mode in Windows 11</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-the-shorter-path-cutting-video-duration-on-youtube/"><u>[New] 2024 Approved The Shorter Path Cutting Video Duration on YouTube</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-on-apple-iphone-7-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock On Apple iPhone 7? How to Fix it?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/best-image-safekeepers-online/"><u>Best Image Safekeepers Online</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/comment-sauvegarder-vos-donnees-en-formatant-un-ssd-extern-deja-charge/"><u>Comment Sauvegarder Vos Données en Formatant Un SSD Extern Déjà Chargé?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-logitech-g-pro-driver-software-for-microsoft-windows-versions-111087/"><u>Download Logitech G Pro Driver Software for Microsoft Windows Versions (11/10/8/7)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/guide-to-use-luts-in-premiere-pro-for-2024/"><u>Guide to Use LUTs in Premiere Pro for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722969420813-install-the-improved-killer-wireless-1535-drivers-download-today/"><u>Install the Improved Killer Wireless 1535 Drivers – Download Today!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/instant-download-brother-hl-3170cdw-printer-drivers-fast-and-easy-setup/"><u>Instant Download: Brother HL-3170CDW Printer Drivers - Fast and Easy Setup</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723262323472-next-generation-of-intel-cpus-could-face-hotter-running-challenges-says-industry-insider-arrow-lake-series-concerned/"><u>Next Generation of Intel CPUs Could Face Hotter Running Challenges, Says Industry Insider – Arrow Lake Series Concerned.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/oppo-data-recovery-recover-lost-data-from-oppo-reno-11-5g-by-fonelab-android-recover-data/"><u>Oppo Data Recovery – recover lost data from Oppo Reno 11 5G</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/privacy-expertise-with-proton-vpn-plugin-for-browsers/"><u>Privacy Expertise with Proton VPN Plugin for Browsers</u></a></li>
+<li><a href="https://games-able.techidaily.com/sharing-game-experiences-with-friends-on-ps5/"><u>Sharing Game Experiences with Friends on PS5</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-process-for-effective-dell-webcam-driver-update/"><u>Step-by-Step Process for Effective Dell Webcam Driver Update</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-cutting-edge-pc-parts-by-toms-electronics/"><u>The Ultimate Guide to Cutting-Edge PC Parts by Tom's Electronics</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-internet-explorer-webpage-display-failures/"><u>Troubleshooting Internet Explorer Webpage Display Failures</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722976068199-update-or-install-secure-the-newest-amd-smbus-drivers-in-a-flash/"><u>Update or Install? Secure the Newest AMD SMBus Drivers in a Flash</u></a></li>
 </ul></div>
 

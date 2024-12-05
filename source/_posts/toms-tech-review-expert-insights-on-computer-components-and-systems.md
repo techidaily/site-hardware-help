@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Review: Expert Insights on Computer Components and Systems"
-date: 2024-08-19T10:19:14.977Z
-updated: 2024-08-20T10:19:14.977Z
+date: 2024-11-30T04:12:56.827Z
+updated: 2024-12-04T19:17:47.504Z
 tags:
   - power-supply
 categories:
@@ -28,6 +28,10 @@ See more of Friday's Real Deals below.
 * **Elgato Stream Deck:** [**now $99 at Amazon**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fgp%2Fproduct%2FB06XKNZT1P%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1065223293966699533-20) **(was $149)**
 * **ASUS ROG Thor 1000W PSU:** [**now $194 at Amazon**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB09SGQ9PPC%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1088334992790324728-20) **(was $359)**
 * **Gigabyte B650M Aorus Elite AX:** [**now $189 at Newegg**](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-6379358999680672387%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fgigabyte-b650m-aorus-elite-ax%252Fp%252FN82E16813145413) **with rebate (was $199)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Today’s best deals in detail
 
@@ -67,28 +71,31 @@ See more of Friday's Real Deals below.
 [View Deal](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-2513991122203814191%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fgigabyte-b650m-aorus-elite-ax%252Fp%252FN82E16813145413)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Looking for more deals?
 
 Category
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/chevron-left.svg "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Back to Everything
 
 Brand
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
  Elgato
 
  GIGABYTE
@@ -102,9 +109,9 @@ Colour
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Black
 
  White
@@ -113,9 +120,6 @@ Price
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Any Price
 
  Showing 10 of 40 deals
@@ -124,9 +128,6 @@ Any Price
 
 SORT BY Price (low to high)  Price (high to low) Product Name (A to Z)  Product Name (Z to A)  Retailer name (A to Z)  Retailer name (Z to A) ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 [GIGABYTE B650M AORUS Elite AX](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F5057986138&subId1=techidaily-us-5322157473801276840&sharedId=techidaily-us)
 
 1
@@ -285,8 +286,6 @@ Our Review
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -294,4 +293,26 @@ Our Review
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-smile-spark-planner/"><u>[New] 2024 Approved Smile Spark Planner</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-premium-sound-on-a-dime-top-value-asmr-gear-uncovered-here/"><u>[New] Premium Sound on a Dime Top Value ASMR Gear Uncovered Here</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-top-10-must-have-accessories-for-sj4000/"><u>[Updated] 2024 Approved Top 10 Must Have Accessories for SJ4000</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/0-drivers/"><u>0 Drivers.</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/1-quick-and-simple-guide-transferring-your-data-laptop-to-onedrive-with-just-3-methods/"><u>1. Quick & Simple Guide: Transferring Your Data - Laptop to OneDrive with Just 3 Methods!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-latest-evga-graphics-card-drivers-on-windows/"><u>Download & Install Latest EVGA Graphics Card Drivers on Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-hp-officejet-pro-8620-driver-updates-on-windows-pc/"><u>Download and Install HP OfficeJet Pro 8620 Driver Updates on Windows PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-latest-nvidia-graphics-card-drivers-update-your-system/"><u>Download Latest Nvidia Graphics Card Drivers - Update Your System</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-install-guide-zexmtes-high-performance-bluetooth-adapter-driver-for-windows-os/"><u>Easy Install Guide: Zexmte's High-Performance Bluetooth Adapter Driver for Windows OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-installation-instructions-for-hp-officejet-vee-3830-printer-driver-on-windows-pcs/"><u>Easy Installation Instructions for HP Officejet Vee 3830 Printer Driver on Windows PCs.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-tips-for-refreshing-the-samsung-mobile-usb-drivers-on-windows-macos-and-linux/"><u>Easy Tips for Refreshing the Samsung Mobile USB Drivers on Windows, macOS & Linux</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-unresponsive-usb-connectivity-issues-in-windows-11-devices/"><u>How to Fix Unresponsive USB Connectivity Issues in Windows 11 Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-the-latest-razer-device-driver-software-on-windows-11-8-7-xp-and-vista/"><u>How to Get the Latest Razer Device Driver Software on Windows 11, 8, 7, XP, and Vista</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-the-swagtron-swagboard-t1-a-balance-between-maneuverability-and-price/"><u>In-Depth Analysis of the Swagtron Swagboard T1 - A Balance Between Maneuverability and Price</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instagram-stories-incorporating-natural-bokeh-effects/"><u>Instagram Stories Incorporating Natural Bokeh Effects</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-the-world-of-gadgets-with-tom-a-hardware-specialist/"><u>Navigating the World of Gadgets with Tom - A Hardware Specialist</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-skyward-voyage-of-gopro-karma-analysis/"><u>The Skyward Voyage of GoPro Karma Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/to-simplify-you-can-divide-both-numerator-and-denominator-by-their-greatest-common-divisor-gcd-the-gcd-of-20-and-8-is-4/"><u>To Simplify, You Can Divide Both Numerator and Denominator by Their Greatest Common Divisor (GCD). The GCD of 20 and 8 Is 4.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-origins-how-crowdstrike-triggered-the-windows-meltdnomaous-event-of-2024-a-historical-insight/"><u>Unveiling the Origins: How CrowdStrike Triggered the Windows Meltdnomaous Event of 2024 – A Historical Insight</u></a></li>
+</ul></div>
 

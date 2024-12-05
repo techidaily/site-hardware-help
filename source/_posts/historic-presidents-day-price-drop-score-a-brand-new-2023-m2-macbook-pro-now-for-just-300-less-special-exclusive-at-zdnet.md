@@ -1,7 +1,7 @@
 ---
 title: "Historic President's Day Price Drop: Score a Brand New 2023 M2 MacBook Pro Now for Just $300 Less - Special Exclusive at ZDNet!"
-date: 2024-11-23T16:27:17.718Z
-updated: 2024-11-25T16:09:31.510Z
+date: 2024-12-01T23:59:56.618Z
+updated: 2024-12-05T06:40:57.010Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the Amazon Prime Day deal?
@@ -33,7 +33,7 @@ Amazon's October Prime Day event is here, and with its arrival, many laptops are
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -107,7 +107,7 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -146,24 +146,22 @@ All things considered, the [sale price of $1,099](https://www.awin1.com/awclick.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-twitters-hilarious-highlights/"><u>[Updated] In 2024, Twitter's Hilarious Highlights</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-to-mp3-conversion-process-walkthrough/"><u>[Updated] Instagram to MP3 Conversion Process Walkthrough</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dive-into-digital-detection-with-our-selection-of-4-ai-murder-mystery-challenges-and-puzzle-games/"><u>Dive Into Digital Detection with Our Selection of 4 AI Murder Mystery Challenges and Puzzle Games!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-best-performance-download-and-update-to-latest-nvidia-quadro-rtx-amo-gpu-drivers/"><u>Get the Best Performance: Download and Update to Latest NVIDIA Quadro RTX Amo Gpu Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-hands-on-the-latest-gigabyte-audio-drivers-at-no-cost/"><u>Get Your Hands on the Latest Gigabyte Audio Drivers at No Cost</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-approach-to-uncovering-favorite-youtube-remarks/"><u>In 2024, Step-by-Step Approach to Uncovering Favorite YouTube Remarks</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/instant-download-of-amd-ryzen-5-2400g-drivers-seamless-setup-tips/"><u>Instant Download of AMD Ryzen 5 2400G Drivers - Seamless Setup Tips</u></a></li>
-<li><a href="https://win-community.techidaily.com/protect-your-digital-world-the-ultimate-technique-for-retaining-everything-while-resetting-windows-11/"><u>Protect Your Digital World: The Ultimate Technique for Retaining Everything While Resetting Windows 11</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/remote-smile-engineer-for-2024/"><u>Remote Smile Engineer for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/revolutionary-tools-elevating-vr-games/"><u>Revolutionary Tools Elevating VR Games</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/simple-steps-to-diagnose-and-repair-i2c-human-interface-device-drivers-with-ease/"><u>Simple Steps to Diagnose & Repair I2C Human Interface Device Drivers with Ease</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/simplifying-microsoft-driver-management-a-user-friendly-approach-for-windows-11-8-and-7/"><u>Simplifying Microsoft Driver Management: A User-Friendly Approach for Windows 11, 8 and 7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-updating-your-microsoft-mouse-drivers-on-a-windows-pc/"><u>Step-by-Step Guide: Updating Your Microsoft Mouse Drivers on a Windows PC</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722972936995-the-dorsalis-pedis-pulse-palpable-on-the-top-of-the-foot-is-a-continuation-of-the-anterior-tibial-artery/"><u>The Dorsalis Pedis Pulse, Palpable on the Top of the Foot, Is a Continuation of the Anterior Tibial Artery.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-review-insights-into-computer-components-and-gadgets/"><u>Tom's Tech Review: Insights Into Computer Components and Gadgets</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/top-6-free-online-video-mergers-for-2024/"><u>Top 6 Free Online Video Mergers for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-guide-successful-steps-in-installing-sandisk-ssd-drivers/"><u>Ultimate Guide: Successful Steps in Installing Sandisk SSD Drivers</u></a></li>
-<li><a href="https://games-able.techidaily.com/understanding-ai-game-evolution-with-steams-regulations/"><u>Understanding AI Game Evolution with Steam's Regulations</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unraveling-generative-ai-its-impact-and-promise/"><u>Unraveling Generative AI: Its Impact and Promise</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-enhancing-gaming-the-ultimate-xbox-screen-recorders-guide-for-2024/"><u>[New] Enhancing Gaming The Ultimate Xbox Screen Recorder's Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-elevate-your-social-storytelling-with-added-musicality/"><u>[New] In 2024, Elevate Your Social Storytelling with Added Musicality</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-maximizing-screen-space-the-art-of-close-up-views/"><u>[New] Maximizing Screen Space The Art of Close Up Views</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-goofy-flick-an-analysis-of-the-goofy-movie/"><u>[Updated] In 2024, Goofy Flick An Analysis of 'The Goofy Movie'</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-swift-technique-coding-images-for-youtube-channel-thumbnails/"><u>[Updated] Swift Technique Coding Images for YouTube Channel Thumbnails</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/crucial-queries-every-consumer-should-consider-when-acquiring-smart-household-technology/"><u>Crucial Queries Every Consumer Should Consider When Acquiring Smart Household Technology</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-future-of-sound-with-jabras-advanced-noise-canceling-earphones/"><u>Discover the Future of Sound with Jabra's Advanced Noise-Canceling Earphones</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-top-benefits-of-choosing-a-tenkeyless-keyboard-why-its-time-to-switch/"><u>Discover the Top Benefits of Choosing a Tenkeyless Keyboard: Why It's Time to Switch!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/elevate-your-home-security-with-the-yale-approach-lock-the-ideal-smart-solution-for-apartment-entryways/"><u>Elevate Your Home Security with the Yale Approach Lock: The Ideal Smart Solution for Apartment Entryways</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/eliminating-the-annoying-white-noise-in-my-speakers-a-step-by-step-fix/"><u>Eliminating the Annoying White Noise in My Speakers: A Step-by-Step Fix</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enduring-legacy-of-the-90s-the-classic-techs-we-still-rely-on-today/"><u>Enduring Legacy of the 90S: The Classic Techs We Still Rely On Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-pc-experience-with-these-5-fantastic-gadgets-and-add-ons/"><u>Enhance Your PC Experience with These 5 Fantastic Gadgets and Add-Ons</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/evaluating-the-nanoleaf-umbra-cup-innovative-tech-or-just-an-office-diversion/"><u>Evaluating the Nanoleaf Umbra Cup - Innovative Tech or Just an Office Diversion?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/from-legacy-systems-to-modern-windows-the-win7-10-shift/"><u>From Legacy Systems to Modern Windows: The Win7-10 Shift</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/les-meilleurs-remplacants-dadobe-after-effects-solutions-gratuites-et-payantes-a-explorer/"><u>Les Meilleurs Remplaçants D'Adobe After Effects : Solutions Gratuites Et Payantes À Explorer</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/sjcam-s6-legend-action-camera-complete-review/"><u>SJCam S6 Legend Action Camera Complete Review</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-12-no-cost-film-streamers-watch-movies-on-the-go/"><u>Top 12 No-Cost Film Streamers: Watch Movies on the Go</u></a></li>
 </ul></div>
 

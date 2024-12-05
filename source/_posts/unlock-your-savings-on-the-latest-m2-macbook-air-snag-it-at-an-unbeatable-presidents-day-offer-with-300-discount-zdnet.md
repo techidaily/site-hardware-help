@@ -1,7 +1,7 @@
 ---
 title: Unlock Your Savings on the Latest M2 MacBook Air - Snag It at an Unbeatable President's Day Offer with $300 Discount | ZDNet
-date: 2024-11-20T16:39:25.346Z
-updated: 2024-11-25T16:05:08.993Z
+date: 2024-12-03T05:35:14.151Z
+updated: 2024-12-05T07:21:25.343Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kerry Wan/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the deal?
@@ -31,7 +31,7 @@ Right now, Amazon is selling the [15-inch MacBook Air (M2) for $250 off](https:/
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -107,7 +107,7 @@ The laptop is capable of 4K exports on Adobe Premiere Pro and editing RAW files 
 What I found myself missing when testing the MacBook Air was the 120Hz ProMotion display from the Pro line. All it took was an hour or two before my eyes adapted to the slower, less smooth 60Hz panel, but the larger 15-inch display didn't make the transition easy. In fact, it made the difference more apparent.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -146,18 +146,20 @@ But everything else about it is as good as the current $1,050 price point gets. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-help.techidaily.com/free-brother-mfc-7860dw-printer-drivers-latest-version-available-now/"><u>Free Brother MFC-7860DW Printer Drivers - Latest Version Available Now!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-nvidia-display-driver-for-windows-10-users-windows-11-7-and-8-versions-available/"><u>Get Your NVIDIA Display Driver for Windows 10 Users: Windows 11, 7 & 8 Versions Available!</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-atandt-apple-iphone-x-with-3-methods-by-drfone-ios/"><u>How to Unlock AT&T Apple iPhone X with 3 Methods</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Realme GT 5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-apple-iphone-se-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My Apple iPhone SE when Phone is Broken?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Google Pixel 8 Pro? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/modern-seismic-design-codes-incorporate-factors-like-material-ductility-redundancy-and-energy-dissipating-devices-to-reduce-the-risk-of-these-failure-modes-328/"><u>Modern Seismic Design Codes Incorporate Factors Like Material Ductility, Redundancy, and Energy-Dissipating Devices to Reduce the Risk of These Failure Modes During an Earthquake.</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-guide-fixing-connectivity-issues-with-lg-usb-drivers-on-various-windows-versions/"><u>Step-by-Step Guide: Fixing Connectivity Issues with LG USB Drivers on Various Windows Versions</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/the-filmmakers-handbook-for-professional-gopro-videographers-for-2024/"><u>The Filmmaker's Handbook for Professional Gopro Videographers for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/the-ultimate-guide-to-video-editing-splitting-videos-in-windows-live-movie-maker-for-2024/"><u>The Ultimate Guide to Video Editing Splitting Videos in Windows Live Movie Maker for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshooting-and-fixing-arduino-uno-compatibility-with-windows-systems/"><u>Troubleshooting and Fixing Arduino Uno Compatibility with Windows Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-resolving-football-manager-2019-sudden-shutdown-issues/"><u>Ultimate Guide: Resolving Football Manager 2019 Sudden Shutdown Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-touchscreen-troubles-try-these-5-solutions/"><u>Windows 11 Touchscreen Troubles? Try These 5 Solutions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-free-best-drawing-apps-for-chromebook/"><u>[New] FREE Best Drawing Apps for Chromebook</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-building-a-repository-of-metaverse-comedy-artifacts/"><u>[Updated] Building a Repository of Metaverse Comedy Artifacts</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-mastering-sound-selecting-mics-for-varied-youtube-formats/"><u>[Updated] In 2024, Mastering Sound Selecting Mics for Varied YouTube Formats</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-infinix-note-30-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Infinix Note 30 5G</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/crash-proof-your-intel-gaming-rig-developers-in-game-warning-and-fix-for-13th14th-gen-cpu-users/"><u>Crash-Proof Your Intel Gaming Rig: Developer's In-Game Warning and Fix for 13Th/14th Gen CPU Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-asus-touchpad-driver-download-and-installation-tips-for-windows-11-users/"><u>Effortless ASUS Touchpad Driver Download & Installation Tips for Windows 11 Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-pc-upgraded-install-latest-nvidia-geforce-rtx-2060-gpu-drivers/"><u>Get Your PC Upgraded: Install Latest Nvidia GeForce RTX 2060 GPU Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/lenovo-thinkpad-t430-quick-driver-downloads-for-windows-1087/"><u>Lenovo ThinkPad T430: Quick Driver Downloads for Windows 10/8/7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/next-gen-powerhouse-amds-flagship-zen-5-processor-dominates-rendering-tests-outshining-ryzen-9-7950x-by-24/"><u>Next-Gen Powerhouse: AMD’s Flagship Zen 5 Processor Dominates Rendering Tests, Outshining Ryzen 9 7950X by 24%</u></a></li>
+<li><a href="https://extra-support.techidaily.com/optimize-your-gaming-with-kinemaster-usage-tips-and-comparisons-with-best-online-games-for-2024/"><u>Optimize Your Gaming with KineMaster Usage Tips & Comparisons with Best Online Games for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/quick-steps-for-igtv-on-instagram-stories/"><u>Quick Steps for IGTV on Instagram Stories</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-acquiring-and-updating-your-hid-keyboards-software/"><u>Step-by-Step Guide: Acquiring & Updating Your HID Keyboard's Software</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/streamlining-processes-adding-tracks-to-your-custom-youtube-collection/"><u>Streamlining Processes Adding Tracks to Your Custom YouTube Collection</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-review-unveiling-the-latest-hardware-insights/"><u>Tom's Tech Review: Unveiling the Latest Hardware Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unraveling-the-riddle-tips-and-tricks-to-fix-facetime-screen-issues/"><u>Unraveling the Riddle: Tips and Tricks to Fix FaceTime Screen Issues</u></a></li>
 </ul></div>
 

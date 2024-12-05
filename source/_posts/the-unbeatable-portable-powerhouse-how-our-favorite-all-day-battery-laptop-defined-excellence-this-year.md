@@ -1,7 +1,7 @@
 ---
 title: "The Unbeatable Portable Powerhouse: How Our Favorite All-Day Battery Laptop Defined Excellence This Year"
-date: 2024-11-21T16:34:52.109Z
-updated: 2024-11-25T16:46:35.618Z
+date: 2024-12-04T05:18:58.877Z
+updated: 2024-12-05T03:09:11.542Z
 tags:
   - laptops
 categories:
@@ -89,11 +89,11 @@ The first thing you notice about Samsung's Galaxy Book 4 Ultra is the gorgeous d
 
 [View now at Samsung](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fcomputing%2Fgalaxy-books%2Fgalaxy-book4-series%2Fbuy%2Fgalaxy-book4-ultra-16-intelcore-ultra-7-1tb-moonstone-gray-np960xgl-xg2us%2F&publisher_slug=itechdaily19598&exclusive=1) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Labor Day HP deals
 
@@ -105,7 +105,7 @@ Kyle Kucharski/ZDNET
 * [HP Envy 16" Ultra XGA Touchscreen Laptop](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fhp-envy-16-wide-ultra-xga-touch-screen-laptop-intel-core-i7-16gb-memory-nvidia-geforce-rtx-4060-1tb-ssd-natural-silver%2F6572058.p&publisher_slug=itechdaily19598&exclusive=1) for $1,100 (save $400)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Labor Day Chromebook deals
@@ -116,6 +116,10 @@ Kyle Kucharski/ZDNET
 * [Lenovo IdeaPad 3i 15" Chromebook Laptop](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-ideapad-3i-chromebook-laptop-15-fhd-touch-screen-pentium-silver-n6000-8gb-memory-128gb-ssd-arctic-grey%2F6567669.p%3FskuId%3D6567669&publisher_slug=itechdaily19598&exclusive=1) for $279 (save $150)
 * [HP 14" Chromebook Laptop](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fhp-14-chromebook-laptop-intel-celeron-4gb-memory-64gb-emmc-modern-gray%2F6513217.p%3FskuId%3D6513217&publisher_slug=itechdaily19598&exclusive=1) for $149 (save $150)
 * [Acer Chromebook Plus 515 Laptop with Google AI 15.6"](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Facer-chromebook-plus-515-laptop-with-google-ai-15-6-fhd-display-intel-i3-1215u-8gb-lpddr5x-128gb-ufs-wi-fi-6e-steel-gray%2F6551627.p%3FskuId%3D6551627&publisher_slug=itechdaily19598&exclusive=1) for $279 (save $120)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Labor Day MacBook deals
 
@@ -135,7 +139,7 @@ Lenovo
 ## FAQs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### When do Labor Day sales begin in 2024?
@@ -146,17 +150,9 @@ Labor Day is Monday, September 2nd, 2024, but many products will go on sale befo
 
 Absolutely. Some of the markdowns on these laptops are the lowest we've ever seen. Labor Day holds a unique position in the calendar year because it's after all the product launches of the first half of the year, yet before the huge ramp-up in sales for the holidays. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### When is the cheapest time of year to buy a laptop?
 
 Labor Day and back-to-school season are typically some of the best times a year to find laptop deals, so if you see a good one, we'd recommend jumping on it. However, if you can wait another few months, Black Friday is sure to see some of the best laptop deals of the year as well.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What is the best 2-in-1 laptop for Labor Day?
 
@@ -167,6 +163,10 @@ There are a few excellent 2-in-1 laptops on sale for Labor Day, including one of
 ZDNET only writes about laptops that we actually think are good deals. We've gone hands-on with quite a few of these exact products this year, and if we haven't, we're at least familiar with the line of laptops they come from and their predecessors. Typically, we look for deals that are at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### When will these deals expire?
 
@@ -202,18 +202,16 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-master-your-path-to-success-with-youtubes-keywords-guide/"><u>[New] In 2024, Master Your Path to Success with YouTube's Keywords Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-revenue-rundown-the-profit-of-youtube-star-pewdopeep/"><u>[New] Revenue Rundown The Profit of YouTube Star PewDoPeep</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-essential-media-makers-software-linux-edition/"><u>2024 Approved Essential Media Makers' Software Linux Edition</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-music-from-apple-iphone-13-pro-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Music from Apple iPhone 13 Pro to iPod touch | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/build-quality-and-design/"><u>Build Quality and Design</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/comprehensive-assessment-performance-testing-for-corsairs-cx7er-m-power-unit/"><u>Comprehensive Assessment: Performance Testing for Corsair's CX7er M Power Unit</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/effortless-creativity-premier-pro-free-2023-guide/"><u>Effortless Creativity - Premier Pro FREE 2023 Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/getting-your-microsoft-sculpt-keyboard-up-to-date-with-a-hassle-free-driver-update-process/"><u>Getting Your Microsoft Sculpt Keyboard Up-to-Date with a Hassle-Free Driver Update Process</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-honor-magic-v2-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Honor Magic V2 To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-the-digital-world-with-tom-top-tier-computer-and-technology-evaluations/"><u>Navigating the Digital World with Tom: Top-Tier Computer and Technology Evaluations</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/newly-released-info-on-high-performance-60n-watt-pcie-gen-5-cord-for-gpus-inside-look/"><u>Newly Released Info on High-Performance 60N Watt PCIe Gen 5 Cord for GPUs – Inside Look</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-technological-reviews-your-ultimate-source-for-hardware-expertise/"><u>Tom’s Technological Reviews: Your Ultimate Source for Hardware Expertise</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unboxing-and-testing-the-msi-power-supply-unit-psu-model-mpg-a10-expert-analysis-and-review/"><u>Unboxing & Testing the MSI Power Supply Unit (PSU) Model MPG A10# - Expert Analysis and Review</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-capture-clarity-boost-photos-with-zero-cost/"><u>[New] Capture Clarity Boost Photos with Zero Cost</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-make-a-photo-video-with-pixiz/"><u>[New] How to Make a Photo Video with Pixiz?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-beginners-path-to-filming-with-macbook-webcam-for-2024/"><u>[Updated] Beginner's Path to Filming with MacBook Webcam for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-secrets-to-captivating-audiences-in-real-time-broadcasting-for-2024/"><u>[Updated] Secrets to Captivating Audiences in Real-Time Broadcasting for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-audio-experience-on-windows-11-10-and-81-with-the-latest-dolby-driver-updates/"><u>Enhance Your Audio Experience on Windows 11, 10 & 8.1 with the Latest Dolby Driver Updates</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-gadget-guides-discover-hardware-secrets-with-tom/"><u>Expert Gadget Guides - Discover Hardware Secrets with Tom</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-capture-every-moment-to-perfection-with-sj7s-new-4k-star-camera-review/"><u>In 2024, Capture Every Moment to Perfection with SJ7’s New 4K Star Camera Review</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-motorola-moto-g13-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Motorola Moto G13 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-realme-narzo-60x-5g-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Realme Narzo 60x 5G Device</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-high-performance-components-a-look-at-toms-hardware-recommendations/"><u>Unveiling High-Performance Components: A Look at Tom's Hardware Recommendations</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722978331559-upgrade-to-windows-8-and-enjoy-the-best-free-performance-with-amd-radeon-gpus/"><u>Upgrade to Windows 8 & Enjoy the Best Free Performance with AMD Radeon GPUs!</u></a></li>
 </ul></div>
 

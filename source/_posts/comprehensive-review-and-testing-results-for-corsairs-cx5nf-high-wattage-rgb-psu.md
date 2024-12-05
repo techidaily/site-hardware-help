@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Review and Testing Results for Corsair's CX5nF High-Wattage RGB PSU
-date: 2024-08-19T10:19:31.196Z
-updated: 2024-08-20T10:19:31.196Z
+date: 2024-11-30T18:02:50.572Z
+updated: 2024-12-05T03:41:33.423Z
 tags:
   - power-supply
 categories:
@@ -20,6 +20,10 @@ Today's deals focus on the container for your favorite PC parts. If you're looki
  If you're already into streaming or perhaps a content producer using an application like Adobe Premier, you have probably already come across many recommendations from people using the Elgato Stream Deck. It's a form of controller that offers fully customizable buttons with an LCD display. You can set up your Stream Deck to have instant access to your favorite shortcuts or use it to seamlessly transition between scenes while streaming on sites like YouTube or Twitch. The[Elgato Stream Deck is currently available for $ 99](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fgp%2Fproduct%2FB06XKNZT1P%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-5998878507752729114-20) on[Amazon](https://tools.techidaily.com) .
 
 See more of Friday's Real Deals below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## TL;DR — Today’s Best Deals
 
@@ -67,23 +71,21 @@ See more of Friday's Real Deals below.
 [View Deal](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-2513991122203814191%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fgigabyte-b650m-aorus-elite-ax%252Fp%252FN82E16813145413)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Looking for more deals?
 
 Category
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/chevron-left.svg "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Back to Everything
 
 Brand
@@ -102,13 +104,6 @@ Colour
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
  Black
 
  White
@@ -118,8 +113,9 @@ Price
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Any Price
 
  Showing 10 of 40 deals
@@ -129,8 +125,9 @@ Any Price
 SORT BY Price (low to high)  Price (high to low) Product Name (A to Z)  Product Name (Z to A)  Retailer name (A to Z)  Retailer name (Z to A) ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [GIGABYTE B650M AORUS Elite AX](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F5057986138&subId1=techidaily-us-5322157473801276840&sharedId=techidaily-us)
 
 1
@@ -289,8 +286,6 @@ Our Review
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -298,4 +293,26 @@ Our Review
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-how-to-clearance-check-tiktok-videos-before-publishing/"><u>[New] 2024 Approved How to Clearance-Check TikTok Videos Before Publishing</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-settled-unseen-videos-a-fix/"><u>[New] In 2024, Settled Unseen Videos - A Fix</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-ultimate-android-screen-recorder-options-list/"><u>[New] In 2024, Ultimate Android Screen Recorder Options List</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723262295676-amds-new-epyc-9755-turin-chip-unveiling-the-powerhouse-128-core-processor-that-exceeded-108k-points/"><u>AMD's New Epyc 9755 Turin Chip: Unveiling the Powerhouse 128-Core Processor That Exceeded 108K Points</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-installation-get-your-samsung-m207n-fw-drivers-downloaded-today/"><u>Effortless Installation: Get Your Samsung M207n FW Drivers Downloaded Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-dell-xps-15s-performance-the-ultimate-tutorial-for-driver-updates-on-windows-pcs/"><u>Enhance Your Dell XPS 15'S Performance: The Ultimate Tutorial for Driver Updates on Windows PCs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-gaming-experience-free-drivers-available-for-geforce-gtx-1650-super-on-windows-1011/"><u>Enhance Your Gaming Experience: Free Drivers Available for GeForce GTX 1650 Super on Windows 10/11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/explore-efficient-two-screen-viewing-on-netflix/"><u>Explore Efficient Two-Screen Viewing on Netflix</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-acer-wireless-network-adapter-driver-fast-installation-guide/"><u>Free Acer Wireless Network Adapter Driver - Fast Installation Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-intel-uhd-graphics-software-on-windows-11-installation-guide-and-update-tips/"><u>Get the Newest Intel UHD Graphics Software on Windows 11 - Installation Guide & Update Tips</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/how-to-add-filters-and-music-on-windows-11-photos-app/"><u>How to Add Filters and Music on Windows 11 Photos App</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-vivo-x-flip-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Vivo X Flip</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-laserjet-pro-m404n-driver-upgrade-enhanced-compatibility-and-stability-for-your-printer/"><u>HP LaserJet Pro M404n Driver Upgrade: Enhanced Compatibility and Stability for Your Printer</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-full-insight-into-vsco-image-editing/"><u>In 2024, Full Insight Into VSCO Image Editing</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-mix-fold-3-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Mix Fold 3 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-nvidia-geforce-rtx-ti-drivers-for-enhanced-gaming-on-windows-11/"><u>Latest NVIDIA GeForce RTX 지류티 (Ti) Drivers for Enhanced Gaming on Windows 11</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/navigating-your-web-experience-the-ultimate-guide-to-control-tab-order-settings/"><u>Navigating Your Web Experience: The Ultimate Guide to Control Tab Order Settings</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722962057513-resolving-asus-pce-ac56-wifi-card-compatibility-with-windows-11-8-and-7-solutions-inside/"><u>Resolving ASUS PCE-AC56 WiFi Card Compatibility with Windows 11, 8 & 7: Solutions Inside!</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/seamless-content-consumption-configuring-pip-for-youtube-on-iphone-for-2024/"><u>Seamless Content Consumption Configuring PIP for YouTube on iPhone for 2024</u></a></li>
+</ul></div>
 

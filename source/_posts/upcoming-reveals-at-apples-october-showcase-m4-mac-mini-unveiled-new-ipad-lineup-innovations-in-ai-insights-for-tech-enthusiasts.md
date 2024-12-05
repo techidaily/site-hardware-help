@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Reveals at Apple's October Showcase: M4 Mac Mini Unveiled, New iPad Lineup, Innovations in AI - Insights for Tech Enthusiasts"
-date: 2024-11-23T16:43:38.618Z
-updated: 2024-11-25T16:41:29.958Z
+date: 2024-12-01T10:50:15.063Z
+updated: 2024-12-05T01:30:15.259Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,19 +118,15 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-flutter-free-video-conversion-the-best-alternatives-for-youtube-upload-for-2024/"><u>[Updated] Flutter Free Video Conversion The Best Alternatives for YouTube Upload for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amperes-breakthrough-in-computing-the-new-512-core-ampereone-aurora-processor-ultimate-customization-for-intelligent-performance/"><u>Ampere's Breakthrough in Computing: The New 512-Core AmpereOne Aurora Processor - Ultimate Customization for Intelligent Performance</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722972734722-behringer-drives-enhance-your-mixing-skills-free-download-available/"><u>Behringer Drives: Enhance Your Mixing Skills - FREE Download Available</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-newest-drivers-for-your-epson-wf-erlinqv2-compatible-with-windows-1087-systems/"><u>Download the Newest Drivers for Your Epson WF-Erlinq_v2 - Compatible with Windows 10/8/7 Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-install-the-thrustmaster-t300-racing-controller-drivers-on-windows-os-versions-11-and-10/"><u>How to Install the Thrustmaster T300 Racing Controller Drivers on Windows OS Versions 11 & 10</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-nubia-red-magic-9-pro-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Nubia Red Magic 9 Pro to iPod | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-blend-into-the-crowd-watching-instagram-live-anonymously/"><u>In 2024, How to Blend Into the Crowd Watching Instagram Live Anonymously</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-poco-c50-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Poco C50 Phone Network-Ready</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-performance-enhancing-drivers-for-msi-x47-x470-gaming-plus-available-for-download/"><u>Latest Performance-Enhancing Drivers for MSI X47지르셔스 X470 Gaming Plus Available for Download</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-google-pixel-8-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Google Pixel 8 Device</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-unleash-stunning-videos-top-3-4k8k-video-editing-tools/"><u>New In 2024, Unleash Stunning Videos Top 3 4K/8K Video Editing Tools</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ps5-slim-or-full-model-a-comprehensive-look-at-sonys-latest-consoles/"><u>PS5 Slim or Full Model? A Comprehensive Look at Sony's Latest Consoles</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/sabrent-compact-mouse-with-precise-control-and-quality-cables-perfect-for-on-the-go/"><u>Sabrent Compact Mouse with Precise Control & Quality Cables - Perfect for On-the-Go</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/mline-learning-processes-with-detailed-chaptering-for-educational-youtube-videos/"><u>Streamline Learning Processes with Detailed Chaptering for Educational YouTube Videos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-augment-your-vfx-arsenal-explore-these-top-8-sites-for-free-eco-backgrounds/"><u>[Updated] 2024 Approved Augment Your VFX Arsenal - Explore These Top 8 Sites for Free Eco-Backgrounds</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-the-dance-of-diction-creating-bounce-with-text/"><u>2024 Approved The Dance of Diction Creating Bounce with Text</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/come-ripristinare-le-immagini-eliminate-dalliphone-oltre-i-30-giorni/"><u>Come Ripristinare Le Immagini Eliminate Dall'iPhone Oltre I 30 Giorni</u></a></li>
+<li><a href="https://blog-min.techidaily.com/discover-the-ultimate-guide-to-free-video-savers-in-202amelie-a-story-of-resilience-and-love/"><u>Discover the Ultimate Guide to Free Video Savers in 202Amelie - A Story of Resilience and Love</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/diy-pc-maintenance-essential-toolkit-of-7-must-have-items/"><u>DIY PC Maintenance: Essential Toolkit of 7 Must-Have Items</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-multi-pc-management-with-intels-new-thunderbolt-sharing-technology/"><u>Effortless Multi-PC Management with Intel's New Thunderbolt Sharing Technology</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/elevating-your-play-experience-why-switching-to-advanced-handheld-systems-after-mastering-mobile-gaming-is-beneficial/"><u>Elevating Your Play Experience: Why Switching to Advanced Handheld Systems After Mastering Mobile Gaming Is Beneficial</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-pc-setup-asus-motherboards-get-compatible-with-windows-11s-customizable-lights/"><u>Enhance Your PC Setup: Asus Motherboards Get Compatible with Windows 11'S Customizable Lights</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-oppo-reno-10-5g-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Oppo Reno 10 5G.</u></a></li>
 </ul></div>
 

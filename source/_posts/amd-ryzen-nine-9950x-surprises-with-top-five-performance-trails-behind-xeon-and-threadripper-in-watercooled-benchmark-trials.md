@@ -1,7 +1,7 @@
 ---
 title: AMD Ryzen Nine-9950X Surprises with Top Five Performance, Trails Behind Xeon and Threadripper in Watercooled Benchmark Trials!
-date: 2024-08-19T12:20:34.817Z
-updated: 2024-08-20T12:20:34.817Z
+date: 2024-12-01T04:08:59.976Z
+updated: 2024-12-05T03:04:46.355Z
 tags:
   - cpu
 categories:
@@ -31,6 +31,10 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
 
  With all these technologies working in tandem, the overclocker achieved an idle frequency of 5.86 GHz. In stress testing, the maximum single-thread clock speed was 5.758 GHz, with a maximum multi-core frequency of 5.454 GHz operating at 95.2 degrees Celsius at a package power of 172.1 watts.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,14 +45,11 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
 
  SkatterBencher's 5.8 GHz and 6 GHz overclocks represent the highest on the new 9700X. Der8auer and Overclocking.com showcased their respective overclocks on the 9700X but could only eke out 5.4G Hz. The main difference was that both outlets did manual overclocks, whereas SkatterBencher used AMD's plethora of overclocking tools, enabling them to hit higher frequencies.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -57,9 +58,21 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-choosing-faithful-hymns-download-and-modify-guide/"><u>[New] 2024 Approved Choosing Faithful Hymns Download and Modify Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-visual-storytelling-crafting-impressive-imovie-video-intros/"><u>[New] 2024 Approved Visual Storytelling Crafting Impressive iMovie Video Intros</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-inclusive-dynamic-movement-examination/"><u>[New] In 2024, Inclusive Dynamic Movement Examination</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-tips-for-using-google-meets-built-in-photo-functionality/"><u>[New] Tips for Using Google Meet's Built-In Photo Functionality</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/10-most-common-mistakes-in-digital-marketing-insights-with-massmail-software/"><u>10 Most Common Mistakes in Digital Marketing: Insights with MassMail Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/a-reliable-and-affordable-299-computer-ideal-choice-for-university-scholars-zdnet/"><u>A Reliable and Affordable $299 Computer: Ideal Choice for University Scholars | ZDNet</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/cing-video-content-iphoneipad-screen-capture-basics-for-2024/"><u>Enhancing Video Content IPhone/iPad Screen Capture Basics for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-advice-best-alternatives-to-dell-and-lenovo-for-your-office-setup-zdnet-recommends-a-2-in-1/"><u>Expert Advice: Best Alternatives to Dell and Lenovo for Your Office Setup | ZDNet Recommends a 2-In-1</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/explore-metas-exclusive-offer-the-ultimate-vr-experience-with-the-512gb-quest-3-unmatched-value-today-on-zdnet/"><u>Explore Meta's Exclusive Offer: The Ultimate VR Experience with the 512GB Quest 3 - Unmatched Value Today on ZDNet!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-google-enhances-chromebook-with-cutting-edge-ai-a-threat-to-microsofts-windows-copilot/"><u>How Google Enhances Chromebook with Cutting-Edge AI: A Threat to Microsoft's Windows Copilot?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-m54-5g-phone-without-pin-by-drfone-android/"><u>How to Unlock Samsung Galaxy M54 5G Phone without PIN</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/maximize-savings-and-performance-the-ultimate-guide-to-the-50-laptop-hack-you-cant-miss/"><u>Maximize Savings and Performance: The Ultimate Guide to the $50 Laptop Hack You Can't Miss!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-most-innovative-dual-purpose-device-with-a-hidden-workplace-gem-zdnet-review/"><u>The Most Innovative Dual-Purpose Device with a Hidden Workplace Gem | ZDNet Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-deal-alert-save-big-on-the-ultimate-game-audio-experience-from-amazon-discovered/"><u>Unbeatable Deal Alert: Save Big on the Ultimate Game Audio Experience From Amazon – Discovered</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Tom's Electronic Chronicles: Comprehensive Gear Reviews and Tips"
-date: 2024-08-19T12:18:26.496Z
-updated: 2024-08-20T12:18:26.496Z
+date: 2024-12-02T23:08:33.939Z
+updated: 2024-12-05T06:12:53.193Z
 tags:
   - cpu
 categories:
@@ -27,6 +27,10 @@ With AI PC hype at a fever pitch, chip vendors Intel, AMD, and Qualcomm are enga
 
  The Cixin P1 is a very unique processor. While it does not fulfill Beijing's goals of being a fully home-grown processor because it uses Arm CPU and GPU designs, the chip is specifically designed for the needs of the Chinese market and stands ready to enjoy some level of success. It also sadly does not meet[Microsoft](https://www.tomshardware.com/tag/microsoft) 's arbitrary "AI PC" requirements. The P1's NPU on its own is only 30 TOPS — shy of the 40 TOPS target — though it's likely that Cixin could not care less about Windows Copilot+ certification.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -37,14 +41,11 @@ With AI PC hype at a fever pitch, chip vendors Intel, AMD, and Qualcomm are enga
 
  Cixin is a very young company, first established in 2021, that has been growing thanks to investments from 15-20 public and private investment partners listed on its website. This freshness to the Chinese tech scene may limit widespread adoption early on, so we'll have to wait and see if Cixin manages to succeed in the huge, hungry tech market seeking[separation from U.S. interference](https://www.tomshardware.com/tech-industry/manufacturing/china-commerce-minister-frustrated-by-us-interfering-in-international-lithography-exports-via-third-countries) .
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -53,8 +54,17 @@ With AI PC hype at a fever pitch, chip vendors Intel, AMD, and Qualcomm are enga
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-from-footage-to-narrative-the-essential-guide-to-instagram-descriptive-texts/"><u>[New] 2024 Approved From Footage to Narrative The Essential Guide to Instagram Descriptive Texts</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-samsung-galaxy-a05s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-devices-versatularity-with-these-expert-tips-for-adding-more-ports-to-macbook-or-ipad-pro-zdnet-recommendations/"><u>Enhance Your Device's Versatularity with These Expert Tips for Adding More Ports to MacBook or iPad Pro | ZDNET Recommendations</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-presidents-holiday-offer-on-the-latest-macbook-pro-with-powerful-m3-pro-processor-at-a-200-discount-shop-now/"><u>Exclusive Presidents' Holiday Offer on the Latest MacBook Pro with Powerful M3 Pro Processor at a $200 Discount - Shop Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-the-latest-svelte-laptops-are-transforming-the-work-from-home-experience-find-out-why-theyre-a-hit-with-tech-insiders/"><u>How the Latest Svelte Laptops Are Transforming the Work From Home Experience - Find Out Why They're a Hit with Tech Insiders</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-v27-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Vivo V27 Phone without Google Account?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-interpreting-the-functionality-behind-blue-icons-in-chat-apps/"><u>In 2024, Interpreting the Functionality Behind Blue Icons in Chat Apps</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-visual-flow-color-matching-and-grading-in-powerdirector-for-beginners/"><u>Updated In 2024, Visual Flow Color Matching and Grading in PowerDirector for Beginners</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/first-youtubian-venture-building-a-brand-bringing-in-bucks-for-2024/"><u>Your First Youtubian Venture Building a Brand, Bringing in Bucks for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/zdnet-unveils-exceptional-college-laptop-that-beats-macbook-and-lenovo-thinkpad-at-a-price-200-less-the-definitive-choice-for-students/"><u>ZDNet Unveils Exceptional College Laptop That Beats MacBook & Lenovo ThinkPad at a Price 200 Less: The Definitive Choice for Students!</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->

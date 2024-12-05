@@ -1,7 +1,7 @@
 ---
 title: "Bringing Comedy and Tech Together: The Raspberry Pi 지 in Action as ChatGPT's Bender From Futurama Transforms Into a Personal Helper"
-date: 2024-08-19T10:18:23.492Z
-updated: 2024-08-20T10:18:23.492Z
+date: 2024-12-01T08:37:57.267Z
+updated: 2024-12-04T23:14:29.188Z
 tags:
   - raspberry-pi
 categories:
@@ -41,6 +41,10 @@ __Raspberry Pi M.2 HAT+ Specifications__
 
  The official Raspberry Pi M.2 HAT+ goes on sale today for $12 via approved resellers.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -55,8 +59,6 @@ __Raspberry Pi M.2 HAT+ Specifications__
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -64,8 +66,26 @@ __Raspberry Pi M.2 HAT+ Specifications__
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-the-3-elemental-strategies-for-writing-effective-social-media-promotions/"><u>[Updated] 2024 Approved The 3 Elemental Strategies for Writing Effective Social Media Promotions</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-ultimate-guide-to-vimeo-extractors-top-10-web-tools-reviewed/"><u>2024 Approved Ultimate Guide to Vimeo Extractors Top 10 Web Tools Reviewed</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-vcr-video-vault-extensive-reviews-and-summary/"><u>2024 Approved VCR Video Vault Extensive Reviews & Summary</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/behind-the-scenes-recording-your-facebook-live-stream/"><u>Behind the Scenes Recording Your Facebook Live Stream</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-epson-xp-410-printer-drivers-complete-guide-for-windows/"><u>Download & Install Epson XP-410 Printer Drivers - Complete Guide for Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975156533-ensure-smooth-performance-with-newly-released-realtek-drivers-for-windows-11-download-here/"><u>Ensure Smooth Performance with Newly Released Realtek Drivers for Windows 11 – Download Here</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/from-ground-to-sky-expert-and-beginners-guide-to-editing-drones/"><u>From Ground to Sky - Expert and Beginner's Guide to Editing Drones</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-yuva-2-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Lava Yuva 2 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/innovations-and-insights-on-high-performance-hardware-presented-by-toms-tech-blog/"><u>Innovations and Insights on High-Performance Hardware - Presented by Tom's Tech Blog</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-prompts-with-claude-3-exploring-anthropics-innovative-tool/"><u>Mastering the Art of Prompts with Claude 3: Exploring Anthropic's Innovative Tool</u></a></li>
+<li><a href="https://extra-information.techidaily.com/navigating-closer-views-for-efficient-tech-meetings/"><u>Navigating Closer Views for Efficient Tech Meetings</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/newest-support-and-improvements-nvidia-geforce-100-210-for-windows-10/"><u>Newest Support and Improvements: NVIDIA GeForce 지오100 드라이버 (210) for Windows 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-solutions-for-your-hp-envy-7640-driver-problems/"><u>Quick Solutions for Your HP Envy 7640 Driver Problems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/solved-the-ultimate-trick-for-quickly-and-easily-installing-a-dell-mouse-driver/"><u>Solved: The Ultimate Trick for Quickly and Easily Installing a Dell Mouse Driver</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-expert-guides-and-reviews/"><u>Tom's Tech Insights: Expert Guides and Reviews</u></a></li>
+<li><a href="https://win-bits.techidaily.com/transfer-your-voicemail-history-effortlessly-top-5-techniques-for-iphone-upgrades/"><u>Transfer Your Voicemail History Effortlessly: Top 5 Techniques for iPhone Upgrades</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-digital-mastery-at-toms-electronics-review/"><u>Unveiling Digital Mastery at Tom's Electronics Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/updated-intel-drivers-for-fast-usb-3t-connectivity-on-windows-11-systems/"><u>Updated Intel Drivers for Fast USB 3.t Connectivity on Windows 11 Systems</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->

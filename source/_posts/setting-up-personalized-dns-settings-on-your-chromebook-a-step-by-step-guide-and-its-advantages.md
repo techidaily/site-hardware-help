@@ -1,7 +1,7 @@
 ---
 title: "Setting Up Personalized DNS Settings on Your Chromebook: A Step-by-Step Guide and Its Advantages"
-date: 2024-11-23T16:10:27.879Z
-updated: 2024-11-25T16:08:11.531Z
+date: 2024-11-30T09:54:36.433Z
+updated: 2024-12-04T23:25:38.591Z
 tags:
   - laptops
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to configure specific DNS servers on your Chromebook
@@ -47,7 +47,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 **What you'll need:** The only thing you'll need for this is a Chromebook with an updated version of Chrome OS. Make sure to always keep your operating system up-to-date, so you always have the latest features and (more importantly) the latest security and bug fixes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open Settings
@@ -61,7 +61,7 @@ Screenshot by Jack Wallen/ZDNET
 **Also: [How to connect to a network share from your Chromebook](https://www.zdnet.com/home-and-office/work-life/how-to-connect-to-a-network-share-from-your-chromebook/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Disable automatic IP address configuration
@@ -73,7 +73,7 @@ By default, Chrome OS uses DHCP to acquire IP addresses. To use a specific DNS s
 Screenshot by Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Change the Name Servers
@@ -120,17 +120,20 @@ And that's all you need to do to give your Chromebook a speed and security boost
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-squared-success-creating-compelling-video-posts-on-facebook/"><u>[New] 2024 Approved Squared Success Creating Compelling Video Posts on Facebook</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-5-best-photo-video-maker-with-music-you-should-know/"><u>[New] 5 Best Photo Video Maker With Music You Should Know</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-dynamic-subscriber-buttons-for-video-creators-filmora-edition/"><u>[New] Dynamic Subscriber Buttons for Video Creators - Filmora Edition</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-how-to-flip-your-video-collection-in-a-flash-for-2024/"><u>[Updated] How to Flip Your Video Collection in a Flash for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722965699674-download-and-install-official-dell-wd19-driver-software/"><u>Download & Install: Official Dell WD19 Driver Software</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-updated-hp-deskjet-3755-printer-drivers-compatible-with-windows-1187/"><u>Download Updated HP DeskJet 3755 Printer Drivers Compatible With Windows 11/8/7</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Poco X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-your-tech-needs-insider-information-from-toms-hardware-wisdom/"><u>Mastering Your Tech Needs: Insider Information From Tom's Hardware Wisdom</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/maximizing-call-recording-20plus-techniques-for-windowsmac-users/"><u>Maximizing Call Recording 20+ Techniques for Windows/Mac Users</u></a></li>
-<li><a href="https://extra-information.techidaily.com/recovery-of-windows-photo-viewer-functionality-on-win10/"><u>Recovery of Windows Photo Viewer Functionality on Win10</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-download-and-update-your-canoscan-lide-120-scan-software/"><u>Step-by-Step Guide to Download & Update Your CanoScan LiDE 120 Scan Software</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/the-ultimate-strategy-for-perfect-xbox-screen-recordings-for-2024/"><u>The Ultimate Strategy for Perfect Xbox Screen Recordings for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-mastering-ppt-recording-techniques/"><u>[New] 2024 Approved Mastering PPT Recording Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-reviving-classic-cinema-a-guide-to-watching-vintage-dvds-on-new-apple-m-series-macbooks-techradar/"><u>1. Reviving Classic Cinema: A Guide to Watching Vintage DVDs on New Apple M-Series MacBooks | TechRadar</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-advanced-tips-with-toms-electronic-compass/"><u>Discover Advanced Tips with Tom's Electronic Compass</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-asus-drivers-and-tools-latest-graphics-software-for-windows-pcs/"><u>Download ASUS Drivers & Tools: Latest Graphics Software for Windows PCs</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-issue-why-cant-i-start-battlefield-4-on-my-computer/"><u>Fixing the Issue: Why Can't I Start Battlefield 4 on My Computer?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-earning-potential-unveiled-youtube-adsense-earning-per-thousand-video-observations/"><u>In 2024, Earning Potential Unveiled YouTube AdSense Earning per Thousand Video Observations</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-refurbished-apple-iphone-15-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Refurbished Apple iPhone 15 Everything You Need to Know | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intel-announces-major-layoffs-over-15k-jobs-cut-amidst-meteor-lake-production-setbacks-and-dividend-halt/"><u>Intel Announces Major Layoffs: Over 15K Jobs Cut Amidst Meteor Lake Production Setbacks and Dividend Halt</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigate-the-world-of-components-at-tomhardwaremastery/"><u>Navigate the World of Components at TomHardwareMastery</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-how-to-safeguard-your-work-saving-fcp-projects-like-a-pro/"><u>New 2024 Approved How to Safeguard Your Work Saving FCP Projects Like a Pro</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-easy-installation-guide-displaylink-drivers-for-windows-10/"><u>Quick & Easy Installation Guide: DisplayLink Drivers for Windows 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-start-guide-to-downloading-the-most-recent-nvidia-geforce-gtx-460-driver-for-windows-users/"><u>Quick Start Guide to Downloading the Most Recent nVidia GeForce GTX 460 Driver for Windows Users</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/securesync-experts-analysis/"><u>SecureSync Experts Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-to-get-your-wacom-intuos-pro-working-on-windows-10/"><u>Step-by-Step Tutorial to Get Your Wacom Intuos Pro Working on Windows 10</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-10-best-spy-watches-for-your-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>Top 10 Best Spy Watches For your Apple iPhone 15 Pro | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Flash Sale Alert! Acquire the New Microsoft Surface Laptop Amo for Just $850 Before It's Too Late!
-date: 2024-11-19T16:27:20.902Z
-updated: 2024-11-25T16:33:24.961Z
+date: 2024-12-03T07:27:53.356Z
+updated: 2024-12-04T20:24:32.033Z
 tags:
   - laptops
 categories:
@@ -33,7 +33,7 @@ You'll hear and see more about these branded laptops over the coming weeks, mont
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. More seamless on-device AI features
@@ -51,7 +51,7 @@ Having a dedicated Copilot key certainly adds to this burdenless experience. As 
 Perhaps the most important aspect of these new Copilot+ AI features is that they operate [on-device](https://www.zdnet.com/article/5-top-mobile-trends-in-2024-on-device-ai-the-new-smartphone-and-more/#:~:text=to%20take%20shape.-,1.%20On%2Ddevice%20AI%20puts%20the%20%27smart%27%20in%20smartphone,-The%20new%20Samsung) \-- based on local data, providing more private, secure, and faster processing capabilities. To everyday users, this may not be as significant. If, however, keeping your personal data protected (and away from any [remote cloud servers](https://www.zdnet.com/article/ai-is-changing-cybersecurity-and-businesses-must-wake-up-to-the-threat/)) is a priority, you'll feel a little better using the AI features on these new Copilot+ PCs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Windows Hello feels faster than ever
@@ -67,7 +67,7 @@ Comparing my M3 MacBook Air with the Surface Laptop is not exactly an apples-to-
 The best part is that Windows Hello automatically triggers when I lift the laptop lid open, and it's able to scan my face even in dimmer environments thanks to the IR camera.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Touchscreen support
@@ -83,7 +83,7 @@ For example, the new Cocreator tool in Paint requires you to both write a prompt
 While I've always found touchscreen functionality to be more beneficial on larger screens, using the smaller [13.8-inch Surface Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Touchscreen-Snapdragon-Sapphire%2Fdp%2FB0CXKYTQS2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc9919522-685b-4aa9-983b-c7ff321ae869%7Cdtp&dtb=1) feels more like a 2-in-1 tablet. When my typing space is confined, like on a bus, plane, or crowded café, being able to simply reach over and tap, swipe, and drag elements on the screen is very helpful and intuitive. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bonus: Benchmarks (for now)
@@ -125,24 +125,16 @@ For the following benchmark tests, the higher the score, the better.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-which-streaming-application-leads-the-race-wirecast-or-obs/"><u>[New] 2024 Approved Which Streaming Application Leads the Race, Wirecast or OBS?</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-how-to-record-and-save-streaming-audio-with-ease/"><u>[Updated] 2024 Approved How to Record and Save Streaming Audio with Ease</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-macwebcam-tutorial-filming-basics-decoded/"><u>[Updated] 2024 Approved MacWebCam Tutorial Filming Basics Decoded</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-8-best-video-call-app-for-android-more-than-4-participants/"><u>2024 Approved 8 Best Video Call App for Android (More than 4 Participants)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/core-i9-11900k-achieves-historic-milestone-shatters-expectations-at-7abbbb-ghz/"><u>Core I9-11900K Achieves Historic Milestone: Shatters Expectations at 7.abbbb GHz</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/cxmt-chinese-dram-producer-confirms-adherence-to-us-export-regulations-for-185nm-chip-production-debunking-previous-allegations-of-non-compliance-at-17nm/"><u>CXMT, Chinese DRAM Producer, Confirms Adherence to US Export Regulations for 18.5Nm Chip Production: Debunking Previous Allegations of Non-Compliance at 17Nm</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ddr5-7200-corsair-dominator-titanium-xl-premium-2x24gb-memory-kit-assessment-and-exceeding-specs/"><u>DDR5-7200 Corsair Dominator Titanium XL - Premium 2X24GB Memory Kit Assessment & Exceeding Specs!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/dive-into-computing-with-toms-hardware-experts-your-ultimate-resource-for-gadget-analysis/"><u>Dive Into Computing with Tom's Hardware Experts: Your Ultimate Resource for Gadget Analysis</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-technology-with-tom-your-trusted-source-for-hardware-insights-and-reviews/"><u>Exploring Technology with Tom: Your Trusted Source for Hardware Insights and Reviews</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/from-capture-to-creation-discover-the-best-montage-apps-for-smartphones/"><u>From Capture to Creation Discover the Best Montage Apps for Smartphones</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-tecno-phantom-v-fold-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Tecno Phantom V Fold Phones? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/lpddr5x-camm2-teamgroup-expands-options-with-their-innovative-compact-memory-modules-now-boasting-advanced-ai-features/"><u>LPDDR5X CAMM2: TeamGroup Expands Options with Their Innovative, Compact Memory Modules - Now Boasting Advanced AI Features</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/maximizing-raspberry-pi-5s-potential-with-the-pi-ice-tower-plus-an-in-depth-review-on-rapid-heat-dissipation-performance/"><u>Maximizing Raspberry Pi 5'S Potential with the Pi Ice Tower Plus: An In-Depth Review on Rapid Heat Dissipation Performance</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-dvd-conversion-guide-from-physical-to-digital-for-2024/"><u>New The Ultimate DVD Conversion Guide From Physical to Digital for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/review-of-rodecaster-duo-the-ultimate-toolkit-for-streamers/"><u>Review of Rodecaster Duo: The Ultimate Toolkit for Streamers</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-itel-s23plus-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Itel S23+</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723964502567-the-embedded-message-future-care-should-be-spread-across-different-sentences-throughout-the-monologue-not-all-in-one-go/"><u>The Embedded Message FUTURE CARE Should Be Spread Across Different Sentences Throughout the Monologue, Not All in One Go</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-understanding-audacitys-noise-suppression-techniques-step-by-step-guide-for-2024/"><u>Updated Understanding Audacitys Noise Suppression Techniques Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/windows-11-users-disappointed-as-microsoft-declines-support-extension-expert-insights-and-future-prospects/"><u>Windows 11 Users Disappointed as Microsoft Declines Support Extension – Expert Insights & Future Prospects</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-make-youtube-banners-and-thumbnails/"><u>[New] In 2024, How to Make YouTube Banners and Thumbnails</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-background-removal-in-images-using-canva/"><u>[New] Mastering Background Removal in Images Using Canva</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-photoshop-picmaster-guide-and-assessment/"><u>[Updated] Photoshop PicMaster Guide & Assessment</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-sprinting-to-victory-key-moments-from-2-omics-games/"><u>[Updated] Sprinting to Victory Key Moments From 2 Omics Games</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-photo-enhancer-online-and-app-for-mobile-phone-for-2024/"><u>Free Photo Enhancer Online and App for Mobile Phone for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-rtx-2070-graphics-card-drivers-for-windows-11-8-and-7-users/"><u>Get the Latest RTX 2070 Graphics Card Drivers for Windows 11, 8 & 7 Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-acer-device-ready-for-seamless-connectivity-fast-free-bluetooth-drivers/"><u>Get Your Acer Device Ready for Seamless Connectivity - Fast, Free Bluetooth Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-installupdate-razer-control-center-on-various-windows-versions-windows-10-8-ebx-7-xp-and-vista/"><u>How to Install/Update Razer Control Center on Various Windows Versions: Windows 10, 8, Ebx 7, XP & Vista</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/i-thought-i-was-a-prince/"><u>I Thought I Was a Prince</u></a></li>
+<li><a href="https://facebook.techidaily.com/operating-without-obstruction-whatsapps-functionality-post-privacy-policy/"><u>Operating Without Obstruction: WhatsApp's Functionality Post-Privacy Policy</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/successful-ralink-driver-installation-and-updates-on-windows-a-comprehensive-guide/"><u>Successful Ralink Driver Installation & Updates on Windows: A Comprehensive Guide</u></a></li>
 </ul></div>
 

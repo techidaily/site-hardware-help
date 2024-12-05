@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated PC and Console Game Discounts This October: Your Ultimate Prime Day Guide (October 2N°)"
-date: 2024-11-20T16:14:19.336Z
-updated: 2024-11-25T16:25:02.019Z
+date: 2024-11-29T23:04:27.802Z
+updated: 2024-12-05T07:16:29.760Z
 tags:
   - laptops
 categories:
@@ -99,6 +99,10 @@ The Alienware x16 R2 is built with an Intel Core Ultra 9 processor, Nvidia GeFor
 
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Falienware-x16-r2-240hz-gaming-laptop-intel-core-ultra-9-processor-nvidia-geforce-rtx-4070-32gb-memory-1-tb-ssd-lunar-silver%2F6576921.p%3FskuId%3D6576921&publisher_slug=itechdaily19598&exclusive=1) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## More October Prime Day 2024 gaming deals
 
 ZDNET
@@ -115,10 +119,6 @@ ZDNET
 * [MSI Claw 512GB for $642 (save $108)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMSI-Claw-Gaming-Handheld-Thunderbolt%2Fdp%2FB0CXG3DBQV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C312a3512-201d-41d6-abd2-1a191ffb432f%7Cdtp&dtb=1): Built with an Intel Core Ultra 7 CPU, 16GB of RAM, a 512GB SSD, and a 7-inch display, the MSI Claw rivals the Steam Deck handheld gaming PC in power and performance.
 * [Amazon eero Pro 6E mesh Wi-Fi router 3-pack for $350 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-eero-Wi-Fi-router-newest%2Fdp%2FB091G64GVK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C312a3512-201d-41d6-abd2-1a191ffb432f%7Cdtp&dtb=1): This mesh Wi-Fi system is rated for up to 2,000 square feet of coverage and supports both wireless and hardwired Ethernet connectivity at 1.6 Gbps and 2.5Gbps, respectively.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day PlayStation 5 deals
 
 ZDNET
@@ -134,10 +134,6 @@ ZDNET
 * [Gran Turismo 7 standard edition for $41 (save $29 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FGran-Turismo-7-PlayStation-5%2F443954076%3FclassType%3DVARIANT%26athbdg%3DL1600&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): The definitive racing sim is back on PS5 with an all-new solo campaign, over 420 cars to unlock, and over 90 tracks to master.
 * [Dead Island 2 standard edition for $20 (save $27 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FDead-Island-2-PlayStation-5%2F5212541857%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Hack and slash your way through Hell-A as one of 6 characters as you fight to survive the hordes of zombies and escape the city with your friends alive.
 * [Madden NFL 25 for $48 (save $23)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMadden-NFL-25-PlayStation-5%2Fdp%2FB0D3PGHSM3%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C312a3512-201d-41d6-abd2-1a191ffb432f%7Cdtp&dtb=1): The latest entry in the popular franchise features physics-based tackling, a rebalanced player system, and refreshed franchise mode.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## October Prime Day Xbox Series X|S deals
 
@@ -177,6 +173,10 @@ Nintendo/ZDNET
 * [Pokemon Shining Pearl for $44 (save $16)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FPokemon-Shining-Pearl-Nintendo-Nintendo-Switch%2F890677903%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This remaster of Pokemon Pearl features all new graphics, game modes, and mechanics for players returning to the Sinnoh region as well as fans visiting for the first time.
 * [Nintendo Switch Joy-Con in neon purple and neon orange for $66 (save $14 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FNintendo-Switch-Joy-Con-Pair-Neon-Purple-and-Neon-Orange%2F921709016%3FclassType%3DVARIANT%26athbdg%3DL1600&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Grab an extra Joy-Con controller for your Nintendo Switch to keep gaming while your other controller charges.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## October Prime Day gaming PC deals
 
 Kyle Kucharski/ZDNET
@@ -191,10 +191,6 @@ Kyle Kucharski/ZDNET
 * [HP Omen 45L for $2,200 (save $800 at HP)](https://www.dpbolvw.net/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fomen-by-hp-45l-gaming-desktop-gt22-2085t-pc&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end gaming PC built with a 14th generation Intel Core i7 CPU, GeForce RTX 4080 Super GPU, 16GB of RAM, and a 1TB SSD.
 * [HP Victus 15L desktop for $480 (save $370 at HP)](https://www.dpbolvw.net/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fvictus-by-hp-15l-gaming-desktop-tg02-0325m-59a32av-1&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An entry-level gaming desktop built with an AMD Ryzen 5 5600G processor, AMD Radeon RX 6400 GPU, 8GB of RAM, and a 256GB SSD.
 * [Alienware Aurora R16 for $3,700 (save $1,000 at Dell)](https://www.dpbolvw.net/click-9041660-15734614?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdesktop-computers%2Falienware-aurora-r16-gaming-desktop%2Fspd%2Falienware-aurora-r16-desktop%2Fuseapctor16icc2&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Alienware's flagship gaming desktop is built with a 14th gen Intel Core i9 CPU, Nvidia GeForce RTX 4090 graphics card, 64GB of RAM, and 4TB of storage.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## October Prime Day gaming laptop deals
 
@@ -215,10 +211,6 @@ Samsung/ZDNET
 * [Samsung Odyssey Neo G8 32-inch curved monitor for $800 (save $500 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-odyssey-neo-g8-32-curved-4k-uhd-freesync-premium-pro-g-sync-compatible-240hz-1ms-gaming-monitor-black%2F6507933.p%3FskuId%3D6507933&publisher%5Fslug=zdnet&article%5Fname=best%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-06-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This 32-inch display support both AMD FreeSync Premium Pro and Nvidia G-Sync VRR, a 240Hz refresh rate, a 1ms response time, and 4K resolution.
 * [Acer Predator X27U for $680 (save $320 at B&H Photo)](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1772478-REG%2Facer%5Fum%5Fhxxaa%5F001%5Fpredator%5Fx27u%5F27%5Fgaming.html%2Fspecs): A 27-inch gaming monitor with a 240Hz refresh rate, 1440p resolution, a 0.03ms response time, and support for AMD FreeSync Premium Pro VRR.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day PC gaming accessories deals
 
 * [SanDisk Extreme Pro 4TB portable SSD for $340 (save $138 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsandisk-extreme-pro-portable-4tb-external-usb-c-nvme-ssd-black%2F6522095.p%3FskuId%3D6522095&publisher%5Fslug=zdnet&article%5Fname=best%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-06-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An ultra-tough portable SSD compatible with Windows and Mac computers and backed by a 5-year warranty.
@@ -234,6 +226,10 @@ Samsung/ZDNET
 * [MSI Ventus GeForce RTX 4060 Ti for $430 (save $70 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FMSI-Ventus-GeForce-RTX-4060-Ti-16GB-GDDR6-PCI-Express-4-0-x8-ATX-Video-Card-RTX-4060-Ti-VENTUS-2X-BLACK-16G-OC%2F1508015956&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An Nivida 40 Series GPU with 16GB of DDR6 VRAM and support for up to 4 displays.
 * [Gigabyte GeForce RTX 4070 Ti Super Windforce Max OC Edition for $810 (save $114 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FGIGABYTE-GeForce-RTX-4070-Ti-SUPER-WINDFORCE-MAX-OC-16G-Graphics-Card-3x-WINDFORCE-Fans-16GB-256-bit-GDDR6X-GV-N407TSWF3MAX-OC-16GD-Video-Card%2F6941118252&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end Nvidia RTX 40 Series graphics card with 16GB of VRAM, triple cooling fans, and dual BIOS controls.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQs
 
 ### When is Amazon Prime Day 2024?
@@ -244,12 +240,16 @@ Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, wi
 
 Games, consoles, and accessories can and do go on sale during Prime Day, though not every brand or manufacturer may participate. Some brands may have competing sales at other retailers or on their own direct-sale sites, which is great news for anyone who likes to compare discounts to make sure they're getting the best deal possible.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How did we choose these Prime Day deals?
 
 I only chose deals on games that have been critically and commercially well-received, as well as accessories and peripherals from well-known and reputable brands like Razer and Logitech. I also only included deals that offered at least a 15 percent discount.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the best October Prime Day 2024 deals?
@@ -317,20 +317,20 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-help.techidaily.com/unavailable-dts-format-on-selected-audio-hardware-tips-for-restoration-and-setup/"><u>'Unavailable: DTS Format on Selected Audio Hardware' - Tips for Restoration and Setup</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-from-raw-to-refined-expert-techniques-for-youtube-content-creators/"><u>[Updated] From Raw to Refined Expert Techniques for YouTube Content Creators</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/canon-mg3000-how-to-download-and-update-the-necessary-printing-software/"><u>Canon MG3000: How to Download and Update the Necessary Printing Software</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-nvidia-geforce-gtx-980-ti-graphics-card-drivers-free/"><u>Download Nvidia GeForce GTX 980 Ti Graphics Card Drivers - Free</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-to-overcome-the-no-sound-problem-in-windows-11-computers/"><u>Expert Tips to Overcome the 'No Sound' Problem in Windows 11 Computers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-epson-stylus-nx420-printer-drivers-for-your-windows-pc-windows-7810/"><u>Get Epson Stylus NX420 Printer Drivers for Your Windows PC (Windows 7/8/10)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-install-new-tp-link-80211ac-wireless-adapter-driver-on-windows/"><u>How to Install New TP-Link 802.11Ac Wireless Adapter Driver on Windows</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-from-iphone-x-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account From iPhone X?</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-dells-direct-methods-easy-screenshot-solutions/"><u>In 2024, Dell's Direct Methods Easy Screenshot Solutions</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-optimize-viewership-with-proficient-timestamp-placement-on-youtube/"><u>In 2024, Optimize Viewership with Proficient Timestamp Placement on YouTube</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-slow-and-steady-wins-the-game-top-10-video-players/"><u>In 2024, Slow and Steady Wins the Game Top 10 Video Players</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/innovation-at-play-the-best-professional-360-degree-cameras-2023-update-for-2024/"><u>Innovation at Play The Best Professional 360-Degree Cameras - 2023 Update for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-technology-trends-articles-and-reviews-by-toms-hardware-team/"><u>Navigating Technology Trends: Articles and Reviews by Tom's Hardware Team</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-free-video-editing-solutions-for-32-bit-windows-top-picks/"><u>New 2024 Approved Free Video Editing Solutions for 32-Bit Windows Top Picks</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-guide-to-downloading-and-installing-linksys-ae2500s-newest-driver-update/"><u>Quick Guide to Downloading and Installing Linksys AE2500's Newest Driver Update</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-unlocking-creative-power-for-youtube-intros-in-imovie-for-2024/"><u>[Updated] Unlocking Creative Power for YouTube Intros in iMovie for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-visual-journey-app-performance-analysis/"><u>[Updated] Visual Journey App Performance Analysis</u></a></li>
+<li><a href="https://win-top.techidaily.com/1-free-methods-to-transcode-mxf-video-formats-a-step-by-step-guide/"><u>1. Free Methods to Transcode MXF Video Formats: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1-ideal-operating-temperatures-for-modern-graphics-cards-understanding-safe-heat-levels/"><u>1. Ideal Operating Temperatures for Modern Graphics Cards: Understanding Safe Heat Levels</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asus-rog-ally-compatible-with-valves-steamos-a-perfect-match-for-gamers/"><u>ASUS ROG Ally Compatible with Valve's SteamOS: A Perfect Match for Gamers</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/beyond-coding-daily-life-applications-of-keyboard-macros/"><u>Beyond Coding: Daily Life Applications of Keyboard Macros</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/can-microsofts-artificial-intelligence-revive-the-windows-mobile-experience/"><u>Can Microsoft's Artificial Intelligence Revive the Windows Mobile Experience?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722972453113-get-the-latest-realtek-graphics-card-drivers-for-windows-10-here/"><u>Get the Latest Realtek Graphics Card Drivers for Windows 10 Here!</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-enhance-your-social-presence-with-easy-fb-video-upload-pc-and-android/"><u>In 2024, Enhance Your Social Presence with Easy FB Video Upload, PC & Android</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-giggles-guide-to-sign-insign-out/"><u>In 2024, Giggles Guide to Sign-In/Sign-Out</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-streamlining-the-process-simplified-setup-of-tiktok-livestreams-from-desktop/"><u>In 2024, Streamlining the Process Simplified Setup of TikTok Livestreams From Desktop</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-logitech-keys-to-go-2-initial-thoughts-and-in-depth-product-analysis/"><u>Unveiling the Logitech Keys-To-Go 2: Initial Thoughts and In-Depth Product Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/why-you-might-skip-adding-liquid-coolers-to-your-amd-processor/"><u>Why You Might Skip Adding Liquid Coolers to Your AMD Processor</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/worlddirect-innovates-introducing-a-revolutionary-new-6tb-portable-ssd/"><u>WorldDirect Innovates: Introducing a Revolutionary New 6TB Portable SSD</u></a></li>
 </ul></div>
 

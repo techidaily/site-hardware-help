@@ -1,7 +1,7 @@
 ---
 title: "Unlock Savings with a Limited-Time Offer: Snag Your Lenovo IdeaPad Duet"
-date: 2024-11-19T16:27:45.032Z
-updated: 2024-11-25T16:37:15.897Z
+date: 2024-11-29T22:45:52.433Z
+updated: 2024-12-05T06:21:33.921Z
 tags:
   - laptops
 categories:
@@ -38,7 +38,7 @@ This laptop isn't solely for business professionals. Everybody can enjoy the dev
 Right now is the best time to buy this device. The [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C14d19b62-5802-4cec-a00b-bb50b38e16ac%7Cdtp&dtb=1) is currently on sale at Amazon for $1,500\. That is almost $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C14d19b62-5802-4cec-a00b-bb50b38e16ac%7Cdtp&dtb=1) is much more expensive, but I recommend it as an alternative if you can afford it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -75,16 +75,20 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-digital-audience-accolades-for-content-makers/"><u>[Updated] 2024 Approved Digital Audience Accolades for Content Makers</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-snapchat-screen-capture-tips-for-phones/"><u>[Updated] Snapchat Screen Capture Tips for Phones</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-film-timeframe-determining-gb-storage-requirement/"><u>2024 Approved Film Timeframe Determining GB Storage Requirement</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/expert-insights-into-computing-and-gadgets-with-toms-hardware-review/"><u>Expert Insights Into Computing & Gadgets with Tom's Hardware Review</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-picks-top-10-rated-gopro-cases-revisited/"><u>In 2024, Expert Picks - Top 10 Rated GoPro Cases Revisited</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/next-gen-interaction-redesign-mastering-xr-and-spatial-computing-for-enhanced-user-experiences-in-business-expert-guide-on-zdnet/"><u>Next-Gen Interaction Redesign: Mastering XR and Spatial Computing for Enhanced User Experiences in Business | Expert Guide on ZDNet</u></a></li>
-<li><a href="https://fox-access.techidaily.com/quick-cut-screenplay-snippet/"><u>Quick-Cut Screenplay Snippet</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-blueprint-entering-itunes-and-google-play-listings/"><u>The Blueprint Entering iTunes and Google Play Listings</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-review-in-depth-analysis-of-latest-computer-components/"><u>Tom's Tech Review: In-Depth Analysis of Latest Computer Components</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-reviews-expert-insights-on-cutting-edge-hardware/"><u>Tom's Tech Reviews: Expert Insights on Cutting-Edge Hardware</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-reviews-the-ultimate-guide-to-computer-components/"><u>Tom's Tech Reviews: The Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-climb-the-ladder-the-best-12-tycoon-games-for-aspiring-leaders/"><u>[New] 2024 Approved Climb the Ladder The Best 12 Tycoon Games for Aspiring Leaders</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-top-picks-superior-iphone-tone-creators/"><u>[New] 2024 Approved Top Picks Superior iPhone Tone Creators</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-step-by-step-guide-for-ios-users-jpgpng-to-pdf-transformation/"><u>[Updated] Step-by-Step Guide for iOS Users JPG/PNG to PDF Transformation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capturing-the-perfect-snap-on-pexels-for-2024/"><u>Capturing the Perfect Snap on Pexels for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-instantly-the-most-reliable-easycap-driver-setup/"><u>Download Instantly: The Most Reliable EasyCAP Driver Setup</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-tips-for-downloading-and-setting-up-toshiba-printer-software-on-windows/"><u>Easy Tips for Downloading and Setting Up Toshiba Printer Software on Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-when-your-hyperx-cloud-headset-mic-fails-to-work-properly/"><u>Effective Solutions When Your HyperX Cloud Headset Mic Fails to Work Properly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/getting-the-newest-drivers-for-your-epson-stylus-xp-310-a-step-by-step-guide/"><u>Getting the Newest Drivers for Your Epson Stylus XP-310: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/guide-resolving-issues-with-the-realtek-rtl8811au-wireless-network-driver/"><u>Guide: Resolving Issues with the Realtek RTL8811AU Wireless Network Driver</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/lost-deleted-notes-from-your-ipad-and-no-backup-discover-the-steps-for-retrieval/"><u>Lost Deleted Notes From Your iPad and No Backup? Discover the Steps for Retrieval!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/most-recent-nvidia-rtx-2080-driver-update-available-for-multiple-windows-versions/"><u>Most Recent NVIDIA RTX 2080 Driver Update Available for Multiple Windows Versions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/nvidia-rtx-3070-ti-driver-installation-compatible-with-windows-11-8-and-7/"><u>NVIDIA RTX 3070 Ti Driver Installation - Compatible with Windows 11, 8 & 7</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/step-by-step-guide-to-adding-sound-clips-to-each-chapter-in-a-flipbook-language-textbook/"><u>Step-by-Step Guide to Adding Sound Clips to Each Chapter in a FlipBook Language Textbook</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshoot-your-bluetooth-issues-microsoft-driver-updates-for-windows-users-across-versions/"><u>Troubleshoot Your Bluetooth Issues: Microsoft Driver Updates for Windows Users Across Versions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-mozilla-thunderbird-v52-the-next-evolution-of-secure-reliable-messaging/"><u>Unveiling Mozilla Thunderbird v52 – The Next Evolution of Secure, Reliable Messaging</u></a></li>
 </ul></div>
 

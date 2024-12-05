@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Rapid Intel NUC Driver Setup"
-date: 2024-08-19T12:18:55.693Z
-updated: 2024-08-20T12:18:55.693Z
+date: 2024-11-29T22:58:39.826Z
+updated: 2024-12-05T01:34:21.169Z
 tags:
   - win11
   - win10
@@ -19,9 +19,17 @@ thumbnail: https://thmb.techidaily.com/7b8336f5215e637e754158b1429078ceab1fa3c34
 
  Looking to update your Intel Iris Plus Graphics 640 driver but not sure where to get the latest download? If yes, then you’ve come to the right place. In this post, you’ll have two ways to download and install the driver efficiently.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why should I update the Intel Iris Plus Graphics 640 driver
 
  Updating drivers is beneficial to the stability of your hardware devices, whether it is a printer, video card, or audio output device. By rolling out new drivers, original equipment manufacturers (OEM) improve the functionality of their products and correct technical issues reported by users. Therefore, if you ever encounter any problems relating to your graphics card (such as game crashing), try to update the corresponding driver and see whether that gets you out of trouble. Or if you want to make the most of your GPU, keeping the drivers up to date is also important.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to update the Intel Iris Plus Graphics 640 driver
 
@@ -36,8 +44,9 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 1 – Automatically update the driver
 
  If you don’t have the time, patience or computer skills to update your Intel Iris Plus Graphics 640 driver manually,**you can do it automatically with** **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -49,13 +58,11 @@ OR
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-19_18-00-07-1.jpg)
 3. Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update Intel Iris Plus Graphics 640 driver, simply click the**Update**  button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-24_12-24-30.jpg)
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Note:** you can do it for free if you like, but it’s partly manual.
 
  If you have any problems when using Driver Easy to update your driver, please feel free to email us at**<support@drivereasy.com>** . We are always here to help.
@@ -63,8 +70,9 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 2 – Update the driver manually
 
 If you opt for updating the driver manually, here’s the procedure:
@@ -72,14 +80,8 @@ If you opt for updating the driver manually, here’s the procedure:
 1. Click **[here](https://downloadcenter.intel.com/product/98911/Intel-Iris-Plus-Graphics-640)**  to visit the download page of Intel Iris Plus Graphics 640 driver.
 2. Click**Intel® Graphics – Windows® 10 DCH Drivers** .![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-24_12-31-07.jpg)
 3. Pay attention to the left section and click the**download** button below the**EXE** file available for download. (You can otherwise download the ZIP file. Note that it’s compressed so you’ll need to extract it before installing the driver on PC.)  
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Also, if you want to download a certain version of drivers, you can click the desired one beneath**Other Versions** .![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-24_12-33-59.jpg)
 4. Once you’ve downloaded the correct file, double-click on it and follow the onscreen instructions to install the driver.
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. **Reboot** your PC for the changes to take effect.
 
 ---
@@ -96,8 +98,6 @@ If you opt for updating the driver manually, here’s the procedure:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -105,4 +105,26 @@ If you opt for updating the driver manually, here’s the procedure:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-learn-how-to-optimize-your-screen-record-with-screencastify-for-2024/"><u>[New] Learn How to Optimize Your Screen Record with Screencastify for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-the-world-of-fpv-drone-propellers/"><u>2024 Approved Navigating the World of FPV Drone Propellers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-tricks-for-transferring-twitter-video-to-your-phone/"><u>2024 Approved Tricks for Transferring Twitter Video to Your Phone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/a-final-farewell-to-your-instagram-world-process-and-steps-for-2024/"><u>A Final Farewell to Your Instagram World Process & Steps for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/asymmetric-soothing-sound-the-best-asmr-gear-without-a-heavy-price-tag-for-2024/"><u>Asymmetric Soothing Sound The Best ASMR Gear Without a Heavy Price Tag for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-offer-on-dell-latitude-5491-purchase-now-at-just-219/"><u>Exclusive Offer on Dell Latitude 5491 - Purchase Now at Just $219!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experiencing-lenovos-clearbook-a-revolutionary-take-on-transparency-at-the-mobile-world-congress/"><u>Experiencing Lenovo’s ClearBook: A Revolutionary Take on Transparency at the Mobile World Congress</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-freedom-with-turbo-and-copilot-your-guide-to-gpt-4s-limitless-potential/"><u>Free Freedom with Turbo & Copilot: Your Guide to GPT-4's Limitless Potential</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-realme-gt-3-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Realme GT 3 to iPod | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-oppo-f23-5g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Oppo F23 5G</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/msis-steam-deck-can-it-compete-and-thrive-in-the-competitive-world-of-portable-gaming-a-deep-dive/"><u>MSI's Steam Deck: Can It Compete and Thrive in the Competitive World of Portable Gaming? A Deep Dive</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-the-best-thinkpads-for-hybrid-work-environments-a-comprehensive-guide-thats-not-about-lenovos-newest-zdnet/"><u>Navigating the Best ThinkPads for Hybrid Work Environments – A Comprehensive Guide That's Not About Lenovo's Newest | ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-selection-of-cyber-monday-laptops-on-sale-insights-october-edition/"><u>The Ultimate Selection of Cyber Monday Laptops on Sale - Insights , October Edition</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-21-laplaptop-picks-for-the-perfect-present-expert-recommendations-from-zdnet/"><u>Top 21 Laplaptop Picks for the Perfect Present: Expert Recommendations From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-choice-presents-for-diy-enthusiasts-perfecting-projects-with-our-hammer-selection-insights/"><u>Top Choice Presents for DIY Enthusiasts: Perfecting Projects with Our Hammer Selection - Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-picks-unbeatable-black-friday-laptop-discounts-await-you-this-oct-24/"><u>Top Picks: Unbeatable Black Friday Laptop Discounts Await You This Oct '24</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/watching-hulu-with-ease-tutorial-for-setup-on-lg-smart-tvs/"><u>Watching Hulu with Ease: Tutorial for Setup on LG Smart TVs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/why-are-samsungs-galaxy-book-3-series-sales-skyrocketing-a-detailed-analysis/"><u>Why Are Samsung's Galaxy Book 3 Series Sales Skyrocketing? A Detailed Analysis</u></a></li>
+</ul></div>
 

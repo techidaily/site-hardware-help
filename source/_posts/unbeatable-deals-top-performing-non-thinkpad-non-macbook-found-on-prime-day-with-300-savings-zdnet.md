@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Deals: Top-Performing Non-ThinkPad, Non-MacBook Found on Prime Day with $300 Savings! [ZDNet]"
-date: 2024-11-23T16:18:56.263Z
-updated: 2024-11-25T16:08:37.017Z
+date: 2024-12-02T09:52:45.550Z
+updated: 2024-12-05T00:39:12.618Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the Amazon Prime Day deal?
@@ -33,7 +33,7 @@ Amazon's October Prime Day event has officially ended, but many laptops are stil
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -107,7 +107,7 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -146,22 +146,20 @@ All things considered, the [sale price of $989](https://www.awin1.com/awclick.ph
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-ultimate-collection-top-rated-gratuitous-gags/"><u>[New] Ultimate Collection Top-Rated Gratuitous Gags</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-top-7-epic-strategy-battles-unveiling-ultimate-total-wars/"><u>[Updated] In 2024, Top 7 Epic Strategy Battles Unveiling Ultimate Total Wars</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/breaking-news-amds-third-innovative-processor-the-high-performance-ryzen-ai-9-hx-375-outshines-hx-370/"><u>Breaking News: AMD's Third Innovative Processor, the High-Performance Ryzen AI 9 HX 375 Outshines HX 370</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-enterprise-explained-what-makes-it-stand-out-in-professional-settings/"><u>ChatGPT Enterprise Explained: What Makes It Stand Out in Professional Settings?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-updated-geforce-rtx-3070-drivers-for-enhanced-gaming-on-windows-11-or-10-step-by-step-guide/"><u>Download Updated GeForce RTX 3070 Drivers for Enhanced Gaming on Windows 11 or 10 - Step-by-Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-reviews-on-the-most-essential-airpods-pro-gear/"><u>Expert Reviews on the Most Essential AirPods Pro Gear</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/extended-warranty-period-for-intels-13th-and-14th-gen-core-cpus-addressing-chip-stability-concerns/"><u>Extended Warranty Period for Intel's 13Th & 14Th Gen Core CPUs: Addressing Chip Stability Concerns</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-amds-epyc-9755-128-core-cpu-became-a-multi-threading-behemoth-scoring-over-108000-on-cpu-z/"><u>How AMD's EPYC 9755 128-Core CPU Became a Multi-Threading Behemoth, Scoring Over 108,000 on CPU-Z</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Vivo S17t? | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-enhancing-iphone-image-clarity-and-focus/"><u>In 2024, Enhancing iPhone Image Clarity and Focus</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/in-depth-reviews-by-tom-the-ultimate-guide-to-hardware/"><u>In-Depth Reviews by Tom - The Ultimate Guide to Hardware</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-realtek-rtl8188cu-wireless-adapter-driver-for-windows-operating-systems/"><u>Install Realtek RTL8188CU Wireless Adapter Driver for Windows Operating Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/rescue-deleted-chats-a-comprehensive-tutorial-for-all-phones/"><u>Rescue Deleted Chats: A Comprehensive Tutorial for All Phones</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/step-by-step-producing-square-videos-in-imovie-for-instagram/"><u>Step-by-Step Producing Square Videos in iMovie for Instagram</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-how-to-find-and-download-hp-spectre-x360s-compatible-windows-drivers/"><u>Step-by-Step: How to Find and Download HP Spectre X360's Compatible Windows Drivers</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-verdict-on-toolwiz-top-notch-mobile-photo-editor-in-2024/"><u>The Verdict on Toolwiz Top-Notch Mobile Photo Editor, In 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-reviews-uncovering-the-latest-in-hardware/"><u>Tom's Tech Reviews: Uncovering the Latest in Hardware</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-physical-security-measures/"><u>[New] 2024 Approved Physical Security Measures</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-premier-live-basketball-experience-at-home/"><u>[New] In 2024, Premier Live Basketball Experience at Home</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hilarity-at-a-click-discovering-15-comical-youtubers-work/"><u>[Updated] 2024 Approved Hilarity at a Click Discovering 15 Comical YouTubers' Work</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-perfectly-funny-meme-creator-app/"><u>[Updated] Perfectly Funny Meme Creator App</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-unveiling-the-premier-5-web-titlers-shaping-industry-norms/"><u>[Updated] Unveiling the Premier 5 Web Titlers Shaping Industry Norms</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-how-to-optimize-and-reduce-glare-achieve-a-dimmer-display-for-your-android-smartphone-or-tablet/"><u>Discover How to Optimize and Reduce Glare: Achieve a Dimmer Display for Your Android Smartphone or Tablet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-top-7-utilities-of-samsungs-texting-service/"><u>Discover the Top 7 Utilities of Samsung's Texting Service</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/distinguishing-features-between-ipad-and-ipad-air-a-comprehensive-guide/"><u>Distinguishing Features Between iPad and iPad Air: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-method-to-deactivate-every-sensor-on-your-android-device-instantly/"><u>Effortless Method to Deactivate Every Sensor on Your Android Device Instantly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/eliminate-the-myth-of-needing-a-task-killer-on-android-expert-tips-for-efficiently-handling-active-processes/"><u>Eliminate the Myth of Needing a Task Killer on Android: Expert Tips for Efficiently Handling Active Processes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/embracing-simplicity-how-my-2019-budget-phone-powers-me/"><u>Embracing Simplicity: How My 2019 Budget Phone Powers Me</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/embracing-the-era-of-convergence-the-rise-of-mobile-device-standardization/"><u>Embracing the Era of Convergence: The Rise of Mobile Device Standardization</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-p55-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Itel P55 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-impact-of-multi-view-video-technology-on-home-surveillance/"><u>In 2024, The Impact of Multi-View Video Technology on Home Surveillance</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/maximize-your-reach-learn-how-to-make-viral-reaction-videos-with-filmora-for-2024/"><u>Maximize Your Reach Learn How to Make Viral Reaction Videos with Filmora for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Rocking Is a Global Instability that Can Cause the Entire Structure to Tilt and Fall over if Not Properly Restrained
-date: 2024-08-19T12:18:48.084Z
-updated: 2024-08-20T12:18:48.084Z
+date: 2024-11-30T04:06:01.572Z
+updated: 2024-12-04T18:11:07.217Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 
 It’s always important to **keep your GTX 1660 driver** up-to-date to make sure the graphics card is working in tip-top shape, prevent issues like low FPS, stuttering, or even crashes. In this post, we’re showing you 2 methods to download and install the latest **GTX 1660** **Ti driver** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## To update your GTX 1660 Ti driver
 
  There are two ways to**update your GTX 1660 Ti drivers in Windows 10, 8.1 and 7** :
@@ -26,6 +30,10 @@ It’s always important to **keep your GTX 1660 driver** up-to-date to make sure
 OR
 
 [**Option 2 – Manually**](https://tools.techidaily.com/drivereasy/download/) – You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Option 1 – Update GTX 1660 Ti drivers automatically (Recommended)**
 
@@ -41,15 +49,20 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-317.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-318.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Option 2 – Update GTX 1660 Ti drivers manually
 
  Here’s your guide to updating your **GTX 1660 Ti** driver manually:
@@ -72,27 +85,18 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-323-1024x393.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
  3) Click**DOWNLOAD** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-326.png)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4) Click DOWNLOAD again to start the download.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-327.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  5) Double-click on the downloaded file and follow the on-screen instructions to finish the install.
 
  6) Restart your computer for the changes to take effect even if you’re not asked to.
@@ -111,8 +115,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -120,4 +122,21 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-must-haves-best-android-picture-adjusters-for-2024/"><u>[New] Must-Haves Best Android Picture Adjusters for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-halt-youtube-suggested-content-now/"><u>2024 Approved Halt YouTube Suggested Content Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amazons-gaming-audio-revolution-experience-the-top-ranking-heavily-discounted-speaker-set-that-transforms-your-playtime-read-full-review-here/"><u>Amazon's Gaming Audio Revolution: Experience the Top-Ranking, Heavily Discounted Speaker Set That Transforms Your Playtime! Read Full Review Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/best-dell-school-supplies-blowout-sales-on-labor-day-premium-monitors-and-laptops-await/"><u>Best Dell School Supplies Blowout Sales on Labor Day: Premium Monitors & Laptops Await</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/future-tech-revealed-how-intels-innovative-ai-chips-are-set-to-transform-your-next-laptop-experience/"><u>Future Tech Revealed: How Intel's Innovative AI Chips Are Set to Transform Your Next Laptop Experience</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-free-up-apple-iphone-se-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Free Up Apple iPhone SE Space | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 to Android? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-the-skill-linking-up-printers-to-facilitate-device-wide-use/"><u>Master the Skill: Linking Up Printers to Facilitate Device-Wide Use</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/surging-through-the-noise-supercharging-telegram-campaigns/"><u>Surging Through the Noise Supercharging Telegram Campaigns</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/taking-on-the-competition-microsofts-latest-release-of-copilotplus-pc-vs-apples-top-of-the-line-m3-macbook-expert-analysis/"><u>Taking On the Competition: Microsoft's Latest Release of Copilot+ PC Vs. Apple's Top-of-the-Line M3 MacBook | Expert Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-keyboards-comprehensive-reviews-by-professionals-techradar/"><u>Top-Rated Keyboards : Comprehensive Reviews by Professionals | TechRadar</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlocking-features-move-to-ios-15-now/"><u>Unlocking Features: Move to iOS 15 Now</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlocking-value-with-samsung-galaxy-a51-5g-top-performance-at-unbeatable-prices/"><u>Unlocking Value with Samsung Galaxy A51 5G - Top Performance at Unbeatable Prices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unparalleled-gaming-audio-experience-save-150-on-the-top-rated-speakers-now-at-amazon-reviewed-by-zdnet/"><u>Unparalleled Gaming Audio Experience: Save $150 on the Top-Rated Speakers Now at Amazon - Reviewed by ZDNet</u></a></li>
+</ul></div>
 

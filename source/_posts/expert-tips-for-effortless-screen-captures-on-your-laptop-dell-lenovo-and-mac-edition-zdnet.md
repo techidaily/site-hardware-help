@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips for Effortless Screen Captures on Your Laptop: Dell, Lenovo & Mac Edition - ZDNet"
-date: 2024-11-20T16:11:37.756Z
-updated: 2024-11-25T16:26:51.913Z
+date: 2024-12-04T09:56:31.949Z
+updated: 2024-12-05T00:41:26.060Z
 tags:
   - laptops
 categories:
@@ -28,9 +28,17 @@ Let us show you how to quickly and easily take a screenshot on everything from a
 
 ## How to take screenshots on any laptop
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Requirements
 
 You'll need your laptop and, in some cases, basic image editing software. The entire process should two minutes or less, depending on which method and operating system you're using.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Screenshotting on Windows-based laptops
 
@@ -62,6 +70,10 @@ Michael Gariffo/ZDNET
 
 ### **Option 2: The Snipping Tool and Win+Shift+S**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Open the Snipping Tool or press Win+Shift+S
 
 Windows also includes a [one-stop tool for taking screenshots](https://www.zdnet.com/article/how-to-screenshot-on-windows/) or capturing individual windows or portions of windows. It's called the Snipping Tool and its full menu can be accessed by opening your start menu and typing in "snip." Alternatively, you can skip directly to the capture functionality it offers by pressing **Win+Shift+S.**
@@ -75,16 +87,12 @@ The Windows 11 version of the basic Snipping Tool menu and its icon.
 Michael Gariffo/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Screenshotting on Macs
 
 The process on Macs uses a less intuitive hotkey, but also doesn't require any software or pasting. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Press Shift+Cmd+3
 
@@ -97,7 +105,7 @@ These are the three keys you'll need to press at once on a mac to take a standar
 Michael Gariffo/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQ
@@ -106,17 +114,9 @@ Michael Gariffo/ZDNET
 
 There sure is. For Mac users, we've already covered [how to capture recordings of your system](https://www.zdnet.com/article/how-to-take-screenshots-and-screen-recordings-on-your-mac/) using MacOS' built-in QuickTime player. While Windows will soon have a similar, built-in function that's [being added to the Snipping Tool mentioned above](https://www.zdnet.com/article/windows-11s-screenshot-tool-gets-a-screen-recorder/), you can [use the Xbox Game Bar included in Windows 10 and 11](https://www.zdnet.com/article/how-to-record-your-screen-in-windows-with-xbox-game-bar/) in the meantime to record not just your gaming, but any on-screen activity. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What's a good, free image editing software to use on my screenshots?
 
 At ZDNET [we like Pixlr](https://pixlr.com/). It's a free web app that handles most of the basic tasks you'll want to apply to your screenshots, including cropping, resizing, and adding text. It even includes some more advanced effects like a liquify tool. If you need something even more advanced, but only occasionally, we have [a guide on using Adobe's free trial](https://www.zdnet.com/article/how-to-get-photoshop-for-free/) program to get short-term access to Photoshop.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Why does \[insert on-screen item here\] look weird in my screenshot?
 
@@ -157,19 +157,20 @@ There's a few reasons why things can look strange in your screenshots. Animated 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-launching-successful-online-gaming-shows-on-youtube/"><u>[Updated] Launching Successful Online Gaming Shows on YouTube</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-content-discovery-with-powerful-title-and-tag-use/"><u>2024 Approved Mastering Content Discovery with Powerful Title & Tag Use</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-computer-gear-with-tom-an-in-depth-look-at-new-hardware/"><u>Exploring Computer Gear with Tom: An In-Depth Look at New Hardware</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723964507934-get-ready-affordable-12-m2-hardware-adapter-now-available-for-your-raspberry-pi-5/"><u>Get Ready: Affordable $12 M.2 Hardware Adapter Now Available for Your Raspberry Pi 5!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-4-the-future-of-personal-handiwork/"><u>GPT-4: The Future of Personal Handiwork</u></a></li>
-<li><a href="https://article-files.techidaily.com/igniting-interest-from-day-one-with-impactful-audio-starts-for-2024/"><u>Igniting Interest From Day One with Impactful Audio Starts for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-m54-5g-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy M54 5G Bootloader Easily</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-samsung-galaxy-f14-5g-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Samsung Galaxy F14 5G</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-gadgets-with-toms-electronics-hub-your-comprehensive-hardware-resource/"><u>Mastering Gadgets with Tom's Electronics Hub - Your Comprehensive Hardware Resource</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/new-upgrade-raspberry-pis-extended-connectivity-offers-improved-secure-shell-access-and-backwards-support-for-aged-models/"><u>New Upgrade: Raspberry Pi's Extended Connectivity Offers Improved Secure Shell Access & Backwards Support for Aged Models</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-oppo-find-n3-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Oppo Find N3 Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-gadgets-with-tom-comprehensive-guides-on-pc-hardware/"><u>Unveiling Gadgets with Tom: Comprehensive Guides on PC Hardware</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-tachyon-on-particle-board-an-advanced-single-board-computer-with-integrated-ai-acceleration-by-snapdragon-technology/"><u>Unveiling Tachyon on Particle Board: An Advanced Single-Board Computer with Integrated AI Acceleration by Snapdragon Technology</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-unleash-your-childs-creativity-10-top-video-editing-apps-free-and-paid-for-2024/"><u>Updated Unleash Your Childs Creativity 10 Top Video Editing Apps, Free and Paid for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-a-step-by-step-strategy-to-design-engaging-youtube-teasers/"><u>[New] In 2024, A Step-by-Step Strategy to Design Engaging YouTube Teasers</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-sweeping-vistas-with-your-iphone-social-media-360-tips-for-2024/"><u>[New] Sweeping Vistas with Your iPhone Social Media 360 Tips for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-exploring-free-screen-capture-tools/"><u>[Updated] Exploring Free Screen Capture Tools</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-accessing-and-making-sense-of-twitter-archives/"><u>2024 Approved Accessing and Making Sense of Twitter Archives</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/buyer-criticizes-intel-for-misleading-rma-protocol-claims-i9-14900k-processors-from-amazon-and-micro-center-are-not-authentic/"><u>Buyer Criticizes Intel for Misleading RMA Protocol; Claims I9-14900K Processors From Amazon and Micro Center Are Not Authentic</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/deciphering-the-reason-behind-snapdragon-xs-elite-igpu-being-disabled-in-latest-linux-kernel-update/"><u>Deciphering the Reason Behind Snapdragon X's Elite iGPU Being Disabled in Latest Linux Kernel Update</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722969096388-find-and-install-updated-thinkpad-t420s-drivers-compatible-with-windows-11-here/"><u>Find & Install Updated ThinkPad T420s Drivers Compatible with Windows 11 Here!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-graphics-card-software-rtx-3060-ti-drivers-for-window-11-devices/"><u>Get the Newest Graphics Card Software: RTX 3060 Ti Drivers for Window 11 Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-updates-for-epson-tm-t88v-printer-software-in-windows-os/"><u>Get the Newest Updates for EPSON TM-T88v Printer Software in Windows OS</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-efficient-zooming-strategies-for-youtube-videos/"><u>In 2024, Efficient Zooming Strategies for YouTube Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/intrepid-insights-top-10-undiscovered-vlc-commands-for-2024/"><u>Intrepid Insights Top 10 Undiscovered VLC Commands for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-essential-resource-for-computer-enthusiasts-exploring-toms-hardware-reviews/"><u>The Essential Resource for Computer Enthusiasts: Exploring Tom's Hardware Reviews</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-new-enhancements-a-deep-dive-into-windows-11-creators-update-build-1503/"><u>Unveiling New Enhancements: A Deep Dive Into Windows 11 Creators Update, Build 1503</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-latest-in-computing-a-guide-by-toms-hardware/"><u>Unveiling the Latest in Computing - A Guide by Tom's Hardware</u></a></li>
 </ul></div>
 

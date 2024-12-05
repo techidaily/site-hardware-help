@@ -1,7 +1,7 @@
 ---
 title: "Cloud Gaming on Lenovo IdeaPad Gaming Chromebook: How Hardware Limitations Affect Performance | ZDNET"
-date: 2024-11-23T16:12:47.818Z
-updated: 2024-11-25T16:48:37.454Z
+date: 2024-12-03T00:39:50.146Z
+updated: 2024-12-04T23:39:57.306Z
 tags:
   - laptops
 categories:
@@ -41,7 +41,7 @@ Honestly, the differences in that comparison will be mostly razor thin. My testi
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -58,7 +58,7 @@ Honestly, the differences in that comparison will be mostly razor thin. My testi
 | Dimensions and weight | 19.95mm (H) x 356.5mm (W) x 253mm (D) (0.79 x 14.03 x 9.96 inches) \| 4.01lbs                                              |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Build and ports
@@ -94,7 +94,7 @@ Unusually, for a Lenovo device, I didn't love the keyboard. The individual keys 
 Of course, you'll eventually get used to this layout, but I'm not certain it was necessary to begin with. Very few gamers make use of a full numpad for anything short of custom real-time strategy layouts or unusual MMORPG control schemes. Even then, they'd likely be better served by something like the [SteelSeries Aerox 9 Wireless](https://www.zdnet.com/home-and-office/home-entertainment/steelseries-aerox-9-wireless-review/), or another MMO/MOBA mouse that does the same job as a numpad.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Performance
@@ -120,7 +120,7 @@ As a last note, I should mention that the battery life of the IdeaPad Gaming Chr
 [Lenovo IdeaPad Gaming Chromebook $600 at Lenovo](https://lenovo.vzew.net/c/5597632/218864/3808?sharedId=zdnet&u=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fideapad%2Fideapad-gaming-laptops%2Fideapad-5i-gaming-chromebook-gen-7-%2816-inch-intel%29%2F82v8000hux&subId1=zd-__COM_CLICK_ID__-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -136,7 +136,7 @@ This Chromebook and others like it are already more than capable enough to handl
 Thankfully, progress is constantly being made. In the short few weeks between the Acer review and this one, Xbox Cloud Gaming has seen noticeable performance enhancements. But then again, it also continues to stop me dead when trying to play some games. I believe cloud gaming really will fulfill its potential...eventually. If you want an excellent way of joining in what will surely be a wild ride on the way there, Lenovo's take on a gaming Chromebook is one of the best options available. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -187,24 +187,20 @@ Would you rather dabble in cloud gaming, but maintain the ability to locally ins
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-help.techidaily.com/download-geforce-rtx-3060-ti-driver-for-windows-1011/"><u>[Download] GeForce RTX 3060 Ti Driver for Windows 10/11</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-exploring-youtubes-regular-pay-structure-for-2024/"><u>[New] Exploring YouTube’s Regular Pay Structure for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-renderer-resurgence-new-radeon-edition-for-2024/"><u>[New] Renderer Resurgence New Radeon Edition for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehending-windows-11s-configuration-options/"><u>Comprehending Windows 11'S Configuration Options</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/decoding-ai-types-the-fundamental-distinctions-between-strong-ai-and-weak-ai/"><u>Decoding AI Types: The Fundamental Distinctions Between Strong AI and Weak AI</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-insignia-vga-adapter-drivers-for-your-usb-connection/"><u>Download and Install Insignia VGA Adapter Drivers for Your USB Connection</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-zexmte-bluetooth-adapter-driver-windows-1178/"><u>Download Zexmte Bluetooth Adapter Driver (Windows 11/7/8)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-new-brother-scanner-drivers-for-enhanced-performance-on-windows-computers/"><u>Get the New Brother Scanner Drivers for Enhanced Performance on Windows Computers</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-motorola-edge-40-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Motorola Edge 40 to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-installupdate-hp-laptop-device-drivers-in-windows-step-by-step-guide/"><u>How to Install/Update HP Laptop Device Drivers in Windows: Step-by-Step Guide</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-digital-expression-unleashed-crafting-metaverse-memes/"><u>In 2024, Digital Expression Unleashed Crafting Metaverse Memes</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-asus-rog-phone-8-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Asus ROG Phone 8 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-depth-exploration-of-final-cut-pros-powerful-tools-and-features-for-2024/"><u>In-Depth Exploration of Final Cut Pro’s Powerful Tools and Features for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-qualcomm-usb-device-driver-pack-compatible-with-windows-10-8-and-older-versions/"><u>Latest Qualcomm USB Device Driver Pack – Compatible with Windows 10, 8 & Older Versions!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-your-logitech-mx-trackpad-software-installation-walkthrough/"><u>Mastering Your Logitech MX Trackpad - Software Installation Walkthrough</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/on-schedule-delivery-amd-puts-an-end-to-speculations-with-confirmed-ryzen-5000xt-release-this-month/"><u>On Schedule Delivery: AMD Puts an End to Speculations with Confirmed Ryzen 5000XT Release This Month</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/resolution-des-problemes-de-pieges-a-acces-avec-des-donnees-non-validees-sur-windows-11-guide-complet/"><u>Résolution Des Problèmes De Pièges À Accès Avec Des Données Non Validées Sur Windows 11: Guide Complet</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/streamlined-webp-to-jpg-conversion-methods-for-2024/"><u>Streamlined WebP to JPG Conversion Methods for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-reviews-in-depth-analysis-and-guides/"><u>Tom's Tech Reviews: In-Depth Analysis and Guides</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-digital-vault-for-internet-streams-a-recording-blueprint-for-2024/"><u>[New] Digital Vault for Internet Streams A Recording Blueprint for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-hearing-beginnings-mastering-volume-control-in-adobe-audition/"><u>[Updated] Hearing Beginnings Mastering Volume Control in Adobe Audition</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-contacts-from-google-pixel-fold-by-fonelab-android-recover-contacts/"><u>Best Android Data Recovery - Retrieve Lost Contacts from Google Pixel Fold.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/delving-into-technology-with-toms-hardware-expertise/"><u>Delving Into Technology with Tom's Hardware Expertise</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-driver-software-for-ricoh-mp-c3003-free-and-easy/"><u>Download Driver Software for Ricoh MP C3003 - Free and Easy</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-installation-updated-drivers-for-the-hp-officejet-inkjet-4650-on-window-operating-systems/"><u>Easy Installation: Updated Drivers for the HP OfficeJet Inkjet 4650 on Window Operating Systems</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/guide-complet-pour-eliminer-les-images-redondantes-sur-un-mac/"><u>Guide Complet Pour Éliminer Les Images Redondantes Sur Un Mac</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-lava-agni-2-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Lava Agni 2 5G For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-infinix-note-30-vip-racing-edition-lock-screen-password-by-drfone-android/"><u>How to Reset your Infinix Note 30 VIP Racing Edition Lock Screen Password</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-nvidias-geforce-rtx-3060-ti-driver-on-your-windows-11-pc-now/"><u>Install NVIDIA's GeForce RTX 3060 Ti Driver on Your Windows 11 PC Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/official-hp-deskjet-2700-all-in-one-printer-drivers-updated-guide-free/"><u>Official HP Deskjet 2700 All-in-One Printer Drivers: Updated Guide [Free]</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-simple-guide-to-updating-your-lenovo-t420-drivers-on-windows-pcs/"><u>Quick and Simple Guide to Updating Your Lenovo T420 Drivers on Windows PCs</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/scopri-come-recuperare-filmati-cancellati-dalla-tua-videocamera/"><u>Scopri Come Recuperare Filmati Cancellati Dalla Tua Videocamera!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-next-leap-in-gaming-inside-look-at-apples-rumored-revolutionary-game-mode-what-you-need-to-know-now/"><u>The Next Leap in Gaming? Inside Look at Apple's Rumored Revolutionary Game Mode - What You Need to Know Now!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mp4wmv3/"><u>フリーソフト対策案! MP4からWMVへの変換方法3選を解説する</u></a></li>
 </ul></div>
 
