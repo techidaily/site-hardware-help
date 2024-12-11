@@ -1,7 +1,7 @@
 ---
 title: "Setting New Standards in Raptor Lake Overclocking: My Journey to 50 World Records at 7.7 GHz with a Core I9-14900K"
-date: 2024-08-19T10:25:32.227Z
-updated: 2024-08-20T10:25:32.227Z
+date: 2024-12-09T16:08:23.502Z
+updated: 2024-12-11T08:16:46.910Z
 tags:
   - overclocking
 categories:
@@ -35,6 +35,10 @@ Nvidia GeForce RTX 3080 Founders Edition  (Image credit: Tom's Hardware)
 
  Ampere's limited availability and the topic of scalpers will prove to be annoying problems for legit customers. The[GeForce RTX 3090](https://tools.techidaily.com) lands on September 24 and the[GeForce RTX 3070](https://tools.techidaily.com) on October 15\. We'll probably see the same stiuation play out again. The panorama doesn't look favorable at all as[Ampere's supply could be very scarce](https://tools.techidaily.com) until next year.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,8 +53,6 @@ Nvidia GeForce RTX 3080 Founders Edition  (Image credit: Tom's Hardware)
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -58,8 +60,23 @@ Nvidia GeForce RTX 3080 Founders Edition  (Image credit: Tom's Hardware)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-how-to-share-tiktok-videos-to-facebook/"><u>[New] 2024 Approved How to Share TikTok Videos to Facebook?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-revamp-your-channels-image-amplify-your-subscription-count/"><u>[New] 2024 Approved Revamp Your Channel's Image, Amplify Your Subscription Count</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-unveiling-the-art-of-hdr-photography-on-iphone-for-2024/"><u>[New] Unveiling the Art of HDR Photography on iPhone for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/best-buys-prime-day-exclusive-save-on-the-hp-victus-15-at-just-515-your-ultimate-guide-to-top-gaming-performance/"><u>Best Buy's Prime Day Exclusive: Save on the HP Victus 15 at Just $515 - Your Ultimate Guide to Top Gaming Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/choosing-your-next-apple-laptop-comparing-the-macbook-airs-latest-models-m2-vs-m3-techadvisor/"><u>Choosing Your Next Apple Laptop: Comparing the MacBook Air's Latest Models - M2 Vs. M3 | TechAdvisor</u></a></li>
+<li><a href="https://win11.techidaily.com/counteracting-sticky-note-desynchronization-in-w11/"><u>Counteracting Sticky Note Desynchronization in W11</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/discover-how-to-view-your-system-specs-with-simple-steps-yl-computing/"><u>Discover How to View Your System Specs with Simple Steps - YL Computing</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-ultimate-list-of-best-laptop-deals-from-hp-to-razer-prime-day-savings-galore-exclusive/"><u>Discover the Ultimate List of Best Laptop Deals From HP to Razer: Prime Day Savings Galore Exclusive!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-13-pro-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 13 Pro</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-top-5-innovative-mac-capturing-solutions-moving-past-bandicam/"><u>In 2024, Top 5 Innovative Mac Capturing Solutions, Moving Past Bandicam</u></a></li>
+<li><a href="https://win-dash.techidaily.com/killer-wireless-network-adapter-model-1535-latest-driver-download-available-now/"><u>Killer Wireless Network Adapter Model 1535 - Latest Driver Download Available Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/shoppers-guide-to-the-best-deals-on-amazon-prime-day-of-oct-24-limited-time-only-zdnet/"><u>Shoppers' Guide to the Best Deals on Amazon Prime Day of Oct '24 – Limited Time Only | ZDNet</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/ultimate-guide-to-applying-vhs-filters-on-computers-for-2024/"><u>Ultimate Guide to Applying VHS Filters on Computers for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-bargain-alert-snag-a-high-end-512gb-m1-macbook-pro-for-just-450-less-featured/"><u>Unbeatable Bargain Alert: Snag a High-End 512GB M1 MacBook Pro for Just $450 Less, Featured !</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-deal-alert-top-rated-gaming-speakers-now-30-less-on-amazon-zdnet/"><u>Unbeatable Deal Alert: Top-Rated Gaming Speakers Now 30% Less on Amazon - ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/why-you-need-to-refresh-your-google-chrome-browser-this-weekend-insights/"><u>Why You Need to Refresh Your Google Chrome Browser This Weekend – Insights</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Latent Gems: The Lenovo Ultraportable's Hidden Features Including a Stealthy TrackPoint | Detailed Review by ZDNet"
-date: 2024-12-02T10:54:03.211Z
-updated: 2024-12-05T10:47:04.490Z
+date: 2024-12-06T16:35:42.206Z
+updated: 2024-12-11T11:37:05.186Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -77,7 +77,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -116,22 +116,24 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-quickscreen-freeze-methods-manual/"><u>[New] 2024 Approved QuickScreen Freeze Methods Manual</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-streamlined-audio-processing-in-windows-media-player/"><u>[New] 2024 Approved Streamlined Audio Processing in Windows Media Player</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-peering-into-the-past-publicly-shared-masterpieces/"><u>[Updated] Peering Into the Past Publicly Shared Masterpieces</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-scrutinizing-the-premier-collection-of-affordable-lut-files/"><u>2024 Approved Scrutinizing the Premier Collection of Affordable LUT Files</u></a></li>
-<li><a href="https://win-dash.techidaily.com/complete-setup-free-epson-styleus-nx420-printer-driver-software-for-windows-systems/"><u>Complete Setup: Free Epson Styleus NX420 Printer Driver Software for Windows Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/economical-laptop-bargain-secure-the-powerful-dell-latitude-5491-at-just-219-exclusive-offer-on-zdnet/"><u>Economical Laptop Bargain: Secure the Powerful Dell Latitude 5491 at Just $219 - Exclusive Offer on ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/experience-the-best-oled-screen-on-a-laptop-with-asuss-new-release-as-vetted-by-an-expert-whos-seen-hundreds/"><u>Experience the Best OLED Screen on a Laptop with Asus's New Release, as Vetted by an Expert Who's Seen Hundreds!</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-12-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 12 Data From iOS iCloud? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-victus-15-gaming-laptop-drops-to-just-515-in-best-buys-anti-prime-day-sale-secure-yours-today/"><u>HP Victus 15 Gaming Laptop Drops to Just $515 in Best Buy's Anti-Prime Day Sale - Secure Yours Today !</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-gameplay-chronicles-top-four-ways-to-record-on-xbox-one/"><u>In 2024, Gameplay Chronicles Top Four Ways to Record on Xbox One</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/in-depth-acer-chromebook-516g-evo-assessment-optimized-for-cloud-gaming-experience-zdnet/"><u>In-Depth Acer Chromebook 516G EVO Assessment: Optimized for Cloud Gaming Experience | ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/score-big-savings-laptop-recommendations-on-amazon-exclusive-500-discount-pre-prime-day/"><u>Score Big Savings Laptop Recommendations on Amazon - Exclusive $500 Discount Pre-Prime Day!</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-definitive-fixes-when-your-computer-mouse-keeps-going-offline/"><u>The Definitive Fixes When Your Computer Mouse Keeps Going Offline</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-5-exciting-copilotplus-gadgets-unveiled-at-the-2024-ifa-showcase-featuring-a-dedicated-option-for-gamers-insights/"><u>Top 5 Exciting Copilot+ Gadgets Unveiled at the 2024 IFA Showcase, Featuring a Dedicated Option for Gamers – Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-laptops-comprehensive-testing-and-reviews-by-tech-experts-zdnet/"><u>Top-Rated Laptops : Comprehensive Testing & Reviews by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-guide-top-lightweight-laptops-that-make-working-from-anywhere-effortless-reviews-by-your-name/"><u>Ultimate Guide: Top Lightweight Laptops That Make Working From Anywhere Effortless - Reviews by [Your Name]</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-sony-xperia-1-v-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Sony Xperia 1 V? Here is How | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-audio-visual-vanguard-evaluating-the-best-classroom-recorders/"><u>[Updated] 2024 Approved Audio-Visual Vanguard Evaluating the Best Classroom Recorders</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-personalize-and-protect-youtube-channel-url-made-simple/"><u>2024 Approved Personalize & Protect YouTube Channel URL Made Simple</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/capturar-la-pantalla-con-excelencia-en-windows-top-5-herramientas-para-grabar-cualquier-parte-del-escritorio/"><u>Capturar La Pantalla Con Excelencia en Windows: Top 5 Herramientas Para Grabar Cualquier Parte Del Escritorio</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-hp-deskjet-2540-printer-drivers-step-by-step-guide/"><u>Download and Update HP Deskjet 2540 Printer Drivers: Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-installation-guide-for-logitech-g27-gamepad-win11-win10-and-win7-driver-downloads-available-now/"><u>Easy Installation Guide for Logitech G27 Gamepad: Win11, Win10 & Win7 Driver Downloads Available Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-to-follow-instructions-for-dells-newest-audio-driver-update/"><u>Easy-to-Follow Instructions for Dell's Newest Audio Driver Update</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/tlessly-add-youtube-videos-to-google-slate-decks-for-2024/"><u>Effortlessly Add YouTube Videos to Google Slate Decks for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fast-and-simple-updated-amd-smbus-drivers-for-immediate-installation/"><u>Fast & Simple: Updated AMD SMBus Drivers for Immediate Installation</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/geforce-rtx-2-groove-fresh-driver-release-for-windows-os-including-10-8-and-7/"><u>Geforce RTX 2 Groove: Fresh Driver Release for Windows OS Including 10, 8 & 7</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-sony-xperia-5-v-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Sony Xperia 5 V Phones? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-logitech-brio-webcam-for-windows-systems-11-8-and-7-downloads/"><u>How to Update Logitech BRIO Webcam for Windows Systems: 11, 8, and 7 Downloads</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-m1-demystified-apple-redefines-chipset-technology/"><u>In 2024, M1 Demystified Apple Redefines Chipset Technology</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-phased-opening-visuals/"><u>In 2024, Phased Opening Visuals</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-the-latest-nvidia-geforce-210-driver-version-for-enhanced-compatibility-with-windows-11/"><u>Navigating the Latest NVIDIA GeForce 210 Driver Version for Enhanced Compatibility with Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/resolved-how-to-get-your-logitech-g433-microphone-functioning-again/"><u>Resolved! How to Get Your Logitech G433 Microphone Functioning Again</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revamping-boot-speed-on-windows-10-and-11-operating-systems/"><u>Revamping Boot Speed on Windows 10 & 11 Operating Systems</u></a></li>
+<li><a href="https://some-skills.techidaily.com/seamless-sessions-tailoring-your-zoom-environment-for-2024/"><u>Seamless Sessions Tailoring Your Zoom Environment for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-updating-of-logitech-headset-drivers-fast-and-hassle-free-downloads/"><u>Seamless Updating of Logitech Headset Drivers: Fast and Hassle-Free Downloads</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-beginners-manual-to-household-electric-vehicle-charging/"><u>The Ultimate Beginner's Manual to Household Electric Vehicle Charging</u></a></li>
 </ul></div>
 

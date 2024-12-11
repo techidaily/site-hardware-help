@@ -1,7 +1,7 @@
 ---
 title: "Raphael Demystifies DDR5: Insights From AMD & Samsung's Joint Webinar on Memory Technology Evolution"
-date: 2024-08-19T10:25:44.575Z
-updated: 2024-08-20T10:25:44.575Z
+date: 2024-12-04T03:20:24.114Z
+updated: 2024-12-11T12:05:10.968Z
 tags:
   - overclocking
 categories:
@@ -23,6 +23,10 @@ The[overclocking team from Asus](https://www.youtube.com/watch?v=fb7pl7PZOYo) ha
   
  It's an exciting time for fans of this very niche CPU overclocking sport. This latest 14900KF result represents the third broken world record in under a year, all with Intel's 13th and 14th Gen chips. Before Intel's Raptor Lake chips stole the show, AMD was on top with a world record result of 8.722 GHz on the old Piledrive[FX 8350](https://tools.techidaily.com) , a record that had remained unbroken for eight years.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -37,8 +41,6 @@ The[overclocking team from Asus](https://www.youtube.com/watch?v=fb7pl7PZOYo) ha
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -46,8 +48,20 @@ The[overclocking team from Asus](https://www.youtube.com/watch?v=fb7pl7PZOYo) ha
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-crafting-cinematic-magic-essential-tips-for-creating-stunning-slow-motion-media-on-instagram/"><u>[Updated] 2024 Approved Crafting Cinematic Magic Essential Tips for Creating Stunning Slow-Motion Media on Instagram</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-beginners-companion-to-choosing-youtube-cameras/"><u>[Updated] Beginner’s Companion to Choosing YouTube Cameras</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-perfectly-organizing-weekly-google-meeting-times/"><u>2024 Approved Perfectly Organizing Weekly Google Meeting Times</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/a-close-call-to-the-ideal-setup-unveiling-how-this-nearly-perfect-3600-laptop-stacks-up-against-dream-machines-on-zdnet/"><u>A Close Call to the Ideal Setup: Unveiling How This Nearly-Perfect $3,600 Laptop Stacks Up Against Dream Machines on ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/choosing-between-ipad-pro-and-macbook-air-a-complete-guide-on-which-tabletlaptop-fits-you-best-tech-analysis/"><u>Choosing Between iPad Pro and MacBook Air: A Complete Guide on Which Tablet/Laptop Fits You Best Tech Analysis</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discover-the-top-pick-for-your-viewing-pleasure-the-best-tv-streamers-of-2024/"><u>Discover the Top Pick for Your Viewing Pleasure: The Best TV Streamers of 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-7-plus-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Data from Apple iPhone 7 Plus to New iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-special-features-virtual-location-on-itel-s23-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Itel S23? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-oppo-find-x6-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Oppo Find X6 Pro without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-apple-iphone-6s-location-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 7 Phone Number Locators To Track Apple iPhone 6s Location | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/snatch-up-the-incredible-hp-victus-15-gamer-laptop-at-a-steal-just-515-during-best-buys-prime-day-sale-insider-tips/"><u>Snatch Up the Incredible HP Victus 15 Gamer Laptop at a Steal: Just $515 During Best Buy's Prime Day Sale – Insider Tips !</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-prime-day-gaming-bargains-of-october-2024-your-ultimate-shopping-guide/"><u>Top Prime Day Gaming Bargains of October 2024: Your Ultimate Shopping Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/why-hp-spectre-x360-takes-top-spot-on-our-best-laptops-list-in-2-insider-review/"><u>Why HP Spectre X360 Takes Top Spot on Our Best Laptops List in 2# - Insider Review</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

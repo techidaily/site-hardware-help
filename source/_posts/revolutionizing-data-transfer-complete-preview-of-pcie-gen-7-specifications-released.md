@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Data Transfer: Complete Preview of PCIe Gen 7 Specifications Released"
-date: 2024-08-19T10:28:23.449Z
-updated: 2024-08-20T10:28:23.449Z
+date: 2024-12-08T01:23:31.840Z
+updated: 2024-12-11T01:40:02.467Z
 tags:
   - motherboards
 categories:
@@ -19,6 +19,10 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
 
  CAMM[originated with Dell](https://tools.techidaily.com) as a project to replace bulkier SO-DIMM memory slots. But the company[worked with JEDEC](https://tools.techidaily.com) , a semiconductor standards body, which tweaked it and made CAMM2 available to a number of different PC companies.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What are CAMM2 and LPCAMM2? What are their benefits?
 
  There are two major types of CAMM2 memory. DDR5 CAMM2 is the full power version, and the one you're most likely to see in desktop PCs. There's also the low-power LPDDR5 CAMM2, designed for thin laptops. Some vendors are shortening this to LPCAMM2, which is slightly less of a mouthful.  
@@ -32,6 +36,10 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
  Image 1 of 2
 
 ![CAMM2](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -48,15 +56,17 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
  The modules might help enable new form factors, too. At Computex,[Adata showed off its Nia handheld](https://tools.techidaily.com) , which uses LPCAMM2 using LPDDR5X.
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How much memory fits on a CAMM2 module?
 
 Between 8GB and 128GB of memory fits on a single module.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is LPCAMM2 faster than existing SO-DIMMs and DIMMs?
 
  Yes. As of this writing,[Crucial is listing](https://www.crucial.com/memory/ddr5/ct64g75c2lp5xg) 32GB and 64GB LPDDR5X-7200 LPCAMM2 modules. At Computex, TeamGroup said its 16GB, 32GB, and 64GB memory will go up to 9600 MT/s. Samsung's[page on LPCAMM2](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fgo.redirectingat.com%2F%3Fid%3D92X1584492%26xcust%3Dtomshardware%255Fus%255F4400621493195954499%26xs%3D1%26url%3Dhttps%253A%252F%252Fsemiconductor.samsung.com%252Femea%252Fdram%252Fmodule%252Flpcamm2%252F%26sref%3Dhttps%253A%252F%252Fwww.tomshardware.com%252Fpc-components%252Fmotherboards%252Fwhat-is-camm2) lists an "extraordinary data transfer rate of 8,533Mbps," the same number memory company[Geil showed at Computex](https://www.techpowerup.com/323173/geil-presents-a-wide-range-of-memories-at-computex-camm2-lpcamm2-alongside-many-ddr5s) .
@@ -66,8 +76,9 @@ Between 8GB and 128GB of memory fits on a single module.
  We haven't seen any DDR5 CAMM2 products on the market just yet, so we don't know if those speeds will go even higher.
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What are alternatives to CAMM2?
 
  In theory, there's nothing stopping vendors from using standard DIMMs or SO-DIMMs, or continuing to solder memory to the motherboard. Staying with the status quo is an alternative, at least for now.
@@ -82,8 +93,6 @@ Between 8GB and 128GB of memory fits on a single module.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -91,4 +100,26 @@ Between 8GB and 128GB of memory fits on a single module.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/updated-capture-edit-and-enhance-a-novices-journey-with-lunapic/"><u>[Updated] Capture, Edit & Enhance A Novice's Journey with LunaPic</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-securing-memories-a-comprehensive-guide-for-scanning-and-storing-vintage-photos/"><u>[Updated] Securing Memories A Comprehensive Guide for Scanning and Storing Vintage Photos</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-xiaomi-redmi-12-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/can-you-tell-when-someone-reads-your-text-uncovering-the-signs/"><u>Can You Tell When Someone Reads Your Text? Uncovering the Signs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/cyber-mondays-finest-discover-the-best-laptops-under-1000-at-costco-amazon-and-dell-as-featured-by-zdnet/"><u>Cyber Monday's Finest: Discover the Best Laptops Under $1,000 at Costco, Amazon, and Dell as Featured by ZDNet</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/debating-on-the-significance-of-truthfulness-in-selfies/"><u>Debating on the Significance of Truthfulness in Selfies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-ai-black-boxes-exploring-their-mechanisms-and-operations/"><u>Demystifying AI Black Boxes: Exploring Their Mechanisms & Operations</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-ultimate-list-of-dells-best-sale-prices-this-holiday-season-exclusive-offers-at-target-costco-and-more/"><u>Discover the Ultimate List of Dell's Best Sale Prices This Holiday Season – Exclusive Offers at Target, Costco, and More!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expand-your-workspace-seamlessly-connect-two-screens-to-your-m3-macbook-pro-the-way-of-the-m3-macbook-air/"><u>Expand Your Workspace: Seamlessly Connect Two Screens to Your M3 MacBook Pro - The Way of the M3 MacBook Air!</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-insights-on-using-and-rating-the-apple-books-platform/"><u>Expert Insights on Using & Rating the Apple Books Platform</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/from-traditional-to-split-a-one-week-journey-into-ergonomic-comfort-findings/"><u>From Traditional to Split: A One-Week Journey Into Ergonomic Comfort | Findings</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-vivo-x100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Vivo X100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-iphone-6-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On iPhone 6</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-securely-erase-all-personal-information-from-your-windows-laptop-a-step-by-step-guide-completely-gratis/"><u>How to Securely Erase All Personal Information From Your Windows Laptop: A Step-by-Step Guide, Completely Gratis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/massive-black-friday-blowout-snag-the-lenovo-thinkpad-x1-gen/"><u>Massive Black Friday Blowout: Snag the Lenovo ThinkPad X1 Gen</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/rapid-resolution-how-to-manage-continuously-running-mac-cooling-systems-tech-tips/"><u>Rapid Resolution: How to Manage Continuously Running Mac Cooling Systems | Tech Tips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/slash-the-price-hps-new-victus-15-game-laptop-hits-530-markdown-at-best-buy-insights/"><u>Slash the Price: HP's New Victus 15 Game Laptop Hits $530 Markdown at Best Buy, Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/surface-studio-2-review-closer-to-the-perfection-in-creativity/"><u>Surface Studio 2 Review: Closer to the Perfection in Creativity</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-must-have-accessories-for-your-laptops-supporting-stunning-8k-monitor-compatibility-insider-tips/"><u>Top Rated Must-Have Accessories for Your Laptops, Supporting Stunning 8K Monitor Compatibility Insider Tips</u></a></li>
+</ul></div>
 

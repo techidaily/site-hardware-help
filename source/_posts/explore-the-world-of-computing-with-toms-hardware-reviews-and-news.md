@@ -1,7 +1,7 @@
 ---
 title: Explore the World of Computing with Tom's Hardware Reviews and News
-date: 2024-08-19T10:21:46.839Z
-updated: 2024-08-20T10:21:46.839Z
+date: 2024-12-05T20:05:00.820Z
+updated: 2024-12-11T11:08:53.323Z
 tags:
   - components
 categories:
@@ -29,6 +29,10 @@ Japan-based SSD maker Nextorage has unveiled an all-new PCIe Gen 4 M.2 SSD aimed
 
  Despite its small size, the new Nextorage drive is one of only a couple of M.2 2230 drives that can hit speeds similar to those of larger outgoing PCIe Gen 4 M.2 2280 class drives and get close to the bandwidth limitations of PCIe Gen 4\. With a read speed of nearly seven and a half gigabytes per second, the G Series ME is the fastest M.2 2230 drive on the market. Its closest competitor is the [Corsair MP600 Mini,](https://tools.techidaily.com) which hits read speeds of 7GB/s flat.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -43,8 +47,6 @@ Japan-based SSD maker Nextorage has unveiled an all-new PCIe Gen 4 M.2 SSD aimed
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -52,8 +54,21 @@ Japan-based SSD maker Nextorage has unveiled an all-new PCIe Gen 4 M.2 SSD aimed
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ed-mastering-the-art-of-freefire-a-gaming-youtubers-guide-for-2024/"><u>[Updated] Mastering the Art of FreeFire A Gaming Youtuber’s Guide for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/2023s-elite-mechanical-keyboards-reviewed-insider-tips-from-zdnet/"><u>2023’S Elite Mechanical Keyboards Reviewed - Insider Tips From ZDNet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-budget-friendly-flight-machines-the-cheapest-drone-list/"><u>2024 Approved Budget-Friendly Flight Machines The Cheapest Drone List</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/apple-updates-obsolete-list-with-9-more-mac-models-understanding-the-consequences-analysis/"><u>Apple Updates Obsolete List with 9 More Mac Models - Understanding the Consequences Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/cyber-monday-sale-alert-snag-an-hp-pavilion-for-just-450-marked-down-to-half-price-on-black-fridays-best-tech-bargains-featured/"><u>Cyber Monday Sale Alert: Snag an HP Pavilion for Just $450, Marked Down to Half Price on Black Friday's Best Tech Bargains - Featured</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expand-your-laptop-view-upgrade-with-a-device-enabling-dual-4k-displays-without-requiring-specialized-hardware-insights/"><u>Expand Your Laptop View: Upgrade with a Device Enabling Dual 4K Displays Without Requiring Specialized Hardware - Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/huge-savings-alert-on-presidents-day-save-300-on-the-new-202-m2-macbook-air-shop-now-at-zdnet/"><u>Huge Savings Alert on Presidents’ Day: Save $300 on the New 202# M2 MacBook Air - Shop Now at ZDNet!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oppo-a1x-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Oppo A1x 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/missed-the-marks-top-gaming-savings-on-octobers-cyber-monday-secure-up-to-1k-off/"><u>Missed the Marks? Top Gaming Savings on October's Cyber Monday - Secure Up To $1K Off!</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-fixing-persistent-delays-on-the-windows-11-keyboard/"><u>Resolved: Fixing Persistent Delays on the Windows 11 Keyboard</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-guide-clearing-up-lines-and-streaks-on-your-tv-screen-at-home/"><u>Troubleshooting Guide: Clearing Up Lines and Streaks on Your TV Screen at Home</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-dont-have-itel-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Itel fingerprint</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unlocking-fun-with-your-friends-a-guide-to-the-switchs-local-wireless-play-feature-and-ideal-titles/"><u>Unlocking Fun with Your Friends: A Guide to the Switch's Local Wireless Play Feature and Ideal Titles</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->

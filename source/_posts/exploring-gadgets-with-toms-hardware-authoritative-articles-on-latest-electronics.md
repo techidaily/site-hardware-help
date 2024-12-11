@@ -1,7 +1,7 @@
 ---
 title: "Exploring Gadgets with Tom's Hardware: Authoritative Articles on Latest Electronics"
-date: 2024-08-19T10:21:52.738Z
-updated: 2024-08-20T10:21:52.738Z
+date: 2024-12-06T10:21:34.592Z
+updated: 2024-12-11T11:47:50.821Z
 tags:
   - components
 categories:
@@ -29,6 +29,10 @@ Japan-based SSD maker Nextorage has unveiled an all-new PCIe Gen 4 M.2 SSD aimed
 
  Despite its small size, the new Nextorage drive is one of only a couple of M.2 2230 drives that can hit speeds similar to those of larger outgoing PCIe Gen 4 M.2 2280 class drives and get close to the bandwidth limitations of PCIe Gen 4\. With a read speed of nearly seven and a half gigabytes per second, the G Series ME is the fastest M.2 2230 drive on the market. Its closest competitor is the [Corsair MP600 Mini,](https://tools.techidaily.com) which hits read speeds of 7GB/s flat.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -43,8 +47,6 @@ Japan-based SSD maker Nextorage has unveiled an all-new PCIe Gen 4 M.2 SSD aimed
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -52,8 +54,26 @@ Japan-based SSD maker Nextorage has unveiled an all-new PCIe Gen 4 M.2 SSD aimed
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-core-principles-in-internet-story-development/"><u>[New] 2024 Approved Core Principles in Internet Story Development</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-ways-to-take-amazing-time-lapse-videos-with-android-phone-2024/"><u>[New] Best Ways to Take Amazing Time-Lapse Videos with Android Phone 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-leading-with-innovation-configuring-and-measuring-success-in-fb-instream-ads/"><u>[New] Leading with Innovation Configuring & Measuring Success in FB Instream Ads</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-twitter-image-resolution-standards/"><u>[Updated] 2024 Approved Twitter Image Resolution Standards</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-direct-focus-the-power-of-leading-lines-in-iphone-photos-for-2024/"><u>[Updated] Direct Focus The Power of Leading Lines in iPhone Photos for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726030623013-dvd/"><u>現代車両でDVD視聴不能・解決法：カーナビの再生トラブルに対する最新対策</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-guide-unveiling-the-power-of-apples-m2-chip-insights-from-tech-experts/"><u>Comprehensive Guide: Unveiling the Power of Apple's M2 Chip - Insights From Tech Experts</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-methods-for-installing-the-latest-motherboard-driver-software-in-windows/"><u>Easy Methods for Installing the Latest Motherboard Driver Software in Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/find-your-dream-tech-ultimate-scoop-on-premium-prime-day-discounts-october-2024-edition/"><u>Find Your Dream Tech: Ultimate Scoop on Premium Prime Day Discounts - October 2024 Edition</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-how-to-translate-videos-in-tamil-for-a-wider-reach/"><u>In 2024, How To Translate Videos in Tamil for a Wider Reach</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/power-users-dream-essential-specs-that-wowed-me-in-this-lenovo-notebook-insights-from-zdnet/"><u>Power User's Dream: Essential Specs That Wowed Me in This Lenovo Notebook - Insights From ZDNet</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-tool-for-video-cuts-full-review-of-vivacut-24-edition-for-2024/"><u>The Ultimate Tool for Video Cuts Full Review of VivaCut '24 Edition for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-2024-picks-ultimate-guide-to-the-finest-15-inch-laptops-rigorously-evaluated-by-tech-aficionados/"><u>Top 2024 Picks: Ultimate Guide to the Finest 15-Inch Laptops, Rigorously Evaluated by Tech Aficionados</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-picks-from-walmart-in-july-2024-exclusive-offers/"><u>Top Picks From Walmart in July 2024: Exclusive Offers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-tier-tech-analysis-a-highly-praised-and-feature-rich-laptop-delights-users-with-robust-hardware/"><u>Top-Tier Tech Analysis: A Highly Praised and Feature-Rich Laptop Delights Users with Robust Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-display-quality-meets-unbelievable-deal-top-rated-ultraportable-laptop-sale-at-zdnet/"><u>Unbeatable Display Quality Meets Unbelievable Deal: Top-Rated Ultraportable Laptop Sale at ZDNet!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unmatched-adaptability-and-robust-features-a-closer-look-at-the-best-in-class-dell-inspiron-laptop-zdnet-evaluation/"><u>Unmatched Adaptability and Robust Features: A Closer Look at the Best-in-Class Dell Inspiron Laptop | ZDNET Evaluation</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-latent-gems-the-lenovo-ultraportables-hidden-features-including-a-stealthy-trackpoint-detailed-review-by-zdnet/"><u>Unveiling Latent Gems: The Lenovo Ultraportable's Hidden Features Including a Stealthy TrackPoint | Detailed Review by ZDNet</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->

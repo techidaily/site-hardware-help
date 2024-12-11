@@ -1,7 +1,7 @@
 ---
 title: AMD Demonstrates Significant Boost in Efficiency & Speed Through Zen 5 Multithreading – Unlike Intel's Post-Lakefield Shift Away From Hyperthreading
-date: 2024-08-19T10:22:22.542Z
-updated: 2024-08-20T10:22:22.542Z
+date: 2024-12-07T09:14:28.404Z
+updated: 2024-12-11T02:38:09.738Z
 tags:
   - components
 categories:
@@ -29,6 +29,10 @@ Japan-based SSD maker Nextorage has unveiled an all-new PCIe Gen 4 M.2 SSD aimed
 
  Despite its small size, the new Nextorage drive is one of only a couple of M.2 2230 drives that can hit speeds similar to those of larger outgoing PCIe Gen 4 M.2 2280 class drives and get close to the bandwidth limitations of PCIe Gen 4\. With a read speed of nearly seven and a half gigabytes per second, the G Series ME is the fastest M.2 2230 drive on the market. Its closest competitor is the [Corsair MP600 Mini,](https://tools.techidaily.com) which hits read speeds of 7GB/s flat.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -43,8 +47,6 @@ Japan-based SSD maker Nextorage has unveiled an all-new PCIe Gen 4 M.2 SSD aimed
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -52,8 +54,26 @@ Japan-based SSD maker Nextorage has unveiled an all-new PCIe Gen 4 M.2 SSD aimed
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-from-calm-to-captivating-techniques-for-motion-blur-mastery/"><u>[New] 2024 Approved From Calm to Captivating Techniques for Motion Blur Mastery</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-50plus-youtube-channel-names-for-vloggers-100-new-filmora/"><u>[New] In 2024, 50+ Youtube Channel Names for Vloggers [100% New] - Filmora</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-unplugged-enjoyment-best-indoor-gaming-apps-on-mobile-devices/"><u>[New] In 2024, Unplugged Enjoyment Best Indoor Gaming Apps on Mobile Devices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-masterful-motion-graphics-for-texts/"><u>[Updated] Masterful Motion Graphics for Texts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-optimal-strategies-for-enhancing-vhs-photos-digitally/"><u>[Updated] Optimal Strategies for Enhancing VHS Photos Digitally</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-apple-iphone-14-plus-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot Apple iPhone 14 Plus Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/grab-the-hp-victus-15-for-an-unbelievable-deal-just-hit-530-markdown-at-best-buy-zdnet-insights/"><u>Grab the HP Victus 15 for an Unbelievable Deal: Just Hit $530 Markdown at Best Buy - ZDNET Insights</u></a></li>
+<li><a href="https://common-error.techidaily.com/insider-knowledge-on-fixing-the-failed-diagnostic-services-run-process/"><u>Insider Knowledge on Fixing the Failed Diagnostic Services Run Process</u></a></li>
+<li><a href="https://article-posts.techidaily.com/mastering-subtitle-integration-in-wmp-for-2024/"><u>Mastering Subtitle Integration in WMP for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-minitool-movie-maker-a-detailed-review-user-manual-and-alternative-solutions/"><u>New Minitool Movie Maker A Detailed Review, User Manual, and Alternative Solutions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/os-melhores-10-softwares-de-graca-para-a-reproducao-e-conversao-de-discos-opticos/"><u>Os Melhores 10 Softwares De Graça Para a Reprodução E Conversão De Discos Ópticos</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-all-rounder-why-this-highly-praised-laptop-stands-out-with-its-robust-build-quality-insights/"><u>The Ultimate All-Rounder: Why This Highly Praised Laptop Stands Out with Its Robust Build Quality - Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-satechi-usb-c-hub-top-features-at-just-150-tech-review-by-zdnet/"><u>The Ultimate Satechi USB-C Hub: Top Features at Just $150 - Tech Review by ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-picks-most-unbeatable-laptop-offers-in-july-2024-spotted-on-zdnet/"><u>Top Picks: Most Unbeatable Laptop Offers in July 2024 - Spotted on ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-picks-ultimate-guide-to-travel-tech-essentials-insights-from-zdnet/"><u>Top Picks: Ultimate Guide to Travel Tech Essentials - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-ultraportable-notebooks-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated Ultraportable Notebooks : Comprehensive Reviews by Tech Experts - ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/transforming-productivity-a-one-week-journey-on-a-split-ergonomic-keyboard-and-its-impact/"><u>Transforming Productivity: A One-Week Journey on a Split Ergonomic Keyboard and Its Impact</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ubuntu-hidden-in-luxury-dell-systems-unveiling-project-sputnik/"><u>Ubuntu Hidden in Luxury Dell Systems: Unveiling Project Sputnik</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/zdnet-unveils-stunning-economically-priced-laptop-with-exceptional-screen-quality-worth-every-penny/"><u>ZDNet Unveils Stunning, Economically Priced Laptop with Exceptional Screen Quality - Worth Every Penny!</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->

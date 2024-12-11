@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Reviews: The Ultimate Guide to Computer Components"
-date: 2024-08-19T10:23:50.773Z
-updated: 2024-08-20T10:23:50.773Z
+date: 2024-12-08T00:47:46.067Z
+updated: 2024-12-11T05:03:02.418Z
 tags:
   - build
 categories:
@@ -31,9 +31,6 @@ thumbnail: https://thmb.techidaily.com/377e38553991337f1398bdbfe5a8f44bdc61d9fc3
 4. [System Value Compared](https://tools.techidaily.com)
 5. $912 AMD LAN Box PC
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## $912 AMD LAN Box PC
 
  Even though my Intel-based revision of this quarter vindicates my assessments last quarter, a number of readers are still convinced that a properly cooled and overclocked 860K is the gateway to budget gaming goodness. After experiencing the limitations and frustrations last quarter, I still have my reservations. However, the SBM is a perfect place to empirically test this and give AMD's budget quad-core every chance to prove itself.
@@ -41,8 +38,9 @@ thumbnail: https://thmb.techidaily.com/377e38553991337f1398bdbfe5a8f44bdc61d9fc3
 ![](https://cdn.mos.cms.futurecdn.net/vaZRhuXWqcyB98KdTMVaK3-320-80.jpg)
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  For your bonus build pleasure, here's the conclusion to the Munchkin Saga, Episode III: Revenge of 860K.
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
@@ -93,15 +91,13 @@ Deepcool Gamer Storm Gabriel
  Every component is identical to the Intel build earlier this week except the CPU, cooler and motherboard.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Definition of Insanity
 
  Some of you out there might be groaning and asking, "What, this again?" Hold on a minute. Those asking for a better 860K overclock have a valid argument. The 860K was handicapped last quarter with insufficient cooling to get any kind of meaningful overclock. You can't argue with that. This time around the CPU gets better treatment in the form of an aftermarket cooler and a larger case. So no, we're not trying the exact same thing and expecting different results. Do I expect the 860K to outperform the i3-4170? No, I don't. However, in order for me to prove that one way or the other, I need hard numbers and data. I'm curious to see if it can close the gap, if not overcome it.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Alternate Component Selection
 
  I don't need to spend time explaining the same parts from[two days ago](https://tools.techidaily.com) . To save space and time, I'll only address the three new components.
@@ -132,6 +128,10 @@ Deepcool Gamer Storm Gabriel
 
 [View Deal](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-8198437440134718399%26murl%3Dhttp%253A%252F%252Fwww.newegg.com%252FProduct%252FProduct.aspx%253Fcm%255Fmmc%253Dbac-tomshardwaresbm-%255F-systembuildereditorial-%255F-CPU%2BFans%2B%2526%2BHeatsinks-%255F-N82E16835856007%2526Item%253DN82E16835856007%2526IsFeedbackTab%253DTrue%2526nm%255Fmc%253DExtBanner)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Assembly
 
  The only significant change in assembly of this against the Intel build is the CPU cooler. And I ran into fitment issues with it. While I specifically got the low profile version Ballistix memory kit, AMD's rectangular mounting bracket meant the cooler could only be installed in two orientations. Both are problematic with this motherboard. The Gabriel is thinnest on the end opposite of the heat pipe curve. This part extends farthest from the CPU socket and can clear most RAM modules. On either side, the fins have a small step making them a little thicker. This edge of the cooler is a millimeter or two too thick to fully clear the RAM on the side, touching the very top edge of the RAM heat spreader.
@@ -143,11 +143,16 @@ Deepcool Gamer Storm Gabriel
 ![](https://cdn.mos.cms.futurecdn.net/EkXfRYe3XW8vhT2PuH7XkJ-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The rest of the assembly went just peachy. The slightly different port layout of the motherboard necessitated different cable routing, but that's it. Everything else is the exact same as the Intel build from a few days ago.
 
 ![](https://cdn.mos.cms.futurecdn.net/kiyNGE2ogxSRTZjnNEBoST-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Overclocking
 
@@ -164,8 +169,9 @@ Deepcool Gamer Storm Gabriel
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  The RAM caused me no end of heartburn and frustration. I kept running into seemingly random crashes, regardless of RAM timings. I worried the RAM was somehow bad, but it worked flawlessly in the Intel build. After a quick appeal for help to Thomas, I found the motherboard simply required at least 1.64V to run the RAM, even at stock speeds. Again, the Intel build had no problem with 1.5V. I've never seen a motherboard that's more stable overclocked than at stock speeds, until now.
@@ -180,8 +186,6 @@ Deepcool Gamer Storm Gabriel
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -189,4 +193,24 @@ Deepcool Gamer Storm Gabriel
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-engage-audiences-with-free-video-teasers/"><u>[New] Engage Audiences with Free Video Teasers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-resolving-frame-rate-puzzle-which-fps-brings-sharper-videos/"><u>[Updated] In 2024, Resolving Frame Rate Puzzle Which FPS Brings Sharper Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-worldcasters-select-local-channels-for-global-watchers/"><u>[Updated] WorldCasters Select Local Channels for Global Watchers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/affordable-excellence-discovering-a-superior-display-in-this-budget-friendly-ultrabook-tech-analysis/"><u>Affordable Excellence: Discovering a Superior Display in This Budget-Friendly Ultrabook | Tech Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/dell-upgrades-iconic-xps-series-introducing-cutting-edge-artificial-intelligence-enhancements-while-retaining-timeless-design-insights-from-zdnet/"><u>Dell Upgrades Iconic XPS Series: Introducing Cutting-Edge Artificial Intelligence Enhancements, While Retaining Timeless Design - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-hidden-gems-unveiling-the-stealthy-trackpoint-and-more-on-this-compact-lenovo-notebook-explore/"><u>Discover the Hidden Gems: Unveiling the Stealthy TrackPoint and More on This Compact Lenovo Notebook - Explore</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-new-wave-of-smart-technology-microsofts-release-of-surface-pro-10-and-laptop-6-with-enhanced-artificial-intelligence-featured/"><u>Discover the New Wave of Smart Technology: Microsoft's Release of Surface Pro 10 and Laptop 6 with Enhanced Artificial Intelligence, Featured</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/discover-the-power-of-wax-a-free-video-editor-for-creators/"><u>Discover the Power of Wax A Free Video Editor for Creators</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-discover-the-top-11-secrets-to-flawless-color-correction/"><u>In 2024, Discover the Top 11 Secrets to Flawless Color Correction</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-hdri-advantages-over-sdr-for-enhanced-video-quality/"><u>In 2024, HDRI Advantages Over SDR for Enhanced Video Quality</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Realme V30? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/save-big-on-high-end-gear-secure-an-hp-touch-notebook-ergonomic-mouse-and-full-ms-365-subscription-at-a-bargain-price-of-only-400-tech-deals/"><u>Save Big on High-End Gear! Secure an HP Touch Notebook, Ergonomic Mouse & Full MS 365 Subscription at a Bargain Price of Only $400 | Tech Deals</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-ranking-linux-laptop-picks-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Ranking Linux Laptop Picks , Comprehensive Reviews by Tech Experts - ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-persistent-apex-legends-connection-errors-easily/"><u>Troubleshooting Guide: Resolving Persistent Apex Legends Connection Errors Easily</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-anker-usb-30-superspeed-hub-evaluation-unleash-your-devices-potential/"><u>Ultimate Anker USB 3.0 Superspeed Hub Evaluation - Unleash Your Device's Potential</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unfolding-the-magic-discover-how-my-go-to-origami-laptop-sleeve-brings-awe-to-every-trip/"><u>Unfolding the Magic: Discover How My Go-To Origami Laptop Sleeve Brings Awe to Every Trip</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlock-ultimate-gaming-sounds-with-our-picked-best-speaker-system-enjoy-massive-savings-at-a-record-170-off-on-amazon-zdnet-review/"><u>Unlock Ultimate Gaming Sounds with Our Picked Best Speaker System, Enjoy Massive Savings at a Record $170 Off on Amazon (ZDNet Review)</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Liquid Serenity: Crafting the Perfect Whisper-Quiet Computer System to Dive Into Your Own Maze Adventure"
-date: 2024-08-19T10:23:46.395Z
-updated: 2024-08-20T10:23:46.395Z
+date: 2024-12-07T10:48:59.165Z
+updated: 2024-12-11T06:52:51.219Z
 tags:
   - build
 categories:
@@ -26,6 +26,10 @@ Keep scrolling for more of today's deals.
 * **Corsair Katar Pro XT:** [**now $21 at Amazon**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fgp%2Fproduct%2FB08SHCKVTG%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1623005334304824918-20) **(was $34)**
 * **SanDisk 256GB Ultra USB 3.0 Flash Drive:** [**now $12 at Walmart**](https://goto.walmart.com/c/5597632/565706/9383?subId1=techidaily-us-5142007615266812665&sharedId=techidaily-us&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FSanDisk-256GB-Ultra-USB-3-0-Flash-Drive-130MB-s-SDCZ48-256G-AW4%2F259605765) **(was $26)**
 * **Inland Glass PLA 3D Printer Filament:** [**now $10 at Amazon**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB09PC96H21%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-6540726685219791860-20) **(was $22)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Today’s best deals in detail
 
@@ -66,8 +70,9 @@ Keep scrolling for more of today's deals.
 [View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB09PC96H21%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1136475424910050110-20)
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Looking for more deals?
 
 Category
@@ -75,13 +80,11 @@ Category
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/chevron-left.svg "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
  Back to Processors
 
 Brand
@@ -100,14 +103,6 @@ Price
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 Any Price
 
  Showing 10 of 43 deals
@@ -117,8 +112,9 @@ Any Price
 SORT BY Price (low to high)  Price (high to low) Product Name (A to Z)  Product Name (Z to A)  Retailer name (A to Z)  Retailer name (Z to A) ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [AMD Ryzen 7 5800X](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0815XFSGK%3Ftag%3Dhawk-future-20%26linkCode%3Dogi%26th%3D1%26psc%3D1%26ascsubtag%3Dtomshardware-us-6390834075952669047-20)
 
 (Black)
@@ -302,8 +298,9 @@ Our Review
  Load more deals
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -318,8 +315,6 @@ Our Review
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -327,4 +322,26 @@ Our Review
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-how-to-make-slow-motion-videos-on-instagram-reels-step-by-step/"><u>[New] 2024 Approved How to Make Slow Motion Videos on Instagram Reels [Step by Step]</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/100-discount-discover-the-ultimate-audio-experience-with-top-rated-speakers-available-now-at-best-buy-exclusive-review/"><u>$100 Discount: Discover the Ultimate Audio Experience with Top-Rated Speakers Available Now at Best Buy - Exclusive Review</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-discovering-the-least-expensive-cloud-storage-plans/"><u>2024 Approved Discovering the Least Expensive Cloud Storage Plans</u></a></li>
+<li><a href="https://win-guides.techidaily.com/1728475063648-windows-11/"><u>如何在Windows 11上创建和使用系统还原点: 全面的四项策略详解</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amazing-deals-alert-secure-hp-victus-15-for-under-500/"><u>Amazing Deals Alert: Secure HP Victus 15 for Under $500</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asus-vivobook-pro-slashed-to-a-steal-at-amazon-for-just-300-less-hot-tech-savings-spotted/"><u>Asus VivoBook Pro Slashed to a Steal at Amazon for Just $300 Less | Hot Tech Savings Spotted</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/comparing-xavc-s-and-avchd-exploring-advantages-and-disadvantages-across-key-factors/"><u>Comparing XAVC-S and AVCHD: Exploring Advantages & Disadvantages Across Key Factors</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-lenovo-thinkpad-x13s-analysis-featuring-5g-connectivity-arm-architecture-and-exceptional-battery-performance-insights/"><u>Comprehensive Lenovo ThinkPad X13s Analysis: Featuring 5G Connectivity, ARM Architecture & Exceptional Battery Performance - Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/find-the-perfect-festive-tech-gift-with-our-ultimate-list-of-39-holiday-discounts-on-popular-laptops-including-hp-and-more-black-friday-savings/"><u>Find the Perfect Festive Tech Gift with Our Ultimate List of 39 Holiday Discounts on Popular Laptops, Including HP and More! | Black Friday Savings</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-samsung-galaxy-s23plus-frp-by-drfone-android/"><u>Full Guide to Bypass Samsung Galaxy S23+ FRP</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ideal-college-computers-in-depth-reviews-and-ratings-from-industry-experts-gadgetguru/"><u>Ideal College Computers: In-Depth Reviews and Ratings From Industry Experts | GadgetGuru</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-3-smart-and-simple-ways-to-change-home-address-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Smart and Simple Ways to Change Home Address on Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-srt-file-uploads-on-social-platforms-step-by-step-guide/"><u>In 2024, Mastering SRT File Uploads on Social Platforms Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/remote-work-mastery-top-rated-ultraportable-laptop-that-delivers-unmatched-performance-for-professionals/"><u>Remote Work Mastery: Top-Rated Ultraportable Laptop That Delivers Unmatched Performance for Professionals</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solution-strategies-for-forest-sentinels-game-malfunctions-on-pc-platforms/"><u>Solution Strategies for 'Forest Sentinels' Game Malfunctions on PC Platforms</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-savings-top-bargains-on-amazon-before-prime-day-2024-cnbc/"><u>Ultimate Savings: Top Bargains on Amazon Before Prime Day 2024 | CNBC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbelievable-deal-save-nearly-300-on-the-latest-msi-gaming-monitor-at-newegg-detailed-review-by-zdnet/"><u>Unbelievable Deal: Save Nearly $300 on the Latest MSI Gaming Monitor at Newegg - Detailed Review by ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-fresh-chromeos-enhancement-a-windows-11-experience-on-your-chromebook-zdnet-news/"><u>Unveiling the Fresh ChromeOS Enhancement: A Windows 11 Experience on Your Chromebook! | ZDNet News</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-how-to-fade-in-and-fade-out-audio-in-imovie-in-2024/"><u>Updated How to Fade in and Fade Out Audio in iMovie, In 2024</u></a></li>
+</ul></div>
 

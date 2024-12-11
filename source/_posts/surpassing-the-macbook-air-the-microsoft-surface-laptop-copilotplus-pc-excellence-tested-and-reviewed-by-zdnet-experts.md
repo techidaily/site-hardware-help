@@ -1,7 +1,7 @@
 ---
 title: "Surpassing the MacBook Air: The Microsoft Surface Laptop Copilot+ PC Excellence Tested and Reviewed by ZDNet Experts"
-date: 2024-12-02T16:11:40.001Z
-updated: 2024-12-04T18:59:25.055Z
+date: 2024-12-05T20:23:55.258Z
+updated: 2024-12-10T20:08:23.793Z
 tags:
   - laptops
 categories:
@@ -33,7 +33,7 @@ You'll hear and see more about these branded laptops over the coming weeks, mont
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. More seamless on-device AI features
@@ -51,7 +51,7 @@ Having a dedicated Copilot key certainly adds to this burdenless experience. As 
 Perhaps the most important aspect of these new Copilot+ AI features is that they operate [on-device](https://www.zdnet.com/article/5-top-mobile-trends-in-2024-on-device-ai-the-new-smartphone-and-more/#:~:text=to%20take%20shape.-,1.%20On%2Ddevice%20AI%20puts%20the%20%27smart%27%20in%20smartphone,-The%20new%20Samsung) \-- based on local data, providing more private, secure, and faster processing capabilities. To everyday users, this may not be as significant. If, however, keeping your personal data protected (and away from any [remote cloud servers](https://www.zdnet.com/article/ai-is-changing-cybersecurity-and-businesses-must-wake-up-to-the-threat/)) is a priority, you'll feel a little better using the AI features on these new Copilot+ PCs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Windows Hello feels faster than ever
@@ -67,7 +67,7 @@ Comparing my M3 MacBook Air with the Surface Laptop is not exactly an apples-to-
 The best part is that Windows Hello automatically triggers when I lift the laptop lid open, and it's able to scan my face even in dimmer environments thanks to the IR camera.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Touchscreen support
@@ -83,7 +83,7 @@ For example, the new Cocreator tool in Paint requires you to both write a prompt
 While I've always found touchscreen functionality to be more beneficial on larger screens, using the smaller [13.8-inch Surface Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Touchscreen-Snapdragon-Sapphire%2Fdp%2FB0CXKYTQS2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc9919522-685b-4aa9-983b-c7ff321ae869%7Cdtp&dtb=1) feels more like a 2-in-1 tablet. When my typing space is confined, like on a bus, plane, or crowded café, being able to simply reach over and tap, swipe, and drag elements on the screen is very helpful and intuitive. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bonus: Benchmarks (for now)
@@ -125,18 +125,24 @@ For the following benchmark tests, the higher the score, the better.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-leading-mobile-video-enhancers-for-high-quality-gopro-videos/"><u>[New] Leading Mobile Video Enhancers for High-Quality GoPro Videos</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-expertly-curated-5-best-android-screen-capture-options/"><u>[Updated] Expertly Curated 5 Best Android Screen Capture Options</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-ready-for-savings-apples-m2-macbook-air-slashed-to-just-799-in-advance-of-prime-day-blowout-find-out-more-at-zdnet-now/"><u>Get Ready for Savings! Apple's M2 MacBook Air Slashed to Just $799 in Advance of Prime Day Blowout – Find Out More at ZDNet Now!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gratis-online-mxf-to-mpeg-omzetter-tool-zoek-de-beste-waarderende-codec-conversie-met-movavi/"><u>Gratis Online MXF-to-MPEG Omzetter Tool - Zoek De Beste Waarderende Codec-Conversie Met Movavi</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/guffaw-guide-the-leading-text-generator-companions-for-2024/"><u>Guffaw Guide The Leading Text Generator Companions for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/heartstrings-harmony-best-music-to-accompany-your-engagement/"><u>Heartstrings Harmony Best Music to Accompany Your Engagement</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-victus-amo-15-get-your-powerhouse-gaming-machine-for-just-515-with-the-exclusive-anti-prime-day-offer-at-best-buy-zdnet/"><u>HP Victus Amo 15: Get Your Powerhouse Gaming Machine for Just $515 with the Exclusive Anti-Prime Day Offer at Best Buy | ZDNET</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/immerse-yourself-in-innovative-3d-art-on-asus-new-laptops-a-leap-forward-without-dependence-on-vrar-headsets-zdnet-insights/"><u>Immerse Yourself in Innovative 3D Art on Asus New Laptops: A Leap Forward Without Dependence on VR/AR Headsets | ZDNET Insights</u></a></li>
-<li><a href="https://win-special.techidaily.com/missing-pages-alert-error-code-404/"><u>Missing Pages Alert – Error Code ❌404</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/reconfiguring-your-macs-command-key-a-step-by-step-guide/"><u>Reconfiguring Your Mac's Command Key: A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/snap-with-a-single-purpose-remove-bg-using-affinity/"><u>Snap with a Single Purpose - Remove Bg Using Affinity</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-ideal-selection-of-6-ssds-to-boost-your-console-and-pc-game-experience-explore-with-zdnet/"><u>The Ideal Selection of 6 SSDs to Boost Your Console and PC Game Experience | Explore with ZDNET</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-perfect-blend-of-power-and-mobility-dells-new-ultraportable-gaming-laptops-take-to-work-with-ease-zdnet-insights/"><u>The Perfect Blend of Power & Mobility: Dell's New Ultraportable Gaming Laptops Take to Work with Ease | ZDNet Insights</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-prime-landscapes-for-streaming-success/"><u>[New] Prime Landscapes for Streaming Success</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-fasttrackpodcastlive-your-straightforward-guide-to-livestreaming-success-for-2024/"><u>[Updated] FastTrackPodcastLive Your Straightforward Guide to Livestreaming Success for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-how-to-create-hit-facebook-song-vids-10-edition/"><u>[Updated] In 2024, How to Create Hit Facebook Song Vids - #10 Edition</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-tips-and-tricks-for-effective-google-meet-capture/"><u>[Updated] Tips and Tricks for Effective Google Meet Capture</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-archive-awesome-perfecting-twitter-video-backups/"><u>2024 Approved Archive Awesome Perfecting Twitter Video Backups</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-step-by-step-tutorial-to-downloading-and-setting-up-your-epson-workforce-ds30-printer-driver-for-windows-1187/"><u>Complete Step-by-Step Tutorial to Downloading and Setting Up Your Epson WorkForce DS30 Printer Driver for Windows 11/8/7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722959378627-download-m-audio-fast-track-drivers-compatible-with-windows-10-7-8-and-81/"><u>Download M-Audio Fast Track Drivers Compatible with Windows 10, 7, 8, and 8.1</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-new-hp-deskjet-3755a-all-in-one-printer-drivers-compatible-with-windows-1087/"><u>Download the New HP DeskJet 3755A All-in-One Printer Drivers Compatible with Windows 10/8/7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-installation-of-asus-pcb-driver-software-on-your-windows-machine/"><u>Easy Installation of ASUS PCB Driver Software on Your Windows Machine</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-nvidia-geforce-rtx-1660-super-driver-updates-installed-easily/"><u>Get the Newest NVIDIA GeForce RTX 1660 Super Driver Updates Installed Easily!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y100i-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y100i to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-avoiding-instagrams-false-facade-for-a-solid-stature/"><u>In 2024, Avoiding Instagram's False Facade for a Solid Stature</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-or-update-hp-officejet-pro-8600-printer-drivers-on-windows-comprehensive-guide/"><u>Install or Update HP Officejet Pro 8600 Printer Drivers on Windows: Comprehensive Guide</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mastering-german-gratitude-the-most-commonly-used-expressions/"><u>Mastering German Gratitude: The Most Commonly Used Expressions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-the-art-of-updating-startech-drivers-in-windows-11-8-and-7-solved-issues/"><u>Mastering the Art of Updating StarTech Drivers in Windows 11, 8 and 7: Solved Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximize-time-management-on-pc-choose-from-these-5-exciting-windows-clock-saver-apps/"><u>Maximize Time Management on PC: Choose From These 5 Exciting Windows Clock Saver Apps</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/simple-setup-how-to-get-microsoft-keyboard-4000-driver-software-quickly/"><u>Simple Setup: How to Get Microsoft Keyboard 4000 Driver Software Quickly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/simplifying-your-searches-using-google-gemini-explained/"><u>Simplifying Your Searches Using Google Gemini Explained</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-updating-your-logitech-c920-webcam-for-windows-users/"><u>Step-by-Step Guide: Updating Your Logitech C920 Webcam for Windows Users</u></a></li>
 </ul></div>
 

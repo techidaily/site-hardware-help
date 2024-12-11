@@ -1,7 +1,7 @@
 ---
 title: "Inside Tom's Gadget Hub: In-Depth Reviews & News"
-date: 2024-08-19T10:28:08.082Z
-updated: 2024-08-20T10:28:08.082Z
+date: 2024-12-03T23:52:26.941Z
+updated: 2024-12-11T06:54:24.050Z
 tags:
   - motherboards
 categories:
@@ -41,6 +41,10 @@ Hardware enthusiast[Jiacheng Liu](https://x.com/unnatural%5F%5Flog/status/179755
 
  The EVGA X670E Classified prototypes were briefly available on Xianyu, a popular second-hand market platform in China. Liu said he had paid around $620 for four PCBs without heatsinks; meanwhile, the retail-looking sample with heatsinks set him back $1,378\. Apparently, another buyer flew to Shenzhen, China, to buy a single PCB for $689.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -57,8 +61,6 @@ Hardware enthusiast[Jiacheng Liu](https://x.com/unnatural%5F%5Flog/status/179755
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -66,8 +68,18 @@ Hardware enthusiast[Jiacheng Liu](https://x.com/unnatural%5F%5Flog/status/179755
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-perfecting-your-igtv-thumbnail-imagery/"><u>[New] 2024 Approved Perfecting Your IGTV Thumbnail Imagery</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-film-lovers-ultimate-selection-of-stop-motion-works/"><u>[Updated] Film Lovers' Ultimate Selection of Stop-Motion Works</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/15-gamers-dream-at-just-530-during-best-buys-prime-day-sale-exclusive-review/"><u>15 Gamer's Dream at Just $530 During Best Buy’s Prime Day Sale – Exclusive Review !</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-extended-impact-of-apples-m3-chip-across-devices-not-just-new-laptopsipads-insights/"><u>Discover the Extended Impact of Apple's M3 Chip Across Devices, Not Just New Laptops/iPads | Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-the-new-era-of-computing-with-apple-silicon-what-it-means-for-laptops-and-all-in-ones-insights-from-zdnet/"><u>Exploring the New Era of Computing with Apple Silicon: What It Means for Laptops and All-in-Ones | Insights From ZDNET</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-sound-functionality-to-airpods-when-linked-with-windows-computers/"><u>How to Restore Sound Functionality to AirPods When Linked with Windows Computers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-14-pro-max-drfone-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-choosing-quality-components-by-tom/"><u>The Ultimate Resource for Choosing Quality Components by Tom</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upcoming-reveals-at-apples-october-showcase-m4-mac-mini-unveiled-new-ipad-lineup-innovations-in-ai-insights-for-tech-enthusiasts/"><u>Upcoming Reveals at Apple's October Showcase: M4 Mac Mini Unveiled, New iPad Lineup, Innovations in AI - Insights for Tech Enthusiasts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/will-msis-steam-deck-challenge-established-players-in-the-battle-for-handheld-gaming-supremacy-zdnet/"><u>Will MSI’s Steam Deck Challenge Established Players in the Battle for Handheld Gaming Supremacy? [ZDNet]</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

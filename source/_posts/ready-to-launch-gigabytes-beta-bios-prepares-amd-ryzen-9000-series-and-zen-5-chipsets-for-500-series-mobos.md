@@ -1,7 +1,7 @@
 ---
 title: "Ready to Launch: Gigabyte's Beta BIOS Prepares AMD Ryzen 9000 Series & Zen 5 Chipsets for 500-Series Mobos"
-date: 2024-08-19T10:27:47.834Z
-updated: 2024-08-20T10:27:47.834Z
+date: 2024-12-05T05:26:01.700Z
+updated: 2024-12-11T11:46:22.483Z
 tags:
   - motherboards
 categories:
@@ -29,6 +29,10 @@ MaxSun, one the lesser-known motherboard manufacturers (at least in the U.S.), p
   
  Again, take this information with a grain of salt. For all we know, some of MaxSun's motherboard names might never be used for a shipping product, and that goes for the new chipset model names, too. We'll have to wait for an official Intel announcement to confirm its full 800-series chipset lineup, and likewise for AMD and its overlapping 800-series chipsets.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -43,8 +47,6 @@ MaxSun, one the lesser-known motherboard manufacturers (at least in the U.S.), p
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -52,8 +54,21 @@ MaxSun, one the lesser-known motherboard manufacturers (at least in the U.S.), p
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-superior-mics-for-video-blogging-professionals/"><u>[New] Superior Mics for Video Blogging Professionals</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-iphone-photography-made-easier-with-these-4-blur-techniques/"><u>2024 Approved IPhone Photography Made Easier with These 4 Blur Techniques</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/behind-closed-doors-how-microsofts-next-gen-ai-processor-could-outshine-the-macbook-firsthand-account-by-zdnet/"><u>Behind Closed Doors: How Microsoft's Next-Gen AI Processor Could Outshine the MacBook - Firsthand Account by ZDNet</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/budget-friendly-methods-for-youtube-card-creation/"><u>Budget-Friendly Methods for YouTube Card Creation</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719581333482-find-your-voice-flawlessly-choose-mondly/"><u>Find Your Voice Flawlessly – Choose Mondly!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Honor Magic 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/innovative-control-at-your-fingertips-unveiling-the-camera-button-on-the-new-iphone-16/"><u>Innovative Control at Your Fingertips: Unveiling the Camera Button on the New iPhone 16</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/love-at-first-click-exploring-the-features-of-the-newly-released-lg-gram-17-available-now-for-amazons-october-prime-deals/"><u>Love at First Click: Exploring the Features of the Newly Released LG Gram 17 - Available Now for Amazon's October Prime Deals</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mastering-motion-with-polaroids-latest-xs-innovation-for-2024/"><u>Mastering Motion with Polaroid's Latest XS Innovation for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-21-laplaptop-picks-for-the-perfect-present-expert-recommendations/"><u>Top 21 Laplaptop Picks for the Perfect Present: Expert Recommendations</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-38-unbeatable-cyber-week-deals-at-costco-exclusive-discounts-on-televisions-laptops-and-tablets-shop-now/"><u>Top 38 Unbeatable Cyber Week Deals at Costco: Exclusive Discounts on Televisions, Laptops & Tablets - Shop Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-the-best-ssds-for-gamers-on-pc-ps5-and-xbox-insights/"><u>Ultimate Guide to the Best SSDs for Gamers on PC, PS5, and Xbox | Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unparalleled-portability-top-ranking-ultrabook-elevates-productivity-for-telecommuters-insights-from-a-seasoned-reviewer-zdnet/"><u>Unparalleled Portability: Top-Ranking Ultrabook Elevates Productivity for Telecommuters - Insights From a Seasoned Reviewer | ZDNet</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Love at First Touch: Review of the Ultra-Slim LG Gram Pro 17 & Availability During October Prime Day Deals - ZDNet"
-date: 2024-11-30T05:28:09.586Z
-updated: 2024-12-05T07:00:23.549Z
+date: 2024-12-06T09:51:59.278Z
+updated: 2024-12-11T11:48:52.179Z
 tags:
   - laptops
 categories:
@@ -25,7 +25,7 @@ We've gone hands-on with dozens of laptops this year, and scoured the internet f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The best laptop deals for Amazon Prime Day 2024
@@ -111,7 +111,7 @@ Lenovo/ZDNET
 * [Lenovo ThinkBook 15 for $525 (save $74)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkBook-15-Business-i7-1165G7%2Fdp%2FB0D1CQPWPG%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): This laptop is a powerhouse for your back-to-school or business needs. Its 8-core AMD Ryzen 7 processor pairs with 16GB of RAM, so any major spec-heavy tasks will perform smoothly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Buy laptop deals during Prime Day
@@ -122,6 +122,10 @@ Kyle Kucharski/ZDNET
 * [HP Chromebook x360 2-in-1 Laptop for $293 (save $35 at Walmart)](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FHP-Chromebook-X360-14-HD-Touchscreen-2-in-1-Laptop-Intel-Celeron-N4020-4GB-RAM-64GB-eMMC-Teal-14a-ca0130wm%2F518977383&subId1=zd-__COM_CLICK_ID__-dtp): In [our testing](https://www.zdnet.com/article/this-hp-chromebook-made-living-without-windows-easier-than-i-expected/), we found this 2-in-1 Chromebook easily flexes between a laptop and a tablet, with a large 14-inch screen, comfortable keyboard, and sturdy build.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## More Prime Day 2024 laptop deals
 
@@ -134,7 +138,7 @@ Kyle Kucharski/ZDNET
 ## FAQs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### When is Amazon Prime Day 2024?
@@ -145,13 +149,13 @@ Amazon Prime Day officially ran from July 16 to July 17, but sometimes deals con
 
 There are a lot of great gaming laptops on sale right now, but in our opinion, [this deal on the Razer Blade 16](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRazer-Blade-Gaming-Laptop-4090-13th%2Fdp%2FB0BQP1WCP4%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1) is the best. We're talking $1,000 off one of the most high-end gaming laptops on the market, with hardware that is future-proofed to be relevant for years to come. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Is Amazon Prime Day a good time to buy a laptop?
 
 Even though Amazon isn't typically the first place you think of when you're shopping for a new laptop, there are some great deals that pop up if you're willing to look. We've thoroughly combed through the deals to find some diamonds in the rough, and listed the best ones here.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How did we choose these Prime Day deals?
 
@@ -162,10 +166,6 @@ We also looked over customer reviews to find out what matters to real people who
 ### When will these deals expire?
 
 Prime Day 2024 has ended, so deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on a deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What are the best Prime Day 2024 deals still available?
 
@@ -230,21 +230,22 @@ And the best deals still available from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/everaging-internet-trending-topics-for-video-creation/"><u>[New] Leveraging Internet Trending Topics for Video Creation</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-top-7-free-dvd-player-software-for-windowsmacphone/"><u>[New] Top 7 Free DVD Player Software for Windows/Mac/Phone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-digital-paintbrushes-at-your-fingertips-explore-11-color-correction-essentials-for-2024/"><u>[Updated] Digital Paintbrushes at Your Fingertips Explore 11 Color Correction Essentials for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/a-comprehensive-look-at-a-miniaturized-yet-multi-talented-chrome-os-device-zdnet/"><u>A Comprehensive Look at a Miniaturized yet Multi-Talented Chrome OS Device | ZDNET</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-the-ultimate-costco-online-shopping-guide-for-cyber-weeks-best-offers-on-high-quality-tvs-laptops-and-tablets/"><u>Discover the Ultimate Costco Online Shopping Guide for Cyber Week's Best Offers on High-Quality TVs, Laptops & Tablets</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/experts-suggest-the-15-inch-macbook-air-for-everyone-save-250-now-discover-why-at-zdnet/"><u>Experts Suggest the 15-Inch MacBook Air for Everyone - Save $250 Now! Discover Why at ZDNet</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-13-pro-max-waze-drfone-by-drfone-virtual-ios/"><u>In 2024, 7 Fixes to No GPS - Showing Approximate Location on Apple iPhone 13 Pro Max Waze | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Tecno Camon 20 | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/integration-guide-how-to-enjoy-imessage-features-while-using-an-android-phone-or-tablet/"><u>Integration Guide: How to Enjoy iMessage Features While Using an Android Phone or Tablet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-energy-efficiency-utilizing-low-power-mode-on-macos-monterey-a-comprehensive-guide/"><u>Mastering Energy Efficiency: Utilizing Low Power Mode on macOS Monterey - A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/octopuses-displaying-remarkable-problem-solving-skills-and-adaptability-in-various-tasks-involving-escape-or-obtaining-food/"><u>Octopuses Displaying Remarkable Problem-Solving Skills and Adaptability in Various Tasks Involving Escape or Obtaining Food.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/refurbished-microsoft-surface-laptop-128gb-buy-now-at-just-320-on-zdnet/"><u>Refurbished Microsoft Surface Laptop (128GB) - Buy Now at Just $320 on ZDNet</u></a></li>
-<li><a href="https://extra-information.techidaily.com/techniques-for-reality-warp-imagery/"><u>Techniques for Reality Warp Imagery</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-rhizosphere-effect-how-different-crops-influence-the-microbial-community-structure-around-their-roots/"><u>The Rhizosphere Effect: How Different Crops Influence the Microbial Community Structure Around Their Roots</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-get-ready-for-the-big-screen-top-movie-trailer-apps-for-iphone-and-ipad-for-2024/"><u>Updated Get Ready for the Big Screen Top Movie Trailer Apps for iPhone and iPad for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/xps-16-powerhouse-unleashed-when-dell-outperforms-apples-macbook-pro-in-battle-of-titans-techspot/"><u>XPS 16 Powerhouse Unleashed: When Dell Outperforms Apple's MacBook Pro in Battle of Titans | TechSpot</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-hp-scanjet-driver-update-windows-11-8-7/"><u>[Download] HP Scanjet Driver Update | Windows 11, 8, 7</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-decoding-second-count-in-20mb-video-files/"><u>[Updated] 2024 Approved Decoding Second Count in 20MB Video Files</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-essential-equipment-list-secure-your-zoom-sessions/"><u>[Updated] Essential Equipment List Secure Your Zoom Sessions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-logitech-brio-camera-driver-software-for-windows-11-computers/"><u>Get the Latest Logitech BRIO Camera Driver Software for Windows 11 Computers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-new-intel-irisplus-graphics-driver-update-speedy-hassle-free-install/"><u>Get the New Intel Iris+ Graphics Driver Update - Speedy, Hassle-Free Install</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-up-and-running-with-new-brother-printer-drivers-in-minutes/"><u>Get Up and Running with New Brother Printer Drivers in Minutes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722957268572-hassle-free-downloads-of-hp-officejet-5740-printer-drivers-get-started-today/"><u>Hassle-Free Downloads of HP OfficeJet 5740 Printer Drivers - Get Started Today!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/improve-mobile-video-clarity-iphone-tips/"><u>Improve Mobile Video Clarity IPhone Tips</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-audience-captivation-for-personal-podcasts/"><u>In 2024, Audience Captivation for Personal Podcasts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovating-visual-identity-with-ae-titles-for-2024/"><u>Innovating Visual Identity with AE Titles for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/instagrams-most-reliable-grid-creation-tools-countdown-to-top-ten-for-2024/"><u>Instagram's Most Reliable Grid Creation Tools, Countdown to Top Ten for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/killer-wireless-network-adapter-vga-1535-driver-download-guide/"><u>Killer Wireless Network Adapter VGA-1535 Driver Download Guide</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/refining-drive-functionality-mf4770n-windows-update/"><u>Refining Drive Functionality: MF4770n Windows Update</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-paladins-game-crash-comprehensive-troubleshooting-guide/"><u>Resolving the Paladins Game Crash : Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/rotibox-beanie-hat-with-bluetooth-the-perfect-mix-of-cozy-wear-and-clear-audio/"><u>Rotibox Beanie Hat with Bluetooth: The Perfect Mix of Cozy Wear and Clear Audio</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/successful-installation-of-hp-840-g3-printer-drivers-a-comprehensive-guide/"><u>Successful Installation of HP 840 G3 Printer Drivers - A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-pc-with-the-latest-dolby-audio-drivers-for-windows-11-10-and-81-get-them-here/"><u>Update Your PC with the Latest Dolby Audio Drivers for Windows 11, 10 & 8.1 - Get Them Here!</u></a></li>
 </ul></div>
 

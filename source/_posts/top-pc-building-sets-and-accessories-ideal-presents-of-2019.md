@@ -1,7 +1,7 @@
 ---
 title: Top PC Building Sets & Accessories - Ideal Presents of 2019
-date: 2024-08-19T10:24:17.915Z
-updated: 2024-08-20T10:24:17.915Z
+date: 2024-12-07T04:23:59.648Z
+updated: 2024-12-11T03:29:18.110Z
 tags:
   - build
 categories:
@@ -26,6 +26,10 @@ Keep scrolling for more of today's deals.
 * **Corsair Katar Pro XT:** [**now $21 at Amazon**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fgp%2Fproduct%2FB08SHCKVTG%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1623005334304824918-20) **(was $34)**
 * **SanDisk 256GB Ultra USB 3.0 Flash Drive:** [**now $12 at Walmart**](https://goto.walmart.com/c/5597632/565706/9383?subId1=techidaily-us-5142007615266812665&sharedId=techidaily-us&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FSanDisk-256GB-Ultra-USB-3-0-Flash-Drive-130MB-s-SDCZ48-256G-AW4%2F259605765) **(was $26)**
 * **Inland Glass PLA 3D Printer Filament:** [**now $10 at Amazon**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB09PC96H21%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-6540726685219791860-20) **(was $22)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Today’s best deals in detail
 
@@ -65,9 +69,6 @@ Keep scrolling for more of today's deals.
 
 [View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB09PC96H21%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1136475424910050110-20)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Looking for more deals?
 
 Category
@@ -75,8 +76,9 @@ Category
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/chevron-left.svg "Arrow")
 
  Back to Processors
@@ -86,8 +88,9 @@ Brand
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  AMD
 
  Corsair
@@ -100,9 +103,6 @@ Price
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Any Price
 
  Showing 10 of 43 deals
@@ -112,8 +112,9 @@ Any Price
 SORT BY Price (low to high)  Price (high to low) Product Name (A to Z)  Product Name (Z to A)  Retailer name (A to Z)  Retailer name (Z to A) ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [AMD Ryzen 7 5800X](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0815XFSGK%3Ftag%3Dhawk-future-20%26linkCode%3Dogi%26th%3D1%26psc%3D1%26ascsubtag%3Dtomshardware-us-6390834075952669047-20)
 
 (Black)
@@ -297,8 +298,9 @@ Our Review
  Load more deals
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -313,8 +315,6 @@ Our Review
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -322,4 +322,24 @@ Our Review
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/2024-approved-comprehensive-guide-to-sound-in-powerpoint-presentations/"><u>2024 Approved Comprehensive Guide to Sound in PowerPoint Presentations</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cross-media-production-network/"><u>Cross-Media Production Network</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/cyber-monday-alert-secure-your-apple-m2-macbook-air-at-record-low-prices-exclusive-findings/"><u>Cyber Monday Alert: Secure Your Apple M2 MacBook Air at Record Low Prices - Exclusive Findings</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/debut-visual-capturing-analysis-for-2024/"><u>Debut Visual Capturing Analysis for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/educators-guide-to-the-ideal-student-chromebooks-in-depth-analysis-and-ratings/"><u>Educator's Guide to the Ideal Student Chromebooks: In-Depth Analysis and Ratings</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-huawei-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Huawei</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fbi-exposes-dangers-of-data-theft-via-juice-jacking-devices-in-public-areas-learn-how-to-securely-charge-your-phone-zdnet/"><u>FBI Exposes Dangers of Data-Theft via 'Juice Jacking' Devices in Public Areas – Learn How to Securely Charge Your Phone | ZDNet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Honor 70 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-reveals-new-line-of-smart-spectre-laptops-with-stunning-gadgets-at-ces-exclusive-coverage-by-zdnet/"><u>HP Reveals New Line of Smart Spectre Laptops with Stunning Gadgets at CES - Exclusive Coverage by ZDNet</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/mastering-screen-capture-on-macos-simple-methods-for-video-and-audio-recordings/"><u>Mastering Screen Capture on macOS: Simple Methods for Video and Audio Recordings</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-mobile-video-editing-essentials-top-apps-for-vertical-content/"><u>New Mobile Video Editing Essentials Top Apps for Vertical Content</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-reset-blank-login-windows-1011/"><u>Strategies to Reset Blank Login Windows 10/11</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ltimate-selection-of-youtubes-finest-cosmetics-vloggers-for-2024/"><u>The Ultimate Selection of YouTube's Finest Cosmetics Vloggers for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-lenovo-laptops-under-800-tailored-for-efficient-hybrid-working-read-my-review-on-zdnet/"><u>Top Lenovo Laptops Under $800 Tailored for Efficient Hybrid Working - Read My Review on ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-prime-day-discounts-on-laptops-shopping-guide-for-october-2024-insights/"><u>Top Prime Day Discounts on Laptops: Shopping Guide for October 2024 - Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-lenovos-potential-game-changer-the-749-thinkbook-set-to-become-the-ultimate-bargain-windows-laptop-of-2024-according-to-experts-at-zdnet/"><u>Unveiling Lenovo's Potential Game-Changer: The $749 ThinkBook Set to Become the Ultimate Bargain Windows Laptop of 2024, According to Experts at ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upcoming-insights-unveiling-the-new-m4-mac-mini-latest-ipads-and-advancements-at-apples-september-showcase-detailed-coverage-by-zdnet/"><u>Upcoming Insights: Unveiling the New M4 Mac Mini, Latest iPads & Advancements at Apple's September Showcase – Detailed Coverage by ZDNet</u></a></li>
+</ul></div>
 

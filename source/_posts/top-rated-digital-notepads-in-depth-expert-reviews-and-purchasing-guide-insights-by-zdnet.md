@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Digital Notepads: In-Depth Expert Reviews & Purchasing Guide - Insights by ZDNet"
-date: 2024-12-01T17:27:59.946Z
-updated: 2024-12-04T19:06:20.976Z
+date: 2024-12-06T21:31:23.481Z
+updated: 2024-12-10T17:42:44.496Z
 tags:
   - laptops
 categories:
@@ -23,12 +23,16 @@ We prioritized machines that scored well in durability, portability, and of cour
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's the best laptop for college right now?
 
 At ZDNET, we've [thoroughly tested the best laptops for college](https://www.zdnet.com/article/how-we-test-laptops/) to help you pick the right one, no matter what you're studying. Our pick for the best laptop for college overall goes to the [Apple MacBook Air M3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX24JRLR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf6d86123-7c0d-4dd0-b3a2-759d36d51cb2%7Cdtp&dtb=1). In terms of portability, sleek form factor, and a solid battery life, the MacBook Air M3 is as light as it is powerful, and is future-proofed to last the duration of a multi-year degree program. It might not be the best pick for you, however, so we included other options that round out the spectrum of most common use cases. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The best laptop for college in 2024
 
@@ -48,7 +52,7 @@ Cons
 ## Apple MacBook Air M3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best college laptop overall
@@ -82,7 +86,7 @@ Cons
 * No HDMI or USB-A ports
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## HP Dragonfly Pro Chromebook
@@ -119,10 +123,6 @@ Cons
 
 ## Acer Aspire Go 15
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best college laptop under $500
 
 We're calling the Acer Aspire Go 15 the best college laptop under $500, but it's actually well under that price. For just $300, this is a capable laptop that is ideal for students on a budget. Not everyone needs a powerful laptop decked out in high-end hardware, especially if you have a desktop as a primary computer. And for a portable notebook that is built to cover the basics, it doesn't get much more affordable than this. 
@@ -153,10 +153,6 @@ Cons
 
 ## Asus ROG Zephyrus G14
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best college laptop for gaming
 
 You know what they say about all work and no play. Let's face it, college is a grind, so it's nice to be able to unplug by plugging into your favorite game. Luckily, there are laptops that can do both, and the Asus ROG Zephyrus G14 gives you the best of both worlds. This is a sleek and lightweight laptop that you can bring to class, but it's also powerful enough to run all your favorite games in the off-hours. Also, the  offers student discounts on select laptops after signing up through a brief application form.
@@ -183,14 +179,10 @@ Cons
 * Comes with multiple supporting parts
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Lenovo Yoga Book 9i
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best 2-in-1 convertible laptop for college
 
@@ -205,6 +197,10 @@ There are a few considerations, however. First, the $2,000 price tag puts it at 
 **Lenovo Yoga Book 9i** **t** **ech specs:** Intel Core Ultra 155U | Intel Iris Xe Graphics | 16GB RAM, 1TB, storage | Dual 13.3-inch 2.8K OLED, touchscreen, Dolby Vision, 400 nits, 16:10 | Up to 8 hours of battery life | 14", 3.8 pounds
 
 Show Expert Take Show less 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the best laptop for college?
 
@@ -265,6 +261,10 @@ While every computing platform has its loyal supporters, most people end up usin
 
 All Windows devices listed here meet the requirements for Windows 11\. If you purchase a device with Windows 10 installed, you will be able to upgrade to Windows 11 if you choose to do so. Note that after October 14, 2025, Windows 10 support will end, and there will be no further security patches or feature updates.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What's the difference between a Chromebook and a Windows or Mac laptop?
 
 While premium Chromebooks like the [HP Dragonfly Pro](https://www.zdnet.com/article/hp-dragonfly-pro-chromebook-review/) are available, these lightweight models are generally considered more budget-friendly alternatives to traditional Windows or macOS devices.   
@@ -317,19 +317,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-craft-your-story-with-vscos-editing-power-tools/"><u>[Updated] 2024 Approved Craft Your Story with VSCO’s Editing Power Tools</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-capturing-the-thrill-pro-gamers-guide-to-recordings/"><u>[Updated] Capturing the Thrill Pro Gamer's Guide to Recordings</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-self-animated-wonders-cutting-edge-techniques-for-you/"><u>2024 Approved Self-Animated Wonders Cutting Edge Techniques for You</u></a></li>
-<li><a href="https://win11.techidaily.com/andtop7/"><u>人気の高いフリー動画音声変換ソフト&おすすめウェブサイトランキングTOP7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/elite-picks-for-touchscreen-notebooks-in-depth-evaluations-and-ratings-pcmag/"><u>Elite Picks for Touchscreen Notebooks: In-Depth Evaluations & Ratings | PCMag</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-permanently-remove-private-files-on-a-windows-machine-safely-and-free-of-charge-expert-advice-zdnet/"><u>How To Permanently Remove Private Files on a Windows Machine Safely and Free of Charge – Expert Advice | ZDNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-securely-get-the-latest-samsung-usb-adb-driver/"><u>How to Securely Get the Latest Samsung USB ADB Driver</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-tips-and-tricks-for-locating-recent-videos-youve-liked/"><u>In 2024, Tips & Tricks for Locating Recent Videos You've Liked</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/multitask-with-ease-using-this-genius-laptop-stand-that-converts-phones-into-second-screens-insights/"><u>Multitask with Ease Using This Genius Laptop Stand that Converts Phones Into Second Screens - Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/thrilling-savings-alert-for-tech-enthusiasts-the-apple-m3-macbook-air-drops-to-250-off-in-amazons-october-prime-sale-detailed-analysis-available/"><u>Thrilling Savings Alert for Tech Enthusiasts: The Apple M3 MacBook Air Drops to $250 Off in Amazon's October Prime Sale, Detailed Analysis Available</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-2023-dual-purpose-device-with-a-hidden-gem-for-workspaces-uncovered/"><u>Top 2023 Dual-Purpose Device with a Hidden Gem for Workspaces Uncovered</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-prime-day-savings-top-notch-laptops-on-sale-in-october-2-insider-guide/"><u>Top Prime Day Savings: Top-Notch Laptops on Sale in October 2# - Insider Guide</u></a></li>
-<li><a href="https://driver-download.techidaily.com/troubleshooting-updating-brother-mfc-7360n-printer-drivers-for-windows-users/"><u>Troubleshooting: Updating Brother MFC-7360N Printer Drivers for Windows Users</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-guiding-adding-songs-to-your-yt-channel/"><u>[Updated] In 2024, Guiding Adding Songs to Your YT Channel</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-must-see-vr-movies-for-film-enthusiasts/"><u>2024 Approved Must-See VR Movies for Film Enthusiasts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/access-high-quality-printing-with-canons-imageclass-mf4800-free-driver-downloads-now/"><u>Access High-Quality Printing with Canon's ImageCLASS MF4800: Free Driver Downloads Now!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-advantages-of-ios-177-release-a-potentially-more-secure-alternative-to-ios-18-according-to-zdnet/"><u>Discover the Advantages of iOS 17.7 Release: A Potentially More Secure Alternative to iOS 18, According to ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-latest-fixed-killerwireless-1535-driver-here/"><u>Download the Latest Fixed KillerWireless 1535 Driver Here!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-guide-downloading-and-installing-logitech-c525-webcam-drivers-on-windows/"><u>Easy Guide: Downloading & Installing Logitech C525 Webcam Drivers on Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722978283727-easy-installation-acquire-your-acers-official-bluetooth-driver-today/"><u>Easy Installation: Acquire Your Acer's Official Bluetooth Driver Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fix-lg-hardware-connection-issues-under-windows-10-8-and-7-a-comprehensive-tutorial/"><u>Fix LG Hardware Connection Issues Under Windows 10, 8 & 7: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratis-conversion-de-archivo-audible-en-la-web-desde-wma-hasta-m4b-con-herramientas-en-linea-y-facil-de-uso-como-movavi/"><u>Gratis Conversión De Archivo Audible en La Web: Desde WMA Hasta M4B Con Herramientas en Línea Y Fácil De Uso Como Movavi</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/how-to-access-your-facebook-recent-view-log/"><u>How to Access Your Facebook Recent View Log</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-11-to-other-iphone-15-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 11 To Other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-x-fold-2-phone-without-password-by-drfone-android/"><u>How To Unlock Vivo X Fold 2 Phone Without Password?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-updates-for-your-bluetooth-adapter-newest-generic-drivers-for-windows-computers-free/"><u>Install Updates for Your Bluetooth Adapter - Newest Generic Drivers for Windows Computers (Free)</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/mobile-mastery-securing-your-snapchat-videos-on-phone-for-2024/"><u>Mobile Mastery Securing Your Snapchat Videos on Phone for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-process-to-refresh-webcam-software-in-windows-11/"><u>Step-by-Step Process to Refresh Webcam Software in Windows 11</u></a></li>
 </ul></div>
 

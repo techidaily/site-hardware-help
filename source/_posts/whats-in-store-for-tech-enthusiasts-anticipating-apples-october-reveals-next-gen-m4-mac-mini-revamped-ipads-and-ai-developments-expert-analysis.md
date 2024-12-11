@@ -1,7 +1,7 @@
 ---
 title: "What's in Store for Tech Enthusiasts: Anticipating Apple's October Reveals – Next-Gen M4 Mac Mini, Revamped iPads & AI Developments – Expert Analysis"
-date: 2024-12-04T09:33:44.142Z
-updated: 2024-12-05T06:39:43.027Z
+date: 2024-12-05T03:20:50.726Z
+updated: 2024-12-10T17:49:29.474Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,21 +118,16 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-pursuing-peak-propeller-efficiency-for-drones/"><u>[New] 2024 Approved Pursuing Peak Propeller Efficiency for Drones</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/est-free-introduction-software-for-youtubers-for-2024/"><u>[New] Best Free Introduction Software for Youtubers for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-premium-mac-graphics-collector/"><u>[New] In 2024, Premium Mac Graphics Collector</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-pros-picks-best-microphones-for-asmr-recording/"><u>[Updated] 2024 Approved Pros' Picks Best Microphones for ASMR Recording</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-flight-expertise-unleashed-an-examination-of-dji-phantom-3/"><u>2024 Approved Flight Expertise Unleashed An Examination of DJI Phantom 3</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-web-based-fb-music-extractor/"><u>2024 Approved Web-Based FB Music Extractor</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exclusive-pick-of-the-years-most-portable-and-powerful-laptops-a-side-by-side-test/"><u>Exclusive Pick of the Year's Most Portable & Powerful Laptops: A Side-by-Side Test</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-xiaomi-redmi-note-12-4g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Xiaomi Redmi Note 12 4G Phones with/without a PC</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/massive-discount-on-the-4tb-samsung-t5-ssd-now-available-for-purchase-on-amazon-up-to-50-savings/"><u>Massive Discount on the 4TB Samsung T5 SSD Now Available for Purchase on Amazon - Up to 50% Savings!</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-the-gopro-editors-handbook-mac-edition/"><u>New In 2024, The GoPro Editors Handbook Mac Edition</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/one-week-with-an-ergonomic-split-keyboard-how-it-transformed-my-pc-experience-techradar/"><u>One Week with an Ergonomic Split Keyboard: How It Transformed My PC Experience | TechRadar</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/reliable-portable-power-supply-for-laptops-trustworthy-performance-over-years-now-available-with-hefty-discount-on-zdnet/"><u>Reliable Portable Power Supply for Laptops: Trustworthy Performance Over Years | Now Available with Hefty Discount on ZDNET!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/save-big-with-these-3-superior-under-1k-laptop-bargains-at-costco-amazon-and-dell-during-cyber-monday-2022-zdnet/"><u>Save Big with These 3 Superior Under $1K Laptop Bargains at Costco, Amazon & Dell During Cyber Monday 2022 - ZDNet</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/step-by-step-tutorial-dvd-to-matroska-mkv-transformation-for-windows-users/"><u>Step-by-Step Tutorial: DVD to Matroska (MKV) Transformation for Windows Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-35-unbeatable-cyber-monday-bargains-on-dell-products-from-retailers-like-best-buy-amazon-and-newegg-zdnet/"><u>Top 35 Unbeatable Cyber Monday Bargains on Dell Products From Retailers Like Best Buy, Amazon & Newegg | ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-pick-for-budget-savvy-users-grab-your-new-15-inch-macbook-air-now-still-with-a-stunning-250-discount/"><u>Top Pick for Budget-Savvy Users: Grab Your New 15-Inch MacBook Air Now, Still with a Stunning $250 Discount!</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-10-game-changing-ways-for-designing-cover-art/"><u>[New] 2024 Approved 10 Game-Changing Ways for Designing Cover Art</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-from-zero-to-hero-on-instagram-fame/"><u>[New] In 2024, From Zero to Hero on Instagram Fame</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-understanding-slug-lines-an-essential-guide/"><u>2024 Approved Understanding Slug Lines An Essential Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-radeon-r9-series-quick-start-to-downloading-and-installing-drivers-on-windows/"><u>AMD Radeon R9 Series: Quick Start to Downloading & Installing Drivers on Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722974426339-download-intelligent-cpu-drives-swiftly-and-simply/"><u>Download Intelligent CPU Drives Swiftly and Simply!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-solutions-for-logitech-c615-drivers-no-more-hassles/"><u>Effortless Solutions for Logitech C615 Drivers - No More Hassles!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-does-chatgpts-use-of-current-data-impact-all-users/"><u>How Does ChatGPT's Use of Current Data Impact All Users?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-enhance-visibility-editing-igtv-video-texts/"><u>In 2024, Enhance Visibility Editing IGTV Video Texts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/officially-verified-drivers-for-realteks-rtl8188cu-wireless-adapter-compatible-with-windows-10-and-7-systems/"><u>Officially Verified Drivers for Realtek's RTL8188CU Wireless Adapter - Compatible with Windows 10 & 7 Systems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-and-fixing-modern-warfare-3s-code-1eba6c98-memory-problem/"><u>Troubleshooting and Fixing Modern Warfare 3'S Code 1Eba6c98 Memory Problem</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-decoding-the-selection-process-for-premier-mac-music-metadata-tools/"><u>Updated 2024 Approved Decoding the Selection Process for Premier Mac Music Metadata Tools</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide to Nvidia's Upcoming Blackwood & GeForce RTX 50 Series Reveal: Specs, Launch Timelines, Costs, and Latest News"
-date: 2024-08-19T10:21:57.670Z
-updated: 2024-08-20T10:21:57.670Z
+date: 2024-12-08T19:03:50.970Z
+updated: 2024-12-10T23:08:29.502Z
 tags:
   - components
 categories:
@@ -29,6 +29,10 @@ Japan-based SSD maker Nextorage has unveiled an all-new PCIe Gen 4 M.2 SSD aimed
 
  Despite its small size, the new Nextorage drive is one of only a couple of M.2 2230 drives that can hit speeds similar to those of larger outgoing PCIe Gen 4 M.2 2280 class drives and get close to the bandwidth limitations of PCIe Gen 4\. With a read speed of nearly seven and a half gigabytes per second, the G Series ME is the fastest M.2 2230 drive on the market. Its closest competitor is the [Corsair MP600 Mini,](https://tools.techidaily.com) which hits read speeds of 7GB/s flat.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -43,8 +47,6 @@ Japan-based SSD maker Nextorage has unveiled an all-new PCIe Gen 4 M.2 SSD aimed
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -52,8 +54,26 @@ Japan-based SSD maker Nextorage has unveiled an all-new PCIe Gen 4 M.2 SSD aimed
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/updated-smile-and-shine-transform-photos-at-no-expense/"><u>[Updated] Smile & Shine Transform Photos at No Expense</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-seamless-obs-zoom-connection-step-by-step/"><u>2024 Approved Seamless OBS-Zoom Connection Step-by-Step</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-vivo-v29-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amazons-biggest-savings-pre-prime-day-2cuary-2024-uncovered-exclusive-deals-and-tips-cnet/"><u>Amazon's Biggest Savings Pre-Prime Day 2Cuary 2024 Uncovered – Exclusive Deals & Tips | CNET</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/budget-friendly-powershot-perfection-elph-190/"><u>Budget-Friendly PowerShot Perfection: ELPH 190</u></a></li>
+<li><a href="https://apple-account.techidaily.com/everything-to-know-about-apple-id-password-requirements-for-iphone-13-pro-max-by-drfone-ios/"><u>Everything To Know About Apple ID Password Requirements For iPhone 13 Pro Max</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-offers-on-laptops-for-the-autumn-sales-extravaganza-dont-miss-out-in-oct-24-techwisebargains/"><u>Exclusive Offers on Laptops for the Autumn Sales Extravaganza: Don’t Miss Out in Oct '24 | TechWiseBargains</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/journey-to-metaverse-leading-vr-headsets-reviewed/"><u>Journey to Metaverse Leading VR Headsets Reviewed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/leading-security-key-options-for-202n-proven-winners-by-specialists-cnet/"><u>Leading Security Key Options for 202N: Proven Winners by Specialists | CNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/snag-your-lenovo-flex-3-chromebook-at-a-steal-this-black-friday-only-99-dont-miss-out-with-pre-cyber-monday-savings-insider-tech-news/"><u>Snag Your Lenovo Flex 3 Chromebook at a Steal This Black Friday – Only $99! Don't Miss Out with Pre-Cyber Monday Savings | Insider Tech News</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-oneplus-nord-ce-3-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of OnePlus Nord CE 3 5G ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-full-scoop-on-apples-october-event-highlights-and-surprises-in-depth-coverage-by-zdnet/"><u>The Full Scoop on Apple’s October Event Highlights and Surprises | In-Depth Coverage by ZDNET</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-11-logiciels-de-montage-video-pour-windows-10-les-plus-efficaces/"><u>Top 11 Logiciels De Montage Vidéo Pour Windows 10: Les Plus Efficaces</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-portable-displays-comprehensive-reviews-and-comparisons-by-zdnet/"><u>Top-Rated Portable Displays - Comprehensive Reviews & Comparisons by ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722999225971-total-war-warhammer-ii-crashing-problems-now-fixed/"><u>Total War: Warhammer II Crashing Problems - Now Fixed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-deal-alert-top-rated-gaming-speakers-now-30-cheaper-on-amazon-reviewed/"><u>Unbeatable Deal Alert: Top-Rated Gaming Speakers Now 30% Cheaper on Amazon - Reviewed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbelievable-deal-alert-top-tier-gaming-audio-experience-now-just-150-less-on-amazon-discovered-by-zdnet/"><u>Unbelievable Deal Alert: Top-Tier Gaming Audio Experience Now Just $150 Less on Amazon - Discovered by ZDNet!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upcoming-revelations-at-apples-october-showcase-unveiling-the-m4-mac-mini-latest-ipad-lineup-enhanced-ai-capabilities-and-beyond-insights-from-zdnet/"><u>Upcoming Revelations at Apple's October Showcase: Unveiling the M4 Mac Mini, Latest iPad Lineup, Enhanced AI Capabilities & Beyond - Insights From ZDNet</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

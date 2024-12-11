@@ -1,7 +1,7 @@
 ---
 title: "Score Big Savings: Premium Corsair Scimitar RGB Elite MMO Mouse for Unbeatable Price – Only $49 Now"
-date: 2024-08-19T10:20:53.417Z
-updated: 2024-08-20T10:20:53.417Z
+date: 2024-12-08T18:18:41.334Z
+updated: 2024-12-11T09:51:49.815Z
 tags:
   - peripherals
 categories:
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/2df9b8f3d2024c9ae71f35777ff3859d473b31e67
 
  The Retro 18 is the perfect companion to the 8BitDo Retro Mechanical Keyboards, with their available colorways and aesthetics matching each other. So, if you’re after a retro build, these are the perfect peripherals for your desk. You can also pair it with[the Lofree Retro Mouse](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FLOFREE-Bluetooth-Connection-Rechargeable-Compatible%2Fdp%2FB0CT9VX5ZM%2F%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1163565040540890099-20) to complete the look, as 8BitDo is yet to release a companion mouse for its retro accessories.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,8 +45,6 @@ thumbnail: https://thmb.techidaily.com/2df9b8f3d2024c9ae71f35777ff3859d473b31e67
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -50,8 +52,21 @@ thumbnail: https://thmb.techidaily.com/2df9b8f3d2024c9ae71f35777ff3859d473b31e67
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-solvedhow-to-blur-faces-or-objects-in-youtube-videos/"><u>[Updated] 2024 Approved Solved How to Blur Faces or Objects in YouTube Videos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-web-accessory-fb-stories-keeper/"><u>[Updated] 2024 Approved Web Accessory FB Stories Keeper</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-techniques-for-rapid-deletion-of-youtube-feedback/"><u>[Updated] Techniques for Rapid Deletion of Youtube Feedback</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-most-efficient-work-travel-tablet-alternative-to-microsoft-and-lenovo-according-to-industry-experts-zdnet-insights/"><u>Discover the Most Efficient Work Travel Tablet Alternative to Microsoft and Lenovo, According to Industry Experts | ZDNet Insights</u></a></li>
+<li><a href="https://media-tips.techidaily.com/download-vlc-media-player-version-40-explore-the-latest-enhancements-and-bug-fixes/"><u>Download VLC Media Player Version 4.0: Explore the Latest Enhancements & Bug Fixes</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/finding-the-ultimate-cam-choice-post-manycam/"><u>Finding the Ultimate Cam Choice Post-ManyCam</u></a></li>
+<li><a href="https://program-issues.techidaily.com/get-your-football-manager-2022-running-smoothly-again-pc-compatibility-fixes/"><u>Get Your Football Manager 2022 Running Smoothly Again – PC Compatibility Fixes</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-itel-p55-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Itel P55 Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-find-your-ideal-affordable-macbook-usb-c-charger-for-less-than-70-on-amazon-current-deals-cnet/"><u>How to Find Your Ideal Affordable MacBook USB-C Charger for Less Than $70 on Amazon - Current Deals | CNET</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock Apple iPhone 6s without Passcode or Face ID</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/section-2b-five-facts-to-remember/"><u>Section 2B: Five Facts to Remember</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-5-best-copilotplus-laptops-showcased-at-ifa-202/"><u>Top 5 Best Copilot+ Laptops Showcased at IFA 202</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-seasonal-bargains-top-discounts-on-ipads-televisions-computers-and-beyond-exclusive/"><u>Unbeatable Seasonal Bargains: Top Discounts on iPads, Televisions, Computers & Beyond Exclusive</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/zdnet-reviews-discover-the-chromebook-dominating-long-lasting-battery-life-uncontestably/"><u>ZDNet Reviews: Discover the Chromebook Dominating Long-Lasting Battery Life Uncontestably!</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->

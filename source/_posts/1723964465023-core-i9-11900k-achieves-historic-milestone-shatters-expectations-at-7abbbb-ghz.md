@@ -1,7 +1,7 @@
 ---
 title: "Core I9-11900K Achieves Historic Milestone: Shatters Expectations at 7.abbbb GHz!"
-date: 2024-08-19T10:25:48.522Z
-updated: 2024-08-20T10:25:48.522Z
+date: 2024-12-05T06:40:36.286Z
+updated: 2024-12-11T10:04:54.722Z
 tags:
   - overclocking
 categories:
@@ -25,6 +25,10 @@ Professional overclocker Hicookie managed to increase the frequency of one of In
 
  To overclock his Pentium G7400T to 5808 MHz, Hicookie increased its BCLK to 187 MHz (or by 87%), pushed the voltage to 1.656V (which is rather extreme for a 10nm CPU) and used liquid nitrogen cooling. The experiment was conducted on Gigabyte's expensive Aorus Z690 Tachyon motherboard, which is an uncommon pairing with such a cheap CPU. Still, since the purpose of the experiment was to find out the overclocking potential of Intel's Pentium G7400T (rather than build an entry-level machine with overclocking in mind), this choice was justified. What remains to be seen is whether the G7400T is a good overclocker without liquid nitrogen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -39,8 +43,6 @@ Professional overclocker Hicookie managed to increase the frequency of one of In
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -48,8 +50,24 @@ Professional overclocker Hicookie managed to increase the frequency of one of In
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-fb-video-to-mp3-digital-audio-extraction-guide/"><u>[New] 2024 Approved FB Video to MP3 Digital Audio Extraction Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-from-sideways-to-symmetry-the-instagram-chronicles-of-flipping-photos-for-2024/"><u>[New] From Sideways to Symmetry The Instagram Chronicles of Flipping Photos for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-explore-leading-websites-for-text-embellishments/"><u>[Updated] Explore Leading Websites for Text Embellishments</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/boost-productivity-with-two-screens-how-the-new-m3-macbook-pro-matches-the-m3-macbook-airs-multitasking-features/"><u>Boost Productivity with Two Screens: How the New M3 MacBook Pro Matches the M3 MacBook Air's Multitasking Features</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/common-windows-hardware-problems-identifying-defective-parts-for-troubleshooting-by-yl-computing/"><u>Common Windows Hardware Problems: Identifying Defective Parts for Troubleshooting - By YL Computing</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-acers-impressive-combo-of-high-quality-oled-screen-and-advanced-webcams-in-our-latest-review/"><u>Discover Acer's Impressive Combo of High-Quality OLED Screen and Advanced Webcams in Our Latest Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-ultimate-festive-bargains-apple-devices-smart-tvs-and-high-performance-laptops-save-big-this-season-expert-tips-from-zdnet/"><u>Discover the Ultimate Festive Bargains: Apple Devices, Smart TVs, and High-Performance Laptops - Save Big This Season | Expert Tips From ZDNET</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-6-must-have-tools-for-successful-game-streaming/"><u>In 2024, 6 Must-Have Tools for Successful Game Streaming</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-default-settings-for-system-backups-in-windows/"><u>Restoring Default Settings for System Backups in Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/score-big-savings-with-metas-premium-512gb-quest-3-vr-headset-at-unrivalled-rates-insights/"><u>Score Big Savings with Meta's Premium 512GB Quest 3 VR Headset at Unrivalled Rates | Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/score-unbeatable-price-cut-save-up-to-57-off-the-powerful-gigabyte-aero-16-laptop-for-gamers-digitaldaily/"><u>Score Unbeatable Price Cut: Save up to $57 Off the Powerful Gigabyte Aero 16 Laptop for Gamers | DigitalDaily</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-choosing-a-leading-wi-fi-router-for-2ergy-networking-solutions-in-the-year-2025/"><u>Ultimate Guide to Choosing a Leading Wi-Fi Router for 2Ergy Networking Solutions in the Year 2025.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-deals-alert-snag-the-finest-value-for-apples-latest-13-inch-macbook-air-with-m2-at-all-time-low-price-this-cyber-monday-insider-tips/"><u>Unbeatable Deals Alert: Snag the Finest Value for Apple's Latest 13-Inch MacBook Air with M2 at All-Time Low Price This Cyber Monday Insider Tips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/uncomplicated-story-framework-for-2024/"><u>Uncomplicated Story Framework for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-strengths-of-the-x-chair-x4-executive-chair-a-reliable-option-for-office-environments/"><u>Unveiling the Strengths of the X-Chair X4 Executive Chair: A Reliable Option for Office Environments</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/winxdvd-ultimate-toolkit-professional-dvd-ripping-and-iphone-video-transfers/"><u>WinXDVD Ultimate Toolkit - Professional DVD Ripping & iPhone Video Transfers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/worth-the-investment-evaluating-the-value-of-portable-monitors-a-comparative-analysis/"><u>Worth the Investment: Evaluating the Value of Portable Monitors - A Comparative Analysis</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->

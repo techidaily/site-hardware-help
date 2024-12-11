@@ -1,7 +1,7 @@
 ---
 title: "Groundbreaking Performance: Splave Sets New Benchmark Using Ryzene #9 3900XT Chips in a Liquid Nitrogen Environment"
-date: 2024-08-19T10:25:18.177Z
-updated: 2024-08-20T10:25:18.177Z
+date: 2024-12-04T19:16:29.748Z
+updated: 2024-12-10T16:16:57.542Z
 tags:
   - overclocking
 categories:
@@ -27,6 +27,10 @@ Based on Intel's Netburst microarchitecture and made using 65nm process technolo
 
  It is noteworthy that the 8.0 GHz barrier is rather hard to break, and to date, only 117 processors have managed to pass it. The vast majority of the processors to hit 8.0 GHz or higher frequency are AMD's FX 8000-series units, as well as Intel's Cedar Mill-based Celeron D or Pentium CPUs, but there are also several AMD's A-series APUs too.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -35,14 +39,11 @@ Based on Intel's Netburst microarchitecture and made using 65nm process technolo
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -51,8 +52,18 @@ Based on Intel's Netburst microarchitecture and made using 65nm process technolo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-uncovering-forgotten-facebook-episodes-cross-device-instructions-for-2024/"><u>[New] Uncovering Forgotten Facebook Episodes Cross-Device Instructions for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-engage-audiences-with-these-inspiring-free-templates-for-slideshows/"><u>[Updated] 2024 Approved Engage Audiences with These Inspiring, Free Templates for Slideshows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/day-two-highlights-of-ces-2023-top-innovations-unveiled-insights-from-zdnet/"><u>Day Two Highlights of CES 2023: Top Innovations Unveiled - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-ultimate-lightweight-laptop-perfect-for-home-offices-in-depth-testing-and-analysis-on-zdnet/"><u>Discover the Ultimate Lightweight Laptop Perfect for Home Offices: In-Depth Testing & Analysis on ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-a-high-performance-asus-notebook-for-250-at-walmart-features-and-specs-reviewed/"><u>Get a High-Performance Asus Notebook for $250 at Walmart: Features and Specs Reviewed</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722999961120-half-life-alyx-optimization-guide-stop-the-lag-and-frame-drops-now/"><u>Half-Life: Alyx Optimization Guide - Stop the Lag and Frame Drops Now</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-htc-u23-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On HTC U23? Fixed | Dr.fone</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/recovering-deleted-files-from-your-pc-a-guide-for-windows-10-and-11-users/"><u>Recovering Deleted Files From Your PC: A Guide for Windows 10 and 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategic-disk-management-visualize-and-maximize-with-altwindirstat/"><u>Strategic Disk Management: Visualize & Maximize with AltWinDirStat</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-lenovo-computers-in-263-comprehensive-reviews-by-tech-pros-choose-wisely/"><u>Top Rated Lenovo Computers in 2^63: Comprehensive Reviews by Tech Pros - Choose Wisely!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-nvidias-ultimate-performance-the-studio-laptop-range-with-unmatched-lightning-fast-gpu-power/"><u>Unveiling Nvidia's Ultimate Performance: The Studio Laptop Range with Unmatched, Lightning-Fast GPU Power</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->

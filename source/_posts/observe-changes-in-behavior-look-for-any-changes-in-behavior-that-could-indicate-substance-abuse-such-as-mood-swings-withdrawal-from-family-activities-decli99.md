@@ -1,7 +1,7 @@
 ---
 title: "Observe Changes in Behavior: Look for Any Changes in Behavior that Could Indicate Substance Abuse, Such as Mood Swings, Withdrawal From Family Activities, Declining Academic Performance, or a Sudden Disinterest in Hobbies and Friends"
-date: 2024-08-19T10:28:20.937Z
-updated: 2024-08-20T10:28:20.937Z
+date: 2024-12-08T17:43:48.623Z
+updated: 2024-12-11T05:27:41.254Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,18 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-help.techidaily.com/discover-the-surprising-secrets-lenovos-portable-laptop-with-stealthy-trackpoint-and-more-unveiled-by-tech-experts/"><u>Discover the Surprising Secrets: Lenovo's Portable Laptop with Stealthy Trackpoint & More | Unveiled by Tech Experts</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xr-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XR with a Mask On</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-innovative-thumbnail-tips-for-mac-users-youtube/"><u>In 2024, Innovative Thumbnail Tips for Mac Users - YouTube</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-next-gen-windows-features-that-revolutionize-your-experience/"><u>In 2024, Next-Gen Windows Features that Revolutionize Your Experience</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-standout-book-trailer-highlights/"><u>In 2024, Standout Book Trailer Highlights</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-tecno-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Tecno Phones</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ideal-remote-work-companion-a-leading-lightweight-laptop-that-exceeds-expectations-according-to-our-experts-zdnet/"><u>The Ideal Remote Work Companion: A Leading Lightweight Laptop That Exceeds Expectations, According to Our Experts | ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-perfect-companion-for-remote-work-an-experts-guide-to-lightweight-laptops-that-excel-in-productivity-zdnet-insights/"><u>The Perfect Companion for Remote Work: An Expert's Guide to Lightweight Laptops That Excel in Productivity | ZDNET Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-performer-a-crowd-favorite-laptop-proven-by-testing-exceptional-specs-revealed-on-zdnet/"><u>Top Performer: A Crowd Favorite Laptop Proven by Testing - Exceptional Specs Revealed on ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-halloween-black-friday-gaming-bargains-of-2024-still-going-strong-save-hundreds-now-techinsider/"><u>Ultimate Halloween Black Friday Gaming Bargains of 2024 Still Going Strong – Save Hundreds Now | TechInsider</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-a-pros-approach-to-time-stamping-for-youtube-enthusiasts-for-2024/"><u>Unveiling a Pro's Approach to Time Stamping for YouTube Enthusiasts for 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->

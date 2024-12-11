@@ -1,7 +1,7 @@
 ---
 title: Exclusive Cyber Monday Offer on Lenovo Chromebooks for Just $79! Don't Miss Out – Limited Stock Available | ZDNET Insider Tips
-date: 2024-12-01T20:00:00.896Z
-updated: 2024-12-05T02:53:00.667Z
+date: 2024-12-09T08:03:25.599Z
+updated: 2024-12-10T16:48:46.376Z
 tags:
   - laptops
 categories:
@@ -38,7 +38,7 @@ This laptop isn't solely for business professionals. Everybody can enjoy the dev
 Right now is the best time to buy this device. The [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C33d8b115-5353-48ee-93ba-d7db0255209a%7Cdtp&dtb=1) is currently on sale at Amazon for $1,500\. That is almost $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C33d8b115-5353-48ee-93ba-d7db0255209a%7Cdtp&dtb=1) is much more expensive, but I recommend it as an alternative if you can afford it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -75,18 +75,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-picturing-laughter-building-memes-with-text-tool/"><u>[New] Picturing Laughter Building Memes with Text Tool</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-ultimate-download-manager-best-youtube-downloader-apps/"><u>[Updated] In 2024, Ultimate Download Manager Best YouTube Downloader Apps</u></a></li>
-<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Realme C67 4G | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-your-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On your Apple iPhone 11 Pro Max</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-realme-v30t-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Realme V30T | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Vivo T2 5G? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mcafee-introduces-advanced-ai-powered-tool-to-combat-deepfake-audios-is-it-trustworthy-enough/"><u>McAfee Introduces Advanced AI-Powered Tool to Combat Deepfake Audios – Is It Trustworthy Enough?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/revolutionize-your-computing-experience-the-one-of-a-kind-laptop-gadget-featured-by-zdnet-that-boosts-performance/"><u>Revolutionize Your Computing Experience: The One-of-a-Kind Laptop Gadget Featured by ZDNet That Boosts Performance</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/score-big-with-savings-the-8tb-samsung-t5-ssd-at-just-36-off-on-amazon-insights/"><u>Score Big with Savings! The 8TB Samsung T5 SSD at Just 36% Off on Amazon | Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-upgrading-your-laptops-memory-ram-insights/"><u>Step-by-Step Guide: Upgrading Your Laptop's Memory (RAM) - Insights</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-social-side-of-success-how-connectivity-can-aid-growth/"><u>The Social Side of Success: How Connectivity Can Aid Growth</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-pick-the-ultimate-lightweight-laptop-for-seamless-remote-work-reviewed/"><u>Top Pick: The Ultimate Lightweight Laptop for Seamless Remote Work - Reviewed</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/upgrade-your-apple-m3-laptops-and-imacs-unlocking-the-power-of-macos-sierra-with-ease/"><u>Upgrade Your Apple M3 Laptops and iMacs: Unlocking the Power of macOS Sierra with Ease!</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-youtube-creator-studio-unlocking-the-power-of-your-channel/"><u>[Updated] In 2024, YouTube Creator Studio Unlocking the Power of Your Channel</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-oppo-reno-11-pro-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Oppo Reno 11 Pro 5G Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-snap-into-action-efficient-office-photography-tips/"><u>2024 Approved Snap Into Action Efficient Office Photography Tips</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/2024s-highly-recommended-extended-mouse-pads-list-find-the-best-fit/"><u>2024'S Highly Recommended Extended Mouse Pads List – Find the Best Fit</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-radeon-vega-64-driver-downloads-latest-version-compatible-with-windows-os-fixed/"><u>AMD Radeon Vega 64 Driver Downloads: Latest Version Compatible with Windows OS - FIXED</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/approach-explain-how-high-wind-speeds-affect-concrete-surface-moisture-and-strength-development/"><u>Approach: Explain How High Wind Speeds Affect Concrete Surface Moisture and Strength Development</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722971666732-download-premium-behringer-audio-drives-at-no-cost-elevate-your-music-production-today/"><u>Download Premium Behringer Audio Drives at No Cost - Elevate Your Music Production Today!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-download-now-zebra-gk420d-printer-drive-simple-installation-process/"><u>Get the [DOWNLOAD Now] Zebra GK420d Printer Drive - Simple Installation Process</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-nvidia-quadro-rtx-4000-drivers-step-by-step-download-and-setup/"><u>Get the Newest NVIDIA Quadro RTX 4000 Drivers: Step-by-Step Download and Setup</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-tecno-pova-5-pro-lock-screen-password-by-drfone-android/"><u>How to Reset your Tecno Pova 5 Pro Lock Screen Password</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-successfully-install-or-update-canon-mg2520-printer-drivers-for-windows-machines/"><u>How to Successfully Install or Update Canon MG2520 Printer Drivers for Windows Machines</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-apple-iphone-xr-without-passcode-now-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock Apple iPhone XR Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-poco-c50-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Poco C50 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/nvidia-geforce-optimized-drivers-for-windows-download-now/"><u>NVIDIA GeForce Optimized Drivers for Windows - Download Now!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-gameplay-interruptions-eliminating-stutters-and-glitches-in-pcs-fall-guys/"><u>Overcome Gameplay Interruptions: Eliminating Stutters and Glitches in PC's Fall Guys</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solution-for-failed-game-boot-up-confirm-integrity-of-game-files/"><u>Solution for Failed Game Boot-Up – Confirm Integrity of Game Files</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-dell-g1graphics-card-driver-for-optimal-performance-in-windows/"><u>Update Your Dell G1([Graphics Card] Driver) for Optimal Performance in Windows</u></a></li>
 </ul></div>
 

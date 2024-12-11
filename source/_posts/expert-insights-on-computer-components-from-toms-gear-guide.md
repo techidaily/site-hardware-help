@@ -1,7 +1,7 @@
 ---
 title: Expert Insights on Computer Components From Tom's Gear Guide
-date: 2024-08-19T10:22:53.988Z
-updated: 2024-08-20T10:22:53.988Z
+date: 2024-12-05T05:06:02.475Z
+updated: 2024-12-11T09:01:25.077Z
 tags:
   - cases
 categories:
@@ -31,14 +31,11 @@ This is a glorious-looking PC case that's more for the aesthetic than the practi
 
  The case offers a reasonable amount of customization, with brackets for changing your GPU from horizontal to vertical, orientation of the PSU (dependent on mobo size), and radiator placement. The front panel IO located on the right-hand side of the case includes 2 x USB 3 ports and 2 x USB 2 ports, plus audio ports for headset and mic.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -47,8 +44,26 @@ This is a glorious-looking PC case that's more for the aesthetic than the practi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-step-by-step-techniques-for-earning-profits-on-vimeo/"><u>[New] Step-by-Step Techniques for Earning Profits on Vimeo</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-11-best-free-youtube-name-generators-you-should-know/"><u>[Updated] 2024 Approved 11 Best Free YouTube Name Generators You Should Know</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-gain-more-followers-masterful-youtube-marketing-techniques/"><u>2024 Approved Gain More Followers Masterful YouTube Marketing Techniques</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/are-microsofts-surface-devices-redefining-ai-computing-the-implications-for-apple-and-beyond-insights/"><u>Are Microsoft's Surface Devices Redefining AI Computing? The Implications for Apple & Beyond Insights</u></a></li>
+<li><a href="https://fox-http.techidaily.com/do-creators-profit-from-product-evaluations-on-youtube/"><u>Do Creators Profit From Product Evaluations on YouTube?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exciting-update-microsoft-introduces-surface-devices-and-copilot-for-enterprise-customers-discover-the-latest-features-zdnet/"><u>Exciting Update: Microsoft Introduces Surface Devices & Copilot for Enterprise Customers - Discover the Latest Features! [ZDNet]</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-vivo-s17t-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-any-oppo-a1x-5g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Oppo A1x 5G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-operatic-experience-unlocking-your-nitro-for-free/"><u>Maximize Operatic Experience: Unlocking Your Nitro for Free</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/october-primed-for-metas-unbeatable-512gb-quest-3-offer-this-vr-shopping-season-zdnet-insights/"><u>October Primed for Meta's Unbeatable 512GB Quest 3 Offer This VR Shopping Season - ZDNet Insights</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/patek-flexible-tripod-review-unfolding-possibilities/"><u>Patek Flexible Tripod Review - Unfolding Possibilities</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/sale-alert-snag-the-discounted-8tb-samsung-portable-ssd-save-36-on-amazon-zdnet-coverage/"><u>Sale Alert: Snag the Discounted 8TB Samsung Portable SSD - Save 36% on Amazon (ZDNet Coverage)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-choosing-the-perfect-featherlight-laptop-for-mobile-professionals-techradar/"><u>The Ultimate Guide to Choosing the Perfect Featherlight Laptop for Mobile Professionals | TechRadar</u></a></li>
+<li><a href="https://fox-http.techidaily.com/twitch-reversion-made-simple-top-ten-instructions-at-hand/"><u>Twitch Reversion Made Simple Top Ten Instructions at Hand</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/why-the-hp-spectre-x3-is-dominating-as-a-favorite-laptop-of-the-year-latest-review/"><u>Why the HP Spectre X3) Is Dominating as a Favorite Laptop of the Year Latest Review</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+

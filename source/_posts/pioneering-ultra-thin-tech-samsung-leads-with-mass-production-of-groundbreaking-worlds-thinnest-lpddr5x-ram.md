@@ -1,7 +1,7 @@
 ---
 title: "Pioneering Ultra-Thin Tech: Samsung Leads with Mass Production of Groundbreaking 'World's Thinnest' LPDDR5X RAM"
-date: 2024-08-19T10:21:29.452Z
-updated: 2024-08-20T10:21:29.452Z
+date: 2024-12-04T17:41:19.115Z
+updated: 2024-12-11T08:26:30.512Z
 tags:
   - components
 categories:
@@ -16,6 +16,10 @@ This week, French brand Wika, known best for selling rebadged Huawei devices in 
  Compared to other eGPU solutions, the Wiko Hi GT Cube doesn't seem particularly concerned with expanding storage or I/O. Instead, the focus is on the total 100-watt charging capacity. The overall pricing of 399 Chinese yuan (broadly equivalent to about $558) places it lower than most other 7600M XT eGPUs, which usually exceed $600.
 
  Also, while Wika's Wiko Hi GT may come from a company that primarily sells rebadged Huawei products, they don't seem to be a Huawei subsidiary...though the Hi GT's China launch appears to have been done with the recent release of the Huawei MateBook GT 14 in mind.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Wiko Hi GT Cube eGPU Specifications
 
@@ -37,6 +41,10 @@ This week, French brand Wika, known best for selling rebadged Huawei devices in 
 
  Overall, the Wiko Hi GT Cube does seem to be a compelling offer, and it is like a suitable companion to the Huawei Mate GT 14 laptop, but with one very crucial downside. While Thunderbolt support is listed, the specific version of Thunderbolt is not. Thunderbolt 3 and 4 are most likely considering the usage of USB4— and while all three standards are typically capped at 40 Gigabits, Thunderbolt 4 is still the best for driving an eGPU. OCuLink would be even better, but unfortunately, it isn't present in any form.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +59,6 @@ This week, French brand Wika, known best for selling rebadged Huawei devices in 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +66,26 @@ This week, French brand Wika, known best for selling rebadged Huawei devices in 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-perfecting-the-art-of-interviews-iphone-and-ipad-recording-techniques-for-2024/"><u>[New] Perfecting the Art of Interviews IPhone & iPad Recording Techniques for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-elite-videotelephony-for-effective-online-meetings/"><u>[Updated] Elite Videotelephony for Effective Online Meetings</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-perfecting-profile-playlists-on-facebook-through-mobile/"><u>[Updated] In 2024, Perfecting Profile Playlists on Facebook Through Mobile</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-unlocking-4k-potential-an-in-depth-look-at-dell-p2715q/"><u>[Updated] In 2024, Unlocking 4K Potential An In-Depth Look at Dell P2715Q</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-process-for-making-a-stellar-podcast-launch-video/"><u>2024 Approved Step-By-Step Process for Making a Stellar Podcast Launch Video</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-the-art-of-turning-youtube-media-on-its-head/"><u>2024 Approved The Art of Turning YouTube Media on Its Head</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722968615984-get-the-latest-version-of-steelseries-engine-on-windows-11-free-downloads-available/"><u>Get the Latest Version of SteelSeries Engine on Windows 11 – Free Downloads Available</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/grab-the-hp-victus-15-for-an-unbelievable-deal-just-hit-530-markdown-at-best-buy-zdnet-insights/"><u>Grab the HP Victus 15 for an Unbelievable Deal: Just Hit $530 Markdown at Best Buy - ZDNET Insights</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-best-text-title-effect-types-in-after-effects/"><u>In 2024, Best Text Title Effect Types in After Effects</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-next-gen-audiovideo-1-players-guide-for-24/"><u>In 2024, Next Gen Audio/Video #1 Players Guide for '24</u></a></li>
+<li><a href="https://article-files.techidaily.com/lockdown-protocol-instantaneous-secure-tiktok-link-addition/"><u>Lockdown Protocol Instantaneous, Secure TikTok Link Addition</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-all-rounder-why-this-highly-praised-laptop-stands-out-with-its-robust-build-quality-insights/"><u>The Ultimate All-Rounder: Why This Highly Praised Laptop Stands Out with Its Robust Build Quality - Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-satechi-usb-c-hub-top-features-at-just-150-tech-review-by-zdnet/"><u>The Ultimate Satechi USB-C Hub: Top Features at Just $150 - Tech Review by ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-picks-most-unbeatable-laptop-offers-in-july-2024-spotted-on-zdnet/"><u>Top Picks: Most Unbeatable Laptop Offers in July 2024 - Spotted on ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-picks-ultimate-guide-to-travel-tech-essentials-insights-from-zdnet/"><u>Top Picks: Ultimate Guide to Travel Tech Essentials - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-ultraportable-notebooks-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated Ultraportable Notebooks : Comprehensive Reviews by Tech Experts - ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/transforming-productivity-a-one-week-journey-on-a-split-ergonomic-keyboard-and-its-impact/"><u>Transforming Productivity: A One-Week Journey on a Split Ergonomic Keyboard and Its Impact</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ubuntu-hidden-in-luxury-dell-systems-unveiling-project-sputnik/"><u>Ubuntu Hidden in Luxury Dell Systems: Unveiling Project Sputnik</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/zdnet-unveils-stunning-economically-priced-laptop-with-exceptional-screen-quality-worth-every-penny/"><u>ZDNet Unveils Stunning, Economically Priced Laptop with Exceptional Screen Quality - Worth Every Penny!</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->

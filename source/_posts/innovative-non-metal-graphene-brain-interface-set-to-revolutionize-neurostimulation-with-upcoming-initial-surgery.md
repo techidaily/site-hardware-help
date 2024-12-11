@@ -1,7 +1,7 @@
 ---
 title: Innovative Non-Metal Graphene Brain Interface Set to Revolutionize Neurostimulation with Upcoming Initial Surgery
-date: 2024-08-19T10:20:17.495Z
-updated: 2024-08-20T10:20:17.495Z
+date: 2024-12-04T02:48:42.539Z
+updated: 2024-12-11T04:53:23.478Z
 tags:
   - peripherals
 categories:
@@ -31,13 +31,25 @@ We can't seem to go five feet without tripping over a gaming keyboard featuring 
 
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -66,6 +78,10 @@ We can't seem to go five feet without tripping over a gaming keyboard featuring 
  (Image credit: Tom's Hardware)
 
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -128,9 +144,6 @@ Today's best Keychron Q1 deals
 
 ![Keychron Q1 HE](https://cdn.mos.cms.futurecdn.net/VRGcGtLcEcSgw9EymrUKoR-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The Q1 HE's switches are pre-lubed and have a dual-rail structure designed to reduce stem wobble. This works well; the switches are smooth and stable — there's still some stem wobble but it's not bad. The board features a double gasket mount design that makes for a comfortable typing experience, and the case is lined with sound-dampening foam and an acoustic pad to reduce ping. It's a nice-sounding keyboard out of the box, though there's some noticeable stabilizer rattle (especially in the space bar) and bottoming out sounds slightly dull. The Q1 HE's sound is not too far from that of the Boog75 — but I did have a (mild, but definitive) preference for the latter.
@@ -145,9 +158,6 @@ Today's best Keychron Q1 deals
 
 ![Keychron Q1 HE](https://cdn.mos.cms.futurecdn.net/SrPBCHxjsKZtaKMaebeZKM-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  You can customize the Q1 HE with Keychron Launcher, Keychron's new web-based tool that supports all of its keyboards. It's Keychron's in-house answer to VIA and it's very similar — it only works in WebHID-enabled browsers and you'll need to connect the keyboard via USB-C to use it. It has several sections: HE Mode, keymapping, lighting, macros, firmware updates, key testing, and bug reports. In the HE Mode tab, you can set switch actuation, turn on and customize Rapid Trigger, program multiple inputs on individual keys, and set up gamepad emulation. It's not the most polished software I've used (updating the board's firmware was a little messy) but it wasn't too difficult to figure out.
@@ -161,8 +171,17 @@ Today's best Keychron Q1 deals
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ (Image credit: Tom's Hardware)
+
+![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+ (Image credit: Tom's Hardware)
+
+![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
  (Image credit: Tom's Hardware)
 
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -172,19 +191,9 @@ Today's best Keychron Q1 deals
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
- (Image credit: Tom's Hardware)
 
-![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
- (Image credit: Tom's Hardware)
-
-![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  You can also change the keyboard's lighting effects in Keychron Launcher, though you are limited to preset effects — most of which only offer customization in the way of speed and/or color. The lighting is bright — thanks to the keyboard's south-facing PCB — and vibrant enough that it looks good behind the Q1 HE's solid, non-shine-through keycaps.
@@ -194,15 +203,17 @@ Today's best Keychron Q1 deals
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -210,6 +221,10 @@ Today's best Keychron Q1 deals
  (Image credit: Tom's Hardware)
 
  The Q1 HE has a 4,000 mAh battery that Keychron says will last "up to 100 hours" with the backlighting turned off. That's not terribly impressive given the keyboard's weight, but it also seems like plenty... given the keyboard's weight. I expect this nearly-four-pound keyboard will spend most of its time on desks.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -229,8 +244,6 @@ Today's best Keychron Q1 deals
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -238,4 +251,26 @@ Today's best Keychron Q1 deals
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-unleash-social-potential-transitioning-from-twitter-videos-to-whatsapp/"><u>[New] In 2024, Unleash Social Potential Transitioning From Twitter Videos to WhatsApp</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-verdict-on-actives-place-among-best-recorders/"><u>[New] The Verdict on Active's Place Among Best Recorders</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/2022s-most-durable-iphone-se-skins-and-covers-enhance-your-phones-safety/"><u>2022'S Most Durable iPhone SE Skins and Covers: Enhance Your Phone’s Safety</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-from-srt-to-sub-transforming-playback-sequences/"><u>2024 Approved From SRT to SUB Transforming Playback Sequences</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/boost-your-work-efficiency-with-a-deal-on-the-flip-out-laptop-screen-save-93-during-amazon-prime-day/"><u>Boost Your Work Efficiency with a Deal on the Flip-Out Laptop Screen - Save $93 During Amazon Prime Day!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/celebrate-america-with-a-deal-score-your-m2-macbook-air-for-just-699-this-presidents-day-special-promotion/"><u>Celebrate America with a Deal: Score Your M2 MacBook Air for Just $699 This Presidents' Day - Special Promotion</u></a></li>
+<li><a href="https://extra-information.techidaily.com/clear-photography-archives-legal-purchase-tactics/"><u>Clear Photography Archives Legal Purchase Tactics</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/comprehensive-breakdown-of-zd-soft-recording-features/"><u>Comprehensive Breakdown of ZD Soft Recording Features</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-smooth-connectivity-download-and-update-microsofts-compatible-bluetooth-drivers-for-all-windows-versions/"><u>Ensure Smooth Connectivity: Download & Update Microsoft's Compatible Bluetooth Drivers for All Windows Versions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-access-the-topmost-sale-bargains-of-octobers-prime-day-currently-open-shop-now/"><u>Exclusive Access: The Topmost Sale Bargains of October's Prime Day - Currently Open Shop Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-cyber-monday-offer-on-lenovo-chromebooks-for-just-79-dont-miss-out-limited-stock-available-zdnet-insider-tips/"><u>Exclusive Cyber Monday Offer on Lenovo Chromebooks for Just $79! Don't Miss Out – Limited Stock Available | ZDNET Insider Tips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-review-of-lenovo-thinkpad-x1n-unleashing-power-in-an-arm-based-ultraportable-with-5g-and-exceptional-battery-duration/"><u>Exclusive Review of Lenovo ThinkPad X1n : Unleashing Power in an Arm-Based Ultraportable with 5G & Exceptional Battery Duration</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-unparalleled-audio-top-rated-gaming-speakers-now-discounted-on-amazon-insights-from-a-seasoned-reviewer-zdnet/"><u>Experience Unparalleled Audio: Top-Rated Gaming Speakers Now Discounted on Amazon - Insights From a Seasoned Reviewer | ZDNet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/high-speed-files-inspection-on-windows-os/"><u>High-Speed Files Inspection on Windows OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revolutionizing-the-workspace-how-lenovos-latest-ai-thinkpads-are-designed-to-meet-modern-business-demands-zdnet/"><u>Revolutionizing the Workspace: How Lenovo's Latest AI ThinkPads Are Designed to Meet Modern Business Demands | ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-strategy-for-creating-shareable-content-on-instagram/"><u>The Ultimate Strategy for Creating Shareable Content on Instagram</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-picks-for-optimal-black-friday-laptop-offers-guide-for-october-2024/"><u>Top Picks for Optimal Black Friday Laptop Offers Guide for October 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-savings-for-gamers-snag-an-alienamoe-aurora-r13-and-cut-350-off-prices-limited-time-deal-on-zdnet/"><u>Unbeatable Savings for Gamers: Snag an Alienamoe Aurora R13 and Cut $350 Off Prices – Limited-Time Deal on ZDNET!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/windows-11-compatible-nvidia-rtx-2080-super-driver-software-download-and-installation-steps/"><u>Windows 11-Compatible NVIDIA RTX 2080 Super Driver Software: Download & Installation Steps</u></a></li>
+</ul></div>
 

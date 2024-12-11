@@ -1,7 +1,7 @@
 ---
 title: Expert Hardware Analysis with Tom - Your Trusted Resource
-date: 2024-08-19T10:24:46.519Z
-updated: 2024-08-20T10:24:46.519Z
+date: 2024-12-09T20:01:09.145Z
+updated: 2024-12-10T23:52:13.412Z
 tags:
   - build
 categories:
@@ -86,13 +86,25 @@ Deepcool Gamer Storm Gabriel
 
  Every component is identical to the Intel build earlier this week except the CPU, cooler and motherboard.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Definition of Insanity
 
  Some of you out there might be groaning and asking, "What, this again?" Hold on a minute. Those asking for a better 860K overclock have a valid argument. The 860K was handicapped last quarter with insufficient cooling to get any kind of meaningful overclock. You can't argue with that. This time around the CPU gets better treatment in the form of an aftermarket cooler and a larger case. So no, we're not trying the exact same thing and expecting different results. Do I expect the 860K to outperform the i3-4170? No, I don't. However, in order for me to prove that one way or the other, I need hard numbers and data. I'm curious to see if it can close the gap, if not overcome it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Alternate Component Selection
 
  I don't need to spend time explaining the same parts from[two days ago](https://tools.techidaily.com) . To save space and time, I'll only address the three new components.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
@@ -120,18 +132,12 @@ Deepcool Gamer Storm Gabriel
 
 [View Deal](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-8198437440134718399%26murl%3Dhttp%253A%252F%252Fwww.newegg.com%252FProduct%252FProduct.aspx%253Fcm%255Fmmc%253Dbac-tomshardwaresbm-%255F-systembuildereditorial-%255F-CPU%2BFans%2B%2526%2BHeatsinks-%255F-N82E16835856007%2526Item%253DN82E16835856007%2526IsFeedbackTab%253DTrue%2526nm%255Fmc%253DExtBanner)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Assembly
 
  The only significant change in assembly of this against the Intel build is the CPU cooler. And I ran into fitment issues with it. While I specifically got the low profile version Ballistix memory kit, AMD's rectangular mounting bracket meant the cooler could only be installed in two orientations. Both are problematic with this motherboard. The Gabriel is thinnest on the end opposite of the heat pipe curve. This part extends farthest from the CPU socket and can clear most RAM modules. On either side, the fins have a small step making them a little thicker. This edge of the cooler is a millimeter or two too thick to fully clear the RAM on the side, touching the very top edge of the RAM heat spreader.
 
 ![](https://cdn.mos.cms.futurecdn.net/nKfSxuUzQNwqBkyJ4996bk-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
  If the fins were a little thinner or my RAM didn't have a heat spreader, this would be a non-issue. It's still not technically a problem. It doesn't keep the RAM from being installed, it doesn't even put flex on the RAM stick. It's just annoying that a cooler marketed as designed specifically for ITX cooling seems to be borderline incompatible with every current AMD ITX motherboard (every model on Newegg right now has the CPU socket oriented the same way). Perhaps some of them have RAM slots a little farther from the CPU socket, which would solve this, but if Deepcool wanted to be universally compatible, shaving a few millimeters off the fins would have accomplished this without impacting thermal performance.
 
 ![](https://cdn.mos.cms.futurecdn.net/EkXfRYe3XW8vhT2PuH7XkJ-320-80.jpg)
@@ -141,8 +147,13 @@ Deepcool Gamer Storm Gabriel
 ![](https://cdn.mos.cms.futurecdn.net/kiyNGE2ogxSRTZjnNEBoST-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Overclocking
 
  I did a little more digging on 860K overclocking after last quarter. Most FM2+ motherboards are very liberal with CPU voltage at stock levels. This means it's usually possible to overclock the CPU while undervolting it. This held true for my particular 860K. Stock voltage was set at 1.45V, but I was able to get it to run at 4.0GHz on only 1.35V. Lowering the voltage helped temperatures, but the CPU still has a pretty hard thermal ceiling that won't let it be pushed as much as it could. Regardless of cooling solution or voltage, the CPU cuts back to 3.5 to 3.7GHz when it hits 65 degrees C (total, not over ambient). Even with the cooler at full speed, I was occasionally hitting that ceiling under the most demanding workloads.
@@ -155,19 +166,14 @@ Deepcool Gamer Storm Gabriel
 
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The RAM caused me no end of heartburn and frustration. I kept running into seemingly random crashes, regardless of RAM timings. I worried the RAM was somehow bad, but it worked flawlessly in the Intel build. After a quick appeal for help to Thomas, I found the motherboard simply required at least 1.64V to run the RAM, even at stock speeds. Again, the Intel build had no problem with 1.5V. I've never seen a motherboard that's more stable overclocked than at stock speeds, until now.
 
  My system this time around was only capable of reaching DDR3-2133, a bit shy of the 2400 speeds I got last quarter. I did get respectable timings of 10-11-10-31, but that was the limit. Along with the RAM, I upped the northbridge from 1800 to 2000MHz with only a slight bump in voltage to 1.1625V. I wasn't trying to match the frequency of last quarter, I simply couldn't boot the machine at anything past 2000MHz.
@@ -180,8 +186,6 @@ Deepcool Gamer Storm Gabriel
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -189,4 +193,23 @@ Deepcool Gamer Storm Gabriel
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-innovative-advertising-on-fb-unlocking-your-brands-potential-for-2024/"><u>[Updated] Innovative Advertising on FB Unlocking Your Brand's Potential for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-mastering-video-capture-on-hangouts-for-2024/"><u>[Updated] Mastering Video Capture on Hangouts for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/channel-upgrade-made-simple-embrace-tubebuddy-techniques/"><u>Channel Upgrade Made Simple - Embrace TubeBuddy Techniques</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/choosing-between-an-ipad-pro-and-a-macbook-air-a-comprehensive-guide-to-find-the-ideal-fit-for-you/"><u>Choosing Between an iPad Pro and a MacBook Air - A Comprehensive Guide to Find the Ideal Fit for You</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-how-this-affordable-windows-free-hp-chromebook-enhances-daily-life-and-save-136-insights-from-zdnet/"><u>Discover How This Affordable Windows-Free HP Chromebook Enhances Daily Life & Save $136 - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-the-exceptional-features-of-anycubebic-kobra-2-max-a-hidden-treasure-unveiled/"><u>Discovering the Exceptional Features of Anycubebic Kobra 2 MAX - A Hidden Treasure Unveiled</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723007329785-optimized-cyberpunk-2077-gameplay-bid-farewell-to-lag-and-glitches-today/"><u>Optimized Cyberpunk 2077 Gameplay - Bid Farewell to Lag & Glitches Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revolutionizing-workspaces-discovering-the-most-exceptional-2-in-1-tech-of-this-year-with-a-hidden-perk-insight/"><u>Revolutionizing Workspaces: Discovering the Most Exceptional 2-in-1 Tech of This Year with a Hidden Perk Insight</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-solutions-when-your-iphones-emails-arent-refreshing/"><u>Step-by-Step Solutions When Your iPhone's Emails Aren't Refreshing</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/still-awaiting-score-your-discounted-512gb-oculus-quest-3-at-unbeatable-october-prime-day-rates-zdnets-pick-for-the-best-deal/"><u>Still Awaiting? Score Your Discounted 512GB Oculus Quest 3 at Unbeatable October Prime Day Rates – ZDNet's Pick for the Best Deal!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-budget-friendly-laptops-in-depth-analysis-and-reviews-by-tech-experts-zdnet/"><u>Top Budget-Friendly Laptops : In-Depth Analysis & Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-stylus-tablets-comprehensive-reviews-from-tech-experts/"><u>Top-Rated Stylus Tablets : Comprehensive Reviews From Tech Experts</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-solutions-for-windows-bad-memory-allocation-error-code-0x00000019/"><u>Troubleshooting and Solutions for Windows Bad Memory Allocation (Error Code 0X00000019)</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/troubleshooting-get-dvd-shrink-functional-again-on-modern-windows-systems-10-and-11/"><u>Troubleshooting: Get DVD Shrink Functional Again on Modern Windows Systems (10 & 11)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/use-archaic-language-to-enhance-the-historical-feel-of-the-silent-film/"><u>Use Archaic Language to Enhance the Historical Feel of the Silent Film.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/why-experts-swear-by-apples-affordable-m3-macbook-pro-the-one-compelling-reason-you-cant-ignore/"><u>Why Experts Swear by Apple's Affordable M3 MacBook Pro – The One Compelling Reason You Can’t Ignore</u></a></li>
+</ul></div>
 

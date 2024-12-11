@@ -1,7 +1,7 @@
 ---
 title: "Steal a Deal: Iconic Famicom-Style Retro Keyboard by 8BitDo Now Just $59!"
-date: 2024-08-19T10:20:54.458Z
-updated: 2024-08-20T10:20:54.458Z
+date: 2024-12-09T16:25:50.239Z
+updated: 2024-12-10T22:38:17.729Z
 tags:
   - peripherals
 categories:
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/3fc4ce39cf32e051d437369f1ad4829a21ac17b8d
 
  The Retro 18 is the perfect companion to the 8BitDo Retro Mechanical Keyboards, with their available colorways and aesthetics matching each other. So, if you’re after a retro build, these are the perfect peripherals for your desk. You can also pair it with[the Lofree Retro Mouse](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FLOFREE-Bluetooth-Connection-Rechargeable-Compatible%2Fdp%2FB0CT9VX5ZM%2F%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1163565040540890099-20) to complete the look, as 8BitDo is yet to release a companion mouse for its retro accessories.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,8 +45,6 @@ thumbnail: https://thmb.techidaily.com/3fc4ce39cf32e051d437369f1ad4829a21ac17b8d
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -50,8 +52,26 @@ thumbnail: https://thmb.techidaily.com/3fc4ce39cf32e051d437369f1ad4829a21ac17b8d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-compact-content-leading-5-services-to-compress-video-urls/"><u>[New] In 2024, Compact Content Leading 5 Services to Compress Video URLs</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-sponsoring-made-simple-boosting-your-channel-budget-efficiently/"><u>[Updated] 2024 Approved Sponsoring Made Simple Boosting Your Channel Budget Efficiently</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-iconic-stock-pictures-from-ordinary-to-internet-fame/"><u>[Updated] Iconic Stock Pictures From Ordinary to Internet Fame</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-quick-and-easy-the-top-ten-for-youtube-mpeg-transformation/"><u>[Updated] Quick and Easy The Top Ten for YouTube MPEG Transformation</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-skyrocket-your-income-on-youtube-the-power-of-500-loyal-fans/"><u>2024 Approved Skyrocket Your Income on Youtube The Power of 500 Loyal Fans</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-pick-of-the-years-most-portable-and-powerful-laptops-a-side-by-side-test-zdnet/"><u>Exclusive Pick of the Year's Most Portable & Powerful Laptops: A Side-by-Side Test | ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-lost-in-gaming-soundscapes-like-never-before-top-immersive-speaker-system-sale-at-best-buy-revealed/"><u>Get Lost in Gaming Soundscapes Like Never Before – Top Immersive Speaker System Sale at Best Buy Revealed</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-honor-x7b-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Honor X7b</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-vivo-t2x-5g-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Vivo T2x 5G</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-samsung-galaxy-m14-4g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Samsung Galaxy M14 4G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-5-ultimate-5g-enabled-laptops-expert-picks/"><u>Top 5 Ultimate 5G-Enabled Laptops : Expert Picks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-tech-showdown-exclusive-insights-into-the-best-of-ces-2024-editors/"><u>Top Tech Showdown: Exclusive Insights Into the Best of CES 2024 Editors</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-laptop-support-accessories-a-comprehensive-review-by-zdnet/"><u>Top-Rated Laptop Support Accessories : A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ultimate-guide-converting-and-viewing-dv-file-formats-on-windows-media-player/"><u>Ultimate Guide: Converting and Viewing DV File Formats on Windows Media Player</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbelievably-powerful-the-compact-8-in-1-adapter-that-exceeds-value-expectations-featured-on-zdnet/"><u>Unbelievably Powerful: The Compact 8-in-1 Adapter That Exceeds Value Expectations - Featured on ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlocking-value-expert-picks-for-the-most-affordable-and-powerful-laptops-of-202n4-(1k/"><u>Unlocking Value: Expert Picks for the Most Affordable and Powerful Laptops of 202N4 (<$1K)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-latest-dell-xps-14-exceptional-laptop-for-enthusiasts-pcmag/"><u>Unveiling the Latest Dell XPS 14 - Exceptional Laptop for Enthusiasts | PCMag</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/vocal-clarity-macs-acoustic-secrets-for-2024/"><u>Vocal Clarity Mac's Acoustic Secrets for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/why-hps-spectre-x360-is-a-top-contender-for-best-laptop-of-the-year-insights-and-reviews/"><u>Why HP's Spectre X360 Is a Top Contender for Best Laptop of the Year - Insights and Reviews</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

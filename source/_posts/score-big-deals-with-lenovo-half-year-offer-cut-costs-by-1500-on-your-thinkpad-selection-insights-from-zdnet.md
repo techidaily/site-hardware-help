@@ -1,7 +1,7 @@
 ---
 title: "Score Big Deals with Lenovo Half-Year Offer: Cut Costs by $1,500 on Your ThinkPad Selection – Insights From ZDNet"
-date: 2024-11-28T19:02:42.526Z
-updated: 2024-12-04T22:15:19.465Z
+date: 2024-12-04T09:32:31.903Z
+updated: 2024-12-11T05:07:08.365Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -73,7 +73,7 @@ My review unit came with the Intel Core Ultra 7 155H processor, which allowed th
 These problems extended to the battery, too. I performed my usual battery test of playing a 720p YouTube video non-stop at 50 percent brightness to see how long it lasts. I do this to simulate an average day of work. On battery saver, the ThinkPad X1 Carbon lasted around five hours before dying. That's not very long. With the quirky performance in mind, all this leads me to believe that the ThinkPad's hardware isn't well optimized.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -112,14 +112,17 @@ There are a few different configurations you can choose for this machine, bringi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-online-facebook-downloader-mp3-save-fb-videos-as-mp3-for-2024/"><u>[Updated] Online Facebook Downloader MP3 | Save FB Videos As MP3 for 2024</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/are-your-systems-device-drivers-up-to-date-and-functional-discover-solutions-with-yl-computing/"><u>Are Your System's Device Drivers Up-to-Date and Functional? Discover Solutions with YL Computing</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/disable-screen-lock-on-nokia-c300-by-drfone-android-unlock-android-unlock/"><u>Disable screen lock on Nokia C300</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exclusive-samsung-t5-ssd-deal-alert-over-36-off-following-octobers-prime-day-frenzy-spotlight-on-amazons-persistent-offer/"><u>Exclusive Samsung T5 SSD Deal Alert: Over 36% Off Following October's Prime Day Frenzy - Spotlight on Amazon's Persistent Offer</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Oppo Find N3? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/outstanding-bargain-alert-secure-the-latest-512gb-oculus-quest-3-for-your-virtual-escapes-metas-unbeatable-deal-tops-october-prime-day-picks-expert-analysis132/"><u>Outstanding Bargain Alert: Secure the Latest 512GB Oculus Quest 3 for Your Virtual Escapes – Meta's Unbeatable Deal Tops October Prime Day Picks, Expert Analysis !</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/snag-the-elite-meta-quest-3-with-512gb-unbeatable-halloween-sales-event-deal-still-on-offer/"><u>Snag the Elite Meta Quest 3 with 512GB - Unbeatable Halloween Sales Event Deal Still on Offer</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-touchscreen-laptop-picks-comprehensive-reviews-by-tech-experts/"><u>Top-Rated Touchscreen Laptop Picks: Comprehensive Reviews by Tech Experts</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/worldwide-debut-of-stellars-pioneering-software-for-photo-recovery-and-repair-breaking-news-update/"><u>Worldwide Debut of Stellar's Pioneering Software for Photo Recovery & Repair - Breaking News Update</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-final-goodbye-to-youtubes-minis-a-step-by-step-process/"><u>[New] 2024 Approved Final Goodbye to YouTube's Minis A Step-by-Step Process</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-vivo-y200-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Vivo Y200 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/daily-movie-data-demand-in-gigabytes/"><u>Daily Movie Data Demand in Gigabytes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-amd-rx-480-driver-version-instantly/"><u>Get the Latest AMD RX 480 Driver Version Instantly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-acer-trackpad-drivers-for-windows-10-users-download-now/"><u>Get the Newest Acer TrackPad Drivers for Windows 10 Users – Download Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hassle-free-driver-update-for-brother-mfc-7360n-on-windows-10-8-and-7-download-now/"><u>Hassle-Free Driver Update for Brother MFC-7360N on Windows 10, 8 & 7 - Download Now</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-zte-axon-40-lite-phone-screen-by-drfone-android/"><u>How Can We Unlock Our ZTE Axon 40 Lite Phone Screen?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-oppo-find-x7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-guide-updating-your-windows-system-with-new-ricoh-printer-drivers/"><u>Latest Guide: Updating Your Windows System with New Ricoh Printer Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-fixes-for-realtek-network-adapter-errors-on-windows-11-10-and-7-platforms/"><u>Step-by-Step Fixes for Realtek Network Adapter Errors on Windows 11, 10 & 7 Platforms</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-mastering-melody-match-identifying-tunes-on-your-iphone-devices/"><u>Updated In 2024, Mastering Melody Match Identifying Tunes on Your iPhone Devices</u></a></li>
 </ul></div>
 

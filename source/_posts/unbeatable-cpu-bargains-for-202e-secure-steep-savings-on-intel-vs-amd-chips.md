@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable CPU Bargains for 202E: Secure Steep Savings on Intel vs AMD Chips"
-date: 2024-08-19T10:21:38.179Z
-updated: 2024-08-20T10:21:38.179Z
+date: 2024-12-06T10:53:17.355Z
+updated: 2024-12-10T17:31:52.407Z
 tags:
   - components
 categories:
@@ -29,6 +29,10 @@ Japan-based SSD maker Nextorage has unveiled an all-new PCIe Gen 4 M.2 SSD aimed
 
  Despite its small size, the new Nextorage drive is one of only a couple of M.2 2230 drives that can hit speeds similar to those of larger outgoing PCIe Gen 4 M.2 2280 class drives and get close to the bandwidth limitations of PCIe Gen 4\. With a read speed of nearly seven and a half gigabytes per second, the G Series ME is the fastest M.2 2230 drive on the market. Its closest competitor is the [Corsair MP600 Mini,](https://tools.techidaily.com) which hits read speeds of 7GB/s flat.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -43,8 +47,6 @@ Japan-based SSD maker Nextorage has unveiled an all-new PCIe Gen 4 M.2 SSD aimed
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -52,8 +54,26 @@ Japan-based SSD maker Nextorage has unveiled an all-new PCIe Gen 4 M.2 SSD aimed
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/updated-revel-in-filmoras-top-9-edits-every-editor-loves/"><u>[Updated] Revel in Filmora's Top 9 Edits Every Editor Loves</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-streamers-dilemma-revisited-obs-vs-twitch-channel-space/"><u>[Updated] Streamers' Dilemma Revisited OBS vs Twitch Channel Space</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/a-top-pick-the-ultimate-dual-purpose-laptop-ideal-for-students-balancing-schoolwork-and-entertainment-techexplorer/"><u>A Top Pick: The Ultimate Dual-Purpose Laptop Ideal for Students Balancing Schoolwork & Entertainment | TechExplorer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/beating-the-macbook-air-microsoft-surface-laptop-copilotplus-excelling-in-performance-features-and-more-zdnet-review/"><u>Beating the MacBook Air: Microsoft Surface Laptop Copilot+ Excelling in Performance, Features & More | ZDNet Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/boost-your-productivity-with-the-latest-hp-copilotplus-a-game-changer-for-remote-professionals-testimonial/"><u>Boost Your Productivity with the Latest HP Copilot+: A Game-Changer for Remote Professionals - Testimonial</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-unmatched-versattile-performance-of-dells-latest-gaming-laptop-ideal-for-office-use-too-exclusive-review/"><u>Discover the Unmatched Versattile Performance of Dell's Latest Gaming Laptop - Ideal For Office Use Too! Exclusive Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-microsofts-new-frontier-in-technology-the-intelligent-surface-pro-10-and-ai-powered-laptop-6-unveiled-exclusive-details/"><u>Exploring Microsoft's New Frontier in Technology: The Intelligent Surface Pro 10 and AI-Powered Laptop 6 Unveiled | Exclusive Details</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/finding-the-fix-for-adobes-frozen-open-on-ws11/"><u>Finding the Fix for Adobe's Frozen Open on WS11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/get-your-ios-device-back-online-8-proven-fixes-for-wi-fi-connectivity-problems/"><u>Get Your iOS Device Back Online: 8 Proven Fixes for Wi-Fi Connectivity Problems</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-five-best-free-fb-video-downloader-hacks/"><u>In 2024, Five Best Free FB Video Downloader Hacks</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-12-mini-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 12 mini Data From iCloud | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reviving-lost-files-on-mac-free-and-paid-data-recovery-tools-compared/"><u>Reviving Lost Files on Mac: Free & Paid Data Recovery Tools Compared</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/seamless-steps-moving-your-applications-from-an-older-ipad-to-a-latest-model-ipad-pro-air-or-mini/"><u>Seamless Steps: Moving Your Applications From an Older iPad to a Latest Model (iPad Pro, Air, or Mini)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-prime-day-exclusive-laptops-best-bargains-available-in-october-2024-discovered-by-zdnet/"><u>Top-Rated Prime Day Exclusive Laptops: Best Bargains Available in October 2024 - Discovered by ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/transforming-my-workstation-the-impact-of-a-split-ergo-keyboard-on-my-digital-life-a-first-hand-account/"><u>Transforming My Workstation: The Impact of a Split Ergo Keyboard on My Digital Life - A First-Hand Account</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unleash-gaming-power-score-a-500-off-prime-day-offer-on-best-reviewed-laptops-by-zdnet-experts/"><u>Unleash Gaming Power: Score a $500 Off Prime Day Offer on Best Reviewed Laptops by ZDNET Experts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrade-your-security-why-its-essential-to-refresh-your-google-chrome-this-weekend-cybertech-insights/"><u>Upgrade Your Security: Why It's Essential to Refresh Your Google Chrome This Weekend | CyberTech Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/winning-at-performance-advanced-tweaks-for-gamers-on-windows-11/"><u>Winning at Performance: Advanced Tweaks for Gamers on Windows 11</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->

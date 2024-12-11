@@ -1,7 +1,7 @@
 ---
 title: "The Enermax Cable Master Er 20: Specially Engineered for Integrated Wire Management"
-date: 2024-08-19T10:23:18.775Z
-updated: 2024-08-20T10:23:18.775Z
+date: 2024-12-08T22:15:47.191Z
+updated: 2024-12-10T17:13:02.208Z
 tags:
   - cases
 categories:
@@ -67,9 +67,6 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 
  While I didn't have the time to put together a full review before heading off to Computex, Fractal did send the case ahead of the launch date and, space constraints aside, there's a lot I like about it. It's surprisingly easy to build in for such a small chassis.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -83,24 +80,23 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 ![Fractal Design Terra](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![Fractal Design Terra](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  As you've probably noticed in the photos, the side panels flip up gull-wing style, and the rear of the frame is spring-mounted, so if you push back on the hinges, you can remove the side doors completely. Similarly, the top panel pulls back (via a stylish and handy faux-leather tab) and lifts off, giving you full access to three sides of the case for the build process.
 
 ![Fractal Design Terra](https://cdn.mos.cms.futurecdn.net/GGZ7h2GYJ9xDyuCYcbGRUQ-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Mini-ITX motherboard installation is dead simple. You'll want to install your cooler, RAM and any M.2 drives on the board first, then flip the case on its side and the motherboard drops right in, to be anchored via four screws on the pre-installed standoffs. Again, CPU cooler space is extremely limited. I installed a[Thermalright AXP90-X47](http://www.thermalright.com/product/axp90-x47/) cooler for my Ryzen 5 5600 CPU, but the smaller AMD Wraith or Intel stock coolers should fit here just fine (again, depending on how much GPU space you need on the other side, so be sure to double-check those numbers).
@@ -108,6 +104,10 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
  Once the motherboard is in you can wedge the connector for the pre-installed Gen 4 GPU riser cable into the slot on the motherboard, which is at the top here. Since the motherboard installs on what traditionally would be the rear side of a PC case, it's rotated 180 degrees from the typical orientation.
 
 ![Fractal Design Terra](https://cdn.mos.cms.futurecdn.net/hQRNNowsajoJZWAxs2Kk3R-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -126,8 +126,9 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 ![Fractal Design Terra](https://cdn.mos.cms.futurecdn.net/cy4rnk357zphPGMR6K8oaQ-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  There's no[audio](https://tools.techidaily.com) jack here, which may bother some. But as this is a tiny case that's clearly designed to sit on your desk, the audio jacks on the motherboard aren't much more than a foot away at the back of the case. Part of me wants to see more USB ports up front, but again, those are within fairly easy reach around the back.  
@@ -137,8 +138,9 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 ![Fractal Design Terra](https://cdn.mos.cms.futurecdn.net/PiQcTyM4XVJgWtYgom3aGQ-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  All in all, the Fractal Terra is a striking and mostly well-thought-out Mini-ITX case. I doubt it will have as wide an appeal as its larger North cousin since component and airflow options are far more limiting here. But if you don't need to pack in the absolute most powerful components (particularly on the CPU side) and you don't need more than a few storage drives, Fractal has once again delivered one of the prettiest cases available – especially if you want a respite from the RGB and aggressive designs that dominate the gaming side of the PC realm.
@@ -153,8 +155,6 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +162,26 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-converting-youtube-broadcasts-into-listenable-formats/"><u>[New] In 2024, Converting YouTube Broadcasts Into Listenable Formats</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-decision-making-in-the-workplace-a-neurological-approach-to-efficacy-and-ethics/"><u>[Updated] 2024 Approved Decision-Making in the Workplace A Neurological Approach to Efficacy and Ethics</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-mastering-drones-key-parts-for-peak-performance/"><u>[Updated] Mastering Drones Key Parts for Peak Performance</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-leading-edge-cards-for-sharp-4k-gaming/"><u>2024 Approved Leading Edge Cards for Sharp 4K Gaming</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/best-amazon-offers-before-prime-day-2024-exclusive-tips-and-tricks-zdnet/"><u>Best Amazon Offers Before Prime Day 2024: Exclusive Tips & Tricks - ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/buy-a-premium-macbook-air-133-inch-at-nearly-half-price-refurbished-model-available-for-only-20-of-retail-limited-time-deal-alert/"><u>Buy a Premium MacBook Air (13.3-Inch) at Nearly Half Price! Refurbished Model Available for Only 20% of Retail - Limited Time Deal Alert!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ensuring-continuous-availability-of-chatgpt/"><u>Ensuring Continuous Availability of ChatGPT</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-deal-alert-save-big-with-up-to-1100-discounts-on-top-tier-gaming-and-video-editing-laptops-detailed-guide-on-zdnet/"><u>Exclusive Deal Alert: Save Big with Up to $1100 Discounts on Top-Tier Gaming and Video Editing Laptops | Detailed Guide on ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-the-versatility-of-lenovos-dual-mode-windowsandroid-laptop-a-promising-hybrid-device-unveiled-by-zdnet/"><u>Exploring the Versatility of Lenovo's Dual-Mode Windows/Android Laptop: A Promising Hybrid Device Unveiled by ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratuito-conversor-para-formatos-mpeg-e-mp4-com-suporte-3gpp-online-pelo-movavi/"><u>Gratuito Conversor Para Formatos MPEG E MP4 Com Suporte 3GPP - Online Pelo Movavi</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-poco-c51-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Poco C51 and Browser | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-unlocking-the-secrets-the-ultimate-guide-to-instagram-stories-mastery/"><u>In 2024, Unlocking the Secrets The Ultimate Guide to Instagram Stories Mastery</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/maximizing-connectivity-a-step-by-step-strategy-for-adding-additional-ports-to-your-macbook-or-ipad-pro-expert-advice-from-zdnet/"><u>Maximizing Connectivity: A Step-by-Step Strategy for Adding Additional Ports to Your MacBook or iPad Pro | Expert Advice From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/microsoft-slashes-prices-on-surface-go-and-drops-all-time-low-price-for-xbox-series-s-zdnet/"><u>Microsoft Slashes Prices on Surface Go and Drops All-Time Low Price for Xbox Series S - ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/surpassing-the-macbook-air-the-microsoft-surface-laptop-copilotplus-pc-excellence-tested-and-reviewed-by-zdnet-experts/"><u>Surpassing the MacBook Air: The Microsoft Surface Laptop Copilot+ PC Excellence Tested and Reviewed by ZDNet Experts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-5-best-4k-monitors-for-color-grading/"><u>Top 5 Best 4K Monitors for Color Grading</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-prime-day-blowout-sales-on-video-games-score-up-to-1k-off-before-oct-24-exclusive-picks-gadgetzone/"><u>Top Prime Day Blowout Sales on Video Games: Score Up to $1K Off Before Oct '24 - Exclusive Picks | GadgetZONE</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-resolving-tech-problems-when-launching-tekken-8-on-your-desktop/"><u>Troubleshooting Steps: Resolving Tech Problems When Launching Tekken 8 on Your Desktop</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-disappointments-of-dells-latest-gem-the-2n4-xps-14-laptop-a-comprehensive-analysis-zdnet/"><u>Unveiling the Disappointments of Dell's Latest Gem, The 2N4 XPS 14 Laptop – A Comprehensive Analysis | ZDNET</u></a></li>
+</ul></div>
 

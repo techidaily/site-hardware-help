@@ -1,7 +1,7 @@
 ---
 title: Lenovo ThinkPad X1 Carbon (Gen 9+) Unboxed & Assessed – Surpassing All in Business Laptops?
-date: 2024-11-28T09:23:48.644Z
-updated: 2024-12-04T22:21:37.824Z
+date: 2024-12-10T04:50:28.184Z
+updated: 2024-12-10T22:28:38.601Z
 tags:
   - laptops
 categories:
@@ -46,7 +46,7 @@ Image: Charles McLellan / ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Design
@@ -70,7 +70,7 @@ For connections, you're limited to two USB-C (3.2 Gen 2) ports on the left side,
 You can access the innards of the ThinkPad X13s by removing six screws and prising off the bottom cover, although upgrade options are limited. We did poke around inside our first review unit, which arrived with no functioning Wi-Fi and no access to the webcam, to no avail. Our second review unit worked just fine. For all its thin-and-lightness, the ThinkPad X13s is [MIL-STD-810H](https://en.wikipedia.org/wiki/MIL-STD-810)\-tested and should cope with the rigours of a mobile professional's routine. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Features
@@ -84,7 +84,7 @@ There are three screen options, all IPS panels with WUXGA (1920 x 1200) resoluti
 As well as the biometric authentication methods noted earlier, the ThinkPad X13s includes internal security features such as a discrete TPM 2.0 chip, Microsoft's [Pluton TPM architecture](https://learn.microsoft.com/en-us/windows/security/information-protection/pluton/pluton-as-tpm) running on the Snapdragon 8cx Gen 3's SPU (Secure Processing Unit) and a self-healing BIOS. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Performance & battery life
@@ -116,7 +116,7 @@ Thermal camera images of the ThinkPad X13s under load.
 Images: Charles McLellan / ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Conclusions
@@ -170,7 +170,7 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -218,18 +218,15 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-how-to-legally-convert-youtube-videos-to-mp4-format/"><u>[New] How to Legally Convert YouTube Videos to MP4 Format</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-transformative-strategies-for-effective-pins-in-discord-dialogues/"><u>[New] In 2024, Transformative Strategies for Effective Pins in Discord Dialogues</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-masterful-manipulation-speedy-stylization-techniques-for-win10-apps/"><u>[New] Masterful Manipulation Speedy Stylization Techniques for WIN10 Apps</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-techniques-for-extracting-mp3-from-instagram-videos-for-2024/"><u>[New] Techniques for Extracting MP3 From Instagram Videos for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amazons-enduring-deal-alert-samsung-t5-8tb-ssd-steals-the-show-with-a-hefty-discount-post-prime-day-dive-into-details-on-zdnet/"><u>Amazon's Enduring Deal Alert! Samsung T5 8TB SSD Steals the Show with a Hefty Discount Post-Prime Day - Dive Into Details on ZDNet</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-your-best-gpt-plugins-now-top-9/"><u>Discover Your Best GPT Plugins Now! (Top 9)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-fixes-solving-my-macbook-pro-charger-issues-and-getting-it-back-on-track/"><u>Free Fixes: Solving My MacBook Pro Charger Issues & Getting It Back on Track</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Vivo Y200 | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/over-a-thousand-followers-on-youtube-quickly-for-2024/"><u>Leap Over a Thousand Followers on YouTube Quickly for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/score-big-savings-secure-your-samsung-t5-with-a-whopping-36-off-after-prime-day-at-amazoncom/"><u>Score Big Savings! Secure Your Samsung T5 with a Whopping 36% Off After Prime Day at Amazon.com</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-recommended-antivirus-solutions-a-comprehensive-guide-by-zdnet/"><u>Top Recommended Antivirus Solutions : A Comprehensive Guide by ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshoot-and-revive-your-macbook-pro-battery-charge-a-step-by-step-guide-to-restore-functionality-without-cost/"><u>Troubleshoot and Revive Your MacBook Pro Battery Charge: A Step-by-Step Guide to Restore Functionality Without Cost</u></a></li>
-<li><a href="https://common-error.techidaily.com/unexpected-auto-startup-diagnosing-why-windows-11-turns-on-by-itself/"><u>Unexpected Auto Startup: Diagnosing Why Windows 11 Turns On by Itself</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-best-practices-for-hash-tags-in-fb-marketing-campaigns/"><u>[New] Best Practices for Hash Tags in FB Marketing Campaigns</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-surviving-in-mc-6-home-ideas/"><u>[New] Surviving in MC 6 Home Ideas</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-elite-virtual-classrooms-finding-value-outside-udemys-ecosystem/"><u>[Updated] 2024 Approved Elite Virtual Classrooms Finding Value Outside Udemy's Ecosystem</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-asus-atk0110-bios-and-acpi-drivers-for-free-your-ultimate-guide/"><u>Download Asus ATK0110 BIOS and ACPI Drivers for Free: Your Ultimate Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-wireless-performance-latest-tp-link-adapter-drivers-for-windows-operating-systems-11-8-and-7-free-downloads-available/"><u>Enhance Wireless Performance: Latest TP-Link Adapter Drivers for Windows Operating Systems (11, 8, and 7) - Free Downloads Available</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-exceptional-economically-priced-asmr-gear-for-2024/"><u>Explore Exceptional, Economically-Priced ASMR Gear for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-downloads-for-qualcomm-atheros-ar3011-bluetooth-version-30-drivers/"><u>Free Downloads for Qualcomm Atheros AR3011 Bluetooth Version 3.0 Drivers</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-vivo-y17s-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Vivo Y17s is off? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-accessing-and-leaving-focus-in-windows-terminal/"><u>Quick Guide to Accessing & Leaving Focus in Windows Terminal</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-maintaining-your-microsoft-mouse-on-windows-with-updated-drivers/"><u>The Ultimate Guide to Maintaining Your Microsoft Mouse on Windows with Updated Drivers</u></a></li>
 </ul></div>
 

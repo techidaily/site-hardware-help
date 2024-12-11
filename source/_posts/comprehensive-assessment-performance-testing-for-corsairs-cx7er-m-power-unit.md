@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Assessment: Performance Testing for Corsair's CX7er M Power Unit"
-date: 2024-08-19T10:19:56.745Z
-updated: 2024-08-20T10:19:56.745Z
+date: 2024-12-10T07:17:32.953Z
+updated: 2024-12-11T10:16:05.109Z
 tags:
   - power-supply
 categories:
@@ -28,6 +28,10 @@ See more of Friday's Real Deals below.
 * **Elgato Stream Deck:** [**now $99 at Amazon**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fgp%2Fproduct%2FB06XKNZT1P%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1065223293966699533-20) **(was $149)**
 * **ASUS ROG Thor 1000W PSU:** [**now $194 at Amazon**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB09SGQ9PPC%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1088334992790324728-20) **(was $359)**
 * **Gigabyte B650M Aorus Elite AX:** [**now $189 at Newegg**](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-6379358999680672387%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fgigabyte-b650m-aorus-elite-ax%252Fp%252FN82E16813145413) **with rebate (was $199)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Today’s best deals in detail
 
@@ -67,31 +71,23 @@ See more of Friday's Real Deals below.
 [View Deal](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-2513991122203814191%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fgigabyte-b650m-aorus-elite-ax%252Fp%252FN82E16813145413)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Looking for more deals?
 
 Category
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/chevron-left.svg "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
  Back to Everything
 
 Brand
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Elgato
 
  GIGABYTE
@@ -104,6 +100,10 @@ Colour
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Black
 
  White
@@ -113,8 +113,9 @@ Price
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Any Price
 
  Showing 10 of 40 deals
@@ -124,8 +125,9 @@ Any Price
 SORT BY Price (low to high)  Price (high to low) Product Name (A to Z)  Product Name (Z to A)  Retailer name (A to Z)  Retailer name (Z to A) ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [GIGABYTE B650M AORUS Elite AX](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F5057986138&subId1=techidaily-us-5322157473801276840&sharedId=techidaily-us)
 
 1
@@ -284,8 +286,6 @@ Our Review
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -293,4 +293,24 @@ Our Review
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-how-to-achieve-complete-volume-on-fb-media-shows/"><u>[Updated] 2024 Approved How to Achieve Complete Volume on Fb Media Shows</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-comprehensive-iptv-platform-agnosticism/"><u>[Updated] Comprehensive IPTV Platform Agnosticism</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-crafting-compelling-spotify-campaigns-a-compreran-guide/"><u>[Updated] Crafting Compelling Spotify Campaigns A Compreran Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-quickstep-into-viral-audio-youtubes-short-musical-journey/"><u>[Updated] The Quickstep Into Viral Audio YouTube's Short Musical Journey</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-tap-into-tagging-techniques-for-6kplus-youtube-vistas/"><u>2024 Approved Tap Into #Tagging Techniques for $6K+ YouTube Vistas</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/cyber-mondays-finest-discover-the-best-laptops-under-1000-at-costco-amazon-and-dell-as-featured-by-zdnet/"><u>Cyber Monday's Finest: Discover the Best Laptops Under $1,000 at Costco, Amazon, and Dell as Featured by ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-ultimate-list-of-dells-best-sale-prices-this-holiday-season-exclusive-offers-at-target-costco-and-more/"><u>Discover the Ultimate List of Dell's Best Sale Prices This Holiday Season – Exclusive Offers at Target, Costco, and More!</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-samsung-galaxy-m34-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Samsung Galaxy M34 5G Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-securely-erase-all-personal-information-from-your-windows-laptop-a-step-by-step-guide-completely-gratis/"><u>How to Securely Erase All Personal Information From Your Windows Laptop: A Step-by-Step Guide, Completely Gratis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/massive-black-friday-blowout-snag-the-lenovo-thinkpad-x1-gen/"><u>Massive Black Friday Blowout: Snag the Lenovo ThinkPad X1 Gen</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mastering-the-art-of-saving-trending-youtube-clips-via-efficient-video-downloading-tools/"><u>Mastering the Art of Saving Trending YouTube Clips via Efficient Video Downloading Tools</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/rapid-resolution-how-to-manage-continuously-running-mac-cooling-systems-tech-tips/"><u>Rapid Resolution: How to Manage Continuously Running Mac Cooling Systems | Tech Tips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/slash-the-price-hps-new-victus-15-game-laptop-hits-530-markdown-at-best-buy-insights/"><u>Slash the Price: HP's New Victus 15 Game Laptop Hits $530 Markdown at Best Buy, Insights</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/thank-you-for-installing-movavi-presentation-designer-finished-downloading/"><u>Thank You for Installing Movavi Presentation Designer - Finished Downloading!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-must-have-accessories-for-your-laptops-supporting-stunning-8k-monitor-compatibility-insider-tips/"><u>Top Rated Must-Have Accessories for Your Laptops, Supporting Stunning 8K Monitor Compatibility Insider Tips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-alternative-to-macbook-air-discover-a-powerful-and-affordable-windows-laptop-that-rivals-apples-offering/"><u>Top-Rated Alternative to MacBook Air: Discover a Powerful and Affordable Windows Laptop That Rival's Apple's Offering</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnets-top-pick-xr-headset-boosted-productivity-and-enhanced-travel-experience-with-3-key-improvements/"><u>ZDNet's Top-Pick XR Headset: Boosted Productivity & Enhanced Travel Experience with 3 Key Improvements!</u></a></li>
+</ul></div>
 

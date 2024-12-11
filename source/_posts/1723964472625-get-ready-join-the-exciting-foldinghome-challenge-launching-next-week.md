@@ -1,7 +1,7 @@
 ---
 title: "Get Ready: Join the Exciting Folding@Home Challenge Launching Next Week!"
-date: 2024-08-19T10:24:45.464Z
-updated: 2024-08-20T10:24:45.464Z
+date: 2024-12-06T23:47:21.176Z
+updated: 2024-12-11T09:51:45.988Z
 tags:
   - build
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/c72f65d6cf6eccfb8dd0cd66944cb2172744b7375
 
 ![](https://cdn.mos.cms.futurecdn.net/gRWZJtRVgRiLT8Rc7hcKrV-320-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## System Builder Marathon Q4 2015
 
  Here are links to each of the five articles in this quarter’s System Builder Marathon (we’ll update them as each story is published). And remember, these systems are all being given away at the end of the marathon.
@@ -32,8 +36,9 @@ thumbnail: https://thmb.techidaily.com/c72f65d6cf6eccfb8dd0cd66944cb2172744b7375
 5. $912 AMD LAN Box PC
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## $912 AMD LAN Box PC
 
  Even though my Intel-based revision of this quarter vindicates my assessments last quarter, a number of readers are still convinced that a properly cooled and overclocked 860K is the gateway to budget gaming goodness. After experiencing the limitations and frustrations last quarter, I still have my reservations. However, the SBM is a perfect place to empirically test this and give AMD's budget quad-core every chance to prove itself.
@@ -89,9 +94,17 @@ Deepcool Gamer Storm Gabriel
 
  Every component is identical to the Intel build earlier this week except the CPU, cooler and motherboard.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Definition of Insanity
 
  Some of you out there might be groaning and asking, "What, this again?" Hold on a minute. Those asking for a better 860K overclock have a valid argument. The 860K was handicapped last quarter with insufficient cooling to get any kind of meaningful overclock. You can't argue with that. This time around the CPU gets better treatment in the form of an aftermarket cooler and a larger case. So no, we're not trying the exact same thing and expecting different results. Do I expect the 860K to outperform the i3-4170? No, I don't. However, in order for me to prove that one way or the other, I need hard numbers and data. I'm curious to see if it can close the gap, if not overcome it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Alternate Component Selection
 
@@ -123,9 +136,6 @@ Deepcool Gamer Storm Gabriel
 
 [View Deal](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-8198437440134718399%26murl%3Dhttp%253A%252F%252Fwww.newegg.com%252FProduct%252FProduct.aspx%253Fcm%255Fmmc%253Dbac-tomshardwaresbm-%255F-systembuildereditorial-%255F-CPU%2BFans%2B%2526%2BHeatsinks-%255F-N82E16835856007%2526Item%253DN82E16835856007%2526IsFeedbackTab%253DTrue%2526nm%255Fmc%253DExtBanner)
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Assembly
 
  The only significant change in assembly of this against the Intel build is the CPU cooler. And I ran into fitment issues with it. While I specifically got the low profile version Ballistix memory kit, AMD's rectangular mounting bracket meant the cooler could only be installed in two orientations. Both are problematic with this motherboard. The Gabriel is thinnest on the end opposite of the heat pipe curve. This part extends farthest from the CPU socket and can clear most RAM modules. On either side, the fins have a small step making them a little thicker. This edge of the cooler is a millimeter or two too thick to fully clear the RAM on the side, touching the very top edge of the RAM heat spreader.
@@ -141,11 +151,9 @@ Deepcool Gamer Storm Gabriel
 ![](https://cdn.mos.cms.futurecdn.net/kiyNGE2ogxSRTZjnNEBoST-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
+
 ## Overclocking
 
  I did a little more digging on 860K overclocking after last quarter. Most FM2+ motherboards are very liberal with CPU voltage at stock levels. This means it's usually possible to overclock the CPU while undervolting it. This held true for my particular 860K. Stock voltage was set at 1.45V, but I was able to get it to run at 4.0GHz on only 1.35V. Lowering the voltage helped temperatures, but the CPU still has a pretty hard thermal ceiling that won't let it be pushed as much as it could. Regardless of cooling solution or voltage, the CPU cuts back to 3.5 to 3.7GHz when it hits 65 degrees C (total, not over ambient). Even with the cooler at full speed, I was occasionally hitting that ceiling under the most demanding workloads.
@@ -158,14 +166,12 @@ Deepcool Gamer Storm Gabriel
 
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  The RAM caused me no end of heartburn and frustration. I kept running into seemingly random crashes, regardless of RAM timings. I worried the RAM was somehow bad, but it worked flawlessly in the Intel build. After a quick appeal for help to Thomas, I found the motherboard simply required at least 1.64V to run the RAM, even at stock speeds. Again, the Intel build had no problem with 1.5V. I've never seen a motherboard that's more stable overclocked than at stock speeds, until now.
@@ -180,8 +186,6 @@ Deepcool Gamer Storm Gabriel
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -189,4 +193,22 @@ Deepcool Gamer Storm Gabriel
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/dvanced-techniques-for-trimming-youtube-footage-for-2024/"><u>[New] Advanced Techniques for Trimming YouTube Footage for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/lip-weaver-workshop/"><u>[New] Clip Weaver Workshop</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-pixel-powerhouse-the-ultimate-game-collection/"><u>[New] Pixel Powerhouse The Ultimate Game Collection</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-unveiling-top-10-camcorders-in-depth-reviews/"><u>[Updated] In 2024, Unveiling Top 10 Camcorders In-Depth Reviews</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-dawn-of-distinctive-filmmaking-with-vr/"><u>[Updated] The Dawn of Distinctive Filmmaking with VR</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-an-exceptional-windows-based-lighter-alternative-to-macbook-air-packed-with-cutting-edge-features-pcmag/"><u>Discover an Exceptional Windows-Based Lighter Alternative to MacBook Air, Packed with Cutting-Edge Features | PCMag</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-this-neglected-laptop-add-on-endowed-my-device-with-exceptional-performance-insights/"><u>How This Neglected Laptop Add-On Endowed My Device with Exceptional Performance: Insights</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-xiaomi-14-ultra-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Xiaomi 14 Ultra Without Password | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-in-depth-analysis-kinemaster-app-transform-your-gaming-world/"><u>In 2024, In-Depth Analysis KineMaster App - Transform Your Gaming World</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-picks-premium-webcams-for-quality-podcasting/"><u>In 2024, Top Picks Premium Webcams for Quality Podcasting</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/multifunctional-10-in-1-charging-hub-up-to-35-savings-today-discover-at-zdnet/"><u>Multifunctional 10-in-1 Charging Hub - Up to 35% Savings Today! Discover at ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/next-gen-ai-capabilities-elevate-classic-dell-xps-laptops-in-latest-overhaul-beauty-meets-brains-exclusive-coverage-by-zdnet/"><u>Next-Gen AI Capabilities Elevate Classic Dell XPS Laptops in Latest Overhaul; Beauty Meets Brains – Exclusive Coverage by ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/samsung-copilotplus-reviewed-a-game-changing-deal-in-the-world-of-affordable-windows-devices-insights/"><u>Samsung Copilot+ Reviewed - A Game-Changing Deal in the World of Affordable Windows Devices | Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/samsung-galaxy-book-3-pro-360-vs-microsoft-surface-pro-9-showdown-deciding-on-the-ideal-2-in-1-laptop-tech-insights/"><u>Samsung Galaxy Book 3 Pro 360 Vs. Microsoft Surface Pro 9 Showdown: Deciding on the Ideal 2-in-1 Laptop | Tech Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-hidden-gem-discover-the-surprising-creative-potential-of-this-understated-asus-laptop-tech-reviews/"><u>Unveiling the Hidden Gem: Discover the Surprising Creative Potential of This Understated Asus Laptop | Tech Reviews</u></a></li>
+</ul></div>
 

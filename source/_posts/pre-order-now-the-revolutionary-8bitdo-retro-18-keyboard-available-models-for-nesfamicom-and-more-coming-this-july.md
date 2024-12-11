@@ -1,7 +1,7 @@
 ---
 title: "Pre-Order Now: The Revolutionary 8BitDo Retro 18 Keyboard - Available Models for NES/Famicom & More Coming This July"
-date: 2024-08-19T10:21:06.424Z
-updated: 2024-08-20T10:21:06.424Z
+date: 2024-12-09T19:24:46.452Z
+updated: 2024-12-11T02:59:24.362Z
 tags:
   - peripherals
 categories:
@@ -41,6 +41,10 @@ Almost a year after[Thunderbolt 5's official debut](https://tools.techidaily.com
 
  Cable Matters is the first cable manufacturer to debut a Thunderbolt 5 cable. Unfortunately, you won't be able to do much with it since no products on the market today take advantage of the new connectivity standard. We didn't see any products at[Computex 2024](https://tools.techidaily.com) that utilize a Thunderbolt 5 Type-C port, so there's a good chance we will be waiting until very late 2024 or 2025 before Thunderbolt 5 PCIe cards, docking stations, and other Thunderbolt 5 devices arrive on the market.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -55,8 +59,6 @@ Almost a year after[Thunderbolt 5's official debut](https://tools.techidaily.com
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -64,8 +66,16 @@ Almost a year after[Thunderbolt 5's official debut](https://tools.techidaily.com
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-obsudio-screen-recorder-analysis-your-best-choices-explored/"><u>[New] Obsudio Screen Recorder Analysis Your Best Choices Explored</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-establishing-a-mac-based-sports-media-outlet/"><u>[Updated] Establishing a Mac-Based Sports Media Outlet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/beat-overheating-with-style-exclusive-cyber-monday-specials-on-portable-laptop-chillers-score-big-discounts/"><u>Beat Overheating with Style: Exclusive Cyber Monday Specials on Portable Laptop Chillers – Score Big Discounts !</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-social-media-platforms-can-stop-the-spread-of-covid-19-misinformation/"><u>How Social Media Platforms Can Stop the Spread of COVID-19 Misinformation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/improving-civilization-v-play-on-pc/"><u>Improving Civilization V Play on PC</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-realme-v30-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Realme V30 Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/snag-the-discounted-hp-victus-n15-gaming-laptop-at-just-515-during-best-buys-exclusive-prime-day-offer-detailed-review-on-zdnet/"><u>Snag the Discounted HP Victus N15 Gaming Laptop at Just $515 During Best Buy's Exclusive Prime Day Offer - Detailed Review on ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-future-of-work-gadgets-amidst-advancing-ai-a-perspective/"><u>The Future of Work Gadgets Amidst Advancing AI: A Perspective</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-2023-dual-purpose-device-with-a-hidden-gem-for-workspaces-uncovered-by-zdnet/"><u>Top 2023 Dual-Purpose Device with a Hidden Gem for Workspaces Uncovered by ZDNet</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->

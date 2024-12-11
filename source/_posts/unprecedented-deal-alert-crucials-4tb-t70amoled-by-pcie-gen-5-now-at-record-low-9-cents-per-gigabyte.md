@@ -1,7 +1,7 @@
 ---
 title: "Unprecedented Deal Alert: Crucial's 4TB T70amoled by PCIe Gen 5, Now at Record Low 9 Cents Per Gigabyte"
-date: 2024-08-19T10:26:29.455Z
-updated: 2024-08-20T10:26:29.455Z
+date: 2024-12-08T21:17:06.309Z
+updated: 2024-12-10T22:21:48.211Z
 tags:
   - ssd
 categories:
@@ -51,8 +51,9 @@ AGI is a memory technology brand we’ve heard of but never tested... until toda
  AGI does not appear to offer any direct software downloads on its site, but there are free alternatives. We recommend CrystalDiskInfo for basic drive information including SMART health status. For imaging and cloning,[Clonezilla](https://tools.techidaily.com) should do the trick.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## AGI AI818 — A Closer Look
 
  Image 1 of 3
@@ -60,22 +61,17 @@ AGI is a memory technology brand we’ve heard of but never tested... until toda
 ![AGI AI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![AGI AI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![AGI AGI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  It's not the worst label we’ve ever seen. The drive is at least single-sided, which means it could work with a wider range of[laptops](https://tools.techidaily.com) . It should also be fine in the PS5\. However, we suspect a heatsink might be desirable, which makes it less palatable for a laptop. The label is supposedly graphene-based, which may help keep it from overheating in airy desktops at least.
@@ -85,15 +81,17 @@ AGI is a memory technology brand we’ve heard of but never tested... until toda
 ![AGI AI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![AGI AI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  We weren’t too sure what flash to expect on this drive as it launched with YMTC’s 128-Layer TLC (X2-9060), at least at some capacities. There are two 1TB SKUs and one of them uses QLC instead. The drive launched with the Maxio MAP1602 controller, down-bussed to 1,600 MT/s to match that particular TLC flash. It’s possible this drive will have other variations in hardware but we’re looking at what is being delivered today, which certainly is an interesting combination.  
@@ -158,13 +156,15 @@ powered by
 
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -173,4 +173,22 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-a-guide-to-effective-hashtag-integration-on-facebook-platforms-for-2024/"><u>[New] A Guide to Effective Hashtag Integration on Facebook Platforms for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-top-downloader-apps-youtube-videos-on-android-compared/"><u>[New] In 2024, Top Downloader Apps YouTube Videos on Android Compared</u></a></li>
+<li><a href="https://driver-download.techidaily.com/brother-all-in-one-printer-driver-enhancements-compatible-with-windows-os/"><u>Brother All-in-One Printer Driver Enhancements: Compatible with Windows OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/elite-selection-of-the-finest-windows-laptop-models-for-202cuh-comprehensive-performance-analysis-and-editors-picks-zdnet/"><u>Elite Selection of the Finest Windows Laptop Models for 202Cuh: Comprehensive Performance Analysis & Editor's Picks | ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/empowering-chromeos-a-guide-to-effectively-submitting-your-feedback-and-enhancing-user-experience/"><u>Empowering ChromeOS: A Guide to Effectively Submitting Your Feedback & Enhancing User Experience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-adonit-nest-for-a-bargain-top-rated-work-from-home-usb-hub-slashed-to-65/"><u>Get Adonit Nest for a Bargain! Top-Rated Work From Home USB Hub Slashed to $65</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gpt-5-evolution-anticipated-breakthrough-capabilities/"><u>GPT-5 Evolution: Anticipated Breakthrough Capabilities</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-asus-rog-phone-8-pro-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Asus ROG Phone 8 Pro to New Android? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/secure-the-best-gamer-savings-of-2024s-prime-day-find-deals-on-popular-titles-techradar/"><u>Secure the Best Gamer Savings of 2024'S Prime Day - Find Deals on Popular Titles | TechRadar</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-prime-day-sale-picks-for-gamers-unmissable-october-2024-discounts-from-zdnet/"><u>Top Prime Day Sale Picks for Gamers: Unmissable October 2024 Discounts From ZDNET</u></a></li>
+<li><a href="https://win-special.techidaily.com/troubleshooting-guide-restoring-functionality-when-your-scanner-ignores-commands-insights-by-yl-software-team/"><u>Troubleshooting Guide: Restoring Functionality When Your Scanner Ignores Commands - Insights by YL Software Team</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-the-secrets-finding-out-whos-opened-your-google-doc-files/"><u>Unlocking the Secrets: Finding Out Who's Opened Your Google Doc Files</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-display-stabilized-no-more-flickers/"><u>Win11 Display Stabilized - No More Flickers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/your-essential-guide-to-the-greatest-prime-day-bargains-of-october-2024-exclusive-deals-on-tech/"><u>Your Essential Guide to the Greatest Prime Day Bargains of October 2024 - Exclusive Deals on Tech</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/zdnet-unveils-the-impressive-new-features-of-googles-chromebook-plus-including-advanced-generative-ai-why-you-need-to-know/"><u>ZDNet Unveils the Impressive New Features of Google's Chromebook Plus, Including Advanced Generative AI - Why You Need to Know!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Apple Showcase in October: Discover the New M4 Mac Mini & Enhanced iPad Lineup Featuring Advanced Apple AI"
-date: 2024-11-28T04:05:02.685Z
-updated: 2024-12-04T18:57:39.216Z
+date: 2024-12-10T10:49:42.334Z
+updated: 2024-12-10T21:20:22.011Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,21 +118,24 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-frosty-feats-at-the-olympics-of-2022/"><u>[New] Frosty Feats at the Olympics of 2022</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-expert-tips-6-advanced-strategies-for-gif-artistry/"><u>[Updated] 2024 Approved Expert Tips 6 Advanced Strategies for GIF Artistry</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-pinpointing-your-custom-designed-music-haven-on-youtube/"><u>[Updated] 2024 Approved Pinpointing Your Custom-Designed Music Haven on Youtube</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/a-week-with-an-ergonomic-split-keyboard-how-it-transformed-my-computer-experience-insights-from-zdnet/"><u>A Week with an Ergonomic Split Keyboard: How It Transformed My Computer Experience - Insights From ZDNet</u></a></li>
-<li><a href="https://blog-min.techidaily.com/gratuiti-convertitore-bmp-a-jpeg-online-movavi/"><u>Gratuiti Convertitore BMP a JPEG Online - Movavi</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 11 Pro Max</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-steps-to-add-motion-blur-to-face-with-picsart/"><u>In 2024, Steps to Add Motion Blur to Face with Picsart</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/maximize-savings-insiders-list-of-best-deals-pre-prime-day-2-curated-by-tech-experts-at-zdnet/"><u>Maximize Savings: Insider's List of Best Deals Pre-Prime Day 2# - Curated by Tech Experts at ZDNET</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/score-savings-with-the-apple-m3-macbook-air-grab-it-now-for-250-off-in-octobers-exclusive-amazon-deal/"><u>Score Savings with the Apple M3 MacBook Air: Grab It Now for $250 Off in October's Exclusive Amazon Deal</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/slash-your-tech-costs-big-time-with-this-affordable-50-gadget-insights/"><u>Slash Your Tech Costs Big Time with This Affordable $50 Gadget - Insights</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Honor Play 8T? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-honor-magic-5-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Honor Magic 5 FRP</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-budget-friendly-computers-exploring-options-from-lenovo-hp-asus-and-others/"><u>Top Budget-Friendly Computers : Exploring Options From Lenovo, HP, Asus, and Others</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unbeatable-prime-day-offer-save-on-hp-victus-15-gaming-laptop-at-just-530-exclusive-best-buy-promo/"><u>Unbeatable Prime Day Offer: Save on HP Victus 15 Gaming Laptop at Just $530 - Exclusive Best Buy Promo!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unboxing-the-lenovo-thinkpad-x1-fold-a-unique-entertaining-and-luxurious-laptop-reviewed-by-tech-visionary/"><u>Unboxing the Lenovo ThinkPad X1 Fold - A Unique, Entertaining and Luxurious Laptop Reviewed by Tech Visionary</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Lenovo ThinkPhone? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-smoothly-stitching-images-together/"><u>[Updated] 2024 Approved Smoothly Stitching Images Together</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-leading-edge-servers-for-maximum-efficiency/"><u>[Updated] Leading Edge Servers for Maximum Efficiency</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-asus-rog-phone-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/choosing-the-ideal-chromebook-for-academics-in-depth-analysis-by-experts/"><u>Choosing the Ideal Chromebook for Academics: In-Depth Analysis by Experts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-fixes-for-your-non-charging-macbook-pro-expert-tips-and-tricks/"><u>Free Fixes for Your Non-Charging MacBook Pro: Expert Tips & Tricks</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-becoming-an-exemplary-conductor-of-candidate-assessments/"><u>In 2024, Becoming An Exemplary Conductor of Candidate Assessments</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Honor 90 Pro? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Realme 11 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/inside-microsofts-revolutionary-new-ai-chip-outperforming-the-macbook-in-a-one-on-one-comparison-insights/"><u>Inside Microsoft's Revolutionary New AI Chip: Outperforming the MacBook in a One-on-One Comparison | Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/octobers-prime-day-bonanza-top-discounted-items-to-shop-this-year-cnet-special-report/"><u>October's Prime Day Bonanza: Top Discounted Items to Shop This Year | CNET Special Report</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210378074-9781735104737-our-battle-with-satans-sidekick/"><u>Our Battle With Satan's Sidekick | Free Book</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/prime-day-exclusive-save-460-on-the-microsoft-surface-pro-8-top-deals-at-zdnet/"><u>Prime Day Exclusive: Save $460 on the Microsoft Surface Pro 8 | Top Deals at ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-test-why-the-wrinkle-resistant-usb-c-cord-is-a-must-have-for-every-traveler-a-deep-dive/"><u>The Ultimate Test: Why the 'Wrinkle-Resistant' USB-C Cord Is a Must-Have for Every Traveler - A Deep Dive</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-performing-workhorse-laptop-unveiled-surpasses-thoughtpad-and-macbook-in-tests-insights-from-zdnet/"><u>Top-Performing Workhorse Laptop Unveiled, Surpasses Thoughtpad & Macbook in Tests - Insights From ZDNet</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/troubleshooting-video-playback-errors-on-iis-servers-for-flipbuilder-users/"><u>Troubleshooting Video Playback Errors on IIS Servers for FlipBuilder Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlock-the-best-early-access-primes-score-exceptional-deals-on-laptops-this-october-2nt-forget-to-check-out-zdnet/"><u>Unlock the Best Early Access Primes: Score Exceptional Deals on Laptops This October 2N't Forget to Check Out ZDNET!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-luxury-transforming-standard-shipments-into-memories-for-2024/"><u>Unveiling Luxury Transforming Standard Shipments Into Memories for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/wevideo-the-fast-and-easy-way-to-create-online-videos-for-2024/"><u>WeVideo The Fast and Easy Way to Create Online Videos for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/why-the-lg-gram-pro-outshines-apples-macbook-air-across-three-main-factors-insights-from-zdnet/"><u>Why the LG Gram Pro Outshines Apple's MacBook Air Across Three Main Factors - Insights From ZDNet</u></a></li>
 </ul></div>
 

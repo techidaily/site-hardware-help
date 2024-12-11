@@ -1,7 +1,7 @@
 ---
 title: HP Unveils Latest Lineup of AI-Enhanced Spectre Notebooks at CES, Complementing High-Tech Accessories - ZDNet
-date: 2024-12-01T05:13:33.318Z
-updated: 2024-12-05T02:47:06.827Z
+date: 2024-12-07T23:33:02.765Z
+updated: 2024-12-10T22:26:16.216Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,14 +118,17 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Infinix Note 30 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/affordable-audio-bliss-how-these-spectacular-35-wireless-buds-dominate-the-market-and-why-you-shouldnt-miss-them-spotlight/"><u>Affordable Audio Bliss: How These Spectacular $35 Wireless Buds Dominate the Market and Why You Shouldn't Miss Them – Spotlight</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/easily-transform-dvd-movies-into-portable-mp4-files-a-step-by-step-guide-for-windows-1011-and-macos-systems/"><u>Easily Transform DVD Movies Into Portable MP4 Files - A Step-by-Step Guide for Windows 10/11 and macOS Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-2elevate-tech-selection-a-comprehensive-guide-to-premier-gadgets-and-devices-of-2022-insights-from-zdnet/"><u>Exploring 2Elevate Tech Selection: A Comprehensive Guide to Premier Gadgets and Devices of 2022 - Insights From ZDNet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/hardware-update-required-successful-engine-operation-depends-on-d3d11-enabled-gpu/"><u>Hardware Update Required: Successful Engine Operation Depends on D3D11-Enabled GPU</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/oleaut32dll-errors-uncovered-strategies-for-restoration-and-recovery/"><u>Oleaut32.dll Errors Uncovered: Strategies for Restoration and Recovery</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-98-cyber-monday-sales-and-discounts-of-2022-exclusive-picks/"><u>Top 98 Cyber Monday Sales & Discounts of 2022 - Exclusive Picks</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-the-highest-quality-macbook-add-ons-evaluated-by-professionals-engadget/"><u>Ultimate Guide to the Highest Quality MacBook Add-Ons , Evaluated by Professionals | Engadget</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-blur-faces-or-backgrounds-in-videos-best-apps-for-ios-and-android/"><u>Updated Blur Faces or Backgrounds in Videos Best Apps for iOS and Android</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-efficient-presentation-recording-with-a-webcam-on-handy-guide/"><u>[New] 2024 Approved Efficient Presentation Recording with a Webcam on Handy Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-unveiling-the-high-resolution-benq-sw320-monitor/"><u>[Updated] Unveiling the High-Resolution BenQ SW320 Monitor</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-prime-9-options-to-capture-high-quality-audio-remotely-23/"><u>2024 Approved Prime 9 Options to Capture High-Quality Audio Remotely ('23)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-walkthrough-downloading-and-updating-the-epson-ds-n-series-driver-for-windows-systems/"><u>Complete Walkthrough: Downloading and Updating the Epson DS-N Series Driver for Windows Systems</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comprehensive-ios-live-photo-handbook-for-2024/"><u>Comprehensive iOS Live Photo Handbook for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-compatible-canon-mx410-drivers-fast-and-easy-setup-for-windows/"><u>Download Compatible Canon MX410 Drivers - Fast & Easy Setup for Windows</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210159509-9781642505672-each-day-a-renewed-beginning/"><u>Each Day a Renewed Beginning | Free Book</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-tutorial-reinstalling-samsung-mobile-usb-drivers-made-simple/"><u>Easy Tutorial: Reinstalling Samsung Mobile USB Drivers Made Simple</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-hp-laserjet-pro-m404n-driver-version-installed-easily-online/"><u>Get the Newest HP LaserJet Pro M404n Driver Version Installed Easily Online</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-the-search-for-master-video-artists/"><u>In 2024, Navigating the Search for Master Video Artists</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/the-definitive-guide-to-picking-the-perfect-free-synology-backup-solution-amongst-leading-contenders/"><u>The Definitive Guide to Picking the Perfect Free Synology Backup Solution Amongst Leading Contenders</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/mbr-gptwindows-11-hddssd/"><u>ソリューション：MBR ドライブをGPTでフォーマットし、Windows 11のコピーが完了: HDDからSSDへ</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top-Performing Workhorse Laptop Unveiled, Surpasses Thoughtpad & Macbook in Tests - Insights From ZDNet
-date: 2024-12-02T07:37:29.965Z
-updated: 2024-12-05T02:49:34.055Z
+date: 2024-12-06T02:12:29.808Z
+updated: 2024-12-11T06:18:03.212Z
 tags:
   - laptops
 categories:
@@ -47,6 +47,10 @@ ASUS/ZDNET
 * [Asus ROG Strix G16](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BV7XQ9V9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6558249a-9d4b-4a86-97d7-d0e0d87ba550%7Cdtp&dtb=1): $1700 (save $300)
 * [Asus ROG Strix Scar 15](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Display-GeForce-Keyboard-G533ZW-AS94Q%2Fdp%2FB0BDTVSXS9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6558249a-9d4b-4a86-97d7-d0e0d87ba550%7Cdtp&dtb=1): $1450 (save $600)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best holiday gaming laptop deals at Best Buy
 
 MSI/ZDNET
@@ -64,7 +68,7 @@ MSI/ZDNET
 * [Asus ROG Flow X13](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-rog-flow-x13-13-4-touchscreen-gaming-laptop-1920-x-1200-fhd-amd-ryzen-9-with-16gb-memory-512gb-ssd-off-black%2F6535502.p%3FskuId%3D6535502&publisher_slug=itechdaily19598&exclusive=1): $800 (save $450)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best holiday gaming laptop deals at B&H Photo
@@ -78,10 +82,6 @@ Lenovo/ZDNET
 * [Xenia XPG 15](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1766432-REG%2Fxpg%5F15260180%5F15%5F6%5Fxenia%5F15g%5Fgaming.html): $1200 (save $500)
 * [HP Omen 17](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1792500-REG%2Fhp%5F8r7u2ua%5Faba%5F17%5F3%5Fomen%5F17%5Fck2059nr%5Flaptop.html): $2499 (save $720)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best holiday laptop deals at Walmart
 
 * [XPG Xenia 15G](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FXPG-Xenia-15G-15-6-FHD-Gaming-Laptop-Intel-Core-i7-13700H-16-GB-DDR5-NVIDIA-GeForce-RTX-4060-1-TB-SSD-Windows-11-Home-Black-75260049%2F2130763084%3Fathbdg%3DL1700&subId1=zd-__COM_CLICK_ID__-dtp): $1149 (save $551)
@@ -89,10 +89,6 @@ Lenovo/ZDNET
 * [Lenovo LOQ 15](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLenovo-LOQ-15-6-Gaming-Laptop-FHD-144Hz-Intel-Core-i7-13700H-16GB-RAM-1TB-SSD-NVIDIA-GeForce-RTX-4060-8GB-Storm-Grey%2F3132685782%3Fathbdg%3DL1700&subId1=zd-__COM_CLICK_ID__-dtp): $950 (save $1370)
 * [MSI GE77 Raider](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FMSI-GE-Series-Raider-17-3-144-Hz-IPS-Intel-Core-i7-12th-Gen-12700H-2-30GHz-NVIDIA-GeForce-RTX-3060-Laptop-GPU-16-GB-DDR5-1-TB-NVMe-SSD-Windows-11-Hom%2F1476304999%3Fathbdg%3DL1700%26adsRedirect%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp): $1000 (save $599)
 * [XPG Xenia 15G](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FXPG-Xenia-15G-15-6-FHD-Gaming-Laptop-Intel-Core-i7-13700H-16-GB-DDR5-NVIDIA-GeForce-RTX-4060-1-TB-SSD-Windows-11-Home-Black-75260049%2F2130763084%3Fathbdg%3DL1700&subId1=zd-__COM_CLICK_ID__-dtp): $1149 (save $551)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best holiday gaming laptop deals at Newegg
 
@@ -102,6 +98,10 @@ Lenovo/ZDNET
 * [Asus TUF A17](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fmecha-gray-asus-tuf-gaming-f17-fa707xi-ns94%252Fp%252FN82E16834236430): $1400 (save $400)
 * [Gigabyte G5](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fp%252FN82E16834233559): $750 (save $349)
 * [Acer Predator Helios 16](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fabyssal-black-acer-predator-helios-16-ph16-71-72yg-gaming%252Fp%252FN82E16834360250): $1500 (save $400)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best holiday graphics card deals
 
@@ -143,16 +143,12 @@ ZDNET only writes about deals we want to buy -- devices and products we desire, 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the best gaming laptop?
 
 ZDNET's Lena Borrelli chose the Razer Blade 17 as her top pick for the [best gaming laptop](https://www.zdnet.com/article/best-gaming-laptop/). It features an Nvidia GeForce RTX 3080 Ti graphics card and an Intel Core i9 processor for plenty of power to handle almost any game in your library or on your wishlist. It also has a 17-inch display capable of producing refresh rates of up to 300MHz to make motion blur all but a thing of the past.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the best cheap gaming laptop?
@@ -162,6 +158,10 @@ I chose the Asus TUF A15 (which happens to be on sale at several retailers) as t
 ## How much should a gaming laptop cost?
 
 A gaming laptop is one of those things where you can spend as little or as much as you want; it all depends on what you want to get out of it. If you're looking for your kids, or are an adult just starting to get into PC gaming, it's best to go with a laptop that's under $1000\. You'll still get a great build that's capable of handling most triple-A and indie titles, but you won't have broken the bank getting into a new hobby. However, if you're a content creator or PC gaming veteran, about $1500 will get you a solid gaming laptop that can handle just about anything in your library or wishlist.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the best holiday tech deals right now?
 
@@ -228,20 +228,15 @@ ZDNET's experts have been searching for holiday deals across sites like Amazon, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-free-to-use-the-top-10-mobile-live-streaming-apps-list/"><u>[New] Free to Use The Top 10 Mobile Live Streaming Apps List</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-expedite-your-experience-quick-iphone-time-lapse-for-2024/"><u>[Updated] Expedite Your Experience Quick iPhone Time-Lapse for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-exitingmycam-entry-to-exceptionalcameras/"><u>[Updated] In 2024, ExitingMyCam Entry to ExceptionalCameras</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/comprehensive-analysis-of-samsung-image-editor/"><u>Comprehensive Analysis of Samsung Image Editor</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-the-perfect-lightweight-companion-for-telecommuters-in-depth-analysis-on-a-standout-model/"><u>Discover the Perfect Lightweight Companion for Telecommuters – In-Depth Analysis on a Standout Model</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/eyecatcher-ultimate-screen-capture-guide-for-2024/"><u>EyeCatcher Ultimate Screen Capture Guide for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-on-apple-iphone-13-pro-without-password-by-drfone-ios/"><u>How to Delete iCloud Account On Apple iPhone 13 Pro without Password?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hps-latest-chromebook-range-the-perfect-match-for-remote-workers-and-academic-pursuits-insights-on-zdnet/"><u>HP's Latest Chromebook Range: The Perfect Match for Remote Workers and Academic Pursuits | Insights on ZDNET</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/in-depth-analysis-of-the-sturdy-panasonic-toughbook-g2-notebook-customizable-compact-laptop-reviewed/"><u>In-Depth Analysis of the Sturdy Panasonic Toughbook G2 Notebook | Customizable, Compact Laptop Reviewed</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/most-sought-after-under-1000-laptops-of-2024-in-depth-analysis-and-comparisons-expert-opinions-from-zdnet/"><u>Most Sought-After Under-$1,000 Laptops of 2024: In-Depth Analysis and Comparisons | Expert Opinions From ZDNET</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/prime-deals-alert-snap-up-the-discounted-749-apple-m2-macbook-air-for-octobers-shopping-extravaganza-featured/"><u>Prime Deals Alert! Snap Up the Discounted $749 Apple M2 MacBook Air for October's Shopping Extravaganza - Featured</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/struggling-with-wi-fi-on-your-laptop-discover-effective-troubleshooting-techniques-today/"><u>Struggling with Wi-Fi on Your Laptop? Discover Effective Troubleshooting Techniques Today!</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-poco-f5-5g-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Poco F5 5G</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unraveling-the-secrets-of-generative-ai-core-functions-and-commercial-usage-highlights/"><u>Unraveling the Secrets of Generative AI: Core Functions and Commercial Usage Highlights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/upcoming-release-apples-new-lineup-of-macbook-air-ipad-pro-and-ipad-air-set-for-possible-march-debut-insights/"><u>Upcoming Release: Apple's New Lineup of MacBook Air, iPad Pro, & iPad Air Set for Possible March Debut - Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/craftsmanship-redefined-generating-novelty-in-ai-through-microsoft-copilot/"><u>Craftsmanship Redefined: Generating Novelty in AI Through Microsoft Copilot</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-installation-get-your-razer-mamba-drivers-now/"><u>Effortless Installation: Get Your Razer Mamba Drivers Now</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-asus-rog-phone-7-ultimate-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Asus ROG Phone 7 Ultimate in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Infinix Hot 40i? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-the-installation-of-intel-dynamic-and-thermal-framework-fixes-for-common-failures/"><u>Mastering the Installation of Intel Dynamic & Thermal Framework: Fixes for Common Failures</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/nvidia-rtx-2080-fresh-driver-download-options-for-windows-operating-systems/"><u>NVIDIA RTX 2080: Fresh Driver Download Options for Windows Operating Systems</u></a></li>
+<li><a href="https://discover-able.techidaily.com/quest-ce-qui-se-passe-avec-les-fichiers-effaces-sur-un-disque-dur-externe/"><u>Qu'est-Ce Qui Se Passe Avec Les Fichiers Effacés Sur Un Disque Dur Externe?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-solution-for-missing-d3dx926dll-fixes-and-tricks/"><u>The Ultimate Solution for Missing d3dx9_26.dll – Fixes and Tricks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-guide-resolving-graphics-driver-errors/"><u>Troubleshooting Guide: Resolving Graphics Driver Errors</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unravel-the-value-of-economical-high-definition-pet-cams-by-petcube/"><u>Unravel the Value of Economical, High Definition Pet Cams by Petcube</u></a></li>
 </ul></div>
 

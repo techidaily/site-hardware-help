@@ -1,7 +1,7 @@
 ---
 title: Problem-Solving Abilities in Crows and Other Corvids, Which Can Use Tools to Obtain Food or Create Complex Structures.
-date: 2024-12-03T03:02:25.336Z
-updated: 2024-12-05T09:58:09.252Z
+date: 2024-12-10T01:47:34.768Z
+updated: 2024-12-10T23:04:04.745Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ If you're shopping for a great deal on tech for this holiday season, ZDNET is tr
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Dell holiday deals
@@ -35,10 +35,6 @@ If you're shopping for a great deal on tech for this holiday season, ZDNET is tr
 * [Dell 14-inch portable monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-Dual-Screen-Productivity-Switching-Connectivity%2Fdp%2FB0C8LM4ZZD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0046b43f-55f5-4ae8-9820-c0ec4a0269e4%7Cdtp&dtb=1) for $274 (save $91)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## More Dell holiday deals
 
@@ -97,6 +93,10 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6FJGWK9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0046b43f-55f5-4ae8-9820-c0ec4a0269e4%7Cdtp&dtb=1) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best Dell laptop holiday deals
 
 * [Dell G15 gaming laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-G15-5535-Gaming-Laptop%2Fdp%2FB0CJGBMD42%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0046b43f-55f5-4ae8-9820-c0ec4a0269e4%7Cdtp&dtb=1): $1,000 (save $150)
@@ -106,7 +106,7 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell XPS 13 9310 13.4-inch touch laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-XPS-9310-Laptop-Touchscreen%2Fdp%2FB09PR52BHK%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0046b43f-55f5-4ae8-9820-c0ec4a0269e4%7Cdtp&dtb=1) for $1,071 (save $429)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Dell desktop holiday deals
@@ -118,6 +118,10 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell Optiplex 7080 Intel i5](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fdell-optiplex-7080-business-desktops-workstations%252Fp%252F1VK-0001-6GXW7) for $520 (save $179)
 * [Dell OptiPlex 3000 Desktop](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fdell-optiplex-3000-student-home-office%252Fp%252F1VK-0001-6EUX9) for $1,200 (save $440)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best Dell monitor holiday deals
 
 * [Dell S2721HS 27-inch monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-S2721HS-Adjustable-Response-FreeSync%2Fdp%2FB09S4ZZMS9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0046b43f-55f5-4ae8-9820-c0ec4a0269e4%7Cdtp&dtb=1): $180 (save $40)
@@ -125,7 +129,7 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell 27-inch 4K FreeSync monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-S2721QS-Ultra-Thin-DisplayPort-Certified%2Fdp%2FB08DQWG3JG%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0046b43f-55f5-4ae8-9820-c0ec4a0269e4%7Cdtp&dtb=1) for $297 (save $33)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we choose these holiday deals?
@@ -133,10 +137,6 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the best holiday deals?
 
@@ -210,16 +210,18 @@ Here are the top deals by category we've found so far:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-mass-movement-mastery-the-drone-top-list-for-2024/"><u>[Updated] Mass Movement Mastery The Drone Top List for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-essential-guide-windows-movie-maker-in-animation-production/"><u>2024 Approved Essential Guide Windows Movie Maker in Animation Production</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-samsung-galaxy-xcover-7-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-xiaomi-civi-3-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Xiaomi Civi 3 Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-version-of-samsung-android-debug-bridge-adb-fast-download/"><u>Latest Version of Samsung Android Debug Bridge (ADB) - Fast Download</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/loongson-unveils-16-core-3c6000-processor-a-direct-challenge-to-intel-ice-lake-and-xeon-silver/"><u>Loongson Unveils 16-Core 3C6000 Processor: A Direct Challenge to Intel Ice Lake and Xeon Silver</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/ntbackup-funktion-erklart-praktische-anleitung-zur-nutzung-auf-windows-versionen-10-8-und-7/"><u>NTBackup Funktion Erklärt: Praktische Anleitung Zur Nutzung Auf Windows-Versionen 10, 8 Und 7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/postnatal-care-often-involves-a-team-of-specialists-due-to-the-complexity-and-variety-of-potential-sequelae-from-congenital-infections/"><u>Postnatal Care Often Involves a Team of Specialists Due to the Complexity and Variety of Potential Sequelae From Congenital Infections.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/seamless-asus-touchpad-compatibility-on-windows-11-download-the-newest-drivers-here/"><u>Seamless ASUS Touchpad Compatibility on Windows 11 - Download the Newest Drivers Here</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-downloading-and-installing-acer-aspire-device-drivers-on-windows/"><u>Step-by-Step Guide: Downloading and Installing Acer Aspire Device Drivers on Windows</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/who-qualifies-for-nvidias-revolutionary-ai-foundations-platform-unlocking-potential-in-generative-ai/"><u>Who Qualifies for NVIDIA’s Revolutionary AI Foundations Platform, Unlocking Potential in Generative AI?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-extended-exploration-gopro-slr4-silver-edition/"><u>[New] Extended Exploration GoPro SLR4 Silver Edition</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-assessing-splitcams-standards-in-the-videographer-space-for-2024/"><u>[Updated] Assessing SplitCam’s Standards in the Videographer Space for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-identifying-your-one-of-a-kind-tiktok-sequence/"><u>2024 Approved Identifying Your One-of-a-Kind TikTok Sequence</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-guide-to-downloading-updated-drivers-for-your-toshiba-notebook-windows/"><u>Complete Guide to Downloading Updated Drivers for Your Toshiba Notebook (Windows)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/critical-drivers-alert-resolved-fix-your-graphics-card-glitch-with-these-expert-hacks/"><u>Critical Drivers Alert Resolved! Fix Your Graphics Card Glitch with These Expert Hacks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-graphics-card-driver-for-rtx-2070-super-on-windows-11/"><u>Download and Update Graphics Card Driver for RTX 2070 Super on Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-easily-set-up-and-download-focusrite-scarlett-nano-usb-interface-with-windows-software/"><u>How to Easily Set Up and Download Focusrite Scarlett Nano USB Interface with Windows Software</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-s17-pro-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo S17 Pro to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722964725001-install-newest-reliable-wireless-card-drivers-now/"><u>Install Newest Reliable Wireless Card Drivers Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/soil-type/"><u>Soil Type</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-updating-your-pcs-processor-drivers-on-windows/"><u>Step-by-Step Guide: Updating Your PC's Processor Drivers on Windows</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-art-of-eluding-home-school-video-content/"><u>The Art of Eluding Home School Video Content</u></a></li>
+<li><a href="https://games-able.techidaily.com/two-person-triumphs-top-mobile-games-for-pair-bonding-top-15/"><u>Two-Person Triumphs: Top Mobile Games for Pair Bonding (Top 15)</u></a></li>
 </ul></div>
 

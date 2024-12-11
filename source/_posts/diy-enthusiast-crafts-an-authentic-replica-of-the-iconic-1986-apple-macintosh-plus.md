@@ -1,7 +1,7 @@
 ---
 title: DIY Enthusiast Crafts an Authentic Replica of the Iconic 1986 Apple Macintosh Plus
-date: 2024-08-19T10:24:14.747Z
-updated: 2024-08-20T10:24:14.747Z
+date: 2024-12-07T11:20:53.423Z
+updated: 2024-12-11T12:02:59.130Z
 tags:
   - build
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/o26UHdXFtgwuH4tb9GmFdS-320-80.jpg
 
 ![](https://cdn.mos.cms.futurecdn.net/gRWZJtRVgRiLT8Rc7hcKrV-320-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## System Builder Marathon Q4 2015
 
  Here are links to each of the five articles in this quarter’s System Builder Marathon (we’ll update them as each story is published). And remember, these systems are all being given away at the end of the marathon.
@@ -32,8 +36,9 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/o26UHdXFtgwuH4tb9GmFdS-320-80.jpg
 5. $912 AMD LAN Box PC
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## $912 AMD LAN Box PC
 
  Even though my Intel-based revision of this quarter vindicates my assessments last quarter, a number of readers are still convinced that a properly cooled and overclocked 860K is the gateway to budget gaming goodness. After experiencing the limitations and frustrations last quarter, I still have my reservations. However, the SBM is a perfect place to empirically test this and give AMD's budget quad-core every chance to prove itself.
@@ -41,8 +46,9 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/o26UHdXFtgwuH4tb9GmFdS-320-80.jpg
 ![](https://cdn.mos.cms.futurecdn.net/vaZRhuXWqcyB98KdTMVaK3-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  For your bonus build pleasure, here's the conclusion to the Munchkin Saga, Episode III: Revenge of 860K.
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
@@ -92,20 +98,18 @@ Deepcool Gamer Storm Gabriel
 
  Every component is identical to the Intel build earlier this week except the CPU, cooler and motherboard.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Definition of Insanity
 
  Some of you out there might be groaning and asking, "What, this again?" Hold on a minute. Those asking for a better 860K overclock have a valid argument. The 860K was handicapped last quarter with insufficient cooling to get any kind of meaningful overclock. You can't argue with that. This time around the CPU gets better treatment in the form of an aftermarket cooler and a larger case. So no, we're not trying the exact same thing and expecting different results. Do I expect the 860K to outperform the i3-4170? No, I don't. However, in order for me to prove that one way or the other, I need hard numbers and data. I'm curious to see if it can close the gap, if not overcome it.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Alternate Component Selection
 
  I don't need to spend time explaining the same parts from[two days ago](https://tools.techidaily.com) . To save space and time, I'll only address the three new components.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -159,14 +163,15 @@ Deepcool Gamer Storm Gabriel
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  The RAM caused me no end of heartburn and frustration. I kept running into seemingly random crashes, regardless of RAM timings. I worried the RAM was somehow bad, but it worked flawlessly in the Intel build. After a quick appeal for help to Thomas, I found the motherboard simply required at least 1.64V to run the RAM, even at stock speeds. Again, the Intel build had no problem with 1.5V. I've never seen a motherboard that's more stable overclocked than at stock speeds, until now.
@@ -181,8 +186,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -190,4 +193,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-add-life-to-your-footage-title-updating-techniques-in-photos-win-11/"><u>[Updated] In 2024, Add Life to Your Footage Title Updating Techniques in Photos Win 11</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-memes-take-over-video-hits-on-twitters-map-for-2024/"><u>[Updated] Memes Take Over Video Hits on Twitter's Map for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-techniques-for-incremental-volume-reduction-in-pro-video-editing-for-2024/"><u>[Updated] Techniques for Incremental Volume Reduction in Pro Video Editing for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/400-bargain-bundle-hp-laptop-compatible-mouse-and-microsoft-productivity-software-zdnet/"><u>$400 Bargain Bundle: HP Laptop, Compatible Mouse & Microsoft Productivity Software | ZDNet</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-bid-adieu-the-journey-of-microsofts-windows-mixed-reality-comes-to-an-end/"><u>1. Bid Adieu: The Journey of Microsoft's Windows Mixed Reality Comes to an End</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1-microsoft-vs-google-can-the-chromebook-plus-ai-challenge-windows-copilot-insights-from-zdnet/"><u>1. Microsoft vs Google: Can the Chromebook Plus AI Challenge Windows Copilot? Insights From ZDNet</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-quadcopter-showdown-dji-pro-and-hero-4-black/"><u>2024 Approved Quadcopter Showdown DJI Pro and Hero 4 Black</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-slide-show-must-haves-for-iphone-models-787-pro-max/"><u>2024 Approved Slide Show Must-Haves for iPhone Models 7/8/7 Pro Max</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/a-week-with-an-ergonomic-split-keyboard-transforming-my-entire-workspace-experience-zdnet/"><u>A Week with an Ergonomic Split Keyboard - Transforming My Entire Workspace Experience | ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-reimagined-unveiling-the-power-of-lenovos-dual-display-workstation-for-enhanced-efficiency-featured-on-zdnet/"><u>Experience Reimagined: Unveiling the Power of Lenovo's Dual-Display Workstation for Enhanced Efficiency | Featured on ZDNet</u></a></li>
+<li><a href="https://article-posts.techidaily.com/hacks-to-dodge-digital-lessons-at-home-for-2024/"><u>Hacks to Dodge Digital Lessons at Home for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-breakthrough-methodology-introducing-chapters-in-your-youtube-videos/"><u>In 2024, Breakthrough Methodology Introducing Chapters in Your YouTube Videos</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/maximize-your-savings-on-cyber-monday-with-exceptional-laptop-deals-for-under-500-plus-bonus-item-just-99-insider-tips-from-zdnet/"><u>Maximize Your Savings on Cyber Monday with Exceptional Laptop Deals for Under $500 + Bonus Item Just $99 - Insider Tips From ZDNET</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-in-2024-top-6-mickey-mouse-voice-generators-providing-efficient-results/"><u>New In 2024, Top 6 Mickey Mouse Voice Generators Providing Efficient Results</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/step-by-step-iphone-ringer-update-guide/"><u>Step-by-Step IPhone Ringer Update Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/switching-from-apple-to-microsoft-a-firsthand-review-of-the-surface-pro-and-laptop-duo/"><u>Switching From Apple to Microsoft: A Firsthand Review of the Surface Pro & Laptop Duo</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/tearful-triumph-experiencing-the-power-of-the-latest-m2-macbook-air-zdnet-reviews/"><u>Tearful Triumph: Experiencing the Power of the Latest M2 MacBook Air | ZDNET Reviews</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-65-gaming-laptops-under-700-for-the-festive-season-featuring-exclusive-deals-on-zdnet/"><u>Top 65 Gaming Laptops Under $700 For The Festive Season - Featuring Exclusive Deals on ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unparalleled-business-tablet-beyond-microsoft-and-lenovo-an-expert-review-revealed-on-zdnet/"><u>Unparalleled Business Tablet Beyond Microsoft and Lenovo: An Expert Review Revealed on ZDNet</u></a></li>
+</ul></div>
 

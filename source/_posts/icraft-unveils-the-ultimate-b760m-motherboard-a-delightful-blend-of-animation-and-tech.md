@@ -1,7 +1,7 @@
 ---
 title: "ICraft Unveils the Ultimate B760M Motherboard: A Delightful Blend of Animation & Tech"
-date: 2024-08-19T10:28:06.218Z
-updated: 2024-08-20T10:28:06.218Z
+date: 2024-12-09T09:49:53.674Z
+updated: 2024-12-10T19:08:51.851Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,19 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-comprehensive-degree-of-view-analysis/"><u>[New] 2024 Approved Comprehensive Degree of View Analysis</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-optimize-your-social-media-with-autoplay-vids-on-fb/"><u>[New] Optimize Your Social Media with Autoplay Vids on FB</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-innovative-techniques-for-final-frame-enhancements-on-vimeo/"><u>[Updated] In 2024, Innovative Techniques for Final Frame Enhancements on Vimeo</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-navigating-through-social-streams-securing-your-status-videos/"><u>2024 Approved Navigating Through Social Streams Securing Your Status Videos</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-best-copilotplus-laptop-picks-from-ifa-2er-2024-including-gaming-models-reviewed-by-tech-experts/"><u>Discover the Best Copilot+ Laptop Picks From IFA 2Er 2024 Including Gaming Models Reviewed by Tech Experts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guiando-voce-na-criacao-de-imagens-originais-no-iphone-11-usando-o-programa-movavi-melhores-4-tecnicas/"><u>Guiando Você Na Criação De Imagens Originais No iPhone 11 Usando O Programa Movavi [Melhores 4 Técnicas]</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-realme-gt-5-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Realme GT 5 Phone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/snag-your-dream-laptop-at-a-steal-this-black-friday-hp-envy-x360-2-in-1-touchscreen-goes-for-only-499-after-40-discount-find-top-tech-bargains-on-zdnet/"><u>Snag Your Dream Laptop at a Steal This Black Friday: HP Envy X360 2-in-1 Touchscreen Goes for Only $499 After 40% Discount | Find Top Tech Bargains on ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-100-unbeatable-walmart-bargains-this-season-a-comprehensive-guide-techreview/"><u>Top 100 Unbeatable Walmart Bargains This Season: A Comprehensive Guide | TechReview</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-picks-unbeatable-black-friday-and-cyber-monday-laptop-bargains-for-november-2024-zdnets-ultimate-guide/"><u>Top Picks: Unbeatable Black Friday & Cyber Monday Laptop Bargains for November 2024 - ZDNet's Ultimate Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-recommended-15-inch-laptops-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top Recommended 15-Inch Laptops : Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-list-of-20-compelling-use-cases-for-ipad-pro-owners/"><u>Ultimate List of 20 Compelling Use-Cases for iPad Pro Owners</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: Unleashing Creativity with the New Apple MacBook Pro 16-Inch M2 Max Chip | Expert Review - ZDNET
-date: 2024-11-27T17:28:40.170Z
-updated: 2024-12-05T08:40:15.774Z
+date: 2024-12-06T03:55:38.111Z
+updated: 2024-12-10T20:08:38.266Z
 tags:
   - laptops
 categories:
@@ -43,6 +43,10 @@ Instead, I enlisted the help of [Tom Filip](https://www.flip-cam.com/), a produc
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specifications
 
 | Display      | 16.2-inch Liquid Retina XDR display (3,456 x 2,234, 16:10) with 120Hz                                                                                                                             |
@@ -64,6 +68,10 @@ On the surface level, much of the new MacBook Pro's hardware has been carried ov
 
 What's changed this year mostly stems from within, including upgrades to the processor, connectivity, and battery life, as broken down below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. M2 Max wins where M1 was already winning
 
 Sifting through a timeline on Premiere Pro is just as effortless as on Final Cut Pro.
@@ -81,10 +89,6 @@ With the M2 Max MacBook, the processes that Filip took to video editing were no 
 To editors, the telltale sign of a competent machine is whether or not it can play a part in a timeline as soon as the user hovers over it, Filip tells me. (Keep in mind that there are layers upon layers of effects, graphics, and coloring that must be processed here.) Thanks to the two ProRes encode and decode engines on the MacBook Pro, the hardware-based computing makes playing back raw clips in their original quality satisfying fluid. 
 
 As for export times? We saw the M2 Max model beating out Filip's M1 Max by 20 to 30 seconds in each trial. Once you take those aforementioned deadlines into account, the quicker speeds can mean the difference between an occupied computer and moving on to thumbnails.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Faster, more capable connectivity across the board
 
@@ -112,16 +116,12 @@ Remember the 38-core GPU that I mentioned earlier? Part of its lift involves upp
 
 When deciding between the [M2 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and [M2 Max variants](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), users should note that while the latter is more powerful, it comes at the cost of an hour or two of endurance. Despite that, you're looking at roughly 14 hours of battery life on the M2 Pro versus 12 hours on the M2 Max, which is promising no matter which of the two you end up buying.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What we'd like to see in the next model
 
 For the work that both Filip and I do, there's not much to complain about with the M2 Max, 16-inch MacBook Pro -- performance-wise, at least. The laptop starts at [$3,499](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), which I'll applaud Apple for retaining the 2021's M1 Max price tag. Considering the price, here are two nitpicks that would make the larger MacBook experience even better.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. A lighter form factor
@@ -137,6 +137,10 @@ Part of the reason for the heavier hand feel in general is the MacBook Pro's box
 **Review: [Galaxy Book 3 Ultra: The laptop Samsung fans have been waiting for](https://www.zdnet.com/article/samsung-galaxy-book-3-ultra-review/)**
 
 That's why, if you're switching over to a 2023 MacBook Pro and don't require a maxed-out workstation, I'd heavily consider the 14-inch model. It's just as snappy, has the same ports, and is more fit for travel.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. A notch that does more
 
@@ -157,16 +161,12 @@ The latest MacBook Pro is a testament to Apple's golden age of mobile computing.
 Reviewing the M2 Max MacBook Pro side-by-side with its predecessor also demonstrated just how capable the latter was. To fall only seconds behind when it came to processing and exporting footage, the M1-powered machines should still be considered for shoppers who want a great-value MacBook.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Should I buy one?
 
 That's why if you already have an [M1-powered MacBook Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLate-Apple-MacBook-Silver-Renewed%2Fdp%2FB09RLXYM8J%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4a8b2844-8b7b-4d32-8328-3ef262b4a648%7Cdtp&dtb=1), keep it. If you're upgrading from anything older, I suggest you buy this. At a [starting price of $3,499](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the 16-inch, M2 Max MacBook Pro is no impulse purchase. But if you need a laptop that can power through pro-grade apps and services as efficiently as possible, with some Apple perks on the side like iPhone syncing, a magical force-touch trackpad, and the company's reputable after-sales service, then I can't recommend anything better.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -202,19 +202,24 @@ That's why if you already have an [M1-powered MacBook Pro](https://buy.geni.us/P
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-experience-cutting-edge-editing-with-windows-xp/"><u>[New] In 2024, Experience Cutting-Edge Editing with Windows XP</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-best-sfpr-settings-for-leisurely-scenes/"><u>[Updated] Best SFPR Settings for Leisurely Scenes</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-evaluating-every-aspect-of-du-recorder-design-and-function/"><u>2024 Approved Evaluating Every Aspect of Du Recorder Design & Function</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/best-of-copilot-enabled-pcs-unveiled-at-ifa-2024-featuring-a-gaming-powerhouse-zdnet-insights/"><u>Best of Copilot-Enabled PCs Unveiled at IFA 2024, Featuring a Gaming Powerhouse - ZDNET Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/best-value-in-virtual-reality-metas-just-released-512gb-oculus-quest-3-at-unbeatable-price-techcrunch/"><u>Best Value in Virtual Reality: Meta's Just-Released 512GB Oculus Quest 3 at Unbeatable Price | TechCrunch</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-exceptional-deals-on-asus-15-inch-notebooks-for-250-at-walmart-featuring-complete-port-selection-zdnet-exclusive-find/"><u>Discover Exceptional Deals on Asus 15-Inch Notebooks for $250 at Walmart, Featuring Complete Port Selection – ZDNET Exclusive Find</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exceptional-all-rounder-the-highly-praised-laptop-that-wows-with-robust-hardware-features-insights-from-zdnet/"><u>Exceptional All-Rounder: The Highly Praised Laptop That Wows With Robust Hardware Features - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/experience-next-level-gaming-soundscapes-for-less-grab-our-top-amazon-picks-at-60-off-insights-from-zdnet/"><u>Experience Next-Level Gaming Soundscapes for Less! Grab Our Top Amazon Picks at 60% Off | Insights From ZDNet</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-itel-p40-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Itel P40? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-samsung-galaxy-s23-fe-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Samsung Galaxy S23 FE Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-visionplay-app-feedback-summary/"><u>In 2024, VisionPlay App Feedback Summary</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Realme GT Neo 5 | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/protect-your-privacy-avoid-untrusted-techies-accessing-your-files-new-research-reveals-risks/"><u>Protect Your Privacy: Avoid Untrusted Techies Accessing Your Files - New Research Reveals Risks</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/sound-enriched-photography-web-presence/"><u>Sound-Enriched Photography Web Presence</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-elevating-video-view-count-top-hashtag-trends-guide/"><u>[New] 2024 Approved Elevating Video View Count Top Hashtag Trends Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-essential-submarine-cinematography-tools-for-gopro/"><u>[Updated] Essential Submarine Cinematography Tools for Gopro</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-avoiding-darkness-with-lightrooms-dynamic-range-technique/"><u>[Updated] In 2024, Avoiding Darkness with Lightroom’s Dynamic Range Technique</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-ultimate-7-video-streaming-apps-your-ally-in-going-live-with-youtube-from-iphones-and-android-for-2024/"><u>[Updated] Ultimate 7 Video Streaming Apps Your Ally in Going Live with YouTube From iPhones & Android for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/dive-into-the-world-of-cartoon-pop-culture-with-snapchat-for-2024/"><u>Dive Into the World of Cartoon Pop Culture with Snapchat for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-hp-printer-drivers-on-windows-1011-easy-guide/"><u>Download & Install HP Printer Drivers on Windows 10/11: Easy Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-windows-sound-card-software-from-msi-free-download/"><u>Get the Latest Windows Sound Card Software From MSI - Free Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975062431-get-your-samsung-devices-official-adb-drivers-here/"><u>Get Your Samsung Device's Official ADB Drivers Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-easily-install-or-update-d-link-drivers-in-windows-solution-found/"><u>How to Easily Install or Update D-Link Drivers in Windows - SOLUTION FOUND!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-14-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-depth-analysis-of-raycon-everyday-pro-headphones-impressive-endurance-but-limited-functionality/"><u>In-Depth Analysis of Raycon Everyday Pro Headphones: Impressive Endurance but Limited Functionality</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-latest-logitech-speakers-drivers-on-windows-1178-direct-download-links/"><u>Install Latest Logitech Speakers' Drivers on Windows 11/7/8 - Direct Download Links</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-official-amd-rx-6900-xt-graphics-card-driver-for-all-windows-versions-windows-111087-download-here/"><u>Install Official AMD RX 6900 XT Graphics Card Driver for All Windows Versions - Windows 11/10/8/7 Download Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/optimize-your-system-downloading-and-updating-intel-optane-drivers-for-windows-users/"><u>Optimize Your System: Downloading & Updating Intel Optane Drivers for Windows Users</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721202485095-stellar-reinvents-its-data-recovery-software-for-consumers-ease/"><u>Stellar Reinvents Its Data Recovery Software for Consumers' Ease ...</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/top-10-non-sport-hobbies-for-beginners/"><u>Top 10 Non-Sport Hobbies for Beginners</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-installing-hp-officejet-pro-8715-printer-drivers-on-your-pc-windows/"><u>Ultimate Guide to Installing HP Officejet Pro 8715 Printer Drivers on Your PC [Windows]</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrade-your-workflow-fresh-download-of-nvidia-quadro-rtx-4000-drives-now-available/"><u>Upgrade Your Workflow: Fresh Download of NVIDIA Quadro RTX 4000 Drives Now Available</u></a></li>
 </ul></div>
 

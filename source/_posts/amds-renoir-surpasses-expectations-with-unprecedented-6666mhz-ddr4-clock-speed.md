@@ -1,7 +1,7 @@
 ---
 title: AMD's Renoir Surpasses Expectations with Unprecedented 6666MHz DDR4 Clock Speed
-date: 2024-08-19T10:24:49.707Z
-updated: 2024-08-20T10:24:49.707Z
+date: 2024-12-07T11:56:23.483Z
+updated: 2024-12-11T01:53:05.560Z
 tags:
   - overclocking
 categories:
@@ -29,6 +29,10 @@ Just days after AMD released its new memory-enhancing AGESA 1.0.0.7b update, HiC
 
  If overclockers continue to push memory overclocks like this with AMD's new AGESA microcode update, this may be the first real competition we've seen from AMD regarding memory overclocking. Past AMD Ryzen architectures have always had[inferior memory overclocking performance](https://tools.techidaily.com) , due to the hardware limitations of their memory controllers, compared to Intel. But now it seems like the tables may be turning, and AMD may even have the better-performing memory controller. We'll know this soon enough if memory overclockers start breaking[DDR5 frequency world records](https://tools.techidaily.com) on AMD hardware.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -43,8 +47,6 @@ Just days after AMD released its new memory-enhancing AGESA 1.0.0.7b update, HiC
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -52,8 +54,20 @@ Just days after AMD released its new memory-enhancing AGESA 1.0.0.7b update, HiC
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/2024-approved-achieving-proficiency-comprehensive-photoshop-hdr-tutorial/"><u>2024 Approved Achieving Proficiency Comprehensive Photoshop HDR Tutorial</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/achieving-perfect-pitch-captures-in-rl-games/"><u>Achieving Perfect Pitch Captures in RL Games</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/bandh-photographys-limited-offer-snag-the-high-performance-apple-macbook-pro-16-inch-with-m1-max-chipset-insights-and-savings-analysis-professionals/"><u>B&H Photography's Limited Offer: Snag the High-Performance Apple MacBook Pro 16-Inch with M1 Max Chipset, Insights and Savings Analysis Professionals</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-unparalleled-sound-immersion-with-gaming-speakers-now-65-off-at-amazon-exclusive-review-from-zdnet/"><u>Discover Unparalleled Sound Immersion with Gaming Speakers Now 65% Off at Amazon – Exclusive Review From ZDNet!</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-correct-failed-directx-file-transfers/"><u>How to Correct Failed DirectX File Transfers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-making-sense-of-creative-commons-licensing-and-usage/"><u>In 2024, Making Sense of Creative Commons Licensing & Usage</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-on-your-apple-iphone-15-pro-max-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status On Your Apple iPhone 15 Pro Max</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-star-wars-squadrons-bugs-easily-mastered-solutions-for-players/"><u>Overcome Star Wars: Squadrons Bugs Easily - Mastered Solutions for Players</u></a></li>
+<li><a href="https://app-tips.techidaily.com/pioneering-beyond-standard-llms-in-artificial-intelligence-development-insights-from-an-ai-scientist-at-zdnet/"><u>Pioneering Beyond Standard LLMs in Artificial Intelligence Development | Insights From an AI Scientist at ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/professional-picks-the-elite-list-of-streaming-webcams-reviewed-for-optimal-live-broadcasts-pcmag/"><u>Professional Picks: The Elite List of Streaming Webcams Reviewed for Optimal Live Broadcasts | PCMag</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-5-engaging-copilot-enabled-pcs-unveiled-at-ifa-202-featured-includes-a-gamers-dream-insights-by-zdnet/"><u>Top 5 Engaging Copilot-Enabled PCs Unveiled at IFA 202#: Featured Includes a Gamer's Dream - Insights by ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-picks-exploring-the-finest-tech-unveiled-at-ces-2024-a-look-by-zdnet/"><u>Top Picks: Exploring the Finest Tech Unveiled at CES 2024 - A Look by ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-magic-behind-16gb-memory-in-windows-pcs/"><u>Unveiling the Magic Behind 16GB Memory in Windows PCs</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->

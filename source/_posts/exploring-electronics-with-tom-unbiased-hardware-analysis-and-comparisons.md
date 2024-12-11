@@ -1,7 +1,7 @@
 ---
 title: "Exploring Electronics with Tom: Unbiased Hardware Analysis & Comparisons"
-date: 2024-08-19T10:24:32.074Z
-updated: 2024-08-20T10:24:32.074Z
+date: 2024-12-08T20:07:34.839Z
+updated: 2024-12-11T02:23:21.388Z
 tags:
   - build
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/e78eebe094750e644b67ba3878a187eacb185aa1a
 ##
 
 ![](https://cdn.mos.cms.futurecdn.net/gRWZJtRVgRiLT8Rc7hcKrV-320-80.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## System Builder Marathon Q4 2015
 
@@ -86,19 +90,17 @@ Deepcool Gamer Storm Gabriel
 
  Every component is identical to the Intel build earlier this week except the CPU, cooler and motherboard.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ## The Definition of Insanity
 
  Some of you out there might be groaning and asking, "What, this again?" Hold on a minute. Those asking for a better 860K overclock have a valid argument. The 860K was handicapped last quarter with insufficient cooling to get any kind of meaningful overclock. You can't argue with that. This time around the CPU gets better treatment in the form of an aftermarket cooler and a larger case. So no, we're not trying the exact same thing and expecting different results. Do I expect the 860K to outperform the i3-4170? No, I don't. However, in order for me to prove that one way or the other, I need hard numbers and data. I'm curious to see if it can close the gap, if not overcome it.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Alternate Component Selection
 
  I don't need to spend time explaining the same parts from[two days ago](https://tools.techidaily.com) . To save space and time, I'll only address the three new components.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
@@ -132,23 +134,22 @@ Deepcool Gamer Storm Gabriel
 
 ![](https://cdn.mos.cms.futurecdn.net/nKfSxuUzQNwqBkyJ4996bk-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the fins were a little thinner or my RAM didn't have a heat spreader, this would be a non-issue. It's still not technically a problem. It doesn't keep the RAM from being installed, it doesn't even put flex on the RAM stick. It's just annoying that a cooler marketed as designed specifically for ITX cooling seems to be borderline incompatible with every current AMD ITX motherboard (every model on Newegg right now has the CPU socket oriented the same way). Perhaps some of them have RAM slots a little farther from the CPU socket, which would solve this, but if Deepcool wanted to be universally compatible, shaving a few millimeters off the fins would have accomplished this without impacting thermal performance.
 
 ![](https://cdn.mos.cms.futurecdn.net/EkXfRYe3XW8vhT2PuH7XkJ-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The rest of the assembly went just peachy. The slightly different port layout of the motherboard necessitated different cable routing, but that's it. Everything else is the exact same as the Intel build from a few days ago.
 
 ![](https://cdn.mos.cms.futurecdn.net/kiyNGE2ogxSRTZjnNEBoST-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
+
 ## Overclocking
 
  I did a little more digging on 860K overclocking after last quarter. Most FM2+ motherboards are very liberal with CPU voltage at stock levels. This means it's usually possible to overclock the CPU while undervolting it. This held true for my particular 860K. Stock voltage was set at 1.45V, but I was able to get it to run at 4.0GHz on only 1.35V. Lowering the voltage helped temperatures, but the CPU still has a pretty hard thermal ceiling that won't let it be pushed as much as it could. Regardless of cooling solution or voltage, the CPU cuts back to 3.5 to 3.7GHz when it hits 65 degrees C (total, not over ambient). Even with the cooler at full speed, I was occasionally hitting that ceiling under the most demanding workloads.
@@ -161,12 +162,17 @@ Deepcool Gamer Storm Gabriel
 
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  The RAM caused me no end of heartburn and frustration. I kept running into seemingly random crashes, regardless of RAM timings. I worried the RAM was somehow bad, but it worked flawlessly in the Intel build. After a quick appeal for help to Thomas, I found the motherboard simply required at least 1.64V to run the RAM, even at stock speeds. Again, the Intel build had no problem with 1.5V. I've never seen a motherboard that's more stable overclocked than at stock speeds, until now.
 
@@ -180,8 +186,6 @@ Deepcool Gamer Storm Gabriel
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -189,4 +193,20 @@ Deepcool Gamer Storm Gabriel
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-the-secrets-of-advanced-camera-settings/"><u>[New] Unveiling the Secrets of Advanced Camera Settings</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-heres-how-you-can-ace-the-tiktok-photo-editing-hacks-for-2024/"><u>[Updated] Here’s How You Can Ace the TikTok Photo Editing Hacks for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-from-shared-laughter-to-your-storage-twitters-gif-guide/"><u>[Updated] In 2024, From Shared Laughter to Your Storage Twitter's GIF Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-future-of-quick-text-conversion-from-srt/"><u>[Updated] The Future of Quick Text Conversion From SRT</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/a-week-of-wonders-on-a-split-ergonomic-keyboard-an-insightful-tale-from-zdnet-perspective/"><u>A Week of Wonders on a Split Ergonomic Keyboard - An Insightful Tale From ZDNET Perspective</u></a></li>
+<li><a href="https://change-location.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-vivo-y200-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-productivity-connect-two-displays-to-your-m3-macbook-pro-similar-features-to-m3-macbook-air-showcased/"><u>Enhance Your Productivity: Connect Two Displays to Your M3 MacBook Pro - Similar Features to M3 MacBook Air Showcased</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ideal-lenovo-computing-solutions-for-the-work-from-anywhere-era-at-a-steep-discount/"><u>Ideal Lenovo Computing Solutions for the Work-From-Anywhere Era at a Steep Discount</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-smart-solutions-top-6-fb-lite-extractors/"><u>In 2024, Smart Solutions #Top 6 FB Lite Extractors</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/power-users-dream-top-2-standout-features-of-the-new-lenovo-laptop-review/"><u>Power User's Dream: Top 2 Standout Features of the New Lenovo Laptop Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/shedding-the-myths-discovering-a-comparably-sleek-and-power-packed-windows-option-for-laptop-lovers-techdigest/"><u>Shedding the Myths: Discovering a Comparably Sleek & Power-Packed Windows Option for Laptop Lovers | TechDigest</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-xiaomi-civi-3-disney-100th-anniversary-edition-by-drfone-android/"><u>Top 10 Password Cracking Tools For Xiaomi Civi 3 Disney 100th Anniversary Edition</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-october-2024-pre-black-friday-gamer-bargains-where-to-find-them/"><u>Top October 2024 Pre-Black Friday Gamer Bargains: Where to Find Them</u></a></li>
+</ul></div>
 

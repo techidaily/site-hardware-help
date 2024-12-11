@@ -1,7 +1,7 @@
 ---
 title: World Record Thermal Runoff Achieved by Splave with Ryzene 9 3900XT and Liquid Nitrogen Cooling
-date: 2024-08-19T10:25:02.588Z
-updated: 2024-08-20T10:25:02.588Z
+date: 2024-12-04T21:46:30.466Z
+updated: 2024-12-10T19:06:24.177Z
 tags:
   - overclocking
 categories:
@@ -27,6 +27,10 @@ Based on Intel's Netburst microarchitecture and made using 65nm process technolo
 
  It is noteworthy that the 8.0 GHz barrier is rather hard to break, and to date, only 117 processors have managed to pass it. The vast majority of the processors to hit 8.0 GHz or higher frequency are AMD's FX 8000-series units, as well as Intel's Cedar Mill-based Celeron D or Pentium CPUs, but there are also several AMD's A-series APUs too.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -35,14 +39,11 @@ Based on Intel's Netburst microarchitecture and made using 65nm process technolo
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -51,8 +52,18 @@ Based on Intel's Netburst microarchitecture and made using 65nm process technolo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-selection-affordable-hd-cams-for-sports/"><u>[New] Ultimate Selection Affordable HD Cams for Sports</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-navigating-through-the-complexities-of-copyright-on-instagrams-music-platform/"><u>[Updated] 2024 Approved Navigating Through the Complexities of Copyright on Instagram’s Music Platform</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-chuckle-and-cry-the-top-instagram-memes-that-make-you-giggle/"><u>[Updated] Chuckle & Cry The Top Instagram Memes that Make You Giggle</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-voice-record-hacks-3-ways-to-get-it-right-on-ipad-for-2024/"><u>[Updated] Voice Record Hacks 3 Ways to Get It Right on iPad for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-frontiers-unleashed-a-review-of-the-best-7-grand-strategy-games/"><u>2024 Approved Frontiers Unleashed A Review of the Best 7 Grand Strategy Games</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/beyond-the-big-names-unveiling-excellence-in-work-laptops-tested-not-lenovo-or-macbook/"><u>Beyond the Big Names: Unveiling Excellence in Work Laptops Tested Not Lenovo or MacBook</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-the-toughest-and-most-resilient-laptops-insights/"><u>Exploring the Toughest and Most Resilient Laptops - Insights</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-unlock-efficiency-cutting-edge-techniques-for-cropping-and-exporting-videos/"><u>In 2024, Unlock Efficiency Cutting-Edge Techniques for Cropping & Exporting Videos</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/protecting-privacy-the-ultimate-step-by-step-method-to-erase-sensitive-data-from-your-windows-pc-free-tips-and-tricks/"><u>Protecting Privacy: The Ultimate Step-by-Step Method to Erase Sensitive Data From Your Windows PC - Free Tips & Tricks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/sale-alert-samsung-t5-4tb-ssds-now-available-at-a-whopping-50-discount-on-amazon-dont-miss-out/"><u>Sale Alert: Samsung T5 4TB SSDs Now Available at a Whopping 50% Discount on Amazon - Don't Miss Out!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-productivity-laptop-that-beats-thinkpads-and-macbooks-get-30-off-during-prime-dayzdnet-exclusive/"><u>Top Productivity Laptop That Beats ThinkPads and MacBooks - Get 30% Off During Prime Day![ZDNet Exclusive]</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->

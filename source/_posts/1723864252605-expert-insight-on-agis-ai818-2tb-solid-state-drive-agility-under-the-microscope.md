@@ -1,7 +1,7 @@
 ---
 title: Expert Insight on AGI's AI818 2TB Solid State Drive - Agility Under the Microscope
-date: 2024-08-19T10:26:33.897Z
-updated: 2024-08-20T10:26:33.897Z
+date: 2024-12-07T08:51:26.543Z
+updated: 2024-12-11T08:40:54.212Z
 tags:
   - ssd
 categories:
@@ -16,6 +16,10 @@ AGI is a memory technology brand we’ve heard of but never tested... until toda
  Many drives in this category are outright slower than the AI818, at least on paper. This includes the[Kingston NV2](https://tools.techidaily.com) and drives like it, as well as PCIe 3.0 drives like the[Teamgroup MP34](https://tools.techidaily.com) . The latter is now using a Realtek controller, like our AI818 sample. Realtek controllers often feel last-generation and can run hotter, but offer a way to add more capacity at a lower cost. Unlike the MP34, though, our 2TB AI818 is using QLC NAND, which is being used on many budget PCIe 4.0 drives including the NV2 and the[Silicon Power UD90](https://tools.techidaily.com) — but not all, as the[Teamgroup MP44L](https://tools.techidaily.com) is one exception. As TLC cannot be guaranteed in most cases, caution is warranted on this class of drive.  
   
  Some of our results for the AI818 are surprising, and often not in a good way. We also don’t think this drive is the best choice for a laptop. However, it’s not the worst drive we’ve ever tested, and if you can find it at the right price it can get the job done. With this drive, budget is the name of the game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specifications
 
@@ -46,13 +50,14 @@ AGI is a memory technology brand we’ve heard of but never tested... until toda
 
 * [AGI AI818 2TB SSD at Newegg for $114.99](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Flink%3Fid%3DkXQk6%252AivFEQ%26offerid%3D1531483.445838636436816353697968%26type%3D15%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fagi-2tb-ai818-43%252Fp%252F0D9-010F-00011%253Fitem%253D9SIBM90K3J6368%26u1%3Dtomshardware-us-1398768948128134202)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Software and Accessories
 
  AGI does not appear to offer any direct software downloads on its site, but there are free alternatives. We recommend CrystalDiskInfo for basic drive information including SMART health status. For imaging and cloning,[Clonezilla](https://tools.techidaily.com) should do the trick.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ## AGI AI818 — A Closer Look
 
  Image 1 of 3
@@ -60,22 +65,21 @@ AGI is a memory technology brand we’ve heard of but never tested... until toda
 ![AGI AI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![AGI AI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![AGI AGI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  It's not the worst label we’ve ever seen. The drive is at least single-sided, which means it could work with a wider range of[laptops](https://tools.techidaily.com) . It should also be fine in the PS5\. However, we suspect a heatsink might be desirable, which makes it less palatable for a laptop. The label is supposedly graphene-based, which may help keep it from overheating in airy desktops at least.
@@ -84,12 +88,13 @@ AGI is a memory technology brand we’ve heard of but never tested... until toda
 
 ![AGI AI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![AGI AI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -155,16 +160,11 @@ powered by
 
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -173,4 +173,19 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-transforming-your-ad-strategy-with-animation-for-max-roi-for-2024/"><u>[New] Transforming Your Ad Strategy with Animation for Max ROI for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-zerobackground-pro-precision-erasing-for-photos-for-2024/"><u>[New] ZeroBackground Pro Precision Erasing for Photos for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-skype-symphony-a-roundup-of-high-quality-ringtones/"><u>[Updated] Skype Symphony A Roundup of High-Quality Ringtones</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/50-tech-hack-that-could-cut-costs-by-thousands-featured-by-zdnet/"><u>$50 Tech Hack That Could Cut Costs by Thousands, Featured by ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/2024s-leading-antivirus-programs-ranked-find-your-perfect-protector/"><u>2024'S Leading Antivirus Programs Ranked : Find Your Perfect Protector!</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-simplified-design-guide-add-your-own-style-to-your-video-shorts/"><u>In 2024, Simplified Design Guide Add Your Own Style to Your Video Shorts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/june-2024s-premier-discounts-at-best-buy-discover-the-deals/"><u>June 2024'S Premier Discounts at Best Buy - Discover the Deals</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-htc-u23-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on HTC U23 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/transfert-securise-des-donnees-entre-un-disque-windows-11-et-une-ssd-tuto-clonage/"><u>Transfert Sécurisé Des Données Entre Un Disque Windows ^_^11 Et Une SSD : Tuto Clonage</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-offer-slash-120-from-two-in-one-mobile-workstation-display-by-teamgee-exclusive-insights-and-reviews/"><u>Unbeatable Offer: Slash $120 From Two-in-One Mobile Workstation Display by TeamGee - Exclusive Insights & Reviews</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unboxing-apples-latest-innovation-the-m2-macbook-air-a-review-that-will-move-you/"><u>Unboxing Apple's Latest Innovation: The M2 MacBook Air - A Review That Will Move You</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-moto-g84-5g-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Moto G84 5G on Windows?</u></a></li>
+</ul></div>
 

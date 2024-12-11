@@ -1,7 +1,7 @@
 ---
 title: Microsoft Slashes Prices on Surface Go and Drops All-Time Low Price for Xbox Series S - ZDNet
-date: 2024-11-27T17:36:57.886Z
-updated: 2024-12-05T01:16:04.757Z
+date: 2024-12-08T19:43:08.142Z
+updated: 2024-12-11T07:01:06.603Z
 tags:
   - laptops
 categories:
@@ -27,7 +27,7 @@ Microsoft is known for its innovative products in gaming, computers, and more. A
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Save hundreds on Surface tablets and laptops**
@@ -43,7 +43,7 @@ Under the tablet's hood, you'll find a blazing-fast processor (12th Gen Intel Co
 Meanwhile, if you're preference is for laptops, then Microsoft has other deals for you. You can save $200 on the Surface Laptop 5, up to $646 on the Surface Laptop 4, and $150 on the Surface Laptop Go 2\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Get the Xbox Series S at its lowest price ever**
@@ -59,7 +59,7 @@ This is a digital console, meaning you'll have ample room to download games on i
 Overall, the Xbox Series S is an excellent gaming system for those looking for jaw-dropping graphics, access to a diverse gaming library, and fast performance. In addition, Microsoft lowered its price to $239.99, making it the best time to buy one. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Want to save even more on Microsoft devices?**
@@ -110,16 +110,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-best-youtube-livestreaming-screen-recorders-for-2024/"><u>[New] Best YouTube Livestreaming Screen Recorders for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-the-art-of-building-powerful-youtube-backlinks/"><u>[Updated] 2024 Approved The Art of Building Powerful YouTube Backlinks</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-comedy-in-catchy-notes-best-parody-songs-list/"><u>[Updated] In 2024, Comedy in Catchy Notes Best Parody Songs List</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-laughters-legacy-the-process-of-parody-film-making/"><u>[Updated] Laughter's Legacy The Process of Parody Film-Making</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-unlocking-music-free-converters-for-youtube-and-mac-users-for-2024/"><u>[Updated] Unlocking Music Free Converters for YouTube & Mac Users for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/budget-friendly-office-essentials-hp-touchscreen-laptop-with-mouse-and-microsoft-365-just-400/"><u>Budget-Friendly Office Essentials: HP Touchscreen Laptop with Mouse & Microsoft 365 - Just $400!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discovering-the-ideal-work-travel-tablet-beyond-microsoft-lenovo-choices-on-zdnet/"><u>Discovering the Ideal Work Travel Tablet - Beyond Microsoft, Lenovo Choices on ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-to-follow-instructions-hook-up-apple-tv-services-on-amazon-firestick/"><u>Easy-to-Follow Instructions: Hook Up Apple TV Services on Amazon Firestick</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-best-charger-accessory-enjoy-an-exceptional-deal-of-30-off-my-recommended-apple-magsafe-charging-pad-exclusive-offer/"><u>Get the Best Charger Accessory: Enjoy an Exceptional Deal of 30% Off My Recommended Apple MagSafe Charging Pad | Exclusive Offer!</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Lava Blaze Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/score-unbeatable-blowout-prices-this-cyber-monday-2024-deals-you-cant-miss-available-now-techradar/"><u>Score Unbeatable Blowout Prices This Cyber Monday 2024: Deals You Can't Miss - Available Now | TechRadar</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-comparing-cloud-prices-for-maximum-savings/"><u>[New] Comparing Cloud Prices for Maximum Savings</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/direct-links-to-the-latest-ricoh-mp-c3003-printer-driver-software-get-them-now/"><u>Direct Links to the Latest Ricoh MP C3003 Printer Driver Software - Get Them Now</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/generate-individual-meme-crafts-today/"><u>Generate Individual Meme Crafts Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-installupdate-razer-graphics-and-input-driver-in-windows-xp-10/"><u>How to Install/Update Razer Graphics & Input Driver in Windows (XP - 10)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-google-pixel-7a-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Google Pixel 7a Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Infinix Note 30 VIP Racing Edition? | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-unveiling-the-perfect-process-iphones-podcast-downloading-technique/"><u>In 2024, Unveiling the Perfect Process IPhone's Podcast Downloading Technique</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-hp-deskjet-2600-printer-drivers-for-windows-7810-easy-guide-and-download-links/"><u>Install HP DeskJet 2600 Printer Drivers for Windows 7/8/10 - Easy Guide and Download Links</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-compatible-thrustmaster-t300-racing-wheel-drivers-for-windows-10-and-11-free-download-links-inside/"><u>Latest Compatible Thrustmaster T300 Racing Wheel Drivers for Windows 10 and 11 – Free Download Links Inside!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/lenovos-thunderbolt-ndock-updates-ensure-optimal-compatibility-and-functionality-with-new-driver-release/"><u>Lenovo's Thunderbolt nDock Updates - Ensure Optimal Compatibility and Functionality with New Driver Release</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/maintaining-optimal-performance-updating-ati-radeon-graphics-card-drivers-in-windows-environments/"><u>Maintaining Optimal Performance: Updating ATI Radeon Graphics Card Drivers in Windows Environments</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-top-rated-free-security-camera-systems-expert-reviews/"><u>New In 2024, Top-Rated Free Security Camera Systems Expert Reviews</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-easy-win-effective-methods-for-fresh-installation-of-d-link-driver-software-in-windows/"><u>Quick & Easy Win: Effective Methods for Fresh Installation of D-Link Driver Software in Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/select-access-microsoft-unveils-cross-platform-window-support-on-chromebooks-and-macs/"><u>Select Access: Microsoft Unveils Cross-Platform Window Support on Chromebooks and Macs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-instructions-get-the-latest-epson-xp-410-driver-for-your-pc-windows-system/"><u>Step by Step Instructions: Get the Latest Epson XP- 410 Driver for Your PC Windows System!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/step-by-step-backdrop-be-gone-guide-for-images-for-2024/"><u>Step-by-Step Backdrop Be Gone Guide for Images for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/step-by-step-tutorial-on-accessing-system-specifications-with-yl-software-solutions/"><u>Step-by-Step Tutorial on Accessing System Specifications with YL Software Solutions</u></a></li>
 </ul></div>
 

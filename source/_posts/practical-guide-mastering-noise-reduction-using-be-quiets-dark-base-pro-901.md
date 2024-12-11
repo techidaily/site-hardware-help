@@ -1,7 +1,7 @@
 ---
 title: "Practical Guide: Mastering Noise Reduction Using Be Quiet's Dark Base Pro 901"
-date: 2024-08-19T10:23:07.970Z
-updated: 2024-08-20T10:23:07.970Z
+date: 2024-12-04T10:01:58.980Z
+updated: 2024-12-11T03:18:30.067Z
 tags:
   - cases
 categories:
@@ -63,13 +63,18 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 
  This "sandwich style" setup offers extra diversity in terms of what components you can install, but at the same time, the wiggle room is pretty limited. You can move the spine about 1.5 inches one way or the other, even with parts attached and, again, the case's total width is just over 6 inches. I have to wonder why, particularly in today's world of three-slot-plus GPUs, Fractal didn't just make the case a couple of inches wider – and maybe one or two taller – to accommodate more fan mounting options and better CPU cooling.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Build Experience With the Fractal Design Terra
 
  While I didn't have the time to put together a full review before heading off to Computex, Fractal did send the case ahead of the launch date and, space constraints aside, there's a lot I like about it. It's surprisingly easy to build in for such a small chassis.
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -83,16 +88,17 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 ![Fractal Design Terra](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![Fractal Design Terra](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  As you've probably noticed in the photos, the side panels flip up gull-wing style, and the rear of the frame is spring-mounted, so if you push back on the hinges, you can remove the side doors completely. Similarly, the top panel pulls back (via a stylish and handy faux-leather tab) and lifts off, giving you full access to three sides of the case for the build process.
@@ -100,8 +106,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![Fractal Design Terra](https://cdn.mos.cms.futurecdn.net/GGZ7h2GYJ9xDyuCYcbGRUQ-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  Mini-ITX motherboard installation is dead simple. You'll want to install your cooler, RAM and any M.2 drives on the board first, then flip the case on its side and the motherboard drops right in, to be anchored via four screws on the pre-installed standoffs. Again, CPU cooler space is extremely limited. I installed a[Thermalright AXP90-X47](http://www.thermalright.com/product/axp90-x47/) cooler for my Ryzen 5 5600 CPU, but the smaller AMD Wraith or Intel stock coolers should fit here just fine (again, depending on how much GPU space you need on the other side, so be sure to double-check those numbers).
@@ -110,9 +117,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Fractal Design Terra](https://cdn.mos.cms.futurecdn.net/hQRNNowsajoJZWAxs2Kk3R-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Next, I spun the case around and installed my GPU. For this build, I used an old Gigabyte RTX 2060 Super. I could have installed something thicker and a couple of inches longer here, but the Gigabyte card wasn't currently in another system, my Zotac GTX 1080 Ti was borderline too thick (and too old), and the Colorful RTX 4090 in my main system is too long, at over 13 inches. I'd say in most instances, you should expect to fit most 4070-class cards in this case – as long as it's not one of the crazy thick overbuild models. Higher-end Nvida FE cards should also fit, but then you're going to need a larger SFX-L power supply, and I don't feel great about all that heat-generating hardware going into a cramped case with, at best, a single intake fan. Again, Fractal could have made this case just a little bigger to accommodate more powerful cards. But as it is, it's probably good that you can't quite fit the most powerful, most overclocked cards in this case, no matter how vented all the panels are.
@@ -129,9 +133,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Fractal Design Terra](https://cdn.mos.cms.futurecdn.net/cy4rnk357zphPGMR6K8oaQ-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  There's no[audio](https://tools.techidaily.com) jack here, which may bother some. But as this is a tiny case that's clearly designed to sit on your desk, the audio jacks on the motherboard aren't much more than a foot away at the back of the case. Part of me wants to see more USB ports up front, but again, those are within fairly easy reach around the back.  
@@ -154,8 +155,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -163,4 +162,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-beginners-guide-start-filming-with-ease-using-logitech-camera/"><u>[Updated] In 2024, Beginner's Guide Start Filming with Ease Using Logitech Camera</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/apple-macbook-showdown-comparing-the-latest-m3-vs-m2-models-find-your-perfect-fit/"><u>Apple MacBook Showdown: Comparing the Latest M3 Vs. M2 Models - Find Your Perfect Fit!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/bulkier-no-way-how-this-11-port-usb-hub-transformed-my-workspace-and-dropped-in-price-by-44-find-out-more-on-zdnet/"><u>Bulkier? No Way: How This 11-Port USB Hub Transformed My Workspace & Dropped in Price by 44% - Find Out More on ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/end-minecraft-game-freezing-discover-6-quick-solutions-to-stabilize-your-playtime/"><u>End Minecraft Game Freezing - Discover 6 Quick Solutions to Stabilize Your Playtime</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experts-roundup-of-ideal-notebook-computers-in-depth-analysis-and-ratings/"><u>Experts' Roundup of Ideal Notebook Computers - In-Depth Analysis and Ratings</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-bypassing-vimeo-top-10-editing-software-choices/"><u>In 2024, Bypassing Vimeo Top 10 Editing Software Choices</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-vivo-s18-pro-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Vivo S18 Pro to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/maximizing-your-ipad-pro-experience-with-the-top-usb-c-hub-picks-latest-guide/"><u>Maximizing Your iPad Pro Experience with the Top USB-C Hub Picks Latest Guide!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/solitary-speaker-issue-solution-steps/"><u>Solitary Speaker Issue Solution Steps</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/the-ultimate-guide-to-filmora-discounts-4-expert-approved-methods-for-2024/"><u>The Ultimate Guide to Filmora Discounts 4 Expert-Approved Methods for 2024</u></a></li>
+</ul></div>
 

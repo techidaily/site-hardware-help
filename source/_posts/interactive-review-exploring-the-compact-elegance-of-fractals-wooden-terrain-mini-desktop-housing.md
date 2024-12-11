@@ -1,7 +1,7 @@
 ---
 title: "Interactive Review: Exploring the Compact Elegance of Fractal's Wooden Terrain Mini Desktop Housing"
-date: 2024-08-19T10:22:57.284Z
-updated: 2024-08-20T10:22:57.284Z
+date: 2024-12-09T19:54:33.709Z
+updated: 2024-12-11T07:09:52.501Z
 tags:
   - cases
 categories:
@@ -41,6 +41,10 @@ Cases and cooling specialist Raijintek has decided to go big with its latest PC 
 
  Users who want to add some RGB LED lighting frills can enjoy cable-less convenience and control of front panel lighting. However, the product pages and install manual don't give a lot of detail about this feature.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -55,9 +59,17 @@ Cases and cooling specialist Raijintek has decided to go big with its latest PC 
 
 ![Raijintek Zofos Ultra case](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Raijintek)
 
 ![Raijintek Zofos Ultra case](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Raijintek)
 
@@ -89,8 +101,6 @@ Cases and cooling specialist Raijintek has decided to go big with its latest PC 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -98,8 +108,24 @@ Cases and cooling specialist Raijintek has decided to go big with its latest PC 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-top-choices-best-livestream-equip-and-tech-for-youtubers/"><u>[New] In 2024, Top Choices Best Livestream Equip & Tech for Youtubers</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-vimeo-vips-engaging-on-snapchat-for-2024/"><u>[New] Vimeo VIPs Engaging on Snapchat for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-the-premier-windows-camcorders-guide/"><u>[Updated] In 2024, The Premier Windows Camcorders Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amazons-prime-day-deals-continue-score-the-latest-offers-with-36-off-on-a-high-capacity-8tb-samsung-t5-ssd-featured-by-zdnet/"><u>Amazon's Prime Day Deals Continue! Score the Latest Offers with 36% Off on a High-Capacity 8TB Samsung T5 SSD - Featured by ZDNet</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/auditory-enhancements-for-pixels-and-playlists-for-2024/"><u>Auditory Enhancements for Pixels and Playlists for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/error-code-403-resolution-in-roblox-tips-for-windows-based-gamers/"><u>Error Code 403 Resolution in Roblox: Tips for Windows-Based Gamers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/future-proof-computing-exploring-the-most-robust-laptop-models-for-2eplus24-tech-insights-by-zdnet/"><u>Future-Proof Computing: Exploring the Most Robust Laptop Models for 2E+24 | Tech Insights by ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/game-like-never-before-with-the-ultimate-bargain-on-asuss-14-inch-rog-zephyrus-save-huge-upgrade-now/"><u>Game Like Never Before with The Ultimate Bargain on Asus's 14-Inch ROG Zephyrus - Save Huge, Upgrade Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-in-on-it-exclusive-spotlight-on-metas-premier-vr-deal-for-the-512gb-quest-best-value-alert-from-zdnet/"><u>Get in On It! Exclusive Spotlight on Meta's Premier VR Deal for the 512GB Quest | Best Value Alert From ZDNET</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-elite-tech-selection-the-15-finest-cameras/"><u>In 2024, Elite Tech Selection – The 15 Finest Cameras</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/professional-video-quality-at-your-fingertips-ois-powered-choices-for-2024/"><u>Professional Video Quality at Your Fingertips OIS-Powered Choices for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-on-reversion-from-windows-11-to-windows-10-with-a-twist-zdnet/"><u>Step-by-Step Guide on Reversion: From Windows 11 to Windows 10 with a Twist | ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/surprisingly-strong-top-notch-laptops-available-under-700-reviewed/"><u>Surprisingly Strong: Top-Notch Laptops Available Under $700 Reviewed</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/swipe-for-success-the-art-of-flipping-videos-on-instagram/"><u>Swipe for Success The Art of Flipping Videos on Instagram</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-top-pick-unlocking-underappreciated-functionality-in-the-most-impressive-2023-dual-device-a-must-see-by-zdnet/"><u>The Top Pick: Unlocking Underappreciated Functionality in the Most Impressive 2023 Dual-Device - A Must-See by ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-saving-gpt-chats/"><u>The Ultimate Guide to Saving GPT Chats</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-laptop-pick-a-15-inch-macbook-air-now-just-250-cheaper-zdnets-top-recommendation/"><u>The Ultimate Laptop Pick - A 15-Inch MacBook Air, Now Just $250 Cheaper | ZDNet's Top Recommendation</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->

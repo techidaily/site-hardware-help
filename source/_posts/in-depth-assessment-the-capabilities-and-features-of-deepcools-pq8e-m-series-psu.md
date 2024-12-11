@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Assessment: The Capabilities & Features of DeepCool's PQ8e M Series PSU"
-date: 2024-08-19T10:20:01.151Z
-updated: 2024-08-20T10:20:01.151Z
+date: 2024-12-07T11:10:08.846Z
+updated: 2024-12-10T22:42:43.815Z
 tags:
   - power-supply
 categories:
@@ -18,6 +18,10 @@ Want to build a PC on a budget but need some outstanding performance for the pri
  You can also pick up a power supply for your new build or upgrade your existing PSU with the[Super Flower Leadex V Platinum Pro 850W PSU for $129](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-3375912336607948806%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fsuper-flower-leadex-v-platinum-pro-sf-850f14tp-850w%252Fp%252F1HU-024C-00043) . Use promo code**MKTAMNPMAR27** at checkout for avail of the $30 discount.
 
 See more Real Deals below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## TL;DR — Today’s Best Deals
 
@@ -64,8 +68,9 @@ See more Real Deals below.
 [View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB07S98YLHM%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-8780951100740110730-20)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Looking for more deals?
 
 Category
@@ -73,22 +78,21 @@ Category
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/chevron-left.svg "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Back to Hubs & Switches
 
 Brand
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Intel
 
  Netgear
@@ -107,9 +111,6 @@ Condition
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
  New
 
  Refurbished
@@ -119,8 +120,9 @@ Price
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Any Price
 
  Showing 10 of 52 deals
@@ -287,8 +289,6 @@ Our Review
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -296,4 +296,26 @@ Our Review
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-explore-the-limitless-potential-of-fb-vr-upload-tips-for-2024/"><u>[New] Explore the Limitless Potential of FB VR Upload Tips for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-step-by-step-guide-for-font-integration-in-ae/"><u>[Updated] 2024 Approved Step-by-Step Guide for Font Integration in AE</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-uncovering-inexpensive-deals-for-your-gopro-camera-for-2024/"><u>[Updated] Uncovering Inexpensive Deals for Your GoPro Camera for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-most-efficient-work-travel-tablet-alternative-to-microsoft-and-lenovo-according-to-industry-experts-zdnet-insights/"><u>Discover the Most Efficient Work Travel Tablet Alternative to Microsoft and Lenovo, According to Industry Experts | ZDNet Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-review-the-most-discreet-yet-functional-smart-lock-app-perfect-for-iphone-owners/"><u>Exclusive Review: The Most Discreet Yet Functional Smart Lock App Perfect for iPhone Owners</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-find-your-ideal-affordable-macbook-usb-c-charger-for-less-than-70-on-amazon-current-deals-cnet/"><u>How to Find Your Ideal Affordable MacBook USB-C Charger for Less Than $70 on Amazon - Current Deals | CNET</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/identifying-the-latest-ipads-equipped-with-gps-technology/"><u>Identifying the Latest iPads Equipped with GPS Technology</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-apple-iphone-xs-for-parents-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 10 Telegram Spy Tools On Apple iPhone XS for Parents | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-oppo-a56s-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Oppo A56s 5G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-say-goodbye-to-windows-10-photos-top-8-image-editing-solutions-youll-love/"><u>New In 2024, Say Goodbye to Windows 10 Photos Top 8 Image Editing Solutions Youll Love</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/section-2b-five-facts-to-remember/"><u>Section 2B: Five Facts to Remember</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-5-best-copilotplus-laptops-showcased-at-ifa-202/"><u>Top 5 Best Copilot+ Laptops Showcased at IFA 202</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-laptop-support-accessories-a-comprehensive-review-by-zdnet/"><u>Top-Rated Laptop Support Accessories : A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-viewership-the-ultimate-top-7-bots-for-twitch-stardom/"><u>Transform Viewership: The Ultimate Top 7 Bots For Twitch Stardom</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-seasonal-bargains-top-discounts-on-ipads-televisions-computers-and-beyond-exclusive/"><u>Unbeatable Seasonal Bargains: Top Discounts on iPads, Televisions, Computers & Beyond Exclusive</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/k-creator-studio-secrets-a-step-by-step-tutorial-for-2024/"><u>Unlock Creator Studio Secrets A Step-by-Step Tutorial for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlocking-value-expert-picks-for-the-most-affordable-and-powerful-laptops-of-202n4-(1k/"><u>Unlocking Value: Expert Picks for the Most Affordable and Powerful Laptops of 202N4 (<$1K)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-latest-dell-xps-14-exceptional-laptop-for-enthusiasts-pcmag/"><u>Unveiling the Latest Dell XPS 14 - Exceptional Laptop for Enthusiasts | PCMag</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/zdnet-reviews-discover-the-chromebook-dominating-long-lasting-battery-life-uncontestably/"><u>ZDNet Reviews: Discover the Chromebook Dominating Long-Lasting Battery Life Uncontestably!</u></a></li>
+</ul></div>
 

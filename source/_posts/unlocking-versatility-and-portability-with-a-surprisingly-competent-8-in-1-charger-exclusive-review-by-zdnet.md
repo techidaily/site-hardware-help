@@ -1,7 +1,7 @@
 ---
 title: Unlocking Versatility and Portability with a Surprisingly Competent 8-in-1 Charger - Exclusive Review by ZDNET
-date: 2024-12-03T01:28:57.962Z
-updated: 2024-12-05T00:10:33.619Z
+date: 2024-12-03T21:12:13.057Z
+updated: 2024-12-11T10:22:38.654Z
 tags:
   - laptops
 categories:
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/5b0ce9c020094ad31bdc87530c31e032109184ed9
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## ZDNET's buying advice
 
@@ -72,7 +68,7 @@ The ability to run two external monitors with the lid closed is one of the M3 Ma
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How I tested the M3 MacBook Air
@@ -80,6 +76,10 @@ Jason Hiner/ZDNET
 In terms of qualitative testing, I wrote this article on the M3 MacBook Air and used my daily work applications -- Slack, Microsoft Outlook, Google Drive, and ZDNET's CMS. I also used Adobe Lightroom for processing photos, including AI features. I fired up YouTube in Safari to play the song Eclipse from the Dune 2 soundtrack as a way to test the audio quality of the built-in speakers. I also played the 2021 Dune movie in 4K from my library in the Apple TV Plus app to test the display quality of the M3 MacBook Air. I expect there will be a lot more AI testing to do after WWDC 2024 in June when Apple is likely to unveil its generative AI tools.
 
 For quantitive testing, I followed the same routine I used in my [review of the MacBook Pro with M3 Max](https://www.zdnet.com/article/macbook-pro-m3-max-review/). I used Cinebench to benchmark the M3 MacBook Air against other popular Macs I've tested over the past couple years. I also used Adobe Lightroom's AI-powered "Denoise" feature as a real-world test because it's a feature I use constantly when processing product photos and so any time savings there can result in tangible productivity gains. As you can see in the charts below, the M3 MacBook Air performed very well in the Cinebench benchmarks, compared to it M2 predecessor. But, it only scored marginally better than the M2 model in my real-world Lightroom test. I'd like to do more tests with other AI workflows and update this review over time, especially after WWDC 2024.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### AI test: Adobe Lightroom Denoise (lower is better)
 
@@ -110,7 +110,7 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Cinebench CPU/GPU benchmark (higher is better)
@@ -141,6 +141,10 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What are the best features of M3 MacBook Air?
 
 **Features and form factor make it a light "pro" laptop:** The thin, light, and compact design of the M3 MacBook Air makes it a great ultraportable laptop that is easy to carry and slip into virtually any bag or backpack. And with the fact that the M3 chip now packs more power than ever makes this a machine that is as powerful as the fastest pro laptops from just a couple of years ago. Case in point, take a look at the benchmark scores above of the M3 MacBook Air compared to the MacBook Pro with M1 Pro. It essentially matches or exceeds most of the numbers of that MacBook Pro, which was an absolute performance beast in recent years.
@@ -156,7 +160,7 @@ Jason Hiner/ZDNET
 **Neural engine to power through AI tasks:** According to Apple's internal tests, the neural engine in the M3 MacBook Air offers a 60% improvement in performance over the previous generation M2 MacBook Air. As you can see in my real-world AI test above using the Denoise feature in Adobe Lightroom, I didn't see that kind of lift. Nevertheless, it's possible the Adobe software isn't optimized for M3 yet. And the overall benchmark improvements provide encouragement that this machine could be ready for more. A big test will be when Apple releases its own generative AI features later this year. It feels like this product is anticipating that, and could already be optimized for it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What I'd like to see in the next model
@@ -184,10 +188,6 @@ That keeps mainstream Mac laptops at a more approachable price and allows the Ma
 Up close with the M3 MacBook Air 15-inch in Midnight.
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -235,24 +235,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-adhering-to-twitters-video-dimension-standards/"><u>[New] Adhering to Twitter's Video Dimension Standards</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-innovative-fb-ad-campaigns-boosting-patient-care/"><u>[Updated] 2024 Approved Innovative FB Ad Campaigns Boosting Patient Care</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-instacaptions-for-a-global-stage-top-100-inspirational-posts-for-2024/"><u>[Updated] InstaCaptions for a Global Stage Top 100 Inspirational Posts for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1-discovering-innovation-my-experience-testing-lenovos-revolutionary-auto-swivel-laptop-at-ifa-202n-insights/"><u>1. Discovering Innovation: My Experience Testing Lenovo's Revolutionary Auto-Swivel Laptop at IFA 202N - Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ahoy-shopaholics-discover-neweggs-ultimate-black-friday-bargains/"><u>Ahoy, Shopaholics! Discover Newegg's Ultimate Black Friday Bargains</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-the-hidden-perk-in-this-years-best-dual-function-device-for-work-as-featured/"><u>Discover the Hidden Perk in This Year's Best Dual-Function Device for Work, as Featured</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/dont-miss-out-how-to-view-microsofts-latest-tech-revelations-at-the-surface-plus-windows-ai-showcase-zdnet-insights/"><u>Don't Miss Out! How to View Microsoft's Latest Tech Revelations at the Surface + Windows AI Showcase | ZDNET Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-epson-xp-420-printer-software-latest-drivers-and-firmware-updates/"><u>Download & Install Epson XP-420 Printer Software: Latest Drivers and Firmware Updates</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-steps-for-modifying-your-discord-accounts-display-image/"><u>Easy Steps for Modifying Your Discord Account's Display Image</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/guide-converting-league-of-legends-game-recordings-from-rofl-to-mp4/"><u>Guide: Converting League of Legends Game Recordings - From ROFL to MP4</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-these-featherlight-computers-blew-my-mind-and-outshined-the-iconic-macbook-air-review/"><u>How These Featherlight Computers Blew My Mind and Outshined the Iconic MacBook Air Review</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-polished-portraits-how-to-use-iphone-for-crisp-cuts/"><u>In 2024, Polished Portraits How to Use iPhone for Crisp Cuts</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/massive-discount-on-gigabyte-aero-16-gamers-paradise-with-57-savings-check-now/"><u>Massive Discount on Gigabyte Aero 16 - Gamers' Paradise with 57% Savings! Check Now!</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/pinnacle-mac-sound-segregation-technology-new-2024-improvements/"><u>Pinnacle Mac Sound Segregation Technology – New 2024 Improvements</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/save-big-during-the-festive-season-discover-neweggs-top-49-hot-deals-for-2e3-tech-news-and-reviews/"><u>Save Big During the Festive Season: Discover Newegg's Top 49 Hot Deals for 2E3 | Tech News & Reviews</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/tiktok-number-modification-easy-to-follow-steps/"><u>TikTok Number Modification Easy to Follow Steps</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-pick-the-best-ultraportable-laptop-with-all-day-battery-expert-review-by-zdnet/"><u>Top Pick: The Best Ultraportable Laptop with All-Day Battery - Expert Review by ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-on-a-shoestring-discover-why-zdnet-hauls-these-amazing-3ergy-earbuds-at-35-only/"><u>Top Rated on a Shoestring? Discover Why ZDNET Hauls These Amazing $3Ergy Earbuds at 35$ Only!</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-apple-iphone-se-2020-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud From your Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-expert-tips-for-harnessing-the-power-of-top-9-free-youtube-makers/"><u>[New] In 2024, Expert Tips for Harnessing the Power of Top 9 Free YouTube Makers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-unlocking-instagrams-hidden-gems-tailored-to-your-passions/"><u>[New] Unlocking Instagram’s Hidden Gems Tailored to Your Passions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-video-alchemy-on-a-pc-transforming-footage-into-youtube-gold/"><u>[Updated] Video Alchemy on a PC Transforming Footage Into YouTube Gold</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/capturing-instagram-content-on-computers-techniques-and-tools-for-2024/"><u>Capturing Instagram Content on Computers Techniques and Tools for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-solution-downloading-and-installing-the-epson-xp-830-driver-seamlessly/"><u>Complete Solution: Downloading & Installing the Epson XP-830 Driver Seamlessly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-enhance-the-ultimate-synaptics-touchpad-driver-setup/"><u>Download & Enhance: The Ultimate Synaptics Touchpad Driver Setup</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/elevate-your-webcam-experience-windows-7-driver-downloads-instantly/"><u>Elevate Your Webcam Experience: Windows 7 Driver Downloads Instantly</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/identifying-power-users-in-niche-specific-instagram-for-2024/"><u>Identifying Power Users in Niche-Specific Instagram for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-choose-from-the-finest-7-android-browsers-without-ads/"><u>In 2024, Choose From the Finest 7 Android Browsers Without Ads</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/keep-your-epson-xp-310-up-to-date-with-the-newest-driver-software-download-options/"><u>Keep Your Epson XP-310 Up to Date with the Newest Driver Software Download Options</u></a></li>
+<li><a href="https://fox-making.techidaily.com/risolti-problemi-di-riconoscimento-del-file-scopri-cosa-fare-quando-lunita-non-viene-rilevata/"><u>Risolti Problemi Di Riconoscimento Del File: Scopri Cosa Fare Quando L'unità Non Viene Rilevata</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-integration-of-arduino-nano-into-windows-systems-downloading-and-instaling-its-essential-drivers-made-simple/"><u>Seamless Integration of Arduino Nano Into Windows Systems: Downloading & Instaling Its Essential Drivers Made Simple</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-best-compact-tire-inflators-on-the-market-jacos-smartpro-digital-reviewed/"><u>The Best Compact Tire Inflators on the Market: Jaco's SmartPro Digital Reviewed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722970360584-to-simplify-you-can-divide-both-numerator-and-denominator-by-their-greatest-common-divisor-gcd-the-gcd-of-20-and-8-is-4/"><u>To Simplify, You Can Divide Both Numerator and Denominator by Their Greatest Common Divisor (GCD). The GCD of 20 and 8 Is 4</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-now-get-the-newest-samsung-nvme-850-evo-controller-drivers-for-optimal-performance/"><u>Update Now: Get the Newest Samsung Nvme 850 EVO Controller Drivers for Optimal Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722969955083-update-to-newest-epson-wf-7710-drivers-compatible-with-windows-os-download-here/"><u>Update to Newest Epson WF-7710 Drivers – Compatible with Windows OS: Download Here!</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-best-video-title-generators/"><u>Updated 2024 Approved Best Video Title Generators</u></a></li>
 </ul></div>
 

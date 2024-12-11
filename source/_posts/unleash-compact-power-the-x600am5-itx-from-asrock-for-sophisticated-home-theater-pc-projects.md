@@ -1,7 +1,7 @@
 ---
 title: "Unleash Compact Power: The X600AM5 ITX From ASRock for Sophisticated Home Theater PC Projects"
-date: 2024-08-19T10:27:51.627Z
-updated: 2024-08-20T10:27:51.627Z
+date: 2024-12-04T23:25:32.091Z
+updated: 2024-12-11T04:56:04.336Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,17 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-unwrapping-utopia-creating-magical-unboxing-moments/"><u>[New] Unwrapping Utopia Creating Magical Unboxing Moments</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-complete-users-manual-to-youtube-editing-via-finalcut-pro/"><u>[Updated] In 2024, The Complete User's Manual to YouTube Editing via FinalCut Pro</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/749-deal-alert-secure-your-apple-m2-macbook-air-before-the-end-of-amazons-premier-october-sale-insider-tips/"><u>$749 Deal Alert: Secure Your Apple M2 MacBook Air Before the End of Amazon's Premier October Sale - Insider Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-and-enhancing-non-working-windows-batch-files/"><u>Deciphering and Enhancing Non-Working Windows Batch Files</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discovering-a-game-changer-a-light-laptop-that-makes-macbook-air-seem-heavy-gadgetguru-chronicles/"><u>Discovering a Game-Changer: A Light Laptop That Makes MacBook Air Seem Heavy - GadgetGuru Chronicles</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-deal-alert-top-tier-msi-gaming-monitor-over-300-less-at-newegg-zdnet-coverage/"><u>Exclusive Deal Alert: Top-Tier MSI Gaming Monitor - Over $300 Less at Newegg (ZDNet Coverage)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-the-best-compact-chromebooks-a-guide-to-power-and-portability/"><u>Exploring the Best Compact Chromebooks: A Guide to Power and Portability</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-strategies-for-effective-use-of-classroom-media/"><u>In 2024, Strategies for Effective Use of Classroom Media</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-vivo-y78plus-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Vivo Y78+ Screen | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-vivo-y78t-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Vivo Y78t Phone Pattern Lock</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

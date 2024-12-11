@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Gaming Rigs in 2지킨 2024: Options From Just $500 to Over $4K"
-date: 2024-08-19T10:23:39.968Z
-updated: 2024-08-20T10:23:39.968Z
+date: 2024-12-07T06:40:19.149Z
+updated: 2024-12-11T07:38:27.138Z
 tags:
   - build
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/142f97e5dde3eaa8c469e7fcae52ffd9c48a3f3c6
 ##
 
 ![](https://cdn.mos.cms.futurecdn.net/gRWZJtRVgRiLT8Rc7hcKrV-320-80.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## System Builder Marathon Q4 2015
 
@@ -36,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/142f97e5dde3eaa8c469e7fcae52ffd9c48a3f3c6
  Even though my Intel-based revision of this quarter vindicates my assessments last quarter, a number of readers are still convinced that a properly cooled and overclocked 860K is the gateway to budget gaming goodness. After experiencing the limitations and frustrations last quarter, I still have my reservations. However, the SBM is a perfect place to empirically test this and give AMD's budget quad-core every chance to prove itself.
 
 ![](https://cdn.mos.cms.futurecdn.net/vaZRhuXWqcyB98KdTMVaK3-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  For your bonus build pleasure, here's the conclusion to the Munchkin Saga, Episode III: Revenge of 860K.
 
@@ -87,8 +95,9 @@ Deepcool Gamer Storm Gabriel
  Every component is identical to the Intel build earlier this week except the CPU, cooler and motherboard.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Definition of Insanity
 
  Some of you out there might be groaning and asking, "What, this again?" Hold on a minute. Those asking for a better 860K overclock have a valid argument. The 860K was handicapped last quarter with insufficient cooling to get any kind of meaningful overclock. You can't argue with that. This time around the CPU gets better treatment in the form of an aftermarket cooler and a larger case. So no, we're not trying the exact same thing and expecting different results. Do I expect the 860K to outperform the i3-4170? No, I don't. However, in order for me to prove that one way or the other, I need hard numbers and data. I'm curious to see if it can close the gap, if not overcome it.
@@ -97,9 +106,6 @@ Deepcool Gamer Storm Gabriel
 
  I don't need to spend time explaining the same parts from[two days ago](https://tools.techidaily.com) . To save space and time, I'll only address the three new components.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -132,19 +138,21 @@ Deepcool Gamer Storm Gabriel
 
 ![](https://cdn.mos.cms.futurecdn.net/nKfSxuUzQNwqBkyJ4996bk-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
  If the fins were a little thinner or my RAM didn't have a heat spreader, this would be a non-issue. It's still not technically a problem. It doesn't keep the RAM from being installed, it doesn't even put flex on the RAM stick. It's just annoying that a cooler marketed as designed specifically for ITX cooling seems to be borderline incompatible with every current AMD ITX motherboard (every model on Newegg right now has the CPU socket oriented the same way). Perhaps some of them have RAM slots a little farther from the CPU socket, which would solve this, but if Deepcool wanted to be universally compatible, shaving a few millimeters off the fins would have accomplished this without impacting thermal performance.
 
 ![](https://cdn.mos.cms.futurecdn.net/EkXfRYe3XW8vhT2PuH7XkJ-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The rest of the assembly went just peachy. The slightly different port layout of the motherboard necessitated different cable routing, but that's it. Everything else is the exact same as the Intel build from a few days ago.
 
 ![](https://cdn.mos.cms.futurecdn.net/kiyNGE2ogxSRTZjnNEBoST-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Overclocking
 
@@ -159,16 +167,13 @@ Deepcool Gamer Storm Gabriel
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
+![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
  The RAM caused me no end of heartburn and frustration. I kept running into seemingly random crashes, regardless of RAM timings. I worried the RAM was somehow bad, but it worked flawlessly in the Intel build. After a quick appeal for help to Thomas, I found the motherboard simply required at least 1.64V to run the RAM, even at stock speeds. Again, the Intel build had no problem with 1.5V. I've never seen a motherboard that's more stable overclocked than at stock speeds, until now.
 
  My system this time around was only capable of reaching DDR3-2133, a bit shy of the 2400 speeds I got last quarter. I did get respectable timings of 10-11-10-31, but that was the limit. Along with the RAM, I upped the northbridge from 1800 to 2000MHz with only a slight bump in voltage to 1.1625V. I wasn't trying to match the frequency of last quarter, I simply couldn't boot the machine at anything past 2000MHz.
@@ -181,8 +186,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -190,4 +193,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-elevate-your-setup-with-these-top-8-5k-models/"><u>[New] Elevate Your Setup with These Top 8 5K Models</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-step-by-step-to-adobe-cloud-success-and-non-adobe-options/"><u>[Updated] 2024 Approved Step-by-Step to Adobe Cloud Success & Non-Adobe Options</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-maximizing-zoom-visual-precision-effective-strategies/"><u>[Updated] In 2024, Maximizing Zoom Visual Precision Effective Strategies</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-ultimate-srt-file-craftsmanship-manual-for-2024/"><u>[Updated] The Ultimate SRT File Craftsmanship Manual for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ace-discounts-pre-prime-day-202-unmissable-savings-on-hot-electronics-and-gadgets-zdnet/"><u>Ace Discounts Pre-Prime Day 202#: Unmissable Savings on Hot Electronics and Gadgets | ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-ultimate-cyber-deals-of-the-day-save-on-tvs-headphones-speakers-last-chance-shop-now-before-theyre-gone/"><u>Discover the Ultimate Cyber Deals of the Day: Save on TVs, Headphones, Speakers | Last Chance - Shop Now Before They're Gone!</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/effortless-video-capture-using-screencastify-app-for-2024/"><u>Effortless Video Capture Using Screencastify App for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exceptional-findings-on-dell-xps-series-a-deep-dive-into-the-latest-innovations-and-unmatched-quality/"><u>Exceptional Findings on Dell XPS Series – A Deep Dive Into the Latest Innovations and Unmatched Quality</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-asus-vivobook-pro-now-with-a-300-discount-exclusive-deal-on-amazon-zdnet-review/"><u>Get the ASUS VivoBook Pro Now with a $300 Discount - Exclusive Deal on Amazon! [ZDNet Review]</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-iphone-14-pro-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your iPhone 14 Pro in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-mastering-the-art-of-viral-instagram-cinematography/"><u>In 2024, Mastering the Art of Viral Instagram Cinematography</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/navigating-digital-footprints-how-cookiebot-revolutionizes-user-data-analysis/"><u>Navigating Digital Footprints: How Cookiebot Revolutionizes User Data Analysis</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-samsung-galaxy-a24-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Samsung Galaxy A24 Phone? Unlock It Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/october-prime-day-2amo-top-savings-for-gamers-still-on-offer-exclusive-deals/"><u>October Prime Day 2Amo: Top Savings for Gamers Still On Offer Exclusive Deals</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/selective-access-microsoft-unveils-cross-platform-windowed-experience-on-chromebooks-and-macs/"><u>Selective Access: Microsoft Unveils Cross-Platform Windowed Experience on Chromebooks and Macs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unleash-your-productivity-get-the-ultimate-10-in-1-docking-station-at-an-amazing-35-discount-today-exclusive-deal/"><u>Unleash Your Productivity: Get the Ultimate 10-in-1 Docking Station at an Amazing 35% Discount Today - Exclusive Deal !</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upcoming-harsh-season-implications-of-extended-chill-on-computer-manufacturers-and-potential-boon-for-consumers-insights/"><u>Upcoming Harsh Season: Implications of Extended Chill on Computer Manufacturers & Potential Boon for Consumers - Insights</u></a></li>
+</ul></div>
 

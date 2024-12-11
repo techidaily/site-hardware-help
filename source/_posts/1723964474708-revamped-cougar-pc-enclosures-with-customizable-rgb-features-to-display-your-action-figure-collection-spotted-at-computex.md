@@ -1,7 +1,7 @@
 ---
 title: Revamped Cougar PC Enclosures with Customizable RGB Features to Display Your Action Figure Collection, Spotted at Computex
-date: 2024-08-19T10:23:14.379Z
-updated: 2024-08-20T10:23:14.379Z
+date: 2024-12-05T08:59:54.604Z
+updated: 2024-12-11T04:23:49.696Z
 tags:
   - cases
 categories:
@@ -55,6 +55,10 @@ Cougar has brought a trio of new cases to[Computex 2024](https://tools.techidail
 
  Bonus features include a vertical GPU mount, a movable front I/O panel, and a retooled dust filter. No price details or launch date is available for the Airfare; we expect it to cost a bit over the $100 price tag of the Duoface Pro.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -69,8 +73,6 @@ Cougar has brought a trio of new cases to[Computex 2024](https://tools.techidail
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -78,8 +80,26 @@ Cougar has brought a trio of new cases to[Computex 2024](https://tools.techidail
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-essential-videography-the-leading-screen-recorder-apps-for-2024/"><u>[New] Essential Videography The Leading Screen Recorder Apps for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-increase-photo-resolution-unaltered-image/"><u>[New] Increase Photo Resolution - Unaltered Image</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/affordable-top-pick-best-non-lenovo-non-dell-2-in-1-laptop-before-prime-day-deals-expert-recommendations/"><u>Affordable Top Pick: Best Non-Lenovo, Non-Dell 2-in-1 Laptop Before Prime Day Deals - Expert Recommendations</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/dont-miss-out-exclusive-insider-tips-on-game-deals-during-the-ultimate-october-prime-day-2024-save-big-with-discounts-up-to-1000/"><u>Don't Miss Out: Exclusive Insider Tips on Game Deals During the Ultimate October Prime Day 2024 – Save Big with Discounts up to $1,000</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/dont-miss-out-premium-gaming-discounts-and-deals-for-october-prime-day-shopping-insights/"><u>Don't Miss Out! Premium Gaming Discounts & Deals for October Prime Day Shopping | Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experiencing-lenovos-clear-computing-revolution-a-firsthand-look-at-the-transparent-laptop-at-mwc-insights/"><u>Experiencing Lenovo's Clear Computing Revolution: A Firsthand Look at the Transparent Laptop at MWC - Insights</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-nextgen-video-upscaler-mobiledesktop-edition/"><u>In 2024, NextGen Video Upscaler Mobile/Desktop Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-pixels-into-panoramas-cutting-edge-edits-for-exceptional-results/"><u>In 2024, Pixels Into Panoramas Cutting-Edge Edits for Exceptional Results</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-snickerstreamer-share-your-wit-with-a-click/"><u>In 2024, SnickerStreamer Share Your Wit with a Click</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/in-2024-tips-for-perfecting-your-talking-face-content-a-complete-guide/"><u>In 2024, Tips for Perfecting Your Talking Face Content A Complete Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtube-engagement-strategies-natural-vs-paid-visibility/"><u>In 2024, YouTube Engagement Strategies Natural Vs. Paid Visibility</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/lenovo-thinkpad-x1-carbon-gen-9plus-unboxed-and-assessed-surpassing-all-in-business-laptops/"><u>Lenovo ThinkPad X1 Carbon (Gen 9+) Unboxed & Assessed – Surpassing All in Business Laptops?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-and-solving-win-os-device-errors/"><u>Navigating and Solving Win OS Device Errors</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/october-2024s-prime-shopping-guide-unbeatable-laptop-offers-featured-on-zdnet/"><u>October 2024'S Prime Shopping Guide: Unbeatable Laptop Offers Featured on ZDNet</u></a></li>
+<li><a href="https://facebook.techidaily.com/reclaim-your-lost-facebook-activity-pieces-by-piece/"><u>Reclaim Your Lost Facebook Activity Pieces by Piece</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-youtube-music-replay-tracks-2023-for-2024/"><u>The Ultimate YouTube Music Replay Tracks, 2023 for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-picks-reveal-the-ultimate-all-rounder-laptop-wows-with-stellar-specs-a-zdnet-review/"><u>Top Picks Reveal: The Ultimate All-Rounder Laptop Wows With Stellar Specs - A ZDNet Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-savings-exclusive-october-202e-prime-day-tech-deals-for-laptops-zdnet/"><u>Ultimate Savings: Exclusive October 202E Prime Day Tech Deals for Laptops | ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/zdnets-comprehvew-why-lenovos-newly-unveiled-thinkbook-plus-stands-out-as-this-years-top-2-in-1-laptop-contender/"><u>ZDNet's Comprehvew: Why Lenovo's Newly Unveiled ThinkBook Plus Stands Out as This Year’s Top 2-in-1 Laptop Contender</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

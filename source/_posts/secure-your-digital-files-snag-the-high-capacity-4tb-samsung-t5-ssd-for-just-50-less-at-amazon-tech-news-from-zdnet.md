@@ -1,7 +1,7 @@
 ---
 title: "Secure Your Digital Files: Snag the High-Capacity 4TB Samsung T5 SSD for Just 50%% Less at Amazon | Tech News From ZDNET"
-date: 2024-11-27T18:46:59.031Z
-updated: 2024-12-05T06:32:13.198Z
+date: 2024-12-06T03:55:50.572Z
+updated: 2024-12-10T20:36:21.406Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the deal?
@@ -31,7 +31,7 @@ Save $450 on a [Samsung Galaxy Book 4 Edge](https://shop-links.co/link/?url=http
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -119,7 +119,7 @@ Lastly, the battery on the Edge is indeed impressive. [I recently tested HP's Om
 During the standard ZDNET benchmark testing of running a 4K YouTube livestream streamed over Wi-Fi at 50% brightness, I got over 13 hours of playback, way more than what is considered "good" for a laptop, and more than enough for a few days worth of standard work. Even better, while this laptop is idle, its battery life decay drops to a trickle.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -129,7 +129,7 @@ The [Samsung Galaxy Book 4 Edge](https://shop-links.co/link/?url=https%3A%2F%2Fw
 If neither of these apply to you, the Galaxy Book 4 Edge is still a phenomenal choice for its sheer star power and impressive performance alone. However, if you're on the fence about the price but still want a Copilot+ PC, you might consider the [Microsoft Surface Pro](https://www.zdnet.com/article/i-went-hands-on-with-microsofts-surface-pro-and-laptop-and-im-ready-to-ditch-my-macbook/) or the [Asus Vivobook S15](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/) \-- both are Snapdragon laptops with OLED displays available for quite a bit less.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -166,22 +166,20 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-help.techidaily.com/1-comprehensive-guide-to-evaluating-vpn-services-insights/"><u>1. Comprehensive Guide to Evaluating VPN Services: Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/choosing-the-right-device-chromebook-or-traditional-laptop-a-comprehensive-guide/"><u>Choosing the Right Device: Chromebook or Traditional Laptop - A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/demystifying-oled-technology-and-insights-on-operation-mechanism/"><u>Demystifying OLED Technology & Insights on Operation Mechanism</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-complaints-for-new-windows-11-users/"><u>Essential Complaints for New Windows 11 Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exclusive-deal-top-rated-laptops-from-zdnet-now-available-at-500-discounted-price-on-amazon-pre-prime-day-offer/"><u>Exclusive Deal: Top-Rated Laptops From ZDNET Now Available at $500 Discounted Price on Amazon - Pre-Prime Day Offer</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/fast-mac-hack-alert-handling-constantly-running-cooling-systems-insights-from-zdnet/"><u>Fast Mac Hack Alert! Handling Constantly Running Cooling Systems - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-ahead-of-the-curve-with-apples-new-799-m2-macbook-air-before-octobers-prime-day-rush-tech-insights-by-zdnet/"><u>Get Ahead of the Curve with Apple's New $799 M2 MacBook Air Before October’s Prime Day Rush | Tech Insights by ZDNet</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-infinix-smart-8-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Infinix Smart 8 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-infinix-smart-8-pro-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Infinix Smart 8 Pro</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-bygone-beauty-iphone-x-portrait-moments/"><u>In 2024, Bygone Beauty IPhone X Portrait Moments</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-divergence-in-dungeons-classic-and-hybrid-games/"><u>In 2024, Divergence in Dungeons Classic and Hybrid Games</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-elevate-engagement-top-video-release-slots/"><u>In 2024, Elevate Engagement Top Video Release Slots</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-elevating-video-quality-with-captivating-soundtracks/"><u>In 2024, Elevating Video Quality with Captivating Soundtracks</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721473896205-iphone-photo-mystery-why-your-gallery-wont-free-up-and-what-you-can-do-about-it/"><u>IPhone Photo Mystery: Why Your Gallery Won't Free Up, and What You Can Do About It!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/last-chance-to-grab-hot-deals-on-black-friday-top-17-bargains-including-hdtvs-and-sound-gear-insider-info-with-zdnet/"><u>Last Chance to Grab Hot Deals on Black Friday: Top 17 Bargains Including HDTVs and Sound Gear - Insider Info with ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/snag-your-samsung-odyssey-neo-g8-32-display-for-550-less-at-best-buy-dive-into-the-graphics-experience-during-amazon-prime-day-promotions-insider-tips/"><u>Snag Your Samsung Odyssey Neo G8 32 Display For $550 Less At Best Buy – Dive Into the Graphics Experience During Amazon Prime Day Promotions Insider Tips!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unleash-productivity-discover-lenovos-revolutionary-ai-enhanced-thinkpad-lineup-tailored-for-modern-professionals-insights-from-zdnet/"><u>Unleash Productivity: Discover Lenovo's Revolutionary AI-Enhanced ThinkPad Lineup Tailored for Modern Professionals - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-essential-list-of-gratuitous-online-photo-enhancement-suites-for-2024/"><u>[New] Essential List of Gratuitous Online Photo Enhancement Suites for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-the-art-of-bounce-two-ways-to-liven-up-your-text/"><u>[New] In 2024, The Art of Bounce Two Ways to Liven Up Your Text</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-all-encompassing-evaluation-gecatas-live-recording/"><u>[Updated] All-Encompassing Evaluation Gecata's Live Recording</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-guide-installing-official-samsung-driver-for-your-windows-11-pc-today/"><u>Easy Guide: Installing Official Samsung Driver for Your Windows 11 PC Today</u></a></li>
+<li><a href="https://games-able.techidaily.com/ensuring-stability-key-points-in-selecting-a-cpu-cooler/"><u>Ensuring Stability: Key Points in Selecting a CPU Cooler</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-honor-x50-gt-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722972869684-get-the-newest-radeon-hd-7850-gpu-drivers-comprehensive-guide-to-updating-on-windows-10-systems/"><u>Get the Newest Radeon HD 7850 GPU Drivers: Comprehensive Guide to Updating on Windows 10 Systems.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-seamlessly-update-your-pcs-webcam-drivers-with-windows-11/"><u>How to Seamlessly Update Your PC's Webcam Drivers with Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-compatible-drivers-for-your-webcam-tutorials-for-windows-111087-users/"><u>Installing Compatible Drivers for Your Webcam: Tutorials for Windows 11/10/8/7 Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcome-twitch-buffering-issues-with-these-7-effective-fixes/"><u>Overcome Twitch Buffering Issues with These 7 Effective Fixes</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/selecting-the-ideal-ergonomic-wrist-rest-for-your-keyboard/"><u>Selecting the Ideal Ergonomic Wrist Rest for Your Keyboard</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-fix-addressing-your-devices-graphics-driver-alert/"><u>Step-by-Step Fix: Addressing Your Device's 'Graphics Driver Alert'</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/top-text-animation-apps-for-mobile-video-editing-for-2024/"><u>Top Text Animation Apps for Mobile Video Editing for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-and-fixing-the-hp-beats-audio-driver-for-windows-1187-systems-step-by-step-solutions/"><u>Troubleshooting and Fixing the HP Beats Audio Driver for Windows 11/8/7 Systems – Step-by-Step Solutions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-made-simple-updating-webcam-drivers-in-windows-11/"><u>Troubleshooting Made Simple: Updating Webcam Drivers in Windows 11</u></a></li>
 </ul></div>
 

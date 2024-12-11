@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Reviews: Expert Insights on Computer Components"
-date: 2024-08-19T10:23:24.245Z
-updated: 2024-08-20T10:23:24.245Z
+date: 2024-12-03T23:34:15.992Z
+updated: 2024-12-11T11:28:01.406Z
 tags:
   - cases
 categories:
@@ -53,9 +53,17 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 
 ![Fractal Design Terra](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![Fractal Design Terra](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -67,9 +75,6 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 
  While I didn't have the time to put together a full review before heading off to Computex, Fractal did send the case ahead of the launch date and, space constraints aside, there's a lot I like about it. It's surprisingly easy to build in for such a small chassis.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -83,15 +88,13 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 ![Fractal Design Terra](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![Fractal Design Terra](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  As you've probably noticed in the photos, the side panels flip up gull-wing style, and the rear of the frame is spring-mounted, so if you push back on the hinges, you can remove the side doors completely. Similarly, the top panel pulls back (via a stylish and handy faux-leather tab) and lifts off, giving you full access to three sides of the case for the build process.
@@ -99,8 +102,9 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 ![Fractal Design Terra](https://cdn.mos.cms.futurecdn.net/GGZ7h2GYJ9xDyuCYcbGRUQ-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  Mini-ITX motherboard installation is dead simple. You'll want to install your cooler, RAM and any M.2 drives on the board first, then flip the case on its side and the motherboard drops right in, to be anchored via four screws on the pre-installed standoffs. Again, CPU cooler space is extremely limited. I installed a[Thermalright AXP90-X47](http://www.thermalright.com/product/axp90-x47/) cooler for my Ryzen 5 5600 CPU, but the smaller AMD Wraith or Intel stock coolers should fit here just fine (again, depending on how much GPU space you need on the other side, so be sure to double-check those numbers).
@@ -125,9 +129,6 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 
 ![Fractal Design Terra](https://cdn.mos.cms.futurecdn.net/cy4rnk357zphPGMR6K8oaQ-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  There's no[audio](https://tools.techidaily.com) jack here, which may bother some. But as this is a tiny case that's clearly designed to sit on your desk, the audio jacks on the motherboard aren't much more than a foot away at the back of the case. Part of me wants to see more USB ports up front, but again, those are within fairly easy reach around the back.  
@@ -137,8 +138,9 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 ![Fractal Design Terra](https://cdn.mos.cms.futurecdn.net/PiQcTyM4XVJgWtYgom3aGQ-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  All in all, the Fractal Terra is a striking and mostly well-thought-out Mini-ITX case. I doubt it will have as wide an appeal as its larger North cousin since component and airflow options are far more limiting here. But if you don't need to pack in the absolute most powerful components (particularly on the CPU side) and you don't need more than a few storage drives, Fractal has once again delivered one of the prettiest cases available – especially if you want a respite from the RGB and aggressive designs that dominate the gaming side of the PC realm.
@@ -153,8 +155,6 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +162,24 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-filmcraft-studio-top-alternatives-for-lightroom-users-for-2024/"><u>[New] FilmCraft Studio Top Alternatives for Lightroom Users for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-simplify-your-internet-experience-step-by-step-guide-to-disabling-youtube-on-devices/"><u>[New] In 2024, Simplify Your Internet Experience Step-by-Step Guide to Disabling Youtube on Devices</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-screen-replay-masters-leading-browser-capture-solutions/"><u>[Updated] 2024 Approved Screen Replay Masters Leading Browser Capture Solutions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-mastering-instagram-stardom-in-just-nine-easy-tips/"><u>2024 Approved Mastering Instagram Stardom in Just Nine Easy Tips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/a-top-pick-the-ultimate-dual-purpose-laptop-ideal-for-students-balancing-schoolwork-and-entertainment-techexplorer/"><u>A Top Pick: The Ultimate Dual-Purpose Laptop Ideal for Students Balancing Schoolwork & Entertainment | TechExplorer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/beating-the-macbook-air-microsoft-surface-laptop-copilotplus-excelling-in-performance-features-and-more-zdnet-review/"><u>Beating the MacBook Air: Microsoft Surface Laptop Copilot+ Excelling in Performance, Features & More | ZDNet Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/boost-your-productivity-with-the-latest-hp-copilotplus-a-game-changer-for-remote-professionals-testimonial/"><u>Boost Your Productivity with the Latest HP Copilot+: A Game-Changer for Remote Professionals - Testimonial</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-unmatched-versattile-performance-of-dells-latest-gaming-laptop-ideal-for-office-use-too-exclusive-review/"><u>Discover the Unmatched Versattile Performance of Dell's Latest Gaming Laptop - Ideal For Office Use Too! Exclusive Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-microsofts-new-frontier-in-technology-the-intelligent-surface-pro-10-and-ai-powered-laptop-6-unveiled-exclusive-details/"><u>Exploring Microsoft's New Frontier in Technology: The Intelligent Surface Pro 10 and AI-Powered Laptop 6 Unveiled | Exclusive Details</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-visualediting-deep-dive-comprehensive-article-on-androvid/"><u>In 2024, VisualEditing Deep Dive – Comprehensive Article on AndroVid</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-vr-headset-hq-the-top-pc-vr-devices-of-2023/"><u>In 2024, VR Headset HQ The Top PC VR Devices of 2023</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/tech-upgrade-for-superior-laptop-graphics/"><u>Tech Upgrade for Superior Laptop Graphics</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-guide-to-gadgets-by-toms-hardware-hub/"><u>The Ultimate Guide to Gadgets by Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-prime-day-exclusive-laptops-best-bargains-available-in-october-2024-discovered-by-zdnet/"><u>Top-Rated Prime Day Exclusive Laptops: Best Bargains Available in October 2024 - Discovered by ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/transforming-my-workstation-the-impact-of-a-split-ergo-keyboard-on-my-digital-life-a-first-hand-account/"><u>Transforming My Workstation: The Impact of a Split Ergo Keyboard on My Digital Life - A First-Hand Account</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/tutorial-complet-pour-debutants-apprenez-a-utiliser-le-logiciel-danimation-pour-faire-des-cartoons-facilement/"><u>Tutorial Complet Pour Débutants: Apprenez À Utiliser Le Logiciel D'Animation Pour Faire Des Cartoons Facilement!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrade-your-security-why-its-essential-to-refresh-your-google-chrome-this-weekend-cybertech-insights/"><u>Upgrade Your Security: Why It's Essential to Refresh Your Google Chrome This Weekend | CyberTech Insights</u></a></li>
+</ul></div>
 

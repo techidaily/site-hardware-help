@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Hardware Insights by Tom: Top Picks & Professional Assessments"
-date: 2024-08-19T10:24:33.129Z
-updated: 2024-08-20T10:24:33.129Z
+date: 2024-12-10T05:20:12.713Z
+updated: 2024-12-10T23:59:28.006Z
 tags:
   - build
 categories:
@@ -15,9 +15,17 @@ thumbnail: https://thmb.techidaily.com/fea6185edc685da72ba963a46eed57a3a71d46169
 
 ![](https://cdn.mos.cms.futurecdn.net/8uwXgGgUvFKmaEtYiubBDA-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##
 
 ![](https://cdn.mos.cms.futurecdn.net/gRWZJtRVgRiLT8Rc7hcKrV-320-80.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## System Builder Marathon Q4 2015
 
@@ -37,14 +45,6 @@ thumbnail: https://thmb.techidaily.com/fea6185edc685da72ba963a46eed57a3a71d46169
 
 ![](https://cdn.mos.cms.futurecdn.net/vaZRhuXWqcyB98KdTMVaK3-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  For your bonus build pleasure, here's the conclusion to the Munchkin Saga, Episode III: Revenge of 860K.
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
@@ -94,12 +94,13 @@ Deepcool Gamer Storm Gabriel
 
  Every component is identical to the Intel build earlier this week except the CPU, cooler and motherboard.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Definition of Insanity
 
  Some of you out there might be groaning and asking, "What, this again?" Hold on a minute. Those asking for a better 860K overclock have a valid argument. The 860K was handicapped last quarter with insufficient cooling to get any kind of meaningful overclock. You can't argue with that. This time around the CPU gets better treatment in the form of an aftermarket cooler and a larger case. So no, we're not trying the exact same thing and expecting different results. Do I expect the 860K to outperform the i3-4170? No, I don't. However, in order for me to prove that one way or the other, I need hard numbers and data. I'm curious to see if it can close the gap, if not overcome it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Alternate Component Selection
 
@@ -137,23 +138,22 @@ Deepcool Gamer Storm Gabriel
 
 ![](https://cdn.mos.cms.futurecdn.net/nKfSxuUzQNwqBkyJ4996bk-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If the fins were a little thinner or my RAM didn't have a heat spreader, this would be a non-issue. It's still not technically a problem. It doesn't keep the RAM from being installed, it doesn't even put flex on the RAM stick. It's just annoying that a cooler marketed as designed specifically for ITX cooling seems to be borderline incompatible with every current AMD ITX motherboard (every model on Newegg right now has the CPU socket oriented the same way). Perhaps some of them have RAM slots a little farther from the CPU socket, which would solve this, but if Deepcool wanted to be universally compatible, shaving a few millimeters off the fins would have accomplished this without impacting thermal performance.
 
 ![](https://cdn.mos.cms.futurecdn.net/EkXfRYe3XW8vhT2PuH7XkJ-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The rest of the assembly went just peachy. The slightly different port layout of the motherboard necessitated different cable routing, but that's it. Everything else is the exact same as the Intel build from a few days ago.
 
 ![](https://cdn.mos.cms.futurecdn.net/kiyNGE2ogxSRTZjnNEBoST-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
+
 ## Overclocking
 
  I did a little more digging on 860K overclocking after last quarter. Most FM2+ motherboards are very liberal with CPU voltage at stock levels. This means it's usually possible to overclock the CPU while undervolting it. This held true for my particular 860K. Stock voltage was set at 1.45V, but I was able to get it to run at 4.0GHz on only 1.35V. Lowering the voltage helped temperatures, but the CPU still has a pretty hard thermal ceiling that won't let it be pushed as much as it could. Regardless of cooling solution or voltage, the CPU cuts back to 3.5 to 3.7GHz when it hits 65 degrees C (total, not over ambient). Even with the cooler at full speed, I was occasionally hitting that ceiling under the most demanding workloads.
@@ -168,11 +168,12 @@ Deepcool Gamer Storm Gabriel
 
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
  The RAM caused me no end of heartburn and frustration. I kept running into seemingly random crashes, regardless of RAM timings. I worried the RAM was somehow bad, but it worked flawlessly in the Intel build. After a quick appeal for help to Thomas, I found the motherboard simply required at least 1.64V to run the RAM, even at stock speeds. Again, the Intel build had no problem with 1.5V. I've never seen a motherboard that's more stable overclocked than at stock speeds, until now.
 
  My system this time around was only capable of reaching DDR3-2133, a bit shy of the 2400 speeds I got last quarter. I did get respectable timings of 10-11-10-31, but that was the limit. Along with the RAM, I upped the northbridge from 1800 to 2000MHz with only a slight bump in voltage to 1.1625V. I wasn't trying to match the frequency of last quarter, I simply couldn't boot the machine at anything past 2000MHz.
@@ -185,8 +186,6 @@ Deepcool Gamer Storm Gabriel
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -194,4 +193,24 @@ Deepcool Gamer Storm Gabriel
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-create-professional-minecraft-graphics/"><u>[New] 2024 Approved Create Professional Minecraft Graphics</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/400-bargain-bundle-hp-laptop-compatible-mouse-and-microsoft-productivity-software/"><u>$400 Bargain Bundle: HP Laptop, Compatible Mouse & Microsoft Productivity Software</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-apex-online-video-streaming-applications/"><u>2024 Approved Apex Online Video Streaming Applications</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/advanced-techniques-for-smartphone-screenshots/"><u>Advanced Techniques for Smartphone Screenshots</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-deal-alert-experience-ultimate-game-audio-with-the-top-rated-speakers-now-discounted-at-best-buy-zdnet/"><u>Exclusive Deal Alert! Experience Ultimate Game Audio with the Top-Rated Speakers Now Discounted at Best Buy - Zdnet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-deal-save-60-on-your-top-pick-of-apples-magsafe-chargers-limited-time-offer/"><u>Exclusive Deal: Save $60 on Your Top Pick of Apple's MagSafe Chargers - Limited Time Offer</u></a></li>
+<li><a href="https://driver-install.techidaily.com/gain-edge-in-gaming-download-gtx-1050-ti-drivers/"><u>Gain Edge in Gaming: Download GTX 1050 Ti Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-most-recent-bluetooth-adaptor-drivers-for-your-windows-device/"><u>Get the Most Recent Bluetooth Adaptor Drivers for Your Windows Device</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hps-ultimate-tech-deals-save-up-to-71-on-monitors-and-laptops-during-cyber-week/"><u>HP's Ultimate Tech Deals: Save Up To 71% On Monitors & Laptops During Cyber Week</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-equality-and-innovation-an-easeus-analysis/"><u>In 2024, Equality and Innovation - An EaseUS Analysis</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-top-ten-screencasting-apps-for-modern-teachers/"><u>In 2024, Top Ten Screencasting Apps for Modern Teachers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/macsierras-top-picks-for-dvd-creation-software-for-2024/"><u>MacSierra’s Top Picks for Dvd Creation Software for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/score-big-with-metas-stellar-512gb-quest-3-promotion-exclusive-vr-savings-unveiled-by-zdnet/"><u>Score Big with Meta's Stellar 512GB Quest 3 Promotion: Exclusive VR Savings Unveiled by ZDNet!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-removing-drm-from-ebooks-chapter-16/"><u>Step-by-Step Guide: Removing DRM From eBooks Chapter 16</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-picks-the-ideal-thinkpad-models-for-hybrid-professionals-excluding-the-latest-release-insights/"><u>Top Picks: The Ideal ThinkPad Models for Hybrid Professionals, Excluding the Latest Release - Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-laptops-for-professional-video-editors-comprehensive-reviews-by-tech-experts/"><u>Top-Rated Laptops for Professional Video Editors: Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/travel-hassle-free-with-the-game-changing-tangle-free-usb-c-cable-a-must-have-for-every-digital-nomad-zdnet/"><u>Travel Hassle-Free with the Game-Changing Tangle-Free USB-C Cable - A Must-Have for Every Digital Nomad | ZDNET</u></a></li>
+</ul></div>
 

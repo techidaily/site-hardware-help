@@ -1,7 +1,7 @@
 ---
 title: "Mastering System Development in the Final Stretch of 2015: Insights From the Marathon Q4 Session"
-date: 2024-08-19T10:24:48.653Z
-updated: 2024-08-20T10:24:48.653Z
+date: 2024-12-07T06:17:40.644Z
+updated: 2024-12-11T01:46:08.741Z
 tags:
   - build
 categories:
@@ -15,9 +15,17 @@ thumbnail: https://thmb.techidaily.com/30461ded64430f275adab068e1aa1246b69e0b370
 
 ![](https://cdn.mos.cms.futurecdn.net/8uwXgGgUvFKmaEtYiubBDA-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##
 
 ![](https://cdn.mos.cms.futurecdn.net/gRWZJtRVgRiLT8Rc7hcKrV-320-80.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## System Builder Marathon Q4 2015
 
@@ -90,10 +98,6 @@ Deepcool Gamer Storm Gabriel
 
  Some of you out there might be groaning and asking, "What, this again?" Hold on a minute. Those asking for a better 860K overclock have a valid argument. The 860K was handicapped last quarter with insufficient cooling to get any kind of meaningful overclock. You can't argue with that. This time around the CPU gets better treatment in the form of an aftermarket cooler and a larger case. So no, we're not trying the exact same thing and expecting different results. Do I expect the 860K to outperform the i3-4170? No, I don't. However, in order for me to prove that one way or the other, I need hard numbers and data. I'm curious to see if it can close the gap, if not overcome it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## Alternate Component Selection
 
  I don't need to spend time explaining the same parts from[two days ago](https://tools.techidaily.com) . To save space and time, I'll only address the three new components.
@@ -124,9 +128,6 @@ Deepcool Gamer Storm Gabriel
 
 [View Deal](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-8198437440134718399%26murl%3Dhttp%253A%252F%252Fwww.newegg.com%252FProduct%252FProduct.aspx%253Fcm%255Fmmc%253Dbac-tomshardwaresbm-%255F-systembuildereditorial-%255F-CPU%2BFans%2B%2526%2BHeatsinks-%255F-N82E16835856007%2526Item%253DN82E16835856007%2526IsFeedbackTab%253DTrue%2526nm%255Fmc%253DExtBanner)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Assembly
 
  The only significant change in assembly of this against the Intel build is the CPU cooler. And I ran into fitment issues with it. While I specifically got the low profile version Ballistix memory kit, AMD's rectangular mounting bracket meant the cooler could only be installed in two orientations. Both are problematic with this motherboard. The Gabriel is thinnest on the end opposite of the heat pipe curve. This part extends farthest from the CPU socket and can clear most RAM modules. On either side, the fins have a small step making them a little thicker. This edge of the cooler is a millimeter or two too thick to fully clear the RAM on the side, touching the very top edge of the RAM heat spreader.
@@ -134,23 +135,25 @@ Deepcool Gamer Storm Gabriel
 ![](https://cdn.mos.cms.futurecdn.net/nKfSxuUzQNwqBkyJ4996bk-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If the fins were a little thinner or my RAM didn't have a heat spreader, this would be a non-issue. It's still not technically a problem. It doesn't keep the RAM from being installed, it doesn't even put flex on the RAM stick. It's just annoying that a cooler marketed as designed specifically for ITX cooling seems to be borderline incompatible with every current AMD ITX motherboard (every model on Newegg right now has the CPU socket oriented the same way). Perhaps some of them have RAM slots a little farther from the CPU socket, which would solve this, but if Deepcool wanted to be universally compatible, shaving a few millimeters off the fins would have accomplished this without impacting thermal performance.
 
 ![](https://cdn.mos.cms.futurecdn.net/EkXfRYe3XW8vhT2PuH7XkJ-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The rest of the assembly went just peachy. The slightly different port layout of the motherboard necessitated different cable routing, but that's it. Everything else is the exact same as the Intel build from a few days ago.
 
 ![](https://cdn.mos.cms.futurecdn.net/kiyNGE2ogxSRTZjnNEBoST-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Overclocking
 
  I did a little more digging on 860K overclocking after last quarter. Most FM2+ motherboards are very liberal with CPU voltage at stock levels. This means it's usually possible to overclock the CPU while undervolting it. This held true for my particular 860K. Stock voltage was set at 1.45V, but I was able to get it to run at 4.0GHz on only 1.35V. Lowering the voltage helped temperatures, but the CPU still has a pretty hard thermal ceiling that won't let it be pushed as much as it could. Regardless of cooling solution or voltage, the CPU cuts back to 3.5 to 3.7GHz when it hits 65 degrees C (total, not over ambient). Even with the cooler at full speed, I was occasionally hitting that ceiling under the most demanding workloads.
@@ -168,8 +171,9 @@ The ultimate burning program for all your needs!</a>
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The RAM caused me no end of heartburn and frustration. I kept running into seemingly random crashes, regardless of RAM timings. I worried the RAM was somehow bad, but it worked flawlessly in the Intel build. After a quick appeal for help to Thomas, I found the motherboard simply required at least 1.64V to run the RAM, even at stock speeds. Again, the Intel build had no problem with 1.5V. I've never seen a motherboard that's more stable overclocked than at stock speeds, until now.
 
  My system this time around was only capable of reaching DDR3-2133, a bit shy of the 2400 speeds I got last quarter. I did get respectable timings of 10-11-10-31, but that was the limit. Along with the RAM, I upped the northbridge from 1800 to 2000MHz with only a slight bump in voltage to 1.1625V. I wasn't trying to match the frequency of last quarter, I simply couldn't boot the machine at anything past 2000MHz.
@@ -182,8 +186,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,4 +193,26 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-breaking-the-internet-hashtag-wisdom-for-short-films/"><u>[New] 2024 Approved Breaking the Internet Hashtag Wisdom for Short Films</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-skys-best-the-ultimate-hd-collection-websites/"><u>[New] Sky's Best - The Ultimate HD Collection Websites</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-how-to-put-multiple-pictures-on-insta-story-a-simple-guide-for-2024/"><u>[Updated] How to Put Multiple Pictures on Insta Story - a Simple Guide for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-perfect-shadows-and-highlights-with-iphone-lighting-tips/"><u>[Updated] Perfect Shadows & Highlights with IPhone Lighting Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/999-yes-get-the-epic-lg-ultragears-39-curved-gaming-monitor-with-qhd-at-amazon-today/"><u>$999? Yes! Get the Epic LG Ultragear's 39 Curved Gaming Monitor with QHD at Amazon Today!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amazing-october-prime-day-offer-save-on-metas-latest-512gb-quest-3-top-vr-headset-bargain-at-zdnet/"><u>Amazing October Prime Day Offer! Save on Meta's Latest 512GB Quest 3 - Top VR Headset Bargain at ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amazons-limited-time-offer-get-an-8tb-samsung-t5-nvme-ssd-for-up-to-36-less-exclusive-info/"><u>Amazon's Limited-Time Offer: Get an 8TB Samsung T5 NVMe SSD for Up to 36% Less – Exclusive Info</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-a-practical-approach-to-streaming-fb-content-on-your-apple-setup/"><u>In 2024, A Practical Approach to Streaming FB Content on Your Apple Setup</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/introducing-the-apple-m3-macbook-air-the-revolutionary-budget-friendly-ai-device-you-cant-miss-review-by-zdnet/"><u>Introducing the Apple M3 MacBook Air: The Revolutionary, Budget-Friendly AI Device You Can't Miss | Review by ZDNET</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/iphone-upgrade-alert-your-step-by-step-guide-for-accessing-ios-16-beta-version-today-caution-advised-expert-tips-by-zdnet/"><u>IPhone Upgrade Alert: Your Step-by-Step Guide for Accessing iOS 16 Beta Version Today (Caution Advised) | Expert Tips by ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/love-at-first-click-unboxing-the-dazzlingly-thin-lg-gram-pro-17-exclusive-deals-await-this-octobers-prime-day/"><u>Love at First Click: Unboxing the Dazzlingly Thin LG Gram Pro 17 - Exclusive Deals Await This October's Prime Day!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/october-prime-deals-not-to-miss-out-on-top-savings-await-you-at-best-buy-insider-tips/"><u>October Prime Deals Not to Miss Out On: Top Savings Await You at Best Buy Insider Tips</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/optimizing-your-scanners-efficiency-key-configuration-tips-from-yl-computing/"><u>Optimizing Your Scanner's Efficiency: Key Configuration Tips From YL Computing</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/save-big-on-educational-electronics-student-friendly-offers-from-samsung/"><u>Save Big on Educational Electronics: Student-Friendly Offers From Samsung</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fix-connecting-airpods-efficiently-with-microsofts-latest-operating-systems-insider-advice-from-2024/"><u>Step-by-Step Fix: Connecting AirPods Efficiently with Microsoft's Latest Operating Systems - Insider Advice From 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-perfect-blend-of-power-and-mobility-dells-new-ultraportable-gaming-laptops-take-to-work-with-ease-insights/"><u>The Perfect Blend of Power & Mobility: Dell's New Ultraportable Gaming Laptops Take to Work with Ease Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-deal-alert-experience-ultimate-audio-in-gaming-with-a-60-discount-on-select-speakers-now/"><u>Unbeatable Deal Alert: Experience Ultimate Audio in Gaming with a 60% Discount on Select Speakers Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unleashing-next-level-productivity-with-the-acer-chromebook-516ge-review/"><u>Unleashing Next-Level Productivity with the Acer Chromebook 516GE Review</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-the-best-of-the-web-10-free-online-video-compression-tools/"><u>Updated The Best of the Web 10 Free Online Video Compression Tools</u></a></li>
+</ul></div>
 

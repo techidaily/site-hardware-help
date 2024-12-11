@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Presidents’ Day Offer: Get a New M2 MacBook Air for Only $799 (Reg. $1,099) | Shop Smart with ZDNet"
-date: 2024-12-02T17:43:12.110Z
-updated: 2024-12-05T02:57:48.214Z
+date: 2024-12-08T17:52:22.386Z
+updated: 2024-12-11T05:27:26.731Z
 tags:
   - laptops
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,18 +81,17 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-essential-selection-the-greatest-free-editing-software/"><u>[New] 2024 Approved Essential Selection The Greatest Free Editing Software</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-what-if-my-tiktok-not-working-on-androidiphonechrome/"><u>[Updated] What If My TikTok Not Working on Android/iPhone/Chrome?</u></a></li>
-<li><a href="https://win-unique.techidaily.com/44cm44oh44o844k6ziy5b6h77yb6kqk44gj44gm5ymk6zmk44gx44gf44or44o844og44kj44k344on44oz44ks5ocl6ycf44gr5zue5b6p44o75yan5l2c5oiq44gz44kl5oml6acg44cn/"><u>「データ防御！誤って削除したパーティションを急速に回復・再作成する手順」</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/749-apple-macbook-air-with-m2-chip-now-available-during-amazons-prime-day-zdnet-coverage/"><u>$749 Apple MacBook Air with M2 Chip Now Available During Amazon's Prime Day - ZDNet Coverage</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Huawei Nova Y91 | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/college-students-guide-to-choosing-the-perfect-laptop-top-4-factors-and-10-recommended-models-insights-from-zdnet/"><u>College Students' Guide to Choosing the Perfect Laptop: Top 4 Factors and 10 Recommended Models – Insights From ZDNet</u></a></li>
-<li><a href="https://games-able.techidaily.com/competitive-gpus-against-the-rtx-4060-ti/"><u>Competitive GPUs Against the RTX 4060 Ti</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-solutions-to-prevent-wallpaper-engine-from-collapsing-on-windows-11-and-10/"><u>Effective Solutions to Prevent Wallpaper Engine From Collapsing on Windows 11 and 10</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-free-mp4-trimming-tools-top-picks-for-2024/"><u>New Free MP4 Trimming Tools Top Picks for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/secure-your-razer-blade-15-notebook-for-just-749-this-memorial-day-deals-exclusive-to-walmart-shoppers/"><u>Secure Your Razer Blade 15 Notebook for Just $749 This Memorial Day - Deals Exclusive to Walmart Shoppers!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-functional-importance-of-windows-batch-files/"><u>The Functional Importance of Windows Batch Files</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-antivirus-programs-expert-reviews/"><u>Top-Rated Antivirus Programs : Expert Reviews</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unlock-epic-gaming-deals-over-450-in-games-with-intel-arc-gpu-pc-bundles-explore-the-options/"><u>Unlock Epic Gaming Deals: Over $450 in Games with Intel Arc GPU PC Bundles - Explore the Options</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-digital-dominion-for-techno-gamers-for-2024/"><u>[Updated] Digital Dominion for Techno Gamers for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/customize-and-download-free-outro-video-templates-for-2024/"><u>Customize and Download Free Outro Video Templates for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-guide-finding-and-downloading-samsung-printer-software-for-windows-users/"><u>Easy Guide: Finding and Downloading Samsung Printer Software for Windows Users</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-thrilling-teamwork-in-dying-lights-first-person-co-op-adventure/"><u>Experience Thrilling Teamwork in Dying Light's First-Person Co-Op Adventure</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-epson-artisan-1430-drivers-for-pc-compatible-with-win-11108/"><u>Get the Latest Epson Artisan 1430 Drivers for PC - Compatible with Win 11/10/8</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-intel-serial-port-drivers-instant-downloads/"><u>Get the Latest Intel Serial Port Drivers - Instant Downloads!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-from-the-iphone-6s-plus-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock From the iPhone 6s Plus Without Previous Owner?</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-ensuring-permanent-absence-from-tiktok-platform/"><u>In 2024, Ensuring Permanent Absence From TikTok Platform</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/mastering-audio-adjustment-on-youtube-devices/"><u>Mastering Audio Adjustment on YouTube Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/startechs-ultimate-guide-to-downloading-usb-compatible-vga-drivers/"><u>StarTech's Ultimate Guide to Downloading USB-Compatible VGA Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722972057728-the-ultimate-solution-to-restarting-your-igfxem-module-no-more-problems/"><u>The Ultimate Solution to Restarting Your iGFXem Module - No More Problems</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-motorola-moto-g13-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Motorola Moto G13 Device</u></a></li>
 </ul></div>
 

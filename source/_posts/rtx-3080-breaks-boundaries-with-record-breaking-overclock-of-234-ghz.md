@@ -1,7 +1,7 @@
 ---
 title: RTX 3080 Breaks Boundaries with Record-Breaking Overclock of 2.34 GHz
-date: 2024-08-19T10:25:21.325Z
-updated: 2024-08-20T10:25:21.325Z
+date: 2024-12-06T09:18:45.791Z
+updated: 2024-12-10T18:02:51.065Z
 tags:
   - overclocking
 categories:
@@ -29,6 +29,10 @@ As DDR5 memory and supported platforms are approaching their launch, more makers
 
  Meanwhile, makers of memory modules for client PCs can also take advantage of this capability and equip their DIMMs with sophisticated VRMs and PMICs to amplify performance, differentiate from rivals, and maximize overclocking potential.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -45,6 +49,10 @@ As DDR5 memory and supported platforms are approaching their launch, more makers
 
 ![Galax](https://cdn.mos.cms.futurecdn.net/rPUC35ad3cZ9mw5hsJzTsD-320-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 (Image credit: Galax)
 
 <ins class="adsbygoogle"
@@ -53,8 +61,6 @@ As DDR5 memory and supported platforms are approaching their launch, more makers
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -62,8 +68,19 @@ As DDR5 memory and supported platforms are approaching their launch, more makers
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-market-opening-innovations/"><u>[New] Market-Opening Innovations</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-mastering-social-media-finding-youtube-content-on-fb/"><u>2024 Approved Mastering Social Media Finding YouTube Content on FB</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-epic-black-friday-gaming-bargains-in-october-202-get-premium-games-at-half-price-dont-miss-this-final-opportunity-zdnet/"><u>Discover Epic Black Friday Gaming Bargains in October 202^, Get Premium Games at Half Price - Don't Miss This Final Opportunity | ZDNET</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-verizon-iphone-13-pro-max-by-drfone-ios/"><u>How to Unlock Verizon iPhone 13 Pro Max</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-essential-knowledge-optimizing-your-use-of-mobizen-recorders/"><u>In 2024, Essential Knowledge Optimizing Your Use of Mobizen Recorders</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2020-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE (2020) with a Mask On</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/is-it-possible-to-move-your-pre-existing-windows-upgrade-from-an-outdated-computer-to-a-newer-model-techinsights/"><u>Is It Possible To Move Your Pre-Existing Windows Upgrade From An Outdated Computer To A Newer Model? | TechInsights</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209859382-9780692098615-keep-this-quiet-iv-revised-edition-2nd-ed/"><u>Keep This Quiet! IV, revised edition (2nd ed.) | Free Book</u></a></li>
+<li><a href="https://fox-http.techidaily.com/mastering-documentary-script-artistry-for-2024/"><u>Mastering Documentary Script Artistry for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/snag-the-hp-victus-15-gaming-laptop-at-an-unbelievable-price-of-515-during-best-buys-exclusive-prime-day-sale-insider-tips/"><u>Snag the HP Victus 15 Gaming Laptop at an Unbelievable Price of $515 During Best Buy's Exclusive Prime Day Sale - Insider Tips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-10-festive-chromebook-bargains-exclusive-offers/"><u>Top 10 Festive Chromebook Bargains: Exclusive Offers !</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-vpn-providers-comprehensive-evaluations-and-recommendations-by-tech-experts/"><u>Top Rated VPN Providers : Comprehensive Evaluations & Recommendations by Tech Experts</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

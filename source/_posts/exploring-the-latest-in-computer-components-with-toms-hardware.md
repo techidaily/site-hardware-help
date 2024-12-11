@@ -1,7 +1,7 @@
 ---
 title: Exploring the Latest in Computer Components with Tom's Hardware
-date: 2024-08-19T10:26:49.486Z
-updated: 2024-08-20T10:26:49.486Z
+date: 2024-12-06T21:15:30.890Z
+updated: 2024-12-10T20:12:04.129Z
 tags:
   - ssd
 categories:
@@ -46,13 +46,14 @@ AGI is a memory technology brand we’ve heard of but never tested... until toda
 
 * [AGI AI818 2TB SSD at Newegg for $114.99](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Flink%3Fid%3DkXQk6%252AivFEQ%26offerid%3D1531483.445838636436816353697968%26type%3D15%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fagi-2tb-ai818-43%252Fp%252F0D9-010F-00011%253Fitem%253D9SIBM90K3J6368%26u1%3Dtomshardware-us-1398768948128134202)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Software and Accessories
 
  AGI does not appear to offer any direct software downloads on its site, but there are free alternatives. We recommend CrystalDiskInfo for basic drive information including SMART health status. For imaging and cloning,[Clonezilla](https://tools.techidaily.com) should do the trick.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## AGI AI818 — A Closer Look
 
  Image 1 of 3
@@ -60,19 +61,20 @@ AGI is a memory technology brand we’ve heard of but never tested... until toda
 ![AGI AI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![AGI AI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![AGI AGI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -83,15 +85,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![AGI AI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![AGI AI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  We weren’t too sure what flash to expect on this drive as it launched with YMTC’s 128-Layer TLC (X2-9060), at least at some capacities. There are two 1TB SKUs and one of them uses QLC instead. The drive launched with the Maxio MAP1602 controller, down-bussed to 1,600 MT/s to match that particular TLC flash. It’s possible this drive will have other variations in hardware but we’re looking at what is being delivered today, which certainly is an interesting combination.  
@@ -157,15 +157,14 @@ powered by
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -174,4 +173,19 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-capture-webpages-entirety-on-screen/"><u>[New] 2024 Approved Capture Webpage's Entirety on Screen</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-master-the-art-of-youtube-thumbnails-in-minutes/"><u>[Updated] 2024 Approved Master the Art of YouTube Thumbnails in Minutes</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-a-detailed-walkthrough-for-crafting-and-changing-your-videos-covers-on-facebook/"><u>[Updated] In 2024, A Detailed Walkthrough for Crafting and Changing Your Videos' Covers on Facebook</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-advanced-playback-techniques-to-streamline-media-workflows/"><u>[Updated] In 2024, Advanced Playback Techniques to Streamline Media Workflows</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-the-social-networks-roadmap-making-the-most-of-daily-use/"><u>2024 Approved The Social Network's Roadmap Making the Most of Daily Use</u></a></li>
+<li><a href="https://facebook.techidaily.com/dissecting-virtual-bonds-the-impact-of-fb-expat-circles/"><u>Dissecting Virtual Bonds: The Impact of FB Expat Circles</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/elite-selection-of-oled-laptops-comprehensive-reviews-and-ratings-from-industry-experts-cnet/"><u>Elite Selection of OLED Laptops : Comprehensive Reviews and Ratings From Industry Experts | CNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-to-know-the-enhanced-m3-chip-inside-newly-released-1315-macbook-air-by-apple-what-you-need-to-know/"><u>Get to Know the Enhanced M3-Chip Inside Newly Released 13/15 MacBook Air by Apple: What You Need to Know</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-ultimate-youtube-editors-handbook-a-step-by-step-journey-for-2024/"><u>The Ultimate YouTube Editor's Handbook A Step-by-Step Journey for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-15-inch-laptop-picks-for-2eyr2024-comprehensive-testing-and-reviews-by-tech-experts-techtimes/"><u>Top 15-Inch Laptop Picks for 2eYr2024: Comprehensive Testing & Reviews by Tech Experts | Techtimes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unmatched-durability-meets-personalization-inside-the-ultimate-laptop-experience-beyond-getac-tech-insights-by-zdnet/"><u>Unmatched Durability Meets Personalization: Inside the Ultimate Laptop Experience Beyond Getac | Tech Insights by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-secrets-of-pc-building-with-toms-hardware-insights/"><u>Unveiling the Secrets of PC Building with Tom's Hardware Insights</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Corporate Insights: In-Depth Microsoft Surface Pro 8 Evaluation on ZDNet"
-date: 2024-12-01T00:48:25.290Z
-updated: 2024-12-04T17:38:18.340Z
+date: 2024-12-08T21:03:48.730Z
+updated: 2024-12-11T05:17:45.231Z
 tags:
   - laptops
 categories:
@@ -40,10 +40,6 @@ All of the precision-machined cases and blazing-fast performance here couldn't m
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Specifications
 
 | Processor       | 12th-Gen Intel Core i5 or Core i7                                                          |
@@ -58,7 +54,7 @@ All of the precision-machined cases and blazing-fast performance here couldn't m
 | Size and weight | 12.1 L x 8.8 W x .57 H inches, 2.8 lbs                                                     |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How's the build quality?
@@ -80,7 +76,7 @@ Michael Gariffo/ZDNET
 **More: [The best laptops: Does Apple take the crown?](https://www.zdnet.com/article/best-laptop/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Features and ports
@@ -143,6 +139,10 @@ This might be forgivable in a budget model. But even the base config [Surface La
 
 **More: [The 10 best webcams: Join your next Zoom call in HD](https://www.zdnet.com/article/best-webcam/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Performance and battery life
 
 Unlike on many other laptops I've tested recently, the keyboard deck remained entirely cool, no matter how hard I pushed the laptop.
@@ -166,7 +166,7 @@ Overall, I'd have no qualms about leaving my charger at home and expecting to ge
 [Microsoft Surface Laptop 5 $1,095 at Walmart](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F1738938556&subId1=zd-__COM_CLICK_ID__-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -176,7 +176,7 @@ I may seem like I had high standards for this review, and I did. This is a flags
 If you never videoconference or if wasted space around your display doesn't bother you, you're looking at the best Windows laptop you could buy right now. Even if those things do irk a bit, I'd recommend balancing them against the exceptional performance, build, and aesthetics. The Surface Laptop 5 is frustratingly close to being that universal leader among Windows portables that Microsoft wants it to be. But, if Microsoft wants that crown, I hope it updates the components that held this generation back when it comes time to design the Surface Laptop 6.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -227,16 +227,18 @@ Dell's latest entry in the XPS 13 lineup looks like it comes from further down t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-navigating-the-process-of-clearing-up-browsers-watched-videos/"><u>[New] In 2024, Navigating the Process of Clearing Up Browser's Watched Videos</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-securely-shifting-snapchat-images-onto-your-device-storage/"><u>[Updated] 2024 Approved Securely Shifting SnapChat Images Onto Your Device Storage</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-the-ultimate-tutorial-creating-instagram-ready-videos-with-final-cut-pro-x-for-2024/"><u>[Updated] The Ultimate Tutorial Creating Instagram-Ready Videos with Final Cut Pro X for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/comprehensive-review-of-the-lenovo-thinkpad-z1n-impressive-specs-but-flawed-video-quality-by-zdnet/"><u>Comprehensive Review of the Lenovo ThinkPad Z1n: Impressive Specs but Flawed Video Quality by ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-device-lifecycles-when-does-apple-consider-them-obsolete-expert-analysis/"><u>Decoding Device Lifecycles: When Does Apple Consider Them Obsolete? Expert Analysis</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/elephants-exhibiting-empathy-altruism-and-even-mourning-for-deceased-herd-members/"><u>Elephants Exhibiting Empathy, Altruism, and Even Mourning for Deceased Herd Members.</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-electronic-conference-logging/"><u>In 2024, Electronic Conference Logging</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/marathon-battery-and-striking-style-discover-the-top-13-inch-laptop-from-my-rigorous-tests-a-detailed-review-on-zdnet/"><u>Marathon Battery & Striking Style: Discover the Top 13 Inch Laptop From My Rigorous Tests - A Detailed Review on ZDNet</u></a></li>
-<li><a href="https://windows11.techidaily.com/turn-on-copy-and-paste-within-edges-protected-area-win-11-edition/"><u>Turn On Copy & Paste Within Edge's Protected Area, Win 11 Edition</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-choosing-the-perfect-power-bank-for-your-macbook-pro-expert-picks-and-reviews/"><u>Ultimate Guide to Choosing the Perfect Power Bank for Your MacBook Pro - Expert Picks and Reviews!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-the-ideal-college-laptop-picks-in-depth-analysis-by-tech-experts-zdnet/"><u>Ultimate Guide to the Ideal College Laptop Picks: In-Depth Analysis by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-unlock-the-full-potential-of-snapkit-in-business-ads/"><u>[New] 2024 Approved Unlock the Full Potential of SnapKit in Business Ads</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-avoiding-fakes-instagram-selfie-wisdom-for-2024/"><u>[New] Avoiding Fakes Instagram Selfie Wisdom for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-exploring-with-tomtom-actioncam-new-year-for-2024/"><u>[New] Exploring with TomTom ActionCam New Year for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-importance-of-b-roll-diversity-in-filmmaking/"><u>[New] In 2024, The Importance of B-Roll Diversity in Filmmaking</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-free-access-worlds-biggest-youtube-short-downloaders/"><u>[Updated] Free Access World’s Biggest YouTube Short Downloaders</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/0-download-and-update-your-printers-driver-software-today/"><u>0, Download & Update Your Printer's Driver Software Today</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-tips-for-organizing-your-workflow-with-slack-reminders/"><u>Easy Tips for Organizing Your Workflow with Slack Reminders</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975544834-effortless-download-of-nvidia-geforce-gt-drivers-optimize-your-pc-today/"><u>Effortless Download of NVIDIA GeForce GT Drivers - Optimize Your PC Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/find-and-install-canon-mx340-printing-software-compatible-with-windows-7-8-and-10/"><u>Find and Install Canon MX340 Printing Software: Compatible with Windows 7, 8 & 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-epson-v500-printer-driver-on-your-device-now/"><u>Get the Latest Epson V500 Printer Driver on Your Device Now!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-vivo-y02t-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Vivo Y02T Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/resolved-pci-device-encryptdecrypt-controller-drivers-update-now/"><u>Resolved PCI Device Encrypt/Decrypt Controller Drivers - Update Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-downloading-and-updating-your-epson-tm-t88v-driver-on-windows/"><u>Step-by-Step Guide to Downloading & Updating Your EPSON TM-T88v Driver on Windows</u></a></li>
 </ul></div>
 

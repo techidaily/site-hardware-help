@@ -1,7 +1,7 @@
 ---
 title: "Explore the Uncommon Thirteen Series Asus Frankenboard PCB: So-DIMM Memory Compatibility, Enhanced by Iconic KINGSTON Branding"
-date: 2024-08-19T10:28:03.392Z
-updated: 2024-08-20T10:28:03.392Z
+date: 2024-12-10T11:08:12.286Z
+updated: 2024-12-11T08:01:56.666Z
 tags:
   - motherboards
 categories:
@@ -47,6 +47,10 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
 
  The fact is, Loongson has developed its own CPU just a few generations behind Intel and AMD. Considering the Chinese firm has to work around U.S. sanctions and claims to insist on doing everything based on its own IP, the performance could actually be considered impressive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -63,8 +67,6 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -72,8 +74,20 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-simplifying-live-broadcasts-with-efficient-obs-tips/"><u>[New] Simplifying Live Broadcasts with Efficient OBS Tips</u></a></li>
+<li><a href="https://solve-news.techidaily.com/authentic-winx-download-platform-complimentary-access-to-top-quality-dvd-ripper-and-hd-converter-applications/"><u>Authentic WinX Download Platform: Complimentary Access to Top-Quality DVD Ripper & HD Converter Applications</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ating-the-top-video-streaming-apps-for-phones-for-2024/"><u>Evaluating the Top Video Streaming Apps for Phones for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-deals-save-on-iogear-laptop-gear-during-amazons-flash-sales-tech-insights/"><u>Exclusive Deals: Save on IOGEAR Laptop Gear During Amazon's Flash Sales - Tech Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/game-on-hp-victus-15-laptop-now-a-bargain-find-for-530-at-best-buy-revealed-experts/"><u>Game On! HP Victus 15 Laptop Now a Bargain Find for $530 at Best Buy, Revealed Experts</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-on-your-apple-iphone-12-pro-max-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID on Your Apple iPhone 12 Pro Max?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-iphone-xs-max-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From iPhone XS Max</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/introducing-lenovos-genius-innovation-a-versatile-dual-natured-device-that-blurs-the-lines-between-laptop-and-tablet/"><u>Introducing Lenovo's Genius Innovation: A Versatile Dual-Natured Device That Blurs the Lines Between Laptop and Tablet.</u></a></li>
+<li><a href="https://windows11.techidaily.com/is-the-windows-start-button-not-working-heres-how-to-fix-it/"><u>Is the Windows Start Button Not Working? Here's How to Fix It</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-chatgpt-experience-on-macos/"><u>Maximizing ChatGPT Experience on macOS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/samsung-8tb-t5-nvme-ssd-steal-a-huge-discount-of-36-now-on-amazon-shop-smart-with-tech-insights/"><u>Samsung 8TB T5 NVMe SSD: Steal a Huge Discount of 36% Now on Amazon - Shop Smart with Tech Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/secure-your-essential-portable-charger-at-a-bargain-anker-737-deal-with-30-discount-insider-info/"><u>Secure Your Essential Portable Charger at a Bargain: Anker 737 Deal with $30 Discount Insider Info!</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

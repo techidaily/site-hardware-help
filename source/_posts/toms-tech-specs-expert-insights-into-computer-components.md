@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Specs: Expert Insights Into Computer Components"
-date: 2024-08-19T10:27:16.008Z
-updated: 2024-08-20T10:27:16.008Z
+date: 2024-12-09T17:14:01.839Z
+updated: 2024-12-11T00:35:07.789Z
 tags:
   - ssd
 categories:
@@ -42,6 +42,10 @@ NEM-PA8TB  (Image credit: Nextorage)
 
  The NEM-PA8TB is already available on[Amazon](https://tools.techidaily.com) for[$849.99](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB0CTGTNSDX%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1185771451787124906-20) . The vanilla NE1N8TB, however, hasn't gone up at any U.S. retailers. In Japan, the NEM-PA8TB costs[2,000 yen](https://go.redirectingat.com/?id=92X1584492&xcust=tomshardware%5Fus%5F1271651936150678199&xs=1&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0CTGV11V4%3Fth%3D1&sref=https%3A%2F%2Fwww.tomshardware.com%2Fpc-components%2Fssds%2Fnextorage-launches-8tb-ssd-for-pc-gamers-and-ps5-owners-dollar849-for-8tb-of-storage-at-7300-mbs) more than the NE1N8TB, which is around $13.34\. Therefore, the NE1N8TB could retail for about the $836.65 mark.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -56,8 +60,6 @@ NEM-PA8TB  (Image credit: Nextorage)
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -65,13 +67,22 @@ NEM-PA8TB  (Image credit: Nextorage)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-optimize-your-typography-workflow-in-adobe-affects/"><u>[New] 2024 Approved Optimize Your Typography Workflow in Adobe Affects</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-secrets-of-smooth-transfer-mcc-files-uploaded-on-vimeo/"><u>[Updated] In 2024, Secrets of Smooth Transfer MCC Files Uploaded on Vimeo</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-pioneering-cross-social-content-share-youtube-videos-on-facebook/"><u>[Updated] Pioneering Cross-Social Content Share YouTube Videos on Facebook</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-top-tune-tracker-and-manager-android-companion-for-2024/"><u>[Updated] Top Tune Tracker & Manager, Android Companion for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-unifying-social-media-platforms-tiktok-and-fb-connected-for-2024/"><u>[Updated] Unifying Social Media Platforms TikTok & FB Connected for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/apple-leads-in-customer-happiness-rankings-as-samsung-closes-distance-insights/"><u>Apple Leads in Customer Happiness Rankings, as Samsung Closes Distance – Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/boost-productivity-with-this-versatile-dual-usb-charging-station-now-discounted-by-35-essential-addition-to-your-workspace/"><u>Boost Productivity with This Versatile Dual USB Charging Station Now Discounted by 35%, Essential Addition to Your Workspace</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/conversione-libera-online-da-ts-a-webm-ottimi-risultati-con-movavi/"><u>Conversione Libera Online Da TS a WebM: Ottimi Risultati Con Movavi</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/dont-miss-out-amazon-slashes-prices-by-36-on-samsungs-8tb-t5-ssd-after-prime-day-insights-via-zdnet/"><u>Don't Miss Out: Amazon Slashes Prices by 36% on Samsung's 8TB T5 SSD After Prime Day – Insights via ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/elevate-your-game-day-with-top-tier-sound-quality-save-big-now-at-amazon-the-1-rated-speaker-system-reviewed-by-zdnet/"><u>Elevate Your Game Day with Top-Tier Sound Quality! Save Big Now at Amazon – The #1 Rated Speaker System Reviewed by ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/epic-deals-alert-snag-the-hp-victus-15-gaming-laptop-for-just-515-exclusively-on-prime-day-at-best-buy-zdnets-inside-look/"><u>Epic Deals Alert! Snag the HP Victus 15 Gaming Laptop for Just $515 - Exclusively on Prime Day at Best Buy | ZDNET's Inside Look</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-revolutionary-ar-like-3d-art-visualization-with-asus-latest-laptop-technology-no-vr-gear-required/"><u>Experience Revolutionary AR-Like 3D Art Visualization with Asus' Latest Laptop Technology - No VR Gear Required</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-a-smart-laptop-stand-converts-your-mobile-device-into-a-seamless-additional-display-featured-on-zdnet/"><u>How a Smart Laptop Stand Converts Your Mobile Device Into a Seamless Additional Display - Featured on ZDNET</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-13-mini-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone 13 mini Properly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-how-to-fix-steams-inability-to-recognize-controllers-in-windows/"><u>Solved: How to Fix Steam's Inability to Recognize Controllers in Windows</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->

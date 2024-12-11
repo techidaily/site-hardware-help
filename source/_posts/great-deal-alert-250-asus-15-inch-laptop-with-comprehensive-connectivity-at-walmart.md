@@ -1,7 +1,7 @@
 ---
 title: "Great Deal Alert: $250 ASUS 15-Inch Laptop with Comprehensive Connectivity at Walmart"
-date: 2024-12-03T05:52:43.705Z
-updated: 2024-12-05T09:56:36.639Z
+date: 2024-12-04T22:26:35.374Z
+updated: 2024-12-11T08:24:52.790Z
 tags:
   - laptops
 categories:
@@ -50,7 +50,7 @@ Finally, one of the best parts of the Vivobook line are these laptops' bold desi
 All in all, if you're looking for a sleek, lightweight travel laptop or a backup machine while working remotely, the [Vivobook Go 15.6](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FASUS-Vivobook-Go-15-6-PC-Laptop-Intel-i3-N305-8GB-256GB-Win-11-Home-S-mode-Mixed-Black-E1504GA-WS36%2F5727766555&subId1=zd-__COM_CLICK_ID__-dtp) has a nice-sized screen that's not too big or too small for only $249 ($80 off at the time of writing). The full-sized keyboard offers a comfortable work setup, and the generous port selections make this computer well-rounded enough for a variety of everyday use cases. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -87,19 +87,18 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-canva-creative-editor-exploration/"><u>[New] 2024 Approved Canva Creative Editor Exploration</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-determining-data-usage-in-a-full-24-hour-video/"><u>[New] 2024 Approved Determining Data Usage in a Full 24-Hour Video</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-quicksnap-pause-and-capture-techniques/"><u>[New] 2024 Approved QuickSnap Pause & Capture Techniques</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-retro-to-future-radeon-rebooted/"><u>[New] 2024 Approved Retro to Future Radeon Rebooted</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-fb-chronicles-the-hidden-viewer/"><u>[Updated] 2024 Approved FB Chronicles The Hidden Viewer</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/a-beginners-guide-to-starting-a-professional-account-on-ig-for-2024/"><u>A Beginner's Guide to Starting a Professional Account on IG for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ace-your-shopping-ultimate-discounts-before-prime-day-2024-insights-from-zdnet/"><u>Ace Your Shopping: Ultimate Discounts Before Prime Day 2024 - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amazing-savings-awaits-discover-the-incredible-gaming-sound-experience-with-30-off-at-amazon-tech-insights/"><u>Amazing Savings Awaits: Discover the Incredible Gaming Sound Experience with 30% Off at Amazon | Tech Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/enhance-your-apple-devices-expert-guide-to-adding-extra-ports-to-macbook-and-ipad-pro-by-zdnet/"><u>Enhance Your Apple Devices: Expert Guide to Adding Extra Ports to MacBook and iPad Pro by ZDNET</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/find-the-ultimate-bargains-for-new-computers-this-july-2n4-with-insider-secrets/"><u>Find the Ultimate Bargains for New Computers This July 2N4 with Insider Secrets</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-samsung-is-unlocked-by-drfone-android/"><u>How To Check if Your Samsung Is Unlocked</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-victus-15-gaming-laptop-now-available-for-only-530-at-best-buy-latest-deals-on-zdnet/"><u>HP Victus 15 Gaming Laptop Now Available For Only $530 At Best Buy: Latest Deals On ZDNet</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/story-2-the-financial-focus-answer-c/"><u>Story 2: The Financial Focus (Answer C)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unlocking-the-mysteries-of-lenovos-new-laptop-a-hidden-trackpoint-feature-and-other-secret-functions-revealed-zdnet/"><u>Unlocking the Mysteries of Lenovo's New Laptop: A Hidden Trackpoint Feature and Other Secret Functions Revealed | ZDNET</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-efficiently-share-your-vision-via-igtv-for-2024/"><u>[New] Efficiently Share Your Vision via IGTV for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-unlocking-success-with-spotify-marketing-tips/"><u>[Updated] 2024 Approved Unlocking Success with Spotify Marketing Tips</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-step-by-step-chroma-mastery-for-green-screen-beginners/"><u>[Updated] Step-by-Step Chroma Mastery for Green Screen Beginners</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-latest-updates-for-rtx-2070-super-graphics-card-drivers-on-windows-10-and-11/"><u>Download & Latest Updates for RTX 2070 Super Graphics Card Drivers on Windows 10 and 11</u></a></li>
+<li><a href="https://win-latest.techidaily.com/enhancing-system-efficiency-key-configurations-for-optimal-performance-with-yl-computing/"><u>Enhancing System Efficiency: Key Configurations for Optimal Performance with YL Computing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/ideal-ps2-emulation-software-for-ios-users-for-2024/"><u>Ideal PS2 Emulation Software for IOS Users for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-expedite-channel-growth-surpass-the-10k-view-threshold-now/"><u>In 2024, Expedite Channel Growth Surpass the 10K View Threshold Now!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-perfecting-your-craft-making-time-lapse-films-with-ipad/"><u>In 2024, Perfecting Your Craft Making Time-Lapse Films with iPad</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/perfect-pronunciation-100-eng-twisters-challenge/"><u>Perfect Pronunciation: 100 Eng Twisters Challenge</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-steps-to-install-latest-dell-audio-driver-updates/"><u>Seamless Steps to Install Latest Dell Audio Driver Updates</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/secure-download-of-compatible-drivers-for-samsungs-latest-storage-solutions/"><u>Secure Download of Compatible Drivers for Samsung's Latest Storage Solutions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-easy-webcam-driver-upgrade-for-windows-7-users/"><u>Step by Step: Easy Webcam Driver Upgrade for Windows 7 Users</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/tech-tutorial-record-on-hangouts-for-2024/"><u>Tech Tutorial Record on Hangouts for 2024</u></a></li>
 </ul></div>
 

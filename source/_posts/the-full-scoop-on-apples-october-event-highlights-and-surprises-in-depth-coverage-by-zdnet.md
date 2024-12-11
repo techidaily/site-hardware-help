@@ -1,7 +1,7 @@
 ---
 title: The Full Scoop on Apple’s October Event Highlights and Surprises | In-Depth Coverage by ZDNET
-date: 2024-11-27T20:15:30.592Z
-updated: 2024-12-05T02:40:33.529Z
+date: 2024-12-08T21:53:36.258Z
+updated: 2024-12-11T02:39:51.103Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -81,7 +81,7 @@ If the low battery life wasn't enough, the computer has a tendency to run hot. W
 Even during regular use, the keyboard retained some heat, although not nearly as bad as during heavy gaming. The cooling vents are located on the bottom, so it seems the heat gets trapped underneath.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -120,15 +120,16 @@ If you looking for a portable gaming laptop, the Blade 14 is a middle-tier optio
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-your-ultimate-guide-to-choosing-vr-headsets-opt-for-easy-steps-with-mobile-or-connected-devices/"><u>[Updated] Your Ultimate Guide to Choosing VR Headsets Opt for Easy Steps with Mobile or Connected Devices?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-huawei-nova-y91-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Huawei Nova Y91 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/eliminate-airpod-disappearance-issues-discover-eight-fixes-using-find-my/"><u>Eliminate AirPod Disappearance Issues: Discover Eight Fixes Using 'Find My'</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Nokia G42 5G | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-strategies-to-exclude-recommended-podcasts-in-spotify/"><u>In 2024, Strategies to Exclude Recommended Podcasts in Spotify</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/shared-experiences-the-unspoken-challenges-of-moving-to-ios-18-on-iphones/"><u>Shared Experiences: The Unspoken Challenges of Moving to iOS 18 on iPhones</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-october-2024-prime-day-electronics-unbeatable-laptop-bargains-on-zdnet/"><u>Top-Rated October 2024 Prime Day Electronics: Unbeatable Laptop Bargains on ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-oled-laptop-picks-thoroughly-evaluated-by-tech-pros-zdnet/"><u>Top-Rated OLED Laptop Picks - Thoroughly Evaluated by Tech Pros | ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/transform-your-home-workspace-with-adonit-nests-sale-premium-multi-port-usb-hub-now-only-65-find-out-more-inside-zdnet/"><u>Transform Your Home Workspace with Adonit Nest's Sale: Premium Multi-Port USB Hub Now Only $65, Find Out More Inside ZDNET!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-the-premier-audio-for-gamers-comprehensive-testing-results/"><u>Ultimate Guide to the Premier Audio for Gamers : Comprehensive Testing Results</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/budget-fashionistas-guide-chrome-tool-to-cut-clothing-expenses-moneysavvytech/"><u>Budget Fashionista's Guide: Chrome Tool to Cut Clothing Expenses | MoneySavvyTech</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-lenovo-ideapad-100-drivers-complete-guide-for-windows-11/"><u>Download & Update Lenovo IdeaPad 100 Drivers: Complete Guide for Windows 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/dronemakers-ultimate-sky-explore/"><u>Dronemaker's Ultimate Sky Explore</u></a></li>
+<li><a href="https://win-superb.techidaily.com/easy-guide-to-tweaking-your-pcs-audio-preferences-expert-tips-from-yl-software/"><u>Easy Guide to Tweaking Your PC's Audio Preferences - Expert Tips From YL Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-insignia-ns-pcy5bma2-printer-drivers-installation-guide-for-windows-11-10-and-7/"><u>Free Insignia NS-PCY5BMA2 Printer Drivers: Installation Guide for Windows 11, 10 & 7</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-motorola-defy-2-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Motorola Defy 2 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-silent-chrome-fixing-missing-audio-on-your-browser/"><u>Resolving Silent Chrome: Fixing Missing Audio on Your Browser</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-download-and-setup-brother-mfc-7360n-drivers-for-widows-1187/"><u>Step-by-Step: Download and Setup Brother MFC-7360N Drivers for Widows 11/8/7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/successful-guide-elan-smbus-driver-installation-and-updates-on-windows/"><u>Successful Guide: ELAN SMBus Driver Installation & Updates on Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/unlock-your-phones-potential-with-exclusive-free-music-downloads/"><u>Unlock Your Phone's Potential with Exclusive Free Music Downloads</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-apple-homepod-mini-experience-a-deep-dive-into-audio-quality-and-voice-controls/"><u>Unveiling the Apple HomePod Mini Experience: A Deep Dive Into Audio Quality and Voice Controls</u></a></li>
 </ul></div>
 

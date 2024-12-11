@@ -1,7 +1,7 @@
 ---
 title: "Customizing Brilliance: How an Artistic Modding Transforms a Fractal Design North XL with Radiant RGB Lighting"
-date: 2024-08-19T10:22:14.087Z
-updated: 2024-08-20T10:22:14.087Z
+date: 2024-12-10T06:20:35.486Z
+updated: 2024-12-10T23:08:46.710Z
 tags:
   - components
 categories:
@@ -29,6 +29,10 @@ Japan-based SSD maker Nextorage has unveiled an all-new PCIe Gen 4 M.2 SSD aimed
 
  Despite its small size, the new Nextorage drive is one of only a couple of M.2 2230 drives that can hit speeds similar to those of larger outgoing PCIe Gen 4 M.2 2280 class drives and get close to the bandwidth limitations of PCIe Gen 4\. With a read speed of nearly seven and a half gigabytes per second, the G Series ME is the fastest M.2 2230 drive on the market. Its closest competitor is the [Corsair MP600 Mini,](https://tools.techidaily.com) which hits read speeds of 7GB/s flat.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -43,8 +47,6 @@ Japan-based SSD maker Nextorage has unveiled an all-new PCIe Gen 4 M.2 SSD aimed
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -52,8 +54,23 @@ Japan-based SSD maker Nextorage has unveiled an all-new PCIe Gen 4 M.2 SSD aimed
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ecipher-youtubes-mysteries-with-advanced-insights-from-social-blade/"><u>[New] Decipher YouTube's Mysteries with Advanced Insights From Social Blade</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ow-to-elevate-your-youtube-videos-popularity-through-persistent-cc-licensing/"><u>[New] How to Elevate Your YouTube Video's Popularity Through Persistent CC Licensing</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-inconspicuous-storywatchers-choice-apps/"><u>[New] Inconspicuous Storywatcher's Choice Apps</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-picture-perfect-presentations-posting-on-youtube-for-2024/"><u>[New] Picture-Perfect Presentations Posting on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/eeking-outstanding-user-contributions-for-2024/"><u>[New] Seeking Outstanding User Contributions for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-htc-vive-redefining-virtual-playtime-with-unmatched-immersion/"><u>[Updated] In 2024, HTC Vive Redefining Virtual Playtime with Unmatched Immersion</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-critical-review-of-best-screen-capture-tools-in-linux/"><u>2024 Approved Critical Review of Best Screen Capture Tools in Linux</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asus-showcases-exceptional-oled-screen-quality-on-latest-laptop-a-comprehensive-review-from-a-pro-laptop-expert/"><u>Asus Showcases Exceptional OLED Screen Quality on Latest Laptop – A Comprehensive Review From a Pro LAPTOP Expert</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/budget-friendly-hp-probook-x360-for-professionals-refurbished-deal-at-just-230/"><u>Budget-Friendly HP ProBook X360 for Professionals, Refurbished Deal At Just $230!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-meta-launches-top-tier-512gb-quest-3-offers-for-an-unbeatable-october-prime-day-sale-in-virtual-reality/"><u>Exclusive: Meta Launches Top-Tier 512GB Quest 3 Offers for an Unbeatable October Prime Day Sale in Virtual Reality</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-top-tier-virtual-reality-with-metas-exceptional-quest-3-512gb-offer-a-leading-choice-amongst-current-vr-bargains/"><u>Experience Top-Tier Virtual Reality with Meta's Exceptional Quest 3 512GB Offer – A Leading Choice Amongst Current VR Bargains</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-can-you-move-your-existing-windows-os-upgrade-from-an-old-computer-to-another-device-tips-and-tricks/"><u>How Can You Move Your Existing Windows OS Upgrade From an Old Computer to Another Device? - Tips & Tricks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-playback-of-ogg-media-compatible-windows-versions-including-11-10-8-and-7-explained/"><u>Mastering the Playback of OGG Media: Compatible Windows Versions Including 11, 10, 8, and 7 Explained!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/snag-metas-top-tier-october-sale-exclusive-offer-on-512gb-quest-3-a-game-changer-for-virtual-reality-enthusiasts/"><u>Snag Meta's Top-Tier October Sale: Exclusive Offer on 512GB Quest 3 - A Game Changer for Virtual Reality Enthusiasts!</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/value-vs-trustworthiness-the-thermopro-tp-67-temperature-gauge-reviewed/"><u>Value Vs. Trustworthiness: The ThermoPro TP 67 Temperature Gauge Reviewed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/whats-in-store-for-tech-enthusiasts-anticipating-apples-october-reveals-next-gen-m4-mac-mini-revamped-ipads-and-ai-developments-expert-analysis/"><u>What's in Store for Tech Enthusiasts: Anticipating Apple's October Reveals – Next-Gen M4 Mac Mini, Revamped iPads & AI Developments – Expert Analysis</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->

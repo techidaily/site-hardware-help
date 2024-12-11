@@ -1,7 +1,7 @@
 ---
 title: "Tom's Computing Experts: Unveiling the Latest in Hardware Technology"
-date: 2024-08-19T10:23:36.759Z
-updated: 2024-08-20T10:23:36.759Z
+date: 2024-12-08T08:10:21.731Z
+updated: 2024-12-11T08:39:25.245Z
 tags:
   - build
 categories:
@@ -15,9 +15,17 @@ thumbnail: https://thmb.techidaily.com/f5fbbf41453d9824bf6879798120e6de2082db27f
 
 ![](https://cdn.mos.cms.futurecdn.net/8uwXgGgUvFKmaEtYiubBDA-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##
 
 ![](https://cdn.mos.cms.futurecdn.net/gRWZJtRVgRiLT8Rc7hcKrV-320-80.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## System Builder Marathon Q4 2015
 
@@ -37,9 +45,6 @@ thumbnail: https://thmb.techidaily.com/f5fbbf41453d9824bf6879798120e6de2082db27f
 
 ![](https://cdn.mos.cms.futurecdn.net/vaZRhuXWqcyB98KdTMVaK3-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  For your bonus build pleasure, here's the conclusion to the Munchkin Saga, Episode III: Revenge of 860K.
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
@@ -93,12 +98,13 @@ Deepcool Gamer Storm Gabriel
 
  Some of you out there might be groaning and asking, "What, this again?" Hold on a minute. Those asking for a better 860K overclock have a valid argument. The 860K was handicapped last quarter with insufficient cooling to get any kind of meaningful overclock. You can't argue with that. This time around the CPU gets better treatment in the form of an aftermarket cooler and a larger case. So no, we're not trying the exact same thing and expecting different results. Do I expect the 860K to outperform the i3-4170? No, I don't. However, in order for me to prove that one way or the other, I need hard numbers and data. I'm curious to see if it can close the gap, if not overcome it.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Alternate Component Selection
 
  I don't need to spend time explaining the same parts from[two days ago](https://tools.techidaily.com) . To save space and time, I'll only address the three new components.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
@@ -127,9 +133,9 @@ Deepcool Gamer Storm Gabriel
 [View Deal](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-8198437440134718399%26murl%3Dhttp%253A%252F%252Fwww.newegg.com%252FProduct%252FProduct.aspx%253Fcm%255Fmmc%253Dbac-tomshardwaresbm-%255F-systembuildereditorial-%255F-CPU%2BFans%2B%2526%2BHeatsinks-%255F-N82E16835856007%2526Item%253DN82E16835856007%2526IsFeedbackTab%253DTrue%2526nm%255Fmc%253DExtBanner)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Assembly
 
  The only significant change in assembly of this against the Intel build is the CPU cooler. And I ran into fitment issues with it. While I specifically got the low profile version Ballistix memory kit, AMD's rectangular mounting bracket meant the cooler could only be installed in two orientations. Both are problematic with this motherboard. The Gabriel is thinnest on the end opposite of the heat pipe curve. This part extends farthest from the CPU socket and can clear most RAM modules. On either side, the fins have a small step making them a little thicker. This edge of the cooler is a millimeter or two too thick to fully clear the RAM on the side, touching the very top edge of the RAM heat spreader.
@@ -140,17 +146,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://cdn.mos.cms.futurecdn.net/EkXfRYe3XW8vhT2PuH7XkJ-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
  The rest of the assembly went just peachy. The slightly different port layout of the motherboard necessitated different cable routing, but that's it. Everything else is the exact same as the Intel build from a few days ago.
 
 ![](https://cdn.mos.cms.futurecdn.net/kiyNGE2ogxSRTZjnNEBoST-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Overclocking
 
@@ -166,14 +168,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The RAM caused me no end of heartburn and frustration. I kept running into seemingly random crashes, regardless of RAM timings. I worried the RAM was somehow bad, but it worked flawlessly in the Intel build. After a quick appeal for help to Thomas, I found the motherboard simply required at least 1.64V to run the RAM, even at stock speeds. Again, the Intel build had no problem with 1.5V. I've never seen a motherboard that's more stable overclocked than at stock speeds, until now.
 
  My system this time around was only capable of reaching DDR3-2133, a bit shy of the 2400 speeds I got last quarter. I did get respectable timings of 10-11-10-31, but that was the limit. Along with the RAM, I upped the northbridge from 1800 to 2000MHz with only a slight bump in voltage to 1.1625V. I wasn't trying to match the frequency of last quarter, I simply couldn't boot the machine at anything past 2000MHz.
@@ -186,8 +186,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -195,4 +193,23 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-beneath-the-spotlight-top-youtube-events-after-vidcon/"><u>[Updated] 2024 Approved Beneath the Spotlight Top YouTube Events After VidCon</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-digital-dynamo-women-the-fastest-growing-female-channel-owners/"><u>[Updated] Digital Dynamo Women The Fastest-Growing Female Channel Owners</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-comprehensive-guide-sending-and-receiving-imessage-on-windows-os-tips-from-zdnet/"><u>A Comprehensive Guide: Sending & Receiving iMessage on Windows OS - Tips From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/bringing-retro-tech-jargon-back-to-life-with-affordable-laptops-a-closer-look-by-zdnet/"><u>Bringing Retro Tech Jargon Back to Life with Affordable Laptops - A Closer Look by ZDNet</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/dive-into-diverse-languages-with-googles-editor-selection-mondly/"><u>Dive Into Diverse Languages With Google's Editor Selection - Mondly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-lenovos-groundbreaking-auto-swivel-laptop-unveiled-at-ifa-2n-2024-insider-scoop-from-the-showfloor/"><u>Exploring Lenovo's Groundbreaking Auto-Swivel Laptop Unveiled at IFA 2N 2024 – Insider Scoop From the Showfloor</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gfxui-lockup-on-win-os-solution-closeby/"><u>GFXUI Lockup on Win OS (Solution Closeby)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-lava-storm-5g-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-join-the-fortune-changing-club-free-50-banners-await/"><u>In 2024, Join The Fortune-Changing Club Free 50 Banners Await</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/leading-antivirus-protection-reviewed-find-your-ultimate-defense/"><u>Leading Antivirus Protection Reviewed: Find Your Ultimate Defense</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ring-time-management-for-youtubers-with-day-jobs/"><u>Mastering Time Management for YouTubers with Day Jobs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/slash-your-tech-expenses-with-a-simple-50-gadget-discover-how-in-our-latest-review/"><u>Slash Your Tech Expenses with a Simple $50 Gadget - Discover How in Our Latest Review!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-35-unbeatable-cyber-monday-bargains-on-dell-products-from-top-retailers-like-best-buy-and-amazon/"><u>Top 35 Unbeatable Cyber Monday Bargains on Dell Products From Top Retailers Like Best Buy & Amazon</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-mac-software-picks-recommendations/"><u>Top-Rated Mac Software Picks - Recommendations</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-choosing-the-perfect-college-laptop-in-depth-analysis-and-expert-opinions/"><u>Ultimate Guide to Choosing the Perfect College Laptop: In-Depth Analysis and Expert Opinions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-troubleshooting-guide-solving-your-cs-go-launch-problems/"><u>Ultimate Troubleshooting Guide: Solving Your CS: GO Launch Problems</u></a></li>
+</ul></div>
 

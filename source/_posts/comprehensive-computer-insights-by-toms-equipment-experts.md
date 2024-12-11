@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Computer Insights by Tom’s Equipment Experts
-date: 2024-08-19T10:22:37.509Z
-updated: 2024-08-20T10:22:37.509Z
+date: 2024-12-07T04:11:34.595Z
+updated: 2024-12-11T07:20:44.236Z
 tags:
   - cases
 categories:
@@ -57,6 +57,10 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 
 ![Fractal Design Terra](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  So, about the Terra's adjustable spine: In order to make the absolute best possible use of the case's scant 6.02-inch width, a single piece of metal is where you'll mount the Mini-ITX motherboard, on one side, and your graphics card on the other (a PCIe 4 riser cable comes pre-installed). And by loosening two screws on the top and two on the bottom (easy to spot as they sit atop orange plastic spacers), you can move that spine to one of seven different evenly spaced positions to give you more room on the CPU and PSU side, or more room on the graphics card side.
@@ -68,8 +72,9 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
  While I didn't have the time to put together a full review before heading off to Computex, Fractal did send the case ahead of the launch date and, space constraints aside, there's a lot I like about it. It's surprisingly easy to build in for such a small chassis.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -82,16 +87,10 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 
 ![Fractal Design Terra](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Fractal Design Terra](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  As you've probably noticed in the photos, the side panels flip up gull-wing style, and the rear of the frame is spring-mounted, so if you push back on the hinges, you can remove the side doors completely. Similarly, the top panel pulls back (via a stylish and handy faux-leather tab) and lifts off, giving you full access to three sides of the case for the build process.
@@ -99,8 +98,9 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 ![Fractal Design Terra](https://cdn.mos.cms.futurecdn.net/GGZ7h2GYJ9xDyuCYcbGRUQ-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  Mini-ITX motherboard installation is dead simple. You'll want to install your cooler, RAM and any M.2 drives on the board first, then flip the case on its side and the motherboard drops right in, to be anchored via four screws on the pre-installed standoffs. Again, CPU cooler space is extremely limited. I installed a[Thermalright AXP90-X47](http://www.thermalright.com/product/axp90-x47/) cooler for my Ryzen 5 5600 CPU, but the smaller AMD Wraith or Intel stock coolers should fit here just fine (again, depending on how much GPU space you need on the other side, so be sure to double-check those numbers).
@@ -108,6 +108,10 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
  Once the motherboard is in you can wedge the connector for the pre-installed Gen 4 GPU riser cable into the slot on the motherboard, which is at the top here. Since the motherboard installs on what traditionally would be the rear side of a PC case, it's rotated 180 degrees from the typical orientation.
 
 ![Fractal Design Terra](https://cdn.mos.cms.futurecdn.net/hQRNNowsajoJZWAxs2Kk3R-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -126,8 +130,9 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 ![Fractal Design Terra](https://cdn.mos.cms.futurecdn.net/cy4rnk357zphPGMR6K8oaQ-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  There's no[audio](https://tools.techidaily.com) jack here, which may bother some. But as this is a tiny case that's clearly designed to sit on your desk, the audio jacks on the motherboard aren't much more than a foot away at the back of the case. Part of me wants to see more USB ports up front, but again, those are within fairly easy reach around the back.  
@@ -136,9 +141,6 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 
 ![Fractal Design Terra](https://cdn.mos.cms.futurecdn.net/PiQcTyM4XVJgWtYgom3aGQ-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  All in all, the Fractal Terra is a striking and mostly well-thought-out Mini-ITX case. I doubt it will have as wide an appeal as its larger North cousin since component and airflow options are far more limiting here. But if you don't need to pack in the absolute most powerful components (particularly on the CPU side) and you don't need more than a few storage drives, Fractal has once again delivered one of the prettiest cases available – especially if you want a respite from the RGB and aggressive designs that dominate the gaming side of the PC realm.
@@ -153,8 +155,6 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +162,18 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-crafting-captivating-reels-musical-integration-strategies/"><u>[Updated] Crafting Captivating Reels Musical Integration Strategies</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-net-adapter-fb-stories-saver-app/"><u>[Updated] Net Adapter FB Stories Saver App</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hatch-humorous-habits/"><u>2024 Approved Hatch Humorous Habits</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/cyber-mondays-finest-discover-the-best-laptops-under-1000-at-costco-amazon-and-dell-as-featured-by-zdnet/"><u>Cyber Monday's Finest: Discover the Best Laptops Under $1,000 at Costco, Amazon, and Dell as Featured by ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-securely-erase-all-personal-information-from-your-windows-laptop-a-step-by-step-guide-completely-gratis/"><u>How to Securely Erase All Personal Information From Your Windows Laptop: A Step-by-Step Guide, Completely Gratis</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/linkedin-image-aspect-ratios-explained-for-2024/"><u>LinkedIn Image Aspect Ratios Explained for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/massive-black-friday-blowout-snag-the-lenovo-thinkpad-x1-gen/"><u>Massive Black Friday Blowout: Snag the Lenovo ThinkPad X1 Gen</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-filmora-watermark-how-to-bypass-or-remove-it-permanently/"><u>New In 2024, Filmora Watermark How to Bypass or Remove It Permanently</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/slash-the-price-hps-new-victus-15-game-laptop-hits-530-markdown-at-best-buy-insights/"><u>Slash the Price: HP's New Victus 15 Game Laptop Hits $530 Markdown at Best Buy, Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-must-have-accessories-for-your-laptops-supporting-stunning-8k-monitor-compatibility-insider-tips/"><u>Top Rated Must-Have Accessories for Your Laptops, Supporting Stunning 8K Monitor Compatibility Insider Tips</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-iphone-14-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud From your iPhone 14</u></a></li>
+</ul></div>
 

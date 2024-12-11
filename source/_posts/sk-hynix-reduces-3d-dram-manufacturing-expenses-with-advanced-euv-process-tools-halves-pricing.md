@@ -1,7 +1,7 @@
 ---
 title: SK Hynix Reduces 3D DRAM Manufacturing Expenses with Advanced EUV Process Tools, Halves Pricing
-date: 2024-08-19T10:22:16.255Z
-updated: 2024-08-20T10:22:16.255Z
+date: 2024-12-10T08:37:30.071Z
+updated: 2024-12-10T17:47:22.410Z
 tags:
   - components
 categories:
@@ -24,6 +24,10 @@ Best Graphics Card Deals
   
  We're seeing a lot better value on AMD cards than on Nvidia-powered offerings, but you can still find some savings on RTX cards. We're highlighting all of the best graphics card deals below. Also, check out our list of[best graphics cards](https://tools.techidaily.com) and our[GPU benchmark hierarchy](https://tools.techidaily.com) to see evergreen performance data regardless of sales.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Graphics Card Deals: Quick Links
 
 * **Amazon:** [RTX 4070 from $549](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fs%3Fk%3DGeForce%2BRTX%2B4070%26rh%3Dn%253A284822%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-6548013207339985029-20)
@@ -32,6 +36,10 @@ Best Graphics Card Deals
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Lowest Graphics Card Prices by GPU
 
  Why you can trust Tom's Hardware  Our expert reviewers spend hours testing and comparing products and services so you can choose the best for you.[Find out more about how we test](https://tools.techidaily.com) .
@@ -39,8 +47,9 @@ Best Graphics Card Deals
  We've highlighted our favorite deals below, but if you're trying to find the lowest price on a particular GPU right now, we've got tables below for all the major Nvidia and AMD cards. Each card's performance is listed, using the combined (geometric mean) of the 1080p and 1440p fps from our[GPU benchmarks hierarchy](https://tools.techidaily.com) .
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Best Nvidia Graphics Card Prices
 
  Swipe to scroll horizontally
@@ -61,8 +70,9 @@ Best Graphics Card Deals
  Nvidia's graphics cards — both the new RTX 4090/4080 and the previous generation RTX 30-series — often tend to be overpriced. We've axed the 30-series, as those cards have been displaced by the newer, better, and often cheaper 40-series parts. The[RTX 4070](https://tools.techidaily.com) for instance trades blows with the RTX 3080 10GB, costs at least $100 less, and uses 30% less power; it also supports DLSS 3 Frame Generation and some other new features. Similar arguments can be made for the RTX 4060 Ti against the RTX 3060 Ti, RTX 4070 Ti against the RTX 3090, or the RTX 4080 and 4090 against any previous generation part.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Best AMD Graphics Card Prices
 
  Swipe to scroll horizontally
@@ -79,9 +89,6 @@ Best Graphics Card Deals
 
  AMD often offers more value for your money, and it has some excellent deals in the budget to midrange bracket. All of AMD's GPUs are selling below their original MSRPs these days, which they should be considering some of the GPUs have been out for a while now. Of course, some of those MSRPs were inflated thanks to the price rises from the GPU shortages of the past.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Best Intel Graphics Card Prices
 
  Swipe to scroll horizontally
@@ -99,8 +106,9 @@ Best Graphics Card Deals
  Performance from Arc GPUs continues to improve, with the A750 and A770 generally beating Nvidia's RTX 3060\. They cost less than the Nvidia card as well, and (usually) deliver superior ray tracing performance compared to AMD's GPUs. But with rasterization performance roughly matching the RX 6650 XT, the Arc 700-series at best looks like a tie with the 6000-series generation AMD competition.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Best Graphics Card Deals
 
 [Gigabyte Nvidia RTX 4090 Windforce V2: now $1,699 at Newegg](https://cdn.mos.cms.futurecdn.net/7sMqa4qSM2JZewLFi9rYpJ-200-100.png "Gigabyte Nvidia RTX 4090 Windforce V2: now $1,699 at Newegg") ](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-9687795623086258038%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fgigabyte-geforce-rtx-4090-gv-n4090wf3v2-24gd%252Fp%252FN82E16814932625)
@@ -146,9 +154,6 @@ _**Cores/Stream Processors:**_ _3456_
 
 [View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB0CHK2345D%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-2187404422149171234-20)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ### What to Look for in a Graphics Card Deal
 
 When shopping for a graphics card, consider the following.
@@ -167,8 +172,6 @@ When shopping for a graphics card, consider the following.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,4 +179,21 @@ When shopping for a graphics card, consider the following.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-top-ranked-mac-pro-video-maker-plus-audio/"><u>[New] In 2024, Top-Ranked Mac Pro Video Maker Plus Audio</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-drone-motor-choose-the-5-best-motors-for-your-quadcopter/"><u>[Updated] 2024 Approved Drone Motor Choose the 5 Best Motors for Your Quadcopter</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-screen-scanning-with-fraps-a-critical-review/"><u>[Updated] 2024 Approved Screen Scanning with Fraps A Critical Review</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/convert-your-laptop-into-a-high-performance-desktop-with-the-ultimate-discrete-docking-station-insights-from-zdnet/"><u>Convert Your Laptop Into a High-Performance Desktop with the Ultimate Discrete Docking Station - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/early-bird-special-apples-latest-799-m2-macbook-air-out-now-beating-octobers-prime-day-deals-zdnet-insights/"><u>Early Bird Special: Apple's Latest $799 M2 MacBook Air Out Now, Beating October's Prime Day Deals - ZDNET Insights</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-lava-yuva-2-pro-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Lava Yuva 2 Pro to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-tecno-pova-6-pro-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Tecno Pova 6 Pro 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ustream-review-and-alternatives/"><u>In 2024, Ustream Review and Alternatives</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ipad-pro-versus-macbook-air-showdown-determining-your-ideal-device-with-expert-insights/"><u>IPad Pro versus MacBook Air Showdown: Determining Your Ideal Device with Expert Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/last-chance-to-grab-hot-deals-on-black-friday-top-17-bargains-including-hdtvs-and-sound-gear-insider-info/"><u>Last Chance to Grab Hot Deals on Black Friday: Top 17 Bargains Including HDTVs and Sound Gear - Insider Info</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-oppo-find-x7-ultra-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Oppo Find X7 Ultra to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revolutionary-accessory-enables-dual-4k-displays-on-unsupported-laptops-featured/"><u>Revolutionary Accessory Enables Dual 4K Displays on Unsupported Laptops, Featured</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-prime-day-video-game-discounts-of-october-2024-exclusive-sneak-peek/"><u>Top Prime Day Video Game Discounts of October 2024 - Exclusive Sneak Peek</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Asus Pro B760M-CT CSM Mainboard Evaluation - Unleashing the Power of CSM
-date: 2024-08-19T10:22:00.871Z
-updated: 2024-08-20T10:22:00.871Z
+date: 2024-12-08T05:18:59.623Z
+updated: 2024-12-10T18:49:14.861Z
 tags:
   - components
 categories:
@@ -29,6 +29,10 @@ Japan-based SSD maker Nextorage has unveiled an all-new PCIe Gen 4 M.2 SSD aimed
 
  Despite its small size, the new Nextorage drive is one of only a couple of M.2 2230 drives that can hit speeds similar to those of larger outgoing PCIe Gen 4 M.2 2280 class drives and get close to the bandwidth limitations of PCIe Gen 4\. With a read speed of nearly seven and a half gigabytes per second, the G Series ME is the fastest M.2 2230 drive on the market. Its closest competitor is the [Corsair MP600 Mini,](https://tools.techidaily.com) which hits read speeds of 7GB/s flat.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -43,8 +47,6 @@ Japan-based SSD maker Nextorage has unveiled an all-new PCIe Gen 4 M.2 SSD aimed
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -52,8 +54,23 @@ Japan-based SSD maker Nextorage has unveiled an all-new PCIe Gen 4 M.2 SSD aimed
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-essentials-in-filming-adventure-vlogs-for-2024/"><u>[Updated] Essentials in Filming Adventure Vlogs for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/are-microsofts-surface-devices-redefining-ai-computing-the-implications-for-apple-and-beyond-insights/"><u>Are Microsoft's Surface Devices Redefining AI Computing? The Implications for Apple & Beyond Insights</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-samsung-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Samsung</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhancing-distance-collaboration-for-engineers-using-vr-and-digital-twins-articles-from-zdnet/"><u>Enhancing Distance Collaboration for Engineers Using VR and Digital Twins | Articles From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exciting-update-microsoft-introduces-surface-devices-and-copilot-for-enterprise-customers-discover-the-latest-features-zdnet/"><u>Exciting Update: Microsoft Introduces Surface Devices & Copilot for Enterprise Customers - Discover the Latest Features! [ZDNet]</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/master-multiple-languages-quickly-and-quietly-with-the-best-3-platforms/"><u>Master Multiple Languages Quickly & Quietly With the Best 3 Platforms!</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-capturing-and-sharing-ps4-screenshots-the-ultimate-guide/"><u>New 2024 Approved Capturing and Sharing PS4 Screenshots The Ultimate Guide</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-mastering-fcp-5-essential-editing-techniques-for-2024/"><u>New Mastering FCP 5 Essential Editing Techniques for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/october-primed-for-metas-unbeatable-512gb-quest-3-offer-this-vr-shopping-season-zdnet-insights/"><u>October Primed for Meta's Unbeatable 512GB Quest 3 Offer This VR Shopping Season - ZDNet Insights</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/optimizing-performance-directx-gpu-activation-issues-with-cod-warzone-on-windows-11/"><u>Optimizing Performance: DirectX GPU Activation Issues with COD: Warzone on Windows 11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/osblend-the-vmix-alternative-for-2024/"><u>OSBlend The VMix Alternative for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revolutionizing-portability-and-power-an-amazing-non-macbook-device-that-outshines-the-classic-macbook-experience/"><u>Revolutionizing Portability & Power: An Amazing Non-MacBook Device That Outshines the Classic MacBook Experience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/sale-alert-snag-the-discounted-8tb-samsung-portable-ssd-save-36-on-amazon-zdnet-coverage/"><u>Sale Alert: Snag the Discounted 8TB Samsung Portable SSD - Save 36% on Amazon (ZDNet Coverage)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-choosing-the-perfect-featherlight-laptop-for-mobile-professionals-techradar/"><u>The Ultimate Guide to Choosing the Perfect Featherlight Laptop for Mobile Professionals | TechRadar</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/upgrade-gifs-seamlessly-to-mkv-format-a-complimentary-guide-using-movenavi-software/"><u>Upgrade GIFs Seamlessly to MKV Format - A Complimentary Guide Using MoveNavi Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/why-the-hp-spectre-x3-is-dominating-as-a-favorite-laptop-of-the-year-latest-review/"><u>Why the HP Spectre X3) Is Dominating as a Favorite Laptop of the Year Latest Review</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: MSI Acknowledges Defective Cooling Solution in Z790 Motherboards - Initiates Unit Recall
-date: 2024-08-19T10:28:15.508Z
-updated: 2024-08-20T10:28:15.508Z
+date: 2024-12-06T01:11:32.622Z
+updated: 2024-12-10T23:01:40.167Z
 tags:
   - motherboards
 categories:
@@ -47,6 +47,10 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
 
  The fact is, Loongson has developed its own CPU just a few generations behind Intel and AMD. Considering the Chinese firm has to work around U.S. sanctions and claims to insist on doing everything based on its own IP, the performance could actually be considered impressive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -63,8 +67,6 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -72,8 +74,22 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/nparalleled-asmr-channel-selection/"><u>[New] Unparalleled ASMR Channel Selection</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-deciphering-how-to-spot-your-video-enthusiasts-for-2024/"><u>[Updated] Deciphering How to Spot Your Video Enthusiasts for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-achieving-a-natural-sound-curve-dimming-audio-smoothly/"><u>2024 Approved Achieving a Natural Sound Curve Dimming Audio Smoothly</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-launching-educator-channels-10-key-tips-for-youtube-success/"><u>2024 Approved Launching Educator Channels 10 Key Tips for YouTube Success</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/australian-vernacular-saying-it-right/"><u>Australian Vernacular: Saying It Right</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/efficient-techniques-for-saving-online-meeting-transcripts-for-2024/"><u>Efficient Techniques for Saving Online Meeting Transcripts for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/huge-savings-snag-the-ultimate-gamer-and-vlogger-pc-at-a-breathtakingly-discounted-price-with-zdnet/"><u>Huge Savings: Snag the Ultimate Gamer & Vlogger PC at a Breathtakingly Discounted Price with ZDNet!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hybrid-work-made-easy-with-these-discounted-lenovo-laptops-dont-miss-out-on-the-savings/"><u>Hybrid Work Made Easy with These Discounted Lenovo Laptops – Don't Miss Out on the Savings!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-6s-drfone-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/innovative-lenovo-yoga-book-9i-examined-embracing-the-future-of-dual-screen-tech-in-computers-insights-from-a-zdnet-review/"><u>Innovative Lenovo Yoga Book 9I Examined: Embracing the Future of Dual-Screen Tech in Computers - Insights From a ZDNet Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/inside-the-world-of-compact-cameras-how-a-tiny-tech-gem-became-surprisingly-adaptable/"><u>Inside the World of Compact Cameras: How a Tiny Tech Gem Became Surprisingly Adaptable</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/long-lasting-laptop-charger-on-steep-discount-secure-your-purchase-with-proven-satisfaction/"><u>Long-Lasting Laptop Charger on Steep Discount - Secure Your Purchase with Proven Satisfaction!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/overcoming-compatibility-problems-fixing-your-pc-app-launch-failures/"><u>Overcoming Compatibility Problems - Fixing Your PC App Launch Failures</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/score-big-on-prime-day-snap-up-metas-steal-of-a-deal-for-the-high-capacity-512gb-oculus-quest-3-at-unbeatable-prices-news/"><u>Score Big on Prime Day! Snap Up Meta's Steal of a Deal for the High-Capacity 512GB Oculus Quest 3 at Unbeatable Prices News</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/universal-unlock-pattern-for-poco-c50-by-drfone-android/"><u>Universal Unlock Pattern for Poco C50</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->

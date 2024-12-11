@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Reviews: Expert Insights on Computer Components and Gadgets"
-date: 2024-08-19T10:26:26.257Z
-updated: 2024-08-20T10:26:26.257Z
+date: 2024-12-05T17:39:56.320Z
+updated: 2024-12-10T23:23:58.082Z
 tags:
   - ssd
 categories:
@@ -46,9 +46,17 @@ AGI is a memory technology brand we’ve heard of but never tested... until toda
 
 * [AGI AI818 2TB SSD at Newegg for $114.99](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Flink%3Fid%3DkXQk6%252AivFEQ%26offerid%3D1531483.445838636436816353697968%26type%3D15%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fagi-2tb-ai818-43%252Fp%252F0D9-010F-00011%253Fitem%253D9SIBM90K3J6368%26u1%3Dtomshardware-us-1398768948128134202)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Software and Accessories
 
  AGI does not appear to offer any direct software downloads on its site, but there are free alternatives. We recommend CrystalDiskInfo for basic drive information including SMART health status. For imaging and cloning,[Clonezilla](https://tools.techidaily.com) should do the trick.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## AGI AI818 — A Closer Look
 
@@ -56,23 +64,22 @@ AGI is a memory technology brand we’ve heard of but never tested... until toda
 
 ![AGI AI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![AGI AI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![AGI AGI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  It's not the worst label we’ve ever seen. The drive is at least single-sided, which means it could work with a wider range of[laptops](https://tools.techidaily.com) . It should also be fine in the PS5\. However, we suspect a heatsink might be desirable, which makes it less palatable for a laptop. The label is supposedly graphene-based, which may help keep it from overheating in airy desktops at least.
@@ -82,15 +89,13 @@ AGI is a memory technology brand we’ve heard of but never tested... until toda
 ![AGI AI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![AGI AI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  We weren’t too sure what flash to expect on this drive as it launched with YMTC’s 128-Layer TLC (X2-9060), at least at some capacities. There are two 1TB SKUs and one of them uses QLC instead. The drive launched with the Maxio MAP1602 controller, down-bussed to 1,600 MT/s to match that particular TLC flash. It’s possible this drive will have other variations in hardware but we’re looking at what is being delivered today, which certainly is an interesting combination.  
@@ -155,16 +160,11 @@ powered by
 
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -173,4 +173,19 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-overcoming-instagrams-video-length-restrictions/"><u>[New] Overcoming Instagram's Video Length Restrictions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-brand-visualization-inserting-watermarks-and-logos-into-youtube-media/"><u>[Updated] 2024 Approved Brand Visualization Inserting Watermarks and Logos Into YouTube Media</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-full-time-employees-guide-to-video-content-success/"><u>2024 Approved The Full-Time Employee's Guide to Video Content Success</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciphering-chatgpts-next-level-in-verified-world/"><u>Deciphering ChatGPT's Next Level in Verified World</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-vivid-visual-delight-with-asus-new-laptop-top-rated-for-its-exceptional-oled-screen-rigorously-tested-against-100plus-competitors/"><u>Experience Vivid Visual Delight with Asus' New Laptop - Top-Rated for Its Exceptional OLED Screen, Rigorously Tested Against 100+ Competitors</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/huge-savings-on-cyber-monday-snag-an-hp-pavilion-laptop-for-just-450-astonishing-50-discount-technews/"><u>Huge Savings on Cyber Monday: Snag an HP Pavilion Laptop for Just $450 - Astonishing 50% Discount | TechNews</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/huge-savings-uncovered-the-8tb-samsung-t5-portable-ssd-now-36-cheaper-after-prime-day-ends-insights-tech-analysis/"><u>Huge Savings Uncovered: The 8TB Samsung T5 Portable SSD, Now 36% Cheaper After Prime Day Ends | Insights Tech Analysis</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-image-magic-top-10-frame-enhancement-tools-online/"><u>In 2024, Image Magic Top 10 Frame-Enhancement Tools Online</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-harmony-of-the-wild-selecting-the-very-best-ios-and-android-nature-audio-apps/"><u>New 2024 Approved Harmony of the Wild Selecting the Very Best iOS & Android Nature Audio Apps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-fixes-for-mac-issues-navigating-macos-startup-recovery-options/"><u>Quick Fixes for Mac Issues: Navigating macOS Startup Recovery Options</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-ultrabooks-comprehensive-tests-and-reviews-by-tech-gurus-picks/"><u>Top-Rated Ultrabooks : Comprehensive Tests & Reviews by Tech Gurus Picks</u></a></li>
+</ul></div>
 

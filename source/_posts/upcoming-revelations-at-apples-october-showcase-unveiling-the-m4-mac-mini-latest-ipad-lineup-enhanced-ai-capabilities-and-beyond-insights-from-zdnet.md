@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Revelations at Apple's October Showcase: Unveiling the M4 Mac Mini, Latest iPad Lineup, Enhanced AI Capabilities & Beyond - Insights From ZDNet"
-date: 2024-11-27T18:01:44.044Z
-updated: 2024-12-05T00:46:26.691Z
+date: 2024-12-10T11:12:07.692Z
+updated: 2024-12-11T05:42:51.438Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,14 +118,22 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-enthralling-3d-experience-selecting-top-blu-ray-decks/"><u>[New] Enthralling 3D Experience Selecting Top Blu-Ray Decks</u></a></li>
-<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-honor-90-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Honor 90 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/crafting-professional-edits-including-sounds-in-premiere-projects/"><u>Crafting Professional Edits Including Sounds in Premiere Projects</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/navigating-video-dimensions-on-instagram-today-and-tomorrow/"><u>Navigating Video Dimensions on Instagram Today & Tomorrow</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/october-prime-deals-alert-apples-latest-m3-macbook-air-now-available-for-250-less-on-amazon-insights/"><u>October Prime Deals Alert: Apple’s Latest M3 MacBook Air Now Available for $250 Less on Amazon - Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/score-the-finest-labor-day-discounts-on-notebook-computers-a-list-of-25-stunning-deals-still-available/"><u>Score the Finest Labor Day Discounts on Notebook Computers: A List of 25 Stunning Deals Still Available!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-making-video-calls-on-your-android-device/"><u>Step-by-Step Guide: Making Video Calls on Your Android Device</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/surprisingly-superior-work-travel-tablets-beyond-the-famous-brands-featured-exclusively-on-zdnet/"><u>Surprisingly Superior Work Travel Tablets Beyond the Famous Brands - Featured Exclusively on ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-oled-laptop-picks-comprehensive-reviews-and-testing-by-tech-experts/"><u>Top-Rated OLED Laptop Picks - Comprehensive Reviews & Testing by Tech Experts</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-efficient-obs-adjustments-on-cost-effective-computers-for-2024/"><u>[New] Efficient OBS Adjustments on Cost-Effective Computers for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-engaging-audiences-the-path-to-instagram-video-fame/"><u>[New] Engaging Audiences The Path to Instagram Video Fame</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-augment-pixel-tiles-with-concentric-blur-magic-ps/"><u>[Updated] 2024 Approved Augment Pixel Tiles with Concentric Blur Magic PS</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-optimizing-your-video-images-for-instagram-highlights/"><u>[Updated] 2024 Approved Optimizing Your Video Images for Instagram Highlights</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-unlinking-from-youtube-shorts-easy-and-permanent/"><u>[Updated] In 2024, Unlinking From YouTube Shorts - Easy and Permanent</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-nvidia-graphics-drivers-compatible-with-windows-11-7-and-8/"><u>Download NVIDIA Graphics Drivers: Compatible with Windows 11, 7 & 8</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-guide-installing-the-latest-version-of-amd-radeon-drivers/"><u>Effortless Guide: Installing the Latest Version of AMD Radeon Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-offer-advanced-drives-for-msi-z370-a-pro-immediate-access-inside/"><u>Exclusive Offer: Advanced Drives for MSI Z370-A PRO - Immediate Access Inside!</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-vivo-y100i-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Vivo Y100i Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pros-and-cons-reviewing-nikon-d7500/"><u>In 2024, Pros & Cons Reviewing Nikon D7500</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-nvidia-graphics-drivers-free-download-and-compatible-with-windows-pcs/"><u>Latest NVIDIA Graphics Drivers - Free Download & Compatible with Windows PCs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/logitech-g-prodigy-g402-drivers-and-downloads-get-started-now/"><u>Logitech G Prodigy (G402) Drivers & Downloads – Get Started Now</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ly-earnings-from-youtube-for-creators-for-2024/"><u>Monthly Earnings From YouTube for Creators for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionizing-image-design-combining-dall-e-with-chatgpt-4/"><u>Revolutionizing Image Design: Combining DALL-E with ChatGPT-4</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-installing-updated-hp-officejet-pro-8620-drivers-on-windows/"><u>Step-by-Step Guide to Installing Updated HP OfficeJet Pro 8620 Drivers on Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/up-to-date-amd-rx-5700-xt-graphics-card-driver-downloads-supporting-windows-111087-platforms/"><u>Up-to-Date AMD RX 5700 XT Graphics Card Driver Downloads Supporting Windows 11/10/8/7 Platforms</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/windows-10-gamers-rejoice-free-steelseries-engine-enhancement-tool-now-available/"><u>Windows 10 Gamers Rejoice: Free SteelSeries Engine Enhancement Tool Now Available!</u></a></li>
 </ul></div>
 

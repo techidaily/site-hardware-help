@@ -1,7 +1,7 @@
 ---
 title: "Unleash Lightning-Fast Speeds with the New MSI Spatium M580 Frozr: A Revolutionary PCIe Gen 5 SSD Delivering Up to 14.6GB/S Read & 12.7GB/S Write"
-date: 2024-08-19T10:27:19.711Z
-updated: 2024-08-20T10:27:19.711Z
+date: 2024-12-10T05:59:20.341Z
+updated: 2024-12-11T02:48:16.210Z
 tags:
   - ssd
 categories:
@@ -42,6 +42,10 @@ NEM-PA8TB  (Image credit: Nextorage)
 
  The NEM-PA8TB is already available on[Amazon](https://tools.techidaily.com) for[$849.99](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB0CTGTNSDX%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1185771451787124906-20) . The vanilla NE1N8TB, however, hasn't gone up at any U.S. retailers. In Japan, the NEM-PA8TB costs[2,000 yen](https://go.redirectingat.com/?id=92X1584492&xcust=tomshardware%5Fus%5F1271651936150678199&xs=1&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0CTGV11V4%3Fth%3D1&sref=https%3A%2F%2Fwww.tomshardware.com%2Fpc-components%2Fssds%2Fnextorage-launches-8tb-ssd-for-pc-gamers-and-ps5-owners-dollar849-for-8tb-of-storage-at-7300-mbs) more than the NE1N8TB, which is around $13.34\. Therefore, the NE1N8TB could retail for about the $836.65 mark.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -56,8 +60,6 @@ NEM-PA8TB  (Image credit: Nextorage)
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -65,8 +67,18 @@ NEM-PA8TB  (Image credit: Nextorage)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-leading-software-lineup-8-linux-editing-sleuths/"><u>[New] 2024 Approved Leading Software Lineup 8 Linux Editing Sleuths</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-optimizing-television-access-to-facebook-events-for-2024/"><u>[Updated] Optimizing Television Access to Facebook Events for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-from-novice-to-pro-ps4-recordings-using-obs-studio/"><u>2024 Approved From Novice to Pro PS4 Recordings Using OBS Studio</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-movie-substitutes-to-explore-top-7-choices/"><u>2024 Approved Movie Substitutes to Explore - Top 7 Choices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amazons-hottest-bargains-pre-prime-day-2024-unveiled-gizmodo-deals-guide/"><u>Amazon's Hottest Bargains Pre-Prime Day 2024 Unveiled | Gizmodo Deals Guide</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-motorola-moto-g34-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Motorola Moto G34 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discounted-delight-apple-m3-macbook-air-slashed-by-250-in-octobers-exclusive-amazon-prime-event-insights/"><u>Discounted Delight: Apple M3 MacBook Air Slashed by $250 in October's Exclusive Amazon Prime Event - Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-ultimate-game-sound-top-rated-gaming-speakers-on-sale-at-best-buy-exclusively-featured/"><u>Experience Ultimate Game Sound: Top-Rated Gaming Speakers On Sale At Best Buy - Exclusively Featured !</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-the-laptop-that-beats-apples-macbook-air-cost-vs-power-comparison-insights/"><u>Exploring the Laptop That Beats Apple's MacBook Air: Cost vs Power Comparison | Insights</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-spark-10-pro-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Tecno Spark 10 Pro Phone without PIN</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unleash-ultra-fast-storage-grab-the-massive-8tb-samsung-t5-ssd-for-36-less-on-amazon-featured-by-zdnet/"><u>Unleash Ultra-Fast Storage: Grab the Massive 8TB Samsung T5 SSD for 36% Less on Amazon, Featured by ZDNet</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->

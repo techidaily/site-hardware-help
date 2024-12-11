@@ -1,7 +1,7 @@
 ---
 title: Seize the Savings! Antec Performance Series P2nC Case Slashed to Just $71 for Exceptional Value & Ventilation
-date: 2024-08-19T10:23:09.022Z
-updated: 2024-08-20T10:23:09.022Z
+date: 2024-12-09T16:22:39.302Z
+updated: 2024-12-11T09:25:31.894Z
 tags:
   - cases
 categories:
@@ -28,14 +28,11 @@ With a metal mesh front panel for high airflow, the Antec Performance Series P20
 
  This is a great price for a case that offers all the features of a premium case but at a fraction of the original price.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -44,8 +41,21 @@ With a metal mesh front panel for high airflow, the Antec Performance Series P20
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-top-notch-game-capture-applications-outshining-fbx-capabilities/"><u>[New] 2024 Approved Top-Notch Game Capture Applications Outshining FBX Capabilities</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-ultimate-list-best-virtual-playstation-3-software-for-2024/"><u>[Updated] Ultimate List Best Virtual PlayStation 3 Software for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/anthem-silent-gamers-nightmare-fix-sounds-not-working-on-windows-11-here/"><u>Anthem Silent Gamer's Nightmare? Fix Sounds Not Working on Windows 11 Here</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/circulating-camera-mounts-for-vr-for-2024/"><u>Circulating Camera Mounts for VR for 2024</u></a></li>
+<li><a href="https://win-lab.techidaily.com/defining-digital-infections-the-comparative-analysis-of-malware-versus-viruses-by-malwarefox/"><u>Defining Digital Infections: The Comparative Analysis of Malware Versus Viruses by MalwareFox</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-oppo-reno-11-5g-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Oppo Reno 11 5G</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/last-chance-to-grab-hot-deals-on-black-friday-top-17-bargains-including-hdtvs-and-sound-gear-insider-info/"><u>Last Chance to Grab Hot Deals on Black Friday: Top 17 Bargains Including HDTVs and Sound Gear - Insider Info</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/lenovos-yoga-book-ninespot-transforming-the-future-of-multi-functional-devices-with-its-revolutionary-dual-screens-insights/"><u>Lenovo's Yoga Book Ninespot: Transforming the Future of Multi-Functional Devices with Its Revolutionary Dual Screens | Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/proven-winner-keyboards-for-the-new-year-in-depth-analysis-and-ratings-pcmag/"><u>Proven Winner Keyboards for the New Year: In-Depth Analysis and Ratings | PCMag</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-prime-day-video-game-discounts-of-october-2024-exclusive-sneak-peek/"><u>Top Prime Day Video Game Discounts of October 2024 - Exclusive Sneak Peek</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+

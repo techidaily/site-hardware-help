@@ -1,7 +1,7 @@
 ---
 title: "Beating the MacBook Air: Microsoft Surface Laptop Copilot+ Excelling in Performance, Features & More | ZDNet Review"
-date: 2024-11-27T17:06:22.145Z
-updated: 2024-12-04T21:16:38.056Z
+date: 2024-12-06T01:54:19.562Z
+updated: 2024-12-11T11:19:58.449Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -109,7 +109,7 @@ Gaming is not fully supported by Windows on ARM yet, either. Many titles don't w
 This gets to the meat of the issue here. Yes, the CPU is fast and efficient, and the NPU on these processors runs AI-related tasks better than anything else on the market, but the chips are held back by Windows' functionality (at least for now), and this tension between the two will be at the root cause of a lot of issues until the growing pains subside.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -148,18 +148,18 @@ If you're looking for a Copilot+ PC with a better display, you might want to che
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-best-platforms-for-futuristic-font-designs/"><u>[New] 2024 Approved Best Platforms for Futuristic Font Designs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-tips-for-smooth-transitioning-from-zoom-to-fb-live-events/"><u>[New] Tips for Smooth Transitioning From ZOOM to FB Live Events</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-every-gopro-feature-explained-side-by-side/"><u>[Updated] Every Gopro Feature, Explained Side by Side</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amazons-ongoing-deals-get-your-8tb-samsung-t5-external-ssd-now-for-a-steep-36-off-after-october-prime-extravaganza-insights/"><u>Amazon's Ongoing Deals: Get Your 8TB Samsung T5 External SSD Now for a Steep 36% Off After October Prime Extravaganza Insights</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/cutting-edge-virtuosity-30plus-metaverse-expressions-arvr-for-2024/"><u>Cutting-Edge Virtuosity 30+ Metaverse Expressions [AR/VR] for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-xiaomi-redmi-k70-pro-device-sim-by-drfone-android/"><u>Easily Unlock Your Xiaomi Redmi K70 Pro Device SIM</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-the-apple-m3-macbook-air-top-3-impressive-upgrades-unveiled/"><u>Exploring the Apple M3 MacBook Air: Top 3 Impressive Upgrades Unveiled</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-the-apple-iphone-12-why-its-a-game-changer/"><u>In-Depth Analysis of the Apple iPhone 12: Why It's a Game-Changer</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/in-depth-review-all-new-releases-from-the-latest-samsung-unpacked-event-covering-entire-galaxy-range/"><u>In-Depth Review: All New Releases From the Latest Samsung Unpacked Event Covering Entire Galaxy Range</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/my-switch-to-split-keyboards-one-week-later-and-my-tech-habits-have-never-been-the-same/"><u>My Switch to Split Keyboards: One Week Later and My Tech Habits Have Never Been the Same!</u></a></li>
-<li><a href="https://win-tips.techidaily.com/scanner-problems-what-steps-should-you-take-if-your-scanner-cant-capture-an-image-expert-advice-by-yl-computing/"><u>Scanner Problems: What Steps Should You Take If Your Scanner Can't Capture an Image? – Expert Advice by YL Computing</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/score-the-hp-victus-15-gaming-laptop-at-an-unbeatable-price-of-just-515-during-best-buys-exclusive-anti-black-friday-sale-insights-from-zdnet/"><u>Score the HP Victus 15 Gaming Laptop at an Unbeatable Price of Just $515 During Best Buy's Exclusive Anti-Black Friday Sale - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiled-apple-introduces-the-budget-friendly-m2-macbook-air-at-a-steal-for-799-before-prime-day-extravaganza-insights/"><u>Unveiled: Apple Introduces the Budget-Friendly M2 MacBook Air at a Steal for $799 Before Prime Day Extravaganza - Insights</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-discovering-calmer-video-consumption-three-ways-to-pause-time-56-chars-slightly-over-but-a-minor-exception-due-to-title-length-for-2024/"><u>[New] Discovering Calmer Video Consumption Three Ways to Pause Time (56 Chars, Slightly over but a Minor Exception Due to Title Length) for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-detailed-review-navigating-through-polarrs-features-easily/"><u>[Updated] 2024 Approved Detailed Review Navigating Through Polarr's Features Easily</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-streamlining-your-360-video-process-for-social-media-platforms/"><u>[Updated] In 2024, Streamlining Your 360 Video Process for Social Media Platforms</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-infinix-note-30-vip-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Infinix Note 30 VIP to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/boost-your-workflow-on-the-move-with-the-ultimate-11-port-travel-station-professionals-guide-to-portable-tech-solutions/"><u>Boost Your Workflow on the Move with the Ultimate 11-Port Travel Station | Professional's Guide to Portable Tech Solutions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/corporate-insights-in-depth-microsoft-surface-pro-8-evaluation-on-zdnet/"><u>Corporate Insights: In-Depth Microsoft Surface Pro 8 Evaluation on ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/magicbook-14-review-powerful-14-portable-laptop-with-integrated-graphics-explored-by-zdnet/"><u>MagicBook 14 Review - Powerful 14 Portable Laptop with Integrated Graphics Explored by ZDNet</u></a></li>
+<li><a href="https://driver-download.techidaily.com/seamless-setup-secure-your-wacom-intuos-pro-driver-for-optimal-use-on-windows-10-platforms/"><u>Seamless Setup: Secure Your Wacom Intuos Pro Driver for Optimal Use on Windows 10 Platforms</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-laptops-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top Rated Laptops : Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-laptops-under-700-surprisingly-exceptional-choices-revealed-by-zdnet/"><u>Top-Rated Laptops Under $700: Surprisingly Exceptional Choices Revealed by ZDNet</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-beyond-fcpx-10-video-editing-solutions-for-every-budget/"><u>Updated In 2024, Beyond FCPX 10 Video Editing Solutions for Every Budget</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrade-your-workflow-today-with-a-high-performance-hp-touch-laptop-compatible-mouse-and-essential-microsoft-365-tools-for-just-400-exclusive-offer-inside.m32/"><u>Upgrade Your Workflow Today with a High-Performance HP Touch Laptop, Compatible Mouse, and Essential Microsoft 365 Tools for Just $400 - Exclusive Offer Inside!</u></a></li>
 </ul></div>
 

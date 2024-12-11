@@ -1,7 +1,7 @@
 ---
 title: Expert Insights on the Latest Computer Equipment From Tom's Electronics Hub
-date: 2024-08-19T10:28:02.405Z
-updated: 2024-08-20T10:28:02.405Z
+date: 2024-12-07T18:19:31.356Z
+updated: 2024-12-11T12:09:54.225Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,22 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-masterful-asmr-methods-by-leading-talents-for-2024/"><u>[New] Masterful ASMR Methods by Leading Talents for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-strategies-to-enhance-gopros-electric-efficiency-for-2024/"><u>[Updated] Strategies to Enhance GoPro's Electric Efficiency for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/boost-your-devices-speed-with-this-all-in-one-fast-charger-and-usbhdmi-hub-latest-review/"><u>Boost Your Device's Speed with This All-in-One Fast Charger and USB/HDMI Hub - Latest Review</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/connecting-with-snapchat-customer-service-best-practices-and-methods/"><u>Connecting with Snapchat Customer Service: Best Practices and Methods</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/convert-mp4-videos-into-3gpp3gp-files-for-free-using-the-movavi-video-converter-web-app/"><u>Convert MP4 Videos Into 3GPP/3GP Files for Free Using the Movavi Video Converter Web App</u></a></li>
+<li><a href="https://win-dash.techidaily.com/convert-your-avis-effortlessly-experience-factory-pros-unique-trialpay-offer-for-a-seamless-transition/"><u>Convert Your AVIs Effortlessly – Experience Factory Pro's Unique TrialPay Offer for a Seamless Transition</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-ultra-affordable-macbook-air-priced-just-280-exclusive-scoop-and-deals-from-zdnet/"><u>Discover the Ultra-Affordable MacBook Air Priced Just $280 - Exclusive Scoop and Deals From ZDNet!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/frosty-times-for-pc-manufacturers-ahead-but-that-spells-great-deals-for-consumers-expert-analysis-by-zdnet/"><u>Frosty Times For PC Manufacturers Ahead, But That Spells Great Deals for Consumers | Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/historic-presidents-day-price-drop-score-a-brand-new-2023-m2-macbook-pro-now-for-just-300-less-special-exclusive-at-zdnet/"><u>Historic President's Day Price Drop: Score a Brand New 2023 M2 MacBook Pro Now for Just $300 Less - Special Exclusive at ZDNet!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-motorola-moto-g-stylus-2023-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Motorola Moto G Stylus (2023) by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6-passcode-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6 Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/sharex-review-and-alternatives/"><u>ShareX Review and Alternatives</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-110-unmissable-christmas-bargains-on-tech-and-entertainment-gear-including-smartphones-televisions-computers/"><u>Top 110 Unmissable Christmas Bargains on Tech & Entertainment Gear – Including Smartphones, Televisions, Computers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-durable-computers-a-comprehensive-guide-insights/"><u>Top Durable Computers : A Comprehensive Guide - Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-affordable-gaming-laptops-reviewed-by-experts-zdnet/"><u>Top Rated Affordable Gaming Laptops Reviewed by Experts - ZDNet</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

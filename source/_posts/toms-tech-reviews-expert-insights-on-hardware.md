@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Reviews: Expert Insights on Hardware"
-date: 2024-08-19T10:24:01.592Z
-updated: 2024-08-20T10:24:01.592Z
+date: 2024-12-07T10:37:39.722Z
+updated: 2024-12-11T09:16:17.571Z
 tags:
   - build
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/7e37922976a0cd02bd45d34c10fef6f069d63ae07
 
  After[details started to slip out earlier this month](https://tools.techidaily.com) , Intel has now officially revealed the company’s latest Next Unit of Computing (NUC) family, code-named “Bean Canyon.” The new devices bring the Coffee Lake CPU microarchitecture, as well as Iris Plus iGPUs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Higher TDP And Performance
 
  The NUCs are moving up in the world, at least when it comes to performance. Unlike most NUCs that Intel has released so far, including the previous "Baby Canyon" family, these new models almost double the TDP from 15W to 28W.
@@ -29,19 +33,28 @@ thumbnail: https://thmb.techidaily.com/7e37922976a0cd02bd45d34c10fef6f069d63ae07
 
 ![Intel NUC Kit NUC8i3BEK/NUC8i5BEK Features – Rear](https://cdn.mos.cms.futurecdn.net/j2fcR5vYokSK9VbMMEmPrd-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Intel NUC Kit NUC8i3BEK/NUC8i5BEK Features – Rear
 
  If needed, the devices can also be configured to run with a lower TDP of 20W. As most people prefer the higher-performance, most Bean Canyon NUCs will likely remain at their default TDP.
 
  If you’d like a NUC with even higher performance, Intel also offers the[“Hades Canyon”](https://tools.techidaily.com) NUC, with up to 100W TDP and AMD-made "Vega M" graphics, targeted gamers. Hades Canyon NUCs were released earlier this year and they are based on the previous-generation Kaby Lake microarchitecture.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Iris Plus GPU, Fast Wi-Fi Performance
 
  All Bean Canyon SKUs will support Iris Plus Graphics 655, with 128MB eDRAM, 48 execution units, and a 1200MHz clock speed. The new devices also support the USB 3.1 gen 2 (10Gbps) standard on all of their four Type-A ports and come with Intel’s Wireless-AC 9560 with Bluetooth 5.0 WLAN module. The older DisplayPort 1.2 standard, as well as Thunderbolt 3 are also supported via USB Type-C connectors.
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -53,9 +66,9 @@ thumbnail: https://thmb.techidaily.com/7e37922976a0cd02bd45d34c10fef6f069d63ae07
 ![Block diagram of the major functional areas of the board](https://cdn.mos.cms.futurecdn.net/gtoh2WGfZ6YS3AEbLS7arH-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Block diagram of the major functional areas of the board
 
  The new 2x2 multi-user, multiple-input, multiple-output technology (MU-MIMO) Wi-Fi module gets a significant boost in performance over the previous generation, reaching a theoretical maximum of 1.73Gbps bandwidth. However, the new Wi-Fi module lacks the[WPA3 security standard](https://tools.techidaily.com) announced by the Wi-Fi Alliance this January.
@@ -70,8 +83,6 @@ thumbnail: https://thmb.techidaily.com/7e37922976a0cd02bd45d34c10fef6f069d63ae07
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -79,4 +90,16 @@ thumbnail: https://thmb.techidaily.com/7e37922976a0cd02bd45d34c10fef6f069d63ae07
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-revival.techidaily.com/auto-gpt-explained-a-comparative-study-with-chatgpt/"><u>Auto-GPT Explained – A Comparative Study with ChatGPT</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-enduring-reliability-with-our-highly-rated-laptop-power-bank-currently-50-discounted-visit-zdnet/"><u>Discover Enduring Reliability with Our Highly-Rated Laptop Power Bank – Currently 50% Discounted! Visit ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-repairing-your-apex-legends-online-connection-woes/"><u>Guide: Repairing Your Apex Legends Online Connection Woes</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-lenovo-thinkphone-by-drfone-android/"><u>How to Bypass FRP on Lenovo ThinkPhone?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/snap-up-the-ultimate-prime-day-tech-savings-unbeatable-laptop-deals-in-october-24/"><u>Snap Up the Ultimate Prime Day Tech Savings – Unbeatable Laptop Deals in October '24 !</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-a-list-elite-selection-of-smart-glasses/"><u>The A-List: Elite Selection of Smart Glasses</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-17-inch-laptop-picks-for-2e23-expert-reviews/"><u>Top Rated 17-Inch Laptop Picks for 2E23 - Expert Reviews</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-laptop-picks-from-the-2024-consumer-electronics-show-techradar/"><u>Top-Rated Laptop Picks From the 2024 Consumer Electronics Show | TechRadar</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-make-your-own-cartoons-10-essential-animation-apps-for-mobile/"><u>Updated In 2024, Make Your Own Cartoons 10 Essential Animation Apps for Mobile</u></a></li>
+</ul></div>
 

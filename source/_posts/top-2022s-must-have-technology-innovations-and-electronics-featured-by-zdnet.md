@@ -1,7 +1,7 @@
 ---
 title: Top 2022'S Must-Have Technology Innovations & Electronics - Featured by ZDNet
-date: 2024-12-03T17:38:11.901Z
-updated: 2024-12-05T07:24:11.233Z
+date: 2024-12-08T17:30:43.308Z
+updated: 2024-12-10T17:00:16.571Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ Over the past 12 months, this relentless pursuit of technological innovation has
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. On-device AI will be a win for everyone
@@ -47,7 +47,7 @@ Running AI applications locally yields four major advantages: 1) All information
 "The idle power consumption of a single fully populated AI-accelerated server can approach one kilowatt of power while the peak power consumption can approach several kilowatts of power. This number multiplies by the number of servers required to run a generative AI model and the number of times a model is run, which is increasing exponentially," says Jim McGregor, Principal Analyst at [TIRIAS Research](https://www.tiriasresearch.com/). On-device AI solves this problem by keeping most, if not all, of the friction within our devices -- which will be plenty capable come next year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Generative AI for professional workflows
@@ -63,7 +63,7 @@ Some tools include [Wix's AI Site Generator](https://www.zdnet.com/article/this-
 Such workloads, especially as companies fine-tune these large language models, often require pushing the GPUs (graphics processing units) and RAM in computers and servers to the max, setting a precedent for an AI arms race between the world's largest semiconductor companies -- Intel, AMD, Nvidia, and Qualcomm included. Expect more "for AI" computers, chipsets, and fancy comparison charts in 2024.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Wireless TVs take cord-cutting to the extreme
@@ -81,7 +81,7 @@ Naturally, one of the big questions with wireless TVs is how latency factors int
 That said, wireless TVs are certainly not priced for the mainstream; the Displace TV lists for $4,499, and the LG OLED M will run you upwards of $35,000\. But for your closest look at a future without cords and cables dangling off walls, this may well be the best place to start.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. A Copilot for every PC user
@@ -97,7 +97,7 @@ The vision was straightforward; with a single click from the taskbar, more than 
 At the base level, Copilot on Windows 11 can save users dozens of clicks every day, now that the AI assistant can help navigate those sophisticated location paths to tweak display resolutions, set dark theme timers, and do other mundane tasks. For businesses and enterprises, Copilot will be capable of [tackling cybersecurity threats](https://www.zdnet.com/article/boosting-cybersecurity-microsofts-ai-driven-security-copilot-unveiled-at-ignite-2023/), from risk identification with machine learning algorithms to automated response mechanisms for near-instant defense.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Pinching the air will become normal
@@ -142,24 +142,15 @@ The big question with pinching is how multidimensional such a basic gesture can 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-avoiding-unwanted-image-ripples/"><u>[Updated] In 2024, Avoiding Unwanted Image Ripples</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/dell-unveils-new-lightweight-gaming-laptop-a-perfect-blend-of-power-and-portability-for-professionals/"><u>Dell Unveils New Lightweight Gaming Laptop: A Perfect Blend of Power and Portability for Professionals</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-ultimate-holiday-promotions-for-dell-computers-and-accessories-with-our-curated-guide-to-deals-at-retail-giants-like-best-buy-amazon-and-more-featu41/"><u>Discover Ultimate Holiday Promotions for Dell Computers and Accessories with Our Curated Guide to Deals at Retail Giants Like Best Buy, Amazon & More | Featured</u></a></li>
-<li><a href="https://games-able.techidaily.com/duplicating-saved-games-securing-your-digital-artifacts/"><u>Duplicating Saved Games: Securing Your Digital Artifacts</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/elevate-your-dating-game-with-cleverly-crafted-tinder-profiles/"><u>Elevate Your Dating Game with Cleverly Crafted Tinder Profiles</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/expert-review-unveiling-the-secrets-of-vpn-performance-evaluation/"><u>Expert Review: Unveiling the Secrets of VPN Performance Evaluation</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-thrustmaster-t300-racing-wheel-driver-software-downloads-for-windows-10-and-11/"><u>Free ThrustMaster T300 Racing Wheel Driver Software Downloads for Windows 10 & 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/huge-savings-alert-secure-an-8tb-samsung-t5-ssd-at-a-steal-for-36-off-after-october-prime-deals-ends-insiders-guide/"><u>Huge Savings Alert! Secure an 8TB Samsung T5 SSD at a Steal for 36% Off After October Prime Deals Ends | Insider's Guide</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-oppo-f23-5g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Oppo F23 5G Device</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-video-excellence-mirrorless-cameras-vs-traditional-dslrs/"><u>In 2024, Video Excellence Mirrorless Cameras vs Traditional DSLRs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/is-investing-in-a-portable-monitor-wise-compare-the-top-4-models-and-discover-their-value/"><u>Is Investing in a Portable Monitor Wise? Compare the Top 4 Models and Discover Their Value!</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/is-luminances-hdr-suitable-for-production-for-2024/"><u>Is Luminance's HDR Suitable for Production for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolved-how-to-fix-the-recurring-thunder-tier-one-game-crashes-on-your-computer/"><u>Resolved: How to Fix the Recurring 'Thunder Tier One' Game Crashes on Your Computer</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/revolutionary-2-in-1-tech-marvel-surprises-with-overlooked-office-capabilities-expert-insights-from-zdnet/"><u>Revolutionary 2-in-1 Tech Marvel Surprises with Overlooked Office Capabilities | Expert Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-test-the-ultimate-guide-to-the-worlds-compact-and-flexible-chromebook/"><u>Top Test: The Ultimate Guide to the World's Compact and Flexible Chromebook</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-tech-and-video-game-bargains-on-prime-day-why-you-shouldnt-miss-out-oct-24-zdnet/"><u>Top-Rated Tech and Video Game Bargains on Prime Day: Why You Shouldn't Miss Out - Oct '24 (ZDNet)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/transform-your-surround-sound-exclusive-100-off-offer-for-best-buys-highly-acclaimed-speaker-system-insider-tips/"><u>Transform Your Surround Sound: Exclusive $100 Off Offer for Best Buy’s Highly Acclaimed Speaker System - Insider Tips</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/ts2/"><u>TSファイルにおいて安全なクロスオーバー編成手順2種類</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-home-movie-mastery-ezvid-for-mac-makes-video-creation-a-breeze/"><u>Updated Home Movie Mastery Ezvid for Mac Makes Video Creation a Breeze</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-innovative-approaches-to-social-media-video-making-for-2024/"><u>[New] Innovative Approaches to Social Media Video Making for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-instagram-edge-advanced-photo-editing-strategies-for-2024/"><u>[Updated] Instagram Edge Advanced Photo Editing Strategies for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-digital-dive-essential-recording-tactics-for-shows/"><u>2024 Approved Digital Dive Essential Recording Tactics for Shows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722966752971-effortless-setup-for-your-samsung-m2nano-driver-get-them-now/"><u>Effortless Setup for Your Samsung M2nano Driver | Get Them Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-corsair-k70-mouse-software-and-drivers-get-latest-version/"><u>Free Corsair K70 Mouse Software and Drivers - Get Latest Version!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-usb-30-driver-for-your-windows-computer-here/"><u>Get the Latest USB 3.0 Driver for Your Windows Computer Here!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/innovative-tools-for-cutting-edge-xbox-gaming-recordings/"><u>Innovative Tools for Cutting-Edge Xbox Gaming Recordings</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revamp-your-logitech-m31n-mouse-experience-by-refreshing-its-drivers/"><u>Revamp Your Logitech M31n Mouse Experience by Refreshing Its Drivers</u></a></li>
+<li><a href="https://review-topics.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-gopro-quik-reviewand-gopro-quik-pc-alternatives-for-2024/"><u>Updated GoPro Quik Review& GoPro Quik PC Alternatives for 2024</u></a></li>
 </ul></div>
 

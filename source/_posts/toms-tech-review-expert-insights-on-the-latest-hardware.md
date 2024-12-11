@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Review: Expert Insights on the Latest Hardware"
-date: 2024-08-19T10:20:23.431Z
-updated: 2024-08-20T10:20:23.431Z
+date: 2024-12-03T19:15:19.667Z
+updated: 2024-12-10T21:49:02.958Z
 tags:
   - peripherals
 categories:
@@ -16,6 +16,10 @@ We can't seem to go five feet without tripping over a gaming keyboard featuring 
  We actually first saw this keyboard back in January at[CES](https://tools.techidaily.com) , and it officially launched at the end of April after a successful Kickstarter run. While it's not necessarily being marketed as a_gaming_ keyboard, it's got the magnetic switches and 1,000 Hz polling rate (wired_and_ wireless) that might just land it on our list of[best gaming keyboards](https://tools.techidaily.com) .
 
  The Q1 HE is a 75-percent wireless mechanical keyboard featuring Gateron 2.0 double-rail magnetic Nebula switches — linear magnetic Hall Effect switches with an actuation range of 0.5 - 3.8mm and a bottom-out force of 60g. It comes fully assembled in a solid aluminum chassis with a double gasket mounted hot-swappable PCB, double-shot PBT keycaps, and a programmable knob for $219\. You can also buy the barebones version — which comes with the knob but no keycaps or switches — for $20 less ($199). It's available now in carbon black (black case with white, black, and red keycaps) and shell white (white case with white, teal, and aqua keycaps).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Design and Construction of the Q1 HE
 
@@ -39,6 +43,18 @@ We can't seem to go five feet without tripping over a gaming keyboard featuring 
 
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+ (Image credit: Tom's Hardware)
+
+![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -47,9 +63,9 @@ We can't seem to go five feet without tripping over a gaming keyboard featuring 
 
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
- (Image credit: Tom's Hardware)
-
-![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -58,6 +74,10 @@ We can't seem to go five feet without tripping over a gaming keyboard featuring 
  Image 1 of 4
 
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -80,6 +100,10 @@ We can't seem to go five feet without tripping over a gaming keyboard featuring 
  (Image credit: Tom's Hardware)
 
  In the box, the Q1 HE comes with a bundle of accessories, including extra keycaps for swapping out navigation keys and switching between PC/Mac modes, a dual keycap and switch puller, and a small kit for opening up and customizing the keyboard (screwdriver, hex key, extra gaskets, feet, and screws). It also comes with a 6-foot USB-C to USB-C cable (with a USB-C to USB-A converter on one end), a USB extender, and a small USB-A dongle that you'll need to connect to 2.4GHz wireless. There's nowhere on the keyboard to store the dongle, but as the case is just a solid chunk of aluminum, that's understandable.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -120,9 +144,6 @@ Today's best Keychron Q1 deals
 
  We check over 250 million products every day for the best prices
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Typing and Gaming Experience on the Q1 HE
 
  The prebuilt Q1 HE comes with Gateron 2.0 Nebula switches, which are linear magnetic switches with a starting force of 40g and a bottom-out force of 60g. This is the only prebuilt switch option, but Keychron also sells two other compatible switches separately — Gateron 2.0 Dawn (linear, 30g starting force, 50g bottom-out) and Gateron 2.0 Aurora (linear, 50g starting force, 70g bottom-out).
@@ -132,8 +153,9 @@ Today's best Keychron Q1 deals
 ![Keychron Q1 HE](https://cdn.mos.cms.futurecdn.net/VRGcGtLcEcSgw9EymrUKoR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  The Q1 HE's switches are pre-lubed and have a dual-rail structure designed to reduce stem wobble. This works well; the switches are smooth and stable — there's still some stem wobble but it's not bad. The board features a double gasket mount design that makes for a comfortable typing experience, and the case is lined with sound-dampening foam and an acoustic pad to reduce ping. It's a nice-sounding keyboard out of the box, though there's some noticeable stabilizer rattle (especially in the space bar) and bottoming out sounds slightly dull. The Q1 HE's sound is not too far from that of the Boog75 — but I did have a (mild, but definitive) preference for the latter.
@@ -148,9 +170,6 @@ Today's best Keychron Q1 deals
 
 ![Keychron Q1 HE](https://cdn.mos.cms.futurecdn.net/SrPBCHxjsKZtaKMaebeZKM-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  You can customize the Q1 HE with Keychron Launcher, Keychron's new web-based tool that supports all of its keyboards. It's Keychron's in-house answer to VIA and it's very similar — it only works in WebHID-enabled browsers and you'll need to connect the keyboard via USB-C to use it. It has several sections: HE Mode, keymapping, lighting, macros, firmware updates, key testing, and bug reports. In the HE Mode tab, you can set switch actuation, turn on and customize Rapid Trigger, program multiple inputs on individual keys, and set up gamepad emulation. It's not the most polished software I've used (updating the board's firmware was a little messy) but it wasn't too difficult to figure out.
@@ -167,27 +186,26 @@ Today's best Keychron Q1 deals
 
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  You can also change the keyboard's lighting effects in Keychron Launcher, though you are limited to preset effects — most of which only offer customization in the way of speed and/or color. The lighting is bright — thanks to the keyboard's south-facing PCB — and vibrant enough that it looks good behind the Q1 HE's solid, non-shine-through keycaps.
@@ -200,9 +218,6 @@ Today's best Keychron Q1 deals
 
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -229,8 +244,6 @@ Today's best Keychron Q1 deals
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -238,4 +251,22 @@ Today's best Keychron Q1 deals
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-instantize-dynamic-images-in-photoshop-for-2024/"><u>[New] Instantize Dynamic Images in Photoshop for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-elevate-skype-call-audio-excellence/"><u>[Updated] In 2024, Elevate Skype Call Audio Excellence</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1-huge-discount-alert-top-tier-gaming-laptop-slashes-price-by-50-during-october-prime-day-insider-report-from-zdnet/"><u>1. Huge Discount Alert: Top-Tier Gaming Laptop Slashes Price by 50% During October Prime Day - Insider Report From ZDNet</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-proven-strategies-for-successful-youtube-shorts/"><u>2024 Approved Proven Strategies for Successful YouTube Shorts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-offer-save-on-hp-victus/"><u>Exclusive Offer: Save on HP Victus</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722886241954-googles-latest-accessory-the-pixel-watch-3-release-date-pricing-insights/"><u>Google's Latest Accessory? The Pixel Watch 3 - Release Date, Pricing Insights.</u></a></li>
+<li><a href="https://extra-information.techidaily.com/groundhopping-goals-watch-record-and-cut-games-without-spending/"><u>Groundhopping Goals Watch, Record & Cut Games Without Spending</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/introducing-the-future-of-computing-intels-revolutionary-ai-processor-for-next-gen-laptops/"><u>Introducing the Future of Computing: Intel's Revolutionary AI Processor for Next-Gen Laptops</u></a></li>
+<li><a href="https://win-blog.techidaily.com/revive-your-rpg-adventure-overcoming-stutter-and-freeze-problems-in-baldurs-gate-iii/"><u>Revive Your RPG Adventure: Overcoming Stutter and Freeze Problems in Baldur's Gate III</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/score-a-steal-with-the-latest-m3-macbook-pro-200-discount-at-amazons-2021-spring-blowout-revealed-by-zdnet/"><u>Score a Steal with the Latest M3 MacBook Pro: $200 Discount at Amazon's 2021 Spring Blowout, Revealed by ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/transform-your-workspace-with-the-essential-16-port-dream-dock-a-must-have-for-all-creatives-zdnet/"><u>Transform Your Workspace with The Essential 16-Port Dream Dock - A Must-Have for All Creatives | ZDNET</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/ultimate-guide-easycapture-v2-analysis/"><u>Ultimate Guide EasyCapture V2 Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-cyber-monday-bargains-on-apples-new-macbook-air-with-m2-chipset-saving-you-more-in-2e22/"><u>Unbeatable Cyber Monday Bargains on Apple's New MacBook Air with M2 Chipset - Saving You More in 2E22!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unleashing-creativity-with-the-new-apple-macbook-pro-16-inch-m2-max-chip-expert-review-zdnet/"><u>Unleashing Creativity with the New Apple MacBook Pro 16-Inch M2 Max Chip | Expert Review - ZDNET</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-update-a-step-towards-stability/"><u>Windows Update: A Step Towards Stability</u></a></li>
+</ul></div>
 

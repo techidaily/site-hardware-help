@@ -1,7 +1,7 @@
 ---
 title: Comprehensive PNY RP6# USB-C SSD Assessment - Adequate Performance with Room for Improvement
-date: 2024-08-19T10:26:00.919Z
-updated: 2024-08-20T10:26:00.919Z
+date: 2024-12-05T00:09:00.280Z
+updated: 2024-12-11T06:52:11.898Z
 tags:
   - ssd
 categories:
@@ -27,6 +27,10 @@ Sabrent has begun sales of its highly anticipated Rocket 5 solid state drives th
 
  For obvious reasons, Sabrent's Rocket 5 is a quite expensive product. The 1TB version is priced at $190, the 2TB model carries a $340 price tag, and a 4TB costs $730.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,8 +45,6 @@ Sabrent has begun sales of its highly anticipated Rocket 5 solid state drives th
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -50,8 +52,19 @@ Sabrent has begun sales of its highly anticipated Rocket 5 solid state drives th
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tailored-titles-for-your-youtube-success/"><u>2024 Approved Tailored Titles for Your YouTube Success</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/adapting-office-equipment-for-the-age-of-artificial-intelligence-insights-from-zdnet/"><u>Adapting Office Equipment for the Age of Artificial Intelligence: Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/essential-ultra-fast-charging-and-connectivity-the-best-ipad-pro-usb-c-hub-reviewed-on-zdnet/"><u>Essential Ultra-Fast Charging and Connectivity: The Best iPad Pro USB-C Hub Reviewed on ZDNet</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-get-the-newest-nvidia-driver-software-step-by-step-guide/"><u>How to Get the Newest NVIDIA Driver Software – Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/how-to-remove-jello-effect-from-an-aerial-video-for-2024/"><u>How to Remove Jello Effect From an Aerial Video for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-honor-x50i-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Honor X50i Phone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oppo-find-x6-pro-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Oppo Find X6 Pro to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastery-in-minutes-repair-techniques-for-remote-server-not-reachable-error/"><u>Mastery in Minutes: Repair Techniques for 'Remote Server Not Reachable' Error</u></a></li>
+<li><a href="https://fox-http.techidaily.com/open-access-to-the-masters-oeuvre-for-2024/"><u>Open Access to the Masters' Oeuvre for 2024</u></a></li>
+<li><a href="https://win-bits.techidaily.com/step-by-step-guide-retrieving-information-post-iphone-factory-reset/"><u>Step-by-Step Guide: Retrieving Information Post iPhone Factory Reset</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unleash-performance-in-portability-the-ultimate-laptop-pick-beyond-the-macbook-air/"><u>Unleash Performance in Portability: The Ultimate Laptop Pick, Beyond the MacBook Air</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlock-ultimate-savings-essential-gaming-picks-for-the-upcoming-oct-24-prime-day-deals-insights-from-zdnet/"><u>Unlock Ultimate Savings: Essential Gaming Picks for the Upcoming Oct '24 Prime Day Deals – Insights From ZDNET</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

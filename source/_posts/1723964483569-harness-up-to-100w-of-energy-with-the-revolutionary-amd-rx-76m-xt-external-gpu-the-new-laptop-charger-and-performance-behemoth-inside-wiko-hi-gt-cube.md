@@ -1,7 +1,7 @@
 ---
 title: "Harness Up to 100W of Energy with the Revolutionary AMD RX 76#M XT External GPU: The New Laptop Charger and Performance Behemoth Inside Wiko Hi GT Cube."
-date: 2024-08-19T10:22:03.268Z
-updated: 2024-08-20T10:22:03.268Z
+date: 2024-12-10T06:32:47.393Z
+updated: 2024-12-10T19:06:08.553Z
 tags:
   - components
 categories:
@@ -29,6 +29,10 @@ Japan-based SSD maker Nextorage has unveiled an all-new PCIe Gen 4 M.2 SSD aimed
 
  Despite its small size, the new Nextorage drive is one of only a couple of M.2 2230 drives that can hit speeds similar to those of larger outgoing PCIe Gen 4 M.2 2280 class drives and get close to the bandwidth limitations of PCIe Gen 4\. With a read speed of nearly seven and a half gigabytes per second, the G Series ME is the fastest M.2 2230 drive on the market. Its closest competitor is the [Corsair MP600 Mini,](https://tools.techidaily.com) which hits read speeds of 7GB/s flat.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -43,8 +47,6 @@ Japan-based SSD maker Nextorage has unveiled an all-new PCIe Gen 4 M.2 SSD aimed
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -52,8 +54,20 @@ Japan-based SSD maker Nextorage has unveiled an all-new PCIe Gen 4 M.2 SSD aimed
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/updated-ultimate-tutorial-on-precise-audioshifting-for-2024/"><u>[Updated] Ultimate Tutorial on Precise Audioshifting for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-comprehensive-guide-to-fixing-the-notorious-502-http-error-messages-online/"><u>A Comprehensive Guide to Fixing the Notorious 502 HTTP Error Messages Online</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/beat-overheating-with-style-exclusive-cyber-monday-specials-on-portable-laptop-chillers-score-big-discounts/"><u>Beat Overheating with Style: Exclusive Cyber Monday Specials on Portable Laptop Chillers – Score Big Discounts !</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-enhanced-artifice-intelligence-spotlight-on-samsungs-newest-copilotplus-series-by-zdnet/"><u>Discover Enhanced Artifice Intelligence: Spotlight on Samsung's Newest Copilot+ Series by ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-presidents-day-offer-get-a-new-m2-macbook-air-for-only-799-reg-1099-shop-smart-with-zdnet/"><u>Exclusive Presidents’ Day Offer: Get a New M2 MacBook Air for Only $799 (Reg. $1,099) | Shop Smart with ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/find-the-finest-websites-with-free-game-of-thrones-audio-for-2024/"><u>Find the Finest Websites with Free Game of Thrones Audio for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-enhancing-smooth-playback-stop-frame-gaps-in-obs/"><u>In 2024, Enhancing Smooth Playback Stop Frame Gaps in OBS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/snag-the-discounted-hp-victus-n15-gaming-laptop-at-just-515-during-best-buys-exclusive-prime-day-offer-detailed-review-on-zdnet/"><u>Snag the Discounted HP Victus N15 Gaming Laptop at Just $515 During Best Buy's Exclusive Prime Day Offer - Detailed Review on ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-future-of-work-gadgets-amidst-advancing-ai-a-perspective/"><u>The Future of Work Gadgets Amidst Advancing AI: A Perspective</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-2023-dual-purpose-device-with-a-hidden-gem-for-workspaces-uncovered-by-zdnet/"><u>Top 2023 Dual-Purpose Device with a Hidden Gem for Workspaces Uncovered by ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-resolving-no-power-issues-on-your-roku-television/"><u>Troubleshooting Steps: Resolving No Power Issues on Your Roku Television</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/troubleshooting-your-computers-hardware-on-windows-expert-tips-from-yl-computing-and-software-services/"><u>Troubleshooting Your Computer's Hardware on Windows: Expert Tips From YL Computing & Software Services</u></a></li>
+<li><a href="https://article-helps.techidaily.com/unlocking-asmrs-health-perks-a-guide/"><u>Unlocking ASMR's Health Perks A Guide</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->

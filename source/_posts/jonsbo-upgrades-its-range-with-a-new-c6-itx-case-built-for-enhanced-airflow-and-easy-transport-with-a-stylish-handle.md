@@ -1,7 +1,7 @@
 ---
 title: Jonsbo Upgrades Its Range with a New C6-ITX Case - Built for Enhanced Airflow and Easy Transport with a Stylish Handle
-date: 2024-08-19T10:22:33.248Z
-updated: 2024-08-20T10:22:33.248Z
+date: 2024-12-06T16:59:14.407Z
+updated: 2024-12-10T21:00:53.006Z
 tags:
   - cases
 categories:
@@ -31,8 +31,6 @@ I'm not kidding when I say this is one of my favorite-looking PC cases. Obviousl
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -40,9 +38,24 @@ I'm not kidding when I say this is one of my favorite-looking PC cases. Obviousl
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-uhd-precision-converter-clearer-sharper-visuals/"><u>[New] In 2024, UHD Precision Converter Clearer, Sharper Visuals</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-the-aurora-hdr-experience-is-it-transformative-in-2024/"><u>[New] The Aurora HDR Experience Is It Transformative, In 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-sneak-peeks-stealthy-video-capture-techniques/"><u>[Updated] Sneak Peeks Stealthy Video Capture Techniques</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/apple-revolutionizes-device-maintenance-with-expanded-at-home-repair-services-for-iphone-and-macbook-learn-more-zdnet/"><u>Apple Revolutionizes Device Maintenance with Expanded At-Home Repair Services for iPhone & MacBook - Learn More | ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-ultimate-budget-winning-laptop-of-2024-lenovos-new-749-thinkbook-reviewed-by-zdnet/"><u>Discover the Ultimate Budget Winning Laptop of 2024: Lenovo's New $749 ThinkBook Reviewed by ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/embracing-progressive-upgrades-during-artificial-intelligence-revolution-its-pledge-as-featured-on-zdnet/"><u>Embracing Progressive Upgrades During Artificial Intelligence Revolution: IT's Pledge as Featured on ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-new-asus-vivobook-pro-today-for-30-less-limited-time-offer-exclusively-featured-by-zdnet-at-amazon/"><u>Get Your New Asus VivoBook Pro Today for 30% Less! Limited-Time Offer Exclusively Featured by ZDNet at Amazon</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-it-time-to-opt-for-an-ios-17-transition/"><u>Is It Time to Opt for an iOS 17 Transition?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/shop-smart-get-the-razer-blade-15-for-800-less-at-walmart-pre-memorial-day-sale/"><u>Shop Smart : Get the Razer Blade 15 for $800 Less at Walmart Pre-Memorial Day Sale</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/snag-the-ultimate-bargain-samsung-odyssey-neo-g8-monitor-for-550-at-best-buys-anti-prime-day-featured-by-zdnet/"><u>Snag the Ultimate Bargain: Samsung Odyssey Neo G8 Monitor for $550 at Best Buy’s Anti-Prime Day, Featured by ZDNET</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-motorola-g24-power-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unleashing-your-laptops-full-potential-with-a-hidden-gem-of-an-accessory-discover-how/"><u>Unleashing Your Laptop's Full Potential with a Hidden Gem of an Accessory - Discover How!</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/bes-highest-paying-content-creator-for-2024/"><u>YouTube's Highest Paying Content Creator for 2024</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: "Prime Day Exclusive: Save $460 on the Microsoft Surface Pro 8 | Top Deals at ZDNet"
-date: 2024-11-28T16:36:59.530Z
-updated: 2024-12-05T08:52:08.815Z
+date: 2024-12-10T12:03:19.745Z
+updated: 2024-12-10T21:22:33.044Z
 tags:
   - laptops
 categories:
@@ -25,7 +25,7 @@ We've gone hands-on with dozens of laptops this year, and scoured the internet f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The best laptop deals for Amazon Prime Day 2024
@@ -87,6 +87,10 @@ Asus/ZDNET
 * [Asus Chromebook Plus CX34 for $432](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Chromebook-1920x1080-Processor-CX3402CBA-DH386-WH%2Fdp%2FB0CGJGZZ1L%2Fref%3Dsxin%5F15%5Fpa%5Fsp%5Fsearch%5Fthematic%5Fsspa%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): Asus' stylish CX34 Chromebook Plus comes with a bit more local storage than most Chromebooks (256GB) as well as an ultra-thin form factor and over 10 hours of battery life.
 * [HP Chromebook 14 for $189 (Save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Chromebook-Graphics-Keyboard-14a-na0226nr%2Fdp%2FB09SVSBVP1%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): It doesn't get much more budget than this. HP's 14-inch Chromebook comes with just 4GB of RAM, so it's perfect as a backup machine or secondary travel device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Prime Day MacBook deals
 
 Kyle Kucharski/ZDNET
@@ -94,10 +98,6 @@ Kyle Kucharski/ZDNET
 * [Apple MacBook Air (M2) for $799 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2022-Apple-MacBook-Laptop-chip%2Fdp%2FB0B3BVWJ6Y%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): [The MacBook Air (M2)](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/) combines performance and portability. It's one of our favorite laptops at ZDNET and our Product of the Year -- and it's on sale for just $799, the lowest price we've ever seen.
 * [Apple MacBook Air (M3) for $899 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-2024-MacBook-13-inch-Laptop%2Fdp%2FB0CX23V2ZK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): If you want to purchase one of Apple's latest MacBook Air products, you can save $200 on the [2024 version](https://www.zdnet.com/article/m3-macbook-air-review/), powered by an M3 chip -- the lowest price of the year. Don't forget to apply the coupon.
 * [Apple MacBook Pro (M3) for $1,400 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core%2Fdp%2FB0CM5JV268%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): The [MacBook Pro (M3)](https://www.zdnet.com/article/m3-macbook-pro-buying-advice/) is one of the best-performing laptops on the market, and it's $200 off -- make sure you add the coupon offer on the page.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Prime Day HP laptop deals
 
@@ -114,6 +114,10 @@ Lenovo/ZDNET
 * [Lenovo Legion 5i for $1,339 (save $160)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Display-GeForce-2560x1600-Battery%2Fdp%2FB0CVLFS7WP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): This 16-inch laptop from Lenovo's gaming PC line features an Intel i7 processor, 32GB of RAM, and a solid selection of ports for all your gaming accessories for just $1,500.
 * [Lenovo ThinkBook 15 for $525 (save $74)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkBook-15-Business-i7-1165G7%2Fdp%2FB0D1CQPWPG%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): This laptop is a powerhouse for your back-to-school or business needs. Its 8-core AMD Ryzen 7 processor pairs with 16GB of RAM, so any major spec-heavy tasks will perform smoothly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best Buy laptop deals during Prime Day
 
 Kyle Kucharski/ZDNET
@@ -124,7 +128,7 @@ Kyle Kucharski/ZDNET
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## More Prime Day 2024 laptop deals
@@ -138,7 +142,7 @@ Kyle Kucharski/ZDNET
 ## FAQs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### When is Amazon Prime Day 2024?
@@ -162,10 +166,6 @@ We also looked over customer reviews to find out what matters to real people who
 ### When will these deals expire?
 
 Prime Day 2024 has ended, so deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on a deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What are the best Prime Day 2024 deals still available?
 
@@ -230,19 +230,24 @@ And the best deals still available from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovations-in-motion-capture-for-enhanced-ux/"><u>2024 Approved Innovations in Motion Capture for Enhanced UX</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-peeps-funny-photos-iphones-style/"><u>2024 Approved Peeps' Funny Photos, iPhones Style</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amazon-prime-day-deals-apples-m2-macbook-air-available-at-a-steal-for-749-exclusive-insights-from-zdnet/"><u>Amazon Prime Day Deals: Apple's M2 MacBook Air Available at a Steal for $749 - Exclusive Insights From ZDNet</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-decoding-video-thread-embellishments/"><u>In 2024, Decoding Video Thread Embellishments</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-safe-techniques-for-extracting-and-converting-youtube-audio-into-mp3/"><u>In 2024, Safe Techniques for Extracting and Converting YouTube Audio Into MP3</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/revolutionizing-tv-viewership-with-streamed-fb-events-for-2024/"><u>Revolutionizing TV Viewership with Streamed FB Events for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-perfect-companion-for-remote-professionals-a-review-of-the-most-portable-laptops-tested-on-zdnet/"><u>The Perfect Companion for Remote Professionals: A Review of the Most Portable Laptops Tested on ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/tiny-tech-marvels-discover-the-remarkable-capabilities-of-this-compact-8-in-1-adapter-beyond-its-affordable-price-tag-review/"><u>Tiny Tech Marvels: Discover the Remarkable Capabilities of This Compact 8-in-1 Adapter Beyond Its Affordable Price Tag Review</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-98-unmissable-cyber-monday-offers-of-2022-detailed-guide-by-zdnet/"><u>Top 98 Unmissable Cyber Monday Offers of 2022 - Detailed Guide by ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/transform-your-home-office-how-the-hp-copilotplus-boosts-remote-work-efficiency-insights-from-zdnet/"><u>Transform Your Home Office: How the HP Copilot+ Boosts Remote Work Efficiency | Insights From ZDNET</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-solving-fallout-4s-pc-hanging-issues/"><u>Troubleshooting Tips: Solving Fallout 4'S PC Hanging Issues</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-lineup-all-exclusive-titles-for-the-playstation-5/"><u>Ultimate Lineup: All Exclusive Titles for the PlayStation 5</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/upgrade-your-apple-m3-macbook-pro-and-imac-to-the-latest-macos-sierra-with-ease/"><u>Upgrade Your Apple M3 MacBook Pro and iMac to the Latest MacOS Sierra with Ease</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/windows-11-fehlerbehebung-fur-nicht-funktionierenden-versionsverlauf-der-dateiverwaltung/"><u>Windows 11: Fehlerbehebung Für Nicht Funktionierenden Versionsverlauf Der Dateiverwaltung</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-the-roadmap-to-wealth-sourav-joshi-and-youtube-earning/"><u>[New] In 2024, The Roadmap to Wealth Sourav Joshi and YouTube Earning</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-setup-guide-for-your-new-intel-dual-band-ac-7260-wireless-network-card/"><u>[Seamless Setup Guide] for Your New Intel Dual-Band AC 7260 Wireless Network Card.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/canon-mx49eb-printer-driver-updates-available-seamless-compatibility-with-windows-operating-systems/"><u>Canon MX49eb Printer Driver Updates Available - Seamless Compatibility with Windows Operating Systems</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/complete-tutorial-for-implementing-the-arctic-zephyr-2-design-into-kodi-environment/"><u>Complete Tutorial for Implementing the Arctic Zephyr 2 Design Into Kodi Environment</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-lava-yuva-3-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Lava Yuva 3 Pro Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-asus-precision-clickpad-drivers-for-pc-compatible-with-windows-os/"><u>Download ASUS Precision ClickPad Drivers for PC - Compatible with Windows OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-tips-for-successfully-installing-the-latest-ati-driver-software-on-windows-pcs/"><u>Easy Tips for Successfully Installing the Latest ATI Driver Software on Windows PCs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-latest-epson-wf-7710-printer-drivers-for-windows-10-81-8-and-7/"><u>Free Download: Latest Epson WF-7710 Printer Drivers for Windows 10, 8.1, 8 & 7</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-poco-c51-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-fanbase-titans-the-10-most-subscribed-youtube-creators/"><u>In 2024, Fanbase Titans The 10 Most Subscribed YouTube Creators</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Pause Life360 Location Sharing For Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-huawei-mediapad-m5-assessment-exceptional-visuals-and-audio-experience/"><u>In-Depth Huawei MediaPad M5 Assessment: Exceptional Visuals & Audio Experience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-firmware-and-driver-setup-for-your-netgear-wna3100-wi-fi-router/"><u>Seamless Firmware & Driver Setup for Your Netgear WNA3100 Wi-Fi Router</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722977139303-step-by-step-instructions-for-downloading-your-canon-mg3620-drivers-safe-and-sound/"><u>Step-by-Step Instructions for Downloading Your Canon MG3620 Drivers - Safe & Sound</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-k-lite-audio-and-video-compression-tools-boost-your-media-experience/"><u>The Ultimate K-Lite Audio & Video Compression Tools: Boost Your Media Experience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975521775-top-charts-today-on-groove-stay-up-to-date-with-current-hit-songs-that-are-sure-to-keep-your-spirits-high/"><u>Top Charts Today on Groove: Stay Up-to-Date with Current Hit Songs that Are Sure to Keep Your Spirits High</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-steps-for-compatible-ralink-rt3290-drivers-on-windows-1187/"><u>Troubleshooting Steps for Compatible Ralink RT3290 Drivers on Windows 11/8/7</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-features-and-performance-of-the-asus-ax6000-rt-ax88u-the-ultimate-wi-fi-6-router-guide/"><u>Unveiling Features and Performance of the Asus AX6000 RT-AX88U - The Ultimate Wi-Fi 6 Router Guide</u></a></li>
 </ul></div>
 

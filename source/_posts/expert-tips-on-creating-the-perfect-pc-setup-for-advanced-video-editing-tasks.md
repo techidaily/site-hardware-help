@@ -1,7 +1,7 @@
 ---
 title: Expert Tips on Creating the Perfect PC Setup for Advanced Video Editing Tasks
-date: 2024-08-19T10:24:19.068Z
-updated: 2024-08-20T10:24:19.068Z
+date: 2024-12-08T16:51:28.247Z
+updated: 2024-12-11T00:16:25.388Z
 tags:
   - build
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/SViktBfatSoXLPDaG2aTzb-320-80.jpg
 
 ## Join the System Architects Marathon in Q4 2015 for a High-Speed LAN PC Box, Now Only $912 AMD Model Available
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Component Selection & The Build
 
 ![](https://cdn.mos.cms.futurecdn.net/8uwXgGgUvFKmaEtYiubBDA-320-80.jpg)
@@ -18,6 +22,14 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/SViktBfatSoXLPDaG2aTzb-320-80.jpg
 ##
 
 ![](https://cdn.mos.cms.futurecdn.net/gRWZJtRVgRiLT8Rc7hcKrV-320-80.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## System Builder Marathon Q4 2015
 
@@ -31,19 +43,12 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/SViktBfatSoXLPDaG2aTzb-320-80.jpg
 4. [System Value Compared](https://tools.techidaily.com)
 5. $912 AMD LAN Box PC
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ## $912 AMD LAN Box PC
 
  Even though my Intel-based revision of this quarter vindicates my assessments last quarter, a number of readers are still convinced that a properly cooled and overclocked 860K is the gateway to budget gaming goodness. After experiencing the limitations and frustrations last quarter, I still have my reservations. However, the SBM is a perfect place to empirically test this and give AMD's budget quad-core every chance to prove itself.
 
 ![](https://cdn.mos.cms.futurecdn.net/vaZRhuXWqcyB98KdTMVaK3-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  For your bonus build pleasure, here's the conclusion to the Munchkin Saga, Episode III: Revenge of 860K.
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
@@ -97,9 +102,6 @@ Deepcool Gamer Storm Gabriel
 
  Some of you out there might be groaning and asking, "What, this again?" Hold on a minute. Those asking for a better 860K overclock have a valid argument. The 860K was handicapped last quarter with insufficient cooling to get any kind of meaningful overclock. You can't argue with that. This time around the CPU gets better treatment in the form of an aftermarket cooler and a larger case. So no, we're not trying the exact same thing and expecting different results. Do I expect the 860K to outperform the i3-4170? No, I don't. However, in order for me to prove that one way or the other, I need hard numbers and data. I'm curious to see if it can close the gap, if not overcome it.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Alternate Component Selection
 
  I don't need to spend time explaining the same parts from[two days ago](https://tools.techidaily.com) . To save space and time, I'll only address the three new components.
@@ -136,21 +138,18 @@ Deepcool Gamer Storm Gabriel
 
 ![](https://cdn.mos.cms.futurecdn.net/nKfSxuUzQNwqBkyJ4996bk-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the fins were a little thinner or my RAM didn't have a heat spreader, this would be a non-issue. It's still not technically a problem. It doesn't keep the RAM from being installed, it doesn't even put flex on the RAM stick. It's just annoying that a cooler marketed as designed specifically for ITX cooling seems to be borderline incompatible with every current AMD ITX motherboard (every model on Newegg right now has the CPU socket oriented the same way). Perhaps some of them have RAM slots a little farther from the CPU socket, which would solve this, but if Deepcool wanted to be universally compatible, shaving a few millimeters off the fins would have accomplished this without impacting thermal performance.
 
 ![](https://cdn.mos.cms.futurecdn.net/EkXfRYe3XW8vhT2PuH7XkJ-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
  The rest of the assembly went just peachy. The slightly different port layout of the motherboard necessitated different cable routing, but that's it. Everything else is the exact same as the Intel build from a few days ago.
 
 ![](https://cdn.mos.cms.futurecdn.net/kiyNGE2ogxSRTZjnNEBoST-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Overclocking
 
  I did a little more digging on 860K overclocking after last quarter. Most FM2+ motherboards are very liberal with CPU voltage at stock levels. This means it's usually possible to overclock the CPU while undervolting it. This held true for my particular 860K. Stock voltage was set at 1.45V, but I was able to get it to run at 4.0GHz on only 1.35V. Lowering the voltage helped temperatures, but the CPU still has a pretty hard thermal ceiling that won't let it be pushed as much as it could. Regardless of cooling solution or voltage, the CPU cuts back to 3.5 to 3.7GHz when it hits 65 degrees C (total, not over ambient). Even with the cooler at full speed, I was occasionally hitting that ceiling under the most demanding workloads.
@@ -163,11 +162,16 @@ Deepcool Gamer Storm Gabriel
 
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  The RAM caused me no end of heartburn and frustration. I kept running into seemingly random crashes, regardless of RAM timings. I worried the RAM was somehow bad, but it worked flawlessly in the Intel build. After a quick appeal for help to Thomas, I found the motherboard simply required at least 1.64V to run the RAM, even at stock speeds. Again, the Intel build had no problem with 1.5V. I've never seen a motherboard that's more stable overclocked than at stock speeds, until now.
@@ -182,8 +186,6 @@ Deepcool Gamer Storm Gabriel
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,4 +193,20 @@ Deepcool Gamer Storm Gabriel
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-mastering-the-art-of-efficient-workflow-capturing-mac-screens-with-just-shortcuts/"><u>[Updated] Mastering the Art of Efficient Workflow Capturing Mac Screens with Just Shortcuts</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-get-close-or-farther-with-ease-on-instagram-stories/"><u>2024 Approved Get Close or Farther with Ease on Instagram Stories</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/adonit-nest-usb-hub-unbeatable-price-at-just-65-for-remote-professionals-exclusive-insight-by-zdnet/"><u>Adonit Nest USB Hub - Unbeatable Price at Just $65 for Remote Professionals! Exclusive Insight by ZDNet</u></a></li>
+<li><a href="https://article-files.techidaily.com/androids-video-reversion-secrets-unveiled/"><u>Android's Video Reversion Secrets Unveiled</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-tomorrows-tech-with-microsoft-at-their-ai-event-live-stream-what-to-anticipate-and-expert-viewing-guide-zdnet/"><u>Exploring Tomorrow's Tech with Microsoft at Their AI Event Live Stream – What to Anticipate and Expert Viewing Guide | ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-solutions-revive-your-laptop-charger-on-a-budget-macbook-pro-case-study-tips/"><u>Free Solutions: Revive Your Laptop Charger on a Budget (MacBook Pro Case Study) - Tips</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-quickshot-flipslow-mpeg/"><u>In 2024, QuickShot FlipSlow MPEG</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/making-3d-tech-mainstream-acer-unveils-user-friendly-monitors-and-laptops/"><u>Making 3D Tech Mainstream: Acer Unveils User-Friendly Monitors & Laptops</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-puzzle-detailed-guide-to-open-davinci-resolve-when-windows-gives-you-trouble/"><u>Solving the Puzzle: Detailed Guide to Open DaVinci Resolve When Windows Gives You Trouble</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-modern-vocabulary-guide-to-street-talk/"><u>The Modern Vocabulary Guide to Street Talk</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/top-vr-treadmills-review/"><u>Top VR Treadmills Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unparalleled-durability-meets-unmatched-personalization-my-journey-with-the-ultimate-workstation-that-isnt-from-getac-zdnet/"><u>Unparalleled Durability Meets Unmatched Personalization: My Journey with the Ultimate Workstation That Isn't From Getac (ZDNet)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-lenovos-innovative-fusion-tech-the-transforming-windows-pc-and-android-tab-revealed-on-zdnet/"><u>Unveiling Lenovo's Innovative Fusion Tech: The Transforming Windows PC and Android Tab Revealed on ZDNet</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Negotiations - House Leadership Might Negotiate with Senate Counterparts, Leveraging Common Interests and Reciprocity on Legislative Priorities in Exchange for Cooperation on Revenue-Related Measures.
-date: 2024-08-19T10:20:21.285Z
-updated: 2024-08-20T10:20:21.285Z
+date: 2024-12-09T03:32:53.770Z
+updated: 2024-12-11T05:36:25.866Z
 tags:
   - peripherals
 categories:
@@ -41,6 +41,10 @@ Almost a year after[Thunderbolt 5's official debut](https://tools.techidaily.com
 
  Cable Matters is the first cable manufacturer to debut a Thunderbolt 5 cable. Unfortunately, you won't be able to do much with it since no products on the market today take advantage of the new connectivity standard. We didn't see any products at[Computex 2024](https://tools.techidaily.com) that utilize a Thunderbolt 5 Type-C port, so there's a good chance we will be waiting until very late 2024 or 2025 before Thunderbolt 5 PCIe cards, docking stations, and other Thunderbolt 5 devices arrive on the market.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -55,8 +59,6 @@ Almost a year after[Thunderbolt 5's official debut](https://tools.techidaily.com
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -64,8 +66,19 @@ Almost a year after[Thunderbolt 5's official debut](https://tools.techidaily.com
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-elevating-community-interaction-through-strategic-posts-for-2024/"><u>[New] Elevating Community Interaction Through Strategic Posts for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-masterclass-unboxing-and-testing-lgs-usb-c-hdr-display/"><u>[New] Masterclass Unboxing and Testing LG's USB-C HDR Display</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-tips-to-counteract-obs-fullscreen-woes-for-2024/"><u>[New] Tips to Counteract OBS Fullscreen Woes for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-oneplus-11-5g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass OnePlus 11 5G FRP</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-screen-flickering-and-flashing-on-windows-11-and-11/"><u>How to Fix Screen Flickering and Flashing on Windows 11 and 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-20-open-access-free-pubg-montages/"><u>In 2024, Top 20 Open Access, Free PUBG Montages</u></a></li>
+<li><a href="https://extra-information.techidaily.com/peeling-back-layers-of-xstudio-workshop-a-thorough-overview/"><u>Peeling Back Layers of XStudio Workshop - A Thorough Overview</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/score-big-deals-with-lenovo-half-year-offer-cut-costs-by-1500-on-your-thinkpad-selection-insights/"><u>Score Big Deals with Lenovo Half-Year Offer: Cut Costs by $1,500 on Your ThinkPad Selection – Insights</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-trick-to-overcome-no-device-found-hurdle-when-setting-up-your-windows-7-system/"><u>The Ultimate Trick to Overcome No Device Found Hurdle When Setting Up Your Windows 7 System</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/transform-your-laptop-into-a-4k-powerhouse-with-this-innovative-external-gpu-device-latest-tech-review-cnet/"><u>Transform Your Laptop Into a 4K Powerhouse with This Innovative External GPU Device - Latest Tech Review | CNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-nvidias-revolutionary-studio-laptop-range-ultimate-speed-and-graphic-excellence-backed-by-top-tier-gpu-technology-featured-on-zdnet/"><u>Unveiling Nvidia's Revolutionary Studio Laptop Range: Ultimate Speed & Graphic Excellence Backed by Top-Tier GPU Technology | Featured on ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-promo-asus-vivobook-pro-slashed-to-30-off-insights-from-zdnet-exclusive-offer-at-amazon/"><u>Unveiling the Promo: Asus VivoBook Pro Slashed to 30% Off - Insights From ZDNet Exclusive Offer at Amazon</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

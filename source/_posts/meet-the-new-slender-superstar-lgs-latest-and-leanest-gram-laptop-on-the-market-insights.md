@@ -1,7 +1,7 @@
 ---
 title: "Meet the New Slender Superstar: LG's Latest and Leanest Gram Laptop on the Market Insights"
-date: 2024-12-03T02:22:08.817Z
-updated: 2024-12-05T11:11:03.590Z
+date: 2024-12-05T07:01:36.598Z
+updated: 2024-12-10T20:30:24.679Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -79,7 +79,7 @@ Now you may be wondering: what's the catch? Is the Asus Zenbook 14 as perfect as
 My biggest issue with the laptop is the fact it can run incredibly warm. You can't even type on the keyboard or have it on your legs without discomfort. Heat vents are found on the bottom and the side, but they don't offer much relief. This problem is exacerbated if you try to use the laptop while charging. There's so much heat that typing on the keyboard becomes uncomfortable. You're honestly better off not using the laptop during this time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -89,7 +89,7 @@ The [Asus Zenbook 14](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.
 You can purchase my review unit's configuration on Best Buy for $799.99, but there's always the option to upgrade the hardware if you're looking for something with more power behind it. A Zenbook 14 sporting an Intel Core Ultra 7 155H processor, Intel Arc GPU, 16GB of RAM, and 1TB of storage will [start at $1,299](https://www.awin1.com/awclick.php?mid=31828&id=423585&clickref=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&ued=https%3A%2F%2Fshop.asus.com%2Fus%2Fasus-zenbook-14-oled-ux3405-laptop.html) but come with significant jump up in processing power. No matter which one you get, it'll be worth the low price.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -136,20 +136,22 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-mastering-photo-distortions-adobe-photoshop-techniques/"><u>[New] Mastering Photo Distortions Adobe Photoshop Techniques</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-venturing-into-virtual-studio-technology-vst-world-for-2024/"><u>[New] Venturing Into Virtual Studio Technology (VST) World for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-leaderboards-unveiled-1-26-in-youtube-snacking/"><u>[Updated] Leaderboards Unveiled #1, #2...#6 in YouTube Snacking</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-a-comprehensive-guide-to-embellishing-images-and-vids-in-windows-10s-photo-app/"><u>2024 Approved A Comprehensive Guide to Embellishing Images and Vids in Windows 10'S Photo App</u></a></li>
-<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-itel-p40plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Itel P40+ | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/dell-upgrades-xps-series-introducing-new-artificial-intelligence-capabilities-while-maintaining-style-techinsights/"><u>Dell Upgrades XPS Series: Introducing New Artificial Intelligence Capabilities While Maintaining Style | TechInsights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-the-leading-5g-notebooks-of-2024-curated-by-tech-experts-at-zdnet/"><u>Discover the Leading 5G Notebooks of 2024, Curated by Tech Experts at ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discovering-the-latest-mac-os-a-comprehensive-overview-of-all-macos-releases/"><u>Discovering the Latest Mac OS: A Comprehensive Overview of All macOS Releases</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-hands-on-metas-unbeatable-512gb-quest-3-package-top-pick-for-virtual-reality-enthusiasts-today/"><u>Get Your Hands on Meta's Unbeatable 512GB Quest 3 Package: Top Pick for Virtual Reality Enthusiasts Today!</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-unveiling-the-secrets-of-zoom-success/"><u>In 2024, Unveiling the Secrets of Zoom Success</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/reviewing-tech-trends-the-vlle-method-for-2024/"><u>Reviewing Tech Trends The VLLE Method for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-reinvented-dell-xps-laptops-infused-with-cutting-edge-artificnial-intelligence-while-maintaining-their-iconic-appeal-coverage-by-zdnet/"><u>The Reinvented Dell XPS Laptops: Infused with Cutting-Edge Artificnial Intelligence While Maintaining Their Iconic Appeal | Coverage by ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-ranked-digital-notepads-comprehensive-reviews-and-picks-your-guide-to-smart-shopping/"><u>Top-Ranked Digital Notepads: Comprehensive Reviews & Picks - Your Guide to Smart Shopping</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-the-premier-vpn-services-of-2024-in-depth-analysis-and-ratings-cnet/"><u>Ultimate Guide to the Premier VPN Services of 2024: In-Depth Analysis and Ratings | CNET</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unlocking-productivity-how-the-hp-copilotplus-laptop-became-my-ultimate-tool-for-successful-telecommuting-a-firsthand-review/"><u>Unlocking Productivity: How the HP Copilot+ Laptop Became My Ultimate Tool for Successful Telecommuting - A Firsthand Review</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-vidma-screen-capture-a-thorough-examination-and-alternative-options-for-2024/"><u>[New] Vidma Screen Capture - A Thorough Examination & Alternative Options for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-brighten-your-surroundings-with-21plus-collage-wonders/"><u>[Updated] Brighten Your Surroundings with 21+ Collage Wonders</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleashing-artful-expression-the-most-exceptional-9-sites-for-3d-graffiti-typefaces/"><u>[Updated] Unleashing Artful Expression The Most Exceptional 9 Sites for 3D Graffiti Typefaces</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-valheim-agronomy-explained-choosing-superior-saplings/"><u>[Updated] Valheim Agronomy Explained Choosing Superior Saplings</u></a></li>
+<li><a href="https://article-posts.techidaily.com/compre-written-explanation-easy-hdr-understanding/"><u>Compre Written Explanation Easy HDR Understanding</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-hp-officejet-pro-8610-drivers-compatible-with-windows-11-10-8-7-vista/"><u>Download & Install HP Officejet Pro 8610 Drivers: Compatible with Windows 11, 10, 8, 7, Vista</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-to-follow-tutorial-on-installing-free-intel-82579v-graphics-card-drivers/"><u>Easy-to-Follow Tutorial on Installing Free Intel 82579V Graphics Card Drivers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fortnite-error-code-84-solved-fixes-for-when-you-cant-join-a-match-with-friends/"><u>Fortnite Error Code #84 Solved: Fixes for When You Can't Join a Match with Friends</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-gigabyte-ethernet-controller-up-to-date-with-this-free-driver-package/"><u>Get Your Gigabyte Ethernet Controller Up-to-Date with This Free Driver Package!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-officejet-pro-8740-driver-download-for-windows-11-10-and-8-get-installed-now/"><u>HP OfficeJet Pro 8740 Driver Download for Windows 11, 10 & 8 – Get Installed Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-pagewide-pro-477dw-driver-installation-files-for-windows-11-and-earlier-versions/"><u>HP PAGEWIDE Pro 477DW Driver Installation Files for Windows 11 and Earlier Versions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/improve-your-video-chats-updating-logitech-c920-driver-compatibility-with-windows-11-10-and-8/"><u>Improve Your Video Chats: Updating Logitech C920 Driver Compatibility with Windows 11, 10 and 8</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722995215946-ps4-stuck-a-complete-guide-to-unfreeze-your-console-easy-steps/"><u>PS4 Stuck? A Complete Guide to Unfreeze Your Console - Easy Steps!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722972754251-ryzen-cpu-firmware-updates-get-your-latest-drivers-here/"><u>Ryzen CPU Firmware Updates - Get Your Latest Drivers Here</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-7-unbeatable-october-black-friday-mobile-bargains-exclusive-offers-you-cant-miss/"><u>Top 7 Unbeatable October Black Friday Mobile Bargains - Exclusive Offers You Can't Miss</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-brother-hl-l2350dw-printer-software-easily-online/"><u>Update Your Brother HL-L2350DW Printer Software Easily Online</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/x-tape-maker-desktop-compatible/"><u>X-Tape Maker Desktop Compatible</u></a></li>
 </ul></div>
 

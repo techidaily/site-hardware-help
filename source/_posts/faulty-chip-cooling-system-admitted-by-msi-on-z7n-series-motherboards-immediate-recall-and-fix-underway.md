@@ -1,7 +1,7 @@
 ---
 title: Faulty Chip Cooling System Admitted by MSI on Z7n Series Motherboards, Immediate Recall and Fix Underway
-date: 2024-08-19T10:27:39.175Z
-updated: 2024-08-20T10:27:39.175Z
+date: 2024-12-09T09:22:14.091Z
+updated: 2024-12-11T08:25:08.418Z
 tags:
   - motherboards
 categories:
@@ -47,6 +47,10 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
 
  The fact is, Loongson has developed its own CPU just a few generations behind Intel and AMD. Considering the Chinese firm has to work around U.S. sanctions and claims to insist on doing everything based on its own IP, the performance could actually be considered impressive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -63,8 +67,6 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -72,8 +74,24 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-ios-guide-to-premium-ps2-emulation-software/"><u>[Updated] 2024 Approved IOS Guide to Premium PS2 Emulation Software</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-secure-your-preference-with-these-9-leading-websites-offering-3d-typography/"><u>[Updated] Secure Your Preference With These 9 Leading Websites Offering 3D Typography</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-immersive-chronicles-a-brief-history/"><u>[Updated] The Immersive Chronicles A Brief History</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/300-discount-on-top-performing-non-thinkpad-non-macbook-laptop-for-productivity-exclusive-prime-day-deal-revealed/"><u>$300 Discount on Top-Performing Non-ThinkPad, Non-MacBook Laptop for Productivity: Exclusive Prime Day Deal Revealed !</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-budget-friendly-flight-machines-the-cheapest-drone-list/"><u>2024 Approved Budget-Friendly Flight Machines The Cheapest Drone List</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-snapchat-friendly-how-to-use-your-camera-roll-effectively/"><u>2024 Approved Snapchat-Friendly How to Use Your Camera Roll Effectively</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/acer-porsche-design-laptop-sale-discounted-price-at-60n-with-savings-of-up-to-800-exclusive-offer-from-zdnet/"><u>Acer Porsche Design Laptop Sale - Discounted Price at $60N with Savings of Up To $800! Exclusive Offer From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/act-fast-secure-your-200-discounted-deal-on-apples-latest-m1-macbook-air-exclusive-offer-from-zdnet/"><u>Act Fast: Secure Your $200 Discounted Deal on Apple's Latest M1 MacBook Air - Exclusive Offer From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/adonit-nest-usb-hub-sale-at-unbeatable-price-now-only-65-the-essential-wfh-device-you-cant-miss/"><u>Adonit Nest USB Hub Sale at Unbeatable Price - Now Only $65! The Essential WFH Device You Can't Miss</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/diverse-voices-all-african-languages-unveiled/"><u>Diverse Voices: All African Languages Unveiled</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-in-depth-analysis-of-the-meta-512gb-quest-3-offer-the-premier-vr-headset-deal-on-the-market/"><u>Get In-Depth Analysis of the Meta 512GB Quest 3 Offer - The Premier VR Headset Deal on the Market!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-oppo-find-x7-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Oppo Find X7 to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/huge-savings-snag-the-discounted-hp-victus-15-gaming-laptop-at-just-515-exclusive-prime-day-offer-from-best-buy-tech-advice/"><u>Huge Savings: Snag the Discounted HP Victus 15 Gaming Laptop at Just $515 - Exclusive Prime Day Offer From Best Buy | Tech Advice</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-picks-professionals-guide-to-the-ideal-video-editing-laptops-comprehensive-reviews-by-tech-gurus/"><u>Top Picks: Professional's Guide to the Ideal Video Editing Laptops - Comprehensive Reviews by Tech Gurus</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-kodi-not-connected-problems-with-easy-solutions/"><u>Troubleshooting Kodi Not Connected Problems with Easy Solutions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/why-you-should-think-twice-about-pricey-laptops-once-you-experience-lenovos-499-chromebook-plus/"><u>Why You Should Think Twice About Pricey Laptops Once You Experience Lenovo's $499 Chromebook Plus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-screen-settings-for-unchanging-screens/"><u>Windows 11 Screen Settings for Unchanging Screens</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->

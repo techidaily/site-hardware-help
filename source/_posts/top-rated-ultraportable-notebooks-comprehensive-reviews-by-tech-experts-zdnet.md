@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Ultraportable Notebooks : Comprehensive Reviews by Tech Experts - ZDNet"
-date: 2024-12-01T23:02:27.500Z
-updated: 2024-12-05T09:30:26.100Z
+date: 2024-12-08T23:13:00.816Z
+updated: 2024-12-11T05:16:03.767Z
 tags:
   - laptops
 categories:
@@ -22,9 +22,17 @@ Luckily, [we've gone hands-on](https://www.zdnet.com/article/how-we-test-laptops
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best laptop in 2024?
 
 Our pick for the overall best laptop in 2024 is the [MacBook Pro (M3 Max)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-macbook-pro-14-laptop-m3-max-chip-36gb-memory-30-core-gpu-1tb-ssd-latest-model-space-black%2F6534620.p%3FskuId%3D6534620&publisher_slug=itechdaily19598&exclusive=1). It's hard to beat the MacBook Pro's 22-hour battery life, its suite of powerful hardware, and its gorgeous 120Hz refresh rate display, all in a super portable and sleek package. This is a laptop that checks off all the boxes and looks as good as it performs. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The best laptops of 2024: Expert tested
 
@@ -41,6 +49,10 @@ Cons
 * Very expensive
 * Heavy to carry around
 * Loud fans
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## MacBook Pro (M3 Max)
 
@@ -79,10 +91,6 @@ Cons
 
 ## LG Gram Pro 16 2-in-1
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best lightweight laptop
 
 LG's Gram Pro 16 2-in-1 is light -- so light, in fact, that it currently holds the Guinness record for being the lightest 16-inch 2-in-1 in the world. This is an impressive feat, considering its powerful hardware and gorgeous OLED display. 
@@ -110,6 +118,10 @@ Cons
 * Expensive
 * Divisive keyboard design
 * Limited ports
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Dell XPS 16
 
@@ -145,10 +157,6 @@ Cons
 
 ## Alienware m18 R2
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best gaming laptop
 
 Dell's Alienware m18 R2 is a top-tier gaming laptop that runs upwards of $3,000, but it's well worth the cost. This is a beastly, high-powered laptop that is designed for one thing: immersive gaming. As the refresh of last year's m18 r1 model, the R2 is a powerful, top-of-the-line gamer's paradise stacked with a 14th-generation HX Intel 24-core 5.8 GHz max boost processor, high-end graphics capabilities, a sophisticated cooling system, and more ports than you'll know what to do with.
@@ -177,7 +185,7 @@ Cons
 * Limited by its lower-end RAM
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Acer Aspire Go 15
@@ -210,15 +218,7 @@ Cons
 * Battery life is variable
 * Can run warm
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Asus Vivobook Pro 15 (2024)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best laptop for content creators
 
@@ -236,6 +236,10 @@ The trackpad also has an ingenious feature called the DialPad that acts as a qui
 
 Show Expert Take Show less 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best laptop?
 
 ZDNET's top pick for the best laptop is Apple's MacBook M3 Max, which features a stunning Liquid Retina XDR display, great performance, and promises 22 hours of battery life. This chart breaks down how the laptop stacks up with the top features on other devices, from price to CPU/GPU, screen size, and display resolution. 
@@ -248,10 +252,6 @@ ZDNET's top pick for the best laptop is Apple's MacBook M3 Max, which features a
 | Alienware m18 R2      | $3,200             | 14th Gen Intel Core i9, Nvidia GeForce RTX 4090, 16GB | 16GB-64GB, up to 8TB SSD |
 | Acer Aspire Go 15     | $299               | Intel Core i3-N305, Intel UHD                         | 8GB, 128GB               |
 | Asus Vivobook Pro 15  | $1,299             | Intel Core Ultra 7 155H, Nvidia GeForce RTX 3050      | 16GB, 1TB                |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Which is the right laptop for you?
 
@@ -270,6 +270,10 @@ Here's a well-researched (and tested) list of our favorite laptops for a wide ar
 | Acer Aspire Go 15                       | A seriously inexpensive laptop that has all the basics for everyday use.                                                                                                           |
 | Asus Vivobook Pro 15                    | A laptop designed specifically for content creators with a brilliant OLED display and solid hardware that doesn't break the bank.                                                  |
 | |                                       |                                                                                                                                                                                    |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How we test laptops
 
@@ -297,6 +301,10 @@ Multiple factors influence the choice of laptops for this list. We look for mach
 * **Purpose:** We strive to answer the question, "What laptop should I get if \_\_\_" as we know you have different workflow and entertainment needs and preferences, from graphic design to gaming.
 * **Value:** The best laptop can be a pricey investment, so we considered qualities that assure you'll get your money's worth.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why should you buy a laptop, and not a desktop or a tablet?
 
 While the desktop form factor, especially in the form of all-in-one (AIO) devices, still exists, laptops come in various sizes and cover many use cases. They range from thin, light, and ultraportable to bulky, powerful, and deskbound. Because of how good laptops are nowadays, most people opt for sticking with a laptop to serve as their main computer. If a small laptop screen is an issue, an external monitor can be connected. 
@@ -309,17 +317,9 @@ While every computing platform has its loyal supporters, most people end up usin
 
 All Windows devices listed here meet the requirements for Windows 11\. If you purchase a device with Windows 10 installed, you will be able to upgrade to Windows 11 if you choose to do so. Note that after October 14, 2025, Windows 10 support will end, and there will be no further security patches or feature updates.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What brand of laptop is best?
 
 In general, the leading PC vendors have the most extensive range of offerings and the best-documented track records for product development and customer relations. Therefore, if you do not have a specialized use case or budgetary constraints, you will typically consider vendors such as Lenovo, HP, Dell, Apple, or Asus. These vendors currently lead the PC market in terms of shipments, along with several other well-known brands.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the best laptops for gaming?
 
@@ -329,6 +329,10 @@ The good news is that you don't need to have the biggest, best, newest component
 
 And if you want to try your hand at content creation, something like the Corsair Voyager a1600 is a sure bet. You might also want to consider equipping with accessories. An Elgato Steam Deck integration, for example, can offer streamlined workflows when editing videos, livestreaming, and even setting up video calls with channel moderators or collaborators.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What are the best laptops for students?
 
 It really depends on the student, but there are some common factors to consider when shopping for a laptop for school. You'll want something small and lightweight for easier commutes to and from school, as well as in between classes. 
@@ -336,10 +340,6 @@ It really depends on the student, but there are some common factors to consider 
 **Also:** [**The best laptops for college students**](https://www.zdnet.com/article/best-college-laptop/)
 
 You'll also want something with at least an 8-hour battery life to get through a typical school day without needing to plug in (which is excellent for younger kids who may be forgetful and leave their charging cable at home). Also look for a laptop with at least 4GB of RAM, 256GB of storage, and cloud-storage backup to create duplicate copies of important files and classwork. You'll also want to avoid laptops with dedicated graphics cards aimed toward gaming to help cut down misuse and procrastination
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the best laptops for business?
 
@@ -403,21 +403,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-ultimate-gopro-battle-hero5-black-vs-hero4-silver/"><u>[Updated] In 2024, Ultimate GoPro Battle Hero5 Black vs Hero4 Silver</u></a></li>
-<li><a href="https://win-blog.techidaily.com/addressing-and-fixing-prolonged-loading-issues-in-fallout-4-gaming-experience/"><u>Addressing and Fixing Prolonged Loading Issues in Fallout 4 Gaming Experience</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/apples-new-generation-of-power-comparing-the-m3-and-m1-macbook-pro-is-it-time-for-an-update/"><u>Apple’s New Generation of Power: Comparing the M3 and M1 MacBook Pro – Is It Time for an Update?</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/effortless-mp4-to-gif-transformation-discover-these-3-charming-apps/"><u>Effortless MP4 to GIF Transformation: Discover These 3 Charming Apps</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/explore-the-new-generation-of-samsung-copilotplus-pc-with-advanced-ai-capabilities-highlighted/"><u>Explore the New Generation of Samsung Copilot+ PC with Advanced AI Capabilities | Highlighted</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/from-clunky-to-comfortable-a-one-week-journey-on-a-split-ergonomic-keyboard-and-its-impact-on-tech-habits/"><u>From Clunky to Comfortable: A One-Week Journey on a Split Ergonomic Keyboard and Its Impact on Tech Habits</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Vivo Y100 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-obtain-the-official-dell-wlan-adapter-drivers-with-step-by-step-instructions/"><u>How to Obtain the Official Dell WLAN Adapter Drivers with Step-by-Step Instructions</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-y36i-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Vivo Y36i | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-top-6-must-have-apps-to-elevate-your-instagram-video-content/"><u>In 2024, Top 6 Must-Have Apps to Elevate Your Instagram Video Content</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/seamless-transition-turning-srt-into-sub/"><u>Seamless Transition Turning SRT Into SUB</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-ultimate-test-how-dells-premium-gaming-laptop-with-unique-features-redefines-expectations-at-3000-zdnet/"><u>The Ultimate Test: How Dell's Premium Gaming Laptop with Unique Features Redefines Expectations at $3,000 | ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-6-advantages-of-choosing-a-chromebook-the-ultimate-device-for-everyone-insights-from-zdnet/"><u>Top 6 Advantages of Choosing a Chromebook: The Ultimate Device for Everyone - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/transform-your-phone-into-a-dual-display-device-with-this-smart-laptop-stand-insights/"><u>Transform Your Phone Into a Dual-Display Device with This Smart Laptop Stand - Insights</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/troubleshoot-and-reduce-memory-overload-in-windows-10-easily/"><u>Troubleshoot & Reduce Memory Overload in Windows 10 Easily</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/upcoming-harsh-pc-market-season-may-benefit-consumers-insights/"><u>Upcoming Harsh PC Market Season May Benefit Consumers - Insights</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-balancing-bitrate-in-obs-broadcasts/"><u>[New] Balancing Bitrate in OBS Broadcasts</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-from-bland-to-brilliant-elevate-your-images-in-canva/"><u>[Updated] From Bland to Brilliant Elevate Your Images in Canva</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-windows-11-unlocked-top-features-on-display/"><u>[Updated] Windows 11 Unlocked Top Features on Display</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-visionary-6-eco-friendly-minecraft-mansions/"><u>2024 Approved Visionary 6 Eco-Friendly Minecraft Mansions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-seamless-updates-with-the-new-driver-for-samsung-850-evo-solid-state-drive/"><u>Experience Seamless Updates with the New Driver for Samsung 850 EVO Solid State Drive</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-downloads-asus-ac68-drivers-for-seamless-wireless-connectivity/"><u>Free Downloads: ASUS AC68 Drivers for Seamless Wireless Connectivity</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Samsung Galaxy S23 FE? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-play-8t-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Play 8T to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-poco-x6-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Poco X6 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-is-it-possible-to-use-miracast-with-apple-iphone-xs-max-drfone-by-drfone-ios/"><u>In 2024, Is it Possible to Use Miracast with Apple iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-the-bookbook-v2-case-by-twelve-south-for-macbook-users/"><u>In-Depth Analysis of the BookBook V2 Case by Twelve South for MacBook Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/keeping-up-to-date-a-tutorial-to-update-your-dell-xps-15s-system-drivers/"><u>Keeping Up-to-Date: A Tutorial to Update Your Dell XPS 15'S System Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722974662302-latest-intel-networking-drivers-for-windows-operating-systems-get-yours-here/"><u>Latest Intel Networking Drivers for Windows Operating Systems - Get Yours Here!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/microencapsulation-is-a-technique-where-healing-agents-are-released-upon-crack-formation-through-broken-microcapsules-in-the-concrete-mix/"><u>Microencapsulation Is a Technique Where Healing Agents Are Released upon Crack Formation Through Broken Microcapsules in the Concrete Mix.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-guide-updating-your-gtx-660-graphics-card-drivers/"><u>Quick Guide: Updating Your GTX 660 Graphics Card Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/resolved-troubleshooting-common-problems-with-the-elgato-hyperdrive-s60/"><u>Resolved: Troubleshooting Common Problems with the Elgato Hyperdrive S60</u></a></li>
 </ul></div>
 

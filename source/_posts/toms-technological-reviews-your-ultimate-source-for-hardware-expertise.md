@@ -1,7 +1,7 @@
 ---
 title: "Tom’s Technological Reviews: Your Ultimate Source for Hardware Expertise"
-date: 2024-08-19T10:19:54.490Z
-updated: 2024-08-20T10:19:54.490Z
+date: 2024-12-04T10:35:46.655Z
+updated: 2024-12-10T18:39:27.073Z
 tags:
   - power-supply
 categories:
@@ -28,6 +28,10 @@ See more of Friday's Real Deals below.
 * **Elgato Stream Deck:** [**now $99 at Amazon**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fgp%2Fproduct%2FB06XKNZT1P%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1065223293966699533-20) **(was $149)**
 * **ASUS ROG Thor 1000W PSU:** [**now $194 at Amazon**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB09SGQ9PPC%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1088334992790324728-20) **(was $359)**
 * **Gigabyte B650M Aorus Elite AX:** [**now $189 at Newegg**](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-6379358999680672387%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fgigabyte-b650m-aorus-elite-ax%252Fp%252FN82E16813145413) **with rebate (was $199)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Today’s best deals in detail
 
@@ -67,18 +71,20 @@ See more of Friday's Real Deals below.
 [View Deal](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-2513991122203814191%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fgigabyte-b650m-aorus-elite-ax%252Fp%252FN82E16813145413)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Looking for more deals?
 
 Category
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/chevron-left.svg "Arrow")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Back to Everything
 
@@ -87,8 +93,9 @@ Brand
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Elgato
 
  GIGABYTE
@@ -101,9 +108,6 @@ Colour
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  Black
 
  White
@@ -112,9 +116,6 @@ Price
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 Any Price
 
  Showing 10 of 40 deals
@@ -124,8 +125,9 @@ Any Price
 SORT BY Price (low to high)  Price (high to low) Product Name (A to Z)  Product Name (Z to A)  Retailer name (A to Z)  Retailer name (Z to A) ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [GIGABYTE B650M AORUS Elite AX](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F5057986138&subId1=techidaily-us-5322157473801276840&sharedId=techidaily-us)
 
 1
@@ -284,8 +286,6 @@ Our Review
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -293,4 +293,17 @@ Our Review
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ive-into-high-quality-audio-7-royalty-free-selections-for-2024/"><u>[New] Dive Into High-Quality Audio 7 Royalty-Free Selections for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-maximizing-instagram-accessing-free-filters-via-searches/"><u>[New] In 2024, Maximizing Instagram Accessing Free Filters via Searches</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-solo-sounder-snafu-remedy-plan/"><u>[New] Solo Sounder Snafu Remedy Plan</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-cutting-edge-analysis-editpro-x-video-editor-2023/"><u>In 2024, Cutting-Edge Analysis EditPro X - Video Editor 2023</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-hosted-network-connectivity-in-windows-11-a-comprehensive-guide/"><u>Mastering Hosted Network Connectivity in Windows 11 - A Comprehensive Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ideal-remote-work-companion-a-leading-lightweight-laptop-that-exceeds-expectations-according-to-our-experts-zdnet/"><u>The Ideal Remote Work Companion: A Leading Lightweight Laptop That Exceeds Expectations, According to Our Experts | ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-perfect-companion-for-remote-work-an-experts-guide-to-lightweight-laptops-that-excel-in-productivity-zdnet-insights/"><u>The Perfect Companion for Remote Work: An Expert's Guide to Lightweight Laptops That Excel in Productivity | ZDNET Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-performer-a-crowd-favorite-laptop-proven-by-testing-exceptional-specs-revealed-on-zdnet/"><u>Top Performer: A Crowd Favorite Laptop Proven by Testing - Exceptional Specs Revealed on ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-halloween-black-friday-gaming-bargains-of-2024-still-going-strong-save-hundreds-now-techinsider/"><u>Ultimate Halloween Black Friday Gaming Bargains of 2024 Still Going Strong – Save Hundreds Now | TechInsider</u></a></li>
+</ul></div>
 

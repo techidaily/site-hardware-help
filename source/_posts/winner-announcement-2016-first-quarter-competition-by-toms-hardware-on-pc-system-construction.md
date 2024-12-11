@@ -1,7 +1,7 @@
 ---
 title: "Winner Announcement: 2016 First Quarter Competition by Tom's Hardware on PC System Construction"
-date: 2024-08-19T10:24:10.403Z
-updated: 2024-08-20T10:24:10.403Z
+date: 2024-12-09T12:06:10.080Z
+updated: 2024-12-11T01:51:55.525Z
 tags:
   - build
 categories:
@@ -15,9 +15,21 @@ thumbnail: https://thmb.techidaily.com/c3e502f20e7efdaa79fe7247c347cba062451d0a1
 
 ![](https://cdn.mos.cms.futurecdn.net/8uwXgGgUvFKmaEtYiubBDA-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##
 
 ![](https://cdn.mos.cms.futurecdn.net/gRWZJtRVgRiLT8Rc7hcKrV-320-80.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## System Builder Marathon Q4 2015
 
@@ -32,8 +44,9 @@ thumbnail: https://thmb.techidaily.com/c3e502f20e7efdaa79fe7247c347cba062451d0a1
 5. $912 AMD LAN Box PC
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## $912 AMD LAN Box PC
 
  Even though my Intel-based revision of this quarter vindicates my assessments last quarter, a number of readers are still convinced that a properly cooled and overclocked 860K is the gateway to budget gaming goodness. After experiencing the limitations and frustrations last quarter, I still have my reservations. However, the SBM is a perfect place to empirically test this and give AMD's budget quad-core every chance to prove itself.
@@ -89,16 +102,10 @@ Deepcool Gamer Storm Gabriel
 
  Every component is identical to the Intel build earlier this week except the CPU, cooler and motherboard.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Definition of Insanity
 
  Some of you out there might be groaning and asking, "What, this again?" Hold on a minute. Those asking for a better 860K overclock have a valid argument. The 860K was handicapped last quarter with insufficient cooling to get any kind of meaningful overclock. You can't argue with that. This time around the CPU gets better treatment in the form of an aftermarket cooler and a larger case. So no, we're not trying the exact same thing and expecting different results. Do I expect the 860K to outperform the i3-4170? No, I don't. However, in order for me to prove that one way or the other, I need hard numbers and data. I'm curious to see if it can close the gap, if not overcome it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Alternate Component Selection
 
  I don't need to spend time explaining the same parts from[two days ago](https://tools.techidaily.com) . To save space and time, I'll only address the three new components.
@@ -130,17 +137,15 @@ Deepcool Gamer Storm Gabriel
 [View Deal](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-8198437440134718399%26murl%3Dhttp%253A%252F%252Fwww.newegg.com%252FProduct%252FProduct.aspx%253Fcm%255Fmmc%253Dbac-tomshardwaresbm-%255F-systembuildereditorial-%255F-CPU%2BFans%2B%2526%2BHeatsinks-%255F-N82E16835856007%2526Item%253DN82E16835856007%2526IsFeedbackTab%253DTrue%2526nm%255Fmc%253DExtBanner)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Assembly
 
  The only significant change in assembly of this against the Intel build is the CPU cooler. And I ran into fitment issues with it. While I specifically got the low profile version Ballistix memory kit, AMD's rectangular mounting bracket meant the cooler could only be installed in two orientations. Both are problematic with this motherboard. The Gabriel is thinnest on the end opposite of the heat pipe curve. This part extends farthest from the CPU socket and can clear most RAM modules. On either side, the fins have a small step making them a little thicker. This edge of the cooler is a millimeter or two too thick to fully clear the RAM on the side, touching the very top edge of the RAM heat spreader.
 
 ![](https://cdn.mos.cms.futurecdn.net/nKfSxuUzQNwqBkyJ4996bk-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
  If the fins were a little thinner or my RAM didn't have a heat spreader, this would be a non-issue. It's still not technically a problem. It doesn't keep the RAM from being installed, it doesn't even put flex on the RAM stick. It's just annoying that a cooler marketed as designed specifically for ITX cooling seems to be borderline incompatible with every current AMD ITX motherboard (every model on Newegg right now has the CPU socket oriented the same way). Perhaps some of them have RAM slots a little farther from the CPU socket, which would solve this, but if Deepcool wanted to be universally compatible, shaving a few millimeters off the fins would have accomplished this without impacting thermal performance.
 
 ![](https://cdn.mos.cms.futurecdn.net/EkXfRYe3XW8vhT2PuH7XkJ-320-80.jpg)
@@ -161,13 +166,14 @@ Deepcool Gamer Storm Gabriel
 
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
-![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
  The RAM caused me no end of heartburn and frustration. I kept running into seemingly random crashes, regardless of RAM timings. I worried the RAM was somehow bad, but it worked flawlessly in the Intel build. After a quick appeal for help to Thomas, I found the motherboard simply required at least 1.64V to run the RAM, even at stock speeds. Again, the Intel build had no problem with 1.5V. I've never seen a motherboard that's more stable overclocked than at stock speeds, until now.
 
  My system this time around was only capable of reaching DDR3-2133, a bit shy of the 2400 speeds I got last quarter. I did get respectable timings of 10-11-10-31, but that was the limit. Along with the RAM, I upped the northbridge from 1800 to 2000MHz with only a slight bump in voltage to 1.1625V. I wasn't trying to match the frequency of last quarter, I simply couldn't boot the machine at anything past 2000MHz.
@@ -180,8 +186,6 @@ Deepcool Gamer Storm Gabriel
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -189,4 +193,21 @@ Deepcool Gamer Storm Gabriel
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-essential-list-of-kid-safe-drones/"><u>[New] 2024 Approved Essential List of Kid-Safe Drones</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-navigating-youtube-setup-a-newbies-complete-guidebook/"><u>[New] 2024 Approved Navigating YouTube Setup A Newbie's Complete Guidebook</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-assessing-the-dominance-of-splitcam-recording/"><u>[New] Assessing the Dominance of SplitCam Recording</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-frames-to-fabulous-the-ultimate-list-of-photo-plugins-for-2024/"><u>[Updated] Frames to Fabulous The Ultimate List of Photo Plugins for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-how-to-transcribe-a-youtube-video-free-for-2024/"><u>[Updated] How to Transcribe a YouTube Video [FREE] for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-start-editing-with-ease-implementing-movie-maker-in-windows-11/"><u>2024 Approved Start Editing with Ease Implementing Movie Maker in Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/affordable-performance-meets-style-with-the-499-lenovo-chromebook-plus-is-it-time-to-ditch-costly-computers/"><u>Affordable Performance Meets Style with the $499 Lenovo Chromebook Plus – Is It Time to Ditch Costly Computers?</u></a></li>
+<li><a href="https://win11.techidaily.com/fix-install-failure-microsofts-pc-manager-for-winxp/"><u>Fix Install Failure: Microsoft's PC Manager for WinXP</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-it-vivo-x-fold-2-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Vivo X Fold 2 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-apple-synergy-vision-and-sound-merging/"><u>In 2024, Apple Synergy Vision and Sound Merging</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/most-portable-and-efficient-laptops-of-the-year-2024-our-detailed-analysis-pcmag/"><u>Most Portable and Efficient Laptops of the Year 2024: Our Detailed Analysis | PCMag</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-110-seasonal-bargains-on-electronics-save-big-on-iphones-smart-tvs-and-computers-holiday-guide/"><u>Top 110 Seasonal Bargains on Electronics - Save Big on iPhones, Smart TVs & Computers Holiday Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unleash-the-full-potential-of-your-pc-with-the-16-port-thunderbolt-dock-save-70-at-amazon-today-techadvice/"><u>Unleash the Full Potential of Your PC with the 16-Port Thunderbolt Dock - Save $70 at Amazon Today | TechAdvice</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlocking-the-ultimate-gaming-bargains-for-prime-day-in-oct-24-insider-tips-from-zdnet/"><u>Unlocking the Ultimate Gaming Bargains for Prime Day in Oct '24 | Insider Tips From ZDNet</u></a></li>
+</ul></div>
 

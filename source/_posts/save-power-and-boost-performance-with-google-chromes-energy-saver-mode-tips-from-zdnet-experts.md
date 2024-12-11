@@ -1,7 +1,7 @@
 ---
 title: Save Power and Boost Performance with Google Chrome's Energy Saver Mode - Tips From ZDNet Experts
-date: 2024-12-03T21:16:24.189Z
-updated: 2024-12-05T06:07:42.193Z
+date: 2024-12-04T08:00:42.687Z
+updated: 2024-12-11T00:35:21.806Z
 tags:
   - laptops
 categories:
@@ -22,10 +22,6 @@ Google
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### See also
 
 * [How to use Google Pixel's Magic Eraser to wipe out photobombers](https://www.zdnet.com/article/how-to-use-magic-eraser-on-the-google-pixel/)
@@ -40,7 +36,7 @@ Google Chrome is known as a bit of a [resource hog](https://www.zdnet.com/articl
 In an attempt to make the browser a bit less of a drain on the batteries of portable devices, Google has rolled out a new feature called Energy Saver mode. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to enable Energy Saver mode on Google Chrome
@@ -48,7 +44,7 @@ In an attempt to make the browser a bit less of a drain on the batteries of port
 It's currently an experimental feature that's not enabled by default, so you'll need to enable it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Requirements
@@ -56,7 +52,7 @@ It's currently an experimental feature that's not enabled by default, so you'll 
 First, you need to be running version 108 or higher of Google Chrome on Windows, Mac, Linux, or Chromebooks. This version is rolling out to users as of Tuesday, Nov. 29\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Check your Chrome browser version
@@ -68,6 +64,10 @@ _chrome://settings/help_
 If you are not yet running version 108 or higher, you need to update.
 
 **Also:** [**The best Cyber Monday Chromebook deals still available**](https://www.zdnet.com/article/cyber-monday-chromebook-deals-november-28-2022/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Enable the experimental feature
 
@@ -94,7 +94,7 @@ Adrian Kingsley-Hughes/ZDNET
 Find the flag, change the drop-down menu for the flag to Enabled**,** and then click Restart to apply the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Select when the battery saver feature will activate
@@ -153,18 +153,18 @@ If you want to roll this setting back, head back to the "Enable the battery save
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-navigating-immediate-account-suspension-due-to-copyright-violations/"><u>[New] Navigating Immediate Account Suspension Due to Copyright Violations</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-perfect-your-social-media-history-looking-back-mastery/"><u>[Updated] 2024 Approved Perfect Your Social Media History Looking Back Mastery</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-6-metaverse-examples-to-help-you-have-a-deep-insight-about-it/"><u>[Updated] 6 Metaverse Examples to Help You Have a Deep Insight About It</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-the-reimagined-sony-bdp-s6700-experience/"><u>2024 Approved The Reimagined Sony BDP-S6700 Experience</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/decoding-apples-latest-powerhouse-a-comprehensive-breakdown-of-m3-vs-m3-pro-vs-m3-max-before-you-buy/"><u>Decoding Apple's Latest Powerhouse: A Comprehensive Breakdown of M3 Vs. M3 Pro Vs. M3 Max Before You Buy</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/discovering-compact-zoom-greatness-in-the-sx420-powershot/"><u>Discovering Compact Zoom Greatness in the SX420 PowerShot</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/early-birds-guide-to-top-buys-pre-prime-day-2-grope-of-the-clock-insider-tips/"><u>Early Bird's Guide to Top Buys Pre-Prime Day 2 Grope of the Clock! Insider Tips</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-oneplus-11-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on OnePlus 11 5G? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-realme-c51-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Realme C51 | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/launch-alert-apple-might-unveil-new-macbook-air-ipad-pro-and-ipad-air-in-march-insights/"><u>Launch Alert: Apple Might Unveil New MacBook Air, iPad Pro & iPad Air in March - Insights</u></a></li>
-<li><a href="https://network-issues.techidaily.com/success-unlocked-nvidia-control-center/"><u>Success: Unlocked Nvidia Control Center</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-durable-computers-zdnets-ultimate-guide/"><u>Top Durable Computers : ZDNet's Ultimate Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-ranked-gaming-laptop-showdown-of-2024-including-razer-acer-msi-and-others-an-expert-review/"><u>Top-Ranked Gaming Laptop Showdown of 2024: Including Razer, Acer, MSI & Others - An Expert Review</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-top-10-firstrow-sports-alternatives/"><u>[New] In 2024, Top 10 Firstrow Sports Alternatives</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/boosting-collaboration-essential-zoom-video-alterations/"><u>Boosting Collaboration Essential Zoom Video Alterations</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-insights-on-samsungs-galaxy-s21-release-stripping-back-to-enhance-functionality/"><u>Expert Insights on Samsung's Galaxy S21 Release: Stripping Back to Enhance Functionality</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/honor-90-music-recovery-recover-deleted-music-from-honor-90-by-fonelab-android-recover-music/"><u>Honor 90 Music Recovery - Recover Deleted Music from Honor 90</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-all-rounder-why-this-highly-praised-laptop-stands-out-with-its-robust-build-quality-insights/"><u>The Ultimate All-Rounder: Why This Highly Praised Laptop Stands Out with Its Robust Build Quality - Insights</u></a></li>
+<li><a href="https://fox-info.techidaily.com/the-ultimate-path-to-stunning-hdr-portraits/"><u>The Ultimate Path to Stunning HDR Portraits</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-satechi-usb-c-hub-top-features-at-just-150-tech-review-by-zdnet/"><u>The Ultimate Satechi USB-C Hub: Top Features at Just $150 - Tech Review by ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-picks-most-unbeatable-laptop-offers-in-july-2024-spotted-on-zdnet/"><u>Top Picks: Most Unbeatable Laptop Offers in July 2024 - Spotted on ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-picks-ultimate-guide-to-travel-tech-essentials-insights-from-zdnet/"><u>Top Picks: Ultimate Guide to Travel Tech Essentials - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/transforming-productivity-a-one-week-journey-on-a-split-ergonomic-keyboard-and-its-impact/"><u>Transforming Productivity: A One-Week Journey on a Split Ergonomic Keyboard and Its Impact</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-how-to-convert-whatsapp-audio-to-mp3-in-the-quickest-way/"><u>Updated 2024 Approved How to Convert WhatsApp Audio to MP3 in the Quickest Way?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/vanquish-sims-blackout-trouble/"><u>Vanquish Sims' Blackout Trouble</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/zdnet-unveils-stunning-economically-priced-laptop-with-exceptional-screen-quality-worth-every-penny/"><u>ZDNet Unveils Stunning, Economically Priced Laptop with Exceptional Screen Quality - Worth Every Penny!</u></a></li>
 </ul></div>
 

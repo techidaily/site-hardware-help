@@ -1,7 +1,7 @@
 ---
 title: "Voluntary Recall Alert: Oil Leakage & Fan Belt Sounds on Enermax Revolution D.F. 2/X PSU Units"
-date: 2024-08-19T10:20:06.499Z
-updated: 2024-08-20T10:20:06.499Z
+date: 2024-12-08T17:53:17.771Z
+updated: 2024-12-10T18:45:34.645Z
 tags:
   - power-supply
 categories:
@@ -18,6 +18,10 @@ Want to build a PC on a budget but need some outstanding performance for the pri
  You can also pick up a power supply for your new build or upgrade your existing PSU with the[Super Flower Leadex V Platinum Pro 850W PSU for $129](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-3375912336607948806%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fsuper-flower-leadex-v-platinum-pro-sf-850f14tp-850w%252Fp%252F1HU-024C-00043) . Use promo code**MKTAMNPMAR27** at checkout for avail of the $30 discount.
 
 See more Real Deals below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## TL;DR — Today’s Best Deals
 
@@ -63,9 +67,6 @@ See more Real Deals below.
 
 [View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB07S98YLHM%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-8780951100740110730-20)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Looking for more deals?
 
 Category
@@ -74,15 +75,16 @@ Category
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/chevron-left.svg "Arrow")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Back to Hubs & Switches
 
 Brand
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Intel
 
  Netgear
@@ -93,9 +95,6 @@ Colour
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
  Black
 
  Copper
@@ -105,8 +104,9 @@ Condition
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  New
 
  Refurbished
@@ -116,8 +116,9 @@ Price
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Any Price
 
  Showing 10 of 52 deals
@@ -127,8 +128,9 @@ Any Price
 SORT BY Price (low to high)  Price (high to low) Product Name (A to Z)  Product Name (Z to A)  Retailer name (A to Z)  Retailer name (Z to A) ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [Netgear GS305E](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07PJ7XZ7X%2Fref%3Dasc%5Fdf%5FB07PJ7XZ7X1723888800000%3Ftag%3Dhawk-future-20%26creative%3D395261%26creativeASIN%3DB07PJ7XZ7X%26linkCode%3Dasn%26ascsubtag%3Dtomshardware-us-1310836781021125979-20)
 
 1
@@ -287,8 +289,6 @@ Our Review
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -296,4 +296,26 @@ Our Review
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-achieving-seamless-video-communication-between-xbox-and-zoom/"><u>[New] In 2024, Achieving Seamless Video Communication Between Xbox & Zoom</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-live-stream-to-file-top-performing-obs-recording-tools/"><u>[Updated] 2024 Approved Live Stream to File Top Performing OBS Recording Tools</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unlocking-youtubes-potential-key-tactics-for-expanding-your-viewership/"><u>[Updated] Unlocking YouTube's Potential Key Tactics for Expanding Your Viewership</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ace-your-choice-the-ultimate-guide-to-picking-a-professional-tested-touchscreen-laptop-zdnet-insights/"><u>Ace Your Choice: The Ultimate Guide to Picking a Professional Tested Touchscreen Laptop - ZDNet Insights</u></a></li>
+<li><a href="https://driver-download.techidaily.com/canon-d530-driver-download-and-update/"><u>Canon D530 Driver Download & Update</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/choosing-the-ideal-chromebook-for-academics-in-depth-analysis-by-experts/"><u>Choosing the Ideal Chromebook for Academics: In-Depth Analysis by Experts</u></a></li>
+<li><a href="https://win-online.techidaily.com/ejecucion-de-copias-de-seguridad-y-transferencia-de-archivo-en-mac-casos-practicos/"><u>Ejecución De Copias De Seguridad Y Transferencia De Archivo en Mac: Casos Prácticos</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-fixes-for-your-non-charging-macbook-pro-expert-tips-and-tricks/"><u>Free Fixes for Your Non-Charging MacBook Pro: Expert Tips & Tricks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-guide-to-thoroughly-deleting-private-information-on-your-windows-laptop-safely/"><u>Free Guide to Thoroughly Deleting Private Information on Your Windows Laptop Safely</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Vivo V27e? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-from-apple-iphone-11-pro-max-by-drfone-ios/"><u>How To Remove the Two Factor Authentication From Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-your-lava-yuva-2-pro-lock-screen-password-by-drfone-android/"><u>How to Reset your Lava Yuva 2 Pro Lock Screen Password</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/octobers-prime-day-bonanza-top-discounted-items-to-shop-this-year-cnet-special-report/"><u>October's Prime Day Bonanza: Top Discounted Items to Shop This Year | CNET Special Report</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/prime-day-exclusive-save-460-on-the-microsoft-surface-pro-8-top-deals-at-zdnet/"><u>Prime Day Exclusive: Save $460 on the Microsoft Surface Pro 8 | Top Deals at ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-test-why-the-wrinkle-resistant-usb-c-cord-is-a-must-have-for-every-traveler-a-deep-dive/"><u>The Ultimate Test: Why the 'Wrinkle-Resistant' USB-C Cord Is a Must-Have for Every Traveler - A Deep Dive</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-non-persistent-print-device-selection/"><u>Troubleshooting: Non-Persistent Print Device Selection</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlock-the-best-early-access-primes-score-exceptional-deals-on-laptops-this-october-2nt-forget-to-check-out-zdnet/"><u>Unlock the Best Early Access Primes: Score Exceptional Deals on Laptops This October 2N't Forget to Check Out ZDNET!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/why-the-lg-gram-pro-outshines-apples-macbook-air-across-three-main-factors-insights-from-zdnet/"><u>Why the LG Gram Pro Outshines Apple's MacBook Air Across Three Main Factors - Insights From ZDNet</u></a></li>
+</ul></div>
 

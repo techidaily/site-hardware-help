@@ -1,7 +1,7 @@
 ---
 title: Uncompromising Performance Meets Style with Be Quiet's Latest Dark Base 지하 701 Computer Case Launch
-date: 2024-08-19T10:22:51.841Z
-updated: 2024-08-20T10:22:51.841Z
+date: 2024-12-06T18:32:39.089Z
+updated: 2024-12-10T23:28:04.334Z
 tags:
   - cases
 categories:
@@ -28,6 +28,10 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
  (Image credit: Tom's Hardware)
 
  And while all sides of the Terra are amply vented (albeit without any dust filters), fan support is limited to a single 120 mm spinner at the bottom rear. In my building experience with the case, detailed below, even with a modular SFX power supply, that bottom area is going to be very occupied by cable slack. Plus, if you do put a fan there, you lose one of the two mounting places available for 2.5-inch drives.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fractal Design Terra Specs
 
@@ -57,6 +61,10 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 
 ![Fractal Design Terra](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  So, about the Terra's adjustable spine: In order to make the absolute best possible use of the case's scant 6.02-inch width, a single piece of metal is where you'll mount the Mini-ITX motherboard, on one side, and your graphics card on the other (a PCIe 4 riser cable comes pre-installed). And by loosening two screws on the top and two on the bottom (easy to spot as they sit atop orange plastic spacers), you can move that spine to one of seven different evenly spaced positions to give you more room on the CPU and PSU side, or more room on the graphics card side.
@@ -67,10 +75,6 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 
  While I didn't have the time to put together a full review before heading off to Computex, Fractal did send the case ahead of the launch date and, space constraints aside, there's a lot I like about it. It's surprisingly easy to build in for such a small chassis.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -84,24 +88,19 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![Fractal Design Terra](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![Fractal Design Terra](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  As you've probably noticed in the photos, the side panels flip up gull-wing style, and the rear of the frame is spring-mounted, so if you push back on the hinges, you can remove the side doors completely. Similarly, the top panel pulls back (via a stylish and handy faux-leather tab) and lifts off, giving you full access to three sides of the case for the build process.
 
 ![Fractal Design Terra](https://cdn.mos.cms.futurecdn.net/GGZ7h2GYJ9xDyuCYcbGRUQ-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Mini-ITX motherboard installation is dead simple. You'll want to install your cooler, RAM and any M.2 drives on the board first, then flip the case on its side and the motherboard drops right in, to be anchored via four screws on the pre-installed standoffs. Again, CPU cooler space is extremely limited. I installed a[Thermalright AXP90-X47](http://www.thermalright.com/product/axp90-x47/) cooler for my Ryzen 5 5600 CPU, but the smaller AMD Wraith or Intel stock coolers should fit here just fine (again, depending on how much GPU space you need on the other side, so be sure to double-check those numbers).
@@ -111,9 +110,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![Fractal Design Terra](https://cdn.mos.cms.futurecdn.net/hQRNNowsajoJZWAxs2Kk3R-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  Next, I spun the case around and installed my GPU. For this build, I used an old Gigabyte RTX 2060 Super. I could have installed something thicker and a couple of inches longer here, but the Gigabyte card wasn't currently in another system, my Zotac GTX 1080 Ti was borderline too thick (and too old), and the Colorful RTX 4090 in my main system is too long, at over 13 inches. I'd say in most instances, you should expect to fit most 4070-class cards in this case – as long as it's not one of the crazy thick overbuild models. Higher-end Nvida FE cards should also fit, but then you're going to need a larger SFX-L power supply, and I don't feel great about all that heat-generating hardware going into a cramped case with, at best, a single intake fan. Again, Fractal could have made this case just a little bigger to accommodate more powerful cards. But as it is, it's probably good that you can't quite fit the most powerful, most overclocked cards in this case, no matter how vented all the panels are.
@@ -130,9 +129,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Fractal Design Terra](https://cdn.mos.cms.futurecdn.net/cy4rnk357zphPGMR6K8oaQ-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  There's no[audio](https://tools.techidaily.com) jack here, which may bother some. But as this is a tiny case that's clearly designed to sit on your desk, the audio jacks on the motherboard aren't much more than a foot away at the back of the case. Part of me wants to see more USB ports up front, but again, those are within fairly easy reach around the back.  
@@ -140,6 +136,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  One other thing of note about the Fractal Terra is that I don't love the matte finish on the aluminum front and sides. It looks nice out of the box, but feels a bit rough rather than the smooth metal you might be expecting – a bit like an old chalkboard. As such, at least with the black model I tested, it has a tendency to pick up and show smudges or small bits of material or fibers from paper towels or cloths you might use to wipe it down (or even just my own fingers). This is fairly minor, but in a case that's so obviously geared toward pretty design, the fact that the front is a bit hard to keep clean feels like an oversight.
 
 ![Fractal Design Terra](https://cdn.mos.cms.futurecdn.net/PiQcTyM4XVJgWtYgom3aGQ-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -155,8 +155,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -164,4 +162,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/iggles-in-the-garage-ingenious-funny-video-concepts-for-youtubers-for-2024/"><u>[New] Giggles in the Garage Ingenious Funny Video Concepts for YouTubers for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-the-definitive-window-on-game-recording-in-windows-11/"><u>[New] In 2024, The Definitive Window on Game Recording in Windows 11</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-unleash-potential-creating-a-youtube-channel-that-shines-in-games/"><u>[New] In 2024, Unleash Potential Creating a YouTube Channel that Shines in Games</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amazons-biggest-savings-pre-prime-day-2cuary-2024-uncovered-exclusive-deals-and-tips-cnet/"><u>Amazon's Biggest Savings Pre-Prime Day 2Cuary 2024 Uncovered – Exclusive Deals & Tips | CNET</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/beste-moglichkeiten-um-flac-musikdateien-auf-ihrem-iphone-zu-ubertragen-und-abzuspielen/"><u>Beste Möglichkeiten, Um FLAC Musikdateien Auf Ihrem iPhone Zu Übertragen Und Abzuspielen</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hassle-free-ricoh-printer-connection-find-and-install-best-matching-windows-drivers/"><u>Hassle-Free Ricoh Printer Connection: Find & Install Best Matching Windows Drivers</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-tecno-spark-go-2023-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Tecno Spark Go (2023) Data? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-g54-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Motorola G54 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/leading-security-key-options-for-202n-proven-winners-by-specialists-cnet/"><u>Leading Security Key Options for 202N: Proven Winners by Specialists | CNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/reviews-and-recommendations-discover-how-this-super-light-laptop-is-transforming-the-world-of-remote-workers/"><u>Reviews & Recommendations: Discover How This Super-Light Laptop Is Transforming the World of Remote Workers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/snag-your-lenovo-flex-3-chromebook-at-a-steal-this-black-friday-only-99-dont-miss-out-with-pre-cyber-monday-savings-insider-tech-news/"><u>Snag Your Lenovo Flex 3 Chromebook at a Steal This Black Friday – Only $99! Don't Miss Out with Pre-Cyber Monday Savings | Insider Tech News</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-vivo-s17t-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Vivo S17t for Streaming | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-portable-displays-comprehensive-reviews-and-comparisons-by-zdnet/"><u>Top-Rated Portable Displays - Comprehensive Reviews & Comparisons by ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-deal-alert-top-rated-gaming-speakers-now-30-cheaper-on-amazon-reviewed/"><u>Unbeatable Deal Alert: Top-Rated Gaming Speakers Now 30% Cheaper on Amazon - Reviewed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbelievable-deal-alert-top-tier-gaming-audio-experience-now-just-150-less-on-amazon-discovered-by-zdnet/"><u>Unbelievable Deal Alert: Top-Tier Gaming Audio Experience Now Just $150 Less on Amazon - Discovered by ZDNet!</u></a></li>
+</ul></div>
 

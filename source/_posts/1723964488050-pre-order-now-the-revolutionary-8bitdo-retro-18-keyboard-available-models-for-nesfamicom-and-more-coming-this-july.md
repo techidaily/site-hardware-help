@@ -1,7 +1,7 @@
 ---
 title: "Pre-Order Now: The Revolutionary 8BitDo Retro 18 Keyboard - Available Models for NES/Famicom & More Coming This July!"
-date: 2024-08-19T10:20:58.774Z
-updated: 2024-08-20T10:20:58.774Z
+date: 2024-12-05T00:16:24.237Z
+updated: 2024-12-10T20:13:05.148Z
 tags:
   - peripherals
 categories:
@@ -37,14 +37,11 @@ _**Connectivity:**_ _Bluetooth, wireless 2.4 GHz, or wired_
 
  With three modes of connectivity (wired cable, Bluetooth, or 2.4GHz wireless) the 8BitDo Fami Edition is compatible with almost any situation you would want this mechanical gaming keyboard for. Perfect for both typing and gaming, this keyboard uses Kailh box white V2 switches on a hot-swappable PCB.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -53,8 +50,24 @@ _**Connectivity:**_ _Bluetooth, wireless 2.4 GHz, or wired_
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-tis-the-season-for-laughs-the-goofy-vhs-special/"><u>[New] 'Tis the Season for Laughs 'The Goofy' VHS Special</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-easy-entrance-to-follow-creating-a-user-friendly-subscribe-link/"><u>[New] 2024 Approved Easy Entrance to Follow Creating a User-Friendly Subscribe Link</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-pixtra-photo-editor-deep-dive/"><u>[New] 2024 Approved Pixtra Photo Editor Deep Dive</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-essential-steps-for-recording-on-facebook-live-for-2024/"><u>[New] Essential Steps for Recording on Facebook Live for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ace-your-choice-the-ultimate-guide-to-picking-a-professional-tested-touchscreen-laptop-zdnet-insights/"><u>Ace Your Choice: The Ultimate Guide to Picking a Professional Tested Touchscreen Laptop - ZDNet Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-guide-to-thoroughly-deleting-private-information-on-your-windows-laptop-safely/"><u>Free Guide to Thoroughly Deleting Private Information on Your Windows Laptop Safely</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-apple-iphone-14-pro-max-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on Apple iPhone 14 Pro Max With or Without Password</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/step-by-step-tutorial-transforming-vob-content-into-divx-for-windows-10-and-mac-users/"><u>Step-by-Step Tutorial: Transforming VOB Content Into DivX for Windows 10 and Mac Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-perfect-compact-power-bank-for-laptops-phones-and-tablets-discover-the-new-essential-gadget/"><u>The Perfect Compact Power Bank for Laptops, Phones & Tablets - Discover the New Essential Gadget !</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-the-internets-unintended-symphony-glitch-sounds-collection-downloadable/"><u>Updated The Internets Unintended Symphony Glitch Sounds Collection Downloadable</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/why-the-lg-gram-pro-outshines-apples-macbook-air-across-three-main-factors-insights-from-zdnet/"><u>Why the LG Gram Pro Outshines Apple's MacBook Air Across Three Main Factors - Insights From ZDNet</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/ye-artful-jargon-unlocking-pirate-slang-and-vocabulary/"><u>Ye Artful Jargon: Unlocking Pirate Slang and Vocabulary</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/zdnets-ultimate-ranking-the-toughest-and-most-resilient-laptops-of-the-year-2024/"><u>ZDNet's Ultimate Ranking: The Toughest and Most Resilient Laptops of the Year 2024</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+

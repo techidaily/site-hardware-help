@@ -1,7 +1,7 @@
 ---
 title: In Depth Analysis of the ASRock Z79#I Lightning Wi-Fi – Small Package, Big Firepower for Connectivity
-date: 2024-08-19T10:28:07.155Z
-updated: 2024-08-20T10:28:07.155Z
+date: 2024-12-03T23:42:59.582Z
+updated: 2024-12-11T11:57:57.709Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,20 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-framework-for-captivating-streams-on-youtube/"><u>[New] The Ultimate Framework for Captivating Streams on YouTube</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-navigating-tags-on-youtube-tips-and-tricks-for-2024/"><u>[Updated] Navigating Tags on YouTube - Tips and Tricks for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ces-2023-highlights-top-tech-unveiled-on-the-second-day-featured-by-zdnet/"><u>CES 2023 Highlights: Top Tech Unveiled on the Second Day Featured by ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-experiences-testing-the-mistral-ais-le-chat-against-chatgpt/"><u>Comparing Experiences: Testing the Mistral AI's Le Chat Against ChatGPT</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-test-of-brydge-sp-max-plus-the-ideal-robust-coverage-for-your-surface-pro-8-expert-insights/"><u>Comprehensive Test of Brydge SP Max Plus: The Ideal Robust Coverage for Your Surface Pro 8 - Expert Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-the-excellence-in-engineering-why-the-2024-dell-xps-14-deserves-your-attention-today-zdnet/"><u>Exploring the Excellence in Engineering: Why the 2024 Dell XPS 14 Deserves Your Attention Today | ZDNet</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/exploring-the-top-8-collaborative-affordable-android-video-mosaics/"><u>Exploring the Top 8 Collaborative, Affordable Android Video Mosaics</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-crafting-viral-covers-for-your-facebook-profile/"><u>In 2024, Crafting Viral Covers for Your Facebook Profile</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Honor X9a? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/microsoft-innovates-with-ai-discover-the-revolutionary-features-of-the-new-surface-pro-10-and-laptop-6-insights/"><u>Microsoft Innovates with AI: Discover the Revolutionary Features of the New Surface Pro 10 and Laptop 6 | Insights</u></a></li>
+<li><a href="https://win-docs.techidaily.com/schritt-fur-schritt-anleitung-zur-reparatur-der-partitionstabelle-in-windows/"><u>Schritt-Für-Schritt-Anleitung Zur Reparatur Der Partitionstabelle in Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/slash-your-budget-get-the-macbook-pro-16-inch-m1-max-from-bandh-photo-zdnet-deal-alert/"><u>Slash Your Budget! Get the MacBook Pro 16-Inch M1 Max From B&H Photo | ZDNET Deal Alert!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-windows-laptop-picks-comprehensive-reviews-and-comparisons-by-industry-experts-techradar/"><u>Top-Rated Windows Laptop Picks - Comprehensive Reviews & Comparisons by Industry Experts | TechRadar</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Offer: Save on HP Victus"
-date: 2024-11-29T04:51:03.060Z
-updated: 2024-12-05T04:51:02.921Z
+date: 2024-12-10T05:54:57.272Z
+updated: 2024-12-11T09:03:16.918Z
 tags:
   - laptops
 categories:
@@ -25,7 +25,7 @@ If you see something that looks like a great deal, we recommend adding it to you
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best laptop deals
@@ -101,10 +101,6 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 ## Alternative laptop deals
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Amazon laptop deals
 
 [Asus Chromebook Flip C434 2-In-1 laptop deal for $355 (save $150) $355 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FChromebook-Touchscreen-Processor-All-Metal-C434TA-DSM4T%2Fdp%2FB07Q2RB6BY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9586302c-2428-498d-9e19-20e580697010%7Cdtp&dtb=1)
@@ -118,10 +114,6 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 [Acer Aspire 3 laptop deal for $300 (save $22) $300 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FA315-24P-R7VH-Display-Quad-Core-Processor-Graphics%2Fdp%2FB0BS4BP8FB%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9586302c-2428-498d-9e19-20e580697010%7Cdtp&dtb=1)
 
 [ASUS ROG Strix Scar 15 gaming laptop deal for $1749 (save $250) $1,749 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09RMW1L7Y%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9586302c-2428-498d-9e19-20e580697010%7Cdtp&dtb=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Walmart laptop deals
 
@@ -157,6 +149,10 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [Apple MacBook Air, 2023, refurbished, 13.3-inch deal for $340 (save $660) $340 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-geek-squad-certified-refurbished-macbook-air-13-3-display-intel-core-i5-8gb-memory-128gb-flash-storage-silver%2F6530194.p&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How did we choose these laptop deals?
 
 We searched for laptop deals at retailers like Amazon, Walmart, and Best Buy, and also at the websites of leading manufacturers like Lenovo, HP, Dell, Apple, Acer, and Asus. We also used various price trackers to ensure that a claimed deal wasn't spurious.
@@ -178,12 +174,16 @@ The right specs depend on your needs and how you intend to use your new laptop -
 * **Storage**: For those that focus on lighter laptop use, 256GB of SSD storage will be plenty of space for your laptop. However, if you need more storage for high-resolution photos, videos, or more, you'll want to opt for 512GB of storage or even 1TB.
 * **RAM**: In conjunction with the CPU, RAM is used to help the computer multi-task and is vital to running programs. ZDNET expert Adrian Kingsley-Hughes breaks down [RAM needs here](https://www.zdnet.com/article/how-much-ram-does-your-windows-10-pc-need/), but at minimum, especially for working, you should opt for around 8GB, and gamers will potentially want more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Do I need a gaming laptop or a "regular" laptop?
 
 Again, it depends on your needs. Those who _aren't_ gamers can opt for a regular laptop with high specs, but content creators or those who work with heavy editing software should opt for a designer's laptop or a gaming laptop. Not because, of course, you want to have the best gaming specs on the side, but because those laptops come with powerful CPUs, GPUs, and high RAM to handle the heavy requirements that software needs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much should I pay for a good laptop?
@@ -196,16 +196,16 @@ If you're a gamer who needs a high-spec laptop with a decent graphics card, top-
 
 ZDNET experts split out the latest and greatest deals for you below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best deals by retailer
 
 * [The best Amazon deals](https://www.zdnet.com/article/amazon-deals/)
 * [The best Apple deals](https://www.zdnet.com/article/apple-deals/)
 * [The best AT&T deals](https://www.zdnet.com/article/att-deals/)
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best deals by category
 
@@ -257,18 +257,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-secret-to-skyrocketing-revenue-crafting-engaging-video-trailers/"><u>[Updated] The Secret to Skyrocketing Revenue Crafting Engaging Video Trailers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/a-week-with-an-ergonomic-split-keyboard-how-one-device-revolutionized-my-tech-experience/"><u>A Week with an Ergonomic Split Keyboard: How One Device Revolutionized My Tech Experience</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/download-songs-swiftly-using-mp3-juice-or-discover-enhanced-alternatives-for-music-lovers/"><u>Download Songs Swiftly Using MP3 Juice or Discover Enhanced Alternatives for Music Lovers!</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/effortlessly-transform-your-youtube-videos-into-high-quality-aiff-files/"><u>Effortlessly Transform Your YouTube Videos Into High-Quality AIFF Files</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-lgs-cutting-edge-gram-pro-laptops-outshine-apples-macbook-air-in-performance-portability-and-battery-life-zdnet-insights/"><u>How LG's Cutting-Edge Gram Pro Laptops Outshine Apple's MacBook Air in Performance, Portability, and Battery Life | ZDNet Insights</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/o-extract-youtube-media-directly-for-2024/"><u>How to Extract YouTube Media Directly for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-oneplus-11-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your OnePlus 11 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/march-anticipation-builds-for-apples-next-gen-macbook-air-ipad-pro-and-ipad-air-reveal-insights/"><u>March Anticipation Builds for Apple's Next-Gen MacBook Air, iPad Pro, and iPad Air Reveal | Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/quick-fixes-for-unresponsive-windows-11-systems-a-users-guide/"><u>Quick Fixes for Unresponsive Windows 11 Systems: A User's Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-transferring-your-dvd-content-into-final-cut-pro-x-for-advanced-video-editing/"><u>Step-by-Step Guide: Transferring Your DVD Content Into Final Cut Pro X for Advanced Video Editing</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-5-user-friendly-linux-os-choices-comprehensive-reviews-and-recommendations-by-tech-experts/"><u>Top 5 User-Friendly Linux OS Choices: Comprehensive Reviews & Recommendations by Tech Experts</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-the-ultimate-performance-how-nvidias-latest-laptop-lineup-dominates-with-unparalleled-gpu-power-zdnet/"><u>Unveiling The Ultimate Performance: How Nvidia's Latest Laptop Lineup Dominates With Unparalleled GPU Power | ZDNET</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/zdnets-expert-choice-in-lenovo-computers-a-1000-saving-opportunity-for-hybrid-professionals/"><u>ZDNet's Expert Choice in Lenovo Computers - A $1,000 Saving Opportunity for Hybrid Professionals!</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-does-youtube-offer-regular-viewers-money/"><u>[New] In 2024, Does YouTube Offer Regular Viewers Money?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premium-picks-recommended-portals-for-acquiring-snapalert-melodies/"><u>[Updated] Premium Picks Recommended Portals for Acquiring SnapAlert Melodies</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-itel-p40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722962605580-download-and-update-amd-smbus-drivers-fast-step-by-step-guide/"><u>Download and Update AMD SMBus Drivers Fast: Step-by-Step Guide!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-guide-to-downloading-and-updating-your-thinkpad-t420s-drivers-for-windows-11-systems/"><u>Easy Guide to Downloading and Updating Your ThinkPad T420s Drivers for Windows 11 Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-steps-for-downloading-your-logitech-g4nce-gaming-mouse-driver/"><u>Easy Steps for Downloading Your Logitech G4nce Gaming Mouse Driver</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enjoying-roku-channels-even-if-you-dont-have-a-roku-player-tips-and-tricks/"><u>Enjoying Roku Channels Even If You Don't Have a Roku Player: Tips & Tricks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-amd-radeon-drivers-for-your-windows-pc/"><u>Get the Latest AMD Radeon Drivers for Your Windows PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-amd-rx-6800-driver-update-now-optimized-for-windows-operating-systems-including-11-10-8-and-7/"><u>Get Your AMD RX 6800 Driver Update Now: Optimized for Windows Operating Systems Including 11, 10, 8 & 7!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-samsung-adb-drivers-instantly-expert-downloading-guide/"><u>Get Your Samsung ADB Drivers Instantly: Expert Downloading Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-laserjet-p1606dn-driver-download-and-update-for-windows/"><u>HP LaserJet P1606dn Driver Download & Update for Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/improve-your-acer-devices-tracking-accuracy-download-new-touchpad-drivers-for-windows-10-now/"><u>Improve Your Acer Device's Tracking Accuracy: Download New Touchpad Drivers for Windows 10 Now</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-lava-yuva-2-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Lava Yuva 2 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-2024-approved-how-to-edit-memoji-on-android-and-iphone/"><u>New 2024 Approved How to Edit Memoji on Android and iPhone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/979626-9781780998626-shamanism-the-book-of-journeys/"><u>Shamanism: The Book of Journeys | Free Book</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-keyboards-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Rated Keyboards : Comprehensive Reviews by Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/transform-your-projects-with-these-top-10-ae-types/"><u>Transform Your Projects with These Top 10 AE Types</u></a></li>
 </ul></div>
 

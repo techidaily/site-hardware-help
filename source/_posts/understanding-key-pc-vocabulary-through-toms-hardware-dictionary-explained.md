@@ -1,7 +1,7 @@
 ---
 title: Understanding Key PC Vocabulary Through Tom's Hardware Dictionary Explained
-date: 2024-08-19T10:24:08.266Z
-updated: 2024-08-20T10:24:08.266Z
+date: 2024-12-06T07:41:18.285Z
+updated: 2024-12-11T10:04:54.349Z
 tags:
   - build
 categories:
@@ -26,6 +26,10 @@ Keep scrolling for more of today's deals.
 * **Corsair Katar Pro XT:** [**now $21 at Amazon**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fgp%2Fproduct%2FB08SHCKVTG%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1623005334304824918-20) **(was $34)**
 * **SanDisk 256GB Ultra USB 3.0 Flash Drive:** [**now $12 at Walmart**](https://goto.walmart.com/c/5597632/565706/9383?subId1=techidaily-us-5142007615266812665&sharedId=techidaily-us&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FSanDisk-256GB-Ultra-USB-3-0-Flash-Drive-130MB-s-SDCZ48-256G-AW4%2F259605765) **(was $26)**
 * **Inland Glass PLA 3D Printer Filament:** [**now $10 at Amazon**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB09PC96H21%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-6540726685219791860-20) **(was $22)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Today’s best deals in detail
 
@@ -65,9 +69,6 @@ Keep scrolling for more of today's deals.
 
 [View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB09PC96H21%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1136475424910050110-20)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Looking for more deals?
 
 Category
@@ -75,8 +76,9 @@ Category
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/chevron-left.svg "Arrow")
 
  Back to Processors
@@ -86,8 +88,9 @@ Brand
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  AMD
 
  Corsair
@@ -101,8 +104,9 @@ Price
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Any Price
 
  Showing 10 of 43 deals
@@ -111,9 +115,6 @@ Any Price
 
 SORT BY Price (low to high)  Price (high to low) Product Name (A to Z)  Product Name (Z to A)  Retailer name (A to Z)  Retailer name (Z to A) ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 [AMD Ryzen 7 5800X](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0815XFSGK%3Ftag%3Dhawk-future-20%26linkCode%3Dogi%26th%3D1%26psc%3D1%26ascsubtag%3Dtomshardware-us-6390834075952669047-20)
 
 (Black)
@@ -297,8 +298,9 @@ Our Review
  Load more deals
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -313,8 +315,6 @@ Our Review
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -322,4 +322,24 @@ Our Review
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-optimize-video-posts-a-comprehensive-crop-and-export-method-for-2024/"><u>[New] Optimize Video Posts A Comprehensive Crop & Export Method for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-new-social-networking-battlefield-a-comparative-analysis-between-tiktok-and-snap/"><u>[Updated] 2024 Approved The New Social Networking Battlefield A Comparative Analysis Between TikTok and Snap</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-navigating-joining-a-new-discord-community-for-2024/"><u>[Updated] Navigating Joining a New Discord Community for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-understanding-adobe-storage-alternatives-explained-for-2024/"><u>[Updated] Understanding Adobe Storage, Alternatives Explained for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/converta-graciosamente-seus-vobmkv-em-linha-gratuitamente-com-o-movavi-guia-completo-e-simplificado/"><u>Converta Graciosamente Seus Vob/Mkv Em Linha Gratuitamente Com O Movavi – Guia Completo E Simplificado</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-bargains-on-amazons-prime-day-2024-top-offers-for-october-still-waiting-for-you-techbargainhub/"><u>Exclusive Bargains on Amazon's Prime Day 2024 - Top Offers for October Still Waiting for You! | TechBargainHub</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-september-bonanza-offering-top-gaming-bargains-final-call-snap-up-savings-of-1kplus-with-limited-time-deals-on-zdnet/"><u>Exclusive September Bonanza Offering Top Gaming Bargains - Final Call! Snap Up Savings of $1K+ with Limited Time Deals on ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/huge-game-sale-alert-prime-day-2nd-opportunities-for-oct-2024-bargains-save-big-with-zdnet/"><u>Huge Game Sale Alert: Prime Day 2^Nd Opportunities for Oct. 2024 Bargains, Save Big with ZDNET</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-honor-90-pro-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Honor 90 Pro FRP</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-titles-to-lengthen-viewing-times-within-limit/"><u>In 2024, Innovative Titles to Lengthen Viewing Times (Within Limit)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/inside-lenovos-revolutionary-transparent-laptop-a-hands-on-review-from-mobile-world-congress/"><u>Inside Lenovo's Revolutionary Transparent Laptop: A Hands-On Review From Mobile World Congress</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/reliable-laptop-charger-goes-on-sale-great-deal-for-durable-power-solutions-zdnet-review/"><u>Reliable Laptop Charger Goes on Sale - Great Deal for Durable Power Solutions | ZDNET Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revolutionary-2-in-1-product-test-reveals-hidden-office-treasure-exclusive-zdnet-insight/"><u>Revolutionary 2-in-1 Product Test Reveals Hidden Office Treasure - Exclusive ZDNET Insight</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-social-media-mix-connecting-through-facebook-twitter-instagram-and-youtube/"><u>The Ultimate Social Media Mix: Connecting Through Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-18-unbeatable-prime-day-blowout-prices-on-leading-brands-like-hp-apple-and-razer-shop-now/"><u>Top 18 Unbeatable Prime Day Blowout Prices on Leading Brands Like HP, Apple & Razer - Shop Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-security-keys-industry-experts-choices-reviewed-on-zdnet/"><u>Top-Rated Security Keys : Industry Experts' Choices Reviewed on ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-message-read-receipts-on-mobile-devices/"><u>Understanding Message Read Receipts on Mobile Devices</u></a></li>
+</ul></div>
 

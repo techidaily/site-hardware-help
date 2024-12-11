@@ -1,7 +1,7 @@
 ---
 title: Apple Revolutionizes Device Maintenance with Expanded At-Home Repair Services for iPhone & MacBook - Learn More | ZDNET
-date: 2024-12-03T23:28:41.564Z
-updated: 2024-12-04T22:21:59.839Z
+date: 2024-12-06T02:16:06.646Z
+updated: 2024-12-11T09:35:26.451Z
 tags:
   - laptops
 categories:
@@ -41,7 +41,7 @@ However, the new slimline design also came with a chunky price increase of $200/
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Price & options
@@ -53,7 +53,7 @@ The [new 2022 model](https://www.apple.com/shop/buy-mac/macbook-air/with-m2-chip
 Storage upgrades are equally expensive, costing an additional $200/£200 for 1TB, or $600/£600 for 2TB. There's one other option available too, as the standard 30W power adapter can be upgraded to a fast-charging 67W unit, or to a 35W adapter with two USB-C ports, with both options costing $20/£30\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Design & features
@@ -73,7 +73,7 @@ The magnetic MagSafe power connector has returned to the MacBook Air, alongside 
 Image: Cliff Joseph / ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Performance & battery life
@@ -89,7 +89,7 @@ You are paying for that extra performance, of course, so the M1 version of the M
 [Apple MacBook Air (M2, 2022) View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2Fwith-m2-chip&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusions
@@ -132,7 +132,7 @@ Image: Apple
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -176,19 +176,18 @@ Image: Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-help.techidaily.com/discover-how-the-budget-friendly-acer-laptop-offers-powerful-nvidia-40-series-graphics-your-smart-choice-for-gaming-and-design/"><u>Discover How the Budget-Friendly Acer Laptop Offers Powerful Nvidia 40 Series Graphics: Your Smart Choice for Gaming and Design</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/experts-top-rated-15-inch-laptop-collection-of/"><u>Experts' Top Rated 15-Inch Laptop Collection Of</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-honor-100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Honor 100 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/from-ideas-to-impressions-writing-with-ais-insight/"><u>From Ideas to Impressions: Writing with AI's Insight</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/how-to-get-and-add-animated-emojis-on-discord-for-2024/"><u>How to Get and Add Animated Emojis on Discord for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-asus-rog-phone-8-pro-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Asus ROG Phone 8 Pro Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-touchscreen-laptop-with-mouse-and-microsoft-office-suite-amazing-deal-at-just-400-shop-now/"><u>HP Touchscreen Laptop with Mouse & Microsoft Office Suite - Amazing Deal at Just $400! Shop Now</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-samsung-galaxy-s23plus-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Samsung Galaxy S23+ to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unlock-channels-success-key-equipment-insights/"><u>In 2024, Unlock Channels Success Key Equipment Insights</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/incorporate-soundtrack-elements-into-premiere-pro/"><u>Incorporate Soundtrack Elements Into Premiere Pro</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/synthesizing-clarity-a-complete-voice-note-taking-course/"><u>Synthesizing Clarity A Complete Voice Note-Taking Course</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-tecno-pova-5-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Tecno Pova 5 Device</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-ultimate-laptop-face-off-how-the-newest-samsung-galaxy-book-stands-up-against-the-macbook-pro-insights/"><u>The Ultimate Laptop Face-Off: How the Newest Samsung Galaxy Book Stands Up Against the MacBook Pro | Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-college-laptops-expertly-tested-and-comprehensive-reviews/"><u>Top-Rated College Laptops: Expertly Tested & Comprehensive Reviews</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-exploring-8-top-tier-free-video-communication-tools-for-enterprises/"><u>[New] In 2024, Exploring 8 Top-Tier Free Video Communication Tools for Enterprises</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-unleash-vibrant-canvas-cropping-adding-and-editing-sound-effectively-for-2024/"><u>[New] Unleash Vibrant Canvas Cropping, Adding, & Editing Sound Effectively for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-itunes-masterclass-maximizing-video-outputs/"><u>[Updated] In 2024, ITunes Masterclass Maximizing Video Outputs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-sprinkle-some-smiles-emojis-on-youtube/"><u>[Updated] Sprinkle Some Smiles Emojis on YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-guide-windows-movie-maker-downloading/"><u>[Updated] Ultimate Guide Windows Movie Maker Downloading</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amazons-biggest-savings-pre-prime-day-2cuary-2024-uncovered-exclusive-deals-and-tips-cnet/"><u>Amazon's Biggest Savings Pre-Prime Day 2Cuary 2024 Uncovered – Exclusive Deals & Tips | CNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-lenovos-revolutionary-auto-swiveling-laptop-unveiled-at-ifa-23-a-tech-marvel/"><u>Exploring Lenovo's Revolutionary Auto-Swiveling Laptop Unveiled at IFA 2#3 - A Tech Marvel!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-motorola-moto-g-stylus-5g-2023-s-lock-screen-pattern-pin-or-password-by-drfone-android-unlock-android-unlock/"><u>How to bypass Motorola Moto G Stylus 5G (2023)’s lock screen pattern, PIN or password</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-creating-a-domino-effect-with-memes/"><u>In 2024, Creating a Domino Effect with Memes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/leading-security-key-options-for-202n-proven-winners-by-specialists-cnet/"><u>Leading Security Key Options for 202N: Proven Winners by Specialists | CNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/reviews-and-recommendations-discover-how-this-super-light-laptop-is-transforming-the-world-of-remote-workers/"><u>Reviews & Recommendations: Discover How This Super-Light Laptop Is Transforming the World of Remote Workers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-portable-displays-comprehensive-reviews-and-comparisons-by-zdnet/"><u>Top-Rated Portable Displays - Comprehensive Reviews & Comparisons by ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-deal-alert-top-rated-gaming-speakers-now-30-cheaper-on-amazon-reviewed/"><u>Unbeatable Deal Alert: Top-Rated Gaming Speakers Now 30% Cheaper on Amazon - Reviewed</u></a></li>
 </ul></div>
 

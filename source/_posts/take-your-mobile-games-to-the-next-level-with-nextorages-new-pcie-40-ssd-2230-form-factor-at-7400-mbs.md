@@ -1,7 +1,7 @@
 ---
 title: Take Your Mobile Games to the Next Level With Nextorage's New PCIe 4.0 SSD - 2230 Form Factor at 7,400 MB/S
-date: 2024-08-19T10:26:16.461Z
-updated: 2024-08-20T10:26:16.461Z
+date: 2024-12-05T20:03:30.904Z
+updated: 2024-12-11T06:36:06.987Z
 tags:
   - ssd
 categories:
@@ -43,6 +43,10 @@ Sabrent has unveiled its new[Rocket Nano 2242 Gen 4 NVMe](https://sabrent.com/co
   
  We're working to get the Rocket Nano 2242 Gen 4 into our labs for testing. We also want to check out other 2242 drives, both existing and new models, so if you're an SSD manufacturer with such a drive,[drop us a line](https://tools.techidaily.com) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -57,8 +61,6 @@ Sabrent has unveiled its new[Rocket Nano 2242 Gen 4 NVMe](https://sabrent.com/co
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -66,8 +68,16 @@ Sabrent has unveiled its new[Rocket Nano 2242 Gen 4 NVMe](https://sabrent.com/co
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-comprehending-the-basics-of-whatsapp-calls-for-2024/"><u>[New] Comprehending the Basics of WhatsApp Calls for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/7-proven-methods-to-restore-and-improve-auto-brightness-on-your-iphone/"><u>7 Proven Methods to Restore and Improve Auto-Brightness on Your iPhone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amazon-now-offering-top-ranked-laptops-from-zdnet-at-a-steep-discount-before-prime-day-shop-the-deal/"><u>Amazon Now Offering Top-Ranked Laptops From ZDNet at a Steep Discount Before Prime Day - Shop the Deal!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asus-laptop-bargain-alert-get-the-powerful-15-inch-model-from-walmart-for-an-unbeatable-price-of-250-full-ports-included/"><u>ASUS Laptop Bargain Alert! Get the Powerful 15-Inch Model From Walmart for an Unbeatable Price of $250 - Full Ports Included</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/oad-free-mcb-skin-designs/"><u>Download Free MCB Skin Designs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exceptional-display-on-a-budget-discovering-the-most-affordable-high-quality-laptop-screen/"><u>Exceptional Display on a Budget: Discovering the Most Affordable High-Quality Laptop Screen</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-unveils-spectre-x360-and-takes-my-pick-as-a-leading-laptop-of-the-year-insights-review/"><u>HP Unveils Spectre X360 and Takes My Pick as a Leading Laptop of the Year - Insights Review</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-lava-yuva-2-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Lava Yuva 2 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-discover-the-best-8-windows-10-photos-alternatives/"><u>New 2024 Approved Discover the Best 8 Windows 10 Photos Alternatives</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

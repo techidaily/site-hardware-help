@@ -1,7 +1,7 @@
 ---
 title: "Steelcase Carry Karma Assessment: Astonishingly Versatile Design"
-date: 2024-08-19T10:21:08.546Z
-updated: 2024-08-20T10:21:08.546Z
+date: 2024-12-07T02:55:54.764Z
+updated: 2024-12-10T20:43:18.439Z
 tags:
   - peripherals
 categories:
@@ -39,14 +39,11 @@ _**Connectivity:**_ _Bluetooth, wireless 2.4 GHz, or wired_
 
  This really is an attractive keyboard. And when you can grab a few extra dollars off the overall price — makes for a very tempting deal.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -55,8 +52,26 @@ _**Connectivity:**_ _Bluetooth, wireless 2.4 GHz, or wired_
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-unlock-your-potential-with-these-leading-cost-free-editions/"><u>[New] Unlock Your Potential with These Leading Cost-Free Editions</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-sharpsight-screen-snag-report/"><u>[Updated] 2024 Approved SharpSight Screen Snag Report</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-ephemeral-insights-into-fb-episodes-for-2024/"><u>[Updated] Ephemeral Insights Into FB Episodes for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-effortless-view-growth-uncovering-the-best-video-tips-and-hacks/"><u>2024 Approved Effortless View Growth Uncovering the Best Video Tips and Hacks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amazons-prime-day-deals-continue-score-the-latest-offers-with-36-off-on-a-high-capacity-8tb-samsung-t5-ssd-featured-by-zdnet/"><u>Amazon's Prime Day Deals Continue! Score the Latest Offers with 36% Off on a High-Capacity 8TB Samsung T5 SSD - Featured by ZDNet</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/become-a-pro-in-calculating-youtube-ratio-measures/"><u>Become a Pro in Calculating YouTube Ratio Measures</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/future-proof-computing-exploring-the-most-robust-laptop-models-for-2eplus24-tech-insights-by-zdnet/"><u>Future-Proof Computing: Exploring the Most Robust Laptop Models for 2E+24 | Tech Insights by ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/game-like-never-before-with-the-ultimate-bargain-on-asuss-14-inch-rog-zephyrus-save-huge-upgrade-now/"><u>Game Like Never Before with The Ultimate Bargain on Asus's 14-Inch ROG Zephyrus - Save Huge, Upgrade Now!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-become-a-viral-sensation-key-strategies-for-popular-tiktok-unpacks/"><u>In 2024, Become a Viral Sensation Key Strategies for Popular TikTok Unpacks</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Oppo Reno 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-svchostexes-excessive-cpu-consumption-in-windows-11/"><u>Resolving Svchost.exe's Excessive CPU Consumption in Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-on-reversion-from-windows-11-to-windows-10-with-a-twist-zdnet/"><u>Step-by-Step Guide on Reversion: From Windows 11 to Windows 10 with a Twist | ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-top-pick-unlocking-underappreciated-functionality-in-the-most-impressive-2023-dual-device-a-must-see-by-zdnet/"><u>The Top Pick: Unlocking Underappreciated Functionality in the Most Impressive 2023 Dual-Device - A Must-See by ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-laptop-pick-a-15-inch-macbook-air-now-just-250-cheaper-zdnets-top-recommendation/"><u>The Ultimate Laptop Pick - A 15-Inch MacBook Air, Now Just $250 Cheaper | ZDNet's Top Recommendation</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-17-must-have-cyber-monday-offers-unbeatable-discounts-on-televisions-audio-gear-and-more-exclusive-list/"><u>Top 17 Must-Have Cyber Monday Offers: Unbeatable Discounts on Televisions, Audio Gear & More – Exclusive List</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: Elevate Your Build with Thermaltake's Core P3 Open Frame PC Case for Under a Hundred Dollars
-date: 2024-08-19T10:23:20.894Z
-updated: 2024-08-20T10:23:20.894Z
+date: 2024-12-08T06:05:48.255Z
+updated: 2024-12-10T23:26:45.329Z
 tags:
   - cases
 categories:
@@ -31,14 +31,11 @@ This is a glorious-looking PC case that's more for the aesthetic than the practi
 
  The case offers a reasonable amount of customization, with brackets for changing your GPU from horizontal to vertical, orientation of the PSU (dependent on mobo size), and radiator placement. The front panel IO located on the right-hand side of the case includes 2 x USB 3 ports and 2 x USB 2 ports, plus audio ports for headset and mic.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -47,8 +44,27 @@ This is a glorious-looking PC case that's more for the aesthetic than the practi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-the-art-of-using-kinemaster-techniques-and-top-online-video-editors/"><u>[Updated] 2024 Approved The Art of Using KineMaster Techniques and Top Online Video Editors</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-essential-notebooks-excellent-in-media-post-production/"><u>2024 Approved Essential Notebooks Excellent in Media Post-Production</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/air-drop-apple-slashes-price-of-m2-macbook-air-to-just-799-ahead-of-octobers-exclusive-prime-deals-revealed-experts/"><u>Air Drop: Apple Slashes Price of M2 MacBook Air to Just $799 Ahead of October's Exclusive Prime Deals, Revealed Experts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/definitive-fixes-to-stop-hyper-scape-from-freezing-on-your-windows-machine/"><u>Definitive Fixes to Stop Hyper Scape From Freezing on Your Windows Machine</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Lava Yuva 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-unveils-the-groundbreaking-envy-x360-the-worlds-first-laptop-certified-by-imax-but-read-on-for-exceptional-insights/"><u>HP Unveils the Groundbreaking Envy X360 - The World's First Laptop Certified by IMAX, But Read on for Exceptional Insights!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/last-chance-to-grab-your-discounted-lenovo-chromebook-for-just-79-dont-miss-out-on-these-black-friday-deals/"><u>Last Chance to Grab Your Discounted Lenovo Chromebook for Just $79 – Don't Miss Out on These Black Friday Deals!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-the-measure-app-on-android-techniques-for-precise-dimension-tracking/"><u>Navigating the Measure App on Android: Techniques for Precise Dimension Tracking</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premier-intro-scripts-for-panzoid-zeoids/"><u>Premier Intro Scripts for Panzoid Zeoids</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/stay-cool-and-save-on-tech-top-laptop-coolers-under-50-on-cyber-monday-get-the-best-offers/"><u>Stay Cool and Save on Tech: Top Laptop Coolers Under $50 on Cyber Monday - Get the Best Offers !</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/step-by-step-guide-transferring-your-google-pixel-3a-data-to-a-windows-or-mac-computer/"><u>Step-by-Step Guide: Transferring Your Google Pixel 3a Data to a Windows or Mac Computer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-techniques-for-non-functional-xbox-audio-devices/"><u>Troubleshooting Techniques for Non-Functional Xbox Audio Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unboxing-the-revolutionary-lg-gram-pro-17-a-featherlight-powerhouse-perfect-for-prime-day-deals-exclusive-review/"><u>Unboxing the Revolutionary LG Gram Pro 17: A Featherlight Powerhouse Perfect for Prime Day Deals - Exclusive Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unmatched-display-quality-at-a-bargain-the-ultra-portable-laptop-you-cant-miss-on-sale-today-techspot/"><u>Unmatched Display Quality at a Bargain: The Ultra-Portable Laptop You Can't Miss - On Sale Today | TechSpot</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unobtrusive-elegance-the-acer-aspire-c27-a-stealthy-comprehensive-workstation/"><u>Unobtrusive Elegance: The Acer Aspire C27 – A Stealthy, Comprehensive Workstation</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/windows-professionals-rejoice-lenovo-unveils-a-powerhouse-alternative-to-the-mac-studio/"><u>Windows Professionals Rejoice: Lenovo Unveils a Powerhouse Alternative to the Mac Studio!</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+

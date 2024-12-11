@@ -1,7 +1,7 @@
 ---
 title: Discover the Array of Custom PC Enclosures From InWin Revealed During Computex Event
-date: 2024-08-19T10:23:19.824Z
-updated: 2024-08-20T10:23:19.824Z
+date: 2024-12-06T16:41:04.044Z
+updated: 2024-12-10T22:28:52.322Z
 tags:
   - cases
 categories:
@@ -29,6 +29,10 @@ Two transparent mods for the[Steam Deck](https://tools.techidaily.com) are on th
 
  No word on pricing or release dates for either JSAUX's or eXtremeRate's new cases, but they should be out soon.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -43,8 +47,6 @@ Two transparent mods for the[Steam Deck](https://tools.techidaily.com) are on th
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -52,8 +54,23 @@ Two transparent mods for the[Steam Deck](https://tools.techidaily.com) are on th
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-harnessing-potential-how-to-excel-on-spotify-ads/"><u>[New] Harnessing Potential How to Excel on Spotify Ads</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/obile-sound-library-explore-the-best-free-downloader-apps-for-youtube/"><u>[New] Mobile Sound Library Explore the Best Free Downloader Apps for YouTube</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-craft-your-first-impactful-facebook-phenomenon-giveaway/"><u>[Updated] In 2024, Craft Your First Impactful Facebook Phenomenon Giveaway</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/a-week-with-an-ergonomic-split-keyboard-how-one-change-upended-my-entire-tech-setup-insights/"><u>A Week with an Ergonomic Split Keyboard: How One Change Upended My Entire Tech Setup - Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/combat-plan-against-dual-programming-issues/"><u>Combat Plan Against Dual Programming Issues</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-this-budget-laptop-resurrects-a-buzzed-past-in-technology-conversations-unveiling-the-fusion-of-economy-and-evolution/"><u>How This Budget Laptop Resurrects a Buzzed Past in Technology Conversations: Unveiling the Fusion of Economy & Evolution</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-apple-iphone-xs-max-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On Apple iPhone XS Max</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-obtain-the-newest-realtek-bluetooth-driver-versions-for-your-pc-windows-11-10/"><u>How to Obtain the Newest Realtek Bluetooth Driver Versions for Your PC (Windows 11, 10)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-xiaomi-redmi-note-13-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Xiaomi Redmi Note 13 5G Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-review-of-the-apple-m3-macbook-air-the-highlights-that-caught-my-attention-techspot/"><u>In-Depth Review of the Apple M3 MacBook Air: The Highlights That Caught My Attention | TechSpot</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/making-3d-visuals-mainstream-how-acer-is-revolutionizing-monitor-and-laptop-tech-for-wider-audiences-technewszdnet/"><u>Making 3D Visuals Mainstream: How Acer Is Revolutionizing Monitor and Laptop Tech for Wider Audiences | TechNewsZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/minimizing-cpu-cost-of-ntoskrnlexe-tasks/"><u>Minimizing CPU Cost of Ntoskrnl.exe Tasks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-issue-of-unsuccessful-connections-in-minecraft-playground/"><u>Solving The Issue of Unsuccessful Connections in Minecraft Playground</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/speedy-guide-mastering-the-art-of-changing-macbook-pros-keyboard-light-intensity/"><u>Speedy Guide: Mastering the Art of Changing MacBook Pro's Keyboard Light Intensity</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-antivirus-solutions-a-comprehensive-review/"><u>Top Rated Antivirus Solutions : A Comprehensive Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-power-of-apples-latest-innovation-a-comprehensive-breakdown-of-the-new-m2-chip-by-experts-at-zdnet/"><u>Unveiling the Power of Apple's Latest Innovation: A Comprehensive Breakdown of the New M2 Chip by Experts at ZDNet</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary Gaming Achievement: Doom Eternal Hits 1,006 FPS Through Advanced Liquid Nitrogen Overclocking Methods"
-date: 2024-08-19T10:24:53.038Z
-updated: 2024-08-20T10:24:53.038Z
+date: 2024-12-05T02:48:48.729Z
+updated: 2024-12-11T01:46:41.793Z
 tags:
   - overclocking
 categories:
@@ -27,6 +27,10 @@ Based on Intel's Netburst microarchitecture and made using 65nm process technolo
 
  It is noteworthy that the 8.0 GHz barrier is rather hard to break, and to date, only 117 processors have managed to pass it. The vast majority of the processors to hit 8.0 GHz or higher frequency are AMD's FX 8000-series units, as well as Intel's Cedar Mill-based Celeron D or Pentium CPUs, but there are also several AMD's A-series APUs too.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -35,14 +39,11 @@ Based on Intel's Netburst microarchitecture and made using 65nm process technolo
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -51,8 +52,18 @@ Based on Intel's Netburst microarchitecture and made using 65nm process technolo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/xciting-vlog-subjects-daily-selection-for-2024/"><u>[New] Exciting Vlog Subjects Daily Selection for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-quality-streaming-balancing-webcam-and-gaming-recordings-for-2024/"><u>[New] Quality Streaming Balancing Webcam & Gaming Recordings for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-expertly-curated-list-of-top-6-head-mounted-cameras-for-action-seekers/"><u>[Updated] Expertly Curated List of Top 6 Head-Mounted Cameras for Action Seekers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-transforming-your-igtv-presence-with-new-covers/"><u>[Updated] In 2024, Transforming Your IGTV Presence with New Covers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/affordable-299-laptop-the-ideal-choice-for-university-scholars-insights/"><u>Affordable $299 Laptop: The Ideal Choice for University Scholars - Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/anticipate-the-big-reveals-at-apples-upcoming-october-event-unveiling-of-new-ipad-models-enhanced-m4-mac-mini-innovative-ai-features-and-latest-tech-insight10/"><u>Anticipate the Big Reveals at Apple's Upcoming October Event: Unveiling of New iPad Models, Enhanced M4 Mac Mini, Innovative AI Features & Latest Tech Insights - Detailed Breakdown | TechRadar</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-ultimate-gaming-sound-experience-save-150-on-top-rated-speakers-from-amazon-zdnet-review/"><u>Discover the Ultimate Gaming Sound Experience: Save $150 on Top-Rated Speakers From Amazon – ZDNet Review</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-instructions-on-upgrading-the-software-of-your-intel-centrino-advanced-n-6230-network-adapter-drivers/"><u>Easy Instructions on Upgrading the Software of Your Intel Centrino Advanced-N 6230 Network Adapter Drivers</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-motorola-defy-2-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Motorola Defy 2 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/july-2024-apple-bargain-guide-by-zdnet-exclusive-discounts-on-iphone-models-apple-watch-series-and-refurbished-ipads/"><u>July 2024 Apple Bargain Guide by ZDNet: Exclusive Discounts on iPhone Models, Apple Watch Series & Refurbished iPads!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/last-chance-to-grab-your-discounted-79-lenovo-chromebook-from-black-friday-savings-for-cyber-monday-shoppers/"><u>Last Chance to Grab Your Discounted $79 Lenovo Chromebook From Black Friday Savings for Cyber Monday Shoppers</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

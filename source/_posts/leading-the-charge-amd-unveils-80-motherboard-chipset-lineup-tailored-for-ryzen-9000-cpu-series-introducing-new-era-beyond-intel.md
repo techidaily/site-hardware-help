@@ -1,7 +1,7 @@
 ---
 title: "Leading the Charge: AMD Unveils 80지팀 Motherboard Chipset Lineup Tailored for Ryzen 9000 CPU Series, Introducing New Era Beyond Intel"
-date: 2024-08-19T10:28:12.319Z
-updated: 2024-08-20T10:28:12.319Z
+date: 2024-12-07T20:15:56.337Z
+updated: 2024-12-10T18:46:55.127Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,20 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-capturing-life-in-motion-top-9-smartphone-props-for-dynamic-cinematography/"><u>[New] In 2024, Capturing Life in Motion Top 9 Smartphone Props for Dynamic Cinematography</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-frame-grabbers-companion/"><u>[New] In 2024, Frame Grabber's Companion</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-background-video-recording-solutions/"><u>[Updated] In 2024, Background Video Recording Solutions</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-professional-edge-mastering-bordered-videos-on-insta/"><u>[Updated] In 2024, Professional Edge Mastering Bordered Videos on Insta</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/comprehensive-tutorial-revamp-your-windows-pc-by-updating-motherboard-drivers/"><u>Comprehensive Tutorial: Revamp Your Windows PC by Updating Motherboard Drivers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/conversion-sin-coste-de-archivos-aiff-a-aac-rapida-y-sencilla-usando-la-herramienta-en-linea-de-movavi/"><u>Conversión Sin Coste De Archivos AIFF a AAC Rápida Y Sencilla Usando La Herramienta en Línea De Movavi</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/dont-miss-out-essential-guide-to-refreshing-your-google-chrome-for-better-security-and-performance-tech-today/"><u>Don't Miss Out! Essential Guide to Refreshing Your Google Chrome for Better Security and Performance | Tech Today</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-laughter-in-the-clouds-iphone/"><u>In 2024, Laughter in the Clouds (iPhone)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/inside-the-future-of-laptop-design-my-immersive-encounter-with-lenovos-auto-swiveling-innovation-at-ifa-2023-a-visual-marvel-cnet/"><u>Inside the Future of Laptop Design: My Immersive Encounter with Lenovo's Auto-Swiveling Innovation at IFA 2023, a Visual Marvel | CNET</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/surprisingly-powerful-and-compact-how-this-affordable-8-in-1-adapter-defies-expectations/"><u>Surprisingly Powerful and Compact: How This Affordable 8-in-1 Adapter Defies Expectations</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-choosing-a-touchscreen-laptop-in-depth-analysis-and-expert-ratings-on-zdnet/"><u>Ultimate Guide to Choosing a Touchscreen Laptop: In-Depth Analysis & Expert Ratings on ZDNet</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/why-apples-mac-mini-m1-2020-the-ultimate-guide-to-beating-the-competition-in-personal-computing/"><u>Why Apple's Mac Mini (M1, 2020): The Ultimate Guide to Beating the Competition in Personal Computing</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
