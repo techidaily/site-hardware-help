@@ -1,7 +1,7 @@
 ---
 title: MSI Implements Intel Recommended Power Specifications for I9 Processors, Aiming to Resolve Stability Issues During Continuous Investigation by Intel
-date: 2024-08-19T10:31:01.645Z
-updated: 2024-08-20T10:31:01.645Z
+date: 2024-12-13T16:22:44.090Z
+updated: 2024-12-17T16:25:25.897Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,17 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-camera-confusion-no-video-display-issue/"><u>[New] Camera Confusion No Video Display Issue</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-level-up-your-playtime-examining-kinemaster-on-android/"><u>[Updated] In 2024, Level Up Your Playtime Examining KineMaster on Android</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-top-30-windows-10-utilities-you-cant-ignore/"><u>[Updated] Top 30 Windows 10 Utilities You Can't Ignore</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-resolve-google-chrome-video-troubles-fb/"><u>2024 Approved Resolve Google Chrome Video Troubles (FB)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-stealthy-edits-blur-without-compromising-quality/"><u>2024 Approved Stealthy Edits Blur Without Compromising Quality</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/celebrating-the-greats-anime-opens-of-all-time/"><u>Celebrating the Greats Anime Opens of All Time</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-hp-photosmart-7520-drivers-download-and-installation-instructions/"><u>Complete HP Photosmart 7520 Drivers Download and Installation Instructions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-installation-of-lexar-usb-drivers-download-now/"><u>Effortless Installation of Lexar USB Drivers - Download Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722977648288-instant-access-to-free-qualcomm-atheros-ar938x-driver-download-heres-how/"><u>Instant Access to Free Qualcomm Atheros AR938X Driver Download - Here's How!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722979028386-rx-470-graphics-cards-secure-your-best-performance-with-instant-driver-downloads/"><u>RX 470 Graphics Cards - Secure Your Best Performance with Instant Driver Downloads</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

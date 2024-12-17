@@ -1,7 +1,7 @@
 ---
 title: "AMD's Next-Gen Ryzen 9000 and Zen 5 CPUs Unveiled by Gigabyte: Coming Beta BIOS Support for X500 Chipset Boards"
-date: 2024-08-19T10:28:38.703Z
-updated: 2024-08-20T10:28:38.703Z
+date: 2024-12-13T16:07:04.385Z
+updated: 2024-12-17T16:08:45.078Z
 tags:
   - motherboards
 categories:
@@ -47,6 +47,10 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
 
  The fact is, Loongson has developed its own CPU just a few generations behind Intel and AMD. Considering the Chinese firm has to work around U.S. sanctions and claims to insist on doing everything based on its own IP, the performance could actually be considered impressive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -63,8 +67,6 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -72,8 +74,24 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-best-music-player-software-for-android/"><u>[New] 2024 Approved Best Music Player Software for Android</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-supercharge-view-counts-through-strategic-video-time-stamping-for-2024/"><u>[Updated] Supercharge View Counts Through Strategic Video Time-Stamping for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-instructions-updating-microsoft-mouse-driver-in-windows-1011/"><u>Comprehensive Instructions: Updating Microsoft Mouse Driver in Windows 10/11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-installation-of-hp-scanning-software-for-windows-systems-explained/"><u>Easy Installation of HP Scanning Software for Windows Systems Explained</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-security-with-updated-fingerprint-software-compatible-with-windows-systems/"><u>Enhance Security with Updated Fingerprint Software - Compatible with Windows Systems</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/enhanced-performance-top-free-alternatives-to-ytd-downloader/"><u>Enhanced Performance: Top Free Alternatives to YTD Downloader</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/free-online-converter-change-video-from-ts-to-mp4-format-with-movavi/"><u>Free Online Converter: Change Video From .TS to .MP4 Format with Movavi</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fresh-installation-pack-for-wacom-graphic-device-drivers/"><u>Fresh Installation Pack for Wacom Graphic Device Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-logiteche-webcam-up-and-running-on-windows-with-a-complimentary-driver-download/"><u>Get Your Logiteche Webcam Up and Running on Windows with a Complimentary Driver Download</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-what-does-jailbreaking-iphone-14-pro-max-i-do-get-answers-here-drfone-by-drfone-ios/"><u>In 2024, What Does Jailbreaking iPhone 14 Pro Max i Do? Get Answers here | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/introducing-the-asus-nuc-n14-pc-ultra9-fusion-and-ampere-rtx-4070-for-next-level-gaming-and-workflows/"><u>Introducing the Asus NUC N14 PC — Ultra9 Fusion & Ampere RTX 4070 for Next-Level Gaming & Workflows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-windows-compatible-creative-cam-driver-downloads/"><u>Latest Windows Compatible Creative Cam Driver Downloads</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-through-newest-amd-driver-releases-on-your-windows-pc/"><u>Navigating Through Newest AMD Driver Releases on Your Windows PC</u></a></li>
+<li><a href="https://facebook.techidaily.com/taking-charge-of-your-online-environment-dodge-the-unwanted-promos/"><u>Taking Charge of Your Online Environment: Dodge the Unwanted Promos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-best-in-storytelling-eight-film-genre-showcase/"><u>The Best in Storytelling Eight Film Genre Showcase</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-motorola-moto-e13-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Motorola Moto E13 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrade-your-bluetooth-experience-download-broadcom-drivers-compatible-with-windows-1087/"><u>Upgrade Your Bluetooth Experience: Download Broadcom Drivers Compatible with Windows 10/8/7</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

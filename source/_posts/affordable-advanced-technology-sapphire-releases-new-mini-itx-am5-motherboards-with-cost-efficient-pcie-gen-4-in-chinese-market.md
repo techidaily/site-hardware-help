@@ -1,7 +1,7 @@
 ---
 title: "Affordable Advanced Technology: Sapphire Releases New Mini ITX AM5 Motherboards with Cost-Efficient PCIe Gen 4 in Chinese Market"
-date: 2024-08-19T10:29:23.353Z
-updated: 2024-08-20T10:29:23.353Z
+date: 2024-12-14T16:10:54.913Z
+updated: 2024-12-17T16:00:48.360Z
 tags:
   - motherboards
 categories:
@@ -47,6 +47,10 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
 
  The fact is, Loongson has developed its own CPU just a few generations behind Intel and AMD. Considering the Chinese firm has to work around U.S. sanctions and claims to insist on doing everything based on its own IP, the performance could actually be considered impressive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -63,8 +67,6 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -72,8 +74,22 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-adopting-seamless-video-conferencing-via-gmail-and-zoom/"><u>[New] Adopting Seamless Video Conferencing via Gmail & Zoom</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-compreenhensive-guide-to-selecting-and-cultivating-valheim-seeds/"><u>[New] In 2024, Compreenhensive Guide to Selecting & Cultivating Valheim Seeds</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-crafting-quick-cut-channel-sequences/"><u>[New] In 2024, Crafting Quick-Cut Channel Sequences</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nterpreting-laws-around-youtube-content-capture-for-2024/"><u>[New] Interpreting Laws Around YouTube Content Capture for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-20-best-practices-for-facebook-video-advertising/"><u>2024 Approved 20 Best Practices for Facebook Video Advertising</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/boosting-email-safety-a-simple-way-to-turn-on-gmail-2fa/"><u>Boosting Email Safety: A Simple Way to Turn On Gmail 2FA</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/canoscan-lide-1230-scanner-software-downloads-and-updates/"><u>CanoScan LiDE 1230 Scanner Software Downloads and Updates</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722976077682-efficient-printing-with-the-new-hp-laserjet-p1006-driver-software-free-download-available-now/"><u>Efficient Printing with the New HP LaserJet P1006 Driver Software - Free Download Available Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-updates-for-your-hp-deskjet-ink-advantage-prise-2540-secure-driver-downloads-here/"><u>Effortless Updates for Your HP Deskjet Ink Advantage Prise 2540 - Secure Driver Downloads Here!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pro-photoshop-power-top-10-canva-design-secrets/"><u>In 2024, Pro Photoshop Power Top 10 Canva Design Secrets</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-seamless-transitions-the-top-6-mac-apps-to-cut-videos-in-big-sur/"><u>In 2024, Seamless Transitions The Top 6 Mac Apps to Cut Videos in Big Sur</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/maximize-your-viewing-experience-with-youtube-scaling-for-2024/"><u>Maximize Your Viewing Experience with YouTube Scaling for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/simple-steps-install-and-update-your-asus-bluetooth-drivers-with-our-guide/"><u>Simple Steps: Install and Update Your ASUS Bluetooth Drivers with Our Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-hp-screen-driver-errors-for-windows-operating-systems-win-11-win-8-win-7/"><u>Troubleshooting HP Screen Driver Errors for Windows Operating Systems (Win 11 / Win 8 / Win 7)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlock-professional-sound-with-free-behringer-driver-software/"><u>Unlock Professional Sound with Free Behringer Driver Software!</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->

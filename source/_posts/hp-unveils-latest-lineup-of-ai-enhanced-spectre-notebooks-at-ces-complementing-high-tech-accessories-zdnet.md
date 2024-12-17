@@ -1,7 +1,7 @@
 ---
 title: HP Unveils Latest Lineup of AI-Enhanced Spectre Notebooks at CES, Complementing High-Tech Accessories - ZDNet
-date: 2024-12-07T23:33:02.765Z
-updated: 2024-12-10T22:26:16.216Z
+date: 2024-12-10T16:29:14.793Z
+updated: 2024-12-17T16:00:28.898Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,17 +118,18 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-efficient-presentation-recording-with-a-webcam-on-handy-guide/"><u>[New] 2024 Approved Efficient Presentation Recording with a Webcam on Handy Guide</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-unveiling-the-high-resolution-benq-sw320-monitor/"><u>[Updated] Unveiling the High-Resolution BenQ SW320 Monitor</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-prime-9-options-to-capture-high-quality-audio-remotely-23/"><u>2024 Approved Prime 9 Options to Capture High-Quality Audio Remotely ('23)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/complete-walkthrough-downloading-and-updating-the-epson-ds-n-series-driver-for-windows-systems/"><u>Complete Walkthrough: Downloading and Updating the Epson DS-N Series Driver for Windows Systems</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/comprehensive-ios-live-photo-handbook-for-2024/"><u>Comprehensive iOS Live Photo Handbook for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-compatible-canon-mx410-drivers-fast-and-easy-setup-for-windows/"><u>Download Compatible Canon MX410 Drivers - Fast & Easy Setup for Windows</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210159509-9781642505672-each-day-a-renewed-beginning/"><u>Each Day a Renewed Beginning | Free Book</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-tutorial-reinstalling-samsung-mobile-usb-drivers-made-simple/"><u>Easy Tutorial: Reinstalling Samsung Mobile USB Drivers Made Simple</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-hp-laserjet-pro-m404n-driver-version-installed-easily-online/"><u>Get the Newest HP LaserJet Pro M404n Driver Version Installed Easily Online</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-the-search-for-master-video-artists/"><u>In 2024, Navigating the Search for Master Video Artists</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/the-definitive-guide-to-picking-the-perfect-free-synology-backup-solution-amongst-leading-contenders/"><u>The Definitive Guide to Picking the Perfect Free Synology Backup Solution Amongst Leading Contenders</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/mbr-gptwindows-11-hddssd/"><u>ソリューション：MBR ドライブをGPTでフォーマットし、Windows 11のコピーが完了: HDDからSSDへ</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1-how-to-fix-fluid-found-in-charging-port-issue-on-iphones-2-effective-solutions/"><u>1. How to Fix 'Fluid Found in Charging Port' Issue on iPhones: 2 Effective Solutions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-intel-integrated-hd-graphics-driver-for-windows-1011/"><u>Download & Install Intel Integrated HD Graphics Driver for Windows 10/11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-update-instructions-bring-your-computer-to-peak-performance-with-the-latest-intel-wireless-ac-3160-driver/"><u>Easy Update Instructions: Bring Your Computer to Peak Performance with the Latest Intel Wireless-AC 3160 Driver</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fast-track-intel-graphics-patching/"><u>Fast Track Intel Graphics Patching</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-hp-officejet-3830-ready-to-print-on-any-windows-device/"><u>Get Your HP OfficeJet 3830 Ready to Print on Any Windows Device</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/guide-to-seamlessly-integrating-your-wacom-intuos-pro-with-windows-10-system/"><u>Guide to Seamlessly Integrating Your Wacom Intuos Pro with Windows 10 System</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-motorola-moto-g23-lock-screen-password-by-drfone-android/"><u>How To Change Motorola Moto G23 Lock Screen Password?</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-data-from-apple-iphone-15-pro-max-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Data from Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-motorola-moto-g14-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Motorola Moto G14 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/simplified-installation-of-amd-ryzen-5-2600-graphics-drivers-download-and-setup-tutorial/"><u>Simplified Installation of AMD Ryzen 5 2600 Graphics Drivers - Download & Setup Tutorial</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-solution-to-correct-arduino-uno-driver-malfunctions-in-windows/"><u>Step-by-Step Solution to Correct Arduino Uno Driver Malfunctions in Windows</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/upgrade-your-skills-painlessly-navigating-through-windows-updates/"><u>Upgrade Your Skills: Painlessly Navigating Through Windows Updates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-the-battle-against-windows-10s-persistent-0x800705b4-update-issue-a-step-by-step-fix/"><u>Winning the Battle Against Windows 10'S Persistent 0X800705b4 Update Issue – A Step-by-Step Fix</u></a></li>
 </ul></div>
 

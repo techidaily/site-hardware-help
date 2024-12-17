@@ -1,7 +1,7 @@
 ---
 title: Unveiling New Gadgets with Tom's Hardware Guides
-date: 2024-08-19T10:28:33.190Z
-updated: 2024-08-20T10:28:33.190Z
+date: 2024-12-13T16:15:28.805Z
+updated: 2024-12-17T16:05:22.303Z
 tags:
   - motherboards
 categories:
@@ -45,6 +45,10 @@ Maxsun brought many unique motherboards to[Computex](https://tools.techidaily.co
 
  Typical of mini-ITX motherboards, there are only two memory slots. The ones on the MS-Challenger B760BKB D5 are[DDR5](https://tools.techidaily.com) slots, so you can have up to 96GB of memory and more when 64GB DDR5 memory modules are available. Speed-wise, these should be up to DDR5-8000, assuming your processor can handle it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -63,8 +67,6 @@ Maxsun brought many unique motherboards to[Computex](https://tools.techidaily.co
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -72,8 +74,18 @@ Maxsun brought many unique motherboards to[Computex](https://tools.techidaily.co
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-expertly-curated-5-best-android-screen-capture-options/"><u>[New] In 2024, Expertly Curated 5 Best Android Screen Capture Options</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-setting-up-auto-play-youtube-content-on-facebook-platform/"><u>[New] In 2024, Setting Up Auto-Play YouTube Content on Facebook Platform</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-the-visionarys-manual-selecting-the-most-compelling-4k-displays-today/"><u>[New] In 2024, The Visionary's Manual Selecting the Most Compelling 4K Displays Today</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-ultimate-list-of-8-gratis-corporate-video-conferencing-software/"><u>2024 Approved The Ultimate List of 8 Gratis Corporate Video Conferencing Software</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-logiteche-g27-steering-wheel-set-up-on-windows-11107-driver-software-downloads-available-now/"><u>Get Your Logiteche G27 Steering Wheel Set Up on Windows 11/10/7 - Driver Software Downloads Available Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-mini-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 mini, Apples New iPhone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722969847499-non-conductive-agents-like-fm-200-are-suitable-for-electrical-fires-but-may-not-be-effective-on-metal-or-cooking-oilgrease-fires/"><u>Non-Conductive Agents Like FM-200 Are Suitable for Electrical Fires but May Not Be Effective on Metal or Cooking Oil/Grease Fires.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722977658086-secure-the-fastest-performance-with-recent-ryzen-chip-set-drivers-now-available/"><u>Secure the Fastest Performance with Recent Ryzen Chip Set Drivers - Now Available</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/webcam-woes-solved-the-definitive-tutorial-for-upgrading-your-driver-on-windows-11/"><u>Webcam Woes Solved: The Definitive Tutorial for Upgrading Your Driver on Windows 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-on-apple-iphone-6-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 6?</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->

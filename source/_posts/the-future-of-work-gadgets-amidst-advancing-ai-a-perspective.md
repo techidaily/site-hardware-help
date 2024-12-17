@@ -1,7 +1,7 @@
 ---
 title: "The Future of Work Gadgets Amidst Advancing AI: A Perspective"
-date: 2024-12-08T00:36:53.881Z
-updated: 2024-12-11T05:31:09.681Z
+date: 2024-12-11T16:25:10.159Z
+updated: 2024-12-17T16:08:20.357Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,22 +134,17 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-top-8-best-apps-to-get-likes-on-facebook-android-and-iphone/"><u>[New] Top 8 Best Apps to Get Likes on Facebook (Android and iPhone)</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-crafting-compelling-narratives-in-instagram-ads-top-10-tips-for-success/"><u>[Updated] 2024 Approved Crafting Compelling Narratives in Instagram Ads Top 10 Tips for Success</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-download-youtube-snippets-with-perfection-for-2024/"><u>[Updated] Download YouTube Snippets with Perfection for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-pioneering-a-dual-perspective-3-innovative-techniques-for-viewpoint-based-youtube-reactions/"><u>[Updated] Pioneering a Dual Perspective 3 Innovative Techniques for Viewpoint-Based YouTube Reactions</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-precision-techniques-in-spinning-and-fusing-android-videography/"><u>[Updated] Precision Techniques in Spinning & Fusing Android Videography</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-master-pip-feature-while-consuming-youtube-videos-on-iphones/"><u>2024 Approved Master PIP Feature While Consuming YouTube Videos on iPhones</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-sound-blaster-z-drivers-installation-guide-for-windows-11/"><u>Effortless Sound Blaster Z Drivers Installation Guide for Windows 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ensure-proper-functioning-of-your-canon-mf8200c-compatible-drivers-for-win-71081-download-now/"><u>Ensure Proper Functioning of Your Canon MF8200C - Compatible Drivers for Win 7/10/8.1 Download Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-download-brother-hl-l2340dw-wireless-color-laser-printer-drivers-and-software-for-windows/"><u>Free Download: Brother HL-L2340DW Wireless Color Laser Printer Drivers & Software for Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-asrock-ab350-pro4-motherboard-up-and-running-free-driver-downloads-and-installation-guide-for-windows-users/"><u>Get Your ASRock AB350 Pro4 Motherboard Up and Running: Free Driver Downloads & Installation Guide for Windows Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/improve-your-pcs-acoustics-with-newly-released-dolby-drivers-for-windows-operating-systems/"><u>Improve Your PC's Acoustics with Newly Released Dolby Drivers for Windows Operating Systems</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-10-top-free-online-photo-editor/"><u>In 2024, 10 Top Free Online Photo Editor</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/secure-the-latest-driver-update-for-gigabyte-z370-pro-series-mobo-instantly/"><u>Secure the Latest Driver Update for Gigabyte Z370 Pro Series Mobo Instantly</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-downloading-and-configuring-xbox/"><u>Step-by-Step Guide: Downloading & Configuring Xbox 지오블기슬라이터드라이버</u></a></li>
-<li><a href="https://media-tips.techidaily.com/summer-entertainment-revolution-disneyplus-merges-with-hulu-and-max-for-ultimate-streaming-package/"><u>Summer Entertainment Revolution: Disney+ Merges with Hulu & Max for Ultimate Streaming Package</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/understanding-the-realtek-rtl8188ee-wi-fi-adapter-specifications-and-features/"><u>Understanding the Realtek RTL8188EE Wi-Fi Adapter: Specifications & Features</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-4k-video-editing-made-easy-top-proxy-editing-tools-for-2024/"><u>Updated 4K Video Editing Made Easy Top Proxy Editing Tools for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-step-by-step-guide-for-igtv-video-submission-for-2024/"><u>[New] Step-by-Step Guide for IGTV Video Submission for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-best-5-professional-drones-you-can-buy-for-2024/"><u>[Updated] Best 5 Professional Drones You Can Buy for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-essential-tips-for-switch-gaming-recordings/"><u>[Updated] Essential Tips for Switch Gaming Recordings</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-from-script-to-screen-magix-video-pro-xs-production-journey/"><u>2024 Approved From Script to Screen Magix Video Pro X's Production Journey</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-transform-your-youtube-channel-expert-tips-for-adding-chapter-sections/"><u>2024 Approved Transform Your YouTube Channel Expert Tips for Adding Chapter Sections</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complimentary-driver-downloads-for-logitech-webcams-on-windows/"><u>Complimentary Driver Downloads for Logitech Webcams on Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-epson-v700-printer-drivers-compatible-with-windows-7-10-and-81-free/"><u>Download Epson V700 Printer Drivers Compatible with Windows 7, 10 & 8.1 - Free</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722977411399-get-your-logitech-t630-up-and-running-on-win7810-download-the-right-driver/"><u>Get Your Logitech T630 Up and Running on Win7/8/10 - Download the Right Driver</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/improve-your-dell-2330-series-printer-functionality-a-step-by-step-guide-for-firmware-updates/"><u>Improve Your Dell 2330 Series Printer Functionality: A Step-by-Step Guide for Firmware Updates</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-proper-spelling-top-6-tips-to-overcome-autocorrect-mistakes-on-iphone/"><u>Mastering Proper Spelling: Top 6 Tips to Overcome Autocorrect Mistakes on iPhone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722967364525-unlock-full-potential-exclusive-msi-z37-grocking-board-drivers-get-them-at-no-cost/"><u>Unlock Full Potential: Exclusive MSI Z37 Grocking Board Drivers – Get Them at No Cost!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlocking-the-power-of-amd-rx-580-effortless-driver-update-and-installation-tips/"><u>Unlocking the Power of AMD RX 580: Effortless Driver Update & Installation Tips</u></a></li>
 </ul></div>
 

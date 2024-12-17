@@ -1,7 +1,7 @@
 ---
 title: "Next-Level Gaming Rigs Spotted Early: Certified MSI Z890 & B870 Motherboards Tailored for the Latest Intel Arrow Lake-S Processors Unveiled in a Leak - Computex Anticipation Builds"
-date: 2024-08-19T10:30:21.373Z
-updated: 2024-08-20T10:30:21.373Z
+date: 2024-12-13T16:21:56.146Z
+updated: 2024-12-17T16:11:32.973Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,18 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-nifty-editing-edits-discover-the-top-5-online-strategies-for-cutting-and-condensing-videos/"><u>[Updated] In 2024, Nifty Editing Edits Discover the Top 5 Online Strategies for Cutting & Condensing Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-ultimate-trailer-treasure-chest/"><u>2024 Approved Ultimate Trailer Treasure Chest</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024s-8-must-have-iphone-selfie-enhancers/"><u>2024'S #8 Must-Have iPhone Selfie Enhancers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-secrets-of-effective-image-searches-on-facebook/"><u>Discover the Secrets of Effective Image Searches on Facebook</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-lenovo-legion-5-pro-16ach6h-drivers-complete-guide/"><u>Download Lenovo Legion 5 Pro-16ACH6H Drivers: Complete Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-ultimate-roccat-gaming-mouse-management-tool/"><u>Download the Ultimate Roccat Gaming Mouse Management Tool</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-laserjet-pro-mfp-m428fdw-printer-drivers-compatible-with-windows-7-10-and-11/"><u>HP LaserJet Pro MFP M428fdw Printer Drivers Compatible with Windows 7, 10 & 11</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-financial-foresight-select-youtube-stocks-hubs/"><u>In 2024, Financial Foresight Select YouTube Stocks Hubs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-compatible-camera-drivers-for-any-windows-os-11-10-8-or-7-guide/"><u>Install Compatible Camera Drivers for Any Windows OS: 11, 10, 8 or 7 Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/msi-b350-toms-hardware-motherboard-latest-drivers-and-downloads-for-win10win7/"><u>MSI B350 TOM'S HARDWARE Motherboard - Latest Drivers & Downloads for Win10/Win7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-hps-beats-sound-drivers-on-various-windows-versions-solved/"><u>Troubleshooting HP's Beats Sound Drivers on Various Windows Versions - Solved!</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->

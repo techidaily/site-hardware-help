@@ -1,7 +1,7 @@
 ---
 title: Discover the Unmatched Versattile Performance of Dell's Latest Gaming Laptop - Ideal For Office Use Too! Exclusive Review
-date: 2024-12-06T18:30:02.200Z
-updated: 2024-12-10T18:44:50.967Z
+date: 2024-12-15T16:23:16.576Z
+updated: 2024-12-17T16:31:51.812Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,18 +114,15 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-enhancing-imagery-add-filters-to-videos-on-devices-for-2024/"><u>[New] Enhancing Imagery Add Filters to Videos on Devices for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/1716069747263-updated-in-2024-employing-inbuilt-screen-recording-tools-on-mate-p-models-p20-p10/"><u>[Updated] In 2024, Employing Inbuilt Screen Recording Tools on Mate, P Models (P20, P10).</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-step-by-step-guide-to-360-videos-with-ios/"><u>[Updated] In 2024, Step-by-Step Guide to 360 Videos with iOS</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-harmony-hub-capture-store-and-review-sounds/"><u>2024 Approved Harmony Hub Capture, Store & Review Sounds</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/anticipated-arrival-of-cutting-edge-macbooks-by-next-week-find-out-what-experts-say-gadgetscoop-update/"><u>Anticipated Arrival of Cutting-Edge MacBooks by Next Week? Find Out What Experts Say - GadgetScoop Update</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/asus-showcases-exceptional-oled-screen-quality-on-latest-laptop-a-comprehensive-review-from-a-pro-laptop-expert/"><u>Asus Showcases Exceptional OLED Screen Quality on Latest Laptop – A Comprehensive Review From a Pro LAPTOP Expert</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/budget-friendly-hp-probook-x360-for-professionals-refurbished-deal-at-just-230/"><u>Budget-Friendly HP ProBook X360 for Professionals, Refurbished Deal At Just $230!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/elite-selection-of-compact-tablets-for-2n24-in-depth-analysis-and-ratings-zdnet/"><u>Elite Selection of Compact Tablets for 2N24: In-Depth Analysis and Ratings | ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-can-you-move-your-existing-windows-os-upgrade-from-an-old-computer-to-another-device-tips-and-tricks/"><u>How Can You Move Your Existing Windows OS Upgrade From an Old Computer to Another Device? - Tips & Tricks</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-xiaomi-redmi-a2-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Xiaomi Redmi A2 Location | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/master-iphones-multi-tasked-capture-feature/"><u>Master iPhone's Multi-Tasked Capture Feature</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solution-steps-for-fixing-stop-error-code-0x00000124-on-windows-11-and-7-systems/"><u>Solution Steps for Fixing Stop Error (Code 0X00000124) on Windows 11 & 7 Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/whats-in-store-for-tech-enthusiasts-anticipating-apples-october-reveals-next-gen-m4-mac-mini-revamped-ipads-and-ai-developments-expert-analysis/"><u>What's in Store for Tech Enthusiasts: Anticipating Apple's October Reveals – Next-Gen M4 Mac Mini, Revamped iPads & AI Developments – Expert Analysis</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-maximize-your-access-to-fb-videos-with-our-top-5-picks/"><u>[Updated] Maximize Your Access to FB Videos with Our Top 5 Picks</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-prime-instant-window-photo-viewer-for-2024/"><u>[Updated] Prime Instant Window Photo Viewer for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-innovative-tricks-for-captivating-boomerangs/"><u>2024 Approved Innovative Tricks for Captivating Boomerangs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/allocating-budget-for-youtube-video-success/"><u>Allocating Budget for YouTube Video Success</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975122770-get-your-steelseries-mouse-up-to-speed-with-latest-firmware-update/"><u>Get Your SteelSeries Mouse Up to Speed with Latest Firmware Update</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-budget-enthusiasts-choices-the-right-gopro-add-ons-for-newbies/"><u>In 2024, Budget Enthusiasts Choices The Right GoPro Add-Ons for Newbies</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-successfully-downloading-and-installing-the-arduino-nano-board-on-your-pc/"><u>Step-by-Step Guide: Successfully Downloading & Installing the Arduino Nano Board on Your PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-transforming-mov-video-format-into-mpeg-2/"><u>Step-by-Step Guide: Transforming MOV Video Format Into MPEG-2</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/synaptics-drivers-download-and-update-for-windows-easily/"><u>Synaptics Drivers Download & Update For Windows. EASILY</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrade-your-network-tp-link-drivers-download-for-win10win8win7-freshly-updated-packages/"><u>Upgrade Your Network: TP-Link Drivers Download for Win10/Win8/Win7 - Freshly Updated Packages</u></a></li>
 </ul></div>
 

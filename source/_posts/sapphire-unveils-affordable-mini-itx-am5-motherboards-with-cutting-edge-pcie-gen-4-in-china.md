@@ -1,7 +1,7 @@
 ---
 title: Sapphire Unveils Affordable Mini ITX AM5 Motherboards with Cutting-Edge PCIe Gen 4 in China
-date: 2024-08-19T10:30:25.182Z
-updated: 2024-08-20T10:30:25.182Z
+date: 2024-12-12T16:21:19.467Z
+updated: 2024-12-17T16:03:54.936Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,17 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-determining-the-perfect-aspect-ratio/"><u>[New] Determining the Perfect Aspect Ratio</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-unpacking-twitter-video-sharing-the-whatsapp-connection-for-2024/"><u>[New] Unpacking Twitter Video Sharing The WhatsApp Connection for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-social-snapshot-saver-tool/"><u>[Updated] In 2024, Social Snapshot Saver Tool</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/3-ways-to-unlock-your-apple-iphone-11-for-free-by-drfone-ios/"><u>3 Ways to Unlock Your Apple iPhone 11 for Free</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-radeon-rx-6900-xt-graphics-drivers-download-now-for-windows-11-10-8-and-7/"><u>AMD Radeon RX 6900 XT Graphics Drivers: Download Now for Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/androids-creme-de-la-creme-for-fast-vid-fixing-for-2024/"><u>Android's Crème De La Crème for Fast Vid Fixing for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-guide-to-installing-and-updating-hp-laserjet-1320-printer-drivers-on-your-windows-pc/"><u>Easy Guide to Installing and Updating HP LaserJet 1320 Printer Drivers on Your Windows PC</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-xiaomi-redmi-note-12-4g-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Xiaomi Redmi Note 12 4G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-to-follow-guide-downloading-and-installing-hp-officejet-3830-drivers-for-windows/"><u>Easy-to-Follow Guide: Downloading and Installing HP OfficeJet 3830 Drivers for Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-thunderbolt-drivers-windows-11-8-7-free-download-and-updates/"><u>Get the Newest Thunderbolt #Drivers (Windows 11, 8, 7) - Free Download and Updates</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

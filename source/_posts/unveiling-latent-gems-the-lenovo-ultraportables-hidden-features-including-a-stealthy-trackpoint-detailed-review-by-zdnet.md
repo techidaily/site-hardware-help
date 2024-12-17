@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Latent Gems: The Lenovo Ultraportable's Hidden Features Including a Stealthy TrackPoint | Detailed Review by ZDNet"
-date: 2024-12-06T16:35:42.206Z
-updated: 2024-12-11T11:37:05.186Z
+date: 2024-12-10T16:29:36.549Z
+updated: 2024-12-17T16:23:43.105Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -77,7 +77,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -116,24 +116,24 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-audio-visual-vanguard-evaluating-the-best-classroom-recorders/"><u>[Updated] 2024 Approved Audio-Visual Vanguard Evaluating the Best Classroom Recorders</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-personalize-and-protect-youtube-channel-url-made-simple/"><u>2024 Approved Personalize & Protect YouTube Channel URL Made Simple</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/capturar-la-pantalla-con-excelencia-en-windows-top-5-herramientas-para-grabar-cualquier-parte-del-escritorio/"><u>Capturar La Pantalla Con Excelencia en Windows: Top 5 Herramientas Para Grabar Cualquier Parte Del Escritorio</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-hp-deskjet-2540-printer-drivers-step-by-step-guide/"><u>Download and Update HP Deskjet 2540 Printer Drivers: Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-installation-guide-for-logitech-g27-gamepad-win11-win10-and-win7-driver-downloads-available-now/"><u>Easy Installation Guide for Logitech G27 Gamepad: Win11, Win10 & Win7 Driver Downloads Available Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-to-follow-instructions-for-dells-newest-audio-driver-update/"><u>Easy-to-Follow Instructions for Dell's Newest Audio Driver Update</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/tlessly-add-youtube-videos-to-google-slate-decks-for-2024/"><u>Effortlessly Add YouTube Videos to Google Slate Decks for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/fast-and-simple-updated-amd-smbus-drivers-for-immediate-installation/"><u>Fast & Simple: Updated AMD SMBus Drivers for Immediate Installation</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/geforce-rtx-2-groove-fresh-driver-release-for-windows-os-including-10-8-and-7/"><u>Geforce RTX 2 Groove: Fresh Driver Release for Windows OS Including 10, 8 & 7</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-sony-xperia-5-v-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Sony Xperia 5 V Phones? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-update-logitech-brio-webcam-for-windows-systems-11-8-and-7-downloads/"><u>How to Update Logitech BRIO Webcam for Windows Systems: 11, 8, and 7 Downloads</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-m1-demystified-apple-redefines-chipset-technology/"><u>In 2024, M1 Demystified Apple Redefines Chipset Technology</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-phased-opening-visuals/"><u>In 2024, Phased Opening Visuals</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-the-latest-nvidia-geforce-210-driver-version-for-enhanced-compatibility-with-windows-11/"><u>Navigating the Latest NVIDIA GeForce 210 Driver Version for Enhanced Compatibility with Windows 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/resolved-how-to-get-your-logitech-g433-microphone-functioning-again/"><u>Resolved! How to Get Your Logitech G433 Microphone Functioning Again</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revamping-boot-speed-on-windows-10-and-11-operating-systems/"><u>Revamping Boot Speed on Windows 10 & 11 Operating Systems</u></a></li>
-<li><a href="https://some-skills.techidaily.com/seamless-sessions-tailoring-your-zoom-environment-for-2024/"><u>Seamless Sessions Tailoring Your Zoom Environment for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/seamless-updating-of-logitech-headset-drivers-fast-and-hassle-free-downloads/"><u>Seamless Updating of Logitech Headset Drivers: Fast and Hassle-Free Downloads</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-beginners-manual-to-household-electric-vehicle-charging/"><u>The Ultimate Beginner's Manual to Household Electric Vehicle Charging</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-game-sound-transformation-the-no-cost-pathway-in-free-fire-for-2024/"><u>[New] In-Game Sound Transformation The No-Cost Pathway in Free Fire for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-how-to-advertise-on-twitter/"><u>[Updated] 2024 Approved How to Advertise on Twitter</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-10-pro-tips-to-perfectly-piece-your-images/"><u>2024 Approved 10 Pro Tips to Perfectly Piece Your Images</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-filmmakers-checklist-on-the-go-gear-guide/"><u>2024 Approved Filmmaker's Checklist On-the-Go Gear Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-introduces-five-innovative-ryzen-processors-enhanced-features-with-strix-halo-and-kraken-point-technology/"><u>AMD Introduces Five Innovative Ryzen Processors: Enhanced Features with Strix Halo & Kraken Point Technology</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-setup-steps-logitech-racing-wheel-g27-driver-installation-for-all-windows-versions/"><u>Easy Setup Steps: Logitech Racing Wheel G27 Driver Installation for All Windows Versions</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevating-your-pokemon-journey-with-ios-devices/"><u>Elevating Your Pokémon Journey with iOS Devices</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/enhancing-zoom-picture-resolution-easy-fixes/"><u>Enhancing Zoom Picture Resolution Easy Fixes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ensure-optimal-performance-with-newest-drivers-downloading-for-epson-wf-3720/"><u>Ensure Optimal Performance with Newest Drivers: Downloading for Epson WF 3720</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/focus-on-one-room-at-a-time/"><u>Focus On One Room At A Time</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-nvidia-drivers-updated-now-direct-download-links-available/"><u>Get Your NVIDIA Drivers Updated Now - Direct Download Links Available</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722977118879-get-your-windows-78110-compatible-epson-wf-2630-printer-drivers-here/"><u>Get Your Windows 7/8.1/10 Compatible Epson WF-2630 Printer Drivers Here</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-do-internet-integrated-tvs-enhance-your-home-entertainment-system/"><u>How Do Internet-Integrated TVs Enhance Your Home Entertainment System?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-version-of-epson-xp-310-printer-driver-download-now/"><u>Latest Version of Epson XP-310 Printer Driver - Download Now</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-audio-configuration-setting-up-unknown-speakers-in-windows-11/"><u>Mastering Audio Configuration: Setting Up Unknown Speakers in Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-downloading-sandisk-ssd-drivers-no-problem-left-behind/"><u>Step-by-Step Guide: Downloading Sandisk SSD Drivers - No Problem Left Behind</u></a></li>
+<li><a href="https://win-forum.techidaily.com/transformar-gravacoes-do-mts-em-mp4-gratuito-on-line-dicas-facilitadas-e-eficientes/"><u>Transformar Gravações Do MTS Em MP4 Gratuito On-Line - Dicas Facilitadas E Eficientes</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/unveiling-hidden-functionalities-of-instagrams-question-marker/"><u>Unveiling Hidden Functionalities of Instagram’s Question Marker</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-arduino-usb-drivers-on-windows-whats-new/"><u>Update Your Arduino USB Drivers on Windows - What's New?</u></a></li>
 </ul></div>
 

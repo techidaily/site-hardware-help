@@ -1,7 +1,7 @@
 ---
 title: Affordable Lenovo Device Ideal for Hybrid Professionals - Save 1K Now![ZDNet]
-date: 2024-12-08T19:58:42.840Z
-updated: 2024-12-10T22:09:06.249Z
+date: 2024-12-13T16:25:10.537Z
+updated: 2024-12-17T16:21:19.816Z
 tags:
   - laptops
 categories:
@@ -40,7 +40,7 @@ This laptop isn't solely for business professionals, though. It's well-rounded e
 Right now is the best time to buy the [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C84c53c5f-f96c-4610-b720-0889991981e4%7Cdtp&dtb=1) since it's currently on sale at Amazon for $1,498 which is a little over $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C84c53c5f-f96c-4610-b720-0889991981e4%7Cdtp&dtb=1) is much more expensive, but I do recommend it as an alternative if you can afford it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -77,22 +77,24 @@ Since October Prime Day has already wrapped up, we're not entirely sure how long
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-20plus-artistic-assembly-ideas-for-a-brighter-yard/"><u>[New] In 2024, 20+ Artistic Assembly Ideas for a Brighter Yard</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-perfect-your-instagram-vocal-presence-quickly/"><u>[Updated] In 2024, Perfect Your Instagram Vocal Presence Quickly</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-starting-out-on-youtube-top-gear-essentials/"><u>[Updated] Starting Out on YouTube - Top Gear Essentials</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/find-and-install-samsung-nvme960-evo-driver-a-comprehensive-guide-for-windows-users/"><u>Find and Install Samsung Nvme960 EVO Driver - A Comprehensive Guide for Windows Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-logitech-headset-software-instantly-for-optimal-performance/"><u>Get the Newest Logitech Headset Software Instantly for Optimal Performance</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/harnessing-quoras-poe-for-llm-and-chatbot-access/"><u>Harnessing Quora’s POE for LLM & Chatbot Access</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-enable-screen-mirroring-for-apple-tv-plus-on-your-chromecast-device/"><u>How To Enable Screen Mirroring for Apple TV Plus on Your Chromecast Device</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-sounds-in-black-ops-cold-war-a-comprehensive-guide-for-windows-players/"><u>How to Restore Sounds in Black Ops Cold War - A Comprehensive Guide for Windows Players</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Motorola Edge 40? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Honor X9a? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/keep-your-pc-connected-download-updated-msi-bluetooth-drivers-for-windows-1110-today/"><u>Keep Your PC Connected: Download Updated MSI Bluetooth Drivers for Windows 11/10 Today</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/keeping-your-connectivity-smooth-how-to-install-latest-wireless-drivers-on-microsoft-oses/"><u>Keeping Your Connectivity Smooth: How to Install Latest Wireless Drivers on Microsoft OSes</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/knock-sensor-function-the-knock-sensor-detects-pre-ignition-or-detonation-knock-allowing-the-ecu-to-retard-ignition-timing-and-prevent-engine-damage-while-m132/"><u>Knock Sensor Function: The Knock Sensor Detects Pre-Ignition or Detonation (Knock), Allowing the ECU to Retard Ignition Timing and Prevent Engine Damage While Maintaining Performance.</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/optimize-your-pc-for-gaming-by-refreshing-your-asus-rx-970-pro/"><u>Optimize Your PC for Gaming by Refreshing Your Asus RX 지갈키즐 970 Pro</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-setup-for-hp-officejet-n5740-download-compatible-drivers-here/"><u>Quick Setup for HP OfficeJet N5740: Download Compatible Drivers Here</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/revitalize-your-dell-computer-step-by-step-instructions-for-downloading-and-updating-the-wireless-network-adapter-driver/"><u>Revitalize Your Dell Computer: Step-by-Step Instructions for Downloading and Updating the Wireless Network Adapter Driver</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshooting-tips-how-to-fix-your-logitech-g433-microphone-issues/"><u>Troubleshooting Tips: How to Fix Your Logitech G433 Microphone Issues</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-highlighting-the-top-10-budget-friendly-video-communication-platforms-for-industry-and-academia/"><u>[New] Highlighting the Top 10 Budget-Friendly Video Communication Platforms For Industry & Academia</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-shutterbugs-essential-guide-for-insta-posting-for-2024/"><u>[New] Shutterbugs' Essential Guide for Insta-Posting for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-tips-to-share-pre-recorded-videos-live-on-facebook-for-2024/"><u>[New] Tips to Share Pre-Recorded Videos Live on Facebook for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-why-av1-improving-streams-and-videos-on-youtube/"><u>[Updated] Why AV1? – Improving Streams and Videos on YouTube</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/cant-play-mp4-files-on-xiaomi-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Can't play MP4 files on Xiaomi</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-cutting-edge-hardware-on-toms-digital-workshop/"><u>Discover Cutting-Edge Hardware on Tom's Digital Workshop</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-most-recent-geforce-940mx-nvidia-driver-for-enhanced-performance/"><u>Download the Most Recent GeForce 940MX NVIDIA Driver for Enhanced Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-driver-installation-grab-your-usb-camera-software-today/"><u>Effortless Driver Installation: Grab Your USB Camera Software Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-performance-obtain-and-install-updates-for-nvidias-geforce-gtx-1660-super-gpu/"><u>Enhance Performance: Obtain & Install Updates for NVIDIA's GeForce GTX 1660 Super GPU</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722962453900-find-and-install-compatible-audio-driver-packs-for-windows-7-systems-here/"><u>Find and Install Compatible Audio Driver Packs for Windows 7 Systems Here!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722956962099-get-your-canon-imageclass-mf4800-printer-drivers-here/"><u>Get Your Canon ImageClass MF4800 Printer Drivers Here!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-and-update-zebra-zp450-drivers-a-comprehensive-walkthrough/"><u>How To Get And Update Zebra ZP450 Drivers - A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Oppo A78? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/konica-minolta-printer-drivers-download-and-update-process-made-easy/"><u>Konica Minolta Printer Drivers: Download & Update Process Made Easy</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-x230-driver-setup-for-your-lenovo-laptop-with-ease/"><u>Mastering X230 Driver Setup for Your Lenovo Laptop with Ease</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-6-solutions-to-reduce-cpu-overload-in-baldurs-gate-3-2024-update/"><u>Top 6 Solutions to Reduce CPU Overload in Baldur's Gate 3 - 2024 Update</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unboxing-the-fellowes-microban-keyboard-with-built-in-antimicrobial-protection-best-for-your-wallet/"><u>Unboxing the Fellowes Microban Keyboard with Built-In Antimicrobial Protection – Best for Your Wallet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/updated-drivers-downloaded-how-to-install-hp-deskjet-2700-printing-software/"><u>Updated Drivers Downloaded: How to Install HP DeskJet 2700 Printing Software</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-update-drivers-on-windows-7-by-drivereasy-guide/"><u>Use Device Manager to update drivers on Windows 7</u></a></li>
 </ul></div>
 

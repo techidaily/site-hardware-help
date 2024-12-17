@@ -1,7 +1,7 @@
 ---
 title: Top-Rated Portable Displays - Comprehensive Reviews & Comparisons by ZDNet
-date: 2024-12-09T02:55:49.003Z
-updated: 2024-12-10T17:50:40.125Z
+date: 2024-12-14T16:14:49.192Z
+updated: 2024-12-17T16:19:07.627Z
 tags:
   - laptops
 categories:
@@ -48,7 +48,7 @@ Cons
 ## Apple MacBook Air M3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best lightweight laptop overall
@@ -80,14 +80,10 @@ Cons
 * Loud fans
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Acer Swift Go 14
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best lightweight laptop for AI
 
@@ -118,7 +114,7 @@ Cons
 ## Asus ROG Zephyrus G14
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best lightweight laptop for gaming
@@ -150,10 +146,14 @@ Cons
 * Design tradeoffs for ultra portability
 * Expensive
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## LG Gram Pro 17
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best lightweight laptop with a 17" display
@@ -186,7 +186,7 @@ Cons
 * Expensive
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Lenovo ThinkPad X1 Carbon
@@ -228,10 +228,6 @@ The best lightweight laptop for you depends on what you want to get out of it. L
 | ASUS ROG Zephyrus G14               | The lightest machine you can get while still calling it a proper gaming laptop.          |
 | LG Gram Pro 17                      | The lightest, thinnest 17-inch laptop on the market, no matter the cost.                 |
 | Lenovo X1 Carbon                    | A durable, powerful laptop for work.                                                     |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How we test lightweight laptops
 
@@ -280,6 +276,10 @@ We love lightweight laptops because they're easy to carry around. But the backpa
 **Also: [From everyday use to travel, these are the best backpacks](https://www.zdnet.com/home-and-office/best-backpack/)**
 
 [ZDNET RECOMMENDS Matein Travel Laptop Backpack Packed with travel-friendly features like a luggage strap and an anti-theft back pocket that protects your valuables, the Matein travel laptop is an inexpensive and solid travel backpack for your laptop. A bonus feature is an external USB charging port for easy charging on the go. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBackpack-Business-Charging-Resistant-Computer%2Fdp%2FB06XZTZ7GB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb372b0e0-f807-4ada-91fc-3819fe7f0ce6%7Cdtp&dtb=1)[ZDNET RECOMMENDS Herschel Little America Backpack Herschel backpacks have a timeless design that's comfortable to wear thanks to the contoured padded back straps. It comes in two sizes which can hold up to a 13-inch laptop or a 15-inch laptop. Its drawstring closure expands to create extra storage space while the magnetic front straps secure what's inside. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB00838TCGO%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb372b0e0-f807-4ada-91fc-3819fe7f0ce6%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which operating system should you choose: Windows, MacOS, Chrome OS, or Linux?
 
@@ -335,17 +335,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-premium-scenery-selections-for-streams/"><u>[Updated] In 2024, Premium Scenery Selections for Streams</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/1726228177397-mp4swf-movavi/"><u>線上無限制將MP4改成SWF - 利用Movavi的換算工具</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-toshiba-printer-software-for-windows-complete-guide/"><u>Download & Update Toshiba Printer Software for Windows: Complete Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/evga-graphics-driver-setup-and-download-for-windows-pcs/"><u>EVGA Graphics Driver Setup & Download for Windows PCs</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-realme-narzo-60x-5g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Realme Narzo 60x 5G to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Oppo K11 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-logitech-brio-hd-camera-driver-for-windows-10-and-11-users/"><u>Latest Logitech BRIO HD Camera Driver for Windows 10 & 11 Users</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/optimizing-chatgpt-with-new-plugins/"><u>Optimizing ChatGPT with New Plugins</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-pause-predicament-in-gameplay-ease/"><u>Overcome Pause Predicament in Gameplay Ease</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/recording-the-virtual-realm-for-2024/"><u>Recording the Virtual Realm for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/revitalize-your-webcam-functionality-update-its-driver-in-windows-10/"><u>Revitalize Your Webcam Functionality - Update Its Driver in Windows 10</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-activating-and-using-razer-mouse-drivers-in-windows/"><u>Step-by-Step Tutorial: Activating and Using Razer Mouse Drivers in Windows</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-instructor-insights-choosing-the-prime-video-capturing-technology/"><u>[New] In 2024, Instructor Insights Choosing the Prime Video Capturing Technology</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asus-pce-ac56-wifi-card-drivers-updated-for-seamless-windows-1087-integration/"><u>ASUS PCE-AC56 WiFi Card Drivers Updated for Seamless Windows 10/8/7 Integration</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/boosting-your-acer-nitro-5s-capabilities-with-the-newest-graphics-and-system-drivers/"><u>Boosting Your Acer Nitro 5'S Capabilities with the Newest Graphics and System Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/challenging-the-titans-loongsons-new-16-core-cpu-rivals-intel-ice-lake-and-xeon-silver-performance/"><u>Challenging the Titans: Loongson's New 16-Core CPU Rivals Intel Ice Lake and Xeon Silver Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-new-epson-xp-245-drivers-now-ensure-smooth-printing-on-windows-os-versions-7810/"><u>Get Your New Epson XP 245 Drivers Now! Ensure Smooth Printing on Windows OS Versions (7/8/10)</u></a></li>
+<li><a href="https://common-error.techidaily.com/google-chrome-fixed-how-to-troubleshoot-non-responsiveness-problems/"><u>Google Chrome Fixed: How to Troubleshoot Non-Responsiveness Problems</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Infinix Note 30 VIP Racing Edition? | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/how-to-make-every-meme-shine-on-9gag-for-2024/"><u>How to Make Every Meme Shine on 9GAG for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-yogo-profile-picture-guide-dimensions-in-mm-aspect-ratio-minutes/"><u>In 2024, YoGo Profile Picture Guide Dimensions in Mm², Aspect Ratio, Minutes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-the-latest-epson-wf-2540-driver-for-your-windows-operating-system-windows-78110-supported/"><u>Install the Latest Epson WF 2540 Driver for Your Windows Operating System: Windows 7/8.1/10 Supported</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/instant-downloads-targus-universal-docking-hub-driver-software/"><u>Instant Downloads: Targus Universal Docking Hub Driver Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intel-or-amd-evaluating-the-top-contenders-in-central-processing-units/"><u>Intel or AMD? Evaluating the Top Contenders in Central Processing Units</u></a></li>
+<li><a href="https://facebook.techidaily.com/is-participating-in-fb-quizzes-risky-for-privacy/"><u>Is Participating in FB Quizzes Risky for Privacy?</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210748123-9780593690291-shadow-work-journal-for-self-love/"><u>Shadow Work Journal for Self-Love | Free Book</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/top-tips-on-selecting-free-audio-tracks-for-your-yt-clips-for-2024/"><u>Top Tips on Selecting Free Audio Tracks for Your YT Clips for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-epson-et-2750-printer-with-newest-windows-driver-downloads/"><u>Update Your Epson ET-2750 Printer with Newest Windows Driver Downloads</u></a></li>
 </ul></div>
 

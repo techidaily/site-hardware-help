@@ -1,7 +1,7 @@
 ---
 title: Exploring Computer Gear with Tom's Hardware Insights
-date: 2024-08-19T10:30:10.039Z
-updated: 2024-08-20T10:30:10.039Z
+date: 2024-12-16T16:20:06.970Z
+updated: 2024-12-17T16:21:56.188Z
 tags:
   - motherboards
 categories:
@@ -97,13 +97,14 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 
  We check over 250 million products every day for the best prices
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Inside the Box of the ASRock Z790I Lightning Wi-Fi
 
  Inside the retail packaging, below the motherboard, ASRock includes a few accessories to get you started. You get two SATA cables, a Wi-Fi antenna, screws for M.2 sockets, and a thermistor cable. There isn’t much here, which isn’t surprising at this price point, but it’s enough to cover the basics.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## Design of the Lightning Wi-Fi
 
  Image 1 of 3
@@ -111,8 +112,9 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 ![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: ASRock)
 
 ![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -122,17 +124,15 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 ![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: ASRock)
 
  This little motherboard sits on a server-grade 8-layer matte black PCB. The sole design element comes from the actively cooled, heatpipe-connected VRM heatsinks and M.2 heatsinks. The heatsinks have lines that meander their way around the metal bits. On the left, you see the Phantom Gaming branding as well. If you’re interested in RGB lighting in your chassis, you’ll have to add your own to the onboard headers, as the board does not include any natively. The all-black appearance looks good and, in my opinion, better than the more expensive PG-ITX/TB4.
 
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/97M3RfrDnnVcKkV4n7VkU8-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: ASRock)
 
  Starting in the left corner, we spy a single 8-pin EPS connector just above the heatpipe connecting the heatsinks. The VRMs have plenty of mass and surface area to keep the powerful VRMs below running cool. There’s also a small fan attached to the heatsink tucked in between the rear IO plate and the VRM for additional cooling. The default fan curve sounds improved from the PG-ITX/TB4\. While it was still audible, we could hear it only during stress testing. Of course, you can adjust it if needed. Also by the EPS connector is the 2-pin temperature sensor header to use with the included thermistor.
@@ -147,14 +147,15 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/Yoyr47AhNxUyUnTePWM7kF-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Power delivery on the Z790I Lightning has 16 phases, with 14 dedicated to Vcore. Power heads from the 8-pin EPS connector onto a Renesas RAA229131 PWM controller. From there, it heads to the 14 110A Renesas RAA2209004 SPS MOSFETs. The 1,540A available is the most I recall seeing on an ITX board and will surely handle Intel’s flagship-class processors, even when overclocking with sub-ambient cooling.
 
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/38vzBpWcpKHzwQLj5js8d8-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: ASRock)
 
@@ -165,9 +166,9 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/Ax7PUWX76BhvWC7HhxEAn8-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: ASRock)
 
  The rear IO plate on the Z790I Lightning comes preinstalled on the motherboard. It has a black and gray background, the Phantom Gaming branding in the corner, and plenty of venting for the hidden VRM fan. In total, there are five USB Type-A ports (four are USB 3.2 Gen 1) while the other below the Realtek 2.5 GbE port is faster at USB 3.2 Gen 2 (10 Gbps) speeds. Additionally, you get a USB Type-C port with USB 3.2 Gen 2 (10 Gbps) speeds. There are DisplayPort and HDMI ports for video, while the Wi-Fi 6E antenna connections sit just above that. Last but not least, on the far right, is the audio stack with two 3.5mm jacks (mic in and line out) and the SPDIF output.
@@ -186,8 +187,6 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -195,4 +194,20 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-futures-finest-the-leading-photo-frame-tools-24-for-2024/"><u>[New] Future's Finest The Leading Photo Frame Tools '24 for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-top-9-rapid-techniques-for-skyrocketing-your-tiktok-audience/"><u>[New] In 2024, Top 9 Rapid Techniques for Skyrocketing Your TikTok Audience</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210202532-9781641605748-becoming-a-hollow-bone/"><u>Becoming a Hollow Bone | Free Book</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/characters-must-speak-in-rhyming-couplets-with-their-dialogue-containing-exact-phrases-from-siegels-quotes-eg-there-are-no-moving-parts/"><u>Characters Must Speak in Rhyming Couplets, with Their Dialogue Containing Exact Phrases From Siegel's Quotes (E.g., There Are No Moving Parts.).</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/direct-link-get-the-windows-software-for-your-brother-hl-l2380dw-laser-multifunction-printer/"><u>Direct Link: Get the Windows Software for Your Brother HL-L2380DW Laser Multifunction Printer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-latest-firmware-hp-laserjet-pro-1007-printer-software-upgrade/"><u>Download the Latest Firmware: HP LaserJet Pro 1007 Printer Software Upgrade</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fast-track-access-secure-the-latest-lexar-usb-drivers-here/"><u>Fast Track Access: Secure the Latest Lexar USB Drivers Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-arduino-mega-2560-drivers-instantly-free-and-fast/"><u>Get Your Arduino Mega 2560 Drivers Instantly – Free and Fast</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-lava-storm-5g-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Lava Storm 5G</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-compatible-hp-laserjet-pro-mfp-m428fdw-driver-version-for-windows-7-10-and-windows-11/"><u>Latest Compatible HP LaserJet Pro MFP M428fdw Driver Version for Windows 7, 10 and Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/simple-download-intel-ac-7260-wifi-card-software-instructions/"><u>Simple Download: Intel AC 7260 WiFi Card Software Instructions</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/the-ultimate-list-of-mac-image-editors-for-perfect-background-extraction-top-4-2n22/"><u>The Ultimate List of Mac Image Editors for Perfect Background Extraction (Top 4) - 2N22</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/transforming-rmvb-files-to-avi-format-a-step-by-step-guide-for-quick-and-cost-free-conversion-online/"><u>Transforming RMVB Files to AVI Format: A Step-by-Step Guide for Quick & Cost-Free Conversion Online</u></a></li>
+</ul></div>
 

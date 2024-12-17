@@ -1,7 +1,7 @@
 ---
 title: "Prime Day Exclusive: Save $460 on the Microsoft Surface Pro 8 | Top Deals at ZDNet"
-date: 2024-12-10T12:03:19.745Z
-updated: 2024-12-10T21:22:33.044Z
+date: 2024-12-12T16:25:40.913Z
+updated: 2024-12-17T16:02:11.959Z
 tags:
   - laptops
 categories:
@@ -25,7 +25,7 @@ We've gone hands-on with dozens of laptops this year, and scoured the internet f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The best laptop deals for Amazon Prime Day 2024
@@ -88,7 +88,7 @@ Asus/ZDNET
 * [HP Chromebook 14 for $189 (Save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Chromebook-Graphics-Keyboard-14a-na0226nr%2Fdp%2FB09SVSBVP1%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): It doesn't get much more budget than this. HP's 14-inch Chromebook comes with just 4GB of RAM, so it's perfect as a backup machine or secondary travel device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Prime Day MacBook deals
@@ -98,6 +98,10 @@ Kyle Kucharski/ZDNET
 * [Apple MacBook Air (M2) for $799 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2022-Apple-MacBook-Laptop-chip%2Fdp%2FB0B3BVWJ6Y%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): [The MacBook Air (M2)](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/) combines performance and portability. It's one of our favorite laptops at ZDNET and our Product of the Year -- and it's on sale for just $799, the lowest price we've ever seen.
 * [Apple MacBook Air (M3) for $899 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-2024-MacBook-13-inch-Laptop%2Fdp%2FB0CX23V2ZK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): If you want to purchase one of Apple's latest MacBook Air products, you can save $200 on the [2024 version](https://www.zdnet.com/article/m3-macbook-air-review/), powered by an M3 chip -- the lowest price of the year. Don't forget to apply the coupon.
 * [Apple MacBook Pro (M3) for $1,400 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core%2Fdp%2FB0CM5JV268%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): The [MacBook Pro (M3)](https://www.zdnet.com/article/m3-macbook-pro-buying-advice/) is one of the best-performing laptops on the market, and it's $200 off -- make sure you add the coupon offer on the page.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Prime Day HP laptop deals
 
@@ -115,7 +119,7 @@ Lenovo/ZDNET
 * [Lenovo ThinkBook 15 for $525 (save $74)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkBook-15-Business-i7-1165G7%2Fdp%2FB0D1CQPWPG%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): This laptop is a powerhouse for your back-to-school or business needs. Its 8-core AMD Ryzen 7 processor pairs with 16GB of RAM, so any major spec-heavy tasks will perform smoothly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Buy laptop deals during Prime Day
@@ -127,10 +131,6 @@ Kyle Kucharski/ZDNET
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## More Prime Day 2024 laptop deals
 
 Kyle Kucharski/ZDNET
@@ -140,10 +140,6 @@ Kyle Kucharski/ZDNET
 * [Asus VivoBook 16 for $479 (save $120)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-VivoBook-Laptop-WUXGA-1920%2Fdp%2FB0BT6NKLQR%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): One of the most versatile and well-rounded laptops on the market is also one of the most affordable. The Vivobook 16 is designed to handle a variety of use cases with ease, and for just $479 you can't go wrong with its 1TB of storage, Windows 11, and solid selection of ports.
 
 ## FAQs
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### When is Amazon Prime Day 2024?
 
@@ -156,6 +152,10 @@ There are a lot of great gaming laptops on sale right now, but in our opinion, [
 ### Is Amazon Prime Day a good time to buy a laptop?
 
 Even though Amazon isn't typically the first place you think of when you're shopping for a new laptop, there are some great deals that pop up if you're willing to look. We've thoroughly combed through the deals to find some diamonds in the rough, and listed the best ones here.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How did we choose these Prime Day deals?
 
@@ -230,24 +230,19 @@ And the best deals still available from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-the-roadmap-to-wealth-sourav-joshi-and-youtube-earning/"><u>[New] In 2024, The Roadmap to Wealth Sourav Joshi and YouTube Earning</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/seamless-setup-guide-for-your-new-intel-dual-band-ac-7260-wireless-network-card/"><u>[Seamless Setup Guide] for Your New Intel Dual-Band AC 7260 Wireless Network Card.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/canon-mx49eb-printer-driver-updates-available-seamless-compatibility-with-windows-operating-systems/"><u>Canon MX49eb Printer Driver Updates Available - Seamless Compatibility with Windows Operating Systems</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/complete-tutorial-for-implementing-the-arctic-zephyr-2-design-into-kodi-environment/"><u>Complete Tutorial for Implementing the Arctic Zephyr 2 Design Into Kodi Environment</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-lava-yuva-3-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Lava Yuva 3 Pro Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-asus-precision-clickpad-drivers-for-pc-compatible-with-windows-os/"><u>Download ASUS Precision ClickPad Drivers for PC - Compatible with Windows OS</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-tips-for-successfully-installing-the-latest-ati-driver-software-on-windows-pcs/"><u>Easy Tips for Successfully Installing the Latest ATI Driver Software on Windows PCs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-download-latest-epson-wf-7710-printer-drivers-for-windows-10-81-8-and-7/"><u>Free Download: Latest Epson WF-7710 Printer Drivers for Windows 10, 8.1, 8 & 7</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-poco-c51-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Poco C51 | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-fanbase-titans-the-10-most-subscribed-youtube-creators/"><u>In 2024, Fanbase Titans The 10 Most Subscribed YouTube Creators</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Infinix Hot 40i | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Pause Life360 Location Sharing For Apple iPhone 14 | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-huawei-mediapad-m5-assessment-exceptional-visuals-and-audio-experience/"><u>In-Depth Huawei MediaPad M5 Assessment: Exceptional Visuals & Audio Experience</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/seamless-firmware-and-driver-setup-for-your-netgear-wna3100-wi-fi-router/"><u>Seamless Firmware & Driver Setup for Your Netgear WNA3100 Wi-Fi Router</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722977139303-step-by-step-instructions-for-downloading-your-canon-mg3620-drivers-safe-and-sound/"><u>Step-by-Step Instructions for Downloading Your Canon MG3620 Drivers - Safe & Sound</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-k-lite-audio-and-video-compression-tools-boost-your-media-experience/"><u>The Ultimate K-Lite Audio & Video Compression Tools: Boost Your Media Experience</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722975521775-top-charts-today-on-groove-stay-up-to-date-with-current-hit-songs-that-are-sure-to-keep-your-spirits-high/"><u>Top Charts Today on Groove: Stay Up-to-Date with Current Hit Songs that Are Sure to Keep Your Spirits High</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshooting-steps-for-compatible-ralink-rt3290-drivers-on-windows-1187/"><u>Troubleshooting Steps for Compatible Ralink RT3290 Drivers on Windows 11/8/7</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-features-and-performance-of-the-asus-ax6000-rt-ax88u-the-ultimate-wi-fi-6-router-guide/"><u>Unveiling Features and Performance of the Asus AX6000 RT-AX88U - The Ultimate Wi-Fi 6 Router Guide</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-dissecting-revenue-allocation-for-shortform-content-makers/"><u>[New] Dissecting Revenue Allocation for Shortform Content Makers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-navigating-the-path-of-extensive-video-transfers-iphone-mac-interface/"><u>[Updated] Navigating the Path of Extensive Video Transfers IPhone-Mac Interface</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-vivo-v27-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722978005664-achieve-perfect-compatibility-easy-download-and-setup-of-hp-driver-software/"><u>Achieve Perfect Compatibility: Easy Download and Setup of HP Driver Software</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/download-these-12-best-open-source-media-player-apps-for-free-your-ultimate-list/"><u>Download These 12 Best Open-Source Media Player Apps for Free – Your Ultimate List!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-insights-on-computer-gear-with-toms-hardware-guides/"><u>Expert Insights on Computer Gear with Tom's Hardware Guides</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/find-and-download-the-latest-sound-blaster-z-drivers-compatible-with-windows-11-today/"><u>Find and Download the Latest Sound Blaster Z Drivers Compatible with Windows 11 Today</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-leading-animals-in-play-androids-favorites-list/"><u>In 2024, Leading Animals in Play Android's Favorites List</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-hp-laserjet-pro-m428fdx-printer-software-on-your-pc-compatible-with-wndows-versions-11-10-and-7/"><u>Install HP LaserJet Pro M428fdx Printer Software on Your PC: Compatible with Wndows Versions 11, 10 & 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-canon-eos-d530-software-updates-and-downloads/"><u>Latest Canon EOS D530 Software Updates and Downloads</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-chatgpts-custom-command-toolkit-insights-into-its-functionality-and-uses/"><u>Navigating ChatGPT's Custom Command Toolkit: Insights Into Its Functionality and Uses</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-correcting-display-driver-issues-for-hp-monitors-on-windows-versions/"><u>Step-by-Step Guide: Correcting Display Driver Issues for HP Monitors on Windows Versions</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-pros-and-cons-of-owning-a-viair-88p-portable-air-compressor-a-thorough-examination/"><u>The Pros and Cons of Owning a Viair ^88P Portable Air Compressor - A Thorough Examination</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-workspace-wonders-top-8-notetaking-apps-no-pen/"><u>Windows Workspace Wonders: Top 8 Notetaking Apps (No Pen)</u></a></li>
 </ul></div>
 

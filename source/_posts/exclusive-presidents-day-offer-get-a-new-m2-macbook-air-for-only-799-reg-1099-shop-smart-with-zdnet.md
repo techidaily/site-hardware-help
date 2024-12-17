@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Presidents’ Day Offer: Get a New M2 MacBook Air for Only $799 (Reg. $1,099) | Shop Smart with ZDNet"
-date: 2024-12-08T17:52:22.386Z
-updated: 2024-12-11T05:27:26.731Z
+date: 2024-12-10T16:08:28.527Z
+updated: 2024-12-17T16:12:20.024Z
 tags:
   - laptops
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,17 +81,20 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-digital-dominion-for-techno-gamers-for-2024/"><u>[Updated] Digital Dominion for Techno Gamers for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/customize-and-download-free-outro-video-templates-for-2024/"><u>Customize and Download Free Outro Video Templates for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-guide-finding-and-downloading-samsung-printer-software-for-windows-users/"><u>Easy Guide: Finding and Downloading Samsung Printer Software for Windows Users</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/experience-thrilling-teamwork-in-dying-lights-first-person-co-op-adventure/"><u>Experience Thrilling Teamwork in Dying Light's First-Person Co-Op Adventure</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-epson-artisan-1430-drivers-for-pc-compatible-with-win-11108/"><u>Get the Latest Epson Artisan 1430 Drivers for PC - Compatible with Win 11/10/8</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-intel-serial-port-drivers-instant-downloads/"><u>Get the Latest Intel Serial Port Drivers - Instant Downloads!</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-from-the-iphone-6s-plus-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock From the iPhone 6s Plus Without Previous Owner?</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-2024-ensuring-permanent-absence-from-tiktok-platform/"><u>In 2024, Ensuring Permanent Absence From TikTok Platform</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/mastering-audio-adjustment-on-youtube-devices/"><u>Mastering Audio Adjustment on YouTube Devices</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/startechs-ultimate-guide-to-downloading-usb-compatible-vga-drivers/"><u>StarTech's Ultimate Guide to Downloading USB-Compatible VGA Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722972057728-the-ultimate-solution-to-restarting-your-igfxem-module-no-more-problems/"><u>The Ultimate Solution to Restarting Your iGFXem Module - No More Problems</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-motorola-moto-g13-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Motorola Moto G13 Device</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nchanting-music-visuals-using-the-lyric-video-maker-toolkit-for-2024/"><u>[New] Enchanting Music Visuals Using the Lyric Video Maker Toolkit for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-sharpening-your-zoom-images-for-professional-conferencing/"><u>[Updated] In 2024, Sharpening Your Zoom Images for Professional Conferencing</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-melodic-content-and-legalities-on-insta/"><u>[Updated] Melodic Content and Legalities on Insta</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-change-your-virtual-rooms-palette-with-google-meet/"><u>2024 Approved Change Your Virtual Room's Palette with Google Meet</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/conquer-polyglot-peaks-navigating-difficult-language-terrain/"><u>Conquer Polyglot Peaks: Navigating Difficult Language Terrain</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/corsair-k70-full-driver-setup-and-download-instructions-online-now/"><u>Corsair K70 Full Driver Setup and Download Instructions Online Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-downloads-and-installation-guide-for-hp-officejet-pro-8715-driver-compatible-with-all-recent-versions-of-windows/"><u>Easy Downloads & Installation Guide for HP OfficeJet Pro 8715 Driver - Compatible with All Recent Versions of Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-driver-downloads-for-your-m-audio-fast-track-perfect-for-windows-107881/"><u>Easy Driver Downloads for Your M-Audio Fast Track - Perfect for Windows 10/7/8/8.1</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/guia-completa-de-esquema-de-respaldo-y-recuperacion-con-aomei-backupper/"><u>Guía Completa De Esquema De Respaldo Y Recuperación Con AOMEI Backupper</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722978018994-how-to-successfully-install-the-canon-pro-100-drivers-for-windows-no-hassle/"><u>How to Successfully Install the Canon PRO 100 Drivers for Windows - No Hassle</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-photosmart-7520-software-download-installation-and-support/"><u>HP Photosmart 7520 Software Download: Installation and Support</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/improving-creep-resistance-can-involve-altering-alloy-compositions-heat-treatments-and-controlling-microstructural-features-like-grain-size/"><u>Improving Creep Resistance Can Involve Altering Alloy Compositions, Heat Treatments, and Controlling Microstructural Features Like Grain Size.</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-errors-a-guide-to-repairing-internet-explorer-has-stopped-working/"><u>Resolving Errors: A Guide to Repairing 'Internet Explorer Has Stopped Working'</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/secure-and-accurate-download-of-amd-vega-56-drivers-troubleshooting-guide/"><u>Secure & Accurate Download of AMD Vega 56 Drivers - Troubleshooting Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209879326-9781999143121-the-end-of-the-second-epoch/"><u>THE END OF THE SECOND EPOCH | Free Book</u></a></li>
 </ul></div>
 

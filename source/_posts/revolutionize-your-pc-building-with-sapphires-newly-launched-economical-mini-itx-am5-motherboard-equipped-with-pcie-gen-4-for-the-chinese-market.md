@@ -1,7 +1,7 @@
 ---
 title: Revolutionize Your PC Building with Sapphire's Newly Launched Economical Mini ITX AM5 Motherboard, Equipped with PCIe Gen 4 for the Chinese Market
-date: 2024-08-19T10:31:08.638Z
-updated: 2024-08-20T10:31:08.638Z
+date: 2024-12-15T16:18:43.760Z
+updated: 2024-12-17T16:15:01.468Z
 tags:
   - motherboards
 categories:
@@ -47,6 +47,10 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
 
  The fact is, Loongson has developed its own CPU just a few generations behind Intel and AMD. Considering the Chinese firm has to work around U.S. sanctions and claims to insist on doing everything based on its own IP, the performance could actually be considered impressive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -63,8 +67,6 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -72,8 +74,26 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/raft-your-online-identity-with-customized-youtube-urls/"><u>[New] Craft Your Online Identity with Customized YouTube URLs</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ow-to-create-gifs-from-youtube-videos-for-2024/"><u>[New] How to Create GIFs From YouTube Videos for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-viral-video-to-visuals-converting-tweets-to-costless-cgi/"><u>[New] In 2024, Viral Video to Visuals Converting Tweets to Costless CGI</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-ultimate-top-quality-hd-screen-capture-tools-for-2024/"><u>[New] Ultimate Top-Quality HD Screen Capture Tools for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-logitech-gaming-wheel-drivers-for-windows-1087/"><u>Download & Install Logitech Gaming Wheel Drivers for Windows 10/8/7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722978768075-download-microsoft-windows-8-plus-amd-radeon-gpu-support-for-free/"><u>Download Microsoft Windows 8 + AMD Radeon GPU Support for Free</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-thrustmaster-t300-driver-software-compatible-with-windows-10-and-11/"><u>Download Thrustmaster T300 Driver Software - Compatible with Windows 10 & 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-installation-guide-logitech-g502-gaming-mouse-software-update/"><u>Easy Installation Guide: Logitech G502 Gaming Mouse Software Update</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-swiftly-restoring-bluetooth-functionality-on-windows-10-computers/"><u>Guide to Swiftly Restoring Bluetooth Functionality on Windows 10 Computers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-magic-6-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Honor Magic 6 Contacts An Easy Method Explained.</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/how-to-set-up-and-maintain-backup-email-accounts-with-outlook-201/"><u>How to Set Up and Maintain Backup Email Accounts with Outlook 201</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-s24-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy S24 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-laserjet-pro-mfp-m428fdw-driver-for-windows-11107/"><u>HP LaserJet Pro MFP M428fdw Driver for Windows 11/10/7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/keep-your-lenovo-running-smoothly-with-updated-drivers-download-guide-for-windows-10-users/"><u>Keep Your Lenovo Running Smoothly with Updated Drivers: Download Guide for Windows 10 Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722962233469-microencapsulation-is-a-technique-where-healing-agents-are-released-upon-crack-formation-through-broken-microcapsules-in-the-concrete-mix/"><u>Microencapsulation Is a Technique Where Healing Agents Are Released upon Crack Formation Through Broken Microcapsules in the Concrete Mix</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-deadly-developer-mistakes-for-a-smoother-call-of-duty-experience/"><u>Troubleshooting Deadly Developer Mistakes for a Smoother Call of Duty Experience</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unlock-google-meets-potential-on-youtube-with-this-guide-for-2024/"><u>Unlock Google Meet's Potential on YouTube with This Guide for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-pc-download-the-latest-intel-wireless-ax2-drivers-for-windows-1110/"><u>Update Your PC: Download the Latest Intel Wireless AX2# Drivers for Windows 11/10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/updated-mpow-usb-bluetooth-driver-secure-download-for-windows-1187-platforms-now-available/"><u>Updated MPOW USB Bluetooth Driver - Secure Download for Windows 11/8/7 Platforms Now Available</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->

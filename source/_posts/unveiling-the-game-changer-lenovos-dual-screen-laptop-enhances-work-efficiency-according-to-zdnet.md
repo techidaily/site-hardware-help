@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Game-Changer: Lenovo’s Dual-Screen Laptop Enhances Work Efficiency, According to ZDNet"
-date: 2024-12-03T18:40:29.602Z
-updated: 2024-12-11T06:22:20.825Z
+date: 2024-12-16T16:21:03.873Z
+updated: 2024-12-17T16:27:07.567Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Kerry Wan/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -40,10 +44,6 @@ A laptop with two screens is perhaps one of the tamest designs it has come up wi
 
 It's given me a chance to revisit the idea of having two screens on my laptop, and once again, it's tempting me to switch away from my boring-in-comparison MacBook Pro.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Specifications (as reviewed)
 
 | Dimensions            | 11.78 x 8.03 x 0.63 inches                                                                                                                                                                                                                                                                            |
@@ -59,7 +59,7 @@ It's given me a chance to revisit the idea of having two screens on my laptop, a
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Living with a dual-screen laptop
@@ -83,7 +83,7 @@ There's a lot that the dual-screen design of the Yoga Book 9i enables, and the v
 Switching back to my single-screen MacBook Pro was, to put it lightly, tough. I missed having all the extra screen real estate and the ability to have two full documents open side-by-side while writing. I felt limited in a way that I wasn't expecting, which says a lot about how effective Lenovo's dual-screen design is.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does it perform?
@@ -107,7 +107,7 @@ To power the Yoga Book 9i, Lenovo includes an 80W battery that's rated for about
 Charging the laptop is as straightforward as it comes. There's a Rapid Charge adapter in the box that gives you about two hours of runtime with just 15 minutes of charging. I found this mostly to be true, although you have to shut the lid if you want charging speeds to really pick up.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Evaluating Lenovo's dual-screen software
@@ -131,7 +131,7 @@ It's weird; I've had apps like Chrome and Spotify show up on the lower display w
 I'll give Lenovo credit, the new Yoga Book 9i feels smoother than the old one did. I don't notice as much scruff or weird glitches with the software, and the bundled Bluetooth keyboard doesn't produce nearly as many double-key entries as before. Still, it's not a perfect experience, which is something to keep in mind if you're going to spend $2,000 on a laptop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## One thing to keep in mind
@@ -182,18 +182,18 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-the-ultimate-conversion-companion-best-youtubes-to-avis/"><u>[New] 2024 Approved The Ultimate Conversion Companion Best YouTubes to AVIs</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-elevate-your-chats-with-exclusive-discord-gif-tips-for-2024/"><u>[New] Elevate Your Chats with Exclusive Discord GIF Tips for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-fb-pages-made-simple-top-8-tools-for-free-and-online-use/"><u>[New] FB Pages Made Simple Top 8 Tools for Free & Online Use</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-freezing-your-gameplay-xbox-one-screenshot-essentials/"><u>[New] In 2024, Freezing Your Gameplay Xbox One Screenshot Essentials</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-insta-live-with-obs-broadcast/"><u>[New] In 2024, Insta Live with OBS Broadcast</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-selecting-prime-4k-recorders-and-tools/"><u>[New] Selecting Prime 4K Recorders and Tools</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-enhance-skype-videocalls-with-obs-capture/"><u>[Updated] Enhance Skype Videocalls with OBS Capture</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-capturing-the-cloud-techniques-for-digital-show-archives/"><u>[Updated] In 2024, Capturing the Cloud Techniques for Digital Show Archives</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/best-hatsune-miku-ai-voice-generators-for-all-times-for-2024/"><u>Best Hatsune Miku AI Voice Generators for All Times for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/comprehvew-to-downloading-and-refreshing-ralink-network-card-drivers-on-a-window-based-computer/"><u>Comprehvew to Downloading and Refreshing Ralink Network Card Drivers on a Window-Based Computer</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-setup-nvidia-geforce-gtx-1080-ti-driver-software/"><u>Download & Setup NVIDIA GeForce GTX 1080 Ti Driver Software</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-windows-pc-ready-realtek-driver-downloads-for-w11w10win7-users/"><u>Get Your Windows PC Ready: Realtek Driver Downloads for W11/W10/Win7 Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-updates-downloading-and-installing-dell-latitude-e6430-drivers-on-windows-how-to-guide/"><u>Latest Updates: Downloading and Installing Dell Latitude E6430 Drivers on Windows - How-To Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-videorecordermax-9-in-depth-performance-check/"><u>[New] In 2024, VideoRecorderMax 9 In-Depth Performance Check</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-the-strength-of-visual-client-commitment-to-brands/"><u>[New] The Strength of Visual Client Commitment to Brands</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-zooming-up-your-video-game-with-custom-filters/"><u>[New] Zooming Up Your Video Game with Custom Filters</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-pioneering-sound-showcase-on-youtube-space/"><u>2024 Approved Pioneering Sound Showcase on YouTube Space</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-intel-nvme-drivers-fast-and-simple-installation-guide/"><u>Download Intel NVME Drivers - Fast & Simple Installation Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-canoscan-lide-220-scanner-software-latest-drivers-and-updates/"><u>Free CanoScan LiDE 220 Scanner Software - Latest Drivers & Updates</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/freshest-update-and-download-tutorial-for-canon-mg2520-driver-on-windows-devices/"><u>Freshest Update and Download Tutorial for Canon MG2520 Driver on Windows Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-download-asus-wifi-driver/"><u>How to Download ASUS WiFi Driver</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-quickly-get-the-right-epson-xp-830-driver-installed-fixed/"><u>How to Quickly Get the Right Epson XP-830 Driver Installed [FIXED]</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-realme-c53-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-to-elevating-vhs-imagery-on-modern-devices-for-2024/"><u>Ultimate Guide to Elevating VHS Imagery on Modern Devices for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/unlocking-instagrams-power-essential-5-tips-and-examples-from-pros-for-2024/"><u>Unlocking Instagram's Power Essential 5 Tips & Examples From Pros for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-brother-mfc-j480dw-printer-drivers-on-your-windows-pc/"><u>Update Brother MFC J480DW Printer Drivers on Your Windows PC</u></a></li>
 </ul></div>
 

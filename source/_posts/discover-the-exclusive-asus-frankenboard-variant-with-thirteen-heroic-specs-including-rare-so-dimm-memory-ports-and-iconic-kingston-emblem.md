@@ -1,7 +1,7 @@
 ---
 title: Discover the Exclusive Asus Frankenboard Variant with Thirteen Heroic Specs, Including Rare So-DIMM Memory Ports & Iconic KINGSTON Emblem
-date: 2024-08-19T10:28:48.741Z
-updated: 2024-08-20T10:28:48.741Z
+date: 2024-12-12T16:14:20.722Z
+updated: 2024-12-17T16:05:37.389Z
 tags:
   - motherboards
 categories:
@@ -47,6 +47,10 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
 
  The fact is, Loongson has developed its own CPU just a few generations behind Intel and AMD. Considering the Chinese firm has to work around U.S. sanctions and claims to insist on doing everything based on its own IP, the performance could actually be considered impressive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -63,8 +67,6 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -72,9 +74,26 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-maximizing-your-story-potential-with-instagram-highlights/"><u>[New] 2024 Approved Maximizing Your Story Potential with Instagram Highlights</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-the-essential-manual-to-earning-from-youtube-videos/"><u>[New] In 2024, The Essential Manual to Earning From YouTube Videos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-webinar-playback-recordings/"><u>[New] Webinar Playback Recordings</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-musical-integration-for-social-storytelling-platforms/"><u>[Updated] 2024 Approved Musical Integration for Social Storytelling Platforms</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/apple-iphone-se-2022-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>Apple iPhone SE (2022) Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-poco-c55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-wacom-intuos-3-driver-setup-package-for-flawless-windows-performance/"><u>Complete Wacom Intuos 3 Driver Setup Package for Flawless Windows Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/connect-and-play-downloading-the-latest-xbox-t-360-controller-drivers/"><u>Connect & Play: Downloading the Latest Xbox T 360 Controller Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/crossflow-heat-exchangers-involve-fluids-moving-perpendicular-to-each-other/"><u>Crossflow Heat Exchangers Involve Fluids Moving Perpendicular to Each Other</u></a></li>
+<li><a href="https://win-answers.techidaily.com/defeating-fortnite-crash-errors-expert-tips-for-stable-gaming/"><u>Defeating Fortnite Crash Errors: Expert Tips for Stable Gaming</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-installation-guide-for-konica-minolta-printer-drivers-on-windows-suitable-for-windows-111087/"><u>Easy Installation Guide for Konica Minolta Printer Drivers on Windows: Suitable for Windows 11/10/8/7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-epson-driver-download-and-update-for-windows-users/"><u>Effortless Epson Driver Download & Update for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/epson-v700-driver-installation-guide-for-various-windows-platforms-win7win10win81/"><u>Epson V700 Driver Installation Guide for Various Windows Platforms (Win7/Win10/Win8.1)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-intel-z270-chipset-high-performance-motherboard-driver/"><u>Free Download: Intel Z270 Chipset High-Performance Motherboard Driver</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hassle-free-tutorial-on-easily-inserting-the-surface-dock-driver/"><u>Hassle-Free Tutorial on Easily Inserting the Surface Dock Driver</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-oppo-reno-11f-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Oppo Reno 11F 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/snapchat-audio-ensuring-whole-video-playback-every-time/"><u>Snapchat Audio Ensuring Whole Video Playback Every Time</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-updating-your-corsair-headset-drivers-on-windows-pcs/"><u>Step-by-Step Guide: Updating Your Corsair Headset Drivers on Windows PCs</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ty-mics-the-budgetists-guide-for-youtubers/"><u>Thrifty Mics The Budgetist's Guide for Youtubers</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->

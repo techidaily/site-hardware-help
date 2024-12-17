@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Apple Showcase in October: Discover the New M4 Mac Mini & Enhanced iPad Lineup Featuring Advanced Apple AI"
-date: 2024-12-10T10:49:42.334Z
-updated: 2024-12-10T21:20:22.011Z
+date: 2024-12-14T16:17:01.192Z
+updated: 2024-12-17T16:30:33.928Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,24 +118,19 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-smoothly-stitching-images-together/"><u>[Updated] 2024 Approved Smoothly Stitching Images Together</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-leading-edge-servers-for-maximum-efficiency/"><u>[Updated] Leading Edge Servers for Maximum Efficiency</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-asus-rog-phone-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Asus ROG Phone 7 | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/choosing-the-ideal-chromebook-for-academics-in-depth-analysis-by-experts/"><u>Choosing the Ideal Chromebook for Academics: In-Depth Analysis by Experts</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-fixes-for-your-non-charging-macbook-pro-expert-tips-and-tricks/"><u>Free Fixes for Your Non-Charging MacBook Pro: Expert Tips & Tricks</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-becoming-an-exemplary-conductor-of-candidate-assessments/"><u>In 2024, Becoming An Exemplary Conductor of Candidate Assessments</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Honor 90 Pro? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Realme 11 Pro+? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/inside-microsofts-revolutionary-new-ai-chip-outperforming-the-macbook-in-a-one-on-one-comparison-insights/"><u>Inside Microsoft's Revolutionary New AI Chip: Outperforming the MacBook in a One-on-One Comparison | Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/octobers-prime-day-bonanza-top-discounted-items-to-shop-this-year-cnet-special-report/"><u>October's Prime Day Bonanza: Top Discounted Items to Shop This Year | CNET Special Report</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210378074-9781735104737-our-battle-with-satans-sidekick/"><u>Our Battle With Satan's Sidekick | Free Book</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/prime-day-exclusive-save-460-on-the-microsoft-surface-pro-8-top-deals-at-zdnet/"><u>Prime Day Exclusive: Save $460 on the Microsoft Surface Pro 8 | Top Deals at ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-ultimate-test-why-the-wrinkle-resistant-usb-c-cord-is-a-must-have-for-every-traveler-a-deep-dive/"><u>The Ultimate Test: Why the 'Wrinkle-Resistant' USB-C Cord Is a Must-Have for Every Traveler - A Deep Dive</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-performing-workhorse-laptop-unveiled-surpasses-thoughtpad-and-macbook-in-tests-insights-from-zdnet/"><u>Top-Performing Workhorse Laptop Unveiled, Surpasses Thoughtpad & Macbook in Tests - Insights From ZDNet</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/troubleshooting-video-playback-errors-on-iis-servers-for-flipbuilder-users/"><u>Troubleshooting Video Playback Errors on IIS Servers for FlipBuilder Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unlock-the-best-early-access-primes-score-exceptional-deals-on-laptops-this-october-2nt-forget-to-check-out-zdnet/"><u>Unlock the Best Early Access Primes: Score Exceptional Deals on Laptops This October 2N't Forget to Check Out ZDNET!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-luxury-transforming-standard-shipments-into-memories-for-2024/"><u>Unveiling Luxury Transforming Standard Shipments Into Memories for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/wevideo-the-fast-and-easy-way-to-create-online-videos-for-2024/"><u>WeVideo The Fast and Easy Way to Create Online Videos for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/why-the-lg-gram-pro-outshines-apples-macbook-air-across-three-main-factors-insights-from-zdnet/"><u>Why the LG Gram Pro Outshines Apple's MacBook Air Across Three Main Factors - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-leading-edge-vr-game-development-technology-2023-edition/"><u>[New] 2024 Approved Leading Edge VR Game Development Technology, 2023 Edition</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-no-more-complications-easy-instagram-to-mp4-tools-for-mac-and-pc/"><u>[New] 2024 Approved No More Complications! Easy Instagram to MP4 Tools for Mac & PC</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-scripting-a-compelling-tiktok-parting-message-for-2024/"><u>[New] Scripting a Compelling TikTok Parting Message for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-angle-advantage-guide-mastering-the-art-of-spinning-photos-for-social-media-triumphs-for-2024/"><u>[New] The Angle Advantage Guide Mastering the Art of Spinning Photos for Social Media Triumphs for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-unlocking-the-secrets-of-instagrams-saved-content/"><u>[Updated] 2024 Approved Unlocking the Secrets of Instagram's Saved Content</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fixing-your-hp-speaker-glitches-with-simple-steps-on-windows-1087/"><u>Fixing Your HP Speaker Glitches with Simple Steps on Windows 10/8/7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-logitech-g29-racing-controller-setup-for-windows-7-8-and-10-users/"><u>Free Download: Logitech G29 Racing Controller Setup for Windows 7, 8 & 10 Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-right-drivers-how-to-update-canons-mp-series-printers-for-modern-windows-oses/"><u>Get the Right Drivers: How to Update Canon's MP Series Printers for Modern Windows OSes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-vivo-t2-5g-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Vivo T2 5G?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-laserjet-1320-optimize-printing-performance-with-updated-drivers-on-windows-machines/"><u>HP LaserJet 1320: Optimize Printing Performance with Updated Drivers on Windows Machines</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/nvidia-geforce-rtx-2070-super-graphics-card-driver-updates-and-download-instructions-for-windows/"><u>Nvidia GeForce RTX 2070 Super Graphics Card Driver Updates and Download Instructions for Windows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-installation-hurdles-successfully-starting-far-cry-6-on-your-computer/"><u>Overcoming Installation Hurdles – Successfully Starting Far Cry 6 on Your Computer</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-xiaomi-14-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/tp-links-new-network-driver-update-compatible-with-windows-10-8-and-7-get-instant-download/"><u>TP-Link's New Network Driver Update | Compatible with Windows 10, 8, and 7 - Get Instant Download!</u></a></li>
 </ul></div>
 

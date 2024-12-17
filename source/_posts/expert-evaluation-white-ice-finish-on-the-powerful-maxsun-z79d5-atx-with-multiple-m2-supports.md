@@ -1,7 +1,7 @@
 ---
 title: "Expert Evaluation: White Ice Finish on the Powerful MaxSun Z79#D5 ATX with Multiple M.2 Supports"
-date: 2024-08-19T10:29:31.400Z
-updated: 2024-08-20T10:29:31.400Z
+date: 2024-12-10T16:05:55.016Z
+updated: 2024-12-17T16:17:17.191Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,18 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-photographic-prose-weaving-words-into-images-across-operating-systems-for-2024/"><u>[New] Photographic Prose Weaving Words Into Images Across Operating Systems for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-cutting-edge-ipad-voice-recording-tools-3p/"><u>[Updated] 2024 Approved Cutting-Edge iPad Voice Recording Tools 3P</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-shoot-straight-best-tripods-for-smartphones-today/"><u>[Updated] Shoot Straight Best Tripods for Smartphones Today</u></a></li>
+<li><a href="https://fox-links.techidaily.com/detailed-methods-to-convert-tiktok-melodies-into-phone-ringtones/"><u>Detailed Methods to Convert TikTok Melodies Into Phone Ringtones</u></a></li>
+<li><a href="https://win-latest.techidaily.com/1728500049662-dropbox/"><u>Dropboxにおける予期せぬファイル削除 - 原因と回復方法</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-the-craft-perfecting-podcast-trailer-production/"><u>Mastering the Craft Perfecting Podcast Trailer Production</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/newest-hp-scanjet-drivers-for-windows-os-windows-10-8-and-aturbo-7-get-the-latest-version-here/"><u>Newest HP Scanjet Drivers for Windows OS (Windows 10, 8 & Aturbo, 7) - Get the Latest Version Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/resolving-controller-connectivity-errors-for-xbox-devices-on-older-windows-versions/"><u>Resolving Controller Connectivity Errors for Xbox Devices on Older Windows Versions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-process-to-effortlessly-downloading-and-updating-microsoft-driver-software-for-windows-users/"><u>Step-by-Step Process to Effortlessly Downloading and Updating Microsoft Driver Software for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-walkthrough-for-downloading-and-configuring-arduino-software-on-windows-computers/"><u>The Ultimate Walkthrough for Downloading and Configuring Arduino Software on Windows Computers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-hp-officejet-asterisk-4500-with-newest-printing-software-free-download/"><u>Update Your HP Officejet Asterisk 4500 with Newest Printing Software - Free Download!</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

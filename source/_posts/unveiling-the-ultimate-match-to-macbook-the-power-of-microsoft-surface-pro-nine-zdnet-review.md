@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Ultimate Match to MacBook: The Power of Microsoft Surface Pro Nine | ZDNet Review"
-date: 2024-12-07T04:48:42.565Z
-updated: 2024-12-11T04:21:26.148Z
+date: 2024-12-11T16:21:13.734Z
+updated: 2024-12-17T16:41:51.484Z
 tags:
   - laptops
 categories:
@@ -45,6 +45,10 @@ I've been using the Surface Laptop Studio 2 for just under a week, and I can con
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specifications
 
 | Dimensions            | 12.72 x 9.06 x 0.86 inches                                                                                                                                                                                                                |
@@ -60,7 +64,7 @@ I've been using the Surface Laptop Studio 2 for just under a week, and I can con
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A much-needed performance upgrade
@@ -103,6 +107,10 @@ Max Buondonno/ZDNET
 
 The Intel NPU also powers Microsoft's Windows Studio effects, which help to improve the quality of video and audio during calls. This includes keeping your head centered in the frame as you move around, blurring the background, maintaining eye contact with adaptive corrections to your eyes, and minimizing background noise. All of these features worked well in my testing, and made for a more enjoyable video chatting experience. You'll just have to live with a sub-par webcam: while the field of view is nice and wide for automatic framing, the Full HD resolution doesn't feel very sharp and generally looks blurry, even in good lighting.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Gorgeous hardware and a unique screen
 
 All of this power is wrapped in what can only be described as a gorgeous design. The Surface Laptop Studio 2 is one of the most premium-feeling Windows laptops I've used, with a strong resemblance to that of Apple's MacBook Pro line and the silver aluminum to prove it. This generation is a bit thicker and heavier than the last one, weighing in at 4.37 pounds with Nvidia's graphics card. That's a difference of 0.37 pounds compared to the older model, so get ready for a shoulder exercise when carrying this thing around in your backpack.
@@ -123,10 +131,6 @@ It opens a realm of possibilities for creatives who want more precise control ov
 
 Speaking of comfortability, the keyboard on the Surface Laptop Studio 2 might be one of my favorites. It has 1.3 millimeters of travel and plenty of satisfying bounce, which helps to make it very comfortable to use for long periods of time. Part of me wishes the keys were slightly curved at the top instead of being totally flat, but that's just a personal preference.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The trackpad is a little different, and so are the ports
 
 Below the keyboard is a new trackpad from Microsoft. It's a trackpad that doesn't physically move but offers haptic feedback whenever you press down on it. Compared to my MacBook Pro (which has the greatest trackpad known to man), this trackpad is excellent. It's responsive, fluid, and delivers the same level of feedback no matter where you click.
@@ -140,16 +144,12 @@ It's also what Microsoft calls the "most inclusive" trackpad ever thanks to Adap
 In addition, there are more ports on the Surface Laptop Studio 2, including a USB-A port and a microSD card slot. They sit alongside the dual Thunderbolt 4 ports, Surface Connector, and a 3.5mm headphone jack. I would've liked to see a full-size SD card reader as well, but any extra IO is welcome in my book.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Battery life is…fine
 
 Microsoft says it improved the battery life on the Surface Laptop Studio 2, but it's not very noticeable. I didn't run any endless 4K video loops or scroll a webpage until it died, but I did use the machine for my everyday workload on a full charge, and all I got was just under six hours of use. This was after writing the copy for a variety of reviews and news pieces in Google Chrome, playing Spotify, using Photoshop and Lightroom occasionally, and watching YouTube.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## ZDNET's buying advice
 
@@ -160,7 +160,7 @@ That being said, no laptop can do what the Studio 2 can and flex the screen down
 [ZDNET RECOMMENDS Microsoft Surface Laptop Studio 2 Microsoft delivers a solid experience with the Studio 2, one that's still as unique as it was the first time around. View at Microsoft](https://www.microsoft.com/en-us/store/configure/surface-laptop-studio-2/8rqr54krf1dz)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -182,17 +182,16 @@ That being said, no laptop can do what the Studio 2 can and flex the screen down
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-humorhub-design-your-own-jokes-and-gifs/"><u>[New] HumorHub Design Your Own Jokes and Gifs</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-laughlens-creator/"><u>[New] In 2024, LaughLens Creator</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-pixelwizard-a-comprehensive-top-10-list-of-replacements/"><u>2024 Approved PixelWizard A Comprehensive Top 10 List of Replacements</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/a-review-the-ultimate-guide-to-picking-the-perfect-featherlight-laptop-for-remote-professionals-insights-from-our-tests-at-zdnet/"><u>A Review: The Ultimate Guide to Picking the Perfect Featherlight Laptop for Remote Professionals - Insights From Our Tests at ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/antiviral-treatments-during-pregnancy-for-some-infections-may-reduce-fetal-transmission-rates/"><u>Antiviral Treatments During Pregnancy for some Infections May Reduce Fetal Transmission Rates.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-setup-download-and-install-eveo-bluetooth-adapter-driver/"><u>Easy Setup: Download & Install EVEO Bluetooth Adapter Driver</u></a></li>
-<li><a href="https://blog-min.techidaily.com/explore-the-creative-imagery-of-ben-stockons-works-with-movavi-gallery/"><u>Explore the Creative Imagery of Ben Stockon's Works with Movavi Gallery</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-8-without-losing-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 8 without Losing Data? | Stellar</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-honor-90-gt-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Honor 90 GT Unlock Without Password</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/site-selection-involves-evaluating-factors-like-size-shape-topography-accessibility-and-proximity-to-amenities/"><u>Site Selection Involves Evaluating Factors Like Size, Shape, Topography, Accessibility, and Proximity to Amenities.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-your-pc-download-rtx-2080-drivers-now-supporting-windows-1178/"><u>Update Your PC: Download RTX 2080 Drivers Now Supporting Windows 11/7/8</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/windows-11-compatible-nvidia-quadro-driver-installation-guide-and-downloads/"><u>Windows 11 Compatible Nvidia Quadro Driver Installation Guide and Downloads</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ree-to-learn-4-youtube-channels-unlocking-the-secrets-of-background-substitution-for-2024/"><u>[New] Free-to-Learn 4 YouTube Channels Unlocking the Secrets of Background Substitution for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-exploring-the-world-through-your-camera-lens-a-beginners-roadmap-for-success/"><u>[Updated] 2024 Approved Exploring the World Through Your Camera Lens A Beginner's Roadmap for Success</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-foundations-of-easing-volume-control-in-audition/"><u>[Updated] In 2024, Foundations of Easing Volume Control in Audition</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-in-depth-exploration-of-morphvox-for-precise-sound-alteration/"><u>2024 Approved In-Depth Exploration of MorphVOX for Precise Sound Alteration</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-cutting-edge-electronics-on-toms-hardware-platform/"><u>Discover Cutting-Edge Electronics on Tom's Hardware Platform</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-safely-obtain-and-install-lenovo-thinkpad-drivers-a-reliable-guide/"><u>How To Safely Obtain & Install Lenovo ThinkPad Drivers - A Reliable Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/inside-toms-gear-workshop-expert-reviews-on-latest-hardware/"><u>Inside Tom's Gear Workshop: Expert Reviews on Latest Hardware</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/resolving-windows-crashes-caused-by-memory-problems-a-comprehensive-guide-by-yl-software-experts/"><u>Resolving Windows Crashes Caused by Memory Problems: A Comprehensive Guide by YL Software Experts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722973169284-successfully-addressing-window-based-challenges-for-samsung-printer-users-a-comprehhavemore-detailed-look-at-driver-issues-and-their-solutions/"><u>Successfully Addressing Window-Based Challenges for Samsung Printer Users: A Comprehhavemore Detailed Look at Driver Issues and Their Solutions.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/sustainable-workspaces-strategies-for-improving-your-offices-energy-efficiency-ratings/"><u>Sustainable Workspaces: Strategies for Improving Your Office's Energy Efficiency Ratings</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Samsung Galaxy M34 5G? | Dr.fone</u></a></li>
 </ul></div>
 

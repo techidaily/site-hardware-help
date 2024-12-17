@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Gigabyte B76
-date: 2024-08-19T10:29:26.575Z
-updated: 2024-08-20T10:29:26.575Z
+date: 2024-12-16T16:22:41.292Z
+updated: 2024-12-17T16:07:32.335Z
 tags:
   - motherboards
 categories:
@@ -41,6 +41,10 @@ Hardware enthusiast[Jiacheng Liu](https://x.com/unnatural%5F%5Flog/status/179755
 
  The EVGA X670E Classified prototypes were briefly available on Xianyu, a popular second-hand market platform in China. Liu said he had paid around $620 for four PCBs without heatsinks; meanwhile, the retail-looking sample with heatsinks set him back $1,378\. Apparently, another buyer flew to Shenzhen, China, to buy a single PCB for $689.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -57,8 +61,6 @@ Hardware enthusiast[Jiacheng Liu](https://x.com/unnatural%5F%5Flog/status/179755
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -66,8 +68,23 @@ Hardware enthusiast[Jiacheng Liu](https://x.com/unnatural%5F%5Flog/status/179755
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-premier-5-time-lapse-camera-apps/"><u>[New] 2024 Approved Premier 5 Time-Lapse Camera Apps</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-comprehensive-kinetics-study-2023-for-2024/"><u>[Updated] Comprehensive Kinetics Study 2023 for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-virtual-filmscapes-the-future-of-entertainment-for-2024/"><u>[Updated] Virtual Filmscapes The Future of Entertainment for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/bandicam-or-camtasia-the-ultimate-showdown-for-2024/"><u>Bandicam or Camtasia The Ultimate Showdown for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-your-wacom-drivers-fast-the-ultimate-guide/"><u>Download Your Wacom Drivers Fast: The Ultimate Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/effortlessly-preserve-gaming-moments-store-steam-images/"><u>Effortlessly Preserve Gaming Moments - Store Steam Images</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-printing-experience-upgrading-the-canon-mx922-driver-on-windows-systems/"><u>Enhance Your Printing Experience: Upgrading the Canon MX922 Driver on Windows Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/google-bard-alert-the-risks-and-reasons-you-should-avoid-downloading-this-app/"><u>Google Bard Alert: The Risks and Reasons You Should Avoid Downloading This App</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hassle-free-brother-mfc-7360n-printer-drivers-download-and-update-instructions-for-windows-10-8-or-7-users/"><u>Hassle-Free Brother MFC-7360N Printer Drivers Download & Update Instructions for Windows 10, 8 or 7 Users</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-your-iphone-xs-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>How to Unlock Your iPhone XS Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-the-free-download-of-nvidia-3d-vision-drivers-a-step-by-step-for-windows-enthusiasts/"><u>Navigating the Free Download of Nvidia 3D Vision Drivers: A Step-by-Step for Windows Enthusiasts</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-ultimate-fcpx-captioning-guide-best-practices/"><u>New The Ultimate FCPX Captioning Guide Best Practices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pastel-cooling-showdown-extrememugurisu-4g-strawberry-edition-challenges-the-classic-thermal-grizzlys-kryonaut-in-aroma-and-efficiency/"><u>Pastel Cooling Showdown: ExtremeMUGURISU 4G Strawberry Edition Challenges the Classic Thermal Grizzly's Kryonaut in Aroma and Efficiency</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-solutions-overcoming-challenges-with-i2c-hid-driver-compatibility/"><u>Seamless Solutions: Overcoming Challenges with I2C HID Driver Compatibility</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-easy-download-of-geforce-gt-730-drivers-by-nvidia-speedy-setup/"><u>Step-by-Step: Easy Download of GeForce GT 730 Drivers by NVIDIA - Speedy Setup!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-and-resolving-hp-beats-sound-problems-in-windows-1087-systems/"><u>Troubleshooting and Resolving HP Beats Sound Problems in Windows 10/8/7 Systems</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->

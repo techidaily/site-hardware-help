@@ -1,7 +1,7 @@
 ---
 title: "ASRock's Latest Release: Cutting-Edge AMD Ryzen 9000 Boards"
-date: 2024-08-19T10:30:45.333Z
-updated: 2024-08-20T10:30:45.333Z
+date: 2024-12-15T16:05:16.535Z
+updated: 2024-12-17T16:27:28.811Z
 tags:
   - motherboards
 categories:
@@ -41,6 +41,10 @@ Hardware enthusiast[Jiacheng Liu](https://x.com/unnatural%5F%5Flog/status/179755
 
  The EVGA X670E Classified prototypes were briefly available on Xianyu, a popular second-hand market platform in China. Liu said he had paid around $620 for four PCBs without heatsinks; meanwhile, the retail-looking sample with heatsinks set him back $1,378\. Apparently, another buyer flew to Shenzhen, China, to buy a single PCB for $689.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -57,8 +61,6 @@ Hardware enthusiast[Jiacheng Liu](https://x.com/unnatural%5F%5Flog/status/179755
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -66,8 +68,22 @@ Hardware enthusiast[Jiacheng Liu](https://x.com/unnatural%5F%5Flog/status/179755
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-quick-fix-for-turning-yt-lists-backwards/"><u>[New] The Quick Fix for Turning YT Lists Backwards</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-top-30-camcorders-recommended-for-snow-activities-for-2024/"><u>[New] Top 30 Camcorders Recommended for Snow Activities for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-simple-screen-recorder-for-windows-11/"><u>[Updated] In 2024, Simple Screen Recorder for Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722976333497-canon-pro-100-printer-drivers-for-windows-easy-installation-guide/"><u>Canon PRO 100 Printer Drivers for Windows: Easy Installation Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-hp-printer-scan-utility-on-your-pc-step-by-step-guide/"><u>Download & Install HP Printer Scan Utility on Your PC - Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-hp-laserjet-1018-printer-drivers-and-software-free-guide/"><u>Download HP LaserJet 1018 Printer Drivers & Software - FREE Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-obtain-the-newest-epson-l3150-driver-compatible-with-windows-1087-systems/"><u>How to Obtain the Newest Epson L3150 Driver: Compatible with Windows 10/8/7 Systems</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-xiaomi-13t-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Xiaomi 13T without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-hp-officejet-pro-8620-driver-updates-and-downloads-for-windows/"><u>Latest HP OfficeJet Pro 8620 Driver Updates and Downloads for Windows</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/quick-start-tips-for-easy-hitch-free-nft-creation/"><u>Quick-Start Tips for Easy, Hitch-Free NFT Creation</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-fresh-wi-fi-driver-installation-on-windows-7-machines/"><u>Step-by-Step Tutorial: Fresh Wi-Fi Driver Installation on Windows 7 Machines</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-starting-point-for-film-designers/"><u>The Starting Point for Film Designers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshoot-and-reinstall-ralink-drivers-a-complete-walkthrough-for-windows-systems/"><u>Troubleshoot and Reinstall Ralink Drivers: A Complete Walkthrough for Windows Systems</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-ultimate-virtualdub-alternative-guide-for-2024/"><u>Updated The Ultimate Virtualdub Alternative Guide for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/windows-11-users-download-realtek-alc-audio-driver-instantly-and-effortlessly/"><u>Windows 11 Users: Download Realtek ALC Audio Driver Instantly & Effortlessly!</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

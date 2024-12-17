@@ -1,7 +1,7 @@
 ---
 title: Unique ASUS Frankenboard Series - The Maximus Thirteen Era Showcasing SO-DIMM Slots & Exclusive Kingston Furies Branded Editions
-date: 2024-08-19T10:28:30.942Z
-updated: 2024-08-20T10:28:30.942Z
+date: 2024-12-10T16:07:32.197Z
+updated: 2024-12-17T16:25:51.459Z
 tags:
   - motherboards
 categories:
@@ -47,6 +47,10 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
 
  The fact is, Loongson has developed its own CPU just a few generations behind Intel and AMD. Considering the Chinese firm has to work around U.S. sanctions and claims to insist on doing everything based on its own IP, the performance could actually be considered impressive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -63,8 +67,6 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -72,8 +74,24 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-help.techidaily.com/freshly-updated-compatible-hp-scanjet-driver-software-for-windows-users-10-8-and-7/"><u>[Freshly Updated] Compatible HP Scanjet Driver Software for Windows Users (10, 8, and 7)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-flash-frame-filmmakers-plan/"><u>[New] Flash Frame Filmmaker's Plan</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-guide-to-downloading-logitechs-c270-hd-webcam-driver-supported-by-microsoft-windows-1011/"><u>Easy Guide to Downloading Logitech's C270 HD Webcam Driver - Supported by Microsoft Windows (10/11)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-steps-to-install-or-update-your-dell-latitude-e6-groove-driver-for-windows-os-fixed-now/"><u>Easy Steps to Install or Update Your Dell Latitude E6 Groove Driver for Windows OS - FIXED NOW</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-installation-guide-how-to-set-up-the-keyspan-usa-19hs-keyboard-on-your-pc/"><u>Effortless Installation Guide: How To Set Up The Keyspan USA-19HS Keyboard On Your PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-samsung-c460-up-and-running-download-essential-drivers-today/"><u>Get Your Samsung C460 Up and Running - Download Essential Drivers Today</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-realme-gt-neo-5-se-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Realme GT Neo 5 SE Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-oppo-reno-10-pro-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Oppo Reno 10 Pro 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Itel P40+? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1715860664476-in-2024-maximizing-ipad-audio-record-best-tips/"><u>In 2024, Maximizing iPad Audio Record Best Tips!</u></a></li>
+<li><a href="https://win-special.techidaily.com/las-mejores-practicas-para-respaldo-de-correos-electronicos-y-archivos-adjuntos-con-gmail-guia-completa/"><u>Las Mejores Prácticas Para Respaldo De Correos Electrónicos Y Archivos Adjuntos Con Gmail: Guía Completa</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-update-installing-lenovo-thunderbolt-3-hub-software/"><u>Latest Update: Installing Lenovo Thunderbolt 3 Hub Software</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-no-copyright-worries-top-10-public-domain-image-sites/"><u>New No Copyright Worries Top 10 Public Domain Image Sites</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/optimize-printing-roll-out-latest-windows-7-dell-updates/"><u>Optimize Printing: Roll-Out Latest Windows 7 Dell Updates</u></a></li>
+<li><a href="https://fox-links.techidaily.com/resolving-common-windows-11-photo-app-problems-for-2024/"><u>Resolving Common Windows 11 Photo App Problems for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-and-fix-enhance-performance-on-windows-11-v2004-with-new-conexant-driver/"><u>Update and Fix: Enhance Performance on Windows 11 (v2004) With New Conexant Driver</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-to-the-newest-windows-compatible-geforce-gtx-ebx-770-graphics-driver-software/"><u>Update to the Newest Windows-Compatible GeForce GTX Ebx 770 Graphics Driver Software</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Review: In-Depth Insights on Computer Components"
-date: 2024-08-19T10:31:13.983Z
-updated: 2024-08-20T10:31:13.983Z
+date: 2024-12-13T16:14:12.643Z
+updated: 2024-12-17T16:04:18.701Z
 tags:
   - motherboards
 categories:
@@ -15,9 +15,17 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
 
  But this new memory is popping up in desktops, too, with its own unique benefits. Here's what you need to know about CAMM2 and LP CAMM 2:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Where did CAMM2 come from?
 
  CAMM[originated with Dell](https://tools.techidaily.com) as a project to replace bulkier SO-DIMM memory slots. But the company[worked with JEDEC](https://tools.techidaily.com) , a semiconductor standards body, which tweaked it and made CAMM2 available to a number of different PC companies.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are CAMM2 and LPCAMM2? What are their benefits?
 
@@ -33,9 +41,17 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
 
 ![CAMM2](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![CAMM2](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -48,15 +64,13 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
  The modules might help enable new form factors, too. At Computex,[Adata showed off its Nia handheld](https://tools.techidaily.com) , which uses LPCAMM2 using LPDDR5X.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How much memory fits on a CAMM2 module?
 
 Between 8GB and 128GB of memory fits on a single module.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ## Is LPCAMM2 faster than existing SO-DIMMs and DIMMs?
 
  Yes. As of this writing,[Crucial is listing](https://www.crucial.com/memory/ddr5/ct64g75c2lp5xg) 32GB and 64GB LPDDR5X-7200 LPCAMM2 modules. At Computex, TeamGroup said its 16GB, 32GB, and 64GB memory will go up to 9600 MT/s. Samsung's[page on LPCAMM2](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fgo.redirectingat.com%2F%3Fid%3D92X1584492%26xcust%3Dtomshardware%255Fus%255F4400621493195954499%26xs%3D1%26url%3Dhttps%253A%252F%252Fsemiconductor.samsung.com%252Femea%252Fdram%252Fmodule%252Flpcamm2%252F%26sref%3Dhttps%253A%252F%252Fwww.tomshardware.com%252Fpc-components%252Fmotherboards%252Fwhat-is-camm2) lists an "extraordinary data transfer rate of 8,533Mbps," the same number memory company[Geil showed at Computex](https://www.techpowerup.com/323173/geil-presents-a-wide-range-of-memories-at-computex-camm2-lpcamm2-alongside-many-ddr5s) .
@@ -65,9 +79,6 @@ Between 8GB and 128GB of memory fits on a single module.
 
  We haven't seen any DDR5 CAMM2 products on the market just yet, so we don't know if those speeds will go even higher.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## What are alternatives to CAMM2?
 
  In theory, there's nothing stopping vendors from using standard DIMMs or SO-DIMMs, or continuing to solder memory to the motherboard. Staying with the status quo is an alternative, at least for now.
@@ -82,8 +93,6 @@ Between 8GB and 128GB of memory fits on a single module.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -91,4 +100,26 @@ Between 8GB and 128GB of memory fits on a single module.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-amplify-content-with-free-audio-samples-for-2024/"><u>[Updated] Amplify Content with Free Audio Samples for 2024</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/abbyy-revolutionizes-fda-document-management-with-its-advanced-intelligent-automation-technology/"><u>ABBYY Revolutionizes FDA Document Management with Its Advanced Intelligent Automation Technology</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722968978433-approach-explain-the-rationale-behind-trial-mixing-before-full-scale-application/"><u>Approach: Explain the Rationale Behind Trial Mixing Before Full-Scale Application.</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabling-apple-iphone-14-plus-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling Apple iPhone 14 Plus Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/epson-l3150-printer-drivers-free-download-and-compatibility-with-windows-10-8-and-7/"><u>Epson L3150 Printer Drivers: Free Download and Compatibility with Windows 10, 8 & 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-epson-l3150-driver-software-on-windows-10-8-and-7-free-update/"><u>Get the Latest Epson L3150 Driver Software on Windows 10, 8 & 7 - Free Update</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-samsung-m2n070fw-up-to-date-with-a-fast-driver-download/"><u>Get Your Samsung M2n070FW Up-to-Date with a Fast Driver Download!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-update-atheros-wifi-drivers-in-windows-10/"><u>How to Update Atheros Wifi Drivers In Windows 10</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-elevate-everyday-youtubes-finest-yoga-influencers/"><u>In 2024, Elevate Everyday - YouTube's Finest Yoga Influencers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-updated-graphics-and-system-drivers-for-lenovo-legion-5-pro-laptop/"><u>Install Updated Graphics and System Drivers for Lenovo Legion 5 Pro Laptop</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installation-guide-epson-ds-530-printer-drivers-for-windows-11-x64-get-your-software-now/"><u>Installation Guide: Epson DS-530 Printer Drivers for Windows 11 (X64) – Get Your Software Now</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/jumpstart-your-journey-with-chatgpt-extensions/"><u>Jumpstart Your Journey with ChatGPT Extensions</u></a></li>
+<li><a href="https://games-able.techidaily.com/melody-maven-leading-audio-trivia-games-on-smartphones/"><u>Melody Maven: Leading Audio Trivia Games on Smartphones</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/microsofts-latest-driver-downloads-compatible-with-windows-1187/"><u>Microsoft's Latest Driver Downloads Compatible with Windows 11/8/7</u></a></li>
+<li><a href="https://driver-install.techidaily.com/professionally-accurate-free-intuos-4-drivers-for-safe-windows/"><u>Professionally Accurate: Free Intuos 4 Drivers for Safe Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722974496240-secure-and-quick-download-of-hp-designjet-500-drivers-start-printing-today/"><u>Secure and Quick Download of HP DesignJet 500 Drivers - Start Printing Today!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/trustworthy-downloads-of-lenovos-updated-bluetooth-drivers-compatible-with-win-710/"><u>Trustworthy Downloads of Lenovo's Updated Bluetooth Drivers Compatible with Win 7/10</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-productivity-with-these-8-expert-approved-chatgpt-strategies-to-curb-online-disruptions/"><u>Unlock Productivity with These 8 Expert-Approved ChatGPT Strategies to Curb Online Disruptions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrade-to-the-cutting-edge-magicard-rio-pro-driver-best-fit-for-windows-os-windows-118n7/"><u>Upgrade to the Cutting-Edge Magicard Rio Pro Driver - Best Fit for Windows OS (Windows 11/8.n/7)</u></a></li>
+</ul></div>
 

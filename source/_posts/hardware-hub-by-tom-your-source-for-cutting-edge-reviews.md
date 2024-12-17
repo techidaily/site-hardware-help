@@ -1,7 +1,7 @@
 ---
 title: "Hardware Hub by Tom: Your Source for Cutting-Edge Reviews"
-date: 2024-08-19T10:28:55.347Z
-updated: 2024-08-20T10:28:55.347Z
+date: 2024-12-15T16:19:33.568Z
+updated: 2024-12-17T16:19:02.822Z
 tags:
   - motherboards
 categories:
@@ -20,6 +20,10 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
  Below, we’ll dig into the details of the board and see whether it deserves a spot on our[Best Motherboards](https://tools.techidaily.com) list. Before we get into our testing and board specifics, though, we’ll start by listing the specifications from ASRock’s website.
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specifications: ASRock Z790I Lightning Wi-Fi
 
@@ -97,9 +101,17 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 
  We check over 250 million products every day for the best prices
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Inside the Box of the ASRock Z790I Lightning Wi-Fi
 
  Inside the retail packaging, below the motherboard, ASRock includes a few accessories to get you started. You get two SATA cables, a Wi-Fi antenna, screws for M.2 sockets, and a thermistor cable. There isn’t much here, which isn’t surprising at this price point, but it’s enough to cover the basics.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Design of the Lightning Wi-Fi
 
@@ -107,33 +119,24 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 
 ![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
  (Image credit: ASRock)
 
 ![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: ASRock)
 
 ![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
  (Image credit: ASRock)
 
  This little motherboard sits on a server-grade 8-layer matte black PCB. The sole design element comes from the actively cooled, heatpipe-connected VRM heatsinks and M.2 heatsinks. The heatsinks have lines that meander their way around the metal bits. On the left, you see the Phantom Gaming branding as well. If you’re interested in RGB lighting in your chassis, you’ll have to add your own to the onboard headers, as the board does not include any natively. The all-black appearance looks good and, in my opinion, better than the more expensive PG-ITX/TB4.
 
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/97M3RfrDnnVcKkV4n7VkU8-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: ASRock)
 
  Starting in the left corner, we spy a single 8-pin EPS connector just above the heatpipe connecting the heatsinks. The VRMs have plenty of mass and surface area to keep the powerful VRMs below running cool. There’s also a small fan attached to the heatsink tucked in between the rear IO plate and the VRM for additional cooling. The default fan curve sounds improved from the PG-ITX/TB4\. While it was still audible, we could hear it only during stress testing. Of course, you can adjust it if needed. Also by the EPS connector is the 2-pin temperature sensor header to use with the included thermistor.
@@ -148,18 +151,12 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/Yoyr47AhNxUyUnTePWM7kF-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Power delivery on the Z790I Lightning has 16 phases, with 14 dedicated to Vcore. Power heads from the 8-pin EPS connector onto a Renesas RAA229131 PWM controller. From there, it heads to the 14 110A Renesas RAA2209004 SPS MOSFETs. The 1,540A available is the most I recall seeing on an ITX board and will surely handle Intel’s flagship-class processors, even when overclocking with sub-ambient cooling.
 
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/38vzBpWcpKHzwQLj5js8d8-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: ASRock)
 
  We’ll continue our counterclockwise journey at the bottom of the board. Here, we see the only expansion slot: a full-length PCIe 5.0 x16 slot. The slot also supports PCIe riser cards to extend one x16 slot to two x8 slots if needed. Above that, under the heatsink, is the first M.2 socket (you’ll find the other on the back of the board). Each M.2 socket runs at PCIe 4.0 x4 (64 Gbps) speeds and supports up to 80mm modules. None of the sockets support SATA-based devices, but they support RAID0/1/10 modes, as do the SATA ports. Thankfully, There’s no lane / bandwidth sharing, and you can run all storage simultaneously without a performance penalty.
@@ -167,6 +164,10 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  To the left of the PCIe slot is the Realtek ALC897 audio codec, along with a few dedicated audio capacitors. This solution is OK and should be fine for most users, but it is a budget option. You’ll also find the front panel audio header here.
 
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/Ax7PUWX76BhvWC7HhxEAn8-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: ASRock)
 
@@ -186,8 +187,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -195,4 +194,19 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-the-finest-9-mic-recording-devices-compared/"><u>[New] 2024 Approved The Finest 9 Mic Recording Devices Compared</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-achieve-high-quality-streams-youtube-and-twitch-via-obs/"><u>[New] In 2024, Achieve High-Quality Streams YouTube & Twitch via OBS</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-top-audio-capturers-in-academic-settings/"><u>[Updated] 2024 Approved Top Audio Capturers in Academic Settings</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-cost-benefit-analysis-should-you-sign-up-for-youtube-premium-for-2024/"><u>[Updated] The Cost-Benefit Analysis Should You Sign Up for YouTube Premium for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/analysis-of-hahron-spices-market-share-in-the-chemical-industry/"><u>Analysis of HAHRON SPICE's Market Share in the Chemical Industry</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-photo-and-video-display-apps-for-iphone-series-78/"><u>Best Photo & Video Display Apps for iPhone Series 7/8</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722976132622-easy-installation-of-new-wifi-drivers-for-windos-7/"><u>Easy Installation of New WiFi Drivers for WinDos 7!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722977410305-improve-sound-clarity-instantly-free-m-audio-fast-track-ultra-driver-downloads-here/"><u>Improve Sound Clarity Instantly! FREE M-Audio Fast Track Ultra Driver Downloads Here</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-plus-passcode-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 8 Plus Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/secure-your-gaming-experience-download-nvidia-rtx-3080-drivers-windows-1087/"><u>Secure Your Gaming Experience: Download NVIDIA RTX 3080 Drivers (Windows 10/8/7)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-restoring-missing-mfc-42d-dll-error-solutions-and-best-practices/"><u>Ultimate Guide to Restoring Missing MFC 42D DLL: Error Solutions and Best Practices</u></a></li>
+</ul></div>
 

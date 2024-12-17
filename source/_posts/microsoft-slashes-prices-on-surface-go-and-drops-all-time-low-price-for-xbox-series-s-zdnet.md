@@ -1,7 +1,7 @@
 ---
 title: Microsoft Slashes Prices on Surface Go and Drops All-Time Low Price for Xbox Series S - ZDNet
-date: 2024-12-08T19:43:08.142Z
-updated: 2024-12-11T07:01:06.603Z
+date: 2024-12-11T16:08:02.311Z
+updated: 2024-12-17T16:30:01.216Z
 tags:
   - laptops
 categories:
@@ -27,7 +27,7 @@ Microsoft is known for its innovative products in gaming, computers, and more. A
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Save hundreds on Surface tablets and laptops**
@@ -43,7 +43,7 @@ Under the tablet's hood, you'll find a blazing-fast processor (12th Gen Intel Co
 Meanwhile, if you're preference is for laptops, then Microsoft has other deals for you. You can save $200 on the Surface Laptop 5, up to $646 on the Surface Laptop 4, and $150 on the Surface Laptop Go 2\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Get the Xbox Series S at its lowest price ever**
@@ -59,7 +59,7 @@ This is a digital console, meaning you'll have ample room to download games on i
 Overall, the Xbox Series S is an excellent gaming system for those looking for jaw-dropping graphics, access to a diverse gaming library, and fast performance. In addition, Microsoft lowered its price to $239.99, making it the best time to buy one. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Want to save even more on Microsoft devices?**
@@ -110,22 +110,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-comparing-cloud-prices-for-maximum-savings/"><u>[New] Comparing Cloud Prices for Maximum Savings</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/direct-links-to-the-latest-ricoh-mp-c3003-printer-driver-software-get-them-now/"><u>Direct Links to the Latest Ricoh MP C3003 Printer Driver Software - Get Them Now</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/generate-individual-meme-crafts-today/"><u>Generate Individual Meme Crafts Today</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-installupdate-razer-graphics-and-input-driver-in-windows-xp-10/"><u>How to Install/Update Razer Graphics & Input Driver in Windows (XP - 10)</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-google-pixel-7a-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Google Pixel 7a Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Infinix Note 30 VIP Racing Edition? | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-unveiling-the-perfect-process-iphones-podcast-downloading-technique/"><u>In 2024, Unveiling the Perfect Process IPhone's Podcast Downloading Technique</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-hp-deskjet-2600-printer-drivers-for-windows-7810-easy-guide-and-download-links/"><u>Install HP DeskJet 2600 Printer Drivers for Windows 7/8/10 - Easy Guide and Download Links</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-compatible-thrustmaster-t300-racing-wheel-drivers-for-windows-10-and-11-free-download-links-inside/"><u>Latest Compatible Thrustmaster T300 Racing Wheel Drivers for Windows 10 and 11 – Free Download Links Inside!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/lenovos-thunderbolt-ndock-updates-ensure-optimal-compatibility-and-functionality-with-new-driver-release/"><u>Lenovo's Thunderbolt nDock Updates - Ensure Optimal Compatibility and Functionality with New Driver Release</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/maintaining-optimal-performance-updating-ati-radeon-graphics-card-drivers-in-windows-environments/"><u>Maintaining Optimal Performance: Updating ATI Radeon Graphics Card Drivers in Windows Environments</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-top-rated-free-security-camera-systems-expert-reviews/"><u>New In 2024, Top-Rated Free Security Camera Systems Expert Reviews</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-and-easy-win-effective-methods-for-fresh-installation-of-d-link-driver-software-in-windows/"><u>Quick & Easy Win: Effective Methods for Fresh Installation of D-Link Driver Software in Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/select-access-microsoft-unveils-cross-platform-window-support-on-chromebooks-and-macs/"><u>Select Access: Microsoft Unveils Cross-Platform Window Support on Chromebooks and Macs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-instructions-get-the-latest-epson-xp-410-driver-for-your-pc-windows-system/"><u>Step by Step Instructions: Get the Latest Epson XP- 410 Driver for Your PC Windows System!</u></a></li>
-<li><a href="https://extra-support.techidaily.com/step-by-step-backdrop-be-gone-guide-for-images-for-2024/"><u>Step-by-Step Backdrop Be Gone Guide for Images for 2024</u></a></li>
-<li><a href="https://fox-where.techidaily.com/step-by-step-tutorial-on-accessing-system-specifications-with-yl-software-solutions/"><u>Step-by-Step Tutorial on Accessing System Specifications with YL Software Solutions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-curating-youtube-music-experiences/"><u>[New] In 2024, Curating YouTube Music Experiences</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-microsoft-unveils-future-a-3d-reality-with-hololens-for-2024/"><u>[New] Microsoft Unveils Future A 3D Reality With HoloLens for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-advanced-tips-for-zoom-meetings-on-chromebooks/"><u>[Updated] Advanced Tips for Zoom Meetings on ChromeBooks</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-quick-guide-merging-igtv-with-instagram-stories-for-2024/"><u>[Updated] Quick Guide Merging IGTV with Instagram Stories for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-pinnacle-of-vr-how-htc-vive-transforms-playtime/"><u>[Updated] The Pinnacle of VR How HTC Vive Transforms Playtime</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722976359599-easy-installation-of-rtl8188cu-driver-software-for-wireless-network-adapters-on-win-10-7-download-instantly/"><u>Easy Installation of RTL8188CU Driver Software for Wireless Network Adapters on Win 10, 7 - Download Instantly!</u></a></li>
+<li><a href="https://win-top.techidaily.com/effiziente-hyper-v-virtualisierung-praktische-anleitungen-zur-losung-von-prufpunkten/"><u>Effiziente Hyper-V-Virtualisierung: Praktische Anleitungen Zur Lösung Von Prüfpunkten</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ensure-peak-performance-with-updated-drivers-for-the-msi-gs65-on-your-pc/"><u>Ensure Peak Performance with Updated Drivers for the MSI GS65 on Your PC</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-recommended-substitutes-for-ifunbox-optimal-tools-for-efficient-ios-file-handling-and-syncing/"><u>Expert-Recommended Substitutes for iFunbox: Optimal Tools for Efficient iOS File Handling and Syncing</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722974471432-get-your-latest-amd-ryzen-graphics-drivers-here/"><u>Get Your Latest AMD Ryzen Graphics Drivers Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-easily-get-lenovo-thinkpad-t430-drivers-on-your-pc-windows-11-8-and-7/"><u>How to Easily Get Lenovo ThinkPad T430 Drivers on Your PC (Windows 11, 8 & 7)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-easily-update-and-install-new-drivers-for-your-nvidia-quadro-rtx-4000-graphics-card/"><u>How to Easily Update and Install New Drivers for Your NVIDIA Quadro RTX 4000 Graphics Card</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hp-laserjet-1020-and-windows-compatibility-resolving-printer-driver-issues-for-good/"><u>HP LaserJet 1020 & Windows Compatibility: Resolving Printer Driver Issues for Good</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-seamless-transition-of-video-files-to-facebook-for-pcandroid/"><u>In 2024, Seamless Transition of Video Files to Facebook for PC/Android</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/logitech-g29-racing-wheel-driver-software-free-download-for-windows-users/"><u>Logitech G29 Racing Wheel Driver Software - Free Download for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-efficient-repair-of-bcm2045a0-driver-complications/"><u>Quick and Efficient Repair of BCM2045A0 Driver Complications</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ring-spotlight-cam-pro-affordable-surveillance-with-a-holiday-discount-my-pleasant-surprise/"><u>Ring Spotlight Cam Pro: Affordable Surveillance with a Holiday Discount - My Pleasant Surprise!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-for-successfully-mounting-keyspans-19hs-driver-on-windows-os/"><u>Step-by-Step Tutorial for Successfully Mounting Keyspan's 19HS Driver on Windows OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-and-fixing-hp-monitor-driver-glitches-for-windows-operating-systems/"><u>Troubleshooting and Fixing HP Monitor Driver Glitches for Windows Operating Systems</u></a></li>
 </ul></div>
 

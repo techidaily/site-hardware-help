@@ -1,7 +1,7 @@
 ---
 title: "What's in Store for Tech Enthusiasts: Anticipating Apple's October Reveals – Next-Gen M4 Mac Mini, Revamped iPads & AI Developments – Expert Analysis"
-date: 2024-12-05T03:20:50.726Z
-updated: 2024-12-10T17:49:29.474Z
+date: 2024-12-16T16:00:53.947Z
+updated: 2024-12-17T16:27:34.888Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,16 +118,17 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-10-game-changing-ways-for-designing-cover-art/"><u>[New] 2024 Approved 10 Game-Changing Ways for Designing Cover Art</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-from-zero-to-hero-on-instagram-fame/"><u>[New] In 2024, From Zero to Hero on Instagram Fame</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-understanding-slug-lines-an-essential-guide/"><u>2024 Approved Understanding Slug Lines An Essential Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amd-radeon-r9-series-quick-start-to-downloading-and-installing-drivers-on-windows/"><u>AMD Radeon R9 Series: Quick Start to Downloading & Installing Drivers on Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722974426339-download-intelligent-cpu-drives-swiftly-and-simply/"><u>Download Intelligent CPU Drives Swiftly and Simply!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-solutions-for-logitech-c615-drivers-no-more-hassles/"><u>Effortless Solutions for Logitech C615 Drivers - No More Hassles!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-does-chatgpts-use-of-current-data-impact-all-users/"><u>How Does ChatGPT's Use of Current Data Impact All Users?</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-enhance-visibility-editing-igtv-video-texts/"><u>In 2024, Enhance Visibility Editing IGTV Video Texts</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/officially-verified-drivers-for-realteks-rtl8188cu-wireless-adapter-compatible-with-windows-10-and-7-systems/"><u>Officially Verified Drivers for Realtek's RTL8188CU Wireless Adapter - Compatible with Windows 10 & 7 Systems</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-and-fixing-modern-warfare-3s-code-1eba6c98-memory-problem/"><u>Troubleshooting and Fixing Modern Warfare 3'S Code 1Eba6c98 Memory Problem</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-decoding-the-selection-process-for-premier-mac-music-metadata-tools/"><u>Updated 2024 Approved Decoding the Selection Process for Premier Mac Music Metadata Tools</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-professionalism-with-a-pixel-instagram-photo-watermarking-101/"><u>[New] 2024 Approved Professionalism with a Pixel Instagram Photo Watermarking 101</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-construct-chuckles-adobe-meme-creation/"><u>[New] Construct Chuckles Adobe Meme Creation</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-fixing-obss-full-screen-freeze-up-for-2024/"><u>[New] Fixing OBS's Full-Screen Freeze Up for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-iosandroid-comparison-youtube-app-explored/"><u>[Updated] 2024 Approved IOS/Android Comparison YouTube App Explored</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-cpu-driver-download-for-windows/"><u>AMD CPU Driver Download for Windows</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/demystifying-the-purpose-of-slug-lines-in-screenplay-for-2024/"><u>Demystifying the Purpose of Slug Lines in Screenplay for 2024</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/guide-to-transforming-ted-talks-into-various-audio-formats-mp3-aac-wav/"><u>Guide to Transforming Ted Talks Into Various Audio Formats (MP3, AAC, WAV)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/honor-90-lite-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Honor 90 Lite Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-deskjet-driver-setup-and-download-compatible-with-all-windows-versions/"><u>HP DeskJet Driver Setup & Download: Compatible with All Windows Versions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722968830309-latest-amd-vega-64-graphics-card-driver-update-get-them-now-on-windows/"><u>Latest AMD Vega 64 Graphics Card Driver Update: Get Them Now on Windows</u></a></li>
+<li><a href="https://video-capture.techidaily.com/mp4mtswindows-1011/"><u>MP4へのMTSファイル転換手順：Windows 10/11で実行する方法</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722965953410-quick-and-easy-guide-to-download-and-install-the-latest-hp-drivers/"><u>Quick and Easy Guide to Download & Install the Latest HP Drivers!</u></a></li>
 </ul></div>
 

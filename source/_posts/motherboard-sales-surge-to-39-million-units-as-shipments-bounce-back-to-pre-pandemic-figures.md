@@ -1,7 +1,7 @@
 ---
 title: Motherboard Sales Surge to 39 Million Units as Shipments Bounce Back to Pre-Pandemic Figures
-date: 2024-08-19T10:30:19.432Z
-updated: 2024-08-20T10:30:19.432Z
+date: 2024-12-14T16:17:25.104Z
+updated: 2024-12-17T16:09:22.488Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,20 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-guide-to-eliminate-insta-suggest-feature/"><u>[New] 2024 Approved Guide to Eliminate Insta Suggest Feature</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-superior-style-for-text-mobility/"><u>[New] 2024 Approved Superior Style for Text Mobility</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-the-drone-evolution-a-deep-look-at-djis-mavic-pro/"><u>[New] The Drone Evolution A Deep Look at DJI's Mavic Pro</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-aerial-precision-mavic-pro-analysis/"><u>[New] Unveiling Aerial Precision - Mavic Pro Analysis</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-effortlessly-link-zoom-events-across-ios-android-and-desktops/"><u>[Updated] 2024 Approved Effortlessly Link Zoom Events Across iOS, Android, and Desktops</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/all-you-need-to-know-about-mega-greninja-for-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-configure-hp-deskjet-scan-application-on-windows-machines/"><u>Download & Configure HP Deskjet Scan Application on Windows Machines</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ensure-optimal-compatibility-new-driver-downloads-for-xbox-360-controllers/"><u>Ensure Optimal Compatibility: New Driver Downloads for Xbox 360 Controllers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-free-qualcomm-chipset-drivers-now-supports-win11-to-win7-operating-systems/"><u>Get Your Free Qualcomm Chipset Drivers Now - Supports Win11 to Win7 Operating Systems!</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-tutorial-quickly-convert-youtube-audio-to-mp3-on-mac/"><u>In 2024, Tutorial Quickly Convert YouTube Audio to MP3 on Mac</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revamping-your-clicks-a-comprehensive-tutorial-on-logitech-m310-mouse-drivers-update/"><u>Revamping Your Clicks: A Comprehensive Tutorial on Logitech M310 Mouse Drivers Update</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/simple-guide-installing-and-updating-your-scansnap-ix500-printer-software-on-windows/"><u>Simple Guide: Installing & Updating Your ScanSnap iX500 Printer Software on Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/steelseries-arctis-5-headset-software-setup-guide-and-driver-download/"><u>SteelSeries Arctis 5 Headset Software Setup: Guide and Driver Download</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->

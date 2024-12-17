@@ -1,7 +1,7 @@
 ---
 title: "Maxsun Unveils Intel and AMD's Latest Gear: An Extensive Selection of 31 High-Performance Chipsets - Meet the Future!"
-date: 2024-08-19T10:30:42.053Z
-updated: 2024-08-20T10:30:42.053Z
+date: 2024-12-10T16:01:27.208Z
+updated: 2024-12-17T16:14:32.617Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,24 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-can-you-legally-capture-video-from-youtube-for-2024/"><u>[New] Can You Legally Capture Video From YouTube for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-facebook-cover-video-introduction-size-format-and-time/"><u>[Updated] Facebook Cover Video Introduction, Size, Format & Time</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-elevate-your-videogame-experience-record-on-steam/"><u>2024 Approved Elevate Your Videogame Experience - Record on Steam</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-full-spectrum-analysis-unpacking-xstudio-video-workshop-essentials/"><u>2024 Approved Full Spectrum Analysis Unpacking XStudio Video Workshop Essentials</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asus-touchpad-driver-update-streamlined-process-for-windows-10-users/"><u>ASUS Touchpad Driver Update: Streamlined Process for Windows 10 Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-magic-mouse-software-compatible-with-windows-pcs/"><u>Download and Install Magic Mouse Software Compatible with Windows PCs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fresh-download-updated-intel-ax200-wi-fi-adapter-software-compatible-with-windows-11-and-10/"><u>Fresh Download: Updated Intel AX200 Wi-Fi Adapter Software Compatible with Windows 11 & 10</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Vivo Y100i Power 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-hp-officejet-pro-amo-8740-driver-on-your-pc-windows-11108-solutions/"><u>Install HP OfficeJet Pro Amo 8740 Driver on Your PC: Windows 11/10/8 Solutions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-logitech-racing-wheel-software-for-windows-11107-g27-full-drivers-download/"><u>Install Logitech Racing Wheel Software for Windows 11/10/7 - G27 Full Drivers Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722963420580-latest-update-enhancements-in-the-new-logitech-extreme-3d/"><u>Latest Update: Enhancements in the New Logitech Extreme 3D!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/logitech-extreme-3d-pro-mouse-driver-updates-and-improvements-unveiled/"><u>Logitech Extreme 3D Pro Mouse: Driver Updates and Improvements Unveiled</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mpow-bluetooth-driver-downloads-and-updates-for-enhanced-compatibility-with-windows/"><u>MPOW Bluetooth Driver Downloads & Updates for Enhanced Compatibility with Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigate-through-2024-the-quintessential-top-10-notes-app-selection-for-maximum-productivity/"><u>Navigate Through 2024: The Quintessential Top 10 Notes App Selection for Maximum Productivity</u></a></li>
+<li><a href="https://fox-place.techidaily.com/recognizing-signs-of-hardware-failure-tips-from-yl-computing-and-yl-software/"><u>Recognizing Signs of Hardware Failure - Tips From YL Computing & YL Software</u></a></li>
+<li><a href="https://article-posts.techidaily.com/uncover-the-full-potential-of-vitas-video-editor-comprehensive-guide-2024/"><u>Uncover the Full Potential of Vita's Video Editor - Comprehensive Guide 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

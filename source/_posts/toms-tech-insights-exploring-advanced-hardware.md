@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Insights: Exploring Advanced Hardware"
-date: 2024-08-19T10:31:11.866Z
-updated: 2024-08-20T10:31:11.866Z
+date: 2024-12-11T16:12:47.941Z
+updated: 2024-12-17T16:27:00.671Z
 tags:
   - motherboards
 categories:
@@ -20,6 +20,10 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
  Below, we’ll dig into the details of the board and see whether it deserves a spot on our[Best Motherboards](https://tools.techidaily.com) list. Before we get into our testing and board specifics, though, we’ll start by listing the specifications from ASRock’s website.
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specifications: ASRock Z790I Lightning Wi-Fi
 
@@ -101,27 +105,16 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 
  Inside the retail packaging, below the motherboard, ASRock includes a few accessories to get you started. You get two SATA cables, a Wi-Fi antenna, screws for M.2 sockets, and a thermistor cable. There isn’t much here, which isn’t surprising at this price point, but it’s enough to cover the basics.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## Design of the Lightning Wi-Fi
 
  Image 1 of 3
 
 ![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
  (Image credit: ASRock)
 
 ![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: ASRock)
 
 ![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -133,8 +126,9 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/97M3RfrDnnVcKkV4n7VkU8-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: ASRock)
 
  Starting in the left corner, we spy a single 8-pin EPS connector just above the heatpipe connecting the heatsinks. The VRMs have plenty of mass and surface area to keep the powerful VRMs below running cool. There’s also a small fan attached to the heatsink tucked in between the rear IO plate and the VRM for additional cooling. The default fan curve sounds improved from the PG-ITX/TB4\. While it was still audible, we could hear it only during stress testing. Of course, you can adjust it if needed. Also by the EPS connector is the 2-pin temperature sensor header to use with the included thermistor.
@@ -150,8 +144,9 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/Yoyr47AhNxUyUnTePWM7kF-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  Power delivery on the Z790I Lightning has 16 phases, with 14 dedicated to Vcore. Power heads from the 8-pin EPS connector onto a Renesas RAA229131 PWM controller. From there, it heads to the 14 110A Renesas RAA2209004 SPS MOSFETs. The 1,540A available is the most I recall seeing on an ITX board and will surely handle Intel’s flagship-class processors, even when overclocking with sub-ambient cooling.
@@ -159,8 +154,9 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/38vzBpWcpKHzwQLj5js8d8-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: ASRock)
 
  We’ll continue our counterclockwise journey at the bottom of the board. Here, we see the only expansion slot: a full-length PCIe 5.0 x16 slot. The slot also supports PCIe riser cards to extend one x16 slot to two x8 slots if needed. Above that, under the heatsink, is the first M.2 socket (you’ll find the other on the back of the board). Each M.2 socket runs at PCIe 4.0 x4 (64 Gbps) speeds and supports up to 80mm modules. None of the sockets support SATA-based devices, but they support RAID0/1/10 modes, as do the SATA ports. Thankfully, There’s no lane / bandwidth sharing, and you can run all storage simultaneously without a performance penalty.
@@ -168,6 +164,10 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
  To the left of the PCIe slot is the Realtek ALC897 audio codec, along with a few dedicated audio capacitors. This solution is OK and should be fine for most users, but it is a budget option. You’ll also find the front panel audio header here.
 
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/Ax7PUWX76BhvWC7HhxEAn8-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: ASRock)
 
@@ -187,8 +187,6 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -196,4 +194,24 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-fast-track-to-1000-subscribers-in-youtube-landscape/"><u>[New] 2024 Approved Fast-Track To 1,000 Subscribers in Youtube Landscape</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-reducing-noise-sensitivity-in-logic-pro-mixes/"><u>[New] Reducing Noise Sensitivity in Logic Pro Mixes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-green-screen-mastery-on-youtube-ideas-unleashed-for-2024/"><u>[Updated] Green Screen Mastery on YouTube - Ideas Unleashed for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-lockdown-protocol-instantaneous-secure-tiktok-link-addition/"><u>[Updated] In 2024, Lockdown Protocol Instantaneous, Secure TikTok Link Addition</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-top-10-online-video-tools-perfecting-webcam-footage-for-2024/"><u>[Updated] Top 10 Online Video Tools Perfecting Webcam Footage for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-live-streaming-and-screen-capture-a-comprehensive-obs-analysis/"><u>2024 Approved Live Streaming & Screen Capture A Comprehensive OBS Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-drivers-for-your-amd-radeon-rx-470-step-by-step-guide/"><u>Download and Update Drivers for Your AMD Radeon RX 470: Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722963767993-effortlessly-upgrade-your-connection-secure-the-latest-wireless-adapter-drivers-here/"><u>Effortlessly Upgrade Your Connection: Secure the Latest Wireless Adapter Drivers Here!</u></a></li>
+<li><a href="https://solve-info.techidaily.com/entendiendo-el-formato-rapido-riesgos-e-implicaciones-en-la-perdida-de-informacion-estrategias-efectivas-de-recuperacion/"><u>Entendiendo El Formato Rápido: Riesgos E Implicaciones en La Pérdida De Información, Estrategias Efectivas De Recuperación</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/find-and-install-your-hp-ink-advantage-3520-printer-driver-today/"><u>Find & Install Your HP Ink Advantage 3520 Printer Driver Today!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-official-hp-wifi-drivers-and-software-compatible-with-windows-operating-system/"><u>Get Official HP Wifi Drivers & Software Compatible with Windows Operating System</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-xiaomi-13t-to-mac-drfone-by-drfone-android/"><u>How to Mirror Xiaomi 13T to Mac? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722967549147-install-your-eveo-usb-bluetooth-adapter-with-this-driver/"><u>Install Your EVEO USB Bluetooth Adapter with This Driver</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-ralink-driver-installation-and-updates-for-windows-users-top-tips-unveiled/"><u>Mastering Ralink Driver Installation and Updates for Windows Users: Top Tips Unveiled</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/optimize-your-gtx-1660-ti-for-superior-gaming-with-the-newest-drivers/"><u>Optimize Your GTX 1660 Ti for Superior Gaming with the Newest Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-guide-surface-driver-downloads-and-how-to-update-them-effortlessly/"><u>Quick Guide: Surface Driver Downloads and How to Update Them Effortlessly</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unique Mutant ASUS Frankenboard Maxximus XIII Model: Featuring SO-DIMM RAM Slots and Distinctive Kingston Fury Branding"
-date: 2024-08-19T10:29:12.872Z
-updated: 2024-08-20T10:29:12.872Z
+date: 2024-12-15T16:16:56.269Z
+updated: 2024-12-17T16:28:27.087Z
 tags:
   - motherboards
 categories:
@@ -47,6 +47,10 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
 
  The fact is, Loongson has developed its own CPU just a few generations behind Intel and AMD. Considering the Chinese firm has to work around U.S. sanctions and claims to insist on doing everything based on its own IP, the performance could actually be considered impressive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -63,8 +67,6 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -72,8 +74,26 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-help.techidaily.com/1722964464086-free-download-asrock-ab350-pro4-drivers-in-windows-easily/"><u>[Free Download] ASRock AB350 Pro4 Drivers in Windows. Easily!</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-ultimate-strategies-for-webinar-capture-with-minimal-effort-windows-mac-for-2024/"><u>[New] Ultimate Strategies for Webinar Capture with Minimal Effort (Windows, Mac) for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-immediate-visual-effects-with-instagrams-chroma-keying-feature/"><u>[Updated] Immediate Visual Effects with Instagram’s Chroma Keying Feature</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-nikons-challenge-to-gopro-hero-black-in-video-realm/"><u>[Updated] Nikon's Challenge to GoPro HERO Black in Video Realm</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-pathway-to-popularity-on-instagram-from-zero-to-a-thousand-in-30-days-for-2024/"><u>[Updated] The Pathway to Popularity on Instagram From Zero to a Thousand in 30 Days for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/2024-update-for-hp-officejet-4500-printer-drivers-installation-guide-and-download-links/"><u>2024 Update for HP Officejet 4500 Printer Drivers: Installation Guide and Download Links</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/best-tech-device-reviewed-the-apple-ipad-pro-11-edition-2018-model/"><u>Best Tech Device Reviewed: The Apple iPad Pro (11 Edition, 2018 Model)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/brother-mfc-7860dw-easy-download-of-updated-printer-drivers-for-windows-systems/"><u>Brother MFC-7860DW: Easy Download of Updated Printer Drivers for Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-guide-to-connecting-your-wd-ses-external-drive-via-usb-up-to-date-version/"><u>Comprehensive Guide to Connecting Your WD SES External Drive via USB - Up-to-Date Version</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-poco-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Poco</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/few-shot-learning-capability/"><u>Few-Shot Learning Capability</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-updated-geforce-rtx-2070-graphics-card-drivers-for-windows-1187-systems/"><u>Get Updated Geforce RTX 2070 Graphics Card Drivers for Windows 11/8/7 Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-hp-laserjet-p1006-drivers-here/"><u>Get Your HP LaserJet P1006 Drivers Here</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-the-art-of-perfect-thumbnails-sizing-and-proportions-mastered/"><u>In 2024, The Art of Perfect Thumbnails Sizing & Proportions Mastered</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-oculus-device-drivers-for-all-windows-versions-111087-get-them-here/"><u>Latest Oculus Device Drivers for All Windows Versions (11/10/8/7) - Get Them Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-sas-driver-updates-and-downloads-compatible-with-windows-11-8-and-7/"><u>Latest SAS Driver Updates & Downloads: Compatible with Windows 11, 8, and 7</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-error-code-14-on-iphones-effective-fixes-explained/"><u>Resolving Error Code 14 on iPhones: Effective Fixes Explained</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Samsung Galaxy A23 5G? | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-powerful-capability-vs-heaviness-unveiling-the-radpower-radcity-5plus/"><u>The Powerful Capability Vs. Heaviness: Unveiling the RadPower RadCity #5+</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Sale Alert: Snag the Discounted 8TB Samsung Portable SSD - Save 36%% on Amazon (ZDNet Coverage)"
-date: 2024-12-07T00:37:28.800Z
-updated: 2024-12-11T07:00:48.352Z
+date: 2024-12-10T16:05:47.926Z
+updated: 2024-12-17T16:13:23.987Z
 tags:
   - laptops
 categories:
@@ -28,7 +28,7 @@ With a truly impressive amount of storage space, you'll get read and write speed
 Along with great read and write speeds and more reliable data transfers, the [Samsung T5 Evo](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Portable-External-MU-PH8T0S-AM%2Fdp%2FB0CMDGGJTZ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C644e744e-f948-4ca0-93ee-dbb5acfc4ea1%7Cdtp&dtb=1) also features 256-bit AES encryption to keep your personal data and sensitive information safe from unauthorized access. Its outer casing is drop- and shock-resistant and can withstand falls up to six feet, making it perfect for on-location photographers and other mobile professionals who need a tough storage drive for offloading raw photos from camera storage or transferring important projects and documents between their home office and mobile work location. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -65,19 +65,21 @@ While the Amazon listing for the Samsung T5 Evo portable SSD does not have a cou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-elevate-skype-call-audio-excellence-for-2024/"><u>[Updated] Elevate Skype Call Audio Excellence for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-zoom-preparedness-a-guide-to-meeting-mastery-for-2024/"><u>[Updated] Zoom Preparedness A Guide to Meeting Mastery for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-essential-insights-setting-up-streamlabs-on-mac-with-obs/"><u>2024 Approved Essential Insights Setting Up Streamlabs on Mac with OBS</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/access-the-official-corsair-h80i-v2-high-airflow-liquid-cpu-cooler-driver-download/"><u>Access the Official Corsair H80i v2 High Airflow Liquid CPU Cooler Driver Download</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-install-guide-amd-graphics-drivers-available-for-download/"><u>Easy Install Guide: AMD Graphics Drivers Available for Download</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-techniques-for-downloading-the-essential-software-for-your-dell-mouse/"><u>Effortless Techniques for Downloading the Essential Software for Your Dell Mouse</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/freezing-gameplay-essential-pc-screen-snaps/"><u>Freezing Gameplay Essential PC Screen Snaps</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722970958621-get-acquainted-with-the-new-features-of-the-updated-logitech-extreme-3d-driver-software/"><u>Get Acquainted with the New Features of the Updated Logitech Extreme 3D Driver Software.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-logitech-brio-webcam-up-and-running-on-windows-latest-drivers-for-w11w8w7/"><u>Get Your Logitech Brio Webcam Up and Running on Windows - Latest Drivers for W11/W8/W7</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-facing-video-display-issues-with-sony-a6400/"><u>In 2024, Facing Video Display Issues with Sony A6400</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on ZTE Blade A73 5G? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/pioneer-dj-enthusiasts-rejoice-download-the-ddj-sx2-controller-driver-swiftly/"><u>Pioneer DJ Enthusiasts Rejoice: Download the DDJ-SX2 Controller Driver Swiftly</u></a></li>
-<li><a href="https://fox-that.techidaily.com/recharge-more-drain-less-mastering-iphone-battery-calibration-in-a-few-easy-stages/"><u>Recharge More, Drain Less: Mastering iPhone Battery Calibration in a Few Easy Stages</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-slow-ubisoft-download-speeds-effective-solutions-inside/"><u>Troubleshooting Slow Ubisoft Download Speeds - Effective Solutions Inside</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-discovering-the-top-5-smarter-url-lengtheners-for-youtube/"><u>[New] 2024 Approved Discovering the Top 5 Smarter URL Lengtheners for YouTube</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-asmr-excellence-superior-performance-for-less-money/"><u>[New] ASMR Excellence Superior Performance for Less Money</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-demystifying-macos-capture-feature-for-professional-use/"><u>[Updated] Demystifying macOS Capture Feature for Professional Use</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-hero5-black-vs-hero5-the-duel-for-durability/"><u>[Updated] Hero5 Black vs Hero5, The Duel for Durability</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-hidden-pitfalls-investing-in-fraudulent-subscribers/"><u>[Updated] In 2024, Hidden Pitfalls Investing in Fraudulent Subscribers</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-samsung-galaxy-s23-ultra-frp-bypass-by-drfone-android/"><u>About Samsung Galaxy S23 Ultra FRP Bypass</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-34-curved-asus-tuf-display-now-just-249-on-amazon-gamers-deal/"><u>Affordable 34 Curved ASUS TUF Display Now Just $249 on Amazon – Gamer's Deal!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/find-and-install-the-latest-updates-for-your-epson-xtreme-print-quadcolor-xp-420-printer-driver-here/"><u>Find and Install the Latest Updates for Your Epson Xtreme Print QuadColor (XP-420) Printer Driver Here!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/guide-to-update-and-repair-hp-monitor-drivers-in-windows-1087/"><u>Guide to Update and Repair HP Monitor Drivers in Windows 10/8/7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-fix-and-update-your-hp-monitors-drivers-in-windows-11-8-and-7-efficiently/"><u>How to Fix and Update Your HP Monitor's Drivers in Windows 11, 8 & 7 Efficiently</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/overcoming-common-issues-with-bluetooth-on-the-latest-windows-11-update/"><u>Overcoming Common Issues with Bluetooth on the Latest Windows 11 Update</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-simple-installation-guide-usb-camera-drivers-download/"><u>Quick and Simple Installation Guide: USB Camera Drivers Download</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/reducing-motion-illusion-in-vr-environments/"><u>Reducing Motion Illusion in VR Environments</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/resolving-startech-drivers-troubles-on-windows-11-8-and-7-complete-guide/"><u>Resolving StarTech Drivers Troubles on Windows 11, 8 & 7 - Complete Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722960556838-seamless-pairing-find-the-eveo-bluetooth-driver-you-need/"><u>Seamless Pairing - Find the EVEO Bluetooth Driver You Need!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-on-updating-your-hp-laserjet-m506-driver-software/"><u>Step-by-Step Tutorial on Updating Your HP LaserJet M506 Driver Software</u></a></li>
 </ul></div>
 

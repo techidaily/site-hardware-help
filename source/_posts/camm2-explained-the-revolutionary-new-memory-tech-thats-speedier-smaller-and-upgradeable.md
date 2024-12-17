@@ -1,7 +1,7 @@
 ---
 title: "CAMM2 Explained: The Revolutionary New Memory Tech That's Speedier, Smaller and Upgradeable"
-date: 2024-08-19T10:28:44.294Z
-updated: 2024-08-20T10:28:44.294Z
+date: 2024-12-16T16:01:33.622Z
+updated: 2024-12-17T16:14:36.682Z
 tags:
   - motherboards
 categories:
@@ -41,6 +41,10 @@ Hardware enthusiast[Jiacheng Liu](https://x.com/unnatural%5F%5Flog/status/179755
 
  The EVGA X670E Classified prototypes were briefly available on Xianyu, a popular second-hand market platform in China. Liu said he had paid around $620 for four PCBs without heatsinks; meanwhile, the retail-looking sample with heatsinks set him back $1,378\. Apparently, another buyer flew to Shenzhen, China, to buy a single PCB for $689.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -57,8 +61,6 @@ Hardware enthusiast[Jiacheng Liu](https://x.com/unnatural%5F%5Flog/status/179755
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -66,8 +68,24 @@ Hardware enthusiast[Jiacheng Liu](https://x.com/unnatural%5F%5Flog/status/179755
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/updated-pro-graphic-rigs-mastering-4k-titles/"><u>[Updated] Pro Graphic Rigs Mastering 4K Titles</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-essentials-2023s-highest-ranked-twitter-content/"><u>[Updated] The Essentials 2023'S Highest-Ranked Twitter Content</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/1728487356753-ssd5/"><u>「容易解決SSD上文件丟失迷思：5種最新方法」</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/brother-scanner-driver-upgrades-fresh-release-for-optimal-windows-performance/"><u>Brother Scanner Driver Upgrades – Fresh Release for Optimal Windows Performance</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/connecting-gmail-to-your-apple-watch-a-comprehensive-tutorial/"><u>Connecting Gmail to Your Apple Watch - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/converting-iphone-photos-jpg-png-into-pdf-documents-for-2024/"><u>Converting iPhone Photos (JPG, PNG) Into PDF Documents for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-driver-downloads-for-realteks-rtl81andampcu-wireless-adapter-compatible-with-windows-10-7/"><u>Easy Driver Downloads for Realtek's RTL81^&amp;CU Wireless Adapter Compatible with Windows 10, 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-fixes-how-to-get-the-latest-d-link-driver-updates-for-windows-computers/"><u>Easy Fixes: How to Get the Latest D-Link Driver Updates for Windows Computers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-tutorial-installing-newest-windows-drivers-for-usb-bluetooth-adapters/"><u>Easy Tutorial: Installing Newest Windows Drivers for USB Bluetooth Adapters</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fixing-connection-problems-resolving-ralink-rt3290-wifi-driver-woes-on-windows-11-8-and-nvda/"><u>Fixing Connection Problems: Resolving Ralink RT3290 WiFi Driver Woes on Windows 11, 8 & Nvda</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-realme-narzo-60-pro-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Realme Narzo 60 Pro 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-hp-officejet-4650-drivers-and-support-for-windows-computers-free-downloads/"><u>Latest HP OfficeJet 4650 Drivers & Support for Windows Computers - Free Downloads</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/maximize-transfer-speeds-with-the-newest-usb-30-ethernet-card-driver-update-for-windows-computers/"><u>Maximize Transfer Speeds with the Newest USB 3.0 Ethernet Card Driver Update for Windows Computers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/steps-to-refresh-the-usb-serial-port-converter-device-driver/"><u>Steps to Refresh the USB Serial Port Converter Device Driver</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ate-gear-premium-lenses-for-vloggers/"><u>Ultimate Gear Premium Lenses for Vloggers</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-nokia-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Nokia FRP Bypass</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unbeatable-prices-for-top-budget-4k-cameras-(1000/"><u>Unbeatable Prices for Top Budget 4K Cameras (<$1,000)</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

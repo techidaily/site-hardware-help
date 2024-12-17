@@ -1,7 +1,7 @@
 ---
 title: "Top 17 Must-Have Cyber Monday Offers: Unbeatable Discounts on Televisions, Audio Gear & More – Exclusive List"
-date: 2024-12-09T20:20:54.463Z
-updated: 2024-12-10T22:07:51.863Z
+date: 2024-12-13T16:10:44.503Z
+updated: 2024-12-17T16:22:20.744Z
 tags:
   - laptops
 categories:
@@ -18,23 +18,19 @@ Got a gamer in your life and don't know what to get them for the holidays? Many 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [![04-bf-cm.png](https://www.zdnet.com/a/img/resize/954e855aae296b0590d40ff6eba4167fd27f3d67/2022/11/29/2911e8eb-1a11-4aa3-8ff7-015c7e854046/04-bf-cm.png?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best Black Friday and Cyber Monday tech deals still available If you missed out on this year's mega sale events, no problem. ZDNET is rounding up the best tech deals still available, right here.  Read now](https://www.zdnet.com/collection/cyber-monday/)
 
 To help you find the best sales and deals, we've rounded up the best Cyber Monday gaming deals still available below. You can keep reading to save big on gaming laptops, components, and accessories. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Latest Cyber Monday gaming deals**
 
 The last time this page received an update, these were the latest Cyber Monday gaming deals worth checking out: 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Gaming accessories**
 
@@ -78,21 +74,17 @@ The last time this page received an update, these were the latest Cyber Monday g
 * [Gigabyte Aorus FV43U monitor for $580 (save $520) at B&H Photo](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1644731-REG%2Fgigabyte%5Faorus%5Ffv43u%5F43%5Fgaming.html)
 * [LG UltraGear 47.5-inch 4K monitor for $929 (save $600) at B&H Photo](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1692618-REG%2Flg%5F48gq900%5Fb%5Faus%5F48%5Fuhd%5F4k%5F3840x2160.html)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Gaming consoles**
 
 * [Xbox Series S 512GB for $250 (save $50) at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmicrosoft-xbox-series-s-512-gb-all-digital-disc-free-gaming-holiday-console-white%2F6510817.p%3FskuId%3D6510817&publisher%5Fslug=zdnet&article%5Fname=48%20best%20cyber%20monday%20gaming%20deals%20still%20available%3A%20console%2C%20pc%2C%20laptop%2C%20and%20game%20sales&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-holiday-gaming-deals-2022%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **VR headsets for gaming**
 
 * [Meta Quest 2 with Resident Evil 4 and Beat Saber for $350 (Save $50) at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmeta-quest-2-resident-evil-4-bundle-with-beat-saber-128gb%2F6522220.p%3FskuId%3D6522220&publisher%5Fslug=zdnet&article%5Fname=48%20best%20cyber%20monday%20gaming%20deals%20still%20available%3A%20console%2C%20pc%2C%20laptop%2C%20and%20game%20sales&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-holiday-gaming-deals-2022%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Best Cyber Monday gaming deals**
 
@@ -132,10 +124,6 @@ Here are some other gaming Cyber Monday deals happening right now at Amazon:
 
 [Razer DeathAdder V2 Pro Wireless for $58 (save $72) $58 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRazer-DeathAdder-Wireless-Gaming-Mouse%2Fdp%2FB08FQMBKQG%3Fref%5F%3DOct%5FDLandingS%5FD%5F9309fac0%5F63%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6d64c9d4-3dd7-44a2-bfd4-820bdd6f894c%7Cdtp&dtb=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Cyber Monday gaming deals at Walmart**
 
 Here are some other gaming Cyber Monday deals happening right now at Walmart: 
@@ -150,6 +138,10 @@ Here are some other gaming Cyber Monday deals happening right now at Walmart:
 
 [Kingston Fury Beast RGB RAM 16GB for $64 (save $46) $64 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FKingston-FURY-Beast-RGB-16GB-KIT-2x8GB-3200MHz-DDR4-Desktop-Memory-KF432C16BBAK2-16-Kit-of-2%2F450574725&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Cyber Monday gaming deals at Best Buy**
 
 Here are some other gaming Cyber Monday deals happening right now at Best Buy: 
@@ -161,10 +153,6 @@ Here are some other gaming Cyber Monday deals happening right now at Best Buy:
 [Razer Blade 14 $2000 (save $600) $2,000 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Frazer-blade-14-14-gaming-laptop-qhd-165hz-amd-ryzen-9-6900hx-nvidia-geforce-rtx-3070-ti-16gb-ram-1tb-ssd-black%2F6499098.p%3FskuId%3D6499098&publisher%5Fslug=zdnet&article%5Fname=48%20best%20cyber%20monday%20gaming%20deals%20still%20available%3A%20console%2C%20pc%2C%20laptop%2C%20and%20game%20sales&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-holiday-gaming-deals-2022%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 [Arcade1Up Marvel Vs Capcom $400 (save $300) $400 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Farcade1up-marvel-vs-capcom-gaming-table%2F6482610.p%3FskuId%3D6482610&publisher%5Fslug=zdnet&article%5Fname=48%20best%20cyber%20monday%20gaming%20deals%20still%20available%3A%20console%2C%20pc%2C%20laptop%2C%20and%20game%20sales&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-holiday-gaming-deals-2022%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Cyber Monday gaming deals at B&H**
 
@@ -178,24 +166,28 @@ Here are some other gaming Cyber Monday deals happening right now at B&H:
 
 [Seagate FireCuda 530 4TB M.2 SSD $560 (save $400) $560 at B&H Photo](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1657984-REG%2Fseagate%5Fzp4000gm3a023%5F4tb%5Ffirecuda%5F530%5Fssd.html)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How did we choose these Cyber Monday gaming deals?
 
 I did my best to choose deals that had at least a 20% discount since gaming laptops and consoles can be quite expensive. I also tried to have a good mix of PC and console gaming deals to appeal to all gamers. And I've made sure to include PC components like CPUs and hard drives for PC gamers looking to build new rigs or update current setups.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When is Black Friday 2022?
 
 This year, Black Friday is on Nov. 25\. And while this is a traditional day for sales and deals at many brick-and-mortar retailers like Walmart and Target, you can find excellent deals online all month long to get a jump on your Christmas list.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When is Cyber Monday 2022?
 
 Cyber Monday 2022 is on Nov. 28\. And while many of the best deals happen day-of, you can also snag great discounts all month long at online retailers like Amazon and Newegg.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the best holiday deals 2022?
@@ -205,6 +197,10 @@ ZDNET scoured holiday sales to find the best deals this year:
 * [The best holiday 2022 deals](https://www.zdnet.com/article/best-early-black-friday-deals-amazon-walmart-best-buy-and-more/)
 
 Our experts split out the best deals by retailer, brand, and category, which you can see below. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Holiday deals by retailer**
 
@@ -221,6 +217,10 @@ Our experts split out the best deals by retailer, brand, and category, which you
 * [The best holiday 2022 Samsung deals](https://www.zdnet.com/article/samsung-best-holiday-deals-2022/)
 * [The best holiday 2022 Dell deals](http://zdnet.com/article/dell-best-holiday-deals-2022/)
 * [The best holiday 2022 HP deals](https://www.zdnet.com/home-and-office/hp-best-holiday-deals-2022/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Holiday deals by category**
 
@@ -294,17 +294,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-hairstyles-for-visual-gurus-for-2024/"><u>[New] Hairstyles for Visual Gurus for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-giggle-engine-photo-assembler/"><u>[Updated] Giggle Engine Photo Assembler</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-20-best-non-copyrighted-pubg-montage-thumbnail/"><u>2024 Approved 20 Best Non Copyrighted PUBG Montage Thumbnail</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-discover-7-premier-android-apps-to-banish-ads/"><u>2024 Approved Discover 7 Premier Android Apps to Banish Ads</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-navigate-through-creating-stellar-educational-video-content-for-online-platforms/"><u>2024 Approved Navigate Through Creating Stellar Educational Video Content for Online Platforms</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722969090287-genomic-selection-can-accelerate-breeding-programs-by-reducing-the-reliance-on-field-trials/"><u>Genomic Selection Can Accelerate Breeding Programs by Reducing the Reliance on Field Trials</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-get-the-newest-version-of-canoscan-lide-120-scanner-driver-downloaded-for-easy-setup/"><u>How to Get the Newest Version of CanoScan LiDE 120 Scanner Driver Downloaded for Easy Setup</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-a-deep-dive-into-youtube-writers-workshop-space/"><u>In 2024, A Deep Dive Into YouTube’ Writers' Workshop Space</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/installing-logitech-unifying-receiver-drivers-for-windows-systems-free-of-charge/"><u>Installing Logitech Unifying Receiver Drivers for Windows Systems Free of Charge</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mpow-bluetooth-driver-installation-and-updates-for-win-10-8-7/"><u>MPOW Bluetooth Driver Installation and Updates for Win 10, 8, 7</u></a></li>
-<li><a href="https://win-able.techidaily.com/solution-found-for-illegal-activity-notifications-within-video-games/"><u>Solution Found for 'Illegal Activity' Notifications Within Video Games</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/top-10-mouse-recorders/"><u>Top 10 Mouse Recorders</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-essential-music-video-watching-apps-for-android-for-2024/"><u>[Updated] Essential Music Video Watching Apps for Android for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-from-sky-to-screen-advanced-methods-in-drone-video-editing-for-2024/"><u>[Updated] From Sky to Screen Advanced Methods in Drone Video Editing for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-revolutionize-your-design-work-with-free-images-from-these-leading-sites/"><u>[Updated] Revolutionize Your Design Work with Free Images From These Leading Sites</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-essential-freefire-hashtags-to-skyrocket-video-views-on-youtube/"><u>2024 Approved Essential FreeFire Hashtags to Skyrocket Video Views on YouTube</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bluetooth-connected-but-no-sound-solved/"><u>Bluetooth Connected But No Sound [SOLVED]</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-instructions-to-download-and-set-up-your-focusrite-scarlett-solo-on-a-windows-computer/"><u>Easy Instructions to Download and Set Up Your Focusrite Scarlett Solo on a Windows Computer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-advice-fixing-and-updating-audio-technica-sound-card-drivers/"><u>Expert Advice: Fixing and Updating Audio Technica Sound Card Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-epson-l3-150-driver-update-for-windows-10-8-and-7-systems/"><u>Get the Latest Epson L3 150 Driver Update for Windows 10, 8 & 7 Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-find-and-install-the-newest-brother-mfc-l2690dw-printer-driver-step-by-step-guide/"><u>How to Find & Install the Newest Brother MFC-L2690DW Printer Driver - Step by Step Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/listen-and-direct-voice-control-without-payment-for-2024/"><u>Listen and Direct Voice Control Without Payment for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/maintaining-performance-with-newest-amd-driver-versions-on-win-1178/"><u>Maintaining Performance with Newest AMD Driver Versions on Win 11/7/8</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-simple-steps-to-download-the-latest-wacom-intuos-pro-driver-for-windows-10/"><u>Quick and Simple Steps to Download the Latest Wacom Intuos Pro Driver for Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-windows-update-issue-fixing-error-code-0x802e401c-on-windows-10-and-11/"><u>Resolving the Windows Update Issue: Fixing Error Code 0X802e401C on Windows 10 & 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-quickly-update-to-intel-iris-plus-graphics-driver-v640/"><u>Step-by-Step Tutorial: Quickly Update to Intel Iris + Graphics Driver V640!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/talent-release-form-for-filming-and-video-to-free-download-for-2024/"><u>Talent Release Form for Filming and Video to Free Download for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-restoring-sound-to-netflix-viewing/"><u>Troubleshooting Tips for Restoring Sound to Netflix Viewing</u></a></li>
 </ul></div>
 

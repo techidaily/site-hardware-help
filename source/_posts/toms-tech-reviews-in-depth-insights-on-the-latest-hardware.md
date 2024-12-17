@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Reviews: In-Depth Insights on the Latest Hardware"
-date: 2024-08-19T10:31:15.016Z
-updated: 2024-08-20T10:31:15.016Z
+date: 2024-12-12T16:22:29.556Z
+updated: 2024-12-17T16:02:21.271Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,19 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-full-length-guide-to-transforming-gif-images-into-fun-stickers-on-popular-messengers-for-2024/"><u>[Updated] Full-Length Guide to Transforming GIF Images Into Fun Stickers on Popular Messengers for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/dells-new-contenders-the-impressive-fusion-of-performance-and-style-in-the-xps-16-9640-and-xps-14-9440-plus-a-sneak-peek-at-their-unique-characteristics/"><u>Dell's New Contenders: The Impressive Fusion of Performance & Style in the XPS 16 (9640) & XPS 14 (9440), Plus a Sneak Peek at Their Unique Characteristics</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-advice-for-acquiring-and-keeping-your-epson-et-3760-driver-updated-on-windows-machines/"><u>Expert Advice for Acquiring and Keeping Your Epson ET-3760 Driver Updated on Windows Machines</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722978324816-get-the-newest-intel-wi-fi-6-ax200-drivers-compatible-with-windows-11-and-10-free-update-now/"><u>Get the Newest Intel Wi-Fi 6 AX200 Drivers Compatible with Windows 11 & 10 - Free Update Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/guide-to-updating-windows-drivers-offline-for-seamless-operations/"><u>Guide to Updating Windows Drivers Offline for Seamless Operations</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/guide-enhancing-your-windows-11-experience-with-the-newest-intel-iris-gpu-drivers/"><u>Guide: Enhancing Your Windows 11 Experience with the Newest Intel Iris GPU Drivers</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/high-quality-sadie-robertson-wallpaper-and-image-collection-premium-digital-art-by-yl-computing/"><u>High-Quality Sadie Robertson Wallpaper & Image Collection - Premium Digital Art by YL Computing</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-x-studio-audio-pc-app/"><u>In 2024, X-Studio Audio PC App</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/lock-your-oppo-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Oppo Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/spotlight-on-11-top-audio-capture-equipments-for-2024/"><u>Spotlight on 11 Top Audio Capture Equipments for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlocking-the-full-potential-of-your-logitech-mx-master-step-by-step-guide/"><u>Unlocking the Full Potential of Your Logitech MX Master: Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-best.techidaily.com/upgrade-your-livestreams-with-manycam-top-virtual-camcorder-app-for-seamless-online-broadcasting/"><u>Upgrade Your Livestreams with ManyCam: Top Virtual Camcorder App for Seamless Online Broadcasting</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->

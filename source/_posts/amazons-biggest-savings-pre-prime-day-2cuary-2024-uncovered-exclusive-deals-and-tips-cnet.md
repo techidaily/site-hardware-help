@@ -1,7 +1,7 @@
 ---
 title: Amazon's Biggest Savings Pre-Prime Day 2Cuary 2024 Uncovered – Exclusive Deals & Tips | CNET
-date: 2024-12-05T00:06:52.244Z
-updated: 2024-12-11T01:22:40.113Z
+date: 2024-12-15T16:14:03.495Z
+updated: 2024-12-17T16:15:38.808Z
 tags:
   - laptops
 categories:
@@ -100,7 +100,7 @@ The Alienware x16 R2 is built with an Intel Core Ultra 9 processor, Nvidia GeFor
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Falienware-x16-r2-240hz-gaming-laptop-intel-core-ultra-9-processor-nvidia-geforce-rtx-4070-32gb-memory-1-tb-ssd-lunar-silver%2F6576921.p%3FskuId%3D6576921&publisher_slug=itechdaily19598&exclusive=1) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## More October Prime Day 2024 gaming deals
@@ -118,10 +118,6 @@ ZDNET
 * [Samsung T9 4TB portable SSD for $300 (save $250)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Portable-Professionals-MU-PG4T0B-AM%2Fdp%2FB0CHFSZX9W%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C312a3512-201d-41d6-abd2-1a191ffb432f%7Cdtp&dtb=1): The Samsung T9 has an integrated thermal guard to help dissipate waste heat and protect delicate electronics from damage. It also works with Samsung's Magician Software for automatic firmware updates, data encryption, and SSD health monitoring.
 * [MSI Claw 512GB for $642 (save $108)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMSI-Claw-Gaming-Handheld-Thunderbolt%2Fdp%2FB0CXG3DBQV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C312a3512-201d-41d6-abd2-1a191ffb432f%7Cdtp&dtb=1): Built with an Intel Core Ultra 7 CPU, 16GB of RAM, a 512GB SSD, and a 7-inch display, the MSI Claw rivals the Steam Deck handheld gaming PC in power and performance.
 * [Amazon eero Pro 6E mesh Wi-Fi router 3-pack for $350 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-eero-Wi-Fi-router-newest%2Fdp%2FB091G64GVK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C312a3512-201d-41d6-abd2-1a191ffb432f%7Cdtp&dtb=1): This mesh Wi-Fi system is rated for up to 2,000 square feet of coverage and supports both wireless and hardwired Ethernet connectivity at 1.6 Gbps and 2.5Gbps, respectively.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## October Prime Day PlayStation 5 deals
 
@@ -178,7 +174,7 @@ Nintendo/ZDNET
 * [Nintendo Switch Joy-Con in neon purple and neon orange for $66 (save $14 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FNintendo-Switch-Joy-Con-Pair-Neon-Purple-and-Neon-Orange%2F921709016%3FclassType%3DVARIANT%26athbdg%3DL1600&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Grab an extra Joy-Con controller for your Nintendo Switch to keep gaming while your other controller charges.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day gaming PC deals
@@ -216,7 +212,7 @@ Samsung/ZDNET
 * [Acer Predator X27U for $680 (save $320 at B&H Photo)](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1772478-REG%2Facer%5Fum%5Fhxxaa%5F001%5Fpredator%5Fx27u%5F27%5Fgaming.html%2Fspecs): A 27-inch gaming monitor with a 240Hz refresh rate, 1440p resolution, a 0.03ms response time, and support for AMD FreeSync Premium Pro VRR.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day PC gaming accessories deals
@@ -227,7 +223,7 @@ Samsung/ZDNET
 * [Roccat Vulcan II Mini Air for $64 (save $116 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Froccat-vulcan-ii-mini-air-65-wireless-optical-mechanical-gaming-keyboard-with-rgb-illumination-black%2F6547284.p%3FskuId%3D6547284&publisher%5Fslug=zdnet&article%5Fname=best%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-06-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A mini, tenkey-less mechanical keyboard with optical switches, RGB backlighting, and USB-C charging.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day graphics card deals
@@ -243,6 +239,10 @@ Samsung/ZDNET
 ### When is Amazon Prime Day 2024?
 
 Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, will run through October 8 and 9\. Some brands may offer discounts and coupons ahead of the official sale. And other retailers like [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2F&publisher_slug=itechdaily19598&exclusive=1) and [Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fdeals%3FathAsset%3DeyJhdGhjcGlkIjoiMmU5ZjFjZmMtOTVhZC00NDlhLWEyNzgtZTU3ZTZlOTFjZmEwIn0%3D%26athena%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp) are running their own, rival sales at the same time. Which is great news for anyone who likes to compare discounts and prices to make sure they're getting the absolute best deal possible. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Are games, consoles, and accessories really cheaper on Prime Day?
 
@@ -317,22 +317,24 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/network-fix-windows-810-printer-missing-issue/"><u>[Network Fix] Windows 8/10 Printer Missing Issue</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-accelerated-cinematography-best-5-diy-hacks-for-quick-learning/"><u>2024 Approved Accelerated Cinematography Best 5 DIY Hacks for Quick Learning</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-list-of-apple-watches-eligible-for-upgrade-to-watchos-11-understanding-compatibility-and-exclusions/"><u>Comprehensive List of Apple Watches Eligible for Upgrade to WatchOS 11: Understanding Compatibility and Exclusions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/creative-writers-dream-5-cutting-edge-ai-tools-to-enhance-prose/"><u>Creative Writer's Dream: 5 Cutting-Edge AI Tools to Enhance Prose</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/enhance-visual-clarity-with-updated-vga-drivers-free-download-inside/"><u>Enhance Visual Clarity with Updated VGA Drivers - Free Download Inside</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/fast-track-to-freshly-installed-canon-mp560-driver-version/"><u>Fast Track to Freshly Installed Canon MP560 Driver Version</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-csr-bluetooth-drivers-here-for-instant-download/"><u>Get Your CSR Bluetooth Drivers Here for Instant Download</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/gopro-hero4-session-vs-hero5-session/"><u>GoPro Hero4 Session Vs Hero5 Session</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-easily-linking-your-airpods-with-macbook-air/"><u>Guide: Easily Linking Your AirPods with MacBook Air</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-officejet-pro-6970-updated-drivers-for-windows-computers-how-to-download-and-install-them-easily/"><u>HP OfficeJet Pro 6970 - Updated Drivers for Windows Computers: How to Download and Install Them Easily</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Oppo A78 5G? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/instant-access-to-new-drivers-for-logitech-mk710-webcam-download-now/"><u>Instant Access to New Drivers for Logitech MK710 Webcam – Download Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/intel-iris-graphics-540-driver-update-process-fast-and-hassle-free-guide-for-better-performance/"><u>Intel Iris Graphics 540 Driver Update Process - Fast and Hassle-Free Guide for Better Performance</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-resolving-windows-error-code-0x0000004e/"><u>Step-by-Step: Resolving Windows' Error Code 0X0000004E</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/understanding-video-duration-20mb-example-for-2024/"><u>Understanding Video Duration 20MB Example for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/upgrade-to-latest-dell-g3-graphics-card-drivers-for-optimal-gaming-results/"><u>Upgrade to Latest Dell G3 Graphics Card Drivers for Optimal Gaming Results</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/walkthrough-setting-up-arduino-board-controls-in-windows-using-the-right-drivers/"><u>Walkthrough: Setting up Arduino Board Controls in Windows Using the Right Drivers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-communicating-confidently-on-google-meet/"><u>[New] 2024 Approved Communicating Confidently on Google Meet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-cutting-away-the-video-to-a-pure-still-picture-with-windows-photos-for-2024/"><u>[Updated] Cutting Away the Video to a Pure Still Picture with Windows Photos for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-bcm207e0-usb-drivers-fast-compatible-with-all-windows-versions/"><u>Download BCM207e0 USB Drivers Fast – Compatible with All Windows Versions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/downloading-and-updating-drivers-for-your-epson-wf-3720-enhance-performance-with-the-latest-version/"><u>Downloading & Updating Drivers for Your Epson WF-3720: Enhance Performance with the Latest Version!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-nubia-z50s-pro-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Nubia Z50S Pro FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://blog-min.techidaily.com/effortless-guide-free-techniques-for-editing-and-shortening-youtube-videos/"><u>Effortless Guide: Free Techniques for Editing and Shortening YouTube Videos</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-installation-hp-envy-nv-5055-printerscanner-drivers-download-now/"><u>Effortless Installation: HP ENVY Nv 5055 Printer/Scanner Drivers – Download Now</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expertise-in-mobile-lut-apps-for-2024/"><u>Expertise in Mobile LUT Apps for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-honor-x7b-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Honor X7b Phones with/without a PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-s24-ultra-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy S24 Ultra to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-techniques-for-setting-up-your-wd-ses-external-drive-with-updated-usb-drivers/"><u>Latest Techniques for Setting Up Your WD SES External Drive with Updated USB Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/master-the-art-of-lenovo-thinkpad-updates-trusted-hacker-proof-driver-download-guide/"><u>Master the Art of Lenovo ThinkPad Updates: Trusted, Hacker-Proof Driver Download Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-download-guide-realtek-alc892a-sound-card-drivers-for-windows-10/"><u>Quick Download Guide: RealTek ALC892A Sound Card Drivers for Windows 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-fix-how-to-update-acer-audio-drivers-with-ease/"><u>Quick Fix: How to Update Acer Audio Drivers with Ease</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsung-unboxed-preordering-process-for-galaxy-z-fold-tab-s9-and-watch-6-at-rock-bottom-prices/"><u>Samsung Unboxed: Preordering Process for Galaxy Z Fold, Tab S9 & Watch #6 at Rock-Bottom Prices!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-samsung-galaxy-s23-fe-by-drfone-android/"><u>Three Ways to Sim Unlock Samsung Galaxy S23 FE</u></a></li>
+<li><a href="https://video-capture.techidaily.com/thriving-in-digital-discussions-essential-strategies-for-proficient-zoom-chats/"><u>Thriving in Digital Discussions Essential Strategies for Proficient ZOOM Chats</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-destinations-for-purchasing-the-new-ryzen-processors-including-9700x-and-9600x/"><u>Top Destinations for Purchasing the New Ryzen Processors, Including 9700X & 9600X</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-intel-hd-graphics-4400-drivers-now/"><u>Update Your Intel HD Graphics 4400 Drivers Now!</u></a></li>
 </ul></div>
 

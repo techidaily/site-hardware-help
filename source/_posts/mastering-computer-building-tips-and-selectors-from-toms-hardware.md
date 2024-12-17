@@ -1,7 +1,7 @@
 ---
 title: Mastering Computer Building - Tips and Selectors From Tom's Hardware
-date: 2024-08-19T10:34:30.801Z
-updated: 2024-08-20T10:34:30.801Z
+date: 2024-12-14T16:34:02.608Z
+updated: 2024-12-17T16:28:05.248Z
 tags:
   - monitor
 categories:
@@ -77,17 +77,29 @@ I’ve reviewed some small portable monitors here at Tom’s Hardware, but this 
 
 ![Eyoyo EM105 10.5-inch](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
- (Image credit: Tom's Hardware)
-
-![Eyoyo EM105 10.5-inch](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
- (Image credit: Tom's Hardware)
-
-![Eyoyo EM105 10.5-inch](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
 ![Eyoyo EM105 10.5-inch](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+ (Image credit: Tom's Hardware)
+
+![Eyoyo EM105 10.5-inch](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+ (Image credit: Tom's Hardware)
+
+![Eyoyo EM105 10.5-inch](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -99,25 +111,20 @@ I’ve reviewed some small portable monitors here at Tom’s Hardware, but this 
 
  WIthout its stand, the EM105 measures 9.17 x 6.5 x 0.31 inches and weighs 0.8 pounds. For comparison, the 15.6-inch InnoCN 151AF, which is one of the[best portable monitors](https://tools.techidaily.com) , measures 14.1 x 9.0 x 0.3 inches and weighs 1.6 pounds.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## On-Screen Display on the Eyoyo EM105 Portable Monitor
 
  You invoke the OSD on the EM105 by pressing in on the three-way rocker switch on the left side of the chassis. Up pops a basic user interface (shared with many budget-oriented portable monitors), where flicking the rocker switch upward navigates up through the OSD and vice versa. You select a menu item by pushing in on the rocker, and then up/down to adjust settings (like brightness and contrast). There’s a dedicated back button to return to the previous menu screen.
 
 ![Eyoyo EM105 10.5-inch](https://cdn.mos.cms.futurecdn.net/gFShqYRhMy9wRrGY5SrCV-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  This no-frills OSD has the usual controls for color temperature, enabling the low blue light mode and adjusting the position of the OSD. I also discovered that the monitor supports AMD FreeSync (which was not documented by the Eyoyo), and that support was confirmed via AMD’s Adrenalin driver software.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Image Quality and Sound on the Eyoyo EM105 Portable Monitor
 
  The EM105 measures 10.5 inches across and has a 3:2 aspect ratio. That results in an[IPS panel](https://tools.techidaily.com) with a resolution of 1920 x 1280, versus the more typical 1920 x 1080 in this segment. However, some people will likely appreciate the extra vertical real estate. It also bucks the trend with a glossy screen coating, which we usually see covering OLED panels.
@@ -127,8 +134,9 @@ I’ve reviewed some small portable monitors here at Tom’s Hardware, but this 
 ![Eyoyo EM105 10.5-inch](https://cdn.mos.cms.futurecdn.net/TH3t3aoSdwsLALA4LxfZdn-320-80.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  In everyday tasks, the EM105 was perfectly usable as a secondary monitor. Its size means you’ll need to tinker in Windows to make text easier to read. My “old” eyes needed assistance working with[Microsoft](https://tools.techidaily.com) Word and Excel on the small monitor.
@@ -137,9 +145,6 @@ I’ve reviewed some small portable monitors here at Tom’s Hardware, but this 
 
  I was shocked to find that the EM105 includes a set of stereo speakers, and even more surprised that they sounded pretty good. Of course, they aren’t powerhouses regarding output, but music and speech sounded good through the speakers, even with the volume cranked to about 75 percent. The speakers are lacking in bass, but at this price point, the speakers are a welcome addition to the EM105.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bottom Line
 
  The Eyoyo EM105 portable monitor offers a convincing combination of small size and light weight in a relatively-robust aluminum chassis. It has both USB-C and HDMI connectivity, allowing it to connect with various types of electronics, from PCs to Macs to smartphones to game consoles to Raspberry Pi boards. The EM105 even includes a set of speakers that sounds pretty good, which we can’t often say about portable monitors.
@@ -160,8 +165,6 @@ I’ve reviewed some small portable monitors here at Tom’s Hardware, but this 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -169,4 +172,16 @@ I’ve reviewed some small portable monitors here at Tom’s Hardware, but this 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-polishing-up-your-past-looking-back-in-style/"><u>[Updated] Polishing Up Your Past Looking Back in Style</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-prime-methods-to-speed-up-or-slow-down-songs-on-spotify/"><u>[Updated] Prime Methods to Speed Up or Slow Down Songs on Spotify</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-resolve-the-problem-of-your-usb-device-being-unseen-by-windows-11-easy-solutions-and-tips/"><u>How to Resolve the Problem of Your USB Device Being Unseen by Windows 11 - Easy Solutions and Tips!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamline-your-footage-iphones-shortening-methods/"><u>In 2024, Streamline Your Footage IPhone's Shortening Methods</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/kyocera-printing-solutions-downloading-the-right-windows-drivers/"><u>KYOCERA Printing Solutions: Downloading the Right Windows Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-easy-amd-vega-graphics-driver-downloads-and-updates-perfect-for-gaming/"><u>Quick and Easy AMD Vega Graphics Driver Downloads & Updates – Perfect for Gaming</u></a></li>
+<li><a href="https://win-docs.techidaily.com/scambiare-immagini-da-iphone-al-tuo-pc-senza-cavo-metodi-rapidi-ed-efficaci/"><u>Scambiare Immagini Da iPhone Al Tuo PC Senza Cavo: Metodi Rapidi Ed Efficaci</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-list-of-versatile-swf-players-for-all-your-windows-macos-android-and-ios-systems/"><u>Ultimate List of Versatile SWF Players for All Your Windows, MacOS, Android and iOS Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-intel-nuc-drives-with-ease-and-enhance-your-computers-speed/"><u>Update Your Intel NUC Drives with Ease and Enhance Your Computer's Speed!</u></a></li>
+</ul></div>
 

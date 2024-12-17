@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Hub: Expert Insights on Hardware"
-date: 2024-08-19T10:30:35.504Z
-updated: 2024-08-20T10:30:35.504Z
+date: 2024-12-13T16:05:23.439Z
+updated: 2024-12-17T16:15:10.827Z
 tags:
   - motherboards
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/fbaa6ca73b5c5357b713260d15cd44fa4ef0636a4
 The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compression Attached Memory Module) is starting to take off. It allows for faster speeds and for smaller modules to fit in tighter spaces, allowing thin laptops to be more repairable or upgradable. Recently, many of the biggest PC vendors have soldered RAM to the motherboard to save space in laptops rather than using SO-DIMMs, so CAMM2 can help there.
 
  But this new memory is popping up in desktops, too, with its own unique benefits. Here's what you need to know about CAMM2 and LP CAMM 2:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Where did CAMM2 come from?
 
@@ -33,9 +37,17 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
 
 ![CAMM2](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![CAMM2](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -48,15 +60,13 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
  The modules might help enable new form factors, too. At Computex,[Adata showed off its Nia handheld](https://tools.techidaily.com) , which uses LPCAMM2 using LPDDR5X.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How much memory fits on a CAMM2 module?
 
 Between 8GB and 128GB of memory fits on a single module.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## Is LPCAMM2 faster than existing SO-DIMMs and DIMMs?
 
  Yes. As of this writing,[Crucial is listing](https://www.crucial.com/memory/ddr5/ct64g75c2lp5xg) 32GB and 64GB LPDDR5X-7200 LPCAMM2 modules. At Computex, TeamGroup said its 16GB, 32GB, and 64GB memory will go up to 9600 MT/s. Samsung's[page on LPCAMM2](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fgo.redirectingat.com%2F%3Fid%3D92X1584492%26xcust%3Dtomshardware%255Fus%255F4400621493195954499%26xs%3D1%26url%3Dhttps%253A%252F%252Fsemiconductor.samsung.com%252Femea%252Fdram%252Fmodule%252Flpcamm2%252F%26sref%3Dhttps%253A%252F%252Fwww.tomshardware.com%252Fpc-components%252Fmotherboards%252Fwhat-is-camm2) lists an "extraordinary data transfer rate of 8,533Mbps," the same number memory company[Geil showed at Computex](https://www.techpowerup.com/323173/geil-presents-a-wide-range-of-memories-at-computex-camm2-lpcamm2-alongside-many-ddr5s) .
@@ -66,8 +76,9 @@ Between 8GB and 128GB of memory fits on a single module.
  We haven't seen any DDR5 CAMM2 products on the market just yet, so we don't know if those speeds will go even higher.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What are alternatives to CAMM2?
 
  In theory, there's nothing stopping vendors from using standard DIMMs or SO-DIMMs, or continuing to solder memory to the motherboard. Staying with the status quo is an alternative, at least for now.
@@ -82,8 +93,6 @@ Between 8GB and 128GB of memory fits on a single module.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -91,4 +100,20 @@ Between 8GB and 128GB of memory fits on a single module.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-is-picku-the-best-photo-editor-for-android-our-in-depth-review/"><u>[New] 2024 Approved Is PickU The Best Photo Editor for Android? Our In-Depth Review</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-handheld-happiness-advanced-mounting-solutions/"><u>[New] Handheld Happiness Advanced Mounting Solutions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-is-inshot-leading-video-editing-an-examination-review/"><u>[New] Is InShot Leading Video Editing? An Examination Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-intel-uhd-graphics-software-for-windows-11-systems/"><u>Get the Newest Intel UHD Graphics Software for Windows 11 Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-quickly-overcome-fortnite-launching-challenges/"><u>How to Quickly Overcome Fortnite Launching Challenges</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-honor-80-pro-straight-screen-edition-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Honor 80 Pro Straight Screen Edition</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-capturing-the-world-from-above-in-stunning-hd-mi-drone-deep-dive/"><u>In 2024, Capturing the World From Above in Stunning HD - Mi Drone Deep Dive</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-review-the-nintendo-switch-sets-new-standards-for-on-the-go-gamers/"><u>In-Depth Review: The Nintendo Switch Sets New Standards for On-the-Go Gamers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-installation-of-microsoft-ergo-keyboard-easily-driver-downloads-available-now/"><u>Quick Installation of Microsoft Ergo Keyboard Easily - Driver Downloads Available Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-fresh-driver-downloads-and-updates-for-hp-officejet-ex-product-4655/"><u>The Ultimate Guide: Fresh Driver Downloads & Updates for HP OfficeJet eX (Product 4655)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-premier-apple-macintosh-computers-gadgetnews/"><u>Ultimate Guide: Premier Apple Macintosh Computers | GadgetNews</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unleash-your-wacom-intuos-potential-secure-reliable-drivers-on-windows-for-a-fully-operational-drawing-experience/"><u>Unleash Your Wacom Intuos Potential: Secure Reliable Drivers on Windows for a Fully-Operational Drawing Experience</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-swapping-sounds-in-media-files-an-in-depth-tutorial-for-seamless-edits/"><u>Updated 2024 Approved Swapping Sounds in Media Files An In-Depth Tutorial for Seamless Edits</u></a></li>
+</ul></div>
 

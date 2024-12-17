@@ -1,7 +1,7 @@
 ---
 title: "Introducing Sapphire's Budget-Friendly AM5 Mini ITX Motherboard: Enhanced Connectivity via PCIe Gen 4 at Lower Prices in China"
-date: 2024-08-19T10:30:17.504Z
-updated: 2024-08-20T10:30:17.504Z
+date: 2024-12-14T16:01:11.413Z
+updated: 2024-12-17T16:23:45.956Z
 tags:
   - motherboards
 categories:
@@ -45,6 +45,10 @@ Maxsun brought many unique motherboards to[Computex](https://tools.techidaily.co
 
  Typical of mini-ITX motherboards, there are only two memory slots. The ones on the MS-Challenger B760BKB D5 are[DDR5](https://tools.techidaily.com) slots, so you can have up to 96GB of memory and more when 64GB DDR5 memory modules are available. Speed-wise, these should be up to DDR5-8000, assuming your processor can handle it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -63,8 +67,6 @@ Maxsun brought many unique motherboards to[Computex](https://tools.techidaily.co
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -72,8 +74,23 @@ Maxsun brought many unique motherboards to[Computex](https://tools.techidaily.co
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-achieving-financial-gains-via-snapchat-for-2024/"><u>[Updated] Achieving Financial Gains via Snapchat for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-innovative-ways-to-capture-authenticity-in-customer-reviews-for-2024/"><u>[Updated] Innovative Ways to Capture Authenticity in Customer Reviews for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-keep-watching-youtube-in-the-background-with-ease/"><u>[Updated] Keep Watching YouTube in the Background with Ease</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-add-fade-inout-premiere-pro/"><u>2024 Approved Add Fade In/Out Premiere Pro</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/achieve-optimal-performance-simple-guide-to-installing-amd-radeon-hd-3450-graphics-card-drivers/"><u>Achieve Optimal Performance: Simple Guide to Installing AMD Radeon HD 3450 Graphics Card Drivers</u></a></li>
+<li><a href="https://win-lab.techidaily.com/discover-how-to-navigate-to-accessibility-options-on-your-device-with-yl-computing/"><u>Discover How to Navigate to Accessibility Options on Your Device with YL Computing</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ensure-smooth-performance-with-newly-released-realtek-drivers-for-windows-11-download-here/"><u>Ensure Smooth Performance with Newly Released Realtek Drivers for Windows 11 – Download Here!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-resolving-silent-modems-on-toshiba-laptops/"><u>Expert Advice: Resolving Silent Modems on Toshiba Laptops</u></a></li>
+<li><a href="https://extra-information.techidaily.com/expert-tips-maximizing-your-win11-conference-capabilities/"><u>Expert Tips Maximizing Your Win11 Conference Capabilities</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-or-repair-hp-screen-drivers-in-windows-11-8-and-7/"><u>How to Update or Repair HP Screen Drivers in Windows 11, 8 & 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-officejet-pro-8740-printer-drivers-for-windows-11-10-and-8-free-download/"><u>HP OfficeJet Pro 8740 Printer Drivers for Windows 11, 10 & 8 - Free Download</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-best-ps5-and-xbox-gaming-monitors/"><u>In 2024, Unveiling the Best PS5 & Xbox Gaming Monitors</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-to-retrieve-unseen-razer-devices-on-windows-11/"><u>Methods to Retrieve Unseen Razer Devices on Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/new-patch-released-basic-printer-and-scanner-integration-with-windows-11-os/"><u>New Patch Released: Basic Printer and Scanner Integration with Windows 11 OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-simple-installation-of-epson-printer-drivers-on-windows/"><u>Quick and Simple Installation of Epson Printer Drivers on Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toshiba-windows-compatible-driver-download-for-optimal-printing-performance/"><u>Toshiba Windows Compatible Driver Download for Optimal Printing Performance</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->

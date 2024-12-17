@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Seasonal Bargains: Top Discounts on iPads, Televisions, Computers & Beyond Exclusive"
-date: 2024-12-08T21:44:03.239Z
-updated: 2024-12-11T03:58:27.717Z
+date: 2024-12-12T16:12:40.416Z
+updated: 2024-12-17T16:11:48.290Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ This list will be updated throughout the month, so check back to find the latest
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best holiday deals: ZDNET experts' top 20 picks
@@ -55,10 +55,6 @@ This list will be updated throughout the month, so check back to find the latest
 19. [HP Victus 15L gaming desktop](https://www.awin1.com/cread.php?awinmid=7168&awinaffid=423585&clickref=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&ued=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fvictus-by-hp-15l-gaming-desktop-tg02-0346st-49n24av-1): $480 (save $400 at HP)
 20. [Roku Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09T4VZDYV%2Fref%3Dcm%5Fgf%5Fadbo%5Fd%5Fp0%5Fe0%5Fqd0%5Ffu24jf571EvEqYFicc8R%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7ea76836-0ff5-46ef-b463-b0ad26e8b536%7Cdtp&dtb=1): $90 (save $10 at Amazon)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best holiday deals under $25
 
 Maria Diaz/ZDNET
@@ -69,6 +65,10 @@ Maria Diaz/ZDNET
 * [INIU Portable Charger](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FINIU-High-Speed-Flashlight-Powerbank-Compatible%2Fdp%2FB07CZDXDG8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7ea76836-0ff5-46ef-b463-b0ad26e8b536%7Cdtp&dtb=1): $18 (save $12 at Amazon)
 * [Kasa Smart Plug Ultra Mini (2 pack)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FKasa-Smart-Required-Certified-EP10P2%2Fdp%2FB091FXQQMQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7ea76836-0ff5-46ef-b463-b0ad26e8b536%7Cdtp&dtb=1): $12 (save $8 at Amazon)
 * [Windows 11 Pro](https://www.stacksocial.com/sales/microsoft-windows-11-pro?utm%5Fsource%3Dzdnet.com%26utm%5Fmedium%3Dreferral%26utm%5Fcampaign%3Dmicrosoft-windows-11-pro%26utm%5Fterm%3Dscsf-572750%26utm%5Fcontent%3Da0x1P000004Im9wQAC%26scsonar%3D1%26aid%3Da-ceempx7z&sa=D&source=docs&ust=1686856045303167&usg=AOvVaw3GdVuYpgozg%5FgfSi8QlrTM): $25 (save $175 at Stack Social)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best holiday deals under $50
 
@@ -93,7 +93,7 @@ June Wan/ZDNET
 * [Canon Ivy 2 Mini Photo Printer](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BGM5XPQZ%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7ea76836-0ff5-46ef-b463-b0ad26e8b536%7Cdtp&dtb=1): $69 (save $30 at Amazon)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best holiday deals under $200
@@ -104,6 +104,10 @@ Maria Diaz/ZDNET
 * [Samsung T9 portable SSD 2TB](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Portable-Professionals-MU-PG2T0B-AM%2Fdp%2FB0CHFS9K14%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7ea76836-0ff5-46ef-b463-b0ad26e8b536%7Cdtp&dtb=1): $180 (save $60 at Amazon)
 * [Bose Soundbar](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBose-Speaker-Soundbar-Bluetooth-connectivity%2Fdp%2FB088KRPCQJ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7ea76836-0ff5-46ef-b463-b0ad26e8b536%7Cdtp&dtb=1): $199 (save $80 at Amazon)
 * [Bose SoundLink Flex Bluetooth Speaker](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB099TJGJ91%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7ea76836-0ff5-46ef-b463-b0ad26e8b536%7Cdtp&dtb=1): $119 (save $30 at Amazon)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best holiday deals under $500
 
@@ -149,6 +153,10 @@ Beth Mauder/ZDNET
 * [Shark IQ Robot Vacuum](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FShark-IQ-Robot-Self-Empty-XL-Vacuum-with-Self-Empty-Base-Home-Mapping-RV1002AE-New%2F875128326&subId1=zd-__COM_CLICK_ID__-dtp): $249 (save $351 at Walmart)
 * [iRobot Roomba 694 robot vacuum](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FiRobot-Vacuum-Wi-Fi-Connectivity-Carpets-Self-Charging%2Fdp%2FB08SP5GYJP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7ea76836-0ff5-46ef-b463-b0ad26e8b536%7Cdtp&dtb=1): $159 (save $116 at Amazon)
 * [Shark AI Ultra Self-Empty Robot Vacuum](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FShark-AI-Ultra-Self-Empty-Robot-Vacuum-Bagless-60-Day-Capacity-Base-Precision-Home-Mapping-Perfect-for-Pet-Hair-Wi-Fi-AV2511AE%2F1883965277&subId1=zd-__COM_CLICK_ID__-dtp): $298 (save $301 at Walmart)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best holiday TV deals
 
@@ -200,7 +208,7 @@ Jason Hiner/ZDNET
 * [Samsung Galaxy S23 FE 256GB](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Unlocked-Smartphone-Processor-Graphite%2Fdp%2FB0CD8NF62Z%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7ea76836-0ff5-46ef-b463-b0ad26e8b536%7Cdtp&dtb=1): $560 (save $100 at Amazon)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best holiday laptop deals
@@ -225,19 +233,11 @@ Maria Diaz/ZDNET
 * [Samsung Galaxy Tab A8](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-galaxy-tab-a8-10-5-64gb-wi-fi-gray%2F6492905.p%3FskuId%3D6492905&publisher_slug=itechdaily19598&exclusive=1): $200 (save $80 at Best Buy)
 * [Samsung Galaxy Tab S6 Lite](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Android-Lasting-Included-Speakers%2Fdp%2FB09WYWJ46K%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7ea76836-0ff5-46ef-b463-b0ad26e8b536%7Cdtp&dtb=1): $200 (save $150 at Amazon)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How did we choose these holiday deals?
 
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the best holiday deals?
 
@@ -307,22 +307,16 @@ ZDNET's experts have been searching for holiday deals across sites like Amazon, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-ten-ultimate-screen-recording-tools-for-mac-computers-for-2024/"><u>[New] Ten Ultimate Screen Recording Tools for Mac Computers for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-unlocking-the-power-of-memes-a-guide-to-creating-funny-videos/"><u>[New] Unlocking the Power of Memes A Guide to Creating Funny Videos</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-efficient-mp4-conversion-software-facebook-targeted/"><u>[Updated] 2024 Approved Efficient MP4 Conversion Software (Facebook Targeted)</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-infographic-guide-effective-video-promotion-tools-for-2024/"><u>[Updated] Infographic Guide Effective Video Promotion Tools for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/acer-predator-xb261hd-monitor-driver-downloads-fast-and-simple-instructions/"><u>Acer Predator XB2^61HD Monitor Driver Downloads: Fast and Simple Instructions</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/discover-the-best-free-dvd-player-apps-for-windows-1nx-a-comprehensive-guide-and-download-options/"><u>Discover the Best Free DVD Player Apps for Windows 1nX: A Comprehensive Guide and Download Options.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-upgrade-guide-enhance-gaming-with-geforce-rtx-3060-ti-drivers-for-windows/"><u>Download & Upgrade Guide: Enhance Gaming with GeForce RTX 3060 Ti Drivers for Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effective-driver-updates-and-fixes-for-asus-pce-ac56-in-modern-windows-environments-windows-1187/"><u>Effective Driver Updates and Fixes for ASUS PCE-AC56 in Modern Windows Environments - Windows 11/8/7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/find-and-install-official-acer-monitor-drivers-step-by-step-tutorial/"><u>Find and Install Official Acer Monitor Drivers – Step by Step Tutorial</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/finding-and-installing-reliable-iphones-drivers-for-seamless-performance-on-windows-11-machines/"><u>Finding & Installing Reliable iPhones Drivers for Seamless Performance on Windows 11 Machines</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-upgrade-to-latest-amd-radeon-hd-drivers-on-windows-8-systems/"><u>Free Upgrade to Latest AMD Radeon HD Drivers on Windows 8 Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-ensure-smooth-operation-amd-rx-560-drivers-tweaked-for-windows-11-10-8-and-7/"><u>How to Ensure Smooth Operation: AMD RX 560 Drivers Tweaked for Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-vivo-y17s-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Vivo Y17s Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-sonic-wonders-on-iphone/"><u>In 2024, Exploring Sonic Wonders on iPhone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-through-windows-1110-wi-fi-updates-a-comprehensive-tutorial-on-installing-the-newest-drivers/"><u>Navigating Through Windows 11/10 Wi-Fi Updates: A Comprehensive Tutorial on Installing the Newest Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/obtain-your-brother-mfc-nw-cw-drivers-secure-download-now/"><u>Obtain Your Brother MFC-Nw CW Drivers - Secure Download Now</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/revved-up-for-another-round-dive-into-our-in-depth-fortnite-battle-royale-season-reveal/"><u>Revved Up for Another Round: Dive Into Our In-Depth Fortnite Battle Royale Season Reveal</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-art-of-visual-storytelling-made-simple-with-windows-10s-tools/"><u>[Updated] The Art of Visual Storytelling Made Simple with Windows 10'S Tools</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-radeon-r5-graphic-card-update-download-drivers-for-windows-11-10-8-and-n7-systems/"><u>AMD Radeon R5 Graphic Card Update: Download Drivers for Windows 11, 10, 8, and N7 Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-gaming-like-never-before-download-steelseries-engine-for-windows-11-today/"><u>Experience Gaming Like Never Before: Download SteelSeries Engine for Windows 11 Today</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-card-problem-43-cleared-up/"><u>Graphics Card Problem 43 Cleared Up</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-officejet-pro-groovy-get-your-printer-drivers-for-windows-11108/"><u>HP OfficeJet Pro Groovy: Get Your Printer Drivers for Windows [11/10/8]</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-nokia-c12-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-usb-to-hdmi-drivers-download-and-enhance-your-display-connection/"><u>Latest USB-to-HDMI Drivers: Download and Enhance Your Display Connection</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-easy-installation-of-brother-mfc7360n-drivers-on-win-1187/"><u>Quick and Easy Installation of Brother MFC7360N Drivers on Win 11/8/7</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/step-by-step-approach-to-crafting-shareable-facebook-slideshows-for-2024/"><u>Step-by-Step Approach to Crafting Shareable Facebook Slideshows for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/stopping-fb-reel-views-a-step-by-step-guide/"><u>Stopping FB Reel Views: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

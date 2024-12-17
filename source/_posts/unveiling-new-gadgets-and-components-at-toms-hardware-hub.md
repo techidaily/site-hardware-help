@@ -1,7 +1,7 @@
 ---
 title: Unveiling New Gadgets and Components at Tom's Hardware Hub
-date: 2024-08-19T10:29:14.941Z
-updated: 2024-08-20T10:29:14.941Z
+date: 2024-12-16T16:02:47.129Z
+updated: 2024-12-17T16:13:18.856Z
 tags:
   - motherboards
 categories:
@@ -47,6 +47,10 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
 
  The fact is, Loongson has developed its own CPU just a few generations behind Intel and AMD. Considering the Chinese firm has to work around U.S. sanctions and claims to insist on doing everything based on its own IP, the performance could actually be considered impressive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -63,8 +67,6 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -72,8 +74,21 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-direct-playback-of-fb-videos-on-home-entertainment-systems-for-2024/"><u>[New] Direct Playback of FB Videos on Home Entertainment Systems for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-golden-text-in-3d-selecting-quality-online-sites-for-2024/"><u>[New] Golden Text in 3D Selecting Quality Online Sites for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-beat-it-right-constructing-mesmerizing-tiktok-dances-on-mac/"><u>[New] In 2024, Beat It Right Constructing Mesmerizing TikTok Dances on Mac</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-channel-your-inner-videographer-to-produce-top-tier-edu-videos-for-2024/"><u>[Updated] Channel Your Inner Videographer to Produce Top-Tier Edu-Videos for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-itel-p55-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/boosting-laptop-efficiency-a-guide-to-driver-updates-for-your-dell-xps-15-in-windows/"><u>Boosting Laptop Efficiency: A Guide to Driver Updates for Your Dell XPS 15 in WINDOWS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-hp-officejet-5740-drivers-compatible-with-windows-11-10-and-8/"><u>Download HP OfficeJet 5740 Drivers: Compatible with Windows 11, 10 & 8</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/efficiently-updating-your-mbox-2-drivers-on-pc-download-and-installation-instructions/"><u>Efficiently Updating Your MBox 2 Drivers on PC: Download & Installation Instructions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-amd-ryzen-driver-upgrade-guide-secure-and-smooth-installation/"><u>Effortless AMD Ryzen Driver Upgrade Guide: Secure & Smooth Installation</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-80211n-wifi-drivers-compatible-with-windows-111087-free-download/"><u>Get the Newest 802.11N WiFi Drivers Compatible with Windows 11/10/8/7 - Free Download</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-samsung-galaxy-m34-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Samsung Galaxy M34 5G Phone When You Forget the Password</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-permanent-delete-configuring-windows-trash-bin/"><u>Mastering Permanent Delete: Configuring Windows Trash Bin</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/nvidia-geforce-gtx-1080-ti-graphics-card-drivers-download-and-install/"><u>NVIDIA GeForce GTX 1080 Ti Graphics Card Drivers Download and Install</u></a></li>
+<li><a href="https://extra-information.techidaily.com/vr-real-world-impacts/"><u>VR Real-World Impacts</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->

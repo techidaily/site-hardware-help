@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Reviews: In-Depth Analysis & Comparison"
-date: 2024-08-19T10:30:37.683Z
-updated: 2024-08-20T10:30:37.683Z
+date: 2024-12-13T16:22:39.106Z
+updated: 2024-12-17T16:22:52.923Z
 tags:
   - motherboards
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d96
 The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compression Attached Memory Module) is starting to take off. It allows for faster speeds and for smaller modules to fit in tighter spaces, allowing thin laptops to be more repairable or upgradable. Recently, many of the biggest PC vendors have soldered RAM to the motherboard to save space in laptops rather than using SO-DIMMs, so CAMM2 can help there.
 
  But this new memory is popping up in desktops, too, with its own unique benefits. Here's what you need to know about CAMM2 and LP CAMM 2:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Where did CAMM2 come from?
 
@@ -33,9 +37,17 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
 
 ![CAMM2](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![CAMM2](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -47,16 +59,14 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
 
  The modules might help enable new form factors, too. At Computex,[Adata showed off its Nia handheld](https://tools.techidaily.com) , which uses LPCAMM2 using LPDDR5X.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How much memory fits on a CAMM2 module?
 
 Between 8GB and 128GB of memory fits on a single module.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is LPCAMM2 faster than existing SO-DIMMs and DIMMs?
 
  Yes. As of this writing,[Crucial is listing](https://www.crucial.com/memory/ddr5/ct64g75c2lp5xg) 32GB and 64GB LPDDR5X-7200 LPCAMM2 modules. At Computex, TeamGroup said its 16GB, 32GB, and 64GB memory will go up to 9600 MT/s. Samsung's[page on LPCAMM2](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fgo.redirectingat.com%2F%3Fid%3D92X1584492%26xcust%3Dtomshardware%255Fus%255F4400621493195954499%26xs%3D1%26url%3Dhttps%253A%252F%252Fsemiconductor.samsung.com%252Femea%252Fdram%252Fmodule%252Flpcamm2%252F%26sref%3Dhttps%253A%252F%252Fwww.tomshardware.com%252Fpc-components%252Fmotherboards%252Fwhat-is-camm2) lists an "extraordinary data transfer rate of 8,533Mbps," the same number memory company[Geil showed at Computex](https://www.techpowerup.com/323173/geil-presents-a-wide-range-of-memories-at-computex-camm2-lpcamm2-alongside-many-ddr5s) .
@@ -66,8 +76,9 @@ Between 8GB and 128GB of memory fits on a single module.
  We haven't seen any DDR5 CAMM2 products on the market just yet, so we don't know if those speeds will go even higher.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What are alternatives to CAMM2?
 
  In theory, there's nothing stopping vendors from using standard DIMMs or SO-DIMMs, or continuing to solder memory to the motherboard. Staying with the status quo is an alternative, at least for now.
@@ -82,8 +93,6 @@ Between 8GB and 128GB of memory fits on a single module.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -91,4 +100,16 @@ Between 8GB and 128GB of memory fits on a single module.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-hand-tracking-explained-types-and-applications/"><u>[New] Hand Tracking Explained Types and Applications</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-top-video-meeting-applications-excluding-zoom/"><u>[New] In 2024, Top Video Meeting Applications Excluding Zoom</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-transform-your-iphone-snaps-into-stunning-hdr-photos/"><u>[New] In 2024, Transform Your iPhone Snaps Into Stunning HDR Photos</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-guide-finding-and-installing-official-toshiba-drivers-for-your-windows-operating-system/"><u>Complete Guide: Finding and Installing Official Toshiba Drivers for Your Windows Operating System</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/efficient-downloads-of-lenovo-x1-carbon-drivers-perfect-for-windows-107-systems-a-step-by-step-tutorial/"><u>Efficient Downloads of Lenovo X1 Carbon Drivers - Perfect for Windows 10/7 Systems: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-logitech-c525-hd-camera-drivers-for-pc-ultimate-guide-and-download/"><u>Free Logitech C525 HD Camera Drivers for PC: Ultimate Guide and Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-to-install-wacom-intuos-pro-on-windows-nt-easily/"><u>Step-by-Step Tutorial to Install Wacom Intuos Pro on Windows nT Easily</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unveiling-steps-to-rectify-interlaced-video-problems/"><u>Unveiling Steps to Rectify Interlaced Video Problems</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-crafting-cinematic-lyrics-with-advanced-afx-templates/"><u>Updated In 2024, Crafting Cinematic Lyrics with Advanced AFX Templates</u></a></li>
+</ul></div>
 

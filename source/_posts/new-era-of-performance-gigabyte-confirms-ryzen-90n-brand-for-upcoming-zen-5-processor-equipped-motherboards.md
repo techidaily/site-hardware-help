@@ -1,7 +1,7 @@
 ---
 title: "New Era of Performance: Gigabyte Confirms Ryzen 90N Brand for Upcoming Zen 5 Processor-Equipped Motherboards"
-date: 2024-08-19T10:31:07.561Z
-updated: 2024-08-20T10:31:07.561Z
+date: 2024-12-13T16:10:55.068Z
+updated: 2024-12-17T16:00:04.491Z
 tags:
   - motherboards
 categories:
@@ -47,6 +47,10 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
 
  The fact is, Loongson has developed its own CPU just a few generations behind Intel and AMD. Considering the Chinese firm has to work around U.S. sanctions and claims to insist on doing everything based on its own IP, the performance could actually be considered impressive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -63,8 +67,6 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -72,8 +74,26 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-dissecting-the-full-package-logitechs-4k-webcam-experience/"><u>[New] 2024 Approved Dissecting the Full Package Logitech’s 4K Webcam Experience</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-masterful-digital-brushstrokes-essential-top-10-android-graphics-apps/"><u>[New] Masterful Digital Brushstrokes Essential Top 10 Android Graphics Apps</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-quick-steps-to-record-iphone-display-for-2024/"><u>[New] Quick Steps to Record IPhone Display for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-recommended-8-filters-for-webcam-sharpening/"><u>[Updated] Expert-Recommended 8 Filters for Webcam Sharpening</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-leading-gimbal-selections-for-iphoneandroiddslrs-revealed/"><u>[Updated] Leading Gimbal Selections for iPhone/Android/DSLRs Revealed</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-lgs-visionary-pursuit-deep-insights-into-the-31mu97-b-monitor-review/"><u>[Updated] LG's Visionary Pursuit Deep Insights Into the 31MU97-B Monitor Review</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/complete-tutorial-sending-photos-from-apple-iphone-15-plus-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>Complete Tutorial Sending Photos From Apple iPhone 15 Plus to iPad | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-intels-fastest-nvme-drivers-today-step-by-step-tutorial-inside/"><u>Download Intel's Fastest NVMe Drivers Today – Step-by-Step Tutorial Inside</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-hp-designjet-t620-printer-software-and-drivers/"><u>Free Download: HP Designjet T620 Printer Software & Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-official-asus-dvd-drivers-compatible-with-all-models/"><u>Free Download: Official ASUS DVD Drivers - Compatible with All Models</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-logitech-brio-webcam-up-and-running-on-windows-os-1087/"><u>Get Your Logitech BRIO Webcam Up and Running on Windows OS (10/8/7)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/getting-the-newest-canon-mg3n-driver-version-free-download-instructions/"><u>Getting the Newest Canon MG3n Driver Version – Free Download Instructions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-elitebook-840-g3-driver-downloads-how-to-easily-update-your-system/"><u>HP EliteBook 840 G3 Driver Downloads: How to Easily Update Your System</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-11-free-youtube-audio-rippers-to-download-audio-from-youtube/"><u>In 2024, 11 FREE YouTube Audio Rippers to Download Audio From YouTube</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-nokia-c12-pro-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Nokia C12 Pro Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/instant-access-to-the-zebra-gk420d-printer-driver-hassle-free-download/"><u>Instant Access to the Zebra GK420d Printer Driver – Hassle-Free Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722973597595-quick-install-download-hp-officejet-5740-printer-drivers-today/"><u>Quick Install: Download HP OfficeJet 5740 Printer Drivers Today</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-itel-s23-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Itel S23 on Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-walkthrough-to-set-up-new-wd-ses-device-drivers-after-2011/"><u>Ultimate Walkthrough to Set Up New WD SES Device Drivers After 2011</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->

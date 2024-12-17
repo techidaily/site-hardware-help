@@ -1,7 +1,7 @@
 ---
 title: Latest Wave of BIOS Updates From AMD Allies Tackles the Persistent LogoFailure Challenge Head-On
-date: 2024-08-19T10:29:34.624Z
-updated: 2024-08-20T10:29:34.624Z
+date: 2024-12-12T16:28:07.732Z
+updated: 2024-12-17T16:25:36.090Z
 tags:
   - motherboards
 categories:
@@ -47,6 +47,10 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
 
  The fact is, Loongson has developed its own CPU just a few generations behind Intel and AMD. Considering the Chinese firm has to work around U.S. sanctions and claims to insist on doing everything based on its own IP, the performance could actually be considered impressive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -63,8 +67,6 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -72,8 +74,16 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-xiaomi-redmi-note-12-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Xiaomi Redmi Note 12 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-fast-ultimate-steps-for-linksys-ae120er-firmware-installation/"><u>Download Fast: Ultimate Steps for Linksys AE120er Firmware Installation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-guide-to-transferring-your-dvd-content-onto-apple-tv/"><u>Easy Guide to Transferring Your DVD Content Onto Apple TV</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722969763572-easy-installation-of-latest-drivers-for-amd-radeon-rx-470-graphics-card-find-out-how/"><u>Easy Installation of Latest Drivers for AMD Radeon RX 470 Graphics Card - Find Out How</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975523617-hassle-free-printer-configuration-secure-your-samsung-m2070fw-drivers-today/"><u>Hassle-Free Printer Configuration: Secure Your Samsung M2070FW Drivers Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-address-and-solve-csr8510-a10-drivers-compatibility-with-windows-a-comprehensive-guide/"><u>How To Address and Solve CSR8510 A10 Drivers Compatibility with Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/lock-your-nubia-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Nubia Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-mastery-integrating-gpt-4-technology-into-your-daily-life/"><u>Step-by-Step Mastery: Integrating GPT-4 Technology Into Your Daily Life</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/unbox-and-test-ride-the-new-cycwagen-electric-cargo-bike-expert-insights/"><u>Unbox and Test Ride the New CycWagen Electric Cargo Bike - Expert Insights</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->

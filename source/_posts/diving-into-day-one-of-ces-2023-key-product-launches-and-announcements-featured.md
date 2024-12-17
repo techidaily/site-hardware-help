@@ -1,7 +1,7 @@
 ---
 title: "Diving Into Day One of CES 2023: Key Product Launches and Announcements Featured"
-date: 2024-12-10T00:08:10.144Z
-updated: 2024-12-11T09:35:36.071Z
+date: 2024-12-11T16:34:08.870Z
+updated: 2024-12-17T16:14:18.580Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ Whether you've been busy with the kids or catching up with the daily news on you
 [![CES 2023](https://www.zdnet.com/a/img/resize/28650a75dc1dd673042c63db5be340811e6ef8a4/2023/01/03/6f86bbf0-d65d-4f16-a4f2-699dfdc83419/ces-2023-header.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) CES 2023: The Biggest Trends for Pros Find all the exciting innovation from CES 2023 in this ZDNET special feature.  Read now](https://www.zdnet.com/topic/ces-2023-the-biggest-trends-for-pros/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 We've been on the ground for the second day of the [largest tech conference in the US](https://www.zdnet.com/article/zdnets-guide-to-ces-what-is-it-and-who-can-attend/), bringing you the best of the announcements. 
@@ -33,10 +33,6 @@ While hundreds of companies are stationed in Las Vegas announcing new and innova
 **Also:** [**Day 3: Top CES announcements from HTC, Ring, Google and more**](https://www.zdnet.com/home-and-office/ces-2023-day-3-htc-and-google-make-announcements-plus-other-top-stories/)
 
 And, if you're still waiting to hear from some major companies, keep checking back . More companies will be announcing more innovative products as the week progresses.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## LG saves its biggest (and best) TV for last
 
@@ -48,6 +44,10 @@ While LG unveiled its [new line of C, G, and Z OLED models](https://www.zdnet.co
 
 Read our [first look at the M3 OLED TV here](https://www.zdnet.com/home-and-office/home-entertainment/lg-97-inch-oled-tv-m3-ces-2023/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Asus debuts all-new laptops across the board
 
 Asus
@@ -55,6 +55,10 @@ Asus
 In addition to a new line of [eco-friendly laptops for workers and students](https://www.zdnet.com/article/asus-unveils-two-sustainably-designed-laptops-for-business-executives-and-students/), Asus released information regarding its gaming Chromebook, the Vibe CX34\. It also debuted a 3D OLED laptop that consumers can use sans 3D glasses.
 
 Check the [high-end specs of the Vibe CX34 Chromebook here](https://www.zdnet.com/article/asus-new-vibe-cx34-gaming-chromebook-brings-some-high-end-specs/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The year of the smart toilet sensor
 
@@ -78,6 +82,10 @@ While [Hisense upgraded its U8 line's picture](https://www.zdnet.com/home-and-of
 
 Read more about [Roku making its own TVs](https://www.zdnet.com/home-and-office/home-entertainment/ces-2023-roku-to-begin-offering-its-own-tv-builds-this-year/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Samsung adds new security software with Knox Matrix
 
 Samsung
@@ -88,10 +96,6 @@ Check out the article version of the interview [here](https://www.zdnet.com/arti
 
 **Also:** [**What's in the tech bag ZDNET's EIC takes to CES?**](https://www.zdnet.com/article/what-tech-is-in-the-ces-2023-bag-of-zdnets-editor-in-chief/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## HP focuses on sustainability and hybrid work with new laptops
 
 HP
@@ -101,7 +105,7 @@ While HP dropped new Dragonfly Pro chromebooks and laptops, it also debuted a se
 Read about [new HP laptops are coming to shoppers' carts here](https://www.zdnet.com/article/laptops-chromebooks-all-in-one-pcs-and-more-take-a-look-at-hps-hybrid-focused-device-portfolio/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Track your feathered friends with the Bird Buddy smart feeder
@@ -119,10 +123,6 @@ HyperX
 Gamers can also pick up a new gaming mouse thanks to the announced Pulsefire Haste 2 gaming mouse (wired and wireless versions), shipping in March in stores and online. There's also the HyperX Clutch Gladiate Xbox Controller, available in April, and a new line of 3D-printed accessories, starting with a [Cozy Cat keycap](https://www.zdnet.com/home-and-office/home-entertainment/hyperx-launches-new-line-of-3d-printed-keycaps-headphone-backplates-and-more/). 
 
 Get the details on the [Pulsefire Haste 2 and Clutch Gladiate Xbox controller](https://www.zdnet.com/home-and-office/home-entertainment/hyperxs-ces-2023-lineup-includes-haste-2-mice-clutch-gladiate-xbox-controller/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## AMD announces Ryzen 7040 series
 
@@ -170,16 +170,17 @@ If you want the best of the news, you can see the highlights of [Day 1 of CES 20
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-top-10-ideas-for-making-your-podcast-stand-out-visually/"><u>[New] 2024 Approved Top 10 Ideas for Making Your Podcast Stand Out Visually</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-androids-best-free-mp3-extraction-tools/"><u>2024 Approved Android's Best Free MP3 Extraction Tools</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-installation-guide-techkey-bluetooth-adapter-drivers-for-windows-pcs/"><u>Easy Installation Guide: Techkey Bluetooth Adapter Drivers for Windows PCs</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/encore-engagement-reinvent-learning-through-vr-languages/"><u>Encore Engagement: Reinvent Learning Through VR Languages</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722971809989-enhance-your-printing-experience-with-the-latest-windows-drivers-for-brothers-hl-l2380dw-model-download-now/"><u>Enhance Your Printing Experience with the Latest Windows Drivers for Brother's HL-L2380DW Model - Download Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-asus-sound-blaster-driver-installation-get-it-now/"><u>Free ASUS Sound Blaster Driver Installation - Get It Now!</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-ensuring-quality-export-of-camera-images-for-snapchat-sharing/"><u>In 2024, Ensuring Quality Export of Camera Images for Snapchat Sharing</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-poco-x6-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Poco X6 | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/logitech-k400-pro-duo-setup-guide-free-downloads-available/"><u>Logitech K400 Pro Duo Setup Guide - Free Downloads Available</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-access-to-canon-scanner-drivers-for-windows-download-now/"><u>Quick Access to Canon Scanner Drivers for Windows - Download Now!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/streamlining-assistance-chatgpts-integration-with-whatsapp/"><u>Streamlining Assistance: ChatGPT's Integration with WhatsApp</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/2024-fix-the-division-2-low-fps-and-stuttering/"><u>[2024 Fix] The Division 2 Low FPS & Stuttering</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-3dlut-for-dynamic-video-and-image-adjustments/"><u>[New] 3DLUT for Dynamic Video & Image Adjustments</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-enhancing-facial-dynamics-using-picsarts-motion-blur/"><u>[Updated] Enhancing Facial Dynamics Using Picsart's Motion Blur</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-superior-choice-the-premier-portable-dvd-picks-for-2024/"><u>[Updated] Superior Choice The Premier Portable DVD Picks for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/dynamic-documentaries-clients-video-testimonials/"><u>Dynamic Documentaries: Clients' Video Testimonials</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722969548148-enhance-your-games-with-updated-nvidia-graphics-card-drivers-download-now/"><u>Enhance Your Games with Updated Nvidia Graphics Card Drivers: Download Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ensure-peak-performance-updating-your-canon-pixma-mx922-driver-for-windows-operating-systems/"><u>Ensure Peak Performance: Updating Your Canon PIXMA MX922 Driver for Windows Operating Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-of-the-official-logitech-racing-wheel-driver-for-windows-operating-system-versions-7-1-0/"><u>Free Download of the Official Logitech Racing Wheel Driver for Windows Operating System Versions 7-1 0.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-insignia-usbvga-driver-installed-step-by-step-guide/"><u>Get Your Insignia USB/VGA Driver Installed - Step by Step Guide!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-xiaomi-mix-fold-3-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Xiaomi Mix Fold 3.</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-achieving-broadcast-excellence-your-guide-to-youtubes-live-360-videos/"><u>In 2024, Achieving Broadcast Excellence Your Guide to YouTube's Live 360 Videos</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-installing-the-latest-ralink-network-adapters-on-your-windows-machine/"><u>Step-by-Step: Installing the Latest Ralink Network Adapters on Your Windows Machine</u></a></li>
 </ul></div>
 

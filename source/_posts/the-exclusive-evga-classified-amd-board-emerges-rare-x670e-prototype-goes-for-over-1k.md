@@ -1,7 +1,7 @@
 ---
 title: The Exclusive EVGA Classified AMD Board Emerges - Rare X670E Prototype Goes for Over 1K
-date: 2024-08-19T10:29:53.302Z
-updated: 2024-08-20T10:29:53.302Z
+date: 2024-12-10T16:21:36.938Z
+updated: 2024-12-17T16:09:17.712Z
 tags:
   - motherboards
 categories:
@@ -41,6 +41,10 @@ Hardware enthusiast[Jiacheng Liu](https://x.com/unnatural%5F%5Flog/status/179755
 
  The EVGA X670E Classified prototypes were briefly available on Xianyu, a popular second-hand market platform in China. Liu said he had paid around $620 for four PCBs without heatsinks; meanwhile, the retail-looking sample with heatsinks set him back $1,378\. Apparently, another buyer flew to Shenzhen, China, to buy a single PCB for $689.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -57,8 +61,6 @@ Hardware enthusiast[Jiacheng Liu](https://x.com/unnatural%5F%5Flog/status/179755
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -66,8 +68,20 @@ Hardware enthusiast[Jiacheng Liu](https://x.com/unnatural%5F%5Flog/status/179755
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-jotunheims-gambit-warriors-of-ragnarok/"><u>[New] In 2024, Jotunheim's Gambit Warriors of Ragnarok</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-unleash-creativity-the-best-9-camera-accessories-for-vloggers-and-more/"><u>[Updated] Unleash Creativity The Best 9 Camera Accessories for Vloggers and More</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-fixes-for-the-logitech-f710-connectivity-challenge-on-different-windows-platforms/"><u>Effortless Fixes for the Logitech F710 Connectivity Challenge on Different Windows Platforms</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-htc-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your HTC Face Lock?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975766520-get-the-latest-asrock-ab350-pro4-drivers-for-windows-no-cost/"><u>Get the Latest ASRock AB350 Pro4 Drivers for Windows - No Cost!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722969702251-get-your-zebra-gk420d-printer-up-and-running-secure-the-latest-drivers-here/"><u>Get Your Zebra GK420D Printer Up and Running – Secure the Latest Drivers Here</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-comparing-tiktok-and-youtube-shorts-for-personal-content-creation/"><u>In 2024, Comparing TikTok & YouTube Shorts for Personal Content Creation</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/inside-track-to-superior-srt-upgrades/"><u>Inside Track to Superior SRT Upgrades</u></a></li>
+<li><a href="https://driver-download.techidaily.com/modernize-your-computers-audio-experience-by-upgrading-usb-driver-support-compatible-with-win-11-10-and-n/"><u>Modernize Your Computer’s Audio Experience by Upgrading USB Driver Support: Compatible With Win 11, 10 & N</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/newly-released-compatible-realtek-bluetooth-drivers-for-windows-1110-computers/"><u>Newly Released: Compatible Realtek Bluetooth Drivers for Windows 11/10 Computers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/speedy-elgato-driver-setup-smooth-swift-downloads-for-seamless-performance/"><u>Speedy Elgato Driver Setup - Smooth, Swift Downloads for Seamless Performance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unleashing-top-game-graphics-with-gigabye-aorus-fo32u2p-240-hz-4k-and-beyond/"><u>Unleashing Top Game Graphics with Gigabye Aorus FO32U2P: 240 Hz, 4K and Beyond!</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->

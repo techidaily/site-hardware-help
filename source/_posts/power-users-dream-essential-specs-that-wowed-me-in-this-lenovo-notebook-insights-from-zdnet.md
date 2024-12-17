@@ -1,7 +1,7 @@
 ---
 title: "Power User's Dream: Essential Specs That Wowed Me in This Lenovo Notebook - Insights From ZDNet"
-date: 2024-12-10T09:13:06.638Z
-updated: 2024-12-10T22:32:41.972Z
+date: 2024-12-10T16:25:10.645Z
+updated: 2024-12-17T16:38:15.440Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -77,7 +77,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -116,24 +116,24 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/olutions-for-missing-shorts-thumbnails-on-youtube-for-2024/"><u>[New] Solutions for Missing Shorts Thumbnails on YouTube for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-delving-into-how-t-series-earnings-work-on-youtube/"><u>[Updated] Delving Into How T-Series Earnings Work on Youtube</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-achieve-video-perfection-youtube-studio-edition-tips-and-tricks/"><u>2024 Approved Achieve Video Perfection YouTube Studio Edition Tips & Tricks</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/aesthetic-ambience-selecting-premium-backgrounds-from-the-comfort-of-home/"><u>Aesthetic Ambience Selecting Premium Backgrounds From the Comfort of Home</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/direct-link-to-nvidia-rtx-3080-graphics-card-driver-compatible-with-windows-versions/"><u>Direct Link to NVIDIA RTX 3080 Graphics Card Driver - Compatible with Windows Versions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722974925461-download-amd-radeon-hd-graphics-driver-for-windows-7-latest-version-available/"><u>Download AMD Radeon HD Graphics Driver for Windows 7 - Latest Version Available</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/download-and-configure-robocopy-for-windows-server-ebytevate-plus-alternatives-to-consider/"><u>Download and Configure Robocopy for Windows Server Ebytevate: Plus Alternatives to Consider</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722978271908-download-the-newest-windows-compatible-brother-hl-2240-printer-driver-now/"><u>Download the Newest Windows Compatible Brother HL-2240 Printer Driver Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722965669166-effortlessly-update-your-windows-device-with-the-latest-synaptics-drivers-heres-how/"><u>Effortlessly Update Your Windows Device with the Latest Synaptics Drivers – Here's How!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-hp-officejet-3830-software-installer-windows-compatible/"><u>Free HP OfficeJet 3830 Software Installer - Windows Compatible</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-rtx-2nvidia-2060-super-drivers-compatible-with-both-windows-10-and-11-free-download/"><u>Get the Newest RTX 2Nvidia 2060 Super Drivers: Compatible with Both Windows 10 and 11 - FREE Download</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722973431047-get-your-windows-pc-optimized-with-amds-newest-chip-drivers/"><u>Get Your Windows PC Optimized with AMD's Newest Chip Drivers</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/how-to-fortify-your-system-against-cyber-threats-proven-strategies-by-yl-solutions/"><u>How to Fortify Your System Against Cyber Threats: Proven Strategies by YL Solutions</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-tiktok-video-enhancement-with-zoom/"><u>In 2024, Mastering TikTok Video Enhancement with Zoom</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-driver-support-how-to-install-and-update-samsung-960-evo-drives-on-your-windows-device/"><u>Latest Driver Support: How to Install and Update Samsung 960 EVO Drives on Your Windows Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-msvcr71-absence/"><u>Overcoming MSVCR71 Absence</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-for-downloading-and-updating-synaptics-device-drivers-in-windows/"><u>Step-by-Step Tutorial for Downloading and Updating Synaptics Device Drivers in Windows</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-m2-ssds-comprehensive-testing-and-reviews-by-tech-experts-find-the-perfect-choice/"><u>Top-Rated M.2 SSDs : Comprehensive Testing & Reviews by Tech Experts – Find the Perfect Choice</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ultimate-troubleshooting-guide-resolving-pathfinder-wrath-of-the-righteous-keyboard-issues/"><u>Ultimate Troubleshooting Guide: Resolving 'Pathfinder - Wrath of the Righteous' Keyboard Issues</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-realtek-card-reader-driver-for-windows-10/"><u>[Download] Realtek Card Reader Driver for Windows 10</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-rapid-instagram-video-viewing-techniques/"><u>[New] 2024 Approved Rapid Instagram Video Viewing Techniques</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-unveiling-the-true-value-of-smoothing-in-adobes-arsenal-for-2024/"><u>[New] Unveiling the True Value of Smoothing in Adobe’s Arsenal for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-tech-insightfulness-a-global-experts-assessment/"><u>[Updated] 2024 Approved Tech Insightfulness A Global Experts' Assessment</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-record-the-essence-of-your-facebook-page/"><u>[Updated] In 2024, Record the Essence of Your FACEbook Page</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-streamline-your-media-convert-fb-videos-to-mp4-hd1080p-for-free/"><u>[Updated] In 2024, Streamline Your Media - Convert FB Videos to MP4 HD/1080P for Free</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-insightful-examination-of-wirecast-and-its-peers/"><u>[Updated] Insightful Examination of WireCast & Its Peers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/geekbench-6-results-showcase-snapdragon-x-devices-benchmark-dev-analyzes-a-solid-start-with-65/"><u>Geekbench 6 Results Showcase Snapdragon X Devices: Benchmark Dev Analyzes a Solid Start with 6.5%</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722956748991-get-the-latest-d3-drivers-for-your-gigabyte-z370p-system-now/"><u>Get the Latest D3 Drivers for Your Gigabyte Z3^70P System Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722972461963-get-your-epson-wf-2750-ready-free-printer-drivers-available/"><u>Get Your Epson WF-2750 Ready - FREE Printer Drivers Available</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/guia-basica-declarar-la-hora-en-espanol/"><u>Guía Básica: Declarar La Hora en Español</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-firmware-for-tp-link-usb400-bluetooth-get-your-free-driver-here/"><u>Latest Firmware for TP-Link USB400 Bluetooth: Get Your Free Driver Here!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-battlefield-2042-solutions-for-reducing-fps-drops-and-stutter-on-your-gaming-pc/"><u>Mastering Battlefield 2042: Solutions for Reducing FPS Drops & Stutter on Your Gaming PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prioritize-powerful-execution-with-easy-terminal-admin-access/"><u>Prioritize Powerful Execution with Easy Terminal Admin Access</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-tecno-pop-7-pro-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Tecno Pop 7 Pro Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/smooth-print-jobs-download-the-latest-samsung-printer-drivers-for-windows-systems-today/"><u>Smooth Print Jobs: Download the Latest Samsung Printer Drivers for Windows Systems Today!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-fresh-driver-setup-for-your-hp-deskjet-inkjet-printer-on-windows-operating-systems-1087/"><u>Step-by-Step: Fresh Driver Setup for Your HP DeskJet Inkjet Printer on Windows Operating Systems (10/8/7)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-how-to-update-your-hp-laserjet-p3015-printer-software-for-windows-users/"><u>Ultimate Guide: How to Update Your HP LaserJet P3015 Printer Software for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-system-now-optimized-nvidia-geforce-210-graphics-drivers-on-windows-11-devices/"><u>Update Your System Now: Optimized NVIDIA GeForce 210 Graphics Drivers on Windows 11 Devices</u></a></li>
 </ul></div>
 

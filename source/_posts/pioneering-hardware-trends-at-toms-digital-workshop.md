@@ -1,7 +1,7 @@
 ---
 title: Pioneering Hardware Trends at Tom's Digital Workshop
-date: 2024-08-19T10:29:04.560Z
-updated: 2024-08-20T10:29:04.560Z
+date: 2024-12-12T16:18:59.651Z
+updated: 2024-12-17T16:05:06.460Z
 tags:
   - motherboards
 categories:
@@ -15,9 +15,17 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
 
  But this new memory is popping up in desktops, too, with its own unique benefits. Here's what you need to know about CAMM2 and LP CAMM 2:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Where did CAMM2 come from?
 
  CAMM[originated with Dell](https://tools.techidaily.com) as a project to replace bulkier SO-DIMM memory slots. But the company[worked with JEDEC](https://tools.techidaily.com) , a semiconductor standards body, which tweaked it and made CAMM2 available to a number of different PC companies.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are CAMM2 and LPCAMM2? What are their benefits?
 
@@ -33,9 +41,17 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
 
 ![CAMM2](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![CAMM2](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -48,16 +64,13 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
  The modules might help enable new form factors, too. At Computex,[Adata showed off its Nia handheld](https://tools.techidaily.com) , which uses LPCAMM2 using LPDDR5X.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How much memory fits on a CAMM2 module?
 
 Between 8GB and 128GB of memory fits on a single module.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Is LPCAMM2 faster than existing SO-DIMMs and DIMMs?
 
  Yes. As of this writing,[Crucial is listing](https://www.crucial.com/memory/ddr5/ct64g75c2lp5xg) 32GB and 64GB LPDDR5X-7200 LPCAMM2 modules. At Computex, TeamGroup said its 16GB, 32GB, and 64GB memory will go up to 9600 MT/s. Samsung's[page on LPCAMM2](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fgo.redirectingat.com%2F%3Fid%3D92X1584492%26xcust%3Dtomshardware%255Fus%255F4400621493195954499%26xs%3D1%26url%3Dhttps%253A%252F%252Fsemiconductor.samsung.com%252Femea%252Fdram%252Fmodule%252Flpcamm2%252F%26sref%3Dhttps%253A%252F%252Fwww.tomshardware.com%252Fpc-components%252Fmotherboards%252Fwhat-is-camm2) lists an "extraordinary data transfer rate of 8,533Mbps," the same number memory company[Geil showed at Computex](https://www.techpowerup.com/323173/geil-presents-a-wide-range-of-memories-at-computex-camm2-lpcamm2-alongside-many-ddr5s) .
@@ -66,9 +79,6 @@ Between 8GB and 128GB of memory fits on a single module.
 
  We haven't seen any DDR5 CAMM2 products on the market just yet, so we don't know if those speeds will go even higher.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ## What are alternatives to CAMM2?
 
  In theory, there's nothing stopping vendors from using standard DIMMs or SO-DIMMs, or continuing to solder memory to the motherboard. Staying with the status quo is an alternative, at least for now.
@@ -83,8 +93,6 @@ Between 8GB and 128GB of memory fits on a single module.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -92,4 +100,19 @@ Between 8GB and 128GB of memory fits on a single module.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-android-mac-video-archiving-a-snap-solution-guide/"><u>[New] Android-Mac Video Archiving A Snap Solution Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-discover-budget-friendly-superior-asmr-mics/"><u>[Updated] Discover Budget-Friendly, Superior ASMR Mics</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-boost-views-via-strategic-tagging-tactics/"><u>[Updated] In 2024, Boost Views via Strategic Tagging Tactics</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/diagnosing-and-solving-varied-frame-per-second-drops-in-pc-gaming/"><u>Diagnosing and Solving Varied Frame Per Second Drops in PC Gaming</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-performance-free-drivers-now-available-for-the-msi-x470-gaming-plus-platform/"><u>Enhance Performance: Free Drivers Now Available for the MSI X470 Gaming Plus Platform</u></a></li>
+<li><a href="https://win-community.techidaily.com/expert-tips-and-techniques-for-putting-together-a-personal-computer/"><u>Expert Tips and Techniques for Putting Together a Personal Computer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/find-the-best-way-to-download-asus-wifi-driver-software-here/"><u>Find the Best Way to Download ASUS WiFi Driver Software Here!</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/from-first-click-to-final-cut-elevating-ps4-recording-techniques-for-2024/"><u>From First Click to Final Cut Elevating PS4 Recording Techniques for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/guide-refresh-your-intel-centrino-wireless-n4000s-software-components/"><u>Guide: Refresh Your Intel Centrino Wireless N4000's Software Components</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/secure-lenovo-bluetooth-driver-downloads-and-updates-for-windows-710-a-complete-guide/"><u>Secure Lenovo Bluetooth Driver Downloads and Updates for Windows 7/10: A Complete Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-fixing-missing-or-not-detected-nspr4dll-errors/"><u>The Ultimate Guide to Fixing Missing or Not Detected Nspr4.dll Errors</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unleash-productivity-lenovo-introduces-ai-enhanced-thinkpads-tailored-for-todays-business-professionals/"><u>Unleash Productivity: Lenovo Introduces AI-Enhanced ThinkPads Tailored for Today's Business Professionals</u></a></li>
+</ul></div>
 

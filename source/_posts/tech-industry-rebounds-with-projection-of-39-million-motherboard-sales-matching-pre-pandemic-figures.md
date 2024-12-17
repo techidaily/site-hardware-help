@@ -1,7 +1,7 @@
 ---
 title: Tech Industry Rebounds with Projection of 39 Million Motherboard Sales Matching Pre-Pandemic Figures
-date: 2024-08-19T10:29:08.883Z
-updated: 2024-08-20T10:29:08.883Z
+date: 2024-12-13T16:21:03.214Z
+updated: 2024-12-17T16:05:42.283Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,19 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-end-live-recording-mode-immediately-in-qt-app-for-2024/"><u>[New] End Live Recording Mode Immediately in QT App for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-social-spectacle-snatcher/"><u>[New] In 2024, Social Spectacle Snatcher</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-unveiling-the-art-of-converting-still-images-into-engaging-videos-with-pixiz-for-2024/"><u>[New] Unveiling the Art of Converting Still Images Into Engaging Videos with Pixiz for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-mastering-the-art-of-video-based-instruction-using-youtube/"><u>[Updated] In 2024, Mastering the Art of Video-Based Instruction Using YouTube</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-play-mp4-files-on-galaxy-a15-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Can't play MP4 files on Galaxy A15 5G</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-corsair-icue-for-windows-1110/"><u>Download | Corsair iCUE for Windows 11/10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ensure-perfect-print-quality-with-updated-drivers-for-the-epson-v39-on-windows-7810/"><u>Ensure Perfect Print Quality with Updated Drivers for the Epson V39 on Windows 7/8/10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-lenovo-x1-carbon-ready-on-windows-10-or-7-with-these-easy-to-follow-driver-download-instructions/"><u>Get Your Lenovo X1 Carbon Ready on Windows 10 or 7 with These Easy-to-Follow Driver Download Instructions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-samsung-galaxy-xcover-6-pro-tactical-edition-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Samsung Galaxy XCover 6 Pro Tactical Edition online without jailbreak</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-laserjet-pro-m404n-driver-downloads-and-updates-get-set-for-flawless-printing-performance/"><u>HP LaserJet Pro M404n Driver Downloads and Updates: Get Set for Flawless Printing Performance</u></a></li>
+<li><a href="https://some-skills.techidaily.com/jokejuggernaut-top-humor-tool-for-2024/"><u>JokeJuggernaut - Top Humor Tool for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/lenovo-t430-driver-downloads-for-windows-operating-systems-xpvista7810-step-by-step-instructions/"><u>Lenovo T430 Driver Downloads for Windows Operating Systems (XP/Vista/7/8/10) – Step-by-Step Instructions</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

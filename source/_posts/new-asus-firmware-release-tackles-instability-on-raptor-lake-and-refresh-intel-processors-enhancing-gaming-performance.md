@@ -1,7 +1,7 @@
 ---
 title: New ASUS Firmware Release Tackles Instability on Raptor Lake and Refresh Intel Processors, Enhancing Gaming Performance
-date: 2024-08-19T10:30:20.458Z
-updated: 2024-08-20T10:30:20.458Z
+date: 2024-12-12T16:07:20.869Z
+updated: 2024-12-17T16:29:37.853Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,16 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-increasing-ram-to-achieve-peak-performance-in-minecraft/"><u>[New] 2024 Approved Increasing RAM to Achieve Peak Performance in Minecraft</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-premium-devices-to-elevate-your-mobile-video-skills/"><u>2024 Approved Premium Devices to Elevate Your Mobile Video Skills</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-update-with-latest-lenovo-t430-drivers-compatible-with-all-versions-of-windows/"><u>Effortless Update with Latest Lenovo T430 Drivers Compatible With All Versions of Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/epson-l3150-printer-driver-download-and-update-for-windows-1087-free/"><u>Epson L3150 Printer Driver Download and Update for Windows 10/8/7 - Free</u></a></li>
+<li><a href="https://android-frp.techidaily.com/expert-analysis-on-hardware-by-toms-electronics-hub/"><u>Expert Analysis on Hardware by Tom's Electronics Hub</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/guide-to-successfully-installing-new-versions-of-epson-ds-510-printer-driver-on-windows-machines/"><u>Guide to Successfully Installing New Versions of Epson DS-510 Printer Driver on Windows Machines</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/n-drivers-on-windows-1087-quick-guide/"><u>N Drivers on Windows 10/8/7 - Quick Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/run-apps-in-compatibility-mode-in-windows-10/"><u>Run Apps in Compatibility Mode in Windows 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722989609998-trouble-with-among-us-unstick-your-game-with-these-proven-fixes/"><u>Trouble with 'Among US'? Unstick Your Game With These Proven Fixes</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary MaxSun Mini-ITX Board: Unique Rear GPU Mounting Design"
-date: 2024-08-19T10:29:05.632Z
-updated: 2024-08-20T10:29:05.632Z
+date: 2024-12-10T16:10:41.340Z
+updated: 2024-12-17T16:00:11.309Z
 tags:
   - motherboards
 categories:
@@ -47,6 +47,10 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
 
  The fact is, Loongson has developed its own CPU just a few generations behind Intel and AMD. Considering the Chinese firm has to work around U.S. sanctions and claims to insist on doing everything based on its own IP, the performance could actually be considered impressive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -63,8 +67,6 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -72,8 +74,21 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-motivational-cinema-the-ultimate-guide-to-empowerment-films-for-2024/"><u>[New] Motivational Cinema The Ultimate Guide to Empowerment Films for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/a-comprehensive-review-of-the-fun-filled-ddpair-mini3-dashcam-experience/"><u>A Comprehensive Review of the Fun-Filled DDPair Mini3 Dashcam Experience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ch340g-driver-update-instructions-and-download-options-for-users-of-windows-11/"><u>CH340G Driver Update Instructions & Download Options for Users of Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-guide-to-fixing-hp-officejet-pro-6978-driver-issues/"><u>Comprehensive Guide to Fixing HP OfficeJet Pro 6978 Driver Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/convert-spotify-playlist-data-into-editable-text-format-easily/"><u>Convert Spotify Playlist Data Into Editable Text Format Easily</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-disappears-in-excel-2010-how-to-get-it-back-by-stellar-guide/"><u>Data Disappears in Excel 2010 - How to get it back</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-installation-tutorial-acquiring-and-implementing-linksys-wusb630/"><u>Effortless Installation Tutorial: Acquiring & Implementing Linksys WUSB630</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-updated-hp-network-card-drivers-for-windows-10-8-and-7-users/"><u>Get Updated HP Network Card Drivers for Windows 10, 8, and 7 Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/getting-your-origin-app-to-work-again-on-win10-and-win11-systems/"><u>Getting Your Origin App to Work Again on Win10 and Win11 Systems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-honor-90-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Honor 90.</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-iphone-6-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>How to Unlock Apple iPhone 6 When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/sunlit-scenes-android-brighten-tips/"><u>Sunlit Scenes Android Brighten Tips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-definitive-resource-for-quickly-downloading-and-setting-up-usb-c-drivers-on-windows-10/"><u>The Definitive Resource for Quickly Downloading and Setting Up USB-C Drivers on Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tutorial-setting-windows-calculator-to-dark-mode/"><u>Tutorial: Setting Windows Calculator to Dark Mode</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

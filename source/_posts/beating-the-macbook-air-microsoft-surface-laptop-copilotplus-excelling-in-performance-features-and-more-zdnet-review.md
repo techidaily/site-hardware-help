@@ -1,7 +1,7 @@
 ---
 title: "Beating the MacBook Air: Microsoft Surface Laptop Copilot+ Excelling in Performance, Features & More | ZDNet Review"
-date: 2024-12-06T01:54:19.562Z
-updated: 2024-12-11T11:19:58.449Z
+date: 2024-12-12T16:03:13.948Z
+updated: 2024-12-17T16:08:58.754Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -109,7 +109,7 @@ Gaming is not fully supported by Windows on ARM yet, either. Many titles don't w
 This gets to the meat of the issue here. Yes, the CPU is fast and efficient, and the NPU on these processors runs AI-related tasks better than anything else on the market, but the chips are held back by Windows' functionality (at least for now), and this tension between the two will be at the root cause of a lot of issues until the growing pains subside.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -148,18 +148,20 @@ If you're looking for a Copilot+ PC with a better display, you might want to che
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-discovering-calmer-video-consumption-three-ways-to-pause-time-56-chars-slightly-over-but-a-minor-exception-due-to-title-length-for-2024/"><u>[New] Discovering Calmer Video Consumption Three Ways to Pause Time (56 Chars, Slightly over but a Minor Exception Due to Title Length) for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-detailed-review-navigating-through-polarrs-features-easily/"><u>[Updated] 2024 Approved Detailed Review Navigating Through Polarr's Features Easily</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-streamlining-your-360-video-process-for-social-media-platforms/"><u>[Updated] In 2024, Streamlining Your 360 Video Process for Social Media Platforms</u></a></li>
-<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Honor X9b | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-infinix-note-30-vip-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Infinix Note 30 VIP to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/boost-your-workflow-on-the-move-with-the-ultimate-11-port-travel-station-professionals-guide-to-portable-tech-solutions/"><u>Boost Your Workflow on the Move with the Ultimate 11-Port Travel Station | Professional's Guide to Portable Tech Solutions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/corporate-insights-in-depth-microsoft-surface-pro-8-evaluation-on-zdnet/"><u>Corporate Insights: In-Depth Microsoft Surface Pro 8 Evaluation on ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/magicbook-14-review-powerful-14-portable-laptop-with-integrated-graphics-explored-by-zdnet/"><u>MagicBook 14 Review - Powerful 14 Portable Laptop with Integrated Graphics Explored by ZDNet</u></a></li>
-<li><a href="https://driver-download.techidaily.com/seamless-setup-secure-your-wacom-intuos-pro-driver-for-optimal-use-on-windows-10-platforms/"><u>Seamless Setup: Secure Your Wacom Intuos Pro Driver for Optimal Use on Windows 10 Platforms</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-laptops-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top Rated Laptops : Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-laptops-under-700-surprisingly-exceptional-choices-revealed-by-zdnet/"><u>Top-Rated Laptops Under $700: Surprisingly Exceptional Choices Revealed by ZDNet</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-beyond-fcpx-10-video-editing-solutions-for-every-budget/"><u>Updated In 2024, Beyond FCPX 10 Video Editing Solutions for Every Budget</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/upgrade-your-workflow-today-with-a-high-performance-hp-touch-laptop-compatible-mouse-and-essential-microsoft-365-tools-for-just-400-exclusive-offer-inside.m32/"><u>Upgrade Your Workflow Today with a High-Performance HP Touch Laptop, Compatible Mouse, and Essential Microsoft 365 Tools for Just $400 - Exclusive Offer Inside!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-optimal-environmental-film-tech-roundup/"><u>[New] 2024 Approved Optimal Environmental Film Tech Roundup</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-chill-vibes-at-the-beijing-winter-olympics-2022-for-2024/"><u>[New] Chill Vibes at the Beijing Winter Olympics 2022 for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-powerhouse-guide-to-innovative-mobizen-screencasting-techniques/"><u>[Updated] Powerhouse Guide to Innovative Mobizen Screencasting Techniques</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722966782220-boost-your-pc-with-easy-to-install-intel-nvme-drivers-start-here/"><u>Boost Your PC with Easy-to-Install Intel NVMe Drivers – Start Here!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/brother-mfc-7360n-driver-downloads-and-compatibility-with-windows-11-8-and-7/"><u>Brother MFC-7360N Driver Downloads & Compatibility with Windows 11, 8 & 7!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-honor-100-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Honor 100</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-latest-geforce-rtx-3070-ti-drivers-for-win-10-8-and-7-systems-official-nvidia-release/"><u>Download Latest GeForce RTX 3070 Ti Drivers for Win 10, 8 & 7 Systems - Official NVIDIA Release</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-lava-blaze-curve-5g-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Lava Blaze Curve 5G</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/solo-self-portraits-on-youtube-how-to-impress-viewers-for-2024/"><u>Solo Self-Portraits on YouTube How to Impress Viewers for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/subtitle-like-a-pro-a-tutorial-on-adding-captions-in-final-cut-pro-x-for-2024/"><u>Subtitle Like a Pro A Tutorial on Adding Captions in Final Cut Pro X for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/tech-guide-finding-the-latest-toshiba-driver-software-for-windows-devices/"><u>Tech Guide: Finding the Latest Toshiba Driver Software for Windows Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-hp-speaker-issues-fixing-the-beats-audio-driver-on-windows-11-8-and-7/"><u>Troubleshooting HP Speaker Issues: Fixing the Beats Audio Driver on Windows 11, 8 & 7</u></a></li>
+<li><a href="https://fox-links.techidaily.com/unlocking-the-potential-of-slug-line-formats-in-screenplays-for-2024/"><u>Unlocking the Potential of Slug Line Formats in Screenplays for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-or-download-the-latest-microsoft-sound-drivers-for-windows-systems/"><u>Update or Download the Latest Microsoft Sound Drivers for Windows Systems</u></a></li>
+<li><a href="https://win-popular.techidaily.com/yl-softwares-collection-premium-game-of-thrones-visual-content-stunning-photos-wallpaper-and-backgrounds-for-fans/"><u>YL Software's Collection: Premium Game of Thrones Visual Content - Stunning Photos, Wallpaper, and Backgrounds for Fans</u></a></li>
 </ul></div>
 

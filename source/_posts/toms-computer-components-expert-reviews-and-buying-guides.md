@@ -1,7 +1,7 @@
 ---
 title: Tom's Computer Components - Expert Reviews & Buying Guides
-date: 2024-08-19T10:33:50.994Z
-updated: 2024-08-20T10:33:50.994Z
+date: 2024-12-14T16:33:08.088Z
+updated: 2024-12-17T16:22:49.803Z
 tags:
   - monitor
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/uMVa5qAXwQsUJgwvUKTZik-320-80.jpg
 With[OLED](https://tools.techidaily.com) display technology moving from exotic to common, it’s genuinely a great time to buy a gaming monitor. OLED delivers excellent picture quality and performance, but it is expensive. If you look at 34-inch 21:9 screens, for example, an OLED version will cost around $1,000\. If you don’t have much money to spend, there are some good deals at the other end of the scale.
 
  Xiaomi is a brand you’ll find in big box stores, mainly in the TV aisle, but it also offers computer monitors. I have its latest one here for review, the G34WQi. It has a[WQHD](https://tools.techidaily.com) , 3440x1440, 34-inch 21:9[VA screen](https://tools.techidaily.com) running at 180 Hz with Adaptive-Sync, HDR, a 1500R curve, and wide gamut color. And it sells for less than $300.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Xiaomi G34WQi Specs
 
@@ -69,9 +73,6 @@ With[OLED](https://tools.techidaily.com) display technology moving from exotic t
 
  You might need a store employee to help you locate the G34WQi in a pile of monitor boxes because its carton has little printed on it to identify the contents. The three main parts are packed in crumbly foam and will require the services of a Philips-head screwdriver. A tiny one is included. The base is a simple metal plate with holes drilled in it. Find the two bolts in a small ziplock bag and attach it to the upright. Then, the panel snaps on. There is a 75mm VESA mount for aftermarket arms, but you’ll need to source your own fasteners. The power supply is external, but it’s a large wall wart rather than the usual brick. The lone bundled cable is DisplayPort.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Product 360
 
  Image 1 of 4
@@ -90,6 +91,10 @@ With[OLED](https://tools.techidaily.com) display technology moving from exotic t
 
 ![Xiaomi G34WQi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  The G34WQi’s styling is back to basics with no frills like molded-in features or colored trim. The front bezel is flush and thin around the top and sides, and it has a 3H hardness anti-glare layer. It keeps light reflections at bay while enabling a sharp and grain-free image. The bottom trim has the Xiaomi logo in the middle, and you’ll find a larger version in the back made from glossy letters that contrast against a matte finish. An LED ring encircles the attachment point, which can show different color and effects that are programmed in the OSD. The joystick controller is also backlit, which accesses all monitor functions.
@@ -99,8 +104,9 @@ With[OLED](https://tools.techidaily.com) display technology moving from exotic t
  The inputs are hidden under a removable panel, including two DisplayPort and two HDMI. The HDMIs max out at 100 Hz, so you’ll need DisplayPort to run at 180 Hz. You also get a 3.5mm headphone jack. There are no internal speakers or USB ports.
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## OSD Features
 
  The G34WQi’s OSD pops up when you click the joystick to the right. Moving it left summons the input selector while up and down adjust the brightness.
@@ -109,41 +115,41 @@ With[OLED](https://tools.techidaily.com) display technology moving from exotic t
 
 ![Xiaomi G34WQi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
- (Image credit: Tom's Hardware)
-
-![Xiaomi G34WQi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
  (Image credit: Tom's Hardware)
 
 ![Xiaomi G34WQi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
- (Image credit: Tom's Hardware)
-
-![Xiaomi G34WQi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
 ![Xiaomi G34WQi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ (Image credit: Tom's Hardware)
+
+![Xiaomi G34WQi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+ (Image credit: Tom's Hardware)
+
+![Xiaomi G34WQi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+ (Image credit: Tom's Hardware)
+
+![Xiaomi G34WQi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
  (Image credit: Tom's Hardware)
 
 ![Xiaomi G34WQi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
- (Image credit: Tom's Hardware)
-
-![Xiaomi G34WQi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
@@ -155,13 +161,6 @@ With[OLED](https://tools.techidaily.com) display technology moving from exotic t
 
  The G34WQi includes a nice graphical menu for PIP and PBP options. You can view two video sources at once in split screen or window layouts. In the System menu are the LED lighting options, called Backstrip lighting. You can change the color, choose from breathing, static or rainbow effects, and match the color to onscreen content. Also here is the refresh rate indicator. There are no aiming points or sniper modes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## Xiaomi G34WQi Calibration Settings
 
  The G34WQi does not need calibration in the default Standard picture mode with Game Mode turned off. If you want to tweak, there are five gamma presets that measure as marked. And there’s a custom color temp with RGB sliders. They are fairly coarse in operation, but I managed a small improvement in color accuracy with a few minor changes. The full native gamut is in play for SDR and HDR content. It covers just over 91% of DCI-P3\. If you want sRGB, choose that option from the Color space field in the Picture Mode menu. Below are my recommended SDR settings. HDR signals gray out all picture controls. You can switch automatically by setting HDR to Auto. Here’s an important tip: raise the brightness to maximum before switching to HDR. Otherwise, the G34WQi will remain at the same light output level, and you won’t be able to adjust it once the HDR signal is active. More on this later.
@@ -207,8 +206,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -216,4 +213,24 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-help.techidaily.com/get-now-amd-rx-6900-xt-driver-software-for-all-windows-users-111087/"><u>[Get Now] AMD RX 6900 XT Driver Software for All Windows Users (11/10/8/7)</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-becoming-a-broadcast-guru-1080p-facebook-streaming-essentials-for-2024/"><u>[New] Becoming a Broadcast Guru 1080P Facebook Streaming Essentials for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-fine-tune-your-virtual-interaction-with-close-up-google-meet-tips/"><u>[Updated] 2024 Approved Fine-Tune Your Virtual Interaction with Close-Up Google Meet Tips</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-exclusive-selection-best-desktop-pcs/"><u>[Updated] In 2024, Exclusive Selection Best Desktop Pcs</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-unlocking-instagrams-hidden-qanda-features/"><u>[Updated] Unlocking Instagram’s Hidden Q&A Features</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-budget-game-design-tools-and-software-for-aspiring-developers/"><u>2024 Approved Budget Game Design Tools and Software for Aspiring Developers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-microsoft-ergo-keyboard-4000-drivers-with-simple-steps-for-optimal-performance/"><u>Download and Update Microsoft Ergo Keyboard 4000 Drivers with Simple Steps for Optimal Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-method-to-upgrade-lenovo-energy-control-system-components/"><u>Effortless Method to Upgrade Lenovo Energy Control System Components</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-drawing-experience-with-the-latest-driver-update-for-huion-h610-pro-graphics-pad/"><u>Enhance Your Drawing Experience with the Latest Driver Update for Huion H610 Pro Graphics Pad</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ensure-razer-optimal-performance-with-updated-drivers-for-windows-11-xp-to-vista-users/"><u>Ensure Razer Optimal Performance with Updated Drivers for Windows 11, XP to Vista Users</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-tecno-spark-go-2023-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Tecno Spark Go (2023)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-tips-to-repair-hp-monitor-connectivity-issues-via-windows-drivers-windows-1087/"><u>Expert Tips to Repair HP Monitor Connectivity Issues via Windows Drivers (Windows 10/8/7)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-or-install-your-epson-wf-7710-printer-driver-for-windows-108187-step-by-step-guide/"><u>How to Update or Install Your EPSON WF-7710 Printer Driver for Windows 10/8.1/8/7 - Step by Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hps-comprehensive-print-drivers-for-windows-systems-download-now/"><u>HP's Comprehensive Print Drivers for Windows Systems - Download Now</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721103846329-optimize-bluetooth-drivers-make-windows-work-better/"><u>Optimize Bluetooth Drivers, Make Windows Work Better</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/quik-fix-a-review-of-gopros-video-editor-and-top-pc-alternatives/"><u>Quik Fix A Review of GoPros Video Editor & Top PC Alternatives</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/trasforma-i-tuoi-filmati-mkv-in-mp4-con-elevata-fedelta-visiva-una-guida-rapida-per-la-conversione-senza-perdita-di-qualita/"><u>Trasforma I Tuoi Filmati MKV in MP4 Con Elevata Fedeltà Visiva: Una Guida Rapida per La Conversione Senza Perdita Di Qualità</u></a></li>
+</ul></div>
 

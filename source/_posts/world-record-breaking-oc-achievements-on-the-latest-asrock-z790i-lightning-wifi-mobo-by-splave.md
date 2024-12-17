@@ -1,7 +1,7 @@
 ---
 title: World Record-Breaking OC Achievements on the Latest ASRock Z790I Lightning WiFi Mobo by Splave
-date: 2024-08-19T10:31:20.399Z
-updated: 2024-08-20T10:31:20.399Z
+date: 2024-12-13T16:07:13.658Z
+updated: 2024-12-17T16:09:33.601Z
 tags:
   - motherboards
 categories:
@@ -47,6 +47,10 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
 
  The fact is, Loongson has developed its own CPU just a few generations behind Intel and AMD. Considering the Chinese firm has to work around U.S. sanctions and claims to insist on doing everything based on its own IP, the performance could actually be considered impressive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -63,8 +67,6 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -72,17 +74,26 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-prepping-for-the-latest-macos-big-sur-update/"><u>[New] 2024 Approved Prepping for the Latest MacOS Big Sur Update</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-drones-unleashed-selecting-the-right-supplementary-gear/"><u>[Updated] In 2024, Drones Unleashed Selecting the Right Supplementary Gear</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-standout-nintendo-switch-fighting-games-index-max-156/"><u>2024 Approved Standout Nintendo Switch Fighting Games Index (Max 156)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-contacts-from-xiaomi-13t-by-fonelab-android-recover-contacts/"><u>Best Android Data Recovery - Retrieve Lost Contacts from Xiaomi 13T.</u></a></li>
+<li><a href="https://solve-news.techidaily.com/boosting-online-success-through-cookiebot-technology-a-leap-in-marketing-automation-and-personalization/"><u>Boosting Online Success Through Cookiebot Technology: A Leap in Marketing Automation and Personalization</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comparing-windows-n-releases-tech-enthusiasts-guide/"><u>Comparing Windows N Releases: Tech Enthusiast's Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cutting-edge-video-player-apps-for-iphone-and-ipad-top-10/"><u>Cutting-Edge Video Player Apps for iPhone and iPad (Top 10)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-steps-to-download-and-install-official-corsair-mouse-driver/"><u>Easy Steps to Download and Install Official Corsair Mouse Driver</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ensure-seamless-compatibility-download-logitech-g920-drivers-now-supports-windows-11-10-8-and-windows-7-platform/"><u>Ensure Seamless Compatibility: Download Logitech G920 Drivers Now - Supports Windows 11, 10, 8 and Windows 7 Platform</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-from-apple-iphone-6s-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code From Apple iPhone 6s in the Best Ways</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-the-latest-all-in-one-printer-drivers-for-hp-deskjet-3755-supported-on-windows-vistaxp/"><u>Install the Latest All-in-One Printer Drivers for HP DeskJet 3755 – Supported on Windows Vista/XP</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-drivers-and-firmware-updates-for-logitech-mk710-mouse/"><u>Latest Drivers and Firmware Updates for Logitech MK710 Mouse</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/masterful-fixes-for-your-windows-11-bluetooth-connection-issues-a-step-by-step-solution/"><u>Masterful Fixes for Your Windows 11 Bluetooth Connection Issues: A Step-by-Step Solution</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/resolving-ralink-rt3290-drivers-problems-on-windows-11-8-and-7-a-comprehensive-guide/"><u>Resolving Ralink RT3290 Drivers Problems on Windows 11, 8 & 7: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-getting-your-logitech-g-pro-mic-working-again/"><u>Step-by-Step Guide: Getting Your Logitech G Pro Mic Working Again</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-vivo-v27-pro-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Vivo V27 Pro Phone Pattern Lock</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-hp-printer-software-for-windows-11-easy-guide-and-links-to-download/"><u>Update Your HP Printer Software for Windows 11: Easy Guide and Links to Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/updating-to-the-newest-nvidia-1080-drivers-on-windows-10-made-simple/"><u>Updating to the Newest NVIDIA 1080 Drivers on Windows 10 Made Simple</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722969412894-z2-the-best-pc-upgrade-get-your-intel-z270-gaming-pro-carbon-motherboard-now/"><u>Z2 The Best PC Upgrade: Get Your Intel Z270 Gaming Pro Carbon Motherboard Now</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

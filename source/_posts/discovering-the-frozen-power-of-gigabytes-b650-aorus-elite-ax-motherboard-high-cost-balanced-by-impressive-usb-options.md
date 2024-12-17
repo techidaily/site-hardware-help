@@ -1,7 +1,7 @@
 ---
 title: Discovering the Frozen Power of Gigabyte's B650 Aorus Elite AX Motherboard - High Cost Balanced by Impressive USB Options
-date: 2024-08-19T10:30:50.754Z
-updated: 2024-08-20T10:30:50.754Z
+date: 2024-12-16T16:06:52.957Z
+updated: 2024-12-17T16:23:15.540Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,18 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-efficiently-downloading-youtube-sections-in-minutes/"><u>[New] 2024 Approved Efficiently Downloading YouTube Sections in Minutes</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-building-a-solid-base-for-higher-instagram-video-view-counts/"><u>[Updated] 2024 Approved Building a Solid Base for Higher Instagram Video View Counts</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-creating-revenue-streams-on-snapchat-for-2024/"><u>[Updated] Creating Revenue Streams on Snapchat for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-ultimate-visual-experience-eizos-4k-monitor-reviewed-for-2024/"><u>[Updated] Ultimate Visual Experience EIZO's 4K Monitor Reviewed for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-poco-c51-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Poco C51? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/perfecting-your-podcast-in-depth-zoom-video-recording-tutorial-for-2024/"><u>Perfecting Your Podcast In-Depth Zoom Video Recording Tutorial for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-how-to-install-latest-ati-drivers-in-windows-os/"><u>Step-by-Step Tutorial: How to Install Latest ATI Drivers in Windows OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-tutorial-on-how-to-refresh-your-audio-technica-drivers-efficiently/"><u>The Ultimate Tutorial on How to Refresh Your Audio-Technica Drivers Efficiently</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformer-gratuitement-un-fichier-mp4-en-m2ts-en-ligne-movavi/"><u>Transformer Gratuitement Un Fichier MP4 en M2TS en Ligne - Movavi</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/updated-epson-workforce-ds-30-driver-package-for-windows-11-and-earlier-versions/"><u>Updated Epson WorkForce DS 30 Driver Package for Windows 11 and Earlier Versions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrading-your-motherboard-driver-made-simple-in-a-windows-environment/"><u>Upgrading Your Motherboard Driver Made Simple in a Windows Environment</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->

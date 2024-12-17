@@ -1,7 +1,7 @@
 ---
 title: "Inside Tom's Gear Workshop: Expert Advice on Building PCs"
-date: 2024-08-19T10:29:01.253Z
-updated: 2024-08-20T10:29:01.253Z
+date: 2024-12-13T16:25:20.517Z
+updated: 2024-12-17T16:20:42.292Z
 tags:
   - motherboards
 categories:
@@ -45,6 +45,10 @@ Maxsun brought many unique motherboards to[Computex](https://tools.techidaily.co
 
  Typical of mini-ITX motherboards, there are only two memory slots. The ones on the MS-Challenger B760BKB D5 are[DDR5](https://tools.techidaily.com) slots, so you can have up to 96GB of memory and more when 64GB DDR5 memory modules are available. Speed-wise, these should be up to DDR5-8000, assuming your processor can handle it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -63,8 +67,6 @@ Maxsun brought many unique motherboards to[Computex](https://tools.techidaily.co
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -72,8 +74,18 @@ Maxsun brought many unique motherboards to[Computex](https://tools.techidaily.co
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-help.techidaily.com/download-focusrite-scarlett-solo-driver-for-windows/"><u>[Download] Focusrite Scarlett Solo Driver For Windows</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-increase-photographic-imagery-keeping-details-intact/"><u>[New] Increase Photographic Imagery, Keeping Details Intact</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-stepwise-methodology-for-launching-a-discord-channel/"><u>[New] Stepwise Methodology for Launching a Discord Channel</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-ultimate-free-stopwatches-without-a-price-tag/"><u>[Updated] Ultimate Free Stopwatches Without a Price Tag</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-zooming-in-to-the-heart-of-roleplay-robloxs-close-up-guide/"><u>[Updated] Zooming In to the Heart of Roleplay Roblox's Close-Up Guide</u></a></li>
+<li><a href="https://win-webster.techidaily.com/1-recover-deleted-vscode-files-why-they-arent-showing-up-in-the-recycle-bin-and-how-to-fix-it/"><u>1. 'Recover Deleted VSCode Files: Why They Aren't Showing Up in the Recycle Bin & How to Fix It!'</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-tech-your-familys-comprehensive-overview/"><u>AI Tech: Your Family's Comprehensive Overview</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-repair-and-fix-the-realtek-wi-fi-driver-compatibility-with-windows-111n7-systems-solved/"><u>How to Repair and Fix the Realtek Wi-Fi Driver Compatibility with Windows 11/1N/7 Systems [Solved]</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-logitech-g-pro-racing-wheel-software-for-windows-users-windows-11-downloads-available/"><u>Install Logitech G PRO Racing Wheel Software for Windows Users: Windows 11 Downloads Available</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-update-or-download-essential-drivers-for-your-surface-book-2/"><u>Ultimate Guide: Update or Download Essential Drivers for Your Surface Book 2</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/unveiling-the-garmin-venu-sq-a-revolutionary-device-for-247-wellness-monitoring/"><u>Unveiling the Garmin Venu Sq: A Revolutionary Device for 24/7 Wellness Monitoring</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Editorial Reveal: The Hidden Workhorse Feature That Elevates This Year’s Number One 2-in-1 Device for Professionals"
-date: 2024-11-30T04:02:53.278Z
-updated: 2024-12-05T09:19:56.488Z
+date: 2024-12-13T16:39:46.539Z
+updated: 2024-12-17T16:03:42.385Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -73,7 +73,7 @@ The ThinkPad X1 2-in-1 performs well in most cases, although it's not necessaril
 It also did well on the benchmark tests I ran, even outperforming the Intel Core i9-9880H. I'm very familiar with the Ultra 7, so I expected solid performance. Indeed, it is because of this familiarity that I was surprised to see this model's price. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -112,22 +112,24 @@ Additionally, keep in mind that adding options like an OLED screen and hardware 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-chronocapture-expert-time-lapse-techniques-for-samsung-users-for-2024/"><u>[New] ChronoCapture Expert Time-Lapse Techniques for Samsung Users for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-secrets-to-profitability-earning-with-youtube-shorts-explored/"><u>[Updated] In 2024, Secrets to Profitability Earning with YouTube Shorts Explored</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-live-stream-to-youtube-with-obs-step-by-step-guide-for-beginners/"><u>2024 Approved Live Stream to Youtube with OBS Step by Step Guide for Beginners</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/comprehensive-tutorial-for-refreshing-the-driver-software-of-an-epson-wf-7620-on-a-pc-with-windows-os/"><u>Comprehensive Tutorial for Refreshing the Driver Software of an Epson WF-7620 on a PC with Windows OS</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722857868688-curious-about-your-audience-pinpoint-visitors-for-any-shared-google-document-here/"><u>Curious About Your Audience? Pinpoint Visitors for Any Shared Google Document Here</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/disabling-apple-iphone-15-plus-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>Disabling Apple iPhone 15 Plus Parental Restrictions With/Without Password | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-sony-vaio-drivers-on-your-windows-pc/"><u>Download & Install Sony VAIO Drivers on Your Windows PC</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-set-up-your-insignia-vga-adapter-complete-guide-with-drivers/"><u>Download and Set Up Your Insignia VGA Adapter: Complete Guide with Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-steps-to-download-and-update-your-epson-printers-software-on-windows-11/"><u>Easy Steps to Download and Update Your Epson Printer's Software on Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/eliminate-windows-code-31-problems-with-these-simple-fixes/"><u>Eliminate Windows Code 31 Problems with These Simple Fixes</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/essential-techniques-for-saving-and-recording-ps4-gameplay-for-2024/"><u>Essential Techniques for Saving and Recording PS4 Gameplay for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-intel-wi-fi-6-ax200-driver-software-for-windows-11-and-10/"><u>Get the Latest Intel Wi-Fi 6 AX200 Driver Software for Windows 11 and 10</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-install-the-latest-intel-dual-band-ac-3160-wireless-network-adapter-driver-with-ease/"><u>How to Install the Latest Intel Dual Band AC 3160 Wireless Network Adapter Driver with Ease</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-14-pro-max-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone 14 Pro Max With or Without Password</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-unveiling-premium-priced-no-cost-graphic-websites/"><u>In 2024, Unveiling Premium-Priced, No-Cost Graphic Websites</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/record-breaking-performance-achieved-by-overclocked-ryzen-9-9950x-to-67-ghz-using-ln2/"><u>Record-Breaking Performance Achieved by Overclocked Ryzen 9 9950X to 6.7 GHz Using LN2</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/successful-guide-elan-smbus-driver-installation-and-updates-for-windows-systems/"><u>Successful Guide: ELAN SMBus Driver Installation & Updates for Windows Systems</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-boost-your-facebook-profile-select-8-apps-with-highest-like-potential/"><u>[New] 2024 Approved Boost Your Facebook Profile Select 8 Apps with Highest Like Potential</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-navigating-adobe-cloud-insights-and-best-non-adobe-choices/"><u>[New] 2024 Approved Navigating Adobe Cloud, Insights & Best Non-Adobe Choices</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/levate-your-aspects-a-beginner-cookbook-for-asmr-filmmaking/"><u>[New] Elevate Your Aspects A Beginner' Cookbook for ASMR Filmmaking</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-flawlessly-merged-the-linkage-of-instagram-and-tiktok-for-2024/"><u>[Updated] Flawlessly Merged The Linkage of Instagram & TikTok for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-by-step-guide-to-seamlessly-downloading-and-modifying-tamil-ringtones/"><u>2024 Approved Step-by-Step Guide to Seamlessly Downloading and Modifying Tamil Ringtones</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bring-back-lost-connection-revive-the-invisible-logitech-brio-webcam-in-new-windows-environment-answered/"><u>Bring Back Lost Connection: Revive the Invisible Logitech Brio Webcam in New Windows Environment [Answered]</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discovering-cutting-edge-electronics-at-toms-technological-haven/"><u>Discovering Cutting-Edge Electronics at Tom's Technological Haven</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/employing-alternative-antibiotics-such-as-clindamycin-or-penicillins-which-may-still-have-activity-against-metronidazole-resistant-clostridium-perfringens-s68/"><u>Employing Alternative Antibiotics Such as Clindamycin or Penicillins, Which May Still Have Activity Against Metronidazole-Resistant Clostridium Perfringens Strains.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723011425011-fix-youtube-stuttering-troubles-for-smooth-viewing-experience-now/"><u>Fix YouTube Stuttering Troubles for Smooth Viewing Experience – Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-freshly-released-updates-for-nvidia-quadro-rtx-4000-graphics-card-drivers/"><u>Get Freshly Released Updates for NVIDIA Quadro RTX #4000 Graphics Card Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-new-intel-centrino-wireless-n-6205-drivers-now-free-download/"><u>Get Your New Intel Centrino Wireless-N 6205 Drivers Now – [Free Download]</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/insignias-top-recommended-driver-for-usb-to-network-connection/"><u>Insignia's Top Recommended Driver for USB to Network Connection</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/logitech-g402-mouse-setup-and-installation-get-the-latest-drivers/"><u>Logitech G402 Mouse Setup & Installation - Get the Latest Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-fix-for-thunderbolt-connection-intels-user-friendly-driver-download/"><u>Quick Fix for Thunderbolt Connection - Intel's User-Friendly Driver Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-updating-your-windows-11-webcam-drivers/"><u>Step-by-Step Guide to Updating Your Windows 11 Webcam Drivers</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-five-fold-windows-11-data-collection/"><u>The Five-Fold Windows 11 Data Collection</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-computer-chronicles-in-depth-analysis-of-modern-tech-marvels/"><u>Tom's Computer Chronicles: In-Depth Analysis of Modern Tech Marvels</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-rated-artist-drawing-tablets-the-ultimate-list/"><u>Top Rated Artist Drawing Tablets - The Ultimate List</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-why-isnt-my-laptop-charging-on-windows-11/"><u>Troubleshooting Guide: Why Isn't My Laptop Charging on Windows 11?</u></a></li>
 </ul></div>
 

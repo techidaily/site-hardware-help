@@ -1,7 +1,7 @@
 ---
 title: "Tom's Computer Equipment Insights: Find the Perfect Tech Setup"
-date: 2024-08-19T10:29:55.462Z
-updated: 2024-08-20T10:29:55.462Z
+date: 2024-12-16T16:23:52.363Z
+updated: 2024-12-17T16:12:52.918Z
 tags:
   - motherboards
 categories:
@@ -15,9 +15,17 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
 
  But this new memory is popping up in desktops, too, with its own unique benefits. Here's what you need to know about CAMM2 and LP CAMM 2:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Where did CAMM2 come from?
 
  CAMM[originated with Dell](https://tools.techidaily.com) as a project to replace bulkier SO-DIMM memory slots. But the company[worked with JEDEC](https://tools.techidaily.com) , a semiconductor standards body, which tweaked it and made CAMM2 available to a number of different PC companies.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are CAMM2 and LPCAMM2? What are their benefits?
 
@@ -37,6 +45,10 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
 
 ![CAMM2](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  On the desktop, the benefits are less about upgradeability, as no one has been soldering RAM to enthusiast PC motherboards. On the one hand, the lack of bulky DIMMs is an aesthetic improvement. It also means that you don't have to worry about the height of your RAM when you install one of the[best CPU coolers](https://tools.techidaily.com) . That said, the boards we saw at Computex only had a single CAMM2 memory slot, so an upgrade would require replacing all of your RAM when swapping your CAMM2 RAM.
@@ -48,20 +60,13 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
  The modules might help enable new form factors, too. At Computex,[Adata showed off its Nia handheld](https://tools.techidaily.com) , which uses LPCAMM2 using LPDDR5X.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How much memory fits on a CAMM2 module?
 
 Between 8GB and 128GB of memory fits on a single module.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Is LPCAMM2 faster than existing SO-DIMMs and DIMMs?
 
  Yes. As of this writing,[Crucial is listing](https://www.crucial.com/memory/ddr5/ct64g75c2lp5xg) 32GB and 64GB LPDDR5X-7200 LPCAMM2 modules. At Computex, TeamGroup said its 16GB, 32GB, and 64GB memory will go up to 9600 MT/s. Samsung's[page on LPCAMM2](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fgo.redirectingat.com%2F%3Fid%3D92X1584492%26xcust%3Dtomshardware%255Fus%255F4400621493195954499%26xs%3D1%26url%3Dhttps%253A%252F%252Fsemiconductor.samsung.com%252Femea%252Fdram%252Fmodule%252Flpcamm2%252F%26sref%3Dhttps%253A%252F%252Fwww.tomshardware.com%252Fpc-components%252Fmotherboards%252Fwhat-is-camm2) lists an "extraordinary data transfer rate of 8,533Mbps," the same number memory company[Geil showed at Computex](https://www.techpowerup.com/323173/geil-presents-a-wide-range-of-memories-at-computex-camm2-lpcamm2-alongside-many-ddr5s) .
@@ -71,8 +76,9 @@ Between 8GB and 128GB of memory fits on a single module.
  We haven't seen any DDR5 CAMM2 products on the market just yet, so we don't know if those speeds will go even higher.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What are alternatives to CAMM2?
 
  In theory, there's nothing stopping vendors from using standard DIMMs or SO-DIMMs, or continuing to solder memory to the motherboard. Staying with the status quo is an alternative, at least for now.
@@ -87,8 +93,6 @@ Between 8GB and 128GB of memory fits on a single module.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -96,4 +100,19 @@ Between 8GB and 128GB of memory fits on a single module.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-examining-splitcam-top-video-recorder-in-2024/"><u>[New] Examining SplitCam Top Video Recorder, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-game-development-behind-the-scenes/"><u>[Updated] 2024 Approved Game Development Behind-the-Scenes</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-instant-melodic-livestreaming-on-iqiyi-for-2024/"><u>[Updated] Instant Melodic Livestreaming on IQiYi for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/collaborative-branding-strategies-in-digital-media-for-2024/"><u>Collaborative Branding Strategies in Digital Media for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-best-performance-downloading-and-setting-up-hp-zbook-15-g3-drives-on-your-windows-pc/"><u>Get the Best Performance: Downloading and Setting Up HP ZBook 15 G3 Drives on Your Windows PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-logitech-t630-software-for-windows-pcs-7-8-and-10-downloads/"><u>Latest Logitech T630 Software for Windows PCs: 7, 8, and 10 Downloads</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/non-healing-ulcers-in-specific-areas-can-indicate-occlusion-at-particular-points-along-the-arterial-tree-supplying-that-region/"><u>Non-Healing Ulcers in Specific Areas Can Indicate Occlusion at Particular Points Along the Arterial Tree Supplying that Region.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/perfect-your-pc-performance-updating-amd-drivers-across-multiple-windows-systems/"><u>Perfect Your PC Performance: Updating AMD Drivers Across Multiple Windows Systems</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/romance-rivalry-unpacking-spanish-and-portuguese-linguistics/"><u>Romance Rivalry: Unpacking Spanish & Portuguese Linguistics</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/score-a-complimentary-macbook-air-m3-from-best-buy-the-clever-trick-revealed-zdnet/"><u>Score a Complimentary MacBook Air M3 From Best Buy: The Clever Trick Revealed! [ZDNet]</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/understanding-and-adhering-to-soundtracks-legal-requirements-on-instagram-for-2024/"><u>Understanding and Adhering to Soundtracks' Legal Requirements on Instagram for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/updated-amd-radeon-hd-driver-software-for-windows-systems-free-downloads-available/"><u>Updated AMD Radeon HD Driver Software for Windows Systems – Free Downloads Available</u></a></li>
+</ul></div>
 

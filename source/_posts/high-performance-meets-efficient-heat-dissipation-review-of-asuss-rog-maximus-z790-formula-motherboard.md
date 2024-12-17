@@ -1,7 +1,7 @@
 ---
 title: "High Performance Meets Efficient Heat Dissipation: Review of Asus's ROG Maximus Z790 Formula Motherboard"
-date: 2024-08-19T10:30:58.424Z
-updated: 2024-08-20T10:30:58.424Z
+date: 2024-12-10T16:28:48.971Z
+updated: 2024-12-17T16:12:45.182Z
 tags:
   - motherboards
 categories:
@@ -45,6 +45,10 @@ Maxsun brought many unique motherboards to[Computex](https://tools.techidaily.co
 
  Typical of mini-ITX motherboards, there are only two memory slots. The ones on the MS-Challenger B760BKB D5 are[DDR5](https://tools.techidaily.com) slots, so you can have up to 96GB of memory and more when 64GB DDR5 memory modules are available. Speed-wise, these should be up to DDR5-8000, assuming your processor can handle it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -63,8 +67,6 @@ Maxsun brought many unique motherboards to[Computex](https://tools.techidaily.co
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -72,8 +74,20 @@ Maxsun brought many unique motherboards to[Computex](https://tools.techidaily.co
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-the-dark-side-of-digital-escapism/"><u>[New] In 2024, The Dark Side of Digital Escapism</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-navigating-the-new-age-of-tiktok-reacts-filmmakers-guide-using-filmora-for-2024/"><u>[New] Navigating the New Age of TikTok Reacts – Filmmaker's Guide Using Filmora for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-step-by-step-methods-for-iphone-screen-capture-for-2024/"><u>[New] Step-by-Step Methods for iPhone Screen Capture for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-unveiling-the-secrets-of-stardew-valley-emphasizing-its-jewel-ginger-island/"><u>2024 Approved Unveiling the Secrets of Stardew Valley, Emphasizing Its Jewel - Ginger Island</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-yogic-path-top-10-pioneers-in-virtual-practice/"><u>2024 Approved Yogic Path Top 10 Pioneers in Virtual Practice</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-rx-ebx-560-driver-troubleshooting-on-multiple-windows-versions/"><u>AMD RX Ebx 560 Driver Troubleshooting on Multiple Windows Versions</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/cant-play-mp4-files-on-redmi-note-13-pro-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Can't play MP4 files on Redmi Note 13 Pro 5G</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-ultimate-guide-installing-a-reliable-validity-fingerprint-sensor-drivers-today/"><u>Download the Ultimate Guide: Installing a Reliable Validity Fingerprint Sensor Drivers Today</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-guide-to-downloading-drivers-for-your-asus-z370-e-platform/"><u>Quick Guide to Downloading Drivers for Your ASUS Z370-E Platform</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/say-goodbye-to-shaky-cam-mastering-video-stabilization-in-fcpx-for-2024/"><u>Say Goodbye to Shaky Cam Mastering Video Stabilization in FCPX for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/stealth-mode-for-social-media-users-like-privacy/"><u>Stealth Mode for Social Media Users: Like Privacy</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975991873-update-your-brother-mfc-j480dw-windows-drivers-now/"><u>Update Your Brother MFC-J480DW Windows Drivers Now!</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

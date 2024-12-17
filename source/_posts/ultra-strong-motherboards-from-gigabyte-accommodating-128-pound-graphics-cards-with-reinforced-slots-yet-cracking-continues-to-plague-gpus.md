@@ -1,7 +1,7 @@
 ---
 title: "Ultra-Strong Motherboards From Gigabyte: Accommodating 128-Pound Graphics Cards with Reinforced Slots – Yet, Cracking Continues to Plague GPUs"
-date: 2024-08-19T10:31:17.222Z
-updated: 2024-08-20T10:31:17.222Z
+date: 2024-12-11T16:14:27.895Z
+updated: 2024-12-17T16:25:52.943Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,19 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-help.techidaily.com/latest-and-fast-new-version-of-vga-drivers-free-download-for-optimal-performance/"><u>[Latest & Fast] New Version of VGA Drivers - Free Download for Optimal Performance</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-exposure-boost-for-your-social-media-visuals/"><u>[New] In 2024, Exposure Boost for Your Social Media Visuals</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-strategies-for-adequate-lighting-in-youtube-videos/"><u>[Updated] In 2024, Strategies for Adequate Lighting in YouTube Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigating-closer-views-for-efficient-tech-meetings/"><u>[Updated] Navigating Closer Views for Efficient Tech Meetings</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-itel-s23-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Itel S23</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/a-comprehensive-guide-to-remove-images-background-in-canva-for-2024/"><u>A Comprehensive Guide to Remove Image’s Background In Canva for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/advanced-techniques-in-logitech-webcam-video-recording/"><u>Advanced Techniques in Logitech Webcam Video Recording</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/ai-driven-naming-tools-for-dynamic-podcast-titles/"><u>AI-Driven Naming Tools for Dynamic Podcast Titles</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/bluetooth-50-asus-usb-bt500-drivers-compatible-with-windows-11108/"><u>Bluetooth 5.0 Asus USB-BT500 Drivers - Compatible with Windows 11/10/8</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-msi-speakers-and-headphones-up-to-date-with-new-drivers-windows/"><u>Get Your MSI Speakers & Headphones Up-to-Date with New Drivers [Windows]</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-oneplus-nord-n30-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on OnePlus Nord N30 5G Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-start-how-to-find-and-install-the-right-toshiba-printer-drivers-on-windows-systems/"><u>Quick Start: How to Find & Install the Right Toshiba Printer Drivers on Windows Systems</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->

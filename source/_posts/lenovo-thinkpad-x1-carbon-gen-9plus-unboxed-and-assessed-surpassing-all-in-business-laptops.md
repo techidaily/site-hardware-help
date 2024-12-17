@@ -1,7 +1,7 @@
 ---
 title: Lenovo ThinkPad X1 Carbon (Gen 9+) Unboxed & Assessed – Surpassing All in Business Laptops?
-date: 2024-12-10T04:50:28.184Z
-updated: 2024-12-10T22:28:38.601Z
+date: 2024-12-16T16:31:10.794Z
+updated: 2024-12-17T16:30:12.329Z
 tags:
   - laptops
 categories:
@@ -46,7 +46,7 @@ Image: Charles McLellan / ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Design
@@ -70,7 +70,7 @@ For connections, you're limited to two USB-C (3.2 Gen 2) ports on the left side,
 You can access the innards of the ThinkPad X13s by removing six screws and prising off the bottom cover, although upgrade options are limited. We did poke around inside our first review unit, which arrived with no functioning Wi-Fi and no access to the webcam, to no avail. Our second review unit worked just fine. For all its thin-and-lightness, the ThinkPad X13s is [MIL-STD-810H](https://en.wikipedia.org/wiki/MIL-STD-810)\-tested and should cope with the rigours of a mobile professional's routine. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Features
@@ -84,7 +84,7 @@ There are three screen options, all IPS panels with WUXGA (1920 x 1200) resoluti
 As well as the biometric authentication methods noted earlier, the ThinkPad X13s includes internal security features such as a discrete TPM 2.0 chip, Microsoft's [Pluton TPM architecture](https://learn.microsoft.com/en-us/windows/security/information-protection/pluton/pluton-as-tpm) running on the Snapdragon 8cx Gen 3's SPU (Secure Processing Unit) and a self-healing BIOS. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Performance & battery life
@@ -116,7 +116,7 @@ Thermal camera images of the ThinkPad X13s under load.
 Images: Charles McLellan / ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Conclusions
@@ -170,7 +170,7 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -218,15 +218,20 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-best-practices-for-hash-tags-in-fb-marketing-campaigns/"><u>[New] Best Practices for Hash Tags in FB Marketing Campaigns</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-surviving-in-mc-6-home-ideas/"><u>[New] Surviving in MC 6 Home Ideas</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-elite-virtual-classrooms-finding-value-outside-udemys-ecosystem/"><u>[Updated] 2024 Approved Elite Virtual Classrooms Finding Value Outside Udemy's Ecosystem</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-asus-atk0110-bios-and-acpi-drivers-for-free-your-ultimate-guide/"><u>Download Asus ATK0110 BIOS and ACPI Drivers for Free: Your Ultimate Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/enhance-wireless-performance-latest-tp-link-adapter-drivers-for-windows-operating-systems-11-8-and-7-free-downloads-available/"><u>Enhance Wireless Performance: Latest TP-Link Adapter Drivers for Windows Operating Systems (11, 8, and 7) - Free Downloads Available</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/explore-exceptional-economically-priced-asmr-gear-for-2024/"><u>Explore Exceptional, Economically-Priced ASMR Gear for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-downloads-for-qualcomm-atheros-ar3011-bluetooth-version-30-drivers/"><u>Free Downloads for Qualcomm Atheros AR3011 Bluetooth Version 3.0 Drivers</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-vivo-y17s-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Vivo Y17s is off? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-guide-to-accessing-and-leaving-focus-in-windows-terminal/"><u>Quick Guide to Accessing & Leaving Focus in Windows Terminal</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-maintaining-your-microsoft-mouse-on-windows-with-updated-drivers/"><u>The Ultimate Guide to Maintaining Your Microsoft Mouse on Windows with Updated Drivers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-optimizing-playback-speed-a-guide-for-spotify-users/"><u>[New] In 2024, Optimizing Playback Speed A Guide for Spotify Users</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-beat-blast-updated-technology/"><u>2024 Approved Beat Blast Updated Technology</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-xiaomi-redmi-12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-best-free-sound-editing-software-for-music-production-in-202e-expert-picks-from-movavi/"><u>Discover the Best Free Sound Editing Software for Music Production in 202E - Expert Picks From Movavi</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/driver-fixes-installed-addressing-compatibility-for-xbox-controllers-in-windows-os-versions-10-8-and-7/"><u>Driver Fixes Installed! Addressing Compatibility for Xbox Controllers in Windows OS Versions 10, 8 & 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-download-m-audio-fast-track-drivers-compatible-with-various-windows-versions/"><u>Easy Download: M-Audio Fast Track Drivers Compatible with Various Windows Versions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-installation-download-hps-laserjet-pro-m127fn-printer-drivers-now/"><u>Easy Installation: Download HP's Laserjet Pro M127FN Printer Drivers Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-usb-camera-software-setup-get-your-download-here/"><u>Effortless USB Camera Software Setup – Get Your Download Here!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-advice-on-getting-your-samsung-blu-ray-disc-player-back-up-and-running/"><u>Expert Advice on Getting Your Samsung Blu-Ray Disc Player Back Up and Running</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722955080411-explore-the-updates-logitech-extreme-3d-pro-drivers-now-with-improved-performance/"><u>Explore the Updates: Logitech Extreme 3D Pro Drivers Now with Improved Performance!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-6s-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 6s to other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-a-comprehensive-guide-to-mastering-ipogo-for-pokemon-go-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, A Comprehensive Guide to Mastering iPogo for Pokémon GO On Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/step-by-step-guide-total-reset-of-your-iphone-on-pcsmacs-with-stellar/"><u>Step-by-Step Guide: Total Reset of Your iPhone on PCs/Macs with Stellar</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-effortless-battery-driver-updates-for-windows-users/"><u>Step-by-Step Tutorial: Effortless Battery Driver Updates for Windows Users</u></a></li>
+<li><a href="https://media-tips.techidaily.com/the-leading-sound-enthusiasts-selection-of-the-top-10-music-software-on-windows-1-groovyos/"><u>The Leading Sound Enthusiast's Selection of the Top 10 Music Software on Windows 1 groovyOS!</u></a></li>
 </ul></div>
 

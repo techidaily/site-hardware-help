@@ -1,7 +1,7 @@
 ---
 title: AMD Gears Up to Release Compatible 800 Series Chipsets Tailored For Ryzen CPUs - Numbered System Echoes Intel's Approach
-date: 2024-08-19T10:30:01.401Z
-updated: 2024-08-20T10:30:01.401Z
+date: 2024-12-12T16:01:54.395Z
+updated: 2024-12-17T16:16:12.383Z
 tags:
   - motherboards
 categories:
@@ -25,6 +25,10 @@ Hardware leaker[Jaykihn](https://x.com/jaykihn0/status/1808315008000143799) on X
 
  If this claim is legitimate, this new RL-ILM will be an excellent update to the LGA1851 socket. Overclockers and enthusiasts running outgoing LGA1700 motherboards and CPUs are virtually forced to invest in[aftermarket contact frames](https://tools.techidaily.com) to improve thermal performance. In fact, some high-end cooling manufacturers have engineered custom contact frames customers can use to replace Intel's ILM, such as the[Arctic Freezer III](https://tools.techidaily.com) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -39,8 +43,6 @@ Hardware leaker[Jaykihn](https://x.com/jaykihn0/status/1808315008000143799) on X
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -48,8 +50,21 @@ Hardware leaker[Jaykihn](https://x.com/jaykihn0/status/1808315008000143799) on X
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-prime-visual-backdrops-for-efficient-collaboration/"><u>[New] Prime Visual Backdrops for Efficient Collaboration</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-effective-techniques-for-building-robust-podcast-rss-feeds/"><u>[Updated] Effective Techniques for Building Robust Podcast RSS Feeds</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-screenshare-catcher-fb-groups/"><u>[Updated] ScreenShare Catcher - Fb Groups</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/epson-artisan-1430-printer-drivers-downloads-for-microsoft-windows-latest-version/"><u>Epson Artisan 1430 Printer Drivers Downloads for Microsoft Windows - Latest Version</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722971477111-get-the-latest-realtek-rtl81drivers-for-your-pc-on-windows-107/"><u>Get the Latest Realtek RTL81#Drivers for Your PC on Windows 10/7!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722962352174-get-the-newest-geforce-rtx-70-drivers-for-windows-1110-free-download-available/"><u>Get the Newest GeForce RTX 지오70 Drivers for Windows 11/10 – Free Download Available</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-install-or-update-your-ricoh-printers-driver-on-a-windows-computer/"><u>How to Install or Update Your Ricoh Printer's Driver on a Windows Computer</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-watch-or-apple-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How To Bypass Activation Lock On Apple Watch Or Apple iPhone 15 Pro Max?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-razer-driver-updates-compatible-with-windows-111087xpvista-free-downloads/"><u>Latest Razer Driver Updates: Compatible with Windows 11/10/8/7/XP/Vista - Free Downloads</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/powerpoint-presentation-soundtracking-secrets/"><u>PowerPoint Presentation Soundtracking Secrets</u></a></li>
+<li><a href="https://win-answers.techidaily.com/restoring-soundscape-a-guide-to-resolve-pc-playback-problems-in-fallout-4/"><u>Restoring Soundscape: A Guide to Resolve PC Playback Problems in Fallout 4</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-extracting-tv-show-episodes-from-your-dvd-collection/"><u>Step-by-Step Guide: Extracting TV Show Episodes From Your DVD Collection</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-xbox-adapter-driver-errors-on-windows-1087-comprehensive-guide/"><u>Troubleshooting Xbox Adapter Driver Errors on Windows 10/8/7 - Comprehensive Guide</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

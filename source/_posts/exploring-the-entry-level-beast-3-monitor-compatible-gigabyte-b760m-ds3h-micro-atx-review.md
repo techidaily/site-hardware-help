@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Entry-Level Beast: 3-Monitor Compatible Gigabyte B760M DS3H Micro ATX Review"
-date: 2024-08-19T10:30:56.282Z
-updated: 2024-08-20T10:30:56.282Z
+date: 2024-12-16T16:16:48.507Z
+updated: 2024-12-17T16:03:13.410Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,20 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-synching-release-timings-to-audience-trends/"><u>[New] 2024 Approved Synching Release Timings to Audience Trends</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exquisite-talent-in-vr-content-development/"><u>[New] Exquisite Talent in VR Content Development</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-top-10-free-apps-for-crafting-youtube-channel-graphics/"><u>[Updated] 2024 Approved Top 10 Free Apps for Crafting YouTube Channel Graphics</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-mpow-bluetooth-drivers-compatible-with-windows-10-8-and-7/"><u>Download and Update MPOW Bluetooth Drivers: Compatible with Windows 10, 8 & 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-how-to-install-fresh-dell-monitor-drivers-efficiently/"><u>Download and Update: How To Install Fresh Dell Monitor Drivers Efficiently</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-epson-es-400-software-compatible-with-windows-systems/"><u>Get the Latest Epson ES-400 Software Compatible with Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-easily-update-corsair-audio-drivers-for-improved-sound-quality-on-windows/"><u>How to Easily Update Corsair Audio Drivers for Improved Sound Quality on Windows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-the-pc-game-crash-in-wolcen-lords-of-mayhem/"><u>How to Fix the PC Game Crash in Wolcen: Lords of Mayhem</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-kids-on-steroids-ryans-incredible-journey-from-child-to-ceo/"><u>In 2024, Kids on Steroids Ryan’s Incredible Journey From Child to CEO</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transforma-tus-videos-en-linea-de-alta-calidad-desde-mpgmpeg4-al-formato-universal-mkv-gratis-gracias-a-la-herramienta-de-conversion-intuitiva-y-rapida-de-m13/"><u>Transforma Tus Vídeos en Línea De Alta Calidad Desde MPG/MPEG4 Al Formato Universal MKV Gratis Gracias a La Herramienta De Conversión Intuitiva Y Rápida De MovieAVI</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-step-by-step-tutorial-on-enabling-incognito-mode-in-google-chrome/"><u>Ultimate Step-By-Step Tutorial on Enabling Incognito Mode in Google Chrome</u></a></li>
+<li><a href="https://program-issues.techidaily.com/wolcen-lords-of-mayhem-game-crashing-issues-on-pc-resolved/"><u>Wolcen - Lords of Mayhem Game Crashing Issues on PC Resolved</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

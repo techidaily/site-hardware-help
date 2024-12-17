@@ -1,7 +1,7 @@
 ---
 title: MSI Releases Information on Z790 Board Failures Due to Flawed PCH Chips - Manufacturing Glitch Affects Select Units (Latest News)
-date: 2024-08-19T10:31:02.696Z
-updated: 2024-08-20T10:31:02.696Z
+date: 2024-12-12T16:12:18.249Z
+updated: 2024-12-17T16:08:44.988Z
 tags:
   - motherboards
 categories:
@@ -47,6 +47,10 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
 
  The fact is, Loongson has developed its own CPU just a few generations behind Intel and AMD. Considering the Chinese firm has to work around U.S. sanctions and claims to insist on doing everything based on its own IP, the performance could actually be considered impressive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -63,8 +67,6 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -72,8 +74,24 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-blog.techidaily.com/1723010746885-avatar-frontiers-of-pandora-wont-open-here-are-proven-fixes/"><u>'Avatar: Frontiers of Pandora' Won't Open? Here Are Proven Fixes</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/inking-youtubes-harmony-to-imovie-clips-effortlessly/"><u>[New] Linking Youtube's Harmony to iMovie Clips Effortlessly</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-next-level-designers-post-acid-tools-explored/"><u>[New] Next-Level Designers Post-ACID Tools Explored</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-zoom-calls-with-flair-filters-application-101/"><u>[Updated] 2024 Approved Zoom Calls with Flair Filters Application 101</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-the-latest-version-of-ch340g-device-drivers-for-optimal-performance-on-windows-11/"><u>Download and Install the Latest Version of CH340G Device Drivers for Optimal Performance on Windows 11</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/expedite-the-essential-tiktok-downloads-manual-for-2024/"><u>Expedite The Essential TikTok Downloads Manual for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-set-up-with-magic-mouse-compatibility-downloading-and-installing-applicable-drivers-for-windows-computers/"><u>Get Set Up with Magic Mouse Compatibility: Downloading and Installing Applicable Drivers for Windows Computers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-m-audio-fast-track-driver-for-windows-11-7-8-and-81-today/"><u>Get Your M-Audio Fast Track Driver for Windows 11, 7, 8 and 8.1 Today!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/grosse-eines-grossen-videos-verkleinern-effiziente-tipps-und-tricks-fur-einen-reibungslosen-facebook-stream/"><u>Größe Eines Großen Videos Verkleinern - Effiziente Tipps Und Tricks Für Einen Reibungslosen Facebook-Stream</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-the-latest-broadcom-bluetooth-drivers-for-windows-11-8-and-7/"><u>How to Get the Latest Broadcom Bluetooth Drivers for Windows 11, 8 & 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-securely-download-your-acer-monitors-latest-driver-software/"><u>How to Securely Download Your Acer Monitor's Latest Driver Software</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-charting-new-territory-strategies-for-youtube-keyword-research/"><u>In 2024, Charting New Territory Strategies for YouTube Keyword Research</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/overcoming-beats-sound-drivers-challenges-solutions-for-hp-and-windows-users/"><u>Overcoming Beats Sound Drivers Challenges - Solutions for HP and Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-correcting-ralink-rt3290-driver-issues-for-multiple-windows-versions/"><u>Step-by-Step Guide to Correcting Ralink RT3290 Driver Issues for Multiple Windows Versions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-instructions-for-your-scansnap-s1300i-driver-installation-and-updates/"><u>Step-by-Step Instructions for Your ScanSnap S1300i Driver Installation & Updates!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-5-smoke-free-outdoor-fire-pit-reviews-2022-edition-insights-from-zdnet/"><u>Top 5 Smoke-Free Outdoor Fire Pit Reviews: 2022 Edition - Insights From ZDNet</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/transformation-mp4-a-wmv-en-ligne-sans-frais-convertisseur-rapide-avec-movavi/"><u>Transformation MP4 À WMV en Ligne Sans Frais - Convertisseur Rapide Avec Movavi</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->

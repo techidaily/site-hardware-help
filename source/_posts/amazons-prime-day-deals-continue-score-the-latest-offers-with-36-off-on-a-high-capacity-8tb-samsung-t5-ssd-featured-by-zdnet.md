@@ -1,7 +1,7 @@
 ---
 title: Amazon's Prime Day Deals Continue! Score the Latest Offers with 36%% Off on a High-Capacity 8TB Samsung T5 SSD - Featured by ZDNet
-date: 2024-12-06T23:52:48.198Z
-updated: 2024-12-11T11:57:03.923Z
+date: 2024-12-14T16:40:26.167Z
+updated: 2024-12-17T16:08:41.272Z
 tags:
   - laptops
 categories:
@@ -28,7 +28,7 @@ With a truly impressive amount of storage space, you'll get read and write speed
 Along with great read and write speeds and more reliable data transfers, the [Samsung T5 Evo](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Portable-External-MU-PH8T0S-AM%2Fdp%2FB0CMDGGJTZ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4ab1ecbe-c873-4814-a3e4-f87f539faa02%7Cdtp&dtb=1) also features 256-bit AES encryption to keep your personal data and sensitive information safe from unauthorized access. Its outer casing is drop- and shock-resistant and can withstand falls up to six feet, making it perfect for on-location photographers and other mobile professionals who need a tough storage drive for offloading raw photos from camera storage or transferring important projects and documents between their home office and mobile work location. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -65,24 +65,24 @@ While the Amazon listing for the Samsung T5 Evo portable SSD does not have a cou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-hd-to-uhd-seamless-video-transformations/"><u>[New] 2024 Approved HD to UHD Seamless Video Transformations</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/1716069580706-updated-2024-approved-pc-games-memory-freeze-and-capture-6-ways-to-win/"><u>[Updated] 2024 Approved PC Games Memory - Freeze and Capture 6 Ways to Win!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-apex-creations-workspace-assessment/"><u>[Updated] Apex Creations Workspace Assessment</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-giggles-in-a-box-iphone-fun/"><u>[Updated] Giggles in a Box (iPhone Fun)</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-recording-wonders-lightweight-win-11-edition/"><u>[Updated] Recording Wonders Lightweight Win 11 Edition</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-unleash-creativity-with-these-innovative-6-apps-for-instagram-reels-for-2024/"><u>[Updated] Unleash Creativity with These Innovative 6 Apps for Instagram Reels for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-latest-geforce-rtx-1660-super-graphics-card-drivers/"><u>Download and Install Latest GeForce RTX 1660 Super Graphics Card Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-logitech-t630-mouse-drivers-compatible-with-win-7-8-and-10/"><u>Download Logitech T630 Mouse Drivers: Compatible with Win 7, 8 & 10</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/fixing-ralink-rt3290-wi-fi-drivers-on-windows-11-8-and-7-a-complete-guide/"><u>Fixing Ralink RT3290 Wi-Fi Drivers on Windows 11, 8 & 7: A Complete Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-video-graphics-driver-updates-download-now/"><u>Get the Latest Video Graphics Driver Updates - Download Now!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-targus-displaylink-driver-software-for-windows-users-compatible-with-11-8-and-groovy-oldies-free-downloads/"><u>Get the Newest Targus DisplayLink Driver Software for Windows Users – Compatible with 11, 8 & Groovy Oldies - Free Downloads</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-windows-10-ready-essential-usb-c-drivers-download/"><u>Get Your Windows 10 Ready: Essential USB-C Drivers Download</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-ricoh-mp-c3003-printer-drivers-easy-guide-and-links/"><u>Install Ricoh MP C3003 Printer Drivers: Easy Guide and Links</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723206753948-microsoft-print-to-pdf-not-working-in-windows-1011-heres-the-solution/"><u>Microsoft Print-to-PDF Not Working in Windows 10/11? Here's the Solution</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-and-easy-installation-of-dell-latitude-e6420-device-drivers/"><u>Quick and Easy Installation of Dell Latitude E6420 Device Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/resolved-complete-elan-smbus-driver-setup-and-latest-version-for-windows-systems/"><u>Resolved: Complete ELAN SMBus Driver Setup & Latest Version for Windows Systems</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/shining-scenes-quick-tips-to-transform-your-iphone-video-brilliance-for-2024/"><u>Shining Scenes Quick Tips to Transform Your iPhone Video Brilliance for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ge-video-production-techniques-for-timelessness-for-2024/"><u>Vintage Video Production Techniques for Timelessness for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/wallets-best-friend-for-sound-a-review-on-oneplus-buds/"><u>Wallet's Best Friend for Sound - A Review on OnePlus Buds</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-the-ultimate-shutter-showdown-best-for-slow-motion-videos/"><u>[New] In 2024, The Ultimate Shutter Showdown Best for Slow Motion Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-share-your-vids-youtube-to-insta-stories/"><u>[Updated] 2024 Approved Share Your Vids YouTube to Insta-Stories</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tricks-for-non-engagement-with-edgenuity-video-content/"><u>[Updated] Tricks for Non-Engagement with Edgenuity Video Content</u></a></li>
+<li><a href="https://discover-data.techidaily.com/bitcoin-embracement-in-el-salvador-paves-way-for-americas-singapore-status-perspectives-by-vaneck-and-innovator-yl-computing/"><u>Bitcoin Embracement in El Salvador Paves Way for ‘Americas Singapore’ Status – Perspectives by VanEck and Innovator YL Computing</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/canoscan-lide-120-scanner-drivers-latest-downloads-and-updates-guide/"><u>CanoScan LiDE 120 Scanner Drivers – Latest Downloads and Updates Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-intel-hd-graphics-drivers-on-windows-11-step-by-step-guide/"><u>Download & Update Intel HD Graphics Drivers on Windows 11: Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-hp-deskjet-annoy-2700-functionality-with-the-new-drivers-downloaded-for-free/"><u>Enhance Your HP Deskjet Annoy 2700 Functionality with the New Drivers Downloaded for Free</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fast-track-to-downloading-your-elgato-drivers/"><u>Fast Track to Downloading Your Elgato Drivers!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722972343954-get-your-latest-msi-bluetooth-drivers-here-supports-both-windows-11-and-10/"><u>Get Your Latest MSI Bluetooth Drivers Here - Supports Both Windows 11 and 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hassle-free-fixes-for-bcm2045a0-driver-complications-solved/"><u>Hassle-Free Fixes for BCM2045A0 Driver Complications | Solved!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-thrustmaster-t300-racing-game-drivers-on-your-windows-10-or-11-pc/"><u>How to Get Thrustmaster T300 Racing Game Drivers on Your Windows 10 or 11 PC</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-video-edits-made-simple-with-windows-10s-story-remix/"><u>In 2024, Innovative Video Edits Made Simple with Windows 10'S Story Remix</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-list-of-accessibility-8-premium-free-mp3-grabber-apps-android/"><u>In 2024, Ultimate List of Accessibility 8 Premium Free MP3 Grabber Apps (Android)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-the-newest-realtek-driver-software-directly-from-our-site-for-optimal-windows-11-support/"><u>Install the Newest Realtek Driver Software Directly From Our Site for Optimal Windows 11 Support</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-updating-your-usb-to-serial-adapters-device-driver/"><u>Step-by-Step Guide: Updating Your USB-to-Serial Adapter's Device Driver</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/taming-the-unpredictable-an-in-depth-review-of-monsters-in-monster-hunter-world/"><u>Taming the Unpredictable: An In-Depth Review of Monsters in 'Monster Hunter: World'</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-multilingual-maven-writes-on-cutting-edge-video-translators-ranked-23/"><u>The Multilingual Maven’ Writes On Cutting-Edge Video Translators Ranked 23</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-honor-x50-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Honor X50 Device</u></a></li>
+<li><a href="https://win-studio.techidaily.com/transferring-data-between-your-mac-and-external-hdd-top-3-cost-free-methods/"><u>Transferring Data Between Your Mac and External HDD: Top 3 Cost-Free Methods</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Experience Next-Level Gaming with MSI's New Range of 240Hz QD-OLED Monitors – 34 and 27 Inch 1440P Ultra-Fast Screens Enhanced by USB-C Connectivity
-date: 2024-08-19T10:34:23.284Z
-updated: 2024-08-20T10:34:23.284Z
+date: 2024-12-12T16:11:14.047Z
+updated: 2024-12-17T16:11:34.487Z
 tags:
   - monitor
 categories:
@@ -65,9 +65,17 @@ With[OLED](https://tools.techidaily.com) display technology moving from exotic t
 
  My first impression is that the G34WQi is focused on image quality and performance; in those respects, it delivers well beyond its modest price.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Assembly and Accessories
 
  You might need a store employee to help you locate the G34WQi in a pile of monitor boxes because its carton has little printed on it to identify the contents. The three main parts are packed in crumbly foam and will require the services of a Philips-head screwdriver. A tiny one is included. The base is a simple metal plate with holes drilled in it. Find the two bolts in a small ziplock bag and attach it to the upright. Then, the panel snaps on. There is a 75mm VESA mount for aftermarket arms, but you’ll need to source your own fasteners. The power supply is external, but it’s a large wall wart rather than the usual brick. The lone bundled cable is DisplayPort.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Product 360
 
@@ -75,16 +83,10 @@ With[OLED](https://tools.techidaily.com) display technology moving from exotic t
 
 ![Xiaomi G34WQi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Xiaomi)
 
 ![Xiaomi G34WQi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Xiaomi)
 
 ![Xiaomi G34WQi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -94,8 +96,9 @@ With[OLED](https://tools.techidaily.com) display technology moving from exotic t
 ![Xiaomi G34WQi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  The G34WQi’s styling is back to basics with no frills like molded-in features or colored trim. The front bezel is flush and thin around the top and sides, and it has a 3H hardness anti-glare layer. It keeps light reflections at bay while enabling a sharp and grain-free image. The bottom trim has the Xiaomi logo in the middle, and you’ll find a larger version in the back made from glossy letters that contrast against a matte finish. An LED ring encircles the attachment point, which can show different color and effects that are programmed in the OSD. The joystick controller is also backlit, which accesses all monitor functions.
@@ -104,9 +107,6 @@ With[OLED](https://tools.techidaily.com) display technology moving from exotic t
 
  The inputs are hidden under a removable panel, including two DisplayPort and two HDMI. The HDMIs max out at 100 Hz, so you’ll need DisplayPort to run at 180 Hz. You also get a 3.5mm headphone jack. There are no internal speakers or USB ports.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## OSD Features
 
  The G34WQi’s OSD pops up when you click the joystick to the right. Moving it left summons the input selector while up and down adjust the brightness.
@@ -116,11 +116,8 @@ With[OLED](https://tools.techidaily.com) display technology moving from exotic t
 ![Xiaomi G34WQi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
- (Image credit: Tom's Hardware)
-
-![Xiaomi G34WQi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
@@ -135,8 +132,13 @@ With[OLED](https://tools.techidaily.com) display technology moving from exotic t
 ![Xiaomi G34WQi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ (Image credit: Tom's Hardware)
+
+![Xiaomi G34WQi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
  (Image credit: Tom's Hardware)
 
 ![Xiaomi G34WQi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -144,6 +146,10 @@ With[OLED](https://tools.techidaily.com) display technology moving from exotic t
  (Image credit: Tom's Hardware)
 
 ![Xiaomi G34WQi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -155,9 +161,6 @@ With[OLED](https://tools.techidaily.com) display technology moving from exotic t
 
  The G34WQi includes a nice graphical menu for PIP and PBP options. You can view two video sources at once in split screen or window layouts. In the System menu are the LED lighting options, called Backstrip lighting. You can change the color, choose from breathing, static or rainbow effects, and match the color to onscreen content. Also here is the refresh rate indicator. There are no aiming points or sniper modes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Xiaomi G34WQi Calibration Settings
 
  The G34WQi does not need calibration in the default Standard picture mode with Game Mode turned off. If you want to tweak, there are five gamma presets that measure as marked. And there’s a custom color temp with RGB sliders. They are fairly coarse in operation, but I managed a small improvement in color accuracy with a few minor changes. The full native gamut is in play for SDR and HDR content. It covers just over 91% of DCI-P3\. If you want sRGB, choose that option from the Color space field in the Picture Mode menu. Below are my recommended SDR settings. HDR signals gray out all picture controls. You can switch automatically by setting HDR to Auto. Here’s an important tip: raise the brightness to maximum before switching to HDR. Otherwise, the G34WQi will remain at the same light output level, and you won’t be able to adjust it once the HDR signal is active. More on this later.
@@ -203,8 +206,6 @@ With[OLED](https://tools.techidaily.com) display technology moving from exotic t
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -212,4 +213,26 @@ With[OLED](https://tools.techidaily.com) display technology moving from exotic t
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-help.techidaily.com/download-geforce-rtx-3090-driver-for-windows-10-8-or-7/"><u>[Download] GeForce RTX 3090 Driver for Windows 10, 8 or 7</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-complete-2024-video-show-analysis-and-tips/"><u>[New] Complete 2024 Video Show Analysis & Tips</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-mystery-of-missing-movies-a6400s-quandary-for-2024/"><u>[Updated] Mystery of Missing Movies A6400's Quandary for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-navigating-rights-in-instagram-songs/"><u>[Updated] Navigating Rights in Instagram Songs</u></a></li>
+<li><a href="https://fox-making.techidaily.com/1728502785498-4/"><u>「ハードディスクに保存された写真や画像を回復する4つのテクニック」</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-the-science-of-light-in-hdr-photography/"><u>2024 Approved The Science of Light in HDR Photography</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722970890181-brother-mfc-7360n-flawless-driver-setup-on-windows-11-8-or-7-a-hassle-free-guide/"><u>Brother MFC-7360N: Flawless Driver Setup on Windows 11, 8 or 7 - A Hassle-Free Guide!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-guide-to-updating-your-hp-asters-drivers-with-the-latest-version-for-model-840-g3/"><u>Complete Guide to Updating Your HP Asters' Drivers with the Latest Version for Model 840 G3.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/direct-link-install-updated-drivers-for-enhanced-gaming-experience-with-your-rtx-206esupers-on-windows/"><u>Direct Link: Install Updated Drivers for Enhanced Gaming Experience with Your RTX 206eSupers on Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-installation-how-to-get-asus-atk0100-acpi-drivers-installed/"><u>Easy Installation: How To Get ASUS ATK0100 ACPI Drivers Installed</u></a></li>
+<li><a href="https://win11.techidaily.com/establish-prerequisites-before-vbox-installation/"><u>Establish Prerequisites Before VBox Installation</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-usb-30-drivers-installed-on-a-windows-pc-free-downloads/"><u>Get Your USB 3.0 Drivers Installed on a Windows PC - Free Downloads!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-fix-network-device-cannot-be-found-tl-wn722n-error-on-your-computer/"><u>How to Fix 'Network Device Cannot Be Found - TL-WN722N' Error on Your Computer</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-pixel-fold-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Pixel Fold.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-driver-updates-for-the-hp-laserjet-pro-p160n6dn-on-pcs-with-windows-operating-system/"><u>Latest Driver Updates for the HP LaserJet Pro P160n6dn on PCs with Windows Operating System</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-windows-compatible-hp-officejet-pro-8600-software-and-driver-downloads/"><u>Latest Windows-Compatible HP Officejet Pro 8600 Software and Driver Downloads</u></a></li>
+<li><a href="https://techidaily.com/remove-the-lock-of-infinix-smart-8-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Infinix Smart 8</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-5-tracking-apps-to-track-apple-iphone-14-plus-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>Top 5 Tracking Apps to Track Apple iPhone 14 Plus without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-fix-for-the-persistent-0x800705b4-windows-update-problem-in-windows-11-systems/"><u>Ultimate Fix for the Persistent 0X800705b4 Windows Update Problem in Windows 11 Systems</u></a></li>
+</ul></div>
 

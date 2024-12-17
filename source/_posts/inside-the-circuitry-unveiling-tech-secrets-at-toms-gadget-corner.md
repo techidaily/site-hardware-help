@@ -1,7 +1,7 @@
 ---
 title: "Inside the Circuitry: Unveiling Tech Secrets at Tom's Gadget Corner"
-date: 2024-08-19T10:30:16.458Z
-updated: 2024-08-20T10:30:16.458Z
+date: 2024-12-16T16:24:13.129Z
+updated: 2024-12-17T16:07:06.306Z
 tags:
   - motherboards
 categories:
@@ -19,6 +19,10 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
 
  CAMM[originated with Dell](https://tools.techidaily.com) as a project to replace bulkier SO-DIMM memory slots. But the company[worked with JEDEC](https://tools.techidaily.com) , a semiconductor standards body, which tweaked it and made CAMM2 available to a number of different PC companies.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What are CAMM2 and LPCAMM2? What are their benefits?
 
  There are two major types of CAMM2 memory. DDR5 CAMM2 is the full power version, and the one you're most likely to see in desktop PCs. There's also the low-power LPDDR5 CAMM2, designed for thin laptops. Some vendors are shortening this to LPCAMM2, which is slightly less of a mouthful.  
@@ -33,9 +37,17 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
 
 ![CAMM2](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![CAMM2](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -48,15 +60,17 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
  The modules might help enable new form factors, too. At Computex,[Adata showed off its Nia handheld](https://tools.techidaily.com) , which uses LPCAMM2 using LPDDR5X.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How much memory fits on a CAMM2 module?
 
 Between 8GB and 128GB of memory fits on a single module.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is LPCAMM2 faster than existing SO-DIMMs and DIMMs?
 
  Yes. As of this writing,[Crucial is listing](https://www.crucial.com/memory/ddr5/ct64g75c2lp5xg) 32GB and 64GB LPDDR5X-7200 LPCAMM2 modules. At Computex, TeamGroup said its 16GB, 32GB, and 64GB memory will go up to 9600 MT/s. Samsung's[page on LPCAMM2](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fgo.redirectingat.com%2F%3Fid%3D92X1584492%26xcust%3Dtomshardware%255Fus%255F4400621493195954499%26xs%3D1%26url%3Dhttps%253A%252F%252Fsemiconductor.samsung.com%252Femea%252Fdram%252Fmodule%252Flpcamm2%252F%26sref%3Dhttps%253A%252F%252Fwww.tomshardware.com%252Fpc-components%252Fmotherboards%252Fwhat-is-camm2) lists an "extraordinary data transfer rate of 8,533Mbps," the same number memory company[Geil showed at Computex](https://www.techpowerup.com/323173/geil-presents-a-wide-range-of-memories-at-computex-camm2-lpcamm2-alongside-many-ddr5s) .
@@ -65,9 +79,6 @@ Between 8GB and 128GB of memory fits on a single module.
 
  We haven't seen any DDR5 CAMM2 products on the market just yet, so we don't know if those speeds will go even higher.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What are alternatives to CAMM2?
 
  In theory, there's nothing stopping vendors from using standard DIMMs or SO-DIMMs, or continuing to solder memory to the motherboard. Staying with the status quo is an alternative, at least for now.
@@ -82,8 +93,6 @@ Between 8GB and 128GB of memory fits on a single module.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -91,4 +100,20 @@ Between 8GB and 128GB of memory fits on a single module.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-help.techidaily.com/download-update-targus-displaylink-drivers-in-windows-1187/"><u>[DOWNLOAD] Update Targus DisplayLink Drivers in Windows 11/8/7</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-10-tips-and-tricks-to-better-use-pixlr-editor/"><u>[Updated] 10 Tips and Tricks to Better Use Pixlr Editor</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pinpointing-premium-hdr-camera-brands/"><u>2024 Approved Pinpointing Premium HDR Camera Brands</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/cutting-edge-computer-components-decoded-at-toms-hardware-source/"><u>Cutting-Edge Computer Components Decoded at Tom's Hardware Source</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-compatible-software-for-your-logiteche-g29-steering-unit-on-modern-windows-systems/"><u>Download the Compatible Software for Your Logiteche G29 Steering Unit on Modern Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-your-zexmte-bluetooth-device-driver-for-windows-versions-xpvista7/"><u>Download Your ZexMTE Bluetooth Device Driver for Windows Versions (XP/Vista/7)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-dells-online-experience-by-quickly-downloading-its-most-recent-wifi-networking-driver/"><u>Enhance Your Dell's Online Experience by Quickly Downloading Its Most Recent WiFi Networking Driver</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/how-to-upload-and-transform-videos-into-4k-ultra-hd-resolution-for-mac-computers/"><u>How To Upload and Transform Videos Into 4K Ultra HD Resolution for Mac Computers</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Nokia 105 Classic? | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1726030182117-nhk/"><u>NHKラジオの高品質保存に最適な無料録音ツールと使用法</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/surviving-rain-or-shine-top-rated-watershield-phone-sleeves-of-the-current-era/"><u>Surviving Rain or Shine: Top Rated Watershield Phone Sleeves of the Current Era</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722972846272-updated-msi-z370-a-pro-motherboard-drivers-download-today/"><u>Updated MSI Z370-A Pro Motherboard Drivers: Download Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrade-your-display-experience-fresh-vga-driver-software-available/"><u>Upgrade Your Display Experience: Fresh VGA Driver Software Available</u></a></li>
+</ul></div>
 

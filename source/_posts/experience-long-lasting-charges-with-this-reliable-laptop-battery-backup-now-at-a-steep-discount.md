@@ -1,7 +1,7 @@
 ---
 title: Experience Long-Lasting Charges with This Reliable Laptop Battery Backup - Now at a Steep Discount !
-date: 2024-12-07T06:50:44.447Z
-updated: 2024-12-10T21:27:17.976Z
+date: 2024-12-12T16:07:41.804Z
+updated: 2024-12-17T16:17:22.098Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ Adrian Kingsley-Hughes/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -45,7 +45,7 @@ So what does HD stand for? High density. Put simply, Baseus used a different bat
 [ZDNET RECOMMENDS Baseus Blade HD The Baseus Blade HD is an upgraded version of the Blade, and makes use of silicon-carbon lithium polymer battery technology, making it 18% lighter and 20% smaller than the previous version. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBaseus-Charging-Portable-Charger-20000mAh%2Fdp%2FB0BZP6R4MH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9e5af2cd-174d-4168-9ba8-7222cb64c3bd%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Baseus Blade HD tech specs
@@ -102,7 +102,7 @@ Recharge times are also very acceptable, at 1.2 hours when using the included US
 One thing that hasn't changed from the previous incarnation is that every surface of the Blade HD, just like the Blade before it, is a dust magnet, and will pick up and show every bit of dirt that gets on it. But the textured finish is nice in that the power bank isn't slippery like a lot of them are, so it's less likely to fall on the floor or into your laptop's keyboard!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -139,20 +139,22 @@ That aside, the [Baseus Blade HD](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-audiovisual-excellence-top-5-premium-slow-motion-gear/"><u>[New] In 2024, Audiovisual Excellence Top 5 Premium Slow-Motion Gear</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Motorola Razr 40 | Dr.fone</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/consigli-esperti-come-salvare-spostare-e-recuperare-i-tuoi-file-importanti/"><u>Consigli Esperti: Come Salvare, Spostare E Recuperare I Tuoi File Importanti</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-setup-guide-hp-scanning-software-compatible-with-windows/"><u>Download & Setup Guide: HP Scanning Software Compatible with Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ensure-optimal-performance-with-focusrite-scarlett-18i20-windows-driver-download/"><u>Ensure Optimal Performance with Focusrite Scarlett 18I20 Windows Driver Download</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-updated-epson-wf-3620-drivers-compatible-with-windows-1087-free-download/"><u>Get Updated Epson WF-3620 Drivers Compatible with Windows 10/8/7 - Free Download</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-logitech-m525-peripheral-with-essential-drives-and-setup-programs/"><u>Get Your Logitech M525 Peripheral with Essential Drives and Setup Programs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-deskjet-ink-advantage-printer-find-the-official-3520-drivers-here/"><u>HP Deskjet Ink Advantage Printer - Find the Official 3520 Drivers Here!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-your-logitech-mx-a-step-by-step-guide-to-optimizing-the-mx-master-mouse/"><u>Mastering Your Logitech MX: A Step-by-Step Guide to Optimizing the MX Master Mouse</u></a></li>
-<li><a href="https://games-able.techidaily.com/pinnacle-ddr5-board-selection/"><u>Pinnacle DDR5 Board Selection</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-solutions-resolving-common-problems-with-i2c-human-interface-device-drivers/"><u>Quick Solutions: Resolving Common Problems with I2C Human Interface Device Drivers</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/swift-solutions-for-the-windows-10-photos-app-stability-woes-for-2024/"><u>Swift Solutions for the Window's 10 Photos App Stability Woes for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transform-your-shots-with-understanding-luts-for-2024/"><u>Transform Your Shots with Understanding LUTs for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-choosing-the-perfect-cable-modem-and-wi-fi-router/"><u>Ultimate Guide to Choosing the Perfect Cable Modem and Wi-Fi Router</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/-the-best-youtube-thumbnail-size-for-2024/"><u>What's the Best YouTube Thumbnail Size for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-mediatek-usb-vcom-driver-quickly-and-easily/"><u>[DOWNLOAD] MediaTek USB VCOM Driver | Quickly & Easily</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-free-screen-recorder-apowersoft-evaluation/"><u>[Updated] Free Screen Recorder Apowersoft Evaluation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-android-tips-flipping-video-images/"><u>2024 Approved Android Tips Flipping Video Images</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-landmarks-of-virtual-reality-showcases/"><u>2024 Approved Landmarks of Virtual Reality Showcases</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-facetune-examination-enhancing-photos-like-a-pro/"><u>2024 Approved The Ultimate Facetune Examination Enhancing Photos Like a Pro</u></a></li>
+<li><a href="https://video-capture.techidaily.com/comprehensive-tutorial-save-nbc-shows-for-pc-mac-ipads-iphones-and-android-phones/"><u>Comprehensive Tutorial: Save NBC Shows for PC, Mac, iPads, iPhones, & Android Phones</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-epson-ds-530-printer-drivers-for-windows-10-64-bit-free-guide/"><u>Download Epson DS-530 Printer Drivers for Windows 10 (64 Bit) - Free Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-official-asus-dvd-driver-software-today/"><u>Download the Official ASUS DVD Driver Software Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-advice-on-building-pcs-the-ultimate-guide-by-toms-hardware/"><u>Expert Advice on Building PCs - The Ultimate Guide by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-logitech-high-definition-webcam-c52erc300-series-driver-for-windows-systems/"><u>Get Logitech High-Definition Webcam C52er/C300 Series Driver for Windows Systems</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/how-to-get-snapchat-on-mac-in-2024/"><u>How to Get Snapchat on Mac, In 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210932567-how-to-resolve-the-persistent-windows-store-error-0x80072ee7-proven-solutions-unveiled/"><u>How to Resolve the Persistent Windows Store Error 0X80072EE7: Proven Solutions Unveiled!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-samsung-galaxy-xcover-6-pro-tactical-edition-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Samsung Galaxy XCover 6 Pro Tactical Edition</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-the-best-hardware-options-tips-from-toms-domain/"><u>Navigating the Best Hardware Options - Tips From Tom's Domain</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/preserve-the-look-of-your-iphone-13-with-these-3-must-have-accessories-suggested-by-zdnet/"><u>Preserve the Look of Your iPhone 13 with These 3 Must-Have Accessories, Suggested by ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-setup-secure-your-zebra-gk420d-driver-immediate-access-available/"><u>Quick Setup: Secure Your Zebra GK420D Driver - Immediate Access Available</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-hardware-secrets-at-toms-tech-hub/"><u>Unveiling Hardware Secrets at Tom’s Tech Hub</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Reviews: Discover the Chromebook Dominating Long-Lasting Battery Life Uncontestably!"
-date: 2024-12-09T02:37:39.035Z
-updated: 2024-12-10T19:38:15.724Z
+date: 2024-12-13T16:29:23.323Z
+updated: 2024-12-17T16:36:56.434Z
 tags:
   - laptops
 categories:
@@ -35,7 +35,7 @@ When Chromebooks first arrived, it took a while for everyone to understand a dev
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -53,7 +53,7 @@ Acer's Chromebook 516 GE aims to be the ideal device for those cloud services by
 **Also:** [**The 5 best Chromebooks for students**](https://www.zdnet.com/article/best-chromebook-for-students/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -70,7 +70,7 @@ Acer's Chromebook 516 GE aims to be the ideal device for those cloud services by
 | Dimensions and weight | 356.58 (W) x 249.67 (D) x 21.3 (H) mm (14.04 x 9.83 x 0.84 inches) \| 3.75lbs                                                    |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Build and ports
@@ -104,10 +104,6 @@ The included charger is on the large side for a Chromebook power supply.
 Michael Gariffo/ZDNET
 
 While everything else about the Chromebook felt premium, the charger was contrastingly generic. It did its job of topping up the 65Wh, 9-hour battery well and quickly, but it's larger than you'd expect, and looked a bit dated compared with most other high-end Chromebook models. I opted to use a more compact 140W entry in the [Ugreen GaN charger line](https://www.zdnet.com/home-and-office/smart-office/ugreens-gan-chargers-are-smaller-mightier-and-cooler-than-yours/) during most of my testing. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Performance
 
@@ -153,6 +149,10 @@ Hopefully future updates will bring the performance of Xbox cloud gaming closer 
 
 [Acer Chromebook 516 GE $559.95 at Walmart](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F1414639532&subId1=zd-__COM_CLICK_ID__-dtp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 You're looking at pretty much all you need for a very compelling gaming experience.
@@ -166,7 +166,7 @@ Just like all Chromebooks, gaming Chromebooks live or die on the quality of clou
 The saving grace here is that Acer and Nvidia have proven that cloud-based gaming is at the point where relatively inexpensive devices, like a high-end Chromebook, can compete with $1,000-plus machines, at least for just about everyone aside from ultra-competitive, first-person shooter fans. Now we just have to see how long it takes everyone else to catch up or surpass them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -213,24 +213,18 @@ Perhaps an odd fit as an alternative, but Valve's Steam Deck is a different take
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-effortless-background-watching-of-youtube-on-mobile/"><u>[New] 2024 Approved Effortless Background Watching of YouTube on Mobile</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-brightness-and-saturation-in-ps-basics/"><u>2024 Approved Unlocking Brightness and Saturation in PS Basics</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/1726027583233-dvd/"><u>既製DVD素材を迅速かつ容易にデジタルデータへ変換するテクニック</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-m-audio-fast-track-drivers-supports-windows-11-7-8-and-81/"><u>Download and Install M-Audio Fast Track Drivers: Supports Windows 11, 7, 8 & 8.1</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-radeon-rx-470-drivers-simplified-steps/"><u>Download and Update Radeon RX 470 Drivers - Simplified Steps</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-newest-intel-iris-plus-graphics-drivers-v396546-for-windows-10-and-11/"><u>Download the Newest Intel Iris Plus Graphics Drivers (v39.6546) for Windows 10 and 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/find-and-install-high-quality-audio-drivers-for-windows-computers/"><u>Find & Install High-Quality Audio Drivers for Windows Computers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-feeds-to-filters-connecting-instagram-and-tiktok-for-2024/"><u>From Feeds to Filters Connecting Instagram and TikTok for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/gambling/"><u>Gambling</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-amd-radeon-rx-amoledo-470-graphics-card-driver-software-for-your-pc-quick-and-easy/"><u>Get the Newest AMD Radeon RX Amoledo 470 Graphics Card Driver Software for Your PC, Quick & Easy</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-game-ready-nvidia-drivers-for-your-windows-gaming-system/"><u>Get the Newest Game-Ready NVIDIA Drivers for Your Windows Gaming System</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-incorrect-characters-while-typing-on-your-keyboard/"><u>How to Fix: Incorrect Characters While Typing on Your Keyboard</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/jolly-windows-11-makeover-7-tips-and-tricks/"><u>Jolly Windows 11 Makeover: 7 Tips and Tricks</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/live-stream-showdown-pick-your-favorite-vmix-or-wirecast/"><u>Live Stream Showdown Pick Your Favorite, VMix or Wirecast</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/obtain-your-qualcomm-atheros-ar93-8x-drivers-without-cost-quick-and-safe-download/"><u>Obtain Your Qualcomm Atheros AR93 8X Drivers Without Cost – Quick & Safe Download</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restore-your-skype-sound-resolving-microphone-failures-in-windows-11/"><u>Restore Your Skype Sound: Resolving Microphone Failures in Windows 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/usb-audio-driver-for-behringer-interfaces-secure-your-free-downloads-here/"><u>USB Audio Driver for Behringer Interfaces - Secure Your Free Downloads Here</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2211086-9780007461028-your-chinese-horoscope-2013-what-the-year-of-the-snake-holds-in-store-for-you/"><u>Your Chinese Horoscope 2013: What the year of the snake holds in store for you | Free Book</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-vmix-os-transcendence-software-for-2024/"><u>[Updated] VMix OS Transcendence Software for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-decoding-the-detailed-workings-of-samsung-photo-editor-app/"><u>2024 Approved Decoding the Detailed Workings of Samsung Photo Editor App</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/2024-approved-top-5-tiktok-voice-generators-you-should-try/"><u>2024 Approved Top 5 TikTok Voice Generators You Should Try</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-new-software-for-brother-l2370dw-printers-easily-now/"><u>Download & Install New Software for Brother L2370DW Printers Easily Now</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-asus-rog-phone-7-ultimate-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Asus ROG Phone 7 Ultimate? Try These Fixes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-nvidia-geforce-gtx-nvidia-gtx-980-ti-graphics-card-drivers-now/"><u>Get Your NVIDIA GeForce GTX nVIDIA GTX 980 Ti Graphics Card Drivers Now!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-the-art-of-crafting-youtube-playlists-for-optimal-listening/"><u>In 2024, The Art of Crafting YouTube Playlists for Optimal Listening</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-unearthing-your-private-playlist-sanctuary-on-youtube/"><u>In 2024, Unearthing Your Private Playlist Sanctuary on Youtube</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/inside-the-chip-exploring-hardware-innovations-at-toms-review-hub/"><u>Inside the Chip: Exploring Hardware Innovations at Tom’s Review Hub</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/lenovo-thinkpad-t420-fresh-driver-downloads-and-updates-for-windows-effortless-installation/"><u>Lenovo ThinkPad T420: Fresh Driver Downloads & Updates for Windows - Effortless Installation</u></a></li>
+<li><a href="https://fox-info.techidaily.com/perfectly-blended-hdr-your-guide-to-merging-in-adobe-lightroom/"><u>Perfectly Blended HDR Your Guide to Merging in Adobe Lightroom</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-latest-breakthrough-5-revolutionary-intel-granite-rapids-cpus-sporting-up-to-128-cores-and-500w-tdp/"><u>Unveiling the Latest Breakthrough: 5 Revolutionary Intel Granite Rapids CPUs Sporting Up to 128 Cores & 500W TDP</u></a></li>
 </ul></div>
 

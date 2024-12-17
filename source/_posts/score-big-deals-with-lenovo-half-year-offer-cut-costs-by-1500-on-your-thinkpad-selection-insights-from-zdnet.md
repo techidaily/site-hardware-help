@@ -1,7 +1,7 @@
 ---
 title: "Score Big Deals with Lenovo Half-Year Offer: Cut Costs by $1,500 on Your ThinkPad Selection – Insights From ZDNet"
-date: 2024-12-04T09:32:31.903Z
-updated: 2024-12-11T05:07:08.365Z
+date: 2024-12-11T16:26:06.272Z
+updated: 2024-12-17T16:11:43.272Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -73,7 +73,7 @@ My review unit came with the Intel Core Ultra 7 155H processor, which allowed th
 These problems extended to the battery, too. I performed my usual battery test of playing a 720p YouTube video non-stop at 50 percent brightness to see how long it lasts. I do this to simulate an average day of work. On battery saver, the ThinkPad X1 Carbon lasted around five hours before dying. That's not very long. With the quirky performance in mind, all this leads me to believe that the ThinkPad's hardware isn't well optimized.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -112,17 +112,22 @@ There are a few different configurations you can choose for this machine, bringi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-final-goodbye-to-youtubes-minis-a-step-by-step-process/"><u>[New] 2024 Approved Final Goodbye to YouTube's Minis A Step-by-Step Process</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-vivo-y200-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Vivo Y200 via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/daily-movie-data-demand-in-gigabytes/"><u>Daily Movie Data Demand in Gigabytes</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-amd-rx-480-driver-version-instantly/"><u>Get the Latest AMD RX 480 Driver Version Instantly</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-acer-trackpad-drivers-for-windows-10-users-download-now/"><u>Get the Newest Acer TrackPad Drivers for Windows 10 Users – Download Now!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hassle-free-driver-update-for-brother-mfc-7360n-on-windows-10-8-and-7-download-now/"><u>Hassle-Free Driver Update for Brother MFC-7360N on Windows 10, 8 & 7 - Download Now</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-zte-axon-40-lite-phone-screen-by-drfone-android/"><u>How Can We Unlock Our ZTE Axon 40 Lite Phone Screen?</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-oppo-find-x7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Oppo Find X7 | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Realme GT Neo 5 | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-guide-updating-your-windows-system-with-new-ricoh-printer-drivers/"><u>Latest Guide: Updating Your Windows System with New Ricoh Printer Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-fixes-for-realtek-network-adapter-errors-on-windows-11-10-and-7-platforms/"><u>Step-by-Step Fixes for Realtek Network Adapter Errors on Windows 11, 10 & 7 Platforms</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-mastering-melody-match-identifying-tunes-on-your-iphone-devices/"><u>Updated In 2024, Mastering Melody Match Identifying Tunes on Your iPhone Devices</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-crafting-impressive-instagram-story-bokeh-art-for-2024/"><u>[New] Crafting Impressive Instagram Story Bokeh Art for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/outubes-best-gamers-audio-selection-guide/"><u>[New] YouTube's Best Gamers' Audio Selection Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-pioneering-photography-with-quantum-hdr-tech/"><u>[Updated] 2024 Approved Pioneering Photography with Quantum HDR Tech</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-premier-ringtone-makers-for-iphone-users-for-2024/"><u>[Updated] Premier Ringtone Makers for iPhone Users for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-top-10-luxury-car-accessories-for-the-modern-sj4000-driver/"><u>[Updated] Top 10 Luxury Car Accessories for the Modern SJ4000 Driver</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-secrets-of-adobe-cloud-and-alternative-storage-solutions/"><u>[Updated] Unveiling the Secrets of Adobe Cloud & Alternative Storage Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fluidity-in-filming-a-deep-dive-into-inshots-transition-features/"><u>2024 Approved Fluidity in Filming A Deep Dive Into Inshot's Transition Features</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/astro-a50-audio-problems-solved-repairing-mic-functionality/"><u>Astro A50 Audio Problems Solved: Repairing Mic Functionality</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722977312783-fast-downloads-of-ft232r-usb-to-uart-drivers-get-them-now/"><u>Fast Downloads of FT232R USB to UART Drivers - Get Them Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fixing-logitech-c615-drivers-a-simple-step-by-step-guide/"><u>Fixing Logitech C615 Drivers: A Simple Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-and-set-up-the-newest-aoc-monitor-drivers-for-windows-operating-systems-including-windows-11-10-and-n/"><u>Get and Set Up the Newest AOC Monitor Drivers for Windows Operating Systems Including Windows 11, 10 & N</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-streamlined-approach-to-role-assignments-on-discord-servers/"><u>In 2024, Streamlined Approach to Role Assignments on Discord Servers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-version-of-magicard-rio-pro-driver-available-free-download-for-win-10-81-and-7-systems/"><u>Latest Version of Magicard Rio Pro Driver Available: Free Download for Win 10, 8.1 & 7 Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-alps-pointing-device-drivers-for-enhanced-user-experience/"><u>Mastering Alps Pointing Device Drivers for Enhanced User Experience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/smooth-driver-update-for-asus-displays-quick-and-hassle-free/"><u>Smooth Driver Update for ASUS Displays – Quick and Hassle-Free</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-successfully-downloading-your-dell-mouses-software/"><u>Step-by-Step Guide: Successfully Downloading Your Dell Mouse's Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-definitive-guide-to-getting-your-arduino-nano-board-up-and-running-on-a-windows-machine-with-perfect-driver-setup/"><u>The Definitive Guide to Getting Your Arduino Nano Board up and Running on a Windows Machine with Perfect Driver Setup</u></a></li>
 </ul></div>
 

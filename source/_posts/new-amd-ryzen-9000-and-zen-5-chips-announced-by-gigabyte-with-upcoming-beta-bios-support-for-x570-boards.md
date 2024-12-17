@@ -1,7 +1,7 @@
 ---
 title: New AMD Ryzen 9000 and Zen 5 Chips Announced by Gigabyte with Upcoming Beta BIOS Support for X570 Boards
-date: 2024-08-19T10:31:06.475Z
-updated: 2024-08-20T10:31:06.475Z
+date: 2024-12-11T16:21:12.618Z
+updated: 2024-12-17T16:01:35.058Z
 tags:
   - motherboards
 categories:
@@ -29,6 +29,10 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/6iGbCjVGucUcpCoCDgfvsS-320-80.jpg
 
  There is no Snapdragon X desktop chip yet, except for in[the Snapdragon X Elite dev kit](https://tools.techidaily.com) . But if these new Arm chips perform as expected, people might be tempted to put them in desktop computers. This would give many users the advantage of a smaller, lighter mini-PC, but still have the power of a full-on tower computer — this development will threaten Intel’s supremacy in the desktop computing space.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -45,8 +49,6 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/6iGbCjVGucUcpCoCDgfvsS-320-80.jpg
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -54,8 +56,26 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/6iGbCjVGucUcpCoCDgfvsS-320-80.jpg
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-free-best-drawing-apps-for-chromebook/"><u>[New] FREE Best Drawing Apps for Chromebook</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-creating-your-first-home-theater-disc-with-mac/"><u>[Updated] In 2024, Creating Your First Home Theater Disc with Mac</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-wildlife-documentary-contenders-hero5-black-vs-sj7-for-2024/"><u>[Updated] Wildlife Documentary Contenders Hero5 Black Vs SJ7 for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/2-eastwood-also-directed/"><u>2) Eastwood Also Directed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-radeon-r9-200-series-drivers-download-and-install-for-windows/"><u>AMD Radeon R9 200 Series Drivers Download & Install For Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/claude-ai-explained-revolutionizing-communication-in-businesses/"><u>Claude AI Explained: Revolutionizing Communication in Businesses</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-setup-for-your-epson-wf-2750-download-the-latest-driver-version/"><u>Easy Setup for Your Epson WF-2750: Download the Latest Driver Version</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/epson-tm-t88v-easily-download-and-update-printer-drivers-on-windows/"><u>EPSON TM-T88V: Easily Download and Update Printer Drivers on Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/epson-v600-scanner-drivers-free-download-guide/"><u>Epson V600 Scanner Drivers: Free Download Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-version-of-huion-drivers-for-your-windows-computer-easily/"><u>Get the Latest Version of Huion Drivers for Your Windows Computer Easily</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hassle-free-obtaining-and-installing-new-drivers-for-the-brother-mfc-7360n-printer-on-various-windows-versions/"><u>Hassle-Free: Obtaining & Installing New Drivers for the Brother MFC-7360N Printer on Various Windows Versions</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-50plus-youtube-channel-names-for-vloggers-100-new/"><u>In 2024, 50+ Youtube Channel Names for Vloggers [100% New]</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-newest-eveo-usb-bluetooth-module-driver-software/"><u>Install Newest EVEO USB Bluetooth Module Driver Software</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/missing-pages-on-the-site-404-error/"><u>Missing Pages on the Site (404 Error)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/solving-your-mbox-eo-device-driver-issues-in-windows-with-easy-updates-and-downloads/"><u>Solving Your MBox E/O Device Driver Issues in Windows with Easy Updates and Downloads</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/symbolizing-success-affordable-and-flexible-logo-crafting-from-templates-for-2024/"><u>Symbolizing Success Affordable & Flexible Logo Crafting From Templates for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-7-prevalent-iphone-screen-problems-and-their-simple-solutions/"><u>Top 7 Prevalent iPhone Screen Problems and Their Simple Solutions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transformation-completement-gratuite-de-videos-wmv-avec-movavi-online-pas-un-centime-supplementaire/"><u>Transformation Complètement Gratuite De Vidéos WMV Avec Movavi Online - Pas Un Centime Supplémentaire</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-avi-video-cutter-reviews-top-16-options-for-precise-trimming-for-2024/"><u>Updated AVI Video Cutter Reviews Top 16 Options for Precise Trimming for 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->

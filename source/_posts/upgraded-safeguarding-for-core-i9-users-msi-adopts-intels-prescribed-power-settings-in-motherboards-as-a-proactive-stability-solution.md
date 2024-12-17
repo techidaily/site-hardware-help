@@ -1,7 +1,7 @@
 ---
 title: "Upgraded Safeguarding for Core I9 Users: MSI Adopts Intel's Prescribed Power Settings in Motherboards as a Proactive Stability Solution"
-date: 2024-08-19T10:29:17.910Z
-updated: 2024-08-20T10:29:17.910Z
+date: 2024-12-13T16:11:50.778Z
+updated: 2024-12-17T16:23:35.622Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,9 +62,26 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-professional-broadcasting-tools-excluding-obs/"><u>[New] In 2024, Professional Broadcasting Tools Excluding OBS</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-elevate-your-online-video-quality-mastery-in-finalcut-for-youtube/"><u>[Updated] Elevate Your Online Video Quality Mastery in FinalCut for YouTube</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/beyond-likes-and-hearts-uncover-these-10-intriguing-emoji-secrets/"><u>Beyond Likes and Hearts: Uncover These 10 Intriguing Emoji Secrets</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/build-a-loyal-audience-on-facebook-using-effective-growth-methods/"><u>Build a Loyal Audience on Facebook Using Effective Growth Methods</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/creating-unforgettable-podcast-beginnings-methods-and-examples/"><u>Creating Unforgettable Podcast Beginnings Methods & Examples</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-installation-of-intels-wireless-ac-7260-card-how-to-secure-the-drivers-today/"><u>Effortless Installation of Intel's Wireless AC 7260 Card - How to Secure the Drivers Today!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-setup-with-the-latest-intel-z270-gaming-pro-carbon-free-download-available/"><u>Enhance Your Setup with the Latest Intel Z270 Gaming Pro Carbon - Free Download Available</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphical-interface-resumed-after-interruption/"><u>Graphical Interface Resumed After Interruption</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-easily-get-the-newest-wacom-intuos-pro-drivers-for-your-windows-11-pc/"><u>How to Easily Get the Newest Wacom Intuos Pro Drivers for Your Windows 11 PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-fix-startech-device-drivers-problems-on-windows-11-8-and-7-solutions-inside/"><u>How to Fix StarTech Device Drivers Problems on Windows 11, 8 & 7 - Solutions Inside</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-seamlessly-update-and-download-the-latest-hid-keyboard-driver-software/"><u>How to Seamlessly Update and Download the Latest HID Keyboard Driver Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-driver-update-and-quick-setup-free-downloads-available/"><u>HP Driver Update & Quick Setup – Free Downloads Available</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-exploring-alternatives-to-wirecast/"><u>In 2024, Exploring Alternatives to Wirecast</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/official-hp-laserjet-pro-m428fdw-driver-downloads-windows-11107-compatible-versions/"><u>Official HP LaserJet Pro M428fdw Driver Downloads: Windows 11/10/7 Compatible Versions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-fixes-how-to-seamlessly-upgrade-your-asus-maximus-x-hero-video-card-drivers/"><u>Quick Fixes: How to Seamlessly Upgrade Your ASUS Maximus X Hero Video Card Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/resolve-your-elgato-hd60-drivers-troubles-simple-fixes-and-tips/"><u>Resolve Your Elgato HD60 Drivers Troubles: Simple Fixes and Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-repairing-a-malfunctioning-corsair-hs65-mic-on-your-pcs-windows-os/"><u>Step-by-Step Guide to Repairing a Malfunctioning Corsair HS65 Mic on Your PC's Windows OS</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-list-the-best-tv-streaming-platforms-of-the-year-2024/"><u>Ultimate List: The Best TV Streaming Platforms of the Year 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->

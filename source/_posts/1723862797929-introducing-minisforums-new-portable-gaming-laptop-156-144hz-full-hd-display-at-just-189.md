@@ -1,7 +1,7 @@
 ---
 title: "Introducing Minisforum's New Portable Gaming Laptop: 15.6 144Hz Full HD Display at Just $189!"
-date: 2024-08-19T10:31:28.883Z
-updated: 2024-08-20T10:31:28.883Z
+date: 2024-12-10T16:16:02.537Z
+updated: 2024-12-17T16:20:28.698Z
 tags:
   - monitor
 categories:
@@ -47,6 +47,10 @@ Minisforum continues to widen its product portfolio, this time with a portable m
 
  Minisforum announced the availability of the MSS-A156 Portable Monitor on its site via both its US and Japan stores on its Discord channel. When we checked the US link also had links for buyers from the EU and UK. At the time of writing the MSS-A156 is listed at $189, which is claimed to be a $34 discount from the regular price. It's unclear how long that will last.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -61,8 +65,6 @@ Minisforum continues to widen its product portfolio, this time with a portable m
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -70,8 +72,18 @@ Minisforum continues to widen its product portfolio, this time with a portable m
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-evaluating-costs-for-youtube-ad-campaigns/"><u>[Updated] Evaluating Costs for YouTube Ad Campaigns</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-logitechs-4k-pro-webcam-a-complete-exploration/"><u>2024 Approved Logitech's 4K Pro Webcam A Complete Exploration</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-real-time-gamcapture-hacks-and-insights/"><u>2024 Approved Real-Time GamCapture Hacks and Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-guide-to-downloading-latest-lenovo-x1-carbon-drivers-supporting-windows-11-and-7-operating-systems/"><u>Complete Guide to Downloading Latest Lenovo X1 Carbon Drivers: Supporting Windows 11 & 7 Operating Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-drivers-and-updates-for-your-surface-book-2-hassle-free-guide/"><u>Get the Newest Drivers and Updates for Your Surface Book 2 - Hassle-Free Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-y36i-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo Y36i Location by Number | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-version-of-nvidia-drivers-for-rtx-2060-on-windows-operating-systems-11-10-8-and-7/"><u>Latest Version of NVIDIA Drivers for RTX 2060 on Windows Operating Systems: 11, 10, 8 and 7</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/meme-tastic-creativity-tips-on-standing-out-in-virtual-worlds/"><u>Meme-Tastic Creativity Tips on Standing Out in Virtual Worlds</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/by-step-methodology-assembling-youtube-playlists/"><u>Step-by-Step Methodology Assembling YouTube Playlists</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-complete-walkthrough-to-downloading-and-updating-your-windows-usb-ethernet-driver-rndis/"><u>The Complete Walkthrough to Downloading and Updating Your Windows USB Ethernet Driver (RNDIS)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-5-optimal-ai-powered-prompt-creation-tools-for-enhanced-ai-interaction/"><u>Top 5 Optimal AI-Powered Prompt Creation Tools for Enhanced AI Interaction</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

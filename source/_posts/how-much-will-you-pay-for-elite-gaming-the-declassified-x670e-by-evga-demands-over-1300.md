@@ -1,7 +1,7 @@
 ---
 title: How Much Will You Pay for Elite Gaming? The Declassified X670E by EVGA Demands Over $1,300
-date: 2024-08-19T10:28:56.895Z
-updated: 2024-08-20T10:28:56.895Z
+date: 2024-12-11T16:27:43.405Z
+updated: 2024-12-17T16:01:04.661Z
 tags:
   - motherboards
 categories:
@@ -41,6 +41,10 @@ Hardware enthusiast[Jiacheng Liu](https://x.com/unnatural%5F%5Flog/status/179755
 
  The EVGA X670E Classified prototypes were briefly available on Xianyu, a popular second-hand market platform in China. Liu said he had paid around $620 for four PCBs without heatsinks; meanwhile, the retail-looking sample with heatsinks set him back $1,378\. Apparently, another buyer flew to Shenzhen, China, to buy a single PCB for $689.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -57,8 +61,6 @@ Hardware enthusiast[Jiacheng Liu](https://x.com/unnatural%5F%5Flog/status/179755
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -66,8 +68,21 @@ Hardware enthusiast[Jiacheng Liu](https://x.com/unnatural%5F%5Flog/status/179755
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-beatniks-guide-to-music-enhanced-snapchats/"><u>[New] Beatniks' Guide to Music-Enhanced Snapchats</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-exclusive-edition-motorcyclings-top-action-cameras-of-2023-review/"><u>[New] In 2024, Exclusive Edition Motorcycling’s Top Action Cameras of 2023 Review</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-icy-acceleration-olympics-best-from-2022-short-tracks/"><u>[Updated] 2024 Approved Icy Acceleration Olympics' Best From 2022 Short Tracks</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-viral-velocity-15-dynamic-steps-to-skyrocketing-follower-count-and-fame-on-instagram/"><u>[Updated] In 2024, Viral Velocity 15 Dynamic Steps to Skyrocketing Follower Count and Fame on Instagram</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/direct-download-of-updated-rtx-2070-super-drivers-enhancing-performance-on-your-windows-11-system/"><u>Direct Download of Updated RTX 2070 Super Drivers: Enhancing Performance on Your Windows 11 System</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-microsoft-surface-pro-4-drivers-for-windows/"><u>Download and Install Microsoft Surface Pro 4 Drivers for Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-install-the-latest-windows-10-april-2020-update-with-conexant-drivers/"><u>How to Install the Latest Windows 10 April 2020 Update with Conexant Drivers</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-on-apple-iphone-xs-max-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock On Apple iPhone XS Max?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-or-install-sound-cards-in-windows-free-driver-packages-available/"><u>How to Update or Install Sound Cards in Windows - Free Driver Packages Available</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-reviewing-microsofts-hololens-step-into-the-future/"><u>In 2024, Reviewing Microsoft's HoloLens – Step Into the Future</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/is-file-transfer-to-network-drives-possible-using-windows-10s-task-scheduler/"><u>Is File Transfer to Network Drives Possible Using Windows 10'S Task Scheduler?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-driver-downloads-for-canon-mg3n-series-enhance-your-printing-experience-with-updates/"><u>Latest Driver Downloads for Canon MG3n Series: Enhance Your Printing Experience with Updates</u></a></li>
+<li><a href="https://extra-information.techidaily.com/organizing-virtual-gatherings-setting-up-zoom-on-android/"><u>Organizing Virtual Gatherings Setting Up Zoom on Android</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->

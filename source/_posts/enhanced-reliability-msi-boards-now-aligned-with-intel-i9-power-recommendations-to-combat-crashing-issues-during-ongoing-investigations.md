@@ -1,7 +1,7 @@
 ---
 title: "Enhanced Reliability: MSI Boards Now Aligned with Intel I9 Power Recommendations to Combat Crashing Issues During Ongoing Investigations"
-date: 2024-08-19T10:29:29.245Z
-updated: 2024-08-20T10:29:29.245Z
+date: 2024-12-16T16:12:39.769Z
+updated: 2024-12-17T16:09:26.753Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,23 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-recording-google-voice-a-comprehensive-tutorial/"><u>[New] 2024 Approved Recording Google Voice A Comprehensive Tutorial</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-remedying-unexpected-oneself-display-during-online-interactions/"><u>[New] Remedying Unexpected Oneself Display During Online Interactions</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ransform-your-footage-best-free-android-editors-reviewed/"><u>[New] Transform Your Footage Best Free Android Editors Reviewed</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/access-unparalleled-image-clarity-for-no-charge/"><u>Access Unparalleled Image Clarity for No Charge</u></a></li>
+<li><a href="https://common-error.techidaily.com/addressing-the-problem-of-unresponsive-internet-explorer-in-windows-best-practices-for-resolution/"><u>Addressing the Problem of Unresponsive Internet Explorer in Windows: Best Practices for Resolution</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-gtx-1650-super-drivers-windows-1111/"><u>Download & Update GTX 1650 SUPER Drivers - Windows 11/11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ensure-seamless-scanning-with-free-realtek-windows-10-card-reader-drivers/"><u>Ensure Seamless Scanning with Free Realtek Windows 10 Card Reader Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-and-install-the-latest-samsung-960-evo-ssd-drivers-on-your-pc/"><u>How to Get & Install the Latest Samsung 960 EVO SSD Drivers on Your PC</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-humor-highway-tailored-joke-routes-for-each-occasion/"><u>In 2024, Humor Highway Tailored Joke Routes for Each Occasion</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-no-more-hassle-record-games-like-pros/"><u>In 2024, No More Hassle Record Games Like Pros</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-the-motorola-mg7n00s-fast-and-consistent-connectivity/"><u>In-Depth Analysis of the Motorola MG7n00's Fast and Consistent Connectivity</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/leveraging-speech-recognition-in-googles-popular-docs-application-for-2024/"><u>Leveraging Speech Recognition in Google's Popular Docs Application for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722964524089-logitech-keyboard-setup-and-drivers-compatible-with-windows-10-download-here/"><u>Logitech Keyboard Setup & Drivers Compatible with Windows 10 – Download Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/magicard-rio-pro-driver-fresh-release-download-now-for-compatible-windows-operating-systems/"><u>Magicard Rio Pro Driver: Fresh Release! Download Now for Compatible Windows Operating Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-your-nexiq-hardware-free-nexiq-usb-link-2-driver-software-installation-steps/"><u>Mastering Your Nexiq Hardware: Free Nexiq USB-Link 2 Driver Software Installation Steps</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/secure-your-logitech-brio-webcam-connection-with-updated-drivers-for-windows-systems/"><u>Secure Your Logitech BRIO Webcam Connection with Updated Drivers for Windows Systems</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Look for Disciplinary Changes at School: Contact Their School if Necessary to Get a Better Understanding of Any Disciplinary Issues or Changes in Behavior From Teachers and Staff Who See Your Child on a Daily Basis"
-date: 2024-08-19T10:29:02.328Z
-updated: 2024-08-20T10:29:02.328Z
+date: 2024-12-14T16:03:08.453Z
+updated: 2024-12-17T16:17:52.460Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,22 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/solved-nvidia-graphics-cards-not-detected-in-windows-111087/"><u>[SOLVED] Nvidia Graphics Cards Not Detected in Windows 11/10/8/7</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-innovating-with-snapchats-new-highlight-feature/"><u>[Updated] 2024 Approved Innovating with Snapchat's New Highlight Feature</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-chrome-pip-integration-a-cross-platform-tutorial/"><u>[Updated] In 2024, Chrome PIP Integration A Cross-Platform Tutorial</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-clash-of-bots-is-gpt-plus-superior-to-perplexity/"><u>A Clash of Bots: Is GPT Plus Superior to Perplexity?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asus-atk0110-bios-and-acpi-control-panel-programs-free-download-today/"><u>ASUS ATK0110 BIOS & ACPI Control Panel Programs Free Download Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-canon-printer-software-compatible-drivers-for-windows-10-8-and-nversions/"><u>Download Canon Printer Software: Compatible Drivers for Windows 10, 8 & Nversions</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fixing-folder-anomalies-icons-in-macos/"><u>Fixing Folder Anomalies: ? Icons in macOS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-end-webcams-the-perfect-match-for-zoom-engagement-for-2024/"><u>High-End Webcams The Perfect Match for Zoom Engagement for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-next-gen-learning-vrs-educational-impact/"><u>In 2024, Next-Gen Learning VR's Educational Impact</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-update-logitech-t630-driver-software-for-modern-windows-versions/"><u>Latest Update - Logitech T630 Driver Software for Modern Windows Versions</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/no-barriers-only-creativity-learn-cost-free-background-substitution-with-4-youtube-pros/"><u>No Barriers, Only Creativity Learn Cost-Free Background Substitution with 4 YouTube Pros</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/scansnap-s1300i-software-upgrade-and-download-simple-steps-inside/"><u>ScanSnap S1300i Software Upgrade & Download - Simple Steps Inside!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-non-microsoft-non-lenovo-tablet-perfect-for-business-trips-a-comprehensive-review/"><u>Top-Rated Non-Microsoft, Non-Lenovo Tablet Perfect for Business Trips: A Comprehensive Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshoot-your-device-comprehensive-guide-to-dell-latitude-e6430-driver-download-and-update-on-windows/"><u>Troubleshoot Your Device: Comprehensive Guide to Dell Latitude E6430 Driver Download and Update on Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unleash-full-potential-of-your-steelseries-hardware-with-optimized-windows-10-controller-software-free-download-inside/"><u>Unleash Full Potential of Your SteelSeries Hardware with Optimized Windows 10 Controller Software - Free Download Inside!</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

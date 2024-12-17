@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Ultimate Ranking: The Toughest and Most Resilient Laptops of the Year 2024"
-date: 2024-12-07T00:29:46.627Z
-updated: 2024-12-10T20:50:21.408Z
+date: 2024-12-11T16:32:52.268Z
+updated: 2024-12-17T16:13:22.094Z
 tags:
   - laptops
 categories:
@@ -22,15 +22,15 @@ While this opens up tons of choices for the consumer, it also means a lot of jar
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the best Windows laptop right now?
 
 We've tested several of the best Windows laptops that have come out this year, including models from Lenovo, Asus, Dell, Samsung, Microsoft, and more. Currently, our pick for the best overall Windows laptop is the [Dell XPS 16](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-9041660-15734614%3Furl%3Dhttps%253A%252F%252Fwww.dell.com%252Fen-us%252Fshop%252Fdell-laptops%252Fxps-16-laptop%252Fspd%252Fxps-16-9640-laptop%26sid%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp), which is as versatile as it is performant, handling everything from mainstream productivity to creative workloads and gaming. 
 
 Of course, there are plenty of other options out there, and for that reason, we've included several different use cases to round out our list. Our experts took the time to [test each device](https://www.zdnet.com/article/how-we-test-laptops/) included here to help you find the best of the best.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The best Windows laptops of 2024
 
@@ -48,7 +48,15 @@ Cons
 * High-end configurations can get expensive
 * On the heavy side
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Dell XPS 16 (2024)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best Windows laptop overall
 
@@ -82,14 +90,10 @@ Cons
 * Comes with an eUFS instead of an SSD
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Samsung Galaxy Book 4 Edge
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best Windows laptop for Samsung users
 
@@ -218,14 +222,10 @@ Cons
 * Tendency to run hot
 * Pricey
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Asus Zenbook S 16
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best Windows OLED laptop
@@ -260,10 +260,6 @@ Cons
 
 ## Microsoft Surface Pro 11th-Edition
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best Windows laptop for creators
 
 There's been a lot of hype surrounding Copilot+ PCs since they were first [announced in May of 2024](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/). So far, it seems much of the hype has been founded, with the [performance of these new machines](https://www.zdnet.com/article/could-windows-finally-get-arm-right-and-outperform-apple-silicon/) speaking for themselves. Microsoft's 11th-edition Surface Pro lives up to expectations. 
@@ -294,10 +290,6 @@ Cons
 * Expensive
 * Poor battery life
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Razer Blade 17
 
 ### Best Windows gaming laptop
@@ -316,6 +308,10 @@ Gamers, unsurprisingly, say they love the Razer Blade 17\. Many online point to 
 
 Show Expert Take Show less 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best Windows laptop?
 
 The best Windows laptop overall is the Dell XPS 15, due to an impressive combination of display, CPU, GPU, battery life, and other features. Below is a table where we compare every thing according to their prices, CPU, and graphics. 
@@ -330,10 +326,6 @@ The best Windows laptop overall is the Dell XPS 15, due to an impressive combina
 | Asus Zenbook S 16                  | Starting at $1,399 | AMD Ryzen AI 9 365                  | AMD Radeon 880M                                |
 | Microsoft Surface Pro 11th-Edition | Starting at $999   | Qualcomm Snapdragon X Plus/Elite    | Qualcomm Adreno                                |
 | Razer Blade 17                     | Starting at $2,849 | 12th Gen Intel Core i7-12800H       | Nvidia GeForce RTX 3080 Ti Laptop GPU          |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Which Windows laptop is right for you?
 
@@ -354,10 +346,6 @@ The table below provides a quick breakdown to help you further narrow your choic
 | Microsoft Surface Pro 11th-Edition | A powerful (and ultraportable) tablet/laptop combo with a top-tier stylus and two cameras.                        |
 | Razer Blade 17                     | A powerful 17-inch gaming laptop with a stunning FullHD 360GHz display and an Nvidia GeForce RTX 3080 TI GPU.     |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How we test Windows laptops
 
 Kyle Kucharski/ZDNET
@@ -374,6 +362,10 @@ We use a combination of methods to test laptops here at ZDNET. First, we acquire
 
 Ultimately, our goal is to break down the capabilities of each and every laptop we test into digestible terms that real people can find useful. There is a lot of noise and confusion when it comes to navigating the laptop and computer consumer market, so we hope to bring an intuitive element to the whole process by leveraging our team's decades of experience. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What are some factors to consider when choosing a Windows laptop?
 
 We selected these Windows laptops after conducting thorough research and real-world testing  experts. In our evaluation, we weighed the following aspects:
@@ -382,6 +374,10 @@ We selected these Windows laptops after conducting thorough research and real-wo
 * **Performance:** Laptop hardware can vary wildly, so it's important to mention what's powering the machine. Some opt for processors you'd see in smartphones, while others go for top-of-the-line CPUs. Battery life is also taken into account.
 * **Display:** Naturally, you'll want a laptop with the best possible display since you'll be staring at one for hours. But we also consider the screen size as it dictates the overall size and weight of the laptop.
 * **Features:** Lastly, we consider the full suite of features a laptop has. Gaming laptops have RGB lights, whereas a work computer may skew to have a better webcam than others.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why should you buy a laptop and not a desktop or a tablet?
 
@@ -398,6 +394,10 @@ All of the Windows devices listed here qualify for Windows 11\. So if you buy on
 ## Is there a top brand for Windows laptops?
 
 Everything listed in this guide are all the top brands for Windows laptops. If you're looking for a specific one that rises above the rest, there isn't one. Laptops by each of the major manufacturers have their pros and cons. All of them do something unique that some might like while others don't. It ultimately comes down to personal preference.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What should a good quality laptop cost?
 
@@ -457,21 +457,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-first-steps-in-the-youtubian-economy-building-a-brand-boosting-bank-balance/"><u>[New] In 2024, First Steps in the Youtubian Economy Building a Brand, Boosting Bank Balance</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-sleepy-tales-in-visual-format-analysis/"><u>[New] In 2024, Sleepy Tales in Visual Format Analysis</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-groundbreaking-films-in-the-vr-world/"><u>[Updated] 2024 Approved Groundbreaking Films in the VR World</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-3-simple-ways-to-color-grading-in-adobe-photoshop/"><u>2024 Approved 3 Simple Ways to Color Grading in Adobe Photoshop</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-laughter-lab-steps-to-simple-sharp-memes/"><u>2024 Approved Laughter Lab Steps to Simple, Sharp Memes</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/comprehensive-driver-packages-for-cameras-on-windows-download-for-w11w10w8w7/"><u>Comprehensive Driver Packages for Cameras on Windows (Download for W11/W10/W8/W7)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-current-targus-display-adapter-drivers-compatible-with-win-11-8-and-7/"><u>Download Current Targus Display Adapter Drivers - Compatible with Win 11, 8 & 7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-wacom-intuos-graphics-tablet-driver-download/"><u>Get the Latest Wacom Intuos Graphics Tablet Driver Download</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-oculus-headset-ready-drivers-download-for-windows-versions-including-11-10-8-and-7/"><u>Get Your Oculus Headset Ready: Drivers Download for Windows Versions Including 11, 10, 8, & 7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-obtain-your-logitech-m525-device-drivers/"><u>How To Obtain Your Logitech M525 Device Drivers?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-infinix-smart-7-hd-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Infinix Smart 7 HD Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/mastering-high-quality-video-with-4k-and-60-fps-explained-the-essentials/"><u>Mastering High-Quality Video with 4K and 60 FPS Explained: The Essentials</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/solved-how-to-restore-functionality-of-a-non-working-logitech-g433-mic/"><u>Solved! How to Restore Functionality of a Non-Working Logitech G433 Mic</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-and-install-elan-smbus-drivers-efficiently-for-windows-users/"><u>Update and Install Elan SMBus Drivers Efficiently for Windows Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-your-canon-mg3022-drivers-fresh-version-for-improved-printing/"><u>Update Your Canon MG3022 Drivers - Fresh Version for Improved Printing</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/vimeo-at-a-glance-digital-home-for-quality-videos/"><u>Vimeo at a Glance Digital Home for Quality Videos</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-androids-premier-3d-visualization-app/"><u>[New] 2024 Approved Android's Premier 3D Visualization App</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-perfectly-crafted-windows-simulators-for-ps3-games/"><u>[New] Perfectly Crafted Windows Simulators for PS3 Games</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-transform-your-content-to-stardom-studio-guide/"><u>[New] Transform Your Content to Stardom Studio Guide</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-from-click-to-chatter-turning-titles-into-talk-on-fb/"><u>2024 Approved From Click to Chatter Turning Titles Into Talk on FB</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/complete-guide-on-how-to-perform-a-remote-ios-device-factory-reset/"><u>Complete Guide on How To Perform a Remote iOS Device Factory Reset</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-benchmarking-and-tips-by-toms-tech-professionals/"><u>Comprehensive Benchmarking and Tips by Tom's Tech Professionals</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/find-and-download-the-correct-broadcom-bluetooth-drivers-for-your-windows-os/"><u>Find and Download the Correct Broadcom Bluetooth Drivers for Your Windows OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-download-nvidias-official-geforce-rtx-3070-ti-drivers-on-windows-platforms-1187/"><u>How to Download NVIDIA's Official GeForce RTX 3070 Ti Drivers on Windows Platforms (11/8/7)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-the-latest-asus-bluetooth-driver-software-quick-downloads/"><u>How to Get the Latest ASUS Bluetooth Driver Software – Quick Downloads</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-itel-p55t-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Itel P55T</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/merging-melodies-the-art-of-crossfading/"><u>Merging Melodies The Art of Crossfading</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-the-digital-realm-trusted-insights-from-toms-tech-review/"><u>Navigating the Digital Realm - Trusted Insights From Tom's Tech Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-fetch-updating-hp-stream-sound-card-drivers/"><u>Quick-Fetch: Updating HP Stream Sound Card Drivers</u></a></li>
 </ul></div>
 

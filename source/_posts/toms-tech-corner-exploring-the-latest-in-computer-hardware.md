@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Corner: Exploring the Latest in Computer Hardware"
-date: 2024-08-19T10:29:09.985Z
-updated: 2024-08-20T10:29:09.985Z
+date: 2024-12-12T16:04:13.002Z
+updated: 2024-12-17T16:03:14.093Z
 tags:
   - motherboards
 categories:
@@ -15,9 +15,17 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
 
  But this new memory is popping up in desktops, too, with its own unique benefits. Here's what you need to know about CAMM2 and LP CAMM 2:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Where did CAMM2 come from?
 
  CAMM[originated with Dell](https://tools.techidaily.com) as a project to replace bulkier SO-DIMM memory slots. But the company[worked with JEDEC](https://tools.techidaily.com) , a semiconductor standards body, which tweaked it and made CAMM2 available to a number of different PC companies.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are CAMM2 and LPCAMM2? What are their benefits?
 
@@ -48,15 +56,17 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
  The modules might help enable new form factors, too. At Computex,[Adata showed off its Nia handheld](https://tools.techidaily.com) , which uses LPCAMM2 using LPDDR5X.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How much memory fits on a CAMM2 module?
 
 Between 8GB and 128GB of memory fits on a single module.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is LPCAMM2 faster than existing SO-DIMMs and DIMMs?
 
  Yes. As of this writing,[Crucial is listing](https://www.crucial.com/memory/ddr5/ct64g75c2lp5xg) 32GB and 64GB LPDDR5X-7200 LPCAMM2 modules. At Computex, TeamGroup said its 16GB, 32GB, and 64GB memory will go up to 9600 MT/s. Samsung's[page on LPCAMM2](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fgo.redirectingat.com%2F%3Fid%3D92X1584492%26xcust%3Dtomshardware%255Fus%255F4400621493195954499%26xs%3D1%26url%3Dhttps%253A%252F%252Fsemiconductor.samsung.com%252Femea%252Fdram%252Fmodule%252Flpcamm2%252F%26sref%3Dhttps%253A%252F%252Fwww.tomshardware.com%252Fpc-components%252Fmotherboards%252Fwhat-is-camm2) lists an "extraordinary data transfer rate of 8,533Mbps," the same number memory company[Geil showed at Computex](https://www.techpowerup.com/323173/geil-presents-a-wide-range-of-memories-at-computex-camm2-lpcamm2-alongside-many-ddr5s) .
@@ -66,8 +76,9 @@ Between 8GB and 128GB of memory fits on a single module.
  We haven't seen any DDR5 CAMM2 products on the market just yet, so we don't know if those speeds will go even higher.
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What are alternatives to CAMM2?
 
  In theory, there's nothing stopping vendors from using standard DIMMs or SO-DIMMs, or continuing to solder memory to the motherboard. Staying with the status quo is an alternative, at least for now.
@@ -82,8 +93,6 @@ Between 8GB and 128GB of memory fits on a single module.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -91,4 +100,24 @@ Between 8GB and 128GB of memory fits on a single module.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-cinematography-simplified-fades-made-easy/"><u>[New] Cinematography Simplified Fades Made Easy</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/solved-amd-rx-560-driver-issue-on-windows-111087/"><u>[Solved] AMD RX 560 Driver Issue on Windows 11/10/8/7</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-easycast-essential-steps-for-beginner-podcast-streamers/"><u>[Updated] EasyCast Essential Steps for Beginner Podcast Streamers</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-expert-analysis-the-full-spectrum-of-bublcam-360-for-2024/"><u>[Updated] Expert Analysis The Full Spectrum of Bublcam 360 for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-capture-the-moment-enhancing-and-cutting-video-for-instagram-impact/"><u>2024 Approved Capture the Moment Enhancing and Cutting Video for Instagram Impact</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-epson-tm-t88v-printer-drivers-for-windows-latest-version/"><u>Download and Update EPSON TM-T88V Printer Drivers for Windows - Latest Version</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-gigabyte-wb867d-motherboard-drivers-latest-version/"><u>Download GIGABYTE WB867D Motherboard Drivers - Latest Version</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722974384488-easy-access-to-thrustmaster-t150-controller-drivers-download-now/"><u>Easy Access to Thrustmaster T150 Controller Drivers – Download Now</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhance-your-online-gaming-experience-by-reducing-lag-expert-advice-for-gamers/"><u>Enhance Your Online Gaming Experience by Reducing Lag: Expert Advice for Gamers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/essential-top-rated-virtual-world-films-for-2024/"><u>Essential Top-Rated Virtual World Films for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-canon-mg3000-printer-software-and-latest-firmware-updates/"><u>Free Canon MG3000 Printer Software and Latest Firmware Updates</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-intel-iris-xe-graphics-driver-update-now-compatible-with-windows-11/"><u>Get Your Intel® Iris XE Graphics Driver Update Now – Compatible with Windows 11</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/guide-uploading-and-saving-mp4-files-directly-from-your-iphones-camera-roll/"><u>Guide: Uploading and Saving MP4 Files Directly From Your iPhone's Camera Roll</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-optimizing-video-sequences-blend-modes-application/"><u>In 2024, Optimizing Video Sequences Blend Modes Application</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/obtain-pl2303-compatible-driver-software-for-your-windows-machine/"><u>Obtain PL2303 Compatible Driver Software for Your Windows Machine</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/simplified-instructions-for-canon-pro-100-windows-driver-one-click-setup/"><u>Simplified Instructions for Canon PRO 100 Windows Driver [One-Click Setup]</u></a></li>
+</ul></div>
 

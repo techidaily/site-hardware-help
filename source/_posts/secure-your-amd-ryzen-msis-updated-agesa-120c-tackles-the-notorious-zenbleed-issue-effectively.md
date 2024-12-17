@@ -1,7 +1,7 @@
 ---
 title: "Secure Your AMD Ryzen: MSI's Updated AGESA 1.2.0.C Tackles the Notorious Zenbleed Issue Effectively"
-date: 2024-08-19T10:29:49.946Z
-updated: 2024-08-20T10:29:49.946Z
+date: 2024-12-14T16:11:29.304Z
+updated: 2024-12-17T16:08:51.818Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,17 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-crafting-timeless-videos-with-retro-filmmaking-skills/"><u>[New] 2024 Approved Crafting Timeless Videos with Retro Filmmaking Skills</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-comprehensive-guide-to-acquiring-instagram-ringtones-and-creating-noteworthy-chimes/"><u>[New] The Comprehensive Guide to Acquiring Instagram Ringtones & Creating Noteworthy Chimes</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-realme-v30t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/breathtaking-cinematography-with-5-best-slow-motion-cameras/"><u>Breathtaking Cinematography with 5 Best Slow-Motion Cameras</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722974255443-get-your-windows-system-upgraded-free-msi-auditory-device-drivers-available-now/"><u>Get Your Windows System Upgraded: Free MSI Auditory Device Drivers Available Now</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/gratis-player-zum-abspielen-von-full-hdhdtv-videos-in-voller-qualitat-unter-windows-downloadbar/"><u>Gratis Player Zum Abspielen Von Full HD/HDTV Videos in Voller Qualität Unter Windows Downloadbar</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/optimize-your-msi-b350-tomahawk-experience-with-latest-driver-downloads-supports-windows-versions-710/"><u>Optimize Your MSI B350 Tomahawk Experience with Latest Driver Downloads - Supports WINDOWS VERSIONS 7/10</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premiere-pro-power-tools-your-ultimate-2023-samples-free/"><u>Premiere Pro Power Tools - Your Ultimate 2023 Samples (FREE)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-fix-for-asus-pce-ac56-wifi-card-drivers-issues-in-windows-7811-issue-solved/"><u>Step-by-Step Fix for ASUS PCE-AC56 WiFi Card Drivers Issues in Windows 7/8/11 [ISSUE SOLVED]</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrade-to-new-version-of-hp-deskjet-3050a-windows-driver-complimentary-downloads/"><u>Upgrade to New Version of HP Deskjet 3050A Windows Driver - Complimentary Downloads</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->

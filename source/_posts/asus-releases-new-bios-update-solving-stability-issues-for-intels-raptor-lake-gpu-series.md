@@ -1,7 +1,7 @@
 ---
 title: "Asus Releases New BIOS Update: Solving Stability Issues for Intel's Raptor Lake GPU Series"
-date: 2024-08-19T10:28:42.058Z
-updated: 2024-08-20T10:28:42.058Z
+date: 2024-12-14T16:23:33.184Z
+updated: 2024-12-17T16:23:57.213Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,20 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/nlocking-the-prime-youtube-post-hours-for-2024/"><u>[New] Unlocking the Prime YouTube Post Hours for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-a-list-screen-recorders-for-expert-users-for-2024/"><u>[Updated] A-List Screen Recorders for Expert Users for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-engineering-an-emotional-movie-segment/"><u>2024 Approved Engineering an Emotional Movie Segment</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722977831507-download-the-microsoft-wireless-mouse-5000-driver-easily-today/"><u>Download the Microsoft Wireless Mouse 5000 Driver Easily Today!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-oppo-reno-11-pro-5g-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Oppo Reno 11 Pro 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-oneplus-11-5g-easily-by-drfone-android/"><u>In 2024, How To Unlock a OnePlus 11 5G Easily?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/killer-network-driver-update-available-free-download-and-installation-guide-for-windows-11-8-and-e7/"><u>Killer Network Driver Update Available: Free Download & Installation Guide for Windows 11, 8 and E7</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/language-gain-and-social-connection-via-virtual-worlds/"><u>Language Gain & Social Connection Via Virtual Worlds</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/lenovo-docking-station-revamp-a-comprehensive-update-process-walkthrough/"><u>Lenovo Docking Station Revamp: A Comprehensive Update Process Walkthrough</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/resolved-tp-wn722n-wifi-adapter-unrecognized-on-windows-systems/"><u>Resolved: TP-WN722N WiFi Adapter Unrecognized on Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-instructions-to-download-updated-targus-displaylink-drivers-for-windows-1087/"><u>Step-by-Step Instructions to Download Updated Targus DisplayLink Drivers for Windows 10/8/7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/stream-with-ease-using-logitech-hd-pro-cx3070-download-the-right-drivers-for-your-os/"><u>Stream with Ease Using Logitech HD Pro CX3070: Download the Right Drivers for Your OS!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/transform-clutter-to-clarity-with-the-all-inclusive-11-in-1-dock-pro-up-to-44-cheaper-on-zdnet/"><u>Transform Clutter to Clarity with the All-Inclusive 11-in-1 Dock Pro, Up to 44% Cheaper on ZDNET!</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->

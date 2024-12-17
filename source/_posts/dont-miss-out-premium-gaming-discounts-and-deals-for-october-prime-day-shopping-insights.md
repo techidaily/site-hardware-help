@@ -1,7 +1,7 @@
 ---
 title: Don't Miss Out! Premium Gaming Discounts & Deals for October Prime Day Shopping | Insights
-date: 2024-12-06T09:42:08.153Z
-updated: 2024-12-10T16:09:43.965Z
+date: 2024-12-14T16:13:23.877Z
+updated: 2024-12-17T16:30:09.580Z
 tags:
   - laptops
 categories:
@@ -23,6 +23,10 @@ Brands like HP, [Samsung](https://www.zdnet.com/article/best-early-prime-day-sam
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Our favorite early Amazon October Prime Day gaming deals
 
@@ -103,10 +107,6 @@ ZDNET
 * [MSI Claw 512GB for $642 (save $108)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMSI-Claw-Gaming-Handheld-Thunderbolt%2Fdp%2FB0CXG3DBQV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc374554d-d091-4290-a659-880524a47e24%7Cdtp&dtb=1): Built with an Intel Core Ultra 7 CPU, 16GB of RAM, a 512GB SSD, and a 7-inch display, the MSI Claw rivals the Steam Deck handheld gaming PC in power and performance.
 * [Amazon eero Pro 6E mesh Wi-Fi router 3-pack for $350 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-eero-Wi-Fi-router-newest%2Fdp%2FB091G64GVK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc374554d-d091-4290-a659-880524a47e24%7Cdtp&dtb=1): This mesh Wi-Fi system is rated for up to 2,000 square feet of coverage and supports both wireless and hardwired Ethernet connectivity at 1.6 Gbps and 2.5Gbps, respectively.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day PlayStation 5 deals
 
 ZDNET
@@ -122,6 +122,10 @@ ZDNET
 * [God of War Ragnarok standard edition for $40 (save $29 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FGod-of-War-Ragnar-k-Standard-Edition-Playstation-5%2F1336533270%3FclassType%3DVARIANT%26athbdg%3DL1102&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): The sequel to the hit GoW 2018 follows Kratos and his son Atreus as they traverse the realms to gather allies and stop the gods from going to war.
 * [The Last of Us Part 1 standard edition for $46 (save $24 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FThe-Last-of-Us-Part-I-PlayStation-5%2F1643604134%3FclassType%3DVARIANT&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Experience the award-winning story of Ellie and Joel as they make their way to Denver and the Fireflies through hordes of dangerous, fungus-infected zombies.
 * [Corsair Void RGB Elite wireless gaming headset for $80 (save $30 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCorsair-Wireless-Premium-Headset-Surround%2Fdp%2FB07X8SJ8HM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc374554d-d091-4290-a659-880524a47e24%7Cdtp&dtb=1): With 7.1CH surround sound, an omnidirectional mic, and up to a 40-foot range, the Void RGB Elite gives you immersive game music and sound cues, clear chat, and freedom of movement.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## October Prime Day Xbox Series X|S deals
 
@@ -168,10 +172,6 @@ Nintendo/ZDNET
 * [Lego Star Wars: The Skywalker Saga for $25 (save $26 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLEGO-Star-Wars-The-Skywalker-Saga-Nintendo-Switch%2F182278850%3FclassType%3DVARIANT&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Play as iconic characters like Luke Skywalker, Qui-Gon Jin, and Darth Vader through the stories of both the original and prequel Star Wars trilogies.
 * [Nintendo Switch Joy-Con in neon purple and neon orange for $55 (save $25 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FNintendo-Switch-Joy-Con-Pair-Neon-Purple-and-Neon-Orange%2F921709016%3FclassType%3DVARIANT%26athbdg%3DL1600&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Grab an extra Joy-Con controller for your Nintendo Switch to keep gaming while your other controller charges.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day gaming PC deals
 
 Kyle Kucharski/ZDNET
@@ -188,7 +188,7 @@ Kyle Kucharski/ZDNET
 * [Alienware Aurora R16 for $3,700 (save $1,000 at Dell)](https://www.dpbolvw.net/click-9041660-15734614?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdesktop-computers%2Falienware-aurora-r16-gaming-desktop%2Fspd%2Falienware-aurora-r16-desktop%2Fuseapctor16icc2&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Alienware's flagship gaming desktop is built with a 14th gen Intel Core i9 CPU, Nvidia GeForce RTX 4090 graphics card, 64GB of RAM, and 4TB of storage.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day gaming laptop deals
@@ -220,6 +220,10 @@ Samsung/ZDNET
 * [Razer DeathStalker V2 Pro TKL wireless keybaord for $145 (save $75 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Frazer-deathstalker-v2-pro-tkl-wireless-optical-linear-switch-gaming-keyboard-with-low-profile-design-black%2F6512382.p%3FskuId%3D6512382&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A mini, tenkey-less keyboard with optical linear switches and a low-profile design.
 * [Roccat Vulcan II Mini Air for $64 (save $116 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Froccat-vulcan-ii-mini-air-65-wireless-optical-mechanical-gaming-keyboard-with-rgb-illumination-black%2F6547284.p%3FskuId%3D6547284&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A mini, tenkey-less mechanical keyboard with optical switches, RGB backlighting, and USB-C charging.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## October Prime Day graphics card deals
 
 * [Asus TUF Nvidia GeForce RTX 4070 Ti for $750 (save $110 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-nvidia-geforce-rtx-4070-ti-tuf-overclock-12gb-gddr6x-pci-express-4-0-graphics-card-black%2F6529351.p%3FskuId%3D6529351&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This GPU offers 12GB of VRAM, support for up to 4 displays, and 8K video output.
@@ -227,10 +231,6 @@ Samsung/ZDNET
 * [Asus TUF Nvidia GeForce RTX 3080 Ti for $925 (save $472 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FTUF-NVIDIA-GeForce-RTX-3080-TI-Graphic-Card-12-GB-GDDR6-384-bit-Bus-Width-PCI-Express-4-0-DisplayPort-HDMI%2F994157887%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) Nvidia's high-end 30 Series graphics card offers 12GB of VRAM, military-grade capacitors for better power efficiency, and support for up to 4 displays.
 
 ## FAQs
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### When is Amazon Prime Day 2024?
 
@@ -241,7 +241,7 @@ Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, wi
 Games, consoles, and accessories can and do go on sale during Prime Day, though not every brand or manufacturer may participate. Some brands may have competing sales at other retailers or on their own direct-sale sites, which is great news for anyone who likes to compare discounts to make sure they're getting the best deal possible.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How did we choose these Prime Day deals?
@@ -313,19 +313,22 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-efficient-scratching-tool-for-chromeos-for-2024/"><u>[New] Efficient Scratching Tool for ChromeOS for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-the-artists-guide-to-vivid-vsco-imagery-for-2024/"><u>[New] The Artist's Guide to Vivid VSCO Imagery for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-ioss-finest-virtual-ps2-games/"><u>[Updated] IOS's Finest Virtual PS2 Games</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-snapshot-savior-eight-ways-to-amplify-your-color-game-in-photoshop/"><u>2024 Approved Snapshot Savior Eight Ways to Amplify Your Color Game in Photoshop</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/defending-himself/"><u>Defending Himself</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/essential-guide-to-engaging-chatgpt-through-top-rated-github-triggers/"><u>Essential Guide to Engaging ChatGPT Through Top-Rated GitHub Triggers</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-apple-iphone-13-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On Apple iPhone 13?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-update-or-install-hp-universal-printing-applications-ufd/"><u>How to Update or Install HP Universal Printing Applications (UFD)</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-apple-iphone-7-plus-drfone-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your Apple iPhone 7 Plus | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722976884869-latest-firmware-for-tp-link-usb400-bluetooth-get-your-free-driver-here/"><u>Latest Firmware for TP-Link USB400 Bluetooth: Get Your Free Driver Here</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/newest-tp-link-wireless-network-card-software-compatible-with-win-1187-systems/"><u>Newest TP-Link Wireless Network Card Software | Compatible with Win 11/8/7 Systems</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-deleted-iphone-15-whatsapp-attachments-on-mac-and-windows-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Recover Deleted iPhone 15 WhatsApp Attachments on Mac and Windows | Stellar</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/secure-your-logitech-m525-mouse-experience-with-official-drivers-and-downloads/"><u>Secure Your Logitech M525 Mouse Experience with Official Drivers & Downloads</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-vivo-x100-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Vivo X100 IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-identifying-lack-of-engagement-in-snapsphere-for-2024/"><u>[Updated] Identifying Lack of Engagement in Snapsphere for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-streaming-success-story-which-video-site-tops-others-vimeo-youtube/"><u>[Updated] In 2024, Streaming Success Story Which Video Site Tops Others – Vimeo, YouTube?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-radeon-r9-360-driver-update-and-download-instructions-for-windows-11-users/"><u>AMD Radeon R9 360 Driver Update and Download Instructions for Windows 11 Users</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/beyond-traditional-fitness-wearables-exploring-the-privacy-of-amazons-halo-tracker/"><u>Beyond Traditional Fitness Wearables: Exploring the Privacy of Amazon's Halo Tracker</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/canon-printer-drivers-compatible-with-windows-7-8-and-10-free-download-guide/"><u>Canon Printer Drivers Compatible with Windows 7, 8 & 10 - Free Download Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-download-cross-platform-sm-bus-controller-for-windows-users-supported-on-latest-versions/"><u>Easy Download: Cross-Platform SM Bus Controller for Windows Users – Supported on Latest Versions!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/embrace-a-holistic-approach-to-health-with-fitbit-sense-vs-apple-watch/"><u>Embrace a Holistic Approach to Health with Fitbit Sense Vs. Apple Watch</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-hp-officejet-pro-j4594e-printer-driver-for-multiple-windows-os-versions/"><u>Get the Latest HP OfficeJet Pro J4594e Printer Driver for Multiple Windows OS Versions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-nvidia-quadro-rtx-8000-windows-drivers-ideal-for-wndows-11-8-and-7-systems/"><u>Get the Newest Nvidia Quadro RTX 8000 Windows Drivers: Ideal for Wndows 11, 8 & 7 Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/humanitarian-considerations-have-gained-prominence-in-the-discourse-on-nuclear-weapons-emphasizing-their-catastrophic-impacts/"><u>Humanitarian Considerations Have Gained Prominence in the Discourse on Nuclear Weapons, Emphasizing Their Catastrophic Impacts.</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-watch-9-festive-feasts-of-film-with-zero-charges-online/"><u>In 2024, Watch 9 Festive Feasts of Film with Zero Charges Online</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-hp-officejet-5740-driver-downloads-for-win-11108-free-update-guide/"><u>Latest HP OfficeJet 지패 5740 Driver Downloads for Win 11/10/8 - FREE Update Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/quick-download-guide-essential-hp-drivers-compatible-with-windows-10/"><u>Quick-Download Guide: Essential HP Drivers Compatible with Windows 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-bcm20702a0-driver-setup-for-windows-users/"><u>Step-by-Step BCM20702A0 Driver Setup for Windows Users</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/unbeatable-free-mod-video-editors-the-ultimate-2023-roundup-for-2024/"><u>Unbeatable Free MOD Video Editors The Ultimate 2023 Roundup for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-secrets-of-clean-windows-11-setup/"><u>Unveiling the Secrets of Clean Windows 11 Setup</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrade-to-windows-11-secure-your-intel-usb-devices-with-the-latest-drivers/"><u>Upgrade to Windows 11? Secure Your Intel USB Devices with the Latest Drivers!</u></a></li>
 </ul></div>
 

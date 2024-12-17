@@ -1,7 +1,7 @@
 ---
 title: "Preventative Measures: MSI Updates Motherboard Power Profiles with Intel I9 Specifications to Avoid System Failures"
-date: 2024-08-19T10:30:24.193Z
-updated: 2024-08-20T10:30:24.193Z
+date: 2024-12-15T16:07:57.514Z
+updated: 2024-12-17T16:10:27.666Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,26 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-most-popular-tweets-top-ten-hits-list/"><u>[New] 2024 Approved Most Popular Tweets Top Ten Hits List</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-optimizing-your-imovie-content-for-vimeo-display/"><u>[New] 2024 Approved Optimizing Your iMovie Content for Vimeo Display</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-in-depth-look-at-macs-top-screen-capture-apps/"><u>[New] In 2024, In-Depth Look at Mac's Top Screen Capture Apps</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-elevate-your-video-presence-with-stellar-intros-in-imovie/"><u>[Updated] In 2024, Elevate Your Video Presence with Stellar Intros in iMovie</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-instructions-for-magic-mouse-driver-acquisition-and-installation-on-windows/"><u>Complete Instructions for Magic Mouse Driver Acquisition & Installation on Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-the-latest-epson-wf-3520-printer-drivers-on-windows/"><u>Download and Install the Latest Epson WF-3520 Printer Drivers on Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-newly-updated-hp-officejet-njw-4500-printer-driver-software-for-optimal-performance/"><u>Download the Newly Updated HP OfficeJet Njw 4500 Printer Driver Software for Optimal Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easily-upgrade-to-newest-amd-radeon-r9-200-series-driver-on-windows-os/"><u>Easily Upgrade to Newest AMD Radeon R9 200 Series Driver on Windows OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-solution-finding-and-upgrading-to-the-current-elan-smbus-driver-on-windows-machines/"><u>Easy Solution: Finding & Upgrading to the Current ELAN SMBus Driver on Windows Machines</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722976940966-get-the-latest-windows-7-wi-fi-driver-software-free-now/"><u>Get the Latest Windows 7 Wi-Fi Driver Software Free Now</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-12-to-roku-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 12 to Roku? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/laptop-screen-sideways-solved/"><u>Laptop Screen Sideways [SOLVED]</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-the-update-process-a-comprehensive-guide-to-motherboard-driver-maintenance-on-windows-systems/"><u>Mastering the Update Process: A Comprehensive Guide to Motherboard Driver Maintenance on Windows Systems</u></a></li>
+<li><a href="https://article-posts.techidaily.com/maximizing-display-youtube-video-upgrades-for-2024/"><u>Maximizing Display YouTube Video Upgrades for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/navigating-multiplatform-movie-capture-with-expert-ease-for-2024/"><u>Navigating Multiplatform Movie Capture with Expert Ease for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-protocol-resetting-your-samsung-audio-bar-system/"><u>Troubleshooting Protocol: Resetting Your Samsung Audio Bar System</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-updating-your-razer-blackwidow-drivers-step-by-step/"><u>Ultimate Guide: Updating Your Razer BlackWidow Drivers – Step-by-Step</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/upcoming-amd-ryzen-9000-ready-800-series-motherboard-chipsets-how-numbers-align-with-intel-offerings/"><u>Upcoming AMD Ryzen 9000-Ready 800 Series Motherboard Chipsets: How Numbers Align With Intel Offerings</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-brother-mfc-copier-7860dw-free-driver-software-for-windows-users/"><u>Update Your Brother MFC-Copier-7860DW: Free Driver Software for Windows Users</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

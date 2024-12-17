@@ -1,7 +1,7 @@
 ---
 title: "Look for Disciplinary Changes at School: Contact Their School if Necessary to Get a Better Understanding of Any Disciplinary Issues or Changes in Behavior From Teachers and Staff Who See Your Child on a Daily Basis."
-date: 2024-08-19T10:29:35.710Z
-updated: 2024-08-20T10:29:35.710Z
+date: 2024-12-14T16:13:15.845Z
+updated: 2024-12-17T16:20:23.341Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,22 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-a-comprehensive-look-at-uploading-images-to-youtube/"><u>[New] 2024 Approved A Comprehensive Look at Uploading Images to YouTube</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-step-by-step-craft-your-viral-story-in-online-videos/"><u>[New] 2024 Approved Step by Step, Craft Your Viral Story in Online Videos</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nmatched-download-experience-with-our-top-tools-list/"><u>[New] Unmatched Download Experience with Our Top Tools List</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-integrating-fb-live-on-roku-step-by-step-guide-for-2024/"><u>[Updated] Integrating FB Live on Roku Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-driver-setup-for-epson-v700-on-windows-download-now-windows-71081/"><u>Complete Driver Setup for Epson V700 on Windows - Download Now [Windows 7/10/8.1]</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-guide-to-correcting-asus-pce-ac56-drivers-issues-on-windows-os-versions-10-8-and-n/"><u>Complete Guide to Correcting ASUS PCE-AC56 Drivers Issues on Windows OS Versions (10, 8 & N)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-install-comprehensive-guide-and-downloads-for-amd-gpio-interface/"><u>Easy Install: Comprehensive Guide & Downloads for AMD GPIO Interface</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/essential-drives-compatible-with-seagate-backup-plus-top-recommendations-and-insights/"><u>Essential Drives Compatible with Seagate Backup Plus: Top Recommendations and Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722968162491-get-the-latest-insignia-wireless-networking-dongle-for-xbox-free-driver/"><u>Get the Latest Insignia Wireless Networking Dongle for Xbox - FREE Driver</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/igtv-downloads-decoded-iphone-and-android-edition/"><u>IGTV Downloads Decoded IPhone & Android Edition</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-amd-rx-6800-xt-driver-downloads-compatible-with-windows-111087-get-them-now/"><u>Latest AMD RX 6800 XT Driver Downloads Compatible with Windows 11/10/8/7 - Get Them Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-error-0x80370102-in-wsl-distribution-setup/"><u>Overcoming Error 0X80370102 in WSL Distribution Setup</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-smooth-path-to-seamless-compatibility-obtain-your-lexar-usb-driver-today/"><u>The Smooth Path to Seamless Compatibility - Obtain Your Lexar USB Driver Today</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-iphones-for-gamers-finding-the-ultimate-mobile-gaming-device/"><u>Top iPhones for Gamers: Finding the Ultimate Mobile Gaming Device</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-unparalleled-audio-file-reader-free-top-quality-mp3-creation-from-professional-mpa-soundtracks/"><u>Updated Unparalleled Audio File Reader Free, Top Quality MP3 Creation From Professional MPA Soundtracks</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->

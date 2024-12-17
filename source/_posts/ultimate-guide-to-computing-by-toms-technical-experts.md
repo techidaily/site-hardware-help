@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Computing by Tom's Technical Experts
-date: 2024-08-19T10:29:11.908Z
-updated: 2024-08-20T10:29:11.908Z
+date: 2024-12-13T16:20:23.087Z
+updated: 2024-12-17T16:08:44.491Z
 tags:
   - motherboards
 categories:
@@ -19,6 +19,10 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
 
  CAMM[originated with Dell](https://tools.techidaily.com) as a project to replace bulkier SO-DIMM memory slots. But the company[worked with JEDEC](https://tools.techidaily.com) , a semiconductor standards body, which tweaked it and made CAMM2 available to a number of different PC companies.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What are CAMM2 and LPCAMM2? What are their benefits?
 
  There are two major types of CAMM2 memory. DDR5 CAMM2 is the full power version, and the one you're most likely to see in desktop PCs. There's also the low-power LPDDR5 CAMM2, designed for thin laptops. Some vendors are shortening this to LPCAMM2, which is slightly less of a mouthful.  
@@ -32,6 +36,10 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
  Image 1 of 2
 
 ![CAMM2](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -48,15 +56,17 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
  The modules might help enable new form factors, too. At Computex,[Adata showed off its Nia handheld](https://tools.techidaily.com) , which uses LPCAMM2 using LPDDR5X.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How much memory fits on a CAMM2 module?
 
 Between 8GB and 128GB of memory fits on a single module.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is LPCAMM2 faster than existing SO-DIMMs and DIMMs?
 
  Yes. As of this writing,[Crucial is listing](https://www.crucial.com/memory/ddr5/ct64g75c2lp5xg) 32GB and 64GB LPDDR5X-7200 LPCAMM2 modules. At Computex, TeamGroup said its 16GB, 32GB, and 64GB memory will go up to 9600 MT/s. Samsung's[page on LPCAMM2](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fgo.redirectingat.com%2F%3Fid%3D92X1584492%26xcust%3Dtomshardware%255Fus%255F4400621493195954499%26xs%3D1%26url%3Dhttps%253A%252F%252Fsemiconductor.samsung.com%252Femea%252Fdram%252Fmodule%252Flpcamm2%252F%26sref%3Dhttps%253A%252F%252Fwww.tomshardware.com%252Fpc-components%252Fmotherboards%252Fwhat-is-camm2) lists an "extraordinary data transfer rate of 8,533Mbps," the same number memory company[Geil showed at Computex](https://www.techpowerup.com/323173/geil-presents-a-wide-range-of-memories-at-computex-camm2-lpcamm2-alongside-many-ddr5s) .
@@ -66,8 +76,9 @@ Between 8GB and 128GB of memory fits on a single module.
  We haven't seen any DDR5 CAMM2 products on the market just yet, so we don't know if those speeds will go even higher.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What are alternatives to CAMM2?
 
  In theory, there's nothing stopping vendors from using standard DIMMs or SO-DIMMs, or continuing to solder memory to the motherboard. Staying with the status quo is an alternative, at least for now.
@@ -82,8 +93,6 @@ Between 8GB and 128GB of memory fits on a single module.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -91,4 +100,22 @@ Between 8GB and 128GB of memory fits on a single module.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-captivating-clips-incorporating-text-deformation-artistry/"><u>[New] Captivating Clips Incorporating Text Deformation Artistry</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-examining-the-best-is-picku-leading-photo-enhancement-for-android-users-in-2024/"><u>[Updated] Examining the Best Is PickU Leading Photo Enhancement for Android Users, In 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/academic-citation-techniques-for-using-gpt-3-powered-chatbots/"><u>Academic Citation Techniques for Using GPT-3 Powered Chatbots</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-poco-c51-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Poco C51</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ercp-with-stent-placement-provides-symptomatic-relief-from-obstructive-jaundice-and-is-often-part-of-palliative-care/"><u>ERCP with Stent Placement Provides Symptomatic Relief From Obstructive Jaundice and Is Often Part of Palliative Care.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fresh-logitech-k400plus-keyboard-and-mouse-driver-download/"><u>Fresh Logitech K400+ Keyboard & Mouse Driver Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-intel-82579v-drivers-for-free-seamless-driver-updates-and-quick-fixes/"><u>Get Your Intel 82579V Drivers for Free – Seamless Driver Updates and Quick Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-visualize-and-reclaim-your-storage-on-windows-with-altwindirstat/"><u>How to Visualize and Reclaim Your Storage on Windows With altWinDirStat</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-chromebook-video-editing-software-top-10-online-options/"><u>In 2024, Chromebook Video Editing Software Top 10 Online Options</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/instantly-upgrade-to-wireless-freedom-secure-zexmtes-bluetooth-driver-for-your-win1178-system-download/"><u>Instantly Upgrade to Wireless Freedom: Secure Zexmte's Bluetooth Driver for Your Win11/7/8 System (Download)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-your-zoom-experience-poor-determining-if-its-due-to-user-mistakes-or-system-issues/"><u>Is Your Zoom Experience Poor? Determining If It's Due to User Mistakes or System Issues</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-logitech-c525-hd-webcam-driver-installation-guide-for-windows-pcs/"><u>Latest Logitech C525 HD Webcam Driver Installation Guide for Windows PCs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-complete-walkthrough-to-refresh-ati-radeon-drivers-for-a-smooth-windows-experience/"><u>The Complete Walkthrough to Refresh ATI Radeon Drivers for a Smooth Windows Experience</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/voice-customization-leaders-beyond-echo-magic/"><u>Voice Customization Leaders Beyond Echo Magic</u></a></li>
+</ul></div>
 

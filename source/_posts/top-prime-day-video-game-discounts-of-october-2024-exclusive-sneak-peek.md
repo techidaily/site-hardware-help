@@ -1,7 +1,7 @@
 ---
 title: Top Prime Day Video Game Discounts of October 2024 - Exclusive Sneak Peek
-date: 2024-12-08T07:20:32.782Z
-updated: 2024-12-11T00:23:02.453Z
+date: 2024-12-14T16:25:19.388Z
+updated: 2024-12-17T16:38:48.554Z
 tags:
   - laptops
 categories:
@@ -23,6 +23,10 @@ Brands like HP, [Samsung](https://www.zdnet.com/article/best-early-prime-day-sam
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Our favorite early Amazon October Prime Day gaming deals
 
@@ -137,7 +141,7 @@ ZDNET
 * [Join Xbox Game Pass Ultimate for $1 (then $19.99 per month)](https://www.xbox.com/en-US/xbox-game-pass#join): Get access to hundreds of PC and Xbox Series X|S games for cloud gaming support, monthly free games, and exclusive discounts.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day Nintendo deals
@@ -165,10 +169,6 @@ Nintendo/ZDNET
 * [Lego Star Wars: The Skywalker Saga for $25 (save $26 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLEGO-Star-Wars-The-Skywalker-Saga-Nintendo-Switch%2F182278850%3FclassType%3DVARIANT&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Play as iconic characters like Luke Skywalker, Qui-Gon Jin, and Darth Vader through the stories of both the original and prequel Star Wars trilogies.
 * [Nintendo Switch Joy-Con in neon purple and neon orange for $55 (save $25 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FNintendo-Switch-Joy-Con-Pair-Neon-Purple-and-Neon-Orange%2F921709016%3FclassType%3DVARIANT%26athbdg%3DL1600&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Grab an extra Joy-Con controller for your Nintendo Switch to keep gaming while your other controller charges.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day gaming PC deals
 
 Kyle Kucharski/ZDNET
@@ -184,6 +184,10 @@ Kyle Kucharski/ZDNET
 * [HP Victus 15L desktop for $480 (save $370 at HP)](https://www.dpbolvw.net/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fvictus-by-hp-15l-gaming-desktop-tg02-0325m-59a32av-1&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An entry-level gaming desktop built with an AMD Ryzen 5 5600G processor, AMD Radeon RX 6400 GPU, 8GB of RAM, and a 256GB SSD.
 * [Alienware Aurora R16 for $3,700 (save $1,000 at Dell)](https://www.dpbolvw.net/click-9041660-15734614?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdesktop-computers%2Falienware-aurora-r16-gaming-desktop%2Fspd%2Falienware-aurora-r16-desktop%2Fuseapctor16icc2&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Alienware's flagship gaming desktop is built with a 14th gen Intel Core i9 CPU, Nvidia GeForce RTX 4090 graphics card, 64GB of RAM, and 4TB of storage.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## October Prime Day gaming laptop deals
 
 Lenovo
@@ -195,10 +199,6 @@ Lenovo
 * [HP Omen Transcend for $1,130 (save $470 at HP)](https://www.dpbolvw.net/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fomen-transcend-gaming-laptop-14t-fb000-14-8x1h0av-1&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A mid-range gaming laptop with a 14-inch 2K OLED display, Intel Core Ultra 7 CPU, 512GB SSD, 16GB of RAM, and a GeForce RTX 4050 GPU.
 * [HP Victus 16 laptop for $850 (save $450 at HP)](https://www.dpbolvw.net/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fvictus-by-hp-gaming-laptop-16t-r100-161-91c59av-1&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An entry-grade gamign laptop with a 16-inch 1080p IPS display, 144Hz refresh rate, 14th gen Intel Core i5 CPU, 16GB of RAM, GeForce RTX 4050 GPU, and a 512GB SSD.
 * [Alienware m18 R2 for $3,400 (save $600 at Dell)](https://www.dpbolvw.net/click-9041660-15734614?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-computer-laptops%2Falienware-m18-r2-gaming-laptop%2Fspd%2Falienware-m18-r2-laptop%2Fuseashctom18r204&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end gaming laptop with an Nvidia GeForce RTX 4090 GPU, Intel Core i9-14900K CPU, 64GB of RAM, 4TB of storage, and an 18-inch QHD+ display.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## October Prime Day gaming monitor deals
 
@@ -223,10 +223,14 @@ Samsung/ZDNET
 * [Asus Nvidia GeForce RTX 4070 Overclock for $580 (save $100 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-nvidia-geforce-rtx-4070-overclock-12gb-gddr6x-pci-express-4-0-graphics-card-black%2F6540002.p%3FskuId%3D6540002&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This Nvidia-based GPU offers 12GB of DDR6 VRAM, a base clock speed of 2.55GHz that can be overclocked to 2.58GHz, 8K video output support, and support for up to 4 displays.
 * [Asus TUF Nvidia GeForce RTX 3080 Ti for $925 (save $472 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FTUF-NVIDIA-GeForce-RTX-3080-TI-Graphic-Card-12-GB-GDDR6-384-bit-Bus-Width-PCI-Express-4-0-DisplayPort-HDMI%2F994157887%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) Nvidia's high-end 30 Series graphics card offers 12GB of VRAM, military-grade capacitors for better power efficiency, and support for up to 4 displays.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### When is Amazon Prime Day 2024?
@@ -236,10 +240,6 @@ Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, wi
 ### Are games, consoles, and accessories really cheaper on Prime Day?
 
 Games, consoles, and accessories can and do go on sale during Prime Day, though not every brand or manufacturer may participate. Some brands may have competing sales at other retailers or on their own direct-sale sites, which is great news for anyone who likes to compare discounts to make sure they're getting the best deal possible.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How did we choose these Prime Day deals?
 
@@ -275,19 +275,22 @@ I only chose deals on games that have been critically and commercially well-rece
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-virtual-makeup-mavens-top-youtube-creators/"><u>[Updated] In 2024, Virtual Makeup Mavens Top YouTube Creators</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/3-ways-to-unlock-your-iphone-15-pro-for-free-by-drfone-ios/"><u>3 Ways to Unlock Your iPhone 15 Pro for Free</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/atheros-driver-installation-tutorial-for-windows-operating-systems/"><u>Atheros Driver Installation Tutorial for Windows Operating Systems</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/chaptered-cinema-on-vimeo-cutting-techniques-explained-for-2024/"><u>Chaptered Cinema on Vimeo Cutting Techniques Explained for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/clear-steps-recollecting-nvidia-drivers/"><u>Clear Steps: Recollecting NVIDIA Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-dell-usb-c-docking-station-driver-for-windows/"><u>Download Dell USB-C Docking Station Driver for Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-installation-of-sound-blaster-z-driver-on-windows-10-systems/"><u>Easy Installation of Sound Blaster Z Driver on Windows 10 Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-setup-with-newly-released-easycap-driver-software-free-downloads-available/"><u>Easy Setup with Newly Released EasyCAP Driver Software - Free Downloads Available</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/exploring-the-land-of-virtual-possibilities-for-2024/"><u>Exploring the Land of Virtual Possibilities for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-realme-gt-neo-5-frp-by-drfone-android/"><u>How Can We Bypass Realme GT Neo 5 FRP?</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-top-10-premium-luts-available-for-free/"><u>In 2024, Top 10 Premium LUTs, Available for FREE</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/master-your-craft-with-8-top-ai-writing-tools/"><u>Master Your Craft with 8 Top AI Writing Tools</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/netgear-a6100-driver-download-and-update-for-windows/"><u>Netgear A6100 Driver Download & Update for Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-your-canon-pixma-ts3222-driver-free-download-and-installation-guide/"><u>Update Your Canon PIXMA TS3222 Driver: Free Download & Installation Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-elevate-your-gaming-experience-on-youtube/"><u>[New] 2024 Approved Elevate Your Gaming Experience on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-free-to-fortune-unlocking-youtubes-earnings-at-the-500-subscriber-level/"><u>[New] In 2024, From Free to Fortune Unlocking YouTube's Earnings at the 500 Subscriber Level</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-deciphering-adsense-profits-on-youtube-revenue-per-kv-watched/"><u>[Updated] 2024 Approved Deciphering AdSense Profits on YouTube Revenue per KV Watched</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-ultimate-guide-to-choosing-a-top-tier-gif-maker-for-2024/"><u>[Updated] Ultimate Guide to Choosing a Top-Tier GIF Maker for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-a-new-dawn-in-gaming-stardew-valleys-best-mods-7/"><u>2024 Approved A New Dawn in Gaming - Stardew Valley's Best Mods (#7)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-asus-z370-e-motherboard-drivers-in-minutes/"><u>Download & Install ASUS Z370-E Motherboard Drivers in Minutes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-focusrite-scarlett-solo-18i20-windows-sound-card-driver-download/"><u>Free Focusrite Scarlett Solo 18I20 Windows Sound Card Driver Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-installation-of-logitech-webcams-driver-downloads-for-windows-users/"><u>Free Installation of Logitech Webcams: Driver Downloads for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-version-of-steelseries-engine-on-windows-11-free-downloads-available/"><u>Get the Latest Version of SteelSeries Engine on Windows 11 – Free Downloads Available!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722960486115-guide-to-freshly-upgrading-your-sata-driver-on-a-windows-machine-quick-steps-inside/"><u>Guide to Freshly Upgrading Your SATA Driver on a Windows Machine - Quick Steps Inside</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-correct-the-arduino-uno-hardware-drivers-in-windows-operating-system/"><u>How to Correct the Arduino Uno Hardware Drivers in Windows Operating System</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-creating-compelling-content-with-powerful-youtube-titles/"><u>In 2024, Creating Compelling Content with Powerful YouTube Titles</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Realme 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-realme-12plus-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Realme 12+ 5G Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-tp-link-wifi-router-drivers-compatible-with-windows-11-8-and-7/"><u>Latest TP-Link WiFi Router Drivers: Compatible with Windows 11, 8 & 7</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/telegram-upload-guide-sending-videos-over-2gb/"><u>Telegram Upload Guide: Sending Videos Over 2GB</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-to-new-steelseries-drivers-and-optimize-windows-gaming-performance/"><u>Update to New SteelSeries Drivers & Optimize Windows Gaming Performance</u></a></li>
 </ul></div>
 

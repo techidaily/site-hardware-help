@@ -1,7 +1,7 @@
 ---
 title: "Update on MSI Z790 Motherboards: Cracked PCH Chip Issue & Potential Manufacturing Defect Impacting Some Units"
-date: 2024-08-19T10:28:36.488Z
-updated: 2024-08-20T10:28:36.488Z
+date: 2024-12-15T16:15:53.612Z
+updated: 2024-12-17T16:21:46.191Z
 tags:
   - motherboards
 categories:
@@ -47,6 +47,10 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
 
  The fact is, Loongson has developed its own CPU just a few generations behind Intel and AMD. Considering the Chinese firm has to work around U.S. sanctions and claims to insist on doing everything based on its own IP, the performance could actually be considered impressive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -63,8 +67,6 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -72,8 +74,20 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-subtle-techniques-make-unwanted-backgrounds-disappear-in-videos/"><u>[New] Subtle Techniques Make Unwanted Backgrounds Disappear in Videos</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-tutorial-to-update-webcam-drives-in-the-world-of-windows-10/"><u>Comprehensive Tutorial to Update Webcam Drives in the World of Windows 10</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/deep-windows-11-secrets-effortless-media-upload-made-simple/"><u>Deep Windows 11 Secrets Effortless Media Upload Made Simple</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-high-speed-intel-usb-30-drivers-for-seamless-windows-11-integration/"><u>Download & Install: High-Speed Intel USB 3.0 Drivers for Seamless Windows 11 Integration</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-set-up-amd-graphics-card-software-for-cryptocurrency-on-windows/"><u>Download & Set Up AMD Graphics Card Software for Cryptocurrency on Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/freshly-updated-drivers-for-lenovo-t420-easy-download-and-installation-on-windows-machines/"><u>Freshly Updated Drivers for Lenovo T420 - Easy Download & Installation on Windows Machines</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/how-to-recover-missing-folders-from-your-windows-10-or-11-desktop/"><u>How to Recover Missing Folders From Your Windows 10 or 11 Desktop</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-successfully-update-your-huion-graphics-tablet-drivers-on-windows-computers/"><u>How to Successfully Update Your Huion Graphics Tablet Drivers on Windows Computers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mpow-bluetooth-drivers-free-download-and-updates-for-windows-1187/"><u>MPOW Bluetooth Drivers: Free Download and Updates for Windows 11/8/7</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-oppo-k11x-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Oppo K11x Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://discover-community.techidaily.com/solving-common-microphone-issues-a-step-by-step-guide-yl-computing/"><u>Solving Common Microphone Issues: A Step-by-Step Guide - YL Computing</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/transform-your-photos-best-vignette-editing-apps-for-mobile/"><u>Transform Your Photos Best Vignette Editing Apps for Mobile</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrade-to-new-steelseries-driver-for-enhanced-performance/"><u>Upgrade to New SteelSeries Driver for Enhanced Performance</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->

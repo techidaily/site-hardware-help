@@ -1,7 +1,7 @@
 ---
 title: Your Ultimate Resource for Cutting-Edge PC Components at Tom's Hardware
-date: 2024-08-19T10:31:21.546Z
-updated: 2024-08-20T10:31:21.546Z
+date: 2024-12-13T16:29:08.588Z
+updated: 2024-12-17T16:20:27.539Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,22 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-effortless-resolution-of-macs-green-screen-problem-for-youtubers/"><u>[Updated] In 2024, Effortless Resolution of Mac's Green Screen Problem for YouTubers</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-live-photography-essentials-for-iphone-users/"><u>[Updated] In 2024, Live Photography Essentials for iPhone Users</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-maintaining-image-integrity-effective-instagram-photowatermarking/"><u>[Updated] In 2024, Maintaining Image Integrity Effective Instagram Photowatermarking</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-optimizing-visuals-aspect-ratio-alteration/"><u>2024 Approved Optimizing Visuals Aspect Ratio Alteration</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/windows-11-nvme/"><u>解決未掛機Windows 11 NVMe存在問題：緊急修復手法</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-radeon-rx-580-driver-software-fast-simple-downloads-and-updates/"><u>AMD Radeon RX 580 Driver Software - Fast, Simple Downloads & Updates</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/brother-hl-2270dw-updates-and-drivers-downloaded-how-to-install-on-windows-systems/"><u>Brother HL-2270DW Updates & Drivers Downloaded - How to Install on Windows Systems</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/huawei-nova-y71-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Huawei Nova Y71 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-or-updating-drivers-for-the-nvidia-quadro-rtx-4000-guide-and-resources/"><u>Installing or Updating Drivers for the NVIDIA Quadro RTX 4000 - Guide & Resources</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intel-wireless-ac-7260-upgrade-quick-download-tips-to-boost-your-network-connection/"><u>Intel Wireless-AC 7260 Upgrade: Quick Download Tips to Boost Your Network Connection</u></a></li>
+<li><a href="https://win11.techidaily.com/masterful-power-indicator-designs-for-win-users/"><u>Masterful Power Indicator Designs for Win Users</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-google-pixel-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-purpose-of-vessel-monitoring-systems-vms-and-automatic-identification-system-ais-explain-how-they-provide-real-time-data-on-the-vessels-identity-positio65/"><u>The Purpose of Vessel Monitoring Systems (VMS) and Automatic Identification System (AIS): Explain How They Provide Real-Time Data on the Vessel's Identity, Position, Speed, Course, and Navigational Status, Which Aids in Maritime Safety and Security</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrade-to-the-best-asus-audio-driver-pack-free-download/"><u>Upgrade to the Best ASUS Audio Driver Pack - Free Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/windows-users-guide-how-to-download-and-activate-magic-mouse-drivers/"><u>Windows Users' Guide: How to Download and Activate Magic Mouse Drivers</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->

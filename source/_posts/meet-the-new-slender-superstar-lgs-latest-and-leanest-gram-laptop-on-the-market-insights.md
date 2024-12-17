@@ -1,7 +1,7 @@
 ---
 title: "Meet the New Slender Superstar: LG's Latest and Leanest Gram Laptop on the Market Insights"
-date: 2024-12-05T07:01:36.598Z
-updated: 2024-12-10T20:30:24.679Z
+date: 2024-12-10T16:08:47.571Z
+updated: 2024-12-17T16:37:45.725Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -79,7 +79,7 @@ Now you may be wondering: what's the catch? Is the Asus Zenbook 14 as perfect as
 My biggest issue with the laptop is the fact it can run incredibly warm. You can't even type on the keyboard or have it on your legs without discomfort. Heat vents are found on the bottom and the side, but they don't offer much relief. This problem is exacerbated if you try to use the laptop while charging. There's so much heat that typing on the keyboard becomes uncomfortable. You're honestly better off not using the laptop during this time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -89,7 +89,7 @@ The [Asus Zenbook 14](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.
 You can purchase my review unit's configuration on Best Buy for $799.99, but there's always the option to upgrade the hardware if you're looking for something with more power behind it. A Zenbook 14 sporting an Intel Core Ultra 7 155H processor, Intel Arc GPU, 16GB of RAM, and 1TB of storage will [start at $1,299](https://www.awin1.com/awclick.php?mid=31828&id=423585&clickref=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&ued=https%3A%2F%2Fshop.asus.com%2Fus%2Fasus-zenbook-14-oled-ux3405-laptop.html) but come with significant jump up in processing power. No matter which one you get, it'll be worth the low price.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -136,22 +136,18 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-vidma-screen-capture-a-thorough-examination-and-alternative-options-for-2024/"><u>[New] Vidma Screen Capture - A Thorough Examination & Alternative Options for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-brighten-your-surroundings-with-21plus-collage-wonders/"><u>[Updated] Brighten Your Surroundings with 21+ Collage Wonders</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unleashing-artful-expression-the-most-exceptional-9-sites-for-3d-graffiti-typefaces/"><u>[Updated] Unleashing Artful Expression The Most Exceptional 9 Sites for 3D Graffiti Typefaces</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-valheim-agronomy-explained-choosing-superior-saplings/"><u>[Updated] Valheim Agronomy Explained Choosing Superior Saplings</u></a></li>
-<li><a href="https://article-posts.techidaily.com/compre-written-explanation-easy-hdr-understanding/"><u>Compre Written Explanation Easy HDR Understanding</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-hp-officejet-pro-8610-drivers-compatible-with-windows-11-10-8-7-vista/"><u>Download & Install HP Officejet Pro 8610 Drivers: Compatible with Windows 11, 10, 8, 7, Vista</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-to-follow-tutorial-on-installing-free-intel-82579v-graphics-card-drivers/"><u>Easy-to-Follow Tutorial on Installing Free Intel 82579V Graphics Card Drivers</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fortnite-error-code-84-solved-fixes-for-when-you-cant-join-a-match-with-friends/"><u>Fortnite Error Code #84 Solved: Fixes for When You Can't Join a Match with Friends</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-gigabyte-ethernet-controller-up-to-date-with-this-free-driver-package/"><u>Get Your Gigabyte Ethernet Controller Up-to-Date with This Free Driver Package!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-officejet-pro-8740-driver-download-for-windows-11-10-and-8-get-installed-now/"><u>HP OfficeJet Pro 8740 Driver Download for Windows 11, 10 & 8 – Get Installed Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-pagewide-pro-477dw-driver-installation-files-for-windows-11-and-earlier-versions/"><u>HP PAGEWIDE Pro 477DW Driver Installation Files for Windows 11 and Earlier Versions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/improve-your-video-chats-updating-logitech-c920-driver-compatibility-with-windows-11-10-and-8/"><u>Improve Your Video Chats: Updating Logitech C920 Driver Compatibility with Windows 11, 10 and 8</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1722995215946-ps4-stuck-a-complete-guide-to-unfreeze-your-console-easy-steps/"><u>PS4 Stuck? A Complete Guide to Unfreeze Your Console - Easy Steps!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722972754251-ryzen-cpu-firmware-updates-get-your-latest-drivers-here/"><u>Ryzen CPU Firmware Updates - Get Your Latest Drivers Here</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-7-unbeatable-october-black-friday-mobile-bargains-exclusive-offers-you-cant-miss/"><u>Top 7 Unbeatable October Black Friday Mobile Bargains - Exclusive Offers You Can't Miss</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-your-brother-hl-l2350dw-printer-software-easily-online/"><u>Update Your Brother HL-L2350DW Printer Software Easily Online</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/x-tape-maker-desktop-compatible/"><u>X-Tape Maker Desktop Compatible</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-ranked-worlds-best-anime-opening-music/"><u>[Updated] Ranked World's Best Anime Opening Music</u></a></li>
+<li><a href="https://games-able.techidaily.com/bridging-wi-fi-gaps-for-switch-users/"><u>Bridging Wi-Fi Gaps for Switch Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-the-latest-ch340g-usb-to-serial-drivers-for-windows-11/"><u>Download & Update the Latest CH340G USB-to-Serial Drivers for Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-access-to-free-epson-et-2750-printer-software-for-windows-users/"><u>Easy Access to Free Epson ET-2750 Printer Software for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-access-to-hp-laserjet-pro-m404n-drivers-free-download-and-comprehensive-update-guide/"><u>Easy Access to HP LaserJet Pro M404n Drivers – Free Download & Comprehensive Update Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-steps-to-overcome-android-device-wireless-security-verification-troubles/"><u>Easy Steps to Overcome Android Device Wireless Security Verification Troubles</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/from-closed-to-open-mastering-srt-files-in-macos/"><u>From Closed to Open Mastering SRT Files in macOS</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-samsung-galaxy-m34-5g-frp-by-drfone-android/"><u>Full Guide to Bypass Samsung Galaxy M34 5G FRP</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-the-latest-driver-for-your-hp-deskjet-2652-on-windows-operating-systems-windows-111087/"><u>Install the Latest Driver for Your HP DeskJet 2652 on Windows Operating Systems (Windows 11/10/8/7)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722967845271-logitech-k400-plus-compatibility-and-driver-software-secure-your-download-today/"><u>Logitech K400 Plus Compatibility & Driver Software - Secure Your Download Today</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-the-missing-d3dx9n40dll-error-effective-troubleshooting-techniques/"><u>Overcoming the 'Missing d3dx9_n40.dll' Error: Effective Troubleshooting Techniques</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-guide-obtaining-the-latest-dell-sound-card-drivers/"><u>Quick Guide: Obtaining the Latest Dell Sound Card Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-setup-fetch-the-latest-hp-stream-printing-drivers-instantly/"><u>Seamless Setup: Fetch the Latest HP Stream Printing Drivers Instantly</u></a></li>
 </ul></div>
 

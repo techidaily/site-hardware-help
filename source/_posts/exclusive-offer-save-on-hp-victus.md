@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Offer: Save on HP Victus"
-date: 2024-12-10T05:54:57.272Z
-updated: 2024-12-11T09:03:16.918Z
+date: 2024-12-16T16:30:46.404Z
+updated: 2024-12-17T16:28:57.633Z
 tags:
   - laptops
 categories:
@@ -23,10 +23,6 @@ If you see something that looks like a great deal, we recommend adding it to you
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best laptop deals
 
@@ -99,6 +95,10 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Low-Blue-Processor-Ethernet-Bluetooth%2Fdp%2FB0CVN88CFX%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9586302c-2428-498d-9e19-20e580697010%7Cdtp&dtb=1) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Alternative laptop deals
 
 ### Amazon laptop deals
@@ -137,6 +137,10 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [ASUS Zenbook 14-inch OLED touchscreen laptop deal for $1,300 (save $200) $1,300 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-zenbook-14-120hz-oled-touch-laptop-evo-intel-13-gen-core-i9-with-32gb-memory-nvidia-geforece-rtx-3050-1tb-ssd-gray%2F6548463.p%3FskuId%3D6548463&publisher_slug=itechdaily19598&exclusive=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Apple MacBook deals
 
 [Apple MacBook Air, 15-inch, M2 chip, 1TB deal for $1,599 (save $300) $1,599 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-macbook-air-15-laptop-m2-chip-16gb-memory-1tb-ssd-midnight%2F6382794.p%3FskuId%3D6382794&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
@@ -150,7 +154,7 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 [Apple MacBook Air, 2023, refurbished, 13.3-inch deal for $340 (save $660) $340 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-geek-squad-certified-refurbished-macbook-air-13-3-display-intel-core-i5-8gb-memory-128gb-flash-storage-silver%2F6530194.p&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we choose these laptop deals?
@@ -165,6 +169,10 @@ When compiling the list of the best deals, we considered the following:
 * **Features**: We included a range of laptops with features sure to appeal to you, including different screen sizes, processors, memory options, and storage. Furthermore, these laptops include varying levels of security, parental lock options, and display resolutions.
 * **Use cases**: At ZDNET, we also took into account different use cases. You might be in the market for a budget-friendly, basic laptop for a child, for example, or you may need a future-proof laptop suitable for work. Or, it might be a gaming device you're after. So, we have compiled a set of recommendations based on different purposes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What specifications do I need to look for in a laptop?
 
 The right specs depend on your needs and how you intend to use your new laptop -- whether for gaming, studies, video calling, or simply daily internet surfing. We break it down for you below:
@@ -174,16 +182,12 @@ The right specs depend on your needs and how you intend to use your new laptop -
 * **Storage**: For those that focus on lighter laptop use, 256GB of SSD storage will be plenty of space for your laptop. However, if you need more storage for high-resolution photos, videos, or more, you'll want to opt for 512GB of storage or even 1TB.
 * **RAM**: In conjunction with the CPU, RAM is used to help the computer multi-task and is vital to running programs. ZDNET expert Adrian Kingsley-Hughes breaks down [RAM needs here](https://www.zdnet.com/article/how-much-ram-does-your-windows-10-pc-need/), but at minimum, especially for working, you should opt for around 8GB, and gamers will potentially want more.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Do I need a gaming laptop or a "regular" laptop?
 
 Again, it depends on your needs. Those who _aren't_ gamers can opt for a regular laptop with high specs, but content creators or those who work with heavy editing software should opt for a designer's laptop or a gaming laptop. Not because, of course, you want to have the best gaming specs on the side, but because those laptops come with powerful CPUs, GPUs, and high RAM to handle the heavy requirements that software needs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much should I pay for a good laptop?
@@ -202,10 +206,6 @@ ZDNET experts split out the latest and greatest deals for you below.
 * [The best Apple deals](https://www.zdnet.com/article/apple-deals/)
 * [The best AT&T deals](https://www.zdnet.com/article/att-deals/)
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best deals by category
 
@@ -257,22 +257,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-does-youtube-offer-regular-viewers-money/"><u>[New] In 2024, Does YouTube Offer Regular Viewers Money?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-premium-picks-recommended-portals-for-acquiring-snapalert-melodies/"><u>[Updated] Premium Picks Recommended Portals for Acquiring SnapAlert Melodies</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-itel-p40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Itel P40 | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722962605580-download-and-update-amd-smbus-drivers-fast-step-by-step-guide/"><u>Download and Update AMD SMBus Drivers Fast: Step-by-Step Guide!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-guide-to-downloading-and-updating-your-thinkpad-t420s-drivers-for-windows-11-systems/"><u>Easy Guide to Downloading and Updating Your ThinkPad T420s Drivers for Windows 11 Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-steps-for-downloading-your-logitech-g4nce-gaming-mouse-driver/"><u>Easy Steps for Downloading Your Logitech G4nce Gaming Mouse Driver</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/enjoying-roku-channels-even-if-you-dont-have-a-roku-player-tips-and-tricks/"><u>Enjoying Roku Channels Even If You Don't Have a Roku Player: Tips & Tricks</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-amd-radeon-drivers-for-your-windows-pc/"><u>Get the Latest AMD Radeon Drivers for Your Windows PC</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-amd-rx-6800-driver-update-now-optimized-for-windows-operating-systems-including-11-10-8-and-7/"><u>Get Your AMD RX 6800 Driver Update Now: Optimized for Windows Operating Systems Including 11, 10, 8 & 7!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-samsung-adb-drivers-instantly-expert-downloading-guide/"><u>Get Your Samsung ADB Drivers Instantly: Expert Downloading Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-laserjet-p1606dn-driver-download-and-update-for-windows/"><u>HP LaserJet P1606dn Driver Download & Update for Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/improve-your-acer-devices-tracking-accuracy-download-new-touchpad-drivers-for-windows-10-now/"><u>Improve Your Acer Device's Tracking Accuracy: Download New Touchpad Drivers for Windows 10 Now</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-lava-yuva-2-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Lava Yuva 2 Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-2024-approved-how-to-edit-memoji-on-android-and-iphone/"><u>New 2024 Approved How to Edit Memoji on Android and iPhone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/979626-9781780998626-shamanism-the-book-of-journeys/"><u>Shamanism: The Book of Journeys | Free Book</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-keyboards-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Rated Keyboards : Comprehensive Reviews by Tech Gurus | ZDNet</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/transform-your-projects-with-these-top-10-ae-types/"><u>Transform Your Projects with These Top 10 AE Types</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-proven-steps-to-distance-friendly-podcasting-excellence/"><u>[New] 2024 Approved Proven Steps to Distance-Friendly Podcasting Excellence</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-unleashing-virtual-reality-the-ultimate-iphone-experience/"><u>[New] Unleashing Virtual Reality The Ultimate IPhone Experience</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-rise-to-the-top-the-essentials-of-starting-a-youtube-gaming-sensation/"><u>[Updated] Rise to the Top The Essentials of Starting a YouTube Gaming Sensation</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/convert-and-download-tv-show-episodes-in-multiple-formats-mp4-wmv-mov-avi-flv/"><u>Convert and Download TV Show Episodes in Multiple Formats (MP4, WMV, MOV, AVI, FLV)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-the-scansnap-s1300i-scanner-a-quick-guide/"><u>Download and Update the ScanSnap S1300i Scanner: A Quick Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/effortless-webcam-recordings-on-hp-systems-for-2024/"><u>Effortless Webcam Recordings on HP Systems for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/epson-artisan-1430-printer-driver-software-free-download-for-windows-users/"><u>Epson Artisan 1430 Printer Driver Software - Free Download for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-m-audio-fast-track-driver-for-your-pc-on-windows-10-7-8-and-81-now-available/"><u>Get the Latest M-Audio Fast Track Driver for Your PC on Windows 10, 7, 8 & 8.1 - Now Available!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-sound-back-download-realtek-asio-windows-10-drivers-now-simple-steps-included/"><u>Get Your Sound Back! Download Realtek Asio Windows 10 Drivers Now - Simple Steps Included</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-targeted-thought-leadership-with-profound-fb-video-strategies/"><u>In 2024, Targeted Thought Leadership with Profound FB Video Strategies</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/m-audio-fast-track-drivers-update-your-sound-experience-on-windows-version-supported-os-list/"><u>M-Audio Fast Track Drivers: Update Your Sound Experience on Windows (Version Supported OS List)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/resolving-issues-when-dts-sound-is-inaccessible-in-your-chosen-speaker-or-headset/"><u>Resolving Issues When DTS Sound Is Inaccessible in Your Chosen Speaker or Headset</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-comedy-codex-a-practical-tutorial-for-gif-creation-for-2024/"><u>The Comedy Codex A Practical Tutorial for GIF Creation for 2024</u></a></li>
 </ul></div>
 

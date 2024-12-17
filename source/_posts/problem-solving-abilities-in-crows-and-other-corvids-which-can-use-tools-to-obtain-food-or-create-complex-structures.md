@@ -1,7 +1,7 @@
 ---
 title: Problem-Solving Abilities in Crows and Other Corvids, Which Can Use Tools to Obtain Food or Create Complex Structures.
-date: 2024-12-10T01:47:34.768Z
-updated: 2024-12-10T23:04:04.745Z
+date: 2024-12-12T16:35:47.637Z
+updated: 2024-12-17T16:19:21.421Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ If you're shopping for a great deal on tech for this holiday season, ZDNET is tr
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Dell holiday deals
@@ -94,7 +94,7 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6FJGWK9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0046b43f-55f5-4ae8-9820-c0ec4a0269e4%7Cdtp&dtb=1) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Dell laptop holiday deals
@@ -106,7 +106,7 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell XPS 13 9310 13.4-inch touch laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-XPS-9310-Laptop-Touchscreen%2Fdp%2FB09PR52BHK%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0046b43f-55f5-4ae8-9820-c0ec4a0269e4%7Cdtp&dtb=1) for $1,071 (save $429)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Dell desktop holiday deals
@@ -119,7 +119,7 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell OptiPlex 3000 Desktop](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fdell-optiplex-3000-student-home-office%252Fp%252F1VK-0001-6EUX9) for $1,200 (save $440)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Dell monitor holiday deals
@@ -128,15 +128,15 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell SE2422HX 24-inch monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-inch-Monitor-1920-1080%2Fdp%2FB096MXR34N%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0046b43f-55f5-4ae8-9820-c0ec4a0269e4%7Cdtp&dtb=1): $100 (save $30)
 * [Dell 27-inch 4K FreeSync monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-S2721QS-Ultra-Thin-DisplayPort-Certified%2Fdp%2FB08DQWG3JG%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0046b43f-55f5-4ae8-9820-c0ec4a0269e4%7Cdtp&dtb=1) for $297 (save $33)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How did we choose these holiday deals?
 
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the best holiday deals?
 
@@ -210,18 +210,21 @@ Here are the top deals by category we've found so far:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-extended-exploration-gopro-slr4-silver-edition/"><u>[New] Extended Exploration GoPro SLR4 Silver Edition</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-assessing-splitcams-standards-in-the-videographer-space-for-2024/"><u>[Updated] Assessing SplitCam’s Standards in the Videographer Space for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-identifying-your-one-of-a-kind-tiktok-sequence/"><u>2024 Approved Identifying Your One-of-a-Kind TikTok Sequence</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/complete-guide-to-downloading-updated-drivers-for-your-toshiba-notebook-windows/"><u>Complete Guide to Downloading Updated Drivers for Your Toshiba Notebook (Windows)</u></a></li>
-<li><a href="https://driver-download.techidaily.com/critical-drivers-alert-resolved-fix-your-graphics-card-glitch-with-these-expert-hacks/"><u>Critical Drivers Alert Resolved! Fix Your Graphics Card Glitch with These Expert Hacks</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-graphics-card-driver-for-rtx-2070-super-on-windows-11/"><u>Download and Update Graphics Card Driver for RTX 2070 Super on Windows 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-easily-set-up-and-download-focusrite-scarlett-nano-usb-interface-with-windows-software/"><u>How to Easily Set Up and Download Focusrite Scarlett Nano USB Interface with Windows Software</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-s17-pro-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo S17 Pro to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722964725001-install-newest-reliable-wireless-card-drivers-now/"><u>Install Newest Reliable Wireless Card Drivers Now!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/soil-type/"><u>Soil Type</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-updating-your-pcs-processor-drivers-on-windows/"><u>Step-by-Step Guide: Updating Your PC's Processor Drivers on Windows</u></a></li>
-<li><a href="https://article-helps.techidaily.com/the-art-of-eluding-home-school-video-content/"><u>The Art of Eluding Home School Video Content</u></a></li>
-<li><a href="https://games-able.techidaily.com/two-person-triumphs-top-mobile-games-for-pair-bonding-top-15/"><u>Two-Person Triumphs: Top Mobile Games for Pair Bonding (Top 15)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-missing-network-interface-on-windows-10-notebook/"><u>[FIXED] Missing Network Interface on Windows 10 Notebook</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-easy-solutions-to-upgrade-your-video-calls-from-skype-to-zoom/"><u>[New] In 2024, Easy Solutions to Upgrade Your Video Calls From Skype to Zoom</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-content-creation-evolution-studio-vs-innovative-beta/"><u>[Updated] 2024 Approved Content Creation Evolution Studio Vs. Innovative Beta</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-enhance-snapchat-stories-with-these-top-6-mobile-editors/"><u>[Updated] 2024 Approved Enhance Snapchat Stories with These Top 6 Mobile Editors</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-exploring-mobile-photography-with-android-lightroom-application-for-2024/"><u>[Updated] Exploring Mobile Photography with Android Lightroom Application for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-light-and-shadow-with-iphone-xs-new-lens-technology/"><u>[Updated] Mastering Light & Shadow with iPhone X's New Lens Technology</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722955214960-access-the-newest-dell-d3100-printer-driver-version-instantly-start-here/"><u>Access the Newest DELL D3100 Printer Driver Version Instantly - Start Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-epson-xp-400-driver-downloading-and-installation-tutorial-for-beginners/"><u>Comprehensive Epson XP-400 Driver Downloading and Installation Tutorial for Beginners</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-asus-speakers-up-and-running-free-driver-downloads-available-now/"><u>Get Your ASUS Speakers Up and Running: Free Driver Downloads Available Now</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/how-to-schedule-meetings-on-zoom-webdesktopmobile/"><u>How to Schedule Meetings on Zoom [Web/Desktop/Mobile]</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210085362-9781528766982-is-the-newtonian-astronomy-true/"><u>Is the Newtonian Astronomy True? | Free Book</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revitalize-your-pcs-sound-with-updated-windows-7-audio-card-drivers-step-by-step-guide/"><u>Revitalize Your PC's Sound with Updated Windows 7 Audio Card Drivers – Step-by-Step Guide.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-setup-access-arduino-mega-25n0-board-drivers-instantly/"><u>Seamless Setup: Access Arduino Mega 25N0 Board Drivers Instantly!</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-issue-reducing-god-of-wars-excessive-cpu-demand/"><u>Solving the Issue: Reducing God of War's Excessive CPU Demand</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-gadget-analysis-navigating-through-cutting-edge-technology/"><u>Tom's Gadget Analysis: Navigating Through Cutting-Edge Technology</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-reviews-comprehensive-guide-to-hardware-excellence/"><u>Tom's Tech Reviews: Comprehensive Guide to Hardware Excellence</u></a></li>
 </ul></div>
 

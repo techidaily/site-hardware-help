@@ -1,7 +1,7 @@
 ---
 title: AMD's LogoFAIL Bug Tackled with Latest BIOS Revisions From Affiliated Manufacturers
-date: 2024-08-19T10:30:43.223Z
-updated: 2024-08-20T10:30:43.223Z
+date: 2024-12-14T16:25:05.870Z
+updated: 2024-12-17T16:01:46.031Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,18 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-how-to-pin-someone-on-snapchat-all-you-need-to-know/"><u>[New] 2024 Approved How to Pin Someone on Snapchat All You Need to Know</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-snippet-grabber-fb-to-mp3/"><u>[Updated] Snippet Grabber FB to Mp3</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-offline-iphone-and-ipad-games-fun-without-wi-fi/"><u>[Updated] Top Offline iPhone & iPad Games – Fun Without Wi-Fi</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/dell-inspiron-15-drivers-for-windows-11/"><u>Dell Inspiron 15 Drivers for Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-elgato-driver-installation-fast-hassle-free-downloads/"><u>Easy Elgato Driver Installation - Fast, Hassle-Free Downloads</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-tricks-to-download-and-install-epson-xp-830s-printing-software/"><u>Easy Tricks to Download and Install Epson XP-830's Printing Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ensure-smooth-printing-downloading-and-updating-the-canon-mg3000-drivers/"><u>Ensure Smooth Printing: Downloading & Updating the Canon MG3000 Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/level-up-your-pc-download-ultimate-z2-carbon-graphics-cards/"><u>Level-Up Your PC: Download Ultimate Z2^ Carbon Graphics Cards 🚀</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-0x8024800c-in-windows-update/"><u>Steps to Resolve 0X8024800C in Windows Update</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/rt-of-beats-pure-dj-visuals-available-online-for-2024/"><u>The Art of Beats Pure DJ Visuals Available Online for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-flipping-videos-like-a-pro-quick-easy-and-stress-free/"><u>Updated Flipping Videos Like a Pro Quick, Easy, and Stress-Free</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
