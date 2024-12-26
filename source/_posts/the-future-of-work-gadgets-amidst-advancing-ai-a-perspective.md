@@ -1,7 +1,7 @@
 ---
 title: "The Future of Work Gadgets Amidst Advancing AI: A Perspective"
-date: 2024-12-11T16:25:10.159Z
-updated: 2024-12-17T16:08:20.357Z
+date: 2024-12-23T17:01:47.987Z
+updated: 2024-12-26T08:33:39.308Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,17 +134,16 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-step-by-step-guide-for-igtv-video-submission-for-2024/"><u>[New] Step-by-Step Guide for IGTV Video Submission for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-best-5-professional-drones-you-can-buy-for-2024/"><u>[Updated] Best 5 Professional Drones You Can Buy for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-essential-tips-for-switch-gaming-recordings/"><u>[Updated] Essential Tips for Switch Gaming Recordings</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-from-script-to-screen-magix-video-pro-xs-production-journey/"><u>2024 Approved From Script to Screen Magix Video Pro X's Production Journey</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-transform-your-youtube-channel-expert-tips-for-adding-chapter-sections/"><u>2024 Approved Transform Your YouTube Channel Expert Tips for Adding Chapter Sections</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/complimentary-driver-downloads-for-logitech-webcams-on-windows/"><u>Complimentary Driver Downloads for Logitech Webcams on Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-epson-v700-printer-drivers-compatible-with-windows-7-10-and-81-free/"><u>Download Epson V700 Printer Drivers Compatible with Windows 7, 10 & 8.1 - Free</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722977411399-get-your-logitech-t630-up-and-running-on-win7810-download-the-right-driver/"><u>Get Your Logitech T630 Up and Running on Win7/8/10 - Download the Right Driver</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/improve-your-dell-2330-series-printer-functionality-a-step-by-step-guide-for-firmware-updates/"><u>Improve Your Dell 2330 Series Printer Functionality: A Step-by-Step Guide for Firmware Updates</u></a></li>
-<li><a href="https://fox-that.techidaily.com/mastering-proper-spelling-top-6-tips-to-overcome-autocorrect-mistakes-on-iphone/"><u>Mastering Proper Spelling: Top 6 Tips to Overcome Autocorrect Mistakes on iPhone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722967364525-unlock-full-potential-exclusive-msi-z37-grocking-board-drivers-get-them-at-no-cost/"><u>Unlock Full Potential: Exclusive MSI Z37 Grocking Board Drivers – Get Them at No Cost!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unlocking-the-power-of-amd-rx-580-effortless-driver-update-and-installation-tips/"><u>Unlocking the Power of AMD RX 580: Effortless Driver Update & Installation Tips</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-quick-tips-solve-obss-blackout-during-live-captures-for-2024/"><u>[New] Quick Tips Solve OBS's Blackout During Live Captures for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-streaming-twitter-videos-on-snapchat-platform-for-2024/"><u>[New] Streaming Twitter Videos on Snapchat Platform for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-high-end-audio-for-youtubes-best-gamers/"><u>[Updated] 2024 Approved High-End Audio for YouTube's Best Gamers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/brother-hl-n3170cdw-driver-download-guide-fast-setup/"><u>Brother HL-N3170CDW Driver Download Guide – Fast Setup</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-nvidia-geforce-rtx-30-series-drivers-compatible-with-windows-11-quick-and-easy-guide/"><u>Download NVIDIA GeForce RTX 30 Series Drivers Compatible with Windows 11: Quick & Easy Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-vivo-x100-pro-by-drfone-android/"><u>Full Guide to Unlock Your Vivo X100 Pro</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-change-or-remove-screen-time-lock-code-on-apple-products/"><u>How To Change or Remove Screen Time Lock Code on Apple Products</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-graphics-driver-download-for-amd-rx-6700-xt-compatible-with-windows-systems/"><u>Latest Graphics Driver Download for AMD RX 6700 XT Compatible with WIndows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-the-world-of-technology-expert-advice-from-toms-hardware-corner/"><u>Navigating the World of Technology: Expert Advice From Tom's Hardware Corner</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/solving-the-logitech-g930-headset-compatibility-problem-with-windows-drivers/"><u>Solving the Logitech G930 Headset Compatibility Problem with Windows Drivers</u></a></li>
+<li><a href="https://ai-video.techidaily.com/updated-2024-approved-how-to-translate-tiktok-videos-top-5-auto-translate-tools/"><u>Updated 2024 Approved How to Translate TikTok Videos Top 5 Auto Translate Tools</u></a></li>
 </ul></div>
 

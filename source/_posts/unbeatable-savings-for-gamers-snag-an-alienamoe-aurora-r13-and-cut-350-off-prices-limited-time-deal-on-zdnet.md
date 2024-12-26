@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Savings for Gamers: Snag an Alienamoe Aurora R13 and Cut $350 Off Prices – Limited-Time Deal on ZDNET!"
-date: 2024-12-10T16:20:09.509Z
-updated: 2024-12-17T16:37:51.979Z
+date: 2024-12-23T00:52:38.329Z
+updated: 2024-12-26T06:14:27.922Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the deal?
@@ -31,7 +31,7 @@ You can pick up a new [MSI Stealth 14 Studio gaming laptop](https://shop-links.c
 **Also:** [**The best gaming laptops**](https://www.zdnet.com/article/best-gaming-laptop/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended:
@@ -65,7 +65,7 @@ Speaking of which: I absolutely adore the MUX switch, which is what lets you cho
 Taylor Clemons/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## My only real complaint
@@ -81,7 +81,7 @@ Taylor Clemons/ZDNET
 The laptop also has a decently fast charging time, taking about an hour to reach full charge from completely dead. This is perfect for situations when you forget to charge overnight or need to quickly top up the laptop during a lunch break or meeting. As with all fast-charging devices, you'll notice a slowdown in power transfer as the battery approaches full charge. This helps prevent damage from overcharging, which can shorten the overall life and performance of the battery.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How it handles gaming
@@ -95,7 +95,7 @@ Taylor Clemons/ZDNET
 The laptop even was able to handle the [ARMA III](https://store.steampowered.com/app/107410/Arma%5F3/) base game, which is notorious for requiring Herculean efforts from graphics cards and CPUs to even be able to load you into a server. I'd bought ARMA III years ago to play with friends over Discord, and this was the first time I'd been able to just load into the lobby and mess around with controls, settings, and mods before _finally_ being able to play a match after all this time. So the Stealth 14 Studio gets extra points in my book for letting me spend time with and stay connected to friends I don't get to see very often in-person. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### A worthy investment
@@ -140,20 +140,15 @@ _Correction: This review has been edited to reflect accurate information as prov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/updated-2023s-top-free-premiere-pro-masterpieces/"><u>[Updated] 2023'S Top Free Premiere Pro Masterpieces</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-a-comprehensive-guide-to-the-best-makeup-tutorials-on-youtube/"><u>[Updated] 2024 Approved A Comprehensive Guide to the Best Makeup Tutorials on YouTube</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-luminary-collage-conceptions-aesthetic-illumination-ideas/"><u>[Updated] 2024 Approved Luminary Collage Conceptions Aesthetic Illumination Ideas</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-essential-vr-game-guide-top-8-on-oculus/"><u>[Updated] Essential VR Game Guide Top 8 on Oculus</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-seamlessly-connect-your-youtube-and-tiktok-accounts/"><u>2024 Approved Seamlessly Connect Your YouTube and TikTok Accounts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/breaking-the-code-barrier-how-chatgpt-translates-text/"><u>Breaking the Code Barrier: How ChatGPT Translates Text</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ensure-compatibility-canon-pixma-mg2522-driver-downloads-and-updates-explained/"><u>Ensure Compatibility: Canon Pixma MG2522 Driver Downloads & Updates Explained</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/how-to-broadcast-videos-on-twitter-without-the-retweet-step-for-2024/"><u>How To Broadcast Videos on Twitter without the 'Retweet' Step for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-install-the-latest-targus-displaylink-drivers-on-windows-10-8-and-7/"><u>How to Install the Latest Targus DisplayLink Drivers on Windows 10, 8 & 7</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Itel A05s | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-lenovo-webcam-driver-update-for-windows-7/"><u>Latest Lenovo Webcam Driver Update for Windows 7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-version-brother-mfc-9130cw-driver-download-for-windowsmac/"><u>Latest Version: Brother MFC-9130CW Driver Download for Windows/Mac</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/simplified-methods-to-update-the-scansnap-ix500-driver-for-optimal-windows-performance/"><u>Simplified Methods to Update the ScanSnap iX500 Driver for Optimal Windows Performance</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solving-call-of-duty-wwii-display-errors-resolve-black-screen-issues-for-pc-players/"><u>Solving Call of Duty: WWII Display Errors: Resolve Black Screen Issues for PC Players</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-installing-canon-dr-c225-drivers-on-windows-operating-systems-windows-11108/"><u>Step-by-Step Guide to Installing Canon DR-C225 Drivers on Windows Operating Systems (Windows 11/10/8)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unavailable-dts-format-on-selected-audio-hardware-tips-for-restoration-and-setup/"><u>'Unavailable: DTS Format on Selected Audio Hardware' - Tips for Restoration and Setup</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-disable-unsolicited-youtube-video-listings/"><u>[Updated] Disable Unsolicited YouTube Video Listings</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-using-snapchat-for-past-photos-from-memory/"><u>[Updated] Using Snapchat for Past Photos From Memory</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-instantgrabbed-extendedcapture/"><u>2024 Approved InstantGrabbed ExtendedCapture</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/canon-mg3000-how-to-download-and-update-the-necessary-printing-software/"><u>Canon MG3000: How to Download and Update the Necessary Printing Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-nvidia-geforce-gtx-980-ti-graphics-card-drivers-free/"><u>Download Nvidia GeForce GTX 980 Ti Graphics Card Drivers - Free</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-epson-stylus-nx420-printer-drivers-for-your-windows-pc-windows-7810/"><u>Get Epson Stylus NX420 Printer Drivers for Your Windows PC (Windows 7/8/10)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-fine-tuning-team-call-aesthetics-pre-and-post-customization/"><u>In 2024, Fine-Tuning Team Call Aesthetics Pre & Post Customization</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-flawless-picture-preservation-gratis-space-plus-charged-cloud-sanctuaries-await/"><u>In 2024, Flawless Picture Preservation Gratis Space + Charged Cloud Sanctuaries Await</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlock-the-full-potential-of-your-gopro-4k-recordings/"><u>Unlock the Full Potential of Your GoPro 4K Recordings</u></a></li>
 </ul></div>
 

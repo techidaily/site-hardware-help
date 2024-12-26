@@ -1,7 +1,7 @@
 ---
 title: "Diving Into Day One of CES 2023: Key Product Launches and Announcements Featured"
-date: 2024-12-11T16:34:08.870Z
-updated: 2024-12-17T16:14:18.580Z
+date: 2024-12-25T02:51:13.305Z
+updated: 2024-12-25T17:14:27.841Z
 tags:
   - laptops
 categories:
@@ -22,10 +22,6 @@ Whether you've been busy with the kids or catching up with the daily news on you
 
 [![CES 2023](https://www.zdnet.com/a/img/resize/28650a75dc1dd673042c63db5be340811e6ef8a4/2023/01/03/6f86bbf0-d65d-4f16-a4f2-699dfdc83419/ces-2023-header.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) CES 2023: The Biggest Trends for Pros Find all the exciting innovation from CES 2023 in this ZDNET special feature.  Read now](https://www.zdnet.com/topic/ces-2023-the-biggest-trends-for-pros/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 We've been on the ground for the second day of the [largest tech conference in the US](https://www.zdnet.com/article/zdnets-guide-to-ces-what-is-it-and-who-can-attend/), bringing you the best of the announcements. 
 
 While hundreds of companies are stationed in Las Vegas announcing new and innovative products, we've rounded up the biggest announcements on Day 2 below.
@@ -45,7 +41,7 @@ While LG unveiled its [new line of C, G, and Z OLED models](https://www.zdnet.co
 Read our [first look at the M3 OLED TV here](https://www.zdnet.com/home-and-office/home-entertainment/lg-97-inch-oled-tv-m3-ces-2023/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Asus debuts all-new laptops across the board
@@ -57,7 +53,7 @@ In addition to a new line of [eco-friendly laptops for workers and students](htt
 Check the [high-end specs of the Vibe CX34 Chromebook here](https://www.zdnet.com/article/asus-new-vibe-cx34-gaming-chromebook-brings-some-high-end-specs/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The year of the smart toilet sensor
@@ -74,6 +70,10 @@ MSI
 
 Fans of the [MSI gaming laptop family](https://us.msi.com/), rejoice -- new models of fan favorites like the Stealth, Pulse, Raider, and Vector laptops were announced this morning. You should be able to preorder these gaming powerhouses shortly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Roku and Hisense offer new models and upgrades
 
 Roku
@@ -81,10 +81,6 @@ Roku
 While [Hisense upgraded its U8 line's picture](https://www.zdnet.com/home-and-office/home-entertainment/ces-2023-hisense-unveils-new-u6k-u7k-and-u8k-tvs/) with ULED X technology, Roku announced that it's entering the smart TV game with a new line of Roku panels. 
 
 Read more about [Roku making its own TVs](https://www.zdnet.com/home-and-office/home-entertainment/ces-2023-roku-to-begin-offering-its-own-tv-builds-this-year/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Samsung adds new security software with Knox Matrix
 
@@ -105,7 +101,7 @@ While HP dropped new Dragonfly Pro chromebooks and laptops, it also debuted a se
 Read about [new HP laptops are coming to shoppers' carts here](https://www.zdnet.com/article/laptops-chromebooks-all-in-one-pcs-and-more-take-a-look-at-hps-hybrid-focused-device-portfolio/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Track your feathered friends with the Bird Buddy smart feeder
@@ -115,6 +111,10 @@ Bird Buddy
 You're used to indoor appliances with smart features, but now with the Bird Buddy hummingbird feeder, you'll be able to track who's coming to snack at your feeding stations. Don't worry -- while they're not squirrel-proof, they're designed to handle a visit from both feathered and furry friends.
 
 Read more about the [Bird Buddy smart feeders featured this year](https://www.zdnet.com/home-and-office/yard-outdoors/ces-2023-this-new-smart-bird-feeder-can-capture-up-close-images-of-hummingbirds/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## HyperX debuts new gaming mice
 
@@ -170,17 +170,20 @@ If you want the best of the news, you can see the highlights of [Day 1 of CES 20
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-solutions.techidaily.com/2024-fix-the-division-2-low-fps-and-stuttering/"><u>[2024 Fix] The Division 2 Low FPS & Stuttering</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-3dlut-for-dynamic-video-and-image-adjustments/"><u>[New] 3DLUT for Dynamic Video & Image Adjustments</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-enhancing-facial-dynamics-using-picsarts-motion-blur/"><u>[Updated] Enhancing Facial Dynamics Using Picsart's Motion Blur</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-superior-choice-the-premier-portable-dvd-picks-for-2024/"><u>[Updated] Superior Choice The Premier Portable DVD Picks for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/dynamic-documentaries-clients-video-testimonials/"><u>Dynamic Documentaries: Clients' Video Testimonials</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722969548148-enhance-your-games-with-updated-nvidia-graphics-card-drivers-download-now/"><u>Enhance Your Games with Updated Nvidia Graphics Card Drivers: Download Now!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ensure-peak-performance-updating-your-canon-pixma-mx922-driver-for-windows-operating-systems/"><u>Ensure Peak Performance: Updating Your Canon PIXMA MX922 Driver for Windows Operating Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-download-of-the-official-logitech-racing-wheel-driver-for-windows-operating-system-versions-7-1-0/"><u>Free Download of the Official Logitech Racing Wheel Driver for Windows Operating System Versions 7-1 0.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-insignia-usbvga-driver-installed-step-by-step-guide/"><u>Get Your Insignia USB/VGA Driver Installed - Step by Step Guide!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-xiaomi-mix-fold-3-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Xiaomi Mix Fold 3.</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-achieving-broadcast-excellence-your-guide-to-youtubes-live-360-videos/"><u>In 2024, Achieving Broadcast Excellence Your Guide to YouTube's Live 360 Videos</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-installing-the-latest-ralink-network-adapters-on-your-windows-machine/"><u>Step-by-Step: Installing the Latest Ralink Network Adapters on Your Windows Machine</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-master-your-snapchats-the-top-6-editing-apps-for-both-devices/"><u>[New] In 2024, Master Your Snapchats The Top 6 Editing Apps for Both Devices</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-the-pathway-to-proficient-zoom-communication-maximizing-meeting-engagement/"><u>[New] In 2024, The Pathway to Proficient ZOOM Communication Maximizing Meeting Engagement</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-best-mac-video-editing-tools-reviewed-bandicam-vs-camtasia/"><u>[Updated] Best Mac Video Editing Tools Reviewed Bandicam Vs Camtasia</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-take-notes-if-necessary-jotting-down-key-points-can-help-you-better-remember-information-while-listening/"><u>[Updated] Take Notes (if Necessary) Jotting Down Key Points Can Help You Better Remember Information While Listening</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/connectivity-and-compatibility/"><u>Connectivity and Compatibility</u></a></li>
+<li><a href="https://blog-min.techidaily.com/demystifying-dvd-picture-quality-common-questions-answered/"><u>Demystifying DVD Picture Quality: Common Questions Answered</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-analysis-by-tomhardwarepro-in-depth-reviews-of-latest-gadgets-and-performance-tips/"><u>Expert Analysis by TomHardwarePro: In-Depth Reviews of Latest Gadgets & Performance Tips</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-motorola-moto-e13-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Motorola Moto E13 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oppo-find-x6-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Oppo Find X6 to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/infinix-smart-8-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Smart 8 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/macbook-air-users-handbook-how-to-activate-and-use-split-screen-functionality-easily/"><u>MacBook Air Users' Handbook: How to Activate and Use Split Screen Functionality Easily</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/powering-elite-performance-adatas-1600w-power-supply-unit-energizes-quad-set-of-gtx-rtx-4090-graphic-cards/"><u>Powering Elite Performance: Adata's 1600W Power Supply Unit Energizes Quad Set of GTX RTX 4090 Graphic Cards</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-hub-unveiling-the-latest-in-computer-components-and-gadgets/"><u>Tom's Tech Hub: Unveiling the Latest in Computer Components and Gadgets</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723964495513-toms-tech-insights-expert-hardware-reviews-and-guides/"><u>Tom's Tech Insights: Expert Hardware Reviews and Guides</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-review-the-ultimate-guide-to-computer-components-and-systems/"><u>Tom's Tech Review: The Ultimate Guide to Computer Components and Systems</u></a></li>
 </ul></div>
 

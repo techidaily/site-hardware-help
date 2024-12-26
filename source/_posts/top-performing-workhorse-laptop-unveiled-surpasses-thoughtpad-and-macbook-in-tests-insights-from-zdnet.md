@@ -1,7 +1,7 @@
 ---
 title: Top-Performing Workhorse Laptop Unveiled, Surpasses Thoughtpad & Macbook in Tests - Insights From ZDNet
-date: 2024-12-14T16:33:02.696Z
-updated: 2024-12-17T16:14:29.287Z
+date: 2024-12-24T05:05:17.990Z
+updated: 2024-12-26T00:56:35.432Z
 tags:
   - laptops
 categories:
@@ -48,7 +48,7 @@ ASUS/ZDNET
 * [Asus ROG Strix Scar 15](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Display-GeForce-Keyboard-G533ZW-AS94Q%2Fdp%2FB0BDTVSXS9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6558249a-9d4b-4a86-97d7-d0e0d87ba550%7Cdtp&dtb=1): $1450 (save $600)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best holiday gaming laptop deals at Best Buy
@@ -67,6 +67,10 @@ MSI/ZDNET
 * [HP Omen 16](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fhp-omen-16-165hz-full-hd-gaming-laptop-amd-ryzen-9-7940hs-16gb-memory-nvidia-geforce-rtx-4070-512gb-ssd-shadow-black%2F6536973.p%3FskuId%3D6536973&publisher_slug=itechdaily19598&exclusive=1): $1250 (save $600)
 * [Asus ROG Flow X13](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-rog-flow-x13-13-4-touchscreen-gaming-laptop-1920-x-1200-fhd-amd-ryzen-9-with-16gb-memory-512gb-ssd-off-black%2F6535502.p%3FskuId%3D6535502&publisher_slug=itechdaily19598&exclusive=1): $800 (save $450)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best holiday gaming laptop deals at B&H Photo
 
 Lenovo/ZDNET
@@ -77,10 +81,6 @@ Lenovo/ZDNET
 * [Razer Blade 17](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1687739-REG%2Frazer%5Frz09%5F0423ned3%5Fr3u1%5Frazer%5Fblade%5F17%5Fd8%5Fnt%5Fwin%5F11%5F17%5F3%5Fqhd%5F240hz%5Fi7%5Frtx.html): $2300 (save $900)
 * [Xenia XPG 15](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1766432-REG%2Fxpg%5F15260180%5F15%5F6%5Fxenia%5F15g%5Fgaming.html): $1200 (save $500)
 * [HP Omen 17](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1792500-REG%2Fhp%5F8r7u2ua%5Faba%5F17%5F3%5Fomen%5F17%5Fck2059nr%5Flaptop.html): $2499 (save $720)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best holiday laptop deals at Walmart
 
@@ -98,10 +98,6 @@ Lenovo/ZDNET
 * [Asus TUF A17](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fmecha-gray-asus-tuf-gaming-f17-fa707xi-ns94%252Fp%252FN82E16834236430): $1400 (save $400)
 * [Gigabyte G5](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fp%252FN82E16834233559): $750 (save $349)
 * [Acer Predator Helios 16](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fabyssal-black-acer-predator-helios-16-ph16-71-72yg-gaming%252Fp%252FN82E16834360250): $1500 (save $400)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best holiday graphics card deals
 
@@ -121,10 +117,6 @@ Lenovo/ZDNET
 * [Razer Barracuda X wireless](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FRazer-Barracuda-X-Wireless-Stereo-Gaming-and-Mobile-Headset-for-PC-PS5-Nintendo-Switch-Android-2-4Ghz-Black%2F513768484%3Fathbdg%3DL1300&subId1=zd-__COM_CLICK_ID__-dtp): $69 (save $30 at Walmart)
 * [Corsair HS55 Surround wired](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FCORSAIR-HS55-Stereo-Gaming-Headset-Carbon-Multi-Platform-Compatible-Most-Devices-Including-PC-Mac-PS5-PS4-Xbox-Series-X-Nintendo-Switch-Mobile-Device%2F974565238&subId1=zd-__COM_CLICK_ID__-dtp): $39 (save $20 at Walmart)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best holiday gaming monitor deals
 
 * [Samsung Odyssey G85SB 34-inch curved OLED](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-DisplayHDR-FreeSync-Streaming-LS34BG850SNXZA%2Fdp%2FB0BLF2RWNV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6558249a-9d4b-4a86-97d7-d0e0d87ba550%7Cdtp&dtb=1): $900 (save $600 at Amazon)
@@ -141,11 +133,19 @@ Lenovo/ZDNET
 * [Madden NFL 23](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmadden-nfl-23-windows-digital%2F6508468.p%3FskuId%3D6508468&publisher_slug=itechdaily19598&exclusive=1): $19 (save $41 at Best Buy)
 * [XCOM: Enemy Unknown](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fp%252FN82E16832205142): $7 (save $23 at Newegg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How did we choose these holiday gaming laptop deals?
 
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the best gaming laptop?
 
@@ -156,7 +156,7 @@ ZDNET's Lena Borrelli chose the Razer Blade 17 as her top pick for the [best gam
 I chose the Asus TUF A15 (which happens to be on sale at several retailers) as the [best budget gaming laptop](https://www.zdnet.com/home-and-office/home-entertainment/best-budget-gaming-laptop/) for its wallet-friendly price as well as its 144Hz refresh rate to help provide smoother action during fast-paced gameplay or action-heavy cutscenes. The TUF A15 chassis is tested against MIL-STD-810G guidelines for water, dust, shock, and drop resistance, so you can take this laptop just about anywhere and not have to worry about spills or getting jostled on the subway.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much should a gaming laptop cost?
@@ -228,24 +228,20 @@ ZDNET's experts have been searching for holiday deals across sites like Amazon, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-renaissance.techidaily.com/affordable-quality-discover-how-apples-competitors-beat-100-price-tag-with-innovative-solo-buds/"><u>Affordable Quality: Discover How Apple's Competitors Beat $100 Price Tag with Innovative Solo Buds</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/bring-clarity-to-your-feed-a-guide-to-crafting-square-videos-in-imovie-for-2024/"><u>Bring Clarity to Your Feed A Guide to Crafting Square Videos in iMovie for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/comprehensive-tutorial-on-updating-and-downloading-zebra-printer-model-zp450-drivers/"><u>Comprehensive Tutorial on Updating and Downloading Zebra Printer Model ZP450 Drivers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/creare-un-gif-da-file-mp4-o-flv-con-convertitore-3gpp-di-gratis-di-movavi/"><u>Creare Un GIF Da File MP4 O FLV Con Convertitore 3GPP Di Gratis Di Movavi</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-intels-latest-upgrade-battlemage-outperforms-ice-lake-by-saving-100w-on-energy-with-unaffected-overclocking-after-recent-raptor-lake-microcode-enha8/"><u>Discover Intel's Latest Upgrade: Battlemage Outperforms Ice Lake by Saving 100W on Energy with Unaffected Overclocking After Recent Raptor Lake Microcode Enhancements</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/guide-to-using-atomic-sms-protocol-in-the-bermuda-triangle-region-with-success-rate-highlighted-by-massmail-tech/"><u>Guide to Using Atomic SMS Protocol in the Bermuda Triangle Region with Success Rate Highlighted by MassMail Tech</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-update-and-install-steelseries-graphics-card-drivers-on-your-laptop-or-desktop/"><u>How to Update and Install SteelSeries Graphics Card Drivers on Your Laptop or Desktop</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-crafting-illusions-the-art-of-time-and-space-manipulation/"><u>In 2024, Crafting Illusions The Art of Time & Space Manipulation</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-realme-gt-5-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Realme GT 5 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/intels-latest-leap-panther-lake-and-clearwater-forest-cpus-preparing-for-cutting-edge-lithographic-node-upgrades/"><u>Intel's Latest Leap: Panther Lake & Clearwater Forest CPUs Preparing for Cutting-Edge Lithographic Node Upgrades</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/lenovo-thunderblade-3-usb-dock-firmware-update-instructions-and-tips/"><u>Lenovo Thunderblade 3 USB Dock - Firmware Update Instructions and Tips</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-technology-with-toms-comprehensive-reviews/"><u>Navigating Technology with Tom's Comprehensive Reviews</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-split-your-videos-with-ease-top-5-free-mpeg-splitters/"><u>New 2024 Approved Split Your Videos with Ease Top 5 Free MPEG Splitters</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/ontdek-de-beste-methodes-vind-je-verloren-bestand-op-windows-10-of-11-terug/"><u>Ontdek De Beste Methodes: Vind Je Verloren Bestand Op Windows 10 of 11 Terug!</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/revolutionize-note-taking-with-mematic-app-for-2024/"><u>Revolutionize Note-Taking with Mematic App for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/sustainable-manufacturing-practices-and-environmental-impact-mitigation-measures/"><u>Sustainable Manufacturing Practices and Environmental Impact Mitigation Measures</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/the-ultimate-guide-to-saving-your-iphone-7-display-for-2024/"><u>The Ultimate Guide to Saving Your iPhone 7 Display for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-upgrading-your-setup-wisdom-from-tom-hardware/"><u>The Ultimate Guide to Upgrading Your Setup - Wisdom From Tom Hardware</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-new-releases-expert-reviews-at-toms-hardware/"><u>Unveiling New Releases: Expert Reviews at Tom's Hardware</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-making-your-favorite-tiktok-beats-your-personal-mobile-alarm-signal/"><u>[New] Making Your Favorite TikTok Beats Your Personal Mobile Alarm Signal</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ews-narratives-concluding-flourishes-for-2024/"><u>[New] News Narratives' Concluding Flourishes for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asrock-ab350-pro4-secure-free-driver-download-and-installation-guide-for-windows-users/"><u>ASRock AB350 Pro4: Secure Free Driver Download & Installation Guide for Windows Users</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/diverse-dialects-finding-a-home-in-eng/"><u>Diverse Dialects Finding a Home in Eng</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-your-newly-released-optimized-wireless-network-driver/"><u>Download Your Newly Released, Optimized Wireless Network Driver</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-obtain-and-install-the-latest-amd-gpu-drivers-for-windows/"><u>How to Obtain and Install the Latest AMD GPU Drivers for Windows</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-boost-your-view-count-this-tutorials-top-hit/"><u>In 2024, Boost Your View Count This Tutorial's Top Hit</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-itel-p55plus-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Itel P55+</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722974343698-liver-transplantation-in-btc-patients-requires-strict-criteria-to-be-met-due-to-cancer-recurrence-concerns/"><u>Liver Transplantation in BTC Patients Requires Strict Criteria to Be Met Due to Cancer Recurrence Concerns</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/sandisk-ssd-installation-made-easy-finding-and-downloading-the-correct-drivers/"><u>SanDisk SSD Installation Made Easy – Finding & Downloading the Correct Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-definitive-list-of-high-performance-cpus-ranked-by-speed-and-efficiency-2024-edition/"><u>The Definitive List of High-Performance CPUs - Ranked by Speed and Efficiency, 2024 Edition</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-spectrum-of-present-use-to-future-drones-potential/"><u>The Spectrum of Present Use to Future Drones' Potential</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformar-arquivos-ogv-em-webm-livremente-online-com-o-movavi/"><u>Transformar Arquivos OGV Em WEBM Livremente Online Com O Movavi</u></a></li>
+<li><a href="https://win-studio.techidaily.com/2024windows5/"><u>オススメの2024年用Windows音声抽出手順5つ</u></a></li>
 </ul></div>
 

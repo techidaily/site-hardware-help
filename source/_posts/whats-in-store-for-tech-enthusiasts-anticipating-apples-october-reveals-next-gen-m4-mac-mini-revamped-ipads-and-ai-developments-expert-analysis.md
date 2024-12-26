@@ -1,7 +1,7 @@
 ---
 title: "What's in Store for Tech Enthusiasts: Anticipating Apple's October Reveals – Next-Gen M4 Mac Mini, Revamped iPads & AI Developments – Expert Analysis"
-date: 2024-12-16T16:00:53.947Z
-updated: 2024-12-17T16:27:34.888Z
+date: 2024-12-19T21:00:08.182Z
+updated: 2024-12-25T19:33:10.192Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,17 +118,21 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-professionalism-with-a-pixel-instagram-photo-watermarking-101/"><u>[New] 2024 Approved Professionalism with a Pixel Instagram Photo Watermarking 101</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-construct-chuckles-adobe-meme-creation/"><u>[New] Construct Chuckles Adobe Meme Creation</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-fixing-obss-full-screen-freeze-up-for-2024/"><u>[New] Fixing OBS's Full-Screen Freeze Up for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-iosandroid-comparison-youtube-app-explored/"><u>[Updated] 2024 Approved IOS/Android Comparison YouTube App Explored</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amd-cpu-driver-download-for-windows/"><u>AMD CPU Driver Download for Windows</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/demystifying-the-purpose-of-slug-lines-in-screenplay-for-2024/"><u>Demystifying the Purpose of Slug Lines in Screenplay for 2024</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/guide-to-transforming-ted-talks-into-various-audio-formats-mp3-aac-wav/"><u>Guide to Transforming Ted Talks Into Various Audio Formats (MP3, AAC, WAV)</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/honor-90-lite-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Honor 90 Lite Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-deskjet-driver-setup-and-download-compatible-with-all-windows-versions/"><u>HP DeskJet Driver Setup & Download: Compatible with All Windows Versions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722968830309-latest-amd-vega-64-graphics-card-driver-update-get-them-now-on-windows/"><u>Latest AMD Vega 64 Graphics Card Driver Update: Get Them Now on Windows</u></a></li>
-<li><a href="https://video-capture.techidaily.com/mp4mtswindows-1011/"><u>MP4へのMTSファイル転換手順：Windows 10/11で実行する方法</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722965953410-quick-and-easy-guide-to-download-and-install-the-latest-hp-drivers/"><u>Quick and Easy Guide to Download & Install the Latest HP Drivers!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-basic-tips-how-to-record-and-save-google-voice-calls-for-2024/"><u>[New] Basic Tips How to Record and Save Google Voice Calls for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-discover-the-best-in-igtv-every-week/"><u>[Updated] In 2024, Discover the Best in IGTV Every Week</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-video-selfie-verfication-is-it-really-useful-for-2024/"><u>[Updated] Instagram Video Selfie Verfication - Is It Really Useful for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-skills-style-success-your-roadmap-in-the-creative-industry/"><u>2024 Approved Skills, Style, Success Your Roadmap in the Creative Industry</u></a></li>
+<li><a href="https://article-tips.techidaily.com/basics-in-the-realm-of-tale-construction-for-2024/"><u>Basics in the Realm of Tale Construction for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-toms-hardware-the-ultimate-resource-for-gadget-enthusiasts/"><u>Exploring Tom's Hardware: The Ultimate Resource for Gadget Enthusiasts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fixing-compatibility-errors-startech-device-drivers-for-windows-windows-10-8-7/"><u>Fixing Compatibility Errors: StarTech Device Drivers for Windows (Windows 10, 8, 7)</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-realme-note-50-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Realme Note 50 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intel-cpu-instability-affects-high-wattage-non-k-models-no-fixes-in-sight-consumers-beware/"><u>Intel CPU Instability Affects High Wattage 'Non-K' Models, No Fixes in Sight - Consumers Beware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intel-takes-an-overnight-dive-shares-drop-by-30-eroding-market-cap-by-39b-what-went-down/"><u>Intel Takes an Overnight Dive: Shares Drop by 30%, Eroding Market Cap by $39B - What Went Down?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-network-connectivity-win7-driver-challenges-and-their-solutions/"><u>Mastering Network Connectivity: Win7 Driver Challenges and Their Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-the-silent-void-apc-specific-solutions-for-valheims-audio-problems/"><u>Mastering the Silent Void: APC-Specific Solutions for Valheim's Audio Problems</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1125895-9781609253905-meditation-and-kabbalah/"><u>Meditation and Kabbalah | Free Book</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/resolved-fast-and-reliable-1535-wifi-driver-software-now-ready-to-download/"><u>Resolved: Fast and Reliable 1535 WiFi Driver Software Now Ready to Download</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/techniques-for-capturing-and-storing-android-and-mac-snaps-for-2024/"><u>Techniques for Capturing and Storing Android & Mac Snaps for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/zen-5-flagship-ryzen-9-9950x-claims-5th-place-in-global-cpu-performance-race-against-core-loaded-xeon-and-threadripper-chips/"><u>Zen 5 Flagship Ryzen 지킨 9 9950X Claims 5Th Place in Global CPU Performance Race Against Core-Loaded Xeon and Threadripper Chips</u></a></li>
 </ul></div>
 

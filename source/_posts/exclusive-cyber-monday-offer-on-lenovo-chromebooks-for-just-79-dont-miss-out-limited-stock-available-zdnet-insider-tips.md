@@ -1,7 +1,7 @@
 ---
 title: Exclusive Cyber Monday Offer on Lenovo Chromebooks for Just $79! Don't Miss Out – Limited Stock Available | ZDNET Insider Tips
-date: 2024-12-15T16:40:05.764Z
-updated: 2024-12-17T16:16:13.135Z
+date: 2024-12-24T04:05:55.629Z
+updated: 2024-12-26T06:24:53.964Z
 tags:
   - laptops
 categories:
@@ -38,7 +38,7 @@ This laptop isn't solely for business professionals. Everybody can enjoy the dev
 Right now is the best time to buy this device. The [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C33d8b115-5353-48ee-93ba-d7db0255209a%7Cdtp&dtb=1) is currently on sale at Amazon for $1,500\. That is almost $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C33d8b115-5353-48ee-93ba-d7db0255209a%7Cdtp&dtb=1) is much more expensive, but I recommend it as an alternative if you can afford it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -75,16 +75,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-unveiling-the-secrets-of-using-multiple-screens-on-netflix/"><u>[New] In 2024, Unveiling the Secrets of Using Multiple Screens on Netflix</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-profitability-initial-steps-to-earnings/"><u>[New] YouTube Profitability Initial Steps to Earnings</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-ultimate-list-where-to-pull-off-ringtone-files/"><u>[Updated] Ultimate List Where To Pull Off Ringtone Files</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/boost-engagement-by-permitting-social-media-links-for-your-online-booklets-flipbuilders-guide/"><u>Boost Engagement by Permitting Social Media Links for Your Online Booklets – FlipBuilder's Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/calculating-total-vids-for-high-capacity-hardware-64128gb/"><u>Calculating Total Vids for High-Capacity Hardware (64/128GB)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/fast-track-to-your-ft232r-uart-driver-download-speedy-setup-tips/"><u>Fast Track to Your FT232R UART Driver Download – Speedy Setup Tips</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-logitech-g35-audio-drivers-for-windows-operating-systems-windows-7810/"><u>Get Logitech G35 Audio Drivers for Windows Operating Systems (Windows 7/8/10)</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/replicacion-de-disco-duro-en-windows-server-2012-r2-dos-metodos-eficaces/"><u>Replicación De Disco Duro en Windows Server 2012 R2: Dos Métodos Eficaces</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/sapphire-drivers-download-and-update-on-windows/"><u>SAPPHIRE Drivers Download & Update on Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-or-fresh-download-of-netgear-a6100-windows-driver-latest-version-available-now/"><u>Update or Fresh Download of Netgear A6100 Windows Driver - Latest Version Available Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722973378204-windows-11-compatible-sound-blaster-z-driver-get-it-now/"><u>Windows 11 Compatible Sound Blaster Z Driver - Get It Now!</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-the-backchannel-bridge-engaging-with-your-audience/"><u>[New] In 2024, The Backchannel Bridge Engaging with Your Audience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/512-driver-for-printer-model-mg3022-here-download-and-installation-guide/"><u>512 Driver for Printer Model MG3022 Here - Download & Installation Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/critique-of-the-oneplus-8t-exceptional-speed-overshadowed-by-camera-issues/"><u>Critique of the OnePlus 8T: Exceptional Speed Overshadowed by Camera Issues</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-latest-dell-wireless-network-drivers-for-windows-7-systems/"><u>Download Latest Dell Wireless Network Drivers for Windows 7 Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-wacom-graphics-tablet-drivers-swiftly-and-securely/"><u>Download Wacom Graphics Tablet Drivers Swiftly and Securely</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-installation-freshest-aoc-drivers-for-win-11-10-and-8-operating-systems-available-now/"><u>Easy Installation: Freshest AOC Drivers for Win 11, 10 & #8 Operating Systems Available Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-sound-experience-how-to-update-corsair-headset-drivers-for-windows-1011/"><u>Enhance Your Sound Experience: How to Update Corsair Headset Drivers for Windows 10/11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-access-to-logitech-webcam-drivers-for-enhanced-video-calling-on-windows-systems/"><u>Free Access to Logitech Webcam Drivers for Enhanced Video Calling on Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/guide-to-updating-your-sound-blaster-z-with-latest-drivers-optimized-for-windows-11-systems/"><u>Guide to Updating Your Sound Blaster Z with Latest Drivers: Optimized for Windows 11 Systems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-m34-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy M34 5G to Outlook | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-upgrade-your-lenovo-camera-hardware-components-with-windows-7-supported-drivers/"><u>How to Upgrade Your Lenovo Camera Hardware Components with Windows 7 Supported Drivers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/masterful-motorsports-discover-the-5-leading-racers-simulators-for-2024/"><u>Masterful Motorsports Discover the 5 Leading Racers Simulators for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/mastering-fb-shortcut-setup-guide/"><u>Mastering FB: Shortcut Setup Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/personalize-your-windows-11-installation-essential-settings-guide/"><u>Personalize Your Windows 11 Installation: Essential Settings Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/talking-ai-futures-when-will-gpt-5-be-unveiled/"><u>Talking AI Futures: When Will GPT-5 Be Unveiled?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-for-overcoming-iphones-error-4013-during-system-restoration/"><u>Troubleshooting Guide for Overcoming iPhone's Error #4013 During System Restoration</u></a></li>
 </ul></div>
 

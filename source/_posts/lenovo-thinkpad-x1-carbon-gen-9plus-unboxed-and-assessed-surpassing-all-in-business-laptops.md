@@ -1,7 +1,7 @@
 ---
 title: Lenovo ThinkPad X1 Carbon (Gen 9+) Unboxed & Assessed – Surpassing All in Business Laptops?
-date: 2024-12-16T16:31:10.794Z
-updated: 2024-12-17T16:30:12.329Z
+date: 2024-12-20T06:42:25.615Z
+updated: 2024-12-25T21:06:30.646Z
 tags:
   - laptops
 categories:
@@ -46,7 +46,7 @@ Image: Charles McLellan / ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Design
@@ -70,7 +70,7 @@ For connections, you're limited to two USB-C (3.2 Gen 2) ports on the left side,
 You can access the innards of the ThinkPad X13s by removing six screws and prising off the bottom cover, although upgrade options are limited. We did poke around inside our first review unit, which arrived with no functioning Wi-Fi and no access to the webcam, to no avail. Our second review unit worked just fine. For all its thin-and-lightness, the ThinkPad X13s is [MIL-STD-810H](https://en.wikipedia.org/wiki/MIL-STD-810)\-tested and should cope with the rigours of a mobile professional's routine. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Features
@@ -84,7 +84,7 @@ There are three screen options, all IPS panels with WUXGA (1920 x 1200) resoluti
 As well as the biometric authentication methods noted earlier, the ThinkPad X13s includes internal security features such as a discrete TPM 2.0 chip, Microsoft's [Pluton TPM architecture](https://learn.microsoft.com/en-us/windows/security/information-protection/pluton/pluton-as-tpm) running on the Snapdragon 8cx Gen 3's SPU (Secure Processing Unit) and a self-healing BIOS. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Performance & battery life
@@ -116,7 +116,7 @@ Thermal camera images of the ThinkPad X13s under load.
 Images: Charles McLellan / ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Conclusions
@@ -170,7 +170,7 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -218,20 +218,24 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-optimizing-playback-speed-a-guide-for-spotify-users/"><u>[New] In 2024, Optimizing Playback Speed A Guide for Spotify Users</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-beat-blast-updated-technology/"><u>2024 Approved Beat Blast Updated Technology</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-xiaomi-redmi-12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Xiaomi Redmi 12 | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-best-free-sound-editing-software-for-music-production-in-202e-expert-picks-from-movavi/"><u>Discover the Best Free Sound Editing Software for Music Production in 202E - Expert Picks From Movavi</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/driver-fixes-installed-addressing-compatibility-for-xbox-controllers-in-windows-os-versions-10-8-and-7/"><u>Driver Fixes Installed! Addressing Compatibility for Xbox Controllers in Windows OS Versions 10, 8 & 7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-download-m-audio-fast-track-drivers-compatible-with-various-windows-versions/"><u>Easy Download: M-Audio Fast Track Drivers Compatible with Various Windows Versions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-installation-download-hps-laserjet-pro-m127fn-printer-drivers-now/"><u>Easy Installation: Download HP's Laserjet Pro M127FN Printer Drivers Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-usb-camera-software-setup-get-your-download-here/"><u>Effortless USB Camera Software Setup – Get Your Download Here!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/expert-advice-on-getting-your-samsung-blu-ray-disc-player-back-up-and-running/"><u>Expert Advice on Getting Your Samsung Blu-Ray Disc Player Back Up and Running</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722955080411-explore-the-updates-logitech-extreme-3d-pro-drivers-now-with-improved-performance/"><u>Explore the Updates: Logitech Extreme 3D Pro Drivers Now with Improved Performance!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-6s-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 6s to other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-a-comprehensive-guide-to-mastering-ipogo-for-pokemon-go-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, A Comprehensive Guide to Mastering iPogo for Pokémon GO On Apple iPhone SE | Dr.fone</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/step-by-step-guide-total-reset-of-your-iphone-on-pcsmacs-with-stellar/"><u>Step-by-Step Guide: Total Reset of Your iPhone on PCs/Macs with Stellar</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-effortless-battery-driver-updates-for-windows-users/"><u>Step-by-Step Tutorial: Effortless Battery Driver Updates for Windows Users</u></a></li>
-<li><a href="https://media-tips.techidaily.com/the-leading-sound-enthusiasts-selection-of-the-top-10-music-software-on-windows-1-groovyos/"><u>The Leading Sound Enthusiast's Selection of the Top 10 Music Software on Windows 1 groovyOS!</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-craft-comical-caricatures-using-giphys-kit/"><u>[New] 2024 Approved Craft Comical Caricatures Using Giphy's Kit</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-best-practices-to-avoid-sound-in-video-capture-for-2024/"><u>[New] Best Practices to Avoid Sound in Video Capture for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/1715859998430-new-top-offline-mobile-world-choose-the-ultimate-game-for-fun/"><u>[New] Top Offline Mobile World - Choose the Ultimate Game for Fun!</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-snapchat-success-top-ideas-for-memorable-snaps/"><u>[Updated] In 2024, Snapchat Success Top Ideas for Memorable Snaps</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-viral-vibes-a-guide-to-memetic-magic/"><u>[Updated] Viral Vibes A Guide to Memetic Magic</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-beyond-imagination-cutting-edge-vr-tech/"><u>2024 Approved Beyond Imagination Cutting-Edge VR Tech</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ing-heartwarmth-to-the-winter-5-snug-cinematographic-tips-for-2024/"><u>Bringing Heartwarmth to the Winter 5 Snug Cinematographic Tips for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/core-i9-11900k-achieves-historic-milestone-shatters-expectations-at-7abbbb-ghz/"><u>Core I9-11900K Achieves Historic Milestone: Shatters Expectations at 7.abbbb GHz</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/cxmt-chinese-dram-producer-confirms-adherence-to-us-export-regulations-for-185nm-chip-production-debunking-previous-allegations-of-non-compliance-at-17nm/"><u>CXMT, Chinese DRAM Producer, Confirms Adherence to US Export Regulations for 18.5Nm Chip Production: Debunking Previous Allegations of Non-Compliance at 17Nm</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ddr5-7200-corsair-dominator-titanium-xl-premium-2x24gb-memory-kit-assessment-and-exceeding-specs/"><u>DDR5-7200 Corsair Dominator Titanium XL - Premium 2X24GB Memory Kit Assessment & Exceeding Specs!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/dive-into-computing-with-toms-hardware-experts-your-ultimate-resource-for-gadget-analysis/"><u>Dive Into Computing with Tom's Hardware Experts: Your Ultimate Resource for Gadget Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-technology-with-tom-your-trusted-source-for-hardware-insights-and-reviews/"><u>Exploring Technology with Tom: Your Trusted Source for Hardware Insights and Reviews</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-find-the-finest-websites-with-free-game-of-thrones-audio/"><u>In 2024, Find the Finest Websites with Free Game of Thrones Audio</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/maximizing-raspberry-pi-5s-potential-with-the-pi-ice-tower-plus-an-in-depth-review-on-rapid-heat-dissipation-performance/"><u>Maximizing Raspberry Pi 5'S Potential with the Pi Ice Tower Plus: An In-Depth Review on Rapid Heat Dissipation Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/pi-technology-set-to-launch-public-offering-in-london-market/"><u>Pi Technology Set to Launch Public Offering in London Market</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/review-of-rodecaster-duo-the-ultimate-toolkit-for-streamers/"><u>Review of Rodecaster Duo: The Ultimate Toolkit for Streamers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723964502567-the-embedded-message-future-care-should-be-spread-across-different-sentences-throughout-the-monologue-not-all-in-one-go/"><u>The Embedded Message FUTURE CARE Should Be Spread Across Different Sentences Throughout the Monologue, Not All in One Go</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/1716464698258-top-recruiter-shorts-find-your-motivation/"><u>Top Recruiter Shorts Find Your Motivation!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unveiling-3d-lut-magic-a-deep-dive-into-photoshop/"><u>Unveiling 3D LUT Magic A Deep Dive Into Photoshop</u></a></li>
 </ul></div>
 

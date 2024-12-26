@@ -1,7 +1,7 @@
 ---
 title: Apple Revolutionizes Device Maintenance with Expanded At-Home Repair Services for iPhone & MacBook - Learn More | ZDNET
-date: 2024-12-12T16:32:15.950Z
-updated: 2024-12-17T16:33:00.187Z
+date: 2024-12-22T16:35:25.805Z
+updated: 2024-12-25T16:14:06.265Z
 tags:
   - laptops
 categories:
@@ -41,7 +41,7 @@ However, the new slimline design also came with a chunky price increase of $200/
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Price & options
@@ -53,7 +53,7 @@ The [new 2022 model](https://www.apple.com/shop/buy-mac/macbook-air/with-m2-chip
 Storage upgrades are equally expensive, costing an additional $200/£200 for 1TB, or $600/£600 for 2TB. There's one other option available too, as the standard 30W power adapter can be upgraded to a fast-charging 67W unit, or to a 35W adapter with two USB-C ports, with both options costing $20/£30\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Design & features
@@ -73,7 +73,7 @@ The magnetic MagSafe power connector has returned to the MacBook Air, alongside 
 Image: Cliff Joseph / ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Performance & battery life
@@ -89,7 +89,7 @@ You are paying for that extra performance, of course, so the M1 version of the M
 [Apple MacBook Air (M2, 2022) View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2Fwith-m2-chip&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusions
@@ -132,7 +132,7 @@ Image: Apple
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -176,24 +176,14 @@ Image: Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-diving-into-instagrams-restriction-for-video-content/"><u>[Updated] 2024 Approved Diving Into Instagram's Restriction for Video Content</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-mastering-movie-aesthetics-through-color-grading-and-luts/"><u>[Updated] 2024 Approved Mastering Movie Aesthetics Through Color Grading and Luts</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-addressing-video-lag-on-photo-booth-experience/"><u>[Updated] Addressing Video Lag on Photo Booth Experience</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-youtube-revenue-the-unfavorable-guidelines/"><u>[Updated] YouTube Revenue The Unfavorable Guidelines</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/bone-chilling-image-builder/"><u>Bone-Chilling Image Builder</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-refresh-system-drivers-perfect-for-dell-xps-15-windows-users/"><u>How to Refresh System Drivers: Perfect for Dell XPS 15 Windows Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-securely-download-and-install-intel-hd-graphics-drivers-on-your-windows-11-pc/"><u>How to Securely Download & Install Intel HD Graphics Drivers on Your Windows 11 PC</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-discover-the-genesis-advanced-reverse-lookup-on-instagram-photos/"><u>In 2024, Discover the Genesis Advanced Reverse Lookup on Instagram Photos</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-pro-mac-and-pc-screen-capture-experts/"><u>In 2024, Pro Mac & PC Screen Capture Experts</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-newest-intel-iris-xe-graphics-drivers-to-enhance-your-windows-11-experience/"><u>Install Newest Intel Iris Xe Graphics Drivers to Enhance Your Windows 11 Experience</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-lenovo-x1-carbon-driver-updates-available-here-windows-10-and-navigating-windows-7-compatibility/"><u>Latest Lenovo X1 Carbon Driver Updates Available Here - Windows 10 & Navigating Windows 7 Compatibility</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-release-magicard-rio-pro-driver-get-your-download-for-winxp-or-later/"><u>Latest Release: Magicard Rio Pro Driver - Get Your Download for WinXP or Later!</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/live-methods-for-quieter-track-output/"><u>Live Methods for Quieter Track Output</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/overcoming-graphics-driver-hurdles-proven-techniques-to-restore-optimal-performance/"><u>Overcoming Graphics Driver Hurdles: Proven Techniques to Restore Optimal Performance</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/samsung-mobile-devices-secure-your-adb-drivers-from-samsungs-website-today/"><u>Samsung Mobile Devices: Secure Your ADB Drivers From Samsung’s Website Today!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/seamless-printing-with-canon-pro-100-on-your-pc-step-by-step-driver-guide/"><u>Seamless Printing with Canon PRO 100 on Your PC - Step-by-Step Driver Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/tips-and-fixes-for-when-your-pc-struggles-to-connect-to-cod-warzone-games/"><u>Tips & Fixes for When Your PC Struggles to Connect to COD Warzone Games</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-and-install-rndis-drivers-for-optimal-performance-on-windows-devices/"><u>Update & Install RNDIS Drivers for Optimal Performance on Windows Devices</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/visual-style-guide-the-top-10-sites-for-stylish-laptop-graphics/"><u>Visual Style Guide The Top 10 Sites for Stylish Laptop Graphics</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-revolutionize-your-social-media-strategy-use-free-video-creation-kit-for-2024/"><u>[Updated] Revolutionize Your Social Media Strategy – Use Free Video Creation Kit for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-samsung-galaxy-s24plus-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Samsung Galaxy S24+ Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/dark-souls-iii-performance-fixed-say-goodbye-to-unexpected-shutdowns/"><u>Dark Souls III Performance Fixed - Say Goodbye to Unexpected Shutdowns!</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/enhancing-media-with-top-10-text-plugins-for-2024/"><u>Enhancing Media with Top 10 Text Plugins for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-freshly-released-broadcom-bluetooth-drivers-for-windows-operating-systems-xp-vista/"><u>Get Your Freshly Released Broadcom Bluetooth Drivers for Windows Operating Systems (XP, Vista)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/tech-update-leading-chinese-flash-storage-company-boasts-equal-durability-between-qlc-and-tlc-nand-variants/"><u>Tech Update: Leading Chinese Flash Storage Company Boasts Equal Durability Between QLC and TLC NAND Variants</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-computing-expertise-unveiling-the-latest-in-tech-hardware/"><u>Tom's Computing Expertise: Unveiling the Latest in Tech Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-hub-a-comprehensive-guide-to-computer-hardware/"><u>Tom's Tech Hub: A Comprehensive Guide to Computer Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-unveiling-the-latest-in-computer-components-and-gadgets/"><u>Tom's Tech Insights: Unveiling the Latest in Computer Components and Gadgets</u></a></li>
 </ul></div>
 

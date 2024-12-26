@@ -1,7 +1,7 @@
 ---
 title: "Save Big on Premium Laptops: Exclusive Costco, Newegg & Apple Offers Under $1K During Cyber Monday Bonanza - CNET"
-date: 2024-12-15T16:17:18.232Z
-updated: 2024-12-17T16:35:23.482Z
+date: 2024-12-25T08:07:47.017Z
+updated: 2024-12-26T01:56:51.038Z
 tags:
   - laptops
 categories:
@@ -18,7 +18,7 @@ Amazon
 Cyber Monday is finally here! Laptops are the first thing I think of today: I want the most affordable laptop with the best possible features. If you're in the same boat, there are three laptops to keep in mind that ring in for less than $1,000: [The MacBook Air with Apple's M1 chip](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-13-inch-256GB-Storage%2Fdp%2FB08N5LNQCX%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb2073db4-1d9f-448d-ad2d-fb86de05f3de%7Cdtp&dtb=1) for $799 at Amazon (save $200), [the LG gram 17-inch laptop](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/lg-gram-17%22-intel-evo-platform-laptop---12th-gen-intel-i7-1260p---2560-x-1600-display---windows-11.product.100971154.html) at Costco for $999 (save $500), and [the Latitude 7420 business laptop](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Flinks%2F9041660%2Ftype%2Fdlg%2Fsid%2Fzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%2Fhttps%3A%2F%2Fdeals.dell.com%2Fen-us%2Fproductdetail%2Ffqnp) at Dell for $889 (save $1,320). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -79,21 +79,17 @@ Dell has the [Latitude 7420](https://shop-links.co/link/?exclusive=1&publisher_s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-11-keys-to-unlock-the-power-of-grading-precision-for-2024/"><u>[New] 11 Keys to Unlock the Power of Grading Precision for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-elevate-your-videos-youtube-trailers-through-filmora/"><u>[New] 2024 Approved Elevate Your Videos YouTube Trailers Through Filmora</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-from-rgb-to-srgb-understanding-color-transition/"><u>[Updated] From Rgb to Srgb Understanding Color Transition</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-from-beginner-to-expert-the-ultimate-guide-to-hp-screen-recording/"><u>2024 Approved From Beginner to Expert The Ultimate Guide to HP Screen Recording</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-reddit-user-bio-image-guide-size-in-pixels-type-length/"><u>2024 Approved Reddit User Bio Image Guide Size in Pixels, Type, Length</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/comprehensive-driver-guide-to-boosting-the-dell-g1-5s-functionality-in-windows-operating-environment/"><u>Comprehensive Driver Guide to Boosting the Dell G1 5'S Functionality in Windows Operating Environment</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-methods-to-keep-your-dell-g7s-gpu-drivers-current-and-optimized/"><u>Effortless Methods to Keep Your Dell G7's GPU Drivers Current and Optimized</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/free-online-conversion-transform-nef-files-to-jpeg-format-with-ease-using-movavi/"><u>Free Online Conversion: Transform NEF Files to JPEG Format with Ease Using Movavi</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/get-ready-for-a-wild-ride-an-essential-guide-to-fortnites-newest-and-most-fun-season-yet/"><u>Get Ready for a Wild Ride: An Essential Guide to Fortnite’s Newest and Most Fun Season Yet!</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-iphone-12-pro-drfone-by-drfone-ios/"><u>How To Unlock A Found iPhone 12 Pro? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-color-laserjet-pro-mfp-m477-downloading-the-correct-printer-drivers/"><u>HP Color LaserJet Pro MFP M477: Downloading the Correct Printer Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/maximize-your-lenovo-thinkpad-performance-with-thunderbolt-3-expansion-card-installation/"><u>Maximize Your Lenovo ThinkPad Performance with Thunderbolt 3 Expansion Card Installation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/methods-to-stop-video-freezing-on-steam/"><u>Methods to Stop Video Freezing on Steam</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-and-simple-guide-downloading-wacom-drivers-with-no-hassle/"><u>Quick and Simple Guide: Downloading Wacom Drivers with No Hassle</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/revamping-software-a-guide-to-latest-driver-installation-for-epson-wf-7620-printers-on-windows-systems/"><u>Revamping Software: A Guide to Latest Driver Installation for Epson WF-7620 Printers on Windows Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-solution-to-update-or-repair-hp-monitor-graphics-drivers-in-windows-1087/"><u>Step-by-Step Solution to Update or Repair HP Monitor Graphics Drivers in Windows 10/8/7</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-top-10-portable-tools-dominating-video-editing-landscape/"><u>[New] In 2024, Top 10 Portable Tools Dominating Video Editing Landscape</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-capturing-conversations-on-messenger-a-comprehensive-how-to/"><u>2024 Approved Capturing Conversations on Messenger A Comprehensive How-To</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elite-audio-gear-guide-for-4k-camera-quality-production/"><u>Elite Audio Gear Guide for 4K Camera Quality Production</u></a></li>
+<li><a href="https://win-forum.techidaily.com/free-converter-change-mpg-format-to-m4v-without-hitches/"><u>Free Converter: Change MPG Format to M4V Without Hitches</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Infinix Note 30i? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/lian-lis-innovative-sup01-micro-atx-chassis-elevates-graphics-card-performance-with-frontal-mounting-and-retro-reversible-motherboard-support/"><u>Lian Li’s Innovative SUP01 Micro ATX Chassis Elevates Graphics Card Performance with Frontal Mounting and Retro Reversible Motherboard Support</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mag-pano-m1e50-rp-the-latest-msi-case-with-innovative-aquarium-inspired-design-and-usb-backplate-support-priced-at-approx-100/"><u>MAG Pano M1e50 RP: The Latest MSI Case with Innovative Aquarium-Inspired Design & USB Backplate Support Priced at Approx. $100</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-the-circuit-with-tom-your-guide-to-quality-computer-components/"><u>Navigating the Circuit with Tom: Your Guide to Quality Computer Components</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723964474708-revamped-cougar-pc-enclosures-with-customizable-rgb-features-to-display-your-action-figure-collection-spotted-at-computex/"><u>Revamped Cougar PC Enclosures with Customizable RGB Features to Display Your Action Figure Collection, Spotted at Computex</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-enermax-cable-master-er-20-specially-engineered-for-integrated-wire-management/"><u>The Enermax Cable Master Er 20: Specially Engineered for Integrated Wire Management</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-best-mp4-editors-for-mavericks-review-and-comparison/"><u>Updated 2024 Approved Best MP4 Editors for Mavericks Review and Comparison</u></a></li>
 </ul></div>
 

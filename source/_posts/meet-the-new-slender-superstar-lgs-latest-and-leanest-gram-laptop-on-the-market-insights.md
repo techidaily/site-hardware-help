@@ -1,7 +1,7 @@
 ---
 title: "Meet the New Slender Superstar: LG's Latest and Leanest Gram Laptop on the Market Insights"
-date: 2024-12-10T16:08:47.571Z
-updated: 2024-12-17T16:37:45.725Z
+date: 2024-12-19T07:30:56.790Z
+updated: 2024-12-26T02:15:17.706Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -79,7 +79,7 @@ Now you may be wondering: what's the catch? Is the Asus Zenbook 14 as perfect as
 My biggest issue with the laptop is the fact it can run incredibly warm. You can't even type on the keyboard or have it on your legs without discomfort. Heat vents are found on the bottom and the side, but they don't offer much relief. This problem is exacerbated if you try to use the laptop while charging. There's so much heat that typing on the keyboard becomes uncomfortable. You're honestly better off not using the laptop during this time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -89,7 +89,7 @@ The [Asus Zenbook 14](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.
 You can purchase my review unit's configuration on Best Buy for $799.99, but there's always the option to upgrade the hardware if you're looking for something with more power behind it. A Zenbook 14 sporting an Intel Core Ultra 7 155H processor, Intel Arc GPU, 16GB of RAM, and 1TB of storage will [start at $1,299](https://www.awin1.com/awclick.php?mid=31828&id=423585&clickref=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&ued=https%3A%2F%2Fshop.asus.com%2Fus%2Fasus-zenbook-14-oled-ux3405-laptop.html) but come with significant jump up in processing power. No matter which one you get, it'll be worth the low price.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -136,18 +136,24 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-ranked-worlds-best-anime-opening-music/"><u>[Updated] Ranked World's Best Anime Opening Music</u></a></li>
-<li><a href="https://games-able.techidaily.com/bridging-wi-fi-gaps-for-switch-users/"><u>Bridging Wi-Fi Gaps for Switch Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-the-latest-ch340g-usb-to-serial-drivers-for-windows-11/"><u>Download & Update the Latest CH340G USB-to-Serial Drivers for Windows 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-access-to-free-epson-et-2750-printer-software-for-windows-users/"><u>Easy Access to Free Epson ET-2750 Printer Software for Windows Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-access-to-hp-laserjet-pro-m404n-drivers-free-download-and-comprehensive-update-guide/"><u>Easy Access to HP LaserJet Pro M404n Drivers – Free Download & Comprehensive Update Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/easy-steps-to-overcome-android-device-wireless-security-verification-troubles/"><u>Easy Steps to Overcome Android Device Wireless Security Verification Troubles</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/from-closed-to-open-mastering-srt-files-in-macos/"><u>From Closed to Open Mastering SRT Files in macOS</u></a></li>
-<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-samsung-galaxy-m34-5g-frp-by-drfone-android/"><u>Full Guide to Bypass Samsung Galaxy M34 5G FRP</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-the-latest-driver-for-your-hp-deskjet-2652-on-windows-operating-systems-windows-111087/"><u>Install the Latest Driver for Your HP DeskJet 2652 on Windows Operating Systems (Windows 11/10/8/7)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722967845271-logitech-k400-plus-compatibility-and-driver-software-secure-your-download-today/"><u>Logitech K400 Plus Compatibility & Driver Software - Secure Your Download Today</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcoming-the-missing-d3dx9n40dll-error-effective-troubleshooting-techniques/"><u>Overcoming the 'Missing d3dx9_n40.dll' Error: Effective Troubleshooting Techniques</u></a></li>
-<li><a href="https://win-dash.techidaily.com/quick-guide-obtaining-the-latest-dell-sound-card-drivers/"><u>Quick Guide: Obtaining the Latest Dell Sound Card Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/seamless-setup-fetch-the-latest-hp-stream-printing-drivers-instantly/"><u>Seamless Setup: Fetch the Latest HP Stream Printing Drivers Instantly</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ideal-smartphones-for-excellent-video-recording/"><u>[New] Ideal Smartphones for Excellent Video Recording</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-top-9-free-android-mp3-extractors-for-2024/"><u>[New] Top 9 FREE Android MP3 Extractors for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-find-youtube-sponsorships-by-using-famebit/"><u>[Updated] 2024 Approved How to Find YouTube Sponsorships by Using FameBit</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-dji-quadcopters-groups-fundamentals-advanced-configurations-hd-experts-for-2024/"><u>[Updated] DJI Quadcopters Groups Fundamentals, Advanced Configurations, HD Experts for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-mastering-shade-changes-3-photoshop-hacks/"><u>[Updated] Mastering Shade Changes 3 Photoshop Hacks</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-syncing-your-soundtrack-import-music-into-inshot-for-2024/"><u>[Updated] Syncing Your Soundtrack Import Music Into InShot for 2024</u></a></li>
+<li><a href="https://win-help.techidaily.com/amazingly-odd-phenomenon-when-deleting-files-understanding-emeditors-behavior/"><u>Amazingly Odd Phenomenon When Deleting Files - Understanding EmEditor's Behavior</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/best-3ip-apps-to-record-clear-speech-on-ipads-for-2024/"><u>Best 3iP Apps to Record Clear Speech on iPads for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effective-guide-acquiring-and-setting-up-the-newest-soundmax-drivers-for-windows-machines/"><u>Effective Guide: Acquiring and Setting Up the Newest SoundMAX Drivers for Windows Machines</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ensuring-razer-naga-compatibility-driver-downloads-and-updates-on-windows-systems/"><u>Ensuring Razer Naga Compatibility: Driver Downloads & Updates on Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-insights-on-electronics-with-toms-guide/"><u>Expert Insights on Electronics with Tom's Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-insights-on-gadgets-from-toms-hardware-hub/"><u>Expert Insights on Gadgets From Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722973141724-get-the-latest-acer-aspire-amidst-5100-printer-drivers-here/"><u>Get the Latest Acer Aspire Amidst 5100 Printer Drivers Here</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Xiaomi Redmi Note 13 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-analysis-of-new-electronics-by-toms-hardware-experts/"><u>In-Depth Analysis of New Electronics by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-hp-laserjet-5200-driver-download-compatible-with-windows-11108-systems/"><u>Latest HP LaserJet ˈ5200 Driver Download: Compatible with Windows 11/10/8 Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-technology-with-tom-the-authority-source-on-computer-components/"><u>Mastering Technology with Tom: The Authority Source on Computer Components</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/optimized-drivers-for-intels-irisplus-graphics-on-your-new-windows-11-pc/"><u>Optimized Drivers for Intel's Iris+ Graphics on Your New Windows 11 PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/resolving-connectivity-issues-with-unrecognized-usb-hardware-on-windows-10-systems/"><u>Resolving Connectivity Issues with Unrecognized USB Hardware on Windows 10 Systems</u></a></li>
 </ul></div>
 

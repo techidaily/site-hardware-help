@@ -1,7 +1,7 @@
 ---
 title: "Beating the MacBook Air: Microsoft Surface Laptop Copilot+ Excelling in Performance, Features & More | ZDNet Review"
-date: 2024-12-12T16:03:13.948Z
-updated: 2024-12-17T16:08:58.754Z
+date: 2024-12-22T22:29:51.957Z
+updated: 2024-12-26T05:26:33.075Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -109,7 +109,7 @@ Gaming is not fully supported by Windows on ARM yet, either. Many titles don't w
 This gets to the meat of the issue here. Yes, the CPU is fast and efficient, and the NPU on these processors runs AI-related tasks better than anything else on the market, but the chips are held back by Windows' functionality (at least for now), and this tension between the two will be at the root cause of a lot of issues until the growing pains subside.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -148,20 +148,18 @@ If you're looking for a Copilot+ PC with a better display, you might want to che
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-optimal-environmental-film-tech-roundup/"><u>[New] 2024 Approved Optimal Environmental Film Tech Roundup</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-chill-vibes-at-the-beijing-winter-olympics-2022-for-2024/"><u>[New] Chill Vibes at the Beijing Winter Olympics 2022 for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-powerhouse-guide-to-innovative-mobizen-screencasting-techniques/"><u>[Updated] Powerhouse Guide to Innovative Mobizen Screencasting Techniques</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722966782220-boost-your-pc-with-easy-to-install-intel-nvme-drivers-start-here/"><u>Boost Your PC with Easy-to-Install Intel NVMe Drivers – Start Here!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/brother-mfc-7360n-driver-downloads-and-compatibility-with-windows-11-8-and-7/"><u>Brother MFC-7360N Driver Downloads & Compatibility with Windows 11, 8 & 7!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-honor-100-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Honor 100</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-latest-geforce-rtx-3070-ti-drivers-for-win-10-8-and-7-systems-official-nvidia-release/"><u>Download Latest GeForce RTX 3070 Ti Drivers for Win 10, 8 & 7 Systems - Official NVIDIA Release</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-lava-blaze-curve-5g-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Lava Blaze Curve 5G</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/solo-self-portraits-on-youtube-how-to-impress-viewers-for-2024/"><u>Solo Self-Portraits on YouTube How to Impress Viewers for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/subtitle-like-a-pro-a-tutorial-on-adding-captions-in-final-cut-pro-x-for-2024/"><u>Subtitle Like a Pro A Tutorial on Adding Captions in Final Cut Pro X for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/tech-guide-finding-the-latest-toshiba-driver-software-for-windows-devices/"><u>Tech Guide: Finding the Latest Toshiba Driver Software for Windows Devices</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshooting-hp-speaker-issues-fixing-the-beats-audio-driver-on-windows-11-8-and-7/"><u>Troubleshooting HP Speaker Issues: Fixing the Beats Audio Driver on Windows 11, 8 & 7</u></a></li>
-<li><a href="https://fox-links.techidaily.com/unlocking-the-potential-of-slug-line-formats-in-screenplays-for-2024/"><u>Unlocking the Potential of Slug Line Formats in Screenplays for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-or-download-the-latest-microsoft-sound-drivers-for-windows-systems/"><u>Update or Download the Latest Microsoft Sound Drivers for Windows Systems</u></a></li>
-<li><a href="https://win-popular.techidaily.com/yl-softwares-collection-premium-game-of-thrones-visual-content-stunning-photos-wallpaper-and-backgrounds-for-fans/"><u>YL Software's Collection: Premium Game of Thrones Visual Content - Stunning Photos, Wallpaper, and Backgrounds for Fans</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-mastering-hues-a-collection-of-the-best-11-video-tutorials/"><u>[New] In 2024, Mastering Hues A Collection of the Best 11 Video Tutorials</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-get-ahead-with-top-tier-premiere-pro-samples-free/"><u>[Updated] 2024 Approved Get Ahead with Top-Tier Premiere Pro Samples (Free)</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-scouting-for-starred-youtube-conversations/"><u>[Updated] In 2024, Scouting for Starred YouTube Conversations</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/diy-pc-building-made-simple-an-engaging-how-to-for-young-makers/"><u>DIY PC Building Made Simple: An Engaging How-To for Young Makers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-computing-gear-with-tom-a-deep-dive-into-modern-hardware-solutions/"><u>Exploring Computing Gear with Tom: A Deep Dive Into Modern Hardware Solutions</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-gionee-frp-by-drfone-android/"><u>Full Guide to Bypass Gionee FRP</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/mastering-backoffice-design-with-creatively-crafted-laravel-54-ui-themes-by-tims-team/"><u>Mastering Backoffice Design with Creatively-Crafted Laravel 5.4 UI Themes by Tim's Team</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/mp4-videos-wiederfinden-lerne-verlorene-mp4-dateien-leicht-wiederherzustellen/"><u>MP4 Videos Wiederfinden? Lerne, Verlorene MP4-Dateien Leicht Wiederherzustellen</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-3-ottimizzati-per-il-mastering-del-dvd-su-windows-scelte-consigliate-per-uso/"><u>Top 3 Ottimizzati Per Il Mastering Del DVD Su Windows: Scelte Consigliate Per Uso</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-reviews-and-guides-by-toms-tech-insights/"><u>Top Reviews & Guides by Tom's Tech Insights</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-repair-your-steelseries-arctis-cued-headphones-microphone-step-by-step-solutions/"><u>Troubleshoot & Repair Your SteelSeries Arctis Cued Headphones Microphone – Step by Step Solutions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/understanding-hardware-innovations-with-toms-guides/"><u>Understanding Hardware Innovations with Tom's Guides</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/winx-dvd-copy-pro-2dvd1dvd-r/"><u>WinX DVD Copy Pro: 片面2層DVDを1層DVD-Rへ効果的な圧縮とコピー方法</u></a></li>
 </ul></div>
 

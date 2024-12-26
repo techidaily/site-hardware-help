@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Revelations at Apple's October Showcase: Unveiling the M4 Mac Mini, Latest iPad Lineup, Enhanced AI Capabilities & Beyond - Insights From ZDNet"
-date: 2024-12-10T16:12:00.934Z
-updated: 2024-12-17T16:21:08.860Z
+date: 2024-12-19T07:57:04.868Z
+updated: 2024-12-25T16:08:47.633Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,19 +118,21 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-seamless-srt-to-sub-transition-techniques/"><u>[New] Seamless SRT to SUB Transition Techniques</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amds-epyc-9755-unleashed-how-the-128-core-cpu-topped-over-108k-points-in-multi-threaded-cp-z-test/"><u>AMD's EPYC 9755 Unleashed: How the 128-Core CPU Topped Over 108K Points in Multi-Threaded CP-Z Test</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-new-gadgets-with-toms-hardware-guides/"><u>Exploring New Gadgets with Tom's Hardware Guides</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-download-latest-wacom-intuos-graphics-tablet-drivers/"><u>Free Download: Latest Wacom Intuos Graphics Tablet Drivers</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-eliminate-screen-fluttering-in-google-chrome-on-windows-an-authoritative-2024-tutorial/"><u>How to Eliminate Screen Fluttering in Google Chrome on Windows - An Authoritative 2024 Tutorial</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-troubleshoot-and-solve-lg-monitor-driver-errors-on-various-windows-versions/"><u>How To Troubleshoot and Solve LG Monitor Driver Errors on Various Windows Versions</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-xiaomi-redmi-k70-pro-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Xiaomi Redmi K70 Pro by Name | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-iphone-7-plus-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock on iPhone 7 Plus or iPad?</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-record-with-chrome-os-native-screen-recorder/"><u>In 2024, Record with Chrome OS Native Screen Recorder</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-revel-in-these-14-enthralling-text-based-movements/"><u>In 2024, Revel in These 14 Enthralling Text-Based Movements</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-techkey-bluetooth-drivers-available-for-download-supports-windows-7811/"><u>Latest Techkey Bluetooth Drivers Available for Download - Supports Windows 7/8/11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-modern-electronics-through-toms-hardware-expertise/"><u>Mastering Modern Electronics Through Tom's Hardware Expertise</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/spread-the-word-about-our-favorite-no-cost-av-converter-software-for-easy-sharing/"><u>Spread the Word About Our Favorite No-Cost AV Converter Software for Easy Sharing</u></a></li>
-<li><a href="https://techidaily.com/ways-to-fix-the-failed-to-parse-the-corrupted-excel-2007-file-error-by-stellar-guide/"><u>Ways to Fix the Failed to Parse the Corrupted Excel 2007 File Error</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-the-ultimate-guide-to-30-effective-fb-ads-techniques-for-all-businesses/"><u>[New] 2024 Approved The Ultimate Guide to 30 Effective FB Ads Techniques (for All Businesses)</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-expand-your-viewership-horizon-on-youtube/"><u>[Updated] 2024 Approved Expand Your Viewership Horizon on Youtube</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-defining-your-digital-dna-a-guide-to-youtubing-personal-branding-for-2024/"><u>[Updated] Defining Your Digital DNA A Guide to YouTubing Personal Branding for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-to-follow-instructions-downloading-your-microsoft-comfort-keyboard-4000-drivers/"><u>Easy-to-Follow Instructions: Downloading Your Microsoft Comfort Keyboard 4000 Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-logitech-webcam-software-downloads-compatible-with-windows/"><u>Free Logitech Webcam Software Downloads Compatible with Windows</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-oppo-find-x7-ultra-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Oppo Find X7 Ultra</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-instantly-download-the-latest-asus-touchpad-driver-for-your-windows-10-pc/"><u>How to Instantly Download the Latest ASUS Touchpad Driver for Your Windows 10 PC</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-complete-examination-a-full-picture-of-bublcams-360-degree-scope/"><u>In 2024, Complete Examination A Full Picture of Bublcam's 360-Degree Scope</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-oppo-find-x6-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Oppo Find X6? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-hardware-reviews-and-guides-from-toms-hardware/"><u>In-Depth Hardware Reviews & Guides From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-logitech-rx-250-software-installation-for-windows-operating-systems-windows-7810/"><u>Latest Logitech RX-250 Software Installation for Windows Operating Systems (Windows 7/8/10)</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-transform-your-footage-expert-techniques-for-creating-breathtaking-movies-for-2024/"><u>New Transform Your Footage Expert Techniques for Creating Breathtaking Movies for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/resolving-startech-drivers-problems-on-windows-11-8-and-7-comprehensive-fixes/"><u>Resolving StarTech Drivers Problems on Windows 11, 8 & 7: Comprehensive Fixes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/transformative-teleportation-effects-techniques/"><u>Transformative Teleportation Effects Techniques</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/turbocharge-ryzen-9-9950x-to-a-whopping-6ghz-unleash-up-to-27-more-core-power-and-impress-on-the-geekbench-scale/"><u>Turbocharge Ryzen 9 9950X to a Whopping 6GHz: Unleash Up to 27% More Core Power & Impress on the GeekBench Scale.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-fixes-acpi-compatible-control-method-driver-problem-with-microsofts-battery-support/"><u>Update Fixes ACPI-Compatible Control Method Driver Problem with Microsoft's Battery Support</u></a></li>
 </ul></div>
 

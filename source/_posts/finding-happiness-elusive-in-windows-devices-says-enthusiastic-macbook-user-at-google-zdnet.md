@@ -1,7 +1,7 @@
 ---
 title: Finding Happiness Elusive in Windows Devices Says Enthusiastic MacBook User at Google | ZDNet
-date: 2024-12-15T16:06:59.401Z
-updated: 2024-12-17T16:27:36.339Z
+date: 2024-12-19T23:15:33.744Z
+updated: 2024-12-25T16:22:28.475Z
 tags:
   - laptops
 categories:
@@ -27,7 +27,7 @@ Not just in the way that [bosses manage employees](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -35,7 +35,7 @@ Not just in the way that [bosses manage employees](https://www.zdnet.com/article
 [![microsoft-surface-laptop-3-laptop-review.png](https://www.zdnet.com/a/img/resize/e0f6d314e4806309add28003f30e4e0ed93682c4/2021/02/04/27735ebc-dd78-4651-afc4-160fa0c6a355/microsoft-surface-laptop-3-laptop-review.png?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best laptops Our recommended models for every use case and platform.  Read now](https://www.zdnet.com/article/best-laptop/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Feelings about technology are important too.
@@ -53,7 +53,7 @@ There were terrible stories of so-called frupidity. This is the glorious blend o
 One of the most pungent complaints, however, came from a former Amazon product manager. It seems that Amazon didn't think these vital employees were worthy of [MacBooks](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Instead, they were given "subpar Windows laptops."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -83,7 +83,7 @@ How much, though, of the product manager's observations might be based on percep
 Microsoft has fought the image of laborious stodginess by creating its own [Surface brand](https://www.zdnet.com/article/microsofts-october-12-surface-launch-whats-on-tap/). You might have many views about these devices, but substandard they're not. Creative, they largely are. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -132,19 +132,18 @@ That must explain why [there's so much joy at Google right now](https://www.zdne
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-navigating-the-ways-for-fee-free-pictorial-clips/"><u>[New] In 2024, Navigating the Ways for Fee-Free Pictorial Clips</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-from-jumble-to-flow-kinemasters-editing-masterclass/"><u>[Updated] In 2024, From Jumble to Flow Kinemaster's Editing Masterclass</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/a-feathery-symphony-bebop-parrot-2-dissected/"><u>A Feathery Symphony – Bebop Parrot 2 Dissected</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-hp-deskjet-ink-advantage-2540-printer-drivers-and-latest-updates/"><u>Download HP Deskjet Ink Advantage 2540 Printer Drivers & Latest Updates</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-official-drivers-enable-your-zexmte-bluetooth-stick-on-windows-versions/"><u>Download Official Drivers: Enable Your Zexmte Bluetooth Stick on Windows Versions</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-hardware-not-found-error-on-w11w10-system/"><u>Fixing 'Hardware Not Found' Error on W11/W10 System</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-amd-rx-580-drivers-instantly-download-and-enhance-performance/"><u>Get the Latest AMD RX 580 Drivers Instantly: Download and Enhance Performance!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-install-updated-software-on-a-canon-mg3-cuisine3022-printer-a-complete-tutorial/"><u>How to Install Updated Software on a Canon MG3 Cuisine3022 Printer: A Complete Tutorial</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Oppo A78 5G | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-spark-go-2024-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Tecno Spark Go (2024) Phone without Any Data Loss</u></a></li>
-<li><a href="https://extra-support.techidaily.com/maximizing-action-footage-with-gopro-a-comparison-between-max-360-and-hero-11-for-2024/"><u>Maximizing Action Footage with GoPro A Comparison Between Max 360 and Hero 11 for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On HTC U23 Pro? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/top-13-no-cost-dvd-player-software-compatible-with-windows-10-and-11-find-your-perfect-match/"><u>Top 13 No-Cost DVD Player Software Compatible with Windows 10 & 11 - Find Your Perfect Match!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshooting-and-fixes-for-ralink-rt3290-wireless-drivers-on-windows-11-8-and-7/"><u>Troubleshooting and Fixes for Ralink RT3290 Wireless Drivers on Windows 11, 8 & 7</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-essential-5-platforms-beyond-twitter/"><u>[New] 2024 Approved Essential 5 Platforms Beyond Twitter</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-the-secrets-of-hands-in-vrar/"><u>[New] Unveiling the Secrets of Hands in VR/AR</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-gpio-interface-support-instant-download-available/"><u>AMD GPIO Interface Support - Instant Download Available</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortlessly-update-acer-network-card-software-no-cost-download-options/"><u>Effortlessly Update Acer Network Card Software | No Cost Download Options</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ensure-your-hp-printer-works-with-windows-11-get-the-right-driver-here/"><u>Ensure Your HP Printer Works With Windows 11 - Get The Right Driver Here</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-lock-apps-on-poco-x6-pro-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Poco X6 Pro to Protect Your Individual Information</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-new-developments-in-pc-components-at-toms-hardware-haven/"><u>Navigating New Developments in PC Components at Tom's Hardware Haven</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-iphone-guided-access-hiccups-6-effective-tips-and-fixes/"><u>Overcoming iPhone Guided Access Hiccups: 6 Effective Tips and Fixes</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-omotn-t1-tablet-accessory-robust-affordable-and-thoroughly-reviewed/"><u>The Omotn T1 Tablet Accessory - Robust, Affordable, And Thoroughly Reviewed</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-photographers-guide-to-maximizing-lunapic-potential/"><u>The Photographer's Guide to Maximizing LunaPic Potential</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-14-plus-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-exploring-the-latest-in-computer-hardware/"><u>Tom's Tech Insights: Exploring the Latest in Computer Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-and-solving-amd-radeon-rx-560-driver-glitches-across-windows-platforms/"><u>Troubleshooting and Solving AMD Radeon RX 560 Driver Glitches Across Windows Platforms</u></a></li>
 </ul></div>
 

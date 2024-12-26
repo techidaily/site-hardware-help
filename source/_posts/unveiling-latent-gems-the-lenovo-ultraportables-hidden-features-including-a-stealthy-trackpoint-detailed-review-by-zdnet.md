@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Latent Gems: The Lenovo Ultraportable's Hidden Features Including a Stealthy TrackPoint | Detailed Review by ZDNet"
-date: 2024-12-10T16:29:36.549Z
-updated: 2024-12-17T16:23:43.105Z
+date: 2024-12-21T06:55:34.705Z
+updated: 2024-12-25T23:55:24.757Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -77,7 +77,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -116,24 +116,21 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-game-sound-transformation-the-no-cost-pathway-in-free-fire-for-2024/"><u>[New] In-Game Sound Transformation The No-Cost Pathway in Free Fire for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-how-to-advertise-on-twitter/"><u>[Updated] 2024 Approved How to Advertise on Twitter</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-10-pro-tips-to-perfectly-piece-your-images/"><u>2024 Approved 10 Pro Tips to Perfectly Piece Your Images</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-filmmakers-checklist-on-the-go-gear-guide/"><u>2024 Approved Filmmaker's Checklist On-the-Go Gear Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amd-introduces-five-innovative-ryzen-processors-enhanced-features-with-strix-halo-and-kraken-point-technology/"><u>AMD Introduces Five Innovative Ryzen Processors: Enhanced Features with Strix Halo & Kraken Point Technology</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-setup-steps-logitech-racing-wheel-g27-driver-installation-for-all-windows-versions/"><u>Easy Setup Steps: Logitech Racing Wheel G27 Driver Installation for All Windows Versions</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevating-your-pokemon-journey-with-ios-devices/"><u>Elevating Your Pokémon Journey with iOS Devices</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/enhancing-zoom-picture-resolution-easy-fixes/"><u>Enhancing Zoom Picture Resolution Easy Fixes</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ensure-optimal-performance-with-newest-drivers-downloading-for-epson-wf-3720/"><u>Ensure Optimal Performance with Newest Drivers: Downloading for Epson WF 3720</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/focus-on-one-room-at-a-time/"><u>Focus On One Room At A Time</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-nvidia-drivers-updated-now-direct-download-links-available/"><u>Get Your NVIDIA Drivers Updated Now - Direct Download Links Available</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722977118879-get-your-windows-78110-compatible-epson-wf-2630-printer-drivers-here/"><u>Get Your Windows 7/8.1/10 Compatible Epson WF-2630 Printer Drivers Here</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-do-internet-integrated-tvs-enhance-your-home-entertainment-system/"><u>How Do Internet-Integrated TVs Enhance Your Home Entertainment System?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-version-of-epson-xp-310-printer-driver-download-now/"><u>Latest Version of Epson XP-310 Printer Driver - Download Now</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-audio-configuration-setting-up-unknown-speakers-in-windows-11/"><u>Mastering Audio Configuration: Setting Up Unknown Speakers in Windows 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-downloading-sandisk-ssd-drivers-no-problem-left-behind/"><u>Step-by-Step Guide: Downloading Sandisk SSD Drivers - No Problem Left Behind</u></a></li>
-<li><a href="https://win-forum.techidaily.com/transformar-gravacoes-do-mts-em-mp4-gratuito-on-line-dicas-facilitadas-e-eficientes/"><u>Transformar Gravações Do MTS Em MP4 Gratuito On-Line - Dicas Facilitadas E Eficientes</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/unveiling-hidden-functionalities-of-instagrams-question-marker/"><u>Unveiling Hidden Functionalities of Instagram’s Question Marker</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-your-arduino-usb-drivers-on-windows-whats-new/"><u>Update Your Arduino USB Drivers on Windows - What's New?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-how-to-harness-iphones-full-potential-for-landscapes/"><u>[New] How to Harness iPhone's Full Potential for Landscapes</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-game-on-the-best-xbox-extra-storage-choices/"><u>[Updated] In 2024, Game On The Best Xbox Extra Storage Choices</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-lava-yuva-3-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Lava Yuva 3</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723262426272-dont-miss-out-upgrade-to-a-superior-gaming-experience-with-the-nvidia-rtx-4080-powered-lenovo-legion-desktop-for-just-over-2000/"><u>Don't Miss Out: Upgrade to a Superior Gaming Experience with the NVIDIA RTX 4080-Powered Lenovo Legion Desktop for Just Over $2,000!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-latest-techkey-bluetooth-driver-for-windows-operating-systems-10-7-and-8/"><u>Download the Latest Techkey Bluetooth Driver for Windows Operating Systems (10, 7 & 8)</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/experience-improved-behavioral-analytics-through-cookiebot-solutions/"><u>Experience Improved Behavioral Analytics Through Cookiebot Solutions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/getting-started-with-iphone-driver-software-on-windows-10-machines/"><u>Getting Started with iPhone Driver Software on Windows 10 Machines</u></a></li>
+<li><a href="https://extra-information.techidaily.com/guide-to-efficient-webp-jpeg-conversion/"><u>Guide to Efficient WebP JPEG Conversion</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-install-asus-wifi-driver-on-your-computer-easily/"><u>How to Install ASUS WiFi Driver on Your Computer Easily</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/market-shock-intel-plunges-by-30-overnight-losing-39b-in-value/"><u>Market Shock: Intel Plunges by 30% Overnight, Losing $39B in Value</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-from-zero-to-hero-creating-stunning-reaction-videos-using-filmora/"><u>New In 2024, From Zero to Hero Creating Stunning Reaction Videos Using Filmora</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722973480172-new-release-get-the-latest-amd-radeon-r5-drivers-for-windows-111087-today/"><u>New Release: Get the Latest AMD Radeon R5 Drivers for Windows 11/10/8/7 Today</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/rapidly-ramp-up-your-twitter-followers-with-these-proven-techniques/"><u>Rapidly Ramp Up Your Twitter Followers with These Proven Techniques</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-gear-the-ultimate-guide-to-your-computers-anatomy/"><u>Tom's Tech Gear: The Ultimate Guide to Your Computer's Anatomy</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-complete-restore-volume-in-chrome-browser/"><u>Troubleshooting Complete: Restore Volume in Chrome Browser</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/windows-11-top7/"><u>ファイルがなくなった Windows 11 デスクトップの緊急復元手順 TOP7</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Full Scoop on Apple’s October Event Highlights and Surprises | In-Depth Coverage by ZDNET
-date: 2024-12-15T16:11:16.159Z
-updated: 2024-12-17T16:32:32.665Z
+date: 2024-12-24T08:39:46.223Z
+updated: 2024-12-25T20:50:55.784Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -81,7 +81,7 @@ If the low battery life wasn't enough, the computer has a tendency to run hot. W
 Even during regular use, the keyboard retained some heat, although not nearly as bad as during heavy gaming. The cooling vents are located on the bottom, so it seems the heat gets trapped underneath.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -120,24 +120,22 @@ If you looking for a portable gaming laptop, the Blade 14 is a middle-tier optio
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/deal-acquisitions-starting-off-with-profitable-youtube-channel-buys-for-2024/"><u>[New] Ideal Acquisitions Starting Off with Profitable YouTube Channel Buys for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-critical-channels-for-asmr-lovers/"><u>[Updated] 2024 Approved Critical Channels for ASMR Lovers</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-the-prime-monitor-companion-for-gaming-on-xbox-series-x/"><u>[Updated] 2024 Approved The Prime Monitor Companion for Gaming on Xbox Series X</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-finding-your-ideal-broadcast-channel-top-10-guidelines/"><u>[Updated] Finding Your Ideal Broadcast Channel Top 10 Guidelines</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-instagram-blocking-made-simple/"><u>[Updated] Instagram Blocking Made Simple</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-taming-soundscapes-mastering-gradual-volume-increase-with-audition-for-2024/"><u>[Updated] Taming Soundscapes Mastering Gradual Volume Increase with Audition for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/audiovisual-archive-system-and-voice-recordings-for-2024/"><u>Audiovisual Archive System & Voice Recordings for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/canon-printer-software-downloads-mp280-driver-version-compatible-with-multiple-windows-os/"><u>Canon Printer Software Downloads - MP280 Driver Version Compatible with Multiple Windows OS</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-latest-realtek-usb-audio-driver-supported-on-windows-1110/"><u>Download the Latest Realtek USB Audio Driver Supported on Windows 11/10</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/get-ahead-of-the-curve-inside-information-on-teslas-phones-release-date-expected-costs-and-tech-rumors/"><u>Get Ahead of the Curve: Inside Information on Tesla's Phones Release Date, Expected Costs, and Tech Rumors</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-flawlessly-install-nvidias-newest-drivers-for-rtx-2070-super-windows-11-edition/"><u>How to Flawlessly Install NVIDIA's Newest Drivers for RTX 2070 Super: Windows 11 Edition</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/improve-your-audio-experience-updating-the-drivers-on-your-audio-technica-equipment/"><u>Improve Your Audio Experience: Updating the Drivers on Your Audio-Technica Equipment</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/intel-processor-310-revives-the-era-of-dual-p-cores-a-geekbench-showcase/"><u>Intel Processor 310 Revives the Era of Dual-P Cores: A Geekbench Showcase</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-computer-components-with-toms-hardware-guides/"><u>Mastering Computer Components with Tom's Hardware Guides</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/rtx-2060-super-graphics-card-drivers-compatible-with-windows-11-download-now/"><u>RTX 2060 Super Graphics Card Drivers Compatible with Windows 11 – Download Now</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-future-is-openai-can-we-forecast-when-gpt-5-will-go-live/"><u>The Future Is OpenAI: Can We Forecast When GPT-5 Will Go Live?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-in-depth-reviews-and-gadget-analysis/"><u>Tom's Tech Insights: In-Depth Reviews & Gadget Analysis</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unpacking-the-powerhouse-amds-latest-zen-architecture-the-epyc-5-series-with-128-cores-and-a-massive-512mb-cache/"><u>Unpacking the Powerhouse: AMD's Latest Zen Architecture, the EPYC 5 Series with 128 Cores & a Massive 512MB Cache</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/windows-instant-scrutiny-a-manual/"><u>Window's Instant Scrutiny A Manual</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-mastering-twitter-setup-a-step-by-step-guide/"><u>[New] 2024 Approved Mastering Twitter Setup A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-nikons-masterpiece-unveiling-the-4k-capabilities-of-j5-for-2024/"><u>[New] Nikon's Masterpiece Unveiling The 4K Capabilities of J5 for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-surfings-new-era-top-cam-tech/"><u>[Updated] 2024 Approved Surfing's New Era - Top Cam Tech</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-asus-proart-pa-329q-professional-4k-monitor-review/"><u>2024 Approved Asus ProArt PA 329Q Professional 4K Monitor Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-amd-radeon-hd-driver-for-windows-7-latest-version-and-updates/"><u>Download AMD Radeon HD Driver for Windows 7: Latest Version & Updates</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-steps-to-download-and-install-the-hp-m452dn-laserjet-series-driver/"><u>Easy Steps to Download and Install the HP M452dn LaserJet Series Driver</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-upgrade-how-to-install-new-synaptics-pad-drivers/"><u>Effortless Upgrade: How to Install New Synaptics Pad Drivers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/fifth-place-winners-excellent-recorder-apps/"><u>Fifth Place Winners Excellent Recorder Apps</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-or-install-logitech-c525-high-res-camera-drivers-on-windows/"><u>How to Update or Install Logitech C525 High-Res Camera Drivers on Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-the-official-windows-driver-for-focusrite-scarlett-2i2-download-now/"><u>Install the Official Windows Driver for Focusrite Scarlett 2I2 - Download Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/logitechs-best-offer-complimentary-webcam-driver-downloads-for-window-users/"><u>Logitech's Best Offer: Complimentary Webcam Driver Downloads for Window Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/roblox-crashing-how-to-resolve-low-memory-warnings-on-ios-devices/"><u>Roblox Crashing? How to Resolve Low Memory Warnings on iOS Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/solving-logitech-f710-driver-problems-in-windows-11-10-8-and-7-a-comprehensive-guide/"><u>Solving Logitech F710 Driver Problems in Windows 11, 10, 8 & 7: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/tech-alert-alleged-perfect-crash-rate-for-intels-recent-processors-accusations-fly-from-alderon-games/"><u>Tech Alert: Alleged Perfect Crash Rate for Intel's Recent Processors, Accusations Fly From Alderon Games</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-definitive-tech-companion-inside-tips-from-toms-hardware/"><u>The Definitive Tech Companion - Inside Tips From Tom's Hardware</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-rise-of-mondly-languages-dreams-woven-over-2-years/"><u>The Rise of Mondly Languages - Dreams Woven Over 2 Years</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/vanguard-alta-pro-263ab-tripod-review/"><u>Vanguard Alta Pro 263AB Tripod Review</u></a></li>
 </ul></div>
 

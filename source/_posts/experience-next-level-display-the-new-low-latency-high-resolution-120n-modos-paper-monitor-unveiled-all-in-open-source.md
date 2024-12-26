@@ -1,7 +1,7 @@
 ---
 title: "Experience Next-Level Display: The New Low-Latency, High-Resolution 120N Modos Paper Monitor Unveiled - All in Open Source"
-date: 2024-08-19T10:38:04.482Z
-updated: 2024-08-20T10:38:04.482Z
+date: 2024-12-18T19:09:12.834Z
+updated: 2024-12-25T22:47:51.012Z
 tags:
   - monitor
 categories:
@@ -17,6 +17,10 @@ For those who deal with fatigue while looking at a screen, there's always paper.
 
  Working with Dave Crossland and Wenting Zhang, (aka @zephray\_wenting who you may remember for documenting his adventures with a[prison laptop](https://tools.techidaily.com) ), Soto successfully created his ideal monitor. Since its software and hardware are both open-sourced via[GitHub](https://github.com/Modos-Labs/Glider) , ambitious enough DIYers may be enabled to create this display or a similar display for themselves.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Modos Tech Paper Monitor Core Specs
 
 * **Panel Type** : Monochrome E-Ink (optional Full-Color Panel also available)
@@ -28,6 +32,10 @@ For those who deal with fatigue while looking at a screen, there's always paper.
  For many, the most important aspect may be the low latench. Modos is promising "a consistent < 120ms latency, compared to competitors, up to 270ms latency," which would make it pretty fast.
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Modos Tech Paper Monitor Display Modes
 
@@ -42,8 +50,9 @@ For those who deal with fatigue while looking at a screen, there's always paper.
  In any case, those who are interested can submit their information to the Modos Paper Monitor's[Crowd Supply page](https://www.crowdsupply.com/modos-tech/modos-paper-monitor) to be kept in the loop for future updates. This does seem like a nice companion for those wanting to reduce their eyestrain, though its small size makes it seem more like a laptop companion than a desktop-appropriate display.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -58,8 +67,6 @@ For those who deal with fatigue while looking at a screen, there's always paper.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -67,4 +74,16 @@ For those who deal with fatigue while looking at a screen, there's always paper.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-transform-your-tech-skills-mastering-screen-capture-in-macos/"><u>2024 Approved Transform Your Tech Skills Mastering Screen Capture in macOS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ace-your-setup-elite-gadget-picks-of-computer-visualizers/"><u>Ace Your Setup: Elite Gadget Picks of Computer Visualizers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/advanced-pc-specs-breakdown-by-toms-systems-guides/"><u>Advanced PC Specs Breakdown by Tom's Systems Guides</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decoding-bass-management-systems-an-insight-into-their-purpose-and-operation/"><u>Decoding Bass Management Systems: An Insight Into Their Purpose & Operation</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862803280-experience-gaming-excellence-acquire-the-stunning-acer-nitro-27-inch-at-an-unbeatable-149/"><u>Experience Gaming Excellence: Acquire the Stunning Acer Nitro, 27-Inch, at an Unbeatable $149</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-easily-update-zebra-zp450-drivers-a-complete-step-by-step-tutorial/"><u>How to Easily Update Zebra ZP450 Drivers: A Complete Step-by-Step Tutorial</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/iphone-image-editing-learn-to-change-resolution-for-2024/"><u>IPhone Image Editing Learn to Change Resolution for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/simplifying-complexity-essential-gs-tutorials-kinemaster-for-2024/"><u>Simplifying Complexity Essential GS Tutorials (KineMaster) for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862816091-unleash-immersive-gaming-experience-newly-launched-minisforum-portable-screen-156-hd-with-144hz-display-only-189/"><u>Unleash Immersive Gaming Experience: Newly Launched Minisforum Portable Screen – 15.6 HD with 144Hz Display Only $189!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Digital Notepads: In-Depth Expert Reviews & Purchasing Guide - Insights by ZDNet"
-date: 2024-12-13T16:12:23.878Z
-updated: 2024-12-17T16:23:44.006Z
+date: 2024-12-20T17:49:44.247Z
+updated: 2024-12-25T22:44:01.519Z
 tags:
   - laptops
 categories:
@@ -22,17 +22,9 @@ We prioritized machines that scored well in durability, portability, and of cour
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What's the best laptop for college right now?
 
 At ZDNET, we've [thoroughly tested the best laptops for college](https://www.zdnet.com/article/how-we-test-laptops/) to help you pick the right one, no matter what you're studying. Our pick for the best laptop for college overall goes to the [Apple MacBook Air M3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX24JRLR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf6d86123-7c0d-4dd0-b3a2-759d36d51cb2%7Cdtp&dtb=1). In terms of portability, sleek form factor, and a solid battery life, the MacBook Air M3 is as light as it is powerful, and is future-proofed to last the duration of a multi-year degree program. It might not be the best pick for you, however, so we included other options that round out the spectrum of most common use cases. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The best laptop for college in 2024
 
@@ -48,6 +40,10 @@ Pros
 Cons 
 * Limited ports
 * Uninspiring speakers
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Apple MacBook Air M3
 
@@ -115,10 +111,6 @@ Cons
 
 ## Acer Aspire Go 15
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best college laptop under $500
 
 We're calling the Acer Aspire Go 15 the best college laptop under $500, but it's actually well under that price. For just $300, this is a capable laptop that is ideal for students on a budget. Not everyone needs a powerful laptop decked out in high-end hardware, especially if you have a desktop as a primary computer. And for a portable notebook that is built to cover the basics, it doesn't get much more affordable than this. 
@@ -147,11 +139,11 @@ Cons
 * Has a tendency to run warm
 * Bloatware
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Asus ROG Zephyrus G14
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best college laptop for gaming
 
@@ -178,10 +170,14 @@ Cons
 * Expensive
 * Comes with multiple supporting parts
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Lenovo Yoga Book 9i
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best 2-in-1 convertible laptop for college
@@ -199,7 +195,7 @@ There are a few considerations, however. First, the $2,000 price tag puts it at 
 Show Expert Take Show less 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the best laptop for college?
@@ -227,7 +223,7 @@ The right college for laptop depends on first on what you want to get out of it,
 | Lenovo Yoga Book 9i                 | A dual-screen laptop that works for art or design classes, or a laptop with versatile configurations. |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -256,6 +252,10 @@ These are the factors that I weighed when selecting the best laptops for college
 * **Price:** Cost is an important factor, especially for students. I included laptops that cover a wide range of price points, from the inexpensive [Acer Aspire Go 15](https://www.zdnet.com/article/i-replaced-my-desktop-with-a-299-laptop-for-a-week-and-was-pleasantly-surprised/) at just $300 to the pricier [Lenovo Yoga Book 9i](https://www.zdnet.com/article/i-tested-lenovos-dual-screen-laptop-and-it-improved-my-productivity-in-profound-ways/) that will run closer to $2,000\. Keep in mind that most computer manufacturers offer student discounts, and their buying links are included in each laptop's section on this page.
 * **Portability:** Carrying around a heavy laptop all day while on campus is a tough ask. That's why all five of these laptops were considered to be light enough to be carried around a full day at school, the heaviest of which (the Acer Aspire Go 15) is only 3.7 pounds.
 * **Storage:** The amount of storage on your college laptop determines not only how much data your computer can hold but also how fast it can move. If you plan to use this laptop for all of your college classes, you will likely need a larger amount of storage if you plan to store all those papers and projects on the local drive.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which operating system should you choose: Windows, MacOS, Chrome OS, or Linux?
 
@@ -317,21 +317,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-exploring-the-past-top-10-educational-history-yt-channels/"><u>[New] 2024 Approved Exploring the Past Top 10 Educational History YT Channels</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-amusing-clip-loading-appraisal/"><u>[New] Amusing Clip Loading Appraisal</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-best-practices-for-engaging-with-facebook-live-content/"><u>2024 Approved Best Practices for Engaging with Facebook Live Content</u></a></li>
-<li><a href="https://games-able.techidaily.com/best-seated-player-partnerships-top-16-on-xbox-series-sx/"><u>Best Seated Player Partnerships - Top 16 on Xbox Series S/X</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-installation-finding-the-best-latitude-e6420-driver-downloads-today/"><u>Effortless Installation: Finding the Best Latitude E6420 Driver Downloads Today</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/epson-workforce-ds-30-driver-download-for-windows-1087/"><u>Epson WorkForce DS 30 Driver Download for Windows 10/8/7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-updated-epson-xp-330-print-device-driver-here/"><u>Get the Updated Epson XP-330 Print Device Driver Here</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/getting-your-canon-mg3000-ready-driver-downloads-and-updates/"><u>Getting Your Canon MG3000 Ready: Driver Downloads & Updates</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-realme-12plus-5g-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Realme 12+ 5G Phone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Motorola Edge 2023 | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-hp-laptop-hardware-drivers-installation-guide-for-windows-users/"><u>Latest HP Laptop Hardware Drivers: Installation Guide for Windows Users</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-image-dimension-changes-for-pcs-and-macbooks/"><u>Mastering Image Dimension Changes for PCs and MacBooks</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/perfect-compatibility-for-logitech-g13-keyboards-essential-driver-download-tips/"><u>Perfect Compatibility for Logitech G13 Keyboards: Essential Driver Download Tips</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-and-simple-steps-to-download-and-upgrade-your-canon-device-drivers-in-windows/"><u>Quick and Simple Steps to Download & Upgrade Your Canon Device Drivers in Windows!</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/unlocking-data-precision-the-role-of-cookiebot-in-seo-success/"><u>Unlocking Data Precision: The Role of Cookiebot in SEO Success</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-vivo-t2-pro-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Vivo T2 Pro 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-becoming-a-meet-maestro-chat-techniques-unveiled/"><u>[Updated] Becoming a Meet Maestro Chat Techniques Unveiled</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-highest-quality-images-in-4k-with-these-cameras/"><u>[Updated] Highest Quality Images in 4K with These Cameras</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-innovators-intertwining-video-with-melodious-images-for-2024/"><u>[Updated] Innovators Intertwining Video with Melodious Images for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asus-vg248qe-driver-update-and-download-made-easy-for-windows-users/"><u>Asus VG248QE Driver Update & Download Made Easy for Windows Users!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/delve-into-technology-with-toms-gadget-guide/"><u>Delve Into Technology with Tom's Gadget Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-upgrade-your-hp-scanjet-driver-for-windows-11-8-or-7-download-instructions-inside/"><u>How to Upgrade Your HP Scanjet Driver for Windows 11, 8 or 7 – Download Instructions Inside</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-spectre-x360-compatibility-boosted-find-and-download-the-right-windows-drivers-here/"><u>HP Spectre X360 Compatibility Boosted: Find and Download the Right Windows Drivers Here</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On OnePlus 12R? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-realtek-card-reader-drivers-fast-optimal-compatibility-with-windows-11/"><u>Install RealTek Card Reader Drivers Fast: Optimal Compatibility with Windows 11!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-logitech-g510-installation-files-windows-7-to-10-supported/"><u>Latest Logitech G510 Installation Files - Windows 7 to 10 Supported</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/one-click-setup-canon-pro-100-printer-drivers-for-windows/"><u>One-Click Setup: Canon PRO 100 Printer Drivers for Windows</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/resolving-cloned-hdd-size-discrepancy-a-comprehensive-one-time-solution/"><u>Resolving Cloned HDD Size Discrepancy: A Comprehensive, One-Time Solution</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-solving-issues-with-your-sennheiser-gaming-headset-microphone/"><u>Troubleshooting Guide: Solving Issues with Your Sennheiser Gaming Headset Microphone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/journey-to-glamorous-guruship-launching-an-aesthetic-channel-for-2024/"><u>Your Journey to Glamorous Guruship Launching an Aesthetic Channel for 2024</u></a></li>
 </ul></div>
 

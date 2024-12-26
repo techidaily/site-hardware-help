@@ -1,7 +1,7 @@
 ---
 title: "Inside the World of Computing: Detailed Breakdowns From Tom's Systems"
-date: 2024-08-19T10:38:57.731Z
-updated: 2024-08-20T10:38:57.731Z
+date: 2024-12-21T09:10:12.659Z
+updated: 2024-12-25T17:51:56.660Z
 tags:
   - monitor
 categories:
@@ -16,6 +16,10 @@ I’ve reviewed some small portable monitors here at Tom’s Hardware, but this 
  Despite its size, the $105 EM105 includes two USB-C ports (DisplayPort Alt-Mode supported), a mini HDMI port, stereo speakers, and a 3.5mm headphone jack. For frequent travelers who need a secondary monitor that won’t take up much space in a laptop bag, the Eyoyo could be a compelling option. It also could make a great display for a[Raspberry Pi project](https://tools.techidaily.com) .
 
  Despite one notable flaw in the form of a significant stand, the EM105 is among the[best portable monitors](https://tools.techidaily.com) for anyone who prioritizes portability and flexibility.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Eyoyo EM105 Portable Monitor Specifications
 
@@ -85,6 +89,10 @@ I’ve reviewed some small portable monitors here at Tom’s Hardware, but this 
 
 ![Eyoyo EM105 10.5-inch](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![Eyoyo EM105 10.5-inch](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -100,24 +108,23 @@ I’ve reviewed some small portable monitors here at Tom’s Hardware, but this 
  WIthout its stand, the EM105 measures 9.17 x 6.5 x 0.31 inches and weighs 0.8 pounds. For comparison, the 15.6-inch InnoCN 151AF, which is one of the[best portable monitors](https://tools.techidaily.com) , measures 14.1 x 9.0 x 0.3 inches and weighs 1.6 pounds.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## On-Screen Display on the Eyoyo EM105 Portable Monitor
 
  You invoke the OSD on the EM105 by pressing in on the three-way rocker switch on the left side of the chassis. Up pops a basic user interface (shared with many budget-oriented portable monitors), where flicking the rocker switch upward navigates up through the OSD and vice versa. You select a menu item by pushing in on the rocker, and then up/down to adjust settings (like brightness and contrast). There’s a dedicated back button to return to the previous menu screen.
 
 ![Eyoyo EM105 10.5-inch](https://cdn.mos.cms.futurecdn.net/gFShqYRhMy9wRrGY5SrCV-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  This no-frills OSD has the usual controls for color temperature, enabling the low blue light mode and adjusting the position of the OSD. I also discovered that the monitor supports AMD FreeSync (which was not documented by the Eyoyo), and that support was confirmed via AMD’s Adrenalin driver software.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Image Quality and Sound on the Eyoyo EM105 Portable Monitor
 
  The EM105 measures 10.5 inches across and has a 3:2 aspect ratio. That results in an[IPS panel](https://tools.techidaily.com) with a resolution of 1920 x 1280, versus the more typical 1920 x 1080 in this segment. However, some people will likely appreciate the extra vertical real estate. It also bucks the trend with a glossy screen coating, which we usually see covering OLED panels.
@@ -127,8 +134,9 @@ I’ve reviewed some small portable monitors here at Tom’s Hardware, but this 
 ![Eyoyo EM105 10.5-inch](https://cdn.mos.cms.futurecdn.net/TH3t3aoSdwsLALA4LxfZdn-320-80.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  In everyday tasks, the EM105 was perfectly usable as a secondary monitor. Its size means you’ll need to tinker in Windows to make text easier to read. My “old” eyes needed assistance working with[Microsoft](https://tools.techidaily.com) Word and Excel on the small monitor.
@@ -137,9 +145,6 @@ I’ve reviewed some small portable monitors here at Tom’s Hardware, but this 
 
  I was shocked to find that the EM105 includes a set of stereo speakers, and even more surprised that they sounded pretty good. Of course, they aren’t powerhouses regarding output, but music and speech sounded good through the speakers, even with the volume cranked to about 75 percent. The speakers are lacking in bass, but at this price point, the speakers are a welcome addition to the EM105.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bottom Line
 
  The Eyoyo EM105 portable monitor offers a convincing combination of small size and light weight in a relatively-robust aluminum chassis. It has both USB-C and HDMI connectivity, allowing it to connect with various types of electronics, from PCs to Macs to smartphones to game consoles to Raspberry Pi boards. The EM105 even includes a set of speakers that sounds pretty good, which we can’t often say about portable monitors.
@@ -160,8 +165,6 @@ I’ve reviewed some small portable monitors here at Tom’s Hardware, but this 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -169,4 +172,21 @@ I’ve reviewed some small portable monitors here at Tom’s Hardware, but this 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/updated-best-instagram-highlight-cover-maker-online/"><u>[Updated] Best Instagram Highlight Cover Maker Online</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-best-of-the-best-yts-premier-unboxing-sites/"><u>[Updated] The Best of the Best YT's Premier Unboxing Sites</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1728503021555-usb/"><u>「最善の手段でブート可能なUSBメモリをコピーします:ステップバイステップガイド」</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-tecno-spark-20-pro-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Tecno Spark 20 Pro? | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/first-steps-to-fluency-basic-russian-for-every-traveler/"><u>First Steps to Fluency: Basic Russian for Every Traveler</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-hp-universal-dock-station-g2-driver-software-120w-and-230w-options/"><u>Free HP Universal Dock Station G2 Driver Software - 120W and 230W Options</u></a></li>
+<li><a href="https://fox-access.techidaily.com/from-flat-to-framed-achieving-realistic-text-effects-in-photoshop-for-2024/"><u>From Flat to Framed Achieving Realistic Text Effects in Photoshop for 2024</u></a></li>
+<li><a href="https://win-docs.techidaily.com/home-internet-privacy-do-you-really-need-a-vpn/"><u>Home Internet Privacy: Do You Really Need a VPN?</u></a></li>
+<li><a href="https://techidaily.com/is-your-nubia-z50-ultra-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Nubia Z50 Ultra working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/msi-implements-intel-recommended-power-specifications-for-i9-processors-aiming-to-resolve-stability-issues-during-continuous-investigation-by-intel/"><u>MSI Implements Intel Recommended Power Specifications for I9 Processors, Aiming to Resolve Stability Issues During Continuous Investigation by Intel</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/msi-releases-information-on-z790-board-failures-due-to-flawed-pch-chips-manufacturing-glitch-affects-select-units-latest-news/"><u>MSI Releases Information on Z790 Board Failures Due to Flawed PCH Chips - Manufacturing Glitch Affects Select Units (Latest News)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-the-tech-world-with-professional-insights-from-toms-hardware-team/"><u>Navigating the Tech World with Professional Insights From Tom’s Hardware Team</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-the-world-of-pc-components-a-deep-dive-on-toms-technology-blog/"><u>Navigating the World of PC Components - A Deep Dive on Tom's Technology Blog</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/new-amd-ryzen-9000-and-zen-5-chips-announced-by-gigabyte-with-upcoming-beta-bios-support-for-x570-boards/"><u>New AMD Ryzen 9000 and Zen 5 Chips Announced by Gigabyte with Upcoming Beta BIOS Support for X570 Boards</u></a></li>
+</ul></div>
 

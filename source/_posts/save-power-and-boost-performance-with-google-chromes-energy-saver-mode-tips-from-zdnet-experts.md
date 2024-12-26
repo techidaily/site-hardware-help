@@ -1,7 +1,7 @@
 ---
 title: Save Power and Boost Performance with Google Chrome's Energy Saver Mode - Tips From ZDNet Experts
-date: 2024-12-13T16:01:24.542Z
-updated: 2024-12-17T16:17:16.228Z
+date: 2024-12-24T19:37:01.606Z
+updated: 2024-12-25T17:46:06.688Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ Google
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### See also
@@ -39,21 +39,21 @@ Google Chrome is known as a bit of a [resource hog](https://www.zdnet.com/articl
 
 In an attempt to make the browser a bit less of a drain on the batteries of portable devices, Google has rolled out a new feature called Energy Saver mode. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to enable Energy Saver mode on Google Chrome
 
 It's currently an experimental feature that's not enabled by default, so you'll need to enable it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Requirements
 
 First, you need to be running version 108 or higher of Google Chrome on Windows, Mac, Linux, or Chromebooks. This version is rolling out to users as of Tuesday, Nov. 29\. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Check your Chrome browser version
 
@@ -66,7 +66,7 @@ If you are not yet running version 108 or higher, you need to update.
 **Also:** [**The best Cyber Monday Chromebook deals still available**](https://www.zdnet.com/article/cyber-monday-chromebook-deals-november-28-2022/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable the experimental feature
@@ -94,7 +94,7 @@ Adrian Kingsley-Hughes/ZDNET
 Find the flag, change the drop-down menu for the flag to Enabled**,** and then click Restart to apply the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Select when the battery saver feature will activate
@@ -153,19 +153,21 @@ If you want to roll this setting back, head back to the "Enable the battery save
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-live-choreo-streaming-on-shouqi-media/"><u>[New] In 2024, Live Choreo Streaming on Shouqi Media</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-speeding-up-slideshow-video-playback/"><u>[Updated] Speeding Up Slideshow Video Playback</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-access-all-nba-games-effortlessly-top-15-streaming-methods/"><u>2024 Approved Access All NBA Games Effortlessly Top 15 Streaming Methods</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-latest-epson-et-2750-printer-driver-for-windows-computers/"><u>Download the Latest Epson ET-2750 Printer Driver for Windows Computers</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/tial-youtube-video-editing-techniques-for-2024/"><u>Essential YouTube Video Editing Techniques for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-brother-mfc-7360n-drivers-now-compatible-with-windows-11-8-and-7-download-here/"><u>Get the Latest Brother MFC-7360N Drivers Now! Compatible with Windows 11, 8 & 7 - Download Here</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-download-and-update-your-sapphire-graphics-card-drivers-for-windows-pcs-easily/"><u>How to Download and Update Your Sapphire Graphics Card Drivers for Windows PCs Easily</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-poco-x5-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Poco X5 Pro without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-keyword-optimization-in-podcast-seo/"><u>In 2024, Navigating Keyword Optimization in Podcast SEO</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/rise-in-search-results-mastering-podcast-seo/"><u>Rise in Search Results Mastering Podcast SEO</u></a></li>
-<li><a href="https://techidaily.com/some-mp4-wont-play-on-my-moto-g-5g-2023-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Some MP4 won't play on my Moto G 5G (2023)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshooting-and-repairing-your-lg-devices-connection-on-pc-operating-systems-like-win-11-8-or-e7/"><u>Troubleshooting and Repairing Your LG Device's Connection on PC Operating Systems Like Win 11, 8, or E7</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-nokia-g42-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Nokia G42 5G Screen | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/worsened-wound-infections/"><u>Worsened Wound Infections</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-the-secret-behind-the-blue-status-update-sticker/"><u>[Updated] 2024 Approved The Secret Behind the Blue Status Update Sticker</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-elevate-your-livestream-game-twitch-and-youtube-via-obs/"><u>[Updated] Elevate Your Livestream Game Twitch & YouTube via OBS</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-the-ultimate-checklist-for-growing-youtube-subscribers/"><u>[Updated] In 2024, The Ultimate Checklist for Growing YouTube Subscribers</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/1-professionelle-schutzmassnahmen-fur-ihr-windows-7-system-laufwerk-c-aomei-backupper/"><u>1. Professionelle Schutzmaßnahmen Für Ihr Windows 7 System-Laufwerk C: - AOMEI Backupper</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/boost-your-computers-performance-on-a-budget-15-affordable-upgrades-for-less-than-50/"><u>Boost Your Computer's Performance on a Budget: 15 Affordable Upgrades for Less than $50</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevating-team-efficiency-by-integrating-chatgpt-into-your-workflow-strategy-plan/"><u>Elevating Team Efficiency by Integrating ChatGPT Into Your Workflow Strategy Plan</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-oppo-find-x7-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Oppo Find X7 Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/jon-bach-of-puget-systems-reviews-top-tier-workstation-setups-for-power-users/"><u>Jon Bach of Puget Systems Reviews Top-Tier Workstation Setups for Power Users</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/optimize-live-feed-select-from-the-best-9-filters/"><u>Optimize Live Feed Select From the Best 9 Filters</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-hub-ultimate-guide-to-computer-components-and-gadgets/"><u>Tom's Tech Hub: Ultimate Guide to Computer Components and Gadgets</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-review-comprehensive-insights-from-toms-hardware/"><u>Tom's Tech Review: Comprehensive Insights From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/understanding-key-pc-vocabulary-through-toms-hardware-dictionary-explained/"><u>Understanding Key PC Vocabulary Through Tom's Hardware Dictionary Explained</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-world-of-electronics-with-tom-a-guide-to-top-ranked-devices/"><u>Unveiling the World of Electronics with Tom - A Guide to Top-Ranked Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/winner-announcement-2016-first-quarter-competition-by-toms-hardware-on-pc-system-construction/"><u>Winner Announcement: 2016 First Quarter Competition by Tom's Hardware on PC System Construction</u></a></li>
 </ul></div>
 

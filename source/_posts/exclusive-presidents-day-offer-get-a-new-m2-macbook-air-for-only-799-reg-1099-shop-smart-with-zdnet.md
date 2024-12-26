@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Presidents’ Day Offer: Get a New M2 MacBook Air for Only $799 (Reg. $1,099) | Shop Smart with ZDNet"
-date: 2024-12-10T16:08:28.527Z
-updated: 2024-12-17T16:12:20.024Z
+date: 2024-12-21T09:10:18.552Z
+updated: 2024-12-25T19:56:08.326Z
 tags:
   - laptops
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,20 +81,15 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/nchanting-music-visuals-using-the-lyric-video-maker-toolkit-for-2024/"><u>[New] Enchanting Music Visuals Using the Lyric Video Maker Toolkit for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-sharpening-your-zoom-images-for-professional-conferencing/"><u>[Updated] In 2024, Sharpening Your Zoom Images for Professional Conferencing</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-melodic-content-and-legalities-on-insta/"><u>[Updated] Melodic Content and Legalities on Insta</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-change-your-virtual-rooms-palette-with-google-meet/"><u>2024 Approved Change Your Virtual Room's Palette with Google Meet</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/conquer-polyglot-peaks-navigating-difficult-language-terrain/"><u>Conquer Polyglot Peaks: Navigating Difficult Language Terrain</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/corsair-k70-full-driver-setup-and-download-instructions-online-now/"><u>Corsair K70 Full Driver Setup and Download Instructions Online Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-downloads-and-installation-guide-for-hp-officejet-pro-8715-driver-compatible-with-all-recent-versions-of-windows/"><u>Easy Downloads & Installation Guide for HP OfficeJet Pro 8715 Driver - Compatible with All Recent Versions of Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-driver-downloads-for-your-m-audio-fast-track-perfect-for-windows-107881/"><u>Easy Driver Downloads for Your M-Audio Fast Track - Perfect for Windows 10/7/8/8.1</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/guia-completa-de-esquema-de-respaldo-y-recuperacion-con-aomei-backupper/"><u>Guía Completa De Esquema De Respaldo Y Recuperación Con AOMEI Backupper</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722978018994-how-to-successfully-install-the-canon-pro-100-drivers-for-windows-no-hassle/"><u>How to Successfully Install the Canon PRO 100 Drivers for Windows - No Hassle</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-photosmart-7520-software-download-installation-and-support/"><u>HP Photosmart 7520 Software Download: Installation and Support</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/improving-creep-resistance-can-involve-altering-alloy-compositions-heat-treatments-and-controlling-microstructural-features-like-grain-size/"><u>Improving Creep Resistance Can Involve Altering Alloy Compositions, Heat Treatments, and Controlling Microstructural Features Like Grain Size.</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-errors-a-guide-to-repairing-internet-explorer-has-stopped-working/"><u>Resolving Errors: A Guide to Repairing 'Internet Explorer Has Stopped Working'</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/secure-and-accurate-download-of-amd-vega-56-drivers-troubleshooting-guide/"><u>Secure & Accurate Download of AMD Vega 56 Drivers - Troubleshooting Guide</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209879326-9781999143121-the-end-of-the-second-epoch/"><u>THE END OF THE SECOND EPOCH | Free Book</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-a-beginners-guide-to-professional-gif-creation/"><u>[Updated] A Beginner's Guide to Professional GIF Creation</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-decoding-youtube-premium-complete-information-inside/"><u>2024 Approved Decoding YouTube Premium Complete Information Inside</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-optimal-devices-for-photogrammetric-movies/"><u>2024 Approved Optimal Devices for Photogrammetric Movies</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/a-glimpse-into-photography-the-powershot-sx740-hs-camera/"><u>A Glimpse Into Photography - The PowerShot SX740 HS Camera</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-guide-downloading-and-updating-dell-latitude-e6430-drivers-on-windows-solution/"><u>Complete Guide: Downloading & Updating Dell Latitude E6430 Drivers on Windows - SOLUTION</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revitalize-your-video-chats-a-tutorial-to-refresh-webcam-drivers-in-windows-11/"><u>Revitalize Your Video Chats: A Tutorial to Refresh Webcam Drivers in WINDOWS 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/steelseries-keyboard-software-download-install-steelseries-engine-driver/"><u>SteelSeries Keyboard Software Download - Install SteelSeries Engine Driver</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tackling-inaccessible-monitor-configurations-in-nvidia/"><u>Tackling Inaccessible Monitor Configurations in Nvidia</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-ultimate-guide-to-removing-a-facebook-community/"><u>The Ultimate Guide to Removing a Facebook Community</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-lenovo-thinkpad-100s-drivers-with-simplicity-in-mind/"><u>Update Your Lenovo Thinkpad 100S Drivers with Simplicity in Mind</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unlocking Versatility and Portability with a Surprisingly Competent 8-in-1 Charger - Exclusive Review by ZDNET
-date: 2024-12-13T16:35:32.573Z
-updated: 2024-12-17T16:19:40.854Z
+date: 2024-12-22T07:20:42.965Z
+updated: 2024-12-25T18:06:10.103Z
 tags:
   - laptops
 categories:
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/5b0ce9c020094ad31bdc87530c31e032109184ed9
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## ZDNET's buying advice
 
@@ -72,7 +68,7 @@ The ability to run two external monitors with the lid closed is one of the M3 Ma
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How I tested the M3 MacBook Air
@@ -82,7 +78,7 @@ In terms of qualitative testing, I wrote this article on the M3 MacBook Air and 
 For quantitive testing, I followed the same routine I used in my [review of the MacBook Pro with M3 Max](https://www.zdnet.com/article/macbook-pro-m3-max-review/). I used Cinebench to benchmark the M3 MacBook Air against other popular Macs I've tested over the past couple years. I also used Adobe Lightroom's AI-powered "Denoise" feature as a real-world test because it's a feature I use constantly when processing product photos and so any time savings there can result in tangible productivity gains. As you can see in the charts below, the M3 MacBook Air performed very well in the Cinebench benchmarks, compared to it M2 predecessor. But, it only scored marginally better than the M2 model in my real-world Lightroom test. I'd like to do more tests with other AI workflows and update this review over time, especially after WWDC 2024.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### AI test: Adobe Lightroom Denoise (lower is better)
@@ -114,7 +110,7 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Cinebench CPU/GPU benchmark (higher is better)
@@ -159,6 +155,10 @@ Jason Hiner/ZDNET
 
 **Neural engine to power through AI tasks:** According to Apple's internal tests, the neural engine in the M3 MacBook Air offers a 60% improvement in performance over the previous generation M2 MacBook Air. As you can see in my real-world AI test above using the Denoise feature in Adobe Lightroom, I didn't see that kind of lift. Nevertheless, it's possible the Adobe software isn't optimized for M3 yet. And the overall benchmark improvements provide encouragement that this machine could be ready for more. A big test will be when Apple releases its own generative AI features later this year. It feels like this product is anticipating that, and could already be optimized for it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What I'd like to see in the next model
 
 **A USB-C port on the right side:** With the M3 MacBook Air becoming more and more of a pro-capable laptop, the biggest thing that it needs is more expansion ports. The two USB-C 4 / Thunderbolt 3 ports limit the amount of pro-level things you can do with the machine without using cumbersome expansion docks and hubs. The fact that both of the USB-C ports are on the left side can also be awkward and inconvenient at times. Apple could solve both problems by simply adding one more USB-C port to the right side of the M3 MacBook Air. 
@@ -186,7 +186,7 @@ Up close with the M3 MacBook Air 15-inch in Midnight.
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -235,20 +235,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-help.techidaily.com/asus-touchpad-compatibility-fast-download-and-installation-for-windows-10-devices/"><u>ASUS Touchpad Compatibility: Fast Download and Installation for Windows 10 Devices</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/brother-l2740dw-driver-update-for-windows-operating-systems-get-started-now/"><u>Brother L2740DW Driver Update for Windows Operating Systems - Get Started Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-installation-guide-for-hp-deskjet-3700-printer-drivers/"><u>Download and Installation Guide for HP DeskJet 3700 Printer Drivers</u></a></li>
-<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-honor-magic-vs-2-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Honor Magic Vs 2 Phone? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-to-install-iphone-drivers-for-windows-10-systems/"><u>Easy-to-Install iPhone Drivers for Windows 10 Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-download-of-xbox-controller-wireless-adapter-drivers/"><u>Effortless Download of Xbox Controller Wireless Adapter Drivers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/emojify-your-texts-learn-how-to-send-emoticons-on-ios-devices/"><u>Emojify Your Texts: Learn How to Send Emoticons on iOS Devices</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-request-a-refund-for-digital-xbox-series-xs-purchases/"><u>How to Request a Refund for Digital Xbox Series X|S Purchases</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6-plus-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6 Plus to others devices? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-how-much-does-youtube-pay-for-1-million-views/"><u>In 2024, How Much Does YouTube Pay for 1 Million Views</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-google-pixel-fold-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Google Pixel Fold</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-downloading-and-updating-your-step-by-step-guide-to-the-newest-amd-smbus-driver/"><u>Quick Downloading & Updating: Your Step-by-Step Guide to the Newest AMD SMBus Driver</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-package-could-not-be-registered-errors-in-windows-photos/"><u>Tackling 'Package Could Not Be Registered' Errors in Windows Photos</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722965824999-the-seat-of-arbitration-determines-the-procedural-law-that-governs-the-arbitration-process-and-can-affect-the-degree-of-court-intervention/"><u>The Seat of Arbitration Determines the Procedural Law that Governs the Arbitration Process and Can Affect the Degree of Court Intervention.</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/instant-download-asus-rog-strix-z370-f-gaming-motherboard-drivers/"><u>[INSTANT DOWNLOAD] ASUS ROG Strix Z370-F Gaming Motherboard Drivers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-20-youtube-channels-for-all-time-favorite-bands/"><u>[New] 2024 Approved 20 YouTube Channels for All-Time Favorite Bands</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ssential-steps-for-seamless-youtube-video-loops/"><u>[New] Essential Steps for Seamless YouTube Video Loops</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-accelerating-video-conversion-youtube-to-mpeg-edition/"><u>[Updated] Accelerating Video Conversion YouTube to MPEG Edition</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-mastering-media-craft-debate-between-filmora-and-democracy-creator/"><u>2024 Approved Mastering Media Craft Debate Between Filmora & Democracy Creator</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-the-nuances-of-simplified-live-streaming/"><u>2024 Approved Navigating the Nuances of Simplified Live Streaming</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-poco-x5-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Poco X5 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-advice-on-getting-your-samsung-blu-ray-player-back-online/"><u>Expert Advice on Getting Your Samsung Blu Ray Player Back Online</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/liquid-nitrogen-unleashed-amds-flagship-ryzen-9-9950x-shatters-records-hits-67ghz/"><u>Liquid Nitrogen Unleashed: AMD’s Flagship Ryzen 9 9950X Shatters Records, Hits 6.7GHz!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/resolving-dts-audio-not-available-issue-on-your-selected-sound-hardware/"><u>Resolving 'DTS Audio Not Available' Issue on Your Selected Sound Hardware</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionizing-operatic-browsing-the-bold-journey-of-opera-one-and-its-notable-exceptions-insights-from-zdnet/"><u>Revolutionizing Operatic Browsing: The Bold Journey of Opera One and Its Notable Exceptions - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-flawless-arduino-nano-driver-installation-for-windows-users/"><u>Step-by-Step Tutorial: Flawless Arduino Nano Driver Installation for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/successfully-update-your-epson-printers-drivers-in-windows-11-a-comprehensive-guide/"><u>Successfully Update Your Epson Printer's Drivers in Windows 11 – A Comprehensive Guide</u></a></li>
 </ul></div>
 

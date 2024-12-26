@@ -1,7 +1,7 @@
 ---
 title: "Love at First Touch: Review of the Ultra-Slim LG Gram Pro 17 & Availability During October Prime Day Deals - ZDNet"
-date: 2024-12-11T16:02:59.591Z
-updated: 2024-12-17T16:28:33.708Z
+date: 2024-12-22T21:51:08.284Z
+updated: 2024-12-26T05:38:54.928Z
 tags:
   - laptops
 categories:
@@ -23,10 +23,6 @@ We've gone hands-on with dozens of laptops this year, and scoured the internet f
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The best laptop deals for Amazon Prime Day 2024
 
@@ -80,7 +76,7 @@ Equipped with an Nvidia GeForce RTX 4080 GPU and a dual mode mini LED display, t
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C3P346B4%2Fref%3Dasc%5Fdf%5FB0C3P346B41727866800000%3Fcreative%3D395261%26creativeASIN%3DB0C3P346B4%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Prime Day Chromebook deals
@@ -114,6 +110,10 @@ Lenovo/ZDNET
 * [Lenovo Legion 5i for $1,339 (save $160)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Display-GeForce-2560x1600-Battery%2Fdp%2FB0CVLFS7WP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): This 16-inch laptop from Lenovo's gaming PC line features an Intel i7 processor, 32GB of RAM, and a solid selection of ports for all your gaming accessories for just $1,500.
 * [Lenovo ThinkBook 15 for $525 (save $74)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkBook-15-Business-i7-1165G7%2Fdp%2FB0D1CQPWPG%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): This laptop is a powerhouse for your back-to-school or business needs. Its 8-core AMD Ryzen 7 processor pairs with 16GB of RAM, so any major spec-heavy tasks will perform smoothly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best Buy laptop deals during Prime Day
 
 Kyle Kucharski/ZDNET
@@ -131,10 +131,6 @@ Kyle Kucharski/ZDNET
 * [Microsoft Surface Pro 9 for $2,049 (save $651)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Tablet-High-Performance-Pre-Installed%2Fdp%2FB0C5MW8R35%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): It doesn't get more ultraportable than Microsoft's Surface Pro series of laptops, and the 13-inch Surface Pro 9 tablet is currently 20% off the regular price for just $2,149\. For that price, you're getting a powerful Intel Core i7 processor, a 1TB SSD, and more than 15 hours of battery life.
 * [Asus VivoBook 16 for $479 (save $120)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-VivoBook-Laptop-WUXGA-1920%2Fdp%2FB0BT6NKLQR%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): One of the most versatile and well-rounded laptops on the market is also one of the most affordable. The Vivobook 16 is designed to handle a variety of use cases with ease, and for just $479 you can't go wrong with its 1TB of storage, Windows 11, and solid selection of ports.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs
 
 ### When is Amazon Prime Day 2024?
@@ -142,20 +138,20 @@ Kyle Kucharski/ZDNET
 Amazon Prime Day officially ran from July 16 to July 17, but sometimes deals continue afterward.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the best gaming laptop deal on Prime Day?
 
 There are a lot of great gaming laptops on sale right now, but in our opinion, [this deal on the Razer Blade 16](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRazer-Blade-Gaming-Laptop-4090-13th%2Fdp%2FB0BQP1WCP4%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1) is the best. We're talking $1,000 off one of the most high-end gaming laptops on the market, with hardware that is future-proofed to be relevant for years to come. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Is Amazon Prime Day a good time to buy a laptop?
 
 Even though Amazon isn't typically the first place you think of when you're shopping for a new laptop, there are some great deals that pop up if you're willing to look. We've thoroughly combed through the deals to find some diamonds in the rough, and listed the best ones here.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How did we choose these Prime Day deals?
 
@@ -166,6 +162,10 @@ We also looked over customer reviews to find out what matters to real people who
 ### When will these deals expire?
 
 Prime Day 2024 has ended, so deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on a deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What are the best Prime Day 2024 deals still available?
 
@@ -230,16 +230,24 @@ And the best deals still available from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-diy-youtube-intros-and-ends-without-breaking-the-bank/"><u>[New] In 2024, DIY YouTube Intros & Ends Without Breaking the Bank</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-infographic-led-exploration-of-future-social-trends/"><u>[Updated] Infographic-Led Exploration of Future Social Trends</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-latest-asus-alc-high-definition-codec-drivers-at-no-cost/"><u>Download the Latest ASUS ALC High Definition Codec Drivers at No Cost</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ensure-smooth-performance-with-the-newest-amd-radeon-r5-drivers-on-various-windows-versions/"><u>Ensure Smooth Performance with the Newest AMD Radeon R5 Drivers on Various Windows Versions</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-review-of-asuss-cutting-edge-wireless-networking-solution-the-ax6000-rt-ax88u/"><u>Expert Review of Asus's Cutting-Edge Wireless Networking Solution: The AX6000 (RT-AX88U)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-older-os-to-windows-11-the-evolution-process-for-2024/"><u>From Older OS to Windows 11 The Evolution Process for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Tecno Spark 10C | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/installing-the-official-drivers-for-gigabytes-wb867d-motherboard/"><u>Installing the Official Drivers for Gigabyte's WB867D Motherboard</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-realme-11-pro-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Realme 11 Pro? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/netgear-wi-fi-router-driver-installation-and-update-guide-and-resources/"><u>NETGEAR Wi-Fi Router Driver Installation & Update Guide and Resources</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/scarlett-solo-driver-free-download-and-installation-guide-windows/"><u>Scarlett Solo Driver Free Download & Installation Guide (Windows)</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-audiovisual-alchemy-formulating-your-youtube-playlist/"><u>[Updated] Audiovisual Alchemy Formulating Your YouTube Playlist</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-hdr-mastery-the-complete-sdr-to-hdr-transformation/"><u>[Updated] In 2024, HDR Mastery The Complete SDR-to-HDR Transformation</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/benchmark-dev-reveals-strong-performance-of-snapdragon-x-cpu-captures-65-of-past-months-geekbench-n-data/"><u>Benchmark Dev Reveals Strong Performance of Snapdragon X CPU, Captures 6.5% of Past Month's Geekbench N Data</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-hp-officejet-5740-printer-drivers-compatible-with-windows-11-10-and-8/"><u>Download HP OfficeJet 5740 Printer Drivers: Compatible with Windows 11, 10 & 8</u></a></li>
+<li><a href="https://win-forum.techidaily.com/easily-undo-recent-windows-11-changes-with-this-simple-method/"><u>Easily Undo Recent Windows 11 Changes with This Simple Method</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/entry-level-powerhouse-unveiling-the-asus-rog-nuc-with-amd-ryzen-cpu-and-rtx-4060-gpu-for-1629/"><u>Entry-Level Powerhouse: Unveiling the Asus ROG NUC with AMD Ryzen CPU and RTX 4060 GPU for $1,629</u></a></li>
+<li><a href="https://games-able.techidaily.com/extending-your-xbox-controllers-energy-lifespan/"><u>Extending Your Xbox Controller's Energy Lifespan</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/face-enhancement-integrating-motion-blur-in-photos-for-2024/"><u>Face Enhancement Integrating Motion Blur in Photos for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-correctly-resolve-the-acpi-conforming-power-management-drivers-issue-in-microsoft-devices/"><u>How to Correctly Resolve the ACPI-Conforming Power Management Drivers Issue in Microsoft Devices</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-iphone-13-without-apple-id-by-drfone-ios/"><u>How to Erase an iPhone 13 without Apple ID?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-install-new-tp-link-80211ac-wireless-adapter-driver-on-windows/"><u>How to Install New TP-Link 802.11Ac Wireless Adapter Driver on Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-11-ios-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone 11 iOS? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-iphone-12-pro-max-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 12 Pro Max After Forgetting the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-oppo-reno-10-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Oppo Reno 10 5G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mainstream-cpu-catastrophe-intels-overlooked-instability-wreaks-havoc-on-high-performance-non-k-models/"><u>Mainstream CPU Catastrophe: Intel's Overlooked Instability Wreaks Havoc on High-Performance 'Non-K' Models</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-technology-trends-articles-and-reviews-by-toms-hardware-team/"><u>Navigating Technology Trends: Articles and Reviews by Tom's Hardware Team</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/prime-time-top-10-methods-for-flawless-cricket-broadcasts/"><u>Prime Time Top 10 Methods for Flawless Cricket Broadcasts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/testing-exposes-persistent-stability-issues-on-intels-latest-notebook-cpus-a-growing-trend-of-technical-setbacks-emerges/"><u>Testing Exposes Persistent Stability Issues on Intel's Latest Notebook CPUs: A Growing Trend of Technical Setbacks Emerges</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/zen-5-revolution-amds-newest-ryzen-9-9950x-cpu-records-a-stunning-24-victory-over-the-previous-gen-7950x-in-benchmark-trials/"><u>Zen 5 Revolution: AMD's Newest Ryzen 9 9950X CPU Records a Stunning 24% Victory over the Previous Gen 7950X in Benchmark Trials</u></a></li>
 </ul></div>
 

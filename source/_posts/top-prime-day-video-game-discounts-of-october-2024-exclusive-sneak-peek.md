@@ -1,7 +1,7 @@
 ---
 title: Top Prime Day Video Game Discounts of October 2024 - Exclusive Sneak Peek
-date: 2024-12-14T16:25:19.388Z
-updated: 2024-12-17T16:38:48.554Z
+date: 2024-12-24T21:28:21.714Z
+updated: 2024-12-26T02:51:48.282Z
 tags:
   - laptops
 categories:
@@ -23,10 +23,6 @@ Brands like HP, [Samsung](https://www.zdnet.com/article/best-early-prime-day-sam
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Our favorite early Amazon October Prime Day gaming deals
 
@@ -141,7 +137,7 @@ ZDNET
 * [Join Xbox Game Pass Ultimate for $1 (then $19.99 per month)](https://www.xbox.com/en-US/xbox-game-pass#join): Get access to hundreds of PC and Xbox Series X|S games for cloud gaming support, monthly free games, and exclusive discounts.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day Nintendo deals
@@ -169,6 +165,10 @@ Nintendo/ZDNET
 * [Lego Star Wars: The Skywalker Saga for $25 (save $26 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLEGO-Star-Wars-The-Skywalker-Saga-Nintendo-Switch%2F182278850%3FclassType%3DVARIANT&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Play as iconic characters like Luke Skywalker, Qui-Gon Jin, and Darth Vader through the stories of both the original and prequel Star Wars trilogies.
 * [Nintendo Switch Joy-Con in neon purple and neon orange for $55 (save $25 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FNintendo-Switch-Joy-Con-Pair-Neon-Purple-and-Neon-Orange%2F921709016%3FclassType%3DVARIANT%26athbdg%3DL1600&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Grab an extra Joy-Con controller for your Nintendo Switch to keep gaming while your other controller charges.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## October Prime Day gaming PC deals
 
 Kyle Kucharski/ZDNET
@@ -183,10 +183,6 @@ Kyle Kucharski/ZDNET
 * [HP Omen 45L for $2,200 (save $800 at HP)](https://www.dpbolvw.net/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fomen-by-hp-45l-gaming-desktop-gt22-2085t-pc&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end gaming PC built with a 14th generation Intel Core i7 CPU, GeForce RTX 4080 Super GPU, 16GB of RAM, and a 1TB SSD.
 * [HP Victus 15L desktop for $480 (save $370 at HP)](https://www.dpbolvw.net/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fvictus-by-hp-15l-gaming-desktop-tg02-0325m-59a32av-1&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An entry-level gaming desktop built with an AMD Ryzen 5 5600G processor, AMD Radeon RX 6400 GPU, 8GB of RAM, and a 256GB SSD.
 * [Alienware Aurora R16 for $3,700 (save $1,000 at Dell)](https://www.dpbolvw.net/click-9041660-15734614?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdesktop-computers%2Falienware-aurora-r16-gaming-desktop%2Fspd%2Falienware-aurora-r16-desktop%2Fuseapctor16icc2&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Alienware's flagship gaming desktop is built with a 14th gen Intel Core i9 CPU, Nvidia GeForce RTX 4090 graphics card, 64GB of RAM, and 4TB of storage.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## October Prime Day gaming laptop deals
 
@@ -210,6 +206,10 @@ Samsung/ZDNET
 * [AOC AG27 27-inch monitor for $600 (save $450 at B&H Photo, deal ends Oct 5)](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1741859-REG%2Faoc%5Fag274qzm%5F27%5F16%5F9%5Fqhd.html): This 27-inch IPS monitor has 1440p resolution, a 240Hz refresh rate, a 1ms response time, and Nvidia G-Sync VRR support.
 * [Acer Predator X27U for $680 (save $320 at B&H Photo)](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1772478-REG%2Facer%5Fum%5Fhxxaa%5F001%5Fpredator%5Fx27u%5F27%5Fgaming.html%2Fspecs): A 27-inch gaming monitor with a 240Hz refresh rate, 1440p resolution, a 0.03ms response time, and support for AMD FreeSync Premium Pro VRR.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## October Prime Day PC gaming accessories deals
 
 * [SanDisk Extreme Pro 4TB portable SSD for $340 (save $138 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsandisk-extreme-pro-portable-4tb-external-usb-c-nvme-ssd-black%2F6522095.p%3FskuId%3D6522095&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An ultra-tough portable SSD compatible with Windows and Mac computers and backed by a 5-year warranty.
@@ -224,13 +224,13 @@ Samsung/ZDNET
 * [Asus TUF Nvidia GeForce RTX 3080 Ti for $925 (save $472 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FTUF-NVIDIA-GeForce-RTX-3080-TI-Graphic-Card-12-GB-GDDR6-384-bit-Bus-Width-PCI-Express-4-0-DisplayPort-HDMI%2F994157887%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) Nvidia's high-end 30 Series graphics card offers 12GB of VRAM, military-grade capacitors for better power efficiency, and support for up to 4 displays.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### When is Amazon Prime Day 2024?
@@ -275,22 +275,18 @@ I only chose deals on games that have been critically and commercially well-rece
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-elevate-your-gaming-experience-on-youtube/"><u>[New] 2024 Approved Elevate Your Gaming Experience on YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-free-to-fortune-unlocking-youtubes-earnings-at-the-500-subscriber-level/"><u>[New] In 2024, From Free to Fortune Unlocking YouTube's Earnings at the 500 Subscriber Level</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-deciphering-adsense-profits-on-youtube-revenue-per-kv-watched/"><u>[Updated] 2024 Approved Deciphering AdSense Profits on YouTube Revenue per KV Watched</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-ultimate-guide-to-choosing-a-top-tier-gif-maker-for-2024/"><u>[Updated] Ultimate Guide to Choosing a Top-Tier GIF Maker for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-a-new-dawn-in-gaming-stardew-valleys-best-mods-7/"><u>2024 Approved A New Dawn in Gaming - Stardew Valley's Best Mods (#7)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-asus-z370-e-motherboard-drivers-in-minutes/"><u>Download & Install ASUS Z370-E Motherboard Drivers in Minutes</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-focusrite-scarlett-solo-18i20-windows-sound-card-driver-download/"><u>Free Focusrite Scarlett Solo 18I20 Windows Sound Card Driver Download</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-installation-of-logitech-webcams-driver-downloads-for-windows-users/"><u>Free Installation of Logitech Webcams: Driver Downloads for Windows Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-version-of-steelseries-engine-on-windows-11-free-downloads-available/"><u>Get the Latest Version of SteelSeries Engine on Windows 11 – Free Downloads Available!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722960486115-guide-to-freshly-upgrading-your-sata-driver-on-a-windows-machine-quick-steps-inside/"><u>Guide to Freshly Upgrading Your SATA Driver on a Windows Machine - Quick Steps Inside</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-correct-the-arduino-uno-hardware-drivers-in-windows-operating-system/"><u>How to Correct the Arduino Uno Hardware Drivers in Windows Operating System</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-creating-compelling-content-with-powerful-youtube-titles/"><u>In 2024, Creating Compelling Content with Powerful YouTube Titles</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Realme 11 Pro? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-realme-12plus-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Realme 12+ 5G Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-tp-link-wifi-router-drivers-compatible-with-windows-11-8-and-7/"><u>Latest TP-Link WiFi Router Drivers: Compatible with Windows 11, 8 & 7</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/telegram-upload-guide-sending-videos-over-2gb/"><u>Telegram Upload Guide: Sending Videos Over 2GB</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-to-new-steelseries-drivers-and-optimize-windows-gaming-performance/"><u>Update to New SteelSeries Drivers & Optimize Windows Gaming Performance</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-essential-know-how-record-ipad-display/"><u>[Updated] Essential Know-How Record iPad Display</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-who-holds-sway-over-youtube-subscribers/"><u>[Updated] Who Holds Sway Over YouTube Subscribers?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-strategies-for-effortless-audio-merging-in-adobe-premiere/"><u>2024 Approved Strategies for Effortless Audio Merging in Adobe Premiere</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-creative-cam-driver-suite-for-windows-pcs/"><u>Download and Update Creative Cam-Driver Suite for Windows PCs</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-solutions-for-launching-dead-space-remake-on-your-pc-latest-fixes/"><u>Effective Solutions for Launching Dead Space Remake on Your PC (Latest Fixes)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortlessly-update-your-windows-system-with-bcm20n02a0-driver-software/"><u>Effortlessly Update Your Windows System with BCM20n02A0 Driver Software</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-hp-document-scanner-software-for-windows-pcs/"><u>Install HP Document Scanner Software for Windows PCs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-logitech-driver-downloads-for-gaming-wheels-on-windows-7-to-10-os/"><u>Latest Logitech Driver Downloads for Gaming Wheels on Windows 7 to 10 OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-nvidia-rtx-3060-ti-graphics-card-drivers-compatible-with-windows-10-and-11/"><u>Latest NVIDIA RTX 3060 Ti Graphics Card Drivers - Compatible with Windows 10 & 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-siri-chatgpt-integration-on-iphones/"><u>Mastering Siri-ChatGPT Integration on iPhones</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/single-core-showdown-intel-core-i7-114700k-outperforms-core-ultra-7-265kf-by-7-arrow-lake-benchmarks-revealed/"><u>Single-Core Showdown: Intel Core I7-1ˈ14700K Outperforms Core Ultra 7 265KF by 7% - Arrow Lake Benchmarks Revealed!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/top-techniques-for-webcam-integration-in-game-recording/"><u>Top Techniques for WebCam Integration in Game Recording</u></a></li>
+<li><a href="https://fox-links.techidaily.com/z2-masterclass-smartphone-smarter-than-ever-in-2024/"><u>Z2 Masterclass Smartphone Smarter Than Ever, In 2024</u></a></li>
 </ul></div>
 

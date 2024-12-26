@@ -1,7 +1,7 @@
 ---
 title: "Secure Your Digital Files: Snag the High-Capacity 4TB Samsung T5 SSD for Just 50%% Less at Amazon | Tech News From ZDNET"
-date: 2024-12-10T16:29:06.918Z
-updated: 2024-12-17T16:09:15.024Z
+date: 2024-12-18T23:49:54.018Z
+updated: 2024-12-25T18:15:12.361Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the deal?
@@ -31,7 +31,7 @@ Save $450 on a [Samsung Galaxy Book 4 Edge](https://shop-links.co/link/?url=http
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -119,7 +119,7 @@ Lastly, the battery on the Edge is indeed impressive. [I recently tested HP's Om
 During the standard ZDNET benchmark testing of running a 4K YouTube livestream streamed over Wi-Fi at 50% brightness, I got over 13 hours of playback, way more than what is considered "good" for a laptop, and more than enough for a few days worth of standard work. Even better, while this laptop is idle, its battery life decay drops to a trickle.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -129,7 +129,7 @@ The [Samsung Galaxy Book 4 Edge](https://shop-links.co/link/?url=https%3A%2F%2Fw
 If neither of these apply to you, the Galaxy Book 4 Edge is still a phenomenal choice for its sheer star power and impressive performance alone. However, if you're on the fence about the price but still want a Copilot+ PC, you might consider the [Microsoft Surface Pro](https://www.zdnet.com/article/i-went-hands-on-with-microsofts-surface-pro-and-laptop-and-im-ready-to-ditch-my-macbook/) or the [Asus Vivobook S15](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/) \-- both are Snapdragon laptops with OLED displays available for quite a bit less.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -166,22 +166,17 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-easily-stream-facebook-live-chats-with-roku-for-2024/"><u>[New] Easily Stream Facebook Live Chats with Roku for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-leading-mp4-to-facebook-mover/"><u>[New] Leading MP4 to Facebook Mover</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-allure-of-benq-sw320-4k-pro-display/"><u>[Updated] The Allure of BenQ SW320 4K Pro Display</u></a></li>
-<li><a href="https://change-location.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Samsung Galaxy S23+ | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-download-of-updated-drivers-for-your-tp-link-ub400-wireless-adapter/"><u>Easy Download of Updated Drivers for Your TP-Link UB400 Wireless Adapter</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-canon-driver-installation-and-updates-on-windows-step-by-step-guide/"><u>Effortless Canon Driver Installation and Updates on Windows - Step by Step Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/guide-to-obtain-your-canon-mg3620s-official-drivers-safely/"><u>Guide to Obtain Your Canon MG3620's Official Drivers Safely</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Apple iPhone 13 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-poco-x6-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Poco X6 | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-top-tier-televisions-best-4k-edition/"><u>In 2024, Top-Tier Televisions – Best 4K Edition</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/inside-the-power-dynamics-benchmarking-ryzen-9-9950x-amds-latest-engineering-sample-with-zen-5-technology/"><u>Inside the Power Dynamics: Benchmarking Ryzen 9 9950X, AMD's Latest Engineering Sample with Zen 5 Technology</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mpg-bm-top-quality-msi-audio-driver-packs-for-windows-systems-free/"><u>MPG-BM: Top-Quality MSI Audio Driver Packs for Windows Systems (Free)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/pioneering-gadget-reviews-by-tom-your-guide-to-quality-electronics/"><u>Pioneering Gadget Reviews by Tom - Your Guide to Quality Electronics</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-fix-for-realtek-universal-graphics-drivers-problems-solved/"><u>Step-by-Step Fix for Realtek Universal Graphics Drivers - Problems Solved!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-10-solutions-overcoming-iphone-calling-issues/"><u>Top 10 Solutions: Overcoming iPhone Calling Issues</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshoot-and-solve-microsoft-edge-freezing-problems-in-windows-nt/"><u>Troubleshoot and Solve Microsoft Edge Freezing Problems in Windows nT</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/windows-11-compatible-logitech-hd-webcam-c920-driver-download/"><u>Windows 11 Compatible Logitech HD Webcam C920 Driver Download</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-vdsn-vidscreen-record-review-thorough-analysis/"><u>[Updated] 2024 Approved VDSN VidScreen Record Review Thorough Analysis</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-nokia-g22-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amperes-breakthrough-in-computing-the-new-512-core-ampereone-aurora-processor-ultimate-customization-for-intelligent-performance/"><u>Ampere's Breakthrough in Computing: The New 512-Core AmpereOne Aurora Processor - Ultimate Customization for Intelligent Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-newest-drivers-for-your-epson-wf-erlinqv2-compatible-with-windows-1087-systems/"><u>Download the Newest Drivers for Your Epson WF-Erlinq_v2 - Compatible with Windows 10/8/7 Systems</u></a></li>
+<li><a href="https://win-forum.techidaily.com/engage-on-major-networks-explore-facebook-twitter-instagram-and-youtube-benefits/"><u>Engage on Major Networks: Explore Facebook, Twitter, Instagram & Youtube Benefits</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-realme-note-50-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Realme Note 50 Phone? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-performance-enhancing-drivers-for-msi-x47-x470-gaming-plus-available-for-download/"><u>Latest Performance-Enhancing Drivers for MSI X47지르셔스 X470 Gaming Plus Available for Download</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-the-best-virtual-academies-10-choices-for-remote-learning-success/"><u>Navigating the Best Virtual Academies: 10 Choices for Remote Learning Success</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/sarah-silverman-leads-the-charge-renowned-artists-sue-for-ethical-use-of-ai-by-big-corporations/"><u>Sarah Silverman Leads the Charge: Renowned Artists Sue for Ethical Use of AI by Big Corporations</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/stepwise-guide-to-documenting-team-sessions-desktopmobile/"><u>Stepwise Guide to Documenting Team Sessions (Desktop/Mobile)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-resolving-issues-with-your-logitech-wireless-joystick-f710-for-windows-users/"><u>Ultimate Guide: Resolving Issues with Your Logitech Wireless Joystick (F710) for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/usb-30-driver-software-get-latest-version-for-windows-10-free/"><u>USB 3.0 Driver Software: Get Latest Version for Windows 10 Free</u></a></li>
 </ul></div>
 

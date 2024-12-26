@@ -1,7 +1,7 @@
 ---
 title: "Score Big Deals with Lenovo Half-Year Offer: Cut Costs by $1,500 on Your ThinkPad Selection – Insights From ZDNet"
-date: 2024-12-11T16:26:06.272Z
-updated: 2024-12-17T16:11:43.272Z
+date: 2024-12-19T23:14:18.853Z
+updated: 2024-12-26T00:46:38.708Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -73,7 +73,7 @@ My review unit came with the Intel Core Ultra 7 155H processor, which allowed th
 These problems extended to the battery, too. I performed my usual battery test of playing a 720p YouTube video non-stop at 50 percent brightness to see how long it lasts. I do this to simulate an average day of work. On battery saver, the ThinkPad X1 Carbon lasted around five hours before dying. That's not very long. With the quirky performance in mind, all this leads me to believe that the ThinkPad's hardware isn't well optimized.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -112,22 +112,22 @@ There are a few different configurations you can choose for this machine, bringi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-crafting-impressive-instagram-story-bokeh-art-for-2024/"><u>[New] Crafting Impressive Instagram Story Bokeh Art for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/outubes-best-gamers-audio-selection-guide/"><u>[New] YouTube's Best Gamers' Audio Selection Guide</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-pioneering-photography-with-quantum-hdr-tech/"><u>[Updated] 2024 Approved Pioneering Photography with Quantum HDR Tech</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-premier-ringtone-makers-for-iphone-users-for-2024/"><u>[Updated] Premier Ringtone Makers for iPhone Users for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-top-10-luxury-car-accessories-for-the-modern-sj4000-driver/"><u>[Updated] Top 10 Luxury Car Accessories for the Modern SJ4000 Driver</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-secrets-of-adobe-cloud-and-alternative-storage-solutions/"><u>[Updated] Unveiling the Secrets of Adobe Cloud & Alternative Storage Solutions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fluidity-in-filming-a-deep-dive-into-inshots-transition-features/"><u>2024 Approved Fluidity in Filming A Deep Dive Into Inshot's Transition Features</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/astro-a50-audio-problems-solved-repairing-mic-functionality/"><u>Astro A50 Audio Problems Solved: Repairing Mic Functionality</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722977312783-fast-downloads-of-ft232r-usb-to-uart-drivers-get-them-now/"><u>Fast Downloads of FT232R USB to UART Drivers - Get Them Now!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/fixing-logitech-c615-drivers-a-simple-step-by-step-guide/"><u>Fixing Logitech C615 Drivers: A Simple Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-and-set-up-the-newest-aoc-monitor-drivers-for-windows-operating-systems-including-windows-11-10-and-n/"><u>Get and Set Up the Newest AOC Monitor Drivers for Windows Operating Systems Including Windows 11, 10 & N</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-streamlined-approach-to-role-assignments-on-discord-servers/"><u>In 2024, Streamlined Approach to Role Assignments on Discord Servers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-version-of-magicard-rio-pro-driver-available-free-download-for-win-10-81-and-7-systems/"><u>Latest Version of Magicard Rio Pro Driver Available: Free Download for Win 10, 8.1 & 7 Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-alps-pointing-device-drivers-for-enhanced-user-experience/"><u>Mastering Alps Pointing Device Drivers for Enhanced User Experience</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/smooth-driver-update-for-asus-displays-quick-and-hassle-free/"><u>Smooth Driver Update for ASUS Displays – Quick and Hassle-Free</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-successfully-downloading-your-dell-mouses-software/"><u>Step-by-Step Guide: Successfully Downloading Your Dell Mouse's Software</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-definitive-guide-to-getting-your-arduino-nano-board-up-and-running-on-a-windows-machine-with-perfect-driver-setup/"><u>The Definitive Guide to Getting Your Arduino Nano Board up and Running on a Windows Machine with Perfect Driver Setup</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-the-ultimate-step-by-step-guide-for-adding-and-curating-dynamic-graphics-gifs-in-your-discord-chats/"><u>[New] The Ultimate Step-by-Step Guide for Adding and Curating Dynamic Graphics (GIFs) in Your Discord Chats</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-youtube-masterclass-choose-your-development-stage-for-2024/"><u>[Updated] YouTube Masterclass Choose Your Development Stage for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/cracking-the-code-starting-call-of-dutys-modern-warfare-2-successfully-uncovered/"><u>Cracking the Code: Starting Call of Duty's Modern Warfare 2 Successfully Uncovered</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-upgrade-ultimate-guide-to-ch340ge-usb-chip-drivers-for-windows-10/"><u>Download & Upgrade: Ultimate Guide to CH340g/E USB Chip Drivers for Windows 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-the-most-recent-toshibab-copier-drivers-for-windows-users/"><u>Download and Install the Most Recent Toshibab Copier Drivers for Windows Users</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722978636571-download-your-nvidia-geforce-940mx-drivers-today/"><u>Download Your NVIDIA GeForce 940MX Drivers Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722966826260-easy-installation-of-updated-nahimic-sound-drivers-fast-results/"><u>Easy Installation of Updated Nahimic Sound Drivers - Fast Results!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-your-access-to-the-2024-finals-expert-advice-and-strategies/"><u>Fixing Your Access to the 2024 Finals: Expert Advice & Strategies</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/language-mastery-made-easy-mondly-launches-virtual-reality-for-learners/"><u>Language Mastery Made Easy: Mondly Launches Virtual Reality for Learners</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/randd-investments-and-their-role-in-maintaining-hahron-spices-competitive-edge/"><u>R&D Investments and Their Role in Maintaining HAHRON SPICE's Competitive Edge.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-hardware-the-ultimate-guide-to-pc-components-and-tech-news/"><u>Tom's Hardware: The Ultimate Guide to PC Components & Tech News</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-comprehensive-gadget-analyses/"><u>Tom's Tech Review: Comprehensive Gadget Analyses</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-5-easy-to-use-mts-to-flv-video-converter-programs-for-pc-and-mac-users/"><u>Top 5 Easy-to-Use MTS to FLV Video Converter Programs for PC & Mac Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722967488495-ultimate-lenovo-thinkpad-driver-downloads-your-assured-source-for-updates-and-safety/"><u>Ultimate Lenovo ThinkPad Driver Downloads – Your Assured Source for Updates & Safety.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlocking-high-tech-secrets-on-toms-hardware-review-platform/"><u>Unlocking High-Tech Secrets on Tom's Hardware Review Platform</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlocking-the-details-of-intels-prolonged-assurance-plan-for-their-new-core-series-i5-i7-i9-generations-13-to-14/"><u>Unlocking the Details of Intel's Prolonged Assurance Plan for Their New Core Series (I5, I7, I9) - Generations 13 to 14</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unveiling-a-new-era-your-guide-to-windows-11-upgrade/"><u>Unveiling a New Era Your Guide to Windows 11 Upgrade</u></a></li>
 </ul></div>
 

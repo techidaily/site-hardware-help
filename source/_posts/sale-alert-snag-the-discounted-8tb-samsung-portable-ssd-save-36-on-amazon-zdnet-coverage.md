@@ -1,7 +1,7 @@
 ---
 title: "Sale Alert: Snag the Discounted 8TB Samsung Portable SSD - Save 36%% on Amazon (ZDNet Coverage)"
-date: 2024-12-10T16:05:47.926Z
-updated: 2024-12-17T16:13:23.987Z
+date: 2024-12-25T04:31:32.761Z
+updated: 2024-12-26T00:59:40.384Z
 tags:
   - laptops
 categories:
@@ -28,7 +28,7 @@ With a truly impressive amount of storage space, you'll get read and write speed
 Along with great read and write speeds and more reliable data transfers, the [Samsung T5 Evo](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Portable-External-MU-PH8T0S-AM%2Fdp%2FB0CMDGGJTZ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C644e744e-f948-4ca0-93ee-dbb5acfc4ea1%7Cdtp&dtb=1) also features 256-bit AES encryption to keep your personal data and sensitive information safe from unauthorized access. Its outer casing is drop- and shock-resistant and can withstand falls up to six feet, making it perfect for on-location photographers and other mobile professionals who need a tough storage drive for offloading raw photos from camera storage or transferring important projects and documents between their home office and mobile work location. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -65,21 +65,16 @@ While the Amazon listing for the Samsung T5 Evo portable SSD does not have a cou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-discovering-the-top-5-smarter-url-lengtheners-for-youtube/"><u>[New] 2024 Approved Discovering the Top 5 Smarter URL Lengtheners for YouTube</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-asmr-excellence-superior-performance-for-less-money/"><u>[New] ASMR Excellence Superior Performance for Less Money</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-demystifying-macos-capture-feature-for-professional-use/"><u>[Updated] Demystifying macOS Capture Feature for Professional Use</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-hero5-black-vs-hero5-the-duel-for-durability/"><u>[Updated] Hero5 Black vs Hero5, The Duel for Durability</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-hidden-pitfalls-investing-in-fraudulent-subscribers/"><u>[Updated] In 2024, Hidden Pitfalls Investing in Fraudulent Subscribers</u></a></li>
-<li><a href="https://android-frp.techidaily.com/about-samsung-galaxy-s23-ultra-frp-bypass-by-drfone-android/"><u>About Samsung Galaxy S23 Ultra FRP Bypass</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/affordable-34-curved-asus-tuf-display-now-just-249-on-amazon-gamers-deal/"><u>Affordable 34 Curved ASUS TUF Display Now Just $249 on Amazon – Gamer's Deal!</u></a></li>
-<li><a href="https://win-dash.techidaily.com/find-and-install-the-latest-updates-for-your-epson-xtreme-print-quadcolor-xp-420-printer-driver-here/"><u>Find and Install the Latest Updates for Your Epson Xtreme Print QuadColor (XP-420) Printer Driver Here!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/guide-to-update-and-repair-hp-monitor-drivers-in-windows-1087/"><u>Guide to Update and Repair HP Monitor Drivers in Windows 10/8/7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-fix-and-update-your-hp-monitors-drivers-in-windows-11-8-and-7-efficiently/"><u>How to Fix and Update Your HP Monitor's Drivers in Windows 11, 8 & 7 Efficiently</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/overcoming-common-issues-with-bluetooth-on-the-latest-windows-11-update/"><u>Overcoming Common Issues with Bluetooth on the Latest Windows 11 Update</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-and-simple-installation-guide-usb-camera-drivers-download/"><u>Quick and Simple Installation Guide: USB Camera Drivers Download</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/reducing-motion-illusion-in-vr-environments/"><u>Reducing Motion Illusion in VR Environments</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/resolving-startech-drivers-troubles-on-windows-11-8-and-7-complete-guide/"><u>Resolving StarTech Drivers Troubles on Windows 11, 8 & 7 - Complete Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722960556838-seamless-pairing-find-the-eveo-bluetooth-driver-you-need/"><u>Seamless Pairing - Find the EVEO Bluetooth Driver You Need!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-on-updating-your-hp-laserjet-m506-driver-software/"><u>Step-by-Step Tutorial on Updating Your HP LaserJet M506 Driver Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-now-latest-hp-scanjet-printer-drivers-for-windows-11-and-87-free/"><u>[Download Now] Latest HP Scanjet Printer Drivers for Windows 11 & 8/7 - Free</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-unmatched-clarity-best-blu-ray-players-of-24/"><u>[New] In 2024, Unmatched Clarity Best Blu-Ray Players of '24</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/erfectly-positioned-cards-youtube-embedding-techniques/"><u>[New] Perfectly Positioned Cards YouTube Embedding Techniques</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-screenflow-demystified-essential-tools-for-your-mac-creation/"><u>[New] ScreenFlow Demystified Essential Tools for Your Mac Creation</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-break-down-the-essentials-of-youtube-sharing-on-facebook/"><u>2024 Approved Break Down The Essentials of YouTube Sharing on Facebook</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/best-of-breed-macs-data-recovery-solutions-top-8-rankings/"><u>Best of Breed - Mac's Data Recovery Solutions, Top 8 Rankings</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-thinkpad-t420s-drivers-for-windows-11-a-comprehensive-guide/"><u>Download and Update ThinkPad T420s Drivers for Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-updated-drivers-for-your-hp-scanjet-optimized-for-windows-operating-systems-including-11-and-7/"><u>Download Updated Drivers for Your HP Scanjet: Optimized for Windows Operating Systems Including 11 & 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/geforce-rtx-3070-ti-driver-installation-guide-for-windows-11-8-and-7-users/"><u>GeForce RTX 3070 Ti Driver Installation Guide for Windows 11, 8 and 7 Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-successfully-download-your-broadcom-wifi-drivers-a-step-by-step-guide/"><u>How to Successfully Download Your Broadcom WiFi Drivers - A Step-by-Step Guide!</u></a></li>
 </ul></div>
 
