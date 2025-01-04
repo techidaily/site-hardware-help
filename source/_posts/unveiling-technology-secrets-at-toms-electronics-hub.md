@@ -1,7 +1,7 @@
 ---
 title: Unveiling Technology Secrets at Tom's Electronics Hub
-date: 2024-08-19T10:43:28.960Z
-updated: 2024-08-20T10:43:28.960Z
+date: 2024-12-30T16:38:42.770Z
+updated: 2025-01-04T16:36:12.311Z
 tags:
   - laptop
 categories:
@@ -33,6 +33,10 @@ Artificial Intelligence (AI) is the tech term of the moment, and everyone in the
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Copilot+ PCs: Microsoft’s New Standard
 
  Since then,[Microsoft](https://tools.techidaily.com) has introduced its[Copilot+](https://tools.techidaily.com) PCs, with laptops from Asus, Dell, Acer, Samsung, HP, Lenovo, Samsung, and Microsoft's Surface brand. Those all use[Qualcomm's Snapdragon X Elite and Plus processors](https://tools.techidaily.com) at the moment, though Microsoft has said upcoming AMD Strix Point (aka Ryzen AI 300) and Intel Lunar Lake chips may also fit the bill. To be considered a Copilot+ PC, laptops need to have at least 16GB RAM, 256GB storage, and an on-board NPU that's capable of 40 TOPS (trillions of operations per second). The Qualcomm Snapdragon X Elite chips support 45 TOPS on the NPU.
@@ -42,6 +46,10 @@ Artificial Intelligence (AI) is the tech term of the moment, and everyone in the
  So, anyone who doesn’t buy a Snapdragon X-powered laptop will have to wait on those special Windows features, likely for many months. AMD recently confirmed that its[Ryzen AI 300 PCs won’t be getting the Copilot+](https://tools.techidaily.com) features when they launch later this year, but will eventually. Desktop users are left out of the cold until at least the launch of Intel Arrowlake in Q4\. And anyone with a current-gen laptop or desktop is probably left out permanently.
 
  Given the weak set of Copilot+ features, anyone who is actually paying attention probably isn’t that sad about having to miss them or wait for them. There are many other ways to get an offline (or online) AI image generator, to do real-time translation and to blur your webcam background. Recall is somewhat unique, but many people won’t want it, because of the privacy risks associated with taking constant screenshots of your work.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Intel and AMD define AI PC more Broadly
 
@@ -85,6 +93,10 @@ Artificial Intelligence (AI) is the tech term of the moment, and everyone in the
 
 ![AI PC](https://cdn.mos.cms.futurecdn.net/MkQCTwWhY8wPcsdu5CbJsi-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 (Image credit: Apple)
 
  Because Apple uses its silicon across all of its Macs, its desktops, like the iMac, Mac Studio, and Mac Pro also have NPU (or as Apple refers to them, Neural Engines). That means macOS will have AI-specific features on desktop running on NPUs before Windows.
@@ -116,8 +128,9 @@ Right now? "Need" is a strong word.
  No matter what type of PC you're using, you should still adhere to good security practices. Other humans are still outsmarting us there.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Bottom line
 
  Right now, the term “AI PC” is still somewhat vague. CPU vendors and Microsoft are using the term to sell you new computers (currently, new laptops only) that have powerful NPUs built into their processors. Most of the generative AI features people actually use today (chatbots, image generators) are free to use in the cloud, making them less than “must-haves” in their local form.
@@ -134,8 +147,6 @@ _**Correction, June 17, 3:44 p.m. ET:**_   _This article has been corrected to p
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,4 +154,20 @@ _**Correction, June 17, 3:44 p.m. ET:**_   _This article has been corrected to p
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-that.techidaily.com/correctly-identifying-individuals-a-step-by-step-guide-to-managing-mistakes-in-apple-photos/"><u>Correctly Identifying Individuals: A Step-by-Step Guide to Managing Mistakes in Apple Photos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-latest-additions-to-apples-diy-repair-program-iphone-15-and-m2-mac-now-equipped-with-advanced-remote-diagnostics-tools/"><u>Discover the Latest Additions to Apple's DIY Repair Program: IPhone 15 and M2 Mac Now Equipped with Advanced Remote Diagnostics Tools</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Oppo Reno 11F 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-unraveling-the-mysteries-of-digital-content-optimization-on-youtube/"><u>In 2024, Unraveling the Mysteries of Digital Content Optimization on YouTube</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210755343-9791028526597-nouveau-karma-nouveau-moi/"><u>Nouveau karma, nouveau moi | Free Book</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/photographic-fusion-at-full-speeds-google-collage-techniques/"><u>Photographic Fusion at Full Speeds Google Collage Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/pixel-vs-apple-choosing-the-ideal-smartwatch-between-googles-pixel-and-apples-latest-series-a-comparative-guide/"><u>Pixel Vs. Apple: Choosing the Ideal Smartwatch Between Google's Pixel and Apple’s Latest Series – A Comparative Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/smart-displays-on-chargers-a-comprehensive-look-at-the-shargeek-170-review/"><u>Smart Displays on Chargers: A Comprehensive Look at the Shargeek 170 Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-evolution-of-gaming-mice-how-keychron-q1-he-leads-the-way-with-its-innovative-magnetic-switches/"><u>The Evolution of Gaming Mice: How Keychron Q1 HE Leads the Way with Its Innovative Magnetic Switches</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-using-your-tv-remote-for-console-gaming-and-smart-devices-like-amazon-fire-stick-or-appletv/"><u>The Ultimate Guide to Using Your TV Remote for Console Gaming & Smart Devices Like Amazon Fire Stick or AppleTV</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-weeks-insights-on-ios-upgrades-and-tech-recall-highlights-for-iphones/"><u>The Week's Insights on iOS Upgrades & Tech Recall Highlights for iPhones</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-5-essential-devices-you-need-for-unexpected-power-losses/"><u>Top 5 Essential Devices You Need for Unexpected Power Losses</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-home-weather-monitors-for-2vearly-2024/"><u>Top-Rated Home Weather Monitors for 2Vearly 2024</u></a></li>
+</ul></div>
 

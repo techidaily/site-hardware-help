@@ -1,7 +1,7 @@
 ---
 title: "Dell XPS 13 Plus: New Quad-Core Qualcomm Snapdragon Processors Slash Battery Drain and Cut Costs Compared to Intel"
-date: 2024-08-19T10:42:05.897Z
-updated: 2024-08-20T10:42:05.897Z
+date: 2025-01-02T17:01:50.084Z
+updated: 2025-01-04T16:41:36.740Z
 tags:
   - laptop
 categories:
@@ -27,6 +27,10 @@ We cover many unique "because I felt like it" projects here at Tom's Hardware, b
 
  In more modern communications news,[Wi-Fi over three kilometers](https://tools.techidaily.com) was demonstrated with a real-time video call back in January. Windows[11 started adding support for Wi-Fi 7](https://tools.techidaily.com) back in February. All this progress means that most Wi-Fi routers in the world will be a free-for-all on the same few congested wireless channels unless configured properly. Some monsters and nerds out there still employ Morse code, a language with roots in the 1830s.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,8 +45,6 @@ We cover many unique "because I felt like it" projects here at Tom's Hardware, b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -50,8 +52,23 @@ We cover many unique "because I felt like it" projects here at Tom's Hardware, b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-choose-between-portable-and-plugged-in-vr-headsets-picking-between-wireless-mobile-or-connected-tethered/"><u>[New] How to Choose Between Portable and Plugged-In VR Headsets Picking Between Wireless (Mobile) or Connected (Tethered)?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/399-for-cutting-edge-tech-get-the-new-moto-g-stylus-5g-phone/"><u>$399 for Cutting-Edge Tech - Get the New Moto G Stylus 5G Phone!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1-uncover-hidden-gem-top-notch-markdown-and-notes-app-yet-to-be-discovered/"><u>1. Uncover Hidden Gem: Top-Notch Markdown & Notes App Yet to Be Discovered</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/6-at-just-599-over-30-hours-of-battery/"><u>6 at Just $599 - Over 30 Hours of Battery</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/a-closer-look-at-kobo-clara-colours-screen-brilliance-ereader-reviews/"><u>A Closer Look at Kobo Clara Colour's Screen Brilliance – eReader Reviews</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/adoring-apple-innovations-yet-loyal-to-my-trusty-android-device/"><u>Adoring Apple Innovations Yet Loyal to My Trusty Android Device</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/android-tablet-as-additional-desktop-display-a-step-by-step-guide/"><u>Android Tablet as Additional Desktop Display: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/are-foldable-smartphones-just-novelty-gadgets-or-here-to-stay-in-the-tech-world/"><u>Are Foldable Smartphones Just Novelty Gadgets or Here to Stay in the Tech World?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/cant-access-the-web-on-your-android-phone-follow-these-8-steps-for-quick-fixes/"><u>Can't Access the Web on Your Android Phone? Follow These 8 Steps for Quick Fixes!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eradicate-incessant-led-glare/"><u>Eradicate Incessant LED Glare</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-beginners-guide-to-video-making-mastering-10-straightforward-youtube-concepts/"><u>In 2024, Beginner's Guide to Video Making Mastering 10 Straightforward YouTube Concepts</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-delete-icloud-account-with-or-without-password-from-your-iphone-11-prowindowsmac-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account with or without Password from your iPhone 11 Pro/Windows/Mac</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-samsung-bd-j5900-overhaul-whats-new/"><u>In 2024, Samsung BD-J5900 Overhaul What's New ?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/stealth-web-surfing-how-to-disable-tracking-across-top-internet-browsers/"><u>Stealth Web Surfing: How to Disable Tracking Across Top Internet Browsers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-top-6-aac-software-choices-for-your-computer-or-smartphone-experience/"><u>Ultimate Guide to Top 6 AAC Software Choices for Your Computer or Smartphone Experience</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/winxvideo-ai/"><u>WinxVideo AI: 화면, 웹캠 및 오디오를 자연스럽게 기름소를 태우고 다시 정교하게 만들어요</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

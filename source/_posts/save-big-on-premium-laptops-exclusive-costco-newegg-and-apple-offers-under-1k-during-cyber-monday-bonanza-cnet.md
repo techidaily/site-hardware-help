@@ -1,7 +1,7 @@
 ---
 title: "Save Big on Premium Laptops: Exclusive Costco, Newegg & Apple Offers Under $1K During Cyber Monday Bonanza - CNET"
-date: 2024-12-25T08:07:47.017Z
-updated: 2024-12-26T01:56:51.038Z
+date: 2024-12-31T16:28:46.125Z
+updated: 2025-01-04T17:21:54.907Z
 tags:
   - laptops
 categories:
@@ -18,7 +18,7 @@ Amazon
 Cyber Monday is finally here! Laptops are the first thing I think of today: I want the most affordable laptop with the best possible features. If you're in the same boat, there are three laptops to keep in mind that ring in for less than $1,000: [The MacBook Air with Apple's M1 chip](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-13-inch-256GB-Storage%2Fdp%2FB08N5LNQCX%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb2073db4-1d9f-448d-ad2d-fb86de05f3de%7Cdtp&dtb=1) for $799 at Amazon (save $200), [the LG gram 17-inch laptop](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/lg-gram-17%22-intel-evo-platform-laptop---12th-gen-intel-i7-1260p---2560-x-1600-display---windows-11.product.100971154.html) at Costco for $999 (save $500), and [the Latitude 7420 business laptop](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Flinks%2F9041660%2Ftype%2Fdlg%2Fsid%2Fzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%2Fhttps%3A%2F%2Fdeals.dell.com%2Fen-us%2Fproductdetail%2Ffqnp) at Dell for $889 (save $1,320). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -79,17 +79,22 @@ Dell has the [Latitude 7420](https://shop-links.co/link/?exclusive=1&publisher_s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-top-10-portable-tools-dominating-video-editing-landscape/"><u>[New] In 2024, Top 10 Portable Tools Dominating Video Editing Landscape</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-capturing-conversations-on-messenger-a-comprehensive-how-to/"><u>2024 Approved Capturing Conversations on Messenger A Comprehensive How-To</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Lava Yuva 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/elite-audio-gear-guide-for-4k-camera-quality-production/"><u>Elite Audio Gear Guide for 4K Camera Quality Production</u></a></li>
-<li><a href="https://win-forum.techidaily.com/free-converter-change-mpg-format-to-m4v-without-hitches/"><u>Free Converter: Change MPG Format to M4V Without Hitches</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Infinix Note 30i? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/lian-lis-innovative-sup01-micro-atx-chassis-elevates-graphics-card-performance-with-frontal-mounting-and-retro-reversible-motherboard-support/"><u>Lian Li’s Innovative SUP01 Micro ATX Chassis Elevates Graphics Card Performance with Frontal Mounting and Retro Reversible Motherboard Support</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mag-pano-m1e50-rp-the-latest-msi-case-with-innovative-aquarium-inspired-design-and-usb-backplate-support-priced-at-approx-100/"><u>MAG Pano M1e50 RP: The Latest MSI Case with Innovative Aquarium-Inspired Design & USB Backplate Support Priced at Approx. $100</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-the-circuit-with-tom-your-guide-to-quality-computer-components/"><u>Navigating the Circuit with Tom: Your Guide to Quality Computer Components</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723964474708-revamped-cougar-pc-enclosures-with-customizable-rgb-features-to-display-your-action-figure-collection-spotted-at-computex/"><u>Revamped Cougar PC Enclosures with Customizable RGB Features to Display Your Action Figure Collection, Spotted at Computex</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-enermax-cable-master-er-20-specially-engineered-for-integrated-wire-management/"><u>The Enermax Cable Master Er 20: Specially Engineered for Integrated Wire Management</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-best-mp4-editors-for-mavericks-review-and-comparison/"><u>Updated 2024 Approved Best MP4 Editors for Mavericks Review and Comparison</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-cloud-storage-for-your-clippings-free-tiers-and-paid-plans-explored-for-2024/"><u>[New] Cloud Storage for Your Clippings Free Tiers & Paid Plans Explored for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-journey-to-perfect-audio-ultimate-iphone-podcast-downloading-techniques/"><u>2024 Approved Journey to Perfect Audio Ultimate iPhone Podcast Downloading Techniques</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-vivo-v29-frp-bypass-by-drfone-android/"><u>About Vivo V29 FRP Bypass</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-nokia-105-classic-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/brother-l2370dw-printer-software-free-download-and-updates/"><u>Brother L2370DW Printer Software - Free Download and Updates</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-optimized-nvidia-drivers-for-rtx-nvida-rx-3080-supports-win11win8win7/"><u>Download Optimized NVIDIA Drivers for RTX Nvida RX 3080 - Supports Win11/Win8/Win7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-and-free-hp-deskjet-ink-advantage-3050a-windows-drivers-here/"><u>Get the Newest & Free HP DeskJet Ink Advantage 3050A Windows Drivers Here</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-your-broadcom-netlink-gigabit-ethernet-card-drivers-on-pc-a-complete-guide-for-windows-10/"><u>How to Update Your Broadcom NetLink Gigabit Ethernet Card Drivers on PC: A Complete Guide for Windows 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-upgrade-to-the-latest-targus-displaylink-drivers-on-your-window-based-pcs-versions-1187/"><u>How to Upgrade to the Latest Targus DisplayLink Drivers on Your Window-Based PCs (Versions 11/8/7)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-instagram-video-troubleshooting-no-silence-full-sound/"><u>In 2024, Instagram Video Troubleshooting - No Silence, Full Sound</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intel-to-raise-the-barrier-new-desktop-chips-might-run-hotter-than-ever-before-with-elevated-heat-ceilings-for-arrow-lake-series/"><u>Intel to Raise the Barrier? New Desktop Chips Might Run Hotter than Ever Before with Elevated Heat Ceilings for Arrow Lake Series</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/reviewing-the-mini-majesty-the-little-dragon-that-roared-with-big-bargain-a-look-into-spyro-reignited-trilogy/"><u>Reviewing the Mini-Majesty: The Little Dragon That Roared with Big Bargain – A Look Into Spyro Reignited Trilogy</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723262295408-supercharge-the-amd-ryzen-eight-with-hyper-turbo-techniques-gain-an-extra-250-mhz-and-boost-geekbench-performance-by-over-a-quarter/"><u>Supercharge the AMD Ryzen Eight with Hyper Turbo Techniques - Gain an Extra 250 MHz & Boost Geekbench Performance by Over a Quarter</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/troubleshooting-imessage-ensuring-seamless-sync-between-your-iphone-and-macbook/"><u>Troubleshooting iMessage: Ensuring Seamless Sync Between Your iPhone and MacBook</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/yl-software-solutions-for-restarting-malfunctioned-windows-services/"><u>YL Software Solutions for Restarting Malfunctioned Windows Services</u></a></li>
 </ul></div>
 

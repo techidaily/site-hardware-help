@@ -1,7 +1,7 @@
 ---
 title: Pioneering Performance Analysis by Tom's Components Review
-date: 2024-08-19T10:40:12.671Z
-updated: 2024-08-20T10:40:12.671Z
+date: 2025-01-03T16:03:06.707Z
+updated: 2025-01-04T16:47:50.052Z
 tags:
   - laptop
 categories:
@@ -29,6 +29,10 @@ The dream of a true, dual-screen productivity laptop may finally have been achie
 
  The Acemagic X1's dual-monitor experience is genuinely superior to what's come before. Asus has used small second screens on its touchpad or above its keyboard on the deck, but these are best used for palettes or control panels. Lenovo has done a lot of second-screen experimentation, doing everything from having a 7-inch display pop out of a slot in the lid on the 17-inch ThinkPad W series to putting an 8-inch screen where the numpad might be on a ThinkBook to releasing the Yoga 9i, which is two screens without a built-in keyboard. Acer also produced an Iconia laptop with two touch screens many years ago.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -44,6 +48,10 @@ The dream of a true, dual-screen productivity laptop may finally have been achie
  The screens are decent, but they aren't particularly bright or colorful. The keyboard feels pretty snappy but it's not likely to make anyone forget about their ThinkPad's typing experience. The touchpad seemed ok but wasn't particularly large. Also, the entire laptop looks really unexciting in its drab, gray colorway.
 
 ![Acemagic X1](https://cdn.mos.cms.futurecdn.net/efSjDm3yhxK3FmNbUzkeoL-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -61,8 +69,6 @@ The dream of a true, dual-screen productivity laptop may finally have been achie
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -70,8 +76,24 @@ The dream of a true, dual-screen productivity laptop may finally have been achie
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-the-ultimate-guide-producing-exceptional-igtv-content-on-mobile-and-dslrs/"><u>[New] The Ultimate Guide Producing Exceptional IGTV Content on Mobile & DSLRs</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-exploring-the-high-fidelity-world-of-samsungs-4k-s8/"><u>[Updated] 2024 Approved Exploring the High-Fidelity World of Samsung's 4K S8</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-unlock-hidden-potential-boost-productivity-essential-multitasking-tips-for-podcast-lovers/"><u>[Updated] In 2024, Unlock Hidden Potential, Boost Productivity Essential Multitasking Tips for Podcast Lovers</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-creating-continuous-viewing-pleasure-on-television/"><u>2024 Approved Creating Continuous Viewing Pleasure on Television</u></a></li>
+<li><a href="https://win-popular.techidaily.com/advanced-paper-kit-2-pro-by-creative-tim-professional-bootstrap-n4-ui-toolkit/"><u>Advanced Paper Kit 2 PRO by Creative Tim: Professional Bootstrap N4 UI Toolkit</u></a></li>
+<li><a href="https://win-dash.techidaily.com/boost-your-gaming-experience-with-steelseries-engine-windows-10-edition/"><u>Boost Your Gaming Experience with SteelSeries Engine Windows 10 Edition</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effective-techniques-to-correctly-install-and-fix-the-realtek-8723be-usb-wifi-card-drivers/"><u>Effective Techniques to Correctly Install and Fix the Realtek 8723BE USB WiFi Card Drivers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-crafting-professional-icons-with-pre-made-graphic-elements/"><u>In 2024, Crafting Professional Icons with Pre-Made Graphic Elements</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/innovations-and-insights-on-high-performance-hardware-presented-by-toms-tech-blog/"><u>Innovations and Insights on High-Performance Hardware - Presented by Tom's Tech Blog</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-solutions-for-your-hp-envy-7640-driver-problems/"><u>Quick Solutions for Your HP Envy 7640 Driver Problems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/revolutionizing-your-phones-storage-space-with-these-47-effective-video-trimmers/"><u>Revolutionizing Your Phone's Storage Space with These 47 Effective Video Trimmers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/solved-the-ultimate-trick-for-quickly-and-easily-installing-a-dell-mouse-driver/"><u>Solved: The Ultimate Trick for Quickly and Easily Installing a Dell Mouse Driver</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-expert-guides-and-reviews/"><u>Tom's Tech Insights: Expert Guides and Reviews</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-intel-optane-performance-the-ultimate-resource-for-downloading-and-updating-windows-drivers/"><u>Troubleshooting Intel Optane Performance: The Ultimate Resource for Downloading and Updating Windows Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-digital-mastery-at-toms-electronics-review/"><u>Unveiling Digital Mastery at Tom's Electronics Review</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/upcoming-ai-wonders-tentative-date-for-gpt-5s-unveiling/"><u>Upcoming AI Wonders: Tentative Date for GPT-5's Unveiling?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/updated-intel-drivers-for-fast-usb-3t-connectivity-on-windows-11-systems/"><u>Updated Intel Drivers for Fast USB 3.t Connectivity on Windows 11 Systems</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->

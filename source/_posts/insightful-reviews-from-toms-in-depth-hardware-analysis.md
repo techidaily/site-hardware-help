@@ -1,7 +1,7 @@
 ---
 title: Insightful Reviews From Tom's In-Depth Hardware Analysis
-date: 2024-08-19T10:43:07.898Z
-updated: 2024-08-20T10:43:07.898Z
+date: 2024-12-31T17:23:16.069Z
+updated: 2025-01-04T16:36:45.172Z
 tags:
   - laptop
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/7oDUnn676Uj6LsGsWnQ7hT-320-80.jpg
 The SZBox DS16 is a 16-inch laptop[available from AliExpress](https://go.redirectingat.com/?id=92X1584492&xcust=tomshardware%5Fus%5F1205122597602329443&xs=1&url=https%3A%2F%2Fwww.aliexpress.us%2Fitem%2F3256806648016140.html&sref=https%3A%2F%2Fwww.tomshardware.com%2Flaptops%2Fthis-core-i5-12450h-laptop-trades-a-physical-keyboard-for-dual-16-inch-displays-and-costs-just-dollar710-on-aliexpress) with a relatively affordable $710 starting price point. However, the real reason it's garnering so much attention (first brought to light by[Liliputing](https://liliputing.com/this-dual-screen-laptop-has-two-touchscreen-displays-and-support-for-height-adjustments-but-lacks-a-physical-keyboard/) ) is due to its dual 16-inch 1200p IPS touch panel configuration.
 
  Below, we've charted the specifications of the SZBox DS16 and its two primary variations, which we'll be referring to as the Intel Core i5 and Core i7 models for clarity's sake.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## SZBox DS16 Dual Screen Laptop Core Specs
 
@@ -37,9 +41,17 @@ The SZBox DS16 is a 16-inch laptop[available from AliExpress](https://go.redirec
 
 ![SZBox DS16](https://cdn.mos.cms.futurecdn.net/XXxLAnUWrMrCacNrJh5DWi-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: AliExpress)
 
  With a starting price of just over $700, the base Core i5 model is roughly $800 cheaper than the[Asus Zenbook Duo](https://tools.techidaily.com) (even the upgraded DS16 Core i7 model only costs $1,000, which still undercuts the entry from Asus). However, the Zenbook Duo features dual 14-inch OLED displays, a newer Intel Core Ultra 7 processor, and is nearly three pounds lighter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
@@ -55,8 +67,6 @@ The SZBox DS16 is a 16-inch laptop[available from AliExpress](https://go.redirec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -64,8 +74,26 @@ The SZBox DS16 is a 16-inch laptop[available from AliExpress](https://go.redirec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gearing-up-for-youtube-success-cross-platform-strategies/"><u>[Updated] 2024 Approved Gearing Up for YouTube Success Cross-Platform Strategies</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-finest-videophone-tools-free-edition-listed-here/"><u>[Updated] The Finest Videophone Tools Free Edition Listed Here</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-animation-amalgamator-a-top-choice-for-saving-and-storing-your-tweeted-gifs/"><u>2024 Approved Animation Amalgamator A Top Choice for Saving and Storing Your Tweeted GIFs</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastery-in-multichannel-instagram-to-tiktok-connector/"><u>2024 Approved Mastery in Multichannel Instagram to TikTok Connector</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/3-cpu-series/"><u>3 CPU Series</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/affordable-entry-into-twitch-broadcasting-possibly-utilizing-your-existing-gear/"><u>Affordable Entry Into Twitch Broadcasting - Possibly Utilizing Your Existing Gear!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/budget-friendly-beats-solo-in-ear-headphones-balancing-cost-and-quality/"><u>Budget-Friendly Beats Solo In-Ear Headphones: Balancing Cost and Quality</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comparing-fingerprint-sensor-technologies-ultrasonic-vs-optical-which-is-superior/"><u>Comparing Fingerprint Sensor Technologies: Ultrasonic Vs. Optical – Which Is Superior?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/dells-fresh-approach-elevating-the-experience-with-innovative-keyboard-and-mouse-design/"><u>Dell's Fresh Approach: Elevating the Experience with Innovative Keyboard & Mouse Design</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/determining-the-optimal-timeframe-for-upgrading-your-workplace-computer-systems/"><u>Determining the Optimal Timeframe for Upgrading Your Workplace Computer Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-latest-snapdragon-powered-laptops-lenovos-all-new-thinkpad-t14s-and-yoga-slim/"><u>Discover the Latest Snapdragon-Powered Laptops: Lenovo's All-New ThinkPad T14s & Yoga Slim</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/distinguishing-wi-fi-from-the-internet-uncovering-essential-variations-and-their-importance/"><u>Distinguishing Wi-Fi From the Internet: Uncovering Essential Variations and Their Importance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/diy-pc-maintenance-essential-toolkit-of-7-must-have-items/"><u>DIY PC Maintenance: Essential Toolkit of 7 Must-Have Items</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-xiaomi-civi-3-disney-100th-anniversary-edition-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Xiaomi Civi 3 Disney 100th Anniversary Edition Quickly | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-blue-yeti-drivers-not-detected-recognized-or-installed/"><u>Fix: Blue Yeti Drivers Not Detected, Recognized or Installed</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-become-a-trending-sensation-with-these-effective-youtube-seo-strategies/"><u>In 2024, Become a Trending Sensation with These Effective YouTube SEO Strategies</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-ultimate-list-of-win-11-hd-webcam-recording-kits/"><u>In 2024, Ultimate List of Win 11 HD Webcam Recording Kits</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/screen-saving-solutions-a-critical-look-at-capturers-for-2024/"><u>Screen Saving Solutions A Critical Look at Capturers for 2024</u></a></li>
+<li><a href="https://win-tips.techidaily.com/windows-10dell/"><u>Windows 10向けDellの回復メモニウム構築ハンズオンガイド</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

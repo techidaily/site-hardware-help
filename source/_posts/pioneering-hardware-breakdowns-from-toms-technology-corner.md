@@ -1,7 +1,7 @@
 ---
 title: Pioneering Hardware Breakdowns From Tom's Technology Corner
-date: 2024-08-19T10:41:48.345Z
-updated: 2024-08-20T10:41:48.345Z
+date: 2024-12-28T17:19:45.937Z
+updated: 2025-01-04T17:20:18.994Z
 tags:
   - laptop
 categories:
@@ -29,6 +29,10 @@ Framework has[announced](https://x.com/FrameworkPuter/status/1803072040569901452
 
  Nevertheless,[American lawmakers are still investigating China’s access to this technology](https://tools.techidaily.com) , especially as Washington is working hard to[restrict Beijing’s access](https://tools.techidaily.com) to advanced tech. However, since it remains open, many[Chinese startups](https://tools.techidaily.com) [and companies](https://tools.techidaily.com) are taking advantage of this ISA, allowing them to produce chips that aren’t restricted by American sanction.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,9 +45,17 @@ Framework has[announced](https://x.com/FrameworkPuter/status/1803072040569901452
 
 ![Framework, DeepComputing collaborate](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Framework, DeepComputing)
 
 ![Framework, DeepComputing collaborate](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Framework, DeepComputing)
 
@@ -55,8 +67,6 @@ Framework has[announced](https://x.com/FrameworkPuter/status/1803072040569901452
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -64,8 +74,19 @@ Framework has[announced](https://x.com/FrameworkPuter/status/1803072040569901452
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-mastering-lenovo-screenshots-in-minutes-for-2024/"><u>[New] Mastering Lenovo Screenshots in Minutes for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-stream-to-instagram-effortless-broadcast-via-obs-software/"><u>[Updated] 2024 Approved Stream to Instagram Effortless Broadcast via OBS Software</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-google-pixel-8-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722959237227-get-your-gigabyte-speakers-up-and-running-free-drivers-now/"><u>Get Your Gigabyte Speakers Up and Running - Free Drivers Now</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hassle-free-setup-for-wacom-graphics-tablets-quick-driver-installation/"><u>Hassle-Free Setup for Wacom Graphics Tablets: Quick Driver Installation</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-unveiling-av1-foundations-and-fundamentals/"><u>In 2024, Unveiling AV1 Foundations and Fundamentals</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-stuck-characters-a-comprehensive-guide-to-solve-code-vein-freezing-issues/"><u>Resolving Stuck Characters: A Comprehensive Guide to Solve Code Vein Freezing Issues</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/the-art-of-effective-online-engagement-on-fb/"><u>The Art of Effective Online Engagement on FB</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/understanding-the-absence-of-wps-buttons-on-modern-android-devices-what-you-need-to-know/"><u>Understanding the Absence of WPS Buttons on Modern Android Devices: What You Need to Know</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlocking-enhanced-reading-experience-on-your-android-device-the-ultimate-walkthrough-and-insights/"><u>Unlocking Enhanced Reading Experience on Your Android Device: The Ultimate Walkthrough and Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-latest-iphone-rival-a-new-contender-emerges-with-a-unique-twist-on-apples-dynamic-island/"><u>Unveiling the Latest iPhone Rival: A New Contender Emerges with a Unique Twist on Apple’s Dynamic Island</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrade-dilemma-is-it-wise-to-invest-in-recent-mid-tier-smartphones-or-opt-for-last-years-premium-models/"><u>Upgrade Dilemma: Is It Wise to Invest in Recent Mid-Tier Smartphones or Opt for Last Year's Premium Models?</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->

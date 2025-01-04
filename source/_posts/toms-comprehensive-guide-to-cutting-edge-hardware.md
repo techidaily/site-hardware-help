@@ -1,7 +1,7 @@
 ---
 title: Tom's Comprehensive Guide to Cutting-Edge Hardware
-date: 2024-08-19T10:40:20.334Z
-updated: 2024-08-20T10:40:20.334Z
+date: 2024-12-28T16:28:09.228Z
+updated: 2025-01-04T16:47:03.328Z
 tags:
   - laptop
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/L9ZD4XUKC2eo8jm79biWEF-320-80.jpg
 The SZBox DS16 is a 16-inch laptop[available from AliExpress](https://go.redirectingat.com/?id=92X1584492&xcust=tomshardware%5Fus%5F1205122597602329443&xs=1&url=https%3A%2F%2Fwww.aliexpress.us%2Fitem%2F3256806648016140.html&sref=https%3A%2F%2Fwww.tomshardware.com%2Flaptops%2Fthis-core-i5-12450h-laptop-trades-a-physical-keyboard-for-dual-16-inch-displays-and-costs-just-dollar710-on-aliexpress) with a relatively affordable $710 starting price point. However, the real reason it's garnering so much attention (first brought to light by[Liliputing](https://liliputing.com/this-dual-screen-laptop-has-two-touchscreen-displays-and-support-for-height-adjustments-but-lacks-a-physical-keyboard/) ) is due to its dual 16-inch 1200p IPS touch panel configuration.
 
  Below, we've charted the specifications of the SZBox DS16 and its two primary variations, which we'll be referring to as the Intel Core i5 and Core i7 models for clarity's sake.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## SZBox DS16 Dual Screen Laptop Core Specs
 
@@ -37,9 +41,17 @@ The SZBox DS16 is a 16-inch laptop[available from AliExpress](https://go.redirec
 
 ![SZBox DS16](https://cdn.mos.cms.futurecdn.net/XXxLAnUWrMrCacNrJh5DWi-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: AliExpress)
 
  With a starting price of just over $700, the base Core i5 model is roughly $800 cheaper than the[Asus Zenbook Duo](https://tools.techidaily.com) (even the upgraded DS16 Core i7 model only costs $1,000, which still undercuts the entry from Asus). However, the Zenbook Duo features dual 14-inch OLED displays, a newer Intel Core Ultra 7 processor, and is nearly three pounds lighter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
@@ -55,8 +67,6 @@ The SZBox DS16 is a 16-inch laptop[available from AliExpress](https://go.redirec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -64,13 +74,18 @@ The SZBox DS16 is a 16-inch laptop[available from AliExpress](https://go.redirec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-achieve-seamless-video-playback-by-removing-bars-in-youtube/"><u>[New] In 2024, Achieve Seamless Video Playback by Removing Bars in YouTube</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-becoming-a-trendsetter-youtube-video-tactics/"><u>2024 Approved Becoming a Trendsetter YouTube Video Tactics</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/compatible-drivers-for-logitech-g510-seamless-functionality-across-windows-781/"><u>Compatible Drivers for Logitech G510: Seamless Functionality Across Windows 7/8/1지</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-acer-aspire-5100-drivers-today/"><u>Download and Install Acer Aspire 5100 Drivers Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/explore-cutting-edge-gear-the-toms-tech-showcase/"><u>Explore Cutting-Edge Gear: The Tom's Tech Showcase</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-ricoh-printing-drivers-for-windows-directly-from-official-sources/"><u>Get the Latest Ricoh Printing Drivers for Windows Directly From Official Sources</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-updates-for-your-hp-officejet-5255-printing-software/"><u>Get the Newest Updates for Your HP Officejet 5255 Printing Software</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-system-of-apple-iphone-8-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of Apple iPhone 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/quick-fixes-resolving-instant-command-prompt-openclose-issues-on-windows-10/"><u>Quick Fixes: Resolving Instant Command Prompt Open/Close Issues on Windows 10</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-art-of-iphone-photography-mastering-image-cropping/"><u>The Art of iPhone Photography Mastering Image Cropping</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-top-review-on-alienware-aurora-r7-delivering-superior-gaming-prowess-for-those-willing-to-pay-more/"><u>The Top Review on Alienware Aurora R7 - Delivering Superior Gaming Prowess for Those Willing to Pay More</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

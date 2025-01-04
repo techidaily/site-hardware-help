@@ -1,7 +1,7 @@
 ---
 title: "Meet the New Slender Superstar: LG's Latest and Leanest Gram Laptop on the Market Insights"
-date: 2024-12-19T07:30:56.790Z
-updated: 2024-12-26T02:15:17.706Z
+date: 2024-12-28T17:06:25.172Z
+updated: 2025-01-04T16:46:13.330Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -79,7 +79,7 @@ Now you may be wondering: what's the catch? Is the Asus Zenbook 14 as perfect as
 My biggest issue with the laptop is the fact it can run incredibly warm. You can't even type on the keyboard or have it on your legs without discomfort. Heat vents are found on the bottom and the side, but they don't offer much relief. This problem is exacerbated if you try to use the laptop while charging. There's so much heat that typing on the keyboard becomes uncomfortable. You're honestly better off not using the laptop during this time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -89,7 +89,7 @@ The [Asus Zenbook 14](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.
 You can purchase my review unit's configuration on Best Buy for $799.99, but there's always the option to upgrade the hardware if you're looking for something with more power behind it. A Zenbook 14 sporting an Intel Core Ultra 7 155H processor, Intel Arc GPU, 16GB of RAM, and 1TB of storage will [start at $1,299](https://www.awin1.com/awclick.php?mid=31828&id=423585&clickref=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&ued=https%3A%2F%2Fshop.asus.com%2Fus%2Fasus-zenbook-14-oled-ux3405-laptop.html) but come with significant jump up in processing power. No matter which one you get, it'll be worth the low price.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -136,24 +136,18 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-ideal-smartphones-for-excellent-video-recording/"><u>[New] Ideal Smartphones for Excellent Video Recording</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-top-9-free-android-mp3-extractors-for-2024/"><u>[New] Top 9 FREE Android MP3 Extractors for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-find-youtube-sponsorships-by-using-famebit/"><u>[Updated] 2024 Approved How to Find YouTube Sponsorships by Using FameBit</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-dji-quadcopters-groups-fundamentals-advanced-configurations-hd-experts-for-2024/"><u>[Updated] DJI Quadcopters Groups Fundamentals, Advanced Configurations, HD Experts for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-mastering-shade-changes-3-photoshop-hacks/"><u>[Updated] Mastering Shade Changes 3 Photoshop Hacks</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-syncing-your-soundtrack-import-music-into-inshot-for-2024/"><u>[Updated] Syncing Your Soundtrack Import Music Into InShot for 2024</u></a></li>
-<li><a href="https://win-help.techidaily.com/amazingly-odd-phenomenon-when-deleting-files-understanding-emeditors-behavior/"><u>Amazingly Odd Phenomenon When Deleting Files - Understanding EmEditor's Behavior</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/best-3ip-apps-to-record-clear-speech-on-ipads-for-2024/"><u>Best 3iP Apps to Record Clear Speech on iPads for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effective-guide-acquiring-and-setting-up-the-newest-soundmax-drivers-for-windows-machines/"><u>Effective Guide: Acquiring and Setting Up the Newest SoundMAX Drivers for Windows Machines</u></a></li>
-<li><a href="https://win-dash.techidaily.com/ensuring-razer-naga-compatibility-driver-downloads-and-updates-on-windows-systems/"><u>Ensuring Razer Naga Compatibility: Driver Downloads & Updates on Windows Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/expert-insights-on-electronics-with-toms-guide/"><u>Expert Insights on Electronics with Tom's Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/expert-insights-on-gadgets-from-toms-hardware-hub/"><u>Expert Insights on Gadgets From Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722973141724-get-the-latest-acer-aspire-amidst-5100-printer-drivers-here/"><u>Get the Latest Acer Aspire Amidst 5100 Printer Drivers Here</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Xiaomi Redmi Note 13 5G? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/in-depth-analysis-of-new-electronics-by-toms-hardware-experts/"><u>In-Depth Analysis of New Electronics by Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-hp-laserjet-5200-driver-download-compatible-with-windows-11108-systems/"><u>Latest HP LaserJet ˈ5200 Driver Download: Compatible with Windows 11/10/8 Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-technology-with-tom-the-authority-source-on-computer-components/"><u>Mastering Technology with Tom: The Authority Source on Computer Components</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/optimized-drivers-for-intels-irisplus-graphics-on-your-new-windows-11-pc/"><u>Optimized Drivers for Intel's Iris+ Graphics on Your New Windows 11 PC</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/resolving-connectivity-issues-with-unrecognized-usb-hardware-on-windows-10-systems/"><u>Resolving Connectivity Issues with Unrecognized USB Hardware on Windows 10 Systems</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-club-anthems-expertly-curated-dj-vids-downloads/"><u>[New] 2024 Approved Club Anthems Expertly Curated DJ Vids Downloads</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-all-weather-action-cameras-ranking-top-7-summary/"><u>[New] All-Weather Action Cameras Ranking, Top 7 Summary</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-captivate-audiences-with-perfectly-tailored-youtube-descriptions/"><u>2024 Approved Captivate Audiences with Perfectly Tailored Youtube Descriptions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/affordable-15-inch-asus-notebook-available-at-walmart-quad-hd-display-and-full-connectivity-for-only-250-insights-by-zdnet/"><u>Affordable 15-Inch ASUS Notebook Available at Walmart: Quad HD Display & Full Connectivity for Only $250 - Insights by ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/dont-miss-out-amazon-offers-a-steady-36-sale-on-high-capacity-8tb-samsung-t5-ssd-even-after-prime-day-exclusive-coverage/"><u>Don't Miss Out! Amazon Offers a Steady 36% Sale on High-Capacity 8TB Samsung T5 SSD, Even After Prime Day | Exclusive Coverage</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>How to Find iSpoofer Pro Activation Key On Apple iPhone 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-reactivate-sound-capture-in-obs-studio-on-windows-11-pcs/"><u>How to Reactivate Sound Capture in OBS Studio on Windows 11 PCs</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-dji-phantom-3-performance-analysis/"><u>In 2024, DJI Phantom 3 Performance Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/stop-unwanted-alerts-customizing-notification-settings-in-chrome-os-techspot/"><u>Stop Unwanted Alerts: Customizing Notification Settings in Chrome OS | TechSpot</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-15-inch-laptops-comprehensive-testing-and-reviews-by-industry-experts/"><u>Top Rated 15-Inch Laptops - Comprehensive Testing & Reviews by Industry Experts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-rated-smart-lock-apps-for-iphones-sleek-design-and-easy-security/"><u>Top-Rated Smart Lock Apps for iPhones: Sleek Design & Easy Security</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-140w-portable-power-station-for-7-devices-reliable-energy-supply-without-constant-recharge-top-picks/"><u>Ultimate 140W Portable Power Station for 7 Devices: Reliable Energy Supply Without Constant Recharge Top Picks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-latest-upgrades-in-samsungs-copilotplus-desktop-how-ai-enhancements-are-transforming-your-computing-experience/"><u>Unveiling the Latest Upgrades in Samsung’s Copilot+ Desktop: How AI Enhancements Are Transforming Your Computing Experience</u></a></li>
 </ul></div>
 

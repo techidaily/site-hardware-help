@@ -1,7 +1,7 @@
 ---
 title: Exploring PC Innovations at Tom's Hardware Hub
-date: 2024-08-19T10:39:47.988Z
-updated: 2024-08-20T10:39:47.988Z
+date: 2025-01-01T16:51:40.627Z
+updated: 2025-01-04T17:01:30.296Z
 tags:
   - laptop
 categories:
@@ -26,6 +26,10 @@ Just a few years ago, the idea of gaming on a Mac was a joke among the enthusias
  (Image credit: Tom's Hardware)
 
  The company is catching up on some recent releases, like_Palworld_ , which is set to release later this year. But toss in new developer tools and the idea that your games could carry over to other Apple devices, and that's where things get interesting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Game Porting Toolkit 2
 
@@ -60,6 +64,10 @@ _Control: Ultimate Edition_
 
  Using the Windows version of Steam and the[DirectX](https://tools.techidaily.com) 12 version of the game, a[MacBook Pro with an M3 Max](https://tools.techidaily.com) played the title at 46 - 50 frames per second on high-quality settings and high ray tracing with a resolution of 1728 x 1117\. I picked up the DualSense controller Apple had in front of the Mac and took on some Hiss guards as Jesse Faden, and it felt largely ready to go. If this is what convinced Remedy to port the game over, I can kind of see why it happened. With the M3 series and M4 chips supporting ray tracing tech, the game looks great.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -68,9 +76,6 @@ _Control: Ultimate Edition_
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## The Unified Gaming Platform
 
  Where Apple may have an advantage is where it typically excels: in its ecosystem. If games are released for the Mac, but then you can play them on your iPad or iPhone, it could open up gaming to tons of people who wouldn't have done so previously — and make it easier for enthusiast Mac gamers to play anywhere.
@@ -78,8 +83,9 @@ _Control: Ultimate Edition_
 ![Apple gaming showcase with Mac, iPad, iPhone](https://cdn.mos.cms.futurecdn.net/KmMXFc9hGHqpSKASjSdmrP-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  Playing anywhere has been a bit of a white whale for gaming companies lately. Think of cloud services like Game Pass from[Microsoft](https://tools.techidaily.com) or GeForce Now from Nvidia. The idea was you'd stream games to play them anywhere.  
@@ -92,18 +98,16 @@ _Assassin's Creed Mirage_ has similar tricks, but only across the iPhone and iPa
 
 ![Apple gaming showcase with Mac, iPad, iPhone](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Apple gaming showcase with Mac, iPad, iPhone](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Apple needs to beef up its gaming library
 
  As much as I liked seeing more games run well, particularly on the Mac, it still needs a lot more games to make it the main place for anyone to play. Ubisoft and Capcom are great partners — big studios with games people want to play. But the gaming PC is popular because it supports just about every major game outside of some console exclusives, and has a backlog going back decades.
@@ -112,9 +116,6 @@ _Assassin's Creed Mirage_ has similar tricks, but only across the iPhone and iPa
 
 ![Apple gaming showcase with Mac, iPad, iPhone](https://cdn.mos.cms.futurecdn.net/JS8KyTUyCkK6QgiFQZ5HeQ-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  That also means it will take a significant amount of time for Apple to get its gaming efforts anywhere near mainstream. I hope the company is ready to continue this investment in chips, developer relations, and technologies. To get gamers and studios entirely on board will take a lot work. It will take years to see if this can be a true success. (Apple also needs to ensure it doesn't alienate game developers and publishers,[like Epic Games](https://tools.techidaily.com) , which means one of the biggest games in the world doesn't run natively on its flagship platform).  
@@ -122,8 +123,9 @@ _Assassin's Creed Mirage_ has similar tricks, but only across the iPhone and iPa
  But sitting in that room, playing some_Resident Evil_ on a MacBook Pro_, Assassin's Creed_ on an iPad,_Palworld_ on a Mac, and_Control_ through x86 emulation tech makes me believe Apple is taking gaming seriously this time. It may never release a gaming laptop — instead, the idea is_any_ Mac (with Apple Silicon, of course) can be a gaming machine. So can any iPad, any iPhone. It's a bold claim that will take continued successes to convince the often-skeptical PC gaming community.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Quality of life improvements, as long as you're in the ecosystem
 
  Apple's other gaming-focused projects are less shiny. Game Mode, which launched on the Mac last year, is coming to the iPhone and iPad this year with iOS 18 and iPadOS 18, minimizing background activity and reducing latency for[audio](https://tools.techidaily.com) and controllers. MacOS Sequoia will have a new version that reduces background processes even further.
@@ -142,8 +144,6 @@ _Assassin's Creed Mirage_ has similar tricks, but only across the iPhone and iPa
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,4 +151,21 @@ _Assassin's Creed Mirage_ has similar tricks, but only across the iPhone and iPa
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-charting-a-course-to-your-personalized-tiktok-marker/"><u>[New] Charting a Course to Your Personalized TikTok Marker</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-elite-video-streaming-platforms-for-broadcast-for-2024/"><u>[New] Elite Video Streaming Platforms for Broadcast for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-perfect-group-photos-with-iphones-burst-shot/"><u>[New] In 2024, Perfect Group Photos with iPhone's Burst Shot</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-the-power-of-politeness-in-growing-your-audience/"><u>[New] In 2024, The Power of Politeness in Growing Your Audience</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-quick-guide-capturing-time-lapses-on-samsung-devices-for-2024/"><u>[New] Quick Guide Capturing Time-Lapses on Samsung Devices for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/hedding-light-techniques-for-improving-youtube-video-quality-for-2024/"><u>[New] Shedding Light Techniques for Improving YouTube Video Quality for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-guide-downloading-and-upgrading-intel-optane-drivers-the-right-way-for-windows-users/"><u>Comprehensive Guide: Downloading & Upgrading Intel Optane Drivers - The Right Way for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-upgraded-tp-link-ub400-adapter-drivers-step-by-step-instructions-and-free-downloads/"><u>Install Upgraded TP-Link UB400 Adapter Drivers - Step by Step Instructions and Free Downloads</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-and-updating-toshiba-satellite-dynabox-drivers-for-windows-computers/"><u>Installing and Updating Toshiba Satellite Dynabox Drivers for Windows Computers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-instructions-to-effortlessly-install-wacoms-intuos-pro-driver-with-windows-11/"><u>Step-by-Step Instructions to Effortlessly Install Wacom's [Intuos Pro Driver] with Windows 11</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-complete-guide-to-the-asus-vg245h-a-top-contender-for-gamers-screens/"><u>The Complete Guide to the Asus VG245H – A Top Contender for Gamers' Screens</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-xiaomi-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Xiaomi Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-epson-tm-t88v-printers-driver-to-enhance-printing-performance-on-windows-systems/"><u>Update Your EPSON TM-T88V Printer's Driver to Enhance Printing Performance on Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722967439549-update-your-msi-b3ns-with-the-newest-drivers-for-windows-10-and-7-get-the-tomahawk-edition/"><u>Update Your MSI B3n's with the Newest Drivers for Windows 10 and 7 - Get the Tomahawk Edition!</u></a></li>
+</ul></div>
 

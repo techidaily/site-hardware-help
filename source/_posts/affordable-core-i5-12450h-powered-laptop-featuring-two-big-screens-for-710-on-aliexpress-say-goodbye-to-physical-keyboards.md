@@ -1,7 +1,7 @@
 ---
 title: Affordable Core I5-12450H Powered Laptop Featuring Two Big Screens for $710 on AliExpress - Say Goodbye to Physical Keyboards
-date: 2024-08-19T10:43:38.784Z
-updated: 2024-08-20T10:43:38.784Z
+date: 2025-01-01T16:30:26.739Z
+updated: 2025-01-04T16:07:31.276Z
 tags:
   - laptop
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/c616a530c3b86047af7fee8d712f3caf3cb46a3e4
 The SZBox DS16 is a 16-inch laptop[available from AliExpress](https://go.redirectingat.com/?id=92X1584492&xcust=tomshardware%5Fus%5F1205122597602329443&xs=1&url=https%3A%2F%2Fwww.aliexpress.us%2Fitem%2F3256806648016140.html&sref=https%3A%2F%2Fwww.tomshardware.com%2Flaptops%2Fthis-core-i5-12450h-laptop-trades-a-physical-keyboard-for-dual-16-inch-displays-and-costs-just-dollar710-on-aliexpress) with a relatively affordable $710 starting price point. However, the real reason it's garnering so much attention (first brought to light by[Liliputing](https://liliputing.com/this-dual-screen-laptop-has-two-touchscreen-displays-and-support-for-height-adjustments-but-lacks-a-physical-keyboard/) ) is due to its dual 16-inch 1200p IPS touch panel configuration.
 
  Below, we've charted the specifications of the SZBox DS16 and its two primary variations, which we'll be referring to as the Intel Core i5 and Core i7 models for clarity's sake.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## SZBox DS16 Dual Screen Laptop Core Specs
 
@@ -37,9 +41,17 @@ The SZBox DS16 is a 16-inch laptop[available from AliExpress](https://go.redirec
 
 ![SZBox DS16](https://cdn.mos.cms.futurecdn.net/XXxLAnUWrMrCacNrJh5DWi-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: AliExpress)
 
  With a starting price of just over $700, the base Core i5 model is roughly $800 cheaper than the[Asus Zenbook Duo](https://tools.techidaily.com) (even the upgraded DS16 Core i7 model only costs $1,000, which still undercuts the entry from Asus). However, the Zenbook Duo features dual 14-inch OLED displays, a newer Intel Core Ultra 7 processor, and is nearly three pounds lighter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
@@ -55,8 +67,6 @@ The SZBox DS16 is a 16-inch laptop[available from AliExpress](https://go.redirec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -64,8 +74,19 @@ The SZBox DS16 is a 16-inch laptop[available from AliExpress](https://go.redirec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-high-definition-flight-testing-xiaomi-mi-drone-probe/"><u>[New] In 2024, High-Definition Flight Testing - Xiaomi Mi Drone Probe</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-step-by-step-guide-for-text-superimposition-on-video-using-windows-photos/"><u>[New] In 2024, Step-by-Step Guide for Text Superimposition on Video Using Windows Photos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ue590-review-top-4k-game-display-with-fs/"><u>[New] The UE590 Review Top 4K Game Display with FS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/galaxy-buds-ebt-3-pro-orders-halted-defective-eartips-the-cause-of-setbacks/"><u>Galaxy Buds Ebt 3 Pro Orders Halted: Defective Eartips the Cause of Setbacks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-xiaomi-redmi-k70e-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Xiaomi Redmi K70E to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/improve-your-tv-audio-experience-solutions-for-todays-disappointing-sounds/"><u>Improve Your TV Audio Experience: Solutions for Today's Disappointing Sounds</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-analysis-of-raycons-pro-everyday-earbuds-outstanding-charging-capacity-yet-sparse-on-extra-benefits/"><u>In-Depth Analysis of Raycon's Pro Everyday Earbuds - Outstanding Charging Capacity, Yet Sparse on Extra Benefits</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/is-m1-suitability-for-professional-editing-confirmed-in-2024/"><u>Is M1 Suitability for Professional Editing Confirmed, In 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/maximizing-device-lifespan-the-ultimate-review-of-belkins-pro-boostcharge-featuring-qi2-and-discreet-port-technology/"><u>Maximizing Device Lifespan: The Ultimate Review of Belkin's Pro BoostCharge, Featuring Qi2 and Discreet Port Technology</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/microsoft-surface-laptop-4-review/"><u>Microsoft Surface Laptop 4 Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ratatouille/"><u>Ratatouille</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-microsoft-outlook-connection-issues-a-comprehensive-guide/"><u>Resolving Microsoft Outlook Connection Issues: A Comprehensive Guide</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

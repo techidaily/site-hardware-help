@@ -1,7 +1,7 @@
 ---
 title: "Upcoming ARM-Based Dell XPS & Inspiron Series Teasers: Imagery Released, Anticipated Q3 Launch"
-date: 2024-08-19T10:42:01.472Z
-updated: 2024-08-20T10:42:01.472Z
+date: 2024-12-30T17:04:44.723Z
+updated: 2025-01-04T16:28:31.695Z
 tags:
   - laptop
 categories:
@@ -27,6 +27,10 @@ A Swedish startup could revolutionize building lighter laptops and other portabl
   
  As Sinonus describes it, using “the mass that is already there” to store energy could serve to reduce the weight and volume of the device while still improving overall system performance. After all, if your laptop is smaller and lighter while still giving the same battery life, it hardly matters that the material storing the energy isn’t as efficient as a LiON battery pack.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -35,14 +39,11 @@ A Swedish startup could revolutionize building lighter laptops and other portabl
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -51,8 +52,24 @@ A Swedish startup could revolutionize building lighter laptops and other portabl
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-concealing-content-securing-video-data-ethics/"><u>[New] 2024 Approved Concealing Content Securing Video Data Ethics</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-decoding-the-secret-of-instagrams-video-cap/"><u>[New] In 2024, Decoding the Secret of Instagram's Video Cap</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nlock-high-view-counts-using-savvy-hashtag-use-for-2024/"><u>[New] Unlock High View Counts Using Savvy #Hashtag Use for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gratitude-unboxed-free-and-paid-creative-otus/"><u>[Updated] Gratitude Unboxed Free & Paid Creative OTUs</u></a></li>
+<li><a href="https://driver-error.techidaily.com/find-and-fix-driver-issues-a-step-by-step-guide-for-windows-11-8-and-7-users/"><u>Find and Fix Driver Issues: A Step-by-Step Guide for Windows 11, 8 & 7 Users</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-lava-yuva-2-pro-frp-bypass-by-drfone-android/"><u>In 2024, About Lava Yuva 2 Pro FRP Bypass</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-oneplus-open-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your OnePlus Open Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/lapdock-solutions-how-to-convert-your-smartphone-into-a-personal-computer-on-the-go/"><u>Lapdock Solutions: How to Convert Your Smartphone Into a Personal Computer on the Go</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/leading-mobile-devices-featuring-traditional-headphone-ports-for-optimal-sound-experience/"><u>Leading Mobile Devices Featuring Traditional Headphone Ports for Optimal Sound Experience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/managing-several-gmail-profiles-steps-for-linking-multiple-google-logins-to-your-android-device/"><u>Managing Several Gmail Profiles: Steps for Linking Multiple Google Logins to Your Android Device</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-personalized-volume-controls-tips-for-tuning-each-apps-sound-on-your-samsung-phone/"><u>Mastering Personalized Volume Controls: Tips for Tuning Each App's Sound on Your Samsung Phone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/motorola-edge-plus-vs-galaxy-s2n-ultra-an-in-depth-comparison/"><u>Motorola Edge Plus vs Galaxy S2n Ultra: An In-Depth Comparison</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-with-ease-a-step-by-step-guide-to-androids-one-handed-mode-features/"><u>Navigating with Ease: A Step-by-Step Guide to Android's One-Handed Mode Features</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/reevaluating-the-hype-the-unfolding-truth-behind-book-style-smartphones/"><u>Reevaluating the Hype: The Unfolding Truth Behind Book-Style Smartphones</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/root-access-explained-unleashing-your-androids-full-potential-or-inviting-trouble/"><u>Root Access Explained: Unleashing Your Android's Full Potential or Inviting Trouble?</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->

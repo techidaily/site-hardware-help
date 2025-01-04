@@ -1,7 +1,7 @@
 ---
 title: Million-Dollar Marketing Boosts Qualcomm's Copilot+ Sales with Improved Battery Performance Over AI
-date: 2024-08-19T10:42:10.348Z
-updated: 2024-08-20T10:42:10.348Z
+date: 2024-12-30T16:40:50.565Z
+updated: 2025-01-04T17:08:32.140Z
 tags:
   - laptop
 categories:
@@ -16,6 +16,10 @@ At today's Windows and devices event, partner OEMs opened the floodgates for new
  Not only does the new Snapdragon X family seem to offer compelling performance and efficiency coupled with long runtimes, but it also features a powerful Hexagon Neural Processing Unit (NPU) that is the focal point of the[Windows 11](https://tools.techidaily.com) AI revolution and is capable of 45 TOPS compute. The NPU can efficiently process tasks such as image editing, text-to-image generation, and text creation on-device without the need for the cloud.
 
  Before we get into the specifics about the new laptops that have been announced, let’s first give you a brief specs overview of the Snapdragon X Elite and Snapdragon X Plus chips that power these machines. You can[read our comprehensive overview](https://tools.techidaily.com) of the new Arm processor family for more details.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Qualcomm Snapdragon X Series Platform Specs
 
@@ -35,6 +39,10 @@ At today's Windows and devices event, partner OEMs opened the floodgates for new
  So far, we've seen new introductions from some of the industry's biggest names, including Acer,[Dell](https://tools.techidaily.com) , Hewlett-Packard, and Lenovo.
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Acer Swift 14 AI
 
@@ -59,9 +67,6 @@ Acer Swift 14 AI  (Image credit: Qualcomm)
 
  On the connectivity front, there are two USB-C, two USB-A ports, and HDMI 1.4\. For your wireless needs, you'll find Wi-Fi 7 and Bluetooth 5.4\. Power comes from a 73 WHr battery, rated for up to 12 hours.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -75,9 +80,9 @@ Acer Swift 14 AI  (Image credit: Qualcomm)
  Acer intends to launch the Swift 14 AI in the United States this June, with prices starting at $1,099.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Lenovo Yoga Slim 7x 14 Gen 9 and ThinkPad 14s Gen 6
 
  Next, we have the Yoga Slim 7x 14 Gen 9 from the Lenovo camp. Manufacturers often talk about "all-day" battery life with their thin and light[notebooks](https://tools.techidaily.com) , but Lenovo claims that the Yoga Slim 7x extends that to "multi-day battery life." The efficient Snapdragon X Elite processor is paired with up to 32GB of LPDDR5x and includes a 70 WHr battery to enable this long endurance.
@@ -107,9 +112,6 @@ Lenovo Yoga Slim 7x 14 Gen 9  (Image credit: Qualcomm)
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/QXLgUBPHQLuoQKnKFXBYAN-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 Lenovo ThinkPad T14s Gen 6  (Image credit: Qualcomm)
 
  Lenovo provides three display options with the ThinkPad T14s Gen 6: the first two are 14-inch 400-nit IPS panels with a 1920 x 1200 resolution, but one supports touch, and the other doesn't. The third option is a 2.8K OLED panel with 100% coverage of DCI-P3 and VESA HDR True Black 500 compliance.
@@ -121,8 +123,9 @@ Lenovo ThinkPad T14s Gen 6  (Image credit: Qualcomm)
  According to Lenovo, the Yoga Slim 7x and ThinkPad T14s Gen 6 will debut next month, priced from $1,199 and $1,699, respectively.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Dell XPS 13, Inspiron 14 Plus, and Latitude 7455
 
  Dell’s lineup of Snapdragon X laptops[leaked early last week](https://tools.techidaily.com) , so things here should look somewhat familiar. The XPS 13 has a striking design, with a keyboard that goes nearly to the left and right edge of the CNC-machined aluminum chassis (available in Platinum or Graphite). You'll also find the controversial capacitive touch function row above the keyboard, which we discussed in our[reviews of the XPS 14 and XPS 16](https://tools.techidaily.com) . The haptic touchpad is also seamlessly integrated into the keyboard deck, which is covered in Gorilla Glass 3.
@@ -166,9 +169,6 @@ Dell Latitude 7455  (Image credit: Qualcomm)
 
  The XPS 13 and Inspiron 14 Plus are scheduled to launch "later this year," priced from $1,299 and $1,099, respectively. Pricing and availability aren't yet known for the Latitude 7455.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Hewlett-Packard OmniBook X and EliteBook Ultra
 
  The[HP](https://tools.techidaily.com) OmniBook X and HP EliteBook Ultra share the same aluminum chassis design, weighing 2.97 pounds, and they measure 12.32 x 8.8 x 0.57 inches. The primary difference is that the latter features a blue finish with a Physical Vapor Deposition (PVD) coating to help resist fingerprints.
@@ -176,8 +176,9 @@ Dell Latitude 7455  (Image credit: Qualcomm)
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/kkJgrFcMsp5e7XQRtHVKxM-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 HP OmniBook X and EliteBook Ultra  (Image credit: Qualcomm)
 
  The two laptops each have a Snapdragon X Elite chip, a 14-inch 2240 x 1400 IPS display, support for Wi-Fi 6E/Bluetooth 5.3 or Wi-Fi 7/Bluetooth 5.4, a 1080p webcam with IR, a 59 WHr battery, two USB-C ports, and one USB-A port. The OmniBook X is available with 16GB or 32GB of LPDDR5x and 512GB, 1TB, or 2TB SSD options. The EliteBook Ultra is only available with 16GB of LPDDR5x and a 512GB or 1TB SSD.
@@ -201,8 +202,6 @@ HP OmniBook X and EliteBook Ultra  (Image credit: Qualcomm)
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -210,4 +209,20 @@ HP OmniBook X and EliteBook Ultra  (Image credit: Qualcomm)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-ultimate-twitch-collection-perfectly-preserve-your-tweets/"><u>[Updated] In 2024, Ultimate Twitch Collection - Perfectly Preserve Your Tweets</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-revolutionizing-viewer-retention-on-youtube-with-these-powerful-strategies/"><u>[Updated] Revolutionizing Viewer Retention on YouTube with These Powerful Strategies</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/1726029678312-2024/"><u>画質を下げる方法:2024動画編、初心者も簡単に学べるテクニック</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-samsung-galaxy-s23-tactical-edition-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Samsung Galaxy S23 Tactical Edition? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-global-sensations-surpassing-100-million-views-on-youtube-the-yearly-countdown/"><u>In 2024, Global Sensations Surpassing 100 Million Views on YouTube (The Yearly Countdown)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/running-out-of-room-on-your-android-phone-or-tablet-learn-easy-techniques-for-assessing-and-enhancing-storage-capacity/"><u>Running Out of Room on Your Android Phone or Tablet? Learn Easy Techniques for Assessing and Enhancing Storage Capacity</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/simplified-strategies-for-google-voice-call-records-for-2024/"><u>Simplified Strategies for Google Voice Call Records for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-changing-default-applications-in-your-android-device/"><u>Step-by-Step Guide: Changing Default Applications in Your Android Device</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-moving-your-messages-from-ios-to-android-devices/"><u>Step-by-Step Guide: Moving Your Messages From iOS to Android Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-securing-your-data-with-the-google-password-manager-app-for-android/"><u>Step-by-Step Guide: Securing Your Data with the Google Password Manager App for Android</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-switching-your-androids-primary-web-browser/"><u>Step-by-Step Guide: Switching Your Android's Primary Web Browser</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-eliminating-bloatware-for-a-cleaner-android-experience/"><u>Step-by-Step Tutorial: Eliminating Bloatware for a Cleaner Android Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-word-and-characters-restrictions-in-chatgpt-dialogue/"><u>Understanding Word and Characters Restrictions in ChatGPT Dialogue</u></a></li>
+</ul></div>
 

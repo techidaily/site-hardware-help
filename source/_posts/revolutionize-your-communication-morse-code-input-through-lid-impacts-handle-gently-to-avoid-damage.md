@@ -1,7 +1,7 @@
 ---
 title: "Revolutionize Your Communication: Morse Code Input Through Lid Impacts – Handle Gently to Avoid Damage"
-date: 2024-08-19T10:46:41.152Z
-updated: 2024-08-20T10:46:41.152Z
+date: 2025-01-02T16:20:45.450Z
+updated: 2025-01-04T17:19:37.926Z
 tags:
   - laptop
 categories:
@@ -27,6 +27,10 @@ We cover many unique "because I felt like it" projects here at Tom's Hardware, b
 
  In more modern communications news,[Wi-Fi over three kilometers](https://tools.techidaily.com) was demonstrated with a real-time video call back in January. Windows[11 started adding support for Wi-Fi 7](https://tools.techidaily.com) back in February. All this progress means that most Wi-Fi routers in the world will be a free-for-all on the same few congested wireless channels unless configured properly. Some monsters and nerds out there still employ Morse code, a language with roots in the 1830s.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,8 +45,6 @@ We cover many unique "because I felt like it" projects here at Tom's Hardware, b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -50,8 +52,22 @@ We cover many unique "because I felt like it" projects here at Tom's Hardware, b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-advanced-color-correction-mastering-luts-in-after-effects/"><u>[New] Advanced Color Correction Mastering LUTs in After Effects</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-unveiling-the-hidden-accessing-youtube-video-comments/"><u>[New] In 2024, Unveiling the Hidden Accessing YouTube Video Comments</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-a-compreomed-approach-for-making-tiktok-songs-your-ringtone/"><u>[Updated] A Compreomed Approach for Making TikTok Songs Your Ringtone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722953630706-download-latest-amd-radeon-pro-w5700-driver-windows-11-10-and-7/"><u>Download Latest AMD Radeon Pro W5700 Driver – Windows 11, 10 & 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975006440-download-the-latest-hp-deskjet-ink-advantage-3050a-driver-software-for-windows-no-cost/"><u>Download the Latest HP Deskjet Ink Advantage 3050A Driver Software for Windows - No Cost</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-most-out-of-your-legion-5-pro-essential-driver-updates-and-software-tips/"><u>Get the Most Out of Your Legion 5 Pro: Essential Driver Updates & Software Tips</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/how-to-save-and-play-gifs-on-an-iphone/"><u>How to Save and Play GIFs on An iPhone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-seamlessly-install-new-drivers-for-your-microsoft-sculpt-keyboard/"><u>How To Seamlessly Install New Drivers For Your Microsoft Sculpt Keyboard</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-realme-11x-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Realme 11X 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Vivo S18e? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/keep-your-system-updated-download-intels-latest-nvme-drivers-instantly/"><u>Keep Your System Updated: Download Intel's Latest NVMe Drivers Instantly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-gadgets-with-toms-digital-expertise/"><u>Mastering Gadgets with Tom's Digital Expertise</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-the-latest-hardware-technology-tips-from-toms-hardware/"><u>Mastering the Latest Hardware Technology – Tips From Tom's Hardware</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/ranking-the-leading-free-srt-translators-online/"><u>Ranking the Leading Free SRT Translators Online</u></a></li>
+<li><a href="https://driver-error.techidaily.com/rectifying-intel-management-engine-errors/"><u>Rectifying Intel Management Engine Errors</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Ryzen AI 300 Series Arrives Early: New Release Date Set for July 28 - Updated Best Buy Pre-Orders!"
-date: 2024-08-19T10:43:16.652Z
-updated: 2024-08-20T10:43:16.652Z
+date: 2024-12-31T16:27:17.282Z
+updated: 2025-01-04T16:16:07.637Z
 tags:
   - laptop
 categories:
@@ -25,6 +25,10 @@ AMD’s latest[Ryzen AI 300](https://tools.techidaily.com) (Strix Point) chips a
 
  Nevertheless,[early benchmarks support AMD’s claims](https://tools.techidaily.com) that its latest laptop CPUs gain 15% over the last-gen Ryzen 7 7735U. We also expect these APUs to have significantly better graphics performance as they upgrade their graphics engines with RDNA 3.5\. However, all these[benchmarks](https://tools.techidaily.com) and numbers mean nothing if we can’t get our hands on these devices and run real-world benchmarks. So, we’ll have to wait until the end of July before we can start testing these laptops and comparing them against[the new Snapdragon X Elite laptops](https://tools.techidaily.com) launched a few weeks back.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -39,8 +43,6 @@ AMD’s latest[Ryzen AI 300](https://tools.techidaily.com) (Strix Point) chips a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -48,8 +50,20 @@ AMD’s latest[Ryzen AI 300](https://tools.techidaily.com) (Strix Point) chips a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-elite-index-of-public-domain-picture-sources/"><u>[Updated] Elite Index of Public Domain Picture Sources</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-the-ultimate-guide-faster-periscope-streams/"><u>[Updated] The Ultimate Guide Faster Periscope Streams</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/analyzing-abrupt-pauses-in-your-photobooth-experience/"><u>Analyzing Abrupt Pauses in Your Photobooth Experience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-review-of-baseus-powercombo-mini-the-ultimate-5-in-1-67w-power-adapter/"><u>Comprehensive Review of Baseus PowerCombo Mini - The Ultimate 5-in-1 67W Power Adapter</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/critics-slash-humane-ai-game-surprisingly-innovative-concepts-inside/"><u>Critics Slash 'Humane AI' Game: Surprisingly Innovative Concepts Inside</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/determining-a-mechanical-keyboards-volume-prior-to-acquisition-tips-and-tricks/"><u>Determining a Mechanical Keyboard's Volume Prior to Acquisition: Tips & Tricks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-charm-of-high-quality-thermal-label-printing-fall-in-love-with-efficiency/"><u>Discover the Charm of High-Quality Thermal Label Printing - Fall in Love with Efficiency</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-installation-of-android-auto-and-carplay-in-your-car-a-step-by-step-guide/"><u>Effortless Installation of Android Auto and CarPlay in Your Car: A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/free-and-easy-winx-dvd-creator-software-your-ultimate-guide-to-burning-disks-on-windows-10-and-11/"><u>Free & Easy WinX DVD Creator Software: Your Ultimate Guide to Burning Disks on Windows 10 and 11</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/kostenloze-conversie-van-aifc-naar-mp4-online-met-movavi/"><u>Kostenloze Conversie Van AIFC Naar MP4 Online Met Movavi</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-huawei-nova-y71-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Huawei Nova Y71 Device</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-and-simple-guide-how-to-speedily-adjust-videos-for-tiktok/"><u>Quick & Simple Guide: How to Speedily Adjust Videos for TikTok</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-techniques-for-fixing-your-iphones-display-problems-on-ios/"><u>Top Techniques for Fixing Your iPhone's Display Problems on iOS</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Morse Code Typing on a Laptop? Slam the Hood with Rhythm! Note: We're Not Responsible for Damages or Mental Breakdowns"
-date: 2024-08-19T10:43:58.266Z
-updated: 2024-08-20T10:43:58.266Z
+date: 2025-01-02T16:14:38.923Z
+updated: 2025-01-04T17:03:53.719Z
 tags:
   - laptop
 categories:
@@ -27,6 +27,10 @@ We cover many unique "because I felt like it" projects here at Tom's Hardware, b
 
  In more modern communications news,[Wi-Fi over three kilometers](https://tools.techidaily.com) was demonstrated with a real-time video call back in January. Windows[11 started adding support for Wi-Fi 7](https://tools.techidaily.com) back in February. All this progress means that most Wi-Fi routers in the world will be a free-for-all on the same few congested wireless channels unless configured properly. Some monsters and nerds out there still employ Morse code, a language with roots in the 1830s.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,8 +45,6 @@ We cover many unique "because I felt like it" projects here at Tom's Hardware, b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -50,13 +52,26 @@ We cover many unique "because I felt like it" projects here at Tom's Hardware, b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/n-2024-transform-your-videography-using-youtube-to-boost-visual-clarity/"><u>[New] In 2024, Transform Your Videography Using YouTube to Boost Visual Clarity</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-frame-your-fantasy-the-most-uplifting-instagram-captures/"><u>[Updated] 2024 Approved Frame Your Fantasy The Most Uplifting Instagram Captures</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-utilizing-inbuilt-cameras-for-screen-recording-on-mate-and-p-series-smartphones-mate-10-mate-20-p20-p10/"><u>[Updated] 2024 Approved Utilizing Inbuilt Cameras for Screen Recording on Mate and P Series Smartphones (Mate 10, Mate 20; P20, P10)</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-top-3-premium-phones-excelling-in-quality-video-capture/"><u>[Updated] In 2024, Top 3 Premium Phones Excelling in Quality Video Capture</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-discover-the-depth-of-4k-with-the-nikon-d500-camera/"><u>2024 Approved Discover the Depth of 4K with the Nikon D500 Camera</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-surprising-insights-can-your-children-identify-these-top-10-obsolete-devices/"><u>Discover Surprising Insights: Can Your Children Identify These Top 10 Obsolete Devices?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/endless-desire-to-purchase-earphones-is-it-my-fault-or-a-habit/"><u>Endless Desire to Purchase Earphones - Is It My Fault or a Habit?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/locate-the-best-bargains-on-gopro-cameras/"><u>Locate the Best Bargains on GoPro Cameras</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-convert-webm-to-mp4-with-ease-best-tools-revealed-for-2024/"><u>New Convert WebM to MP4 with Ease Best Tools Revealed for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resetting-your-ipad-security-a-guide-when-you-cant-remember-the-password/"><u>Resetting Your iPad Security - A Guide When You Can’t Remember the Password</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-stop-laptops-internal-keystrokes/"><u>Step-by-Step: Stop Laptop's Internal Keystrokes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-ecovacs-deebot-t30s-combo-the-all-in-one-robovac-with-stair-climbing-ability/"><u>Ultimate Guide to Ecovacs Deebot T30S Combo: The All-in-One RoboVac with Stair Climbing Ability</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-the-ugreen-qi2-portable-and-foldable-charger-the-perfect-compact-power-solution-for-professionals/"><u>Ultimate Guide to the Ugreen Qi2 Portable and Foldable Charger - The Perfect Compact Power Solution for Professionals</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-review-how-the-logitech-g502-became-the-top-choice-for-gamers/"><u>Ultimate Review: How the Logitech G502 Became the Top Choice for Gamers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-excellence-of-bose-soundlink-max-an-in-depth-review-of-a-superior-bluetooth-speaker/"><u>Unveiling the Excellence of Bose SoundLink Max: An In-Depth Review of a Superior Bluetooth Speaker</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-latest-in-portable-energy-explore-the-power-of-the-jackery-explorer-1500-pro-insights-from-zdnet/"><u>Unveiling the Latest in Portable Energy: Explore the Power of the Jackery Explorer 1500 Pro - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-sonos-roam-2-a-fresh-look-inside-and-initial-thoughts/"><u>Unveiling the Sonos Roam 2: A Fresh Look Inside and Initial Thoughts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/why-the-asus-gn50lx-has-become-my-ultimate-companion-for-traveling/"><u>Why the Asus GN50LX Has Become My Ultimate Companion for Traveling</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/why-you-shouldnt-write-off-camcorders-just-yet-essential-reasons-for-purchasing/"><u>Why You Shouldn't Write Off Camcorders Just Yet - Essential Reasons for Purchasing</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

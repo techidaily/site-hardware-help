@@ -1,7 +1,7 @@
 ---
 title: Top-Performing Workhorse Laptop Unveiled, Surpasses Thoughtpad & Macbook in Tests - Insights From ZDNet
-date: 2024-12-24T05:05:17.990Z
-updated: 2024-12-26T00:56:35.432Z
+date: 2025-01-01T17:16:17.103Z
+updated: 2025-01-04T16:48:10.024Z
 tags:
   - laptops
 categories:
@@ -47,10 +47,6 @@ ASUS/ZDNET
 * [Asus ROG Strix G16](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BV7XQ9V9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6558249a-9d4b-4a86-97d7-d0e0d87ba550%7Cdtp&dtb=1): $1700 (save $300)
 * [Asus ROG Strix Scar 15](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Display-GeForce-Keyboard-G533ZW-AS94Q%2Fdp%2FB0BDTVSXS9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6558249a-9d4b-4a86-97d7-d0e0d87ba550%7Cdtp&dtb=1): $1450 (save $600)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best holiday gaming laptop deals at Best Buy
 
 MSI/ZDNET
@@ -68,7 +64,7 @@ MSI/ZDNET
 * [Asus ROG Flow X13](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-rog-flow-x13-13-4-touchscreen-gaming-laptop-1920-x-1200-fhd-amd-ryzen-9-with-16gb-memory-512gb-ssd-off-black%2F6535502.p%3FskuId%3D6535502&publisher_slug=itechdaily19598&exclusive=1): $800 (save $450)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best holiday gaming laptop deals at B&H Photo
@@ -98,6 +94,10 @@ Lenovo/ZDNET
 * [Asus TUF A17](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fmecha-gray-asus-tuf-gaming-f17-fa707xi-ns94%252Fp%252FN82E16834236430): $1400 (save $400)
 * [Gigabyte G5](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fp%252FN82E16834233559): $750 (save $349)
 * [Acer Predator Helios 16](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fabyssal-black-acer-predator-helios-16-ph16-71-72yg-gaming%252Fp%252FN82E16834360250): $1500 (save $400)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best holiday graphics card deals
 
@@ -134,7 +134,7 @@ Lenovo/ZDNET
 * [XCOM: Enemy Unknown](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fp%252FN82E16832205142): $7 (save $23 at Newegg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we choose these holiday gaming laptop deals?
@@ -144,7 +144,7 @@ ZDNET only writes about deals we want to buy -- devices and products we desire, 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the best gaming laptop?
@@ -155,13 +155,13 @@ ZDNET's Lena Borrelli chose the Razer Blade 17 as her top pick for the [best gam
 
 I chose the Asus TUF A15 (which happens to be on sale at several retailers) as the [best budget gaming laptop](https://www.zdnet.com/home-and-office/home-entertainment/best-budget-gaming-laptop/) for its wallet-friendly price as well as its 144Hz refresh rate to help provide smoother action during fast-paced gameplay or action-heavy cutscenes. The TUF A15 chassis is tested against MIL-STD-810G guidelines for water, dust, shock, and drop resistance, so you can take this laptop just about anywhere and not have to worry about spills or getting jostled on the subway.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How much should a gaming laptop cost?
 
 A gaming laptop is one of those things where you can spend as little or as much as you want; it all depends on what you want to get out of it. If you're looking for your kids, or are an adult just starting to get into PC gaming, it's best to go with a laptop that's under $1000\. You'll still get a great build that's capable of handling most triple-A and indie titles, but you won't have broken the bank getting into a new hobby. However, if you're a content creator or PC gaming veteran, about $1500 will get you a solid gaming laptop that can handle just about anything in your library or wishlist.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the best holiday tech deals right now?
 
@@ -228,20 +228,19 @@ ZDNET's experts have been searching for holiday deals across sites like Amazon, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-making-your-favorite-tiktok-beats-your-personal-mobile-alarm-signal/"><u>[New] Making Your Favorite TikTok Beats Your Personal Mobile Alarm Signal</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ews-narratives-concluding-flourishes-for-2024/"><u>[New] News Narratives' Concluding Flourishes for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/asrock-ab350-pro4-secure-free-driver-download-and-installation-guide-for-windows-users/"><u>ASRock AB350 Pro4: Secure Free Driver Download & Installation Guide for Windows Users</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/diverse-dialects-finding-a-home-in-eng/"><u>Diverse Dialects Finding a Home in Eng</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-your-newly-released-optimized-wireless-network-driver/"><u>Download Your Newly Released, Optimized Wireless Network Driver</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-obtain-and-install-the-latest-amd-gpu-drivers-for-windows/"><u>How to Obtain and Install the Latest AMD GPU Drivers for Windows</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-boost-your-view-count-this-tutorials-top-hit/"><u>In 2024, Boost Your View Count This Tutorial's Top Hit</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Samsung Galaxy M34 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-itel-p55plus-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Itel P55+</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722974343698-liver-transplantation-in-btc-patients-requires-strict-criteria-to-be-met-due-to-cancer-recurrence-concerns/"><u>Liver Transplantation in BTC Patients Requires Strict Criteria to Be Met Due to Cancer Recurrence Concerns</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/sandisk-ssd-installation-made-easy-finding-and-downloading-the-correct-drivers/"><u>SanDisk SSD Installation Made Easy – Finding & Downloading the Correct Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-definitive-list-of-high-performance-cpus-ranked-by-speed-and-efficiency-2024-edition/"><u>The Definitive List of High-Performance CPUs - Ranked by Speed and Efficiency, 2024 Edition</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-spectrum-of-present-use-to-future-drones-potential/"><u>The Spectrum of Present Use to Future Drones' Potential</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transformar-arquivos-ogv-em-webm-livremente-online-com-o-movavi/"><u>Transformar Arquivos OGV Em WEBM Livremente Online Com O Movavi</u></a></li>
-<li><a href="https://win-studio.techidaily.com/2024windows5/"><u>オススメの2024年用Windows音声抽出手順5つ</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-professional-graphics-with-asus-pa32u-true-to-color-for-2024/"><u>[New] Professional Graphics with ASUS PA32U True to Color for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-quintessential-storylines-dominating-film-landscapes/"><u>[New] Quintessential Storylines Dominating Film Landscapes</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-efficient-editing-techniques-mastering-video-cropping-and-exporting-for-2024/"><u>[Updated] Efficient Editing Techniques Mastering Video Cropping and Exporting for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/essential-techniques-for-splendid-lyric-videos-lyric-video-maker-edition/"><u>Essential Techniques for Splendid Lyric Videos, Lyric Video Maker Edition</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/fight-night-on-nintendo-switch-top-ten-picks/"><u>Fight Night on Nintendo Switch - Top Ten Picks</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-vivo-y100a-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Vivo Y100A</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-14-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 14 to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-tecno-camon-20-premier-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Tecno Camon 20 Premier 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/massive-discount-on-cyber-monday-snag-a-13-samsung-galaxy-book2-360-for-just-450-less-zdnets-exclusive-offer/"><u>Massive Discount on Cyber Monday: Snag a 13 Samsung Galaxy Book2 360 for Just $450 Less! - ZDNet's Exclusive Offer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/my-ultimate-must-have-travel-gear-the-flawless-usb-c-tangle-free-cord-reviewed-tech-on-the-go/"><u>My Ultimate Must-Have Travel Gear: The Flawless USB-C 'Tangle-Free' Cord Reviewed | Tech on the Go</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/reinventing-the-personal-computer-the-microsoft-surface-journey-from-unsteady-beginnings-to-industry-disruptor-insights-by-zdnet/"><u>Reinventing the Personal Computer: The Microsoft Surface Journey From Unsteady Beginnings to Industry Disruptor - Insights by ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-choosing-the-top-rated-portable-laptop-perfect-for-digital-nomads-insights/"><u>The Ultimate Guide to Choosing the Top-Rated Portable Laptop Perfect for Digital Nomads Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-deal-on-adonit-nest-the-ideal-work-from-home-essential-for-just-65-see-inside-with-zdnet/"><u>Unbeatable Deal on Adonit Nest: The Ideal Work-From-Home Essential for Just $65 | See Inside with ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-hidden-gem-how-lenovo-tab-extreme-poses-a-strong-challenge-to-apples-ipad-pro/"><u>Unveiling the Hidden Gem: How Lenovo Tab Extreme Poses a Strong Challenge to Apple's iPad Pro</u></a></li>
 </ul></div>
 

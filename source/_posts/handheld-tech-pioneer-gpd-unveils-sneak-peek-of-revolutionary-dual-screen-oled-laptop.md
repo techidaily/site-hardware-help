@@ -1,7 +1,7 @@
 ---
 title: Handheld Tech Pioneer GPD Unveils Sneak Peek of Revolutionary Dual-Screen OLED Laptop
-date: 2024-08-19T10:39:53.393Z
-updated: 2024-08-20T10:39:53.393Z
+date: 2025-01-03T16:25:46.690Z
+updated: 2025-01-04T16:45:52.958Z
 tags:
   - laptop
 categories:
@@ -29,6 +29,10 @@ The dream of a true, dual-screen productivity laptop may finally have been achie
 
  The Acemagic X1's dual-monitor experience is genuinely superior to what's come before. Asus has used small second screens on its touchpad or above its keyboard on the deck, but these are best used for palettes or control panels. Lenovo has done a lot of second-screen experimentation, doing everything from having a 7-inch display pop out of a slot in the lid on the 17-inch ThinkPad W series to putting an 8-inch screen where the numpad might be on a ThinkBook to releasing the Yoga 9i, which is two screens without a built-in keyboard. Acer also produced an Iconia laptop with two touch screens many years ago.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -44,6 +48,10 @@ The dream of a true, dual-screen productivity laptop may finally have been achie
  The screens are decent, but they aren't particularly bright or colorful. The keyboard feels pretty snappy but it's not likely to make anyone forget about their ThinkPad's typing experience. The touchpad seemed ok but wasn't particularly large. Also, the entire laptop looks really unexciting in its drab, gray colorway.
 
 ![Acemagic X1](https://cdn.mos.cms.futurecdn.net/efSjDm3yhxK3FmNbUzkeoL-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -61,8 +69,6 @@ The dream of a true, dual-screen productivity laptop may finally have been achie
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -70,8 +76,24 @@ The dream of a true, dual-screen productivity laptop may finally have been achie
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-analyzed-the-finest-screen-capture-software-for-macos/"><u>[New] Analyzed The Finest Screen Capture Software for macOS</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-from-broadcasts-to-bitstreams-online-recording-for-professionals-for-2024/"><u>[New] From Broadcasts to Bitstreams Online Recording for Professionals for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/he-path-to-digital-fame-on-youtube-begins-here-for-2024/"><u>[New] The Path to Digital Fame on YouTube Begins Here for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-6-high-definition-21-hdmi-models-analyzed/"><u>2024 Approved 6 High-Definition 2.1 HDMI Models Analyzed</u></a></li>
+<li><a href="https://fox-http.techidaily.com/air-lift-extraordinaire-top-industrial-drones/"><u>Air-Lift Extraordinaire Top Industrial Drones</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/canon-pro-100-printer-drivers-for-windows-easy-installation-guide/"><u>Canon Pro 100 Printer Drivers for Windows: Easy Installation Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-bluetooth-usb-driver-for-windows-quick-reliable-guide-to-downloading-and-updating/"><u>Get the Newest Bluetooth USB Driver for Windows - Quick, Reliable Guide to Downloading & Updating</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-generative-ai-impacts-pricing-strategies-for-todays-companies-zdnet/"><u>How Generative AI Impacts Pricing Strategies for Today's Companies | ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-and-install-the-latest-iphone-drivers-on-your-windows-10-pc/"><u>How to Get & Install the Latest iPhone Drivers on Your Windows 10 PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-install-or-upgrade-your-pcs-pl2303-drivers-on-windows/"><u>How to Install or Upgrade Your PC's PL2303 Drivers on Windows</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-live-tv-on-your-desktop-windows-pc-masterclass-in-capturing-screens/"><u>In 2024, Live TV on Your Desktop Windows PC Masterclass in Capturing Screens</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-shoot-higher-your-mobile-for-vertical-panoramas/"><u>In 2024, Shoot Higher Your Mobile for Vertical Panoramas</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-amd-radeon-rx-470-drivers-quick-download-guide/"><u>Latest AMD Radeon RX 470 Drivers: Quick Download Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-update-to-intel-dual-band-wifi-ac-3160-a-user-friendly-guide-for-speedier-connectivity/"><u>Seamless Update to Intel Dual Band WiFi AC 3160: A User-Friendly Guide for Speedier Connectivity</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/startech-usb-to-vga-adapter-drivers-immediate-download-available/"><u>StarTech USB to VGA Adapter Drivers - Immediate Download Available</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-updating-your-razer-blade-17-graphics-and-system-drivers-on-windows-11-10-8-and-7/"><u>Step-by-Step Guide: Updating Your Razer Blade 17 Graphics and System Drivers on Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-samsung-galaxy-f15-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Samsung Galaxy F15 5G FRP Bypass Everything You Need to Know</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->

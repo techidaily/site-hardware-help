@@ -1,7 +1,7 @@
 ---
 title: "Corporate Insights: In-Depth Microsoft Surface Pro 8 Evaluation on ZDNet"
-date: 2024-12-24T02:09:51.089Z
-updated: 2024-12-26T04:49:19.946Z
+date: 2025-01-02T16:13:25.987Z
+updated: 2025-01-04T16:01:37.794Z
 tags:
   - laptops
 categories:
@@ -40,6 +40,10 @@ All of the precision-machined cases and blazing-fast performance here couldn't m
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specifications
 
 | Processor       | 12th-Gen Intel Core i5 or Core i7                                                          |
@@ -54,7 +58,7 @@ All of the precision-machined cases and blazing-fast performance here couldn't m
 | Size and weight | 12.1 L x 8.8 W x .57 H inches, 2.8 lbs                                                     |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How's the build quality?
@@ -76,7 +80,7 @@ Michael Gariffo/ZDNET
 **More: [The best laptops: Does Apple take the crown?](https://www.zdnet.com/article/best-laptop/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Features and ports
@@ -139,10 +143,6 @@ This might be forgivable in a budget model. But even the base config [Surface La
 
 **More: [The 10 best webcams: Join your next Zoom call in HD](https://www.zdnet.com/article/best-webcam/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Performance and battery life
 
 Unlike on many other laptops I've tested recently, the keyboard deck remained entirely cool, no matter how hard I pushed the laptop.
@@ -166,7 +166,7 @@ Overall, I'd have no qualms about leaving my charger at home and expecting to ge
 [Microsoft Surface Laptop 5 $1,095 at Walmart](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F1738938556&subId1=zd-__COM_CLICK_ID__-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -176,7 +176,7 @@ I may seem like I had high standards for this review, and I did. This is a flags
 If you never videoconference or if wasted space around your display doesn't bother you, you're looking at the best Windows laptop you could buy right now. Even if those things do irk a bit, I'd recommend balancing them against the exceptional performance, build, and aesthetics. The Surface Laptop 5 is frustratingly close to being that universal leader among Windows portables that Microsoft wants it to be. But, if Microsoft wants that crown, I hope it updates the components that held this generation back when it comes time to design the Surface Laptop 6.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -227,17 +227,19 @@ Dell's latest entry in the XPS 13 lineup looks like it comes from further down t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-the-insiders-guide-to-snapchats-spotlight-feature/"><u>[New] The Insider's Guide to Snapchat's Spotlight Feature</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-studio-masterclass-journey-extended-xvideoexplore/"><u>[Updated] 2024 Approved Studio Masterclass Journey Extended XVideoExplore</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-effective-techniques-for-screen-display-on-google-meet/"><u>[Updated] In 2024, Effective Techniques for Screen Display on Google Meet</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-tactical-multitasking-a-guide-to-co-watching-on-yt/"><u>[Updated] In 2024, Tactical Multitasking A Guide to Co-Watching on YT</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-faces-to-watch-top-cosmetic-creatives-for-2024/"><u>[Updated] The Faces to Watch Top Cosmetic Creatives for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/comprehensive-guide-to-downloading-and-updating-amd-vega-64-graphics-card-drivers-for-windows/"><u>Comprehensive Guide to Downloading and Updating AMD Vega 64 Graphics Card Drivers for Windows</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Oppo Reno 8T 5G? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722975322136-effortless-installation-of-corsair-void-pro-on-windows-get-your-drivers-now/"><u>Effortless Installation of Corsair Void Pro on Windows - Get Your Drivers Now!</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-the-investors-handbook-for-monetized-youtubers/"><u>In 2024, The Investor's Handbook for Monetized Youtubers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/official-nvidia-rtx-3070-ti-graphics-card-drivers-for-windows-operating-systems/"><u>Official NVIDIA RTX 3070 Ti Graphics Card Drivers for Windows Operating Systems</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/overcome-the-invisibility-of-short-videos/"><u>Overcome The Invisibility of Short Videos</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-ch3ebit-we-use-a-set-of-conventions-that-are-widely-understood-within-our-industry-or-community/"><u>Step-by-Step Tutorial: CH3ebit, We Use a Set of Conventions that Are Widely Understood Within Our Industry or Community.</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-diy-filmmaking-for-youtube-personalities/"><u>[New] DIY Filmmaking for YouTube Personalities</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-efficient-keyword-utilization-discover-the-best-7-online-video-tag-extractors-reviewed/"><u>[New] In 2024, Efficient Keyword Utilization Discover the Best 7 Online Video Tag Extractors Reviewed</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-innovations-in-videography-infusing-narratives-effortlessly/"><u>2024 Approved Innovations in Videography Infusing Narratives Effortlessly</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-speedy-photo-editing-tips-for-windows-11-users/"><u>2024 Approved Speedy Photo Editing Tips for Windows 11 Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1725285613682-winxvideo-ai/"><u>無料 Winxvideo AI: 高品質動画を一流圧縮できるプレミアムソフトウェア</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/grab-the-deal-sale-on-versatile-10-in-1-multiport-hub-save-35-today-shop-at-techdealscom/"><u>Grab the Deal: Sale on Versatile 10-in-1 Multiport Hub - Save 35% Today! [Shop at TechDeals.com]</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/high-definition-capturing-for-switch-gamers/"><u>High Definition Capturing for Switch Gamers</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-through-facebooks-most-frequent-obstacles-and-bumps/"><u>Navigating Through Facebook's Most Frequent Obstacles & Bumps</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/ntfs-problems-on-windows-10-solved-expert-strategies-for-system-recovery-and-repair/"><u>NTFS Problems on Windows 10 Solved: Expert Strategies for System Recovery and Repair</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/redefining-portability-an-unforgettable-test-experience-with-a-laptop-that-rivals-the-macbook-air-zdnet-insights/"><u>Redefining Portability: An Unforgettable Test Experience with a Laptop that Rivals the MacBook Air | ZDNET Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/say-goodbye-to-macbook-air-discover-how-this-lighter-powerful-windows-laptop-outperforms-exclusive-review-zdnet/"><u>Say Goodbye to MacBook Air: Discover How This Lighter, Powerful Windows Laptop Outperforms – Exclusive Review | ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-tested-dual-function-device-with-hidden-workplace-perks-a-must-read-review/"><u>Top Tested Dual-Function Device with Hidden Workplace Perks - A Must-Read Review</u></a></li>
+<li><a href="https://media-tips.techidaily.com/tutorial-successfully-uploading-an-imovie-to-the-youtube-platform/"><u>Tutorial: Successfully Uploading an iMovie to the YouTube Platform</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-best-long-lasting-ultraportable-laptop-of-the-year-as-tested-by-tech-experts-at-zdnet/"><u>Unveiling the Best Long-Lasting Ultraportable Laptop of the Year, as Tested by Tech Experts at ZDNET</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Offer: Save on HP Victus"
-date: 2024-12-23T21:54:17.717Z
-updated: 2024-12-25T22:52:04.830Z
+date: 2025-01-01T17:19:47.750Z
+updated: 2025-01-04T17:23:36.046Z
 tags:
   - laptops
 categories:
@@ -95,10 +95,6 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Low-Blue-Processor-Ethernet-Bluetooth%2Fdp%2FB0CVN88CFX%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9586302c-2428-498d-9e19-20e580697010%7Cdtp&dtb=1) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Alternative laptop deals
 
 ### Amazon laptop deals
@@ -149,6 +145,10 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [Apple MacBook Air, 2023, refurbished, 13.3-inch deal for $340 (save $660) $340 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-geek-squad-certified-refurbished-macbook-air-13-3-display-intel-core-i5-8gb-memory-128gb-flash-storage-silver%2F6530194.p&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How did we choose these laptop deals?
 
 We searched for laptop deals at retailers like Amazon, Walmart, and Best Buy, and also at the websites of leading manufacturers like Lenovo, HP, Dell, Apple, Acer, and Asus. We also used various price trackers to ensure that a claimed deal wasn't spurious.
@@ -161,10 +161,6 @@ When compiling the list of the best deals, we considered the following:
 * **Features**: We included a range of laptops with features sure to appeal to you, including different screen sizes, processors, memory options, and storage. Furthermore, these laptops include varying levels of security, parental lock options, and display resolutions.
 * **Use cases**: At ZDNET, we also took into account different use cases. You might be in the market for a budget-friendly, basic laptop for a child, for example, or you may need a future-proof laptop suitable for work. Or, it might be a gaming device you're after. So, we have compiled a set of recommendations based on different purposes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What specifications do I need to look for in a laptop?
 
 The right specs depend on your needs and how you intend to use your new laptop -- whether for gaming, studies, video calling, or simply daily internet surfing. We break it down for you below:
@@ -174,9 +170,17 @@ The right specs depend on your needs and how you intend to use your new laptop -
 * **Storage**: For those that focus on lighter laptop use, 256GB of SSD storage will be plenty of space for your laptop. However, if you need more storage for high-resolution photos, videos, or more, you'll want to opt for 512GB of storage or even 1TB.
 * **RAM**: In conjunction with the CPU, RAM is used to help the computer multi-task and is vital to running programs. ZDNET expert Adrian Kingsley-Hughes breaks down [RAM needs here](https://www.zdnet.com/article/how-much-ram-does-your-windows-10-pc-need/), but at minimum, especially for working, you should opt for around 8GB, and gamers will potentially want more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Do I need a gaming laptop or a "regular" laptop?
 
 Again, it depends on your needs. Those who _aren't_ gamers can opt for a regular laptop with high specs, but content creators or those who work with heavy editing software should opt for a designer's laptop or a gaming laptop. Not because, of course, you want to have the best gaming specs on the side, but because those laptops come with powerful CPUs, GPUs, and high RAM to handle the heavy requirements that software needs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How much should I pay for a good laptop?
 
@@ -185,7 +189,7 @@ When you're considering your budget for a new laptop, you have to consider what 
 If you're a gamer who needs a high-spec laptop with a decent graphics card, top-of-the-range display and high refresh rate, you should expect to pay more than $500 - $600 -- and potentially beyond $1,000\. However, if you need a laptop for basic tasks, studying, and streaming, you can easily get away with a basic laptop for a few hundred dollars. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the best deals right now?
@@ -193,7 +197,7 @@ If you're a gamer who needs a high-spec laptop with a decent graphics card, top-
 ZDNET experts split out the latest and greatest deals for you below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best deals by retailer
@@ -202,10 +206,6 @@ ZDNET experts split out the latest and greatest deals for you below.
 * [The best Apple deals](https://www.zdnet.com/article/apple-deals/)
 * [The best AT&T deals](https://www.zdnet.com/article/att-deals/)
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best deals by category
 
@@ -257,21 +257,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-depth-analysis-the-vida-video-editor-experience/"><u>[New] In-Depth Analysis The Vida Video Editor Experience</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-collaborative-sing-along-tiktok-feature/"><u>[Updated] In 2024, Collaborative Sing-Along TikTok Feature</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-logitech-gaming-mouse-g602-drivers-and-software-for-windows-pcs/"><u>Download Logitech Gaming Mouse (G602) Drivers & Software for Windows PCs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-fix-installing-latest-drivers-for-your-scansnap-ix500-using-windows-software/"><u>Easy Fix: Installing Latest Drivers for Your ScanSnap iX500 Using Windows Software</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevate-your-business-practices-using-chatgpt-8-insider-secrets-revealed/"><u>Elevate Your Business Practices Using ChatGPT – 8 Insider Secrets Revealed</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-advanced-technology-insights-with-toms-hardware-hub/"><u>Exploring Advanced Technology Insights with Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722967627564-get-your-free-windows-8-amd-radeon-graphics-software-update-now/"><u>Get Your Free Windows 8 AMD Radeon Graphics Software Update Now!</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-strategic-insights-into-making-emotional-connection-with-customer-success-videos/"><u>In 2024, Strategic Insights Into Making Emotional Connection with Customer Success Videos</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-the-filmmakers-voice-how-to-raise-your-pitch-for-impact-using-filmora/"><u>In 2024, The Filmmakers Voice How to Raise Your Pitch for Impact Using Filmora</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/qualcomm-atheros-ar938x-driver-downloads-secure-and-easy/"><u>Qualcomm Atheros AR938X Driver Downloads - Secure and Easy</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/recordingquality-analysis/"><u>RecordingQuality Analysis</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resurrecting-search-bar-performance-in-windows-11/"><u>Resurrecting Search Bar Performance in Windows 11</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210965927-9781684811960-show-up-as-her/"><u>Show Up as Her | Free Book</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-repairing-windows-7-network-adapter-driver-woes-now-fixed/"><u>Step-by-Step Guide to Repairing Windows 7 Network Adapter Driver Woes - NOW FIXED!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-your-hp-officejet-pro-9015-driver-with-this-free-download/"><u>Update Your HP OfficeJet Pro 9015 Driver with This Free Download</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-crafting-impeccable-videos-for-instagram-enthusiasts-for-2024/"><u>[New] Crafting Impeccable Videos for Instagram Enthusiasts for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-innovate-how-you-connect-with-tech-best-text-interpretation-tools-on-mac-for-2024/"><u>[Updated] Innovate How You Connect with Tech Best Text Interpretation Tools on Mac for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/4000-durable-notebook-triumphs-in-face-of-dell-latitude-a-comprehensive-test/"><u>$4,000 Durable Notebook Triumphs in Face of Dell Latitude: A Comprehensive Test</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-top-5-essentials-for-mastering-tiktok-on-macos/"><u>2024 Approved Top 5 Essentials for Mastering TikTok on macOS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ces-202n-best-innovations-spotlighted-by-zdnet-editors-choice-selections/"><u>CES 202N Best Innovations Spotlighted by ZDNet Editor's Choice Selections</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/elevating-chrome-power-deciphering-the-value-behind-googles-advanced-premium-chromebook-endorsement-digitalinnovator/"><u>Elevating Chrome Power: Deciphering the Value Behind Google's Advanced Premium Chromebook Endorsement | DigitalInnovator</u></a></li>
+<li><a href="https://article-helps.techidaily.com/implementing-azure-transcript-api-in-software/"><u>Implementing Azure Transcript API in Software</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instas-best-practices-choosing-videography-sizes-and-formats-for-2024/"><u>Insta's Best Practices - Choosing Videography Sizes & Formats for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/proven-low-cost-gaming-pcs-for-gamers-on-a-budget-in-depth-analysis-and-reviews-guides/"><u>Proven Low-Cost Gaming PCs for Gamers on a Budget: In-Depth Analysis & Reviews Guides</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/secure-your-exclusive-8-iphone-shoot-out-gear-on-sale-final-deals-of-cyber-monday-event/"><u>Secure Your Exclusive $8 iPhone Shoot-Out Gear on Sale - Final Deals of Cyber Monday Event .</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-acpi-driver-fault-id-33a0/"><u>Solving Acpi Driver Fault ID 33A0</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-review-why-you-should-avoid-the-new-dell-xps-14-insights/"><u>The Ultimate Review: Why You Should Avoid the New Dell XPS 14 - Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-picks-the-ideal-13-business-laptop-for-travelers-neither-apples-macbook-nor-dells-xps/"><u>Top Picks: The Ideal 13 Business Laptop for Travelers - Neither Apple's MacBook Nor Dell's XPS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-efficient-communication-management-selecting-every-message-simultaneeously-on-gmail/"><u>Unlock Efficient Communication Management: Selecting Every Message Simultaneeously on Gmail</u></a></li>
+<li><a href="https://win-updates.techidaily.com/1728479323676-windows-7/"><u>Windows 7復原隱藏分割區的高效解決方案 - 選手級建議</u></a></li>
 </ul></div>
 

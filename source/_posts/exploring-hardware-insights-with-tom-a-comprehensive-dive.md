@@ -1,7 +1,7 @@
 ---
 title: Exploring Hardware Insights with Tom - A Comprehensive Dive
-date: 2024-08-19T10:43:00.330Z
-updated: 2024-08-20T10:43:00.330Z
+date: 2024-12-30T17:20:31.474Z
+updated: 2025-01-04T16:01:31.093Z
 tags:
   - laptop
 categories:
@@ -33,6 +33,10 @@ Artificial Intelligence (AI) is the tech term of the moment, and everyone in the
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Copilot+ PCs: Microsoft’s New Standard
 
  Since then,[Microsoft](https://tools.techidaily.com) has introduced its[Copilot+](https://tools.techidaily.com) PCs, with laptops from Asus, Dell, Acer, Samsung, HP, Lenovo, Samsung, and Microsoft's Surface brand. Those all use[Qualcomm's Snapdragon X Elite and Plus processors](https://tools.techidaily.com) at the moment, though Microsoft has said upcoming AMD Strix Point (aka Ryzen AI 300) and Intel Lunar Lake chips may also fit the bill. To be considered a Copilot+ PC, laptops need to have at least 16GB RAM, 256GB storage, and an on-board NPU that's capable of 40 TOPS (trillions of operations per second). The Qualcomm Snapdragon X Elite chips support 45 TOPS on the NPU.
@@ -42,6 +46,10 @@ Artificial Intelligence (AI) is the tech term of the moment, and everyone in the
  So, anyone who doesn’t buy a Snapdragon X-powered laptop will have to wait on those special Windows features, likely for many months. AMD recently confirmed that its[Ryzen AI 300 PCs won’t be getting the Copilot+](https://tools.techidaily.com) features when they launch later this year, but will eventually. Desktop users are left out of the cold until at least the launch of Intel Arrowlake in Q4\. And anyone with a current-gen laptop or desktop is probably left out permanently.
 
  Given the weak set of Copilot+ features, anyone who is actually paying attention probably isn’t that sad about having to miss them or wait for them. There are many other ways to get an offline (or online) AI image generator, to do real-time translation and to blur your webcam background. Recall is somewhat unique, but many people won’t want it, because of the privacy risks associated with taking constant screenshots of your work.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Intel and AMD define AI PC more Broadly
 
@@ -85,6 +93,10 @@ Artificial Intelligence (AI) is the tech term of the moment, and everyone in the
 
 ![AI PC](https://cdn.mos.cms.futurecdn.net/MkQCTwWhY8wPcsdu5CbJsi-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 (Image credit: Apple)
 
  Because Apple uses its silicon across all of its Macs, its desktops, like the iMac, Mac Studio, and Mac Pro also have NPU (or as Apple refers to them, Neural Engines). That means macOS will have AI-specific features on desktop running on NPUs before Windows.
@@ -116,8 +128,9 @@ Right now? "Need" is a strong word.
  No matter what type of PC you're using, you should still adhere to good security practices. Other humans are still outsmarting us there.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Bottom line
 
  Right now, the term “AI PC” is still somewhat vague. CPU vendors and Microsoft are using the term to sell you new computers (currently, new laptops only) that have powerful NPUs built into their processors. Most of the generative AI features people actually use today (chatbots, image generators) are free to use in the cloud, making them less than “must-haves” in their local form.
@@ -134,8 +147,6 @@ _**Correction, June 17, 3:44 p.m. ET:**_   _This article has been corrected to p
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,4 +154,22 @@ _**Correction, June 17, 3:44 p.m. ET:**_   _This article has been corrected to p
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-step-wise-process-of-integrating-voice-over-into-videos/"><u>[New] 2024 Approved Step-Wise Process of Integrating Voice Over Into Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-cut-through-the-noise-with-these-top-10-yt-short-standout-strategies/"><u>[Updated] 2024 Approved Cut Through the Noise with These Top 10 YT Short Standout Strategies</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/avoiding-the-common-missteps-of-crafting-a-connected-living-space-essential-smart-home-planning-advice/"><u>Avoiding the Common Missteps of Crafting a Connected Living Space: Essential Smart Home Planning Advice</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/avoiding-the-pitfalls-ensuring-your-google-pixel-6-stays-functional-post-factory-reset/"><u>Avoiding the Pitfalls: Ensuring Your Google Pixel 6 Stays Functional Post-Factory Reset</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/beat-the-spike-in-hard-drive-costs-strategies-for-finding-low-priced-storage-solutions/"><u>Beat the Spike in Hard Drive Costs: Strategies for Finding Low-Priced Storage Solutions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/boost-your-gaming-experience-by-checking-gpu-frame-rates-instantly/"><u>Boost Your Gaming Experience by Checking GPU Frame Rates Instantly!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/compatibility-guide-how-to-effectively-blend-different-brands-of-mesh-wifi-devices/"><u>Compatibility Guide: How to Effectively Blend Different Brands of Mesh WiFi Devices</u></a></li>
+<li><a href="https://win-blog.techidaily.com/comprehensive-guide-to-fixing-steams-stuttering-and-frozen-sessions/"><u>Comprehensive Guide to Fixing Steam's Stuttering & Frozen Sessions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-joby-wavo-plus-shoot-out-a-top-choice-as-an-external-mic-for-your-device/"><u>Comprehensive Joby Wavo Plus Shoot-Out: A Top Choice as an External Mic for Your Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversor-libre-en-linea-3gpp-para-formato-m4a-por-movavi/"><u>Conversor Libre en Línea 3GPP Para Formato M4A Por Movavi</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-se-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone SE Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-nokia-g310-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Nokia G310 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/how-to-update-your-flipbooks-background-using-flipbuilder/"><u>How to Update Your Flipbook's Background Using FlipBuilder</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/samsungs-big-reveal-in-2er-2025-essential-updates-and-industry-hype/"><u>Samsung's Big Reveal in 2Er 2025: Essential Updates & Industry Hype</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-11-pro-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone 11 Pro</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Display Quality Meets Unbelievable Deal: Top-Rated Ultraportable Laptop Sale at ZDNet!"
-date: 2024-12-18T22:49:01.480Z
-updated: 2024-12-25T19:20:31.513Z
+date: 2025-01-01T17:05:22.559Z
+updated: 2025-01-04T17:24:04.979Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the Amazon Prime Day deal?
@@ -33,7 +33,7 @@ Ahead of the Prime Big Deal Days sale, the [LG Gram Pro 16 2-in-1](https://buy.g
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -101,7 +101,7 @@ For most users, this is not much of an issue, but during exceptionally heavy loa
 Finally, the battery life on this machine was about what you'd expect from a 2-in-1 with an OLED screen. This is a laptop that can last a full day of work, but only barely. Depending on how hard you're pushing it, expect to see 7-8 hours on a single charge. I got around that during my testing. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -111,7 +111,7 @@ In a market of dozens of 2-in-1 laptops that were released this year, the [LG Gr
 If you're looking for more budget-friendly options, the [Acer Swift Edge 16](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Facer-swift-edge-16-16-3-2k-120hz-oled-laptop-amd-ryzen-7-7840u-with-16gb-lpddr5-memory-1tb-pcie-gen-4-ssd-olivine-black%2F6546242.p&publisher_slug=itechdaily19598&exclusive=1) features the same sized OLED screen and weighs slightly more at 2.73 pounds, but will only cost you $1,300.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -148,18 +148,21 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-coders-showdown-which-codec-will-dominate-video-quality/"><u>[New] In 2024, Coders' Showdown Which Codec Will Dominate Video Quality?</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-mini-marvels-ultimate-game-hunt/"><u>[Updated] In 2024, Mini Marvels' Ultimate Game Hunt</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-mac-users-adding-the-social-app-snapchat/"><u>[Updated] Mac Users Adding the Social App Snapchat</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-spectral-synchronization-kit/"><u>[Updated] Spectral Synchronization Kit</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-xml-and-ttml-conversion-to-srt/"><u>2024 Approved Mastering XML & TTML Conversion to SRT</u></a></li>
-<li><a href="https://win-blog.techidaily.com/diagnosing-and-repairing-windows-instability-with-everscape-2-a-comprehensive-guide/"><u>Diagnosing and Repairing Windows Instability with Everscape 2 - A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-guide-to-rapid-synaptics-touchpad-driver-updates-for-ps2-adapters/"><u>Effortless Guide to Rapid Synaptics Touchpad Driver Updates for PS/2 Adapters</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-corsair-k70-rgb-mini-keyboard-setup-utilities/"><u>Free Corsair K70 RGB Mini-Keyboard Setup Utilities</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/immediate-integration-guide-harnessing-the-power-of-gpt-4-with-chatgpt/"><u>Immediate Integration Guide: Harnessing the Power of GPT-4 with ChatGPT</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-aspect-ratio-guidelines-for-twitter-videos/"><u>In 2024, Aspect Ratio Guidelines for Twitter Videos</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-the-latest-geforce-rtx-3070-ti-graphics-drivers-on-win-11-8-or-7-official-version/"><u>Install the Latest GeForce RTX 3070 Ti Graphics Drivers on Win 11, 8 or 7 (Official Version)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/master-your-devices-with-expert-advice-from-toms-hardware/"><u>Master Your Devices With Expert Advice From Tom's Hardware</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/top-free-video-editor-apps-compatible-with-windows-7-a-comprehensive-guide/"><u>Top Free Video Editor Apps Compatible with Windows 7: A Comprehensive Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-advanced-motion-cameras-12-featuring-accurate-position-tracking-for-2024/"><u>[New] Advanced Motion Cameras 12 Featuring Accurate Position Tracking for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-essential-websites-how-to-get-the-right-youtube-ringtones/"><u>[New] Essential Websites How to Get the Right YouTube Ringtones?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-delightful-digests-a-list-of-top-food-channels/"><u>[New] In 2024, Delightful Digests A List of Top Food Channels</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-leverage-larger-thumbnails-for-video-success/"><u>[Updated] Leverage Larger Thumbnails for Video Success</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1-transform-your-tech-budget-experience-the-power-of-the-new-499-lenovo-chromebook-plus-a-game-changer-compared-to-expensive-laptops-zdnet/"><u>1. Transform Your Tech Budget: Experience the Power of the New $499 Lenovo Chromebook Plus - A Game-Changer Compared to Expensive Laptops | ZDNET</u></a></li>
+<li><a href="https://win-tips.techidaily.com/8-solutions-cles-pour-le-dysfonctionnement-du-pilotage-de-windows-11-pourquoi-votre-peripherique-nest-pas-pret/"><u>8 Solutions Clés Pour Le Dysfonctionnement Du Pilotage De Windows 11: Pourquoi Votre Périphérique N'est Pas Prêt?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-meta-quest-3-sale-alert-snag-the-best-value-51-gb-model-during-october-prime-day-insider-deals/"><u>Exclusive Meta Quest 3 Sale Alert: Snag the Best Value 51^ GB Model During October Prime Day | Insider Deals</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/google-hangouts-sound-failures-heres-how-you-can-get-your-mic-working-again/"><u>Google Hangouts Sound Failures? Here's How You Can Get Your Mic Working Again</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-from-apple-iphone-11-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock From Apple iPhone 11?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-navigating-kinemasters-zoom-features-for-professional-results/"><u>In 2024, Navigating Kinemaster's Zoom Features for Professional Results</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/inside-microsoft-gro-artificial-intelligence-processor-war-with-the-macbook-insights/"><u>Inside Microsoft' Gro Artificial Intelligence Processor War with the MacBook | Insights</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-vivo-v27-pro-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Vivo V27 Pro Device</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-7-premium-adjustable-standing-desks-of-2023-expert-picks-from-zdnet/"><u>Top 7 Premium Adjustable Standing Desks of 2023 - Expert Picks From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-dual-function-device-of-2023-with-a-hidden-gem-beneficial-for-workspaces-discover/"><u>Top Rated Dual-Function Device of 2023 with a Hidden Gem Beneficial for Workspaces - Discover</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-deals-alert-snag-the-finest-value-for-apples-latest-13-inch-macbook-air-with-m2-at-all-time-low-price-this-cyber-monday-zdnet-insider-tips/"><u>Unbeatable Deals Alert: Snag the Finest Value for Apple's Latest 13-Inch MacBook Air with M2 at All-Time Low Price This Cyber Monday | ZDNET Insider Tips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-most-overlooked-yet-spectacular-aspect-of-your-new-asus-notebook-explore-why-it-deserves-more-attention/"><u>Unveiling the Most Overlooked Yet Spectacular Aspect of Your New Asus Notebook: Explore Why It Deserves More Attention</u></a></li>
 </ul></div>
 

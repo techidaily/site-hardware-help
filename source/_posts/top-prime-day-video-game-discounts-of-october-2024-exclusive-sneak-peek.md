@@ -1,7 +1,7 @@
 ---
 title: Top Prime Day Video Game Discounts of October 2024 - Exclusive Sneak Peek
-date: 2024-12-24T21:28:21.714Z
-updated: 2024-12-26T02:51:48.282Z
+date: 2024-12-30T16:06:44.707Z
+updated: 2025-01-04T17:26:28.103Z
 tags:
   - laptops
 categories:
@@ -23,6 +23,10 @@ Brands like HP, [Samsung](https://www.zdnet.com/article/best-early-prime-day-sam
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Our favorite early Amazon October Prime Day gaming deals
 
@@ -102,6 +106,10 @@ ZDNET
 * [Arcade1Up Attack From Mars electronic pinball table for $499 (save $150)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FArcade-William-Bally-Attack-Mars-Pinball%2Fdp%2FB0998S48N2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca5d281f2-40c7-47eb-93d3-bec2eb576564%7Cdtp&dtb=1): A fully-digital pinball table featuring a classic William Bally "Attack From Mars" theme.
 * [Arcade1Up Street Fighter II Champion Turbo Legacy Edition cabinet for $399 (save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FARCADE1UP-Capcom-Fighter-Champion-Machine%2Fdp%2FB0B94VCWG3%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca5d281f2-40c7-47eb-93d3-bec2eb576564%7Cdtp&dtb=1): A Wi-Fi enabled, retro-inspired arcade cabinet featuring 14 different games to play head-to-head against online players or friends in-person.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## October Prime Day PlayStation 5 deals
 
 ZDNET
@@ -136,10 +144,6 @@ ZDNET
 * [Dragon's Dogma 2 standard edition for $44 (save $23 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FDragon-s-Dogma-2-Xbox-Series-X%2F5262667261%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An action RPG sequel to 2012's Dragon's Dogma featuring a deep class system and skill tree, AI-controlled squad mates for taking on tougher enemies and large-scale battles, and a day-night cycle that changes creature encounters and their strength.
 * [Join Xbox Game Pass Ultimate for $1 (then $19.99 per month)](https://www.xbox.com/en-US/xbox-game-pass#join): Get access to hundreds of PC and Xbox Series X|S games for cloud gaming support, monthly free games, and exclusive discounts.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day Nintendo deals
 
 Nintendo/ZDNET
@@ -165,10 +169,6 @@ Nintendo/ZDNET
 * [Lego Star Wars: The Skywalker Saga for $25 (save $26 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLEGO-Star-Wars-The-Skywalker-Saga-Nintendo-Switch%2F182278850%3FclassType%3DVARIANT&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Play as iconic characters like Luke Skywalker, Qui-Gon Jin, and Darth Vader through the stories of both the original and prequel Star Wars trilogies.
 * [Nintendo Switch Joy-Con in neon purple and neon orange for $55 (save $25 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FNintendo-Switch-Joy-Con-Pair-Neon-Purple-and-Neon-Orange%2F921709016%3FclassType%3DVARIANT%26athbdg%3DL1600&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Grab an extra Joy-Con controller for your Nintendo Switch to keep gaming while your other controller charges.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day gaming PC deals
 
 Kyle Kucharski/ZDNET
@@ -183,6 +183,10 @@ Kyle Kucharski/ZDNET
 * [HP Omen 45L for $2,200 (save $800 at HP)](https://www.dpbolvw.net/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fomen-by-hp-45l-gaming-desktop-gt22-2085t-pc&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end gaming PC built with a 14th generation Intel Core i7 CPU, GeForce RTX 4080 Super GPU, 16GB of RAM, and a 1TB SSD.
 * [HP Victus 15L desktop for $480 (save $370 at HP)](https://www.dpbolvw.net/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fvictus-by-hp-15l-gaming-desktop-tg02-0325m-59a32av-1&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An entry-level gaming desktop built with an AMD Ryzen 5 5600G processor, AMD Radeon RX 6400 GPU, 8GB of RAM, and a 256GB SSD.
 * [Alienware Aurora R16 for $3,700 (save $1,000 at Dell)](https://www.dpbolvw.net/click-9041660-15734614?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdesktop-computers%2Falienware-aurora-r16-gaming-desktop%2Fspd%2Falienware-aurora-r16-desktop%2Fuseapctor16icc2&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Alienware's flagship gaming desktop is built with a 14th gen Intel Core i9 CPU, Nvidia GeForce RTX 4090 graphics card, 64GB of RAM, and 4TB of storage.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## October Prime Day gaming laptop deals
 
@@ -207,7 +211,7 @@ Samsung/ZDNET
 * [Acer Predator X27U for $680 (save $320 at B&H Photo)](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1772478-REG%2Facer%5Fum%5Fhxxaa%5F001%5Fpredator%5Fx27u%5F27%5Fgaming.html%2Fspecs): A 27-inch gaming monitor with a 240Hz refresh rate, 1440p resolution, a 0.03ms response time, and support for AMD FreeSync Premium Pro VRR.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day PC gaming accessories deals
@@ -217,21 +221,17 @@ Samsung/ZDNET
 * [Razer DeathStalker V2 Pro TKL wireless keybaord for $145 (save $75 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Frazer-deathstalker-v2-pro-tkl-wireless-optical-linear-switch-gaming-keyboard-with-low-profile-design-black%2F6512382.p%3FskuId%3D6512382&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A mini, tenkey-less keyboard with optical linear switches and a low-profile design.
 * [Roccat Vulcan II Mini Air for $64 (save $116 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Froccat-vulcan-ii-mini-air-65-wireless-optical-mechanical-gaming-keyboard-with-rgb-illumination-black%2F6547284.p%3FskuId%3D6547284&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A mini, tenkey-less mechanical keyboard with optical switches, RGB backlighting, and USB-C charging.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## October Prime Day graphics card deals
 
 * [Asus TUF Nvidia GeForce RTX 4070 Ti for $750 (save $110 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-nvidia-geforce-rtx-4070-ti-tuf-overclock-12gb-gddr6x-pci-express-4-0-graphics-card-black%2F6529351.p%3FskuId%3D6529351&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This GPU offers 12GB of VRAM, support for up to 4 displays, and 8K video output.
 * [Asus Nvidia GeForce RTX 4070 Overclock for $580 (save $100 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-nvidia-geforce-rtx-4070-overclock-12gb-gddr6x-pci-express-4-0-graphics-card-black%2F6540002.p%3FskuId%3D6540002&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This Nvidia-based GPU offers 12GB of DDR6 VRAM, a base clock speed of 2.55GHz that can be overclocked to 2.58GHz, 8K video output support, and support for up to 4 displays.
 * [Asus TUF Nvidia GeForce RTX 3080 Ti for $925 (save $472 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FTUF-NVIDIA-GeForce-RTX-3080-TI-Graphic-Card-12-GB-GDDR6-384-bit-Bus-Width-PCI-Express-4-0-DisplayPort-HDMI%2F994157887%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) Nvidia's high-end 30 Series graphics card offers 12GB of VRAM, military-grade capacitors for better power efficiency, and support for up to 4 displays.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### When is Amazon Prime Day 2024?
 
@@ -275,18 +275,24 @@ I only chose deals on games that have been critically and commercially well-rece
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-essential-know-how-record-ipad-display/"><u>[Updated] Essential Know-How Record iPad Display</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-who-holds-sway-over-youtube-subscribers/"><u>[Updated] Who Holds Sway Over YouTube Subscribers?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-strategies-for-effortless-audio-merging-in-adobe-premiere/"><u>2024 Approved Strategies for Effortless Audio Merging in Adobe Premiere</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-creative-cam-driver-suite-for-windows-pcs/"><u>Download and Update Creative Cam-Driver Suite for Windows PCs</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effective-solutions-for-launching-dead-space-remake-on-your-pc-latest-fixes/"><u>Effective Solutions for Launching Dead Space Remake on Your PC (Latest Fixes)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortlessly-update-your-windows-system-with-bcm20n02a0-driver-software/"><u>Effortlessly Update Your Windows System with BCM20n02A0 Driver Software</u></a></li>
-<li><a href="https://win-dash.techidaily.com/install-hp-document-scanner-software-for-windows-pcs/"><u>Install HP Document Scanner Software for Windows PCs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-logitech-driver-downloads-for-gaming-wheels-on-windows-7-to-10-os/"><u>Latest Logitech Driver Downloads for Gaming Wheels on Windows 7 to 10 OS</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-nvidia-rtx-3060-ti-graphics-card-drivers-compatible-with-windows-10-and-11/"><u>Latest NVIDIA RTX 3060 Ti Graphics Card Drivers - Compatible with Windows 10 & 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-siri-chatgpt-integration-on-iphones/"><u>Mastering Siri-ChatGPT Integration on iPhones</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/single-core-showdown-intel-core-i7-114700k-outperforms-core-ultra-7-265kf-by-7-arrow-lake-benchmarks-revealed/"><u>Single-Core Showdown: Intel Core I7-1ˈ14700K Outperforms Core Ultra 7 265KF by 7% - Arrow Lake Benchmarks Revealed!</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/top-techniques-for-webcam-integration-in-game-recording/"><u>Top Techniques for WebCam Integration in Game Recording</u></a></li>
-<li><a href="https://fox-links.techidaily.com/z2-masterclass-smartphone-smarter-than-ever-in-2024/"><u>Z2 Masterclass Smartphone Smarter Than Ever, In 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/eyond-the-lens-innovative-ideas-for-youtube-video-creation/"><u>[New] Beyond the Lens Innovative Ideas for YouTube Video Creation</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-capturing-moments-like-never-before-with-sj-cam-s6/"><u>[Updated] 2024 Approved Capturing Moments Like Never Before with SJ-CAM S6</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-professional-selections-best-5-interactive-capture-apps/"><u>[Updated] Professional Selections Best 5 Interactive Capture Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-art-of-audio-visual-harmony-youtube-music-inclusion-guide/"><u>[Updated] The Art of Audio-Visual Harmony YouTube Music Inclusion Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-instagrams-latest-filters-use-and-applications-2023/"><u>2024 Approved Instagram's Latest Filters Use and Applications 2023</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamlining-your-photo-editing-the-crop-essentials/"><u>2024 Approved Streamlining Your Photo Editing The Crop Essentials</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asus-releases-high-performance-laptop-with-superior-oled-screen-quality-testing-ahead-of-the-pack/"><u>ASUS Releases High-Performance Laptop with Superior OLED Screen Quality, Testing Ahead of the Pack</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/beware-fbi-alerts-on-risky-juice-jacking-ports-at-public-outlets-safeguard-your-data-with-proven-tips/"><u>Beware: FBI Alerts on Risky 'Juice Jacking' Ports at Public Outlets - Safeguard Your Data with Proven Tips</u></a></li>
+<li><a href="https://article-tips.techidaily.com/compendium-of-camera-types-for-professional-videos-for-2024/"><u>Compendium of Camera Types for Professional Videos for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-guide-to-youtube-income-compliance/"><u>In 2024, The Ultimate Guide to YouTube Income Compliance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722977110500-latest-update-get-your-logitech-g933-headset-software-here/"><u>Latest Update: Get Your Logitech G933 Headset Software Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-device-transformation-amidst-artificial-intelligence-advancements-insights/"><u>Navigating Device Transformation Amidst Artificial Intelligence Advancements - Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/protect-your-privacy-new-study-reveals-risks-of-untrusted-pc-technicians-accessing-personal-files/"><u>Protect Your Privacy: New Study Reveals Risks of Untrusted PC Technicians Accessing Personal Files</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-instructions-for-snapping-screen-shots-on-laptops-including-dell-and-lenovo-tech-insights/"><u>Step-by-Step Instructions for Snapping Screen Shots on Laptops (Including Dell and Lenovo) | Tech Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tapping-into-the-full-potential-of-llama-2-systems/"><u>Tapping Into the Full Potential of Llama 2 Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/thinkpad-pioneers-the-return-of-user-upgradeable-laptop-memory-a-comprehensive-guide-zdnet-insights/"><u>ThinkPad Pioneers the Return of User-Upgradeable Laptop Memory - A Comprehensive Guide | ZDNet Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-24-unbeatable-christmas-offers-on-laptops-and-pcs-from-dell-best-buy-amazon-newegg-reviewed/"><u>Top 24 Unbeatable Christmas Offers on Laptops & PCs From Dell - Best Buy, Amazon, Newegg Reviewed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-6-advantages-of-choosing-a-chromebook-as-your-ideal-laptop-companion-insights/"><u>Top 6 Advantages of Choosing a Chromebook as Your Ideal Laptop Companion - Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-picks-for-prime-day-october-2024-discounted-laptops-unveiled/"><u>Top Picks for Prime Day October 2024: Discounted Laptops Unveiled</u></a></li>
 </ul></div>
 

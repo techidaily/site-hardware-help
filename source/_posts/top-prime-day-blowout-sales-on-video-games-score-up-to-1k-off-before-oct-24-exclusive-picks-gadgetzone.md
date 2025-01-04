@@ -1,7 +1,7 @@
 ---
 title: "Top Prime Day Blowout Sales on Video Games: Score Up to $1K Off Before Oct '24 - Exclusive Picks | GadgetZONE"
-date: 2024-12-23T08:33:41.943Z
-updated: 2024-12-25T20:49:48.050Z
+date: 2025-01-01T17:18:59.947Z
+updated: 2025-01-04T17:30:52.423Z
 tags:
   - laptops
 categories:
@@ -119,10 +119,6 @@ ZDNET
 * [The Last of Us Part 1 standard edition for $46 (save $24 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FThe-Last-of-Us-Part-I-PlayStation-5%2F1643604134%3FclassType%3DVARIANT&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Experience the award-winning story of Ellie and Joel as they make their way to Denver and the Fireflies through hordes of dangerous, fungus-infected zombies.
 * [Corsair Void RGB Elite wireless gaming headset for $80 (save $30 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCorsair-Wireless-Premium-Headset-Surround%2Fdp%2FB07X8SJ8HM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C08104279-4153-4afa-9cbf-f46290dc4fc2%7Cdtp&dtb=1): With 7.1CH surround sound, an omnidirectional mic, and up to a 40-foot range, the Void RGB Elite gives you immersive game music and sound cues, clear chat, and freedom of movement.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day Xbox Series X|S deals
 
 * [Xbox Elite Series 2 Core wireless controller for $140 (save $40 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FElite-2-Controller-Black-Xbox-One%2Fdp%2FB07SFKTLZM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C08104279-4153-4afa-9cbf-f46290dc4fc2%7Cdtp&dtb=1): A premium-grade wireless controller for the Xbox Series X|S. It also works with PC, Android, and iOS mobile devices.
@@ -142,10 +138,6 @@ ZDNET
 * [Dragon's Dogma 2 standard edition for $44 (save $23 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FDragon-s-Dogma-2-Xbox-Series-X%2F5262667261%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An action RPG sequel to 2012's Dragon's Dogma featuring a deep class system and skill tree, AI-controlled squad mates for taking on tougher enemies and large-scale battles, and a day-night cycle that changes creature encounters and their strength.
 * [Join Xbox Game Pass Ultimate for $1 (then $19.99 per month)](https://www.xbox.com/en-US/xbox-game-pass#join): Get access to hundreds of PC and Xbox Series X|S games for cloud gaming support, monthly free games, and exclusive discounts.
 * [Corsair Virtuoso RGB Wireless XT wireless gaming headset for $195 (save $75 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCORSAIR-VIRTUOSO-WIRELESS-High-Fidelity-Bluetooth%2Fdp%2FB09BXZKNDB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C08104279-4153-4afa-9cbf-f46290dc4fc2%7Cdtp&dtb=1): A high-end wireless gaming headset with Dolby Atmos support, iCUE RGB lighting control, and a broadcast-grade microphone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## October Prime Day Nintendo deals
 
@@ -171,10 +163,6 @@ Nintendo/ZDNET
 * [Pokemon Shining Pearl for $45 (save $15)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FPokemon-Shining-Pearl-Nintendo-Nintendo-Switch%2F890677903%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This remaster of Pokemon Pearl features all new graphics, game modes, and mechanics for players returning to the Sinnoh region as well as fans visiting for the first time.
 * [Lego Star Wars: The Skywalker Saga for $25 (save $26 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLEGO-Star-Wars-The-Skywalker-Saga-Nintendo-Switch%2F182278850%3FclassType%3DVARIANT&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Play as iconic characters like Luke Skywalker, Qui-Gon Jin, and Darth Vader through the stories of both the original and prequel Star Wars trilogies.
 * [Nintendo Switch Joy-Con in neon purple and neon orange for $55 (save $25 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FNintendo-Switch-Joy-Con-Pair-Neon-Purple-and-Neon-Orange%2F921709016%3FclassType%3DVARIANT%26athbdg%3DL1600&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Grab an extra Joy-Con controller for your Nintendo Switch to keep gaming while your other controller charges.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## October Prime Day gaming PC deals
 
@@ -227,26 +215,38 @@ Samsung/ZDNET
 * [Asus TUF Nvidia GeForce RTX 3080 Ti for $925 (save $472 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FTUF-NVIDIA-GeForce-RTX-3080-TI-Graphic-Card-12-GB-GDDR6-384-bit-Bus-Width-PCI-Express-4-0-DisplayPort-HDMI%2F994157887%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) Nvidia's high-end 30 Series graphics card offers 12GB of VRAM, military-grade capacitors for better power efficiency, and support for up to 4 displays.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### When is Amazon Prime Day 2024?
 
 Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, will run through October 8 and 9\. Some brands may offer discounts and coupons ahead of the official sale. And other retailers like [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2F&publisher_slug=itechdaily19598&exclusive=1) and [Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fdeals%3FathAsset%3DeyJhdGhjcGlkIjoiMmU5ZjFjZmMtOTVhZC00NDlhLWEyNzgtZTU3ZTZlOTFjZmEwIn0%3D%26athena%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp) are running their own, rival sales at the same time. Which is great news for anyone who likes to compare discounts and prices to make sure they're getting the absolute best deal possible. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Are games, consoles, and accessories really cheaper on Prime Day?
 
 Games, consoles, and accessories can and do go on sale during Prime Day, though not every brand or manufacturer may participate. Some brands may have competing sales at other retailers or on their own direct-sale sites, which is great news for anyone who likes to compare discounts to make sure they're getting the best deal possible.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How did we choose these Prime Day deals?
 
 I only chose deals on games that have been critically and commercially well-received, as well as accessories and peripherals from well-known and reputable brands like Razer and Logitech. I also only included deals that offered at least a 15 percent discount.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the best October Prime Day 2024 deals?
 
@@ -313,15 +313,22 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-free-online-image-perfection-at-your-fingertips/"><u>[New] Free Online Image Perfection at Your Fingertips</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-set-the-atmosphere-musical-statuses/"><u>[New] Set the Atmosphere Musical Statuses</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-picture-puns-memify-pro/"><u>[Updated] 2024 Approved Picture Puns Memify Pro</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/comprehensive-analysis-and-insights-on-the-750w-evga-supernova-power-supply-unit-review/"><u>Comprehensive Analysis and Insights on the 750W Evga Supernova Power Supply Unit Review</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/comprehensive-analysis-of-the-thermaltake-toughpower-gf3-a-new-1350w-atx-v30-psu-review/"><u>Comprehensive Analysis of the Thermaltake Toughpower GF3 - A New 1350W ATX v3.0 PSU Review</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-steps-setting-up-and-syncing-with-bose-soundlink-devices/"><u>Easy Steps: Setting Up and Syncing with Bose SoundLink Devices</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-achieving-visual-excellence-aspect-ratio-mastery-on-youtube/"><u>In 2024, Achieving Visual Excellence ASPECT RATIO Mastery on YOUTUBE</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Nubia Z50 Ultra | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-a-comprehensive-guide/"><u>Tom's Tech Insights: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/voluntary-recall-alert-oil-leakage-and-fan-belt-sounds-on-enermax-revolution-df-2x-psu-units/"><u>Voluntary Recall Alert: Oil Leakage & Fan Belt Sounds on Enermax Revolution D.F. 2/X PSU Units</u></a></li>
+<li><a href="https://win-dash.techidaily.com/instant-download-epson-wf-7710-printer-drivers-fully-tested-on-win-118187/"><u>[INSTANT DOWNLOAD] Epson WF-7710 Printer Drivers Fully Tested on Win 11/8.1/8/7</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-craft-compelling-loops-best-practices-for-instagram-posts/"><u>[New] 2024 Approved Craft Compelling Loops Best Practices for Instagram Posts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-top-10-best-farming-games/"><u>[New] 2024 Approved Top 10 Best Farming Games</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harmonic-havens-expert-picks-of-ringtone-download-sites/"><u>[Updated] Harmonic Havens Expert Picks of Ringtone Download Sites</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-sow-and-reap-rivalries-farming-games-to-remember-for-2024/"><u>[Updated] Sow & Reap Rivalries Farming Games to Remember for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723262294871-combat-your-intel-processors-instability-get-the-new-patch-from-msi-and-asrock-available-on-asus-rog-motherboards-too/"><u>Combat Your Intel Processor's Instability: Get the New Patch From MSI and ASRock, Available on Asus ROG Motherboards Too</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-acer-predator-xb271hu-drivers-quickly-and-easily/"><u>Download Acer Predator XB271HU Drivers | Quickly & Easily</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975485021-easy-installation-of-lenovo-thinkpad-t430-drivers-on-windows-operating-systems/"><u>Easy Installation of Lenovo ThinkPad T430 Drivers on Windows Operating Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/find-and-install-epson-wf-3540-drivers-for-optimal-performance-with-windows/"><u>Find and Install Epson WF-3540 Drivers for Optimal Performance with Windows</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-enhancing-your-recording-setup-with-rl-tech-insights/"><u>In 2024, Enhancing Your Recording Setup with RL Tech Insights</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-the-art-of-chroma-keying-in-fcp-x-expert-techniques-for-stunning-results/"><u>New 2024 Approved The Art of Chroma Keying in FCP X Expert Techniques for Stunning Results</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/overcoming-connectivity-hurdles-the-ultimate-fix-for-windows-7-network-adapters/"><u>Overcoming Connectivity Hurdles: The Ultimate Fix for Windows 7 Network Adapters</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/realtek-rtl8188cu-wi-fi-drivers-compatible-with-windows-10-and-nativet-to-windows-7-download-now/"><u>Realtek RTL8188CU Wi-Fi Drivers: Compatible with Windows 10 & Nativet to Windows 7 - Download Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-updating-your-webcam-driver-on-windows-11/"><u>Step-by-Step Guide: Updating Your Webcam Driver on Windows 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-tutorial-on-operating-and-navigating-moveavi-software/"><u>Step-by-Step Tutorial on Operating and Navigating MoveAVI Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722957707630-temperature-ranges-during-different-growth-stages-from-spore-germination-to-fruiting-bodies-emergence/"><u>Temperature Ranges During Different Growth Stages From Spore Germination to Fruiting Bodies Emergence.</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/tiktok-gaming-top-10-gaming-tiktokers/"><u>Tiktok Gaming | Top 10 Gaming Tiktokers</u></a></li>
 </ul></div>
 

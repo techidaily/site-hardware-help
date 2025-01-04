@@ -1,7 +1,7 @@
 ---
 title: The Full Scoop on Apple’s October Event Highlights and Surprises | In-Depth Coverage by ZDNET
-date: 2024-12-24T08:39:46.223Z
-updated: 2024-12-25T20:50:55.784Z
+date: 2025-01-01T16:21:35.760Z
+updated: 2025-01-04T17:24:50.656Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -81,7 +81,7 @@ If the low battery life wasn't enough, the computer has a tendency to run hot. W
 Even during regular use, the keyboard retained some heat, although not nearly as bad as during heavy gaming. The cooling vents are located on the bottom, so it seems the heat gets trapped underneath.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -120,22 +120,24 @@ If you looking for a portable gaming laptop, the Blade 14 is a middle-tier optio
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-mastering-twitter-setup-a-step-by-step-guide/"><u>[New] 2024 Approved Mastering Twitter Setup A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-nikons-masterpiece-unveiling-the-4k-capabilities-of-j5-for-2024/"><u>[New] Nikon's Masterpiece Unveiling The 4K Capabilities of J5 for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-surfings-new-era-top-cam-tech/"><u>[Updated] 2024 Approved Surfing's New Era - Top Cam Tech</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-asus-proart-pa-329q-professional-4k-monitor-review/"><u>2024 Approved Asus ProArt PA 329Q Professional 4K Monitor Review</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-amd-radeon-hd-driver-for-windows-7-latest-version-and-updates/"><u>Download AMD Radeon HD Driver for Windows 7: Latest Version & Updates</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-steps-to-download-and-install-the-hp-m452dn-laserjet-series-driver/"><u>Easy Steps to Download and Install the HP M452dn LaserJet Series Driver</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-upgrade-how-to-install-new-synaptics-pad-drivers/"><u>Effortless Upgrade: How to Install New Synaptics Pad Drivers</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/fifth-place-winners-excellent-recorder-apps/"><u>Fifth Place Winners Excellent Recorder Apps</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-update-or-install-logitech-c525-high-res-camera-drivers-on-windows/"><u>How to Update or Install Logitech C525 High-Res Camera Drivers on Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-the-official-windows-driver-for-focusrite-scarlett-2i2-download-now/"><u>Install the Official Windows Driver for Focusrite Scarlett 2I2 - Download Now!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/logitechs-best-offer-complimentary-webcam-driver-downloads-for-window-users/"><u>Logitech's Best Offer: Complimentary Webcam Driver Downloads for Window Users</u></a></li>
-<li><a href="https://fox-that.techidaily.com/roblox-crashing-how-to-resolve-low-memory-warnings-on-ios-devices/"><u>Roblox Crashing? How to Resolve Low Memory Warnings on iOS Devices</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/solving-logitech-f710-driver-problems-in-windows-11-10-8-and-7-a-comprehensive-guide/"><u>Solving Logitech F710 Driver Problems in Windows 11, 10, 8 & 7: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/tech-alert-alleged-perfect-crash-rate-for-intels-recent-processors-accusations-fly-from-alderon-games/"><u>Tech Alert: Alleged Perfect Crash Rate for Intel's Recent Processors, Accusations Fly From Alderon Games</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-definitive-tech-companion-inside-tips-from-toms-hardware/"><u>The Definitive Tech Companion - Inside Tips From Tom's Hardware</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-rise-of-mondly-languages-dreams-woven-over-2-years/"><u>The Rise of Mondly Languages - Dreams Woven Over 2 Years</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/vanguard-alta-pro-263ab-tripod-review/"><u>Vanguard Alta Pro 263AB Tripod Review</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-embrace-9-festive-feasts-watch-holiday-epics-at-zero-cost-online/"><u>[New] 2024 Approved Embrace 9 Festive Feasts Watch Holiday Epics at Zero Cost Online!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-should-itop-screen-recorder-be-a-staple-in-your-kit/"><u>[New] 2024 Approved Should ITop Screen Recorder Be a Staple in Your Kit?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-revolutionize-your-designs-incorporating-3d-text-psx/"><u>[New] Revolutionize Your Designs Incorporating 3D Text PSX</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-unmatched-value-with-metas-quest-3-bundle-at-half-off-a-vr-shoppers-dream-deal-tech-news-by-zdnet/"><u>Experience Unmatched Value with Meta’s Quest 3 Bundle at Half Off - A VR Shopper's Dream Deal | Tech News by ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-picks-leading-antivirus-protection-reviewed-by-zdnet/"><u>Expert Picks: Leading Antivirus Protection Reviewed by ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-the-latest-apple-m3-macbook-air-upgrades-the-3-key-features-that-impressed-us/"><u>Exploring the Latest Apple M3 MacBook Air Upgrades – The 3 Key Features That Impressed Us</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-online-converter-transform-amv-files-into-flv-format-with-justoneclick/"><u>Free Online Converter: Transform AMV Files Into FLV Format with JustOneClick!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/huge-discount-pre-prime-day-deals-on-samsung-t5-ssds-nearly-half-price-at-amazon-insights-from-zdnet/"><u>Huge Discount: Pre-Prime Day Deals on Samsung T5 SSDs, Nearly Half Price at Amazon - Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-a-social-media-perspective-dissecting-igtv-versus-youtubes-features/"><u>In 2024, A Social Media Perspective Dissecting IGTV versus YouTube's Features</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-itel-p40plus-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Itel P40+ Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/long-lasting-performance-meets-exceptional-visuals-in-top-notch-laptops-expert-insights-from-zdnet-testing/"><u>Long-Lasting Performance Meets Exceptional Visuals in Top Notch Laptops - Expert Insights From ZDNet Testing</u></a></li>
+<li><a href="https://driver-download.techidaily.com/nvidia-quadro-rtx-8000-download-latest-drivers-compatible-with-win-11-8-and-7/"><u>Nvidia Quadro RTX 8000 - Download Latest Drivers Compatible with Win 11, 8 & 7</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionary-compact-apple-vision-pro-case-fits-snugly-nearly-halving-original-size-tech-spotlight/"><u>Revolutionary Compact: Apple Vision Pro Case Fits Snugly, Nearly Halving Original Size | Tech Spotlight</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-98-unmissable-cyber-monday-offers-of-2022-spotted/"><u>Top 98 Unmissable Cyber Monday Offers of 2022 - Spotted !</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-deal-alert-edit-photos-and-videos-like-a-pro-for-less-get-500-off-the-samsung-monitor-at-best-buy-today/"><u>Top Deal Alert: Edit Photos & Videos Like a Pro for Less – Get $500 Off the Samsung Monitor at Best Buy Today!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-oled-laptop-picks-comprehensive-reviews-by-tech-experts/"><u>Top Rated OLED Laptop Picks - Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unleash-ultra-realistic-gaming-sounds-for-half-the-price-shop-amazone-best-deal-of-the-year-featured-on-zdnet/"><u>Unleash Ultra-Realistic Gaming Sounds for Half the Price! Shop Amazon'e Best Deal of the Year Featured on ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-configurations-simplified/"><u>Windows 11 Configurations Simplified</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211166571-9781396323119-wisdom-of-the-ages/"><u>Wisdom of the Ages | Free Book</u></a></li>
 </ul></div>
 

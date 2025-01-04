@@ -1,7 +1,7 @@
 ---
 title: Exploring the Latest Gadgets with Tom - Comprehensive Hardware Insights
-date: 2024-08-19T10:40:37.894Z
-updated: 2024-08-20T10:40:37.894Z
+date: 2024-12-28T17:27:44.488Z
+updated: 2025-01-04T16:49:59.589Z
 tags:
   - laptop
 categories:
@@ -26,6 +26,10 @@ Just a few years ago, the idea of gaming on a Mac was a joke among the enthusias
  (Image credit: Tom's Hardware)
 
  The company is catching up on some recent releases, like_Palworld_ , which is set to release later this year. But toss in new developer tools and the idea that your games could carry over to other Apple devices, and that's where things get interesting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Game Porting Toolkit 2
 
@@ -60,6 +64,10 @@ _Control: Ultimate Edition_
 
  Using the Windows version of Steam and the[DirectX](https://tools.techidaily.com) 12 version of the game, a[MacBook Pro with an M3 Max](https://tools.techidaily.com) played the title at 46 - 50 frames per second on high-quality settings and high ray tracing with a resolution of 1728 x 1117\. I picked up the DualSense controller Apple had in front of the Mac and took on some Hiss guards as Jesse Faden, and it felt largely ready to go. If this is what convinced Remedy to port the game over, I can kind of see why it happened. With the M3 series and M4 chips supporting ray tracing tech, the game looks great.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -69,8 +77,9 @@ _Control: Ultimate Edition_
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Unified Gaming Platform
 
  Where Apple may have an advantage is where it typically excels: in its ecosystem. If games are released for the Mac, but then you can play them on your iPad or iPhone, it could open up gaming to tons of people who wouldn't have done so previously — and make it easier for enthusiast Mac gamers to play anywhere.
@@ -78,8 +87,9 @@ _Control: Ultimate Edition_
 ![Apple gaming showcase with Mac, iPad, iPhone](https://cdn.mos.cms.futurecdn.net/KmMXFc9hGHqpSKASjSdmrP-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  Playing anywhere has been a bit of a white whale for gaming companies lately. Think of cloud services like Game Pass from[Microsoft](https://tools.techidaily.com) or GeForce Now from Nvidia. The idea was you'd stream games to play them anywhere.  
@@ -97,13 +107,11 @@ _Assassin's Creed Mirage_ has similar tricks, but only across the iPhone and iPa
 ![Apple gaming showcase with Mac, iPad, iPhone](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Apple needs to beef up its gaming library
 
  As much as I liked seeing more games run well, particularly on the Mac, it still needs a lot more games to make it the main place for anyone to play. Ubisoft and Capcom are great partners — big studios with games people want to play. But the gaming PC is popular because it supports just about every major game outside of some console exclusives, and has a backlog going back decades.
@@ -112,18 +120,12 @@ _Assassin's Creed Mirage_ has similar tricks, but only across the iPhone and iPa
 
 ![Apple gaming showcase with Mac, iPad, iPhone](https://cdn.mos.cms.futurecdn.net/JS8KyTUyCkK6QgiFQZ5HeQ-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  That also means it will take a significant amount of time for Apple to get its gaming efforts anywhere near mainstream. I hope the company is ready to continue this investment in chips, developer relations, and technologies. To get gamers and studios entirely on board will take a lot work. It will take years to see if this can be a true success. (Apple also needs to ensure it doesn't alienate game developers and publishers,[like Epic Games](https://tools.techidaily.com) , which means one of the biggest games in the world doesn't run natively on its flagship platform).  
   
  But sitting in that room, playing some_Resident Evil_ on a MacBook Pro_, Assassin's Creed_ on an iPad,_Palworld_ on a Mac, and_Control_ through x86 emulation tech makes me believe Apple is taking gaming seriously this time. It may never release a gaming laptop — instead, the idea is_any_ Mac (with Apple Silicon, of course) can be a gaming machine. So can any iPad, any iPhone. It's a bold claim that will take continued successes to convince the often-skeptical PC gaming community.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ## Quality of life improvements, as long as you're in the ecosystem
 
  Apple's other gaming-focused projects are less shiny. Game Mode, which launched on the Mac last year, is coming to the iPhone and iPad this year with iOS 18 and iPadOS 18, minimizing background activity and reducing latency for[audio](https://tools.techidaily.com) and controllers. MacOS Sequoia will have a new version that reduces background processes even further.
@@ -142,8 +144,6 @@ _Assassin's Creed Mirage_ has similar tricks, but only across the iPhone and iPa
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,4 +151,23 @@ _Assassin's Creed Mirage_ has similar tricks, but only across the iPhone and iPa
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-how-to-archive-and-backup-your-chats-on-messenger-securely/"><u>[New] How to Archive & Backup Your Chats on Messenger Securely</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-snappy-picture-assemblies-a-brisk-guide-to-google-collages/"><u>[New] In 2024, Snappy Picture Assemblies A Brisk Guide to Google Collages</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722977450864-download-drivers-and-install-logitech-g402-gaming-mouse-software-now/"><u>Download Drivers & Install Logitech G402 Gaming Mouse Software Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-setup-instructions-for-downloading-hp-84-the-g3-driver-software/"><u>Easy Setup Instructions for Downloading HP 84 the G3 Driver Software</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-navigating-through-network-layers-with-the-tracert-utility-in-windows/"><u>Expert Tips: Navigating Through Network Layers with the 'Tracert' Utility in Windows</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/fine-tuning-dimensions-aspect-ratio-essentials/"><u>Fine-Tuning Dimensions Aspect Ratio Essentials</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-imessage-issues-in-a-jiffy-for-iphone-ipad-and-mac-users/"><u>Fix iMessage Issues in a Jiffy for iPhone, iPad, and Mac Users</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-extract-unlimited-photographic-content-from-esteemed-4-video-channels/"><u>In 2024, Extract Unlimited Photographic Content From Esteemed 4 Video Channels</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-the-huion-penpad-step-by-step-guide-to-downloading-and-updating-drivers-on-windows/"><u>Mastering the Huion PenPad: Step-by-Step Guide to Downloading and Updating Drivers on Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722977570793-msi-b350-thomahawk-chipset-drivers-for-windows-117-get-them-now/"><u>MSI B350 THOMAHAWK Chipset Drivers for Windows 11/7 - Get Them Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/secure-your-data-download-the-latest-samsung-850-evo-ssd-drivers/"><u>Secure Your Data: Download the Latest Samsung 850 EVO SSD Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-the-ultimate-guide-by-toms-hardware/"><u>Tom's Tech Insights: The Ultimate Guide by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-reviews-in-depth-gadget-analysis/"><u>Tom's Tech Reviews: In-Depth Gadget Analysis</u></a></li>
+<li><a href="https://win-news.techidaily.com/troubleshooting-ram-problems-in-windows-diagnostic-steps-and-solutions-with-yl-software/"><u>Troubleshooting RAM Problems in Windows: Diagnostic Steps and Solutions with YL Software</u></a></li>
+</ul></div>
 

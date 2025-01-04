@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Latent Gems: The Lenovo Ultraportable's Hidden Features Including a Stealthy TrackPoint | Detailed Review by ZDNet"
-date: 2024-12-21T06:55:34.705Z
-updated: 2024-12-25T23:55:24.757Z
+date: 2024-12-29T17:10:33.346Z
+updated: 2025-01-04T16:09:16.645Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -77,7 +77,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -116,21 +116,18 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-how-to-harness-iphones-full-potential-for-landscapes/"><u>[New] How to Harness iPhone's Full Potential for Landscapes</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-game-on-the-best-xbox-extra-storage-choices/"><u>[Updated] In 2024, Game On The Best Xbox Extra Storage Choices</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-lava-yuva-3-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Lava Yuva 3</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723262426272-dont-miss-out-upgrade-to-a-superior-gaming-experience-with-the-nvidia-rtx-4080-powered-lenovo-legion-desktop-for-just-over-2000/"><u>Don't Miss Out: Upgrade to a Superior Gaming Experience with the NVIDIA RTX 4080-Powered Lenovo Legion Desktop for Just Over $2,000!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-latest-techkey-bluetooth-driver-for-windows-operating-systems-10-7-and-8/"><u>Download the Latest Techkey Bluetooth Driver for Windows Operating Systems (10, 7 & 8)</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/experience-improved-behavioral-analytics-through-cookiebot-solutions/"><u>Experience Improved Behavioral Analytics Through Cookiebot Solutions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/getting-started-with-iphone-driver-software-on-windows-10-machines/"><u>Getting Started with iPhone Driver Software on Windows 10 Machines</u></a></li>
-<li><a href="https://extra-information.techidaily.com/guide-to-efficient-webp-jpeg-conversion/"><u>Guide to Efficient WebP JPEG Conversion</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-install-asus-wifi-driver-on-your-computer-easily/"><u>How to Install ASUS WiFi Driver on Your Computer Easily</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/market-shock-intel-plunges-by-30-overnight-losing-39b-in-value/"><u>Market Shock: Intel Plunges by 30% Overnight, Losing $39B in Value</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-from-zero-to-hero-creating-stunning-reaction-videos-using-filmora/"><u>New In 2024, From Zero to Hero Creating Stunning Reaction Videos Using Filmora</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722973480172-new-release-get-the-latest-amd-radeon-r5-drivers-for-windows-111087-today/"><u>New Release: Get the Latest AMD Radeon R5 Drivers for Windows 11/10/8/7 Today</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/rapidly-ramp-up-your-twitter-followers-with-these-proven-techniques/"><u>Rapidly Ramp Up Your Twitter Followers with These Proven Techniques</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-gear-the-ultimate-guide-to-your-computers-anatomy/"><u>Tom's Tech Gear: The Ultimate Guide to Your Computer's Anatomy</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-complete-restore-volume-in-chrome-browser/"><u>Troubleshooting Complete: Restore Volume in Chrome Browser</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/windows-11-top7/"><u>ファイルがなくなった Windows 11 デスクトップの緊急復元手順 TOP7</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-voice-record-hacks-3-ways-to-get-it-right-on-ipad/"><u>[New] 2024 Approved Voice Record Hacks 3 Ways to Get It Right on iPad</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-essential-directories-unencumbered-visuals-galore-for-2024/"><u>[New] Essential Directories Unencumbered Visuals Galore for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-allure-of-video-crafting-filmoras-top-edits-explained-for-2024/"><u>[Updated] The Allure of Video Crafting Filmora’s Top Edits Explained for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/activating-and-utilizing-gpt-4-with-todays-chatgpt-services/"><u>Activating and Utilizing GPT-4 with Today's ChatGPT Services</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amazon-reinstates-stock-for-the-highly-demanded-4tb-samsung-t5-ssd-at-a-steep-50-off-read-more-from-zdnet/"><u>Amazon Reinstates Stock for the Highly Demanded 4TB Samsung T5 SSD at a Steep 50% Off: Read More From ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/essential-mega-savings-exclusive-offers-still-going-strong-on-black-friday-and-cyber-monday-november-2024-techbargains/"><u>Essential Mega Savings - Exclusive Offers Still Going Strong on Black Friday & Cyber Monday, November 2024 | TechBargains</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-reno-9a-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Oppo Reno 9A Phone without PIN</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/maximize-your-savings-with-this-steals-level-asus-gaming-laptop-available-for-less-than-500-at-best-buy-zdnet-insights/"><u>Maximize Your Savings with This Steals-Level Asus Gaming Laptop Available for Less than $500 at Best Buy | ZDNet Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/microsofts-revolutionary-surface-laptop-with-copilotplus-outshines-apples-macbook-air-a-comparative-analysis/"><u>Microsoft's Revolutionary Surface Laptop with Copilot+ Outshines Apple's MacBook Air: A Comparative Analysis</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ng-the-bar-youtubes-live-streaming-excellence/"><u>Raising the Bar YouTube's Live Streaming Excellence</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210142026-9781982169411-tarot-tequila/"><u>Tarot & Tequila | Free Book</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-ranking-touchscreen-laptops-in-depth-analysis-and-reviews-by-tech-experts-zdnet/"><u>Top-Ranking Touchscreen Laptops: In-Depth Analysis & Reviews by Tech Experts - ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-cyber-monday-tech-specials-save-over-1000-on-laptops-at-costco-amazon-and-dell-insights-by-zdnet/"><u>Unbeatable Cyber Monday Tech Specials! Save Over $1000 on Laptops at Costco, Amazon, and Dell | Insights by ZDNET</u></a></li>
 </ul></div>
 

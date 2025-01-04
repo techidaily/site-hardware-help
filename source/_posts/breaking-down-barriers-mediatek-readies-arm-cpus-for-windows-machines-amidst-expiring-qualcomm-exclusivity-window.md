@@ -1,7 +1,7 @@
 ---
 title: "Breaking Down Barriers: MediaTek Readies Arm CPUs for Windows Machines Amidst Expiring Qualcomm Exclusivity Window"
-date: 2024-08-19T10:44:34.185Z
-updated: 2024-08-20T10:44:34.185Z
+date: 2025-01-02T16:24:00.038Z
+updated: 2025-01-04T16:42:37.951Z
 tags:
   - laptop
 categories:
@@ -27,6 +27,10 @@ The Snapdragon X Elite is just starting to emerge in the wild, powering[Microsof
 
  Tom's Hardware journalists enjoyed[their hands-on time with Microsoft's Surface laptops](https://tools.techidaily.com) at the[Microsoft](https://tools.techidaily.com) Build event in May, finding no proof of foul play in Microsoft's demos or benchmarks. Third-party reviewers have[also gotten high results in their deeper testing](https://tools.techidaily.com) , though Microsoft commissioned the reviews, so take the results with a grain of salt. In-depth day-one reviews haven't come out due to the review embargo, so withhold judgment until then. At the very least, nothing has been so bad as the[severe allegations of Qualcomm's benchmark cheating from back in April](https://tools.techidaily.com) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,8 +45,6 @@ The Snapdragon X Elite is just starting to emerge in the wild, powering[Microsof
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -50,8 +52,22 @@ The Snapdragon X Elite is just starting to emerge in the wild, powering[Microsof
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-essential-strategies-to-regulate-video-speed-on-snapchat/"><u>[New] Essential Strategies to Regulate Video Speed on Snapchat</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-revolutionizing-film-editing-advanced-kinemaster-methods/"><u>[New] Revolutionizing Film Editing Advanced Kinemaster Methods</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-instant-thumbnail-transformation-personalized-youtube-shorts-in-a-flash/"><u>[Updated] In 2024, Instant Thumbnail Transformation Personalized YouTube Shorts in a Flash</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-finding-repository-of-explosive-roar-samples/"><u>2024 Approved Finding Repository of Explosive Roar Samples</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asrock-motherboard-driver-download/"><u>ASRock Motherboard Driver Download</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-setup-hp-envy-n-5660-printer-drivers-quickly/"><u>Download and Setup HP Envy N 5660 Printer Drivers Quickly!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-oppo-reno-8t-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Oppo Reno 8T 5G</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-install-the-latest-epson-wf-7720-printer-driver-for-windows-computers/"><u>How to Install the Latest Epson WF-7720 Printer Driver for Windows Computers</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-lock-on-your-apple-iphone-7-and-ipad-by-drfone-ios/"><u>How to Unlock iCloud lock on your Apple iPhone 7 and iPad?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-prestigious-music-archives-for-vfx-artists/"><u>In 2024, Prestigious Music Archives for VFX Artists</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/realtek-rtl8811au-connection-problems-solving-driver-complications/"><u>Realtek RTL8811AU Connection Problems – Solving Driver Complications</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/step-by-step-guide-to-creating-an-efi-partition-in-windows-11-with-tips-for-secure-backups/"><u>Step-by-Step Guide to Creating an EFI Partition in Windows 11 with Tips for Secure Backups</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-microsoft-windows-bluetooth-driver-updates-and-downloads-for-windows-10-11-8-and-eight-versions/"><u>Step-by-Step Microsoft Windows Bluetooth Driver Updates & Downloads for Windows 10, 11, 8, and Eight Versions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-best-gadgets-and-pc-parts-through-tomwarty-hw/"><u>Unveiling the Best Gadgets and PC Parts Through Tom'warty HW</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

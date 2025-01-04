@@ -1,7 +1,7 @@
 ---
 title: "Beating the MacBook Air: Microsoft Surface Laptop Copilot+ Excelling in Performance, Features & More | ZDNet Review"
-date: 2024-12-22T22:29:51.957Z
-updated: 2024-12-26T05:26:33.075Z
+date: 2025-01-03T17:30:54.842Z
+updated: 2025-01-04T17:33:31.674Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -109,7 +109,7 @@ Gaming is not fully supported by Windows on ARM yet, either. Many titles don't w
 This gets to the meat of the issue here. Yes, the CPU is fast and efficient, and the NPU on these processors runs AI-related tasks better than anything else on the market, but the chips are held back by Windows' functionality (at least for now), and this tension between the two will be at the root cause of a lot of issues until the growing pains subside.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -148,18 +148,20 @@ If you're looking for a Copilot+ PC with a better display, you might want to che
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-mastering-hues-a-collection-of-the-best-11-video-tutorials/"><u>[New] In 2024, Mastering Hues A Collection of the Best 11 Video Tutorials</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-get-ahead-with-top-tier-premiere-pro-samples-free/"><u>[Updated] 2024 Approved Get Ahead with Top-Tier Premiere Pro Samples (Free)</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-scouting-for-starred-youtube-conversations/"><u>[Updated] In 2024, Scouting for Starred YouTube Conversations</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/diy-pc-building-made-simple-an-engaging-how-to-for-young-makers/"><u>DIY PC Building Made Simple: An Engaging How-To for Young Makers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-computing-gear-with-tom-a-deep-dive-into-modern-hardware-solutions/"><u>Exploring Computing Gear with Tom: A Deep Dive Into Modern Hardware Solutions</u></a></li>
-<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-gionee-frp-by-drfone-android/"><u>Full Guide to Bypass Gionee FRP</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/mastering-backoffice-design-with-creatively-crafted-laravel-54-ui-themes-by-tims-team/"><u>Mastering Backoffice Design with Creatively-Crafted Laravel 5.4 UI Themes by Tim's Team</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/mp4-videos-wiederfinden-lerne-verlorene-mp4-dateien-leicht-wiederherzustellen/"><u>MP4 Videos Wiederfinden? Lerne, Verlorene MP4-Dateien Leicht Wiederherzustellen</u></a></li>
-<li><a href="https://blog-min.techidaily.com/top-3-ottimizzati-per-il-mastering-del-dvd-su-windows-scelte-consigliate-per-uso/"><u>Top 3 Ottimizzati Per Il Mastering Del DVD Su Windows: Scelte Consigliate Per Uso</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-reviews-and-guides-by-toms-tech-insights/"><u>Top Reviews & Guides by Tom's Tech Insights</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-and-repair-your-steelseries-arctis-cued-headphones-microphone-step-by-step-solutions/"><u>Troubleshoot & Repair Your SteelSeries Arctis Cued Headphones Microphone – Step by Step Solutions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/understanding-hardware-innovations-with-toms-guides/"><u>Understanding Hardware Innovations with Tom's Guides</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/winx-dvd-copy-pro-2dvd1dvd-r/"><u>WinX DVD Copy Pro: 片面2層DVDを1層DVD-Rへ効果的な圧縮とコピー方法</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-expert-tips-crafting-compelling-facebook-ad-videos/"><u>[New] Expert Tips Crafting Compelling Facebook Ad Videos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-perfect-photos-ranking-the-top-11-bridge-cameras/"><u>[Updated] 2024 Approved Perfect Photos Ranking the Top 11 Bridge Cameras</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-next-gen-gameplay-logging-alternatives-to-fbx/"><u>[Updated] In 2024, Next-Gen Gameplay Logging Alternatives to FBX</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-launch-sequence-the-right-moment-for-podcasts/"><u>[Updated] Launch Sequence The Right Moment for Podcasts</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/mac-6/"><u>解決 Mac 不能复制文件到外置硬盘的问题: 6个快速修复方法</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/aoc-monitor-drivers-installation-guide-for-the-latest-windows-operating-systems-11-10-and-8/"><u>AOC Monitor Drivers Installation Guide for the Latest Windows Operating Systems: 11, 10, and 8</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-document-analysis-the-ultimate-list-of-6-conversational-ai-applications/"><u>Enhancing Document Analysis: The Ultimate List of 6 Conversational AI Applications</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/environmental-impact-and-potential-damage-from-the-extinguishing-agent-should-be-considered-when-selecting-a-fire-suppression-system/"><u>Environmental Impact and Potential Damage From the Extinguishing Agent Should Be Considered when Selecting a Fire Suppression System.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/essential-update-tips-for-optimal-performance-of-dells-233amoons-laser-printer-latest-drivers-unlocked/"><u>Essential Update Tips for Optimal Performance of Dell's 233Amoons Laser Printer - Latest Drivers Unlocked!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/experience-ultimate-protection-with-nomad-case-for-apple-iphone-12-featuring-magsafe-compatibility-superior-drop-shielding-stylish-design-and-premium-qualit186/"><u>Experience Ultimate Protection with Nomad Case for Apple iPhone 12: Featuring MagSafe Compatibility, Superior Drop Shielding, Stylish Design & Premium Quality - Reviewed by TechSavvyZnet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fixing-the-notorious-graphics-driver-glitches-expert-tips-and-tricks/"><u>Fixing the Notorious Graphics Driver Glitches – Expert Tips & Tricks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/insiders-guide-to-superior-apps-for-vocal-transformation/"><u>Insider's Guide to Superior Apps for Vocal Transformation</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/secure-and-swift-installation-validity-fingerprint-sensor-driver-download-ready-for-you/"><u>Secure and Swift Installation: Validity Fingerprint Sensor Driver Download Ready for You</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-instructions-to-get-your-sound-blaster-z-drivers-for-a-smooth-windows-10-experience/"><u>Step-by-Step Instructions to Get Your Sound Blaster Z Drivers for a Smooth Windows 10 Experience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-electronic-secrets-with-toms-hardware-analysis/"><u>Unveiling Electronic Secrets with Tom's Hardware Analysis</u></a></li>
 </ul></div>
 

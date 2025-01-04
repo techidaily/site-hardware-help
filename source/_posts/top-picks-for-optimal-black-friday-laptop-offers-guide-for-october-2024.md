@@ -1,7 +1,7 @@
 ---
 title: Top Picks for Optimal Black Friday Laptop Offers Guide for October 2024
-date: 2024-12-21T02:32:16.234Z
-updated: 2024-12-26T07:12:56.854Z
+date: 2024-12-31T16:55:06.782Z
+updated: 2025-01-04T16:08:26.703Z
 tags:
   - laptops
 categories:
@@ -101,7 +101,7 @@ Asus/ZDNET
 * [Microsoft Surface Laptop Snapdragon X Elite](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Windows-Touchscreen-Snapdragon%2Fdp%2FB0CXL68236%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca80335d2-629d-4194-8639-8668ada55df9%7Cdtp&dtb=1) for $1,560 ($139 off): The higher-end Copilot+ certified laptop with the 12-core Snapdragon X Elite chip and 1TB of storage is also still on sale following October Prime Day.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## More October Prime Day 2024 laptop deals
@@ -115,7 +115,7 @@ Kyle Kucharski/ZDNET
 * [HP 17-inch Touch Laptop](https://qvc.uikc.net/c/159047/565130/9368?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.qvc.com%2Fhp-17-touch-laptop-intel-n200-4gb-ram-128gb-ssd-w-hp-mouse-%2526-ms365.product.E324465.html&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for $479 (Save $80): For a large-screen laptop with touch capabilities, HP's 17-inch Touch comes in a variety of bold colorways, and is bundled with a mouse in this QVC deal. This is a solid choice for users who want a large screen to play media, but only need a basic hardware configuration.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Buy laptop deals
@@ -137,7 +137,7 @@ Kyle Kucharski/ZDNET
 Amazon Prime Day event lasts from Tuesday, Oct. 8 through Wednesday, Oct. 9, but there are noteworthy deals before and after those days as well. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Are laptops really cheaper on Prime Day?
@@ -145,7 +145,7 @@ Amazon Prime Day event lasts from Tuesday, Oct. 8 through Wednesday, Oct. 9, but
 Amazon hasn't historically been the premiere destination for laptop deals, but the ones it lists for Prime Day have been too good to ignore. The MacBook deals, for example, were pretty major when they first dropped, since Apple is notorious for being restrictive about sales. The deals on Prime Day have gotten better each year, with more and more manufacturers participating with a broader range of devices. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How did we choose these October Prime Day deals?
@@ -161,7 +161,7 @@ When compiling the list of the best deals, we considered the following:
 * **Use cases**: At ZDNET, we also took into account different use cases. You might be in the market for a budget-friendly, basic laptop for a child, for example, or you may need a future-proof laptop suitable for work. Or, it might be a gaming device you're after. So, we have compiled a set of recommendations based on different purposes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What are the best October Prime Day 2024 deals?
@@ -230,14 +230,24 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-unleash-the-power-of-obs-for-superior-skype-screen-capture/"><u>[New] In 2024, Unleash the Power of OBS for Superior Skype Screen Capture</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-latest-hp-laserjet-pro-m404n-printer-drivers-faster-reliable-support/"><u>Download the Latest HP LaserJet Pro M404n Printer Drivers - Faster, Reliable Support</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-from-iphone-13-mini-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock from iPhone 13 mini or iPad?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/intels-laptop-processors-face-recurring-malfunctions-investigation-finds-parallels-with-previous-hardware-flaws/"><u>Intel's Laptop Processors Face Recurring Malfunctions: Investigation Finds Parallels with Previous Hardware Flaws</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-your-issue-with-crossbow-error-code-in-minecraft/"><u>Resolving Your Issue with Crossbow Error Code in Minecraft</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/seamless-logitech-driver-installation-process-for-windows-rapid-and-straightforward-guide/"><u>Seamless Logitech Driver Installation Process for Windows - Rapid & Straightforward Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-instructions-for-linksys-wusb6300-driver-download-and-setup-on-windows-systems/"><u>Step-by-Step Instructions for Linksys WUSB6300 Driver Download & Setup on Windows Systems</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/transformative-upgrades-for-the-core-of-portable-computers/"><u>Transformative Upgrades for the Core of Portable Computers</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-oppo-reno-8t-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-the-ultimate-youtube-editing-guide-for-content-creators-of-all-levels/"><u>[New] In 2024, The Ultimate Youtube Editing Guide for Content Creators of All Levels</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-converting-photographic-moments-into-cinematic-vignettes/"><u>[Updated] Converting Photographic Moments Into Cinematic Vignettes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-venture-into-the-best-sites-for-innovative-text-manipulation-tools/"><u>[Updated] Venture Into the Best Sites for Innovative Text Manipulation Tools</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1-lenovo-thinkbook-exceptional-value-in-high-performance-computing-for-under-750-a-look-into-its-potential-as-the-top-windows-laptop-of-2024/"><u>1. Lenovo ThinkBook: Exceptional Value in High-Performance Computing for Under $750 - A Look Into Its Potential as the Top Windows Laptop of 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-realme-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Realme</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amazons-october-prime-special-save-250-on-the-latest-apple-m3-macbook-air-full-report-by-zdnet/"><u>Amazon's October Prime Special: Save $250 on the Latest Apple M3 MacBook Air - Full Report by ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-new-era-of-high-performance-gaming-with-nvidias-cutting-edge-studio-laptops-and-superior-gpu-power-detailed-insights-from-zdnet/"><u>Discover the New Era of High-Performance Gaming with Nvidia's Cutting-Edge Studio Laptops and Superior GPU Power - Detailed Insights From ZDNet</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-oneplus-ace-2-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your OnePlus Ace 2 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-deal-apple-m2-macbook-air-available-at-a-steal-just-749-during-october-amazon-prime-day-detailed-insight/"><u>Exclusive Deal: Apple M2 MacBook Air Available at a Steal - Just $749 During October Amazon Prime Day – Detailed Insight</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/massive-savings-alert-get-the-4tb-samsung-t5-ssd-now-for-nearly-half-price-on-amazon-insights-from-zdnet/"><u>Massive Savings Alert: Get the 4TB Samsung T5 SSD Now for Nearly Half-Price on Amazon - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/sale-alert-get-a-massive-discount-on-the-8tb-samsung-t5-ssd-from-amazon-only-36-off-according-to-zdnet/"><u>Sale Alert: Get a Massive Discount on the 8TB Samsung T5 SSD From Amazon - Only 36% Off, According to ZDNet!</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/mlined-converting-top-six-free-ios-apps-for-youtube-to-mp3/"><u>Streamlined Converting Top Six Free iOS Apps for YouTube-to-MP3</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/supercharge-your-tech-with-this-often-forgotten-gadget-how-a-single-accessory-can-transform-your-laptops-capabilities-zdnet/"><u>Supercharge Your Tech with This Often-Forgotten Gadget - How a Single Accessory Can Transform Your Laptop's Capabilities | ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-digital-notepads-in-depth-comparison-and-purchase-guide-insights-by-tech-experts/"><u>Top-Rated Digital Notepads: In-Depth Comparison & Purchase Guide - Insights by Tech Experts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-battle-4000-rugged-laptop-outperforms-dell-latitude-in-extreme-stress-tests-zdnet/"><u>Ultimate Battle: $4,000 Rugged Laptop Outperforms Dell Latitude in Extreme Stress Tests | ZDNet</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/ultimate-guide-11-proven-strategies-to-boost-your-email-marketing-success-with-massmail-insights-from-mmsw/"><u>Ultimate Guide: 11 Proven Strategies to Boost Your Email Marketing Success with MassMail - Insights From MMSW</u></a></li>
+<li><a href="https://discover-help.techidaily.com/ultimate-tutorial-share-screen-and-stream-media-from-apple-devices-to-tv-via-google-chromecast/"><u>Ultimate Tutorial: Share Screen & Stream Media From Apple Devices to TV via Google Chromecast</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Apple Showcase in October: Discover the New M4 Mac Mini & Enhanced iPad Lineup Featuring Advanced Apple AI"
-date: 2024-12-24T17:54:36.490Z
-updated: 2024-12-25T16:12:36.037Z
+date: 2025-01-03T16:41:31.955Z
+updated: 2025-01-04T17:01:14.391Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,18 +118,22 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-free-quality-screen-capture-programs-for-windows-for-2024/"><u>[New] Free, Quality Screen Capture Programs for Windows for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-essentials-unleashed-8-products-that-are-changing-the-business-landscape/"><u>[Updated] Essentials Unleashed 8 Products That Are Changing the Business Landscape</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-topics-with-a-twist-for-your-vlog-talks-for-2024/"><u>[Updated] Topics with a Twist for Your Vlog Talks for 2024</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/boosting-job-application-success-with-standardized-interview-scripts-on-resumes/"><u>Boosting Job Application Success with Standardized Interview Scripts on Resumes</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/hidden-media-strategies-for-displaying-on-your-timeline/"><u>Hidden Media Strategies for Displaying on Your Timeline</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/immersive-animal-life-on-android-ultimate-list-for-2024/"><u>Immersive Animal Life on Android Ultimate List for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/meet-kioxias-game-changing-solid-state-drives-harnessing-the-power-of-light-for-superior-performance-and-extended-reach-to-processors-over-40m/"><u>Meet Kioxia's Game-Changing Solid State Drives: Harnessing the Power of Light for Superior Performance and Extended Reach to Processors over 40M</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-computer-world-the-comprehensive-guide-by-tom/"><u>Navigating Computer World: The Comprehensive Guide by Tom</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-technology-through-toms-lens/"><u>Navigating Technology Through Tom's Lens</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-the-world-of-hardware-with-expert-insights-from-tom-your-go-to-resource-for-gadget-comparisons-and-buying-advice/"><u>Navigating the World of Hardware with Expert Insights From Tom - Your Go-To Resource for Gadget Comparisons and Buying Advice</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/new-generation-of-solid-state-storage-how-wds-qlc-drives-surpass-last-years-tlc-by-over-16-sn5000s-vs-sn740/"><u>New Generation of Solid-State Storage: How WD's QLC Drives Surpass Last Year's TLC by Over 16% (SN5000S Vs. SN740)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-facing-issues-with-shader-compilation-in-call-of-duty-black-ops-cold-war/"><u>Resolved: Facing Issues with Shader Compilation in Call of Duty: Black Ops Cold War</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/rising-prices-of-solid-state-drives-as-nand-supply-tightens-boost-revenue-by-quarter-for-chipmakers/"><u>Rising Prices of Solid-State Drives as NAND Supply Tightens Boost Revenue by Quarter for Chipmakers</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-mastering-the-use-of-m1-max-clip/"><u>[New] Mastering the Use of M1 Max Clip</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-full-spectrum-assessment-dji-phantom-4-unveiled-for-2024/"><u>[Updated] Full Spectrum Assessment DJI Phantom 4 Unveiled for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-transform-viewing-experience-with-these-leading-top-ranked-cost-free-and-on-demand-video-downloaders/"><u>[Updated] In 2024, Transform Viewing Experience with These Leading Top-Ranked, Cost-Free & On-Demand Video Downloaders</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/cutting-edge-streaming-top-5-tools-for-capturing-every-meeting/"><u>Cutting-Edge Streaming Top 5 Tools for Capturing Every Meeting</u></a></li>
+<li><a href="https://win-answers.techidaily.com/directx-compatibility-fixes-for-a-smooth-call-of-duty-modern-warfare-eb-gameplay-experience/"><u>DirectX Compatibility Fixes for a Smooth Call of Duty: Modern Warfare Eb Gameplay Experience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/downloadhp-envy-5055-driverseasily-and-quickly/"><u>Download|HP ENVY 5055 Drivers|Easily & Quickly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-steps-to-download-updated-targus-displaylink-drivers-for-your-windows-system/"><u>Easy Steps to Download Updated Targus DisplayLink Drivers for Your Windows System</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-tutorial-for-activating-icloud-from-iphone-14-safe-and-legal-by-drfone-ios/"><u>Easy Tutorial for Activating iCloud from iPhone 14 Safe and Legal</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-amd-rx-hem-6800-xt-drivers-compatible-with-multiple-windows-oss-free/"><u>Get the Latest AMD RX Hem 6800 XT Drivers Compatible with Multiple Windows OSs [Free]</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-amd-gpus-ready-for-ethereum-mining-with-the-latest-windows-drivers/"><u>Get Your AMD GPUs Ready for Ethereum Mining with the Latest Windows Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/guide-to-acquiring-and-setting-up-toshiba-printing-software-on-windows-machines/"><u>Guide to Acquiring and Setting up Toshiba Printing Software on Windows Machines</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-install-broadcom-bluetooth-adapter-driver-on-windows-11-8-or-7/"><u>How to Install Broadcom Bluetooth Adapter Driver on Windows 11, 8 or 7</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-se-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone SE to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/inside-toms-computer-world-exploring-new-hardware-innovations/"><u>Inside Tom's Computer World - Exploring New Hardware Innovations</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723262326169-ryzen-cpu-enthusiasts-rejoice-amds-latest-addition-the-powerful-ryzen-ai-9-hx-375-makes-its-debut/"><u>Ryzen CPU Enthusiasts Rejoice: AMD's Latest Addition, the Powerful Ryzen AI 9 HX 375 Makes Its Debut</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solution-for-yakuza-6-the-game-crashing-problems-on-windowsmac/"><u>Step-by-Step Solution for Yakuza 6: The Game Crashing Problems on Windows/Mac</u></a></li>
+<li><a href="https://windows11.techidaily.com/transform-stuck-windows-handbrake-usage/"><u>Transform Stuck Windows HandBrake Usage</u></a></li>
 </ul></div>
 

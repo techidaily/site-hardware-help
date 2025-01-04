@@ -1,7 +1,7 @@
 ---
 title: "Expert Evaluation of the Lenovo Legion Pro 5I (Gen 9): Exceptional Performance at an Unbeatable Price"
-date: 2024-08-19T10:41:08.174Z
-updated: 2024-08-20T10:41:08.174Z
+date: 2024-12-28T16:06:23.135Z
+updated: 2025-01-04T16:53:24.118Z
 tags:
   - laptop
 categories:
@@ -29,6 +29,10 @@ The dream of a true, dual-screen productivity laptop may finally have been achie
 
  The Acemagic X1's dual-monitor experience is genuinely superior to what's come before. Asus has used small second screens on its touchpad or above its keyboard on the deck, but these are best used for palettes or control panels. Lenovo has done a lot of second-screen experimentation, doing everything from having a 7-inch display pop out of a slot in the lid on the 17-inch ThinkPad W series to putting an 8-inch screen where the numpad might be on a ThinkBook to releasing the Yoga 9i, which is two screens without a built-in keyboard. Acer also produced an Iconia laptop with two touch screens many years ago.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -44,6 +48,10 @@ The dream of a true, dual-screen productivity laptop may finally have been achie
  The screens are decent, but they aren't particularly bright or colorful. The keyboard feels pretty snappy but it's not likely to make anyone forget about their ThinkPad's typing experience. The touchpad seemed ok but wasn't particularly large. Also, the entire laptop looks really unexciting in its drab, gray colorway.
 
 ![Acemagic X1](https://cdn.mos.cms.futurecdn.net/efSjDm3yhxK3FmNbUzkeoL-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -61,8 +69,6 @@ The dream of a true, dual-screen productivity laptop may finally have been achie
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -70,8 +76,24 @@ The dream of a true, dual-screen productivity laptop may finally have been achie
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-optimizing-video-sequences-blend-modes-application/"><u>[New] 2024 Approved Optimizing Video Sequences Blend Modes Application</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-reaching-into-shared-snippets-of-life-on-messenger/"><u>[New] In 2024, Reaching Into Shared Snippets of Life on Messenger</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/updated-amd-ryzen-3-2200g-gpu-and-cpu-drivers-for-optimal-performance-download-now/"><u>[Updated AMD] Ryzen 3 2200G GPU & CPU Drivers for Optimal Performance – Download Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-the-most-recent-hp-printer-software-today/"><u>Download & Install the Most Recent HP Printer Software Today!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-newest-nvidia-geforce-rtx-2060-drivers-compatible-with-windows-111087/"><u>Download the Newest NVIDIA GeForce RTX 2060 Drivers Compatible with Windows 11/10/8/7</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enchant-your-audience-with-these-20-marketing-phrases/"><u>Enchant Your Audience with These 20 Marketing Phrases</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-googles-wifi-a-versatile-router-system-for-any-household/"><u>Evaluating Google's WIFI: A Versatile Router System for Any Household</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-hp-zbook-15-g3-drivers-for-windows-systems-step-by-step-download-tutorial/"><u>Get the Latest HP ZBook 15 G3 Drivers for Windows Systems - Step-by-Step Download Tutorial</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-itel-a70-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Itel A70?</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-a-step-by-step-guide-to-youtube-to-igtv-conversion/"><u>In 2024, A Step-by-Step Guide to YouTube to IGTV Conversion</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-snapshot-stability-mastering-motion/"><u>In 2024, Snapshot Stability Mastering Motion</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-hardware-choices-guidance-from-toms-experts/"><u>Mastering Hardware Choices - Guidance From Tom's Experts</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/mastering-video-editing-replacing-audio-tracks-a-comprehensive-guide-part-1/"><u>Mastering Video Editing Replacing Audio Tracks - A Comprehensive Guide (Part 1)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigate-the-landscape-of-computer-components-on-toms-system-hub/"><u>Navigate the Landscape of Computer Components on Tom's System Hub</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/next-year-welcomes-new-lineup-premium-700-pcs-with-snapdragon-tech-by-qualcomms-vision/"><u>Next Year Welcomes New Lineup: Premium $700 PCs with Snapdragon Tech by Qualcomm's Vision</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlock-full-potential-of-your-asrock-ab35cu-motherboard-free-driver-downloads-and-easy-installation-tutorial-for-windows/"><u>Unlock Full Potential of Your ASRock AB35cu Motherboard: Free Driver Downloads and Easy Installation Tutorial for Windows</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/winx-dvd-ripper-platinum-windows-1132dvd/"><u>WinX DVD Ripper Platinum: Windows 11上極速32倍DVD還原解碼工具</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->

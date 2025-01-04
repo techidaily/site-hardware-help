@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Savings: Exclusive October 202E Prime Day Tech Deals for Laptops | ZDNet"
-date: 2024-12-24T01:02:47.598Z
-updated: 2024-12-25T21:31:50.396Z
+date: 2024-12-30T16:20:20.190Z
+updated: 2025-01-04T16:10:55.438Z
 tags:
   - laptops
 categories:
@@ -95,7 +95,7 @@ Asus/ZDNET
 * [Asus TUF Gaming A15 (2024)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Display-NVIDIA%C2%AE-GeForce-FA506NF-ES51%2Fdp%2FB0CRDF25TQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cee75ad10-9c6a-4835-8646-b6e1cd59aff7%7Cdtp&dtb=1) for $599 ($100 off) - The TUF line of laptops features solid gaming hardware along with military-grade durability. The A15 is a solid gaming laptop that fits this description to a T, marked way down to a competitive price for 8GB of RAM, 512GB of storage, and an Nvidia GeForce RTX 2050 graphics card.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best laptops for photo editing
@@ -114,6 +114,10 @@ Kyle Kucharski/ZDNET
 * [Acer Swift Go 14](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Facer-Display-Experiences-Processor-SFG14-72T-718K%2Fdp%2FB0CNDTGC77%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cee75ad10-9c6a-4835-8646-b6e1cd59aff7%7Cdtp&dtb=1) for $927 (save $72): This lightweight laptop features an Intel Core Ultra 7 155H CPU, Intel Arc graphics, 16GB of RAM, and a 512GB SSD.
 * [HP 17-inch Touch Laptop](https://qvc.uikc.net/c/159047/565130/9368?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.qvc.com%2Fhp-17-touch-laptop-intel-n200-4gb-ram-128gb-ssd-w-hp-mouse-%2526-ms365.product.E324465.html&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for $479 (Save $80): For a large-screen laptop with touch capabilities, HP's 17-inch Touch comes in a variety of bold colorways, and is bundled with a mouse in this QVC deal. This is a solid choice for users who want a large screen to play media, but only need a basic hardware configuration.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best Buy laptop deals
 
 * [Asus ROG Strix Scar 17](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-rog-strix-scar-17-3-240hz-gaming-laptop-wqhd-amd-ryzen-9-x3d-with-32gb-memory-nvidia-geforce-rtx-4090-2tb-ssd-off-black%2F6564531.p%3FskuId%3D6564531&publisher_slug=itechdaily19598&exclusive=1) for $3,000 (save $700): This high-end gaming laptop is built with an AMD Ryzen 9 X3D processor, 32GB of RAM, a 2TB SSD, and Nvidia GeForce RTX 4090 graphics card.
@@ -129,7 +133,7 @@ Kyle Kucharski/ZDNET
 ## FAQs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### When is Amazon's October Prime Day 2024?
@@ -137,7 +141,7 @@ Kyle Kucharski/ZDNET
 Amazon Prime Day event lasts from Tuesday, Oct. 8 through Wednesday, Oct. 9, but there are noteworthy deals before and after those days as well. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Are laptops really cheaper on Prime Day?
@@ -145,7 +149,7 @@ Amazon Prime Day event lasts from Tuesday, Oct. 8 through Wednesday, Oct. 9, but
 Amazon hasn't historically been the premiere destination for laptop deals, but the ones it lists for Prime Day have been too good to ignore. The MacBook deals, for example, were pretty major when they first dropped, since Apple is notorious for being restrictive about sales. The deals on Prime Day have gotten better each year, with more and more manufacturers participating with a broader range of devices. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How did we choose these October Prime Day deals?
@@ -159,10 +163,6 @@ When compiling the list of the best deals, we considered the following:
 * **Price**: Naturally, the price point of our recommended laptops has to include a worthwhile discount. While some discounts are small in relation to an overall price tag - for example, $30 off a $150 device - and other discounts are in the hundreds of dollars, we wanted to ensure that in any case, it's value for money.
 * **Features**: We included a range of laptops with features sure to appeal to you, including different screen sizes, processors, memory options, and storage. Furthermore, these laptops include varying levels of security, parental lock options, and display resolutions.
 * **Use cases**: At ZDNET, we also took into account different use cases. You might be in the market for a budget-friendly, basic laptop for a child, for example, or you may need a future-proof laptop suitable for work. Or, it might be a gaming device you're after. So, we have compiled a set of recommendations based on different purposes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What are the best October Prime Day 2024 deals?
 
@@ -230,20 +230,18 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-sifting-through-social-media-stars-targeting-your-specific-interests-for-2024/"><u>[New] Sifting Through Social Media Stars Targeting Your Specific Interests for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-expert-tips-for-3d-text-designing-in-ai/"><u>[Updated] In 2024, Expert Tips for 3D Text Designing in AI</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-overlooked-masterpieces-unique-free-speech-to-text-apps-for-mac/"><u>[Updated] Overlooked Masterpieces Unique Free Speech-to-Text Apps for Mac</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-xiaomi-mix-fold-3-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/a-guide-vivo-y02t-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Vivo Y02T Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amd-threadripper-compatible-ddr5-6400-rdimms-launched-discover-the-new-range-of-overclockable-server-ecc-ram-by-gskills-zeta-r5-neo/"><u>AMD Threadripper Compatible DDR5-6400 RDIMMs Launched: Discover the New Range of Overclockable Server ECC RAM by G.Skill's Zeta R5 Neo</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-nokia-c12-pro-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Nokia C12 Pro via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/every-third-sentence-must-have-hidden-messages-spelled-out-by-using-the-first-letter-of-each-word-sequentially-without-changing-the-overall-meaning-or-flow-25/"><u>Every Third Sentence Must Have Hidden Messages Spelled Out by Using the First Letter of Each Word Sequentially without Changing the Overall Meaning or Flow of the Text</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-gadgets-with-tom-in-depth-analysis-of-latest-pc-components/"><u>Exploring Gadgets with Tom: In-Depth Analysis of Latest PC Components</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-oppo-a38-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Oppo A38 Through Google Earth?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/in-depth-technology-evaluations-by-tom-expert-hardware-guidance/"><u>In-Depth Technology Evaluations by Tom – Expert Hardware Guidance</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/inside-look-at-toms-computer-hardware-selection-and-analysis/"><u>Inside Look at Tom's Computer Hardware Selection and Analysis</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlining-security-refreshing-windows-group-policies/"><u>Streamlining Security: Refreshing Windows Group Policies</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-comprehensive-guide-to-computer-hardware/"><u>Tom's Tech Insights: Comprehensive Guide to Computer Hardware</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-tier-ddr4-ram-performance-ranks-the-speediest-memory-kit-rankings/"><u>Top-Tier DDR4 RAM Performance Ranks: The Speediest Memory Kit Rankings</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-vlog-confidently-like-popular-youtubers-in-2024/"><u>[Updated] How to Vlog Confidently Like Popular YouTubers, In 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tutorial-guide-to-fade-out-music-in-premiere-pro/"><u>[Updated] Tutorial Guide To Fade Out Music In Premiere Pro</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-video-freedom-top-8-tools-transforming-youtube-into-avis-for-2024/"><u>[Updated] Video Freedom Top 8 Tools Transforming YouTube Into Avis for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amazons-samsung-t5-8tb-ssd-strikes-a-steal-up-to-36-discount-post-prime-day-see-the-exclusive-offer-on-zdnet/"><u>Amazon's Samsung T5 8TB SSD Strikes a Steal - Up to 36% Discount Post-Prime Day! See the Exclusive Offer on ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/huge-discount-alert-samsungs-4tb-portable-ssd-t5-available-again-on-amazon-up-to-50-offzdnet-report/"><u>Huge Discount Alert: Samsung's 4TB Portable SSD (T5) Available Again on Amazon - Up to 50% Off![ZDNet Report]</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-enhance-filmmaking-on-iphone-top-camera-extensions-listed/"><u>In 2024, Enhance Filmmaking on iPhone Top Camera Extensions Listed</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-latency-in-me-resolving-lag-and-frame-drops-on-your-playthrough/"><u>Overcoming Latency in ME: Resolving Lag and Frame Drops on Your Playthrough</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-latest-enhancements-in-lenovos-thinkpad-x1-unveiled-insights-from-zdnet/"><u>The Latest Enhancements in Lenovo's ThinkPad X1 Unveiled: Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-picks-unbeatable-black-friday-laptop-discounts-await-you-this-oct-24-zdnet/"><u>Top Picks: Unbeatable Black Friday Laptop Discounts Await You This Oct '24 - ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-value-for-money-laptops-comprehensive-reviews-by-tech-experts-pcmag/"><u>Top Value-for-Money Laptops : Comprehensive Reviews by Tech Experts | PCMag</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/transform-your-gaming-with-savings-score-an-hp-victus-groopers-but-here-are-two-suggestions-that-maintain-similar-meaning-and-seo-optimization/"><u>Transform Your Gaming with Savings: Score an HP Victus Groopers, but Here Are Two Suggestions that Maintain Similar Meaning and SEO Optimization:</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-how-to-fix-constant-crashing-in-baldurs-gate-3-for-windows/"><u>Troubleshooting Guide: How to Fix Constant Crashing in Baldur's Gate 3 for Windows</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-vivo-y100i-power-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Vivo Y100i Power 5G? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Introducing a Game-Changing Mainboard: New Framework Partners with DeepComputing to Harness the Power of RISC-V in Their Latest JH7110 Laptop Board"
-date: 2024-08-19T10:46:29.902Z
-updated: 2024-08-20T10:46:29.902Z
+date: 2024-12-30T17:26:07.055Z
+updated: 2025-01-04T16:22:03.760Z
 tags:
   - laptop
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/8408c21b7cbd2d9f3e166f2aa500c9f7130f2d3b3
 The SZBox DS16 is a 16-inch laptop[available from AliExpress](https://go.redirectingat.com/?id=92X1584492&xcust=tomshardware%5Fus%5F1205122597602329443&xs=1&url=https%3A%2F%2Fwww.aliexpress.us%2Fitem%2F3256806648016140.html&sref=https%3A%2F%2Fwww.tomshardware.com%2Flaptops%2Fthis-core-i5-12450h-laptop-trades-a-physical-keyboard-for-dual-16-inch-displays-and-costs-just-dollar710-on-aliexpress) with a relatively affordable $710 starting price point. However, the real reason it's garnering so much attention (first brought to light by[Liliputing](https://liliputing.com/this-dual-screen-laptop-has-two-touchscreen-displays-and-support-for-height-adjustments-but-lacks-a-physical-keyboard/) ) is due to its dual 16-inch 1200p IPS touch panel configuration.
 
  Below, we've charted the specifications of the SZBox DS16 and its two primary variations, which we'll be referring to as the Intel Core i5 and Core i7 models for clarity's sake.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## SZBox DS16 Dual Screen Laptop Core Specs
 
@@ -37,9 +41,17 @@ The SZBox DS16 is a 16-inch laptop[available from AliExpress](https://go.redirec
 
 ![SZBox DS16](https://cdn.mos.cms.futurecdn.net/XXxLAnUWrMrCacNrJh5DWi-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: AliExpress)
 
  With a starting price of just over $700, the base Core i5 model is roughly $800 cheaper than the[Asus Zenbook Duo](https://tools.techidaily.com) (even the upgraded DS16 Core i7 model only costs $1,000, which still undercuts the entry from Asus). However, the Zenbook Duo features dual 14-inch OLED displays, a newer Intel Core Ultra 7 processor, and is nearly three pounds lighter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
@@ -55,8 +67,6 @@ The SZBox DS16 is a 16-inch laptop[available from AliExpress](https://go.redirec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -64,8 +74,19 @@ The SZBox DS16 is a 16-inch laptop[available from AliExpress](https://go.redirec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-assessing-the-dominance-of-splitcam-recording/"><u>[New] In 2024, Assessing the Dominance of SplitCam Recording</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-lost-opportunities-instant-creative-ban/"><u>2024 Approved Lost Opportunities Instant Creative Ban</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/boost-graphics-the-ultimate-guide-to-installing-updated-drivers-on-acer-predator-helios-300/"><u>Boost Graphics: The Ultimate Guide to Installing Updated Drivers on Acer Predator Helios 300</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ensure-optimal-printing-download-and-update-drivers-for-the-hp-officejet-pro-8610-across-multiple-windows-platforms/"><u>Ensure Optimal Printing: Download and Update Drivers for the HP Officejet Pro 8610 Across Multiple Windows Platforms</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/guide-resolving-issues-with-the-realtek-rtl8811au-wireless-network-driver/"><u>Guide: Resolving Issues with the Realtek RTL8811AU Wireless Network Driver</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-unlock-iphone-x-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock iPhone X without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-top-5-best-3d-intro-makers-for-youtube/"><u>In 2024, Top 5 Best 3D Intro Makers for YouTube</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/instant-access-to-acer-predator-xb2n-hu-graphics-drivers-step-by-step-guide/"><u>Instant Access to Acer Predator XB2n-HU Graphics Drivers: Step by Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/managing-windows-configuration-controlled-settings-through-your-organization/"><u>Managing Windows Configuration: Controlled Settings Through Your Organization</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-samsung-galaxy-m34-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-tecno-pova-6-pro-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Tecno Pova 6 Pro 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlocking-full-potential-of-your-logitech-mx-master-through-proper-software-configuration/"><u>Unlocking Full Potential of Your Logitech MX Master Through Proper Software Configuration</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->

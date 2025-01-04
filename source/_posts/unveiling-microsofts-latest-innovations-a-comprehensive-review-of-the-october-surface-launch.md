@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Microsoft's Latest Innovations: A Comprehensive Review of the October Surface Launch"
-date: 2024-12-13T16:33:21.905Z
-updated: 2024-12-17T16:29:04.998Z
+date: 2024-12-30T16:23:54.233Z
+updated: 2025-01-04T17:34:12.128Z
 tags:
   - laptops
 categories:
@@ -25,7 +25,7 @@ After months of [speculation](https://www.zdnet.com/article/microsofts-october-1
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Featured
@@ -40,10 +40,6 @@ On the surface, Microsoft has kept its fall lineup of products nearly indistingu
 Here's everything that the company announced during its October event.
 
 **Also: [How did Microsoft manage to get it right with Surface?](https://www.zdnet.com/article/how-did-microsoft-manage-to-get-it-right-with-surface/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Surface Laptop 5 gets a splash of color
 
@@ -60,6 +56,10 @@ What's different about the new Surface Laptop starts with the 12th-generation In
 [Buy the Surface Laptop 5 View now at Microsoft](https://www.microsoft.com/en-us/store/configure/Surface-Laptop-5/8XN49V61S1BN?)
 
 The Surface Laptop 5 will be available in select markets beginning on Oct. 25 with a [starting price of $999](https://www.microsoft.com/en-us/store/configure/Surface-Laptop-5/8XN49V61S1BN?) for the i5, 8GB of RAM, and 256GB model. The laptop will be available in classic Platinum, Black, and Sandstone colorways, as well as a new leafy "Sage" option. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Goodbye Surface Pro X, hello Surface Pro 9
 
@@ -80,7 +80,7 @@ Not-so-big news: The rest is a standard Surface Pro affair; 2-in-1 design with a
 As far as pricing goes, the Intel-based Surface Pro 9 starts at [$999](https://www.microsoft.com/en-us/store/configure/Surface-Pro-9/93VKD8NP4FVK?) (i5, 8GB RAM, 128GB), and the ARM-based model starts at [$1,299](https://www.microsoft.com/en-us/store/configure/Surface-Pro-9/93VKD8NP4FVK?) (SQ3, 8GB RAM, 128GB). The former comes in Platinum, Graphite, Forest, and Sapphire, while the latter only comes in Platinum. Preorders start today. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The aptly-named Surface Studio 2+
@@ -98,7 +98,7 @@ For all the performance gains that you're getting, Microsoft is making you pay t
 [Buy the Surface Studio 2+ View now at Microsoft](https://www.microsoft.com/en-us/store/configure/Surface-Studio-2/8VLFQC3597K4?)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft Presenter+ and Audio Dock
@@ -114,7 +114,7 @@ Releasing alongside the new Surface products are the Microsoft Presenter+ and Mi
 The Microsoft Audio Dock is both a docking station with four ports (HDMI, 2x USB-C, and USB-A) and a speaker for audio input and output. For $249, which is not cheap for either of its two functions, Microsoft promises "premium sound" and noise-reducing microphones that will help you "be heard clearly in your next online meeting."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft Designer takes on Canva
@@ -163,24 +163,15 @@ Microsoft officials say that Designer is targeted at consumers more than anyone 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-direct-to-twitter-video-conversion-a-comprehensible-list/"><u>[New] 2024 Approved Direct-to-Twitter Video Conversion A Comprehensible List</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-iphone-and-ipad-video-powerhouses-the-ultimate-list-of-10/"><u>[New] IPhone & iPad Video Powerhouses The Ultimate List of 10</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-create-impact-with-intro-excellence-best-free-services-reviewed/"><u>[Updated] 2024 Approved Create Impact with Intro Excellence Best Free Services Reviewed</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-elite-free-screen-partnership-adventures/"><u>2024 Approved Elite Free Screen Partnership Adventures</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-top-photo-enhancers-blurring-removal-online-edition/"><u>2024 Approved Top Photo Enhancers Blurring Removal Online Edition</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-atheros-network-adapter-drivers-on-your-pc/"><u>Download & Install Atheros Network Adapter Drivers on Your PC</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-latest-epson-ds-530-printer-drivers-for-windows-10-64-bit/"><u>Download the Latest Epson DS-530 Printer Drivers for Windows 10 (64-Bit)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-guide-to-updating-and-downloading-hp-officejet-pro-8610-drivers-on-various-windows-versions/"><u>Easy Guide to Updating and Downloading HP Officejet Pro 8610 Drivers on Various Windows Versions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effective-strategies-for-utilizing-your-seagate-backup-plus-drive-a-guide/"><u>Effective Strategies for Utilizing Your Seagate Backup Plus Drive: A Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722971696186-find-and-download-sound-blaster-z-drivers-made-for-windows-11-simple-instructions-inside/"><u>Find & Download Sound Blaster Z Drivers Made For Windows 11 – Simple Instructions Inside</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-new-hp-universal-printing-software-for-windows-installed-today/"><u>Get the New HP Universal Printing Software for Windows Installed Today</u></a></li>
-<li><a href="https://driver-download.techidaily.com/master-iphone-compatibility-on-your-windows-10-machine-with-easy-driver-downloads/"><u>Master iPhone Compatibility on Your Windows 10 Machine with Easy Driver Downloads</u></a></li>
-<li><a href="https://blog-min.techidaily.com/reddit-desktop-application-not-responding-troubleshooting-guide-for-ios-android-and-windows-11-users/"><u>Reddit Desktop Application Not Responding: Troubleshooting Guide for iOS, Android and Windows 11 Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/securing-display-of-startups-in-task-manager/"><u>Securing Display of Startups in Task Manager</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/snapdragon-xs-elite-graphics-processor-not-activated-in-latest-linux-fixes-impact-of-optional-oem-key-signature-implementation/"><u>Snapdragon X's Elite Graphics Processor Not Activated in Latest Linux Fixes: Impact of Optional OEM Key Signature Implementation</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-on-downloading-your-dell-mouses-software-needs/"><u>Step-by-Step Guide on Downloading Your Dell Mouse's Software Needs</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-from-apple-iphone-13-pro-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock From Apple iPhone 13 Pro You Should Try Out</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-guide-downloading-and-updating-the-brother-mfc-7860dw-printer-driver/"><u>Ultimate Guide: Downloading and Updating the Brother MFC-7860DW Printer Driver</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-users-beware-is-yourphoneexe-safe-to-use/"><u>Windows Users Beware: Is YourPhone.exe Safe to Use?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-innovators-amalgamating-photography-plus-music-into-videography/"><u>[New] In 2024, Innovators Amalgamating Photography + Music Into Videography</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-vimeo-vs-youtube-differences-between-vimeo-and-youtube/"><u>[Updated] Vimeo vs YouTube Differences Between Vimeo and YouTube</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-how-chromebook-sales-skyrocketed-unveiling-the-surprising-trend/"><u>Discover How Chromebook Sales Skyrocketed : Unveiling the Surprising Trend!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-advice-on-pc-components-toms-hardware-analysis/"><u>Expert Advice on PC Components - Tom's Hardware Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hybrid-work-made-easy-uncover-lenovos-finest-laptop-at-an-exceptional-1000-markdown-expert-insights/"><u>Hybrid Work Made Easy: Uncover Lenovo's Finest Laptop at an Exceptional $1,000 Markdown | Expert Insights</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-crafting-a-compelling-narrative-a-key-to-more-viewers-and-subscribers/"><u>In 2024, Crafting a Compelling Narrative A Key to More Viewers and Subscribers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-tips-effortless-transformation-of-wmv-files-into-high-quality-mp3-audio/"><u>Quick Tips: Effortless Transformation of WMV Files Into High-Quality MP3 Audio</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/soundscape-archives-collect-and-evaluate-recordings-for-2024/"><u>Soundscape Archives Collect & Evaluate Recordings for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/tech-review-lg-gram-pro-surpasses-macbook-air-in-speed-battery-and-portability-zdnet/"><u>Tech Review: LG Gram Pro Surpasses MacBook Air in Speed, Battery & Portability | ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ideal-selection-of-6-ssds-to-boost-your-console-and-pc-game-experience-explore-with-zdnet/"><u>The Ideal Selection of 6 SSDs to Boost Your Console and PC Game Experience | Explore with ZDNET</u></a></li>
 </ul></div>
 

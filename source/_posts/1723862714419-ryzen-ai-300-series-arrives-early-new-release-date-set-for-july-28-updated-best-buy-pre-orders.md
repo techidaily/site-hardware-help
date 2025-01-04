@@ -1,7 +1,7 @@
 ---
 title: "Ryzen AI 300 Series Arrives Early: New Release Date Set for July 28 - Updated Best Buy Pre-Orders"
-date: 2024-08-19T10:42:43.424Z
-updated: 2024-08-20T10:42:43.424Z
+date: 2024-12-28T16:55:11.442Z
+updated: 2025-01-04T16:04:34.233Z
 tags:
   - laptop
 categories:
@@ -27,6 +27,10 @@ DeepComputing, the maker of the DC-ROMA RISC-V Laptop, just released an upgrade 
 
  These sanctions have forced Chinese tech companies to look elsewhere for technologies, and[RISC-V’s open-source nature](https://tools.techidaily.com) is crucial for some of their plans. U.S.-imposed limitations have allowed the East Asian country to build innovative solutions based on this architecture. SiFive, the American semiconductor company behind the general-purpose cores of[Google](https://tools.techidaily.com) ’s TPUs, even[chose the faster Chinese Eswin SoC instead of an Intel processor](https://tools.techidaily.com) for its HiFive Premier P550 development board.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -45,8 +49,6 @@ DeepComputing, the maker of the DC-ROMA RISC-V Laptop, just released an upgrade 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -54,9 +56,19 @@ DeepComputing, the maker of the DC-ROMA RISC-V Laptop, just released an upgrade 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-saving-social-media-stories-chromes-top-5-tools-for-2024/"><u>[New] Saving Social Media Stories Chromes' Top 5 Tools for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-the-art-of-circle-and-sphere-construction-in-mc/"><u>[Updated] In 2024, The Art of Circle and Sphere Construction in MC</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/5-go-pro-hd-to-high-definition-convert-avchd-files-into-mp4-format-at-zero-cost-with-this-guide-for-windows-10-users/"><u>5. Go Pro HD to High Definition: Convert AVCHD Files Into MP4 Format at Zero Cost with This Guide for Windows 10 Users</u></a></li>
+<li><a href="https://app-tips.techidaily.com/affordable-innovation-with-openais-gpt-4-minus-for-app-creation-exclusive-analysis-by-zdnet/"><u>Affordable Innovation with OpenAI's GPT-4 Minus for App Creation - Exclusive Analysis by ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/elevate-your-big-phones-usability-with-niagara-the-top-ranked-android-launcher/"><u>Elevate Your Big Phone's Usability with Niagara, the Top-Ranked Android Launcher</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/explore-the-latest-in-smartwatch-tech-with-the-affordably-priced-google-pixel-watch-powered-by-wear-os/"><u>Explore the Latest in Smartwatch Tech with the Affordably Priced Google Pixel Watch Powered by Wear OS 지</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fast-food-meets-tech-failure-wendys-attempt-at-a-smartphone-is-utterly-silly/"><u>Fast Food Meets Tech Failure: Wendy's Attempt at a Smartphone Is Utterly Silly.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-microsoft-edge-frequent-crashes-on-windows-10-system/"><u>Fix Microsoft Edge Frequent Crashes on Windows 10 System</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/from-scraps-to-riches-uks-metalworker-creates-golden-wealth-from-old-gadgets/"><u>From Scraps to Riches: UK's Metalworker Creates Golden Wealth From Old Gadgets</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/guide-to-enable-auto-do-not-disturb-mode-for-safe-driving-on-your-google-pixel-phone/"><u>Guide to Enable Auto Do Not Disturb Mode for Safe Driving on Your Google Pixel Phone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-realme-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Realme ?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-best-cheap-action-cameras-to-purchase-for-under-100/"><u>In 2024, The Best Cheap Action Cameras to Purchase for Under $100</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Introducing the Asus ExpertBook P5: The Newest Intel Core I7-Based Notebook with Lunar Lake Processors"
-date: 2024-08-19T10:39:59.921Z
-updated: 2024-08-20T10:39:59.921Z
+date: 2025-01-01T17:24:57.815Z
+updated: 2025-01-04T16:14:10.899Z
 tags:
   - laptop
 categories:
@@ -27,6 +27,10 @@ We cover many unique "because I felt like it" projects here at Tom's Hardware, b
 
  In more modern communications news,[Wi-Fi over three kilometers](https://tools.techidaily.com) was demonstrated with a real-time video call back in January. Windows[11 started adding support for Wi-Fi 7](https://tools.techidaily.com) back in February. All this progress means that most Wi-Fi routers in the world will be a free-for-all on the same few congested wireless channels unless configured properly. Some monsters and nerds out there still employ Morse code, a language with roots in the 1830s.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,8 +45,6 @@ We cover many unique "because I felt like it" projects here at Tom's Hardware, b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -50,8 +52,24 @@ We cover many unique "because I felt like it" projects here at Tom's Hardware, b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/levating-the-cold-with-five-cozy-cinematic-elements/"><u>[New] Elevating the Cold with Five Cozy Cinematic Elements</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-honor-90-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Honor 90 Phone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/amplify-creativity-in-photography-innovative-pixlr-hacks-for-2024/"><u>Amplify Creativity in Photography Innovative Pixlr Hacks for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-optimal-performance-nvidia-geforce-rtx-1080-graphics-driver-for-win-7-pcs/"><u>Download Optimal Performance: NVIDIA GeForce RTX 1080 Graphics Driver for Win 7 PCs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-update-for-creative-webcam-drivers-now-compatible-with-windows-systems/"><u>Get the Newest Update for Creative Webcam Drivers Now! Compatible with Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722967786249-hassle-free-download-and-improvement-of-dell-display-drivers-get-started-now/"><u>Hassle-Free Download & Improvement of Dell Display Drivers - Get Started Now!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-f15-5g-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Samsung Galaxy F15 5G Phone without Any Data Loss</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-oppo-find-x6-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Oppo Find X6 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-honor-play-40c-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Honor Play 40C FRP</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intel-faces-legal-challenge-as-consumers-initiate-class-action-for-cpu-failures-and-instability/"><u>Intel Faces Legal Challenge as Consumers Initiate Class Action for CPU Failures and Instability</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/logitech-k350-universal-wired-mouse-setup-and-driver-downloads/"><u>Logitech K350 Universal Wired Mouse Setup & Driver Downloads</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-your-setup-tips-from-toms-hardware-wisdom/"><u>Mastering Your Setup - Tips From Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-resolve-escape-from-tarkovs-persistent-pc-game-crashes/"><u>Step-by-Step Guide to Resolve Escape From Tarkov's Persistent PC Game Crashes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-offline-driver-installation-for-windows-systems/"><u>Step-by-Step Guide: Offline Driver Installation for Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-fix-for-slow-computers-easy-driver-refreshes-via-windows-update/"><u>The Ultimate Fix for Slow Computers: Easy Driver Refreshes via Windows Update</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-unveiling-of-oculus-gos-true-potential-through-facebooks-move/"><u>The Unveiling of Oculus Go's True Potential Through Facebook's Move</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

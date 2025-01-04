@@ -1,7 +1,7 @@
 ---
 title: Discover the Ultimate List of Dell's Best Sale Prices This Holiday Season – Exclusive Offers at Target, Costco, and More!
-date: 2024-12-02T19:21:55.486Z
-updated: 2024-12-05T02:33:30.106Z
+date: 2024-12-28T16:50:56.216Z
+updated: 2025-01-04T16:28:05.612Z
 tags:
   - laptops
 categories:
@@ -22,6 +22,10 @@ With Black Friday 2023 ending and shoppers looking to Cyber Monday to save money
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best Cyber Monday 2023 Dell deals
 
 * [Dell OptiPlex 7000 7090 Intel Core i7 desktop](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fdell-optiplex-7090-business-desktops-workstations%252Fp%252F1VK-0001-6G7A2) for $939 (save $230)
@@ -40,7 +44,7 @@ With Black Friday 2023 ending and shoppers looking to Cyber Monday to save money
 ---  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## More Cyber Monday 2023 Dell deals
@@ -112,12 +116,20 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell Precision 3580 mobile workstation](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1770261-REG%2Fdell%5F5d74g%5F15%5F6%5Fprecision%5F3580%5Fmobile.html): $1390 (save $1000)
 * [Dell Inspiron 16 Plus](https://www.anrdoezrs.net/click-9041660-15679772-1700503970000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): $1,000 (save $650)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best Cyber Monday Dell desktop deals
 
 * [Alienware Aurora R15](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAlienware-Aurora-R15-Gaming-Desktop%2Fdp%2FB0C2VX6HN8%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C284e5729-e1b5-4ea2-88a8-886cf26a3c61%7Cdtp&dtb=1): $2,520 (save $630)
 * [Alienware Aurora R10](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fp%252F1VK-0001-5Z884%253FItem%253D9SIAA0SJU76104): $2000 (save $500)
 * [Dell OptiPlex 7010](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1764723-REG%2Fdell%5F6f73r%5Foptiplex%5F7010%5Fsmall.html): $699 (save $300)
 * [Dell Inspiron 27 7720 Intel Core i5](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-Inspiron-24-5400-Touchscreen%2Fdp%2FB0BGQSKN8N%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C284e5729-e1b5-4ea2-88a8-886cf26a3c61%7Cdtp&dtb=1): $744 (save $186)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best Cyber Monday Dell monitor deals
 
@@ -126,16 +138,12 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell SE2422HX 24-inch monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-inch-Monitor-1920-1080%2Fdp%2FB096MXR34N%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C284e5729-e1b5-4ea2-88a8-886cf26a3c61%7Cdtp&dtb=1): $80 (save $50)
 * [Dell 32-inch 4K monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-SE3223Q-31-5-inch-Monitor-Gray%2Fdp%2FB0B2GRMGFL%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C284e5729-e1b5-4ea2-88a8-886cf26a3c61%7Cdtp&dtb=1): $248 (save $117)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## When is Cyber Monday 2023?
 
 Cyber Monday happens each year on the Monday following Black Friday. This year, Cyber Monday is today, November 27.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When was Black Friday 2023?
@@ -144,19 +152,11 @@ Black Friday 2023 was on November 24, 2023\.
 
 Black Friday is always the day after Thanksgiving, which was November 23 this year.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How did we choose these Cyber Monday deals?
 
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the best Cyber Monday deals?
 
@@ -228,18 +228,20 @@ ZDNET's experts have been searching for Cyber Monday deals across sites like Ama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-a-complete-guide-to-using-vlc-mac-edition-highlights/"><u>[New] In 2024, A Complete Guide to Using VLC Mac Edition Highlights</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-ideal-top-ten-video-calls-applications-for-alltech/"><u>[Updated] 2024 Approved Ideal Top-Ten Video Calls Applications for Alltech</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-platform-pick-go-live-with-obs-or-twitch-studio/"><u>[Updated] 2024 Approved Platform Pick Go Live with OBS or Twitch Studio</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-ultimate-movie-watchlists-for-efficient-screen-time/"><u>[Updated] In 2024, Ultimate Movie Watchlists for Efficient Screen Time</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-streamline-your-audio-savings-from-youtube-playback/"><u>[Updated] Streamline Your Audio Savings From YouTube Playback</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-getting-started-with-vlc-screen-recordings/"><u>2024 Approved Getting Started with VLC Screen Recordings</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Nokia C02 | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/edible-escapades-worlds-best-food-on-tiktok/"><u>Edible Escapades World's Best Food on TikTok</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-downloading-of-logitech-m325-drivers-follow-our-expert-tips/"><u>Effortless Downloading of Logitech M325 Drivers – Follow Our Expert Tips</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/fast-track-to-installation-get-your-elgato-drivers-instantly/"><u>Fast Track to Installation: Get Your Elgato Drivers Instantly!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722974835973-get-your-usb-webcam-drivers-instantly-download-now/"><u>Get Your USB Webcam Drivers Instantly: Download Now!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-the-logitech-g920-mouse-software-guide-for-windows-111087-users/"><u>Install the Logitech G920 Mouse Software: Guide for Windows 11/10/8/7 Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-hub-expert-insights-and-reviews/"><u>Tom's Tech Hub: Expert Insights and Reviews</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-traverse-costs-watch-anywhere-gratis-video-player-pcmac/"><u>[New] 2024 Approved Traverse Costs, Watch Anywhere - Gratis VIDEO Player (PC/Mac)</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-elevate-your-storytelling-on-snapchat-with-top-tips/"><u>[New] Elevate Your Storytelling on Snapchat with Top Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-resource-compilation-for-media-imagery/"><u>[New] Ultimate Resource Compilation for Media Imagery</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-navigating-the-new-world-of-facebook-updates/"><u>[Updated] In 2024, Navigating the New World of Facebook Updates</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-quick-launch-to-laughter-ifunnys-meme-app-made-simple/"><u>[Updated] Quick Launch to Laughter IFunny's Meme App Made Simple</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/choosing-between-the-m3-and-m2-macbook-air-expert-comparison/"><u>Choosing Between the M3 and M2 MacBook Air - Expert Comparison</u></a></li>
+<li><a href="https://windows11.techidaily.com/conquering-parsing-setback-code-0xc00ce556/"><u>Conquering Parsing Setback: Code 0xC00CE556</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-look-microsofts-revolutionary-ai-chip-takes-on-apple-macbook-zdnet/"><u>Exclusive Look: Microsoft's Revolutionary AI Chip Takes on Apple MacBook | ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ifixit-amazed-by-microsofts-latest-easily-repairable-laptops-a-challenge-to-competitors-like-apple-revealed/"><u>IFixit Amazed by Microsoft's Latest Easily-Repairable Laptops: A Challenge to Competitors Like Apple Revealed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximizing-your-research-with-chatgpt-tips-and-strategies/"><u>Maximizing Your Research with ChatGPT - Tips & Strategies</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revolutionizing-productivity-how-lenovos-innovative-dual-screen-laptop-enhanced-my-work-setup-insights/"><u>Revolutionizing Productivity: How Lenovo's Innovative Dual-Screen Laptop Enhanced My Work Setup - Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-98-must-have-bargains-this-cyber-monday-insights-from-zdnet/"><u>Top 98 Must-Have Bargains This Cyber Monday - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/uber-introduces-carbon-footprint-tracking-feature-showcasing-your-co2-reduction-achievements/"><u>Uber Introduces Carbon Footprint Tracking Feature, Showcasing Your CO2 Reduction Achievements</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-scoring-savings-must-have-tech-gear-for-prime-and-cyber-weekends-in-oct-24-tips/"><u>Ultimate Guide to Scoring Savings: Must-Have Tech Gear for Prime & Cyber Weekends in Oct '24 - Tips .</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-deal-apples-budget-friendly-m2-macbook-air-now-cheapest-on-cyber-monday-insights-from-zdnet/"><u>Unbeatable Deal: Apple’s Budget-Friendly M2 MacBook Air Now Cheapest on Cyber Monday – Insights From ZDNet</u></a></li>
 </ul></div>
 

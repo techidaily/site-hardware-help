@@ -1,7 +1,7 @@
 ---
 title: "Affordable AlienExchange: Powerful I5-12450H Laptop with Dual 16'' Screens at Only $710, No Keyboard Included"
-date: 2024-08-19T10:41:28.142Z
-updated: 2024-08-20T10:41:28.142Z
+date: 2025-01-03T16:14:06.254Z
+updated: 2025-01-04T17:21:14.071Z
 tags:
   - laptop
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/19cc3daca0ae766efaf5a0d940f51eeacf8f63806
 The SZBox DS16 is a 16-inch laptop[available from AliExpress](https://go.redirectingat.com/?id=92X1584492&xcust=tomshardware%5Fus%5F1205122597602329443&xs=1&url=https%3A%2F%2Fwww.aliexpress.us%2Fitem%2F3256806648016140.html&sref=https%3A%2F%2Fwww.tomshardware.com%2Flaptops%2Fthis-core-i5-12450h-laptop-trades-a-physical-keyboard-for-dual-16-inch-displays-and-costs-just-dollar710-on-aliexpress) with a relatively affordable $710 starting price point. However, the real reason it's garnering so much attention (first brought to light by[Liliputing](https://liliputing.com/this-dual-screen-laptop-has-two-touchscreen-displays-and-support-for-height-adjustments-but-lacks-a-physical-keyboard/) ) is due to its dual 16-inch 1200p IPS touch panel configuration.
 
  Below, we've charted the specifications of the SZBox DS16 and its two primary variations, which we'll be referring to as the Intel Core i5 and Core i7 models for clarity's sake.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## SZBox DS16 Dual Screen Laptop Core Specs
 
@@ -37,9 +41,17 @@ The SZBox DS16 is a 16-inch laptop[available from AliExpress](https://go.redirec
 
 ![SZBox DS16](https://cdn.mos.cms.futurecdn.net/XXxLAnUWrMrCacNrJh5DWi-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: AliExpress)
 
  With a starting price of just over $700, the base Core i5 model is roughly $800 cheaper than the[Asus Zenbook Duo](https://tools.techidaily.com) (even the upgraded DS16 Core i7 model only costs $1,000, which still undercuts the entry from Asus). However, the Zenbook Duo features dual 14-inch OLED displays, a newer Intel Core Ultra 7 processor, and is nearly three pounds lighter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
@@ -55,8 +67,6 @@ The SZBox DS16 is a 16-inch laptop[available from AliExpress](https://go.redirec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -64,8 +74,26 @@ The SZBox DS16 is a 16-inch laptop[available from AliExpress](https://go.redirec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-harmony-and-law-instagrams-music-codex-for-2024/"><u>[Updated] Harmony & Law Instagram's Music Codex for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-free-easy-and-fast-youtubes-best-subtitle-getters/"><u>[Updated] In 2024, Free, Easy and Fast YouTube's Best Subtitle Getters</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1968-coogans-bluff-with-eastwood-as-the-title-character-sheriff-wally-coogan-who-is-assigned-to-escort-an-informant-back-to-new-york-city-from-a-small-town-40/"><u>1968 - Coogan's Bluff, with Eastwood as the Title Character, Sheriff Wally Coogan Who Is Assigned to Escort an Informant Back to New York City From a Small Town in Arizona. The Film Was Based on Edward L. Norton Jr.'s 1965 Novel ''Drag Murder''.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/compatible-drivers-and-installation-process-for-the-samsung-960-evo-ssd-on-windows/"><u>Compatible Drivers and Installation Process for the Samsung 960 EVO SSD on Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-epson-workforce-ds-30-printer-driver-for-windows-10-free-and-compatible-with-win8win7/"><u>Download Epson WorkForce DS-30 Printer Driver for Windows 10 | FREE & Compatible with Win8/Win7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fast-track-your-hp-products-driver-downloads-and-seamless-installation-steps/"><u>Fast Track Your HP Products: Driver Downloads & Seamless Installation Steps</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-asus-rog-phone-8-pro-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Asus ROG Phone 8 Pro to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-vivo-t2-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Vivo T2 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/keep-the-denominator-as-is-8/"><u>Keep the Denominator as Is: 8.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-sas-software-updates-and-free-downloads-for-windows-11-8-and-7-users/"><u>Latest SAS Software Updates & Free Downloads for Windows 11, 8 & 7 Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigate-hp-solutions-expert-support-essential-software-and-driver-access/"><u>Navigate HP Solutions: Expert Support, Essential Software, and Driver Access</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-new-tech-landscapes-discoveries-from-toms-equipment-experts/"><u>Navigating New Tech Landscapes - Discoveries From Tom's Equipment Experts</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revamp-your-audio-experience-with-updated-hyperx-device-drivers/"><u>Revamp Your Audio Experience with Updated HyperX Device Drivers</u></a></li>
+<li><a href="https://windows11.techidaily.com/speed-up-windows-apps-implement-effective-web-linking-strategies/"><u>Speed Up Windows Apps: Implement Effective Web Linking Strategies</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/the-ultimate-guide-to-choosing-between-free-and-paid-zoom-transcribers/"><u>The Ultimate Guide to Choosing Between Free & Paid Zoom Transcribers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-review-the-ultimate-guide-to-hardware-expertise/"><u>Tom's Tech Review: The Ultimate Guide to Hardware Expertise</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-best-fmovie-alternatieves-for-2024/"><u>Top 7 Best Fmovie Alternatieves for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-tp-link-adapter-drivers-now-seamless-connectivity-on-windows-10-8-and-7/"><u>Update Your TP-Link Adapter Drivers Now! Seamless Connectivity on Windows 10, 8 & 7</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/your-pathway-to-professional-looking-animated-gifs-online/"><u>Your Pathway to Professional-Looking Animated GIFs Online</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->

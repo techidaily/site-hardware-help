@@ -1,7 +1,7 @@
 ---
 title: "Prime Day 202N4: Save Big with the Top 70 Gaming Deals Still Up for Grabs - Find Them Here!"
-date: 2024-12-22T00:33:10.738Z
-updated: 2024-12-26T00:06:11.828Z
+date: 2024-12-31T17:02:19.428Z
+updated: 2025-01-04T16:31:58.277Z
 tags:
   - laptops
 categories:
@@ -81,7 +81,7 @@ The latest version of the Nintendo Switch features a 7-inch OLED screen for bett
 [View now at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FNintendo-Switch-OLED-Sw-Oled-Model-w-White-Joy-Con-Powever-Bundle-Import-Edition%2F3835757820%3Fathbdg%3DL2000&subId1=zd-__COM_CLICK_ID__-dtp) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Prime Day 2024 PlayStation 5 deals still available
@@ -98,6 +98,10 @@ ZDNET
 * [Victrix Pro FS-12 fight stick for $320 (save $70)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FVictrix-FS-12-Arcade-Fight-PlayStation-5%2Fdp%2FB0B3VP2M12%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccf9d71b0-2fd4-4124-9bb6-4888895c85a0%7Cdtp&dtb=1): A pro-level arcade stick for serious fighting game enthusiasts and eSports professionals.
 * [Corsair Void RGB Elite wireless headset for $70 (save $40)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCorsair-Wireless-Premium-Headset-Surround%2Fdp%2FB07XF2TGGK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccf9d71b0-2fd4-4124-9bb6-4888895c85a0%7Cdtp&dtb=1): This gaming headset features 7.1CH surround sound and an integrated mic certified for use with Discord voice chat.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Prime Day Xbox Series X|S deals still available
 
 * [Redfall standard edition for $20 (save $50 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRedfall-Standard-Xbox-X%2Fdp%2FB0BT3DSGSQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccf9d71b0-2fd4-4124-9bb6-4888895c85a0%7Cdtp&dtb=1): You can use an arsenal of weapons, traps, and gadgets to hunt the hordes of vampires that have taken over Boston.
@@ -108,18 +112,10 @@ ZDNET
 * [Tropico 6 next-gen edition for $25 (save $35)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FTropico-6-Next-Gen-Xbox-X%2Fdp%2FB09RNC89RV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccf9d71b0-2fd4-4124-9bb6-4888895c85a0%7Cdtp&dtb=1): This version of Tropico 6 includes the base game plus a digital soundtrack, new character skins, new transportation and infrastructure, and The Llama of Wall Street DLC.
 * [Razer Kaira Pro wireless headset for $90 (save $50)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRazer-Kaira-Wireless-Gaming-Headset-Xbox%2Fdp%2FB08LRV49W8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccf9d71b0-2fd4-4124-9bb6-4888895c85a0%7Cdtp&dtb=1): A wireless gaming headset officially licensed for use with the Xbox Series X|S.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Prime Day 2024 Nintendo Switch deals still available
 
 * [Lexar 1TB microSDXC for $74 (save $58)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLexar-Compatible-Nintendo-Switch-Smartphones-LMSPLAY001T-BNNNU%2Fdp%2FB08T8LL7G8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccf9d71b0-2fd4-4124-9bb6-4888895c85a0%7Cdtp&dtb=1): Instantly add 1TB of storage to your Nintendo Switch for downloading large games and organizing your digital library.
 * [FYY Switch game case for $8 (save $5)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSwitch-Nintendo-Holder-Portable-Silicone-Lining%2Fdp%2FB0B6GTJLSG%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccf9d71b0-2fd4-4124-9bb6-4888895c85a0%7Cdtp&dtb=1): This case can hold up to 24 Switch games and 48 microSD cards.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Prime Day 2024 PC gaming deals still available
 
@@ -136,6 +132,10 @@ Best Buy
 * [HyperX SoloCast USB mic for $33 (save $27 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHyperX-SoloCast-Microphone-Tap-Mute%2Fdp%2FB08KFL3SFV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccf9d71b0-2fd4-4124-9bb6-4888895c85a0%7Cdtp&dtb=1): The SoloCast is a great USB mic for creators and gamers looking for quality voice chat and recording.
 * [Razer Kiyo Pro for $102 (save $88 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRazer-Kiyo-Streaming-Webcam-High-Performance%2Fdp%2FB08T1MWX6J%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccf9d71b0-2fd4-4124-9bb6-4888895c85a0%7Cdtp&dtb=1): The Razer Kiyo Pro can record in 1080p at 60fps and is compatible with OBS, Twitch, YouTube, and Zoom.
 * [Asus ROG Spatha X wireless gaming mouse for $100 (save $50 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-ROG-Wireless-Magnetic-Programmable%2Fdp%2FB09726KT4R%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccf9d71b0-2fd4-4124-9bb6-4888895c85a0%7Cdtp&dtb=1): The Asus ROG Spatha X has 12 programmable buttons and ROG micro switches rated for a lifetime of 70 million clicks.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## More Prime Day gaming deals still available
 
@@ -170,10 +170,6 @@ Taylor Clemons/Arcade1Up/Midway/ZDNET
 * [Lenovo Legion 16 gaming laptop for $1,100 (save $1,120 at Walmart)](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLenovo-Legion-16-Gaming-Laptop-AMD-Ryzen-7-6800H-NVIDIA-GeForce-RTX-3070-8-GB-1TB-SSD-Windows-11-Home-82RG0046US%2F1917115835&subId1=zd-__COM_CLICK_ID__-dtp): This gaming laptop from Lenovo features a 16-inch, 2560 x 1600 resolution display as well as a 14-hour battery life and an Nvidia GeForce RTX 3070 graphics card.
 * [LG UltraGear 39-inch OLED curved monitor for $900 (save $600 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flg-ultragear-39-oled-curved-wqhd-240hz-0-03ms-freesync-and-nvidia-g-sync-compatible-gaming-monitor-with-hdr400-black%2F6575398.p%3FskuId%3D6575398&publisher%5Fslug=zdnet&article%5Fname=the%2070%20best%20prime%20day%202024%20gaming%20deals%20still%20available&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-amazon-prime-day-gaming-deals-still-available%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This gaming monitor features a refresh rate of 240Hz, a 0.03ms response time, and support for both Nvidia G-Sync and AMD FreeSync VRR.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs
 
 ### When was Amazon Prime Day 2024?
@@ -181,7 +177,7 @@ Taylor Clemons/Arcade1Up/Midway/ZDNET
 Amazon's biggest sales event of the year, Prime Day 2024 -- which ended yesterday - -delivered major discounts across various product categories, including phones, laptops, TVs, audio, and more. While the best deals were available for Prime members only, sellers often mark down products for non-Prime members to take advantage of. The event officiallytook place on July 16 and July 17.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Are gaming devices and accessories really cheaper on Prime Day?
@@ -191,6 +187,10 @@ Most gaming items go on sale at steep discounts around the end-of-year holiday s
 You can also save big during other summer sales events like the Steam Summer Sale (which ends today at 10 am Pacific/1 pm Eastern), PlayStation's Essential Picks and Games Under $15 sales, and Microsoft offering Xbox Game Pass Ultimate for both PC and console for just $1 for the first 14 days. Many developers and publishers offer rolling sales and discounts throughout the year on storefronts like Steam, Epic, and Origin. So make sure to check your wishlist often to see if you can snag a few games at a discount. If you're looking to pick up new, or at least new-to-you accessories like controllers, don't be afraid to pick up a pre-owned or refurbished model.
 
 Used hardware can be a great value, as long as you practice due diligence and read all descriptions of the item's condition and any warranty or return/exchange terms in case you run into issues. Also, when you're buying pre-owned, make sure you're not buying third-party accessories as you'll have a harder time finding replacement parts or even reliable customer service as some brands may already be defunct.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  How did we choose these Prime Day deals?
 
@@ -230,20 +230,24 @@ Prime Day is Amazon's most popular flagship seasonal savings event, typically in
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-enhancing-immersion-prepping-for-oculus-for-2024/"><u>[New] Enhancing Immersion Prepping for Oculus for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-enhance-your-watchlist-using-double-display-with-netflix-for-2024/"><u>[Updated] Enhance Your Watchlist Using Double Display with Netflix for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-find-your-comments-on-youtube/"><u>[Updated] How to Find Your Comments on YouTube?</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/best-iphone-file-restoration-programs-for-202-cuisine-a-comprehensive-guide-to-the-top-10-ios-17-support/"><u>Best iPhone File Restoration Programs for 202 Cuisine: A Comprehensive Guide to the Top 10 [iOS 17 Support]</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-and-privacy-concerns-understanding-the-balance-between-convenience-and-safety/"><u>ChatGPT and Privacy Concerns – Understanding the Balance Between Convenience and Safety</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-toms-tech-insights-in-depth-reviews-and-comparisons/"><u>Exploring Tom's Tech Insights: In-Depth Reviews and Comparisons</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-google-pixel-8-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Google Pixel 8 by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-effective-methods-to-document-facetime-calls/"><u>In 2024, Effective Methods to Document FaceTime Calls</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-oppo-find-x7-ultra-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Oppo Find X7 Ultra Phone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/intel-announces-nuc-12x-utilizing-socketed-alder-lake-s-cpus-for-enhanced-performance/"><u>Intel Announces NUC 12X: Utilizing Socketed Alder Lake-S CPUs for Enhanced Performance</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-the-digital-realm-with-toms-technology-insights/"><u>Navigating the Digital Realm with Tom's Technology Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-the-gear-galaxy-with-tom-comprehensive-hardware-guides/"><u>Navigating the Gear Galaxy with Tom: Comprehensive Hardware Guides</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/revolutionizing-legacy-systems-how-modders-integrate-modern-gpus-into-classic-agp-slot-based-pcs/"><u>Revolutionizing Legacy Systems: How Modders Integrate Modern GPUs Into Classic AGP Slot-Based PCs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-assembling-your-own-computer-system/"><u>Step-by-Step Guide: Assembling Your Own Computer System</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1728497348766-windows-10-ssdhdd/"><u>Windows 10 SSD/HDD間でのシームレス転送手順 - ソフトウェア・ライセンス不要</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-the-guide-to-growing-groups-of-great-guests-subscribers-on-youtube/"><u>[New] 2024 Approved The Guide to Growing Groups of Great Guests (Subscribers) on Youtube</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-ultimate-picks-for-affordable-video-sbs-grabbers/"><u>[Updated] Ultimate Picks for Affordable Video SBS Grabbers</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/best-free-iphone-14-plus-imei-checker-by-drfone-ios/"><u>Best Free iPhone 14 Plus IMEI Checker</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-your-own-path-on-youtube-a-course-guide-for-2024/"><u>Creating Your Own Path on YouTube A Course Guide for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/designers-treasure-trove-free-after-effects-samples/"><u>Designer's Treasure Trove Free After Effects Samples</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-logitech-drivers-fast-seamless-setup-for-windows-users/"><u>Download Logitech Drivers Fast: Seamless Setup for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722973213673-effortless-installation-with-lexar-drive-usb-drivers-now-available/"><u>Effortless Installation with Lexar Drive USB Drivers - Now Available!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fixing-common-graphics-drivers-glitches-a-comprehensive-tutorial/"><u>Fixing Common Graphics Drivers Glitches - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/francais-du-lunis-a-dimanche/"><u>Français Du Lunis À Dimanche</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/gaming-earnings-dive-for-amd-at-59-while-data-center-income-skyrockets-with-a-115-boost/"><u>Gaming Earnings Dive for AMD at -59%, While Data Center Income Skyrockets with a 115% Boost</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-drivers-for-nvidia-quadro-rtx-4000-quick-download-guide/"><u>Get the Newest Drivers for NVIDIA Quadro RTX 4000 - Quick Download Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-updated-hp-deskjet-3755-all-in-one-printing-solution-drivers-for-windows-versions-including-win11/"><u>Get Your Updated HP DeskJet 3755 All-in-One Printing Solution - Drivers for Windows Versions Including Win11</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-innovative-digital-editing-software-without-cost/"><u>In 2024, Innovative Digital Editing Software Without Cost</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-6s-plus-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 6s Plus</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-pc-performance-a-users-guide-to-modifying-cpu-drivers-in-the-windows-environment/"><u>Mastering PC Performance: A User's Guide to Modifying CPU Drivers in the Windows Environment</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-superior-10-audio-enhancement-solutions-your-guide-to-richer-mobile-sound/"><u>New 2024 Approved Superior 10 Audio Enhancement Solutions Your Guide to Richer Mobile Sound</u></a></li>
+<li><a href="https://review-topics.techidaily.com/oppo-a38-music-recovery-recover-deleted-music-from-oppo-a38-by-fonelab-android-recover-music/"><u>Oppo A38 Music Recovery - Recover Deleted Music from Oppo A38</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722976383884-quick-and-easy-guide-to-asus-vg248qe-drivers-download-and-update-for-pcs-with-windows/"><u>Quick & Easy Guide to Asus VG248QE Drivers Download and Update for PCs with Windows!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-and-overcoming-samsung-universal-print-driver-hurdles-on-pc-platforms-issues-resolved/"><u>Troubleshooting and Overcoming Samsung Universal Print Driver Hurdles on PC Platforms (Issues Resolved)</u></a></li>
 </ul></div>
 

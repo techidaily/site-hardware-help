@@ -1,7 +1,7 @@
 ---
 title: World's Pioneer RISC-V Laptop Receives Impressive Overhaul - Now Boasts Increased Core Count, Turbocharged Clock Speed at 2 GHz, and Advanced AI Capabilities
-date: 2024-08-19T10:44:19.478Z
-updated: 2024-08-20T10:44:19.478Z
+date: 2024-12-29T16:22:17.063Z
+updated: 2025-01-04T17:12:31.041Z
 tags:
   - laptop
 categories:
@@ -27,6 +27,10 @@ DeepComputing, the maker of the DC-ROMA RISC-V Laptop, just released an upgrade 
 
  These sanctions have forced Chinese tech companies to look elsewhere for technologies, and[RISC-V’s open-source nature](https://tools.techidaily.com) is crucial for some of their plans. U.S.-imposed limitations have allowed the East Asian country to build innovative solutions based on this architecture. SiFive, the American semiconductor company behind the general-purpose cores of[Google](https://tools.techidaily.com) ’s TPUs, even[chose the faster Chinese Eswin SoC instead of an Intel processor](https://tools.techidaily.com) for its HiFive Premier P550 development board.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -45,8 +49,6 @@ DeepComputing, the maker of the DC-ROMA RISC-V Laptop, just released an upgrade 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -54,8 +56,26 @@ DeepComputing, the maker of the DC-ROMA RISC-V Laptop, just released an upgrade 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-methods-to-flip-video-content-in-android/"><u>2024 Approved Methods to Flip Video Content in Android</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-navigate-effortlessly-how-to-clear-your-browsers-youtube-cache/"><u>2024 Approved Navigate Effortlessly How to Clear Your Browser's YouTube Cache</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premiere-audio-to-text-converters/"><u>2024 Approved Premiere Audio-To-Text Converters</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-xiaomi-14-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/a-stepwise-approach-for-iphone-users-on-ios-15/"><u>A Stepwise Approach for iPhone Users on iOS 15</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-instructions-on-refreshing-your-serial-port-adapters-drivers/"><u>Comprehensive Instructions on Refreshing Your Serial Port Adapter's Drivers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-oneplus-11r-by-drfone-android/"><u>Delete Gmail Account With/Without Password On OnePlus 11R</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/essential-nvidia-quadro-rtx-8000-graphics-card-drivers-free-download-guide-for-windows-users/"><u>Essential NVIDIA Quadro RTX 8000 Graphics Card Drivers: Free Download Guide for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-focusrite-scarlett-2i4-driver-software-compatible-with-windows-pcs/"><u>Free Download: Focusrite Scarlett 2I4 Driver Software Compatible with Windows PCs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-updated-hp-deskjet-ink-advantage-4620-printer-driver-for-microsoft-windows-11-computers/"><u>Get Updated HP Deskjet Ink Advantage 4620 Printer Driver for Microsoft Windows 11 Computers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722971657700-get-your-intel-centrino-advanced-n-6205-wifi-drivers-here-fast-and-easy-downloads/"><u>Get Your Intel Centrino Advanced-N 6205 WiFi Drivers Here - Fast & Easy Downloads</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-7-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>How To Unlock Apple iPhone 7 Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-official-xerox-drivers-for-your-windows-pc-free-downloads/"><u>Install Official Xerox Drivers for Your Windows PC – Free Downloads!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/maximize-efficiency-with-an-amd-ryzen-7-9700x-overclocked-to-58ghz-and-cooled-by-innovative-aio-liquid-technology-revealing-a-hidden-talent-for-6-ghz-idle.m20/"><u>Maximize Efficiency with an AMD Ryzen 7 #9700X: Overclocked to 5.8GHz and Cooled by Innovative AIO Liquid Technology; Revealing a Hidden Talent for 6 GHz Idle!</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-finding-repository-of-explosive-roar-samples/"><u>New Finding Repository of Explosive Roar Samples</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722966679949-steelseries-gaming-mouse-drivers-free-download-now/"><u>SteelSeries Gaming Mouse Drivers - Free Download Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-downloading-and-installing-the-newest-amd-vega-56-driver-for-windows-systems/"><u>The Ultimate Guide to Downloading and Installing the Newest AMD Vega 56 Driver for Windows Systems</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/verslent-online-wav-naar-aac-format-professioneel-movividereijking/"><u>Verslent Online WAV Naar AAC Format - Professioneel MoviVidereijking</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->

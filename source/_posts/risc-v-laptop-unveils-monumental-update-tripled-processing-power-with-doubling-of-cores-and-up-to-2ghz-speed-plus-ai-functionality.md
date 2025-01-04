@@ -1,7 +1,7 @@
 ---
 title: "RISC-V Laptop Unveils Monumental Update: Tripled Processing Power with Doubling of Cores & Up to 2GHz Speed + AI Functionality"
-date: 2024-08-19T10:45:05.482Z
-updated: 2024-08-20T10:45:05.482Z
+date: 2024-12-31T17:32:33.742Z
+updated: 2025-01-04T16:42:49.791Z
 tags:
   - laptop
 categories:
@@ -34,6 +34,10 @@ Lenovo has started to roll out its business-focused[ThinkPad T14s](https://weibo
 
  Of course, there is a cost for the pro-spec and build quality. At the China eCommerce outlets, where this model popped up first, pricing starts at roughly the equivalent of $1,700 for the spec shown in the table above.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -48,8 +52,6 @@ Lenovo has started to roll out its business-focused[ThinkPad T14s](https://weibo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -57,9 +59,24 @@ Lenovo has started to roll out its business-focused[ThinkPad T14s](https://weibo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-future-proof-files-top-5-cloud-services-for-peak-performance/"><u>[New] Future-Proof Files Top 5 Cloud Services for Peak Performance</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-beyond-imagination-celebrating-the-leading-6-in-nft-creation/"><u>[New] In 2024, Beyond Imagination Celebrating the Leading 6 in NFT Creation</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-strategies-to-find-the-perfect-power-source-for-drones-for-2024/"><u>[New] Strategies to Find the Perfect Power Source for Drones for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-step-by-step-guide-to-saving-insta-story-content-for-2024/"><u>[Updated] Step-by-Step Guide to Saving Insta Story Content for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-swiftly-get-your-favorite-skype-tones-from-here/"><u>[Updated] Swiftly Get Your Favorite Skype Tones From Here</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-what-is-google-ar-sticker-and-are-there-alternatives/"><u>[Updated] What Is Google AR Sticker and Are There Alternatives?</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-roblox-error-262-anomaly/"><u>Addressing Roblox: Error 262 Anomaly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-setup-iphone-drivers-for-windows-10-users/"><u>Download & Setup: IPhone Drivers for Windows 10 Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-a-broken-windows-spotlight-on-windows-11-pcs/"><u>Effective Solutions for a Broken Windows Spotlight on Windows 11 PCs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/essential-drivers-for-epson-ds-530-compatible-with-windows-10-64-bit/"><u>Essential Drivers for Epson DS-^530 - Compatible With Windows 10 (64-Bit)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-tips-securely-download-sades-headset-drivers-for-windows-without-any-hassle/"><u>Expert Tips: Securely Download Sades Headset Drivers for Windows Without Any Hassle</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-restore-missing-chatgpt-interaction-histories/"><u>How to Restore Missing ChatGPT Interaction Histories</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-your-logitech-hd-pro-webcam-software-for-windows-11-systems/"><u>How to Update Your Logitech HD Pro Webcam Software for Windows 11 Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/insignia-usb-to-ethernet-adapter-drivers-free-download/"><u>Insignia USB-to-Ethernet Adapter Drivers: Free Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/j-edgar/"><u>J. Edgar</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-canon-pixma-mg3620-driver-version-available-for-windows-10817-users/"><u>Latest Canon PIXMA MG3620 Driver Version Available for Windows 10/8.1/7 Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-the-world-of-computing-components-with-toms-expertise/"><u>Navigating the World of Computing Components with Tom's Expertise</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->

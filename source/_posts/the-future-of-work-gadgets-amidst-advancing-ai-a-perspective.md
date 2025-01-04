@@ -1,7 +1,7 @@
 ---
 title: "The Future of Work Gadgets Amidst Advancing AI: A Perspective"
-date: 2024-12-23T17:01:47.987Z
-updated: 2024-12-26T08:33:39.308Z
+date: 2025-01-01T16:44:41.813Z
+updated: 2025-01-04T16:18:51.750Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,16 +134,19 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-quick-tips-solve-obss-blackout-during-live-captures-for-2024/"><u>[New] Quick Tips Solve OBS's Blackout During Live Captures for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-streaming-twitter-videos-on-snapchat-platform-for-2024/"><u>[New] Streaming Twitter Videos on Snapchat Platform for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-high-end-audio-for-youtubes-best-gamers/"><u>[Updated] 2024 Approved High-End Audio for YouTube's Best Gamers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/brother-hl-n3170cdw-driver-download-guide-fast-setup/"><u>Brother HL-N3170CDW Driver Download Guide – Fast Setup</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-nvidia-geforce-rtx-30-series-drivers-compatible-with-windows-11-quick-and-easy-guide/"><u>Download NVIDIA GeForce RTX 30 Series Drivers Compatible with Windows 11: Quick & Easy Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-vivo-x100-pro-by-drfone-android/"><u>Full Guide to Unlock Your Vivo X100 Pro</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-change-or-remove-screen-time-lock-code-on-apple-products/"><u>How To Change or Remove Screen Time Lock Code on Apple Products</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-graphics-driver-download-for-amd-rx-6700-xt-compatible-with-windows-systems/"><u>Latest Graphics Driver Download for AMD RX 6700 XT Compatible with WIndows Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-the-world-of-technology-expert-advice-from-toms-hardware-corner/"><u>Navigating the World of Technology: Expert Advice From Tom's Hardware Corner</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/solving-the-logitech-g930-headset-compatibility-problem-with-windows-drivers/"><u>Solving the Logitech G930 Headset Compatibility Problem with Windows Drivers</u></a></li>
-<li><a href="https://ai-video.techidaily.com/updated-2024-approved-how-to-translate-tiktok-videos-top-5-auto-translate-tools/"><u>Updated 2024 Approved How to Translate TikTok Videos Top 5 Auto Translate Tools</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-breaking-down-facebooks-latest-developments-for-2024/"><u>[New] Breaking Down Facebook's Latest Developments for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-bypassing-vimeo-top-10-editing-software-choices-for-2024/"><u>[Updated] Bypassing Vimeo Top 10 Editing Software Choices for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-getting-started-with-stylish-mac-made-youtube-vids/"><u>[Updated] In 2024, Getting Started with Stylish Mac-Made YouTube Vids</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-untangling-veiled-feedback-mechanisms-in-video-sites/"><u>[Updated] In 2024, Untangling Veiled Feedback Mechanisms in Video Sites</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ahoy-shopaholics-discover-neweggs-ultimate-black-friday-bargains/"><u>Ahoy, Shopaholics! Discover Newegg's Ultimate Black Friday Bargains</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/captivating-your-network-streamlining-content-via-wirecast-to-facebook-for-2024/"><u>Captivating Your Network Streamlining Content via Wirecast to Facebook for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-ultimate-walmart-discounts-for-july-2er-2024-highlighted-insights/"><u>Discover the Ultimate Walmart Discounts for July 2Er, 2024 - Highlighted Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-the-creme-de-la-creme-of-macbooks-insider-tips-and-reviews-zdnet/"><u>Exploring the Crème De La Crème of MacBooks - Insider Tips and Reviews | ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-premium-gaming-performance-with-nvidias-latest-on-budget-friendly-acer-laptops-insights-from-zdnet/"><u>Get Premium Gaming Performance with Nvidia's Latest on Budget-Friendly Acer Laptops - Insights From ZDNet</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-honor-90-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Honor 90</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-6-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 6 to others devices? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-a-detailed-study-of-vsdcs-screen-capture-prowess-and-competing-products/"><u>In 2024, A Detailed Study of VSDC's Screen Capture Prowess & Competing Products</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/slash-your-gaming-pc-costs-with-a-stellar-offer-snag-an-acer-nitro-5-for-just-179-less/"><u>Slash Your Gaming PC Costs with a Stellar Offer: Snag an Acer Nitro 5 for Just $179 Less!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-pick-the-best-ultraportable-laptop-with-all-day-battery-expert-review-by-zdnet/"><u>Top Pick: The Best Ultraportable Laptop with All-Day Battery - Expert Review by ZDNet</u></a></li>
 </ul></div>
 

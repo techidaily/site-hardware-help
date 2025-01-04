@@ -1,7 +1,7 @@
 ---
 title: HP Unveils Latest Lineup of AI-Enhanced Spectre Notebooks at CES, Complementing High-Tech Accessories - ZDNet
-date: 2024-12-19T07:45:46.333Z
-updated: 2024-12-25T18:06:37.950Z
+date: 2024-12-31T16:17:36.322Z
+updated: 2025-01-04T16:23:33.567Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,24 +118,22 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/fixed-nvidia-drivers-post-malfunction-restored/"><u>[Fixed] Nvidia Drivers Post-Malfunction Restored</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-photomagic-studio/"><u>[New] PhotoMagic Studio</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-fashion-meets-makeup-brilliance-for-2024/"><u>[Updated] Fashion Meets Makeup Brilliance for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amd-rx-6700-xt-graphics-card-freshest-windows-compatible-drivers-ready/"><u>AMD RX 6700 XT Graphics Card: Freshest Windows-Compatible Drivers Ready!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/cutting-edge-computing-in-depth-evaluations-from-toms-tech-experts/"><u>Cutting-Edge Computing: In-Depth Evaluations From Tom's Tech Experts</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722965047450-download-and-install-the-newest-nvidia-quadro-rtx-s-4000-gpu-drivers-today/"><u>Download and Install the Newest NVIDIA Quadro RTX S 4000 GPU Drivers Today</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-corsair-k55-keyboard-drivers-step-by-step-guide/"><u>Download and Update Corsair K55 Keyboard Drivers: Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/efficiently-update-elan-smbus-drivers-on-windows-free-download-and-steps/"><u>Efficiently Update ELAN SMBus Drivers on Windows: Free Download and Steps</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/elevate-your-reddit-presence-with-proactive-tips/"><u>Elevate Your Reddit Presence with Proactive Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-tweaks-required-for-better-gpt-plugin-management/"><u>Essential Tweaks Required for Better GPT Plugin Management</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-a-kinemaster-editors-roadmap-for-flawless-transitions/"><u>In 2024, A Kinemaster Editor's Roadmap for Flawless Transitions</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Vivo V29 Pro? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-amd-radeon-drivers-on-your-windows-pc-click-to-download-now/"><u>Install AMD Radeon Drivers on Your Windows PC - Click to Download Now!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-updates-and-downloads-for-mbox-2-driver-compatible-with-windows-systems/"><u>Latest Updates and Downloads for MBox 2 Driver Compatible with Windows Systems</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/1721267034705-lost-iphone-files-discover-superior-data-rescue-services-limited-time-offer/"><u>Lost iPhone Files? Discover Superior Data Rescue Services – Limited Time Offer!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722979046707-quick-and-easy-windows-update-drivers-get-them-today/"><u>Quick & Easy Windows Update Drivers – Get Them Today!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/smooth-fortnite-gameplay-achieved-top-methods-for-dealing-with-lags/"><u>Smooth Fortnite Gameplay Achieved: Top Methods for Dealing with Lags</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshooting-startech-drivers-on-windows-11-8-and-7-a-comprehensive-guide/"><u>Troubleshooting StarTech Drivers on Windows 11, 8 & 7: A Comprehensive Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/what-causes-youtube-to-stop-working-and-how-can-you-fix-it/"><u>What Causes YouTube to Stop Working and How Can You Fix It?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-mobile-broadcasting-share-videos-without-a-retweet/"><u>[New] 2024 Approved Mobile Broadcasting Share Videos without a Retweet</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/androvid-video-editor-complete-review/"><u>AndroVid Video Editor – Complete Review</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-your-iphone-12-pro-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From your iPhone 12 Pro</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/como-migrar-tu-respaldo-de-un-disco-duro-externo-a-google-drive-rapido-y-facilmente-tres-estrategias-clave/"><u>Cómo Migrar Tu Respaldo De Un Disco Duro Externo a Google Drive Rápido Y Fácilmente – Tres Estrategias Clave</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/cyber-week-deals-snag-an-hp-pavilion-laptop-at-unbeatable-prices-only-450-this-cyber-monday-enjoy-the-ultimate-bargain/"><u>Cyber Week Deals: Snag an HP Pavilion Laptop at Unbeatable Prices – Only $450 This Cyber Monday, Enjoy the Ultimate Bargain!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exceptional-display-quality-at-an-unbeatable-price-discover-this-fantastic-portable-laptop/"><u>Exceptional Display Quality at an Unbeatable Price: Discover This Fantastic, Portable Laptop</u></a></li>
+<li><a href="https://win-net.techidaily.com/expert-strategies-for-windows-servers-mastering-the-art-of-naked-pc-recovery-and-upgrades/"><u>Expert Strategies for Windows Servers: Mastering the Art of Naked PC Recovery and Upgrades</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-expert-tips-for-stunning-iphone-close-ups-and-macros/"><u>In 2024, Expert Tips for Stunning iPhone Close-Ups & Macros</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instant-fix-lenovo-usb-c-dock-software-update/"><u>Instant Fix: Lenovo USB-C Dock Software Update</u></a></li>
+<li><a href="https://fox-links.techidaily.com/screenplay-basics-penning-dynamic-characters-speeches/"><u>Screenplay Basics Penning Dynamic Characters' Speeches</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/still-on-sale-best-buys-exclusive-offers-for-prime-day-202nce-in-october-zdnet/"><u>Still on Sale: Best Buy's Exclusive Offers for Prime Day 202Nce in October | ZDNet</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-realme-c33-2023-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Realme C33 2023</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-12-ideal-presents-for-tech-savvy-geniuses-expert-recommendations-from-zdnet/"><u>Top 12 Ideal Presents for Tech Savvy Geniuses: Expert Recommendations From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-budget-friendly-computers-exploring-options-from-lenovo-hp-asus-and-others-zdnet/"><u>Top Budget-Friendly Computers : Exploring Options From Lenovo, HP, Asus, and Others | ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-ultimate-october-2024-laptop-bargains-find-your-tech-treasure-exclusive-guide/"><u>Top-Rated Ultimate October 2024 Laptop Bargains: Find Your Tech Treasure Exclusive Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unmissable-cyber-monday-offer-save-400-on-the-ultra-thin-and-portable-lg-gram-17-laptop-up-to-60-discount/"><u>Unmissable Cyber Monday Offer: Save $400 on the Ultra-Thin & Portable LG Gram 17 Laptop - Up to 60% Discount!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-hidden-gem-in-productivity-laptops-a-non-thinkpad-non-macbook-powerhouse-with-a-sweet-300-discount-for-amazon-prime-members-gizmodo/"><u>Unveiling the Hidden Gem in Productivity Laptops - A Non-ThinkPad, Non-MacBook Powerhouse with a Sweet $300 Discount for Amazon Prime Members | Gizmodo</u></a></li>
 </ul></div>
 

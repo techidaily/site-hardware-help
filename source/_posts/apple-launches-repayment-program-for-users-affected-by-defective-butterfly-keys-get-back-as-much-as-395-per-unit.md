@@ -1,7 +1,7 @@
 ---
 title: Apple Launches Repayment Program For Users Affected by Defective Butterfly Keys - Get Back as Much as $395 per Unit
-date: 2024-08-19T10:45:25.402Z
-updated: 2024-08-20T10:45:25.402Z
+date: 2024-12-31T17:33:26.822Z
+updated: 2025-01-04T16:21:22.350Z
 tags:
   - laptop
 categories:
@@ -25,6 +25,10 @@ AMD’s latest[Ryzen AI 300](https://tools.techidaily.com) (Strix Point) chips a
 
  Nevertheless,[early benchmarks support AMD’s claims](https://tools.techidaily.com) that its latest laptop CPUs gain 15% over the last-gen Ryzen 7 7735U. We also expect these APUs to have significantly better graphics performance as they upgrade their graphics engines with RDNA 3.5\. However, all these[benchmarks](https://tools.techidaily.com) and numbers mean nothing if we can’t get our hands on these devices and run real-world benchmarks. So, we’ll have to wait until the end of July before we can start testing these laptops and comparing them against[the new Snapdragon X Elite laptops](https://tools.techidaily.com) launched a few weeks back.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -39,8 +43,6 @@ AMD’s latest[Ryzen AI 300](https://tools.techidaily.com) (Strix Point) chips a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -48,8 +50,20 @@ AMD’s latest[Ryzen AI 300](https://tools.techidaily.com) (Strix Point) chips a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-the-ultimate-guide-to-purging-youtube-videos/"><u>[New] The Ultimate Guide to Purging YouTube Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-creating-a-safe-mc-habitat-plan-6-for-2024/"><u>[Updated] Creating a Safe MC Habitat Plan #6 for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-focus-on-essentials-affinity-method/"><u>[Updated] In 2024, Focus on Essentials - Affinity Method</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-vivo-v27-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Vivo V27 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-fix-for-rtl8eapdriver-installation-errors-with-the-realtek-rtl8723be-wireless-network-card-on-pcs/"><u>Comprehensive Fix for RTL8eapdriver Installation Errors with the Realtek RTL8723BE Wireless Network Card on PCs</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-enabled-enhancing-your-sites-personalization/"><u>Cookiebot-Enabled: Enhancing Your Site's Personalization</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-m-audio-fast-track-drivers-compatible-with-windows-11-7-8-and-81-get-the-latest/"><u>Download M-Audio Fast Track Drivers: Compatible with Windows 11, 7, 8 & 8.1 - Get the Latest</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/full-disclosure-on-the-t5-cameras-action-features/"><u>Full Disclosure on the T5 Camera's Action Features</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-install-up-to-date-drivers-on-your-acer-screen/"><u>How to Install Up-to-Date Drivers on Your Acer Screen</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/macpciphone3/"><u>MacとPCを使わずにiPhoneに音楽移し込み方法：3コツ探究</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-the-world-of-electronics-with-toms-computer-components-guide/"><u>Mastering the World of Electronics with Tom's Computer Components Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-now-free-gigabyte-ethernet-controller-software-for-smooth-internet-connection/"><u>Update Now: Free Gigabyte Ethernet Controller Software for Smooth Internet Connection</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-logitech-rx250-mouse-for-windows-os-versions-7810-with-these-drivers/"><u>Update Your Logitech RX250 Mouse for Windows OS (Versions 7/8/10) with These Drivers</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->

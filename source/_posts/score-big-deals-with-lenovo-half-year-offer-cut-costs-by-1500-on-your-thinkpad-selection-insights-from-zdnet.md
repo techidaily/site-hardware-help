@@ -1,7 +1,7 @@
 ---
 title: "Score Big Deals with Lenovo Half-Year Offer: Cut Costs by $1,500 on Your ThinkPad Selection – Insights From ZDNet"
-date: 2024-12-19T23:14:18.853Z
-updated: 2024-12-26T00:46:38.708Z
+date: 2025-01-02T17:31:11.547Z
+updated: 2025-01-04T16:15:18.353Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -73,7 +73,7 @@ My review unit came with the Intel Core Ultra 7 155H processor, which allowed th
 These problems extended to the battery, too. I performed my usual battery test of playing a 720p YouTube video non-stop at 50 percent brightness to see how long it lasts. I do this to simulate an average day of work. On battery saver, the ThinkPad X1 Carbon lasted around five hours before dying. That's not very long. With the quirky performance in mind, all this leads me to believe that the ThinkPad's hardware isn't well optimized.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -112,22 +112,22 @@ There are a few different configurations you can choose for this machine, bringi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-the-ultimate-step-by-step-guide-for-adding-and-curating-dynamic-graphics-gifs-in-your-discord-chats/"><u>[New] The Ultimate Step-by-Step Guide for Adding and Curating Dynamic Graphics (GIFs) in Your Discord Chats</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-youtube-masterclass-choose-your-development-stage-for-2024/"><u>[Updated] YouTube Masterclass Choose Your Development Stage for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/cracking-the-code-starting-call-of-dutys-modern-warfare-2-successfully-uncovered/"><u>Cracking the Code: Starting Call of Duty's Modern Warfare 2 Successfully Uncovered</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-upgrade-ultimate-guide-to-ch340ge-usb-chip-drivers-for-windows-10/"><u>Download & Upgrade: Ultimate Guide to CH340g/E USB Chip Drivers for Windows 10</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-the-most-recent-toshibab-copier-drivers-for-windows-users/"><u>Download and Install the Most Recent Toshibab Copier Drivers for Windows Users</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722978636571-download-your-nvidia-geforce-940mx-drivers-today/"><u>Download Your NVIDIA GeForce 940MX Drivers Today</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722966826260-easy-installation-of-updated-nahimic-sound-drivers-fast-results/"><u>Easy Installation of Updated Nahimic Sound Drivers - Fast Results!</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-your-access-to-the-2024-finals-expert-advice-and-strategies/"><u>Fixing Your Access to the 2024 Finals: Expert Advice & Strategies</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/language-mastery-made-easy-mondly-launches-virtual-reality-for-learners/"><u>Language Mastery Made Easy: Mondly Launches Virtual Reality for Learners</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/randd-investments-and-their-role-in-maintaining-hahron-spices-competitive-edge/"><u>R&D Investments and Their Role in Maintaining HAHRON SPICE's Competitive Edge.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-hardware-the-ultimate-guide-to-pc-components-and-tech-news/"><u>Tom's Hardware: The Ultimate Guide to PC Components & Tech News</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-comprehensive-gadget-analyses/"><u>Tom's Tech Review: Comprehensive Gadget Analyses</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-5-easy-to-use-mts-to-flv-video-converter-programs-for-pc-and-mac-users/"><u>Top 5 Easy-to-Use MTS to FLV Video Converter Programs for PC & Mac Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722967488495-ultimate-lenovo-thinkpad-driver-downloads-your-assured-source-for-updates-and-safety/"><u>Ultimate Lenovo ThinkPad Driver Downloads – Your Assured Source for Updates & Safety.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unlocking-high-tech-secrets-on-toms-hardware-review-platform/"><u>Unlocking High-Tech Secrets on Tom's Hardware Review Platform</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unlocking-the-details-of-intels-prolonged-assurance-plan-for-their-new-core-series-i5-i7-i9-generations-13-to-14/"><u>Unlocking the Details of Intel's Prolonged Assurance Plan for Their New Core Series (I5, I7, I9) - Generations 13 to 14</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unveiling-a-new-era-your-guide-to-windows-11-upgrade/"><u>Unveiling a New Era Your Guide to Windows 11 Upgrade</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-best-online-vimeo-video-downloaders/"><u>[New] Best Online Vimeo Video Downloaders</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabling-iphone-15-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling iPhone 15 Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-master-unlocking-your-sprint-device-a-step-by-step-guide-for-iphone-models-xs-xr-and-earlier-versions/"><u>How to Master Unlocking Your Sprint Device: A Step-by-Step Guide for iPhone Models XS, XR, and Earlier Versions</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-oppo-a1-5g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Oppo A1 5G Phone?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/huge-sale-alert-for-presidents-day-score-a-cut-price-2023-macbook-air-with-m2-chip-at-just-300-less-shop-now-gadgetguru-newsletter/"><u>Huge Sale Alert for Presidents' Day: Score a Cut-Price 2023 MacBook Air with M2 Chip at Just $300 Less - Shop Now | GadgetGuru Newsletter</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/live-streaming-microsofts-next-gen-ai-showcase-on-surface-and-windows-get-ready-now-zdnet/"><u>Live Streaming Microsoft's Next-Gen AI Showcase on Surface & Windows - Get Ready Now! | ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/portable-monitors-a-smart-choice-for-tech-enthusiasts-find-out-why-these-4-standout-models-are-worth-your-attention-zdnet/"><u>Portable Monitors: A Smart Choice for Tech Enthusiasts? Find Out Why These 4 Standout Models Are Worth Your Attention | ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/snag-the-hp-victus-15-at-an-unbeatable-price-of-450-during-prime-day-exclusive-sale-inside-on-bestbuy-gaming-laptop-reviews-by-zdnet/"><u>Snag the HP Victus 15 at an Unbeatable Price of $450 During Prime Day: Exclusive Sale Inside on BestBuy - Gaming Laptop Reviews by ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/snag-your-high-capacity-deal-8tb-samsung-t5-drive-at-a-steep-36-off-exclusively-on-amazon-insights-from-zdnets-latest-review/"><u>Snag Your High-Capacity Deal: 8TB Samsung T5 Drive at a Steep 36% Off, Exclusively on Amazon! Insights From ZDNET's Latest Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/study-reveals-privacy-risks-protect-your-personal-files-from-intrusive-tech-support/"><u>Study Reveals Privacy Risks: Protect Your Personal Files From Intrusive Tech Support</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-new-era-of-productivity-on-the-go-how-hps-cutting-edge-chromebooks-elevate-work-and-study-experience-as-revealed-by-zdnet/"><u>The New Era of Productivity on the Go: How HP's Cutting-Edge Chromebooks Elevate Work and Study Experience, as Revealed by ZDNET</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ltimate-guide-to-adding-youtube-media-to-google-slides-for-2024/"><u>The Ultimate Guide to Adding YouTube Media to Google Slides for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/transcode-video-flv-en-audio-mp3-gratuite-en-ligne-avec-mp3-converter/"><u>Transcode Vidéo FLV en Audio MP3 Gratuite en Ligne Avec Mp3-Converter</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-your-iphone-14s-battery-health-issues-what-you-need-to-know/"><u>Understanding Your iPhone 14'S Battery Health Issues - What You Need to Know</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-2024-approved-a-detailed-review-of-murfai-ai-text-to-speech-tool/"><u>Updated 2024 Approved A Detailed Review of Murf.ai AI Text-to-Speech Tool</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/what-tech-enthusiasts-are-expecting-from-apples-upcoming-event-a-deep-dive-into-potential-m4-mac-minis-innovative-ipads-and-future-of-apple-ai-analysis/"><u>What Tech Enthusiasts Are Expecting From Apple’s Upcoming Event – A Deep Dive Into Potential M4 Mac Minis, Innovative iPads, and Future of Apple AI | Analysis</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726026739742-dailymotion/"><u>ブラウザでDailymotion動画を安全に保存するためのテクニック</u></a></li>
 </ul></div>
 

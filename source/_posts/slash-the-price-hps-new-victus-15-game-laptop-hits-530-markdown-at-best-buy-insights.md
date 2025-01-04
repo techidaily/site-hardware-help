@@ -1,7 +1,7 @@
 ---
 title: "Slash the Price: HP's New Victus 15 Game Laptop Hits $530 Markdown at Best Buy, Insights"
-date: 2024-12-03T10:19:09.662Z
-updated: 2024-12-05T00:52:50.193Z
+date: 2025-01-01T16:07:18.396Z
+updated: 2025-01-04T16:43:09.239Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,21 +63,18 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-exploring-ice-cream-screen-recorder-technology/"><u>[New] 2024 Approved Exploring Ice Cream Screen Recorder Technology</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-beyond-one-angle-explore-our-11-multicam-review/"><u>[Updated] 2024 Approved Beyond One Angle Explore Our #11 Multicam Review</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-art-of-story-lensing-smart-zooms-on-instagram/"><u>[Updated] 2024 Approved The Art of Story Lensing Smart Zooms on Instagram</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-canon-scandrive-software-for-windows-compatible-user-friendly-and-cost-free/"><u>Download Canon ScanDrive Software for Windows: Compatible, User-Friendly & Cost-Free</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722958410564-get-the-newest-zebra-printer-driver-software-for-your-windows-pc-here/"><u>Get the Newest Zebra Printer Driver Software for Your Windows PC Here!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/identifying-and-repairing-common-iphone-display-defects/"><u>Identifying & Repairing Common iPhone Display Defects</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-mastering-instagrams-square-shots-with-imovie/"><u>In 2024, Mastering Instagram's Square Shots with iMovie</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/lenovo-thinkpad-driver-downloads-free-and-secure-updates-available/"><u>Lenovo ThinkPad Driver Downloads: Free and Secure Updates Available</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-through-high-performance-tech-toms-hardware-expertise/"><u>Navigating Through High-Performance Tech: Tom's Hardware Expertise</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-unbeatable-free-mp4-video-editors-top-10-list/"><u>New In 2024, Unbeatable Free MP4 Video Editors Top 10 List</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722898142062-petr-skarpantel-artistic-director-golden-violin-in-recognition-of-his-work-on-the-world-soloist-competition/"><u>Petr Škarpantel (Artistic Director) - Golden Violin in Recognition of His Work on the World Soloist Competition</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-fix-for-your-lenovo-t450-easy-driver-software-upgrade-options/"><u>Quick Fix for Your Lenovo T450: Easy Driver Software Upgrade Options</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/revamp-your-audio-quick-and-hassle-free-nahimic-driver-installation-guide/"><u>Revamp Your Audio – Quick and Hassle-Free Nahimic Driver Installation Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/revamped-software-for-your-thinkpads-high-speed-port-accessory/"><u>Revamped Software for Your ThinkPad's High-Speed Port Accessory</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-protectors-for-the-newest-iphones-iphone-16-and-pro-your-ultimate-buying-guide-featuring-extensive-reviews-by-tech-experts/"><u>Top-Rated Protectors for the Newest iPhones (iPhone 16 & Pro) - Your Ultimate Buying Guide, Featuring Extensive Reviews by Tech Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-deal-alert-grab-your-top-pick-apple-magsafe-charger-at-a-stunning-60-discount-exclusive-offer-on-zdnet/"><u>Unbeatable Deal Alert: Grab Your Top Pick Apple MagSafe Charger at a Stunning $60 Discount - Exclusive Offer on ZDNet!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-ultimate-guide-to-record-games-on-windows-10-pc/"><u>[New] In 2024, Ultimate Guide to Record Games on Windows 10 PC</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-exploring-the-most-reliable-free-srt-translation-services/"><u>[Updated] In 2024, Exploring the Most Reliable Free SRT Translation Services</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-burst-to-blast-android-apps-transform-slow-motion/"><u>2024 Approved Burst to Blast Android Apps Transform Slow Motion</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-whats-new-with-the-revamped-lenovo-thinkpad-x1-a-detailed-review-by-zdnet/"><u>Discover What's New with the Revamped Lenovo ThinkPad X1: A Detailed Review by ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/early-birds-guide-to-score-on-prime-day-2024-exclusive-offers-revealed/"><u>Early Bird's Guide to Score on Prime Day 2024 – Exclusive Offers Revealed !</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-labor-day-promotions-on-dell-electronics-school-supplies-including-monitors-and-laptops-zdnet-tech/"><u>Exclusive Labor Day Promotions on Dell Electronics: School Supplies Including Monitors & Laptops | ZDNet Tech</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-ready-to-level-up-slash-rs-250-from-acer-nitro-5-prices-today-expert-buyers-guide-on-zdnet/"><u>Get Ready to Level Up: Slash Rs. 250 From Acer Nitro 5 Prices Today – Expert Buyer's Guide on ZDNET!</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-vivo-y55s-5g-2023-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Vivo Y55s 5G (2023) Phone When You Forget the Password</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-swift-access-to-youtube-srt-files-three-key-points/"><u>In 2024, Swift Access to YouTube SRT Files Three Key Points</u></a></li>
+<li><a href="https://discover-able.techidaily.com/nas-dateien-automatisch-aktualisieren-in-windows-synchronisierungsstrategie-fur-betriebssysteme-111087/"><u>NAS Dateien Automatisch Aktualisieren in Windows: Synchronisierungsstrategie Für Betriebssysteme 11/10/8/7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/sale-alert-samsung-4tb-portable-ssd-t5-reduced-by-nearly-half-now-available-on-amazon-tech-news/"><u>Sale Alert: Samsung 4TB Portable SSD T5 Reduced by Nearly Half - Now Available on Amazon! | Tech News</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-prime-day-electronics-bargains-exclusive-gaming-discounts-for-october-2024-zdnet/"><u>Top Prime Day Electronics Bargains: Exclusive Gaming Discounts for October 2024 | ZDNet</u></a></li>
 </ul></div>
 

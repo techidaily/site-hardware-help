@@ -1,7 +1,7 @@
 ---
 title: HP Bricks ProBook Laptops & the Crisis of Automated Bad BIOS Rollouts Causing Display Failures
-date: 2024-08-19T10:43:02.439Z
-updated: 2024-08-20T10:43:02.439Z
+date: 2025-01-02T16:51:34.920Z
+updated: 2025-01-04T16:29:30.017Z
 tags:
   - laptop
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/jGqaSDX6StXTqZqy2fFY2E-320-80.jpeg
 The SZBox DS16 is a 16-inch laptop[available from AliExpress](https://go.redirectingat.com/?id=92X1584492&xcust=tomshardware%5Fus%5F1205122597602329443&xs=1&url=https%3A%2F%2Fwww.aliexpress.us%2Fitem%2F3256806648016140.html&sref=https%3A%2F%2Fwww.tomshardware.com%2Flaptops%2Fthis-core-i5-12450h-laptop-trades-a-physical-keyboard-for-dual-16-inch-displays-and-costs-just-dollar710-on-aliexpress) with a relatively affordable $710 starting price point. However, the real reason it's garnering so much attention (first brought to light by[Liliputing](https://liliputing.com/this-dual-screen-laptop-has-two-touchscreen-displays-and-support-for-height-adjustments-but-lacks-a-physical-keyboard/) ) is due to its dual 16-inch 1200p IPS touch panel configuration.
 
  Below, we've charted the specifications of the SZBox DS16 and its two primary variations, which we'll be referring to as the Intel Core i5 and Core i7 models for clarity's sake.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## SZBox DS16 Dual Screen Laptop Core Specs
 
@@ -37,9 +41,17 @@ The SZBox DS16 is a 16-inch laptop[available from AliExpress](https://go.redirec
 
 ![SZBox DS16](https://cdn.mos.cms.futurecdn.net/XXxLAnUWrMrCacNrJh5DWi-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: AliExpress)
 
  With a starting price of just over $700, the base Core i5 model is roughly $800 cheaper than the[Asus Zenbook Duo](https://tools.techidaily.com) (even the upgraded DS16 Core i7 model only costs $1,000, which still undercuts the entry from Asus). However, the Zenbook Duo features dual 14-inch OLED displays, a newer Intel Core Ultra 7 processor, and is nearly three pounds lighter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
@@ -55,8 +67,6 @@ The SZBox DS16 is a 16-inch laptop[available from AliExpress](https://go.redirec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -64,8 +74,20 @@ The SZBox DS16 is a 16-inch laptop[available from AliExpress](https://go.redirec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-essential-list-of-top-tier-9-mic-recorder-apps/"><u>[New] In 2024, Essential List of Top-Tier 9 Mic Recorder Apps</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-mastering-social-media-creating-your-first-facebook-reel-for-2024/"><u>[New] Mastering Social Media Creating Your First Facebook Reel for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-revolutionizing-image-capture-with-ios-11-updates/"><u>[New] Revolutionizing Image Capture with iOS 11 Updates</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-crafting-an-ideal-speech-translation-experience-in-google-for-2024/"><u>[Updated] Crafting an Ideal Speech Translation Experience in Google for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-fixed-youtube-shorts-not-showing-up-for-2024/"><u>[Updated] Fixed YouTube Shorts Not Showing Up for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-say-goodbye-to-watermarks-top-10-free-online-video-editing-software/"><u>2024 Approved Say Goodbye to Watermarks Top 10 Free Online Video Editing Software</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/auto-arcade-adventures-for-kids/"><u>Auto Arcade Adventures for Kids</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-boredom-be-gone-find-joy-with-these-top-15-humorists/"><u>In 2024, Boredom Be Gone Find Joy with These Top 15 Humorists</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/investing-in-quality-why-i-paid-200-for-innovative-headphones-with-unmatched-features-over-keeping-mine/"><u>Investing in Quality: Why I Paid $200 for Innovative Headphones with Unmatched Features Over Keeping Mine</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/leading-mirrorless-camera-models-for-photographers-reviews-and-comparisons/"><u>Leading Mirrorless Camera Models for Photographers - Reviews & Comparisons</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-inaccuracy-in-constraint-analysis-tools-my-justifications-for-persisting-with-bottleneck-calculators/"><u>Navigating Inaccuracy in Constraint Analysis Tools - My Justifications for Persisting with Bottleneck Calculators</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/newly-updated-microsoft-surface-laptop-equals-apples-macbook-air-in-quality/"><u>Newly Updated Microsoft Surface Laptop Equals Apple's MacBook Air in Quality</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/oled-versus-qled-screens-essential-guide-to-choosing-the-perfect-television-setup-for-your-living-room/"><u>OLED versus QLED Screens: Essential Guide to Choosing the Perfect Television Setup for Your Living Room</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->

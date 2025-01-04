@@ -1,7 +1,7 @@
 ---
 title: "Massive Black Friday Blowout: Snag the Lenovo ThinkPad X1 Gen"
-date: 2024-12-02T20:23:07.268Z
-updated: 2024-12-05T08:04:10.856Z
+date: 2025-01-01T16:07:33.423Z
+updated: 2025-01-04T16:57:01.072Z
 tags:
   - laptops
 categories:
@@ -22,7 +22,7 @@ Lenovo has showed off its forthcoming ThinkPad X1 laptops that will feature Inte
 The tech giant has showcased the high-end, 14-inch display [ThinkPad X1 Carbon Gen 11](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fnews.lenovo.com%2Fpressroom%2Fpress-releases%2Fthinkpad-x1-thinkvision-lenovo-go-power-hybrid-working%2F) and ThinkPad X1 Yoga Gen 8, as well as the 13-inch display ThinkPad X1 Nano Gen 3\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Windows 11
@@ -88,22 +88,20 @@ Neither the 14-inch or 16-inch IdeaPad Pro 5 with AMD will be available in North
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-breakthrough-vloggers-reviewed-the-best-15-youtube-channels-for-product-reviews-for-2024/"><u>[New] Breakthrough Vloggers Reviewed The Best 15 YouTube Channels for Product Reviews for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-captivating-hdr-portraits-for-the-art-enthusiast/"><u>[New] Captivating HDR Portraits for the Art Enthusiast</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-perfect-pitches-and-polished-pictures-music-mixing-for-youtube/"><u>[Updated] In 2024, Perfect Pitches and Polished Pictures Music Mixing for YouTube</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-whatsapp-audio-chat/"><u>2024 Approved The Ultimate Guide to WhatsApp Audio Chat</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-the-latest-canon-pixma-mg490-printer-drivers-on-windows/"><u>Download and Install the Latest Canon PIXMA MG490 Printer Drivers on Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-troubleshooting-tips-for-downloading-sandisk-ssd-drivers/"><u>Easy Troubleshooting Tips for Downloading SanDisk SSD Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722971687928-enjoy-seamless-wi-fi-connectivity-with-our-updated-network-device-drivers-free-download/"><u>Enjoy Seamless Wi-Fi Connectivity with Our Updated Network Device Drivers – Free Download!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-m-audio-fast-track-ultra-driver-revolutionize-your-listening-experience-tonight/"><u>Free M-Audio Fast Track Ultra Driver: Revolutionize Your Listening Experience Tonight!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-graphics-card-drivers-geforce-rtx-asterisk-3070-ti-compatible-with-win-11-8-and-7/"><u>Get the Latest Graphics Card Drivers: GeForce RTX Asterisk 3070 Ti - Compatible with Win 11, 8 & 7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-apply-connexant-driver-update-on-windows-11-update-2004/"><u>How To Apply Connexant Driver Update On Windows 11 Update 2004</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-itel-p40-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Itel P40 | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-system-of-iphone-11-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of iPhone 11? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-immersive-escapades-testing-the-latest-lg-vr-headset/"><u>In 2024, Immersive Escapades Testing the Latest LG VR Headset</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722969911817-latest-version-of-nvidia-quadro-rtx-ns-drivers-for-win-11107-free-download-available/"><u>Latest Version of Nvidia Quadro RTX N's Drivers for Win 11/10/7 - Free Download Available</u></a></li>
-<li><a href="https://extra-support.techidaily.com/navigating-through-tiktoks-video-palettes-for-2024/"><u>Navigating Through TikTok's Video Palettes for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/nvidia-geforce-rtx-2nvidia-2070-download-current-drivers-for-windows-7811-systems/"><u>NVIDIA GeForce RTX 2nVidia 2070: Download Current Drivers for Windows 7/8/11 Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-instability-issues-in-microsoft-flight-simulator-2020-pc-crash-solutions/"><u>Resolving Instability Issues in Microsoft Flight Simulator 2020 - PC Crash Solutions</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-fb-hd-streaming-made-simple-instructions/"><u>[New] In 2024, FB HD Streaming Made Simple Instructions</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-youtube-premium-subscription-should-you-get-one/"><u>[New] In 2024, YouTube Premium Subscription - Should You Get One?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-full-unveiling-of-picsart-complete-users-guide-for-2024/"><u>[Updated] Full Unveiling of PicsArt Complete User's Guide for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/2024s-leading-antivirus-programs-unveiled-comprehensive-analysis/"><u>2024'S Leading Antivirus Programs Unveiled | Comprehensive Analysis</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/3-unik-methoder-for-at-anlaegge-dig-under-en-video-denne-guideskrivelse/"><u>3 Unik Methoder For At Anlægge Dig Under En Video - Denne Guideskrivelse</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experts-recommend-the-best-macbook-usb-c-charger-available-on-amazon-for-just-69-secure-yours-today/"><u>Experts Recommend the Best MacBook USB-C Charger Available on Amazon for Just $69 - Secure Yours Today!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/gear-up-for-academics-exclusive-deals-on-samsung-tech-for-students-save-big/"><u>Gear Up for Academics: Exclusive Deals on Samsung Tech for Students - Save Big!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/guideline-instant-download-de-la-logiciel-dvd-reader-gratuit-pour-votre-region/"><u>Guideline: Instant Download De La Logiciel Dvd Reader Gratuit Pour Votre Region</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-skyrocket-your-channel-mastery-of-youtube-data-analysis/"><u>In 2024, Skyrocket Your Channel Mastery of YouTube Data Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/lenovos-lightweight-laptop-unveiled-secret-features-including-a-concealed-trackpoint-revealed-tech-analysis/"><u>Lenovo's Lightweight Laptop Unveiled: Secret Features Including a Concealed TrackPoint Revealed | Tech Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/limited-time-deal-alert-for-cyber-monday-shoppers-snag-an-lg-gram-17-with-a-massive-400-markdown/"><u>Limited-Time Deal Alert for Cyber Monday Shoppers: Snag an LG Gram 17 with a Massive $400 Markdown !</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/sion-in-upload-a-deep-dive-into-youtube-video-size-settings-for-2024/"><u>Precision in Upload A Deep-Dive Into YouTube Video Size Settings for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-motorola-moto-g04-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Motorola Moto G04 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-oppo-reno-8t-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Oppo Reno 8T Device</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unmissable-deal-alert-get-an-8tb-fast-storage-with-amazons-samsung-t5-at-a-whopping-36-off-after-prime-day-spotted/"><u>Unmissable Deal Alert: Get an 8TB Fast Storage with Amazon's Samsung T5 at a Whopping 36% Off After Prime Day - Spotted</u></a></li>
 </ul></div>
 

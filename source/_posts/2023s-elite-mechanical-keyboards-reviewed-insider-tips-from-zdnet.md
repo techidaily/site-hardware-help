@@ -1,7 +1,7 @@
 ---
 title: 2023’S Elite Mechanical Keyboards Reviewed - Insider Tips From ZDNet
-date: 2024-12-14T16:21:48.364Z
-updated: 2024-12-17T16:12:41.313Z
+date: 2025-01-01T16:27:07.522Z
+updated: 2025-01-04T16:13:08.031Z
 tags:
   - laptops
 categories:
@@ -47,6 +47,10 @@ Cons
 
 ## Razer Pro Type Ultra
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best mechanical keyboard overall
 
 **Razer Pro Type Ultra tech specs: Type:** Full size | **Wired/wireless:** Wireless | **Number of keys:** 104| **Dimensions:** 19.17 x 8.82 x 3.23 inches
@@ -75,10 +79,6 @@ Pros
 Cons 
 * Lacks wrist rest
 * On the louder side
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Cooler Master CK552
 
@@ -112,7 +112,7 @@ Cons
 ## NuPhy Air75
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best mechanical keyboard for laptops
@@ -178,7 +178,7 @@ Cons
 ## SteelSeries Apex Pro
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best mechanical keyboard for gaming
@@ -211,10 +211,6 @@ To see how it compares, here is an overview of the best mechanical keyboards.
 | Razer BlackWidow V3 Mini Hyperspeed | $90      | Compact   | 68                 |
 | SteelSeries Apex Pro                | $192     | Full size | 104                |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How did I choose these best mechanical keyboards?
 
 When comparing the best mechanical keyboards and talking to users, I took several factors into consideration.
@@ -228,25 +224,29 @@ When comparing the best mechanical keyboards and talking to users, I took severa
 * **Backlighting**: The best mechanical keyboards also incorporate backlighting as an added feature. Some keyboards even allow you to customize the lighting for each individual key, creating custom color coding based on your specific tasks.
 * **Design**: In addition to the number of clicks, there is the actual design to consider. Look for heavy-duty materials that promise durability, especially if you plan on traveling with them. For example, the Cooler Master CK552 boasts a brushed aluminum design that is far tougher than your standard plastic construction.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the best mechanical keyboard manufacturer?
 
 Many different companies manufacture mechanical keyboards but not all of them may offer the best quality or features to do the job. In my search, I found that the best mechanical keyboards come from companies like Razer, NuPhy, and SteelSeries, but you are likely to find many others in your search. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is a mechanical keyboard worth it?
 
 Experts and users agree -- a mechanical keyboard can be a fantastic addition to your setup, especially if you want a great "feel" for typing and gaming. They're also a great option if you want fast button press-to-screen response, custom key-stroke capabilities, durability, and long-lasting battery. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How much do mechanical keyboards cost?
 
 It is possible to spend less than $100 when searching for the best mechanical keyboard, but it all depends on what you are looking for in a keyboard. The best mechanical keyboards range in cost from $80 to nearly $200, depending on factors like the keyboard size and manufacturer that you choose. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which key switch is right for you?
 
@@ -261,10 +261,6 @@ It's worth noting that all of the above statements apply most aptly to the stand
 
 Ideally, if you're ever considering a new switch, try to buy one, or just a few, to test the feel before you commit to enough for a full board. The same goes for any pre-made boards with pre-installed switches you can try before you buy as well.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is wireless connectivity OK for gaming?
 
 This is a more nuanced subject than it might seem at first. Wireless keyboards that rely on Bluetooth (as well as other peripherals that rely on it) can suffer from latency. This means any command entered on them will be delayed, usually by about 0.2 seconds or less. Wired keyboards don't suffer from this delay, meaning that commands are registered almost instantly. 
@@ -272,10 +268,6 @@ This is a more nuanced subject than it might seem at first. Wireless keyboards t
 In an ideal world, any keypress during a game will be instantly recognized to give the player the minimal amount of delay before that life-saving jump or vital crouch is registered. While Bluetooth might get you close enough to instant for more casual games, I wouldn't recommend it for competitive shooter games and high-pressure MMORPGs. Thankfully, many wireless keyboards also offer a wired mode for just this reason. 
 
 The only exception I'd make for using a wireless gaming keyboard is if the board in question used 2.4GHz wireless, like some options from Logitech. These dongle-based wireless connections offer far lower latency, and can be just as ideal for gaming as high-end wireless mice have become. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What parts of a mechanical keyboard can you modify?
 
@@ -286,7 +278,7 @@ Longer answer: the most common would be the key switches and keycaps. Both of th
 More exotic mods can include things like replacing the stabilizers that help keep longer keys (space, shift, enter, etc.) level while traveling, as well as adding sound-dampening foam or silicone. Just about every moving part can also be lubricated to make it feel smoother and dampen its sound a bit. The possibilities are nearly endless when you start to get into all of the available switches, caps, case options, and unique parts being created for mechanical keyboard modding today. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Are there alternative best mechanical keyboards worth considering?
@@ -298,6 +290,10 @@ Show less
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BSKX8W3B%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C42b99cba-3e3f-4923-b920-31d464771bf8%7Cdtp&dtb=1)[View now at B&H Photo-Video](https://www.bhphotovideo.com/c/product/1748131-REG/asus%5Fm701%5Frog%5Fazoth%5Fnxrd%5Fca%5Fpbt%5Frog%5Fazoth%5F75%5Fwireless.html/BI/23252/KBID/28790/SID/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 Full Review [Read Full Review](https://www.zdnet.com/article/best-mechanical-keyboard/Design: Mini Listicle)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Asus ROG Azoth
 
@@ -312,6 +308,10 @@ Show less
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB08HR68MQZ%2Fref%3Dasc%5Fdf%5FB08HR68MQZ1728298800000%3Fcreative%3D395261%26creativeASIN%3DB08HR68MQZ%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C42b99cba-3e3f-4923-b920-31d464771bf8%7Cdtp&dtb=1)
 
 Full Review [Read Full Review](https://www.zdnet.com/article/best-mechanical-keyboard/Design: Mini Listicle)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Corsair K100
 
@@ -377,20 +377,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-exploring-mycams-video-recording-quality-and-efficiency/"><u>[New] In 2024, Exploring MyCam's Video Recording Quality and Efficiency</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-radiance-visionaries-report-on-studio-25-2023/"><u>[Updated] Radiance Visionaries Report on Studio 25, 2023</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-the-instagram-strategists-toolkit-understanding-metrics-trends-and-user-insights/"><u>2024 Approved The Instagram Strategist’s Toolkit Understanding Metrics, Trends & User Insights</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-nokia-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Nokia</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722967896242-get-the-latest-epson-wf-3540-driver-for-windows-systems-free-download/"><u>Get the Latest Epson WF- 3540 Driver for Windows Systems - Free Download</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-gigabyte-ethernet-chip-up-to-date-with-this-official-driver-package/"><u>Get Your Gigabyte Ethernet Chip Up-to-Date with This Official Driver Package</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-speakers-working-on-windows-asterisk-7-driver-downloads-available-here/"><u>Get Your Speakers Working on Windows Asterisk 7 - Driver Downloads Available Here</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-fix-iphone-xs-could-not-be-activatedreached-issue-by-drfone-ios/"><u>How To Fix iPhone XS Could Not Be Activated/Reached Issue</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-13-pro-max-to-mac-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 13 Pro Max to Mac? | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-dji-drone-limited-use-color-filters-complimentary/"><u>In 2024, DJI Drone Limited-Use Color Filters – Complimentary</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-the-digital-world-with-toms-hardware-insights/"><u>Navigating the Digital World with Tom's Hardware Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/official-logitech-gaming-steering-wheel-get-your-gt-driving-force-download-compatible-with-win7win10win11/"><u>Official Logitech Gaming Steering Wheel: Get Your GT Driving Force Download Compatible with Win7/Win10/Win11</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solution-found-stabilizing-your-diablo-3-gaming-experience/"><u>Solution Found: Stabilizing Your Diablo 3 Gaming Experience</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-hub-in-depth-reviews-and-news/"><u>Tom's Tech Hub: In-Depth Reviews and News</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-your-epson-xp-310-with-new-drivers-step-by-step-guide/"><u>Update Your Epson XP 310 with New Drivers – Step by Step Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-keep-up-with-friends-moments-best-live-stream-tools-revealed/"><u>[Updated] 2024 Approved Keep Up With Friends' Moments Best Live-Stream Tools Revealed</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-mastering-zoom-the-ultimate-guide-to-audio-recording-for-podcasts/"><u>[Updated] Mastering Zoom The Ultimate Guide to Audio Recording for Podcasts</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-expert-review-dynamic-action-recording-tools/"><u>2024 Approved Expert Review Dynamic Action Recording Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-upside-down-visuals-unraveling-instagram-video-confusion/"><u>2024 Approved Upside Down Visuals Unraveling Instagram Video Confusion</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/aomei-backupper-effiziente-kommentarfunktion-fur-einfachere-datensicherung/"><u>AOMEI Backupper: Effiziente Kommentarfunktion Für Einfachere Datensicherung</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-deal-alert-get-your-dream-content-creation-laptop-for-half-off-spotted/"><u>Exclusive Deal Alert! Get Your Dream Content Creation Laptop for Half Off - Spotted</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-next-level-gaming-with-the-alienware-m1nster-laptop-save-up-to-300-after-labor-day-features-and-review-zdnet-tech-analysis/"><u>Experience Next-Level Gaming with the Alienware M1nster Laptop: Save Up to $300 After Labor Day, Features & Review | ZDNET Tech Analysis</u></a></li>
+<li><a href="https://extra-information.techidaily.com/from-concept-to-creation-top-10-podcast-design-principles/"><u>From Concept to Creation Top 10 Podcast Design Principles</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-on-apple-iphone-12-pro-max-without-password-by-drfone-ios/"><u>How to Delete iCloud Account On Apple iPhone 12 Pro Max without Password?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/lenovo-black-friday-offer-up-to-1900-discount-on-the-13/"><u>Lenovo Black Friday Offer - Up to $1,900 Discount on the 13</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/microsoft-surface-laptop-5-analysis-a-calm-critique-on-expectations-vs-reality/"><u>Microsoft Surface Laptop 5 Analysis: A Calm Critique on Expectations vs Reality</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-antivirus-solutions-of-2024-expert-reviews/"><u>Top-Rated Antivirus Solutions of 2024 - Expert Reviews</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-savings-top-bargains-before-prime-day-strikes-insights/"><u>Ultimate Savings: Top Bargains Before Prime Day Strikes Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-cyber-monday-bargains-top-notch-laptops-below-500-plus-extra-offer-at-only-99-dive-in/"><u>Unbeatable Cyber Monday Bargains: Top Notch Laptops Below $500 + Extra Offer at Only $99 - Dive In!</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-unlock-cinematic-excellence-the-ultimate-guide-to-making-professional-movies-for-2024/"><u>Updated Unlock Cinematic Excellence The Ultimate Guide to Making Professional Movies for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/walmarts-top-rated-holiday-discounts-discover-the-best-savings-for-festive-shopping/"><u>Walmart's Top-Rated Holiday Discounts: Discover the Best Savings for Festive Shopping!</u></a></li>
 </ul></div>
 

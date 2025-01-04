@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Presidents’ Day Offer: Get a New M2 MacBook Air for Only $799 (Reg. $1,099) | Shop Smart with ZDNet"
-date: 2024-12-21T09:10:18.552Z
-updated: 2024-12-25T19:56:08.326Z
+date: 2024-12-28T16:20:12.944Z
+updated: 2025-01-04T17:06:40.476Z
 tags:
   - laptops
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,15 +81,17 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-a-beginners-guide-to-professional-gif-creation/"><u>[Updated] A Beginner's Guide to Professional GIF Creation</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-decoding-youtube-premium-complete-information-inside/"><u>2024 Approved Decoding YouTube Premium Complete Information Inside</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-optimal-devices-for-photogrammetric-movies/"><u>2024 Approved Optimal Devices for Photogrammetric Movies</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/a-glimpse-into-photography-the-powershot-sx740-hs-camera/"><u>A Glimpse Into Photography - The PowerShot SX740 HS Camera</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/complete-guide-downloading-and-updating-dell-latitude-e6430-drivers-on-windows-solution/"><u>Complete Guide: Downloading & Updating Dell Latitude E6430 Drivers on Windows - SOLUTION</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/revitalize-your-video-chats-a-tutorial-to-refresh-webcam-drivers-in-windows-11/"><u>Revitalize Your Video Chats: A Tutorial to Refresh Webcam Drivers in WINDOWS 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/steelseries-keyboard-software-download-install-steelseries-engine-driver/"><u>SteelSeries Keyboard Software Download - Install SteelSeries Engine Driver</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tackling-inaccessible-monitor-configurations-in-nvidia/"><u>Tackling Inaccessible Monitor Configurations in Nvidia</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-ultimate-guide-to-removing-a-facebook-community/"><u>The Ultimate Guide to Removing a Facebook Community</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-your-lenovo-thinkpad-100s-drivers-with-simplicity-in-mind/"><u>Update Your Lenovo Thinkpad 100S Drivers with Simplicity in Mind</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-groan-inducing-humor-in-hits/"><u>[Updated] 2024 Approved Groan-Inducing Humor in Hits</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-launching-a-successful-vlog-a-guide-to-profitability/"><u>[Updated] Launching a Successful Vlog A Guide to Profitability</u></a></li>
+<li><a href="https://games-able.techidaily.com/2-the-new-champion-why-pc-gamers-prefer-windows-11-over/"><u>2. The New Champion: Why PC Gamers Prefer Windows 11 Over</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/extend-your-workspace-for-less-save-hundreds-with-our-dual-monitor-deal-featuring-the-versatile-teamgee-find-out-how-on-zdnet/"><u>Extend Your Workspace for Less: Save Hundreds with Our Dual Monitor Deal Featuring the Versatile TeamGee - Find Out How on ZDNET</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-vivo-v30-by-drfone-android/"><u>How to Bypass FRP from Vivo V30?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-visionary-vistas-accessible-designs-for-youtube-artists/"><u>In 2024, Visionary Vistas Accessible Designs for YouTube Artists</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/massive-discount-on-gigabyte-aero-16-gamers-paradise-with-57-savings-check-now/"><u>Massive Discount on Gigabyte Aero 16 - Gamers' Paradise with 57% Savings! Check Now!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-nokia-130-music-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Nokia 130 Music</u></a></li>
+<li><a href="https://techtrends.techidaily.com/orderly-movie-marathon-experience-middle-earth-with-the-lord-of-the-rings/"><u>Orderly Movie Marathon: Experience Middle Earth with 'The Lord of The Rings'</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-17-unbeatable-cyber-monday-offers-get-premium-tvs-headsets-and-audio-equipment-at-discounted-prices-features-from-zdnet/"><u>Top 17 Unbeatable Cyber Monday Offers: Get Premium TVs, Headsets & Audio Equipment at Discounted Prices – Features From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-future-of-tech-a-first-impression-of-lenovos-transparent-laptop-from-mwc-more-than-just-glass/"><u>Unveiling the Future of Tech: A First Impression of Lenovo’s Transparent Laptop From MWC – More Than Just Glass</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-secret-workplace-advantage-why-this-years-most-impressive-dual-purpose-gadget-deserves-attention-zdnet/"><u>Unveiling the Secret Workplace Advantage: Why This Year's Most Impressive Dual-Purpose Gadget Deserves Attention | ZDNet</u></a></li>
 </ul></div>
 

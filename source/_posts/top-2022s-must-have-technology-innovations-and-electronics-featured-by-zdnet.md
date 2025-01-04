@@ -1,7 +1,7 @@
 ---
 title: Top 2022'S Must-Have Technology Innovations & Electronics - Featured by ZDNet
-date: 2024-12-21T19:54:20.726Z
-updated: 2024-12-26T01:56:44.834Z
+date: 2025-01-02T16:17:30.673Z
+updated: 2025-01-04T17:12:31.174Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ Over the past 12 months, this relentless pursuit of technological innovation has
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. On-device AI will be a win for everyone
@@ -47,7 +47,7 @@ Running AI applications locally yields four major advantages: 1) All information
 "The idle power consumption of a single fully populated AI-accelerated server can approach one kilowatt of power while the peak power consumption can approach several kilowatts of power. This number multiplies by the number of servers required to run a generative AI model and the number of times a model is run, which is increasing exponentially," says Jim McGregor, Principal Analyst at [TIRIAS Research](https://www.tiriasresearch.com/). On-device AI solves this problem by keeping most, if not all, of the friction within our devices -- which will be plenty capable come next year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Generative AI for professional workflows
@@ -63,7 +63,7 @@ Some tools include [Wix's AI Site Generator](https://www.zdnet.com/article/this-
 Such workloads, especially as companies fine-tune these large language models, often require pushing the GPUs (graphics processing units) and RAM in computers and servers to the max, setting a precedent for an AI arms race between the world's largest semiconductor companies -- Intel, AMD, Nvidia, and Qualcomm included. Expect more "for AI" computers, chipsets, and fancy comparison charts in 2024.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Wireless TVs take cord-cutting to the extreme
@@ -81,7 +81,7 @@ Naturally, one of the big questions with wireless TVs is how latency factors int
 That said, wireless TVs are certainly not priced for the mainstream; the Displace TV lists for $4,499, and the LG OLED M will run you upwards of $35,000\. But for your closest look at a future without cords and cables dangling off walls, this may well be the best place to start.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. A Copilot for every PC user
@@ -97,7 +97,7 @@ The vision was straightforward; with a single click from the taskbar, more than 
 At the base level, Copilot on Windows 11 can save users dozens of clicks every day, now that the AI assistant can help navigate those sophisticated location paths to tweak display resolutions, set dark theme timers, and do other mundane tasks. For businesses and enterprises, Copilot will be capable of [tackling cybersecurity threats](https://www.zdnet.com/article/boosting-cybersecurity-microsofts-ai-driven-security-copilot-unveiled-at-ignite-2023/), from risk identification with machine learning algorithms to automated response mechanisms for near-instant defense.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Pinching the air will become normal
@@ -142,18 +142,15 @@ The big question with pinching is how multidimensional such a basic gesture can 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-periscopes-unveiling-no-cost-entry-and-steps-to-signup/"><u>[New] In 2024, Periscope's Unveiling No Cost Entry & Steps to Signup</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-expertly-evaluating-webcam-technology-for-professionals/"><u>[Updated] 2024 Approved Expertly Evaluating WebCam Technology for Professionals</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-learn-to-speak-text-mastering-ms-words-recognition-capabilities/"><u>[Updated] Learn to Speak Text Mastering MS Word's Recognition Capabilities</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/comprehensive-fixes-to-the-logitech-f710-driver-errors-in-windows-os-lineup-from-7-through-11/"><u>Comprehensive Fixes to the Logitech F710 Driver Errors in Windows OS Lineup: From 7 Through 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/diagnosing-and-resolving-external-drive-recognition-problems-on-windows-11/"><u>Diagnosing and Resolving External Drive Recognition Problems on Windows 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-guide-to-downloading-the-newest-hp-deskjet-2540-driver-software/"><u>Easy Guide to Downloading the Newest HP Deskjet 2540 Driver Software</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/essential-msi-b350-toms-tomahawk-drivers-compatible-with-windows-11-and-windows-n-operating-systems/"><u>Essential MSI B350 TOM'S TOMAHAWK Drivers - Compatible with Windows 11 and Windows N Operating Systems</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/governmental-oversight-on-ai-understanding-four-primary-regulatory-tactics/"><u>Governmental Oversight on AI: Understanding Four Primary Regulatory Tactics</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-on-iphone-6-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working On iPhone 6</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/samsung-usb-adb-driver-download-how-to-connect-devices/"><u>Samsung USB ADB Driver Download: How to Connect Devices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/skepticism-grows-over-zerogpt-and-detection-tools/"><u>Skepticism Grows Over ZeroGPT & Detection Tools</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solving-bug-spikes-on-civilization-v/"><u>Solving Bug Spikes on Civilization V</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-troubleshooting-tips-successfully-updating-lg-monitor-drivers-on-various-windows-platforms-like-7-81-and-1011/"><u>Ultimate Troubleshooting Tips: Successfully Updating LG Monitor Drivers on Various Windows Platforms Like 7, 8.1 & 10/11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-choreographing-pictures-and-tunes-in-video/"><u>[Updated] Choreographing Pictures & Tunes in Video</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-comical-content-for-apples-pixels/"><u>2024 Approved Comical Content for Apple's Pixels</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/adonit-nest-usb-hub-sale-alert-perfect-wfh-tool-now-only-65-discover-more-at-zdnet/"><u>Adonit Nest USB Hub Sale Alert! Perfect WFH Tool Now Only $65 - Discover More at ZDNet!</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/amplify-your-message-with-tiktok-voiceovers/"><u>Amplify Your Message with TikTok Voiceovers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/best-buy-anti-prime-day-alert-secure-your-hp-victus-15-gaming-laptop-for-a-low-price-of-515-top-tips-by-zdnet/"><u>Best Buy Anti-Prime Day Alert: Secure Your HP Victus 15 Gaming Laptop for a Low Price of $515 – Top Tips by ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-the-versatility-of-lenovos-windows-and-android-fusion-device-an-in-depth-test-and-insights-into-its-remarkable-potential-zdnet/"><u>Exploring the Versatility of Lenovo's Windows & Android Fusion Device: An In-Depth Test and Insights Into Its Remarkable Potential - ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/score-a-steal-with-hp-victus-15-laptop-for-gamers-price-slashed-to-530-at-best-buy-tech-news/"><u>Score a Steal with HP Victus 15 Laptop for Gamers - Price Slashed to $530 at Best Buy | Tech News</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/seamless-technique-inserting-a-direct-url-into-tiktok-bio/"><u>Seamless Technique Inserting a Direct URL Into TikTok Bio</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-mystery-of-hulus-rununk13-issue-a-step-by-step-guide/"><u>Solving the Mystery of Hulu's RUNUNK13 Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Sony Xperia 1 V | Dr.fone</u></a></li>
 </ul></div>
 

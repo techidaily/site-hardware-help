@@ -1,7 +1,7 @@
 ---
 title: The Definitive Guide to Upgrades and Peripherals by Tom’s Tech Insights
-date: 2024-08-19T10:42:30.429Z
-updated: 2024-08-20T10:42:30.429Z
+date: 2024-12-31T16:55:03.454Z
+updated: 2025-01-04T16:57:52.184Z
 tags:
   - laptop
 categories:
@@ -27,6 +27,10 @@ We cover many unique "because I felt like it" projects here at Tom's Hardware, b
 
  In more modern communications news,[Wi-Fi over three kilometers](https://tools.techidaily.com) was demonstrated with a real-time video call back in January. Windows[11 started adding support for Wi-Fi 7](https://tools.techidaily.com) back in February. All this progress means that most Wi-Fi routers in the world will be a free-for-all on the same few congested wireless channels unless configured properly. Some monsters and nerds out there still employ Morse code, a language with roots in the 1830s.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,8 +45,6 @@ We cover many unique "because I felt like it" projects here at Tom's Hardware, b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -50,8 +52,21 @@ We cover many unique "because I felt like it" projects here at Tom's Hardware, b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-unmatched-12-apps-for-endless-screen-saving-for-2024/"><u>[New] Unmatched 12 Apps for Endless Screen Saving for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-changing-gender-representation-in-social-media-images/"><u>[Updated] 2024 Approved Changing Gender Representation in Social Media Images</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-navigating-the-world-of-hashtags-youtubes-best-practices-for-2024/"><u>[Updated] Navigating the World of Hashtags YouTube's Best Practices for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-comprehensive-guide-to-adding-srt-track-to-mp4-media/"><u>2024 Approved Comprehensive Guide to Adding SRT Track to MP4 Media</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-mastering-seamless-inshot-video-cuts/"><u>2024 Approved Mastering Seamless Inshot Video Cuts</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-amp-up-your-ig-videos-crafting-winning-marketing-tactics/"><u>In 2024, Amp Up Your IG Videos Crafting Winning Marketing Tactics</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210251404-9781947168039-manifesting/"><u>Manifesting | Free Book</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-real-time-subtitles-a-guide-to-activating-live-caption-features-on-your-google-pixel-device/"><u>Mastering Real-Time Subtitles: A Guide to Activating Live Caption Features on Your Google Pixel Device</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-the-benefits-of-reading-mode-a-comprehensive-guide-for-android-users/"><u>Mastering the Benefits of Reading Mode: A Comprehensive Guide for Android Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mobile-magic-learn-how-to-retrieve-written-content-from-photographs-using-your-smartphone/"><u>Mobile Magic: Learn How to Retrieve Written Content From Photographs Using Your Smartphone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premium-avi-playback-software-for-computers-for-2024/"><u>Premium Avi Playback Software for Computers for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-how-to-resolve-errnamenotresolved-issue-on-chrome/"><u>Quick Solutions: How to Resolve ERR_NAME_NOT_RESOLVED Issue on Chrome</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/retain-your-data-a-step-by-step-guide-to-reverting-back-to-previous-android-application-versions/"><u>Retain Your Data: A Step-by-Step Guide to Reverting Back to Previous Android Application Versions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-transition-how-simple-it-really-is-to-switch-from-iphone-to-android/"><u>Seamless Transition: How Simple It Really Is to Switch From iPhone to Android</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->

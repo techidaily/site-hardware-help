@@ -1,7 +1,7 @@
 ---
 title: "$899 Intelligent Dual Monitor Laptop by Acemagic: Meet the X1 Model"
-date: 2024-08-19T10:45:15.648Z
-updated: 2024-08-20T10:45:15.648Z
+date: 2025-01-02T16:13:25.849Z
+updated: 2025-01-04T16:05:08.696Z
 tags:
   - laptop
 categories:
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/64cbdaa1aef5615ff39347b9db4c0280ec8c3ce52
 ## AceMagic X1 - The New Dual-Screen Laptop: Watch Out for Pre-Launch Discount & Details Next Month
 
 Back at[Computex](https://tools.techidaily.com) 2024 in June, we got a peek at the[AceMagic X1](https://tools.techidaily.com) , a dual-screen laptop with full-sized screens and a keyboard thanks to its hinged display design. Now, AceMagic has announced the beginning of a pre-launch window for the AceMagic X1, with "early bird discount" pricing (an email code for 5% off) offered to those who subscribe on[the official page](https://go.redirectingat.com/?id=92X1584492&xcust=tomshardware%5Fus%5F2684132901735318784&xs=1&url=https%3A%2F%2Facemagic.com%2Fpages%2Fx1-dual-screen-business-laptop&sref=https%3A%2F%2Fwww.tomshardware.com%2Flaptops%2Fdual-screen-laptop-enters-pre-launch-period-with-early-bird-discount) . AceMagic also informed us in an email that further pricing and availability information can be expected later this month.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## AceMagic X1 Dual-Screen Laptop Confirmed Specs
 
@@ -31,6 +35,10 @@ Back at[Computex](https://tools.techidaily.com) 2024 in June, we got a peek at t
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -45,8 +53,6 @@ Back at[Computex](https://tools.techidaily.com) 2024 in June, we got a peek at t
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -54,8 +60,16 @@ Back at[Computex](https://tools.techidaily.com) 2024 in June, we got a peek at t
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://dvd-bd.techidaily.com/como-convertir-archivos-wmv-en-mp4-sin-coste-para-windows-y-mac/"><u>Cómo Convertir Archivos WMV en MP4 Sin Coste Para Windows Y Mac</u></a></li>
+<li><a href="https://windows11.techidaily.com/fix-unsynchronized-file-uploads-in-chrome-win-edition/"><u>Fix Unsynchronized File Uploads in Chrome, Win Edition</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-fast-and-secure-epson-scanner-drivers-downloads-at-your-fingertps/"><u>Get Fast and Secure Epson Scanner Drivers: Downloads at Your Fingertps</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-a-buyers-guide-to-exceptional-hdr-photography-equipment/"><u>In 2024, A Buyer's Guide to Exceptional HDR Photography Equipment</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Realme 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-navigating-the-youtube-numbers-views-and-earnings-unpacked/"><u>In 2024, Navigating the Youtube Numbers Views & Earnings Unpacked</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/simplified-guide-to-installing-the-canon-pro-100-driver-for-your-windows-computer/"><u>Simplified Guide to Installing the Canon PRO 100 Driver for Your Windows Computer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-digital-secrets-with-tom-a-deep-dive-into-hardware-tech/"><u>Unveiling Digital Secrets with Tom: A Deep Dive Into Hardware Tech</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/usb-serial-converter-driver-update-tutorial-easy-steps-inside/"><u>USB Serial Converter Driver Update Tutorial – Easy Steps Inside</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

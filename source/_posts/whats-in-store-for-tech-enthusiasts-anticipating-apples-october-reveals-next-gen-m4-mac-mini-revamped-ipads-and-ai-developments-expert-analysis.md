@@ -1,7 +1,7 @@
 ---
 title: "What's in Store for Tech Enthusiasts: Anticipating Apple's October Reveals – Next-Gen M4 Mac Mini, Revamped iPads & AI Developments – Expert Analysis"
-date: 2024-12-19T21:00:08.182Z
-updated: 2024-12-25T19:33:10.192Z
+date: 2024-12-28T16:41:59.232Z
+updated: 2025-01-04T16:23:07.656Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,21 +118,21 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-basic-tips-how-to-record-and-save-google-voice-calls-for-2024/"><u>[New] Basic Tips How to Record and Save Google Voice Calls for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-discover-the-best-in-igtv-every-week/"><u>[Updated] In 2024, Discover the Best in IGTV Every Week</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-video-selfie-verfication-is-it-really-useful-for-2024/"><u>[Updated] Instagram Video Selfie Verfication - Is It Really Useful for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-skills-style-success-your-roadmap-in-the-creative-industry/"><u>2024 Approved Skills, Style, Success Your Roadmap in the Creative Industry</u></a></li>
-<li><a href="https://article-tips.techidaily.com/basics-in-the-realm-of-tale-construction-for-2024/"><u>Basics in the Realm of Tale Construction for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-toms-hardware-the-ultimate-resource-for-gadget-enthusiasts/"><u>Exploring Tom's Hardware: The Ultimate Resource for Gadget Enthusiasts</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/fixing-compatibility-errors-startech-device-drivers-for-windows-windows-10-8-7/"><u>Fixing Compatibility Errors: StarTech Device Drivers for Windows (Windows 10, 8, 7)</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-realme-note-50-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Realme Note 50 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/intel-cpu-instability-affects-high-wattage-non-k-models-no-fixes-in-sight-consumers-beware/"><u>Intel CPU Instability Affects High Wattage 'Non-K' Models, No Fixes in Sight - Consumers Beware</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/intel-takes-an-overnight-dive-shares-drop-by-30-eroding-market-cap-by-39b-what-went-down/"><u>Intel Takes an Overnight Dive: Shares Drop by 30%, Eroding Market Cap by $39B - What Went Down?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-network-connectivity-win7-driver-challenges-and-their-solutions/"><u>Mastering Network Connectivity: Win7 Driver Challenges and Their Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-the-silent-void-apc-specific-solutions-for-valheims-audio-problems/"><u>Mastering the Silent Void: APC-Specific Solutions for Valheim's Audio Problems</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1125895-9781609253905-meditation-and-kabbalah/"><u>Meditation and Kabbalah | Free Book</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/resolved-fast-and-reliable-1535-wifi-driver-software-now-ready-to-download/"><u>Resolved: Fast and Reliable 1535 WiFi Driver Software Now Ready to Download</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/techniques-for-capturing-and-storing-android-and-mac-snaps-for-2024/"><u>Techniques for Capturing and Storing Android & Mac Snaps for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/zen-5-flagship-ryzen-9-9950x-claims-5th-place-in-global-cpu-performance-race-against-core-loaded-xeon-and-threadripper-chips/"><u>Zen 5 Flagship Ryzen 지킨 9 9950X Claims 5Th Place in Global CPU Performance Race Against Core-Loaded Xeon and Threadripper Chips</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-advanced-mp4-encoder-for-social-sharing/"><u>[Updated] In 2024, Advanced MP4 Encoder for Social Sharing</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-mac-tips-for-effective-lecture-saves/"><u>[Updated] In 2024, Mac Tips for Effective Lecture Saves</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-groundbreaking-gear-for-next-level-virtual-reality/"><u>2024 Approved Groundbreaking Gear for Next-Level Virtual Reality</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amazon-prime-day-october-score-the-sizzling-apple-m2-macbook-air-at-an-unbeatable-price-of-749-read-more/"><u>Amazon Prime Day October: Score the Sizzling Apple M2 MacBook Air at an Unbeatable Price of $749! Read More</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/channel-name-wizardry-brainstorm-and-create-in-2024/"><u>Channel Name Wizardry Brainstorm & Create, In 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-correct-epson-xp-400-printer-driver-a-step-by-step-process/"><u>How to Get the Correct Epson Xp-400 Printer Driver - A Step by Step Process</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/is-the-microsoft-surface-pro-9-the-answer-how-it-stacks-up-to-macbook-for-windows-fans-reviewed-by-tech-experts-at-zdnet/"><u>Is the Microsoft Surface Pro 9 the Answer? How It Stacks Up to MacBook for Windows Fans, Reviewed by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/marvel-at-apples-vision-embracing-the-wonder-of-smart-eyewear-tech-insights/"><u>Marvel at Apple's Vision: Embracing the Wonder of Smart Eyewear | Tech Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-multitasking-with-lenovos-game-changing-dual-display-laptop-expert-review-s-top-gadgeteer/"><u>Mastering Multitasking with Lenovo's Game-Changing Dual-Display Laptop | Expert Review ’S Top Gadgeteer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/struggling-with-your-macbooks-energy-efficiency-boost-performance-and-extend-life-of-your-charge-zdnet/"><u>Struggling with Your MacBook's Energy Efficiency? Boost Performance & Extend Life of Your Charge | ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-reviewed-the-ultimate-all-rounder-laptop-delighting-users-and-boasting-robust-hardware-insights-from-zdnet/"><u>Top Reviewed: The Ultimate All-Rounder Laptop Delighting Users and Boasting Robust Hardware - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/uncovering-a-top-rated-dual-function-device-with-hidden-office-perks-the-underestimated-gem-of-this-year/"><u>Uncovering a Top Rated Dual-Function Device with Hidden Office Perks - The Underestimated Gem of This Year</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/understanding-the-trend-of-purchasing-damaged-macbook-pros-insights/"><u>Understanding the Trend of Purchasing Damaged MacBook Pros – Insights</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/wi-fi-mesh-is-its-value-clear/"><u>Wi-Fi Mesh: Is Its Value Clear?</u></a></li>
+<li><a href="https://win-superb.techidaily.com/yl-softwares-expert-tips-for-diagnosing-and-fixing-ram-issues-on-your-computer/"><u>YL Software's Expert Tips for Diagnosing & Fixing RAM Issues on Your Computer</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Savings for Gamers: Snag an Alienamoe Aurora R13 and Cut $350 Off Prices – Limited-Time Deal on ZDNET!"
-date: 2024-12-23T00:52:38.329Z
-updated: 2024-12-26T06:14:27.922Z
+date: 2025-01-03T17:29:26.041Z
+updated: 2025-01-04T16:55:30.187Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the deal?
@@ -31,7 +31,7 @@ You can pick up a new [MSI Stealth 14 Studio gaming laptop](https://shop-links.c
 **Also:** [**The best gaming laptops**](https://www.zdnet.com/article/best-gaming-laptop/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended:
@@ -65,7 +65,7 @@ Speaking of which: I absolutely adore the MUX switch, which is what lets you cho
 Taylor Clemons/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## My only real complaint
@@ -81,7 +81,7 @@ Taylor Clemons/ZDNET
 The laptop also has a decently fast charging time, taking about an hour to reach full charge from completely dead. This is perfect for situations when you forget to charge overnight or need to quickly top up the laptop during a lunch break or meeting. As with all fast-charging devices, you'll notice a slowdown in power transfer as the battery approaches full charge. This helps prevent damage from overcharging, which can shorten the overall life and performance of the battery.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How it handles gaming
@@ -95,7 +95,7 @@ Taylor Clemons/ZDNET
 The laptop even was able to handle the [ARMA III](https://store.steampowered.com/app/107410/Arma%5F3/) base game, which is notorious for requiring Herculean efforts from graphics cards and CPUs to even be able to load you into a server. I'd bought ARMA III years ago to play with friends over Discord, and this was the first time I'd been able to just load into the lobby and mess around with controls, settings, and mods before _finally_ being able to play a match after all this time. So the Stealth 14 Studio gets extra points in my book for letting me spend time with and stay connected to friends I don't get to see very often in-person. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### A worthy investment
@@ -140,15 +140,16 @@ _Correction: This review has been edited to reflect accurate information as prov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-help.techidaily.com/unavailable-dts-format-on-selected-audio-hardware-tips-for-restoration-and-setup/"><u>'Unavailable: DTS Format on Selected Audio Hardware' - Tips for Restoration and Setup</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-disable-unsolicited-youtube-video-listings/"><u>[Updated] Disable Unsolicited YouTube Video Listings</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-using-snapchat-for-past-photos-from-memory/"><u>[Updated] Using Snapchat for Past Photos From Memory</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-instantgrabbed-extendedcapture/"><u>2024 Approved InstantGrabbed ExtendedCapture</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/canon-mg3000-how-to-download-and-update-the-necessary-printing-software/"><u>Canon MG3000: How to Download and Update the Necessary Printing Software</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-nvidia-geforce-gtx-980-ti-graphics-card-drivers-free/"><u>Download Nvidia GeForce GTX 980 Ti Graphics Card Drivers - Free</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-epson-stylus-nx420-printer-drivers-for-your-windows-pc-windows-7810/"><u>Get Epson Stylus NX420 Printer Drivers for Your Windows PC (Windows 7/8/10)</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-fine-tuning-team-call-aesthetics-pre-and-post-customization/"><u>In 2024, Fine-Tuning Team Call Aesthetics Pre & Post Customization</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-flawless-picture-preservation-gratis-space-plus-charged-cloud-sanctuaries-await/"><u>In 2024, Flawless Picture Preservation Gratis Space + Charged Cloud Sanctuaries Await</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unlock-the-full-potential-of-your-gopro-4k-recordings/"><u>Unlock the Full Potential of Your GoPro 4K Recordings</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-filtration-finesse-elevating-your-snapchat-presence/"><u>[Updated] 2024 Approved Filtration Finesse Elevating Your Snapchat Presence</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-unbelievably-sharp-visuals-at-an-incredible-price-with-this-top-tier-lightweight-notebook/"><u>Discover Unbelievably Sharp Visuals at an Incredible Price with This Top-Tier Lightweight Notebook.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-voice-chat-problems-on-rainbow-six-siege-after-the-latest-2024-game-update/"><u>Fixing Voice Chat Problems on Rainbow Six Siege After the Latest 2024 Game Update</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-huawei-nova-y71-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Huawei Nova Y71 Devices | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-maximizing-mobile-profits-enabling-youtubers-revenue/"><u>In 2024, Maximizing Mobile Profits Enabling YouTubers' Revenue</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-picks-unmissable-laptop-bargains-in-july-2024-insights/"><u>Top Picks: Unmissable Laptop Bargains in July 2024 - Insights</u></a></li>
+<li><a href="https://article-helps.techidaily.com/top-ten-pro-level-drones-imagery-reimagined-for-2024/"><u>Top Ten Pro-Level Drones Imagery Reimagined for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-linux-laptop-picks-for-2-indepth-analysis-by-tech-gurus/"><u>Top-Rated Linux Laptop Picks for 2# - InDepth Analysis by Tech Gurus</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-linux-os-options-for-newcomers-comprehensive-guide-by-seasoned-experts-insights-from-zdnet/"><u>Top-Rated Linux OS Options for Newcomers: Comprehensive Guide by Seasoned Experts - Insights From ZDNet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/wie-spielt-man-av1-videos-in-plex-ab/"><u>Wie Spielt Man AV1 Videos in Plex Ab?</u></a></li>
 </ul></div>
 

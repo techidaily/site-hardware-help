@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Analysis of Asus TUF Gaming A14: Power & Durability Explored"
-date: 2024-08-19T10:43:43.082Z
-updated: 2024-08-20T10:43:43.082Z
+date: 2024-12-30T17:14:34.044Z
+updated: 2025-01-04T16:37:54.893Z
 tags:
   - laptop
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/3dc1e13d990f9f4ed1b30979889fa15d157b3da05
 The SZBox DS16 is a 16-inch laptop[available from AliExpress](https://go.redirectingat.com/?id=92X1584492&xcust=tomshardware%5Fus%5F1205122597602329443&xs=1&url=https%3A%2F%2Fwww.aliexpress.us%2Fitem%2F3256806648016140.html&sref=https%3A%2F%2Fwww.tomshardware.com%2Flaptops%2Fthis-core-i5-12450h-laptop-trades-a-physical-keyboard-for-dual-16-inch-displays-and-costs-just-dollar710-on-aliexpress) with a relatively affordable $710 starting price point. However, the real reason it's garnering so much attention (first brought to light by[Liliputing](https://liliputing.com/this-dual-screen-laptop-has-two-touchscreen-displays-and-support-for-height-adjustments-but-lacks-a-physical-keyboard/) ) is due to its dual 16-inch 1200p IPS touch panel configuration.
 
  Below, we've charted the specifications of the SZBox DS16 and its two primary variations, which we'll be referring to as the Intel Core i5 and Core i7 models for clarity's sake.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## SZBox DS16 Dual Screen Laptop Core Specs
 
@@ -37,9 +41,17 @@ The SZBox DS16 is a 16-inch laptop[available from AliExpress](https://go.redirec
 
 ![SZBox DS16](https://cdn.mos.cms.futurecdn.net/XXxLAnUWrMrCacNrJh5DWi-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: AliExpress)
 
  With a starting price of just over $700, the base Core i5 model is roughly $800 cheaper than the[Asus Zenbook Duo](https://tools.techidaily.com) (even the upgraded DS16 Core i7 model only costs $1,000, which still undercuts the entry from Asus). However, the Zenbook Duo features dual 14-inch OLED displays, a newer Intel Core Ultra 7 processor, and is nearly three pounds lighter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
@@ -55,8 +67,6 @@ The SZBox DS16 is a 16-inch laptop[available from AliExpress](https://go.redirec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -64,8 +74,22 @@ The SZBox DS16 is a 16-inch laptop[available from AliExpress](https://go.redirec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-discover-engaging-youtube-threads/"><u>[New] In 2024, Discover Engaging YouTube Threads</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-techniques-to-write-persuasive-videographic-dialogues/"><u>[New] Techniques to Write Persuasive Videographic Dialogues</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-innovating-sustainable-communities-within-the-concrete-jungle/"><u>[Updated] Innovating Sustainable Communities Within the Concrete Jungle</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1-sonos-roam-2-the-enhanced-smart-speaker-with-refined-elegance/"><u>1. Sonos Roam 2: The Enhanced Smart Speaker with Refined Elegance</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-final-cut-pros-premier-top-10-plugins/"><u>2024 Approved Final Cut Pro's Premier Top 10 Plugins</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-setting-sail-on-the-content-sea-your-youtube-account/"><u>2024 Approved Setting Sail on the Content Sea Your YouTube Account</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-pro-8000-series-integrating-npu-technology-into-high-performance-computers/"><u>AMD Pro 8000 Series: Integrating NPU Technology Into High-Performance Computers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/best-deals-ahead-snag-your-lovely-usb-c-charger-for-less-than-20-today/"><u>Best Deals Ahead: Snag Your Lovely USB-C Charger for Less Than $20 Today!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/boost-your-raspberry-pis-performance-with-the-new-12-m-slot-hatplus-expansion-board/"><u>Boost Your Raspberry Pi's Performance with the New $12 M.# Slot HAT+ Expansion Board</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/camera-equipped-smart-glasses-the-future-of-vision-enhancement-without-arsocial-integration/"><u>Camera-Equipped Smart Glasses: The Future of Vision Enhancement Without AR/Social Integration</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/compact-and-cute-discover-the-charming-switchbot-k10plus-pro-miniature-robovac/"><u>Compact and Cute: Discover the Charming SwitchBot K10+ Pro Miniature RoboVac</u></a></li>
+<li><a href="https://article-files.techidaily.com/motorcyclings-best-bits-hats-cam-with-the-highest-scores-for-2024/"><u>Motorcycling's Best Bits Hats Cam with the Highest Scores for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-public-domain-videos-at-your-fingertips-best-download-sites/"><u>New In 2024, Public Domain Videos at Your Fingertips Best Download Sites</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-avoid-pc-crashes-while-enjoying-wrc-10-in-the-fia-world-rally-championship-video-game/"><u>Resolved! Avoid PC Crashes While Enjoying WRC 10 in the FIA World Rally Championship Video Game</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/why-the-debate-over-desktop-enhancements-fails-to-hold-water-in-todays-tech-landscape/"><u>Why the Debate Over Desktop Enhancements Fails to Hold Water in Today's Tech Landscape</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->

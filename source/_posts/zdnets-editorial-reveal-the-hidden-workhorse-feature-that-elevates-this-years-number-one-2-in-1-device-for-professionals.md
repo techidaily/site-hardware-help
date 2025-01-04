@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Editorial Reveal: The Hidden Workhorse Feature That Elevates This Year’s Number One 2-in-1 Device for Professionals"
-date: 2024-12-13T16:39:46.539Z
-updated: 2024-12-17T16:03:42.385Z
+date: 2024-12-31T17:04:34.282Z
+updated: 2025-01-04T17:41:38.962Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -73,7 +73,7 @@ The ThinkPad X1 2-in-1 performs well in most cases, although it's not necessaril
 It also did well on the benchmark tests I ran, even outperforming the Intel Core i9-9880H. I'm very familiar with the Ultra 7, so I expected solid performance. Indeed, it is because of this familiarity that I was surprised to see this model's price. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -112,24 +112,20 @@ Additionally, keep in mind that adding options like an OLED screen and hardware 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-boost-your-facebook-profile-select-8-apps-with-highest-like-potential/"><u>[New] 2024 Approved Boost Your Facebook Profile Select 8 Apps with Highest Like Potential</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-navigating-adobe-cloud-insights-and-best-non-adobe-choices/"><u>[New] 2024 Approved Navigating Adobe Cloud, Insights & Best Non-Adobe Choices</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/levate-your-aspects-a-beginner-cookbook-for-asmr-filmmaking/"><u>[New] Elevate Your Aspects A Beginner' Cookbook for ASMR Filmmaking</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-flawlessly-merged-the-linkage-of-instagram-and-tiktok-for-2024/"><u>[Updated] Flawlessly Merged The Linkage of Instagram & TikTok for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-by-step-guide-to-seamlessly-downloading-and-modifying-tamil-ringtones/"><u>2024 Approved Step-by-Step Guide to Seamlessly Downloading and Modifying Tamil Ringtones</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bring-back-lost-connection-revive-the-invisible-logitech-brio-webcam-in-new-windows-environment-answered/"><u>Bring Back Lost Connection: Revive the Invisible Logitech Brio Webcam in New Windows Environment [Answered]</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discovering-cutting-edge-electronics-at-toms-technological-haven/"><u>Discovering Cutting-Edge Electronics at Tom's Technological Haven</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/employing-alternative-antibiotics-such-as-clindamycin-or-penicillins-which-may-still-have-activity-against-metronidazole-resistant-clostridium-perfringens-s68/"><u>Employing Alternative Antibiotics Such as Clindamycin or Penicillins, Which May Still Have Activity Against Metronidazole-Resistant Clostridium Perfringens Strains.</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723011425011-fix-youtube-stuttering-troubles-for-smooth-viewing-experience-now/"><u>Fix YouTube Stuttering Troubles for Smooth Viewing Experience – Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-freshly-released-updates-for-nvidia-quadro-rtx-4000-graphics-card-drivers/"><u>Get Freshly Released Updates for NVIDIA Quadro RTX #4000 Graphics Card Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-new-intel-centrino-wireless-n-6205-drivers-now-free-download/"><u>Get Your New Intel Centrino Wireless-N 6205 Drivers Now – [Free Download]</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/insignias-top-recommended-driver-for-usb-to-network-connection/"><u>Insignia's Top Recommended Driver for USB to Network Connection</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/logitech-g402-mouse-setup-and-installation-get-the-latest-drivers/"><u>Logitech G402 Mouse Setup & Installation - Get the Latest Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-fix-for-thunderbolt-connection-intels-user-friendly-driver-download/"><u>Quick Fix for Thunderbolt Connection - Intel's User-Friendly Driver Download</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-updating-your-windows-11-webcam-drivers/"><u>Step-by-Step Guide to Updating Your Windows 11 Webcam Drivers</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-five-fold-windows-11-data-collection/"><u>The Five-Fold Windows 11 Data Collection</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-computer-chronicles-in-depth-analysis-of-modern-tech-marvels/"><u>Tom's Computer Chronicles: In-Depth Analysis of Modern Tech Marvels</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-rated-artist-drawing-tablets-the-ultimate-list/"><u>Top Rated Artist Drawing Tablets - The Ultimate List</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-why-isnt-my-laptop-charging-on-windows-11/"><u>Troubleshooting Guide: Why Isn't My Laptop Charging on Windows 11?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-kinemaster-elevating-your-game-play-experience-on-android-devices/"><u>[New] 2024 Approved KineMaster Elevating Your Game Play Experience on Android Devices</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-mastering-the-art-of-silent-videography/"><u>[New] 2024 Approved Mastering the Art of Silent Videography</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-charting-your-way-to-frequent-payments-from-youtube/"><u>[Updated] 2024 Approved Charting Your Way to Frequent Payments From YouTube</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/4-pioneering-ways-ai-elevates-study-habits/"><u>4 Pioneering Ways AI Elevates Study Habits</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/affordable-deal-alert-grab-a-used-128gb-microsoft-surface-laptop-for-just-320-tech-tips/"><u>Affordable Deal Alert: Grab a Used 128GB Microsoft Surface Laptop for Just $320 - Tech Tips</u></a></li>
+<li><a href="https://win-top.techidaily.com/fehlersuche-und-problemlosung-fur-das-scheitern-der-clonezilla-klonvorgange-eine-umfassende-analyse/"><u>Fehlersuche Und Problemlösung Für Das Scheitern Der Clonezilla Klonvorgänge: Eine Umfassende Analyse</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-nokia-c22-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Nokia C22 To Phone | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-honor-80-pro-straight-screen-edition-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Honor 80 Pro Straight Screen Edition without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-zte-axon-40-lite-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing ZTE Axon 40 Lite to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/snag-the-deal-before-it-ends-apple-m2-macbook-air-just-hit-an-unbeatable-price-of-749-during-amazon-prime-day-as-spotted-by-zdnet/"><u>Snag the Deal Before It Ends: Apple M2 MacBook Air Just Hit an Unbeatable Price of $749 During Amazon Prime Day, As Spotted by ZDNET.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/transforming-my-workstation-the-impact-of-a-split-ergo-keyboard-on-my-digital-life-a-first-hand-account-zdnet/"><u>Transforming My Workstation: The Impact of a Split Ergo Keyboard on My Digital Life - A First-Hand Account | ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-price-alert-secure-your-hp-victus-veggie-laptop-for-a-steal-at-515-during-the-prime-deals-extravaganza-at-best-buy-zdnet-reviews/"><u>Unbeatable Price Alert: Secure Your HP Victus Veggie Laptop for a Steal at $515 During the Prime Deals Extravaganza at Best Buy | ZDNET Reviews</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-price-metas-latest-offer-on-512gb-quest-3-top-choice-for-virtual-reality-enthusiasts-techspot/"><u>Unbeatable Price: Meta's Latest Offer on 512GB Quest 3 - Top Choice for Virtual Reality Enthusiasts | TechSpot</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-future-at-apples-oct-showcase-new-m4-mac-mini-and-innovative-ipad-lineup/"><u>Unveiling the Future at Apple's Oct. Showcase: New M4 Mac Mini & Innovative iPad Lineup</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/zdnet-reveal-the-ideal-lightweight-powerhouse-laptop-every-remote-worker-needs/"><u>ZDNet Reveal: The Ideal Lightweight Powerhouse Laptop Every Remote Worker Needs !</u></a></li>
 </ul></div>
 

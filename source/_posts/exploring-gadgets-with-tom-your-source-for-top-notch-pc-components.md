@@ -1,7 +1,7 @@
 ---
 title: "Exploring Gadgets with Tom: Your Source for Top-Notch PC Components"
-date: 2024-08-19T10:45:38.764Z
-updated: 2024-08-20T10:45:38.764Z
+date: 2025-01-01T17:29:46.733Z
+updated: 2025-01-04T16:52:02.728Z
 tags:
   - laptop
 categories:
@@ -29,6 +29,10 @@ Framework has[announced](https://x.com/FrameworkPuter/status/1803072040569901452
 
  Nevertheless,[American lawmakers are still investigating China’s access to this technology](https://tools.techidaily.com) , especially as Washington is working hard to[restrict Beijing’s access](https://tools.techidaily.com) to advanced tech. However, since it remains open, many[Chinese startups](https://tools.techidaily.com) [and companies](https://tools.techidaily.com) are taking advantage of this ISA, allowing them to produce chips that aren’t restricted by American sanction.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,9 +45,17 @@ Framework has[announced](https://x.com/FrameworkPuter/status/1803072040569901452
 
 ![Framework, DeepComputing collaborate](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Framework, DeepComputing)
 
 ![Framework, DeepComputing collaborate](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Framework, DeepComputing)
 
@@ -55,8 +67,6 @@ Framework has[announced](https://x.com/FrameworkPuter/status/1803072040569901452
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -64,8 +74,23 @@ Framework has[announced](https://x.com/FrameworkPuter/status/1803072040569901452
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-downloading-and-archiving-facebook-gifs-a-unified-approach/"><u>[New] In 2024, Downloading and Archiving Facebook GIFs A Unified Approach</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-drone-designs-always-on-your-side/"><u>2024 Approved Innovative Drone Designs Always on Your Side</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comparing-giants-how-loongsons-latest-16-core-chip-stacks-up-against-intel-ice-lake-processors/"><u>Comparing Giants: How Loongson's Latest 16-Core Chip Stacks Up Against Intel Ice Lake Processors</u></a></li>
+<li><a href="https://games-able.techidaily.com/decrypting-eas-clues-early-access-entry-unveiled/"><u>Decrypting EA's Clues: Early Access Entry Unveiled</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/epson-et-4550-driver-download-and-install-for-windows-easy-and-fast/"><u>Epson ET-4550 Driver Download & Install for Windows – Easy & Fast</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/epson-gt-s50-printing-software-download-windows-7810-supported-versions-available/"><u>Epson GT-S50 Printing Software Download: Windows 7/8/10 Supported Versions Available</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-secrets-of-duckduckgo-how-safe-is-it-really-for-internet-searching/"><u>Exploring the Secrets of DuckDuckGo - How Safe Is It Really for Internet Searching?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-color-laserjet-pro-m4n-series-professional-printer-drivers-installed-easily/"><u>HP Color LaserJet Pro M4n Series: Professional Printer Drivers Installed Easily</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-leapfrog-content-management-from-youtube-to-dailymotion-effortlessly/"><u>In 2024, Leapfrog Content Management From YouTube to Dailymotion Effortlessly</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-perfect-plugin-placement-for-game-channels/"><u>In 2024, Perfect Plugin Placement for Game Channels</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intel-reveals-fix-for-processor-faults-high-voltage-blamed-update-expected-in-august/"><u>Intel Reveals Fix for Processor Faults: High Voltage Blamed, Update Expected in August</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-downloading-and-installing-the-samsung-m2-drives-for-windows-users/"><u>Step-by-Step Guide: Downloading & Installing the Samsung ^M.2 Drives for Windows Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-instructions-for-setting-up-an-ipad-expert-advice-from-zdnet-professionals/"><u>Step-by-Step Instructions for Setting Up an iPad: Expert Advice From ZDNet Professionals</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-fixing-and-downloading-mouse-drivers-in-windows-7/"><u>Step-by-Step Tutorial: Fixing & Downloading Mouse Drivers in Windows 7</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/superior-sonic-aligner-android-version/"><u>Superior Sonic Aligner, Android Version</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-synchronizing-sound-and-movement-crafting-clear-audio-visualization-waves-and-incorporating-animation-flourishes-in-adobe-premiere-pro/"><u>Updated Synchronizing Sound and Movement Crafting Clear Audio Visualization Waves & Incorporating Animation Flourishes in Adobe Premiere Pro</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->

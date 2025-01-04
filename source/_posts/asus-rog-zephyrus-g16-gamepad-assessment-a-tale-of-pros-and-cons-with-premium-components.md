@@ -1,7 +1,7 @@
 ---
 title: "Asus ROG Zephyrus G16 Gamepad Assessment: A Tale of Pros and Cons with Premium Components"
-date: 2024-08-19T10:43:40.898Z
-updated: 2024-08-20T10:43:40.898Z
+date: 2024-12-28T16:21:39.095Z
+updated: 2025-01-04T16:58:17.854Z
 tags:
   - laptop
 categories:
@@ -27,6 +27,10 @@ We cover many unique "because I felt like it" projects here at Tom's Hardware, b
 
  In more modern communications news,[Wi-Fi over three kilometers](https://tools.techidaily.com) was demonstrated with a real-time video call back in January. Windows[11 started adding support for Wi-Fi 7](https://tools.techidaily.com) back in February. All this progress means that most Wi-Fi routers in the world will be a free-for-all on the same few congested wireless channels unless configured properly. Some monsters and nerds out there still employ Morse code, a language with roots in the 1830s.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,8 +45,6 @@ We cover many unique "because I felt like it" projects here at Tom's Hardware, b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -50,8 +52,20 @@ We cover many unique "because I felt like it" projects here at Tom's Hardware, b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-debating-the-need-for-itop-screencasting/"><u>[New] 2024 Approved Debating the Need for ITop Screencasting</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-quintessential-stop-motion-films-a-top-15-list/"><u>[New] 2024 Approved Quintessential Stop-Motion Films A Top 15 List</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-how-to-check-who-unfollowed-me-on-instagram-in-2024/"><u>[New] How to Check Who Unfollowed Me on Instagram, In 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-peak-hours-for-releasing-podcasts-for-2024/"><u>[New] Peak Hours for Releasing Podcasts for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-step-by-step-producing-shareable-videos-as-memes-on-social-media-for-2024/"><u>[New] Step-by-Step Producing Shareable Videos as Memes on Social Media for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-creative-channel-titling-techniques-for-growth/"><u>[Updated] In 2024, Creative Channel Titling Techniques for Growth</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/anime-and-music-mixing-up-the-next-big-tiktok-hits/"><u>Anime and Music Mixing Up the Next Big TikTok Hits</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-unleashing-your-creative-spark-stylistic-self-discovery-high-ctr/"><u>In 2024, Unleashing Your Creative Spark Stylistic Self-Discovery [High CTR]</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-case-for-vertical-gpu-installation-why-its-a-game-changer/"><u>The Case for Vertical GPU Installation – Why It's a Game-Changer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-top-5-premium-protectors-ultimate-guide-to-the-best-11-inch-ipad-air-cases/"><u>The Top 5 Premium Protectors: Ultimate Guide to the Best 11-Inch iPad Air Cases</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-recovering-missing-apple-airpods-effectively/"><u>The Ultimate Guide: Recovering Missing Apple AirPods Effectively</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-bluetooth-transmitters-a-comprehensive-review/"><u>Top-Rated Bluetooth Transmitters : A Comprehensive Review</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-mac-video-metadata-mastery-8-essential-editor-tools/"><u>Updated 2024 Approved Mac Video Metadata Mastery 8 Essential Editor Tools</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->

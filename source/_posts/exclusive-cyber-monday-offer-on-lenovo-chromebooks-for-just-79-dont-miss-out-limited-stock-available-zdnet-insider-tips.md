@@ -1,7 +1,7 @@
 ---
 title: Exclusive Cyber Monday Offer on Lenovo Chromebooks for Just $79! Don't Miss Out – Limited Stock Available | ZDNET Insider Tips
-date: 2024-12-24T04:05:55.629Z
-updated: 2024-12-26T06:24:53.964Z
+date: 2025-01-01T16:33:20.034Z
+updated: 2025-01-04T17:19:27.698Z
 tags:
   - laptops
 categories:
@@ -38,7 +38,7 @@ This laptop isn't solely for business professionals. Everybody can enjoy the dev
 Right now is the best time to buy this device. The [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C33d8b115-5353-48ee-93ba-d7db0255209a%7Cdtp&dtb=1) is currently on sale at Amazon for $1,500\. That is almost $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C33d8b115-5353-48ee-93ba-d7db0255209a%7Cdtp&dtb=1) is much more expensive, but I recommend it as an alternative if you can afford it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -75,22 +75,16 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-the-backchannel-bridge-engaging-with-your-audience/"><u>[New] In 2024, The Backchannel Bridge Engaging with Your Audience</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/512-driver-for-printer-model-mg3022-here-download-and-installation-guide/"><u>512 Driver for Printer Model MG3022 Here - Download & Installation Guide</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/critique-of-the-oneplus-8t-exceptional-speed-overshadowed-by-camera-issues/"><u>Critique of the OnePlus 8T: Exceptional Speed Overshadowed by Camera Issues</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-latest-dell-wireless-network-drivers-for-windows-7-systems/"><u>Download Latest Dell Wireless Network Drivers for Windows 7 Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-wacom-graphics-tablet-drivers-swiftly-and-securely/"><u>Download Wacom Graphics Tablet Drivers Swiftly and Securely</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-installation-freshest-aoc-drivers-for-win-11-10-and-8-operating-systems-available-now/"><u>Easy Installation: Freshest AOC Drivers for Win 11, 10 & #8 Operating Systems Available Now!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/enhance-your-sound-experience-how-to-update-corsair-headset-drivers-for-windows-1011/"><u>Enhance Your Sound Experience: How to Update Corsair Headset Drivers for Windows 10/11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-access-to-logitech-webcam-drivers-for-enhanced-video-calling-on-windows-systems/"><u>Free Access to Logitech Webcam Drivers for Enhanced Video Calling on Windows Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/guide-to-updating-your-sound-blaster-z-with-latest-drivers-optimized-for-windows-11-systems/"><u>Guide to Updating Your Sound Blaster Z with Latest Drivers: Optimized for Windows 11 Systems</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-m34-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy M34 5G to Outlook | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-upgrade-your-lenovo-camera-hardware-components-with-windows-7-supported-drivers/"><u>How to Upgrade Your Lenovo Camera Hardware Components with Windows 7 Supported Drivers</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Sony Xperia 5 V | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/masterful-motorsports-discover-the-5-leading-racers-simulators-for-2024/"><u>Masterful Motorsports Discover the 5 Leading Racers Simulators for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/mastering-fb-shortcut-setup-guide/"><u>Mastering FB: Shortcut Setup Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/personalize-your-windows-11-installation-essential-settings-guide/"><u>Personalize Your Windows 11 Installation: Essential Settings Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/talking-ai-futures-when-will-gpt-5-be-unveiled/"><u>Talking AI Futures: When Will GPT-5 Be Unveiled?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-for-overcoming-iphones-error-4013-during-system-restoration/"><u>Troubleshooting Guide for Overcoming iPhone's Error #4013 During System Restoration</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-podcast-dominance-through-effective-seo-strategies/"><u>[Updated] Podcast Dominance Through Effective SEO Strategies</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-quelling-video-quirks-in-photobooths/"><u>2024 Approved Quelling Video Quirks in Photobooths</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-stunning-iphone-portraits-through-water-imagery-techniques/"><u>2024 Approved Stunning iPhone Portraits Through Water Imagery Techniques</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhancing-device-functionality-how-to-seamlessly-integrate-additional-ports-into-macbook-and-ipad-pro-units-zdnet-insights/"><u>Enhancing Device Functionality: How to Seamlessly Integrate Additional Ports Into MacBook and iPad Pro Units | ZDNET Insights</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-highlighted-6-exceptional-tools-for-cleaning-up-images/"><u>In 2024, Highlighted 6 Exceptional Tools for Cleaning Up Images</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/surpassing-rivals-how-apples-innovations-could-outshine-openai-microsoft-and-google-during-the-2024-worldwide-developers-conference-insights-from-zdnet/"><u>Surpassing Rivals: How Apple's Innovations Could Outshine OpenAI, Microsoft & Google During the 2024 Worldwide Developers Conference - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-picks-affordable-alternatives-that-outshine-macbook-air-now-with-discounts-discover-your-ideal-windows-laptop-today/"><u>Top Picks: Affordable Alternatives That Outshine MacBook Air - Now with Discounts! Discover Your Ideal Windows Laptop Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-samsungs-latest-copilotplus-innovations-enhanced-ai-capabilities-showcased-in-the-new-pc-series-insights-from-zdnet/"><u>Unveiling Samsung's Latest Copilot+ Innovations: Enhanced AI Capabilities Showcased in the New PC Series - Insights From ZDNet</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/visual-vault-visitor/"><u>Visual Vault Visitor</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/why-hps-latest-release-the-spectre-x360-tops-as-a-top-choice-for-best-laptops-insights/"><u>Why HP's Latest Release, The Spectre X360, Tops as a Top Choice for Best Laptops - Insights</u></a></li>
 </ul></div>
 

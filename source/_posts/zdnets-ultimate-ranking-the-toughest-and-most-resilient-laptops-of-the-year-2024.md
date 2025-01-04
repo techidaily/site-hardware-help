@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Ultimate Ranking: The Toughest and Most Resilient Laptops of the Year 2024"
-date: 2024-12-21T21:13:54.897Z
-updated: 2024-12-26T06:32:18.268Z
+date: 2024-12-29T16:24:59.126Z
+updated: 2025-01-04T16:46:18.741Z
 tags:
   - laptops
 categories:
@@ -21,10 +21,6 @@ While this opens up tons of choices for the consumer, it also means a lot of jar
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the best Windows laptop right now?
 
@@ -49,7 +45,7 @@ Cons
 * On the heavy side
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Dell XPS 16 (2024)
@@ -86,7 +82,7 @@ Cons
 * Comes with an eUFS instead of an SSD
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Samsung Galaxy Book 4 Edge
@@ -121,6 +117,10 @@ Cons
 
 ## Asus Zenbook 14 Flip OLED
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best Windows 2-in-1 convertible laptop
 
 Convertible 2-in-1 laptops are handy because they can satisfy a variety of use cases. In my opinion, the best 2-in-1 device on the market today is the Asus Zenbook 14 Flip OLED. On specific aspects, you could argue that there are better options out there, but in terms of a complete package, you can't beat this, based on [my testing](https://www.zdnet.com/article/i-challenge-you-to-find-a-better-looking-laptop-for-under-1000-than-this/).
@@ -153,11 +153,11 @@ Cons
 * Forced to use Lenovo's proprietary 230W AC adapter
 * Rather bulky
 
-## Lenovo IdeaPad Pro 5i
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Lenovo IdeaPad Pro 5i
 
 ### Best Windows laptop for business
 
@@ -190,11 +190,11 @@ Cons
 * Limited performance
 * Bulky
 
-## Acer Aspire Go 15
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Acer Aspire Go 15
 
 ### Best budget Windows laptop
 
@@ -227,10 +227,6 @@ Cons
 * Pricey
 
 ## Asus Zenbook S 16
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best Windows OLED laptop
 
@@ -296,10 +292,6 @@ Cons
 
 ## Razer Blade 17
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best Windows gaming laptop
 
 Not only is the Razer Blade 17 the best gaming laptop on the market, but it's also our pick for the [best 17-inch laptop](https://www.zdnet.com/article/best-17-inch-laptop/). The reason is its perfect blend of power and portability. To put it lightly, this machine is stacked. Starting models come with a 12th Gen Intel Core i7-12800H, although you can upgrade it to an Intel Core i9 for better performance. 
@@ -316,6 +308,10 @@ Gamers, unsurprisingly, say they love the Razer Blade 17\. Many online point to 
 
 Show Expert Take Show less 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best Windows laptop?
 
 The best Windows laptop overall is the Dell XPS 15, due to an impressive combination of display, CPU, GPU, battery life, and other features. Below is a table where we compare every thing according to their prices, CPU, and graphics. 
@@ -330,10 +326,6 @@ The best Windows laptop overall is the Dell XPS 15, due to an impressive combina
 | Asus Zenbook S 16                  | Starting at $1,399 | AMD Ryzen AI 9 365                  | AMD Radeon 880M                                |
 | Microsoft Surface Pro 11th-Edition | Starting at $999   | Qualcomm Snapdragon X Plus/Elite    | Qualcomm Adreno                                |
 | Razer Blade 17                     | Starting at $2,849 | 12th Gen Intel Core i7-12800H       | Nvidia GeForce RTX 3080 Ti Laptop GPU          |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Which Windows laptop is right for you?
 
@@ -379,11 +371,19 @@ We selected these Windows laptops after conducting thorough research and real-wo
 * **Display:** Naturally, you'll want a laptop with the best possible display since you'll be staring at one for hours. But we also consider the screen size as it dictates the overall size and weight of the laptop.
 * **Features:** Lastly, we consider the full suite of features a laptop has. Gaming laptops have RGB lights, whereas a work computer may skew to have a better webcam than others.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why should you buy a laptop and not a desktop or a tablet?
 
 These days, a "computer" for most people is a laptop of some kind. The desktop form factor — particularly in the shape of [all-in-one (AIO) devices](https://www.zdnet.com/article/best-all-in-one-computer/) — is by no means finished. Still, laptops span the range from thin, light, and ultraportable to bulky, powerful, and deskbound. 
 
 If small screens are a problem, you can always attach an external monitor. There are also plenty of hybrid 2-in-1 devices that straddle the divide between laptops and tablets.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which operating system should you choose: Windows, Chrome OS, or Linux?
 
@@ -402,7 +402,7 @@ That's a tough question to answer because it ultimately comes down to what you, 
 Between $800 and $1,500 is where you will the mid-range options. Everyday laptops that can perform well while also not completely destroying your wallet. Most options fall in this range with plenty to choose from.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should you stick to the usual laptop vendors or seek out lesser-known brands?
@@ -457,20 +457,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-help.techidaily.com/1722969831335-achieve-pro-level-control-install-the-newest-steelseries-engine-on-windows-10-free-download/"><u>[Achieve Pro-Level Control]: Install the Newest SteelSeries Engine on Windows 10 - Free Download</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-twist-your-imagery-instagrams-video-rotation-guide-for-2024/"><u>[New] Twist Your Imagery Instagram's Video Rotation Guide for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-a-strategic-approach-to-increase-likes-on-your-tiktok-video-content/"><u>[Updated] In 2024, A Strategic Approach to Increase 'Likes' On Your TikTok Video Content</u></a></li>
-<li><a href="https://extra-information.techidaily.com/bridging-the-gap-between-spoken-words-and-text-on-slides-powerpoint-guide-for-2024/"><u>Bridging the Gap Between Spoken Words and Text on Slides PowerPoint Guide for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-basic-to-bold-installing-unique-customizable-ringtones-and-sounds-on-android-for-2024/"><u>From Basic to Bold Installing Unique, Customizable Ringtones & Sounds on Android for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-successfully-modify-the-usb-drivers-on-your-samsung-phone/"><u>How to Successfully Modify the USB Drivers on Your Samsung Phone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-pro-max-to-other-iphone-14-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 Pro Max To Other iPhone 14 devices? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-upgrade-to-nahimic-for-optimal-audio-quality-simple-steps/"><u>How to Upgrade to Nahimic for Optimal Audio Quality | Simple Steps</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/obtain-your-freshest-geforce-rtx-2070-windows-drivers-for-the-latest-os-versions/"><u>Obtain Your Freshest GeForce RTX 2070 Windows Drivers for the Latest OS Versions!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/precision-engagement-elevating-camera-angle-online/"><u>Precision Engagement Elevating Camera Angle Online</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/revamping-sound-quality-the-ultimate-guide-to-updating-usb-drivers-in-windows-systems/"><u>Revamping Sound Quality: The Ultimate Guide to Updating USB Drivers in Windows Systems</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/troubleshooting-detection-issues-how-to-correctly-fix-a-missing-scanner-warning-advice-by-yl-software-experts/"><u>Troubleshooting Detection Issues: How to Correctly Fix a Missing Scanner Warning – Advice by YL Software Experts</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/understand-the-structure/"><u>Understand the Structure</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/united-in-happiness-july-4th-revelries/"><u>United in Happiness: July 4Th Revelries</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unlimited-free-installation-of-logitech-webcam-drivers-for-microsoft-windows/"><u>Unlimited Free Installation of Logitech Webcam Drivers for Microsoft Windows</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-step-by-step-approach-to-generating-income-with-trailers-for-2024/"><u>[New] A Step-by-Step Approach to Generating Income with Trailers for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-pushing-boundaries-camera-capabilities-in-ios-11-for-2024/"><u>[New] Pushing Boundaries Camera Capabilities in iOS 11 for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/kyrocketing-views-simple-strategies-without-cost-for-2024/"><u>[New] Skyrocketing Views Simple Strategies Without Cost for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/affordable-alternative-to-macbook-air-a-highly-rated-windows-laptop-with-equal-capabilities-zdnet/"><u>Affordable Alternative to MacBook Air: A Highly-Rated Windows Laptop with Equal Capabilities | ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-microsoft-copilots-role-in-coding-efficiency/"><u>Deciphering Microsoft Copilot's Role in Coding Efficiency</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-best-budget-friendly-laptop-that-rivals-macbook-air-and-is-currently-discounted-tech-advice/"><u>Discover The Best Budget-Friendly Laptop That Rivals MacBook Air & Is Currently Discounted | Tech Advice</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficiently-acquire-and-apply-minecraft-worlds/"><u>Efficiently Acquire & Apply Minecraft Worlds</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/effortless-ways-to-transfer-data-from-your-apple-iphone-11-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Effortless Ways to Transfer Data from Your Apple iPhone 11 to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-2elevate-tech-selection-a-comprehensive-guide-to-premier-gadgets-and-devices-of-2022-insights-from-zdnet/"><u>Exploring 2Elevate Tech Selection: A Comprehensive Guide to Premier Gadgets and Devices of 2022 - Insights From ZDNet</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-itel-s23pluswithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Itel S23+with/without a PC</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-poco-f5-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-cloaked-story-crafting-your-ultimate-snapguide-manual/"><u>In 2024, Cloaked Story Crafting Your Ultimate Snapguide Manual</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/samsung-copilotplus-reviewed-why-it-deserves-your-attention-as-the-premier-deal-for-windows-enthusiasts/"><u>Samsung Copilot+ Reviewed: Why It Deserves Your Attention as the Premier Deal for Windows Enthusiasts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-98-cyber-monday-sales-and-discounts-of-2022-exclusive-picks/"><u>Top 98 Cyber Monday Sales & Discounts of 2022 - Exclusive Picks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-walmart-savings-and-offers-unveiling-the-hottest-deals-of-july-2024-insights-from-zdnet/"><u>Top Walmart Savings & Offers: Unveiling the Hottest Deals of July 2024 - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-the-highest-quality-macbook-add-ons-evaluated-by-professionals-engadget/"><u>Ultimate Guide to the Highest Quality MacBook Add-Ons , Evaluated by Professionals | Engadget</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-deal-experience-the-ultimate-gaming-audio-bliss-with-a-stellar-speaker-system-now-40-off-on-amazon/"><u>Unbeatable Deal: Experience the Ultimate Gaming Audio Bliss with a Stellar Speaker System Now 40% Off on Amazon!</u></a></li>
 </ul></div>
 

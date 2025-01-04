@@ -1,7 +1,7 @@
 ---
 title: Top 2023 Dual-Purpose Device with a Hidden Gem for Workspaces Uncovered by ZDNet
-date: 2024-12-24T19:34:37.320Z
-updated: 2024-12-26T03:41:18.975Z
+date: 2025-01-03T16:21:55.509Z
+updated: 2025-01-04T17:01:34.635Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -83,7 +83,7 @@ Alongside them are a pair of discrete microphones capable of picking out the fin
 So the high visual resolution, combined with the powerful audio system and recording features, make the HP Elitebook x360 one of the better laptops out there for on-the-go video calls.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -122,24 +122,18 @@ For more traditional users, I'd recommend the [Acer Swift 14](https://shop-links
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-essential-insights-for-capturing-online-meeting-transcripts-for-2024/"><u>[New] Essential Insights for Capturing Online Meeting Transcripts for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-complete-breakdown-the-android-adaptation-of-lightroom-app/"><u>2024 Approved Complete Breakdown The Android Adaptation of Lightroom App</u></a></li>
-<li><a href="https://fox-links.techidaily.com/chucklecraft-meme-mastery-in-adobe/"><u>ChuckleCraft Meme Mastery in Adobe</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/complete-step-by-step-guide-downloading-hp-printer-drivers-for-windows-11-users/"><u>Complete Step-by-Step Guide: Downloading HP Printer Drivers for Windows 11 Users</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/discover-the-vibrant-world-of-tabitha-templeton-visuals-exclusive-backgrounds-from-yl-computings-design-suite/"><u>Discover the Vibrant World of Tabitha Templeton Visuals: Exclusive Backgrounds From YL Computing's Design Suite</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-hp-laserjet-pro-m428fdw-printer-drivers-compatible-with-windows-10-11-and-7/"><u>Download HP LaserJet Pro M428fdw Printer Drivers: Compatible with Windows 10, 11 & 7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-updated-hp-scanjet-drivers-for-windows-users-ensure-smooth-printing-on-pcs/"><u>Download Updated HP Scanjet Drivers for Windows Users: Ensure Smooth Printing on PCs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-amd-radeon-display-adapters-drivers-for-your-windows-7-pc/"><u>Get the Latest AMD Radeon Display Adapters Drivers for Your Windows 7 PC</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-steelseries-engine-update-now-free-download-compatible-with-windows-11/"><u>Get the Latest SteelSeries Engine Update Now [Free Download] Compatible with Windows 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-zbook-studio-g5-laptop-updated-device-drives-for-optimal-performance/"><u>HP zBook Studio G5 Laptop - Updated Device Drives for Optimal Performance</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-nokia-xr21-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Nokia XR21 Without PUK Codes</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-boost-your-videos-top-10-free-online-video-enhancement-tools/"><u>New In 2024, Boost Your Videos Top 10 Free Online Video Enhancement Tools</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-the-ultimate-selection-5-premium-audiovideo-integration-tools-for-2024/"><u>New The Ultimate Selection 5 Premium Audio/Video Integration Tools for 2024</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/quick-guide-transforming-avchd-videos-into-ipad-format-using-top-rated-converters/"><u>Quick Guide: Transforming AVCHD Videos Into iPad Format Using Top-Rated Converters</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722978219960-quick-install-your-guide-to-downloading-samsung-m20n70fw-drivers-today/"><u>Quick Install: Your Guide to Downloading Samsung M20n70fw Drivers Today</u></a></li>
-<li><a href="https://os-tips.techidaily.com/reviving-battery-life-7-proven-strategies-to-get-your-android-phone-charging-again/"><u>Reviving Battery Life: 7 Proven Strategies to Get Your Android Phone Charging Again</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-review-ultimate-guide/"><u>Tom's Tech Review: Ultimate Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/unlock-the-full-thrill-of-warzone-fixes-for-launch-failures/"><u>Unlock the Full Thrill of Warzone - Fixes for Launch Failures</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722975709799-upgrade-and-enhance-performance-with-official-dell-wd19-graphics-drivers-download-guide/"><u>Upgrade & Enhance Performance with Official Dell WD19 Graphics Drivers - Download Guide!</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-journey-to-crafting-a-unique-alphanumeric-marker-for-tiktok-for-2024/"><u>[Updated] Journey to Crafting a Unique Alphanumeric Marker for TikTok for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1-discovering-innovation-my-experience-testing-lenovos-revolutionary-auto-swivel-laptop-at-ifa-202n-insights/"><u>1. Discovering Innovation: My Experience Testing Lenovo's Revolutionary Auto-Swivel Laptop at IFA 202N - Insights</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-discover-comedy-tear-fusion-in-these-highest-rated-memetic-accounts/"><u>2024 Approved Discover Comedy-Tear Fusion in These Highest Rated Memetic Accounts</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-editors-full-breakdown-of-editsphere-suite-updated/"><u>2024 Approved Editor's Full Breakdown of EditSphere Suite - Updated</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-social-media-synergy-cross-promoting-your-youtube-content/"><u>2024 Approved Social Media Synergy Cross-Promoting Your YouTube Content</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-hidden-perk-in-this-years-best-dual-function-device-for-work-as-featured/"><u>Discover the Hidden Perk in This Year's Best Dual-Function Device for Work, as Featured</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/dont-miss-out-how-to-view-microsofts-latest-tech-revelations-at-the-surface-plus-windows-ai-showcase-zdnet-insights/"><u>Don't Miss Out! How to View Microsoft's Latest Tech Revelations at the Surface + Windows AI Showcase | ZDNET Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-these-featherlight-computers-blew-my-mind-and-outshined-the-iconic-macbook-air-review/"><u>How These Featherlight Computers Blew My Mind and Outshined the Iconic MacBook Air Review</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y36-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y36 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/save-big-during-the-festive-season-discover-neweggs-top-49-hot-deals-for-2e3-tech-news-and-reviews/"><u>Save Big During the Festive Season: Discover Newegg's Top 49 Hot Deals for 2E3 | Tech News & Reviews</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-guide-fixing-fortnites-stuck-on-starting-up-dilemma/"><u>Solution Guide: Fixing Fortnite's Stuck on Starting Up Dilemma</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-on-a-shoestring-discover-why-zdnet-hauls-these-amazing-3ergy-earbuds-at-35-only/"><u>Top Rated on a Shoestring? Discover Why ZDNET Hauls These Amazing $3Ergy Earbuds at 35$ Only!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Introducing the Ultimate Laptop Mod: Type in Morse by Shutting the Lid - But Don't Blame Us for Screen Cracks or Sanity Issues"
-date: 2024-08-19T10:44:50.272Z
-updated: 2024-08-20T10:44:50.272Z
+date: 2025-01-02T16:47:16.233Z
+updated: 2025-01-04T16:01:33.530Z
 tags:
   - laptop
 categories:
@@ -27,6 +27,10 @@ We cover many unique "because I felt like it" projects here at Tom's Hardware, b
 
  In more modern communications news,[Wi-Fi over three kilometers](https://tools.techidaily.com) was demonstrated with a real-time video call back in January. Windows[11 started adding support for Wi-Fi 7](https://tools.techidaily.com) back in February. All this progress means that most Wi-Fi routers in the world will be a free-for-all on the same few congested wireless channels unless configured properly. Some monsters and nerds out there still employ Morse code, a language with roots in the 1830s.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,8 +45,6 @@ We cover many unique "because I felt like it" projects here at Tom's Hardware, b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -50,17 +52,24 @@ We cover many unique "because I felt like it" projects here at Tom's Hardware, b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-vr-showdown-scoring-the-best-oculus-models/"><u>[New] Ultimate VR Showdown Scoring the Best Oculus Models</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-essential-tips-sharing-your-apple-devices-screen-with-youtube/"><u>[Updated] In 2024, Essential Tips Sharing Your Apple Devices Screen with YouTube</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-elevate-your-ar-creations-with-downloadable-color-lookup-tables/"><u>2024 Approved Elevate Your AR Creations with Downloadable Color Lookup Tables</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-premiere-pro-utilizing-lut-techniques/"><u>2024 Approved Premiere Pro Utilizing LUT Techniques</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/comprehensive-guide-on-how-to-fix-and-rebuild-lost-ms-project-workfiles/"><u>Comprehensive Guide on How to Fix and Rebuild Lost MS Project Workfiles</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fresh-release-install-magicard-rio-pro-driver-for-your-pc-windows-support/"><u>Fresh Release: Install Magicard Rio Pro Driver for Your PC (Windows Support)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-correctly-update-or-repair-hp-monitor-drivers-across-windows-operating-systems/"><u>How to Correctly Update or Repair HP Monitor Drivers Across Windows Operating Systems</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-master-blur-techniques-in-visual-editing/"><u>In 2024, Master Blur Techniques in Visual Editing</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/reviving-your-pc-utilizing-aomei-backupper-for-remote-windows-system-restore-from-image-backup/"><u>Reviving Your PC: Utilizing AOMEI Backupper for Remote Windows System Restore From Image Backup</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/solution-steps-for-a-non-functional-logitech-g433-mic-a-comprehensive-guide/"><u>Solution Steps for a Non-Functional Logitech G433 Mic - A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/speed-up-your-printing-direct-link-to-download-samsung-m2070fw-drivers/"><u>Speed Up Your Printing: Direct Link to Download Samsung M2070FW Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-updating-arduino-usb-drivers-in-windows/"><u>Step-by-Step Guide: Updating Arduino USB Drivers in Windows</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/unmissable-video-capturing-discover-top-5-tools-now-for-2024/"><u>Unmissable Video Capturing - Discover Top 5 Tools Now for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-face-blur-made-easy-expert-video-editing-software-for-2024/"><u>Updated Face Blur Made Easy Expert Video Editing Software for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrade-your-graphics-experience-amd-rx-6800-xt-driver-downloads-for-multiple-windows-versions-11-10-8-and-7/"><u>Upgrade Your Graphics Experience - AMD RX 6800 XT Driver Downloads for Multiple Windows Versions (11, 10, 8, and 7)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722977896278-webcam-troubles-tune-up-your-windows-7-drivers-in-no-time-here/"><u>Webcam Troubles? Tune-Up Your Windows 7 Drivers in No Time Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/zen-5-cpu-revelation-the-new-ryzen-ai-eat-intels-and-apples-chips-for-breakfast-sets-high-passmark-records/"><u>Zen 5 CPU Revelation: The New Ryzen AI Eat Intel's and Apple's Chips for Breakfast, Sets High PassMark Records</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

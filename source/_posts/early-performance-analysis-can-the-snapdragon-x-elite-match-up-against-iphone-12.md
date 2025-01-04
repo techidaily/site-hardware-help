@@ -1,7 +1,7 @@
 ---
 title: "Early Performance Analysis: Can the Snapdragon X Elite Match Up Against iPhone 12?"
-date: 2024-08-19T10:44:42.784Z
-updated: 2024-08-20T10:44:42.784Z
+date: 2024-12-30T16:42:16.835Z
+updated: 2025-01-04T16:42:52.233Z
 tags:
   - laptop
 categories:
@@ -27,6 +27,10 @@ We cover many unique "because I felt like it" projects here at Tom's Hardware, b
 
  In more modern communications news,[Wi-Fi over three kilometers](https://tools.techidaily.com) was demonstrated with a real-time video call back in January. Windows[11 started adding support for Wi-Fi 7](https://tools.techidaily.com) back in February. All this progress means that most Wi-Fi routers in the world will be a free-for-all on the same few congested wireless channels unless configured properly. Some monsters and nerds out there still employ Morse code, a language with roots in the 1830s.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,8 +45,6 @@ We cover many unique "because I felt like it" projects here at Tom's Hardware, b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -50,8 +52,18 @@ We cover many unique "because I felt like it" projects here at Tom's Hardware, b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-comprehensive-guide-to-penning-appealing-vlog-narratives/"><u>2024 Approved A Comprehensive Guide to Penning Appealing Vlog Narratives</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722970930437-download-asrock-ab350-pro4-windows-drivers-complimentary-access-and-easy-setup-tips/"><u>Download ASRock AB350 Pro4 Windows Drivers - Complimentary Access and Easy Setup Tips!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-oneplus-11r-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost OnePlus 11R for Free? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-from-basic-to-breakthrough-a-youtube-live-thumbnail-journey/"><u>In 2024, From Basic to Breakthrough A YouTube Live Thumbnail Journey</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-ios-guide-to-stunning-time-lapse-cinematography/"><u>In 2024, IOS Guide to Stunning Time-Lapse Cinematography</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-join-the-social-gaming-movement-xbox-and-fb-livestreams/"><u>In 2024, Join the Social Gaming Movement Xbox & FB Livestreams</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/master-web-design-using-gpts-fourfold-expertise-and-tactics/"><u>Master Web Design Using GPT’s Fourfold Expertise and Tactics</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-guide-how-to-update-or-download-surface-book-2-drivers/"><u>Quick Guide: How to Update or Download Surface Book 2 Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/secure-your-perfect-audio-experience-microsoft-windows-drivers-downloads-available-now/"><u>Secure Your Perfect Audio Experience: Microsoft Windows Drivers Downloads Available Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-update-your-vga-drivers-for-enhanced-display-quality/"><u>Step-by-Step: Update Your VGA Drivers for Enhanced Display Quality</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->

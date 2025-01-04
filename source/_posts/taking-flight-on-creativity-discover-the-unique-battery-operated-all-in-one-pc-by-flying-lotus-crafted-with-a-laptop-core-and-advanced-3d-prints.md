@@ -1,7 +1,7 @@
 ---
 title: Taking Flight on Creativity - Discover the Unique Battery-Operated All-in-One PC by Flying Lotus, Crafted with a Laptop Core and Advanced 3D Prints
-date: 2024-08-19T10:46:44.388Z
-updated: 2024-08-20T10:46:44.388Z
+date: 2024-12-29T16:11:28.378Z
+updated: 2025-01-04T16:56:06.881Z
 tags:
   - laptop
 categories:
@@ -27,6 +27,10 @@ We cover many unique "because I felt like it" projects here at Tom's Hardware, b
 
  In more modern communications news,[Wi-Fi over three kilometers](https://tools.techidaily.com) was demonstrated with a real-time video call back in January. Windows[11 started adding support for Wi-Fi 7](https://tools.techidaily.com) back in February. All this progress means that most Wi-Fi routers in the world will be a free-for-all on the same few congested wireless channels unless configured properly. Some monsters and nerds out there still employ Morse code, a language with roots in the 1830s.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,8 +45,6 @@ We cover many unique "because I felt like it" projects here at Tom's Hardware, b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -50,8 +52,18 @@ We cover many unique "because I felt like it" projects here at Tom's Hardware, b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-chronicles-of-puzzles-vs-endless-adventure/"><u>[Updated] In 2024, Chronicles of Puzzles Vs. Endless Adventure</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-instructions-for-downloading-and-installing-atheros-network-drivers-in-windows/"><u>Complete Instructions for Downloading & Installing Atheros Network Drivers in Windows</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-the-ultimate-guide-to-picture-text-enhancement/"><u>In 2024, The Ultimate Guide to Picture Text Enhancement</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/major-chinese-telcos-transitioning-large-server-fleets-to-domestic-cpu-technology/"><u>Major Chinese Telcos Transitioning Large Server Fleets to Domestic CPU Technology</u></a></li>
+<li><a href="https://games-able.techidaily.com/nintendo-switch-unleashed-the-2p-minecraft-playbook/"><u>Nintendo Switch Unleashed: The 2P Minecraft Playbook</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/photo-editing-essentials-cut-out-unwanted-borders-smoothly/"><u>Photo Editing Essentials Cut Out Unwanted Borders Smoothly</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-terminating-unresponsive-programs-in-windows-11/"><u>Step-by-Step Guide: Terminating Unresponsive Programs in Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-comprehensive-guide/"><u>Tom's Tech Insights: Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-four-factors-holding-me-back-from-switching-to-an-iphone-16-pro-insights-from-a-current-iphone-14-user/"><u>Top Four Factors Holding Me Back From Switching to an iPhone 16 Pro - Insights From a Current iPhone 14 User</u></a></li>
+<li><a href="https://fox-info.techidaily.com/transforming-ordinary-to-extraordinary-with-engaging-tiktok-unboxings-for-2024/"><u>Transforming Ordinary to Extraordinary with Engaging TikTok Unboxings for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/usb-cam-connection-made-easy-get-the-right-drivers-today/"><u>USB Cam Connection Made Easy: Get the Right Drivers Today</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->

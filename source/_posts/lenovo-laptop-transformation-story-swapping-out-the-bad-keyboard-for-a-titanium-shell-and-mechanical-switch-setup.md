@@ -1,7 +1,7 @@
 ---
 title: "Lenovo Laptop Transformation Story: Swapping Out the Bad Keyboard for a Titanium Shell & Mechanical Switch Setup"
-date: 2024-08-19T10:45:44.197Z
-updated: 2024-08-20T10:45:44.197Z
+date: 2025-01-01T16:19:58.530Z
+updated: 2025-01-04T17:07:34.236Z
 tags:
   - laptop
 categories:
@@ -27,6 +27,10 @@ We cover many unique "because I felt like it" projects here at Tom's Hardware, b
 
  In more modern communications news,[Wi-Fi over three kilometers](https://tools.techidaily.com) was demonstrated with a real-time video call back in January. Windows[11 started adding support for Wi-Fi 7](https://tools.techidaily.com) back in February. All this progress means that most Wi-Fi routers in the world will be a free-for-all on the same few congested wireless channels unless configured properly. Some monsters and nerds out there still employ Morse code, a language with roots in the 1830s.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,8 +45,6 @@ We cover many unique "because I felt like it" projects here at Tom's Hardware, b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -50,8 +52,17 @@ We cover many unique "because I felt like it" projects here at Tom's Hardware, b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-5-best-snipping-tool-for-chromebook-for-2024/"><u>[New] 5 Best Snipping Tool For Chromebook for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-finding-opportunities-where-youtube-collaborations-thrive/"><u>[Updated] In 2024, Finding Opportunities Where YouTube Collaborations Thrive</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-loop-creator-pro/"><u>[Updated] In 2024, Loop Creator Pro</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/buyer-criticizes-intel-for-misleading-rma-protocol-claims-i9-14900k-processors-from-amazon-and-micro-center-are-not-authentic/"><u>Buyer Criticizes Intel for Misleading RMA Protocol; Claims I9-14900K Processors From Amazon and Micro Center Are Not Authentic</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-oppo-find-x7-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-graphics-card-software-rtx-3060-ti-drivers-for-window-11-devices/"><u>Get the Newest Graphics Card Software: RTX 3060 Ti Drivers for Window 11 Devices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-troubleshoot-and-fix-finals-failure-to-launch-a-comprehensive-guide/"><u>How to Troubleshoot and Fix Finals Failure to Launch : A Comprehensive Guide</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-s-hottest-bokeh-effect-apps-for-mobile-photography/"><u>New S Hottest Bokeh Effect Apps for Mobile Photography</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-essential-resource-for-computer-enthusiasts-exploring-toms-hardware-reviews/"><u>The Essential Resource for Computer Enthusiasts: Exploring Tom's Hardware Reviews</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-latest-in-computing-a-guide-by-toms-hardware/"><u>Unveiling the Latest in Computing - A Guide by Tom's Hardware</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->

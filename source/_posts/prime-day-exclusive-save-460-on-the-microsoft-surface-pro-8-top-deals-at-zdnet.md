@@ -1,7 +1,7 @@
 ---
 title: "Prime Day Exclusive: Save $460 on the Microsoft Surface Pro 8 | Top Deals at ZDNet"
-date: 2024-12-24T19:20:22.076Z
-updated: 2024-12-25T23:59:19.242Z
+date: 2024-12-31T16:16:25.202Z
+updated: 2025-01-04T16:13:45.412Z
 tags:
   - laptops
 categories:
@@ -23,10 +23,6 @@ We've gone hands-on with dozens of laptops this year, and scoured the internet f
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The best laptop deals for Amazon Prime Day 2024
 
@@ -87,6 +83,10 @@ Asus/ZDNET
 * [Asus Chromebook Plus CX34 for $432](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Chromebook-1920x1080-Processor-CX3402CBA-DH386-WH%2Fdp%2FB0CGJGZZ1L%2Fref%3Dsxin%5F15%5Fpa%5Fsp%5Fsearch%5Fthematic%5Fsspa%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): Asus' stylish CX34 Chromebook Plus comes with a bit more local storage than most Chromebooks (256GB) as well as an ultra-thin form factor and over 10 hours of battery life.
 * [HP Chromebook 14 for $189 (Save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Chromebook-Graphics-Keyboard-14a-na0226nr%2Fdp%2FB09SVSBVP1%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): It doesn't get much more budget than this. HP's 14-inch Chromebook comes with just 4GB of RAM, so it's perfect as a backup machine or secondary travel device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Prime Day MacBook deals
 
 Kyle Kucharski/ZDNET
@@ -96,7 +96,7 @@ Kyle Kucharski/ZDNET
 * [Apple MacBook Pro (M3) for $1,400 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core%2Fdp%2FB0CM5JV268%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): The [MacBook Pro (M3)](https://www.zdnet.com/article/m3-macbook-pro-buying-advice/) is one of the best-performing laptops on the market, and it's $200 off -- make sure you add the coupon offer on the page.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Prime Day HP laptop deals
@@ -106,6 +106,10 @@ HPZDNET
 * [HP Envy x360 2-in-1 for $845 (save $50)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-2-1-Touch-Screen-i7-16GB%2Fdp%2FB0CZ37N6DL%2Fref%3Dsr%5F1%5F3%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): We recently had a chance to go [hands-on with HP's newest version of the Envy x360 2-in-1](https://www.zdnet.com/article/ive-tested-dozens-of-2-in-1-laptops-this-one-hits-all-the-right-marks/), and praised the laptop for its gorgeous display and all-around optimization. If that laptop looked interesting to you, but you want to save some money, the previous version is on sale on Amazon for just $845 for the 16GB, 2TB version.
 * [HP Victus 15.6-inch laptop for $599 (Save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Display-i5-12450H-Dedicated-15-fa1029nr%2Fdp%2FB0CVNJ7LLN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): This is a great price for a 15-inch laptop designed for cloud gaming and light creative work. It's got an Nvidia GeForce RTX 2050 dedicated graphics card and a144Hz Full-HD display.
 * [HP 14 inch Laptop for $349 (Save $120)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Generation-i3-1215U-Graphics-14-dq5009nr%2Fdp%2FB0CS3XPZNH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1): This budget laptop features a modest suite of hardware but covers all the basics for an inexpensive but capable and portable machine.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Prime Day Lenovo deals
 
@@ -138,30 +142,26 @@ Kyle Kucharski/ZDNET
 Amazon Prime Day officially ran from July 16 to July 17, but sometimes deals continue afterward.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the best gaming laptop deal on Prime Day?
 
 There are a lot of great gaming laptops on sale right now, but in our opinion, [this deal on the Razer Blade 16](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRazer-Blade-Gaming-Laptop-4090-13th%2Fdp%2FB0BQP1WCP4%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd672964-d2e5-45ef-bf77-12fbd28bea2f%7Cdtp&dtb=1) is the best. We're talking $1,000 off one of the most high-end gaming laptops on the market, with hardware that is future-proofed to be relevant for years to come. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Is Amazon Prime Day a good time to buy a laptop?
 
 Even though Amazon isn't typically the first place you think of when you're shopping for a new laptop, there are some great deals that pop up if you're willing to look. We've thoroughly combed through the deals to find some diamonds in the rough, and listed the best ones here.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How did we choose these Prime Day deals?
 
 At ZDNET, we only write about deals our team members would want to buy -- devices and products we desire, need, or would recommend. We looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops.
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we recommend. These recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### When will these deals expire?
 
@@ -230,14 +230,24 @@ And the best deals still available from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-elite-eight-camera-line-up-for-professional-cinematography-for-2024/"><u>[Updated] Elite Eight Camera Line-Up for Professional Cinematography for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-motorola-edgeplus-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Motorola Edge+ (2023) | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/boost-your-computers-functionality-windows-1update-and-integrate-conexant-drivers-today/"><u>Boost Your Computer's Functionality: Windows 1^Update and Integrate Conexant Drivers Today</u></a></li>
-<li><a href="https://solve-info.techidaily.com/discovering-lena-the-journey-of-a-prolific-author/"><u>Discovering Lena: The Journey of a Prolific Author</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ess-time-logging-on-youtube-desktopmobile-for-2024/"><u>Seamless Time Logging on YouTube (Desktop/Mobile) for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/successfully-overcoming-the-intel-dptf-driver-installation-hurdle/"><u>Successfully Overcoming the Intel DPTF Driver Installation Hurdle</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/swift-installation-of-hp-speaker-drivers-free-version-available/"><u>Swift Installation of HP Speaker Drivers - FREE Version Available</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-modern-hardware-by-toms-experts/"><u>The Ultimate Guide to Modern Hardware by Tom's Experts</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-repairing-errors-caused-by-malfunctioning-components-in-windows-1110/"><u>Troubleshooting & Repairing Errors Caused by Malfunctioning Components in Windows 11/10</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-navigating-the-square-wave-of-facebook-video-popularity/"><u>[New] 2024 Approved Navigating the Square Wave of Facebook Video Popularity</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-art-of-going-viral-with-instagram-stories/"><u>[New] In 2024, The Art of Going Viral with Instagram Stories</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-expedited-pitch-modification-tools-repository/"><u>[Updated] In 2024, Expedited Pitch Modification Tools Repository</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/affordable-macbook-models-on-the-horizon-apple-eyes-market-share-against-googles-chromebooks-tech-news/"><u>Affordable MacBook Models on the Horizon? Apple Eyes Market Share Against Google's Chromebooks | Tech News</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/avoid-hassles-simple-iphone-screen-sharing/"><u>Avoid Hassles Simple Iphone Screen Sharing</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/budget-friendly-computer-resurrects-past-technological-phenomenon-and-sparks-vibrant-industry-debate-insights-from-zdnet/"><u>Budget-Friendly Computer Resurrects Past Technological Phenomenon and Sparks Vibrant Industry Debate | Insights From ZDNET</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/conveniently-record-your-favorite-streams-top-5-grabber-apps/"><u>Conveniently Record Your Favorite Streams Top 5 Grabber Apps</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-best-of-copilotplus-gaming-and-non-gaming-laptops-debuted-at-ifa-2024-intriguing-insights/"><u>Discover the Best of Copilot+ Gaming & Non-Gaming Laptops Debuted at IFA 2024 | Intriguing Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-revolutionary-3d-art-visualization-with-asus-latest-laptop-models-no-vr-or-ar-glasses-needed-discover-on-zdnet/"><u>Experience Revolutionary 3D Art Visualization with Asus' Latest Laptop Models: No VR or AR Glasses Needed - Discover on ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-the-revolutionary-file-transfer-solution-from-apple-devices-to-new-lenovo-laptops-as-featured-on-zdnet/"><u>Experience the Revolutionary File Transfer Solution From Apple Devices to New Lenovo Laptops, as Featured on ZDNet</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-realme-10t-5g-to-mac-drfone-by-drfone-android/"><u>How to Mirror Realme 10T 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-delving-into-the-meaning-of-a-mysterious-blue-marker-in-fb-chats/"><u>In 2024, Delving Into the Meaning of a Mysterious Blue Marker in FB Chats</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-new-standard-how-does-av1-outperform-vp9/"><u>In 2024, The New Standard How Does AV1 Outperform VP9?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/maximize-your-studies-with-the-perfect-299-laptop-undergrads-need-insights/"><u>Maximize Your Studies with the Perfect $299 Laptop Undergrads Need - Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/overpromises-underdelivers-disappointing-reality-and-in-depth-review/"><u>Overpromises, Underdelivers, Disappointing Reality, and In-Depth Review.</u></a></li>
+<li><a href="https://games-able.techidaily.com/reverting-xbox-wireless-controls-on-s-and-x/"><u>Reverting Xbox Wireless Controls on S and X</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revolutionizing-gaming-how-top-pc-manufacturers-leverage-chromebook-power-insights/"><u>Revolutionizing Gaming: How Top PC Manufacturers Leverage Chromebook Power Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-unbeatable-portable-powerhouse-how-our-favorite-all-day-battery-laptop-defined-excellence-this-year-zdnet/"><u>The Unbeatable Portable Powerhouse: How Our Favorite All-Day Battery Laptop Defined Excellence This Year | ZDNet</u></a></li>
 </ul></div>
 

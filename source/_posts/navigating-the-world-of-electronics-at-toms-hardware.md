@@ -1,7 +1,7 @@
 ---
 title: Navigating the World of Electronics at Tom's Hardware
-date: 2024-08-19T10:46:37.936Z
-updated: 2024-08-20T10:46:37.936Z
+date: 2024-12-28T16:18:25.614Z
+updated: 2025-01-04T16:43:22.049Z
 tags:
   - laptop
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/e7AyjjRMozenetFLk9eQSP-320-80.jpg
 The SZBox DS16 is a 16-inch laptop[available from AliExpress](https://go.redirectingat.com/?id=92X1584492&xcust=tomshardware%5Fus%5F1205122597602329443&xs=1&url=https%3A%2F%2Fwww.aliexpress.us%2Fitem%2F3256806648016140.html&sref=https%3A%2F%2Fwww.tomshardware.com%2Flaptops%2Fthis-core-i5-12450h-laptop-trades-a-physical-keyboard-for-dual-16-inch-displays-and-costs-just-dollar710-on-aliexpress) with a relatively affordable $710 starting price point. However, the real reason it's garnering so much attention (first brought to light by[Liliputing](https://liliputing.com/this-dual-screen-laptop-has-two-touchscreen-displays-and-support-for-height-adjustments-but-lacks-a-physical-keyboard/) ) is due to its dual 16-inch 1200p IPS touch panel configuration.
 
  Below, we've charted the specifications of the SZBox DS16 and its two primary variations, which we'll be referring to as the Intel Core i5 and Core i7 models for clarity's sake.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## SZBox DS16 Dual Screen Laptop Core Specs
 
@@ -37,9 +41,17 @@ The SZBox DS16 is a 16-inch laptop[available from AliExpress](https://go.redirec
 
 ![SZBox DS16](https://cdn.mos.cms.futurecdn.net/XXxLAnUWrMrCacNrJh5DWi-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: AliExpress)
 
  With a starting price of just over $700, the base Core i5 model is roughly $800 cheaper than the[Asus Zenbook Duo](https://tools.techidaily.com) (even the upgraded DS16 Core i7 model only costs $1,000, which still undercuts the entry from Asus). However, the Zenbook Duo features dual 14-inch OLED displays, a newer Intel Core Ultra 7 processor, and is nearly three pounds lighter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
@@ -55,8 +67,6 @@ The SZBox DS16 is a 16-inch laptop[available from AliExpress](https://go.redirec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -64,8 +74,16 @@ The SZBox DS16 is a 16-inch laptop[available from AliExpress](https://go.redirec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-silent-snaptaking-the-art-of-concealed-picture-recording/"><u>[New] In 2024, Silent SnapTaking The Art of Concealed Picture Recording</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-from-followers-to-fans-a-guide-to-thriving-instagram-presence/"><u>[Updated] In 2024, From Followers to Fans A Guide to Thriving Instagram Presence</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asus-monitor-driver-download-fast-and-simple-steps/"><u>ASUS Monitor Driver Download: Fast and Simple Steps</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-cutting-edge-devices-at-toms-hardware-hub/"><u>Exploring Cutting-Edge Devices at Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-ensure-optimal-performance-refreshing-the-drivers-of-your-corsair-speaker-setup-in-windows/"><u>How to Ensure Optimal Performance: Refreshing the Drivers of Your Corsair Speaker Setup in Windows</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-phantom-slow-motion-masterclass/"><u>In 2024, Phantom Slow Motion Masterclass</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/regular-maintenance-testing-and-drills-are-essential-to-maintain-the-functionality-and-effectiveness-of-fire-suppression-systems-over-time/"><u>Regular Maintenance, Testing, and Drills Are Essential to Maintain the Functionality and Effectiveness of Fire Suppression Systems over Time</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-itel-p40-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Itel P40</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/speedy-sketching-techniques-for-fortnite-tiles/"><u>Speedy Sketching Techniques for Fortnite Tiles</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->

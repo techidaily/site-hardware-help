@@ -1,7 +1,7 @@
 ---
 title: "From the Past to Present: A New Lease on Life for the Iconic 1994 PowerBook - Enhanced with a Sleek iPad Screen and Advanced MacBook Pro Hardware"
-date: 2024-08-19T10:43:51.780Z
-updated: 2024-08-20T10:43:51.780Z
+date: 2024-12-28T17:11:56.094Z
+updated: 2025-01-04T16:37:04.297Z
 tags:
   - laptop
 categories:
@@ -27,6 +27,10 @@ DeepComputing, the maker of the DC-ROMA RISC-V Laptop, just released an upgrade 
 
  These sanctions have forced Chinese tech companies to look elsewhere for technologies, and[RISC-V’s open-source nature](https://tools.techidaily.com) is crucial for some of their plans. U.S.-imposed limitations have allowed the East Asian country to build innovative solutions based on this architecture. SiFive, the American semiconductor company behind the general-purpose cores of[Google](https://tools.techidaily.com) ’s TPUs, even[chose the faster Chinese Eswin SoC instead of an Intel processor](https://tools.techidaily.com) for its HiFive Premier P550 development board.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -45,8 +49,6 @@ DeepComputing, the maker of the DC-ROMA RISC-V Laptop, just released an upgrade 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -54,8 +56,20 @@ DeepComputing, the maker of the DC-ROMA RISC-V Laptop, just released an upgrade 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-how-to-captivate-with-instagrams-live-feature/"><u>[Updated] How to Captivate with Instagram's Live Feature</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-shutter-speed-mastery-for-chromebook-users-method-4/"><u>[Updated] Shutter Speed Mastery for Chromebook Users (Method #4)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1-ideal-operating-temperatures-for-modern-graphics-cards-understanding-safe-heat-levels/"><u>1. Ideal Operating Temperatures for Modern Graphics Cards: Understanding Safe Heat Levels</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-quick-ways-to-transfer-contacts-from-apple-iphone-xs-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>4 Quick Ways to Transfer Contacts from Apple iPhone XS to iPhone With/Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asus-rog-ally-compatible-with-valves-steamos-a-perfect-match-for-gamers/"><u>ASUS ROG Ally Compatible with Valve's SteamOS: A Perfect Match for Gamers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/beyond-coding-daily-life-applications-of-keyboard-macros/"><u>Beyond Coding: Daily Life Applications of Keyboard Macros</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/building-a-robust-supply-network-the-role-of-intelligent-processes-in-blueprints-expert-advice-from-abbyy-experts/"><u>Building a Robust Supply Network: The Role of Intelligent Processes in Blueprints | Expert Advice From ABBYY Experts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/can-microsofts-artificial-intelligence-revive-the-windows-mobile-experience/"><u>Can Microsoft's Artificial Intelligence Revive the Windows Mobile Experience?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-honor-100-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-elgato-stream-deck-neo-keyboard-controller-analysis-simplifying-your-streaming-experience-with-universal-shortcuts/"><u>Comprehensive Elgato Stream Deck Neo Keyboard Controller Analysis – Simplifying Your Streaming Experience with Universal Shortcuts</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-covert-calls-chroniclers-top-secret-audio-gadgets-androidios/"><u>In 2024, Covert Calls Chroniclers Top-Secret Audio Gadgets (Android/iOS)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Oppo A1 5G? | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/learn-german-expressions-top-25-selection/"><u>Learn German Expressions - Top 25 Selection</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->

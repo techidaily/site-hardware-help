@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Game-Changer: Lenovo’s Dual-Screen Laptop Enhances Work Efficiency, According to ZDNet"
-date: 2024-12-23T07:13:57.277Z
-updated: 2024-12-26T00:12:45.344Z
+date: 2024-12-28T16:58:23.190Z
+updated: 2025-01-04T16:52:18.900Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Kerry Wan/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -40,10 +44,6 @@ A laptop with two screens is perhaps one of the tamest designs it has come up wi
 
 It's given me a chance to revisit the idea of having two screens on my laptop, and once again, it's tempting me to switch away from my boring-in-comparison MacBook Pro.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Specifications (as reviewed)
 
 | Dimensions            | 11.78 x 8.03 x 0.63 inches                                                                                                                                                                                                                                                                            |
@@ -57,6 +57,10 @@ It's given me a chance to revisit the idea of having two screens on my laptop, a
 | Price                 | Starting at [$1,980](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-12-Core-i7-1360P-Fingerprint-Thunderbolt4%2Fdp%2FB0CR9S1KFL%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7720f040-ecee-4f18-b2a4-d4eddb365f24%7Cdtp&dtb=1) |
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Living with a dual-screen laptop
 
@@ -79,7 +83,7 @@ There's a lot that the dual-screen design of the Yoga Book 9i enables, and the v
 Switching back to my single-screen MacBook Pro was, to put it lightly, tough. I missed having all the extra screen real estate and the ability to have two full documents open side-by-side while writing. I felt limited in a way that I wasn't expecting, which says a lot about how effective Lenovo's dual-screen design is.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does it perform?
@@ -103,7 +107,7 @@ To power the Yoga Book 9i, Lenovo includes an 80W battery that's rated for about
 Charging the laptop is as straightforward as it comes. There's a Rapid Charge adapter in the box that gives you about two hours of runtime with just 15 minutes of charging. I found this mostly to be true, although you have to shut the lid if you want charging speeds to really pick up.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Evaluating Lenovo's dual-screen software
@@ -126,10 +130,6 @@ It's weird; I've had apps like Chrome and Spotify show up on the lower display w
 
 I'll give Lenovo credit, the new Yoga Book 9i feels smoother than the old one did. I don't notice as much scruff or weird glitches with the software, and the bundled Bluetooth keyboard doesn't produce nearly as many double-key entries as before. Still, it's not a perfect experience, which is something to keep in mind if you're going to spend $2,000 on a laptop.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## One thing to keep in mind
 
 Having a laptop with two screens means you'll have to lug around a separate keyboard, mouse, and kickstand, all three of which (plus a stylus) come in the box. It's a lot of separate things you have to remember to bring, and I'm going to be honest with you, it can be inconvenient.
@@ -141,7 +141,7 @@ When I'm working on my MacBook or -- quite frankly -- any other laptop in my ars
 Of course, you'll eventually get used to it, but it'll never be as convenient as shutting your laptop lid and moving on with your day.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -182,22 +182,16 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/60-video-editors-how-to-upload-360-video-to-youtube-for-2024/"><u>[New] 360 Video Editors How to Upload 360 Video to YouTube for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/op-rated-hardware-review-essential-capture-cards-for-online-viewing/"><u>[New] Top-Rated Hardware Review Essential Capture Cards for Online Viewing</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-uncharted-territories-in-video-streamer-realm/"><u>[New] Uncharted Territories in Video Streamer Realm</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/boost-your-gaming-fsps-2500w-psu-powers-up-to-four-monster-rtx-4090-graphics-cards/"><u>Boost Your Gaming: FSP's 2500W PSU Powers Up to Four Monster RTX 4090 Graphics Cards</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-top-gear-analysis-with-toms-hardware-hub/"><u>Discover Top Gear Analysis with Tom's Hardware Hub</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/evolving-tech-talk-6-ways-to-leverage-chatgpts-conductor/"><u>Evolving Tech Talk - 6 Ways to Leverage ChatGPT's Conductor</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-computer-gear-with-tom-in-depth-guides-on-cutting-edge-hardware/"><u>Exploring Computer Gear with Tom: In-Depth Guides on Cutting-Edge Hardware</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/improved-power-supply-units-incorporate-upgraded-600w-interface-to-support-future-ready-gpus-update/"><u>Improved Power Supply Units Incorporate Upgraded 600W Interface to Support Future-Ready GPUs (Update)</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-honor-magic-6-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Honor Magic 6 Phone? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Honor Magic 5 Lite | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-new-electronics-with-tom-in-depth-hardware-analysis/"><u>Navigating New Electronics with Tom: In-Depth Hardware Analysis</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-best-mac-video-editing-programs-for-beginners-and-pros/"><u>New In 2024, The Best Mac Video Editing Programs for Beginners and Pros</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-reviews-comprehensive-gadget-analysis/"><u>Tom's Tech Reviews: Comprehensive Gadget Analysis</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/unleashing-youtube-profits-non-ad-revenue-techniques-for-growth-for-2024/"><u>Unleashing YouTube Profits Non-Ad Revenue Techniques for Growth for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unlocking-technology-secrets-with-toms-hardware-insights-comprehensive-guides-and-comparisons/"><u>Unlocking Technology Secrets with Tom's Hardware Insights - Comprehensive Guides and Comparisons</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/up-to-1300-watt-performance-exploring-cooler-masters-high-capacity-v-series-and-its-x-silent-fanless-psus/"><u>Up to 1300-Watt Performance: Exploring Cooler Master's High Capacity V Series and Its X Silent Fanless PSUs</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/utilize-picture-in-picture-mode-efficiently-in-safari/"><u>Utilize Picture In Picture Mode Efficiently in Safari</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-craft-your-first-short-film-with-windows-8-movie-maker-for-2024/"><u>[New] Craft Your First Short Film with Windows 8 Movie Maker for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/cutting-edge-tools-for-efficient-twitch-vod-extraction/"><u>Cutting-Edge Tools for Efficient Twitch VOD Extraction</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/deepcool-assassin-4s-cooler-evaluation-silent-and-powerful-performance/"><u>DeepCool Assassin 4S Cooler Evaluation: Silent and Powerful Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-latest-asus-xonar-dgx-audio-driver-step-by-step-guide/"><u>Download the Latest ASUS Xonar DGX Audio Driver: Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-ways-to-update-your-ati-radeon-video-drivers-in-microsoft-windows-os/"><u>Easy Ways to Update Your ATI Radeon Video Drivers in Microsoft Windows OS</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-apple-iphone-14-plus-by-drfone-ios/"><u>How To Change Your Apple ID Password On your Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-upgrade-your-amd-video-driver-for-enhanced-cryptocurrency-mining-in-windows/"><u>How to Upgrade Your AMD Video Driver for Enhanced Cryptocurrency Mining in Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/macbook-showdown-deciding-on-the-ideal-apple-machine-for-you-pro-or-air-insider-tips-from-zdnets-latest-review/"><u>MacBook Showdown: Deciding on the Ideal Apple Machine for You - Pro or Air? Insider Tips From ZDNET's Latest Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/speed-up-your-pc-quick-asus-z370-e-driver-setup-tutorials-and-downloads/"><u>Speed Up Your PC: Quick Asus Z370-E Driver Setup Tutorials & Downloads</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-and-resolving-windows-code-28-issues-a-step-by-step-guide/"><u>Troubleshooting and Resolving Windows Code 28 Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/why-mobile-banking-is-essential-insights-from-an-abbyy-perspective/"><u>Why Mobile Banking Is Essential: Insights From an ABBYY Perspective</u></a></li>
 </ul></div>
 

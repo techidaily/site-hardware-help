@@ -1,7 +1,7 @@
 ---
 title: "Cyber Monday Sale Alert: Snag an HP Pavilion for Just $450, Marked Down to Half Price on Black Friday's Best Tech Bargains - Featured"
-date: 2024-11-29T22:18:19.592Z
-updated: 2024-12-05T06:19:26.551Z
+date: 2024-12-29T17:20:40.728Z
+updated: 2025-01-04T16:23:45.169Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an AMD Radeon RX 6550M graphics card and a screen capable of a 144Hz
 With 8GB of RAM, a 512GB SSD, and an AMD Ryzen 5 7000 series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,21 +63,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-boost-video-velocity-top-android-helpers/"><u>[New] Boost Video Velocity - Top Android Helpers</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-unleashing-creativity-capturing-and-editing-impressive-videos-in-adobe-connect/"><u>[New] In 2024, Unleashing Creativity Capturing & Editing Impressive Videos in Adobe Connect</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-perfect-audio-the-10-premier-podcast-mics/"><u>[New] Perfect Audio The 10 Premier Podcast Mics</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-craft-individual-humor-masterpieces-online/"><u>[Updated] 2024 Approved Craft Individual Humor Masterpieces Online</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-ultimate-list-most-compelling-zombie-themed-video-games/"><u>[Updated] In 2024, Ultimate List Most Compelling Zombie-Themed Video Games</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-step-into-the-world-of-text-animation-14-must-see-examples/"><u>[Updated] Step Into the World of Text Animation 14 Must-See Examples</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-master-the-art-of-video-crafting-integrating-storyremix-with-windows-11-photos/"><u>2024 Approved Master the Art of Video Crafting Integrating StoryRemix with Windows 11 Photos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-deep-dive-into-ai-powered-creativity-and-industry-applications/"><u>A Deep Dive Into AI-Powered Creativity & Industry Applications</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-epson-gt-s50-driver-for-windows-7810/"><u>Download Epson GT S50 Driver for Windows 7/8/10</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-linksys-ae2500-wifi-router-software-now/"><u>Download Linksys AE2500 WiFi Router Software Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/freshly-released-nvidia-quadro-rtx-driver-update-supports-win-10-8-7/"><u>Freshly Released: Nvidia Quadro RTX Driver Update - Supports Win 10, 8, 7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-update-wi-fi-drivers-in-windows-11-and-windows-10/"><u>How to Update Wi-Fi Drivers in Windows 11 and Windows 10</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mediatek-usb-driver-downloads-made-simple-and-fast/"><u>MediaTek USB Driver Downloads Made Simple and Fast</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/selecting-the-vice-president/"><u>Selecting the Vice-President</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/speedy-installation-secure-your-pioneer-dj-ddj-sx2-device-drivers-today/"><u>Speedy Installation: Secure Your Pioneer DJ DDJ-SX2 Device Drivers Today</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/troubleshooting-successfully-moving-images-from-old-device-to-iphone-15-or-14/"><u>Troubleshooting: Successfully Moving Images From Old Device to iPhone 15 or 14</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-step-by-step-adding-a-flurry-of-images-and-videos-to-your-ig-story/"><u>[New] 2024 Approved Step-by-Step Adding a Flurry of Images & Videos to Your IG Story</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/huckle-chest-selecting-15-hilarious-video-treasures-for-your-viewing-pleasure-for-2024/"><u>[New] Chuckle Chest Selecting 15 Hilarious Video Treasures for Your Viewing Pleasure for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-best-6-social-media-platforms-for-business/"><u>[New] In 2024, Best 6 Social Media Platforms for Business</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/product-name-the-revolutionary-accessory-for-upgrading-to-dual-twin-4k-displays-on-any-laptop-regardless-of-inbuilt-capabilities-zdnet/"><u>[Product Name]: The Revolutionary Accessory for Upgrading to Dual Twin 4K Displays on Any Laptop, Regardless of Inbuilt Capabilities | ZDNET</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-delving-into-virtual-realms-a-basic-guide-for-2024/"><u>[Updated] Delving Into Virtual Realms A Basic Guide for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-standard-to-superior-adding-srt-to-mp4-videos/"><u>2024 Approved From Standard to Superior Adding SRT to MP4 Videos</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-oneplus-ace-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/a-week-with-an-ergonomic-split-keyboard-how-one-change-revolutionized-my-pc-setup-techradar/"><u>A Week with an Ergonomic Split Keyboard: How One Change Revolutionized My PC Setup | TechRadar</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-latest-in-pc-components-with-toms-hardware/"><u>Discover the Latest in PC Components with Tom’s Hardware</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-next-gen-tech-with-ar-lapsops-get-yourself-the-monitorless-100-screen-computer-a-revolutionary-step/"><u>Experience Next-Gen Tech with AR Lapsops: Get Yourself the Monitorless 100'' Screen Computer - A Revolutionary Step .</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-unparalleled-audio-top-rated-gaming-speakers-now-discounted-on-amazon-insights-from-a-seasoned-reviewer/"><u>Experience Unparalleled Audio: Top-Rated Gaming Speakers Now Discounted on Amazon - Insights From a Seasoned Reviewer</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-apple-iphone-13-mini-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>How to Bypass Apple iPhone 13 mini Passcode Easily Video Inside | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/is-the-lenovo-yoga-book-9i-the-breakthrough-for-dual-screen-laptop-innovation-weve-been-waiting-for-explore/"><u>Is the Lenovo Yoga Book 9I the Breakthrough for Dual-Screen Laptop Innovation We've Been Waiting For? - Explore</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/meta-quest-3-the-top-of-the-line-virtual-reality-headset-at-an-irresistible-price-insider-deal-analysis/"><u>Meta Quest 3: The Top-of-the-Line Virtual Reality Headset at an Irresistible Price | Insider Deal Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-through-change-how-workplace-technology-will-transform-in-response-to-ai-progress-a-deep-dive-by-zdnet/"><u>Navigating Through Change: How Workplace Technology Will Transform in Response to AI Progress – A Deep Dive by ZDNET</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-zte-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to ZTE FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-picks-most-unbeatable-laptop-offers-in-july-2024-spotted/"><u>Top Picks: Most Unbeatable Laptop Offers in July 2024 - Spotted</u></a></li>
 </ul></div>
 

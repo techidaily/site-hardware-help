@@ -1,7 +1,7 @@
 ---
 title: "Surpassing the MacBook Air: The Microsoft Surface Laptop Copilot+ PC Excellence Tested and Reviewed by ZDNet Experts"
-date: 2024-12-20T08:09:52.798Z
-updated: 2024-12-25T19:59:49.628Z
+date: 2025-01-03T16:10:19.509Z
+updated: 2025-01-04T17:30:44.869Z
 tags:
   - laptops
 categories:
@@ -33,7 +33,7 @@ You'll hear and see more about these branded laptops over the coming weeks, mont
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. More seamless on-device AI features
@@ -51,7 +51,7 @@ Having a dedicated Copilot key certainly adds to this burdenless experience. As 
 Perhaps the most important aspect of these new Copilot+ AI features is that they operate [on-device](https://www.zdnet.com/article/5-top-mobile-trends-in-2024-on-device-ai-the-new-smartphone-and-more/#:~:text=to%20take%20shape.-,1.%20On%2Ddevice%20AI%20puts%20the%20%27smart%27%20in%20smartphone,-The%20new%20Samsung) \-- based on local data, providing more private, secure, and faster processing capabilities. To everyday users, this may not be as significant. If, however, keeping your personal data protected (and away from any [remote cloud servers](https://www.zdnet.com/article/ai-is-changing-cybersecurity-and-businesses-must-wake-up-to-the-threat/)) is a priority, you'll feel a little better using the AI features on these new Copilot+ PCs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Windows Hello feels faster than ever
@@ -67,7 +67,7 @@ Comparing my M3 MacBook Air with the Surface Laptop is not exactly an apples-to-
 The best part is that Windows Hello automatically triggers when I lift the laptop lid open, and it's able to scan my face even in dimmer environments thanks to the IR camera.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Touchscreen support
@@ -83,7 +83,7 @@ For example, the new Cocreator tool in Paint requires you to both write a prompt
 While I've always found touchscreen functionality to be more beneficial on larger screens, using the smaller [13.8-inch Surface Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Touchscreen-Snapdragon-Sapphire%2Fdp%2FB0CXKYTQS2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc9919522-685b-4aa9-983b-c7ff321ae869%7Cdtp&dtb=1) feels more like a 2-in-1 tablet. When my typing space is confined, like on a bus, plane, or crowded café, being able to simply reach over and tap, swipe, and drag elements on the screen is very helpful and intuitive. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bonus: Benchmarks (for now)
@@ -125,22 +125,18 @@ For the following benchmark tests, the higher the score, the better.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-twist-and-turn-tales-transforming-visual-content-on-instagram-platforms/"><u>[New] 2024 Approved Twist and Turn Tales Transforming Visual Content on Instagram Platforms</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-tailored-interventions/"><u>[New] In 2024, Tailored Interventions</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-quick-tips-for-ios-screen-record/"><u>[Updated] 2024 Approved Quick Tips for iOS Screen Record</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-highlighting-key-developments-in-windows-movie-maker-releases/"><u>2024 Approved Highlighting Key Developments in Windows Movie Maker Releases</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-infinix-smart-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Infinix Smart 7 | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/affordable-logitech-f710-blamed-in-court-for-role-in-deep-sea-explorers-disaster/"><u>Affordable Logitech F710 Blamed in Court for Role in Deep-Sea Explorer's Disaster</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/cable-matters-unveils-revolutionary-23-thunderbolt-5-with-120gbps-and-240w-power-shop-the-worlds-first-superfast-charger-now/"><u>Cable Matters Unveils Revolutionary $23 Thunderbolt 5 with 120Gbps & 240W Power: Shop the World's First Superfast Charger Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-tech-with-tom-in-depth-hardware-analysis/"><u>Exploring Tech with Tom: In-Depth Hardware Analysis</u></a></li>
-<li><a href="https://win-news.techidaily.com/how-to-troubleshoot-a-frozen-or-crashed-pc-expert-advice-from-yl-computings-software-solutions/"><u>How to Troubleshoot a Frozen or Crashed PC: Expert Advice From YL Computing's Software Solutions</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-the-ultimate-guide-to-valorant-video-thumbnail-artistry/"><u>In 2024, The Ultimate Guide to Valorant Video Thumbnail Artistry</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/low-cost-controller-implicated-in-legal-claims-of-submersible-titan-incident-involving-logitech-device/"><u>Low-Cost Controller Implicated in Legal Claims of Submersible Titan Incident Involving Logitech Device</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/over-a-dozen-wells-fargo-staff-sacked-for-cheating-the-system-with-screen-clicking-tools-and-virtual-keyboards/"><u>Over a Dozen Wells Fargo Staff Sacked for Cheating the System with Screen Clicking Tools & Virtual Keyboards</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722976100171-realtek-hardware-support-pack-for-windows-10-free-download-now/"><u>Realtek Hardware Support Pack for Windows 10 - FREE Download Now</u></a></li>
-<li><a href="https://extra-support.techidaily.com/reverberation-artisan-collection-for-2024/"><u>Reverberation Artisan Collection for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-computer-gear-by-tom-in-depth-analysis-and-ratings/"><u>The Ultimate Guide to Computer Gear by Tom - In-Depth Analysis & Ratings</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-guru-the-ultimate-guide-to-computer-components/"><u>Tom's Tech Guru: The Ultimate Guide to Computer Components</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-reviews-in-depth-analysis-and-performance-breakdown/"><u>Tom's Tech Reviews: In-Depth Analysis and Performance Breakdown</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-discovering-the-top-tools-for-engaging-video-beginnings/"><u>[Updated] 2024 Approved Discovering the Top Tools for Engaging Video Beginnings</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/canon-dr-c225-driver-download-for-windows-operating-systems-windows-11-10-and-8/"><u>Canon DR-C225 Driver Download for Windows Operating Systems - Windows 11, 10 & 8</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-tutorial-for-reinstalling-intel-centrino-apro-wireless-n-4905agn-drivers-on-your-pc/"><u>Complete Tutorial for Reinstalling Intel Centrino A/Pro Wireless - N 4905AGN Drivers on Your PC</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/effortless-ways-to-transform-your-prezi-presentation-into-a-watchable-video-and-distribute-it-easily/"><u>Effortless Ways to Transform Your Prezi Presentation Into a Watchable Video & Distribute It Easily</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722957373535-effortlessly-update-to-latest-asrock-ab350-pro4-drivers-free-downloads-here/"><u>Effortlessly Update to Latest ASRock AB350 Pro4 Drivers - Free Downloads Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-gaming-with-updated-acer-predator-helios-300-graphics-driver-upgrades/"><u>Enhance Your Gaming with Updated Acer Predator Helios 300 Graphics Driver Upgrades</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-acer-display-software-get-your-latest-drivers-here/"><u>Free Acer Display Software - Get Your Latest Drivers Here</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-oculus-drivers-download-for-windows-11-10-8-and-7/"><u>Get the Latest Oculus Drivers - Download for Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-nokia-c12-plus-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Nokia C12 Plus Without PUK Codes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installation-guide-and-software-downloads-for-brother-hl-l2380dw-on-pc/"><u>Installation Guide & Software Downloads for Brother HL-L2380DW on PC</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-itel-a60-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Itel A60</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ring-the-art-of-design-selecting-ideal-dimensions-for-yt-branding/"><u>Mastering the Art of Design Selecting Ideal Dimensions for YT Branding</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/uncover-the-root-of-your-device-driver-issues-expert-insights-from-yl-computing/"><u>Uncover the Root of Your Device Driver Issues: Expert Insights From YL Computing</u></a></li>
 </ul></div>
 

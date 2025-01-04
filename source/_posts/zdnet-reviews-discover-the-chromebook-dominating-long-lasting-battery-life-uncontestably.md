@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Reviews: Discover the Chromebook Dominating Long-Lasting Battery Life Uncontestably!"
-date: 2024-12-13T16:29:23.323Z
-updated: 2024-12-17T16:36:56.434Z
+date: 2025-01-02T16:20:39.916Z
+updated: 2025-01-04T17:03:26.241Z
 tags:
   - laptops
 categories:
@@ -34,10 +34,6 @@ When Chromebooks first arrived, it took a while for everyone to understand a dev
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best Chromebooks in 2022 These Chromebook laptops feature low prices and long battery lives.  Read now](https://www.zdnet.com/article/best-chromebook-laptop/)
@@ -53,7 +49,7 @@ Acer's Chromebook 516 GE aims to be the ideal device for those cloud services by
 **Also:** [**The 5 best Chromebooks for students**](https://www.zdnet.com/article/best-chromebook-for-students/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -70,7 +66,7 @@ Acer's Chromebook 516 GE aims to be the ideal device for those cloud services by
 | Dimensions and weight | 356.58 (W) x 249.67 (D) x 21.3 (H) mm (14.04 x 9.83 x 0.84 inches) \| 3.75lbs                                                    |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Build and ports
@@ -104,6 +100,10 @@ The included charger is on the large side for a Chromebook power supply.
 Michael Gariffo/ZDNET
 
 While everything else about the Chromebook felt premium, the charger was contrastingly generic. It did its job of topping up the 65Wh, 9-hour battery well and quickly, but it's larger than you'd expect, and looked a bit dated compared with most other high-end Chromebook models. I opted to use a more compact 140W entry in the [Ugreen GaN charger line](https://www.zdnet.com/home-and-office/smart-office/ugreens-gan-chargers-are-smaller-mightier-and-cooler-than-yours/) during most of my testing. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Performance
 
@@ -150,7 +150,7 @@ Hopefully future updates will bring the performance of Xbox cloud gaming closer 
 [Acer Chromebook 516 GE $559.95 at Walmart](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F1414639532&subId1=zd-__COM_CLICK_ID__-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -166,7 +166,7 @@ Just like all Chromebooks, gaming Chromebooks live or die on the quality of clou
 The saving grace here is that Acer and Nvidia have proven that cloud-based gaming is at the point where relatively inexpensive devices, like a high-end Chromebook, can compete with $1,000-plus machines, at least for just about everyone aside from ultra-competitive, first-person shooter fans. Now we just have to see how long it takes everyone else to catch up or surpass them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -213,18 +213,24 @@ Perhaps an odd fit as an alternative, but Valve's Steam Deck is a different take
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-vmix-os-transcendence-software-for-2024/"><u>[Updated] VMix OS Transcendence Software for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-decoding-the-detailed-workings-of-samsung-photo-editor-app/"><u>2024 Approved Decoding the Detailed Workings of Samsung Photo Editor App</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/2024-approved-top-5-tiktok-voice-generators-you-should-try/"><u>2024 Approved Top 5 TikTok Voice Generators You Should Try</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-new-software-for-brother-l2370dw-printers-easily-now/"><u>Download & Install New Software for Brother L2370DW Printers Easily Now</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-asus-rog-phone-7-ultimate-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Asus ROG Phone 7 Ultimate? Try These Fixes</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-nvidia-geforce-gtx-nvidia-gtx-980-ti-graphics-card-drivers-now/"><u>Get Your NVIDIA GeForce GTX nVIDIA GTX 980 Ti Graphics Card Drivers Now!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Motorola Moto G84 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-the-art-of-crafting-youtube-playlists-for-optimal-listening/"><u>In 2024, The Art of Crafting YouTube Playlists for Optimal Listening</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-unearthing-your-private-playlist-sanctuary-on-youtube/"><u>In 2024, Unearthing Your Private Playlist Sanctuary on Youtube</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/inside-the-chip-exploring-hardware-innovations-at-toms-review-hub/"><u>Inside the Chip: Exploring Hardware Innovations at Tom’s Review Hub</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/lenovo-thinkpad-t420-fresh-driver-downloads-and-updates-for-windows-effortless-installation/"><u>Lenovo ThinkPad T420: Fresh Driver Downloads & Updates for Windows - Effortless Installation</u></a></li>
-<li><a href="https://fox-info.techidaily.com/perfectly-blended-hdr-your-guide-to-merging-in-adobe-lightroom/"><u>Perfectly Blended HDR Your Guide to Merging in Adobe Lightroom</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-the-latest-breakthrough-5-revolutionary-intel-granite-rapids-cpus-sporting-up-to-128-cores-and-500w-tdp/"><u>Unveiling the Latest Breakthrough: 5 Revolutionary Intel Granite Rapids CPUs Sporting Up to 128 Cores & 500W TDP</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-animatedapp-full-guide-24-edition/"><u>2024 Approved AnimatedApp Full Guide '24 Edition</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-average-earnings-per-view-whats-the-income-for-youtubers-per-ad-playback/"><u>2024 Approved Average Earnings Per View What's the Income for YouTubers per Ad Playback?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-building-your-influencer-empire-on-instagram-practical-5-step-guide/"><u>2024 Approved Building Your Influencer Empire on Instagram Practical 5-Step Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-graphic-software-showdown-acid-pros-rivalry/"><u>2024 Approved Graphic Software Showdown ACID Pro's Rivalry</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/affordable-299-laptop-the-ideal-choice-for-college-students-on-a-budget-insights/"><u>Affordable $299 Laptop: The Ideal Choice for College Students on a Budget - Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/best-lenovo-notebooks-for-seamless-hybrid-working-prices-cut-by-50/"><u>Best Lenovo Notebooks for Seamless Hybrid Working: Prices Cut by 50%!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/beware-fbi-alerts-on-risky-juice-jacking-ports-at-public-outlets-safeguard-your-data-with-proven-tips-zdnet/"><u>Beware: FBI Alerts on Risky 'Juice Jacking' Ports at Public Outlets - Safeguard Your Data with Proven Tips | ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-ultimate-productivity-laptop-outside-thinkpads-and-macs-now-with-a-300-amazon-prime-day-discount-in-depth-review/"><u>Discover the Ultimate Productivity Laptop Outside ThinkPads & Macs, Now with a $300 Amazon Prime Day Discount | In-Depth Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/essential-savings-strategies-for-maximizing-deals-on-pre-prime-day-sale-events-of-2024-gadgetguru/"><u>Essential Savings Strategies for Maximizing Deals on Pre-Prime Day Sale Events of 2024 | GadgetGuru</u></a></li>
+<li><a href="https://some-tips.techidaily.com/evolution-in-action-agnes-ro-discusses-transforming-dev-responsibilities-at-atlassian-featured-on-zdnet/"><u>Evolution in Action: Agnes Ro Discusses Transforming Dev Responsibilities at Atlassian, Featured on ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-organize-instagram-conversations-by-pinned-messages-a-comprehensive-guide/"><u>How To Organize Instagram Conversations by Pinned Messages – A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-your-apples-m3-devices-macbook-pro-and-imac-to-macos-monterey-swiftly-zdnet-tips/"><u>How to Update Your Apple's M3 Devices (MacBook Pro & iMac) to MacOS Monterey Swiftly | ZDNet Tips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-bring-life-to-graphics-adobe-blur-masterclass/"><u>In 2024, Bring Life to Graphics Adobe Blur Masterclass</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-pc-launch-failures-for-valorant-expert-fixes-as-of-2024/"><u>Overcome PC Launch Failures for Valorant - Expert Fixes as of 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/prime-days-finest-discover-the-best-laptop-deals-of-the-season-with-leading-brands-like-hp-and-apple-zdnet-insights/"><u>Prime Day's Finest: Discover the Best Laptop Deals of the Season with Leading Brands Like HP and Apple | ZDNET Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/secure-your-ultimate-tech-bargain-exclusive-october-2024-prime-day-laptops-features-and-deals/"><u>Secure Your Ultimate Tech Bargain: Exclusive October 2024 Prime Day Laptops Features & Deals</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/slashes-deals-on-top-picks-get-your-ideal-appmag-safe-charger-at-a-steep-discount-today/"><u>Slashes Deals on Top Picks: Get Your Ideal AppMag Safe Charger at a Steep Discount Today!</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-best-ispoofer-alternative-to-try-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/winxvideo-ai-scorriati-attraverso-video-e-audio-in-un-luglio-crono-con-gpu-speedy-upgrade/"><u>WinxVideo AI: Scorriati Attraverso Video E Audio in Un Luglio Crono Con GPU Speedy Upgrade</u></a></li>
 </ul></div>
 

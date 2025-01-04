@@ -1,7 +1,7 @@
 ---
 title: "Inside Tom's Computing World: Deep Dives Into Technology Trends"
-date: 2024-08-19T10:41:11.322Z
-updated: 2024-08-20T10:41:11.322Z
+date: 2025-01-01T16:51:31.803Z
+updated: 2025-01-04T17:25:34.116Z
 tags:
   - laptop
 categories:
@@ -27,6 +27,10 @@ We cover many unique "because I felt like it" projects here at Tom's Hardware, b
 
  In more modern communications news,[Wi-Fi over three kilometers](https://tools.techidaily.com) was demonstrated with a real-time video call back in January. Windows[11 started adding support for Wi-Fi 7](https://tools.techidaily.com) back in February. All this progress means that most Wi-Fi routers in the world will be a free-for-all on the same few congested wireless channels unless configured properly. Some monsters and nerds out there still employ Morse code, a language with roots in the 1830s.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,8 +45,6 @@ We cover many unique "because I felt like it" projects here at Tom's Hardware, b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -50,8 +52,20 @@ We cover many unique "because I felt like it" projects here at Tom's Hardware, b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-unleash-your-potential-with-outstanding-android-time-lapse-videos/"><u>[New] 2024 Approved Unleash Your Potential with Outstanding Android Time-Lapse Videos</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-how-to-make-360-videos-with-iphone/"><u>[Updated] 2024 Approved How to Make 360 Videos with iPhone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-ultimate-9-free-youtube-channel-branding-solutions/"><u>[Updated] 2024 Approved Ultimate 9 Free YouTube Channel Branding Solutions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-must-watch-live-games-top-nine-sites/"><u>[Updated] Must-Watch Live Games Top Nine Sites</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-from-sound-to-web-crafting-a-standout-podcast-rss-feed/"><u>2024 Approved From Sound to Web Crafting a Standout Podcast RSS Feed</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-visionary-gear-best-10-lenses-for-sharp-images/"><u>2024 Approved Visionary Gear Best 10 Lenses for Sharp Images</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-rx-580-graphics-card-update-made-easy-secure-and-upgrade-your-drivers-today/"><u>AMD RX 580 Graphics Card Update Made Easy: Secure and Upgrade Your Drivers Today</u></a></li>
+<li><a href="https://common-error.techidaily.com/decode-and-defend-against-windows-update-mishaps-including-the-common-0x803f800b-glitch/"><u>Decode & Defend Against Windows Update Mishaps, Including the Common 0X803F800b Glitch</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-serial-converter-ch3aturate-drivers-for-windows-11-pcs/"><u>Download & Update Serial Converter (CH3aturate) Drivers for Windows 11 PCs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-amd-radeon-windows-8-graphics-drivers-at-no-cost/"><u>Get the Latest AMD Radeon Windows 8 Graphics Drivers at No Cost</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-device-ready-free-downloads-of-techkey-bluetooth-driver-for-multiple-windows-os-versions/"><u>Get Your Device Ready: Free Downloads of Techkey Bluetooth Driver for Multiple Windows OS Versions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-nvidia-geforce-mx150-graphics-driver-downloads-for-windows-pcs/"><u>Latest NVIDIA GeForce MX150 Graphics Driver Downloads for Windows PCs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-fast-track-building-elegant-google-photo-collage-art-for-2024/"><u>The Fast Track Building Elegant Google Photo Collage Art for 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

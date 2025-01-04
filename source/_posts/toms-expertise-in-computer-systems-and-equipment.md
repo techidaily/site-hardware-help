@@ -1,7 +1,7 @@
 ---
 title: Tom's Expertise in Computer Systems and Equipment
-date: 2024-08-19T10:43:24.715Z
-updated: 2024-08-20T10:43:24.715Z
+date: 2024-12-28T16:08:42.471Z
+updated: 2025-01-04T16:20:55.015Z
 tags:
   - laptop
 categories:
@@ -27,6 +27,10 @@ The Snapdragon X Elite is just starting to emerge in the wild, powering[Microsof
 
  Tom's Hardware journalists enjoyed[their hands-on time with Microsoft's Surface laptops](https://tools.techidaily.com) at the[Microsoft](https://tools.techidaily.com) Build event in May, finding no proof of foul play in Microsoft's demos or benchmarks. Third-party reviewers have[also gotten high results in their deeper testing](https://tools.techidaily.com) , though Microsoft commissioned the reviews, so take the results with a grain of salt. In-depth day-one reviews haven't come out due to the review embargo, so withhold judgment until then. At the very least, nothing has been so bad as the[severe allegations of Qualcomm's benchmark cheating from back in April](https://tools.techidaily.com) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,8 +45,6 @@ The Snapdragon X Elite is just starting to emerge in the wild, powering[Microsof
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -50,8 +52,20 @@ The Snapdragon X Elite is just starting to emerge in the wild, powering[Microsof
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-streamline-your-share-process-with-youtube-and-fb-integration/"><u>[Updated] In 2024, Streamline Your Share Process with YouTube and FB Integration</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-srt-file-management-for-seamless-audible-experience-for-2024/"><u>[Updated] SRT File Management for Seamless Audible Experience for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-streaming-tools-duel-go-with-obs-or-shadowplay-in-2024/"><u>[Updated] Streaming Tools Duel Go with OBS or ShadowPlay, In 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-nomad/"><u>Comprehensive Nomad</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-review-of-govee-glide-hexa-led-panels-transforming-walls-with-colorful-illumination/"><u>Comprehensive Review of Govee Glide Hexa LED Panels: Transforming Walls with Colorful Illumination</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/could-googles-project-astra-mark-a-turning-point-in-the-evolution-of-smart-glasses-just-like-the-iphone/"><u>Could Google's Project Astra Mark a Turning Point in the Evolution of Smart Glasses, Just Like the iPhone?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/crucial-equipment-5-must-have-items-to-prepare-for-sudden-power-interruptions/"><u>Crucial Equipment: 5 Must-Have Items to Prepare for Sudden Power Interruptions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/demystifying-usb-speeds-exploring-the-differences-between-gen-1-gen-2-and-gen-2x2-insights-into-usb-amoors/"><u>Demystifying USB Speeds: Exploring the Differences Between Gen 1, Gen 2, and Gen 2X2 - Insights Into USB Amoors</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-apple-iphone-14-pro-max-by-name-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Apple iPhone 14 Pro Max by Name | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-your-gaming-experience-no-more-praey-crashes-on-pc/"><u>Master Your Gaming Experience: No More Praey Crashes on PC!</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-starter-strategy-for-original-diablo/"><u>The Ultimate Starter Strategy for Original Diablo</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/top-photo-browser-with-lightning-speed-for-2024/"><u>Top Photo Browser with Lightning Speed for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726028735804-windows10/"><u>ビデオエディターでWindows10フォトを使い、エクスポートがうまくいかない場合の対策</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->

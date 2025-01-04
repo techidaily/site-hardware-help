@@ -1,7 +1,7 @@
 ---
 title: "Flying Lotus's Ultimate Creation: The Self-Sustained, 3D Printer-Crafted AIO Desktop From a Modified Laptop Frame"
-date: 2024-08-19T10:44:46.975Z
-updated: 2024-08-20T10:44:46.975Z
+date: 2024-12-29T17:01:08.208Z
+updated: 2025-01-04T17:19:10.454Z
 tags:
   - laptop
 categories:
@@ -25,6 +25,10 @@ AMD’s latest[Ryzen AI 300](https://tools.techidaily.com) (Strix Point) chips a
 
  Nevertheless,[early benchmarks support AMD’s claims](https://tools.techidaily.com) that its latest laptop CPUs gain 15% over the last-gen Ryzen 7 7735U. We also expect these APUs to have significantly better graphics performance as they upgrade their graphics engines with RDNA 3.5\. However, all these[benchmarks](https://tools.techidaily.com) and numbers mean nothing if we can’t get our hands on these devices and run real-world benchmarks. So, we’ll have to wait until the end of July before we can start testing these laptops and comparing them against[the new Snapdragon X Elite laptops](https://tools.techidaily.com) launched a few weeks back.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -39,8 +43,6 @@ AMD’s latest[Ryzen AI 300](https://tools.techidaily.com) (Strix Point) chips a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -48,8 +50,17 @@ AMD’s latest[Ryzen AI 300](https://tools.techidaily.com) (Strix Point) chips a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-shaping-public-perception-5-essentials-for-instagram-marketing-mavericks/"><u>[Updated] 2024 Approved Shaping Public Perception 5 Essentials for Instagram Marketing Mavericks</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-content-creators-dilemma-which-site-reigns-vimeo-youtube-in-2024/"><u>[Updated] Content Creators' Dilemma Which Site Reigns - Vimeo, YouTube, In 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-vr-revolutionizes-movie-watching/"><u>2024 Approved How VR Revolutionizes Movie-Watching</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-latest-epson-wf-3640-printer-drivers-for-your-windows-pc/"><u>Download the Latest Epson WF-3640 Printer Drivers for Your Windows PC</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-oppo-find-n3-flip-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Oppo Find N3 Flip in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-oppo-f25-pro-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Oppo F25 Pro 5G via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-7-plus-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 7 Plus to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intel-nvme-driver-installation-made-effortless-start-here/"><u>Intel NVME Driver Installation Made Effortless – Start Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-hp-printer-driver-updates-for-windows-11-systems/"><u>Latest HP Printer Driver Updates for Windows 11 Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/wpcs-are-environmentally-friendly-alternatives-to-pure-plastics-as-they-incorporate-recycled-wood-fibers-reducing-waste-and-lessening-the-impact-on-forests.340/"><u>WPCs Are Environmentally Friendly Alternatives to Pure Plastics, as They Incorporate Recycled Wood Fibers, Reducing Waste and Lessening the Impact on Forests</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

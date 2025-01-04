@@ -1,7 +1,7 @@
 ---
 title: "Top-Ranking Student Laptops: Comprehensive Reviews & Tests by Experts - ZDNet"
-date: 2024-12-24T01:38:34.760Z
-updated: 2024-12-26T05:23:08.865Z
+date: 2025-01-01T17:16:51.598Z
+updated: 2025-01-04T17:24:58.084Z
 tags:
   - laptops
 categories:
@@ -22,6 +22,10 @@ Furthermore, this has been a big year for laptop releases, with lots of new mode
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best laptop under $1,000 right now?
 
 My pick for the best laptop under $1,000 overall is the [M2 MacBook Air](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-13-inch-Storage-Midnight%2Fdp%2FB0CB73MSX4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6d1dd109-1447-4f5a-8340-382144317f59%7Cdtp&dtb=1), thanks to its solid performance, portability, and HD display. With the March release of the [M3 MacBook Air](https://www.zdnet.com/article/m3-macbook-air-review/), the previous M2 model received a price cut. This is great news because the device is well known for its portability and awesome performance -- but not for its affordability. Of course, the M2 MacBook Air isn't the only option out there. With this in mind, check out my top picks for the best laptops under $1,000.
@@ -40,11 +44,11 @@ Pros
 Cons 
 * Shorter battery life
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple M2 MacBook Air
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best laptop under $1,000 overall
 
@@ -71,6 +75,10 @@ Pros
 
 Cons 
 * Heavy
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## HP Victus 15
 
@@ -99,10 +107,6 @@ Cons
 * Dim display
 
 ## Lenovo Yoga 7i 2-in1
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best 2-in-1 laptop under $1,000
 
@@ -163,14 +167,10 @@ Cons
 * Expensive configurations
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## HP Pavilion Plus
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best screen for a laptop under $1,000
 
@@ -209,10 +209,6 @@ Graphics tested  Intel Iris Xe Graphics
 
 ## Acer Aspire 3
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best value laptop under $1,000
 
 The Acer Aspire 3 has earned its spot as the best laptop for value. It's the cheapest option here and serves as a solid work machine. The device has an AMD Ryzen 3 7320U processor, an integrated AMD Radeon graphics card, and 8GB of RAM. It's a lightweight laptop that can handle various tasks, from internet browsing to writing documents and streaming movies. Due to its mid-range hardware, the Aspire 3's battery can last quite a while – about 11 hours on a single charge, according to Acer. You should know the 
@@ -239,10 +235,6 @@ Cons
 * Poor battery
 
 ## Asus Vivobook 15
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best work laptop under $1,000
 
@@ -271,11 +263,11 @@ Cons
 * Accessories sold separately
 * Limited ports
 
-## Microsoft Surface Pro 9
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Microsoft Surface Pro 9
 
 ### Best graphic design laptop
 
@@ -311,7 +303,7 @@ With all big decisions comes a lot of research. Thankfully, we did a lot of the 
 | Microsoft Surface Pro 9      | $779                       | 12th Gen Intel Core i7  | 13 inches       | 256 GB           |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which is the right laptop under $1,000 for you?
@@ -331,6 +323,10 @@ Read the chart below to find out which device works best for you.
 | Asus Vivobook 15                             | The best work laptop under $1,000\. It's a lightweight laptop that boasts serious muscle as evident by its 40GB of RAM and 12th-Intel Core CPU.                                     |
 | Microsoft Surface Pro 9                      | A fantastic graphic design laptop. The Surface Pro 9 doubles as a tablet with a stunning hi-res screen, with a battery that can last all day.                                       |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Factors to consider when choosing a laptop under $1,000:
 
 A great laptop doesn't have to cost a fortune. To determine the best laptops under $1,000, there are several factors you need to consider.
@@ -349,10 +345,6 @@ Here at ZDNET, we receive many laptops to check out and review. So, it's importa
 Once all that is done, we come to a consensus on the best ones that will suit a wide variety of customers and use cases and round them up in a best list, like the one you're reading right now.
 
 To learn more about our laptop testing process, be sure to visit [this extensive article](https://www.zdnet.com/article/how-we-test-laptops/) on the topic. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Which laptop brand is the best and cheapest?
 
@@ -374,6 +366,10 @@ Most people would say that you need to replace a laptop when you begin to experi
 
 There are other factors to consider, such as constant errors. Constant crashes and random restarts are signs that the hard drive is failing. Additionally, exceptionally loud cooling fans are another sign that the device is nearing its final days. You can certainly try to fix the laptop yourself, but you'll need a lot of experience in computer repair to get things done right -- or risk damaging the hardware. You're better off buying a new machine.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Can a Chromebook do everything a laptop can?
 
 Chromebooks offer a great series of low-cost laptops that several third-party manufacturers create. They don't run on any Windows operating system instead opting for ChromeOS. These devices are generally less expensive than laptops, can perform similarly to a Windows machine, and have a long battery life. Chromebooks require very little maintenance as they don't primarily utilize on-device software.
@@ -381,6 +377,10 @@ Chromebooks offer a great series of low-cost laptops that several third-party ma
 They're a great option for people who are on a budget. However, there is a distinct downside to owning a Chromebook, and it's that they require constant internet access to work properly. The thing about these machines is many of the functions run on Google's cloud servers. If you're ever away from an internet connection or the service is down you won't be able to use a Chromebook to its fullest extent.
 
 Additionally, Chromebooks have limited storage space and processing power compared to laptops.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What time of year do laptops go on sale?
 
@@ -466,18 +466,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-livestreaming-facebook-made-simple-for-all-tech-users-for-2024/"><u>[New] Livestreaming Facebook Made Simple for All Tech Users for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/end-of-production-intels-200-series-optane-memory-dimms-set-to-cease-shipments-by-late-2nd-26/"><u>End of Production: Intel's 200-Series Optane Memory DIMMs Set to Cease Shipments by Late 2nD 26</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/expert-analysis-of-sabrent-rocket-nano-2242-1tb-ssd-the-essential-guide-to-the-perfect-m2-2242-storage-solution/"><u>Expert Analysis of Sabrent Rocket Nano 2242 1TB SSD: The Essential Guide to the Perfect M.2 2242 Storage Solution</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/expert-insights-on-hardware-with-tom-comprehensive-technology-analysis/"><u>Expert Insights on Hardware with Tom - Comprehensive Technology Analysis</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-lexars-ultimate-performance-a-comparative-review-of-the-versatile-sl500-and-pro-sl600-revealed-pushing-limits-at-20-gigabit-speeds/"><u>Exploring Lexar’s Ultimate Performance: A Comparative Review of the Versatile SL500 and Pro SL60^0 Revealed, Pushing Limits at 20 Gigabit Speeds</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-microsofts-enigmatic-z1000-ssd-insights-into-an-expanding-lineup-of-high-performance-storage-solutions/"><u>Exploring Microsoft's Enigmatic Z1000 SSD: Insights Into an Expanding Lineup of High-Performance Storage Solutions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-samsungs-latest-6144tb-storage-solution-and-future-plans-for-a-12288tb-model/"><u>Exploring Samsung's Latest 61.44TB Storage Solution and Future Plans for a 122.88TB Model</u></a></li>
-<li><a href="https://change-location.techidaily.com/honor-magic5-ultimate-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor Magic5 Ultimate Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-seamlessly-install-latest-drivers-for-your-lenovo-t420-windows-laptop/"><u>How to Seamlessly Install Latest Drivers for Your Lenovo T420 Windows Laptop</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-8-plus-3-ways-to-unlock-by-drfone-ios/"><u>How To Unlock iPhone 8 Plus 3 Ways To Unlock</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Samsung Galaxy F54 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-ultimate-guide-exploring-master-recorders-features/"><u>In 2024, Ultimate Guide Exploring Master Recorder's Features</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/the-art-of-monitors-reimagined-an-insight-into-the-z32x/"><u>The Art of Monitors Reimagined An Insight Into the Z32X</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-quintessential-guide-to-selecting-video-apps-for-reels-for-2024/"><u>[New] The Quintessential Guide to Selecting Video Apps for Reels for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-exploring-japanese-artistry-adding-anime-filters-on-snaps/"><u>2024 Approved Exploring Japanese Artistry Adding Anime Filters on Snaps</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-quality-acoustics-at-an-accessible-price-point/"><u>2024 Approved Quality Acoustics at an Accessible Price Point</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/deciphering-what-claude-3-is-and-its-applications/"><u>Deciphering What Claude 3 Is and Its Applications</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-install-guidelines-for-logitech-g29-racing-controller-on-windows-10-8-and-7/"><u>Easy Install Guidelines for Logitech G29 Racing Controller on Windows 10, 8, and 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722972336720-get-your-targus-adapter-setup-ready-download-drivers-with-a-click/"><u>Get Your Targus Adapter Setup Ready - Download Drivers with a Click</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-a-lost-apple-iphone-13-pro-max-for-free-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track a Lost Apple iPhone 13 Pro Max for Free? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/installing-plex-for-windows-10-a-step-by-step-guide/"><u>Installing Plex for Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/lg-monitor-troubleshooting-guide-updating-and-fixing-drivers-for-windows-os-versions-10781/"><u>LG Monitor Troubleshooting Guide: Updating & Fixing Drivers for Windows OS Versions (10/7/8.1)</u></a></li>
+<li><a href="https://win11.techidaily.com/securing-precision-in-your-presentations-prints-9-steps-with-powerpoint-and-pcs/"><u>Securing Precision in Your Presentations' Prints: 9 Steps with PowerPoint & PCs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-guide-to-cutting-edge-computer-components-and-gadgets/"><u>Tom's Guide to Cutting-Edge Computer Components and Gadgets</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-the-fastest-msds-of-2024-in-depth-testing-and-analysis-by-pc-world/"><u>Ultimate Guide to the Fastest M.S.D.s of 2024: In-Depth Testing and Analysis by PC World</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-targus-graphics-cards-fresh-drivers-for-windows-1087-downloaded/"><u>Update Your Targus Graphics Cards: Fresh Drivers for Windows 10/8/7 Downloaded</u></a></li>
 </ul></div>
 

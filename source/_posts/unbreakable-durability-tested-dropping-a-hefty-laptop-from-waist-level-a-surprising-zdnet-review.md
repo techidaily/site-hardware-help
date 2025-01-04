@@ -1,7 +1,7 @@
 ---
 title: "Unbreakable Durability Tested: Dropping a Hefty Laptop From Waist Level - A Surprising ZDNet Review"
-date: 2024-11-30T07:15:09.375Z
-updated: 2024-12-04T19:16:33.663Z
+date: 2025-01-03T16:06:07.483Z
+updated: 2025-01-04T16:48:46.139Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -128,7 +128,7 @@ Kyle Kucharski/ZDNET
 In the end, both are solid choices, but the battery life on the unit with the Snapdragon is impossible to ignore. That, and the fact that this is a forward-looking device with AI functionality.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -167,15 +167,24 @@ I'd recommend this laptop to freelancers, remote and hybrid workers, and anyone 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-drone-selections-on-a-budget-affordable-options-above/"><u>[Updated] Drone Selections on a Budget Affordable Options Above</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/advancing-computational-frontiers-the-inside-scoop-on-amds-zen-5-architecture-delving-into-ryzen-9000-capabilities-ai-benchmarking-with-the-ai-300-and-cutti19/"><u>Advancing Computational Frontiers: The Inside Scoop on AMD's Zen 5 Architecture - Delving Into Ryzen 9000 Capabilities, AI Benchmarking with the AI 300, and Cutting-Edge GPU Upgrades in RDNA 3.5 & XDNA Technologies</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amd-rx-560-driver-troubleshooting-and-fixes-for-windows-operating-systems/"><u>AMD RX 560 Driver Troubleshooting and Fixes for Windows Operating Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-intel-82579v-drivers-for-free-fast-and-simple-installation/"><u>Download Intel 82579V Drivers for Free – Fast and Simple Installation</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-to-get-rid-of-the-elden-ring-startup-black-screen-glitch-once-and-for-all/"><u>Expert Tips to Get Rid of the Elden Ring Startup Black Screen Glitch Once and For All!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-enjoyment-the-delights-of-pokemon-shining-pearl/"><u>Exploring Enjoyment: The Delights of Pokemon Shining Pearl</u></a></li>
-<li><a href="https://facebook.techidaily.com/if-all-social-platforms-closed-down-tomorrow-would-your-life-be-better-or-worse-poll/"><u>If All Social Platforms Closed Down Tomorrow, Would Your Life Be Better or Worse? [Poll]</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Samsung Galaxy F54 5G? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-optimizing-your-youtube-stream-with-wirecast/"><u>In 2024, Optimizing Your YouTube Stream with WireCast</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-and-greatest-hp-deskjet-3050a-driver-downloads-for-windows-free-and-easy-to-install/"><u>Latest and Greatest HP Deskjet 3050A Driver Downloads for Windows – Free & Easy to Install</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-expert-tips-for-youtube-short-pitfall-prevention-for-2024/"><u>[Updated] Expert Tips for YouTube Short Pitfall Prevention for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-harmonious-hub-swapping-your-soundtrack-selection/"><u>[Updated] In 2024, Harmonious Hub Swapping Your Soundtrack Selection</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-crafting-compelling-and-credible-documentary-scripts/"><u>[Updated] The Ultimate Guide to Crafting Compelling and Credible Documentary Scripts</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-stream-to-instagram-effortless-broadcast-via-obs-software/"><u>2024 Approved Stream to Instagram Effortless Broadcast via OBS Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/affordable-laptop-revives-forgotten-tech-jargon-popular-in-past-years-insights/"><u>Affordable Laptop Revives Forgotten Tech Jargon Popular in Past Years - Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/elite-laptop-lineup-for-2amo-thoroughly-analyzed-and-critiqued-by-specialists/"><u>Elite Laptop Lineup for 2Amo: Thoroughly Analyzed & Critiqued by Specialists</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exceptional-display-and-versatility-combined-in-top-tested-laptop-featured-on-zdnet/"><u>Exceptional Display & Versatility Combined in Top-Tested Laptop Featured on ZDNet</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-vivo-y17s-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Vivo Y17s? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Oppo Reno 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-review-of-motorolas-moto-g-featuring-a-stylus-outstanding-performance-satisfactory-battery-longevity/"><u>In-Depth Review of Motorola's Moto G Featuring a Stylus: Outstanding Performance, Satisfactory Battery Longevity</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/is-it-time-to-upgrade-from-an-older-ipad-model/"><u>Is It Time to Upgrade From an Older iPad Model?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/is-the-era-of-dual-screen-laptops-upon-us-with-lenovos-yoga-book-9i-innovation-insights-from-tech-experts/"><u>Is the Era of Dual-Screen Laptops Upon Us with Lenovo's Yoga Book 9I Innovation? Insights From Tech Experts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/premier-picks-for-your-next-linux-laptop-in-depth-analysis-and-ratings-zdnet/"><u>Premier Picks for Your Next Linux Laptop : In-Depth Analysis and Ratings | ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/reviews-and-recommendations-discover-how-this-super-light-laptop-is-transforming-the-world-of-remote-workers-zdnet-insights/"><u>Reviews & Recommendations: Discover How This Super-Light Laptop Is Transforming the World of Remote Workers | ZDNET Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/struggling-with-a-sleep-deprived-macbook-and-draining-battery-optimize-performance-using-this-powerful-utility/"><u>Struggling with a Sleep-Deprived MacBook and Draining Battery? Optimize Performance Using This Powerful Utility!</u></a></li>
+<li><a href="https://fox-http.techidaily.com/the-insiders-guide-to-leveraging-spotify-ads-effectively-for-2024/"><u>The Insider's Guide to Leveraging Spotify Ads Effectively for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-35-unbeatable-cyber-monday-bargains-on-dell-products-from-retailers-like-best-buy-amazon-and-newegg/"><u>Top 35 Unbeatable Cyber Monday Bargains on Dell Products From Retailers Like Best Buy, Amazon & Newegg</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-5-must-have-gps-applications-for-your-iphone/"><u>Top 5 Must-Have GPS Applications for Your iPhone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlocking-portability-and-performance-the-mini-chromebook-that-excels-in-flexibility-insights-from-zdnet/"><u>Unlocking Portability and Performance: The Mini Chromebook That Excels in Flexibility - Insights From ZDNet</u></a></li>
 </ul></div>
 

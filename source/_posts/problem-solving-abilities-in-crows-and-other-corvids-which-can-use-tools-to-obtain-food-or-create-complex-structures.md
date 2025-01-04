@@ -1,7 +1,7 @@
 ---
 title: Problem-Solving Abilities in Crows and Other Corvids, Which Can Use Tools to Obtain Food or Create Complex Structures.
-date: 2024-12-12T16:35:47.637Z
-updated: 2024-12-17T16:19:21.421Z
+date: 2025-01-03T16:27:24.583Z
+updated: 2025-01-04T16:57:36.701Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ If you're shopping for a great deal on tech for this holiday season, ZDNET is tr
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Dell holiday deals
@@ -94,7 +94,7 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6FJGWK9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0046b43f-55f5-4ae8-9820-c0ec4a0269e4%7Cdtp&dtb=1) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Dell laptop holiday deals
@@ -106,7 +106,7 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell XPS 13 9310 13.4-inch touch laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-XPS-9310-Laptop-Touchscreen%2Fdp%2FB09PR52BHK%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0046b43f-55f5-4ae8-9820-c0ec4a0269e4%7Cdtp&dtb=1) for $1,071 (save $429)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Dell desktop holiday deals
@@ -119,7 +119,7 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell OptiPlex 3000 Desktop](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fdell-optiplex-3000-student-home-office%252Fp%252F1VK-0001-6EUX9) for $1,200 (save $440)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Dell monitor holiday deals
@@ -135,7 +135,7 @@ ZDNET only writes about deals we want to buy -- devices and products we desire, 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the best holiday deals?
@@ -210,21 +210,20 @@ Here are the top deals by category we've found so far:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/fixed-missing-network-interface-on-windows-10-notebook/"><u>[FIXED] Missing Network Interface on Windows 10 Notebook</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-easy-solutions-to-upgrade-your-video-calls-from-skype-to-zoom/"><u>[New] In 2024, Easy Solutions to Upgrade Your Video Calls From Skype to Zoom</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-content-creation-evolution-studio-vs-innovative-beta/"><u>[Updated] 2024 Approved Content Creation Evolution Studio Vs. Innovative Beta</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-enhance-snapchat-stories-with-these-top-6-mobile-editors/"><u>[Updated] 2024 Approved Enhance Snapchat Stories with These Top 6 Mobile Editors</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-exploring-mobile-photography-with-android-lightroom-application-for-2024/"><u>[Updated] Exploring Mobile Photography with Android Lightroom Application for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-light-and-shadow-with-iphone-xs-new-lens-technology/"><u>[Updated] Mastering Light & Shadow with iPhone X's New Lens Technology</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722955214960-access-the-newest-dell-d3100-printer-driver-version-instantly-start-here/"><u>Access the Newest DELL D3100 Printer Driver Version Instantly - Start Here</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/comprehensive-epson-xp-400-driver-downloading-and-installation-tutorial-for-beginners/"><u>Comprehensive Epson XP-400 Driver Downloading and Installation Tutorial for Beginners</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-asus-speakers-up-and-running-free-driver-downloads-available-now/"><u>Get Your ASUS Speakers Up and Running: Free Driver Downloads Available Now</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/how-to-schedule-meetings-on-zoom-webdesktopmobile/"><u>How to Schedule Meetings on Zoom [Web/Desktop/Mobile]</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210085362-9781528766982-is-the-newtonian-astronomy-true/"><u>Is the Newtonian Astronomy True? | Free Book</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/revitalize-your-pcs-sound-with-updated-windows-7-audio-card-drivers-step-by-step-guide/"><u>Revitalize Your PC's Sound with Updated Windows 7 Audio Card Drivers – Step-by-Step Guide.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/seamless-setup-access-arduino-mega-25n0-board-drivers-instantly/"><u>Seamless Setup: Access Arduino Mega 25N0 Board Drivers Instantly!</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-issue-reducing-god-of-wars-excessive-cpu-demand/"><u>Solving the Issue: Reducing God of War's Excessive CPU Demand</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-gadget-analysis-navigating-through-cutting-edge-technology/"><u>Tom's Gadget Analysis: Navigating Through Cutting-Edge Technology</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-reviews-comprehensive-guide-to-hardware-excellence/"><u>Tom's Tech Reviews: Comprehensive Guide to Hardware Excellence</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-video-platform-review-is-vimeo-best-over-youtubes-and-dailymotions-for-2024/"><u>[Updated] Video Platform Review Is Vimeo Best Over YouTubes and DailyMotions for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/515-yes-please-secure-your-hp-victus-n-gaming-powerhouse-before-it-sells-out-on-best-buys-exclusive-anti-prime-deal-tips-by-zdnet/"><u>$515? Yes, Please! Secure Your HP Victus N Gaming Powerhouse Before It Sells Out on Best Buy's Exclusive Anti-Prime Deal | Tips by ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/affordable-xr-glasses-solution-beats-high-end-brands-for-enhanced-visuals-discover-how-they-overcome-apples-optics-issue/"><u>Affordable XR Glasses Solution Beats High-End Brands for Enhanced Visuals – Discover How They Overcome Apple's Optics Issue</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/audio-quality-upgrade-eradicating-stutters-and-pop-ups-with-guidance-from-yl-software-professionals/"><u>Audio Quality Upgrade: Eradicating Stutters & Pop-Ups with Guidance From YL Software Professionals</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-long-lasting-performance-with-our-reliable-laptop-battery-backup-discounted-price-available/"><u>Experience Long-Lasting Performance with Our Reliable Laptop Battery Backup - Discounted Price Available</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/gratis-voerverwerking-toshiba-harde-schijf-sterven-uit-keuzes-en-trucs-van-6-gouden-standen/"><u>Gratis Voerverwerking Toshiba Harde Schijf Sterven Uit: Keuzes En Trucs Van 6 Gouden Standen</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-tecno-camon-20-premier-5g-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Tecno Camon 20 Premier 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-realme-c51-by-fonelab-android-recover-data/"><u>How to recover lost data from Realme C51?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/jestful-journey-through-tech-portable-computing-and-vpn-evolution/"><u>Jestful Journey Through Tech: Portable Computing & VPN Evolution</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/preserve-the-sleek-fresh-look-of-your-macbook-pro-with-these-simple-steps/"><u>Preserve the Sleek, Fresh Look of Your MacBook Pro with These Simple Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-workflow-programmatic-shortcuts-in-winos/"><u>Streamline Workflow: Programmatic Shortcuts in WinOS</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-realme-11-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Realme 11 Pro to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-ranked-notebooks-unveiled-at-ces-2024-a-comprehensive-guide/"><u>Top-Ranked Notebooks Unveiled at CES 2024: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unfolding-creativity-on-the-go-why-an-origami-laptop-sleeve-is-my-top-pick-for-travel-gadgets/"><u>Unfolding Creativity On-the-Go: Why an Origami Laptop Sleeve Is My Top Pick for Travel Gadgets</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unleash-the-hidden-potential-of-your-tech-with-this-mighty-yet-portable-8-in-1-adapter-discover-more-at-zdnet/"><u>Unleash the Hidden Potential of Your Tech with This Mighty Yet Portable 8-in-1 Adapter | Discover More at ZDNET</u></a></li>
 </ul></div>
 
