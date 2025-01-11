@@ -1,7 +1,7 @@
 ---
 title: Top Prime Day Video Game Discounts of October 2024 - Exclusive Sneak Peek
-date: 2024-12-30T16:06:44.707Z
-updated: 2025-01-04T17:26:28.103Z
+date: 2025-01-08T05:40:24.184Z
+updated: 2025-01-10T21:47:07.522Z
 tags:
   - laptops
 categories:
@@ -23,10 +23,6 @@ Brands like HP, [Samsung](https://www.zdnet.com/article/best-early-prime-day-sam
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Our favorite early Amazon October Prime Day gaming deals
 
@@ -106,10 +102,6 @@ ZDNET
 * [Arcade1Up Attack From Mars electronic pinball table for $499 (save $150)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FArcade-William-Bally-Attack-Mars-Pinball%2Fdp%2FB0998S48N2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca5d281f2-40c7-47eb-93d3-bec2eb576564%7Cdtp&dtb=1): A fully-digital pinball table featuring a classic William Bally "Attack From Mars" theme.
 * [Arcade1Up Street Fighter II Champion Turbo Legacy Edition cabinet for $399 (save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FARCADE1UP-Capcom-Fighter-Champion-Machine%2Fdp%2FB0B94VCWG3%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca5d281f2-40c7-47eb-93d3-bec2eb576564%7Cdtp&dtb=1): A Wi-Fi enabled, retro-inspired arcade cabinet featuring 14 different games to play head-to-head against online players or friends in-person.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day PlayStation 5 deals
 
 ZDNET
@@ -169,6 +161,10 @@ Nintendo/ZDNET
 * [Lego Star Wars: The Skywalker Saga for $25 (save $26 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLEGO-Star-Wars-The-Skywalker-Saga-Nintendo-Switch%2F182278850%3FclassType%3DVARIANT&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Play as iconic characters like Luke Skywalker, Qui-Gon Jin, and Darth Vader through the stories of both the original and prequel Star Wars trilogies.
 * [Nintendo Switch Joy-Con in neon purple and neon orange for $55 (save $25 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FNintendo-Switch-Joy-Con-Pair-Neon-Purple-and-Neon-Orange%2F921709016%3FclassType%3DVARIANT%26athbdg%3DL1600&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Grab an extra Joy-Con controller for your Nintendo Switch to keep gaming while your other controller charges.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## October Prime Day gaming PC deals
 
 Kyle Kucharski/ZDNET
@@ -185,7 +181,7 @@ Kyle Kucharski/ZDNET
 * [Alienware Aurora R16 for $3,700 (save $1,000 at Dell)](https://www.dpbolvw.net/click-9041660-15734614?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdesktop-computers%2Falienware-aurora-r16-gaming-desktop%2Fspd%2Falienware-aurora-r16-desktop%2Fuseapctor16icc2&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Alienware's flagship gaming desktop is built with a 14th gen Intel Core i9 CPU, Nvidia GeForce RTX 4090 graphics card, 64GB of RAM, and 4TB of storage.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day gaming laptop deals
@@ -210,10 +206,6 @@ Samsung/ZDNET
 * [AOC AG27 27-inch monitor for $600 (save $450 at B&H Photo, deal ends Oct 5)](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1741859-REG%2Faoc%5Fag274qzm%5F27%5F16%5F9%5Fqhd.html): This 27-inch IPS monitor has 1440p resolution, a 240Hz refresh rate, a 1ms response time, and Nvidia G-Sync VRR support.
 * [Acer Predator X27U for $680 (save $320 at B&H Photo)](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1772478-REG%2Facer%5Fum%5Fhxxaa%5F001%5Fpredator%5Fx27u%5F27%5Fgaming.html%2Fspecs): A 27-inch gaming monitor with a 240Hz refresh rate, 1440p resolution, a 0.03ms response time, and support for AMD FreeSync Premium Pro VRR.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day PC gaming accessories deals
 
 * [SanDisk Extreme Pro 4TB portable SSD for $340 (save $138 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsandisk-extreme-pro-portable-4tb-external-usb-c-nvme-ssd-black%2F6522095.p%3FskuId%3D6522095&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An ultra-tough portable SSD compatible with Windows and Mac computers and backed by a 5-year warranty.
@@ -222,7 +214,7 @@ Samsung/ZDNET
 * [Roccat Vulcan II Mini Air for $64 (save $116 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Froccat-vulcan-ii-mini-air-65-wireless-optical-mechanical-gaming-keyboard-with-rgb-illumination-black%2F6547284.p%3FskuId%3D6547284&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A mini, tenkey-less mechanical keyboard with optical switches, RGB backlighting, and USB-C charging.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day graphics card deals
@@ -233,9 +225,17 @@ Samsung/ZDNET
 
 ## FAQs
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### When is Amazon Prime Day 2024?
 
 Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, will run through October 8 and 9\. Some brands may offer discounts and coupons ahead of the official sale. And other retailers like [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2F&publisher_slug=itechdaily19598&exclusive=1) and [Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fdeals%3FathAsset%3DeyJhdGhjcGlkIjoiMmU5ZjFjZmMtOTVhZC00NDlhLWEyNzgtZTU3ZTZlOTFjZmEwIn0%3D%26athena%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp) are running their own, rival sales at the same time. Which is great news for anyone who likes to compare discounts and prices to make sure they're getting the absolute best deal possible. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Are games, consoles, and accessories really cheaper on Prime Day?
 
@@ -275,24 +275,24 @@ I only chose deals on games that have been critically and commercially well-rece
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/eyond-the-lens-innovative-ideas-for-youtube-video-creation/"><u>[New] Beyond the Lens Innovative Ideas for YouTube Video Creation</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-capturing-moments-like-never-before-with-sj-cam-s6/"><u>[Updated] 2024 Approved Capturing Moments Like Never Before with SJ-CAM S6</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-professional-selections-best-5-interactive-capture-apps/"><u>[Updated] Professional Selections Best 5 Interactive Capture Apps</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-art-of-audio-visual-harmony-youtube-music-inclusion-guide/"><u>[Updated] The Art of Audio-Visual Harmony YouTube Music Inclusion Guide</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-instagrams-latest-filters-use-and-applications-2023/"><u>2024 Approved Instagram's Latest Filters Use and Applications 2023</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-streamlining-your-photo-editing-the-crop-essentials/"><u>2024 Approved Streamlining Your Photo Editing The Crop Essentials</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/asus-releases-high-performance-laptop-with-superior-oled-screen-quality-testing-ahead-of-the-pack/"><u>ASUS Releases High-Performance Laptop with Superior OLED Screen Quality, Testing Ahead of the Pack</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/beware-fbi-alerts-on-risky-juice-jacking-ports-at-public-outlets-safeguard-your-data-with-proven-tips/"><u>Beware: FBI Alerts on Risky 'Juice Jacking' Ports at Public Outlets - Safeguard Your Data with Proven Tips</u></a></li>
-<li><a href="https://article-tips.techidaily.com/compendium-of-camera-types-for-professional-videos-for-2024/"><u>Compendium of Camera Types for Professional Videos for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-guide-to-youtube-income-compliance/"><u>In 2024, The Ultimate Guide to YouTube Income Compliance</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722977110500-latest-update-get-your-logitech-g933-headset-software-here/"><u>Latest Update: Get Your Logitech G933 Headset Software Here</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-device-transformation-amidst-artificial-intelligence-advancements-insights/"><u>Navigating Device Transformation Amidst Artificial Intelligence Advancements - Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/protect-your-privacy-new-study-reveals-risks-of-untrusted-pc-technicians-accessing-personal-files/"><u>Protect Your Privacy: New Study Reveals Risks of Untrusted PC Technicians Accessing Personal Files</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-instructions-for-snapping-screen-shots-on-laptops-including-dell-and-lenovo-tech-insights/"><u>Step-by-Step Instructions for Snapping Screen Shots on Laptops (Including Dell and Lenovo) | Tech Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tapping-into-the-full-potential-of-llama-2-systems/"><u>Tapping Into the Full Potential of Llama 2 Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/thinkpad-pioneers-the-return-of-user-upgradeable-laptop-memory-a-comprehensive-guide-zdnet-insights/"><u>ThinkPad Pioneers the Return of User-Upgradeable Laptop Memory - A Comprehensive Guide | ZDNet Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-24-unbeatable-christmas-offers-on-laptops-and-pcs-from-dell-best-buy-amazon-newegg-reviewed/"><u>Top 24 Unbeatable Christmas Offers on Laptops & PCs From Dell - Best Buy, Amazon, Newegg Reviewed</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-6-advantages-of-choosing-a-chromebook-as-your-ideal-laptop-companion-insights/"><u>Top 6 Advantages of Choosing a Chromebook as Your Ideal Laptop Companion - Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-picks-for-prime-day-october-2024-discounted-laptops-unveiled/"><u>Top Picks for Prime Day October 2024: Discounted Laptops Unveiled</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-ultimate-storage-enhancement-for-sony-alpha-7s-ii/"><u>[New] In 2024, Ultimate Storage Enhancement for Sony Alpha 7S II</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-m1-pro-and-m1-max-exploring-their-significant-differences/"><u>[Updated] M1 Pro & M1 Max Exploring Their Significant Differences</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-a-comparative-review-sns-hdr-pro-and-other-editors/"><u>2024 Approved A Comparative Review SNS HDR Pro and Other Editors</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-unleashing-the-power-of-free-high-end-3d-video-players/"><u>2024 Approved Unleashing the Power of Free, High-End 3D Video Players</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-canon-mx492-printer-drivers-the-ultimate-guide-for-windows-users/"><u>Download & Install Canon MX492 Printer Drivers: The Ultimate Guide for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-the-latest-epson-wf-3620-printer-drivers-on-windows-10-8-and-7-free/"><u>Download & Install the Latest Epson WF-3620 Printer Drivers on Windows 10, 8 & 7 - FREE</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-install-guide-latest-eveo-bluetooth-connection-software/"><u>Easy Install Guide: Latest Eveo Bluetooth Connection Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-installation-guide-for-realtek-rtl8723be-wireless-network-adapter-on-windows-10/"><u>Easy Installation Guide for Realtek RTL8723BE Wireless Network Adapter on Windows 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-microsoft-wireless-mouse-amouse-5000-driver-fast-effortless-installation-guide/"><u>Get Your Microsoft Wireless Mouse Amouse 5000 Driver Fast - Effortless Installation Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722965231080-guide-to-instant-upgrades-freshest-epson-drivers-for-your-window-os/"><u>Guide to Instant Upgrades: Freshest Epson Drivers for Your Window OS</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/high-resolution-pokemon-themed-wallpapers-and-hd-desktop-backgrounds-powered-by-yl-software/"><u>High-Resolution Pokemon Themed Wallpapers & HD Desktop Backgrounds - Powered by YL Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-download-and-install-realtek-memory-card-reader-software-on-windows-pcs/"><u>How to Download & Install RealTek Memory Card Reader Software on Windows PCs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-streamlining-skype-calls-with-advanced-zoom-use/"><u>In 2024, Streamlining Skype Calls with Advanced Zoom Use</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-version-of-logitech-k350-drivers-download-now/"><u>Latest Version of Logitech K350 Drivers - Download Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/smooth-nahimic-driver-upgrade-for-speed-and-ease/"><u>Smooth Nahimic Driver Upgrade for Speed & Ease</u></a></li>
+<li><a href="https://win-docs.techidaily.com/step-by-step-guide-to-saving-crooks-and-liars-content-as-video-files-on-macwindows/"><u>Step-by-Step Guide to Saving Crooks & Liars Content as Video Files on Mac/Windows</u></a></li>
+<li><a href="https://media-tips.techidaily.com/the-comprehensive-guide-to-selecting-a-4k-smartphone-or-tablet-with-video-playback-and-recording-capabilities/"><u>The Comprehensive Guide to Selecting a 4K Smartphone or Tablet with Video Playback and Recording Capabilities</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-multimedia-sensation-apps-iphoneandroid-showdown/"><u>Top 5 Multimedia Sensation Apps IPhone/Android Showdown</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/vn-video-editor-apk-review-a-powerful-video-editing-tool-for-2024/"><u>VN Video Editor APK Review A Powerful Video Editing Tool for 2024</u></a></li>
 </ul></div>
 

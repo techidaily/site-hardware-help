@@ -1,7 +1,7 @@
 ---
 title: "Secure Your Digital Files: Snag the High-Capacity 4TB Samsung T5 SSD for Just 50%% Less at Amazon | Tech News From ZDNET"
-date: 2024-12-31T16:49:13.669Z
-updated: 2025-01-04T16:09:13.831Z
+date: 2025-01-09T01:59:41.456Z
+updated: 2025-01-11T07:48:51.059Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the deal?
@@ -31,7 +31,7 @@ Save $450 on a [Samsung Galaxy Book 4 Edge](https://shop-links.co/link/?url=http
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -119,7 +119,7 @@ Lastly, the battery on the Edge is indeed impressive. [I recently tested HP's Om
 During the standard ZDNET benchmark testing of running a 4K YouTube livestream streamed over Wi-Fi at 50% brightness, I got over 13 hours of playback, way more than what is considered "good" for a laptop, and more than enough for a few days worth of standard work. Even better, while this laptop is idle, its battery life decay drops to a trickle.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -129,7 +129,7 @@ The [Samsung Galaxy Book 4 Edge](https://shop-links.co/link/?url=https%3A%2F%2Fw
 If neither of these apply to you, the Galaxy Book 4 Edge is still a phenomenal choice for its sheer star power and impressive performance alone. However, if you're on the fence about the price but still want a Copilot+ PC, you might consider the [Microsoft Surface Pro](https://www.zdnet.com/article/i-went-hands-on-with-microsofts-surface-pro-and-laptop-and-im-ready-to-ditch-my-macbook/) or the [Asus Vivobook S15](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/) \-- both are Snapdragon laptops with OLED displays available for quite a bit less.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -166,24 +166,20 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-androids-favorite-3ds-game-emulators-ranked/"><u>[Updated] 2024 Approved Android's Favorite 3DS Game Emulators Ranked</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-10-sci-fi-vr-adventures-unveiling-distant-realities/"><u>[Updated] In 2024, 10 Sci-Fi VR Adventures Unveiling Distant Realities</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-navigating-the-world-of-screen-capture-with-bandicam/"><u>[Updated] In 2024, Navigating the World of Screen Capture with Bandicam</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1-unmissable-labor-day-savings-top-24-latest-laptop-offers-you-cant-ignore-zdnet/"><u>1. Unmissable Labor Day Savings: Top 24 Latest Laptop Offers You Can't Ignore | ZDNet</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-easy-steps-for-leveraging-speech-to-text-in-google-documents/"><u>2024 Approved Easy Steps for Leveraging Speech-to-Text in Google Documents</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-optimizing-mac-ipad-iphone-browsing-via-pip/"><u>2024 Approved Optimizing Mac, iPad, iPhone Browsing via PIP</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amazon-prime-day-october-exclusive-save-250-on-the-new-apple-m3-macbook-pro/"><u>Amazon Prime Day October Exclusive: Save $250 on the New Apple M3 MacBook Pro</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/comparing-the-m3-and-m1-macbook-pro-models-is-it-time-to-switch-to-apples-newest-innovation/"><u>Comparing the M3 and M1 MacBook Pro Models: Is It Time to Switch to Apple’s Newest Innovation?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-edge-40-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Edge 40.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-the-premier-laptop-picks-from-ces-2024-a-comprehensive-review/"><u>Exploring the Premier Laptop Picks From CES 2024: A Comprehensive Review</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-hands-on-a-high-quality-15-inch-asus-notebook-from-walmart-now-for-just-250-with-all-necessary-ports-covered-spotted-gadgets-team/"><u>Get Your Hands on a High-Quality, 15-Inch Asus Notebook From Walmart Now for Just $250 with All Necessary Ports Covered - Spotted Gadgets Team</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-a-split-ergonomic-keyboard-revolutionized-my-workspace-in-just-7-days-insights-trial/"><u>How a Split Ergonomic Keyboard Revolutionized My Workspace in Just 7 Days - Insights Trial</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-motorola-moto-g73-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Motorola Moto G73 5G Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-vivo-y100-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Vivo Y100 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/microsofts-surface-laptop-with-copilotplus-outshines-macbook-air-in-three-key-areas-discover-how-on-zdnet/"><u>Microsoft's Surface Laptop with Copilot+ Outshines MacBook Air in Three Key Areas - Discover How on ZDNet!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/put-and-play-mkv-movies-on-htc-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Put and play MKV movies on HTC </u></a></li>
-<li><a href="https://win-howtos.techidaily.com/securing-the-future-with-fix-for-dxgidll-error/"><u>Securing the Future with Fix for Dxgi.dll Error</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-festive-tools-gifts-for-diy-lovers-mastering-projects-with-our-top-hammer-reviews-zdnet/"><u>Ultimate Festive Tools Gifts for DIY Lovers: Mastering Projects with Our Top Hammer Reviews | ZDNET</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-the-m3-apple-silicon-chip-beyond-revolutionary-macbooks-and-imacs/"><u>Unveiling the M3 Apple Silicon Chip: Beyond Revolutionary MacBooks & iMacs</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/aximizing-impact-with-tailored-youtube-cards-and-ends-for-2024/"><u>[New] Maximizing Impact with Tailored Youtube Cards and Ends for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/he-ultimate-resource-on-affordable-webinars-on-youtube-for-2024/"><u>[New] The Ultimate Resource on Affordable Webinars on Youtube for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-webcam-innovations-for-enhanced-connectivity-for-2024/"><u>[Updated] Webcam Innovations for Enhanced Connectivity for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-unlock-the-power-of-podcasts-15-task-filled-activities-to-do-while-immersing-in-your-favorite-talk-shows/"><u>2024 Approved Unlock the Power of Podcasts 15 Task-Filled Activities to Do While Immersing in Your Favorite Talk Shows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-corsair-icue-for-windows-1110/"><u>Download | Corsair iCUE for Windows 11/10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-epson-tm-t88v-printer-drivers-for-windows-latest-version/"><u>Download and Update EPSON TM-T88V Printer Drivers for Windows - Latest Version</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ensure-perfect-print-quality-with-updated-drivers-for-the-epson-v39-on-windows-7810/"><u>Ensure Perfect Print Quality with Updated Drivers for the Epson V39 on Windows 7/8/10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-canon-mg3000-printer-software-and-latest-firmware-updates/"><u>Free Canon MG3000 Printer Software and Latest Firmware Updates</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-lenovo-x1-carbon-ready-on-windows-10-or-7-with-these-easy-to-follow-driver-download-instructions/"><u>Get Your Lenovo X1 Carbon Ready on Windows 10 or 7 with These Easy-to-Follow Driver Download Instructions</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oppo-reno-8t-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo Reno 8T 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-laserjet-pro-m404n-driver-downloads-and-updates-get-set-for-flawless-printing-performance/"><u>HP LaserJet Pro M404n Driver Downloads and Updates: Get Set for Flawless Printing Performance</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-stable-shooting-ultimate-iphoneandroid-tripod-hits/"><u>In 2024, Stable Shooting Ultimate iPhone/Android Tripod Hits</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/the-perfect-timeline-expert-tips-on-holiday-marketing-email-strategy-with-massmail-insights/"><u>The Perfect Timeline: Expert Tips on Holiday Marketing Email Strategy with MassMail Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-the-408-error-causes-solutions-and-prevention/"><u>Understanding the 408 Error: Causes, Solutions and Prevention</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/2024pc-fps60/"><u>スムーズな動画キャプチャを実現!「2024新刊PCビデオ録画ソフト」 - FPS60にも対応した最良の選択肢</u></a></li>
 </ul></div>
 

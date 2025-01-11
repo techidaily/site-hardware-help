@@ -1,7 +1,7 @@
 ---
 title: "Lenovo's Yoga Book Ninespot: Transforming the Future of Multi-Functional Devices with Its Revolutionary Dual Screens | Insights"
-date: 2025-01-02T17:20:23.394Z
-updated: 2025-01-04T16:54:54.385Z
+date: 2025-01-05T18:05:40.755Z
+updated: 2025-01-11T08:05:31.528Z
 tags:
   - laptops
 categories:
@@ -53,17 +53,9 @@ Before you rush out and buy one today, let's take a closer look at my experience
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  What's new with this model
 
 The Yoga Book 9i has a lot of good things going for it, starting with its design and overall performance. Oh, and I forgot to mention that it comes bundled with accessories you'll surely want to use while you get used to a completely touchscreen laptop.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  1\. It's all screen, baby
 
@@ -105,6 +97,10 @@ I thoroughly enjoy the design of the Yoga Book 9i. Its looks and feels like a la
 
 For comparison, the [Dell XPS 13](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Flinks%2F9041660%2Ftype%2Fdlg%2Fsid%2Fzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%2Fhttps%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fcty%2Fpdp%2Fspd%2Fxps-13-9315-laptop%2Fxn9315fyvnh%3F) weighs 2.59 pounds, and the [13-inch MacBook Air](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-m2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) weighs in at 2.7 pounds. So it's not terribly far off, but it does feel bulkier. Perhaps the fact that you need to carry around the Folio Stand which bundles in the keyboard and stylus, along with a mouse, has left me feeling like it's a lot to manage. Because it is. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. The folio stand is fantastic
 
 Jason Cipriani/ZDNET
@@ -120,7 +116,7 @@ For example, you can place the bottom screen on the stand, with the displays sta
 When you're ready to pack up, the folio stand folds down into itself, giving you a place to store the keyboard and the stylus. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  3\. It's got plenty of power
@@ -139,11 +135,11 @@ I spent most of my time on the Yoga Book 9i doing typical computing tasks; brows
 
 With a price tag of [$2,000 for the base configuration](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-yoga-book-9i-2-in-1-13-3-2-8k-dual-screen-oled-touch-laptop-intel-core-i7-1355u-with-16gb-memory-512gb-ssd-tidal-teal%2F6533947.p%3FskuId%3D6533947&publisher_slug=itechdaily19598&exclusive=1), you're paying a premium when compared to other laptops from the likes of Dell or Acer, but you're also getting a second screen and all of the accessories in the box. 
 
-##  What I'd like to see in the next model
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+##  What I'd like to see in the next model
 
 ##  1\. More confidence in select use cases
 
@@ -159,10 +155,6 @@ For me, typing on the full-sized digital keyboard with a virtual trackpad below 
 
 Hopefully, Lenovo is able to collect enough data about how people are actually using the Yoga Book 9i in the real world and refine all of the different input and interaction methods either via a future software update or in future iterations of this design. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  2\. Battery life that lasts
 
 Jason Cipriani/ZDNET
@@ -175,6 +167,10 @@ When using the Yoga Book 9i on a daily basis, I would occasionally get nearly 7 
 
 Perhaps the most frustrating aspect of the Yoga Book 9i's battery life is the lack of standby battery with the laptop closed and sitting idle on a desk. If I unplugged it at 100% charge and set the laptop aside on my desk, the battery would be completely drained within a couple of days. I double-checked my settings to ensure the laptop is going to sleep, and I don't see anything off. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Less bloatware wouldn't hurt anyone
 
 There's a lot to like about the Yoga Book 9i, but here's one thing I'm certain most people won't like: Spending $2,000 or more on a laptop that has all sorts of fancy features and capabilities, only to find McAfee LiveSafe preinstalled. Anti-virus software is a must-have, sure, but preinstalling it is nothing more than adding bloatware to a device that users have spent a lot of money on. 
@@ -182,6 +178,10 @@ There's a lot to like about the Yoga Book 9i, but here's one thing I'm certain m
 What's more is that as you near the end of the trial -- that you never even opted into or started, mind you -- you start to receive very passive-aggressive prompts telling you your computer is at risk. The people deserve better, Lenovo.
 
 [Buy the Lenovo Yoga Book 9i $1,999 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-yoga-book-9i-2-in-1-13-3-2-8k-dual-screen-oled-touch-laptop-intel-core-i7-1355u-with-16gb-memory-512gb-ssd-tidal-teal%2F6533947.p%3FskuId%3D6533947&publisher_slug=itechdaily19598&exclusive=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Bottom line
 
@@ -227,15 +227,24 @@ If you're someone who loves using new tech that's not fully baked, and you're in
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-the-top-10-capture-cards-for-youtube-you-should-know/"><u>[New] In 2024, The Top 10 Capture Cards for YouTube You Should Know</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ai-enhancements-in-the-latest-google-chromebook-can-it-outshine-microsoft-windows-copilot-expert-insights/"><u>AI Enhancements in the Latest Google Chromebook: Can It Outshine Microsoft Windows Copilot? - Expert Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/asus-expertbook-b3-review-when-a-detachable-tablet-doesnt-meet-the-hype-insightful-evaluation-news/"><u>ASUS ExpertBook B3 Review - When a Detachable Tablet Doesn't Meet The Hype | Insightful Evaluation News</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-kyocera-windows-compatible-printer-drivers/"><u>Download & Install KYOCERA Windows-Compatible Printer Drivers</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On OnePlus 12 | Dr.fone</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-viral-video-to-visuals-converting-tweets-to-costless-cgi/"><u>In 2024, Viral Video to Visuals Converting Tweets to Costless CGI</u></a></li>
-<li><a href="https://extra-information.techidaily.com/innovating-with-no-cost-text-animation-methods/"><u>Innovating with No-Cost Text Animation Methods</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/slash-your-tech-expenses-with-this-50-gadget-unveiled/"><u>Slash Your Tech Expenses with This $50 Gadget - Unveiled</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-ranking-october-sale-metas-exclusive-51-gb-quest-3-offer-outshines-competitors-this-prime-day-insights/"><u>Top-Ranking October Sale: Meta's Exclusive 51^ GB Quest 3 Offer Outshines Competitors This Prime Day - Insights</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-superiority-of-ios-in-chatgpt-world/"><u>Unveiling the Superiority of iOS in ChatGPT World</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-dive-deep-into-the-world-of-facebook-story-creation-expert-advice-inside/"><u>[New] In 2024, Dive Deep Into the World of Facebook Story Creation Expert Advice Inside</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-master-the-art-of-recording-youtube-videos-without-spending/"><u>[New] In 2024, Master the Art of Recording YouTube Videos Without Spending</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-best-youtube-video-reaction-ideas/"><u>[Updated] 2024 Approved Best YouTube Video Reaction Ideas</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-oppo-a78-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effective-resolution-of-pci-secure-data-handler-controller-difficulties/"><u>Effective Resolution of PCI Secure Data Handler Controller Difficulties</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-intel-integrated-graphics-software-for-windows-11-installation-tutorial/"><u>Get the Latest Intel Integrated Graphics Software for Windows 11: Installation Tutorial</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-graphics-up-to-speed-instant-geforce-gtx-460-windows-drivers/"><u>Get Your Graphics Up to Speed: Instant GeForce GTX 460 Windows Drivers!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-the-newest-nvidia-rtx-2070-super-gpu-drivers-for-windows-operating-systems/"><u>How to Get the Newest NVIDIA RTX 2070 Super GPU Drivers for Windows Operating Systems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-v29e-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on V29e</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-11-pro-passcode-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 11 Pro Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-crack-the-code-of-tinders-elite-profiles-with-these-tricks/"><u>In 2024, Crack the Code of Tinder's Elite Profiles with These Tricks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-leap-into-the-future-with-strategic-technology-enhancements/"><u>In 2024, Leap Into the Future with Strategic Technology Enhancements</u></a></li>
+<li><a href="https://driver-download.techidaily.com/installing-wacom-intuos-warty-art-pen-tablet-drivers-on-windows-full-compatibility-ensured/"><u>Installing Wacom Intuos Warty Art Pen Tablet Drivers on Windows - Full Compatibility Ensured!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/lenovo-x260-thinkpad-essential-driver-downloads-and-troubleshooting-for-windows-11-users/"><u>Lenovo X260 (ThinkPad) Essential Driver Downloads and Troubleshooting for Windows 11 Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/official-hp-printing-software-downloads-compatible-with-windows-1087/"><u>Official HP Printing Software Downloads Compatible with Windows 10/8/7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-simple-guide-install-the-latest-epson-et-4550-printer-drivers-on-your-pc/"><u>Quick and Simple Guide: Install the Latest Epson ET-4550 Printer Drivers on Your PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-tutorial-correcting-the-corrupt-disk-error-for-smooth-steam-gaming/"><u>Step-by-Step Tutorial: Correcting the 'Corrupt Disk' Error for Smooth Steam Gaming</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-downloading-and-playing-thrustmasters-t300-on-modern-windows-operating-systems/"><u>Ultimate Guide: Downloading and Playing Thrustmaster's T300 on Modern Windows Operating Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrade-and-update-your-hp-laserjet-m506-printer-drivers-with-ease/"><u>Upgrade and Update Your HP LaserJet M506 Printer Drivers with Ease</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Hub: In-Depth Reviews and News"
-date: 2024-08-13T12:55:15.792Z
-updated: 2024-08-14T12:55:15.792Z
+date: 2025-01-07T04:13:40.693Z
+updated: 2025-01-10T22:15:20.812Z
 tags:
   - cpu
 categories:
@@ -28,8 +28,9 @@ _"There has been no change to the sales embargo of the 5000XT,"_ an AMD represen
  The Ryzen 9 5900XT, on the other hand, should provide a significant upgrade over the current[Ryzen 9 5900X](https://www.tomshardware.com/reviews/amd-ryzen-9-5950x-5900x-zen-3-review) . Weirdly, AMD chose that model name since the Ryzen 9 5900XT is closer to the[Ryzen 9 5950X](https://www.tomshardware.com/reviews/amd-ryzen-9-5950x-5900x-zen-3-review) than the Ryzen 9 5900X. The Ryzen 9 5900XT wields the same 16 Zen 3 cores as the former in addition to the 64MB L3 cache and 105W TDP. The Ryzen 9 5900XT has a 100 MHz lower base and boost clock than the Ryzen 9 5950X.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -40,14 +41,11 @@ _"There has been no change to the sales embargo of the 5000XT,"_ an AMD represen
 
  AMD has kept the pricing under wraps for the Ryzen 9 5900XT and the Ryzen 7 5800XT. However, we should know tomorrow how much the new refreshed chips cost. Don't forget to double back for our review of the two processors and two new 5000XT SKUs.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -56,4 +54,24 @@ _"There has been no change to the sales embargo of the 5000XT,"_ an AMD represen
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/crafting-an-impressive-executive-summary-for-stakeholder-engagement/"><u>Crafting an Impressive Executive Summary for Stakeholder Engagement</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/defending-himself/"><u>Defending Himself</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-the-official-driver-for-your-steelseries-mouse/"><u>Download & Install the Official Driver for Your SteelSeries Mouse</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722973395727-download-and-update-intel-reliable-array-raid-controller-drivers-for-windows-111087/"><u>Download & Update Intel Reliable Array (RAID) Controller Drivers for Windows 11/10/8/7</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/entender-las-fechas-en-espanol-lunes-a-domingo/"><u>Entender Las Fechas en Español, Lunes a Domingo</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-guide-overcoming-universal-realtek-hd-driver-compatibility-issues/"><u>Expert Guide: Overcoming Universal Realtek HD Driver Compatibility Issues</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/explore-the-future-of-gaming-cases-the-phanteks-xt-pro-ultra-packed-with-advanced-lighting-and-superior-ventilation/"><u>Explore the Future of Gaming Cases: The Phanteks XT Pro Ultra, Packed with Advanced Lighting & Superior Ventilation</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-13-ultra-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi 13 Ultra Location by Number | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-and-install-thinkpad-t420s-drivers-for-smooth-windows-t-10-experience/"><u>How to Update and Install ThinkPad T420s Drivers for Smooth Windows T 10 Experience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-or-install-hp-universal-printing-applications-ufd/"><u>How to Update or Install HP Universal Printing Applications (UFD)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-calculating-video-data-use-in-a-full-day-watch/"><u>In 2024, Calculating Video Data Use in a Full-Day Watch</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-realme-gt-neo-5-se-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Realme GT Neo 5 SE Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-character-count-limiting-chatgpt-conversations/"><u>Is Character Count Limiting ChatGPT Conversations?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/make-the-smart-move-4-compelling-reasons-to-embrace-claude-3-rather-than-chatgpt/"><u>Make the Smart Move: 4 Compelling Reasons to Embrace Claude 3 Rather than ChatGPT</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722959583005-master-the-update-fresh-drivers-for-hp-elitebook-query-solve-the-equation-x-plus-5-x2/"><u>Master the Update: Fresh Drivers for HP EliteBook # Query: Solve the Equation $X + 5 = X^2$.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/newest-tp-link-wireless-network-card-software-compatible-with-win-1187-systems/"><u>Newest TP-Link Wireless Network Card Software | Compatible with Win 11/8/7 Systems</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/soundscapes-for-social-scenarios-on-facebook/"><u>Soundscapes for Social Scenarios on Facebook</u></a></li>
+</ul></div>
 

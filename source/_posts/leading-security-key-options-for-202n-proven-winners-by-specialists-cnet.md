@@ -1,7 +1,7 @@
 ---
 title: "Leading Security Key Options for 202N: Proven Winners by Specialists | CNET"
-date: 2024-12-29T16:08:41.111Z
-updated: 2025-01-04T17:41:51.980Z
+date: 2025-01-03T23:59:41.662Z
+updated: 2025-01-10T23:12:28.014Z
 tags:
   - laptops
 categories:
@@ -30,6 +30,10 @@ ZDNET's favorite security key is the [Yubico YubiKey 5 NFC](https://buy.geni.us/
 
 ZDNET has tested many security keys throughout the years and frequently tracks market developments and changes. We often use security keys ourselves and lean upon our personal experience to shape our recommendations. Below, you will find our top picks for security keys today. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Best security keys of 2024
 
 Show less 
@@ -47,7 +51,7 @@ Cons
 ## Yubico YubiKey 5 NFC
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best security key overall
@@ -76,10 +80,6 @@ Pros
 Cons 
 * No NFC so no support for iPhone and Android
 * Doesn't support macOS logins
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Thetis Fido U2F Security Key
 
@@ -110,11 +110,11 @@ Cons
 * Expensive
 * No NFC compatibility
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Yubico YubiKey 5 Nano
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best security key for travel
 
@@ -143,7 +143,7 @@ Cons
 * Only supports FIDO protocols
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Yubico Security Key C NFC
@@ -176,14 +176,10 @@ Cons
 * May need to download additional drivers
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Kensington Verimark Fingerprint Key
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### The best security key for biometrics
 
@@ -212,6 +208,10 @@ Cons
 * No biometrics
 
 ## Google Titan security key
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The best multi-platform security key
 
@@ -268,6 +268,10 @@ Security keys are an investment in time and money and so it is best to select th
 * **Hardware**: You might need hardware that complies with particular standards or has specific ports for connecting to your devices, so check on your key's specifications prior to purchase.
 * **Price**: Choose a security key that matches your budget.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How were these security keys chosen?
 
 Extensive research has been conducted on every security key that is listed here across a wide range of devices and services. In some cases, this includes testing the keys on different operating systems, web browsers, and services to ensure they work smoothly and efficiently.
@@ -281,10 +285,6 @@ Our main criteria for selecting these security keys are:
 * **Security features**: Naturally, the security features of a security key are paramount. We considered each device's support for different authentication protocols alongside security measures including passwordless authentication.
 * **Price point**: The cost of your next security key is an important factor to consider. As they are physical, we recommend that you pick up two, just in case one ends up lost. As a result, we wanted to ensure this was affordable.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What are security keys and how do they work?
 
 A security key is a physical device that generates a unique code used with a password to authenticate your identity when logging into a website or application. It uses public-key cryptography and is more secure than traditional 2FA methods.
@@ -295,10 +295,6 @@ The FIDO Alliance consortium has developed open standards for authentication pro
 
 Devices that are FIDO certified allow users to quickly sign into their accounts using physical keys or biometric passkeys, and have also achieved FIDO protection and security standards. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why are security keys better than SMS-based 2FA?
 
 SMS is open to SIM hijacking, while a physical key cannot be copied or the data intercepted. Think about it this way: 2FA verification codes sent via SMS messaging may be intercepted if your smartphone has been infected with malware, including spyware, but unless an attacker has your physical security key in their hand, they cannot grab the code required to access your account.
@@ -307,17 +303,21 @@ SMS is open to SIM hijacking, while a physical key cannot be copied or the data 
 
 We recommend purchasing at least two -- one that you use day-to-day and one to keep as a backup. For example, you can keep one in your home office or attached to a keychain if you're on the road, while one is stashed safely away to cover you if you lose your primary key. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Can security keys be hacked?
 
 Security keys are one of the best authentication methods on the market today and they have very little exploitable attack surface, making them difficult to 'hack' in any way. While there are cases of keys being cloned for academic purposes, as security keys are not constantly connected to the Internet, you don't have to worry about the most common attack vectors having any impact on them. Just keep your key in a safe place.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How do security keys prevent phishing?
 
 In layman's terms, security keys use encryption and security tokens that only work on genuine websites rather than fake phishing domains. Public and private keys work together to authenticate a user session, but the private key is held on the physical device, reducing the attack surface. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are there alternative security keys worth considering?
 
@@ -367,22 +367,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-futures-best-on-display-premium-video-cameras-in-2-written-by-michael-a-risley/"><u>[Updated] Future's Best on Display Premium Video Cameras in 2 Written by Michael A. Risley</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-the-mystery-of-non-existent-videos-insight-into-fb-feed-absence/"><u>[Updated] The Mystery of Non-Existent Videos Insight Into FB Feed Absence</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-unleashing-potential-vr-innovations-for-fun-and-games/"><u>[Updated] Unleashing Potential VR Innovations for Fun & Games</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/best-buys-before-prime-day-2024-top-savings-alerts-on-zdnet/"><u>Best Buys Before Prime Day 2024: Top Savings Alerts on ZDNet</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/bypass-tools-to-bypass-lock-screengalaxy-s23-tactical-edition-by-drfone-android-unlock-android-unlock/"><u>Bypass Tools to Bypass Lock Screen(Galaxy S23 Tactical Edition)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discovering-the-innovative-transparency-of-lenovos-new-laptop-at-mwc-a-firsthand-experience/"><u>Discovering the Innovative Transparency of Lenovo's New Laptop at MWC - A Firsthand Experience</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/essential-technology-must-haves-for-diy-home-recording-studios-insights/"><u>Essential Technology Must-Haves for DIY Home Recording Studios - Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/experiencing-the-ultraportable-lenovo-snapdragon-x-elite-a-review-of-its-incredible-thin-design/"><u>Experiencing the Ultraportable Lenovo Snapdragon X Elite: A Review of Its Incredible Thin Design</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719578854143-how-to-immerse-yourself-in-a-language-6-helpful-tips/"><u>How To Immerse Yourself In A Language: 6 Helpful Tips</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-on-apple-iphone-13-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID on Apple iPhone 13</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/introducing-the-new-lightning-fast-chrome-browser-by-google-a-game-changer-for-windows-users-watch-out-for-hidden-details/"><u>Introducing the New Lightning-Fast Chrome Browser by Google: A Game Changer for Windows Users - Watch Out for Hidden Details!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-with-tom-expert-hardware-analysis/"><u>Mastering Gadgets with Tom - Expert Hardware Analysis</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/mastering-video-editing-on-mac-a-guide-to-os-x-mavericks-for-2024/"><u>Mastering Video Editing on Mac A Guide to OS X Mavericks for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-pick-ultra-portable-workhorse-for-remote-professionals-a-test-review-by-zdnet/"><u>Top Pick: Ultra-Portable Workhorse for Remote Professionals - A Test Review by ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-affordable-alternative-to-macbook-air-now-discounted-the-ultimate-guide-pc-world/"><u>Top-Rated Affordable Alternative to MacBook Air Now Discounted: The Ultimate Guide - PC World</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-selection-2024s-leading-cpus-reviewed-by-zdnet-for-gaming-excellence/"><u>Ultimate Selection: 2024'S Leading CPUs Reviewed by ZDNet for Gaming Excellence</u></a></li>
-<li><a href="https://win11.techidaily.com/uncover-windows-photo-vault-spot/"><u>Uncover Window's Photo Vault Spot</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-expert-suggestions-prime-frame-addition-software-2023-update/"><u>[Updated] In 2024, Expert Suggestions - Prime Frame Addition Software, 2023 Update</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-affordable-wonders-in-virtual-reality-headsets-from-china/"><u>2024 Approved Affordable Wonders in Virtual Reality Headsets From China</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-clear-choice-between-projectors-and-televisions-for-4k-quality/"><u>2024 Approved The Clear Choice Between Projectors and Televisions for 4K Quality</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/brother-mfc-7860dw-easy-download-of-updated-printer-drivers-for-windows-systems/"><u>Brother MFC-7860DW: Easy Download of Updated Printer Drivers for Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-guide-to-connecting-your-wd-ses-external-drive-via-usb-up-to-date-version/"><u>Comprehensive Guide to Connecting Your WD SES External Drive via USB - Up-to-Date Version</u></a></li>
+<li><a href="https://some-tips.techidaily.com/decoding-the-shifts-in-programming-languages-demand-since-2016-and-implications-for-developers-analysis-by-zdnet/"><u>Decoding the Shifts in Programming Languages' Demand Since 2016 and Implications for Developers - Analysis by ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/few-shot-learning-capability/"><u>Few-Shot Learning Capability</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-updated-geforce-rtx-2070-graphics-card-drivers-for-windows-1187-systems/"><u>Get Updated Geforce RTX 2070 Graphics Card Drivers for Windows 11/8/7 Systems</u></a></li>
+<li><a href="https://win-bits.techidaily.com/guide-express-installation-dun-hdd-portable-en-lecteur-principal/"><u>Guide Express: Installation D'un HDD Portable en Lecteur Principal</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/how-to-fix-communication-glitches-between-chatgpt-and-plugin-services/"><u>How To Fix Communication Glitches Between ChatGPT & Plugin Services</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-install-recent-lenovo-thunderbolt-3-peripheral-connection-driver-update/"><u>How to Install Recent Lenovo Thunderbolt ^3 Peripheral Connection Driver Update</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-oneplus-12r-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On OnePlus 12R without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/innovative-editions-windowed-film-editing-software/"><u>Innovative Editions Windowed Film Editing Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-oculus-device-drivers-for-all-windows-versions-111087-get-them-here/"><u>Latest Oculus Device Drivers for All Windows Versions (11/10/8/7) - Get Them Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-sas-driver-updates-and-downloads-compatible-with-windows-11-8-and-7/"><u>Latest SAS Driver Updates & Downloads: Compatible with Windows 11, 8, and 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722971830621-seamless-connectivity-with-newest-tp-link-tusb400-bluetooth-adapter-drivers-download-here/"><u>Seamless Connectivity with Newest TP-Link TUSB400 Bluetooth Adapter Drivers – Download Here!</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/top-4-methods-to-transform-wmv-files-into-mp4-format-across-pcs-macs-and-web-services/"><u>Top 4 Methods to Transform WMV Files Into MP4 Format Across PCs, MACs & Web Services</u></a></li>
 </ul></div>
 

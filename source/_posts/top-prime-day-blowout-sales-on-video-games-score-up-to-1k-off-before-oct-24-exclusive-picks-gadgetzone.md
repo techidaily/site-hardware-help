@@ -1,7 +1,7 @@
 ---
 title: "Top Prime Day Blowout Sales on Video Games: Score Up to $1K Off Before Oct '24 - Exclusive Picks | GadgetZONE"
-date: 2025-01-01T17:18:59.947Z
-updated: 2025-01-04T17:30:52.423Z
+date: 2025-01-09T17:02:22.802Z
+updated: 2025-01-11T02:08:28.573Z
 tags:
   - laptops
 categories:
@@ -119,6 +119,10 @@ ZDNET
 * [The Last of Us Part 1 standard edition for $46 (save $24 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FThe-Last-of-Us-Part-I-PlayStation-5%2F1643604134%3FclassType%3DVARIANT&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Experience the award-winning story of Ellie and Joel as they make their way to Denver and the Fireflies through hordes of dangerous, fungus-infected zombies.
 * [Corsair Void RGB Elite wireless gaming headset for $80 (save $30 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCorsair-Wireless-Premium-Headset-Surround%2Fdp%2FB07X8SJ8HM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C08104279-4153-4afa-9cbf-f46290dc4fc2%7Cdtp&dtb=1): With 7.1CH surround sound, an omnidirectional mic, and up to a 40-foot range, the Void RGB Elite gives you immersive game music and sound cues, clear chat, and freedom of movement.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## October Prime Day Xbox Series X|S deals
 
 * [Xbox Elite Series 2 Core wireless controller for $140 (save $40 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FElite-2-Controller-Black-Xbox-One%2Fdp%2FB07SFKTLZM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C08104279-4153-4afa-9cbf-f46290dc4fc2%7Cdtp&dtb=1): A premium-grade wireless controller for the Xbox Series X|S. It also works with PC, Android, and iOS mobile devices.
@@ -138,6 +142,10 @@ ZDNET
 * [Dragon's Dogma 2 standard edition for $44 (save $23 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FDragon-s-Dogma-2-Xbox-Series-X%2F5262667261%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An action RPG sequel to 2012's Dragon's Dogma featuring a deep class system and skill tree, AI-controlled squad mates for taking on tougher enemies and large-scale battles, and a day-night cycle that changes creature encounters and their strength.
 * [Join Xbox Game Pass Ultimate for $1 (then $19.99 per month)](https://www.xbox.com/en-US/xbox-game-pass#join): Get access to hundreds of PC and Xbox Series X|S games for cloud gaming support, monthly free games, and exclusive discounts.
 * [Corsair Virtuoso RGB Wireless XT wireless gaming headset for $195 (save $75 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCORSAIR-VIRTUOSO-WIRELESS-High-Fidelity-Bluetooth%2Fdp%2FB09BXZKNDB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C08104279-4153-4afa-9cbf-f46290dc4fc2%7Cdtp&dtb=1): A high-end wireless gaming headset with Dolby Atmos support, iCUE RGB lighting control, and a broadcast-grade microphone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## October Prime Day Nintendo deals
 
@@ -179,6 +187,10 @@ Kyle Kucharski/ZDNET
 * [HP Victus 15L desktop for $480 (save $370 at HP)](https://www.dpbolvw.net/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fvictus-by-hp-15l-gaming-desktop-tg02-0325m-59a32av-1&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An entry-level gaming desktop built with an AMD Ryzen 5 5600G processor, AMD Radeon RX 6400 GPU, 8GB of RAM, and a 256GB SSD.
 * [Alienware Aurora R16 for $3,700 (save $1,000 at Dell)](https://www.dpbolvw.net/click-9041660-15734614?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdesktop-computers%2Falienware-aurora-r16-gaming-desktop%2Fspd%2Falienware-aurora-r16-desktop%2Fuseapctor16icc2&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Alienware's flagship gaming desktop is built with a 14th gen Intel Core i9 CPU, Nvidia GeForce RTX 4090 graphics card, 64GB of RAM, and 4TB of storage.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## October Prime Day gaming laptop deals
 
 Lenovo
@@ -208,45 +220,33 @@ Samsung/ZDNET
 * [Razer DeathStalker V2 Pro TKL wireless keybaord for $145 (save $75 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Frazer-deathstalker-v2-pro-tkl-wireless-optical-linear-switch-gaming-keyboard-with-low-profile-design-black%2F6512382.p%3FskuId%3D6512382&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A mini, tenkey-less keyboard with optical linear switches and a low-profile design.
 * [Roccat Vulcan II Mini Air for $64 (save $116 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Froccat-vulcan-ii-mini-air-65-wireless-optical-mechanical-gaming-keyboard-with-rgb-illumination-black%2F6547284.p%3FskuId%3D6547284&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A mini, tenkey-less mechanical keyboard with optical switches, RGB backlighting, and USB-C charging.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## October Prime Day graphics card deals
 
 * [Asus TUF Nvidia GeForce RTX 4070 Ti for $750 (save $110 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-nvidia-geforce-rtx-4070-ti-tuf-overclock-12gb-gddr6x-pci-express-4-0-graphics-card-black%2F6529351.p%3FskuId%3D6529351&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This GPU offers 12GB of VRAM, support for up to 4 displays, and 8K video output.
 * [Asus Nvidia GeForce RTX 4070 Overclock for $580 (save $100 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-nvidia-geforce-rtx-4070-overclock-12gb-gddr6x-pci-express-4-0-graphics-card-black%2F6540002.p%3FskuId%3D6540002&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This Nvidia-based GPU offers 12GB of DDR6 VRAM, a base clock speed of 2.55GHz that can be overclocked to 2.58GHz, 8K video output support, and support for up to 4 displays.
 * [Asus TUF Nvidia GeForce RTX 3080 Ti for $925 (save $472 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FTUF-NVIDIA-GeForce-RTX-3080-TI-Graphic-Card-12-GB-GDDR6-384-bit-Bus-Width-PCI-Express-4-0-DisplayPort-HDMI%2F994157887%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) Nvidia's high-end 30 Series graphics card offers 12GB of VRAM, military-grade capacitors for better power efficiency, and support for up to 4 displays.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### When is Amazon Prime Day 2024?
 
 Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, will run through October 8 and 9\. Some brands may offer discounts and coupons ahead of the official sale. And other retailers like [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2F&publisher_slug=itechdaily19598&exclusive=1) and [Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fdeals%3FathAsset%3DeyJhdGhjcGlkIjoiMmU5ZjFjZmMtOTVhZC00NDlhLWEyNzgtZTU3ZTZlOTFjZmEwIn0%3D%26athena%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp) are running their own, rival sales at the same time. Which is great news for anyone who likes to compare discounts and prices to make sure they're getting the absolute best deal possible. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Are games, consoles, and accessories really cheaper on Prime Day?
 
 Games, consoles, and accessories can and do go on sale during Prime Day, though not every brand or manufacturer may participate. Some brands may have competing sales at other retailers or on their own direct-sale sites, which is great news for anyone who likes to compare discounts to make sure they're getting the best deal possible.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How did we choose these Prime Day deals?
 
 I only chose deals on games that have been critically and commercially well-received, as well as accessories and peripherals from well-known and reputable brands like Razer and Logitech. I also only included deals that offered at least a 15 percent discount.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the best October Prime Day 2024 deals?
 
@@ -313,22 +313,20 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-dash.techidaily.com/instant-download-epson-wf-7710-printer-drivers-fully-tested-on-win-118187/"><u>[INSTANT DOWNLOAD] Epson WF-7710 Printer Drivers Fully Tested on Win 11/8.1/8/7</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-craft-compelling-loops-best-practices-for-instagram-posts/"><u>[New] 2024 Approved Craft Compelling Loops Best Practices for Instagram Posts</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-top-10-best-farming-games/"><u>[New] 2024 Approved Top 10 Best Farming Games</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-harmonic-havens-expert-picks-of-ringtone-download-sites/"><u>[Updated] Harmonic Havens Expert Picks of Ringtone Download Sites</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-sow-and-reap-rivalries-farming-games-to-remember-for-2024/"><u>[Updated] Sow & Reap Rivalries Farming Games to Remember for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723262294871-combat-your-intel-processors-instability-get-the-new-patch-from-msi-and-asrock-available-on-asus-rog-motherboards-too/"><u>Combat Your Intel Processor's Instability: Get the New Patch From MSI and ASRock, Available on Asus ROG Motherboards Too</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-acer-predator-xb271hu-drivers-quickly-and-easily/"><u>Download Acer Predator XB271HU Drivers | Quickly & Easily</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722975485021-easy-installation-of-lenovo-thinkpad-t430-drivers-on-windows-operating-systems/"><u>Easy Installation of Lenovo ThinkPad T430 Drivers on Windows Operating Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/find-and-install-epson-wf-3540-drivers-for-optimal-performance-with-windows/"><u>Find and Install Epson WF-3540 Drivers for Optimal Performance with Windows</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-enhancing-your-recording-setup-with-rl-tech-insights/"><u>In 2024, Enhancing Your Recording Setup with RL Tech Insights</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-the-art-of-chroma-keying-in-fcp-x-expert-techniques-for-stunning-results/"><u>New 2024 Approved The Art of Chroma Keying in FCP X Expert Techniques for Stunning Results</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/overcoming-connectivity-hurdles-the-ultimate-fix-for-windows-7-network-adapters/"><u>Overcoming Connectivity Hurdles: The Ultimate Fix for Windows 7 Network Adapters</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/realtek-rtl8188cu-wi-fi-drivers-compatible-with-windows-10-and-nativet-to-windows-7-download-now/"><u>Realtek RTL8188CU Wi-Fi Drivers: Compatible with Windows 10 & Nativet to Windows 7 - Download Now!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-updating-your-webcam-driver-on-windows-11/"><u>Step-by-Step Guide: Updating Your Webcam Driver on Windows 11</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/step-by-step-tutorial-on-operating-and-navigating-moveavi-software/"><u>Step-by-Step Tutorial on Operating and Navigating MoveAVI Software</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722957707630-temperature-ranges-during-different-growth-stages-from-spore-germination-to-fruiting-bodies-emergence/"><u>Temperature Ranges During Different Growth Stages From Spore Germination to Fruiting Bodies Emergence.</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/tiktok-gaming-top-10-gaming-tiktokers/"><u>Tiktok Gaming | Top 10 Gaming Tiktokers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-detailed-insights-into-youtubes-perfected-aspect-ratios-for-2024/"><u>[New] Detailed Insights Into YouTube's Perfected Aspect Ratios for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-earnings-enlightenment-joshi-and-youtube-success-stories/"><u>[Updated] 2024 Approved Earnings Enlightenment Joshi and YouTube Success Stories</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-counterclockwise-content-youtube-replay-methods-for-2024/"><u>[Updated] Counterclockwise Content YouTube Replay Methods for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-18-breakthrough-metaverse-models-for-enhanced-perspective/"><u>2024 Approved 18 Breakthrough Metaverse Models for Enhanced Perspective</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-no-hassle-sending-tweeted-videos-to-whatsapp/"><u>2024 Approved No Hassle Sending Tweeted Videos to WhatsApp</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-embraces-siri-the-shift-from-bing-to-ai-powered-search-solutions-an-innovation-analysis/"><u>Apple Embraces Siri: The Shift From Bing to AI-Powered Search Solutions - An Innovation Analysis</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/apples-ios-a-treasure-trove-of-vr-game-hits/"><u>Apple's iOS A Treasure Trove of VR Game Hits</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bring-back-your-chatgpt-moments-expert-tips-on-accessing-erased-conversation-histories/"><u>Bring Back Your ChatGPT Moments: Expert Tips on Accessing Erased Conversation Histories</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-ultimate-guide-to-installing-a-validity-fingerprint-sensor-fast-and-simple-steps/"><u>Download the Ultimate Guide to Installing a Validity Fingerprint Sensor - Fast and Simple Steps</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-installation-up-to-date-drivers-for-your-dell-xps-13-computer/"><u>Effortless Installation: Up-to-Date Drivers for Your Dell XPS 13 Computer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fixing-compatibility-issues-with-intel-hd-graphics-nvidia-on-your-windows-pc-solved/"><u>Fixing Compatibility Issues with Intel HD Graphics nVIDIA on Your Windows PC – Solved</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-canon-pixma-mx922-windows-driver-updates/"><u>Get the Newest Canon PIXMA MX922 Windows Driver Updates</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-and-update-brother-mfc-l2740dw-windows-drivers-for-free/"><u>How to Get and Update Brother MFC-L2740DW Windows Drivers for Free</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-nvidia-mx150-graphics-card-driver-updates-and-downloads-for-windows-users/"><u>Latest Nvidia MX150 Graphics Card Driver Updates and Downloads for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-easy-startech-usb-visual-adapter-software-free-download/"><u>Quick and Easy: StarTech USB Visual Adapter Software Free Download</u></a></li>
 </ul></div>
 

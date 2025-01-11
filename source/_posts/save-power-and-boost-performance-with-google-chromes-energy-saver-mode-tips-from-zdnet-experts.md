@@ -1,7 +1,7 @@
 ---
 title: Save Power and Boost Performance with Google Chrome's Energy Saver Mode - Tips From ZDNet Experts
-date: 2025-01-03T16:18:36.434Z
-updated: 2025-01-04T16:26:22.052Z
+date: 2025-01-09T01:24:35.823Z
+updated: 2025-01-11T07:03:53.896Z
 tags:
   - laptops
 categories:
@@ -22,10 +22,6 @@ Google
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### See also
 
 * [How to use Google Pixel's Magic Eraser to wipe out photobombers](https://www.zdnet.com/article/how-to-use-magic-eraser-on-the-google-pixel/)
@@ -39,12 +35,16 @@ Google Chrome is known as a bit of a [resource hog](https://www.zdnet.com/articl
 
 In an attempt to make the browser a bit less of a drain on the batteries of portable devices, Google has rolled out a new feature called Energy Saver mode. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to enable Energy Saver mode on Google Chrome
 
 It's currently an experimental feature that's not enabled by default, so you'll need to enable it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Requirements
@@ -52,7 +52,7 @@ It's currently an experimental feature that's not enabled by default, so you'll 
 First, you need to be running version 108 or higher of Google Chrome on Windows, Mac, Linux, or Chromebooks. This version is rolling out to users as of Tuesday, Nov. 29\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Check your Chrome browser version
@@ -66,7 +66,7 @@ If you are not yet running version 108 or higher, you need to update.
 **Also:** [**The best Cyber Monday Chromebook deals still available**](https://www.zdnet.com/article/cyber-monday-chromebook-deals-november-28-2022/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable the experimental feature
@@ -94,7 +94,7 @@ Adrian Kingsley-Hughes/ZDNET
 Find the flag, change the drop-down menu for the flag to Enabled**,** and then click Restart to apply the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Select when the battery saver feature will activate
@@ -153,22 +153,17 @@ If you want to roll this setting back, head back to the "Enable the battery save
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/op-15-secrets-to-building-quality-free-ad-videos-for-youtube/"><u>[New] Top 15 Secrets to Building Quality Free Ad Videos for YouTube</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-detailed-insights-for-optimal-screenrec-techniques/"><u>[Updated] Detailed Insights for Optimal ScreenRec Techniques</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-essential-templates-and-makers-insights-for-end-credits-for-2024/"><u>[Updated] Essential Templates & Makers' Insights for End Credits for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-from-unknown-to-famous-boosting-video-views-on-youtube-step-by-step/"><u>2024 Approved From Unknown to Famous Boosting Video Views on YouTube Step-by-Step</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-understanding-and-complying-with-instagrams-audio-ownership-laws/"><u>2024 Approved Understanding and Complying with Instagram's Audio Ownership Laws</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-the-latest-canon-pixma-mg490-printer-drivers-on-windows/"><u>Download and Install the Latest Canon PIXMA MG490 Printer Drivers on Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-troubleshooting-tips-for-downloading-sandisk-ssd-drivers/"><u>Easy Troubleshooting Tips for Downloading SanDisk SSD Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722971687928-enjoy-seamless-wi-fi-connectivity-with-our-updated-network-device-drivers-free-download/"><u>Enjoy Seamless Wi-Fi Connectivity with Our Updated Network Device Drivers – Free Download!</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-on-solving-call-of-dutys-black-ops-cold-war-error-code-887a0005-explained/"><u>Expert Tips on Solving Call of Duty's Black Ops Cold War Error - Code 887A0005 Explained</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-m-audio-fast-track-ultra-driver-revolutionize-your-listening-experience-tonight/"><u>Free M-Audio Fast Track Ultra Driver: Revolutionize Your Listening Experience Tonight!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-graphics-card-drivers-geforce-rtx-asterisk-3070-ti-compatible-with-win-11-8-and-7/"><u>Get the Latest Graphics Card Drivers: GeForce RTX Asterisk 3070 Ti - Compatible with Win 11, 8 & 7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-apply-connexant-driver-update-on-windows-11-update-2004/"><u>How To Apply Connexant Driver Update On Windows 11 Update 2004</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/laptop-audio-not-working-solve-the-silent-problem-today/"><u>Laptop Audio Not Working? Solve the Silent Problem Today</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722969911817-latest-version-of-nvidia-quadro-rtx-ns-drivers-for-win-11107-free-download-available/"><u>Latest Version of Nvidia Quadro RTX N's Drivers for Win 11/10/7 - Free Download Available</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/nvidia-geforce-rtx-2nvidia-2070-download-current-drivers-for-windows-7811-systems/"><u>NVIDIA GeForce RTX 2nVidia 2070: Download Current Drivers for Windows 7/8/11 Systems</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95782021-9781594775895-tai-chi-according-to-the-i-ching/"><u>T'ai Chi According to the I Ching | Free Book</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-add-magic-to-your-phone-videos-best-animated-text-apps/"><u>Updated Add Magic to Your Phone Videos Best Animated Text Apps</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-cumulative-community-capture/"><u>[Updated] Cumulative Community Capture</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-perfect-your-xbox-footage-4-recording-strategies-revealed-for-2024/"><u>[Updated] Perfect Your Xbox Footage 4 Recording Strategies Revealed for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-setup-how-to-update-your-microsoft-ergo-keyboard-drivers/"><u>Effortless Setup: How to Update Your Microsoft Ergo Keyboard Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-sm-bus-controller-software-compatible-with-windows-111087-full-download/"><u>Free SM Bus Controller Software: Compatible with Windows 11/10/8/7 – Full Download</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-does-pokegoplusplus-still-work-on-apple-iphone-7ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does PokeGo++ still work on Apple iPhone 7/iPad? | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-the-gamers-guide-to-exceptional-video-sessions/"><u>In 2024, The Gamers' Guide to Exceptional Video Sessions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/safely-download-and-install-sades-headset-drivers-compatible-with-windows-os/"><u>Safely Download and Install Sades Headset Drivers Compatible with Windows OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-downloading-and-setting-up-epson-xp-430-drivers-for-windows-users/"><u>Step-by-Step Tutorial: Downloading and Setting Up Epson XP-430 Drivers for Windows Users</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-nubia-red-magic-8s-pro-by-drfone-android/"><u>Top 10 Password Cracking Tools For Nubia Red Magic 8S Pro</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranked-ipad-picks-for-students-academic-performance-boosters-techadvisor/"><u>Top-Ranked iPad Picks for Students - Academic Performance Boosters | TechAdvisor</u></a></li>
+<li><a href="https://win-able.techidaily.com/wwe-2k22-pc-version-why-does-it-keep-crashing-solutions-inside/"><u>WWE 2K22 PC Version: Why Does It Keep Crashing? - Solutions Inside</u></a></li>
 </ul></div>
 

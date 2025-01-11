@@ -1,7 +1,7 @@
 ---
 title: Top 2023 Dual-Purpose Device with a Hidden Gem for Workspaces Uncovered by ZDNet
-date: 2025-01-03T16:21:55.509Z
-updated: 2025-01-04T17:01:34.635Z
+date: 2025-01-04T08:42:15.970Z
+updated: 2025-01-10T19:29:21.761Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -83,7 +83,7 @@ Alongside them are a pair of discrete microphones capable of picking out the fin
 So the high visual resolution, combined with the powerful audio system and recording features, make the HP Elitebook x360 one of the better laptops out there for on-the-go video calls.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -122,18 +122,18 @@ For more traditional users, I'd recommend the [Acer Swift 14](https://shop-links
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/updated-journey-to-crafting-a-unique-alphanumeric-marker-for-tiktok-for-2024/"><u>[Updated] Journey to Crafting a Unique Alphanumeric Marker for TikTok for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1-discovering-innovation-my-experience-testing-lenovos-revolutionary-auto-swivel-laptop-at-ifa-202n-insights/"><u>1. Discovering Innovation: My Experience Testing Lenovo's Revolutionary Auto-Swivel Laptop at IFA 202N - Insights</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-discover-comedy-tear-fusion-in-these-highest-rated-memetic-accounts/"><u>2024 Approved Discover Comedy-Tear Fusion in These Highest Rated Memetic Accounts</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-editors-full-breakdown-of-editsphere-suite-updated/"><u>2024 Approved Editor's Full Breakdown of EditSphere Suite - Updated</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-social-media-synergy-cross-promoting-your-youtube-content/"><u>2024 Approved Social Media Synergy Cross-Promoting Your YouTube Content</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-the-hidden-perk-in-this-years-best-dual-function-device-for-work-as-featured/"><u>Discover the Hidden Perk in This Year's Best Dual-Function Device for Work, as Featured</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/dont-miss-out-how-to-view-microsofts-latest-tech-revelations-at-the-surface-plus-windows-ai-showcase-zdnet-insights/"><u>Don't Miss Out! How to View Microsoft's Latest Tech Revelations at the Surface + Windows AI Showcase | ZDNET Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-these-featherlight-computers-blew-my-mind-and-outshined-the-iconic-macbook-air-review/"><u>How These Featherlight Computers Blew My Mind and Outshined the Iconic MacBook Air Review</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y36-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y36 to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/save-big-during-the-festive-season-discover-neweggs-top-49-hot-deals-for-2e3-tech-news-and-reviews/"><u>Save Big During the Festive Season: Discover Newegg's Top 49 Hot Deals for 2E3 | Tech News & Reviews</u></a></li>
-<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Sony Xperia 1 V | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-guide-fixing-fortnites-stuck-on-starting-up-dilemma/"><u>Solution Guide: Fixing Fortnite's Stuck on Starting Up Dilemma</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-on-a-shoestring-discover-why-zdnet-hauls-these-amazing-3ergy-earbuds-at-35-only/"><u>Top Rated on a Shoestring? Discover Why ZDNET Hauls These Amazing $3Ergy Earbuds at 35$ Only!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-conquer-video-editing-on-pclaptop-with-inshot/"><u>[New] Conquer Video Editing on PC/Laptop with Inshot</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-top-qp-value-enhancing-gradual-movement-vids/"><u>[New] In 2024, Top QP Value Enhancing Gradual Movement Vids</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-comparing-the-most-popular-linux-snapshots-tools/"><u>[Updated] In 2024, Comparing the Most Popular Linux Snapshots Tools</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-precision-cutting-for-impressive-youtube-videos/"><u>[Updated] Precision Cutting for Impressive YouTube Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1-get-your-free-holiday-e-book-collection-today/"><u>1. Get Your Free Holiday E-Book Collection Today!</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-toddler-tycoon-ryan-kaji-and-the-wealthy-web-world/"><u>2024 Approved Toddler Tycoon Ryan Kaji and the Wealthy Web World</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/comment-optimiser-la-conversion-video-en-mp4-les-techniques-les-plus-efficaces-pour-macs/"><u>Comment Optimiser La Conversion Vidéo en MP4 : Les Techniques Les Plus Efficaces Pour Macs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-instructions-updating-microsoft-mouse-driver-in-windows-1011/"><u>Comprehensive Instructions: Updating Microsoft Mouse Driver in Windows 10/11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-security-with-updated-fingerprint-software-compatible-with-windows-systems/"><u>Enhance Security with Updated Fingerprint Software - Compatible with Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fresh-installation-pack-for-wacom-graphic-device-drivers/"><u>Fresh Installation Pack for Wacom Graphic Device Drivers</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-honor-100-pro-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Honor 100 Pro ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unlocking-smooth-streaming-post-upgrade-win11/"><u>Unlocking Smooth Streaming Post-Upgrade Win11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrade-your-bluetooth-experience-download-broadcom-drivers-compatible-with-windows-1087/"><u>Upgrade Your Bluetooth Experience: Download Broadcom Drivers Compatible with Windows 10/8/7</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Gaining Unauthorized Control Through GhostWrite Bug in the Design of RISC-V CPUs
-date: 2024-08-13T12:58:20.900Z
-updated: 2024-08-14T12:58:20.900Z
+date: 2025-01-07T03:55:11.850Z
+updated: 2025-01-10T17:09:18.727Z
 tags:
   - cpu
 categories:
@@ -36,8 +36,9 @@ The launch of AMD’s highly anticipated[Ryzen 9000](https://www.tomshardware.co
  Intel won't have an answer for Ryzen 9000 until later this year with the chipmaker's next-generation Core Ultra 200 (codenamed Arrow Lake) processors. With the whole[Raptor Lake and Raptor Lake Refresh instability](https://www.tomshardware.com/pc-components/intel-raptor-lake-instability-troubles-everything-you-need-to-know) drama and Ryzen 9000's attractive MSRP, Intel will not easily compete with Zen 5.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -52,8 +53,6 @@ The launch of AMD’s highly anticipated[Ryzen 9000](https://www.tomshardware.co
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -61,4 +60,24 @@ The launch of AMD’s highly anticipated[Ryzen 9000](https://www.tomshardware.co
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-masterclass-converting-twitter-vids-to-eye-catching-engaging-gifs/"><u>[New] Masterclass Converting Twitter Vids to Eye-Catching, Engaging GIFs</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-achieve-social-media-excellence-with-ios-and-androids-best-planners/"><u>[Updated] 2024 Approved Achieve Social Media Excellence with iOS & Android's Best Planners</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-calculating-your-commercial-break-even-as-a-podcaster/"><u>[Updated] Calculating Your Commercial Break-Even as a Podcaster</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-mastering-profit-on-facebook-essential-insights-and-hacks/"><u>[Updated] Mastering Profit on Facebook Essential Insights & Hacks</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-learn-to-leverage-kinemasters-features-for-maximum-gaming-fun-then-compare/"><u>2024 Approved Learn to Leverage KineMaster's Features for Maximum Gaming Fun, Then Compare</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-resolving-mobile-video-sending-problems-in-fb-chat/"><u>2024 Approved Resolving Mobile Video Sending Problems in FB Chat</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-gpt-decode-complex-calculations/"><u>Can GPT Decode Complex Calculations?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/chrome-invasion-how-bedbugs-are-bugging-student-laptops-again-uncover-the-truth-with-zdnet/"><u>Chrome Invasion: How Bedbugs Are Bugging Student Laptops Again - Uncover the Truth with ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-ultimate-vr-experience-with-metas-newly-discounted-512gb-quest-3-the-superior-selection-for-immersive-gaming-and-more/"><u>Discover the Ultimate VR Experience with Meta's Newly Discounted 512GB Quest 3: The Superior Selection for Immersive Gaming and More!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discovering-value-with-dells-top-secret-budget-beast-exceptional-tech-meets-wallet-friendly-pricing-zdnet/"><u>Discovering Value with Dell's Top-Secret Budget Beast - Exceptional Tech Meets Wallet-Friendly Pricing | ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-pre-prime-day-promotions-to-watch-for-on-black-friday-2023-tech-deals/"><u>Exclusive Pre-Prime Day Promotions to Watch for on Black Friday 2023 | Tech Deals</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/massive-savings-grab-the-8tb-samsung-t5-ssd-now-with-36-discount-post-prime-day-on-amazon-featured/"><u>Massive Savings: Grab the 8TB Samsung T5 SSD Now with 36% Discount Post-Prime Day on Amazon, Featured</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revolutionize-your-workspace-seamlessly-integrate-two-additional-4k-displays-to-unsupported-laptops-exclusive-tips-inside/"><u>Revolutionize Your Workspace: Seamlessly Integrate Two Additional 4K Displays to Unsupported Laptops, Exclusive Tips Inside!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-tracking-your-printer-activity-on-windows-10/"><u>Step-by-Step Guide: Tracking Your Printer Activity on Windows 10</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-itel-p40-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Itel P40 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-ranking-expert-analysis-on-every-new-lenovo-laptop-showcased-at-mobile-world-congress-discover-our-picks-for-the-best/"><u>The Ultimate Ranking: Expert Analysis on Every New Lenovo Laptop Showcased at Mobile World Congress - Discover Our Picks for the Best!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-offer-get-my-recommended-best-magsafe-station-for-ipadiphone-at-a-stunning-discount-of-60-off-zdnet/"><u>Unbeatable Offer! Get My Recommended Best MagSafe Station for iPad/iPhone at a Stunning Discount of 60% Off | ZDNET</u></a></li>
+</ul></div>
 

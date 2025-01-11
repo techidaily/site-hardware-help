@@ -1,7 +1,7 @@
 ---
 title: "Total System Collapses: Game Publisher Accuses Defective Intel Processors, Selling Faulty 13Th and 14Th Gen Chips"
-date: 2024-08-13T12:56:02.673Z
-updated: 2024-08-14T12:56:02.673Z
+date: 2025-01-10T09:50:36.218Z
+updated: 2025-01-11T06:31:49.573Z
 tags:
   - cpu
 categories:
@@ -28,8 +28,9 @@ Intel has now divulged that the crashing issue affecting 13th and 14th-gen proce
  What’s troubling is that Intel has not and will not issue a recall for the affected CPUs. It also hasn’t halted processor sales pending the updated microcode rolling out.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -38,14 +39,11 @@ Intel has now divulged that the crashing issue affecting 13th and 14th-gen proce
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -54,4 +52,19 @@ Intel has now divulged that the crashing issue affecting 13th and 14th-gen proce
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-transform-tweets-converting-video-to-gifs-at-no-cost-for-2024/"><u>[Updated] Transform Tweets Converting Video to GIFs at No Cost for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/beating-the-macbook-air-microsoft-surface-laptop-copilotplus-excelling-in-performance-features-and-more-zdnet-review/"><u>Beating the MacBook Air: Microsoft Surface Laptop Copilot+ Excelling in Performance, Features & More | ZDNet Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/dont-miss-out-snag-the-discounted-m2-macbook-air-for-just-749-during-amazons-october-prime-day-expert-analysis/"><u>Don't Miss Out: Snag the Discounted M2 MacBook Air for Just $749 During Amazon's October Prime Day – Expert Analysis</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/dubai-2020-expo-where-language-learning-soars/"><u>Dubai 2020 Expo: Where Language Learning Soars</u></a></li>
+<li><a href="https://win-blog.techidaily.com/enhanced-gameplay-experience-resolving-freezing-and-fps-issues-in-battlefield-2042-on-desktop-computers/"><u>Enhanced Gameplay Experience: Resolving Freezing & FPS Issues in Battlefield 2042 on Desktop Computers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-microsofts-new-frontier-in-technology-the-intelligent-surface-pro-10-and-ai-powered-laptop-6-unveiled-exclusive-details/"><u>Exploring Microsoft's New Frontier in Technology: The Intelligent Surface Pro 10 and AI-Powered Laptop 6 Unveiled | Exclusive Details</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/prime-day-202n4-save-big-with-the-top-70-gaming-deals-still-up-for-grabs-find-them-here/"><u>Prime Day 202N4: Save Big with the Top 70 Gaming Deals Still Up for Grabs - Find Them Here!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-lenovo-mouse-pad-issues-on-windows-11-8-and-7-solutions-included/"><u>Troubleshooting Lenovo Mouse Pad Issues on Windows 11, 8 & 7 - Solutions Included</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/understanding-the-video-space-in-high-capacity-drives-for-2024/"><u>Understanding the Video Space in High-Capacity Drives for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unleash-gaming-power-score-a-500-off-prime-day-offer-on-best-reviewed-laptops-by-zdnet-experts/"><u>Unleash Gaming Power: Score a $500 Off Prime Day Offer on Best Reviewed Laptops by ZDNET Experts</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/which-media-supersedes-the-other-podcasts-or-youtube-in-2024/"><u>Which Media Supersedes the Other Podcasts or YouTube, In 2024</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/yl-software-solutions-effortless-file-deletion-techniques-for-your-windows-pc/"><u>YL Software Solutions: Effortless File Deletion Techniques for Your Windows PC</u></a></li>
+</ul></div>
 

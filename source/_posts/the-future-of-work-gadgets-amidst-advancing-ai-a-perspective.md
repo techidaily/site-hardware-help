@@ -1,7 +1,7 @@
 ---
 title: "The Future of Work Gadgets Amidst Advancing AI: A Perspective"
-date: 2025-01-01T16:44:41.813Z
-updated: 2025-01-04T16:18:51.750Z
+date: 2025-01-04T22:18:43.673Z
+updated: 2025-01-10T16:14:26.716Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,19 +134,24 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-breaking-down-facebooks-latest-developments-for-2024/"><u>[New] Breaking Down Facebook's Latest Developments for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-bypassing-vimeo-top-10-editing-software-choices-for-2024/"><u>[Updated] Bypassing Vimeo Top 10 Editing Software Choices for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-getting-started-with-stylish-mac-made-youtube-vids/"><u>[Updated] In 2024, Getting Started with Stylish Mac-Made YouTube Vids</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-untangling-veiled-feedback-mechanisms-in-video-sites/"><u>[Updated] In 2024, Untangling Veiled Feedback Mechanisms in Video Sites</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ahoy-shopaholics-discover-neweggs-ultimate-black-friday-bargains/"><u>Ahoy, Shopaholics! Discover Newegg's Ultimate Black Friday Bargains</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/captivating-your-network-streamlining-content-via-wirecast-to-facebook-for-2024/"><u>Captivating Your Network Streamlining Content via Wirecast to Facebook for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-the-ultimate-walmart-discounts-for-july-2er-2024-highlighted-insights/"><u>Discover the Ultimate Walmart Discounts for July 2Er, 2024 - Highlighted Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-the-creme-de-la-creme-of-macbooks-insider-tips-and-reviews-zdnet/"><u>Exploring the Crème De La Crème of MacBooks - Insider Tips and Reviews | ZDNET</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-premium-gaming-performance-with-nvidias-latest-on-budget-friendly-acer-laptops-insights-from-zdnet/"><u>Get Premium Gaming Performance with Nvidia's Latest on Budget-Friendly Acer Laptops - Insights From ZDNet</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-honor-90-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Honor 90</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-6-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 6 to others devices? | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-a-detailed-study-of-vsdcs-screen-capture-prowess-and-competing-products/"><u>In 2024, A Detailed Study of VSDC's Screen Capture Prowess & Competing Products</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/slash-your-gaming-pc-costs-with-a-stellar-offer-snag-an-acer-nitro-5-for-just-179-less/"><u>Slash Your Gaming PC Costs with a Stellar Offer: Snag an Acer Nitro 5 for Just $179 Less!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-pick-the-best-ultraportable-laptop-with-all-day-battery-expert-review-by-zdnet/"><u>Top Pick: The Best Ultraportable Laptop with All-Day Battery - Expert Review by ZDNet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-5-best-live-streaming-software-for-mac-you-must-know/"><u>[New] 2024 Approved 5 Best Live Streaming Software for Mac You Must Know</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-mobile-camera-best-android-practices/"><u>[Updated] Mastering Mobile Camera Best Android Practices</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-beginners-blueprint-for-viral-video-seo/"><u>2024 Approved Beginner's Blueprint for Viral Video SEO</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/approach-consider-common-complications-that-may-not-present-immediately-at-birth/"><u>Approach: Consider Common Complications that May Not Present Immediately at Birth.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/blast-through-lag-winning-strategies-to-speed-up-bf2/"><u>Blast Through Lag: Winning Strategies to Speed Up BF2</u></a></li>
+<li><a href="https://video-capture.techidaily.com/comprehensive-guide-how-to-effortlessly-rip-burn-and-duplicate-your-digital-media-from-dvdscds/"><u>Comprehensive Guide: How to Effortlessly Rip, Burn, and Duplicate Your Digital Media From DVDs/CDs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-hp-laptop-driver-software-for-windows-systems/"><u>Download & Update HP Laptop Driver Software for Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/efficient-printing-download-epson-wf-2630-drivers-for-windows-users-on-all-versions-7-81-10/"><u>Efficient Printing: Download Epson WF 2630 Drivers for Windows Users on All Versions (7, 8.1, 10)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/freshly-updated-guide-to-installing-new-drivers-on-dell-latitude-e6430-running-windows-issue-resolved/"><u>Freshly Updated Guide to Installing New Drivers on Dell Latitude E6430 Running Windows [ISSUE RESOLVED]</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-the-newest-hp-network-driver-for-your-pc-on-windows-10-8-or-7/"><u>How to Get the Newest HP Network Driver for Your PC on Windows 10, 8 or 7</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-poco-x6-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Poco X6 phone? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-realme-11-proplus-easily-by-drfone-android/"><u>How To Unlock a Realme 11 Pro+ Easily?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-7-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 7? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamlining-media-formats-from-srt-to-advanced-standards/"><u>In 2024, Streamlining Media Formats From SRT to Advanced Standards</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-your-asus-pce-ac68-wifi-card-reliable-drivers-available-for-free/"><u>Install Your ASUS PCE-AC68 WiFi Card - Reliable Drivers Available for Free!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/microsoft-sculpt-keyboard-driver-enhancements-easy-installation-processes/"><u>Microsoft Sculpt Keyboard Driver Enhancements: Easy Installation Processes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722973653860-toshiba-copier-drivers-downloads-for-windows-users-fast-and-easy-setup/"><u>Toshiba Copier Drivers Downloads for Windows Users - Fast and Easy Setup!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/updating-logitech-mouse-drivers-a-step-by-step-guide/"><u>Updating Logitech Mouse Drivers: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/be-success-starts-here-best-tutorials-for-starters/"><u>YouTube Success Starts Here Best Tutorials for Starters</u></a></li>
 </ul></div>
 

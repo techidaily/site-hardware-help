@@ -1,7 +1,7 @@
 ---
 title: "Tom's Hardware Hub: Your Ultimate Resource for Computer Components"
-date: 2024-08-19T10:47:50.845Z
-updated: 2024-08-20T10:47:50.845Z
+date: 2025-01-05T17:00:31.952Z
+updated: 2025-01-11T07:19:24.369Z
 tags:
   - laptop
 categories:
@@ -25,6 +25,10 @@ AMD’s latest[Ryzen AI 300](https://tools.techidaily.com) (Strix Point) chips a
 
  Nevertheless,[early benchmarks support AMD’s claims](https://tools.techidaily.com) that its latest laptop CPUs gain 15% over the last-gen Ryzen 7 7735U. We also expect these APUs to have significantly better graphics performance as they upgrade their graphics engines with RDNA 3.5\. However, all these[benchmarks](https://tools.techidaily.com) and numbers mean nothing if we can’t get our hands on these devices and run real-world benchmarks. So, we’ll have to wait until the end of July before we can start testing these laptops and comparing them against[the new Snapdragon X Elite laptops](https://tools.techidaily.com) launched a few weeks back.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -39,8 +43,6 @@ AMD’s latest[Ryzen AI 300](https://tools.techidaily.com) (Strix Point) chips a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -48,8 +50,18 @@ AMD’s latest[Ryzen AI 300](https://tools.techidaily.com) (Strix Point) chips a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-spectacular-20-anime-openers-hits/"><u>2024 Approved Spectacular 20 Anime Openers' Hits</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-the-9-best-smartphone-camera-accessories-for-vloggers/"><u>2024 Approved The 9 Best Smartphone Camera Accessories for Vloggers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-guide-to-understanding-the-new-apple-m2-processor-insights/"><u>Comprehensive Guide to Understanding the New Apple M2 Processor: Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/dell-upgrades-iconic-xps-series-introducing-cutting-edge-artificial-intelligence-enhancements-while-retaining-timeless-design-insights-from-zdnet/"><u>Dell Upgrades Iconic XPS Series: Introducing Cutting-Edge Artificial Intelligence Enhancements, While Retaining Timeless Design - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-new-wave-of-smart-technology-microsofts-release-of-surface-pro-10-and-laptop-6-with-enhanced-artificial-intelligence-featured/"><u>Discover the New Wave of Smart Technology: Microsoft's Release of Surface Pro 10 and Laptop 6 with Enhanced Artificial Intelligence, Featured</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-no-connection-with-nvidia-experience-on-windows/"><u>Eradicating No Connection with Nvidia Experience on Windows</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mastering-memories-printing-prowess-leading-services-in-24/"><u>Mastering Memories, Printing Prowess: Leading Services in '24</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-moto-g14-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Moto G14</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-to-understanding-various-ipados-releases/"><u>Step-by-Step Guide to Understanding Various iPadOS Releases</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unfolding-the-magic-discover-how-my-go-to-origami-laptop-sleeve-brings-awe-to-every-trip/"><u>Unfolding the Magic: Discover How My Go-To Origami Laptop Sleeve Brings Awe to Every Trip</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlock-ultimate-gaming-sounds-with-our-picked-best-speaker-system-enjoy-massive-savings-at-a-record-170-off-on-amazon-zdnet-review/"><u>Unlock Ultimate Gaming Sounds with Our Picked Best Speaker System, Enjoy Massive Savings at a Record $170 Off on Amazon (ZDNet Review)</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Latent Gems: The Lenovo Ultraportable's Hidden Features Including a Stealthy TrackPoint | Detailed Review by ZDNet"
-date: 2024-12-29T17:10:33.346Z
-updated: 2025-01-04T16:09:16.645Z
+date: 2025-01-04T21:53:23.443Z
+updated: 2025-01-11T06:10:50.278Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -77,7 +77,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -116,18 +116,22 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-voice-record-hacks-3-ways-to-get-it-right-on-ipad/"><u>[New] 2024 Approved Voice Record Hacks 3 Ways to Get It Right on iPad</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-essential-directories-unencumbered-visuals-galore-for-2024/"><u>[New] Essential Directories Unencumbered Visuals Galore for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-the-allure-of-video-crafting-filmoras-top-edits-explained-for-2024/"><u>[Updated] The Allure of Video Crafting Filmora’s Top Edits Explained for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/activating-and-utilizing-gpt-4-with-todays-chatgpt-services/"><u>Activating and Utilizing GPT-4 with Today's ChatGPT Services</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amazon-reinstates-stock-for-the-highly-demanded-4tb-samsung-t5-ssd-at-a-steep-50-off-read-more-from-zdnet/"><u>Amazon Reinstates Stock for the Highly Demanded 4TB Samsung T5 SSD at a Steep 50% Off: Read More From ZDNET</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/essential-mega-savings-exclusive-offers-still-going-strong-on-black-friday-and-cyber-monday-november-2024-techbargains/"><u>Essential Mega Savings - Exclusive Offers Still Going Strong on Black Friday & Cyber Monday, November 2024 | TechBargains</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-reno-9a-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Oppo Reno 9A Phone without PIN</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/maximize-your-savings-with-this-steals-level-asus-gaming-laptop-available-for-less-than-500-at-best-buy-zdnet-insights/"><u>Maximize Your Savings with This Steals-Level Asus Gaming Laptop Available for Less than $500 at Best Buy | ZDNet Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/microsofts-revolutionary-surface-laptop-with-copilotplus-outshines-apples-macbook-air-a-comparative-analysis/"><u>Microsoft's Revolutionary Surface Laptop with Copilot+ Outshines Apple's MacBook Air: A Comparative Analysis</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ng-the-bar-youtubes-live-streaming-excellence/"><u>Raising the Bar YouTube's Live Streaming Excellence</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210142026-9781982169411-tarot-tequila/"><u>Tarot & Tequila | Free Book</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-ranking-touchscreen-laptops-in-depth-analysis-and-reviews-by-tech-experts-zdnet/"><u>Top-Ranking Touchscreen Laptops: In-Depth Analysis & Reviews by Tech Experts - ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unbeatable-cyber-monday-tech-specials-save-over-1000-on-laptops-at-costco-amazon-and-dell-insights-by-zdnet/"><u>Unbeatable Cyber Monday Tech Specials! Save Over $1000 on Laptops at Costco, Amazon, and Dell | Insights by ZDNET</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-enhancing-dialogue-guidelines-for-subscriber-relations-for-2024/"><u>[New] Enhancing Dialogue Guidelines for Subscriber Relations for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-the-skys-limit-broken-by-djis-pro-drone-review/"><u>[Updated] 2024 Approved The Sky's Limit Broken by DJI’s Pro Drone Review</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-swift-and-smooth-ipad-recordings/"><u>[Updated] In 2024, The Ultimate Guide to Swift and Smooth iPad Recordings</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-x-recorder-download-for-pc-for-2024/"><u>[Updated] X-Recorder Download for PC for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-gigabyte-nic-drivers-here-immediate-download-available/"><u>Get Your Gigabyte NIC Drivers Here - Immediate Download Available!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-hp-speakers-up-and-running-with-our-free-driver-downloads/"><u>Get Your HP Speakers Up and Running with Our Free Driver Downloads!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-smoothly-get-the-dell-mouse-driver-installed-common-problems-solved/"><u>How To Smoothly Get the Dell Mouse Driver Installed: Common Problems Solved</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-11-pro-with-a-mask-on-drfone-by-drfone-ios/"><u>How to Unlock iPhone 11 Pro with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-honor-magic-5-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Honor Magic 5 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-a-mesh-wi-fi-system-right-for-your-home-or-business-pros-and-cons/"><u>Is a Mesh Wi-Fi System Right for Your Home or Business? [Pros & Cons]</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/masterful-motherboard-tweaks-quickly-updating-asus-maximus-x-hero-drivers/"><u>Masterful Motherboard Tweaks: Quickly Updating ASUS Maximus X Hero Drivers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/propel-your-brand-with-a-10-step-blueprint-for-top-smm-performance/"><u>Propel Your Brand with a 10-Step Blueprint for Top SMM Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-installation-of-newest-amd-drivers-for-windows-users/"><u>Step-by-Step Installation of Newest AMD Drivers for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-installation-of-updated-drivers-for-windows-maximizing-performance-with-amd-vega-56/"><u>Step-by-Step Installation of Updated Drivers for Windows: Maximizing Performance with AMD Vega 56</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-layout-and-distribution-of-system-components-like-nozzles-or-sprinkler-heads-are-optimized-using-computational-modeling-for-effective-agent-delivery/"><u>The Layout and Distribution of System Components, Like Nozzles or Sprinkler Heads, Are Optimized Using Computational Modeling for Effective Agent Delivery.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-brother-scanner-drivers-now-compatible-with-windows-os/"><u>Update Your Brother Scanner Drivers Now – Compatible with Windows OS!</u></a></li>
+<li><a href="https://win-online.techidaily.com/maksimizaciya-seo-s-pomoshyu-alternativnyh-instrumentov-k-ubersuggest-izuchenie-klyuchevyh-slov-v-uproshennom-poryadke-webmarkstech-solutions/"><u>Максимизация SEO С Помощью Альтернативных Инструментов К Ubersuggest: Изучение Ключевых Слов В Упрощенном Порядке | WebMarksTech Solutions</u></a></li>
 </ul></div>
 

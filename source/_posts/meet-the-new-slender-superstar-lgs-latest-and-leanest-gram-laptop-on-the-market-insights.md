@@ -1,7 +1,7 @@
 ---
 title: "Meet the New Slender Superstar: LG's Latest and Leanest Gram Laptop on the Market Insights"
-date: 2024-12-28T17:06:25.172Z
-updated: 2025-01-04T16:46:13.330Z
+date: 2025-01-08T17:14:07.057Z
+updated: 2025-01-11T04:23:25.507Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -79,7 +79,7 @@ Now you may be wondering: what's the catch? Is the Asus Zenbook 14 as perfect as
 My biggest issue with the laptop is the fact it can run incredibly warm. You can't even type on the keyboard or have it on your legs without discomfort. Heat vents are found on the bottom and the side, but they don't offer much relief. This problem is exacerbated if you try to use the laptop while charging. There's so much heat that typing on the keyboard becomes uncomfortable. You're honestly better off not using the laptop during this time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -89,7 +89,7 @@ The [Asus Zenbook 14](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.
 You can purchase my review unit's configuration on Best Buy for $799.99, but there's always the option to upgrade the hardware if you're looking for something with more power behind it. A Zenbook 14 sporting an Intel Core Ultra 7 155H processor, Intel Arc GPU, 16GB of RAM, and 1TB of storage will [start at $1,299](https://www.awin1.com/awclick.php?mid=31828&id=423585&clickref=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&ued=https%3A%2F%2Fshop.asus.com%2Fus%2Fasus-zenbook-14-oled-ux3405-laptop.html) but come with significant jump up in processing power. No matter which one you get, it'll be worth the low price.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -136,18 +136,18 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-club-anthems-expertly-curated-dj-vids-downloads/"><u>[New] 2024 Approved Club Anthems Expertly Curated DJ Vids Downloads</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-all-weather-action-cameras-ranking-top-7-summary/"><u>[New] All-Weather Action Cameras Ranking, Top 7 Summary</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-captivate-audiences-with-perfectly-tailored-youtube-descriptions/"><u>2024 Approved Captivate Audiences with Perfectly Tailored Youtube Descriptions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/affordable-15-inch-asus-notebook-available-at-walmart-quad-hd-display-and-full-connectivity-for-only-250-insights-by-zdnet/"><u>Affordable 15-Inch ASUS Notebook Available at Walmart: Quad HD Display & Full Connectivity for Only $250 - Insights by ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/dont-miss-out-amazon-offers-a-steady-36-sale-on-high-capacity-8tb-samsung-t5-ssd-even-after-prime-day-exclusive-coverage/"><u>Don't Miss Out! Amazon Offers a Steady 36% Sale on High-Capacity 8TB Samsung T5 SSD, Even After Prime Day | Exclusive Coverage</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>How to Find iSpoofer Pro Activation Key On Apple iPhone 8 Plus? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-reactivate-sound-capture-in-obs-studio-on-windows-11-pcs/"><u>How to Reactivate Sound Capture in OBS Studio on Windows 11 PCs</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-dji-phantom-3-performance-analysis/"><u>In 2024, DJI Phantom 3 Performance Analysis</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/stop-unwanted-alerts-customizing-notification-settings-in-chrome-os-techspot/"><u>Stop Unwanted Alerts: Customizing Notification Settings in Chrome OS | TechSpot</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-15-inch-laptops-comprehensive-testing-and-reviews-by-industry-experts/"><u>Top Rated 15-Inch Laptops - Comprehensive Testing & Reviews by Industry Experts</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-rated-smart-lock-apps-for-iphones-sleek-design-and-easy-security/"><u>Top-Rated Smart Lock Apps for iPhones: Sleek Design & Easy Security</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-140w-portable-power-station-for-7-devices-reliable-energy-supply-without-constant-recharge-top-picks/"><u>Ultimate 140W Portable Power Station for 7 Devices: Reliable Energy Supply Without Constant Recharge Top Picks</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-the-latest-upgrades-in-samsungs-copilotplus-desktop-how-ai-enhancements-are-transforming-your-computing-experience/"><u>Unveiling the Latest Upgrades in Samsung’s Copilot+ Desktop: How AI Enhancements Are Transforming Your Computing Experience</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-capture-share-and-record-with-the-best-mac-video-capture-tools/"><u>[New] 2024 Approved Capture, Share, and Record with the Best Mac Video Capture Tools</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-pioneering-techniques-in-documentary-scripting/"><u>[New] 2024 Approved Pioneering Techniques in Documentary Scripting</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-revolutionize-your-tiktok-videos-streamlined-methods-for-new-borders-for-2024/"><u>[New] Revolutionize Your TikTok Videos Streamlined Methods for New Borders for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-superior-fb-video-tools-save-as-top-quality-mp4s-for-2024/"><u>[New] Superior FB Video Tools – Save as Top Quality MP4s for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-crafting-a-seamless-gift-discovery-journey/"><u>[Updated] Crafting a Seamless Gift Discovery Journey</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-depth-walkthrough-for-proficient-use-of-green-screen-in-kinemaster/"><u>[Updated] In-Depth Walkthrough for Proficient Use of Green Screen in Kinemaster</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-start-off-right-top-gear-for-aspiring-gopro-users-for-2024/"><u>[Updated] Start Off Right Top Gear for Aspiring GoPro Users for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-unveiling-the-ultimate-iphone-selfie-sticks-8/"><u>2024 Approved Unveiling the Ultimate IPhone Selfie Sticks (#8)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-to-follow-instructions-for-dells-newest-audio-driver-update/"><u>Easy-to-Follow Instructions for Dell's Newest Audio Driver Update</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-logitech-brio-webcam-for-windows-systems-11-8-and-7-downloads/"><u>How to Update Logitech BRIO Webcam for Windows Systems: 11, 8, and 7 Downloads</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-sound-card-drivers-instant-downloads-and-setup/"><u>HP Sound Card Drivers: Instant Downloads and Setup</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-or-updating-your-epson-wf-3720-printer-drivers-made-simple/"><u>Installing or Updating Your Epson WF-3720 Printer Drivers Made Simple.</u></a></li>
+<li><a href="https://article-posts.techidaily.com/mastering-the-microscopic-views-in-teams-for-2024/"><u>Mastering the Microscopic Views in Teams for 2024</u></a></li>
 </ul></div>
 

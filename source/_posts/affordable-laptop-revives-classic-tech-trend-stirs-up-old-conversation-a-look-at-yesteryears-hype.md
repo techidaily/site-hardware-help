@@ -1,7 +1,7 @@
 ---
 title: "Affordable Laptop Revives Classic Tech Trend, Stirs Up Old Conversation: A Look at Yesteryear's Hype!"
-date: 2024-12-29T16:48:51.298Z
-updated: 2025-01-04T17:28:13.113Z
+date: 2025-01-09T06:22:30.738Z
+updated: 2025-01-10T18:00:52.601Z
 tags:
   - laptops
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/0e850e00d907836de022b6a5493d7e424fd91aaca
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -85,7 +85,7 @@ I have been integrating Copilot into my workflow as I learn more about how to us
 The Surface's battery life has been fantastic, too. I get over 15 hours of use from a single charge, and it has yet to fully deplete to zero by the time I call a benchmarking test. The combination of smart design with meaningful trade-offs is what gives this laptop its marathon battery life, and opens it up for a variety of use cases from a creator or productivity perspective. Basically, this is a laptop you can work remotely with for the whole day without a charger.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -95,7 +95,7 @@ I mentioned this before, but the direction that Microsoft took with this laptop 
 The Surface Laptop is a flagship mid-range device that's well-rounded enough to take on a variety of roles. Despite a few trade-offs, it's everything it should be for the price. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -132,16 +132,22 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-affluent-online-broadcasting-houses/"><u>[Updated] In 2024, Affluent Online Broadcasting Houses</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-elevating-vision-a-compre-written-by-jovita-lara-msn-student-arizona-state-university/"><u>2024 Approved Elevating Vision A Compre Written By Jovita Lara, MSN Student (Arizona State University)</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-vivo-s17t-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on Vivo S17t.</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-on-a-ranking-of-premium-gaming-keyboards/"><u>Game On: A Ranking of Premium Gaming Keyboards</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-a-week-on-a-split-ergo-keyboard-revolutionized-my-work-setup-and-ruined-me-for-old-tech/"><u>How a Week on a Split Ergo Keyboard Revolutionized My Work Setup and Ruined Me for Old Tech</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Xiaomi 13T | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/master-the-fix-eliminating-ntldr-is-missing-errors-and-ensuring-smooth-system-boots/"><u>Master the Fix: Eliminating 'NTLDR Is Missing' Errors & Ensuring Smooth System Boots</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/snag-exclusive-offers-macbook-pros-and-mini-deals-of-the-month-for-january-2022-insider-tips-from-zdnet/"><u>Snag Exclusive Offers: MacBook Pros and Mini Deals of the Month for January 2022 | Insider Tips From ZDNET</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-surprisingly-stellar-performance-of-the-unassuming-asus-workstation-for-creatives-tech-insights/"><u>The Surprisingly Stellar Performance of the Unassuming Asus Workstation for Creatives | Tech Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-6-gaming-solid-state-drives-ultimate-guide-for-enhanced-performance-on-your-pc-xbox-and-playstation-5/"><u>Top 6 Gaming Solid-State Drives: Ultimate Guide for Enhanced Performance on Your PC, Xbox & PlayStation 5</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unboxing-and-exploring-the-innovations-of-the-brand-new-apple-iphone-15-pro/"><u>Unboxing and Exploring the Innovations of the Brand New Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-ultimate-free-online-editors-for-content-creators-for-2024/"><u>[New] 9 Ultimate Free Online Editors for Content Creators for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-metaverse-top-picks-friends-first-games/"><u>[New] Metaverse Top Picks Friends-First Games</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-excellent-mic-options-enhancing-4k-video-quality/"><u>[Updated] 2024 Approved Excellent Mic Options Enhancing 4K Video Quality</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-rhythm-in-reels-the-essentials-of-iphone-video-making/"><u>2024 Approved Rhythm in Reels The Essentials of iPhone Video Making</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-vega-56-graphics-card-driver-installation-guide-free-windows-update/"><u>AMD Vega 56 Graphics Card Driver Installation Guide: Free Windows Update</u></a></li>
+<li><a href="https://video-capture.techidaily.com/best-3-ways-to-record-live-sports-streaming-for-2024/"><u>Best 3 Ways to Record Live Sports Streaming for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/changeling/"><u>Changeling</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/comment-convertir-vos-fichiers-wmv-en-ogg-facilement-et-sans-frais-a-laide-du-site-web-de-movavi/"><u>Comment Convertir Vos Fichiers WMV en OGG Facilement Et Sans Frais À L'aide Du Site Web De Movavi</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-m-audio-fast-track-drivers-compatible-with-windows-117881-get-your-audio-setup-ready/"><u>Download M-Audio Fast Track Drivers Compatible with Windows 11/7/8/8.1 – Get Your Audio Setup Ready</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/elgato-drivers-download-easily-and-quickly/"><u>Elgato Drivers Download Easily & Quickly</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-samsung-galaxy-s23-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Samsung Galaxy S23 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-nvidia-geforce-gtx-980-ti-drivers-free-download/"><u>Latest Nvidia GeForce GTX 980 Ti Drivers - Free Download</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-video-post-production-powerhouses-a-comparison-of-adobe-premiere-and-after-effects-for-2024/"><u>New Video Post-Production Powerhouses A Comparison of Adobe Premiere and After Effects for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toshiba-bluetooth-driver-download-improve-connectivity-instantly/"><u>Toshiba Bluetooth Driver Download - Improve Connectivity Instantly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-and-fixing-csr8510-a10-driver-problems-on-windows-systems/"><u>Troubleshooting and Fixing CSR8510 A10 Driver Problems on Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-tutorial-on-installing-your-asus-wifi-devices-compatible-drivers/"><u>Ultimate Tutorial on Installing Your ASUS Wifi Device's Compatible Drivers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/vanguard-enterprises-of-spatial-display-tech-for-2024/"><u>Vanguard Enterprises of Spatial Display Tech for 2024</u></a></li>
 </ul></div>
 

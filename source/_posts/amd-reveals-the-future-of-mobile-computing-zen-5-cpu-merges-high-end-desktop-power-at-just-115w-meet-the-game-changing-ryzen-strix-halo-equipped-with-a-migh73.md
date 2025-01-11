@@ -1,7 +1,7 @@
 ---
 title: "AMD Reveals the Future of Mobile Computing: Zen 5 CPU Merges High-End Desktop Power at Just 115W - Meet the Game-Changing Ryzen Strix Halo, Equipped with a Mighty 16 Cores and Enhanced RDNA iGPU"
-date: 2024-08-13T12:59:35.742Z
-updated: 2024-08-14T12:59:35.742Z
+date: 2025-01-06T22:56:36.772Z
+updated: 2025-01-11T05:32:23.162Z
 tags:
   - cpu
 categories:
@@ -35,8 +35,9 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
  Speaking of substantial performance advantages of AMD's Zen 5, we cannot omit the single-thread performance of AMD's Ryzen 9000-series processors with 16 cores. Based on leaked CPU-Z benchmark results we have seen so far, the Ryzen 9 9950X is about 15% faster in single-thread workloads. It is about 9% faster in multi-thread workloads than the Ryzen 9 7950X, which is generally in line with performance advantage estimates demonstrated by AMD.
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -45,14 +46,11 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -61,4 +59,22 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-optimal-video-saver-best-chromebook-recorder-for-2024/"><u>[New] Optimal Video Saver Best Chromebook Recorder for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1-breaking-down-barriers-acer-elevates-3d-display-tech-in-latest-monitor-and-laptop-lineup-insights-for-tomorrows-workspace/"><u>1. Breaking Down Barriers: Acer Elevates 3D Display Tech in Latest Monitor & Laptop Lineup - Insights for Tomorrow's Workspace</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-htc-u23-pro-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on HTC U23 Pro? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/dolphins-social-learning-capabilities-and-their-ability-to-understand-abstract-concepts-such-as-mirror-self-recognition/"><u>Dolphins' Social Learning Capabilities and Their Ability to Understand Abstract Concepts Such as Mirror Self-Recognition.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/dont-miss-out-secure-your-lenovo-thinkpad-l14-gen-3-today-for-a-stunning-77-discount-in-this-cyber-monday-exclusive-offer-on-zdnet/"><u>Don't Miss Out! Secure Your Lenovo ThinkPad L14 Gen 3 Today for a Stunning 77% Discount in This Cyber Monday Exclusive Offer on ZDNET.</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-infinix-smart-8-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/mac-users-guide-to-recording-and-reviewing-educational-talks/"><u>Mac Users' Guide to Recording and Reviewing Educational Talks</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/master-your-media-comprehensive-guide-to-instagram-converters-windowsmac/"><u>Master Your Media Comprehensive Guide to Instagram Converters (Windows/Mac)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mastering-safe-boot-on-windows-8-graphics-cards/"><u>Mastering Safe Boot on Windows 8 - Graphics Cards</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/save-big-before-prime-day-secure-your-pick-of-the-best-laptops-curated-for-a-steep-500-discount-on-amazon/"><u>Save Big Before Prime Day: Secure Your Pick of the Best Laptops Curated for a Steep $500 Discount on Amazon!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/savings-alert-secure-an-8tb-samsung-t5-external-ssd-deal-with-a-36-discount-on-amazon/"><u>Savings Alert: Secure an 8TB Samsung T5 External SSD Deal with a 36% Discount on Amazon</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-most-outstanding-2-in-1-device-of-2023-a-hidden-gem-for-business-productivity-uncovered/"><u>The Most Outstanding 2-in-1 Device of 2023: A Hidden Gem for Business Productivity Uncovered</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-ultimate-composition-crafting-memorable-podcast-covers/"><u>The Ultimate Composition Crafting Memorable Podcast Covers</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-your-disabled-apple-iphone-xr-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone XR Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-apple-m2-chip-comprehensive-guide-and-insights-on-its-performance-zdnet/"><u>Unveiling the Apple M2 Chip: Comprehensive Guide and Insights on Its Performance - ZDNet</u></a></li>
+</ul></div>
 

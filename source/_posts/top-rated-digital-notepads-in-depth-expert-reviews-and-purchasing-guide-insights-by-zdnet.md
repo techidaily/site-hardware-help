@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Digital Notepads: In-Depth Expert Reviews & Purchasing Guide - Insights by ZDNet"
-date: 2025-01-02T17:16:53.615Z
-updated: 2025-01-04T17:01:11.859Z
+date: 2025-01-08T16:24:57.774Z
+updated: 2025-01-10T17:11:06.243Z
 tags:
   - laptops
 categories:
@@ -22,13 +22,13 @@ We prioritized machines that scored well in durability, portability, and of cour
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What's the best laptop for college right now?
 
 At ZDNET, we've [thoroughly tested the best laptops for college](https://www.zdnet.com/article/how-we-test-laptops/) to help you pick the right one, no matter what you're studying. Our pick for the best laptop for college overall goes to the [Apple MacBook Air M3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX24JRLR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf6d86123-7c0d-4dd0-b3a2-759d36d51cb2%7Cdtp&dtb=1). In terms of portability, sleek form factor, and a solid battery life, the MacBook Air M3 is as light as it is powerful, and is future-proofed to last the duration of a multi-year degree program. It might not be the best pick for you, however, so we included other options that round out the spectrum of most common use cases. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The best laptop for college in 2024
 
@@ -45,15 +45,7 @@ Cons
 * Limited ports
 * Uninspiring speakers
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple MacBook Air M3
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best college laptop overall
 
@@ -86,6 +78,10 @@ Cons
 * No HDMI or USB-A ports
 
 ## HP Dragonfly Pro Chromebook
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best Chromebook for college
 
@@ -176,6 +172,10 @@ Cons
 
 ## Lenovo Yoga Book 9i
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best 2-in-1 convertible laptop for college
 
 In a sea of laptops that all look more or less the same, the Lenovo Yoga Book 9i dares to do something drastically different. Armed with two 13.3-inch touchscreen displays that can be configured in different ways, the Yoga Book 9i is the best choice for students that need a flexible 2-in-1 laptop and performance to boot.
@@ -190,10 +190,6 @@ There are a few considerations, however. First, the $2,000 price tag puts it at 
 
 Show Expert Take Show less 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the best laptop for college?
 
 The best laptop for college in 2024 is the [Apple MacBook Air M3](https://www.zdnet.com/article/m3-macbook-air-review/). Portable, powerful, and with a long-lasting battery, the MacBook Air M3 is a versatile workhorse that you can throw in a bag and take with you anywhere you go. The M3's 8-core CPU and 10-core GPU is armed to take whatever tasks your major requires of you, and the entire package weighs just 2.7 pounds.
@@ -205,6 +201,10 @@ The best laptop for college in 2024 is the [Apple MacBook Air M3](https://www.zd
 | Acer Aspire Go 15           | $299              | Intel Core i3-N305, Intel UHD        | 8GB, 128GB                  | 3.75             |
 | Asus ROG Zephyrus G14       | $1,600            | AMD Ryzen 9, GeForce RTX 4070        | 32GB, 1TB SSD               | 3.3              |
 | Lenovo YogaBook 9i          | $1,999            | Intel Core Ultra 155U, Intel Iris Xe | 16GB, 512GB                 | 3.15             |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which is the right laptop for college for you?
 
@@ -235,7 +235,7 @@ We use a combination of methods to test laptops here at ZDNET. First, we acquire
 Ultimately, our goal is to break down the capabilities of each and every laptop we test into digestible terms that real people can find useful. There is a lot of noise and confusion when it comes to navigating the laptop and computer consumer market, so we hope to bring an intuitive element to the whole process by leveraging our team's decades of experience. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Factors to consider when choosing a laptop for college
@@ -250,7 +250,7 @@ These are the factors that I weighed when selecting the best laptops for college
 * **Storage:** The amount of storage on your college laptop determines not only how much data your computer can hold but also how fast it can move. If you plan to use this laptop for all of your college classes, you will likely need a larger amount of storage if you plan to store all those papers and projects on the local drive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which operating system should you choose: Windows, MacOS, Chrome OS, or Linux?
@@ -262,7 +262,7 @@ While every computing platform has its loyal supporters, most people end up usin
 All Windows devices listed here meet the requirements for Windows 11\. If you purchase a device with Windows 10 installed, you will be able to upgrade to Windows 11 if you choose to do so. Note that after October 14, 2025, Windows 10 support will end, and there will be no further security patches or feature updates.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's the difference between a Chromebook and a Windows or Mac laptop?
@@ -317,15 +317,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-top-10-video-capture-tools-for-blogging-platforms/"><u>[New] In 2024, Top 10 Video Capture Tools for Blogging Platforms</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-optimal-budget-friendly-digital-video-reader/"><u>[Updated] 2024 Approved Optimal Budget-Friendly Digital Video Reader</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-breaking-down-tseries-income-strategy-on-youtube-platform/"><u>[Updated] Breaking Down TSeries' Income Strategy on YouTube Platform</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-decode-instagram-visibility-whos-glancing-at-yours/"><u>[Updated] In 2024, Decode Instagram Visibility Who's Glancing at Yours?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/a-week-with-an-ergonomic-split-keyboard-how-one-change-upended-my-entire-tech-setup-insights-from-zdnet/"><u>A Week with an Ergonomic Split Keyboard: How One Change Upended My Entire Tech Setup - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-the-ultimate-work-travel-companion-a-superior-alternative-to-microsoftlenovo-tablets-featured-in-zdnet-testing/"><u>Discover the Ultimate Work Travel Companion: A Superior Alternative to Microsoft/Lenovo Tablets - Featured in ZDNet Testing</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-the-pros-playbook-mastering-the-art-of-capturing-ps4-gaming/"><u>In 2024, The Pro's Playbook Mastering the Art of Capturing PS4 Gaming</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/next-gen-ai-capabilities-elevate-classic-dell-xps-laptops-in-latest-overhaul-beauty-meets-brains-exclusive-coverage/"><u>Next-Gen AI Capabilities Elevate Classic Dell XPS Laptops in Latest Overhaul; Beauty Meets Brains – Exclusive Coverage</u></a></li>
-<li><a href="https://common-error.techidaily.com/pdm-modulates-by-changing-the-density-of-pulses-representing-signal-changes/"><u>PDM Modulates by Changing the Density of Pulses, Representing Signal Changes.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/section-grophic-strategies-may-include/"><u>Section Grophic Strategies May Include:</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-the-art-and-craft-of-documentary-writing/"><u>[Updated] 2024 Approved The Art and Craft of Documentary Writing</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-quick-tips-for-posting-videos-on-instagram/"><u>[Updated] Quick Tips for Posting Videos on Instagram</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-swift-shadowing-secrets/"><u>2024 Approved Swift Shadowing Secrets</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-motorola-moto-g84-5g-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Motorola Moto G84 5G? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-consumer-contentment-masterful-unboxing-tactics-for-2024/"><u>Crafting Consumer Contentment Masterful Unboxing Tactics for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/enhanced-user-experience-with-policy-update/"><u>Enhanced User Experience with Policy Update</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fixing-ralink-rt3290-wi-fi-drivers-on-windows-11-8-and-7-a-complete-guide/"><u>Fixing Ralink RT3290 Wi-Fi Drivers on Windows 11, 8 & 7: A Complete Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-oppo-find-n3-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Oppo Find N3 Phone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-oneplus-nord-n30-se-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock OnePlus Nord N30 SE Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722978458102-logitech-m510-driver-update-guide/"><u>Logitech M510 – Driver Update Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/playful-escape-the-ultimate-relief-list/"><u>Playful Escape The Ultimate Relief List</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-easy-installation-of-dell-latitude-e6420-device-drivers/"><u>Quick and Easy Installation of Dell Latitude E6420 Device Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/resolved-complete-elan-smbus-driver-setup-and-latest-version-for-windows-systems/"><u>Resolved: Complete ELAN SMBus Driver Setup & Latest Version for Windows Systems</u></a></li>
 </ul></div>
 

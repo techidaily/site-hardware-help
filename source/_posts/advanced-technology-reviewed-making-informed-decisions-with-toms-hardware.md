@@ -1,7 +1,7 @@
 ---
 title: "Advanced Technology Reviewed: Making Informed Decisions with Tom's Hardware"
-date: 2024-08-19T10:47:09.950Z
-updated: 2024-08-20T10:47:09.950Z
+date: 2025-01-03T20:59:56.199Z
+updated: 2025-01-11T03:28:40.182Z
 tags:
   - laptop
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/5ccaaabe736ffa61c5b51b0c29ef16cab934fcf39
 The SZBox DS16 is a 16-inch laptop[available from AliExpress](https://go.redirectingat.com/?id=92X1584492&xcust=tomshardware%5Fus%5F1205122597602329443&xs=1&url=https%3A%2F%2Fwww.aliexpress.us%2Fitem%2F3256806648016140.html&sref=https%3A%2F%2Fwww.tomshardware.com%2Flaptops%2Fthis-core-i5-12450h-laptop-trades-a-physical-keyboard-for-dual-16-inch-displays-and-costs-just-dollar710-on-aliexpress) with a relatively affordable $710 starting price point. However, the real reason it's garnering so much attention (first brought to light by[Liliputing](https://liliputing.com/this-dual-screen-laptop-has-two-touchscreen-displays-and-support-for-height-adjustments-but-lacks-a-physical-keyboard/) ) is due to its dual 16-inch 1200p IPS touch panel configuration.
 
  Below, we've charted the specifications of the SZBox DS16 and its two primary variations, which we'll be referring to as the Intel Core i5 and Core i7 models for clarity's sake.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## SZBox DS16 Dual Screen Laptop Core Specs
 
@@ -37,9 +41,17 @@ The SZBox DS16 is a 16-inch laptop[available from AliExpress](https://go.redirec
 
 ![SZBox DS16](https://cdn.mos.cms.futurecdn.net/XXxLAnUWrMrCacNrJh5DWi-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: AliExpress)
 
  With a starting price of just over $700, the base Core i5 model is roughly $800 cheaper than the[Asus Zenbook Duo](https://tools.techidaily.com) (even the upgraded DS16 Core i7 model only costs $1,000, which still undercuts the entry from Asus). However, the Zenbook Duo features dual 14-inch OLED displays, a newer Intel Core Ultra 7 processor, and is nearly three pounds lighter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
@@ -55,8 +67,6 @@ The SZBox DS16 is a 16-inch laptop[available from AliExpress](https://go.redirec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -64,8 +74,24 @@ The SZBox DS16 is a 16-inch laptop[available from AliExpress](https://go.redirec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-best-vr-and-action-cameras-beyond-gopros-realm/"><u>[New] Best VR and Action Cameras Beyond GoPro's Realm</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-redefine-your-viewing-experience-without-xplit/"><u>[New] Redefine Your Viewing Experience Without Xplit</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-state-of-decay-2-keeps-crashing-2024-tips/"><u>[SOLVED] State of Decay 2 Keeps Crashing – 2024 Tips</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-elevate-your-posts-with-4-effective-video-loop-techniques-for-2024/"><u>[Updated] Elevate Your Posts with 4 Effective Video Loop Techniques for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-upgrade-to-high-quality-video-streaming-on-facebook-for-2024/"><u>[Updated] Upgrade to High-Quality Video Streaming on Facebook for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1-discovering-innovation-my-experience-testing-lenovos-revolutionary-auto-swivel-laptop-at-ifa-202n-insights-from-zdnet/"><u>1. Discovering Innovation: My Experience Testing Lenovo's Revolutionary Auto-Swivel Laptop at IFA 202N - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/compact-innovation-on-the-go-hackberry-pi-zero-empowers-hands-on-creators-in-a-pocket-sized-package/"><u>Compact Innovation on the Go - Hackberry Pi Zero Empowers Hands-On Creators in a Pocket-Sized Package</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-vivo-y27-5g-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Vivo Y27 5G online without jailbreak</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/is-a-portable-monitor-right-for-you-exploring-top-picks-and-reasons-to-consider-them-tech-insight/"><u>Is a Portable Monitor Right for You? Exploring Top Picks and Reasons to Consider Them | Tech Insight</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mega-savings-alert-top-rated-gaming-sound-systems-now-30-discounted-on-amazon-insider-review-by-zdnet/"><u>Mega Savings Alert! Top-Rated Gaming Sound Systems Now 30% Discounted on Amazon - Insider Review by ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/snag-the-ultimate-bargain-samsung-odyssey-neo-g8-monitor-for-550-at-best-buys-anti-prime-day-featured/"><u>Snag the Ultimate Bargain: Samsung Odyssey Neo G8 Monitor for $550 at Best Buy’s Anti-Prime Day, Featured</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/story-2-the-confusion-over-data-encryption/"><u>Story 2: The Confusion over Data Encryption</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/434015-9781775568032-the-joyful-heart/"><u>The Joyful Heart | Free Book</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-2024-keyboard-picks-comprehensive-reviews-by-tech-gurus/"><u>Top-Rated 2024 Keyboard Picks: Comprehensive Reviews by Tech Gurus</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/transforming-tech-unveiled-how-this-lenovo-hybrid-desktop-tablet-impressed-us-at-zdnet/"><u>Transforming Tech Unveiled: How This Lenovo Hybrid Desktop-Tablet Impressed Us at ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlock-savings-with-the-best-lenovo-workstation-on-a-steep-discount-for-septembers-cyber-monday-bonanza-zdnet-exclusive-scoop/"><u>Unlock Savings with the Best Lenovo Workstation on a Steep Discount for September's Cyber Monday Bonanza | ZDNET Exclusive Scoop</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/zdnets-ultimate-guide-to-the-leading-antivirus-solutions-of-2024/"><u>ZDNet's Ultimate Guide to the Leading Antivirus Solutions of 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->

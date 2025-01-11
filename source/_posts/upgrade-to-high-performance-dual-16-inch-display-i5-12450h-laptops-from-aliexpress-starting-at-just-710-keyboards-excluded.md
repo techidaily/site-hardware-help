@@ -1,7 +1,7 @@
 ---
 title: "Upgrade to High-Performance: Dual 16-Inch Display I5-12450H Laptops From AliExpress Starting at Just $710 (Keyboards Excluded)"
-date: 2024-08-19T10:47:55.155Z
-updated: 2024-08-20T10:47:55.155Z
+date: 2025-01-07T08:24:25.002Z
+updated: 2025-01-11T02:39:14.443Z
 tags:
   - laptop
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/f29f99d4419c1c54f223ae0fe4e25f224aa2e0b29
 The SZBox DS16 is a 16-inch laptop[available from AliExpress](https://go.redirectingat.com/?id=92X1584492&xcust=tomshardware%5Fus%5F1205122597602329443&xs=1&url=https%3A%2F%2Fwww.aliexpress.us%2Fitem%2F3256806648016140.html&sref=https%3A%2F%2Fwww.tomshardware.com%2Flaptops%2Fthis-core-i5-12450h-laptop-trades-a-physical-keyboard-for-dual-16-inch-displays-and-costs-just-dollar710-on-aliexpress) with a relatively affordable $710 starting price point. However, the real reason it's garnering so much attention (first brought to light by[Liliputing](https://liliputing.com/this-dual-screen-laptop-has-two-touchscreen-displays-and-support-for-height-adjustments-but-lacks-a-physical-keyboard/) ) is due to its dual 16-inch 1200p IPS touch panel configuration.
 
  Below, we've charted the specifications of the SZBox DS16 and its two primary variations, which we'll be referring to as the Intel Core i5 and Core i7 models for clarity's sake.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## SZBox DS16 Dual Screen Laptop Core Specs
 
@@ -37,9 +41,17 @@ The SZBox DS16 is a 16-inch laptop[available from AliExpress](https://go.redirec
 
 ![SZBox DS16](https://cdn.mos.cms.futurecdn.net/XXxLAnUWrMrCacNrJh5DWi-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: AliExpress)
 
  With a starting price of just over $700, the base Core i5 model is roughly $800 cheaper than the[Asus Zenbook Duo](https://tools.techidaily.com) (even the upgraded DS16 Core i7 model only costs $1,000, which still undercuts the entry from Asus). However, the Zenbook Duo features dual 14-inch OLED displays, a newer Intel Core Ultra 7 processor, and is nearly three pounds lighter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
@@ -55,8 +67,6 @@ The SZBox DS16 is a 16-inch laptop[available from AliExpress](https://go.redirec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -64,8 +74,19 @@ The SZBox DS16 is a 16-inch laptop[available from AliExpress](https://go.redirec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-6-superior-apps-for-effortless-mac-video-grabbing/"><u>[Updated] 6 Superior Apps for Effortless Mac Video Grabbing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-aerial-adventures-with-husqvarnas-x4-fpv-quadcopter/"><u>[Updated] Aerial Adventures with Husqvarna's X4 FPV Quadcopter</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-facebook-live-streaming-techniques-on-mobile/"><u>[Updated] Facebook Live Streaming Techniques on Mobile</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-the-ultimate-guide-to-the-best-10-spotify-recorders/"><u>2024 Approved The Ultimate Guide to the Best 10 Spotify Recorders</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amazons-october-prime-day-deals-apple-m2-macbook-air-available-at-a-steal-for-749-insights/"><u>Amazon's October Prime Day Deals: Apple M2 MacBook Air Available at a Steal for $749! - Insights</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Nokia G310? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/section-2b-facts-on-piping-material-compatibility/"><u>Section 2B: Fact.s on Piping Material Compatibility</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210619299-9780646861623-the-keepers-of-the-light-codes/"><u>The Keepers Of The Light Codes | Free Book</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-laptop-battery-the-ultimate-charger-companion-for-your-macbook-pro-reviewed-by-techexperts/"><u>Top-Rated Laptop Battery: The Ultimate Charger Companion for Your MacBook Pro – Reviewed by TechExperts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-recommended-lenovo-laptops-for-seamless-hybrid-working-at-a-steep-discount-only-1000-less/"><u>Top-Recommended Lenovo Laptops for Seamless Hybrid Working at a Steep Discount - Only $1,000 Less!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbelievable-black-friday-aftermath-deals-on-microsoft-tablets-cyber-monday-savings-of-up-to-600-off-ms-surface-pro-8-find-your-purchase-on-zdnet/"><u>Unbelievable Black Friday Aftermath Deals on Microsoft Tablets | Cyber Monday Savings of Up to $600 Off MS Surface Pro 8 - Find Your Purchase on ZDNet</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

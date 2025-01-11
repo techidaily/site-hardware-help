@@ -1,7 +1,7 @@
 ---
 title: "System Builder Discloses Intels CPU Outlasting AMD Ryzen: Analyzing Failure Rates with Conservative Power Settings – Puget's Findings"
-date: 2024-08-13T12:55:24.408Z
-updated: 2024-08-14T12:55:24.408Z
+date: 2025-01-07T07:25:17.191Z
+updated: 2025-01-10T19:08:09.628Z
 tags:
   - cpu
 categories:
@@ -43,8 +43,9 @@ It looks like those who received their AMD[Ryzen 9000](https://www.tomshardware.
  Sadly, we will have to wait a little longer than expected to get chips like the AMD Ryzen 9 9950X in Tom’s Hardware labs. Yesterday the news broke that these Zen 5 desktop chips would start to[roll out in August](https://www.tomshardware.com/pc-components/cpus/amd-delays-its-ryzen-9000-launch-due-to-unspecified-quality-issue-new-launch-in-august-chipmaker-pulls-back-all-units-shipped-globally-for-quality-checks) due to unspecified quality issue(s).
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -53,14 +54,11 @@ It looks like those who received their AMD[Ryzen 9000](https://www.tomshardware.
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -69,4 +67,21 @@ It looks like those who received their AMD[Ryzen 9000](https://www.tomshardware.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-how-to-live-stream-to-instagram-from-obs/"><u>[New] 2024 Approved How To Live Stream to Instagram From OBS</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-uniting-your-soundtrack-sets-from-different-spaces/"><u>[Updated] In 2024, Uniting Your Soundtrack Sets From Different Spaces</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-poco-c65-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Poco C65 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-officejet-4650-driver-download-for-windows/"><u>HP OfficeJet 4650 Driver Download for Windows</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-from-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently From Apple iPhone 13 mini</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-oneplus-nord-3-5g-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on OnePlus Nord 3 5G to Protect Your Individual Information</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-realtek-card-reader-software-on-windows-11-secure-your-files-now/"><u>Install RealTek Card Reader Software on Windows 11 - Secure Your Files Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-your-corsair-k70-with-official-driver-downloads/"><u>Install Your Corsair K70 with Official Driver Downloads</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/lenovo-t430-driver-installation-made-simple-compatible-with-windows-11-8-and-7-download-guide/"><u>Lenovo T430 Driver Installation Made Simple: Compatible with Windows 11, 8 & 7 - Download Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revolutionize-your-gaming-with-the-latest-release-for-logitech-extreme-3d-pro-drivers/"><u>Revolutionize Your Gaming with the Latest Release for Logitech Extreme 3D Pro Drivers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/snickerslide-lighten-up-your-online-presence/"><u>SnickerSlide Lighten Up Your Online Presence</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-breakdown-of-every-ipados-update-cycle/"><u>Step-by-Step Breakdown of Every iPadOS Update Cycle</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-how-to-get-new-devices-running-on-windows-without-network-access/"><u>Step-by-Step: How to Get New Devices Running on Windows without Network Access</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnet-reveals-amazons-collaboration-with-cutting-edge-fast-food-automation/"><u>ZDNet Reveals Amazon's Collaboration with Cutting-Edge Fast Food Automation</u></a></li>
+</ul></div>
 

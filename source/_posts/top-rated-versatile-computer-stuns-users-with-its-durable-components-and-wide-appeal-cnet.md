@@ -1,7 +1,7 @@
 ---
 title: Top Rated Versatile Computer Stuns Users with Its Durable Components and Wide Appeal | CNET
-date: 2025-01-03T16:27:25.777Z
-updated: 2025-01-04T17:37:14.836Z
+date: 2025-01-05T19:35:27.741Z
+updated: 2025-01-11T02:11:45.938Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Keep in mind that you can only access these online deals and Costco's warehouse 
 * [Executive Members:](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/QuickMembershipApplicationView?catalogId=10701&langId=-1&storeId=10301&krypto=h1OXv6tU3UkMLZWjDFxv%2FQCkaCGx65GC4BFsg8cXQfxkOkvgo6ALO%2Bl6ejb71sRxEBtFqB1SJq%2F1gW68DYBbGEzOo84201p4iK0Cyq%2FU3NaO%2BI0oWIsB%2B2v2xwjhURsu8Y0R2K685otVKnbYQ6fcPQNT%2FY1UhiqNBzuKDHglFjo7zSgvD8Yh6M%2F5J0XOECfkfaKZ%2FUphCOFrecBhX%2FrYipxztA0naD%2FeVuf9ykUqYl6grkgrx93XzMWi7Qs238bZK%2BgNSeyxdXBi0r18zamgB%2BAkpSuQQlNza4qXd3eJk7Q%3D&ddkey=http%3AManageShoppingCartCmd) $120 annual fee, valid at all Costco locations worldwide, annual 2% cash back on Costco purchases
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Latest Costco Cyber Monday deals still available**
@@ -48,10 +48,6 @@ Many of these deals have been available on and off since Black Friday, but we're
 * [CyberPower 1500VA Uninterruptible power supply (UPS) for $149 (Save $30)](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/cyberpower-1500va--900watts-true-sine-wave-uninterruptible-power-supply-%28ups%29.product.100527623.html)
 * [Ring Stick Up Cam (3-Pack) for $200 (save $50)](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/ring-stick-up-cam-battery-%283rd-gen%29-%2b-mounts---3-pack.product.100572894.html)
 * [LG 23 cu ft side-by-side Refrigerator for $1400 (save $250)](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/.product.4000037861.html)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Best Costco Cyber Monday deals still available**
 
@@ -103,10 +99,6 @@ Samsung's 65-inch QN859BF Series is seeing a $900 price drop ahead of Black Frid
 
 [View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/samsung-65%22-class---qn850bf-series---8k-uhd-neo-qled-lcd-tv---allstate-3-year-protection-plan-bundle-included-for-5-years-of-total-coverage%2A.product.100973437.html) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Costco Cyber Monday TV deals still available**
 
 [LG 77-inch Class B2 Series 4K OLED TV for $2,000 (Save $300) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/lg-77%22-class---oled-b2-series----4k-uhd-oled-tv---allstate-3-year-protection-plan-bundle-included-for-5-years-of-total-coverage%2A.product.100979801.html)
@@ -130,7 +122,7 @@ Samsung's 65-inch QN859BF Series is seeing a $900 price drop ahead of Black Frid
 [MSI Aegis RS Gaming Desktop for $3,600 (Save $400) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/msi-aegis-rs-gaming-desktop---intel-core-i9-12900kf----geforce-rtx-3080ti.product.100847630.html)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Costco Cyber Monday streaming device deals still available**
@@ -147,6 +139,10 @@ Samsung's 65-inch QN859BF Series is seeing a $900 price drop ahead of Black Frid
 
 [Samsung Galaxy 10.4-inch S6 Lite Tab + Book cover for $260 (save $120) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/samsung-galaxy-10.4%22-tab-s6-lite-64gb---oxford-gray---includes-book-cover.product.100660228.html)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Costco Cyber Monday headphone deals still available**
 
 [Samsung Galaxy Buds2 Pro for $170 (Save $50) plus get $20 Google Play gift code View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/samsung-galaxy-buds2-pro-with-%2420-google-gift-code.product.4000037682.html)
@@ -158,12 +154,16 @@ Samsung's 65-inch QN859BF Series is seeing a $900 price drop ahead of Black Frid
 [Apple AirPods (2nd Gen) for $100 (save $20) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/apple-airpods-wireless-headphones-with-charging-case-%282nd-generation%29.product.100487204.html)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Costco Cyber Monday smartwatch deals still available**
 
 [Apple Watch Series 8 GPS (in Silver or Midnight) for $350 (Save $40) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/apple-watch-series-8-gps.product.100813018.html)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Costco Cyber Monday camera deals still available**
 
@@ -173,10 +173,6 @@ Samsung's 65-inch QN859BF Series is seeing a $900 price drop ahead of Black Frid
 
 [Google Nest Cam 3-Pack for $300 (Save $100) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/google-nest-cam-%28outdoor-or-indoor%2c-battery%29-3-pack.product.100798317.html)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Costco Cyber Monday smart home deals still available**
 
 [Blink whole-home security system bundle for $200 (Save $100) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/blink-whole-home-security-system-bundle.product.100805528.html)
@@ -184,6 +180,10 @@ Samsung's 65-inch QN859BF Series is seeing a $900 price drop ahead of Black Frid
 [iRobot Roomba j8+ for $600 (Save $100) View now at Irobot](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.irobot.com/en%5FUS/roomba%5Fi8%5Fplus/I855020.html)
 
 [Ring Security 14-pc Kit for $230 (Save $120) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/ring-security-alarm-14-piece-kit-%28gen-2%29-with-stick-up-cam%2c-smokeco-listener-and-range-extender.product.100849368.html)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How did we choose these Cyber Monday Costco deals?
 
@@ -226,10 +226,6 @@ ZDNET scoured holiday sales to find the best deals this year:
 
 Our experts split out the best deals by retailer, brand, and category, which you can see below. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Holiday deals by retailer**
 
 * [The best holiday 2022 deals at Amazon](https://www.zdnet.com/article/amazon-best-holiday-deals-2022/)
@@ -247,7 +243,7 @@ Our experts split out the best deals by retailer, brand, and category, which you
 * [The best holiday 2022 HP deals](https://www.zdnet.com/home-and-office/hp-best-holiday-deals-2022/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Holiday deals by category**
@@ -275,6 +271,10 @@ Our experts split out the best deals by retailer, brand, and category, which you
  Here are some of the cheapest deals we found:
 
 * [The best holiday 2022 deals under $30](https://www.zdnet.com/home-and-office/best-holiday-deals-under-30-2022/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Cyber Monday live blog deals still available**
 
@@ -324,21 +324,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-groundbreision-of-top-8-free-video-call-software-for-companies/"><u>[New] In 2024, Groundbreision of Top 8 Free Video Call Software for Companies</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-instagram-live-setup-in-minutes/"><u>[New] In 2024, Instagram Live Setup in Minutes</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/9plus-essential-guides-to-mastering-the-art-of-online-cricket-viewership-for-2024/"><u>9+ Essential Guides to Mastering the Art of Online Cricket Viewership for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/canon-mf8500c-driver-installation-instructions-for-windows-users-windows-78110/"><u>Canon MF8500C Driver Installation Instructions for Windows Users (Windows 7/8.1/10)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exclusive-report-on-intels-revolutionary-chip-battlemage-delivers-lower-power-footprint-by-100w-and-uncompromised-overclocking-capabilities-following-the-la6/"><u>Exclusive Report on Intel's Revolutionary Chip - Battlemage Delivers Lower Power Footprint by 100W and Uncompromised Overclocking Capabilities Following the Latest Raptor Lake Updates</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210361835-9781637303702-from-waves-i-rise/"><u>From Waves, I Rise | Free Book</u></a></li>
-<li><a href="https://win-able.techidaily.com/half-life-alyx-performance-issues-addressed-resolving-pc-lags-and-stutters/"><u>Half-Life: Alyx Performance Issues Addressed – Resolving PC Lags and Stutters</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-successfully-update-your-amd-radeon-graphics-card-drivers/"><u>How to Successfully Update Your AMD Radeon Graphics Card Drivers</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-motorola-g24-power-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Motorola G24 Power Face Lock?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-samsung-galaxy-a05-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Samsung Galaxy A05?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-samsung-850-evo-drive-software-and-drivers-get-them-here/"><u>Latest Samsung 850 EVO Drive Software and Drivers – Get Them Here</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/leading-the-way-after-altman-the-impact-of-executive-shake-up-on-chatgpts-direction/"><u>Leading the Way After Altman: The Impact of Executive Shake-Up on ChatGPT's Direction</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/solution-the-specific-heat-capacity-of-wood-generally-increases-with-density-because-denser-woods-have-more-mass-in-a-given-volume-requiring-more-energy-for178/"><u>Solution: The Specific Heat Capacity of Wood Generally Increases with Density because Denser Woods Have More Mass in a Given Volume, Requiring More Energy for Any Given Temperature Increase</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/sound-blaster-mic-troubleshooting-quick-fixes-to-get-you-back-on-track/"><u>Sound Blaster Mic Troubleshooting: Quick Fixes to Get You Back on Track</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/streamline-your-pcs-performance-effortless-installation-of-logitech-drivers-for-windows/"><u>Streamline Your PC's Performance: Effortless Installation of Logitech Drivers for Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-downloading-and-updating-your-steelseries-gaming-mouse-drivers/"><u>The Ultimate Guide to Downloading & Updating Your SteelSeries Gaming Mouse Drivers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-perfectly-blended-hdr-your-guide-to-merging-in-adobe-lightroom/"><u>[New] Perfectly Blended HDR Your Guide to Merging in Adobe Lightroom</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-proven-ways-to-enhance-fidelity-in-your-virtual-reality-captures/"><u>[New] Proven Ways to Enhance Fidelity in Your Virtual Reality Captures</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-revamping-graphic-design-with-non-acid-pro-options-for-2024/"><u>[Updated] Revamping Graphic Design with Non-ACID Pro Options for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-social-media-savvy-turning-friends-into-customers-and-coins/"><u>2024 Approved Social Media Savvy Turning Friends Into Customers and Coins</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-walkthrough-installing-asus-wireless-network-card-drivers-on-windows/"><u>Comprehensive Walkthrough: Installing ASUS Wireless Network Card Drivers on Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722977870557-easy-installation-get-your-free-hp-drivers-now/"><u>Easy Installation: Get Your Free HP Drivers Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-acer-wireless-drivers-instant-and-easy-installation-guide/"><u>Free Acer Wireless Drivers - Instant and Easy Installation Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-drivers-for-your-hp-officejet-pro-8620-on-windows-systems/"><u>Get the Newest Drivers for Your HP OfficeJet Pro 8620 on Windows Systems</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-high-quality-audio-collections-a-youtube-creators-guidebook/"><u>In 2024, High-Quality Audio Collections A YouTube Creator's Guidebook</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/pro-camera-addons-buyers-insider-guide/"><u>Pro-Camera Addons Buyer's Insider Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/resolving-scandisk-errors-on-windows-systems-a-comprehensive-fix-guide/"><u>Resolving ScanDisk Errors on Windows Systems: A Comprehensive Fix Guide</u></a></li>
 </ul></div>
 

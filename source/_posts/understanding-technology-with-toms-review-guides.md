@@ -1,7 +1,7 @@
 ---
 title: Understanding Technology with Tom’s Review Guides
-date: 2024-08-19T10:46:55.237Z
-updated: 2024-08-20T10:46:55.237Z
+date: 2025-01-09T22:50:13.567Z
+updated: 2025-01-11T00:47:57.573Z
 tags:
   - laptop
 categories:
@@ -29,6 +29,10 @@ Framework has[announced](https://x.com/FrameworkPuter/status/1803072040569901452
 
  Nevertheless,[American lawmakers are still investigating China’s access to this technology](https://tools.techidaily.com) , especially as Washington is working hard to[restrict Beijing’s access](https://tools.techidaily.com) to advanced tech. However, since it remains open, many[Chinese startups](https://tools.techidaily.com) [and companies](https://tools.techidaily.com) are taking advantage of this ISA, allowing them to produce chips that aren’t restricted by American sanction.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,9 +45,17 @@ Framework has[announced](https://x.com/FrameworkPuter/status/1803072040569901452
 
 ![Framework, DeepComputing collaborate](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Framework, DeepComputing)
 
 ![Framework, DeepComputing collaborate](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Framework, DeepComputing)
 
@@ -55,8 +67,6 @@ Framework has[announced](https://x.com/FrameworkPuter/status/1803072040569901452
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -64,8 +74,26 @@ Framework has[announced](https://x.com/FrameworkPuter/status/1803072040569901452
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-creative-potential-installing-windows-movie-maker-on-w11/"><u>[New] Unlocking Creative Potential Installing Windows Movie Maker on W11</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-high-resolution-blu-ray-delight-top-3d-player-selections/"><u>[Updated] High-Resolution Blu-Ray Delight Top 3D Player Selections</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-kinemasters-dominance-in-the-android-gaming-arena-reviewed/"><u>[Updated] KineMaster's Dominance in the Android Gaming Arena Reviewed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/anticipated-announcements-in-apples-fall-event-discovering-new-features-on-the-m4-mac-mini-and-ipad-upgrades-alongside-breakthrough-apple-intelligence-zdnet148/"><u>Anticipated Announcements in Apple's Fall Event: Discovering New Features on the M4 Mac Mini and iPad Upgrades Alongside Breakthrough 'Apple Intelligence' | ZDNET Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/best-dell-school-supply-sales-on-labor-day-discounted-computers-and-accessories-zdnet/"><u>Best Dell School Supply Sales on Labor Day: Discounted Computers & Accessories – ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/decoding-wwdc-2023s-big-reveals-detailed-coverage-of-mac-pro-mac-studio-and-revolutionary-m2-ultra-processors-zdnet/"><u>Decoding WWDC 2023'S Big Reveals: Detailed Coverage of Mac Pro, Mac Studio, and Revolutionary M2 Ultra Processors | ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-a-close-to-ideal-computer-powerhouse-for-only-3600-in-depth-analysis/"><u>Exploring a Close-to-Ideal Computer Powerhouse for Only $3,600! In-Depth Analysis</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-vivo-y77t-by-drfone-android/"><u>How to Show Wi-Fi Password on Vivo Y77t</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-voice-changes-without-financial-investment/"><u>In 2024, The Ultimate Guide to Voice Changes Without Financial Investment</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-boost-mobile-apple-iphone-13-pro-max-before-the-plan-expires-by-drfone-ios/"><u>In 2024, Unlock Your Boost Mobile Apple iPhone 13 Pro Max Before the Plan Expires</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/launching-soon-apple-prepares-to-unveil-new-macbook-air-ipad-pro-and-ipad-air-in-march-latest-insights/"><u>Launching Soon? Apple Prepares to Unveil New MacBook Air, iPad Pro & iPad Air in March: Latest Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-quick-access-uwp-apps-shortcuts-on-windows-11/"><u>Mastering Quick Access: UWP Apps Shortcuts on Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mega-discount-on-gigabyte-aero-16-up-to-57-off-for-gamers/"><u>Mega Discount on Gigabyte Aero 16 - Up to 57% Off for Gamers!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/prioritize-these-pc-upgrades-now/"><u>Prioritize These PC Upgrades Now</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/shrouded-screen-images-techniques-for-redacting-info/"><u>Shrouded Screen Images Techniques for Redacting Info</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/snag-the-deal-8tb-samsung-t5-nvme-ssds-available-at-a-steep-36-discount-on-amazon-insights/"><u>Snag the Deal: 8TB Samsung T5 NVMe SSDs Available at a Steep 36% Discount on Amazon - Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unleashing-multi-monitor-magic-how-your-m3-macbook-pro-matches-the-power-of-an-m3-macbook-air/"><u>Unleashing Multi-Monitor Magic: How Your M3 MacBook Pro Matches the Power of an M3 MacBook Air</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/why-the-499-lenovo-chromebook-plus-is-a-game-changer-for-budget-buyers-zdnet/"><u>Why the $499 Lenovo Chromebook Plus Is a Game-Changer for Budget Buyers | ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/zero-lag-zone-mastering-high-fps-strategies-in-valorant-a-2024-players-handbook/"><u>Zero-Lag Zone: Mastering High FPS Strategies in Valorant - A 2024 Player’s Handbook</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Section 2B: Five Facts to Remember"
-date: 2024-12-30T16:36:30.046Z
-updated: 2025-01-04T16:43:44.735Z
+date: 2025-01-09T21:41:43.097Z
+updated: 2025-01-10T21:32:44.972Z
 tags:
   - laptops
 categories:
@@ -18,10 +18,6 @@ While gifts are about appreciating our friends and family, there can be a financ
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best laptops Our recommended models for every use case and platform.  Read now](https://www.zdnet.com/article/best-laptop/)
@@ -36,6 +32,10 @@ If you're stuck for ideas regarding laptops suitable to give as gifts, check out
 * [The best cheap tech gifts under $75](https://www.zdnet.com/home-and-office/kitchen-household/best-cheap-tech-gifts-under-75/)
 * [The best cheap tech gifts under $50](https://www.zdnet.com/home-and-office/best-cheap-tech-gifts-under-50/)
 * [The best cheap tech gifts under $25](https://www.zdnet.com/home-and-office/best-cheap-tech-gifts-under-25/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **The best laptop gift ideas**
 
@@ -192,6 +192,10 @@ For added safety, you can go into the laptop's settings and opt for different le
 
 [View now at Walmart](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F224571889&subId1=zd-__COM_CLICK_ID__-dtp)[View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B5VHD8G7%2Fref%3Dasc%5Fdf%5FB0B5VHD8G71728298800000%3Fcreative%3D395261%26creativeASIN%3DB0B5VHD8G7%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4e140282-f8e3-4035-ba80-ff36ee556c58%7Cdtp&dtb=1) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **The best laptop deals at Amazon**
 
 Below are other laptop deals ZDNET has found at Amazon.
@@ -206,10 +210,6 @@ Below are other laptop deals ZDNET has found at Amazon.
 
 [Acer Swift 3 laptop for $900 (save $200) $900 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAcer-i7-1260P-Graphics-Bluetooth-SF314-512-73YZ%2Fdp%2FB09YSYVV2R%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4e140282-f8e3-4035-ba80-ff36ee556c58%7Cdtp&dtb=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **The best laptop deals at Walmart**
 
 Below are other laptop deals ZDNET has found at Walmart.
@@ -221,7 +221,7 @@ Below are other laptop deals ZDNET has found at Walmart.
 [Lenovo Ideapad 5i Chromebook for $429 (save $100) $429 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLenovo-Ideapad-5i-Chromebook-16-0-WQXGA-Gaming-Laptop-Intel-Core-i3-1215U-8GB-RAM-128GB-eMMC-Storm-Grey-Chrome-OS-82V80009UX-Includes-3-Free-Months-N%2F1867344969%3Fathbdg%3DL1101&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **The best laptop deals at Best Buy**
@@ -232,15 +232,15 @@ Below are other laptop deals ZDNET has found at Best Buy.
 
 [Dell XPS 15 15.6-inch laptop for $2300 (save $500) $2,300 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fdell-xps-15-15-6-3-5k-oled-touch-screen-laptop-12th-gen-intel-core-i9-32gb-memory-nvidia-geforce-rtx-3050-ti-1tb-ssd-silver%2F6504382.p%3FskuId%3D6504382&publisher%5Fslug=zdnet&article%5Fname=21%20laptops%20that%20make%20great%20gifts%20in%202023&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-gift%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How did we choose these laptop gift ideas?
 
 You may need to balance expectations, budget, and the need for new equipment this year due to the economic situation, but we still need PCs for both work and study -- and they certainly come in handy when it comes to keeping ourselves entertained.
 
 While choosing these products, we tried to include options to suit a range of budgets while also keeping age ranges and their intended use in mind. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What laptop should I buy?
 
@@ -251,10 +251,6 @@ If you intend to use your laptop for work and at home, for example, you will pro
 Gamers might opt for a larger screen still and higher resolutions, whereas with daily tasks such as email and study -- with the occasion video call or social media check -- you can easily get away with mid-range specs, such as 8GB/16GB RAM. 
 
 Unless you are a Linux fan, you then need to decide what operating system you are the most comfortable with. The most common options are either Microsoft Windows or Apple macOS. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the best laptop for students?
 
@@ -269,6 +265,10 @@ However, if the course is creative, things can become a little more complicated,
 The amount of storage on offer when you buy a laptop varies. Typically, you can expect storage to range between 128GB and 1/2TB solid-state drive (SSD) storage, although when it comes to Chromebooks, the smaller form facts mean that embedded MultiMediaCard (eMMC) storage is used, reducing capacity drastically.
 
 1TB is usually adequate for apps, software, games, and music. However, in any case, you can purchase portable hard drives to boost your storage space -- and create backups of your valuable data. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the best gifts for 2023?
 
@@ -352,21 +352,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-becoming-a-clone-mastermind-perfecting-the-copycat-artistry-on-tiktok/"><u>[New] In 2024, Becoming a Clone Mastermind Perfecting the Copycat Artistry on TikTok</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-step-by-step-tutorial-for-using-ez-grabber-like-a-pro/"><u>[Updated] In 2024, Step-by-Step Tutorial for Using EZ Grabber Like a Pro</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/best-labor-day-laptop-bargains-over-23-amazing-deals-that-are-still-alive/"><u>Best Labor Day Laptop Bargains: Over 23 Amazing Deals That Are STILL Alive</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/explore-top-10-apples-affordable-and-free-image-collage-applications-for-2024/"><u>Explore Top 10 Apple's Affordable & Free Image Collage Applications for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-ready-for-savings-apples-m2-macbook-air-slashed-to-just-799-in-advance-of-prime-day-blowout-find-out-more-at-zdnet-now/"><u>Get Ready for Savings! Apple's M2 MacBook Air Slashed to Just $799 in Advance of Prime Day Blowout – Find Out More at ZDNet Now!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-victus-amo-15-get-your-powerhouse-gaming-machine-for-just-515-with-the-exclusive-anti-prime-day-offer-at-best-buy-zdnet/"><u>HP Victus Amo 15: Get Your Powerhouse Gaming Machine for Just $515 with the Exclusive Anti-Prime Day Offer at Best Buy | ZDNET</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/immerse-yourself-in-innovative-3d-art-on-asus-new-laptops-a-leap-forward-without-dependence-on-vrar-headsets-zdnet-insights/"><u>Immerse Yourself in Innovative 3D Art on Asus New Laptops: A Leap Forward Without Dependence on VR/AR Headsets | ZDNET Insights</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-poco-c50-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Poco C50 FRP Bypass Instantly</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/novices-navigate-for-speedy-snapchat-videos-for-2024/"><u>Novice's Navigate for Speedy Snapchat Videos for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/reconfiguring-your-macs-command-key-a-step-by-step-guide/"><u>Reconfiguring Your Mac's Command Key: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/should-you-invest-in-a-ps5-top-4-benefits-of-owning-sonys-latest-console/"><u>Should You Invest in a PS5? Top 4 Benefits of Owning Sony's Latest Console</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-future-of-gaming-displays-a-comprehensive-review-of-the-philips-qd-oled-evonia-49m2c8900/"><u>The Future of Gaming Displays: A Comprehensive Review of the Philips QD-OLED Evonia 49M2C8900</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-perfect-blend-of-power-and-mobility-dells-new-ultraportable-gaming-laptops-take-to-work-with-ease-zdnet-insights/"><u>The Perfect Blend of Power & Mobility: Dell's New Ultraportable Gaming Laptops Take to Work with Ease | ZDNet Insights</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/transform-videos-into-stories-discover-the-top-10-reactions-for-2024/"><u>Transform Videos Into Stories Discover the Top 10 Reactions for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/vivid-video-visualization-the-essential-5-tools-guide-for-2024/"><u>Vivid Video Visualization The Essential 5 Tools Guide for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/why-the-hp-spectre-x3-is-dominating-as-a-favorite-laptop-of-the-year-on-zdnets-latest-review/"><u>Why the HP Spectre X3) Is Dominating as a Favorite Laptop of the Year on ZDNet's Latest Review</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-action-camera-buyers-manual-skisnow-gear-insights/"><u>[New] 2024 Approved Action Camera Buyer's Manual Ski/Snow Gear Insights</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-convert-avi-videos-into-high-impact-gifs-using-filmora-for-windowsmacos/"><u>[Updated] Convert AVI Videos Into High Impact GIFs Using Filmora for Windows/MacOS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-get-a-handful-of-personalized-endings-at-zip/"><u>2024 Approved Get a Handful of Personalized Endings, at Zip</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-configure-hp-deskjet-scan-application-on-windows-machines/"><u>Download & Configure HP Deskjet Scan Application on Windows Machines</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ensure-optimal-compatibility-new-driver-downloads-for-xbox-360-controllers/"><u>Ensure Optimal Compatibility: New Driver Downloads for Xbox 360 Controllers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/essential-tactics-for-effective-fb-giveaway-campaigns/"><u>Essential Tactics for Effective FB Giveaway Campaigns</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/re-popular-youtube-comment-sections-for-2024/"><u>Explore Popular YouTube Comment Sections for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-free-qualcomm-chipset-drivers-now-supports-win11-to-win7-operating-systems/"><u>Get Your Free Qualcomm Chipset Drivers Now - Supports Win11 to Win7 Operating Systems!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209393341-how-to-restore-astro-a40-mic-functionality-simple-solutions/"><u>How to Restore Astro A40 Mic Functionality - Simple Solutions</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-13-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 13? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revamping-your-clicks-a-comprehensive-tutorial-on-logitech-m310-mouse-drivers-update/"><u>Revamping Your Clicks: A Comprehensive Tutorial on Logitech M310 Mouse Drivers Update</u></a></li>
 </ul></div>
 

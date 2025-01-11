@@ -1,7 +1,7 @@
 ---
 title: "AI Ryzen 9 HX 370 Shatters Benchmarks, Eclipsing Intel's Single-Core Speed: Zen 5 Outperforms Core Ultra 7 268V and Ryzen 9 7945HX3D"
-date: 2024-08-13T13:00:06.251Z
-updated: 2024-08-14T13:00:06.251Z
+date: 2025-01-08T20:26:10.490Z
+updated: 2025-01-10T22:43:44.389Z
 tags:
   - cpu
 categories:
@@ -47,8 +47,9 @@ Third-party reviews of the Ryzen 9 9900X have begun to crop up, giving us our fi
  3D V-Cache continues to be AMD's magic pill for incredibly efficient gaming performance, providing a generational improvement in performance for chips that take advantage of it. We must wait until the Ryzen 9000 X3D launches before Zen 5 officially dethrones Zen 4 with 3D V-Cache in gaming.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -57,14 +58,11 @@ Third-party reviews of the Ryzen 9 9900X have begun to crop up, giving us our fi
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -73,4 +71,20 @@ Third-party reviews of the Ryzen 9 9900X have begun to crop up, giving us our fi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-fast-footsteps-simple-recording-for-dell-pcs/"><u>[New] In 2024, Fast Footsteps Simple Recording for Dell PCs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/749-apple-macbook-air-with-m2-chip-exclusive-offer-during-amazons-october-prime-day-dont-miss-outzdnet-news/"><u>$749 Apple MacBook Air with M2 Chip: Exclusive Offer During Amazon's October Prime Day – Don't Miss Out![ZDNet News]</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-mastering-the-art-of-attracting-more-youtube-viewers/"><u>2024 Approved Mastering the Art of Attracting More YouTube Viewers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/buy-a-high-performance-asus-notebook-for-250-at-walmart-equipped-with-multiple-ports-zdnet-insight/"><u>Buy a High-Performance Asus Notebook for $250 at Walmart, Equipped with Multiple Ports | ZDNet Insight</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-breakdown-all-the-latest-from-apples-thrilling-october-reveal-and-hidden-surprises-a-closer-look-by-zdnet/"><u>Comprehensive Breakdown: All the Latest From Apple's Thrilling October Reveal and Hidden Surprises - A Closer Look by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-techniques-to-repair-kernel3e-dll-corruption/"><u>Effective Techniques to Repair Kernel3e DLL Corruption</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-motorola-g24-power-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Motorola G24 Power Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-exploring-the-extensive-features-of-logitechs-4k-cam/"><u>In 2024, Exploring the Extensive Features of Logitech's 4K Cam</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-mastering-animated-gifs-creating-from-youtube-videos-online/"><u>In 2024, Mastering Animated GIFs Creating From Youtube Videos Online</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-10-must-watch-free-films-on-youtube-as-of-july-2024/"><u>Top 10 Must-Watch Free Films on YouTube as of July 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-6-advantages-of-choosing-a-chromebook-the-ultimate-laptop-solution-for-everyone-insights-from-zdnet/"><u>Top 6 Advantages of Choosing a Chromebook: The Ultimate Laptop Solution for Everyone - Insights From ZDNet</u></a></li>
+<li><a href="https://win-data.techidaily.com/wie-man-die-trim-funktion-auf-einem-ssd-fur-windows-11-aktiviert-oder-deaktiviert/"><u>Wie Man Die TRIM-Funktion Auf Einem SSD Für Windows 11 Aktiviert Oder Deaktiviert</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-terminal-the-art-of-color-selection/"><u>Windows Terminal: The Art of Color Selection</u></a></li>
+</ul></div>
 

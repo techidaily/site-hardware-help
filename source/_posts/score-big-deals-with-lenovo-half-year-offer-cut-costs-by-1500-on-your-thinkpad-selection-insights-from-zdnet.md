@@ -1,7 +1,7 @@
 ---
 title: "Score Big Deals with Lenovo Half-Year Offer: Cut Costs by $1,500 on Your ThinkPad Selection – Insights From ZDNet"
-date: 2025-01-02T17:31:11.547Z
-updated: 2025-01-04T16:15:18.353Z
+date: 2025-01-07T21:02:19.208Z
+updated: 2025-01-10T23:23:43.157Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -73,7 +73,7 @@ My review unit came with the Intel Core Ultra 7 155H processor, which allowed th
 These problems extended to the battery, too. I performed my usual battery test of playing a 720p YouTube video non-stop at 50 percent brightness to see how long it lasts. I do this to simulate an average day of work. On battery saver, the ThinkPad X1 Carbon lasted around five hours before dying. That's not very long. With the quirky performance in mind, all this leads me to believe that the ThinkPad's hardware isn't well optimized.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -112,22 +112,22 @@ There are a few different configurations you can choose for this machine, bringi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-best-online-vimeo-video-downloaders/"><u>[New] Best Online Vimeo Video Downloaders</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/disabling-iphone-15-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling iPhone 15 Parental Restrictions With/Without Password</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-master-unlocking-your-sprint-device-a-step-by-step-guide-for-iphone-models-xs-xr-and-earlier-versions/"><u>How to Master Unlocking Your Sprint Device: A Step-by-Step Guide for iPhone Models XS, XR, and Earlier Versions</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-oppo-a1-5g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Oppo A1 5G Phone?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/huge-sale-alert-for-presidents-day-score-a-cut-price-2023-macbook-air-with-m2-chip-at-just-300-less-shop-now-gadgetguru-newsletter/"><u>Huge Sale Alert for Presidents' Day: Score a Cut-Price 2023 MacBook Air with M2 Chip at Just $300 Less - Shop Now | GadgetGuru Newsletter</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/live-streaming-microsofts-next-gen-ai-showcase-on-surface-and-windows-get-ready-now-zdnet/"><u>Live Streaming Microsoft's Next-Gen AI Showcase on Surface & Windows - Get Ready Now! | ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/portable-monitors-a-smart-choice-for-tech-enthusiasts-find-out-why-these-4-standout-models-are-worth-your-attention-zdnet/"><u>Portable Monitors: A Smart Choice for Tech Enthusiasts? Find Out Why These 4 Standout Models Are Worth Your Attention | ZDNET</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/snag-the-hp-victus-15-at-an-unbeatable-price-of-450-during-prime-day-exclusive-sale-inside-on-bestbuy-gaming-laptop-reviews-by-zdnet/"><u>Snag the HP Victus 15 at an Unbeatable Price of $450 During Prime Day: Exclusive Sale Inside on BestBuy - Gaming Laptop Reviews by ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/snag-your-high-capacity-deal-8tb-samsung-t5-drive-at-a-steep-36-off-exclusively-on-amazon-insights-from-zdnets-latest-review/"><u>Snag Your High-Capacity Deal: 8TB Samsung T5 Drive at a Steep 36% Off, Exclusively on Amazon! Insights From ZDNET's Latest Review</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/study-reveals-privacy-risks-protect-your-personal-files-from-intrusive-tech-support/"><u>Study Reveals Privacy Risks: Protect Your Personal Files From Intrusive Tech Support</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-new-era-of-productivity-on-the-go-how-hps-cutting-edge-chromebooks-elevate-work-and-study-experience-as-revealed-by-zdnet/"><u>The New Era of Productivity on the Go: How HP's Cutting-Edge Chromebooks Elevate Work and Study Experience, as Revealed by ZDNET</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ltimate-guide-to-adding-youtube-media-to-google-slides-for-2024/"><u>The Ultimate Guide to Adding YouTube Media to Google Slides for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/transcode-video-flv-en-audio-mp3-gratuite-en-ligne-avec-mp3-converter/"><u>Transcode Vidéo FLV en Audio MP3 Gratuite en Ligne Avec Mp3-Converter</u></a></li>
-<li><a href="https://fox-that.techidaily.com/understanding-your-iphone-14s-battery-health-issues-what-you-need-to-know/"><u>Understanding Your iPhone 14'S Battery Health Issues - What You Need to Know</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/updated-2024-approved-a-detailed-review-of-murfai-ai-text-to-speech-tool/"><u>Updated 2024 Approved A Detailed Review of Murf.ai AI Text-to-Speech Tool</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/what-tech-enthusiasts-are-expecting-from-apples-upcoming-event-a-deep-dive-into-potential-m4-mac-minis-innovative-ipads-and-future-of-apple-ai-analysis/"><u>What Tech Enthusiasts Are Expecting From Apple’s Upcoming Event – A Deep Dive Into Potential M4 Mac Minis, Innovative iPads, and Future of Apple AI | Analysis</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726026739742-dailymotion/"><u>ブラウザでDailymotion動画を安全に保存するためのテクニック</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-a-guide-to-winning-at-game-capturing-with-win10/"><u>[Updated] A Guide to Winning at Game Capturing with Win10</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-instagram-writers-and-broadcasters-podcast-sharing-explained/"><u>[Updated] Instagram’ Writers & Broadcasters Podcast Sharing Explained</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-quick-start-mastering-ez-grabbers-downloading-and-usage-for-2024/"><u>[Updated] Quick Start Mastering EZ Grabber's Downloading & Usage for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-visualize-your-workflow-top-free-screen-recorders-for-pc-and-mac-for-2024/"><u>[Updated] Visualize Your Workflow - Top Free Screen Recorders for PC & Mac for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-methods-for-chronological-disruption-in-acting/"><u>2024 Approved Innovative Methods for Chronological Disruption in Acting</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-walkthrough-lenovo-dock-upgrade-freshest-drivers-installation-steps/"><u>Comprehensive Walkthrough: Lenovo Dock Upgrade - Freshest Drivers Installation Steps</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-updated-intel-iris-xe-driver-for-optimal-performance-on-windows-11/"><u>Download Updated Intel Iris Xe Driver for Optimal Performance on Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-installation-get-the-latest-amd-rx-480-graphics-card-software/"><u>Effortless Installation: Get the Latest AMD RX 480 Graphics Card Software</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-nokia-c12-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-atheros-driver-software-for-windows-systems-here/"><u>Get the Latest Atheros Driver Software for Windows Systems Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-amd-ati-radeon-hd-3450-graphics-card-drivers-with-just-one-click/"><u>Get the Newest AMD ATI Radeon HD 3450 Graphics Card Drivers with Just One Click</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-iphone-13-pro-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 13 Pro When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-vivo-y36-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Vivo Y36 Device</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-infinix-note-30-vip-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Infinix Note 30 VIP Phone FRP Lock</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-intel-dynamic-platform-and-thermal-framework-driver-setup-fixed/"><u>Mastering Intel Dynamic Platform & Thermal Framework Driver Setup: Fixed!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/successful-guide-installing-the-latest-dell-mouse-driver/"><u>Successful Guide: Installing the Latest Dell Mouse Driver</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-epson-wf-3720-with-our-comprehensive-driver-download-guide/"><u>Update Your Epson WF 3720 with Our Comprehensive Driver Download Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Slash the Price: HP's New Victus 15 Game Laptop Hits $530 Markdown at Best Buy, Insights"
-date: 2025-01-01T16:07:18.396Z
-updated: 2025-01-04T16:43:09.239Z
+date: 2025-01-07T20:03:01.365Z
+updated: 2025-01-11T04:48:33.696Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,18 +63,16 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-ultimate-guide-to-record-games-on-windows-10-pc/"><u>[New] In 2024, Ultimate Guide to Record Games on Windows 10 PC</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-exploring-the-most-reliable-free-srt-translation-services/"><u>[Updated] In 2024, Exploring the Most Reliable Free SRT Translation Services</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-burst-to-blast-android-apps-transform-slow-motion/"><u>2024 Approved Burst to Blast Android Apps Transform Slow Motion</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-whats-new-with-the-revamped-lenovo-thinkpad-x1-a-detailed-review-by-zdnet/"><u>Discover What's New with the Revamped Lenovo ThinkPad X1: A Detailed Review by ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/early-birds-guide-to-score-on-prime-day-2024-exclusive-offers-revealed/"><u>Early Bird's Guide to Score on Prime Day 2024 – Exclusive Offers Revealed !</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exclusive-labor-day-promotions-on-dell-electronics-school-supplies-including-monitors-and-laptops-zdnet-tech/"><u>Exclusive Labor Day Promotions on Dell Electronics: School Supplies Including Monitors & Laptops | ZDNet Tech</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-ready-to-level-up-slash-rs-250-from-acer-nitro-5-prices-today-expert-buyers-guide-on-zdnet/"><u>Get Ready to Level Up: Slash Rs. 250 From Acer Nitro 5 Prices Today – Expert Buyer's Guide on ZDNET!</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Realme Narzo N55 | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-vivo-y55s-5g-2023-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Vivo Y55s 5G (2023) Phone When You Forget the Password</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-swift-access-to-youtube-srt-files-three-key-points/"><u>In 2024, Swift Access to YouTube SRT Files Three Key Points</u></a></li>
-<li><a href="https://discover-able.techidaily.com/nas-dateien-automatisch-aktualisieren-in-windows-synchronisierungsstrategie-fur-betriebssysteme-111087/"><u>NAS Dateien Automatisch Aktualisieren in Windows: Synchronisierungsstrategie Für Betriebssysteme 11/10/8/7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/sale-alert-samsung-4tb-portable-ssd-t5-reduced-by-nearly-half-now-available-on-amazon-tech-news/"><u>Sale Alert: Samsung 4TB Portable SSD T5 Reduced by Nearly Half - Now Available on Amazon! | Tech News</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-prime-day-electronics-bargains-exclusive-gaming-discounts-for-october-2024-zdnet/"><u>Top Prime Day Electronics Bargains: Exclusive Gaming Discounts for October 2024 | ZDNet</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/xclusive-hd-benefits-turn-on-av1-in-youtube-settings/"><u>[New] Exclusive HD Benefits Turn On AV1 in YouTube Settings</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-high-fidelity-footage-face-off-hero5-black-vs-hero4-silver/"><u>2024 Approved High Fidelity Footage Face-Off Hero5 Black vs Hero4 Silver</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-vivo-s18-pro-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Vivo S18 Pro</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-official-drivers-for-epson-et-2750-printer-on-windows-pc/"><u>Download the Official Drivers for Epson ET-2750 Printer on Windows PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-instructions-for-downloading-the-hp-laserjet-pro-m402n-printer-drivers-on-windows-systems/"><u>Easy Instructions for Downloading the HP LaserJet Pro M402n Printer Drivers on Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-steps-to-download-and-install-the-right-drivers-for-your-epson-xp-430-on-a-windows-pc/"><u>Easy Steps to Download & Install the Right Drivers for Your Epson XP-430 on a Windows PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-installation-of-dell-audio-device-drivers/"><u>Effortless Installation of Dell Audio Device Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-enhance-lenovo-ideapad-100-performance-windows-10-driver-downloads-and-tips/"><u>How to Enhance Lenovo IdeaPad 100 Performance: Windows 10 Driver Downloads & Tips</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-mastering-the-art-of-friendly-pins-in-snapchat/"><u>In 2024, Mastering the Art of Friendly Pins in Snapchat</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/telecharger-facilement-vos-playlists-et-videos-4k-avec-le-numero-un-des-applications-gratuites-sur-google/"><u>Télécharger Facilement Vos Playlists Et Vidéos 4K Avec Le Numéro Un Des Applications Gratuites Sur Google</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/windows-friendly-audio-interface-software-download-free-scarlett-solo-by-focusrite/"><u>Windows-Friendly Audio Interface Software - Download Free Scarlett Solo by Focusrite!</u></a></li>
 </ul></div>
 

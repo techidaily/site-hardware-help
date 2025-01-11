@@ -1,7 +1,7 @@
 ---
 title: Advanced Hardware Insights by Tom's Computing Wizards
-date: 2024-08-19T10:47:07.291Z
-updated: 2024-08-20T10:47:07.291Z
+date: 2025-01-08T17:41:16.640Z
+updated: 2025-01-11T04:08:19.897Z
 tags:
   - laptop
 categories:
@@ -33,6 +33,10 @@ Artificial Intelligence (AI) is the tech term of the moment, and everyone in the
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Copilot+ PCs: Microsoft’s New Standard
 
  Since then,[Microsoft](https://tools.techidaily.com) has introduced its[Copilot+](https://tools.techidaily.com) PCs, with laptops from Asus, Dell, Acer, Samsung, HP, Lenovo, Samsung, and Microsoft's Surface brand. Those all use[Qualcomm's Snapdragon X Elite and Plus processors](https://tools.techidaily.com) at the moment, though Microsoft has said upcoming AMD Strix Point (aka Ryzen AI 300) and Intel Lunar Lake chips may also fit the bill. To be considered a Copilot+ PC, laptops need to have at least 16GB RAM, 256GB storage, and an on-board NPU that's capable of 40 TOPS (trillions of operations per second). The Qualcomm Snapdragon X Elite chips support 45 TOPS on the NPU.
@@ -42,6 +46,10 @@ Artificial Intelligence (AI) is the tech term of the moment, and everyone in the
  So, anyone who doesn’t buy a Snapdragon X-powered laptop will have to wait on those special Windows features, likely for many months. AMD recently confirmed that its[Ryzen AI 300 PCs won’t be getting the Copilot+](https://tools.techidaily.com) features when they launch later this year, but will eventually. Desktop users are left out of the cold until at least the launch of Intel Arrowlake in Q4\. And anyone with a current-gen laptop or desktop is probably left out permanently.
 
  Given the weak set of Copilot+ features, anyone who is actually paying attention probably isn’t that sad about having to miss them or wait for them. There are many other ways to get an offline (or online) AI image generator, to do real-time translation and to blur your webcam background. Recall is somewhat unique, but many people won’t want it, because of the privacy risks associated with taking constant screenshots of your work.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Intel and AMD define AI PC more Broadly
 
@@ -85,6 +93,10 @@ Artificial Intelligence (AI) is the tech term of the moment, and everyone in the
 
 ![AI PC](https://cdn.mos.cms.futurecdn.net/MkQCTwWhY8wPcsdu5CbJsi-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 (Image credit: Apple)
 
  Because Apple uses its silicon across all of its Macs, its desktops, like the iMac, Mac Studio, and Mac Pro also have NPU (or as Apple refers to them, Neural Engines). That means macOS will have AI-specific features on desktop running on NPUs before Windows.
@@ -116,8 +128,9 @@ Right now? "Need" is a strong word.
  No matter what type of PC you're using, you should still adhere to good security practices. Other humans are still outsmarting us there.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Bottom line
 
  Right now, the term “AI PC” is still somewhat vague. CPU vendors and Microsoft are using the term to sell you new computers (currently, new laptops only) that have powerful NPUs built into their processors. Most of the generative AI features people actually use today (chatbots, image generators) are free to use in the cloud, making them less than “must-haves” in their local form.
@@ -134,8 +147,6 @@ _**Correction, June 17, 3:44 p.m. ET:**_   _This article has been corrected to p
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,4 +154,23 @@ _**Correction, June 17, 3:44 p.m. ET:**_   _This article has been corrected to p
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-elevate-your-social-media-game-3-techniques-to-enhance-video-captions-on-ig/"><u>[New] Elevate Your Social Media Game 3 Techniques to Enhance Video Captions on IG</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-elite-selection-of-10-websites-offering-free-photos/"><u>[Updated] In 2024, The Elite Selection of 10 Websites Offering FREE Photos</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-unlocking-network-transmission-power-with-vlc-for-2024/"><u>[Updated] Unlocking Network Transmission Power with VLC for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-future-file-fortresses-top-five-innovations-in-cloud-storage/"><u>2024 Approved Future File Fortresses Top Five Innovations in Cloud Storage</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-pioneering-the-path-transitioning-xbox-sessions-to-fb/"><u>2024 Approved Pioneering the Path Transitioning Xbox Sessions to FB</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-unleash-hd-playback-with-av1-on-youtube/"><u>2024 Approved Unleash HD Playback with AV1 on YouTube</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ing-the-crowd-stand-out-with-unique-youtube-persona/"><u>Avoiding the Crowd Stand Out with Unique YouTube Persona</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discovering-efficiency-with-lenovos-new-dual-display-laptop-a-game-changer-for-workflows-as-featured-on-zdnet/"><u>Discovering Efficiency with Lenovo's New Dual-Display Laptop – A Game Changer for Workflows, as Featured on ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fast-and-simple-guide-linking-laptop-to-tv-seamlessly-tips/"><u>Fast & Simple Guide: Linking Laptop to TV Seamlessly - Tips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/grab-your-discounted-m1-macbook-air-today-save-200-see-deals/"><u>Grab Your Discounted M1 MacBook Air Today - Save $200! See Deals</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-switching-to-a-split-ergonomic-keyboard-upgraded-my-pc-setup-in-just-one-week-zdnet/"><u>How Switching to a Split Ergonomic Keyboard Upgraded My PC Setup in Just One Week | ZDNet</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/incorporating-multiple-image-types-in-your-flipbook-creation-with-flipbuilder/"><u>Incorporating Multiple Image Types in Your FlipBook Creation with FlipBuilder</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/lead-with-eloquence-mastery-of-business-communication/"><u>Lead with Eloquence: Mastery of Business Communication</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mega-cyber-monday-offer-slash-450-off-the-versatile-13-samsung-galaxy-book2-360-exclusive-deal-on-zdnet/"><u>Mega Cyber Monday Offer: Slash $450 Off the Versatile 13 Samsung Galaxy Book2 360 - Exclusive Deal on ZDNET!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/save-big-this-black-friday-exclusive-offer-on-dell-inspiron-16-inch-2-in-1-laptop-for-250-less-find-your-deal-at-znet/"><u>Save Big This Black Friday: Exclusive Offer on Dell Inspiron 16-Inch 2-in-1 Laptop for $250 Less | Find Your Deal at Znet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrade-to-4k-on-any-laptop-the-innovative-gadget-that-overcomes-hardware-limitations-zdnet/"><u>Upgrade to 4K on Any Laptop - The Innovative Gadget That Overcomes Hardware Limitations | ZDNet</u></a></li>
+</ul></div>
 

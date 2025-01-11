@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Report: Rare Glimpse Into Qualcomm Copilot+ Testing on Windows ARM Devices, Just 56 Recorded by Benchmark Maker"
-date: 2024-08-13T12:59:31.026Z
-updated: 2024-08-14T12:59:31.026Z
+date: 2025-01-05T19:09:07.954Z
+updated: 2025-01-11T00:01:43.438Z
 tags:
   - cpu
 categories:
@@ -43,8 +43,9 @@ It looks like those who received their AMD[Ryzen 9000](https://www.tomshardware.
  Sadly, we will have to wait a little longer than expected to get chips like the AMD Ryzen 9 9950X in Tom’s Hardware labs. Yesterday the news broke that these Zen 5 desktop chips would start to[roll out in August](https://www.tomshardware.com/pc-components/cpus/amd-delays-its-ryzen-9000-launch-due-to-unspecified-quality-issue-new-launch-in-august-chipmaker-pulls-back-all-units-shipped-globally-for-quality-checks) due to unspecified quality issue(s).
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -53,14 +54,11 @@ It looks like those who received their AMD[Ryzen 9000](https://www.tomshardware.
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -69,4 +67,20 @@ It looks like those who received their AMD[Ryzen 9000](https://www.tomshardware.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/new-seamless-transfer-of-social-media-videos-from-twitter-to-whatsapp/"><u>[New] Seamless Transfer of Social Media Videos From Twitter to WhatsApp</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-bring-to-life-the-dance-of-light-on-faces-employing-motion-blur-effects-in-picsart/"><u>[Updated] 2024 Approved Bring to Life the Dance of Light on Faces Employing Motion Blur Effects in Picsart</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/chromebooks-invaded-by-bedbugs-a-repeated-nightmare-for-students-uncovering-real-tech-pest-issues/"><u>Chromebooks Invaded by Bedbugs: A Repeated Nightmare for Students – Uncovering Real Tech Pest Issues</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comment-activer-lencodage-avec-nvenc-sur-handbrake-pour-une-videosynchronisation-efficace/"><u>Comment Activer L'encodage Avec NVENC Sur Handbrake Pour Une Vidéosynchronisation Efficace ?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-review-top-performing-lenovo-laptops-unveiled-at-mwc-your-definitive-guide/"><u>Exclusive Review: Top Performing Lenovo Laptops Unveiled at MWC - Your Definitive Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/from-notebook-to-workstation-experience-the-magic-of-discreet-docking-with-full-pc-features-as-revealed-by-zdnet/"><u>From Notebook to Workstation: Experience the Magic of Discreet Docking with Full PC Features, as Revealed by ZDNet</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-privacy-first-reader-of-facebook-snapshots/"><u>In 2024, Privacy-First Reader of Facebook Snapshots</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-quick-steps-to-change-weather-location-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Quick Steps to Change Weather Location on Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-oppo-a1-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Oppo A1 5G Black and White | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-apple-bargains-in-july-2024-iphone-specials-sleek-apple-watch-discounts-affordable-ipads-and-extras/"><u>Top Apple Bargains in July 2024: IPhone Specials, Sleek Apple Watch Discounts, Affordable iPads & Extras</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-october-gaming-discounts-and-deals-dont-miss-out-on-prime-day-savings-up-to-1k-zdnet/"><u>Top October Gaming Discounts & Deals - Don't Miss Out on Prime Day Savings Up to $1K! (ZDNET)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-picks-for-the-ultimate-gamers-rig-an-in-depth-review-and-comparison-of-leading-brands-like-razer-acer-and-msi-on-zdnet/"><u>Top Picks for the Ultimate Gamer's Rig : An In-Depth Review & Comparison of Leading Brands Like Razer, Acer, and MSI on ZDNet</u></a></li>
+<li><a href="https://win-web3.techidaily.com/troubleshooting-tips-for-unauthenticated-microsoft-windows-installations/"><u>Troubleshooting Tips for Unauthenticated Microsoft Windows Installations</u></a></li>
+</ul></div>
 

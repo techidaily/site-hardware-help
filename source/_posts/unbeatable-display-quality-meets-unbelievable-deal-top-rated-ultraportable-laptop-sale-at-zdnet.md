@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Display Quality Meets Unbelievable Deal: Top-Rated Ultraportable Laptop Sale at ZDNet!"
-date: 2025-01-01T17:05:22.559Z
-updated: 2025-01-04T17:24:04.979Z
+date: 2025-01-09T03:02:40.983Z
+updated: 2025-01-11T08:06:37.903Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the Amazon Prime Day deal?
@@ -33,7 +33,7 @@ Ahead of the Prime Big Deal Days sale, the [LG Gram Pro 16 2-in-1](https://buy.g
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -101,7 +101,7 @@ For most users, this is not much of an issue, but during exceptionally heavy loa
 Finally, the battery life on this machine was about what you'd expect from a 2-in-1 with an OLED screen. This is a laptop that can last a full day of work, but only barely. Depending on how hard you're pushing it, expect to see 7-8 hours on a single charge. I got around that during my testing. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -111,7 +111,7 @@ In a market of dozens of 2-in-1 laptops that were released this year, the [LG Gr
 If you're looking for more budget-friendly options, the [Acer Swift Edge 16](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Facer-swift-edge-16-16-3-2k-120hz-oled-laptop-amd-ryzen-7-7840u-with-16gb-lpddr5-memory-1tb-pcie-gen-4-ssd-olivine-black%2F6546242.p&publisher_slug=itechdaily19598&exclusive=1) features the same sized OLED screen and weighs slightly more at 2.73 pounds, but will only cost you $1,300.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -148,21 +148,18 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-advanced-motion-cameras-12-featuring-accurate-position-tracking-for-2024/"><u>[New] Advanced Motion Cameras 12 Featuring Accurate Position Tracking for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-essential-websites-how-to-get-the-right-youtube-ringtones/"><u>[New] Essential Websites How to Get the Right YouTube Ringtones?</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-delightful-digests-a-list-of-top-food-channels/"><u>[New] In 2024, Delightful Digests A List of Top Food Channels</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-leverage-larger-thumbnails-for-video-success/"><u>[Updated] Leverage Larger Thumbnails for Video Success</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1-transform-your-tech-budget-experience-the-power-of-the-new-499-lenovo-chromebook-plus-a-game-changer-compared-to-expensive-laptops-zdnet/"><u>1. Transform Your Tech Budget: Experience the Power of the New $499 Lenovo Chromebook Plus - A Game-Changer Compared to Expensive Laptops | ZDNET</u></a></li>
-<li><a href="https://win-tips.techidaily.com/8-solutions-cles-pour-le-dysfonctionnement-du-pilotage-de-windows-11-pourquoi-votre-peripherique-nest-pas-pret/"><u>8 Solutions Clés Pour Le Dysfonctionnement Du Pilotage De Windows 11: Pourquoi Votre Périphérique N'est Pas Prêt?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exclusive-meta-quest-3-sale-alert-snag-the-best-value-51-gb-model-during-october-prime-day-insider-deals/"><u>Exclusive Meta Quest 3 Sale Alert: Snag the Best Value 51^ GB Model During October Prime Day | Insider Deals</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/google-hangouts-sound-failures-heres-how-you-can-get-your-mic-working-again/"><u>Google Hangouts Sound Failures? Here's How You Can Get Your Mic Working Again</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-from-apple-iphone-11-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock From Apple iPhone 11?</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-navigating-kinemasters-zoom-features-for-professional-results/"><u>In 2024, Navigating Kinemaster's Zoom Features for Professional Results</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/inside-microsoft-gro-artificial-intelligence-processor-war-with-the-macbook-insights/"><u>Inside Microsoft' Gro Artificial Intelligence Processor War with the MacBook | Insights</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-vivo-v27-pro-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Vivo V27 Pro Device</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-7-premium-adjustable-standing-desks-of-2023-expert-picks-from-zdnet/"><u>Top 7 Premium Adjustable Standing Desks of 2023 - Expert Picks From ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-dual-function-device-of-2023-with-a-hidden-gem-beneficial-for-workspaces-discover/"><u>Top Rated Dual-Function Device of 2023 with a Hidden Gem Beneficial for Workspaces - Discover</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unbeatable-deals-alert-snag-the-finest-value-for-apples-latest-13-inch-macbook-air-with-m2-at-all-time-low-price-this-cyber-monday-zdnet-insider-tips/"><u>Unbeatable Deals Alert: Snag the Finest Value for Apple's Latest 13-Inch MacBook Air with M2 at All-Time Low Price This Cyber Monday | ZDNET Insider Tips</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-the-most-overlooked-yet-spectacular-aspect-of-your-new-asus-notebook-explore-why-it-deserves-more-attention/"><u>Unveiling the Most Overlooked Yet Spectacular Aspect of Your New Asus Notebook: Explore Why It Deserves More Attention</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ind-blown-by-numbers-yearly-youtube-insights-in-2017/"><u>[New] Mind Blown by Numbers Yearly YouTube Insights in 2017</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/outube-editing-tutorial-mastering-video-cuts/"><u>[New] YouTube Editing Tutorial Mastering Video Cuts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-amd-radeon-rx-5700-xt-drivers-compatible-with-windows-11-10-8-and-7/"><u>Download AMD Radeon RX 5700 XT Drivers: Compatible with Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-instructions-to-upgrade-your-surface-dock-driver-today/"><u>Effortless Instructions to Upgrade Your Surface Dock Driver Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722967783863-hang-gliders-including-trikes/"><u>Hang Gliders (Including Trikes);</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-vivo-v27-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Vivo V27 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-chatgpt-an-authoritative-voice-for-medical-insights/"><u>Is ChatGPT an Authoritative Voice for Medical Insights?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-epson-artisan-1430-driver-software-optimized-for-windows-11108/"><u>Latest Epson Artisan 1430 Driver Software - Optimized for Windows 11/10/8</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/logitech-g27-game-controller-driver-download-compatible-with-windows-11107/"><u>Logitech G27 Game Controller Driver Download Compatible with Windows 11/10/7</u></a></li>
+<li><a href="https://facebook.techidaily.com/metas-revolutionary-ai-the-speedy-vanguard/"><u>Meta's Revolutionary AI: The Speedy Vanguard</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/unlock-the-secrets-of-monitoring-cryptocurrency-portfolios-with-yl-softwares-address-balance-utility/"><u>Unlock the Secrets of Monitoring Cryptocurrency Portfolios with YL Software’s Address Balance Utility</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/unlocking-financial-growth-with-digital-coins-a-guide-to-making-money-in-the-cryptocurrency-market-expertise-from-yl-software-solutions/"><u>Unlocking Financial Growth with Digital Coins: A Guide to Making Money in the Cryptocurrency Market | Expertise From YL Software Solutions</u></a></li>
 </ul></div>
 

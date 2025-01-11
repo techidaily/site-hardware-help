@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Gadgets: Tom's Hardware Deep-Dives"
-date: 2024-08-13T12:56:31.113Z
-updated: 2024-08-14T12:56:31.113Z
+date: 2025-01-07T07:13:25.683Z
+updated: 2025-01-11T00:47:47.276Z
 tags:
   - cpu
 categories:
@@ -24,8 +24,9 @@ AMD has listed the new Ryzen 5 9600X for pre-order on its[Canadian Amazon store]
  AMD showed the Ryzen 5 9600X crushing Intel's Core i5-14600K by 22% in productivity[benchmarks](https://www.tomshardware.com/tag/benchmark) and 11% in gaming at its Zen 5 Tech Day, with an 88W peak power draw versus Intel's 181W. A lead of this margin for almost half of the power shows strong performance for the bottom of AMD's Zen 5 desktop CPU slate, though as always we need to take manufacturer benchmarks with a spoonful of salt. If AMD prices Ryzen 5 9600X below $300 (which we suspect it will, eventually), it becomes a shoo-in for[our best value CPU](https://www.tomshardware.com/reviews/best-cpus,3986.html#section-value-best-cpu-for-gaming-200-to-250) , a spot currently held by the Ryzen 5 7600X.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -40,8 +41,6 @@ AMD has listed the new Ryzen 5 9600X for pre-order on its[Canadian Amazon store]
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -49,4 +48,19 @@ AMD has listed the new Ryzen 5 9600X for pre-order on its[Canadian Amazon store]
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-utilizing-snap-camera-for-interactive-online-gatherings/"><u>[New] In 2024, Utilizing Snap Camera for Interactive Online Gatherings</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-yogic-path-top-10-pioneers-in-virtual-practice/"><u>[Updated] 2024 Approved Yogic Path Top 10 Pioneers in Virtual Practice</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/beat-overheating-with-style-exclusive-cyber-monday-specials-on-portable-laptop-chillers-score-big-discounts/"><u>Beat Overheating with Style: Exclusive Cyber Monday Specials on Portable Laptop Chillers – Score Big Discounts !</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/five-proven-ways-to-correct-the-opening-sound-device-error-in-audacity-software/"><u>Five Proven Ways to Correct the 'Opening Sound Device' Error in Audacity Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/great-deal-alert-250-asus-15-inch-laptop-with-comprehensive-connectivity-at-walmart/"><u>Great Deal Alert: $250 ASUS 15-Inch Laptop with Comprehensive Connectivity at Walmart</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-it-itel-s23-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Itel S23 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-uninstall-printer-driver-on-windows/"><u>How to Uninstall Printer Driver on Windows</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/snag-the-discounted-hp-victus-n15-gaming-laptop-at-just-515-during-best-buys-exclusive-prime-day-offer-detailed-review-on-zdnet/"><u>Snag the Discounted HP Victus N15 Gaming Laptop at Just $515 During Best Buy's Exclusive Prime Day Offer - Detailed Review on ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-future-of-work-gadgets-amidst-advancing-ai-a-perspective/"><u>The Future of Work Gadgets Amidst Advancing AI: A Perspective</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-honor-90-gt-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Honor 90 GT to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-bargain-hunting-guide-pre-prime-day-202n-exclusive-tips/"><u>Ultimate Bargain Hunting Guide Pre-Prime Day 202N: Exclusive Tips</u></a></li>
+</ul></div>
 

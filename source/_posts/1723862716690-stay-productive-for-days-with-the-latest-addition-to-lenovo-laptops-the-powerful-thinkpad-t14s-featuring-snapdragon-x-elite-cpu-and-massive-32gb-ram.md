@@ -1,7 +1,7 @@
 ---
 title: Stay Productive for Days with the Latest Addition to Lenovo Laptops - The Powerful ThinkPad T14s Featuring Snapdragon X Elite CPU & Massive 32GB RAM!
-date: 2024-08-19T10:47:01.857Z
-updated: 2024-08-20T10:47:01.857Z
+date: 2025-01-07T06:43:11.552Z
+updated: 2025-01-11T01:12:22.140Z
 tags:
   - laptop
 categories:
@@ -27,6 +27,10 @@ We cover many unique "because I felt like it" projects here at Tom's Hardware, b
 
  In more modern communications news,[Wi-Fi over three kilometers](https://tools.techidaily.com) was demonstrated with a real-time video call back in January. Windows[11 started adding support for Wi-Fi 7](https://tools.techidaily.com) back in February. All this progress means that most Wi-Fi routers in the world will be a free-for-all on the same few congested wireless channels unless configured properly. Some monsters and nerds out there still employ Morse code, a language with roots in the 1830s.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,8 +45,6 @@ We cover many unique "because I felt like it" projects here at Tom's Hardware, b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -50,8 +52,21 @@ We cover many unique "because I felt like it" projects here at Tom's Hardware, b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-hours-to-gigabytes-a-guide-for-filmmakers/"><u>[New] 2024 Approved Hours to Gigabytes A Guide for Filmmakers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-leading-stock-tutorials-channel-roundup/"><u>[New] Leading Stock Tutorials Channel Roundup</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-pro-tips-for-immediate-use-of-io-screen-recorder/"><u>[New] Pro Tips for Immediate Use of IO Screen Recorder</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/20-anker-battery-pack-the-ultimate-solution-for-your-portable-charger-woes-insights/"><u>$20 Anker Battery Pack: The Ultimate Solution for Your Portable Charger Woes - Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amazons-ongoing-deals-get-your-8tb-samsung-t5-external-ssd-now-for-a-steep-36-off-after-october-prime-extravaganza-insights/"><u>Amazon's Ongoing Deals: Get Your 8TB Samsung T5 External SSD Now for a Steep 36% Off After October Prime Extravaganza Insights</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-itel-p40plus-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Itel P40+ Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/leading-ultraportable-laptops-of-2024-comprehensive-testing-results/"><u>Leading Ultraportable Laptops of 2024 - Comprehensive Testing Results</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/maximize-your-gaming-performance-with-a-steep-discount-save-600-on-asus-rog-strix-g15-exclusive-offer-from-zdnet/"><u>Maximize Your Gaming Performance with a Steep Discount: Save $600 on ASUS ROG STRIX G15 - Exclusive Offer From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revolutionize-your-tech-experience-the-game-changing-intel-ai-processor-for-future-laptops-with-unbelievable-advantages-zdnet-insights/"><u>Revolutionize Your Tech Experience: The Game-Changing Intel AI Processor for Future Laptops with Unbelievable Advantages | ZDNet Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/slash-prices-score-an-amazing-deal-with-the-acer-gaming-laptop-shop-now-for-under-650-at-newegg/"><u>Slash Prices: Score an Amazing Deal with the Acer Gaming Laptop - Shop Now for Under $650 at Newegg</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/successful-connection-techniques-for-logitechs-optical-keyboards/"><u>Successful Connection Techniques for Logitech's Optical Keyboards</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-essential-iphone-handbook-for-gif-enthusiasts-for-2024/"><u>The Essential iPhone Handbook for GIF Enthusiasts for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-scoring-amazing-holiday-bargains-for-your-tech-wishlist-exclusive-offers-from-newegg-zdnet/"><u>Ultimate Guide to Scoring Amazing Holiday Bargains for Your Tech Wishlist: Exclusive Offers From Newegg | ZDNet</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/unparalleled-action-camera-review-sony-x1000v-explored/"><u>Unparalleled Action Camera Review - Sony X1000V Explored</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->

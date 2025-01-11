@@ -1,7 +1,7 @@
 ---
 title: Advanced PC Building Tips and Reviews at Tom's Hardware HQ
-date: 2024-08-19T10:47:08.360Z
-updated: 2024-08-20T10:47:08.360Z
+date: 2025-01-06T18:15:20.363Z
+updated: 2025-01-11T00:57:21.305Z
 tags:
   - laptop
 categories:
@@ -27,6 +27,10 @@ DeepComputing, the maker of the DC-ROMA RISC-V Laptop, just released an upgrade 
 
  These sanctions have forced Chinese tech companies to look elsewhere for technologies, and[RISC-V’s open-source nature](https://tools.techidaily.com) is crucial for some of their plans. U.S.-imposed limitations have allowed the East Asian country to build innovative solutions based on this architecture. SiFive, the American semiconductor company behind the general-purpose cores of[Google](https://tools.techidaily.com) ’s TPUs, even[chose the faster Chinese Eswin SoC instead of an Intel processor](https://tools.techidaily.com) for its HiFive Premier P550 development board.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -45,8 +49,6 @@ DeepComputing, the maker of the DC-ROMA RISC-V Laptop, just released an upgrade 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -54,9 +56,20 @@ DeepComputing, the maker of the DC-ROMA RISC-V Laptop, just released an upgrade 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-master-the-art-of-mobile-movie-watching-with-top-10-ios-apps/"><u>[New] In 2024, Master the Art of Mobile Movie Watching with Top 10 iOS Apps</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-ultimate-chuckles-and-pixels-suite-for-2024/"><u>[Updated] Ultimate Chuckles and Pixels Suite for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-morphvox-mastery-complete-technique-collection/"><u>2024 Approved MorphVOX Mastery Complete Technique Collection</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/affordable-and-powerful-the-ultimate-non-lenovo-non-dell-2-in-1-laptop-you-should-buy-now-price-drops/"><u>Affordable and Powerful: The Ultimate Non-Lenovo, Non-Dell 2-in-1 Laptop You Should Buy Now [Price Drops]</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-techs-finest-offerings-ultimate-ranking-guide-insights/"><u>Discover Tech's Finest Offerings | Ultimate Ranking Guide - Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-immersed-in-savings-with-metas-premium-512gb-oculus-quest-deal-leading-vr-sale-of-the-season/"><u>Get Immersed in Savings with Meta’s Premium 512GB Oculus Quest Deal – Leading VR Sale of the Season !</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722977256589-get-your-updated-nvidia-graphics-drivers-now-perfect-for-pc-gamers/"><u>Get Your Updated Nvidia Graphics Drivers Now - Perfect for PC Gamers</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-ipad-or-iphone-15-pro-max-stuck-on-activation-lock-by-drfone-ios/"><u>How to Fix iPad or iPhone 15 Pro Max Stuck On Activation Lock?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-high-definition-streaming-app-your-ultimate-video-choice-12-channels/"><u>In 2024, High Definition Streaming App - Your Ultimate Video Choice (12 Channels)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/my-week-with-a-split-keyboard-how-it-transformed-my-perception-of-pc-peripherals-according-to-zdnets-latest-review/"><u>My Week with a Split Keyboard: How It Transformed My Perception of PC Peripherals, According to ZDNET's Latest Review</u></a></li>
+<li><a href="https://win11.techidaily.com/remedy-the-problem-camera-not-shown-dm/"><u>Remedy the Problem: Camera Not Shown DM</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlock-savings-on-the-newest-macbook-air-exclusive-presidents-day-offer-with-300-discount-from-zdnet/"><u>Unlock Savings on the Newest MacBook Air - Exclusive Presidents' Day Offer with $300 Discount From ZDNet!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Meizu 21 Pro | Dr.fone</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->

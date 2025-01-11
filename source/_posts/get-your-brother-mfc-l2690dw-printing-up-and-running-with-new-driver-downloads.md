@@ -1,7 +1,7 @@
 ---
 title: Get Your Brother MFC-L2690DW Printing Up and Running with New Driver Downloads
-date: 2024-08-13T12:55:34.570Z
-updated: 2024-08-14T12:55:34.570Z
+date: 2025-01-03T21:56:11.799Z
+updated: 2025-01-10T17:27:47.845Z
 tags:
   - win11
   - win10
@@ -26,8 +26,9 @@ OR
 [**Option 2: Automatically (Recommended)**](https://www.drivereasy.com/knowledge/download-techkey-bluetooth-adapter-driver-for-windows/#option2) – This might be the quickest and easiest way to get all the latest drivers for your computer. All you need is a few clicks.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Option 1: Install the Techkey Bluetooth driver manually
 
  If you’re a tech-savvy user, you can try to install the driver for your Techkey Bluetooth adapter manually. To do so, follow these steps:
@@ -36,21 +37,21 @@ OR
 
 1. On your keyboard, press**Win+R** (the Windows logo key and the r key) to invoke the Run dialog. Type or paste**devmgmt.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/devmgmt-msc-ok.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 2. Double click**Bluetooth** to expand the category, then right-click your Bluetooth adapter and select**Update driver** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/techkey-manually-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. Click**Search automatically for drivers** . Windows will then try to search and download the Bluetooth driver.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Windows usually_can’t_ find the latest driver for niche products. You might need to search for it in the manufacturer’s website, or use[Drive Easy](https://tools.techidaily.com/drivereasy/download/) to download it automatically.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/techkey-manually-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Option 2: Install the Techkey Bluetooth driver automatically (Recommended)
 
  If you don’t have the time, patience or computer skills to update your Bluetooth driver manually, you can, instead, do it automatically with**Driver Easy** . It will automatically recognize your system and find the correct drivers for your exact Bluetooth adapter, and your Windows version, and it will download and install them correctly.
@@ -60,17 +61,19 @@ OR
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/de-scan-6.1.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/01/Realtek-Bluetooth-5.0-Adapter.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Restart your computer for the change to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -88,8 +91,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -97,4 +98,22 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-dividing-drama-how-to-split-vimeo-videos/"><u>[Updated] 2024 Approved Dividing Drama How to Split Vimeo Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-figures-unveiled-exploring-youtubes-curious-numbers-2017/"><u>[Updated] In 2024, Figures Unveiled! Exploring YouTube's Curious Numbers (2017)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722978128799-brief-overview-of-hahron-spices-mission-vision-and-strategic-positioning-within-the-chemical-industry/"><u>Brief Overview of HAHRON SPICE's Mission, Vision, and Strategic Positioning Within the Chemical Industry.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-intel-usb-30-drivers-for-windows-11/"><u>Download | Intel USB 3.0 Drivers for Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-latest-epson-xp-310-printer-drivers/"><u>Download and Install Latest Epson XP-310 Printer Drivers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-how-to-cultivate-your-own-metaverse-humor-garden/"><u>In 2024, How to Cultivate Your Own Metaverse Humor Garden</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-xiaomi-redmi-12-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Xiaomi Redmi 12 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Oppo Reno 10 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/master-your-edits-with-top-15-affordable-web-based-editors-2023-for-2024/"><u>Master Your Edits with Top 15 Affordable Web-Based Editors, 2023 for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/nvidia-geforce-rtx-3070-fresh-drivers-for-optimal-windows-experience-windows-1011/"><u>NVIDIA GeForce RTX 3070 - Fresh Drivers for Optimal Windows Experience (Windows 10/11)</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/pro-tools-for-netflix-capture-a-mac-guide-of-six-strategies/"><u>Pro Tools for Netflix Capture A Mac Guide of Six Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-error-code-0xc1900101-in-windows-11-update/"><u>Remedying Error Code 0XC1900101 in Windows 11 Update</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-tips-for-successful-intel-platform-and-thermal-driver-setup/"><u>Troubleshooting Tips for Successful Intel Platform and Thermal Driver Setup</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/user-friendly-tips-for-lenovos-battery-management-driver-updates/"><u>User-Friendly Tips for Lenovo's Battery Management Driver Updates</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/worldwide-word-weaving-into-english-dialects/"><u>Worldwide Word Weaving Into English Dialects</u></a></li>
+</ul></div>
 

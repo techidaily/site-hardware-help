@@ -1,7 +1,7 @@
 ---
 title: "The Perfect Companion for Remote Work: An Expert's Guide to Lightweight Laptops That Excel in Productivity | ZDNET Insights"
-date: 2024-12-01T01:55:33.917Z
-updated: 2024-12-04T23:01:11.694Z
+date: 2025-01-03T21:28:55.211Z
+updated: 2025-01-11T04:48:33.104Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,18 +114,22 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-10-best-asmr-recorders-for-exceptional-audio-quality/"><u>[New] 2024 Approved 10 Best ASMR Recorders for Exceptional Audio Quality</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-how-to-turn-your-google-meet-into-a-youtube-live-event/"><u>[Updated] In 2024, How To Turn Your Google Meet Into a YouTube Live Event</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-superior-photos-repository-hubs/"><u>2024 Approved Superior Photos Repository Hubs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/essential-guide-to-downloading-and-updating-sas-drivers-on-windows-1087/"><u>Essential Guide to Downloading and Updating SAS Drivers on Windows 10/8/7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-the-world-of-electronics-tips-from-toms-hardware/"><u>Exploring the World of Electronics - Tips From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-logitech-g510-mouse-software-installer-for-win-7810/"><u>Free Logitech G510 Mouse Software Installer for Win 7/8/10</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722973371050-improve-wireless-performance-with-updated-network-adapter-drivers-download-now/"><u>Improve Wireless Performance with Updated Network Adapter Drivers - Download Now</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-tecno-camon-20-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Tecno Camon 20 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-google-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Google</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-how-to-make-reels-on-instagram-like-a-ninja/"><u>In 2024, How to Make Reels on Instagram Like a Ninja</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722976698118-instant-access-secure-canon-mf4800-drivers-start-printing-today/"><u>Instant Access: Secure Canon MF4800 Drivers – Start Printing Today</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/overcoming-driver-errors-successfully-connect-your-lg-printer-with-windows-os-versions-1187/"><u>Overcoming Driver Errors: Successfully Connect Your LG Printer with Windows OS (Versions 11/8/7)</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-mp4-video-editing-made-easy-a-beginners-guide-for-mac-and-windows-for-2024/"><u>Updated MP4 Video Editing Made Easy A Beginners Guide for Mac and Windows for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-how-to-create-engaging-screencasts-a-practical-guide/"><u>[New] 2024 Approved How to Create Engaging Screencasts A Practical Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-counteracting-loss-of-live-streams-on-twitch-for-2024/"><u>[New] Counteracting Loss of Live Streams on Twitch for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-djis-minis-and-air-2-elevate-mixes-with-free-custom-luts/"><u>2024 Approved DJI's Minis & Air 2 Elevate Mixes with Free, Custom LUTS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-top-nine-advantages-elevate-your-experience-with-chatgpt-plus/"><u>Discover the Top Nine Advantages: Elevate Your Experience with ChatGPT Plus</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-updated-software-for-asus-wireless-adapter-model-pce-ac68/"><u>Download Updated Software for ASUS Wireless Adapter Model PCE-AC68</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-installation-guide-for-epson-wf-3540-drivers-compatible-with-all-windows-versions/"><u>Easy Installation Guide for Epson WF-3540 Drivers: Compatible with All Windows Versions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-performance-quick-and-easy-driver-updates-for-your-amd-radeon-rx-470/"><u>Enhance Performance: Quick and Easy Driver Updates for Your AMD Radeon RX 470</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/essential-guide-to-finding-and-updating-ch340g-usb-to-serial-communication-drivers-for-your-windows-10-pc/"><u>Essential Guide to Finding & Updating CH340G USB-to-Serial Communication Drivers for Your Windows 10 PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fixing-your-intel-dynamic-platform-and-thermal-framework-driver-errors-dptf-step-by-step/"><u>Fixing Your Intel Dynamic Platform & Thermal Framework Driver Errors (DPTF) [Step-by-Step]</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-canon-pixma-mx920-driver-for-windows-systems-here/"><u>Get Your Canon PIXMA MX920 Driver for Windows Systems Here!</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-tecno-camon-20-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Tecno Camon 20 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-honor-play-7t-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Honor Play 7T IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-intel-iris-xe-graphics-software-suite-direct-windows-11-downloads-available/"><u>Latest Intel Iris Xe Graphics Software Suite – Direct Windows 11 Downloads Available</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-install-guide-intel-thunderbolt-chip-drivers-for-smooth-performance/"><u>Quick Install Guide: Intel Thunderbolt Chip Drivers for Smooth Performance</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/trasferire-il-tuo-sistema-windows-nativo-su-ununita-ssd-rapidamente-e-facilmente/"><u>Trasferire Il Tuo Sistema Windows Nativo Su Un'unità SSD Rapidamente E Facilmente</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-oppo-reno-10-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Oppo Reno 10 5G | Dr.fone</u></a></li>
 </ul></div>
 

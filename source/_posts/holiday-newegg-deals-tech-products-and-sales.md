@@ -1,7 +1,7 @@
 ---
 title: Holiday, Newegg, Deals, Tech Products, and Sales.
-date: 2024-12-04T05:25:16.795Z
-updated: 2024-12-05T07:45:09.610Z
+date: 2025-01-10T10:26:47.060Z
+updated: 2025-01-11T04:33:03.373Z
 tags:
   - laptops
 categories:
@@ -22,10 +22,6 @@ With Black Friday 2023 ending and shoppers looking to Cyber Monday to save money
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best Cyber Monday 2023 Dell deals
 
 * [Dell OptiPlex 7000 7090 Intel Core i7 desktop](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fdell-optiplex-7090-business-desktops-workstations%252Fp%252F1VK-0001-6G7A2) for $939 (save $230)
@@ -42,10 +38,6 @@ With Black Friday 2023 ending and shoppers looking to Cyber Monday to save money
 * [Dell WD15 Monitor Dock](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMonitor-Adapter-USB-C-450-AEUO-7FJ4J%2Fdp%2FB01MU4SNK5%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C07076d8d-2e98-49f8-9c3a-c9d513d4d8fe%7Cdtp&dtb=1) for $82 (save $118)
 * [Dell 27-inch 4K FreeSync monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-S2721QS-Ultra-Thin-DisplayPort-Certified%2Fdp%2FB08DQWG3JG%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C07076d8d-2e98-49f8-9c3a-c9d513d4d8fe%7Cdtp&dtb=1) for $230 (save $100)  
 ---  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## More Cyber Monday 2023 Dell deals
 
@@ -104,6 +96,10 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6FJGWK9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C07076d8d-2e98-49f8-9c3a-c9d513d4d8fe%7Cdtp&dtb=1) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best Cyber Monday Dell laptop deals
 
 * [Dell G15 gaming laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-G15-5535-Gaming-Laptop%2Fdp%2FB0CJGBMD42%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C07076d8d-2e98-49f8-9c3a-c9d513d4d8fe%7Cdtp&dtb=1): $900 (save $250)
@@ -115,6 +111,10 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell Inspiron 5635](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-Inspiron-5000-5635-Laptop%2Fdp%2FB09BW611ZP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C07076d8d-2e98-49f8-9c3a-c9d513d4d8fe%7Cdtp&dtb=1): $700 (save $300)
 * [Dell Precision 3580 mobile workstation](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1770261-REG%2Fdell%5F5d74g%5F15%5F6%5Fprecision%5F3580%5Fmobile.html): $1390 (save $1000)
 * [Dell Inspiron 16 Plus](https://www.anrdoezrs.net/click-9041660-15679772-1700503970000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): $1,000 (save $650)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best Cyber Monday Dell desktop deals
 
@@ -131,22 +131,22 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell 32-inch 4K monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-SE3223Q-31-5-inch-Monitor-Gray%2Fdp%2FB0B2GRMGFL%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C07076d8d-2e98-49f8-9c3a-c9d513d4d8fe%7Cdtp&dtb=1): $248 (save $117)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When is Cyber Monday 2023?
 
 Cyber Monday happens each year on the Monday following Black Friday. This year, Cyber Monday is today, November 27.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When was Black Friday 2023?
 
 Black Friday 2023 was on November 24, 2023\. 
 
 Black Friday is always the day after Thanksgiving, which was November 23 this year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How did we choose these Cyber Monday deals?
 
@@ -155,7 +155,7 @@ ZDNET only writes about deals we want to buy -- devices and products we desire, 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the best Cyber Monday deals?
@@ -228,20 +228,20 @@ ZDNET's experts have been searching for Cyber Monday deals across sites like Ama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-ideal-strategies-for-recording-app-activity/"><u>[New] 2024 Approved Ideal Strategies for Recording App Activity</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-transformative-content-blocks-enhanced-youtube-decks/"><u>[Updated] Transformative Content Blocks Enhanced Youtube Decks</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-vanished-vids-rediscovered-the-ultimate-guide-to-old-youtube-videos-for-2024/"><u>[Updated] Vanished Vids Rediscovered The Ultimate Guide to Old YouTube Videos for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/android-users-manual-how-to-stop-unwanted-automatic-application-updates/"><u>Android Users' Manual: How to Stop Unwanted Automatic Application Updates</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/are-foldable-phones-good-enough-to-replace-traditional-android-tablets-today/"><u>Are Foldable Phones Good Enough to Replace Traditional Android Tablets Today?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/avoid-these-4-apple-gadgets-for-now-expert-advice-from-cnet/"><u>Avoid These 4 Apple Gadgets for Now: Expert Advice From CNET</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/british-numismatist-transforms-obsolete-technology-into-precious-treasure/"><u>British Numismatist Transforms Obsolete Technology Into Precious Treasure</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/busting-major-android-legends-the-five-greatest-fallacies-revealed/"><u>Busting Major Android Legends: The Five Greatest Fallacies Revealed</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/can-i-use-any-stylus-pen-on-my-gadgets-exploring-cross-device-functionality/"><u>Can I Use Any Stylus Pen on My Gadgets? Exploring Cross-Device Functionality</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/can-you-substitute-your-android-tablet-with-a-foldable-smartphone-an-in-depth-comparison/"><u>Can You Substitute Your Android Tablet with a Foldable Smartphone: An In-Depth Comparison</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/comparing-pixel-wearables-to-galaxy-smartwatches-is-google-on-par-with-samsungs-innovation-in-timepieces/"><u>Comparing Pixel Wearables to Galaxy Smartwatches: Is Google on Par with Samsung's Innovation in Timepieces?</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-s17-pro-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo S17 Pro | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-6s-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 6s Plus Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-watch-or-iphone-xs-by-drfone-ios/"><u>In 2024, How To Bypass Activation Lock On Apple Watch Or iPhone XS?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723205634049-quickly-restore-bluetooth-functionality-on-your-windows-11-pc-easy-methods-inside/"><u>Quickly Restore Bluetooth Functionality on Your Windows 11 PC: Easy Methods Inside</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-10-must-have-keyword-gurus-for-video-success/"><u>[New] 2024 Approved 10 Must-Have Keyword Gurus for Video Success</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-realizing-youre-off-the-friends-list/"><u>[Updated] Realizing You're Off the Friends List</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-freepaid-audio-cleanup-tools-for-higher-video-quality/"><u>2024 Approved Free/Paid Audio-Cleanup Tools for Higher Video Quality</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-by-step-guide-to-elevating-your-reddit-game/"><u>2024 Approved Step-by-Step Guide to Elevating Your Reddit Game</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722968978433-approach-explain-the-rationale-behind-trial-mixing-before-full-scale-application/"><u>Approach: Explain the Rationale Behind Trial Mixing Before Full-Scale Application.</u></a></li>
+<li><a href="https://article-posts.techidaily.com/cutting-edge-live-upgrades-the-top-9-webcam-filter-guide-for-2024/"><u>Cutting-Edge Live Upgrades The Top 9 Webcam Filter Guide for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-epson-l3150-driver-software-on-windows-10-8-and-7-free-update/"><u>Get the Latest Epson L3150 Driver Software on Windows 10, 8 & 7 - Free Update</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-budget-calculation-for-shooting-a-music-video/"><u>In 2024, Budget Calculation for Shooting a Music Video</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-updated-graphics-and-system-drivers-for-lenovo-legion-5-pro-laptop/"><u>Install Updated Graphics and System Drivers for Lenovo Legion 5 Pro Laptop</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installation-guide-epson-ds-530-printer-drivers-for-windows-11-x64-get-your-software-now/"><u>Installation Guide: Epson DS-530 Printer Drivers for Windows 11 (X64) – Get Your Software Now</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mac-interface-simplified-stellars-approach/"><u>Mac Interface Simplified: Stellar's Approach</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/microsofts-latest-driver-downloads-compatible-with-windows-1187/"><u>Microsoft's Latest Driver Downloads Compatible with Windows 11/8/7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-when-your-windows-11-mic-fails-to-work/"><u>Step-by-Step Solutions for When Your Windows 11 Mic Fails to Work</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/trustworthy-downloads-of-lenovos-updated-bluetooth-drivers-compatible-with-win-710/"><u>Trustworthy Downloads of Lenovo's Updated Bluetooth Drivers Compatible with Win 7/10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrade-to-the-cutting-edge-magicard-rio-pro-driver-best-fit-for-windows-os-windows-118n7/"><u>Upgrade to the Cutting-Edge Magicard Rio Pro Driver - Best Fit for Windows OS (Windows 11/8.n/7)</u></a></li>
 </ul></div>
 

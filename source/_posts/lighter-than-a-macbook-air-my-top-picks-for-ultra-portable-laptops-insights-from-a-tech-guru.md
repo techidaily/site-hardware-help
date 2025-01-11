@@ -1,7 +1,7 @@
 ---
 title: "Lighter Than a MacBook Air: My Top Picks for Ultra-Portable Laptops - Insights From a Tech Guru"
-date: 2024-11-28T17:50:58.137Z
-updated: 2024-12-05T05:41:09.707Z
+date: 2025-01-05T18:44:05.572Z
+updated: 2025-01-10T18:34:37.791Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -79,7 +79,7 @@ I tested the [IdeaPad Flex 5i's](https://go.shopyourlikes.com/pi/6dcf690a69011d7
 I should warn you that this laptop can run a little warm. The [IdeaPad Flex 5i](https://go.shopyourlikes.com/pi/6dcf690a69011d7d576626ac887f56b098db1cfa?afId=614548&afCampaignId=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&afCreativeId=2993&afPlacementId=2) comes equipped with a 13th Gen Intel Core i3-1315U processor. Its performance won't make the hardware run hot by itself. Instead, the bottom-firing ventilation port likely restricts proper airflow, making things toastier than they should be.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -118,20 +118,22 @@ You can purchase the [IdeaPad Flex 5i on Best Buy for $500](https://shop-links.c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-best-rated-vr-joysticks-unveiled-for-2024/"><u>[New] Best-Rated VR Joysticks Unveiled for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-low-cost-lift-offs-the-most-affordable-drone-options/"><u>[Updated] Low-Cost Lift-Offs The Most Affordable Drone Options</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-selecting-the-ultimate-5-game-chat-devices-for-2024/"><u>[Updated] Selecting the Ultimate 5 Game Chat Devices for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-nokia-g22-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Nokia G22 | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/462236-9781439178225-dile-adios-a-tus-temores-how-to-overcome-fear/"><u>Dile adiós a tus temores (How to Overcome Fear) | Free Book</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/going-back-to-basics-the-surprising-benefits-of-sticking-with-a-2019-budget-smartphone-into-the-new-year/"><u>Going Back to Basics: The Surprising Benefits of Sticking with a 2019 Budget Smartphone Into the New Year</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/guide-disabling-auto-screen-activation-by-android-notification-alerts/"><u>Guide: Disabling Auto-Screen Activation by Android Notification Alerts</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-step-by-step-guide-to-refine-igtv-titles-and-descs/"><u>In 2024, Step-by-Step Guide to Refine IGTV Titles & Descs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/is-the-leap-from-pixel-7a-to-pixel-8a-justified-by-its-enhanced-specs/"><u>Is the Leap From Pixel 7a to Pixel 8a Justified by Its Enhanced Specs?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/is-the-samsung-galaxy-s23plus-a-worthwhile-update-from-its-predecessors/"><u>Is the Samsung Galaxy S23+ a Worthwhile Update From Its Predecessors?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-android-os-updates-a-comprehensive-guide/"><u>Mastering Android OS Updates - A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/maximize-android-battery-life-the-benefits-of-adaptive-charging-techniques/"><u>Maximize Android Battery Life: The Benefits of Adaptive Charging Techniques</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/maximize-functionality-invest-in-independent-appliances-a-standard-fridge-and-an-ipad-not-just-a-smart-fridge/"><u>Maximize Functionality: Invest in Independent Appliances - A Standard Fridge & an iPad, Not Just a Smart Fridge</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/professionals-picks-the-ultimate-guide-to-superior-streaming-lights-comprehensive-review-by-tech-savants-at-zdnet/"><u>Professional's Picks: The Ultimate Guide to Superior Streaming Lights - Comprehensive Review by Tech Savants at ZDNet</u></a></li>
-<li><a href="https://blog-min.techidaily.com/step-by-step-solution-for-fixing-error-code-0x80131500-on-your-microsoft-store-windows-1011/"><u>Step-by-Step Solution for Fixing Error Code 0X80131500 on Your Microsoft Store (Windows 10/11)</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-capture-it-right-essential-camera-lenses-for-video-blogging-for-2024/"><u>[New] Capture It Right Essential Camera Lenses for Video Blogging for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-iphones-best-camera-combo-utilities/"><u>[Updated] IPhone's Best Camera Combo Utilities</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-navigating-retro-facebook-stories-pcmobile-guide/"><u>[Updated] Navigating Retro Facebook Stories PC/Mobile Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-logitech-gaming-wheel-drivers-for-windows-1087/"><u>Download & Install Logitech Gaming Wheel Drivers for Windows 10/8/7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-thrustmaster-t300-driver-software-compatible-with-windows-10-and-11/"><u>Download Thrustmaster T300 Driver Software - Compatible with Windows 10 & 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-installation-guide-logitech-g502-gaming-mouse-software-update/"><u>Easy Installation Guide: Logitech G502 Gaming Mouse Software Update</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-nubia-red-magic-9-proplus-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Nubia Red Magic 9 Pro+.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-laserjet-pro-mfp-m428fdw-driver-for-windows-11107/"><u>HP LaserJet Pro MFP M428fdw Driver for Windows 11/10/7</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-maximizing-impact-with-tiktok-video-uploads-from-pcmac/"><u>In 2024, Maximizing Impact with TikTok Video Uploads From PC/Mac</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-samsung-galaxy-s23plus-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Samsung Galaxy S23+ to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-youtubes-profit-distribution-to-content-makers/"><u>In 2024, YouTube's Profit Distribution to Content Makers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-new-driver-versions-on-dell-2330d-and-2330dn-printers/"><u>Installing New Driver Versions on Dell 2330D and 2330DN Printers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/keep-your-lenovo-running-smoothly-with-updated-drivers-download-guide-for-windows-10-users/"><u>Keep Your Lenovo Running Smoothly with Updated Drivers: Download Guide for Windows 10 Users</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/imensions-youtube-titles-and-images-that-work-for-2024/"><u>Key Dimensions YouTube Titles & Images That Work for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-guide-to-updating-your-canon-mp560-printers-software/"><u>Quick Guide to Updating Your Canon MP560 Printer's Software</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/seamless-guide-simple-steps-to-transforming-wma-files-into-wav-format/"><u>Seamless Guide: Simple Steps to Transforming WMA Files Into WAV Format</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/updated-mpow-usb-bluetooth-driver-secure-download-for-windows-1187-platforms-now-available/"><u>Updated MPOW USB Bluetooth Driver - Secure Download for Windows 11/8/7 Platforms Now Available</u></a></li>
 </ul></div>
 

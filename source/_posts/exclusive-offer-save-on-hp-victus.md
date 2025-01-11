@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Offer: Save on HP Victus"
-date: 2025-01-01T17:19:47.750Z
-updated: 2025-01-04T17:23:36.046Z
+date: 2025-01-04T18:28:15.735Z
+updated: 2025-01-10T18:44:03.103Z
 tags:
   - laptops
 categories:
@@ -97,6 +97,10 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 ## Alternative laptop deals
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Amazon laptop deals
 
 [Asus Chromebook Flip C434 2-In-1 laptop deal for $355 (save $150) $355 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FChromebook-Touchscreen-Processor-All-Metal-C434TA-DSM4T%2Fdp%2FB07Q2RB6BY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9586302c-2428-498d-9e19-20e580697010%7Cdtp&dtb=1)
@@ -123,6 +127,10 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [HP Chromebook X360 14-inch FHD touchscreen 2-in-1 laptop deal for $279 (save $120) $279 at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FHP-Chromebook-X360-14-inch-FHD-IPS-Touch-2-in-1-Laptop-Intel-Processor-N100-4GB-RAM-64GB-eMMC-Sky-Blue%2F5123764557&subId1=zd-__COM_CLICK_ID__-dtp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best Buy laptop deals
 
 [HP 15.6-inch touchscreen Full HD laptop deal for $630 (save $170) $630 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fhp-15-6-touch-screen-full-hd-laptop-intel-core-i7-16gb-memory-512gb-ssd-natural-silver%2F6550427.p%3FskuId%3D6550427&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
@@ -145,10 +153,6 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [Apple MacBook Air, 2023, refurbished, 13.3-inch deal for $340 (save $660) $340 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-geek-squad-certified-refurbished-macbook-air-13-3-display-intel-core-i5-8gb-memory-128gb-flash-storage-silver%2F6530194.p&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How did we choose these laptop deals?
 
 We searched for laptop deals at retailers like Amazon, Walmart, and Best Buy, and also at the websites of leading manufacturers like Lenovo, HP, Dell, Apple, Acer, and Asus. We also used various price trackers to ensure that a claimed deal wasn't spurious.
@@ -161,6 +165,10 @@ When compiling the list of the best deals, we considered the following:
 * **Features**: We included a range of laptops with features sure to appeal to you, including different screen sizes, processors, memory options, and storage. Furthermore, these laptops include varying levels of security, parental lock options, and display resolutions.
 * **Use cases**: At ZDNET, we also took into account different use cases. You might be in the market for a budget-friendly, basic laptop for a child, for example, or you may need a future-proof laptop suitable for work. Or, it might be a gaming device you're after. So, we have compiled a set of recommendations based on different purposes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What specifications do I need to look for in a laptop?
 
 The right specs depend on your needs and how you intend to use your new laptop -- whether for gaming, studies, video calling, or simply daily internet surfing. We break it down for you below:
@@ -170,17 +178,9 @@ The right specs depend on your needs and how you intend to use your new laptop -
 * **Storage**: For those that focus on lighter laptop use, 256GB of SSD storage will be plenty of space for your laptop. However, if you need more storage for high-resolution photos, videos, or more, you'll want to opt for 512GB of storage or even 1TB.
 * **RAM**: In conjunction with the CPU, RAM is used to help the computer multi-task and is vital to running programs. ZDNET expert Adrian Kingsley-Hughes breaks down [RAM needs here](https://www.zdnet.com/article/how-much-ram-does-your-windows-10-pc-need/), but at minimum, especially for working, you should opt for around 8GB, and gamers will potentially want more.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Do I need a gaming laptop or a "regular" laptop?
 
 Again, it depends on your needs. Those who _aren't_ gamers can opt for a regular laptop with high specs, but content creators or those who work with heavy editing software should opt for a designer's laptop or a gaming laptop. Not because, of course, you want to have the best gaming specs on the side, but because those laptops come with powerful CPUs, GPUs, and high RAM to handle the heavy requirements that software needs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How much should I pay for a good laptop?
 
@@ -188,16 +188,12 @@ When you're considering your budget for a new laptop, you have to consider what 
 
 If you're a gamer who needs a high-spec laptop with a decent graphics card, top-of-the-range display and high refresh rate, you should expect to pay more than $500 - $600 -- and potentially beyond $1,000\. However, if you need a laptop for basic tasks, studying, and streaming, you can easily get away with a basic laptop for a few hundred dollars. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What are the best deals right now?
 
 ZDNET experts split out the latest and greatest deals for you below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best deals by retailer
@@ -206,6 +202,10 @@ ZDNET experts split out the latest and greatest deals for you below.
 * [The best Apple deals](https://www.zdnet.com/article/apple-deals/)
 * [The best AT&T deals](https://www.zdnet.com/article/att-deals/)
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best deals by category
 
@@ -257,20 +257,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-crafting-impeccable-videos-for-instagram-enthusiasts-for-2024/"><u>[New] Crafting Impeccable Videos for Instagram Enthusiasts for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-innovate-how-you-connect-with-tech-best-text-interpretation-tools-on-mac-for-2024/"><u>[Updated] Innovate How You Connect with Tech Best Text Interpretation Tools on Mac for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/4000-durable-notebook-triumphs-in-face-of-dell-latitude-a-comprehensive-test/"><u>$4,000 Durable Notebook Triumphs in Face of Dell Latitude: A Comprehensive Test</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-top-5-essentials-for-mastering-tiktok-on-macos/"><u>2024 Approved Top 5 Essentials for Mastering TikTok on macOS</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ces-202n-best-innovations-spotlighted-by-zdnet-editors-choice-selections/"><u>CES 202N Best Innovations Spotlighted by ZDNet Editor's Choice Selections</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/elevating-chrome-power-deciphering-the-value-behind-googles-advanced-premium-chromebook-endorsement-digitalinnovator/"><u>Elevating Chrome Power: Deciphering the Value Behind Google's Advanced Premium Chromebook Endorsement | DigitalInnovator</u></a></li>
-<li><a href="https://article-helps.techidaily.com/implementing-azure-transcript-api-in-software/"><u>Implementing Azure Transcript API in Software</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/instas-best-practices-choosing-videography-sizes-and-formats-for-2024/"><u>Insta's Best Practices - Choosing Videography Sizes & Formats for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/proven-low-cost-gaming-pcs-for-gamers-on-a-budget-in-depth-analysis-and-reviews-guides/"><u>Proven Low-Cost Gaming PCs for Gamers on a Budget: In-Depth Analysis & Reviews Guides</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/secure-your-exclusive-8-iphone-shoot-out-gear-on-sale-final-deals-of-cyber-monday-event/"><u>Secure Your Exclusive $8 iPhone Shoot-Out Gear on Sale - Final Deals of Cyber Monday Event .</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solving-acpi-driver-fault-id-33a0/"><u>Solving Acpi Driver Fault ID 33A0</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-ultimate-review-why-you-should-avoid-the-new-dell-xps-14-insights/"><u>The Ultimate Review: Why You Should Avoid the New Dell XPS 14 - Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-picks-the-ideal-13-business-laptop-for-travelers-neither-apples-macbook-nor-dells-xps/"><u>Top Picks: The Ideal 13 Business Laptop for Travelers - Neither Apple's MacBook Nor Dell's XPS</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlock-efficient-communication-management-selecting-every-message-simultaneeously-on-gmail/"><u>Unlock Efficient Communication Management: Selecting Every Message Simultaneeously on Gmail</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1728479323676-windows-7/"><u>Windows 7復原隱藏分割區的高效解決方案 - 選手級建議</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-step-by-step-revamping-the-look-of-your-tiktok-screenshots/"><u>[New] In 2024, Step-by-Step Revamping the Look of Your TikTok Screenshots</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-setup-guide-for-your-new-intel-dual-band-ac-7260-wireless-network-card/"><u>[Seamless Setup Guide] for Your New Intel Dual-Band AC 7260 Wireless Network Card.</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-activate-windows-xp-movie-creation-toolkit/"><u>[Updated] Activate Windows XP Movie Creation Toolkit</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-calculating-youtubes-income-potential-with-cpm-rates/"><u>[Updated] In 2024, Calculating YouTube's Income Potential with CPM Rates</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/canon-mx49eb-printer-driver-updates-available-seamless-compatibility-with-windows-operating-systems/"><u>Canon MX49eb Printer Driver Updates Available - Seamless Compatibility with Windows Operating Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-asus-precision-clickpad-drivers-for-pc-compatible-with-windows-os/"><u>Download ASUS Precision ClickPad Drivers for PC - Compatible with Windows OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-installation-get-your-razer-mamba-drivers-now/"><u>Effortless Installation: Get Your Razer Mamba Drivers Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/finding-solutions-for-non-responsive-windows-service-management-suite/"><u>Finding Solutions for Non-Responsive Windows Service Management Suite</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/garmin-vivosmart-4-review/"><u>Garmin Vivosmart 4 Review</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ignite-a-sizzling-online-presence-with-these-instagram-9-strategies/"><u>Ignite a Sizzling Online Presence with These Instagram #9 Strategies</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/nvidia-rtx-2080-fresh-driver-download-options-for-windows-operating-systems/"><u>NVIDIA RTX 2080: Fresh Driver Download Options for Windows Operating Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722977139303-step-by-step-instructions-for-downloading-your-canon-mg3620-drivers-safe-and-sound/"><u>Step-by-Step Instructions for Downloading Your Canon MG3620 Drivers - Safe & Sound</u></a></li>
+<li><a href="https://win11.techidaily.com/terminal-and-powershell-delving-into-their-distinct-uses/"><u>Terminal and PowerShell: Delving Into Their Distinct Uses</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-legacy-of-yahoo-messenger-and-insights-into-what-led-to-its-closure/"><u>The Legacy of Yahoo! Messenger and Insights Into What Led to Its Closure</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975521775-top-charts-today-on-groove-stay-up-to-date-with-current-hit-songs-that-are-sure-to-keep-your-spirits-high/"><u>Top Charts Today on Groove: Stay Up-to-Date with Current Hit Songs that Are Sure to Keep Your Spirits High</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-every-piece-of-apples-ai-innovations-from-the-latest-wwdc/"><u>Unveiling Every Piece of Apple's AI Innovations From the Latest WWDC</u></a></li>
 </ul></div>
 

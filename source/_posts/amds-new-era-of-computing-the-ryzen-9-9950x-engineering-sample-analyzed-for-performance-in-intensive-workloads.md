@@ -1,7 +1,7 @@
 ---
 title: "AMD's New Era of Computing: The Ryzen 9 9950X Engineering Sample Analyzed for Performance in Intensive Workloads"
-date: 2024-08-13T12:59:06.159Z
-updated: 2024-08-14T12:59:06.159Z
+date: 2025-01-08T23:18:17.578Z
+updated: 2025-01-10T21:30:01.235Z
 tags:
   - cpu
 categories:
@@ -32,9 +32,9 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
  With all these technologies working in tandem, the overclocker achieved an idle frequency of 5.86 GHz. In stress testing, the maximum single-thread clock speed was 5.758 GHz, with a maximum multi-core frequency of 5.454 GHz operating at 95.2 degrees Celsius at a package power of 172.1 watts.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -45,14 +45,11 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
 
  SkatterBencher's 5.8 GHz and 6 GHz overclocks represent the highest on the new 9700X. Der8auer and Overclocking.com showcased their respective overclocks on the 9700X but could only eke out 5.4G Hz. The main difference was that both outlets did manual overclocks, whereas SkatterBencher used AMD's plethora of overclocking tools, enabling them to hit higher frequencies.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -61,4 +58,18 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-seamless-content-consumption-configuring-pip-for-youtube-on-iphone/"><u>[New] 2024 Approved Seamless Content Consumption Configuring PIP for YouTube on iPhone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-efficiently-speaking-out-a-blueprint-for-reporting-incidents-in-digital-communities-for-2024/"><u>[New] Efficiently Speaking Out A Blueprint for Reporting Incidents in Digital Communities for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-honor-magic-5-pro-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Honor Magic 5 Pro to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/adapting-office-equipment-for-the-age-of-artificial-intelligence-insights-from-zdnet/"><u>Adapting Office Equipment for the Age of Artificial Intelligence: Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-how-chromebooks-outshine-other-laptops-with-these-6-compelling-benefits-insights-from-zdnet/"><u>Discover How Chromebooks Outshine Other Laptops with These 6 Compelling Benefits - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/essential-ultra-fast-charging-and-connectivity-the-best-ipad-pro-usb-c-hub-reviewed-on-zdnet/"><u>Essential Ultra-Fast Charging and Connectivity: The Best iPad Pro USB-C Hub Reviewed on ZDNet</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-redmi-13c-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Redmi 13C</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-apple-iphone-6s-and-android-phones-by-drfone-ios/"><u>In 2024, Top IMEI Unlokers for Apple iPhone 6s and Android Phones</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-lenovo-thinkpad-z16-analysis-subpar-camera-quality-meets-exceptional-performance-a-zdnet-insight/"><u>In-Depth Lenovo ThinkPad Z16 Analysis: Subpar Camera Quality Meets Exceptional Performance - A ZDNet Insight</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/setting-up-your-tiktok-broadcast-on-a-desktop/"><u>Setting Up Your TikTok Broadcast on a Desktop</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unleash-performance-in-portability-the-ultimate-laptop-pick-beyond-the-macbook-air/"><u>Unleash Performance in Portability: The Ultimate Laptop Pick, Beyond the MacBook Air</u></a></li>
+</ul></div>
 

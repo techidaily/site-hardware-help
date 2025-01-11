@@ -1,7 +1,7 @@
 ---
 title: Problem-Solving Abilities in Crows and Other Corvids, Which Can Use Tools to Obtain Food or Create Complex Structures.
-date: 2025-01-03T16:27:24.583Z
-updated: 2025-01-04T16:57:36.701Z
+date: 2025-01-09T22:20:16.782Z
+updated: 2025-01-11T05:05:47.797Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ If you're shopping for a great deal on tech for this holiday season, ZDNET is tr
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Dell holiday deals
@@ -35,6 +35,10 @@ If you're shopping for a great deal on tech for this holiday season, ZDNET is tr
 * [Dell 14-inch portable monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-Dual-Screen-Productivity-Switching-Connectivity%2Fdp%2FB0C8LM4ZZD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0046b43f-55f5-4ae8-9820-c0ec4a0269e4%7Cdtp&dtb=1) for $274 (save $91)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## More Dell holiday deals
 
@@ -93,10 +97,6 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6FJGWK9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0046b43f-55f5-4ae8-9820-c0ec4a0269e4%7Cdtp&dtb=1) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best Dell laptop holiday deals
 
 * [Dell G15 gaming laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-G15-5535-Gaming-Laptop%2Fdp%2FB0CJGBMD42%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0046b43f-55f5-4ae8-9820-c0ec4a0269e4%7Cdtp&dtb=1): $1,000 (save $150)
@@ -106,7 +106,7 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell XPS 13 9310 13.4-inch touch laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-XPS-9310-Laptop-Touchscreen%2Fdp%2FB09PR52BHK%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0046b43f-55f5-4ae8-9820-c0ec4a0269e4%7Cdtp&dtb=1) for $1,071 (save $429)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Dell desktop holiday deals
@@ -119,7 +119,7 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell OptiPlex 3000 Desktop](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fdell-optiplex-3000-student-home-office%252Fp%252F1VK-0001-6EUX9) for $1,200 (save $440)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Dell monitor holiday deals
@@ -128,15 +128,15 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell SE2422HX 24-inch monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-inch-Monitor-1920-1080%2Fdp%2FB096MXR34N%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0046b43f-55f5-4ae8-9820-c0ec4a0269e4%7Cdtp&dtb=1): $100 (save $30)
 * [Dell 27-inch 4K FreeSync monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-S2721QS-Ultra-Thin-DisplayPort-Certified%2Fdp%2FB08DQWG3JG%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0046b43f-55f5-4ae8-9820-c0ec4a0269e4%7Cdtp&dtb=1) for $297 (save $33)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How did we choose these holiday deals?
 
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the best holiday deals?
 
@@ -210,20 +210,19 @@ Here are the top deals by category we've found so far:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-video-platform-review-is-vimeo-best-over-youtubes-and-dailymotions-for-2024/"><u>[Updated] Video Platform Review Is Vimeo Best Over YouTubes and DailyMotions for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/515-yes-please-secure-your-hp-victus-n-gaming-powerhouse-before-it-sells-out-on-best-buys-exclusive-anti-prime-deal-tips-by-zdnet/"><u>$515? Yes, Please! Secure Your HP Victus N Gaming Powerhouse Before It Sells Out on Best Buy's Exclusive Anti-Prime Deal | Tips by ZDNET</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/affordable-xr-glasses-solution-beats-high-end-brands-for-enhanced-visuals-discover-how-they-overcome-apples-optics-issue/"><u>Affordable XR Glasses Solution Beats High-End Brands for Enhanced Visuals – Discover How They Overcome Apple's Optics Issue</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/audio-quality-upgrade-eradicating-stutters-and-pop-ups-with-guidance-from-yl-software-professionals/"><u>Audio Quality Upgrade: Eradicating Stutters & Pop-Ups with Guidance From YL Software Professionals</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/experience-long-lasting-performance-with-our-reliable-laptop-battery-backup-discounted-price-available/"><u>Experience Long-Lasting Performance with Our Reliable Laptop Battery Backup - Discounted Price Available</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/gratis-voerverwerking-toshiba-harde-schijf-sterven-uit-keuzes-en-trucs-van-6-gouden-standen/"><u>Gratis Voerverwerking Toshiba Harde Schijf Sterven Uit: Keuzes En Trucs Van 6 Gouden Standen</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-tecno-camon-20-premier-5g-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Tecno Camon 20 Premier 5G</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-realme-c51-by-fonelab-android-recover-data/"><u>How to recover lost data from Realme C51?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/jestful-journey-through-tech-portable-computing-and-vpn-evolution/"><u>Jestful Journey Through Tech: Portable Computing & VPN Evolution</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/preserve-the-sleek-fresh-look-of-your-macbook-pro-with-these-simple-steps/"><u>Preserve the Sleek, Fresh Look of Your MacBook Pro with These Simple Steps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-workflow-programmatic-shortcuts-in-winos/"><u>Streamline Workflow: Programmatic Shortcuts in WinOS</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-realme-11-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Realme 11 Pro to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-ranked-notebooks-unveiled-at-ces-2024-a-comprehensive-guide/"><u>Top-Ranked Notebooks Unveiled at CES 2024: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unfolding-creativity-on-the-go-why-an-origami-laptop-sleeve-is-my-top-pick-for-travel-gadgets/"><u>Unfolding Creativity On-the-Go: Why an Origami Laptop Sleeve Is My Top Pick for Travel Gadgets</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unleash-the-hidden-potential-of-your-tech-with-this-mighty-yet-portable-8-in-1-adapter-discover-more-at-zdnet/"><u>Unleash the Hidden Potential of Your Tech with This Mighty Yet Portable 8-in-1 Adapter | Discover More at ZDNET</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-android-streaming-virtual-reality-content/"><u>2024 Approved Mastering Android Streaming Virtual Reality Content</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-amd-raid-and-sata-controller-drivers-for-windows-systems/"><u>Download AMD RAID and SATA Controller Drivers for Windows Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-updated-touchpad-driver-for-acers-supported-by-windows-version-11/"><u>Download Updated Touchpad Driver for Acers - Supported by Windows Version 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-drivers-for-your-netgear-wireless-adapter/"><u>Get the Newest Drivers for Your NETGEAR Wireless Adapter</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975553931-hardware-assisted-virtualization-and-isolation/"><u>Hardware-Assisted Virtualization and Isolation:</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Vivo Y36i? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-honor-90-lite-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Honor 90 Lite</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Poco X5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-easily-update-your-ati-radeon-graphics-driver-software-on-windows-systems/"><u>How to Easily Update Your ATI Radeon Graphics Driver Software on Windows Systems</u></a></li>
+<li><a href="https://win-special.techidaily.com/how-to-fix-iphone-updates-when-itunes-keeps-failing-during-software-download/"><u>How to Fix iPhone Updates When iTunes Keeps Failing During Software Download</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/inside-the-world-of-overwatch-a-thrilling-multiplayer-combat-game/"><u>Inside the World of Overwatch: A Thrilling Multiplayer Combat Game</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/premium-tools-for-saving-your-live-video-memories-for-2024/"><u>Premium Tools for Saving Your Live Video Memories for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-elan-smbus-driver-update-for-windows-troubleshoot-solved/"><u>Step-by-Step ELAN SMBus Driver Update for Windows - Troubleshoot Solved</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-xiaomi-mix-fold-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
 </ul></div>
 

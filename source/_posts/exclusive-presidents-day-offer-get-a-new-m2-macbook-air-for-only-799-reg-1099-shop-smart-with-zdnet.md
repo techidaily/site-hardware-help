@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Presidents’ Day Offer: Get a New M2 MacBook Air for Only $799 (Reg. $1,099) | Shop Smart with ZDNet"
-date: 2024-12-28T16:20:12.944Z
-updated: 2025-01-04T17:06:40.476Z
+date: 2025-01-06T22:16:13.301Z
+updated: 2025-01-11T04:54:31.045Z
 tags:
   - laptops
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,17 +81,17 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-groan-inducing-humor-in-hits/"><u>[Updated] 2024 Approved Groan-Inducing Humor in Hits</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-launching-a-successful-vlog-a-guide-to-profitability/"><u>[Updated] Launching a Successful Vlog A Guide to Profitability</u></a></li>
-<li><a href="https://games-able.techidaily.com/2-the-new-champion-why-pc-gamers-prefer-windows-11-over/"><u>2. The New Champion: Why PC Gamers Prefer Windows 11 Over</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/extend-your-workspace-for-less-save-hundreds-with-our-dual-monitor-deal-featuring-the-versatile-teamgee-find-out-how-on-zdnet/"><u>Extend Your Workspace for Less: Save Hundreds with Our Dual Monitor Deal Featuring the Versatile TeamGee - Find Out How on ZDNET</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-vivo-v30-by-drfone-android/"><u>How to Bypass FRP from Vivo V30?</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-visionary-vistas-accessible-designs-for-youtube-artists/"><u>In 2024, Visionary Vistas Accessible Designs for YouTube Artists</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/massive-discount-on-gigabyte-aero-16-gamers-paradise-with-57-savings-check-now/"><u>Massive Discount on Gigabyte Aero 16 - Gamers' Paradise with 57% Savings! Check Now!</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-nokia-130-music-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Nokia 130 Music</u></a></li>
-<li><a href="https://techtrends.techidaily.com/orderly-movie-marathon-experience-middle-earth-with-the-lord-of-the-rings/"><u>Orderly Movie Marathon: Experience Middle Earth with 'The Lord of The Rings'</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-17-unbeatable-cyber-monday-offers-get-premium-tvs-headsets-and-audio-equipment-at-discounted-prices-features-from-zdnet/"><u>Top 17 Unbeatable Cyber Monday Offers: Get Premium TVs, Headsets & Audio Equipment at Discounted Prices – Features From ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-the-future-of-tech-a-first-impression-of-lenovos-transparent-laptop-from-mwc-more-than-just-glass/"><u>Unveiling the Future of Tech: A First Impression of Lenovo’s Transparent Laptop From MWC – More Than Just Glass</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-the-secret-workplace-advantage-why-this-years-most-impressive-dual-purpose-gadget-deserves-attention-zdnet/"><u>Unveiling the Secret Workplace Advantage: Why This Year's Most Impressive Dual-Purpose Gadget Deserves Attention | ZDNet</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-join-the-social-scene-facebook-live-streams-on-roku-tv/"><u>[New] In 2024, Join The Social Scene Facebook Live Streams on Roku TV</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-fcp-tutorial-for-new-users/"><u>[New] Ultimate FCP Tutorial for New Users</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-excellence-in-mac-video-capturing-top-5-alternatives-to-bandicam/"><u>[Updated] 2024 Approved Excellence in Mac Video Capturing Top 5 Alternatives to Bandicam</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-oppo-a78-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/daily-routines-for-beating-nyts-power-network/"><u>Daily Routines for Beating NYT's Power Network</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-installation-of-hp-scanning-software-for-windows-systems-explained/"><u>Easy Installation of HP Scanning Software for Windows Systems Explained</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-nikon-d850-vs-d7500-features-for-2024/"><u>Exploring Nikon D850 Vs D7500 Features for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-logiteche-webcam-up-and-running-on-windows-with-a-complimentary-driver-download/"><u>Get Your Logiteche Webcam Up and Running on Windows with a Complimentary Driver Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-windows-compatible-creative-cam-driver-downloads/"><u>Latest Windows Compatible Creative Cam Driver Downloads</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/navigating-the-new-era-top-tier-vr-exercise-machines/"><u>Navigating the New Era Top-Tier VR Exercise Machines</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-through-newest-amd-driver-releases-on-your-windows-pc/"><u>Navigating Through Newest AMD Driver Releases on Your Windows PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-step-by-step-process-to-empty-out-entire-inbox-in-the-gmail-app/"><u>Ultimate Step-by-Step Process to Empty Out Entire Inbox in the Gmail App</u></a></li>
 </ul></div>
 

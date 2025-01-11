@@ -1,7 +1,7 @@
 ---
 title: "Discover the Surprising Secrets: Lenovo's Portable Laptop with Stealthy Trackpoint & More | Unveiled by Tech Experts"
-date: 2024-12-03T01:50:38.751Z
-updated: 2024-12-05T02:02:23.919Z
+date: 2025-01-05T08:07:31.691Z
+updated: 2025-01-11T04:31:07.338Z
 tags:
   - laptops
 categories:
@@ -46,7 +46,7 @@ Image: Charles McLellan / ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Design
@@ -70,7 +70,7 @@ For connections, you're limited to two USB-C (3.2 Gen 2) ports on the left side,
 You can access the innards of the ThinkPad X13s by removing six screws and prising off the bottom cover, although upgrade options are limited. We did poke around inside our first review unit, which arrived with no functioning Wi-Fi and no access to the webcam, to no avail. Our second review unit worked just fine. For all its thin-and-lightness, the ThinkPad X13s is [MIL-STD-810H](https://en.wikipedia.org/wiki/MIL-STD-810)\-tested and should cope with the rigours of a mobile professional's routine. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Features
@@ -84,7 +84,7 @@ There are three screen options, all IPS panels with WUXGA (1920 x 1200) resoluti
 As well as the biometric authentication methods noted earlier, the ThinkPad X13s includes internal security features such as a discrete TPM 2.0 chip, Microsoft's [Pluton TPM architecture](https://learn.microsoft.com/en-us/windows/security/information-protection/pluton/pluton-as-tpm) running on the Snapdragon 8cx Gen 3's SPU (Secure Processing Unit) and a self-healing BIOS. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Performance & battery life
@@ -116,7 +116,7 @@ Thermal camera images of the ThinkPad X13s under load.
 Images: Charles McLellan / ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Conclusions
@@ -170,7 +170,7 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -218,24 +218,20 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-help.techidaily.com/creating-separate-accounts-a-step-by-step-guide-to-setting-up-multi-user-profiles-in-android/"><u>Creating Separate Accounts: A Step-by-Step Guide to Setting up Multi-User Profiles in Android</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-the-least-attractive-smartphones-ever-created-a-ranking-of-the-5-most-unsightly-devices/"><u>Discover the Least Attractive Smartphones Ever Created: A Ranking of the 5 Most Unsightly Devices</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/does-the-google-pixel-operate-on-stock-android-os/"><u>Does the Google Pixel Operate on Stock Android OS?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-steps-locating-your-android-devices-downloaded-files/"><u>Easy Steps: Locating Your Android Device's Downloaded Files</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effective-techniques-for-reducing-video-file-size-on-your-android-device/"><u>Effective Techniques for Reducing Video File Size on Your Android Device</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722847547368-exclusive-scoop-the-price-release-date-and-tech-specs-of-the-new-apple-household-helper-bot-uncovered/"><u>Exclusive Scoop: The Price, Release Date, and Tech Specs of the New Apple Household Helper Bot Uncovered</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/experience-the-latest-in-tech-samsung-upgrades-its-premier-tablet-line-with-android-13/"><u>Experience the Latest in Tech: Samsung Upgrades Its Premier Tablet Line with Android 13</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/expert-secrets-decoding-tricks-for-assessing-pre-owned-android-devices/"><u>Expert Secrets: Decoding Tricks for Assessing Pre-Owned Android Devices</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-google-discover-feature-step-by-step-tutorial-for-smartphones/"><u>Exploring Google Discover Feature - Step-by-Step Tutorial for Smartphones</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/fairphone-4-arrives-in-the-us-unique-features-and-local-availability/"><u>Fairphone 4 Arrives in the U.S.: Unique Features and Local Availability</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Tecno Spark 10 4G? | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-streaming-high-quality-vr-videos-made-easy-for-ios-users/"><u>In 2024, Streaming High-Quality VR Videos Made Easy for IOS Users</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-editors-archive-curating-timeless-vhs-effects-for-the-digital-age/"><u>In 2024, The Editor's Archive Curating Timeless VHS Effects for the Digital Age</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/mastering-the-art-of-green-screen-filming/"><u>Mastering the Art of Green Screen Filming</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-free-photo-editing-apps-for-macos-comprehensive-list-by-movavi/"><u>Top Free Photo Editing Apps For macOS : Comprehensive List by Movavi</u></a></li>
-<li><a href="https://blog-min.techidaily.com/top-methods-for-acquiring-quality-yify-movie-subtitle-files-without-hacking-risks/"><u>Top Methods for Acquiring Quality YIFY Movie Subtitle Files Without Hacking Risks</u></a></li>
-<li><a href="https://fox-info.techidaily.com/unveiling-the-art-of-converting-still-images-into-engaging-videos-with-pixiz-for-2024/"><u>Unveiling the Art of Converting Still Images Into Engaging Videos with Pixiz for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-effortless-video-rotation-discover-the-top-10-online-tools-for-2024/"><u>Updated Effortless Video Rotation Discover the Top 10 Online Tools for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-free-and-flexible-the-top-10-online-video-editors-without-watermark-for-2024/"><u>Updated Free and Flexible The Top 10 Online Video Editors without Watermark for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-ultimate-speed-boost-for-vimeo-videos/"><u>[New] Ultimate Speed Boost for Vimeo Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-designing-powerful-youtube-screens-a-step-by-step-guide/"><u>[Updated] 2024 Approved Designing Powerful YouTube Screens A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-channel-expansion-at-wallet-friendly-costs-for-2024/"><u>[Updated] Channel Expansion at Wallet-Friendly Costs for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-the-dark-side-of-digital-content-profitability/"><u>2024 Approved The Dark Side of Digital Content Profitability</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/advanced-methods-for-recording-in-adobe-presenter-for-2024/"><u>Advanced Methods for Recording in Adobe Presenter for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/banish-blurry-footage-keeping-your-gopro-crisp-for-2024/"><u>Banish Blurry Footage Keeping Your GoPro Crisp for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-intels-fastest-nvme-drivers-today-step-by-step-tutorial-inside/"><u>Download Intel's Fastest NVMe Drivers Today – Step-by-Step Tutorial Inside</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722978768075-download-microsoft-windows-8-plus-amd-radeon-gpu-support-for-free/"><u>Download Microsoft Windows 8 + AMD Radeon GPU Support for Free</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-logitech-brio-webcam-up-and-running-on-windows-os-1087/"><u>Get Your Logitech BRIO Webcam Up and Running on Windows OS (10/8/7)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/getting-the-newest-canon-mg3n-driver-version-free-download-instructions/"><u>Getting the Newest Canon MG3n Driver Version – Free Download Instructions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/instant-access-to-the-zebra-gk420d-printer-driver-hassle-free-download/"><u>Instant Access to the Zebra GK420d Printer Driver – Hassle-Free Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722962233469-microencapsulation-is-a-technique-where-healing-agents-are-released-upon-crack-formation-through-broken-microcapsules-in-the-concrete-mix/"><u>Microencapsulation Is a Technique Where Healing Agents Are Released upon Crack Formation Through Broken Microcapsules in the Concrete Mix</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-slow-booting-problems-in-windows-7-with-easy-troubleshooting-steps/"><u>Overcoming Slow Booting Problems in Windows 7 with Easy Troubleshooting Steps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/steam-disk-write-error-troubleshooting-guide/"><u>Steam Disk Write Error Troubleshooting Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-pc-download-the-latest-intel-wireless-ax2-drivers-for-windows-1110/"><u>Update Your PC: Download the Latest Intel Wireless AX2# Drivers for Windows 11/10</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Exclusive Cyber Monday Offer on Lenovo Chromebooks for Just $79! Don't Miss Out – Limited Stock Available | ZDNET Insider Tips
-date: 2025-01-01T16:33:20.034Z
-updated: 2025-01-04T17:19:27.698Z
+date: 2025-01-10T06:35:29.948Z
+updated: 2025-01-10T23:39:35.656Z
 tags:
   - laptops
 categories:
@@ -38,7 +38,7 @@ This laptop isn't solely for business professionals. Everybody can enjoy the dev
 Right now is the best time to buy this device. The [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C33d8b115-5353-48ee-93ba-d7db0255209a%7Cdtp&dtb=1) is currently on sale at Amazon for $1,500\. That is almost $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C33d8b115-5353-48ee-93ba-d7db0255209a%7Cdtp&dtb=1) is much more expensive, but I recommend it as an alternative if you can afford it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -75,16 +75,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-podcast-dominance-through-effective-seo-strategies/"><u>[Updated] Podcast Dominance Through Effective SEO Strategies</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-quelling-video-quirks-in-photobooths/"><u>2024 Approved Quelling Video Quirks in Photobooths</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-stunning-iphone-portraits-through-water-imagery-techniques/"><u>2024 Approved Stunning iPhone Portraits Through Water Imagery Techniques</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/enhancing-device-functionality-how-to-seamlessly-integrate-additional-ports-into-macbook-and-ipad-pro-units-zdnet-insights/"><u>Enhancing Device Functionality: How to Seamlessly Integrate Additional Ports Into MacBook and iPad Pro Units | ZDNET Insights</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-highlighted-6-exceptional-tools-for-cleaning-up-images/"><u>In 2024, Highlighted 6 Exceptional Tools for Cleaning Up Images</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Lava Blaze 2 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/surpassing-rivals-how-apples-innovations-could-outshine-openai-microsoft-and-google-during-the-2024-worldwide-developers-conference-insights-from-zdnet/"><u>Surpassing Rivals: How Apple's Innovations Could Outshine OpenAI, Microsoft & Google During the 2024 Worldwide Developers Conference - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-picks-affordable-alternatives-that-outshine-macbook-air-now-with-discounts-discover-your-ideal-windows-laptop-today/"><u>Top Picks: Affordable Alternatives That Outshine MacBook Air - Now with Discounts! Discover Your Ideal Windows Laptop Today</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-samsungs-latest-copilotplus-innovations-enhanced-ai-capabilities-showcased-in-the-new-pc-series-insights-from-zdnet/"><u>Unveiling Samsung's Latest Copilot+ Innovations: Enhanced AI Capabilities Showcased in the New PC Series - Insights From ZDNet</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/visual-vault-visitor/"><u>Visual Vault Visitor</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/why-hps-latest-release-the-spectre-x360-tops-as-a-top-choice-for-best-laptops-insights/"><u>Why HP's Latest Release, The Spectre X360, Tops as a Top Choice for Best Laptops - Insights</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-elevate-your-igtv-presence-secrets-to-skyrocketing-subscribers/"><u>[New] Elevate Your IGTV Presence Secrets to Skyrocketing Subscribers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-keeping-secrets-on-screen-tips-for-private-content-reduction/"><u>[New] Keeping Secrets on Screen Tips for Private Content Reduction</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-discover-world-wonders-with-these-top-10-videos-for-2024/"><u>[Updated] Discover World Wonders with These Top 10 Videos for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-immersive-experience-keepers-fb-live-2023/"><u>[Updated] In 2024, Immersive Experience Keepers FB Live 2023</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-from-fast-life-to-leisrances-iphone-slow-motion-tips/"><u>2024 Approved From Fast Life to Leisrances IPhone Slow Motion Tips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/brother-hl-l2350dw-how-to-download-the-latest-printing-software-version/"><u>Brother HL-L2350DW: How to Download the Latest Printing Software Version</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/canon-mg2520-driver-download-and-update-for-windows/"><u>Canon MG2520 Driver Download & Update for Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-the-epson-wf-2750-printing-software-drivers-ready/"><u>Download & Install the Epson WF-2750 Printing Software - Drivers Ready</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-sas-drivers-compatible-with-windows-11-8-and-7/"><u>Download and Update SAS Drivers Compatible with Windows 11, 8, and 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-guide-to-obtaining-and-installing-intel-serial-controller-drivers/"><u>Easy Guide to Obtaining & Installing Intel Serial Controller Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-going-with-your-epson-workforce-ds-30-downloading-compatible-drivers-for-windows-1087/"><u>Get Going with Your Epson WorkForce DS-30: Downloading Compatible Drivers for Windows 10/8/7</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-factory-reset-ipad-or-apple-iphone-se-2022-without-icloud-password-or-apple-id-by-drfone-ios/"><u>In 2024, How to Factory Reset iPad or Apple iPhone SE (2022) without iCloud Password or Apple ID?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-iphone-11-pro-max-device-from-icloud-by-drfone-ios/"><u>In 2024, How to Remove iPhone 11 Pro Max Device from iCloud</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/instant-download-and-setup-of-logitech-drivers-for-pcs/"><u>Instant Download & Setup of Logitech Drivers for PCs</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/joyfuljourney-sign-up-share-and-create-fun-videos-for-2024/"><u>JoyfulJourney Sign Up, Share and Create Fun Videos for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-logitech-g602-audio-drivers-for-windows-operating-systems/"><u>Latest Logitech G602 Audio Drivers for Windows Operating Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/sound-blaster-audigy-fx-driver-installation-step-by-step-guide-with-images/"><u>Sound Blaster Audigy FX Driver Installation: Step-by-Step Guide with Images</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/speedy-upgrade-leading-android-video-tuners-for-2024/"><u>Speedy Upgrade Leading Android Video Tuners for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-realme-11-proplus-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Realme 11 Pro+ Screen | Dr.fone</u></a></li>
 </ul></div>
 

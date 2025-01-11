@@ -1,7 +1,7 @@
 ---
 title: Microsoft Slashes Prices on Surface Go and Drops All-Time Low Price for Xbox Series S - ZDNet
-date: 2025-01-01T16:18:01.714Z
-updated: 2025-01-04T17:06:25.686Z
+date: 2025-01-03T23:12:04.634Z
+updated: 2025-01-10T23:30:46.158Z
 tags:
   - laptops
 categories:
@@ -27,7 +27,7 @@ Microsoft is known for its innovative products in gaming, computers, and more. A
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Save hundreds on Surface tablets and laptops**
@@ -43,7 +43,7 @@ Under the tablet's hood, you'll find a blazing-fast processor (12th Gen Intel Co
 Meanwhile, if you're preference is for laptops, then Microsoft has other deals for you. You can save $200 on the Surface Laptop 5, up to $646 on the Surface Laptop 4, and $150 on the Surface Laptop Go 2\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Get the Xbox Series S at its lowest price ever**
@@ -59,7 +59,7 @@ This is a digital console, meaning you'll have ample room to download games on i
 Overall, the Xbox Series S is an excellent gaming system for those looking for jaw-dropping graphics, access to a diverse gaming library, and fast performance. In addition, Microsoft lowered its price to $239.99, making it the best time to buy one. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Want to save even more on Microsoft devices?**
@@ -110,22 +110,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-expert-list-superior-gaming-live-options-for-2024/"><u>[New] Expert List Superior Gaming Live Options for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-subscriber-threshold-raised-for-profits/"><u>[New] Subscriber Threshold Raised for Profits</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-direct-directions-simple-techniques-for-laptop-screening-dell/"><u>[Updated] Direct Directions Simple Techniques for Laptop Screening (Dell)</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-is-av1-really-outdo-cooking-vp9-for-2024/"><u>[Updated] Is AV1 Really Outdo Cooking VP9 for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/35plus-smiles-with-photo-alterations-ios-android-compatible-for-2024/"><u>35+ Smiles with Photo Alterations IOS, Android Compatible for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/decoding-hardware-with-tom-your-guide-to-next-gen-devices/"><u>Decoding Hardware with Tom: Your Guide to Next-Gen Devices</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/discover-the-clean-convenience-experience-apple-airplay-in-selected-hotels-a-detailed-guide/"><u>Discover the Clean Convenience: Experience Apple AirPlay in Selected Hotels – A Detailed Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723262409149-dive-into-tech-with-toms-hardware-the-ultimate-guide-for-enthusiasts/"><u>Dive Into Tech with Tom's Hardware - The Ultimate Guide for Enthusiasts!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-installation-of-logitech-g402-game-controller-softwaredriver-package/"><u>Easy Installation of Logitech G402 Game Controller Software/Driver Package</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-iphone-driver-setup-for-windows-10-download-and-install-instructions/"><u>Easy iPhone Driver Setup for Windows 10 - Download & Install Instructions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expertise-in-cutting-edge-encoders-for-live-media-for-2024/"><u>Expertise in Cutting-Edge Encoders for Live Media for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722974944384-get-your-free-intel-network-adapters-drivers-now-for-windows-11107-supported-systems/"><u>Get Your Free Intel Network Adapters Drivers Now for Windows 11/10/7 Supported Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-free-qualcomm-atheros-ar938x-driver-instantly-here/"><u>Get Your Free Qualcomm Atheros AR938X Driver Instantly Here</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/sony-vaio-driver-software-for-windows-complete-downloading-and-installation-instructions/"><u>Sony Vaio Driver Software for Windows - Complete Downloading & Installation Instructions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/tackling-hp-monitor-driver-complications-across-windows-platforms-including-windows-11-8-and-7/"><u>Tackling HP Monitor Driver Complications Across Windows Platforms, Including Windows 11, 8 & 7</u></a></li>
-<li><a href="https://blog-min.techidaily.com/ultimate-guide-converting-video-files-from-vob-to-mp4-using-handbrake/"><u>Ultimate Guide: Converting Video Files From VOB to MP4 Using HandBrake</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/worried-about-your-data-with-chatgpt-learn-the-steps-to-disable-usage/"><u>Worried About Your Data with ChatGPT? Learn the Steps to Disable Usage</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-usb-to-hdmi-driver-update/"><u>[DOWNLOAD] USB to HDMI Driver Update</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-direct-link-method-for-photos-and-videos/"><u>[New] Direct Link Method for Photos & Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-decoding-whatsapps-audio-transmission-techniques/"><u>[Updated] In 2024, Decoding WhatsApp's Audio Transmission Techniques</u></a></li>
+<li><a href="https://facebook.techidaily.com/december-the-final-month-for-insta-threads/"><u>December: The Final Month for Insta Threads</u></a></li>
+<li><a href="https://win-blog.techidaily.com/diagnosing-and-repairing-constant-elex-ii-disruptions-during-pc-gaming/"><u>Diagnosing and Repairing Constant Elex II Disruptions During PC Gaming</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-logitech-stream-mini-v5-for-windows-1011-official-driver-pack/"><u>Download and Install Logitech Stream Mini v5 for Windows 10/11 - Official Driver Pack</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-perform-an-amd-graphics-card-update-on-windows-10-11-and-7/"><u>How to Perform an AMD Graphics Card Update on Windows 10, 11 & 7</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-on-iphone-14-plus-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server On iPhone 14 Plus</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/solving-compatibility-overcoming-samsung-universal-printer-driver-glitches-in-windows/"><u>Solving Compatibility: Overcoming Samsung Universal Printer Driver Glitches in WINDOWS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-hp-officejet-pro-8620-printer-drivers-directly-in-windows-operating-system/"><u>Update HP OfficeJet Pro 8620 Printer Drivers Directly in Windows Operating System</u></a></li>
 </ul></div>
 

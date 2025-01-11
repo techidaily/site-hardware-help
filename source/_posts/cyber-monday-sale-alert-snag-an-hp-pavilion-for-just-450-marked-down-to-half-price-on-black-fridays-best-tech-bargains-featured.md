@@ -1,7 +1,7 @@
 ---
 title: "Cyber Monday Sale Alert: Snag an HP Pavilion for Just $450, Marked Down to Half Price on Black Friday's Best Tech Bargains - Featured"
-date: 2024-12-29T17:20:40.728Z
-updated: 2025-01-04T16:23:45.169Z
+date: 2025-01-09T20:11:45.270Z
+updated: 2025-01-10T17:19:03.909Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an AMD Radeon RX 6550M graphics card and a screen capable of a 144Hz
 With 8GB of RAM, a 512GB SSD, and an AMD Ryzen 5 7000 series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,22 +63,19 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-step-by-step-adding-a-flurry-of-images-and-videos-to-your-ig-story/"><u>[New] 2024 Approved Step-by-Step Adding a Flurry of Images & Videos to Your IG Story</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/huckle-chest-selecting-15-hilarious-video-treasures-for-your-viewing-pleasure-for-2024/"><u>[New] Chuckle Chest Selecting 15 Hilarious Video Treasures for Your Viewing Pleasure for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-best-6-social-media-platforms-for-business/"><u>[New] In 2024, Best 6 Social Media Platforms for Business</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/product-name-the-revolutionary-accessory-for-upgrading-to-dual-twin-4k-displays-on-any-laptop-regardless-of-inbuilt-capabilities-zdnet/"><u>[Product Name]: The Revolutionary Accessory for Upgrading to Dual Twin 4K Displays on Any Laptop, Regardless of Inbuilt Capabilities | ZDNET</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-delving-into-virtual-realms-a-basic-guide-for-2024/"><u>[Updated] Delving Into Virtual Realms A Basic Guide for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-standard-to-superior-adding-srt-to-mp4-videos/"><u>2024 Approved From Standard to Superior Adding SRT to MP4 Videos</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-oneplus-ace-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on OnePlus Ace 3 | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/a-week-with-an-ergonomic-split-keyboard-how-one-change-revolutionized-my-pc-setup-techradar/"><u>A Week with an Ergonomic Split Keyboard: How One Change Revolutionized My PC Setup | TechRadar</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-latest-in-pc-components-with-toms-hardware/"><u>Discover the Latest in PC Components with Tom’s Hardware</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/experience-next-gen-tech-with-ar-lapsops-get-yourself-the-monitorless-100-screen-computer-a-revolutionary-step/"><u>Experience Next-Gen Tech with AR Lapsops: Get Yourself the Monitorless 100'' Screen Computer - A Revolutionary Step .</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/experience-unparalleled-audio-top-rated-gaming-speakers-now-discounted-on-amazon-insights-from-a-seasoned-reviewer/"><u>Experience Unparalleled Audio: Top-Rated Gaming Speakers Now Discounted on Amazon - Insights From a Seasoned Reviewer</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-apple-iphone-13-mini-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>How to Bypass Apple iPhone 13 mini Passcode Easily Video Inside | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/is-the-lenovo-yoga-book-9i-the-breakthrough-for-dual-screen-laptop-innovation-weve-been-waiting-for-explore/"><u>Is the Lenovo Yoga Book 9I the Breakthrough for Dual-Screen Laptop Innovation We've Been Waiting For? - Explore</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/meta-quest-3-the-top-of-the-line-virtual-reality-headset-at-an-irresistible-price-insider-deal-analysis/"><u>Meta Quest 3: The Top-of-the-Line Virtual Reality Headset at an Irresistible Price | Insider Deal Analysis</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-through-change-how-workplace-technology-will-transform-in-response-to-ai-progress-a-deep-dive-by-zdnet/"><u>Navigating Through Change: How Workplace Technology Will Transform in Response to AI Progress – A Deep Dive by ZDNET</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-zte-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to ZTE FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-picks-most-unbeatable-laptop-offers-in-july-2024-spotted/"><u>Top Picks: Most Unbeatable Laptop Offers in July 2024 - Spotted</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-screen-shot-ease-premium-free-software-for-desktop-recording-on-pcmac/"><u>[Updated] In 2024, Screen Shot Ease Premium FREE Software for Desktop Recording on PC/Mac</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-infinix-hot-30-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Infinix Hot 30 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/2024s-finest-selection-of-magsafe-wallets-in-depth-expert-testing-and-ratings-zdnet/"><u>2024'S Finest Selection of MagSafe Wallets: In-Depth Expert Testing & Ratings | ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-quick-and-effortless-surface-driver-updates/"><u>Get the Latest: Quick and Effortless Surface Driver Updates</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-rtx-3070-ti-drivers-for-your-windows-pc-win-1087/"><u>Get the Newest RTX 3070 Ti Drivers for Your Windows PC (Win 10/8/7)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722965164931-get-your-hp-deskjet-3520-printer-up-and-running-with-the-latest-firmware-update/"><u>Get Your HP Deskjet 3520 Printer Up and Running with the Latest Firmware Update</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-lava-yuva-3-prowithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Lava Yuva 3 Prowith/without a PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/optimize-your-hardware-storage-solutions-on-windows-platforms-with-the-latest-intel-raid-drivers-windows-11-to-7/"><u>Optimize Your Hardware Storage Solutions on Windows Platforms With the Latest Intel RAID Drivers (Windows 11 to 7)</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolve-your-windows-crash-with-ntkrnlmpexe-a-step-by-step-solution/"><u>Resolve Your Windows Crash with 'ntkrnlmp.exe' - A Step-by-Step Solution</u></a></li>
+<li><a href="https://solve-news.techidaily.com/seamless-transformation-of-mxf-files-into-avi-format-simple-methods-unveiled/"><u>Seamless Transformation of MXF Files Into AVI Format – Simple Methods Unveiled</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/speedy-update-solutions-revamping-dell-g7s-software-in-no-time/"><u>Speedy Update Solutions: Revamping Dell G7's Software in No Time</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-downloading-your-asus-wireless-network-drivers/"><u>Step-by-Step Guide: Downloading Your ASUS Wireless Network Drivers</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-vivo-s18-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Vivo S18 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-tecno-phantom-v-flip-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Tecno Phantom V Flip Device</u></a></li>
 </ul></div>
 

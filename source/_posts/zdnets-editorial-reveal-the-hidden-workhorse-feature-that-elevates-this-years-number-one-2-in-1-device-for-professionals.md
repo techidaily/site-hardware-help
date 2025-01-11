@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Editorial Reveal: The Hidden Workhorse Feature That Elevates This Year’s Number One 2-in-1 Device for Professionals"
-date: 2024-12-31T17:04:34.282Z
-updated: 2025-01-04T17:41:38.962Z
+date: 2025-01-09T17:46:51.565Z
+updated: 2025-01-11T03:52:09.922Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -73,7 +73,7 @@ The ThinkPad X1 2-in-1 performs well in most cases, although it's not necessaril
 It also did well on the benchmark tests I ran, even outperforming the Intel Core i9-9880H. I'm very familiar with the Ultra 7, so I expected solid performance. Indeed, it is because of this familiarity that I was surprised to see this model's price. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -112,20 +112,18 @@ Additionally, keep in mind that adding options like an OLED screen and hardware 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-kinemaster-elevating-your-game-play-experience-on-android-devices/"><u>[New] 2024 Approved KineMaster Elevating Your Game Play Experience on Android Devices</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-mastering-the-art-of-silent-videography/"><u>[New] 2024 Approved Mastering the Art of Silent Videography</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-charting-your-way-to-frequent-payments-from-youtube/"><u>[Updated] 2024 Approved Charting Your Way to Frequent Payments From YouTube</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/4-pioneering-ways-ai-elevates-study-habits/"><u>4 Pioneering Ways AI Elevates Study Habits</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/affordable-deal-alert-grab-a-used-128gb-microsoft-surface-laptop-for-just-320-tech-tips/"><u>Affordable Deal Alert: Grab a Used 128GB Microsoft Surface Laptop for Just $320 - Tech Tips</u></a></li>
-<li><a href="https://win-top.techidaily.com/fehlersuche-und-problemlosung-fur-das-scheitern-der-clonezilla-klonvorgange-eine-umfassende-analyse/"><u>Fehlersuche Und Problemlösung Für Das Scheitern Der Clonezilla Klonvorgänge: Eine Umfassende Analyse</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-nokia-c22-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Nokia C22 To Phone | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-honor-80-pro-straight-screen-edition-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Honor 80 Pro Straight Screen Edition without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-zte-axon-40-lite-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing ZTE Axon 40 Lite to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/snag-the-deal-before-it-ends-apple-m2-macbook-air-just-hit-an-unbeatable-price-of-749-during-amazon-prime-day-as-spotted-by-zdnet/"><u>Snag the Deal Before It Ends: Apple M2 MacBook Air Just Hit an Unbeatable Price of $749 During Amazon Prime Day, As Spotted by ZDNET.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/transforming-my-workstation-the-impact-of-a-split-ergo-keyboard-on-my-digital-life-a-first-hand-account-zdnet/"><u>Transforming My Workstation: The Impact of a Split Ergo Keyboard on My Digital Life - A First-Hand Account | ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unbeatable-price-alert-secure-your-hp-victus-veggie-laptop-for-a-steal-at-515-during-the-prime-deals-extravaganza-at-best-buy-zdnet-reviews/"><u>Unbeatable Price Alert: Secure Your HP Victus Veggie Laptop for a Steal at $515 During the Prime Deals Extravaganza at Best Buy | ZDNET Reviews</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unbeatable-price-metas-latest-offer-on-512gb-quest-3-top-choice-for-virtual-reality-enthusiasts-techspot/"><u>Unbeatable Price: Meta's Latest Offer on 512GB Quest 3 - Top Choice for Virtual Reality Enthusiasts | TechSpot</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-the-future-at-apples-oct-showcase-new-m4-mac-mini-and-innovative-ipad-lineup/"><u>Unveiling the Future at Apple's Oct. Showcase: New M4 Mac Mini & Innovative iPad Lineup</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/zdnet-reveal-the-ideal-lightweight-powerhouse-laptop-every-remote-worker-needs/"><u>ZDNet Reveal: The Ideal Lightweight Powerhouse Laptop Every Remote Worker Needs !</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-quick-play-music-10-best-apps-phones/"><u>[Updated] Quick Play Music 10 Best Apps, Phones</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-optimize-your-zoom-soundscape-clear-channel-balance-achieved/"><u>2024 Approved Optimize Your Zoom Soundscape Clear Channel Balance Achieved</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-radeon-rx-6900-xt-graphics-drivers-download-now-for-windows-11-10-8-and-7/"><u>AMD Radeon RX 6900 XT Graphics Drivers: Download Now for Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-guide-to-installing-and-updating-hp-laserjet-1320-printer-drivers-on-your-windows-pc/"><u>Easy Guide to Installing and Updating HP LaserJet 1320 Printer Drivers on Your Windows PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-to-follow-guide-downloading-and-installing-hp-officejet-3830-drivers-for-windows/"><u>Easy-to-Follow Guide: Downloading and Installing HP OfficeJet 3830 Drivers for Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/error-0xc19001e1-on-windows-11-causes-and-solutions-explored/"><u>Error 0xC19001E1 on Windows 11: Causes and Solutions Explored</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/find-and-install-up-to-date-zebra-printer-drivers-on-a-windows-machine/"><u>Find and Install Up-to-Date Zebra Printer Drivers on a Windows Machine</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-thunderbolt-drivers-windows-11-8-7-free-download-and-updates/"><u>Get the Newest Thunderbolt #Drivers (Windows 11, 8, 7) - Free Download and Updates</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-switch-off-sound-amplification-and-effects-on-windows-11/"><u>How to Switch Off Sound Amplification and Effects on Windows 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Xiaomi Civi 3 Disney 100th Anniversary Edition? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/startup-steps-for-stream-money-in-periscope-for-2024/"><u>Startup Steps for Stream Money in Periscope for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/subtitled-uninterrupted-access-to-9-festive-holiday-movies-free-for-2024/"><u>Subtitled, Uninterrupted Access to 9 Festive Holiday Movies - Free for 2024</u></a></li>
 </ul></div>
 

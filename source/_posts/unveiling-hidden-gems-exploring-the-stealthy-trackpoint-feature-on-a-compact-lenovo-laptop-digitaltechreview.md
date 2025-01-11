@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Hidden Gems: Exploring the Stealthy Trackpoint Feature on a Compact Lenovo Laptop | DigitalTechReview"
-date: 2024-11-29T08:34:43.137Z
-updated: 2024-12-05T07:50:06.878Z
+date: 2025-01-07T23:41:46.875Z
+updated: 2025-01-11T10:17:26.720Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -67,7 +67,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -106,16 +106,21 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-help.techidaily.com/download-now-upgrade-to-steelseries-engine-for-optimal-gaming-performance-on-windows-11/"><u>[Download Now!]: Upgrade to SteelSeries Engine for Optimal Gaming Performance on Windows 11</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-converting-live-images-to-continuous-recordings/"><u>[Updated] 2024 Approved Converting Live Images to Continuous Recordings</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-setup-for-your-linksys-ae1200-router-instant-access-to-the-newest-drivers/"><u>Effortless Setup for Your Linksys AE1200 Router - Instant Access to the Newest Drivers</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-xiaomi-redmi-12-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Xiaomi Redmi 12 5G Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-color-laserjet-pro-m477-driver-software-quick-download-guide-for-easy-setup-and-use/"><u>HP Color LaserJet Pro M477 Driver Software – Quick Download Guide for Easy Setup and Use</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Poco C65? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-through-gadgets-and-pc-parts-with-toms-hardware-experts/"><u>Navigating Through Gadgets & PC Parts with Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/overcome-csr8510-a10-graphics-card-drivers-challenges-in-windows-step-by-step-fixes/"><u>Overcome CSR8510 A10 Graphics Card Drivers Challenges in Windows: Step-by-Step Fixes</u></a></li>
-<li><a href="https://facebook.techidaily.com/silicon-valleys-reality-check-americas-new-tech-laws/"><u>Silicon Valley's Reality Check: America's New Tech Laws</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unlock-the-secrets-to-stunning-and-shareable-tiktok-videos/"><u>Unlock the Secrets to Stunning and Shareable TikTok Videos</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-powerdirector-color-grading-tips-for-seamless-clip-integration/"><u>Updated PowerDirector Color Grading Tips for Seamless Clip Integration</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-elevate-your-cinematic-voice-with-these-top-text-strategies/"><u>[New] 2024 Approved Elevate Your Cinematic Voice with These Top Text Strategies</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-from-iphone-images-jpeg-png-guided-conversion-to-pdfs/"><u>[New] 2024 Approved From iPhone Images (JPEG, PNG) - Guided Conversion to PDFs</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-ideal-websites-for-painless-jpeg-to-gif-changeover/"><u>[New] In 2024, Ideal Websites for Painless JPEG to GIF Changeover</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-implementing-soft-decline-in-logic-pro-audio/"><u>[New] In 2024, Implementing Soft Decline in Logic Pro Audio</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-iconic-acting-snapshot-review/"><u>[Updated] Iconic Acting Snapshot Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-download-guide-to-installing-intel-iris-graphics-software-on-win10-or-win11/"><u>Easy Download Guide to Installing Intel Iris Graphics Software on Win10 or Win11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-advice-on-clearing-out-memory-dump-files-in-windows-10-operating-system/"><u>Expert Advice on Clearing Out Memory Dump Files in Windows 10 Operating System</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/free-techniques-for-turning-youtube-watching-into-a-screenshot-for-2024/"><u>Free Techniques for Turning YouTube Watching Into a Screenshot for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-amd-rx-amodriver-software-compatible-with-all-windows-versions/"><u>Get the Newest AMD RX amoDriver Software: Compatible with All Windows Versions</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-resolve-oppo-a58-4g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Oppo A58 4G Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-epson-v60-scan-now-fresh-drivers-available/"><u>Install Epson V60# Scan-Now! - Fresh Drivers Available</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722968690413-mrs-provides-metabolic-profiles-that-help-differentiate-between-types-of-brain-lesions-including-tumors-and-neurodegenerative-diseases/"><u>MRS Provides Metabolic Profiles that Help Differentiate Between Types of Brain Lesions, Including Tumors and Neurodegenerative Diseases</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/overcoming-asus-pce-ac56-driver-conflicts-on-windows-1187-your-ultimate-fix/"><u>Overcoming ASUS PCE-AC56 Driver Conflicts on Windows 11/8/7 – Your Ultimate Fix</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-minimum-width-of-scaffold-platforms-should-be-at-least-18-inches-as-per-osha-standards/"><u>The Minimum Width of Scaffold Platforms Should Be at Least 18 Inches as per OSHA Standards.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/there-must-be-no-clear-right-choice-in-the-situation/"><u>There Must Be No Clear Right Choice in the Situation</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-samsung-galaxy-s23-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Samsung Galaxy S23 Device</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Downloading & Installing HP's LaserJet Pro M402n Driver on Windows Systems
-date: 2024-08-13T13:01:02.653Z
-updated: 2024-08-14T13:01:02.653Z
+date: 2025-01-04T10:05:15.722Z
+updated: 2025-01-11T01:09:49.627Z
 tags:
   - win11
   - win10
@@ -28,8 +28,9 @@ thumbnail: https://thmb.techidaily.com/c79523d5da758dd05891e015a6284b16ba6ad6e3e
 [**Method 2 – Automatically:**](https://tools.techidaily.com/drivereasy/download/) This option is **much quicker and easier** . **All**   you need to do is **just a couple of mouse clicks** !
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 1: Download and update the drivers for your Lenovo X1 Carbon manually
 
  You can download the updated driver files from the official website of Lenovo. Then install them on your X1 Carbon on your own. Here is how to do it:
@@ -39,31 +40,36 @@ thumbnail: https://thmb.techidaily.com/c79523d5da758dd05891e015a6284b16ba6ad6e3e
 1. Click[**here**](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2F) to visit the official website of Lenovo.
 2. On the top of the website, move your mouse cursor to**PC & TABLETS** . Then click**Support** . You’ll be redirected to the support page of Lenovo PC and Tablets.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap668.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 3. In the search bar, type**X1 Carbon** . Then locate**your generation** of X1 Carbon in the list of search results and click **Downloads** under it. Then you’ll be redirected to the drivers download page of your generation of X1 Carbon.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap669.png)
+
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap669.png)
 4. Click **Operating systems**  to select the OS you’re currently using. Click **Expand Details**  to view the details of each device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap670.png)
 5. Click **the downward triangle**  to view the details of that driver. Then you can click **the download button**  to download that driver. If you want to download multiple drivers, you can also click **the plus button**  to add it to your downloads list first.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap671.png)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 6. Click **My downloads list**  to view all the drivers you want to download.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap672.png)
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. Click **the Download button**  . Then follow the on-screen instruction to download these driver files.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap673.png)
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap673.png)
 8. After all the driver files are downloaded on your X1 Carbon, double-click the driver files one by one and follow the on-screen instructions to install the updated driver files on your X1 Carbon.
 
 ### Method 2: Download and update the drivers for your Lenovo X1 Carbon automatically
@@ -92,8 +98,6 @@ thumbnail: https://thmb.techidaily.com/c79523d5da758dd05891e015a6284b16ba6ad6e3e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -101,4 +105,26 @@ thumbnail: https://thmb.techidaily.com/c79523d5da758dd05891e015a6284b16ba6ad6e3e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-how-to-schedule-meetings-on-zoom/"><u>[Updated] 2024 Approved How to Schedule Meetings on Zoom?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-essential-breakdown-for-wm6-setup/"><u>[Updated] Essential Breakdown for WM6 Setup</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/300-savings-alert-find-the-high-performance-asus-vivobook-pro-now-for-less-only-on-amazon-zdnets-hot-sale/"><u>$300 Savings Alert: Find the High-Performance Asus VivoBook Pro Now for Less Only on Amazon - ZDNET's Hot Sale!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-audience-friendly-guide-to-dji-inspire-2/"><u>2024 Approved Audience-Friendly Guide to DJI Inspire 2</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-open-source-and-freemium-ai-platforms-like-sora-from-openai-top-picks/"><u>Best Open Source and Freemium AI Platforms Like Sora From OpenAI - Top Picks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-most-unbeatable-cyber-monday-discounts-for-202-expert-picks/"><u>Discover the Most Unbeatable Cyber Monday Discounts for 202#: Expert Picks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-bargains-on-amazons-prime-day-2024-top-offers-for-october-still-waiting-for-you-techbargainhub/"><u>Exclusive Bargains on Amazon's Prime Day 2024 - Top Offers for October Still Waiting for You! | TechBargainHub</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-september-bonanza-offering-top-gaming-bargains-final-call-snap-up-savings-of-1kplus-with-limited-time-deals-on-zdnet/"><u>Exclusive September Bonanza Offering Top Gaming Bargains - Final Call! Snap Up Savings of $1K+ with Limited Time Deals on ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/huge-game-sale-alert-prime-day-2nd-opportunities-for-oct-2024-bargains-save-big-with-zdnet/"><u>Huge Game Sale Alert: Prime Day 2^Nd Opportunities for Oct. 2024 Bargains, Save Big with ZDNET</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-constructing-an-engaging-tiktok-aftermath/"><u>In 2024, Constructing an Engaging TikTok Aftermath</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-enhancing-televised-experiences-with-fb-live-techniques/"><u>In 2024, Enhancing Televised Experiences with FB Live Techniques</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/inside-lenovos-revolutionary-transparent-laptop-a-hands-on-review-from-mobile-world-congress/"><u>Inside Lenovo's Revolutionary Transparent Laptop: A Hands-On Review From Mobile World Congress</u></a></li>
+<li><a href="https://discover-best.techidaily.com/real-time-broadcasting-discover-manycam-top-live-streaming-app-with-built-in-virtual-camera/"><u>Real-Time Broadcasting: Discover ManyCam - Top Live Streaming App with Built-In Virtual Camera</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revolutionary-2-in-1-product-test-reveals-hidden-office-treasure-exclusive-zdnet-insight/"><u>Revolutionary 2-in-1 Product Test Reveals Hidden Office Treasure - Exclusive ZDNET Insight</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-list-of-livestream-streaming-strategies/"><u>The Ultimate List of Livestream Streaming Strategies</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-18-unbeatable-prime-day-blowout-prices-on-leading-brands-like-hp-apple-and-razer-shop-now/"><u>Top 18 Unbeatable Prime Day Blowout Prices on Leading Brands Like HP, Apple & Razer - Shop Now</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722898005014-top-5-must-watch-uk-series-streaming-on-netflix-today/"><u>Top 5 Must-Watch UK Series Streaming on Netflix Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-security-keys-industry-experts-choices-reviewed-on-zdnet/"><u>Top-Rated Security Keys : Industry Experts' Choices Reviewed on ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/vlcts-tips-for-seamlessly-combining-ts-files-in-vlc/"><u>シームレスな経験:VLCでTSファイルを効果的に結合するコツ - Tips for Seamlessly Combining TS Files in VLC</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unbreakable Durability Tested: Dropping a Hefty Laptop From Waist Level - A Surprising ZDNet Review"
-date: 2025-01-03T16:06:07.483Z
-updated: 2025-01-04T16:48:46.139Z
+date: 2025-01-07T07:10:47.395Z
+updated: 2025-01-11T02:38:07.301Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -128,7 +128,7 @@ Kyle Kucharski/ZDNET
 In the end, both are solid choices, but the battery life on the unit with the Snapdragon is impossible to ignore. That, and the fact that this is a forward-looking device with AI functionality.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -167,24 +167,21 @@ I'd recommend this laptop to freelancers, remote and hybrid workers, and anyone 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-expert-tips-for-youtube-short-pitfall-prevention-for-2024/"><u>[Updated] Expert Tips for YouTube Short Pitfall Prevention for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-harmonious-hub-swapping-your-soundtrack-selection/"><u>[Updated] In 2024, Harmonious Hub Swapping Your Soundtrack Selection</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-crafting-compelling-and-credible-documentary-scripts/"><u>[Updated] The Ultimate Guide to Crafting Compelling and Credible Documentary Scripts</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-stream-to-instagram-effortless-broadcast-via-obs-software/"><u>2024 Approved Stream to Instagram Effortless Broadcast via OBS Software</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/affordable-laptop-revives-forgotten-tech-jargon-popular-in-past-years-insights/"><u>Affordable Laptop Revives Forgotten Tech Jargon Popular in Past Years - Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/elite-laptop-lineup-for-2amo-thoroughly-analyzed-and-critiqued-by-specialists/"><u>Elite Laptop Lineup for 2Amo: Thoroughly Analyzed & Critiqued by Specialists</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exceptional-display-and-versatility-combined-in-top-tested-laptop-featured-on-zdnet/"><u>Exceptional Display & Versatility Combined in Top-Tested Laptop Featured on ZDNet</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-vivo-y17s-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Vivo Y17s? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Oppo Reno 11 5G? | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-review-of-motorolas-moto-g-featuring-a-stylus-outstanding-performance-satisfactory-battery-longevity/"><u>In-Depth Review of Motorola's Moto G Featuring a Stylus: Outstanding Performance, Satisfactory Battery Longevity</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/is-it-time-to-upgrade-from-an-older-ipad-model/"><u>Is It Time to Upgrade From an Older iPad Model?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/is-the-era-of-dual-screen-laptops-upon-us-with-lenovos-yoga-book-9i-innovation-insights-from-tech-experts/"><u>Is the Era of Dual-Screen Laptops Upon Us with Lenovo's Yoga Book 9I Innovation? Insights From Tech Experts</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/premier-picks-for-your-next-linux-laptop-in-depth-analysis-and-ratings-zdnet/"><u>Premier Picks for Your Next Linux Laptop : In-Depth Analysis and Ratings | ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/reviews-and-recommendations-discover-how-this-super-light-laptop-is-transforming-the-world-of-remote-workers-zdnet-insights/"><u>Reviews & Recommendations: Discover How This Super-Light Laptop Is Transforming the World of Remote Workers | ZDNET Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/struggling-with-a-sleep-deprived-macbook-and-draining-battery-optimize-performance-using-this-powerful-utility/"><u>Struggling with a Sleep-Deprived MacBook and Draining Battery? Optimize Performance Using This Powerful Utility!</u></a></li>
-<li><a href="https://fox-http.techidaily.com/the-insiders-guide-to-leveraging-spotify-ads-effectively-for-2024/"><u>The Insider's Guide to Leveraging Spotify Ads Effectively for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-35-unbeatable-cyber-monday-bargains-on-dell-products-from-retailers-like-best-buy-amazon-and-newegg/"><u>Top 35 Unbeatable Cyber Monday Bargains on Dell Products From Retailers Like Best Buy, Amazon & Newegg</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-5-must-have-gps-applications-for-your-iphone/"><u>Top 5 Must-Have GPS Applications for Your iPhone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unlocking-portability-and-performance-the-mini-chromebook-that-excels-in-flexibility-insights-from-zdnet/"><u>Unlocking Portability and Performance: The Mini Chromebook That Excels in Flexibility - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-browse-and-download-top-free-extractors-for-your-pinterest-content/"><u>[New] Browse & Download Top Free Extractors for Your Pinterest Content</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-cutting-edge-techniques-for-private-yt-content-dissemination-in-gmail-for-2024/"><u>[New] Cutting-Edge Techniques for Private YT Content Dissemination in Gmail for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-diy-guide-to-custom-instagram-tones-for-2024/"><u>[New] DIY Guide to Custom Instagram Tones for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-mavic-air-ushers-in-new-era-confronting-dji-sparks-legacy/"><u>[New] Mavic Air Ushers in New Era, Confronting DJI Spark’s Legacy</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-elevate-photoshoots-select-your-ideal-background-viewer/"><u>[Updated] 2024 Approved Elevate Photoshoots Select Your Ideal Background Viewer</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-eager-ears-entertainment-where-to-download-laughable-rings-for-2024/"><u>[Updated] Eager-Ears Entertainment Where to Download Laughable Rings for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-essential-review-of-mp4-capture-tools-for-2024/"><u>[Updated] Essential Review of MP4 Capture Tools for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-latest-epson-xp-420-printer-driver-installation-and-updates-guide/"><u>Download the Latest Epson XP-420 Printer Driver: Installation and Updates Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-intel-uhd-graphics-software-for-windows-11-systems/"><u>Get the Newest Intel UHD Graphics Software for Windows 11 Systems</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-introduction-to-soft-starting-sounds-in-audition/"><u>In 2024, Introduction to Soft-Starting Sounds in Audition</u></a></li>
+<li><a href="https://fox-where.techidaily.com/masterful-creation-of-ssrs-reports-using-optimized-resource-settings-interface/"><u>Masterful Creation of SSRS Reports Using Optimized Resource Settings Interface</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722958535246-qualcomm-atheros-ar938x-chipset-free-drivers-downloaded-with-simple-steps/"><u>Qualcomm Atheros AR938X Chipset: Free Drivers Downloaded with Simple Steps!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-installation-of-microsoft-ergo-keyboard-easily-driver-downloads-available-now/"><u>Quick Installation of Microsoft Ergo Keyboard Easily - Driver Downloads Available Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-method-to-overcome-lenovo-hardware-interface-driver-issues/"><u>Seamless Method to Overcome Lenovo Hardware Interface Driver Issues</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-fresh-driver-downloads-and-updates-for-hp-officejet-ex-product-4655/"><u>The Ultimate Guide: Fresh Driver Downloads & Updates for HP OfficeJet eX (Product 4655)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unleash-your-wacom-intuos-potential-secure-reliable-drivers-on-windows-for-a-fully-operational-drawing-experience/"><u>Unleash Your Wacom Intuos Potential: Secure Reliable Drivers on Windows for a Fully-Operational Drawing Experience</u></a></li>
 </ul></div>
 

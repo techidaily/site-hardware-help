@@ -1,7 +1,7 @@
 ---
 title: "AMD Ryzen 9 Series Showdown: In-Depth Benchmarking with Purported 9900X, 9700X & 9600X Scores on Cinebench"
-date: 2024-08-13T13:00:29.703Z
-updated: 2024-08-14T13:00:29.703Z
+date: 2025-01-07T05:49:26.219Z
+updated: 2025-01-11T04:03:26.731Z
 tags:
   - cpu
 categories:
@@ -48,9 +48,9 @@ The AMD Ryzen 9000-series chips are slated to launch on July 31; but more than a
  With just 10 days to go before the official launch of the Ryzen 9000 desktop chips, it’s plausible that some retailers already have them in stock. However, we’re unsure of what to make of these Ryzen 9000 listings. PC21.fr seems to be a legitimate PC parts retailer and we could add the processor into our cart. But the 24-to-48-hour shipping time might sound unrealistic, especially as the chips haven’t officially launched yet. These listings might even be breaking a couple of NDAs with AMD and could lead to headaches for buyers if this was a listing mistake. So, we suggest holding off on buying these processors until after the official launch and MSRPs are known.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -59,14 +59,11 @@ The AMD Ryzen 9000-series chips are slated to launch on July 31; but more than a
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -75,4 +72,23 @@ The AMD Ryzen 9000-series chips are slated to launch on July 31; but more than a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-essential-tips-for-free-youtube-video-transcriptions/"><u>[New] In 2024, Essential Tips for FREE YouTube Video Transcriptions</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-ultimate-9-hidden-media-extractors/"><u>[Updated] 2024 Approved Ultimate 9 Hidden Media Extractors</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-affordable-sturdy-backpacks-and-bags-for-gamers-on-the-move/"><u>2024 Approved Affordable, Sturdy Backpacks & Bags for Gamers on the Move</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-the-ultimate-guide-to-inshot-on-pcs-and-laptops/"><u>2024 Approved The Ultimate Guide to Inshot on PCs and Laptops</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amazon-prime-day-oct-event-get-the-apple-m2-macbook-air-for-749-insider-info-and-bargains-from-zdnets-latest-report/"><u>Amazon Prime Day Oct Event: Get the Apple M2 MacBook Air for $749 - Insider Info & Bargains From ZDNET’s Latest Report</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209891664-9781250270702-astrology-for-life/"><u>Astrology for Life | Free Book</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/delving-into-vimeo-your-ultimate-video-partner-for-2024/"><u>Delving Into Vimeo Your Ultimate Video Partner for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-review-lg-gram-pro-surpasses-macbook-air-in-battery-life-portability-and-speed-zdnet/"><u>Exclusive Review: LG Gram Pro Surpasses MacBook Air in Battery Life, Portability & Speed | ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/game-on-in-style-discover-the-ultimate-immersive-audio-experience-with-amazons-hot-deal-on-high-end-speakers-as-reviewed/"><u>Game On in Style: Discover the Ultimate Immersive Audio Experience with Amazon's Hot Deal on High-End Speakers, as Reviewed !</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-samsung-galaxy-a54-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Samsung Galaxy A54 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/overcoming-machine-learning-distortions-top-six-tips-for-clearer-results/"><u>Overcoming Machine Learning Distortions: Top Six Tips for Clearer Results</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/save-big-with-high-quality-macbook-charger-deals-for-less-than-70-on-amazon-insider-tips/"><u>Save Big with High-Quality MacBook Charger Deals for Less Than $70 on Amazon | Insider Tips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/still-alive-on-cyber-monday-snag-the-affordable-8-iphone-mount-now-tech-news/"><u>Still Alive on Cyber Monday! Snag the Affordable $8 iPhone Mount Now - Tech News</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-lenovo-computers-comprehensive-reviews-by-tech-experts/"><u>Top-Rated Lenovo Computers - Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-network-monitoring-solutions-of-2022-experts-choice-reviews-by-zdnet/"><u>Top-Rated Network Monitoring Solutions of 2022: Experts' Choice Reviews by ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-bargain-alert-shop-the-stunning-samsung-odyssey-neo-g8-at-best-buy-slash-to-a-steal-with-savings-of-550-for-amazon-prime-day-according-to-zdnet-e135/"><u>Unbeatable Bargain Alert! Shop the Stunning Samsung Odyssey Neo G8 at Best Buy – Slash to a Steal with Savings of $550 for Amazon Prime Day, According to ZDNET Experts!</u></a></li>
+</ul></div>
 

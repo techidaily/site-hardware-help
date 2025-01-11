@@ -1,7 +1,7 @@
 ---
 title: Top Rated Security Keys Featured by Industry Experts - ZDNet Review
-date: 2024-12-29T17:05:21.749Z
-updated: 2025-01-04T16:57:07.084Z
+date: 2025-01-04T21:16:20.165Z
+updated: 2025-01-11T03:41:49.547Z
 tags:
   - laptops
 categories:
@@ -45,7 +45,7 @@ Cons
 * Technical knowledge may be required
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Yubico YubiKey 5 NFC
@@ -77,15 +77,7 @@ Cons
 * No NFC so no support for iPhone and Android
 * Doesn't support macOS logins
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Thetis Fido U2F Security Key
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best security key for durability
 
@@ -114,15 +106,7 @@ Cons
 * Expensive
 * No NFC compatibility
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Yubico YubiKey 5 Nano
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best security key for travel
 
@@ -150,14 +134,10 @@ Pros
 Cons 
 * Only supports FIDO protocols
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Yubico Security Key C NFC
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best security key for businesses
@@ -189,6 +169,10 @@ Cons
 
 ## Kensington Verimark Fingerprint Key
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The best security key for biometrics
 
 The Kensington Verimark Fingerprint Key utilizes advanced biometric technology, offering excellent performance, 360-degree readability, and anti-spoofing protection.
@@ -215,7 +199,15 @@ Pros
 Cons 
 * No biometrics
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Google Titan security key
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The best multi-platform security key
 
@@ -261,6 +253,10 @@ However, investing in a higher-end brand may be wise if you already use security
 | Kensington Verimark Fingerprint Key | A simple USB-A security key with built-in biometrics. This key is discreet, compact, and user-friendly, although it has limited compatibility.                   |
 | Google Titan security key           | An affordable, multi-platform key suitable for Chrome-supporting services, Android, and iOS apps that can store up to 250 passkeys.                              |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Factors to consider when choosing a security key
 
 Security keys are an investment in time and money and so it is best to select the right one for you before you begin the process of connecting one to your online accounts. While you're deciding what security key is right for you, consider the following factors:
@@ -296,12 +292,16 @@ The FIDO Alliance consortium has developed open standards for authentication pro
 Devices that are FIDO certified allow users to quickly sign into their accounts using physical keys or biometric passkeys, and have also achieved FIDO protection and security standards. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why are security keys better than SMS-based 2FA?
 
 SMS is open to SIM hijacking, while a physical key cannot be copied or the data intercepted. Think about it this way: 2FA verification codes sent via SMS messaging may be intercepted if your smartphone has been infected with malware, including spyware, but unless an attacker has your physical security key in their hand, they cannot grab the code required to access your account.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How many security keys do I need?
 
@@ -311,13 +311,13 @@ We recommend purchasing at least two -- one that you use day-to-day and one to k
 
 Security keys are one of the best authentication methods on the market today and they have very little exploitable attack surface, making them difficult to 'hack' in any way. While there are cases of keys being cloned for academic purposes, as security keys are not constantly connected to the Internet, you don't have to worry about the most common attack vectors having any impact on them. Just keep your key in a safe place.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How do security keys prevent phishing?
 
 In layman's terms, security keys use encryption and security tokens that only work on genuine websites rather than fake phishing domains. Public and private keys work together to authenticate a user session, but the private key is held on the physical device, reducing the attack surface. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Are there alternative security keys worth considering?
 
@@ -367,21 +367,14 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-mastering-video-capture-on-your-laptop-with-screenrec/"><u>[New] 2024 Approved Mastering Video Capture on Your Laptop with ScreenRec</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-unveiling-top-2023-vr-engine-innovations/"><u>[New] In 2024, Unveiling Top 2023 VR Engine Innovations</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-chip-synchrony-the-new-era-of-fluid-video-editing-experience/"><u>[Updated] Chip Synchrony The New Era of Fluid Video Editing Experience</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-copyright-woes-instant-video-ban-for-2024/"><u>[Updated] Copyright Woes Instant Video Ban for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/accelerate-your-pc-speedy-driver-updates-for-dell-15-inch-g7-models-in-minutes/"><u>Accelerate Your PC: Speedy Driver Updates for Dell 15-Inch G7 Models in Minutes</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amazons-enduring-deal-alert-samsung-t5-8tb-ssd-steals-the-show-with-a-hefty-discount-post-prime-day-dive-into-details/"><u>Amazon's Enduring Deal Alert! Samsung T5 8TB SSD Steals the Show with a Hefty Discount Post-Prime Day - Dive Into Details</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/clarifying-concepts-distinguishing-between-nlp-and-machine-learning-principles/"><u>Clarifying Concepts: Distinguishing Between NLP and Machine Learning Principles</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/convert-m4r-ringtone-files-into-mp3-format-at-no-cost-with-online-converter/"><u>Convert .m4r Ringtone Files Into MP3 Format at No Cost with Online Converter</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-the-unique-12-port-thunderbolt-hub-with-innovative-charging-capability-exclusively-for-windows-a-comprehensive-review-techzn/"><u>Discover the Unique 12-Port Thunderbolt Hub with Innovative Charging Capability Exclusively for Windows: A Comprehensive Review | TechZN</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-value-and-performance-insights-from-an-expert-on-microsofts-affordable-surface-pro-11-a-comprehensive-review/"><u>Exploring Value and Performance: Insights From an Expert on Microsoft's Affordable Surface Pro 11 - A Comprehensive Review</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-beat-the-sickening-of-virtual-reality/"><u>In 2024, Beat the Sickening of Virtual Reality</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/itel-p40-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel P40 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/score-your-dream-deal-today-save-up-to-57-on-the-powerhouse-gaming-laptop-gigabyte-aero-eby-zdnet/"><u>Score Your Dream Deal Today: Save up to 57% on the Powerhouse Gaming Laptop, Gigabyte Aero Eby ZDNET</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-ultimate-gaming-savings-showdown-where-to-snag-prime-deals-this-october/"><u>The Ultimate Gaming Savings Showdown: Where to Snag Prime Deals This October!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-student-laptops-comprehensive-reviews-and-guides-insights-from-tech-experts/"><u>Top-Rated Student Laptops: Comprehensive Reviews & Guides - Insights From Tech Experts</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unbelievable-value-high-performance-m3-macbook-pro-for-under-10k-the-ultimate-tech-find-on-zdnet/"><u>Unbelievable Value: High-Performance M3 MacBook Pro for Under $10K - The Ultimate Tech Find on ZDNet</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-custom-logo-blueprints-draw-your-identity-from-free-formats-for-2024/"><u>[Updated] Custom Logo Blueprints Draw Your Identity From Free Formats for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-rx-580-driver-update-made-easy-your-pathway-to-faster-graphics-performance/"><u>AMD RX 580 Driver Update Made Easy – Your Pathway to Faster Graphics Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-way-to-update-your-logitech-c920-webcam-drivers-for-new-and-old-windows-versions/"><u>Easy Way to Update Your Logitech C920 Webcam Drivers for New and Old Windows Versions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Samsung Galaxy S24+? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-install-updated-drivers-for-your-canon-pixma-mg2522-printer/"><u>How to Install Updated Drivers for Your Canon PIXMA MG2522 Printer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-canon-dr-c225-printer-driver-software-download-and-compatibility-with-windows-11-10-and-n/"><u>Latest Canon DR-C225 Printer Driver Software: Download & Compatibility with Windows 11, 10, and N</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-10-tactics-to-skyrocket-your-presence-and-go-viral-on-instagram/"><u>Top 10 Tactics to Skyrocket Your Presence and Go Viral on Instagram</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-your-iphone-for-better-performance-with-network-resets/"><u>Troubleshoot Your iPhone for Better Performance with Network Resets</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/unlock-free-m-audio-pro-recording-tools-ultradriver-download-awaits/"><u>Unlock Free M-Audio Pro Recording Tools - UltraDriver Download Awaits</u></a></li>
 </ul></div>
 

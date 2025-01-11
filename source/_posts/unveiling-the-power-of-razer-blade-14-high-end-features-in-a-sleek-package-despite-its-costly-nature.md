@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Power of Razer Blade 14: High-End Features in a Sleek Package, Despite Its Costly Nature"
-date: 2024-08-19T10:46:58.478Z
-updated: 2024-08-20T10:46:58.478Z
+date: 2025-01-08T10:11:54.056Z
+updated: 2025-01-11T08:03:34.933Z
 tags:
   - laptop
 categories:
@@ -33,6 +33,10 @@ Artificial Intelligence (AI) is the tech term of the moment, and everyone in the
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Copilot+ PCs: Microsoft’s New Standard
 
  Since then,[Microsoft](https://tools.techidaily.com) has introduced its[Copilot+](https://tools.techidaily.com) PCs, with laptops from Asus, Dell, Acer, Samsung, HP, Lenovo, Samsung, and Microsoft's Surface brand. Those all use[Qualcomm's Snapdragon X Elite and Plus processors](https://tools.techidaily.com) at the moment, though Microsoft has said upcoming AMD Strix Point (aka Ryzen AI 300) and Intel Lunar Lake chips may also fit the bill. To be considered a Copilot+ PC, laptops need to have at least 16GB RAM, 256GB storage, and an on-board NPU that's capable of 40 TOPS (trillions of operations per second). The Qualcomm Snapdragon X Elite chips support 45 TOPS on the NPU.
@@ -42,6 +46,10 @@ Artificial Intelligence (AI) is the tech term of the moment, and everyone in the
  So, anyone who doesn’t buy a Snapdragon X-powered laptop will have to wait on those special Windows features, likely for many months. AMD recently confirmed that its[Ryzen AI 300 PCs won’t be getting the Copilot+](https://tools.techidaily.com) features when they launch later this year, but will eventually. Desktop users are left out of the cold until at least the launch of Intel Arrowlake in Q4\. And anyone with a current-gen laptop or desktop is probably left out permanently.
 
  Given the weak set of Copilot+ features, anyone who is actually paying attention probably isn’t that sad about having to miss them or wait for them. There are many other ways to get an offline (or online) AI image generator, to do real-time translation and to blur your webcam background. Recall is somewhat unique, but many people won’t want it, because of the privacy risks associated with taking constant screenshots of your work.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Intel and AMD define AI PC more Broadly
 
@@ -85,6 +93,10 @@ Artificial Intelligence (AI) is the tech term of the moment, and everyone in the
 
 ![AI PC](https://cdn.mos.cms.futurecdn.net/MkQCTwWhY8wPcsdu5CbJsi-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 (Image credit: Apple)
 
  Because Apple uses its silicon across all of its Macs, its desktops, like the iMac, Mac Studio, and Mac Pro also have NPU (or as Apple refers to them, Neural Engines). That means macOS will have AI-specific features on desktop running on NPUs before Windows.
@@ -116,8 +128,9 @@ Right now? "Need" is a strong word.
  No matter what type of PC you're using, you should still adhere to good security practices. Other humans are still outsmarting us there.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Bottom line
 
  Right now, the term “AI PC” is still somewhat vague. CPU vendors and Microsoft are using the term to sell you new computers (currently, new laptops only) that have powerful NPUs built into their processors. Most of the generative AI features people actually use today (chatbots, image generators) are free to use in the cloud, making them less than “must-haves” in their local form.
@@ -134,8 +147,6 @@ _**Correction, June 17, 3:44 p.m. ET:**_   _This article has been corrected to p
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,4 +154,24 @@ _**Correction, June 17, 3:44 p.m. ET:**_   _This article has been corrected to p
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-charting-new-territory-strategies-for-youtube-keyword-research/"><u>[Updated] 2024 Approved Charting New Territory Strategies for YouTube Keyword Research</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-saving-smiles-techniques-for-capturing-twitters-gifs/"><u>[Updated] 2024 Approved Saving Smiles Techniques for Capturing Twitter's GIFs</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/beautiful-wallpaper-collections-for-june-2019-premium-hd-designs-from-yl-softwares-virtual-vistas/"><u>Beautiful Wallpaper Collections for June 2019 - Premium HD Designs From YL Software's Virtual Vistas</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Motorola Moto E13? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-from-apple-iphone-6s-plus-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock From Apple iPhone 6s Plus Online</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/limited-time-grab-apples-m2-macbook-air-at-a-steal-of-749-during-amazons-october-prime-day-insider-deals/"><u>Limited Time: Grab Apple's M2 MacBook Air at a Steal of $749 During Amazon’s October Prime Day - Insider Deals!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/restore-your-connection-overcoming-fallout-groovy-76-server-dropouts-on-a-laptop-or-desktop/"><u>Restore Your Connection: Overcoming Fallout Groovy 76 Server Dropouts on a Laptop or Desktop</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/score-big-savings-on-premium-nvidia-gaming-notebooks-this-2024-prime-day-the-ultimate-guide/"><u>Score Big Savings on Premium Nvidia Gaming Notebooks This 2024 Prime Day – The Ultimate Guide !</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/securely-store-and-manage-your-btc-with-the-latest-proton-crypto-wallet-upgrade/"><u>Securely Store and Manage Your BTC with the Latest Proton Crypto Wallet Upgrade</u></a></li>
+<li><a href="https://techtrends.techidaily.com/should-i-upgrade-to-an-rtx-graphics-card/"><u>Should I Upgrade to an RTX Graphics Card?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-ranking-lenovo-laptops-in-2e24-comprehensive-expert-reviews-by-tech-experts-at-zdnet/"><u>Top-Ranking Lenovo Laptops in 2E24: Comprehensive Expert Reviews by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-digital-notebooks-thoroughly-evaluated-and-recommended-by-professionals-zdnet/"><u>Top-Rated Digital Notebooks: Thoroughly Evaluated & Recommended by Professionals | ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-security-keys-industry-experts-picks-techradar/"><u>Top-Rated Security Keys : Industry Experts' Picks | TechRadar</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-disabling-your-apple-music-subscription-without-using-itunes-tips/"><u>Ultimate Guide to Disabling Your Apple Music Subscription Without Using iTunes - Tips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-offer-slash-120-from-two-in-one-mobile-workstation-display-by-teamgee-exclusive-insights-and-reviews-on-zdnet/"><u>Unbeatable Offer: Slash $120 From Two-in-One Mobile Workstation Display by TeamGee - Exclusive Insights & Reviews on ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unleash-surprising-power-with-this-compact-affordable-8-in-1-adapter-a-zdnet-review/"><u>Unleash Surprising Power with This Compact, Affordable 8-in-1 Adapter - A ZDNet Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrading-your-laptops-memory-a-step-by-step-guide-to-installing-more-ram/"><u>Upgrading Your Laptop's Memory: A Step-by-Step Guide to Installing More RAM</u></a></li>
+</ul></div>
 

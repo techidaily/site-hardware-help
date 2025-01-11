@@ -1,7 +1,7 @@
 ---
 title: $710 Deal on Core I5-12450H AlienExchange - Swap Keyboard for Spectacular 16-Inch Dual Displays!
-date: 2024-08-19T10:47:06.193Z
-updated: 2024-08-20T10:47:06.193Z
+date: 2025-01-06T17:25:22.420Z
+updated: 2025-01-10T23:29:20.436Z
 tags:
   - laptop
 categories:
@@ -27,6 +27,10 @@ We cover many unique "because I felt like it" projects here at Tom's Hardware, b
 
  In more modern communications news,[Wi-Fi over three kilometers](https://tools.techidaily.com) was demonstrated with a real-time video call back in January. Windows[11 started adding support for Wi-Fi 7](https://tools.techidaily.com) back in February. All this progress means that most Wi-Fi routers in the world will be a free-for-all on the same few congested wireless channels unless configured properly. Some monsters and nerds out there still employ Morse code, a language with roots in the 1830s.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,8 +45,6 @@ We cover many unique "because I felt like it" projects here at Tom's Hardware, b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -50,9 +52,16 @@ We cover many unique "because I felt like it" projects here at Tom's Hardware, b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/wist-your-way-through-youtube-mastering-rotation-techniques/"><u>[New] Twist Your Way Through YouTube Mastering Rotation Techniques</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-elevate-your-episodes-masterful-lighting-setups-explained/"><u>2024 Approved Elevate Your Episodes Masterful Lighting Setups Explained</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/2024s-ultimate-guide-to-streaming-mic-selection-by-experts-zdnet/"><u>2024'S Ultimate Guide to Streaming Mic Selection by Experts - ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/exclusive-key-collectors-deal-wintry-windows-11-priced-at-612-per-year/"><u>Exclusive Key Collector's Deal - Wintry Windows 11 Priced at $6.12 Per Year</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/huge-savings-alert-get-your-lenovo-pro-laptops-for-up-to-50-less-before-october-prime-day-gadget-news-hub/"><u>Huge Savings Alert: Get Your Lenovo Pro Laptops for Up to 50% Less Before October Prime Day | Gadget News Hub</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-tecno-spark-go-2023-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Tecno Spark Go (2023) to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-who-leads-the-streaming-race-twitch-vs-youtube-showdown/"><u>In 2024, Who Leads the Streaming Race? Twitch vs YouTube Showdown</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-lenovos-stealthy-perks-from-trackpoint-mastery-to-undisclosed-capabilities-in-a-portable-laptop-cybergearnews/"><u>The Ultimate Guide to Lenovo's Stealthy Perks: From Trackpoint Mastery to Undisclosed Capabilities in a Portable Laptop | CyberGearNews</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrade-to-multi-tasking-made-easy-with-the-newly-supported-dual-monitors-for-m3-macbook-pro-just-as-with-macbook-air/"><u>Upgrade to Multi-Tasking Made Easy with the Newly Supported Dual Monitors for M3 MacBook Pro, Just as with MacBook Air!</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->

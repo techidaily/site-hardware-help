@@ -1,7 +1,7 @@
 ---
 title: Lenovo ThinkPad X1 Carbon (Gen 9+) Unboxed & Assessed – Surpassing All in Business Laptops?
-date: 2024-12-28T16:10:56.365Z
-updated: 2025-01-04T16:44:06.470Z
+date: 2025-01-09T17:24:44.201Z
+updated: 2025-01-10T23:57:19.986Z
 tags:
   - laptops
 categories:
@@ -46,7 +46,7 @@ Image: Charles McLellan / ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Design
@@ -70,7 +70,7 @@ For connections, you're limited to two USB-C (3.2 Gen 2) ports on the left side,
 You can access the innards of the ThinkPad X13s by removing six screws and prising off the bottom cover, although upgrade options are limited. We did poke around inside our first review unit, which arrived with no functioning Wi-Fi and no access to the webcam, to no avail. Our second review unit worked just fine. For all its thin-and-lightness, the ThinkPad X13s is [MIL-STD-810H](https://en.wikipedia.org/wiki/MIL-STD-810)\-tested and should cope with the rigours of a mobile professional's routine. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Features
@@ -84,7 +84,7 @@ There are three screen options, all IPS panels with WUXGA (1920 x 1200) resoluti
 As well as the biometric authentication methods noted earlier, the ThinkPad X13s includes internal security features such as a discrete TPM 2.0 chip, Microsoft's [Pluton TPM architecture](https://learn.microsoft.com/en-us/windows/security/information-protection/pluton/pluton-as-tpm) running on the Snapdragon 8cx Gen 3's SPU (Secure Processing Unit) and a self-healing BIOS. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Performance & battery life
@@ -116,7 +116,7 @@ Thermal camera images of the ThinkPad X13s under load.
 Images: Charles McLellan / ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Conclusions
@@ -170,7 +170,7 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -218,18 +218,20 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-discovering-and-developing-your-personalized-mukbang-style-for-2024/"><u>[New] Discovering and Developing Your Personalized Mukbang Style for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/cience-spheres-pinnacle-channels-top-15-yt-lists-for-2024/"><u>[New] Science Sphere's Pinnacle Channels Top 15 YT Lists for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-11-audiophiles-choice-for-sound-capture/"><u>[Updated] 11 Audiophile's Choice for Sound Capture</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-from-individual-songs-to-a-cohesive-collection-building-your-youtube-playlist/"><u>[Updated] From Individual Songs to a Cohesive Collection Building Your YouTube Playlist</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-asus-rog-phone-7-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Asus ROG Phone 7 Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/decoding-microsofts-new-releases-a-detailed-insight-into-octobers-surface-event-as-reported-by-zdnet/"><u>Decoding Microsoft’s New Releases: A Detailed Insight Into October’s Surface Event as Reported by ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-the-hidden-gem-in-your-asus-laptop-that-youre-not-using-enough-according-to-zdnet/"><u>Discover the Hidden Gem in Your Asus Laptop That You're Not Using Enough, According to ZDNET</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exclusive-review-testing-all-latest-artificial-intelligence-enhancements-in-copilotplus-for-desktops-are-they-worth-the-buzz/"><u>Exclusive Review: Testing All Latest Artificial Intelligence Enhancements in Copilot+ for Desktops - Are They Worth the Buzz?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/experience-cutting-edge-ai-capabilities-on-new-devices-discover-the-features-of-microsofts-surface-pro-10-and-laptop-6-zdnet/"><u>Experience Cutting-Edge AI Capabilities on New Devices - Discover the Features of Microsoft's Surface Pro 10 and Laptop 6 | ZDNET</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-honor-100-pro-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Honor 100 Pro</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-3d-text-in-adobe-photoshop/"><u>In 2024, Mastering 3D Text in Adobe Photoshop</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/samsung-copilotplus-reviewed-why-it-deserves-your-attention-as-the-premier-deal-for-windows-enthusiasts-zdnet-insights/"><u>Samsung Copilot+ Reviewed: Why It Deserves Your Attention as the Premier Deal for Windows Enthusiasts | ZDNET Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/transform-your-productivity-with-lenovos-innovative-ai-enhanced-thinkpads-what-business-users-need-to-know-zdnet-exclusive-report/"><u>Transform Your Productivity with Lenovo's Innovative AI-Enhanced ThinkPads – What Business Users Need to Know | ZDNET Exclusive Report</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-battle-for-yggdrasil-ragnarok-begins/"><u>[New] In 2024, Battle for Yggdrasil Ragnarok Begins</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-deciding-the-right-direction-fb-video-posts/"><u>[Updated] 2024 Approved Deciding the Right Direction FB Video Posts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-discovering-the-prime-stardew-modifications-for-perfection/"><u>[Updated] Discovering the Prime Stardew Modifications for Perfection</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/bcm20702a0-driver-setup-and-download-for-windows-a-hassle-free-experience/"><u>BCM20702A0 Driver Setup and Download for Windows - A Hassle-Free Experience</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-tecno-spark-10-4g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Tecno Spark 10 4G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-compatible-samsung-printer-drivers-for-windows-step-by-step-instructions/"><u>Download Compatible Samsung Printer Drivers for Windows - Step by Step Instructions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-x230-lenovo-system-drivers-fast-and-simple/"><u>Download X230 Lenovo System Drivers - Fast & Simple</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722962965398-expert-guide-smooth-installation-of-latest-epson-drivers-on-windows-systems/"><u>Expert Guide: Smooth Installation of Latest Epson Drivers on Windows Systems.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-logitech-g203-drivers-a-guide-for-windows-users-versions-7-10-and-11/"><u>Installing Logitech G203 Drivers: A Guide for Windows Users (Versions 7, 10, and 11)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722957397805-mitigation-strategies-include-adjusting-ground-clamp-position-turning-off-interfering-components-and-modifying-welding-technique/"><u>Mitigation Strategies Include Adjusting Ground Clamp Position, Turning Off Interfering Components, and Modifying Welding Technique.</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-free-and-premium-glitch-video-editors-a-comprehensive-review/"><u>New 2024 Approved Free and Premium Glitch Video Editors A Comprehensive Review</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-itel-p55-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/windows-7-sound-driver-download-latest-updates-and-downloads/"><u>Windows 7 Sound Driver Download – Latest Updates & Downloads</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/windows-data-detective-restore-operations/"><u>Windows Data Detective - Restore Operations</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/windows-media-player-compatible-mkv-decoder-tool-for-free-download-ultimate-guide/"><u>Windows Media Player Compatible MKV Decoder Tool for Free Download: Ultimate Guide</u></a></li>
 </ul></div>
 

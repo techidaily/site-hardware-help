@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Highlights From Apple's October Showcase: Discover the New M4 Mac Mini, Latest iPads, Enhanced Siri & Beyond | ZDNet"
-date: 2024-11-28T23:35:38.836Z
-updated: 2024-12-05T04:34:48.269Z
+date: 2025-01-06T06:44:15.768Z
+updated: 2025-01-11T03:38:48.438Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,24 +118,18 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-instagram-story-viewers-uncharted-territory-explored/"><u>[New] 2024 Approved Instagram Story Viewers Uncharted Territory Explored</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-creating-impactful-youtube-conclusion-for-2024/"><u>[New] Creating Impactful YouTube Conclusion for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-the-art-of-youtube-channels-crafting-brands-that-attract-viewers/"><u>[Updated] 2024 Approved The Art of YouTube Channels Crafting Brands That Attract Viewers</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-ultimate-free-drawing-tools-top-mac-apps-listed/"><u>[Updated] Ultimate Free Drawing Tools Top Mac Apps Listed</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-mastering-alias-update-on-google-meet-devices/"><u>In 2024, Mastering Alias Update on Google Meet Devices</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-itel-p55plus-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Itel P55+ Screen | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-there-a-preset-character-or-word-quota-for-replies-generated-by-chatgpt/"><u>Is There a Preset Character or Word Quota for Replies Generated by ChatGPT?</u></a></li>
-<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Realme GT Neo 5 SE | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-non-functional-issues-with-your-macbook-pro-keyboard-a-step-by-step-guide/"><u>Solving Non-Functional Issues with Your MacBook Pro Keyboard: A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/stop-your-smartphone-from-dominating-top-4-methods-to-overcome-digital-distractions/"><u>Stop Your Smartphone From Dominating: Top 4 Methods to Overcome Digital Distractions</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/streaming-and-screenshotting-like-a-pro-essential-mac-techniques/"><u>Streaming and Screenshotting Like a Pro Essential Mac Techniques</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/struggling-to-locate-your-essential-mobile-app-in-a-pinch-discover-our-ultimate-solution/"><u>Struggling to Locate Your Essential Mobile App in a Pinch? Discover Our Ultimate Solution!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/switching-between-dark-and-light-themes-guide-to-changing-wallpaper-on-android-devices/"><u>Switching Between Dark & Light Themes: Guide to Changing Wallpaper on Android Devices</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-showdown-of-slates-assessing-quality-and-capabilities-between-android-tablets-and-ipads/"><u>The Showdown of Slates: Assessing Quality and Capabilities Between Android Tablets and iPads</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-stunning-design-of-samsungs-latest-galaxy-tab-s9-line-beauty-meets-a-steep-price-tag/"><u>The Stunning Design of Samsung's Latest Galaxy Tab S9 Line: Beauty Meets a Steep Price Tag</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/thorough-assessment-of-the-google-pixel-tablet-a-solid-contender-against-the-ipad/"><u>Thorough Assessment of the Google Pixel Tablet - A Solid Contender Against the iPad</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-10-useful-settings-found-in-android-dev-mode-a-comprehensive-guide/"><u>Top 10 Useful Settings Found in Android Dev Mode: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-5-galaxy-phone-characteristics-the-pixel-series-must-emulate/"><u>Top 5 Galaxy Phone Characteristics the Pixel Series Must Emulate</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-8-insights-gained-from-transforming-smartphone-into-a-laptop-alternative/"><u>Top 8 Insights Gained From Transforming Smartphone Into a Laptop Alternative</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-years-ultimate-yt-story-creators-list/"><u>[Updated] 2024 Approved Year's Ultimate YT Story Creators List</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-raw-to-ready-a-comprehensive-instruction-manual-for-picture-posting-on-youtube/"><u>[Updated] From Raw to Ready A Comprehensive Instruction Manual for Picture Posting on YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-tech-savvy-apps-for-artful-picture-presentation/"><u>2024 Approved Top Tech-Savvy Apps for Artful Picture Presentation</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722970790934-asus-maximus-x-hero-driver-maintenance-made-simple-and-swift-update-procedures-inside/"><u>ASUS Maximus X Hero Driver Maintenance Made Simple and Swift – Update Procedures Inside!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-guide-microsoft-drivers-downloading-and-updating-for-windows-11-8-and-7/"><u>Easy Guide: Microsoft Drivers Downloading & Updating for Windows 11, 8 & 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-method-to-install-new-asus-touchpad-drivers-for-laptops-running-windows-11/"><u>Easy Method to Install New ASUS Touchpad Drivers for Laptops Running Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/efficiently-uninstalling-programs-on-a-kindle-fire-a-comprehensive-tutorial/"><u>Efficiently Uninstalling Programs on a Kindle Fire - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-resolving-technical-hiccups-in-your-tiktok-experience/"><u>Expert Advice: Resolving Technical Hiccups in Your TikTok Experience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-hp-p1007-drivers-easy-installation-guide/"><u>Get the Newest HP P1007 Drivers - Easy Installation Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/guide-on-how-to-remove-apple-id-from-apple-iphone-13-mini-by-drfone-ios/"><u>Guide on How To Remove Apple ID From Apple iPhone 13 mini</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-restoring-macos-sierra-to-os-x-10101-environment/"><u>In 2024, Restoring MacOS Sierra to OS X 10.10.1 Environment</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/solutions-to-overcome-windows-related-problems-for-intels-integrated-graphics-card-hd-graphics-630-edition/"><u>Solutions to Overcome Windows-Related Problems for Intel's Integrated Graphics Card - HD Graphics 630 Edition</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-unlocking-the-best-free-tools-for-high-quality-podcast-recording-in-todays-market/"><u>Updated 2024 Approved Unlocking the Best Free Tools for High-Quality Podcast Recording in Todays Market</u></a></li>
 </ul></div>
 

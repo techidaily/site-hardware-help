@@ -1,7 +1,7 @@
 ---
 title: Is a Machine with Minds Essential for Digital Enthusiasts? Unveiling the Reality
-date: 2024-08-19T10:47:00.777Z
-updated: 2024-08-20T10:47:00.777Z
+date: 2025-01-05T07:03:00.571Z
+updated: 2025-01-11T08:31:36.930Z
 tags:
   - laptop
 categories:
@@ -33,6 +33,10 @@ Artificial Intelligence (AI) is the tech term of the moment, and everyone in the
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Copilot+ PCs: Microsoft’s New Standard
 
  Since then,[Microsoft](https://tools.techidaily.com) has introduced its[Copilot+](https://tools.techidaily.com) PCs, with laptops from Asus, Dell, Acer, Samsung, HP, Lenovo, Samsung, and Microsoft's Surface brand. Those all use[Qualcomm's Snapdragon X Elite and Plus processors](https://tools.techidaily.com) at the moment, though Microsoft has said upcoming AMD Strix Point (aka Ryzen AI 300) and Intel Lunar Lake chips may also fit the bill. To be considered a Copilot+ PC, laptops need to have at least 16GB RAM, 256GB storage, and an on-board NPU that's capable of 40 TOPS (trillions of operations per second). The Qualcomm Snapdragon X Elite chips support 45 TOPS on the NPU.
@@ -42,6 +46,10 @@ Artificial Intelligence (AI) is the tech term of the moment, and everyone in the
  So, anyone who doesn’t buy a Snapdragon X-powered laptop will have to wait on those special Windows features, likely for many months. AMD recently confirmed that its[Ryzen AI 300 PCs won’t be getting the Copilot+](https://tools.techidaily.com) features when they launch later this year, but will eventually. Desktop users are left out of the cold until at least the launch of Intel Arrowlake in Q4\. And anyone with a current-gen laptop or desktop is probably left out permanently.
 
  Given the weak set of Copilot+ features, anyone who is actually paying attention probably isn’t that sad about having to miss them or wait for them. There are many other ways to get an offline (or online) AI image generator, to do real-time translation and to blur your webcam background. Recall is somewhat unique, but many people won’t want it, because of the privacy risks associated with taking constant screenshots of your work.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Intel and AMD define AI PC more Broadly
 
@@ -85,6 +93,10 @@ Artificial Intelligence (AI) is the tech term of the moment, and everyone in the
 
 ![AI PC](https://cdn.mos.cms.futurecdn.net/MkQCTwWhY8wPcsdu5CbJsi-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 (Image credit: Apple)
 
  Because Apple uses its silicon across all of its Macs, its desktops, like the iMac, Mac Studio, and Mac Pro also have NPU (or as Apple refers to them, Neural Engines). That means macOS will have AI-specific features on desktop running on NPUs before Windows.
@@ -116,8 +128,9 @@ Right now? "Need" is a strong word.
  No matter what type of PC you're using, you should still adhere to good security practices. Other humans are still outsmarting us there.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Bottom line
 
  Right now, the term “AI PC” is still somewhat vague. CPU vendors and Microsoft are using the term to sell you new computers (currently, new laptops only) that have powerful NPUs built into their processors. Most of the generative AI features people actually use today (chatbots, image generators) are free to use in the cloud, making them less than “must-haves” in their local form.
@@ -134,8 +147,6 @@ _**Correction, June 17, 3:44 p.m. ET:**_   _This article has been corrected to p
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,4 +154,16 @@ _**Correction, June 17, 3:44 p.m. ET:**_   _This article has been corrected to p
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-mastering-soundscapes-expert-insights-on-audio-post-production-in-garageband/"><u>[Updated] 2024 Approved Mastering Soundscapes Expert Insights on Audio Post-Production in GarageBand</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-expertise-in-making-screen-captures-on-ios-easier/"><u>2024 Approved Expertise in Making Screen Captures on iOS Easier</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discount-alert-samsungs-4tb-portable-ssd-t5-now-available-on-amazon-with-a-nearly-50-price-cut-read-more/"><u>Discount Alert: Samsung's 4TB Portable SSD T5 Now Available on Amazon with a Nearly 50% Price Cut – Read More</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exceptional-display-and-adaptability-why-this-laptop-surpassed-all-others-in-our-tests/"><u>Exceptional Display and Adaptability: Why This Laptop Surpassed All Others in Our Tests</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-top-tier-lenovo-laptops-unveiled-at-mwc-the-ultimate-review-and-ranking-zdnet/"><u>Exploring Top-Tier Lenovo Laptops Unveiled at MWC: The Ultimate Review & Ranking - ZDNet</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-discovering-youtubes-green-magic-for-effective-filming/"><u>In 2024, Discovering Youtube's Green Magic for Effective Filming</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-equipment-with-toms-hardware-guide/"><u>Mastering Equipment with Tom's Hardware Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-issues-disco-elysium-no-longer-crashing-on-windowsmaclinux-platforms/"><u>Solved Issues: Disco Elysium No Longer Crashing on Windows/Mac/Linux Platforms</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlock-productivity-with-the-best-deals-on-lenovo-laptops-tailored-for-hybrid-workers-save-an-extra-1000-today/"><u>Unlock Productivity with the Best Deals on Lenovo Laptops Tailored for Hybrid Workers – Save an Extra $1,000 Today!</u></a></li>
+</ul></div>
 

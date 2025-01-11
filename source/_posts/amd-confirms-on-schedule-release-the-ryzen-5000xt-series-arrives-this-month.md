@@ -1,7 +1,7 @@
 ---
 title: "AMD Confirms On-Schedule Release: The Ryzen 5000XT Series Arrives This Month"
-date: 2024-08-13T13:00:41.968Z
-updated: 2024-08-14T13:00:41.968Z
+date: 2025-01-09T10:13:09.609Z
+updated: 2025-01-11T07:26:27.823Z
 tags:
   - cpu
 categories:
@@ -36,8 +36,9 @@ The launch of AMD’s highly anticipated[Ryzen 9000](https://www.tomshardware.co
  Intel won't have an answer for Ryzen 9000 until later this year with the chipmaker's next-generation Core Ultra 200 (codenamed Arrow Lake) processors. With the whole[Raptor Lake and Raptor Lake Refresh instability](https://www.tomshardware.com/pc-components/intel-raptor-lake-instability-troubles-everything-you-need-to-know) drama and Ryzen 9000's attractive MSRP, Intel will not easily compete with Zen 5.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -52,8 +53,6 @@ The launch of AMD’s highly anticipated[Ryzen 9000](https://www.tomshardware.co
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -61,4 +60,19 @@ The launch of AMD’s highly anticipated[Ryzen 9000](https://www.tomshardware.co
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-precision-audio-capturing-techniques-in-overwatch/"><u>[New] Precision Audio Capturing Techniques in Overwatch</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/op-picks-the-best-10-recorders-for-podcasting/"><u>[New] Top Picks The Best 10 Recorders for Podcasting</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-meme-marchers-the-path-to-viral-twitcinema/"><u>[Updated] Meme Marchers The Path to Viral TwitCinema</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asus-15-inch-laptop-at-unbeatable-walmart-price-only-250-with-comprehensive-connectivity-options-insider-report/"><u>Asus 15-Inch Laptop at Unbeatable Walmart Price: Only $250 with Comprehensive Connectivity Options - Insider Report</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/converting-oculus-rift-into-a-windows-vr-device/"><u>Converting Oculus Rift Into a Windows VR Device</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-laptop-with-dual-4k-displays-using-this-revolutionary-device-insights/"><u>Enhance Your Laptop with Dual 4K Displays Using This Revolutionary Device - Insights</u></a></li>
+<li><a href="https://article-helps.techidaily.com/essential-strategies-to-enhance-your-use-of-macs-preview-app/"><u>Essential Strategies to Enhance Your Use of Mac's Preview App</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y78t-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Vivo Y78t PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-samsung-galaxy-xcover-7-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Samsung Galaxy XCover 7 Device</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-security-keys-industry-experts-choices-reviewed/"><u>Top-Rated Security Keys : Industry Experts' Choices Reviewed</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-your-nwstoreexe-app-crashes-best-fixes/"><u>Troubleshooting Your nw_store.exe App Crashes - Best Fixes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-a-new-era-of-tech-how-the-advanced-intel-ai-chip-transforms-laptops-and-delivers-incredible-advantages/"><u>Unveiling a New Era of Tech: How the Advanced Intel AI Chip Transforms Laptops and Delivers Incredible Advantages</u></a></li>
+</ul></div>
 

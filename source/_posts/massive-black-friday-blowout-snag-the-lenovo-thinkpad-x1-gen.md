@@ -1,7 +1,7 @@
 ---
 title: "Massive Black Friday Blowout: Snag the Lenovo ThinkPad X1 Gen"
-date: 2025-01-01T16:07:33.423Z
-updated: 2025-01-04T16:57:01.072Z
+date: 2025-01-05T08:42:32.281Z
+updated: 2025-01-10T16:15:50.370Z
 tags:
   - laptops
 categories:
@@ -22,7 +22,7 @@ Lenovo has showed off its forthcoming ThinkPad X1 laptops that will feature Inte
 The tech giant has showcased the high-end, 14-inch display [ThinkPad X1 Carbon Gen 11](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fnews.lenovo.com%2Fpressroom%2Fpress-releases%2Fthinkpad-x1-thinkvision-lenovo-go-power-hybrid-working%2F) and ThinkPad X1 Yoga Gen 8, as well as the 13-inch display ThinkPad X1 Nano Gen 3\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Windows 11
@@ -88,20 +88,24 @@ Neither the 14-inch or 16-inch IdeaPad Pro 5 with AMD will be available in North
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-fb-hd-streaming-made-simple-instructions/"><u>[New] In 2024, FB HD Streaming Made Simple Instructions</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-youtube-premium-subscription-should-you-get-one/"><u>[New] In 2024, YouTube Premium Subscription - Should You Get One?</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-full-unveiling-of-picsart-complete-users-guide-for-2024/"><u>[Updated] Full Unveiling of PicsArt Complete User's Guide for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/2024s-leading-antivirus-programs-unveiled-comprehensive-analysis/"><u>2024'S Leading Antivirus Programs Unveiled | Comprehensive Analysis</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/3-unik-methoder-for-at-anlaegge-dig-under-en-video-denne-guideskrivelse/"><u>3 Unik Methoder For At Anlægge Dig Under En Video - Denne Guideskrivelse</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/experts-recommend-the-best-macbook-usb-c-charger-available-on-amazon-for-just-69-secure-yours-today/"><u>Experts Recommend the Best MacBook USB-C Charger Available on Amazon for Just $69 - Secure Yours Today!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/gear-up-for-academics-exclusive-deals-on-samsung-tech-for-students-save-big/"><u>Gear Up for Academics: Exclusive Deals on Samsung Tech for Students - Save Big!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/guideline-instant-download-de-la-logiciel-dvd-reader-gratuit-pour-votre-region/"><u>Guideline: Instant Download De La Logiciel Dvd Reader Gratuit Pour Votre Region</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-skyrocket-your-channel-mastery-of-youtube-data-analysis/"><u>In 2024, Skyrocket Your Channel Mastery of YouTube Data Analysis</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/lenovos-lightweight-laptop-unveiled-secret-features-including-a-concealed-trackpoint-revealed-tech-analysis/"><u>Lenovo's Lightweight Laptop Unveiled: Secret Features Including a Concealed TrackPoint Revealed | Tech Analysis</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/limited-time-deal-alert-for-cyber-monday-shoppers-snag-an-lg-gram-17-with-a-massive-400-markdown/"><u>Limited-Time Deal Alert for Cyber Monday Shoppers: Snag an LG Gram 17 with a Massive $400 Markdown !</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/sion-in-upload-a-deep-dive-into-youtube-video-size-settings-for-2024/"><u>Precision in Upload A Deep-Dive Into YouTube Video Size Settings for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-motorola-moto-g04-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Motorola Moto G04 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-oppo-reno-8t-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Oppo Reno 8T Device</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unmissable-deal-alert-get-an-8tb-fast-storage-with-amazons-samsung-t5-at-a-whopping-36-off-after-prime-day-spotted/"><u>Unmissable Deal Alert: Get an 8TB Fast Storage with Amazon's Samsung T5 at a Whopping 36% Off After Prime Day - Spotted</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2023s-finest-top-ps3-game-simulations-for-pc-users/"><u>[New] 2023'S Finest - Top PS3 Game Simulations for PC Users</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-the-pros-guide-to-uploading-twitter-videos-to-snapchat/"><u>[New] 2024 Approved The Pro's Guide to Uploading Twitter Videos to Snapchat</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-archive-aesthetics-merge-infinite-gratis-storage-with-elite-subscriptions/"><u>[New] Archive Aesthetics Merge Infinite, Gratis Storage with Elite Subscriptions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-action-seekers-dream-the-ultimate-review-of-sj-cam-s6/"><u>[Updated] Action Seeker's Dream The Ultimate Review of SJ-CAM S6</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-building-an-online-empire-through-effective-marketing/"><u>[Updated] Building an Online Empire Through Effective Marketing</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-unveiling-premium-displays-the-ultimate-guide-for-xbox-s-series-x/"><u>[Updated] Unveiling Premium Displays The Ultimate Guide for Xbox S Series X</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/boost-your-income-with-effective-vimeo-monetization-techniques/"><u>Boost Your Income with Effective Vimeo Monetization Techniques</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-hp-universal-printer-driver-for-windows-latest-version/"><u>Download the HP Universal Printer Driver for Windows - Latest Version</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-gaming-performance-on-windows-1110-secure-nvidias-new-game-ready-graphics-driver-now/"><u>Enhance Gaming Performance on Windows 11/10 - Secure Nvidia's New Game Ready Graphics Driver Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-tips-for-resolving-windows-10-bluetooth-compatibility-issues-fixed-and-explained/"><u>Expert Tips for Resolving Windows 10 Bluetooth Compatibility Issues: Fixed and Explained</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-seamlessly-download-and-install-updated-drivers-for-your-surface-book-2/"><u>How to Seamlessly Download and Install Updated Drivers for Your Surface Book 2</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-honor-80-pro-straight-screen-edition-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Honor 80 Pro Straight Screen Edition</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-acer-touchpad-support-software-compatible-with-windows-11-download-now/"><u>Latest Acer Touchpad Support Software Compatible with Windows 11 - Download Now</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-roadside-assistance-with-m-mock-1000as-powerhouse-a-detailed-review-of-an-exceptional-18k-mah-car-starter-kit/"><u>Mastering Roadside Assistance with M MOCK 1000A's Powerhouse: A Detailed Review of an Exceptional 18K mAh Car Starter Kit</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/overcoming-difficulties-solutions-when-your-samsung-blu-ray-wont-work/"><u>Overcoming Difficulties: Solutions When Your Samsung Blu-Ray Won't Work</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/overcoming-intel-driver-errors-mastering-the-art-of-installing-dptf-drivers-effortlessly/"><u>Overcoming Intel Driver Errors: Mastering the Art of Installing DPTF Drivers Effortlessly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-updating-your-lenovo-ideapad-cufflinks-100-drivers-in-windows-11/"><u>Step-by-Step Guide: Updating Your Lenovo IdeaPad Cufflinks 100 Drivers in Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/updated-epson-workforce-ds-30-driver-package-for-windows-11-and-earlier-versions/"><u>Updated Epson WorkForce DS 30 Driver Package for Windows 11 and Earlier Versions</u></a></li>
 </ul></div>
 

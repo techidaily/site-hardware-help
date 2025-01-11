@@ -1,7 +1,7 @@
 ---
 title: Experience Unparalleled Processing Speed with the Latest AmpereOne Aurora Processor, Equipped with Innovative HBM Memory and Advanced AI Engineering
-date: 2024-08-13T12:59:29.892Z
-updated: 2024-08-14T12:59:29.892Z
+date: 2025-01-06T09:01:09.116Z
+updated: 2025-01-10T16:26:25.760Z
 tags:
   - cpu
 categories:
@@ -28,8 +28,9 @@ With AI PC hype at a fever pitch, chip vendors Intel, AMD, and Qualcomm are enga
  The Cixin P1 is a very unique processor. While it does not fulfill Beijing's goals of being a fully home-grown processor because it uses Arm CPU and GPU designs, the chip is specifically designed for the needs of the Chinese market and stands ready to enjoy some level of success. It also sadly does not meet[Microsoft](https://www.tomshardware.com/tag/microsoft) 's arbitrary "AI PC" requirements. The P1's NPU on its own is only 30 TOPS — shy of the 40 TOPS target — though it's likely that Cixin could not care less about Windows Copilot+ certification.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -40,14 +41,11 @@ With AI PC hype at a fever pitch, chip vendors Intel, AMD, and Qualcomm are enga
 
  Cixin is a very young company, first established in 2021, that has been growing thanks to investments from 15-20 public and private investment partners listed on its website. This freshness to the Chinese tech scene may limit widespread adoption early on, so we'll have to wait and see if Cixin manages to succeed in the huge, hungry tech market seeking[separation from U.S. interference](https://www.tomshardware.com/tech-industry/manufacturing/china-commerce-minister-frustrated-by-us-interfering-in-international-lithography-exports-via-third-countries) .
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -56,4 +54,19 @@ With AI PC hype at a fever pitch, chip vendors Intel, AMD, and Qualcomm are enga
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-capitalize-on-youtube-shorts-must-knows-earning-prospects-for-2024/"><u>[New] How to Capitalize on Youtube Shorts Must-Knows, Earning Prospects for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-cutting-edge-techniques-for-setting-the-optimal-size-of-your-youtube-videos/"><u>[New] In 2024, Cutting-Edge Techniques for Setting the Optimal Size of Your YouTube Videos</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-direct-pathway-iphone-media-to-pc-transfer/"><u>2024 Approved Direct Pathway IPhone Media to PC Transfer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-elite-list-of-2024s-top-notch-15-inch-computers-comprehensive-analysis-and-rankings-from-professionals/"><u>Discover the Elite List of 2024'S Top Notch 15-Inch Computers - Comprehensive Analysis and Rankings From Professionals</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-the-extraordinary-with-dells-premium-3k-gaming-rig-a-revolutionary-review/"><u>Experience the Extraordinary with Dell's Premium $3K Gaming Rig - A Revolutionary Review</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-enrich-video-narrative-with-slow-motion-on-iphone/"><u>In 2024, Enrich Video Narrative with Slow Motion on iPhone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-samsung-galaxy-a25-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Samsung Galaxy A25 5G Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/last-call-top-game-discounts-on-best-prime-day-in-oct-24-up-to-1k-savings-await/"><u>Last Call: Top Game Discounts on Best Prime Day in Oct '24 - Up To $1K Savings Await!</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-controller-non-detecting-woes-in-windows/"><u>Overcoming Controller Non-Detecting Woes in Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamlessly-integrate-into-ai-community-via-quoras-guide/"><u>Seamlessly Integrate Into AI Community via Quora's Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/testing-the-extremes-with-lenovos-thinkpad-x1-fold-the-ultimate-mashup-of-eccentricity-and-opulence-in-computing/"><u>Testing the Extremes with Lenovo's ThinkPad X1 Fold – The Ultimate Mashup of Eccentricity and Opulence in Computing</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-buyers-guide-to-the-leading-gaming-gpus-of-2023-zdnet/"><u>Ultimate Buyer's Guide to the Leading Gaming GPUs of 2023 - ZDNet</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Beating the MacBook Air: Microsoft Surface Laptop Copilot+ Excelling in Performance, Features & More | ZDNet Review"
-date: 2025-01-03T17:30:54.842Z
-updated: 2025-01-04T17:33:31.674Z
+date: 2025-01-05T20:35:24.816Z
+updated: 2025-01-10T19:19:55.056Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -109,7 +109,7 @@ Gaming is not fully supported by Windows on ARM yet, either. Many titles don't w
 This gets to the meat of the issue here. Yes, the CPU is fast and efficient, and the NPU on these processors runs AI-related tasks better than anything else on the market, but the chips are held back by Windows' functionality (at least for now), and this tension between the two will be at the root cause of a lot of issues until the growing pains subside.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -148,20 +148,19 @@ If you're looking for a Copilot+ PC with a better display, you might want to che
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-expert-tips-crafting-compelling-facebook-ad-videos/"><u>[New] Expert Tips Crafting Compelling Facebook Ad Videos</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-perfect-photos-ranking-the-top-11-bridge-cameras/"><u>[Updated] 2024 Approved Perfect Photos Ranking the Top 11 Bridge Cameras</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-next-gen-gameplay-logging-alternatives-to-fbx/"><u>[Updated] In 2024, Next-Gen Gameplay Logging Alternatives to FBX</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-launch-sequence-the-right-moment-for-podcasts/"><u>[Updated] Launch Sequence The Right Moment for Podcasts</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/mac-6/"><u>解決 Mac 不能复制文件到外置硬盘的问题: 6个快速修复方法</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/aoc-monitor-drivers-installation-guide-for-the-latest-windows-operating-systems-11-10-and-8/"><u>AOC Monitor Drivers Installation Guide for the Latest Windows Operating Systems: 11, 10, and 8</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-document-analysis-the-ultimate-list-of-6-conversational-ai-applications/"><u>Enhancing Document Analysis: The Ultimate List of 6 Conversational AI Applications</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/environmental-impact-and-potential-damage-from-the-extinguishing-agent-should-be-considered-when-selecting-a-fire-suppression-system/"><u>Environmental Impact and Potential Damage From the Extinguishing Agent Should Be Considered when Selecting a Fire Suppression System.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/essential-update-tips-for-optimal-performance-of-dells-233amoons-laser-printer-latest-drivers-unlocked/"><u>Essential Update Tips for Optimal Performance of Dell's 233Amoons Laser Printer - Latest Drivers Unlocked!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/experience-ultimate-protection-with-nomad-case-for-apple-iphone-12-featuring-magsafe-compatibility-superior-drop-shielding-stylish-design-and-premium-qualit186/"><u>Experience Ultimate Protection with Nomad Case for Apple iPhone 12: Featuring MagSafe Compatibility, Superior Drop Shielding, Stylish Design & Premium Quality - Reviewed by TechSavvyZnet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/fixing-the-notorious-graphics-driver-glitches-expert-tips-and-tricks/"><u>Fixing the Notorious Graphics Driver Glitches – Expert Tips & Tricks</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/insiders-guide-to-superior-apps-for-vocal-transformation/"><u>Insider's Guide to Superior Apps for Vocal Transformation</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/secure-and-swift-installation-validity-fingerprint-sensor-driver-download-ready-for-you/"><u>Secure and Swift Installation: Validity Fingerprint Sensor Driver Download Ready for You</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-instructions-to-get-your-sound-blaster-z-drivers-for-a-smooth-windows-10-experience/"><u>Step-by-Step Instructions to Get Your Sound Blaster Z Drivers for a Smooth Windows 10 Experience</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-electronic-secrets-with-toms-hardware-analysis/"><u>Unveiling Electronic Secrets with Tom's Hardware Analysis</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-advanced-color-grading-with-luts-in-premiere-pro/"><u>[Updated] Advanced Color Grading with LUTs in Premiere Pro</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-ensuring-total-sound-from-partially-muted-fb-media-for-2024/"><u>[Updated] Ensuring Total Sound From Partially Muted FB Media for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>3 Ways to Change Location on Facebook Marketplace for Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-radeon-rx-xt-drivers-download-guide-for-windows-11-windows-10-windows-8-and-windows-7-users/"><u>AMD Radeon RX 지오세티 XT Drivers: Download Guide for Windows 11, Windows 10, Windows 8 & Windows 7 Users</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/boost-your-computers-efficiency-post-hardware-enhancements-expert-advice-from-yl-computing/"><u>Boost Your Computer's Efficiency Post-Hardware Enhancements: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixed-troubleshooting-and-repairing-unsuccessful-writes-to-referenced-0x-memory-locations/"><u>Fixed: Troubleshooting and Repairing Unsuccessful Writes to Referenced 0X Memory Locations</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-obtain-and-update-hp-laserjet-1320-drivers-on-a-windows-machine/"><u>How to Obtain & Update HP LaserJet 1320 Drivers on a Windows Machine</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-infinix-smart-8-pro-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Infinix Smart 8 Pro? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-driver-updates-for-brother-mfc-j480dw-compatible-with-windows-systems/"><u>Latest Driver Updates for Brother MFC-J480DW - Compatible with Windows Systems</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/make-your-device-sing-a-step-by-step-guide-to-personalized-ringtone-setup-on-android/"><u>Make Your Device Sing A Step-by-Step Guide to Personalized Ringtone Setup on Android</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-skype-key-strategies-when-facing-connection-problems/"><u>Mastering Skype: Key Strategies When Facing Connection Problems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/realtek-pc-card-reader-driver-free-download-for-seamless-integration-on-windows-11/"><u>RealTek PC Card Reader Driver [Free Download] for Seamless Integration on Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-solving-compatibility-problems-with-realtek-hd-graphics-drivers/"><u>Ultimate Guide to Solving Compatibility Problems with Realtek HD Graphics Drivers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unleash-power-with-the-dazzling-flash-of-430ex-iii-rt-review/"><u>Unleash Power with the Dazzling Flash of 430EX III-RT Review</u></a></li>
 </ul></div>
 

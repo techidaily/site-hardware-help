@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Game-Changer: Lenovo’s Dual-Screen Laptop Enhances Work Efficiency, According to ZDNet"
-date: 2024-12-28T16:58:23.190Z
-updated: 2025-01-04T16:52:18.900Z
+date: 2025-01-03T23:16:10.947Z
+updated: 2025-01-11T06:51:51.751Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kerry Wan/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -44,6 +44,10 @@ A laptop with two screens is perhaps one of the tamest designs it has come up wi
 
 It's given me a chance to revisit the idea of having two screens on my laptop, and once again, it's tempting me to switch away from my boring-in-comparison MacBook Pro.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specifications (as reviewed)
 
 | Dimensions            | 11.78 x 8.03 x 0.63 inches                                                                                                                                                                                                                                                                            |
@@ -57,10 +61,6 @@ It's given me a chance to revisit the idea of having two screens on my laptop, a
 | Price                 | Starting at [$1,980](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-12-Core-i7-1360P-Fingerprint-Thunderbolt4%2Fdp%2FB0CR9S1KFL%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7720f040-ecee-4f18-b2a4-d4eddb365f24%7Cdtp&dtb=1) |
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Living with a dual-screen laptop
 
@@ -81,10 +81,6 @@ Max Buondonno/ZDNET
 There's a lot that the dual-screen design of the Yoga Book 9i enables, and the versatility of it all is simply unmatched by more [conventional laptops](https://www.zdnet.com/article/best-laptop/). It's like a blank canvas made of OLED screens -- you can literally do whatever you want with them, orient them the way you want, and it can all be packed up and taken on the go.
 
 Switching back to my single-screen MacBook Pro was, to put it lightly, tough. I missed having all the extra screen real estate and the ability to have two full documents open side-by-side while writing. I felt limited in a way that I wasn't expecting, which says a lot about how effective Lenovo's dual-screen design is.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How does it perform?
 
@@ -107,7 +103,7 @@ To power the Yoga Book 9i, Lenovo includes an 80W battery that's rated for about
 Charging the laptop is as straightforward as it comes. There's a Rapid Charge adapter in the box that gives you about two hours of runtime with just 15 minutes of charging. I found this mostly to be true, although you have to shut the lid if you want charging speeds to really pick up.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Evaluating Lenovo's dual-screen software
@@ -130,6 +126,10 @@ It's weird; I've had apps like Chrome and Spotify show up on the lower display w
 
 I'll give Lenovo credit, the new Yoga Book 9i feels smoother than the old one did. I don't notice as much scruff or weird glitches with the software, and the bundled Bluetooth keyboard doesn't produce nearly as many double-key entries as before. Still, it's not a perfect experience, which is something to keep in mind if you're going to spend $2,000 on a laptop.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## One thing to keep in mind
 
 Having a laptop with two screens means you'll have to lug around a separate keyboard, mouse, and kickstand, all three of which (plus a stylus) come in the box. It's a lot of separate things you have to remember to bring, and I'm going to be honest with you, it can be inconvenient.
@@ -141,7 +141,7 @@ When I'm working on my MacBook or -- quite frankly -- any other laptop in my ars
 Of course, you'll eventually get used to it, but it'll never be as convenient as shutting your laptop lid and moving on with your day.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -182,16 +182,17 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-craft-your-first-short-film-with-windows-8-movie-maker-for-2024/"><u>[New] Craft Your First Short Film with Windows 8 Movie Maker for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/cutting-edge-tools-for-efficient-twitch-vod-extraction/"><u>Cutting-Edge Tools for Efficient Twitch VOD Extraction</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/deepcool-assassin-4s-cooler-evaluation-silent-and-powerful-performance/"><u>DeepCool Assassin 4S Cooler Evaluation: Silent and Powerful Performance</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-latest-asus-xonar-dgx-audio-driver-step-by-step-guide/"><u>Download the Latest ASUS Xonar DGX Audio Driver: Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-ways-to-update-your-ati-radeon-video-drivers-in-microsoft-windows-os/"><u>Easy Ways to Update Your ATI Radeon Video Drivers in Microsoft Windows OS</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-apple-iphone-14-plus-by-drfone-ios/"><u>How To Change Your Apple ID Password On your Apple iPhone 14 Plus</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-upgrade-your-amd-video-driver-for-enhanced-cryptocurrency-mining-in-windows/"><u>How to Upgrade Your AMD Video Driver for Enhanced Cryptocurrency Mining in Windows</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/macbook-showdown-deciding-on-the-ideal-apple-machine-for-you-pro-or-air-insider-tips-from-zdnets-latest-review/"><u>MacBook Showdown: Deciding on the Ideal Apple Machine for You - Pro or Air? Insider Tips From ZDNET's Latest Review</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/speed-up-your-pc-quick-asus-z370-e-driver-setup-tutorials-and-downloads/"><u>Speed Up Your PC: Quick Asus Z370-E Driver Setup Tutorials & Downloads</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-and-resolving-windows-code-28-issues-a-step-by-step-guide/"><u>Troubleshooting and Resolving Windows Code 28 Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/why-mobile-banking-is-essential-insights-from-an-abbyy-perspective/"><u>Why Mobile Banking Is Essential: Insights From an ABBYY Perspective</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-balanced-photography-top-phones-and-cameras-tripod-for-2024/"><u>[Updated] Balanced Photography Top Phones & Cameras Tripod for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-prime-cameras-for-extreme-pursuits/"><u>[Updated] Prime Cameras for Extreme Pursuits</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-filter-frontier-your-ultimate-resource-for-creative-snaps-for-2024/"><u>[Updated] The Filter Frontier Your Ultimate Resource for Creative Snaps for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-amd-rx-480-driver-version-instantly/"><u>Get the Latest AMD RX 480 Driver Version Instantly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-acer-trackpad-drivers-for-windows-10-users-download-now/"><u>Get the Newest Acer TrackPad Drivers for Windows 10 Users – Download Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hassle-free-driver-update-for-brother-mfc-7360n-on-windows-10-8-and-7-download-now/"><u>Hassle-Free Driver Update for Brother MFC-7360N on Windows 10, 8 & 7 - Download Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-your-nvidia-3d-vision-drivers-updated-for-free-on-windows-pcs/"><u>How to Get Your Nvidia 3D Vision Drivers Updated for Free on Windows PCs</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-find-n3-flip-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Oppo Find N3 Flip Location by Number | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-definitive-list-high-quality-costless-lut-options-explored/"><u>In 2024, The Definitive List High-Quality, Costless LUT Options Explored</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-guide-updating-your-windows-system-with-new-ricoh-printer-drivers/"><u>Latest Guide: Updating Your Windows System with New Ricoh Printer Drivers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-realme-c53-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Realme C53 and Browser | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/zero-price-techniques-for-online-educational-recordings/"><u>Zero Price Techniques for Online Educational Recordings</u></a></li>
 </ul></div>
 

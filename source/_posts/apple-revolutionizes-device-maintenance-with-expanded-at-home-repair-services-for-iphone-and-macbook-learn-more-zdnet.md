@@ -1,7 +1,7 @@
 ---
 title: Apple Revolutionizes Device Maintenance with Expanded At-Home Repair Services for iPhone & MacBook - Learn More | ZDNET
-date: 2025-01-03T16:24:41.720Z
-updated: 2025-01-04T16:36:23.465Z
+date: 2025-01-09T10:10:42.450Z
+updated: 2025-01-11T04:02:23.171Z
 tags:
   - laptops
 categories:
@@ -41,7 +41,7 @@ However, the new slimline design also came with a chunky price increase of $200/
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Price & options
@@ -53,7 +53,7 @@ The [new 2022 model](https://www.apple.com/shop/buy-mac/macbook-air/with-m2-chip
 Storage upgrades are equally expensive, costing an additional $200/£200 for 1TB, or $600/£600 for 2TB. There's one other option available too, as the standard 30W power adapter can be upgraded to a fast-charging 67W unit, or to a 35W adapter with two USB-C ports, with both options costing $20/£30\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Design & features
@@ -73,7 +73,7 @@ The magnetic MagSafe power connector has returned to the MacBook Air, alongside 
 Image: Cliff Joseph / ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Performance & battery life
@@ -89,7 +89,7 @@ You are paying for that extra performance, of course, so the M1 version of the M
 [Apple MacBook Air (M2, 2022) View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2Fwith-m2-chip&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusions
@@ -132,7 +132,7 @@ Image: Apple
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -176,22 +176,18 @@ Image: Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-step-by-step-guide-to-instagram-live-communication/"><u>[New] 2024 Approved Step-by-Step Guide to Instagram Live Communication</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-the-ultimate-guide-to-sourcing-premium-background-images-for-2024/"><u>[Updated] The Ultimate Guide to Sourcing Premium Background Images for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-exclusive-ringtone-deals-from-gots-best-online-sources/"><u>2024 Approved Exclusive Ringtone Deals From GoT's Best Online Sources</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/affordable-chip-solutions-the-ultimate-price-index-guide-to-pc-processors/"><u>Affordable Chip Solutions: The Ultimate Price Index Guide to PC Processors</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/demystifying-token-constraints-in-chatgpt-and-strategies-for-surpassing-it/"><u>Demystifying Token Constraints in ChatGPT and Strategies for Surpassing It</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-cutting-edge-technology-through-tomn-hardware-lens/"><u>Discover Cutting-Edge Technology Through Tom'n Hardware Lens</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-logitech-rx250-drivers-now-supports-windows-7-to-10/"><u>Download Logitech RX250 Drivers Now - Supports Windows 7 to 10</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-latest-creative-sound-blaster-recon3d-drivers-step-by-step-guide/"><u>Download the Latest Creative Sound Blaster Recon3D Drivers: Step-by-Step Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-concept-to-reality-top-7-gadgets-for-metaverse-success-for-2024/"><u>From Concept to Reality Top 7 Gadgets for Metaverse Success for 2024</u></a></li>
-<li><a href="https://win-hot.techidaily.com/get-ready-microsoft-announces-paid-windows-10-update-model-starting-next-year-estimated-cost-breakdown/"><u>Get Ready: Microsoft Announces Paid Windows 10 Update Model Starting Next Year - Estimated Cost Breakdown</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-much-for-ryzen-5-9600x-on-amazonca-unpacking-the-472-cad-steep-price-tag/"><u>How Much for Ryzen 5 9600X on Amazon.ca? Unpacking the $472 CAD Steep Price Tag</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Realme Narzo 60 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-get-and-install-the-newest-webcam-drivers-for-creative-devices-on-pcs/"><u>How to Get and Install the Newest Webcam Drivers for Creative Devices on PCs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-the-most-recent-amd-radeon-pro-w57/"><u>Install the Most Recent AMD Radeon Pro W57지도릴리우제이프니터 업데이트가 가능한 웹스토어</u></a></li>
-<li><a href="https://extra-information.techidaily.com/play-every-game-at-home-nba-streaming-made-simple-top-15/"><u>Play Every Game at Home NBA Streaming Made Simple (Top 15)</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-a-detailed-walkthrough-of-internet-radio-logging/"><u>The Ultimate Guide A Detailed Walkthrough of Internet Radio Logging</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-the-latest-in-technology-toms-hardware-wisdom/"><u>Unveiling the Latest in Technology: Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-blades-new-vision-in-ultra-high-definition-clarity/"><u>2024 Approved Blade's New Vision in Ultra-High Definition Clarity</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-decelerating-music-dynamics-step-by-step-guide-in-premiere-pro/"><u>2024 Approved Decelerating Music Dynamics Step-by-Step Guide in Premiere Pro</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/access-high-quality-printing-with-canons-imageclass-mf4800-free-driver-downloads-now/"><u>Access High-Quality Printing with Canon's ImageCLASS MF4800: Free Driver Downloads Now!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-iphone-8-plus-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From iPhone 8 Plus</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/cially-flourishing-online-media-personality/"><u>Financially Flourishing Online Media Personality</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-access-to-asus-atk011ebios-and-acpi-driver-pack-secure-your-system-today/"><u>FREE Access to Asus ATK011ebios and ACPI Driver Pack - Secure Your System Today!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-pagewide-pro-477dw-driver-update-for-windows-11108-free-download-links/"><u>HP PageWide Pro 477DW Driver Update for Windows 11/10/8 - Free Download Links</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-on-your-apple-iphone-11-pro-max-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled On your Apple iPhone 11 Pro Max? How to Fix</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-updates-for-your-bluetooth-adapter-newest-generic-drivers-for-windows-computers-free/"><u>Install Updates for Your Bluetooth Adapter - Newest Generic Drivers for Windows Computers (Free)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/logitech-k350-pairing-software-free-installation-files-for-seamless-setup/"><u>Logitech K350 Pairing Software – Free Installation Files for Seamless Setup</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/master-your-display-settings-adjust-brightness-and-contrast-via-the-windows-control-panel-with-yl-computing-tips/"><u>Master Your Display Settings: Adjust Brightness & Contrast via the Windows Control Panel with YL Computing Tips</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/online-wac-naar-wav-vervanger-voor-keerlos-gratis-konvertiezer-met-movavi-softwares/"><u>Online WAC Naar WAV Vervanger - Voor Keerlos Gratis Konvertiezer Met Movavi Softwares</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-process-to-refresh-webcam-software-in-windows-11/"><u>Step-by-Step Process to Refresh Webcam Software in Windows 11</u></a></li>
 </ul></div>
 
